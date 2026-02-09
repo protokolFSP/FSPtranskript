@@ -1,0 +1,1907 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hallo, guten Tag.
+
+2
+00:00:02,000 --> 00:00:10,000
+Ich bin auf dieser Station als Assistenzarzt tätig und würde gerne mit Ihnen das Aufnahmegespräch führen.
+
+3
+00:00:10,000 --> 00:00:16,000
+Bevor wir genau über Ihre Beschwerden sprechen, bräuchte ich ein paar persönliche Daten.
+
+4
+00:00:16,000 --> 00:00:18,000
+Wie heißen Sie denn?
+
+5
+00:00:18,000 --> 00:00:22,000
+Mein Name ist Gabriele Dizel.
+
+6
+00:00:22,000 --> 00:00:32,000
+Gabriele Dizel, könnte Sie bitte Ihre Vor- und Nachnamen langsam büchstabieren?
+
+7
+00:00:32,000 --> 00:00:34,000
+Aber natürlich.
+
+8
+00:00:34,000 --> 00:00:44,000
+Gabriele Gustav Anton Bertha, Richard Nieder, Imin Ludwig Imin.
+
+9
+00:00:44,000 --> 00:00:50,000
+Gabriele Ludwig Imin, Gabriele ist der Vorname.
+
+10
+00:00:50,000 --> 00:01:01,760
+Dizel, Dora Ida Imin, Sivitiodra, Zizepilin Imin, Elbe Ludwig, Dizel.
+
+11
+00:01:01,760 --> 00:01:07,760
+Frau Dizel, darf ich fragen, wie alt Sie sind?
+
+12
+00:01:07,760 --> 00:01:09,760
+Ich bin 64 Jahre alt.
+
+13
+00:01:09,760 --> 00:01:11,760
+64?
+
+14
+00:01:11,760 --> 00:01:13,760
+Und wie groß sind Sie?
+
+15
+00:01:13,760 --> 00:01:17,760
+Ich bin 1,68 m.
+
+16
+00:01:17,760 --> 00:01:21,760
+Okay, und wissen Sie zurzeit, wie viel Sie wiegen?
+
+17
+00:01:21,760 --> 00:01:25,760
+Ja, das sind ungefähr 72 kg.
+
+18
+00:01:25,760 --> 00:01:27,760
+72 kg.
+
+19
+00:01:27,760 --> 00:01:33,760
+Okay, Frau Dizel, wie heißt Ihr Hausarzt?
+
+20
+00:01:33,760 --> 00:01:37,760
+Das ist die Frau Müller in der Bahnhofstraße.
+
+21
+00:01:37,760 --> 00:01:41,760
+Okay, und haben Sie Angehörige, die wir benachrichtigen sollten?
+
+22
+00:01:41,760 --> 00:01:45,760
+Ich habe angerufen, aber benachrichtigen brauchen Sie jetzt nicht.
+
+23
+00:01:45,760 --> 00:01:53,760
+Okay, und also, was wird Sie zu uns, Frau Dizel, was für Beschwerden haben Sie?
+
+24
+00:01:53,760 --> 00:01:57,760
+Also, mein Hausarzt hat mich nochmal hergeschickt.
+
+25
+00:01:57,760 --> 00:02:05,760
+Und ich habe immer wieder Oberbauchschmerzen ziehen oder hier hinter dem Brustbei.
+
+26
+00:02:05,760 --> 00:02:07,760
+Und er wusste nicht, was es genau ist.
+
+27
+00:02:07,760 --> 00:02:09,760
+Deswegen habe ich jetzt sie hergewiesen.
+
+28
+00:02:09,760 --> 00:02:17,760
+Brustbein, Oberbauchschmerzen mit Oberbauch.
+
+29
+00:02:17,760 --> 00:02:21,760
+Und hinter dem Brustbei?
+
+30
+00:02:21,760 --> 00:02:23,760
+Manchmal, manchmal.
+
+31
+00:02:23,760 --> 00:02:31,760
+Und könnten Sie die Beschwerden oder die Schmerzen genau beschreiben?
+
+32
+00:02:31,760 --> 00:02:35,760
+Sind Sie erdukend, brennend?
+
+33
+00:02:35,760 --> 00:02:37,760
+Das ist immer sehr unterschiedlich.
+
+34
+00:02:37,760 --> 00:02:41,760
+Es kommt nicht immer, aber manchmal kommt es sehr oft.
+
+35
+00:02:41,760 --> 00:02:45,760
+Manchmal, alle paar Tage, manchmal auch alle ein paar Wochen.
+
+36
+00:02:45,760 --> 00:02:49,760
+Aber wenn die Schmerzen kommen, dann kommt es relativ schnell.
+
+37
+00:02:49,760 --> 00:02:51,760
+Es ist meistens so in den Magen gegend.
+
+38
+00:02:51,760 --> 00:02:55,760
+Es wird so eng, es zieht sich schnürzig alles zusammen.
+
+39
+00:02:55,760 --> 00:03:01,760
+Und ich habe das Gefühl, dass ich auch ein bisschen schlecht Luft bekomme.
+
+40
+00:03:01,760 --> 00:03:05,760
+Manchmal habe ich das Gefühl, dass es eher so ein bisschen Druck auf dem Brust ist.
+
+41
+00:03:05,760 --> 00:03:11,760
+Aber es geht ganz schnell wieder vorbei.
+
+42
+00:03:11,760 --> 00:03:15,760
+Okay. Seit wann haben Sie diese Beschwerden?
+
+43
+00:03:15,760 --> 00:03:17,760
+Über einem halben Jahr.
+
+44
+00:03:17,760 --> 00:03:23,810
+Über einem halben Jahr.
+
+45
+00:03:23,810 --> 00:03:25,810
+Also sechs Monate.
+
+46
+00:03:25,810 --> 00:03:37,810
+Und gibt es bestimmte Auslöser, wie z.B. Bewegung, Belastung, sind die Beschwerden schlimmer?
+
+47
+00:03:37,810 --> 00:03:41,810
+Wenn ich jetzt nicht sage, dass ich manchmal das Gefühl, dass es manchmal nach dem Essen so ist.
+
+48
+00:03:41,810 --> 00:03:47,810
+Manchmal habe ich das Gefühl, dass es einfach spontan kommt.
+
+49
+00:03:47,810 --> 00:03:49,810
+Spontan?
+
+50
+00:03:49,810 --> 00:03:53,810
+Und beim Ruhe auf, in Ruhe auf, schüpfen Sie diese Schmerzen?
+
+51
+00:03:53,810 --> 00:04:01,810
+Immer, manchmal, aber es gibt mehr in der Belastung, wenn ich etwas esse.
+
+52
+00:04:01,810 --> 00:04:07,810
+Bei Belastung haben Sie bemerkt, ob die Schmerzen verschlimmert sind?
+
+53
+00:04:07,810 --> 00:04:15,380
+Ein bisschen vielleicht, eigentlich.
+
+54
+00:04:15,380 --> 00:04:21,380
+Außer hat es schon mehrfach ein EKG gemacht, der hat langsam ein EKG gemacht.
+
+55
+00:04:21,380 --> 00:04:23,380
+Das war bisher immer unaufgängig.
+
+56
+00:04:23,380 --> 00:04:31,380
+Ich dachte, das hat nicht vom Herzen, aber da meinte ich, da ist bisher alles in Ordnung.
+
+57
+00:04:31,380 --> 00:04:35,380
+EKG war unauffällig.
+
+58
+00:04:35,380 --> 00:04:39,380
+Haben Sie auch Belastung, EKG, gehabt?
+
+59
+00:04:39,380 --> 00:04:43,380
+Ja, das war auch unauffällig.
+
+60
+00:04:43,380 --> 00:04:51,380
+Können Sie beim Schlafen flachlegen?
+
+61
+00:04:51,380 --> 00:04:55,380
+Ja, da habe ich keine Probleme.
+
+62
+00:04:55,380 --> 00:05:02,990
+Strahlen die Schmerzen in andere Körperregionen aus?
+
+63
+00:05:02,990 --> 00:05:09,230
+Nein, nein.
+
+64
+00:05:09,230 --> 00:05:21,230
+Wenn die Schmerzen kommen, wie stark sind die Schmerzen auf einer Schmerzskala von 0 bis 10?
+
+65
+00:05:21,230 --> 00:05:29,230
+Das ist immer sehr unterschiedlich. Meistens ist es eher ein bisschen mild, aber ich würde sagen 3 bis 4.
+
+66
+00:05:29,230 --> 00:05:33,230
+Manchmal sind sie auch etwas stärker, 5 bis 6 vielleicht.
+
+67
+00:05:33,230 --> 00:05:39,230
+Dafür nehmen Sie etwas als Schmerzmittel?
+
+68
+00:05:39,230 --> 00:05:45,230
+Ich mag keine Medikamente, ich nehme nicht so gerne Tapioca.
+
+69
+00:05:45,230 --> 00:05:51,230
+Haben Sie Sortbrennen, Astossen?
+
+70
+00:05:51,230 --> 00:05:59,540
+Ja, und nach Fettigemessen verschlimmeln Sie die Schmerzen?
+
+71
+00:05:59,540 --> 00:06:05,540
+Ein bisschen, nicht nur nach Fettigemessen, sondern allgemein nach dem Essen.
+
+72
+00:06:05,540 --> 00:06:11,330
+Okay.
+
+73
+00:06:11,330 --> 00:06:15,330
+Haben Sie Husten?
+
+74
+00:06:15,330 --> 00:06:19,310
+Nein.
+
+75
+00:06:19,310 --> 00:06:30,720
+Gleichzeitig haben Sie beim Ben-Diese-Beschwerden auftreten, haben Sie auch Herzklopfen, Herzrasen?
+
+76
+00:06:30,720 --> 00:06:32,720
+Nein, an sich nicht.
+
+77
+00:06:32,720 --> 00:06:40,720
+Haben Sie immer ein Gefühl im Brust oder manchmal?
+
+78
+00:06:40,720 --> 00:06:48,720
+Es ist mehr im Oberbau, aber manchmal denke ich auch, dass es hinter dem Brustbereich ist.
+
+79
+00:06:48,720 --> 00:06:56,720
+Im Laufe der Zeit haben die Schmerzen verlagert, also gewandert?
+
+80
+00:06:56,720 --> 00:06:58,720
+Nein, es ist eigentlich immer gleichgewöhnlich.
+
+81
+00:06:58,720 --> 00:07:00,720
+Ja, immer Oberbau.
+
+82
+00:07:00,720 --> 00:07:02,720
+Okay.
+
+83
+00:07:02,720 --> 00:07:18,000
+Haben Sie bemerkt, ob es Hautverbung, also geldlich manchmal, oder Ihre Augen?
+
+84
+00:07:18,000 --> 00:07:20,000
+Hab ich so, Sie meinen so etwas wie eine Gelbsucht?
+
+85
+00:07:20,000 --> 00:07:22,000
+Nein, Gelbsucht.
+
+86
+00:07:22,000 --> 00:07:24,000
+Das ist mir nicht aufgefallen.
+
+87
+00:07:24,000 --> 00:07:29,970
+Okay.
+
+88
+00:07:29,970 --> 00:07:35,970
+Haben Sie in letzter Zeit Fieber bemerkt?
+
+89
+00:07:35,970 --> 00:07:37,970
+Fieber?
+
+90
+00:07:37,970 --> 00:07:39,970
+Nein.
+
+91
+00:07:39,970 --> 00:07:41,970
+Ich habe sie nie gehabt.
+
+92
+00:07:41,970 --> 00:07:47,970
+Haben Sie Nachtschweißausbrüche in letzter Zeit?
+
+93
+00:07:47,970 --> 00:07:49,970
+Nein, auch nicht.
+
+94
+00:07:49,970 --> 00:07:55,380
+Wie ist Ihr Appetit, Frau Ditzel?
+
+95
+00:07:55,380 --> 00:07:59,380
+Also das ist eigentlich ganz gut, aber ich habe kein Problem, weil es sich ganz normal ist.
+
+96
+00:07:59,380 --> 00:08:01,380
+Okay.
+
+97
+00:08:01,380 --> 00:08:03,380
+Haben Sie in letzter Zeit Gewicht abgenommen?
+
+98
+00:08:03,380 --> 00:08:09,380
+Nein, ich würde gerne ein bisschen abnehmen wollen, aber nein.
+
+99
+00:08:09,380 --> 00:08:14,850
+Wie ist Ihr Stuhlgang?
+
+100
+00:08:14,850 --> 00:08:18,850
+Ich würde sagen, das ist normal, aber ich habe nichts Aufregendes gemerkt.
+
+101
+00:08:18,850 --> 00:08:22,850
+Sie haben kein Diöre oder Durchfall, meine ich?
+
+102
+00:08:22,850 --> 00:08:24,850
+Ach so, nein.
+
+103
+00:08:24,850 --> 00:08:28,850
+Und sieht Stuhl ganz normal aus, oder?
+
+104
+00:08:28,850 --> 00:08:36,850
+Ja, da habe ich nichts zu verändern oder etwas zu verändern.
+
+105
+00:08:36,850 --> 00:08:40,290
+Haben Sie Belehmungen?
+
+106
+00:08:40,290 --> 00:08:42,290
+Nein, aber eigentlich nicht.
+
+107
+00:08:42,290 --> 00:08:44,290
+Okay.
+
+108
+00:08:44,290 --> 00:08:48,290
+Und haben Sie Probleme mit Wasserlassen?
+
+109
+00:08:48,290 --> 00:08:54,290
+Nein, ich muss manchmal öfters auf die Toilette, aber nein.
+
+110
+00:08:54,290 --> 00:08:58,290
+Manchmal müssen Sie oft auf die Toilette, warum?
+
+111
+00:08:58,290 --> 00:09:02,290
+Ja, man ist ja schon nicht mehr die jüngste Frau, ein bisschen älter.
+
+112
+00:09:02,290 --> 00:09:06,290
+Und drückt die Blase manchmal.
+
+113
+00:09:06,290 --> 00:09:10,290
+Wenn ich manchmal hauste, dann geht auch ein bisschen Urin ab.
+
+114
+00:09:10,290 --> 00:09:12,290
+Okay.
+
+115
+00:09:12,290 --> 00:09:20,290
+Frau Ditzel, besuchen Sie Ihr Frauenarzt regelmäßig?
+
+116
+00:09:20,290 --> 00:09:24,290
+Ja, ich war jetzt die letzten zwei Jahre nicht mehr ein Frauenarzt,
+
+117
+00:09:24,290 --> 00:09:28,290
+aber davor war ich auch eine Frau.
+
+118
+00:09:28,290 --> 00:09:32,290
+Letzte Besucht war vor zwei Jahren, ja?
+
+119
+00:09:32,290 --> 00:09:34,290
+Ja.
+
+120
+00:09:34,290 --> 00:09:40,290
+Und wann war die letzte Periode?
+
+121
+00:09:40,290 --> 00:09:48,290
+Oh, ich bin jetzt 64, das ist mir auch schon fast 15 Jahre her.
+
+122
+00:09:48,290 --> 00:09:56,290
+15, also ungefähr 49, 50, da machen wir.
+
+123
+00:09:56,290 --> 00:09:58,290
+Ja, ungefähr, ja, das war so Ende 40.
+
+124
+00:09:58,290 --> 00:10:01,980
+Okay.
+
+125
+00:10:01,980 --> 00:10:07,980
+Nun möchte ich etwas über Ihre Vorerkrankungen fragen.
+
+126
+00:10:07,980 --> 00:10:11,980
+Haben Sie irgendwelche Vorerkrankungen, chronische Erkrankungen?
+
+127
+00:10:11,980 --> 00:10:17,980
+Ja, also ich nehme seit einigen Jahren etwas gegen den hohen Blutdruck.
+
+128
+00:10:17,980 --> 00:10:21,980
+Mein Doktor meint, mein Hausarzt, ich habe etwas hohes Cholesterin,
+
+129
+00:10:21,980 --> 00:10:25,980
+soll Medikamente nehmen, aber ich nehme keine Medikamente.
+
+130
+00:10:25,980 --> 00:10:27,980
+Ich mag das nicht so.
+
+131
+00:10:27,980 --> 00:10:31,980
+Und manchmal nehme ich etwas gegen die Schmerzen,
+
+132
+00:10:31,980 --> 00:10:33,980
+aber sonst habe ich nichts.
+
+133
+00:10:33,980 --> 00:10:37,980
+Schmerzmittel, was nehmen Sie als Schmerzmittel?
+
+134
+00:10:37,980 --> 00:10:39,980
+Paracetamol.
+
+135
+00:10:39,980 --> 00:10:41,980
+Das vertrage ich immer am besten.
+
+136
+00:10:41,980 --> 00:10:45,980
+Wie häufig nehmen Sie Zeltun oder häufig Schmelz?
+
+137
+00:10:45,980 --> 00:10:49,980
+Ich habe gesagt, ich mag keine Tabletten.
+
+138
+00:10:49,980 --> 00:10:53,980
+Ich möchte schon eine starke Kopfschmerz sein.
+
+139
+00:10:53,980 --> 00:10:57,980
+Seit wann haben Sie genau Arterell Blutdruck?
+
+140
+00:10:57,980 --> 00:11:01,980
+Ich habe seit 7, 8 Jahren.
+
+141
+00:11:01,980 --> 00:11:07,980
+Und Tabletten nehme ich seit 5 Jahren.
+
+142
+00:11:07,980 --> 00:11:11,980
+Was nehmen Sie dagegen?
+
+143
+00:11:11,980 --> 00:11:15,980
+Ich muss mal nachschauen.
+
+144
+00:11:15,980 --> 00:11:19,980
+Ramipräg, Zymphenikam.
+
+145
+00:11:19,980 --> 00:11:23,980
+Morgen oder Abend?
+
+146
+00:11:23,980 --> 00:11:25,980
+Morgen.
+
+147
+00:11:25,980 --> 00:11:27,980
+Guten.
+
+148
+00:11:27,980 --> 00:11:33,980
+Würden Sie schon einmal operieren?
+
+149
+00:11:33,980 --> 00:11:39,980
+Ja, vor 20 Jahren hat man die Gallenblase entwähnt.
+
+150
+00:11:39,980 --> 00:11:43,980
+Da hatte ich Steine gehabt.
+
+151
+00:11:43,980 --> 00:11:47,980
+Da ist ein Teil der Gebärmutter entfernt worden.
+
+152
+00:11:47,980 --> 00:11:51,980
+Da hatte ich so eine Miome gehabt.
+
+153
+00:11:51,980 --> 00:11:55,980
+Wann war das Gebärmutter entfernt?
+
+154
+00:11:55,980 --> 00:12:01,980
+Vor 7, 8 Jahren.
+
+155
+00:12:01,980 --> 00:12:05,980
+Wissen Sie, warum?
+
+156
+00:12:05,980 --> 00:12:09,980
+Miome war das Gebärmutter.
+
+157
+00:12:09,980 --> 00:12:13,980
+Dann hatte ich eine Kinie-OP.
+
+158
+00:12:13,980 --> 00:12:17,980
+Das war ein Minus-Kuss.
+
+159
+00:12:17,980 --> 00:12:21,980
+Auf der Seite.
+
+160
+00:12:21,980 --> 00:12:25,980
+Welche Seite?
+
+161
+00:12:25,980 --> 00:12:29,980
+Rechts.
+
+162
+00:12:29,980 --> 00:12:33,980
+Wann war das OP?
+
+163
+00:12:33,980 --> 00:12:37,980
+35.
+
+164
+00:12:37,980 --> 00:12:43,330
+Hatten Sie früher einen Unfall?
+
+165
+00:12:43,330 --> 00:12:47,330
+Nein, das war jetzt.
+
+166
+00:12:47,330 --> 00:12:51,330
+Sonst nehmen Sie andere Medikamente.
+
+167
+00:12:51,330 --> 00:12:55,330
+Frau Dietzer, rachen Sie?
+
+168
+00:12:55,330 --> 00:13:00,610
+Nein.
+
+169
+00:13:00,610 --> 00:13:04,610
+Trinken Sie Alkohol?
+
+170
+00:13:04,610 --> 00:13:08,610
+Ja, schon, aber sehr selten.
+
+171
+00:13:08,610 --> 00:13:12,610
+Einmal, zweimal in Jahr?
+
+172
+00:13:12,610 --> 00:13:16,610
+Ja, ungefähr.
+
+173
+00:13:16,610 --> 00:13:20,610
+Wenn ich mal auf einem Geburtstagsfest bin.
+
+174
+00:13:20,610 --> 00:13:24,610
+Ich nehme an, dass Sie kein Drogen konsumieren.
+
+175
+00:13:24,610 --> 00:13:28,610
+Oder ich bin nicht mehr auf dem Geburtstag.
+
+176
+00:13:28,610 --> 00:13:32,610
+Nein, ich bin nicht mehr auf dem Geburtstag.
+
+177
+00:13:32,610 --> 00:13:36,610
+Haben Sie Alergien oder Unfall?
+
+178
+00:13:36,610 --> 00:13:40,610
+Ja, jetzt ist die Polen-Allergie wieder sehr stark.
+
+179
+00:13:40,610 --> 00:13:44,610
+Ich habe Polen-Allergie.
+
+180
+00:13:44,610 --> 00:13:48,610
+Wie ausserzig Polen-Allergie?
+
+181
+00:13:48,610 --> 00:13:52,610
+Wie häuschen sie?
+
+182
+00:13:52,610 --> 00:13:56,610
+Ja, die Nase läuft, die Augen rücken, ganz schön kräftig.
+
+183
+00:13:56,610 --> 00:14:00,610
+Das hilft mir ganz gut.
+
+184
+00:14:00,610 --> 00:14:04,610
+Das geht nur für zwei, drei Wochen und danach ist es wieder besser.
+
+185
+00:14:04,610 --> 00:14:09,890
+Machen Sie manchmal Sport?
+
+186
+00:14:09,890 --> 00:14:13,890
+Oder machen Sie manchmal die Wanderung?
+
+187
+00:14:13,890 --> 00:14:17,890
+Nein, ich bin völlig unsportlich.
+
+188
+00:14:17,890 --> 00:14:21,890
+Wir haben einen kleinen Grund, in dem gehe ich manchmal Gassi.
+
+189
+00:14:21,890 --> 00:14:25,890
+Sport mache ich leider nichts.
+
+190
+00:14:25,890 --> 00:14:31,890
+Gibt es bekannte Erkrankungen in Ihrer Familie?
+
+191
+00:14:31,890 --> 00:14:35,890
+Zum Beispiel bei der Mutter?
+
+192
+00:14:35,890 --> 00:14:39,890
+Nein, meine Mutter ist relativ gesund.
+
+193
+00:14:39,890 --> 00:14:43,890
+Er hat auch eine hohe Wutung, aber sonst nichts anderes.
+
+194
+00:14:43,890 --> 00:14:49,890
+Mein Vater hatte mal vor drei Jahren mal einen Herzinfarkt gehabt.
+
+195
+00:14:49,890 --> 00:14:53,890
+Aber das war wohl ein kleiner Herzinfarkt.
+
+196
+00:14:53,890 --> 00:15:00,640
+Das ist jetzt nicht so, aber dem geht es gut.
+
+197
+00:15:00,640 --> 00:15:04,640
+Haben Sie Geschwister?
+
+198
+00:15:04,640 --> 00:15:08,640
+Ich habe noch einen Bruder.
+
+199
+00:15:08,640 --> 00:15:12,640
+Ich bin vier Jahre jünger, aber dem geht es gut.
+
+200
+00:15:12,640 --> 00:15:16,640
+Er ist gesund.
+
+201
+00:15:16,640 --> 00:15:20,640
+Wie ist Ihr Familienstand?
+
+202
+00:15:20,640 --> 00:15:24,640
+Ich bin Verheiratser.
+
+203
+00:15:24,640 --> 00:15:28,640
+Wir leben zusammen mit Ihrem Mann.
+
+204
+00:15:28,640 --> 00:15:32,640
+Wir haben zwei Kinder, aber die Kinder sind längst aus dem Haus.
+
+205
+00:15:32,640 --> 00:15:36,640
+Und sind die Kinder gesund?
+
+206
+00:15:36,640 --> 00:15:40,640
+Ja, natürlich.
+
+207
+00:15:40,640 --> 00:15:44,640
+Herr Dessert, was machen Sie beruflich?
+
+208
+00:15:44,640 --> 00:15:48,640
+Ich bin Hausfrau.
+
+209
+00:15:48,640 --> 00:15:55,390
+Wie ist Ihr Impfstatus?
+
+210
+00:15:55,390 --> 00:15:59,390
+Mein Hausarzt hat es immer kontrolliert.
+
+211
+00:15:59,390 --> 00:16:03,390
+Die Impfungen sind alle auf dem aktuellsten Stand.
+
+212
+00:16:03,390 --> 00:16:07,390
+Wir brauchen keine Impfungen.
+
+213
+00:16:07,390 --> 00:16:11,390
+Erst nächstes Jahr ist wieder eine Zeckenimpfung dran.
+
+214
+00:16:11,390 --> 00:16:15,390
+Wissen Sie, ob Sie gegen zum Beispiel Hepatitis geimpft sind?
+
+215
+00:16:15,390 --> 00:16:19,390
+Oh, Hepatitis.
+
+216
+00:16:19,390 --> 00:16:23,390
+Das weiß ich nicht.
+
+217
+00:16:23,390 --> 00:16:28,800
+Das habe ich immer gefragt.
+
+218
+00:16:28,800 --> 00:16:32,800
+Und letzte Frage, waren Sie in letzter Zeit im Ausland?
+
+219
+00:16:32,800 --> 00:16:36,800
+Nein, wir waren letztes Jahr im Bayerischen Wald.
+
+220
+00:16:36,800 --> 00:16:40,800
+Im Ausland waren wir nichts.
+
+221
+00:16:40,800 --> 00:16:44,800
+Okay.
+
+222
+00:16:44,800 --> 00:16:48,800
+Was haben Sie in den letzten Jahren gemacht?
+
+223
+00:16:48,800 --> 00:16:52,800
+Das war es.
+
+224
+00:16:52,800 --> 00:16:56,800
+Möchten Sie noch etwas hinzufügen?
+
+225
+00:16:56,800 --> 00:17:00,800
+Nein, ich würde froh, wenn Sie mir sagen können,
+
+226
+00:17:00,800 --> 00:17:04,800
+dass ich hier noch Untersuchungen bekomme.
+
+227
+00:17:04,800 --> 00:17:08,800
+Vielleicht noch eine Information.
+
+228
+00:17:08,800 --> 00:17:12,800
+Bevor ich ins Krankenhaus kam,
+
+229
+00:17:12,800 --> 00:17:16,800
+hat mein Haushalt ein Ultraschall vom Bauch gemacht.
+
+230
+00:17:16,800 --> 00:17:20,800
+Ich habe mir gesagt, dass meine Baucharurta etwas erweitert.
+
+231
+00:17:20,800 --> 00:17:24,800
+Das bedeutet, dass es 4,5 cm ist.
+
+232
+00:17:24,800 --> 00:17:28,800
+Ich weiß nicht, ob es etwas Schlimmes ist.
+
+233
+00:17:28,800 --> 00:17:32,800
+Aber das soll auch kontrolliert werden, hat er gemeint.
+
+234
+00:17:32,800 --> 00:17:36,800
+Arurta Erweiterung, 5 cm, 6 cm.
+
+235
+00:17:36,800 --> 00:17:40,800
+4,5 cm.
+
+236
+00:17:40,800 --> 00:17:44,800
+Ja, wir werden
+
+237
+00:17:44,800 --> 00:17:48,800
+Sie erst einmal körperlich untersuchen.
+
+238
+00:17:48,800 --> 00:17:52,800
+Auf jeden Fall nehmen wir Blut ab.
+
+239
+00:17:52,800 --> 00:17:56,800
+Und Ihre Beschwerden
+
+240
+00:17:56,800 --> 00:18:00,800
+sprechen für eine
+
+241
+00:18:00,800 --> 00:18:04,800
+Magenerkrankung.
+
+242
+00:18:04,800 --> 00:18:08,800
+Aber Herzkrankungen kommen auch in Betracht.
+
+243
+00:18:08,800 --> 00:18:12,800
+Weil manchmal beim
+
+244
+00:18:12,800 --> 00:18:16,800
+Bewegung haben Sie auch diese Beschwerden.
+
+245
+00:18:16,800 --> 00:18:20,800
+Aber Sie haben gesagt,
+
+246
+00:18:20,800 --> 00:18:24,800
+es ist diese Schmerzen treten auch in Ruhe auch.
+
+247
+00:18:24,800 --> 00:18:28,800
+Es kann sein,
+
+248
+00:18:28,800 --> 00:18:32,800
+dass Sie eine Magengeschwür haben.
+
+249
+00:18:32,800 --> 00:18:36,800
+Also es kann viele verschiedene
+
+250
+00:18:36,800 --> 00:18:40,800
+Ursachen sein
+
+251
+00:18:40,800 --> 00:18:44,800
+oder es stehen viele Ursachen.
+
+252
+00:18:44,800 --> 00:18:48,800
+Bevor
+
+253
+00:18:48,800 --> 00:18:52,800
+Untersuchungen,
+
+254
+00:18:52,800 --> 00:18:56,800
+kann ich leider nicht genau sagen.
+
+255
+00:18:56,800 --> 00:19:00,800
+Deswegen bin ich ja hier, dass Sie einige Untersuchungen machen können.
+
+256
+00:19:00,800 --> 00:19:04,800
+Dann bin ich mal gespannt.
+
+257
+00:19:04,800 --> 00:19:08,800
+Ich hoffe, dass Sie bald herausfinden, was es ist. Vielen Dank.
+
+258
+00:19:08,800 --> 00:19:12,800
+Haben Kollegen noch eine Frage?
+
+259
+00:19:12,800 --> 00:19:19,710
+Haben Sie T-Schul oder schwarze Stuhlgang?
+
+260
+00:19:19,710 --> 00:19:23,710
+Was ist ein T-Schul?
+
+261
+00:19:23,710 --> 00:19:27,710
+Ja, T-Schul.
+
+262
+00:19:27,710 --> 00:19:31,710
+Was ist ein schwarzer Stuhlgang?
+
+263
+00:19:31,710 --> 00:19:35,710
+Schwarzer Stuhlgang? Nein, das bin ich nicht aufgefallen.
+
+264
+00:19:35,710 --> 00:19:39,710
+Haben Sie Schwinde?
+
+265
+00:19:39,710 --> 00:19:43,710
+Ich habe Schwinde, Sie meinen, ob ich mir Schwindlich ist.
+
+266
+00:19:43,710 --> 00:19:47,710
+Nein, Schwinde habe ich keinen gehabt.
+
+267
+00:19:47,710 --> 00:19:58,080
+Ich denke, eine wichtige Frage ist,
+
+268
+00:19:58,080 --> 00:20:02,080
+Herr Thujan, heute haben Sie keine Zeit.
+
+269
+00:20:02,080 --> 00:20:06,080
+Deswegen, als das geschieht,
+
+270
+00:20:06,080 --> 00:20:10,080
+soll ich Sie mal fangen.
+
+271
+00:20:10,080 --> 00:20:14,080
+Ein Problem? Okay.
+
+272
+00:20:14,080 --> 00:20:18,080
+Guten Tag, Herr Oberrath.
+
+273
+00:20:18,080 --> 00:20:22,080
+Haben Sie kurze Zeit für mich?
+
+274
+00:20:22,080 --> 00:20:26,080
+Ja, es handelt sich um eine
+
+275
+00:20:26,080 --> 00:20:30,080
+64-jährige Patientin.
+
+276
+00:20:30,080 --> 00:20:34,080
+Frau Gabriele Bitzel.
+
+277
+00:20:34,080 --> 00:20:38,080
+Er ist 1,8 m.
+
+278
+00:20:38,080 --> 00:20:42,080
+Sie ist ein
+
+279
+00:20:42,080 --> 00:20:45,080
+1,68 m groß
+
+280
+00:20:45,080 --> 00:20:48,080
+und 72 kg schwer.
+
+281
+00:20:48,080 --> 00:20:52,080
+Sie stellte sich bei uns vor,
+
+282
+00:20:52,080 --> 00:20:56,080
+seit 6 Monaten bestehenden
+
+283
+00:20:56,080 --> 00:20:59,080
+Schmerzen im Epigastrikregion
+
+284
+00:20:59,080 --> 00:21:03,080
+und manchmal begleitet von
+
+285
+00:21:03,080 --> 00:21:07,080
+einer der größten
+
+286
+00:21:07,080 --> 00:21:10,080
+Schmerzen.
+
+287
+00:21:10,080 --> 00:21:14,080
+Deswegen hat sie
+
+288
+00:21:14,080 --> 00:21:18,080
+ihr Hausarzt besucht.
+
+289
+00:21:18,080 --> 00:21:21,080
+Der Hausarzt
+
+290
+00:21:21,080 --> 00:21:24,080
+hat ein EKG geschrieben
+
+291
+00:21:24,080 --> 00:21:28,080
+und das EKG war unabhängig.
+
+292
+00:21:28,080 --> 00:21:31,080
+Das EKG war unabhängig.
+
+293
+00:21:31,080 --> 00:21:34,080
+Das EKG war unabhängig.
+
+294
+00:21:34,080 --> 00:21:38,080
+Die Schmerzen
+
+295
+00:21:38,080 --> 00:21:41,080
+seien ohne Ausstrahlung.
+
+296
+00:21:41,080 --> 00:21:44,080
+Und auf eine Schmerzskala
+
+297
+00:21:44,080 --> 00:21:47,080
+hat sie
+
+298
+00:21:47,080 --> 00:21:50,080
+bei 4, manchmal 4 bis 3
+
+299
+00:21:50,080 --> 00:21:53,080
+Schmerzen
+
+300
+00:21:53,080 --> 00:21:56,080
+eine Schmerzskala
+
+301
+00:21:56,080 --> 00:21:59,080
+eine Schmerzskala
+
+302
+00:21:59,080 --> 00:22:02,080
+bei 4, manchmal 4 bis 3 bis 4
+
+303
+00:22:02,080 --> 00:22:05,080
+bis 5 und 6
+
+304
+00:22:05,080 --> 00:22:08,080
+eingeschätzt.
+
+305
+00:22:08,080 --> 00:22:11,080
+Sie leidet
+
+306
+00:22:11,080 --> 00:22:14,080
+unter manchmal
+
+307
+00:22:14,080 --> 00:22:17,080
+dort brennen.
+
+308
+00:22:17,080 --> 00:22:20,080
+Aber sie hat kein
+
+309
+00:22:20,080 --> 00:22:23,080
+Pusten
+
+310
+00:22:23,080 --> 00:22:26,080
+und die Frage nach
+
+311
+00:22:26,080 --> 00:22:29,080
+Ikterus oder Gelb sucht
+
+312
+00:22:29,080 --> 00:22:32,080
+wurde verneinert.
+
+313
+00:22:32,080 --> 00:22:35,080
+Und in
+
+314
+00:22:35,080 --> 00:22:38,080
+Rahmen der vegetativen Anamnese berichtet
+
+315
+00:22:38,080 --> 00:22:41,080
+die Patienten, dass sie kein
+
+316
+00:22:41,080 --> 00:22:44,080
+Fieber hat, kein
+
+317
+00:22:44,080 --> 00:22:47,080
+Schweißausbrüche, nach Schweiß
+
+318
+00:22:47,080 --> 00:22:50,080
+Appetit sei normal,
+
+319
+00:22:50,080 --> 00:22:53,080
+keine Gewichtsveränderungen,
+
+320
+00:22:53,080 --> 00:22:56,080
+Sturrgang sei normal.
+
+321
+00:22:56,080 --> 00:22:59,080
+Sie muss
+
+322
+00:22:59,080 --> 00:23:02,080
+oft wegen Wasser lassen
+
+323
+00:23:02,080 --> 00:23:05,080
+auf die Toilette gehen.
+
+324
+00:23:05,080 --> 00:23:08,080
+Sie kann flach,
+
+325
+00:23:08,080 --> 00:23:11,080
+es gibt kein Schlafstörung
+
+326
+00:23:11,080 --> 00:23:14,080
+und sie kann flach legen
+
+327
+00:23:14,080 --> 00:23:17,080
+beim Schnappen.
+
+328
+00:23:17,080 --> 00:23:20,080
+Sie besucht
+
+329
+00:23:20,080 --> 00:23:23,080
+Frauenaarzt.
+
+330
+00:23:23,080 --> 00:23:26,080
+Sie war vor 2 Jahren
+
+331
+00:23:26,080 --> 00:23:29,080
+im Alter
+
+332
+00:23:29,080 --> 00:23:32,080
+von 50 Jahren.
+
+333
+00:23:32,080 --> 00:23:35,080
+An
+
+334
+00:23:35,080 --> 00:23:38,080
+Vorerkrankungen leidet er
+
+335
+00:23:38,080 --> 00:23:41,080
+seit
+
+336
+00:23:41,080 --> 00:23:44,080
+2 Jahren.
+
+337
+00:23:44,080 --> 00:23:47,080
+Sie leidet
+
+338
+00:23:47,080 --> 00:23:50,080
+seit
+
+339
+00:23:50,080 --> 00:23:53,080
+7 bis 8 Jahren
+
+340
+00:23:53,080 --> 00:23:56,080
+an arteriale Hypertonie
+
+341
+00:23:56,080 --> 00:24:00,810
+und seit 5
+
+342
+00:24:00,810 --> 00:24:03,810
+Gramm Morgens.
+
+343
+00:24:03,810 --> 00:24:06,810
+Sie hat
+
+344
+00:24:06,810 --> 00:24:09,810
+Hyperkollesteronomie.
+
+345
+00:24:09,810 --> 00:24:12,810
+Sie hat
+
+346
+00:24:12,810 --> 00:24:15,810
+Hyperkollesteronomie.
+
+347
+00:24:15,810 --> 00:24:17,810
+Sie hat bei
+
+348
+00:24:17,810 --> 00:24:18,010
+Hypertonerone
+
+349
+00:24:18,010 --> 00:24:21,810
+keine Therapie.
+
+350
+00:24:21,810 --> 00:24:26,120
+Sie möchte
+
+351
+00:24:26,120 --> 00:24:28,120
+nicht viel Medikamente
+
+352
+00:24:28,120 --> 00:24:31,120
+einnehmen.
+
+353
+00:24:31,120 --> 00:24:34,120
+Das habe ich nicht genau gefragt.
+
+354
+00:24:34,120 --> 00:24:37,120
+Warum nehmen Sie etwas dagegen?
+
+355
+00:24:37,120 --> 00:24:40,120
+Aber Sie auch
+
+356
+00:24:40,120 --> 00:24:43,120
+schalte, dass Sie nicht viel Medikamente
+
+357
+00:24:43,120 --> 00:24:46,120
+einnehmen.
+
+358
+00:24:46,120 --> 00:24:47,120
+Gut, okay.
+
+359
+00:24:47,120 --> 00:24:55,400
+Bei Bedarf, aber selten, nimmt sie Paracetamol wegen Schmerzen.
+
+360
+00:24:55,400 --> 00:25:11,160
+Bei der Patienten wurde vor 20 Jahren eine Kolelithiasistoktomie aufgrund einer Kolelithiasis
+
+361
+00:25:11,160 --> 00:25:14,890
+durchgeführt.
+
+362
+00:25:14,890 --> 00:25:37,180
+Daran wurde Knieoperation wegen sichern.
+
+363
+00:25:37,180 --> 00:25:47,180
+Und sonst nehmen sie keine regelmäßigen Medikamente ein.
+
+364
+00:25:47,180 --> 00:26:06,280
+Sie hat nicht mehr Alkohol an Besonderanlässen, mal zweimal in Jahr.
+
+365
+00:26:06,280 --> 00:26:15,280
+Sie leidet und hat eine Polynosis-Hoschnupfen.
+
+366
+00:26:15,280 --> 00:26:21,280
+Da nimmt sie Settrysinn-Tabletten und momentan treibe sie kein Sport.
+
+367
+00:26:21,280 --> 00:26:32,280
+Bei der Familienanamnese ergab sich, dass die Mutter der Patienten an Arterelle Hepatonee,
+
+368
+00:26:32,280 --> 00:26:42,600
+der hat drei Jahre einen Yokartinfarkt.
+
+369
+00:26:42,600 --> 00:27:01,460
+Sie hat einen Bruder, der gesund ist.
+
+370
+00:27:01,460 --> 00:27:09,460
+Im Rahmen der sozialen Anamnese ergab sich, dass sie verheiratet ist.
+
+371
+00:27:09,460 --> 00:27:17,460
+Sie hat zwei gesunde Kinder, die erwachsen sind.
+
+372
+00:27:17,460 --> 00:27:24,460
+Sie ist Hausfrau.
+
+373
+00:27:24,460 --> 00:27:34,460
+Die Impfstatus ist aktuell und Reiseanamnese ist unauffällig.
+
+374
+00:27:34,460 --> 00:27:47,460
+Darüber hinaus erwähnt die Patienten, dass die Patienten eine Aorta-Erweiterung,
+
+375
+00:27:47,460 --> 00:27:55,460
+die eine Aorta-Anerysm festgestellt ist.
+
+376
+00:27:55,460 --> 00:27:58,460
+Wer hat das festgestellt?
+
+377
+00:27:58,460 --> 00:28:02,460
+Hausarzt.
+
+378
+00:28:02,460 --> 00:28:09,460
+Mit Abdominal-Auta.
+
+379
+00:28:09,460 --> 00:28:14,460
+Aneurysma.
+
+380
+00:28:14,460 --> 00:28:38,460
+Aufgrund der anamnistischen Angaben ergibt sich der Verdacht auf eine Corona-Herzkrankheit.
+
+381
+00:28:38,460 --> 00:28:49,460
+Und Gastroesophagealreflex kommt als differential diagnostisch.
+
+382
+00:28:49,460 --> 00:28:57,460
+Gastroesophagealreflex, Krankheit und Gastritis.
+
+383
+00:28:57,460 --> 00:29:05,460
+Und Gastritis, Duodenal, Ülser kommen in Betracht.
+
+384
+00:29:05,460 --> 00:29:15,460
+Zur weiteren Abklärung werde ich folgende Massnahmen vornehmen.
+
+385
+00:29:15,460 --> 00:29:27,460
+Um Krankheiten auszuschließen,
+
+386
+00:29:28,460 --> 00:29:35,460
+eine Ergo-EKG nochmal können wir veranlassen.
+
+387
+00:29:35,460 --> 00:29:42,460
+Und Epo-Kardiografie ist auch wichtig.
+
+388
+00:29:42,460 --> 00:29:48,460
+Die Beschwerden sind chronisch.
+
+389
+00:29:48,460 --> 00:30:08,060
+Und Blutabnahme, Blutbild, Hemoglobin und Entzündung, Parameter sind wichtig.
+
+390
+00:30:08,060 --> 00:30:12,060
+Wir müssen sagen, es kann eine chronische Gastritis sein.
+
+391
+00:30:12,060 --> 00:30:15,060
+Was brauchen wir dann noch, wenn sie das bisher noch nicht hatte?
+
+392
+00:30:15,060 --> 00:30:18,060
+Endoskopie brauchen wir.
+
+393
+00:30:18,060 --> 00:30:34,060
+Und bei bestätigten Herzkrankheiten,
+
+394
+00:30:34,060 --> 00:30:44,060
+vielleicht sollten wir auch eine Coronar-Angiografie durchführen.
+
+395
+00:30:44,060 --> 00:30:49,060
+Wir wollen damit sagen, bei Verdacht auf coronaren Herzerkrankungen,
+
+396
+00:30:49,060 --> 00:30:54,060
+als auf KHK, sollte man eine Coronar-Angiografie durchführen.
+
+397
+00:30:54,060 --> 00:30:59,060
+Von der Klinik her würde es dazu passen.
+
+398
+00:30:59,060 --> 00:31:07,060
+Wir können die Kardiologen noch mal dazu holen.
+
+399
+00:31:07,060 --> 00:31:13,630
+Wir wollen noch mal befragen.
+
+400
+00:31:13,630 --> 00:31:17,630
+Falls ihr noch andere Differenzialdiagnosen ein,
+
+401
+00:31:17,630 --> 00:31:19,630
+was sollte man nachgucken?
+
+402
+00:31:19,630 --> 00:31:24,630
+Pancreatitis kommt auch in Betracht.
+
+403
+00:31:24,630 --> 00:31:28,630
+Pancreatitis wäre sicherlich auch eine gute Idee.
+
+404
+00:31:28,630 --> 00:31:38,630
+Dafür sollten wir ein Bauch Ultraschall.
+
+405
+00:31:38,630 --> 00:31:47,630
+Aber es wäre sinnvoll, auch wenn wir Abdomen-CT veranlassen.
+
+406
+00:31:47,630 --> 00:31:56,370
+Genau, da kommt jetzt die Frage.
+
+407
+00:31:56,370 --> 00:31:59,370
+Wir wollen ein CT machen.
+
+408
+00:31:59,370 --> 00:32:06,370
+Wenn sie auch eine Bauch-Aurte hat,
+
+409
+00:32:06,370 --> 00:32:09,370
+sollten wir auch die restliche Aurte untersuchen.
+
+410
+00:32:09,370 --> 00:32:13,370
+Ob eine automatische Erweiterung vorliegt.
+
+411
+00:32:13,370 --> 00:32:17,370
+Oder eine Aortendisektion vorliegt.
+
+412
+00:32:17,370 --> 00:32:21,370
+Da hilft eine CT-Angiografie.
+
+413
+00:32:21,370 --> 00:32:31,100
+Das war ein guter Hinweis.
+
+414
+00:32:31,100 --> 00:32:34,100
+Sind noch andere Ideen von den Kollegen?
+
+415
+00:32:34,100 --> 00:32:58,490
+Keine Fragen.
+
+416
+00:32:58,490 --> 00:33:03,310
+Dann können wir schön zusammenfassen.
+
+417
+00:33:03,310 --> 00:33:06,310
+Das war ganz okay.
+
+418
+00:33:06,310 --> 00:33:09,310
+Sehr korrekt.
+
+419
+00:33:09,310 --> 00:33:13,310
+Das ist ein sehr guter Hinweis.
+
+420
+00:33:13,310 --> 00:33:19,310
+Die Überweisung der Erfolge durch den Haushalts- oder
+
+421
+00:33:19,310 --> 00:33:24,310
+die Beine des Haushalts- und die Erfolge des Haushalts-
+
+422
+00:33:24,310 --> 00:33:28,310
+und die Erfolge des Haushalts- und die Erfolge des Haushalts-
+
+423
+00:33:28,310 --> 00:33:33,310
+z.B. die Erfolge, das kann man schon sagen.
+
+424
+00:33:33,310 --> 00:33:38,310
+Weil die Patiente anders ist,
+
+425
+00:33:38,310 --> 00:33:43,310
+ob, wenn die Patiente mit dem Rettungswagen oder
+
+426
+00:33:43,310 --> 00:33:47,310
+der selbstständig gekommen ist,
+
+427
+00:33:47,310 --> 00:33:52,310
+mit der WhatsApp-Einstellung sei wichtig.
+
+428
+00:33:52,310 --> 00:33:55,310
+Sie hat im Urlaub selbst geлыbert.
+
+429
+00:33:55,310 --> 00:33:56,310
+Komunist.
+
+430
+00:33:56,310 --> 00:33:58,070
+In der Notaufnahme selbst schon gekommen.
+
+431
+00:33:58,070 --> 00:33:59,070
+Das ist richtig.
+
+432
+00:33:59,070 --> 00:34:01,070
+Das ist sicherlich sehr sinnvoll.
+
+433
+00:34:01,070 --> 00:34:04,340
+Das stimmt ja.
+
+434
+00:34:04,340 --> 00:34:05,340
+Nicht gut.
+
+435
+00:34:05,340 --> 00:34:08,900
+Also, der Kollege hat das glaube ich ganz gut gemacht.
+
+436
+00:34:08,900 --> 00:34:09,900
+Vielen Dank.
+
+437
+00:34:09,900 --> 00:34:11,300
+Der Kollege hat das denke ich auch.
+
+438
+00:34:11,300 --> 00:34:13,500
+Und wird sicherlich sehr gut laufen.
+
+439
+00:34:13,500 --> 00:34:14,900
+Keine Hektik.
+
+440
+00:34:14,900 --> 00:34:15,900
+Schön langsam.
+
+441
+00:34:15,900 --> 00:34:18,180
+Aber Sie werden, müssen Sie aufpassen.
+
+442
+00:34:18,180 --> 00:34:19,180
+Mann und Frau.
+
+443
+00:34:19,180 --> 00:34:21,180
+Sie haben immer eher gesagt.
+
+444
+00:34:21,180 --> 00:34:23,580
+Weil ein Mann steht vor mir.
+
+445
+00:34:23,580 --> 00:34:26,300
+Ich denke immer, aber ja.
+
+446
+00:34:26,300 --> 00:34:27,660
+Aber das war ganz gut.
+
+447
+00:34:27,660 --> 00:34:29,180
+Die Zusammenfassung war gut.
+
+448
+00:34:29,180 --> 00:34:30,180
+Es waren sehr ruhig.
+
+449
+00:34:30,180 --> 00:34:31,660
+Haben klare Fragen gestellt.
+
+450
+00:34:31,660 --> 00:34:34,060
+Ich glaube, dass es ganz okay ist.
+
+451
+00:34:34,060 --> 00:34:36,700
+Und ich bin überzeugt auch in der Prüfung.
+
+452
+00:34:36,700 --> 00:34:40,300
+Da ist natürlich immer ein bisschen Aufregung dabei.
+
+453
+00:34:40,300 --> 00:34:45,100
+Aber wenn Sie da so jetzt sehr ruhig angehen, dann sollte eigentlich nichts passieren.
+
+454
+00:34:45,100 --> 00:34:49,940
+Und dann denke ich, dass wir morgen oder die Tage eine positive Rückmeldung von
+
+455
+00:34:49,940 --> 00:34:50,940
+Ihnen bekommen.
+
+456
+00:34:50,940 --> 00:34:51,940
+Das war der Punkt.
+
+457
+00:34:51,940 --> 00:34:52,940
+Danke schön.
+
+458
+00:34:53,060 --> 00:34:55,060
+Zu der Patientin.
+
+459
+00:34:55,060 --> 00:34:56,060
+Es war wirklich so.
+
+460
+00:34:56,060 --> 00:35:01,620
+Dieser Patientin hat wahrscheinlich, also wir haben sie nochmal zu einem Angiologen
+
+461
+00:35:01,620 --> 00:35:02,620
+geschickt.
+
+462
+00:35:02,620 --> 00:35:04,180
+Die haben einen Ultraschein gemacht.
+
+463
+00:35:04,180 --> 00:35:05,180
+Ja.
+
+464
+00:35:05,180 --> 00:35:13,580
+Dieser Patientin hat erstens eine Aortendisektion der Aorta Ascendens im torakalen Bereich.
+
+465
+00:35:13,580 --> 00:35:22,660
+Die hat eine suprarenale anerosmatische Erweiterung der Bauchaorta auf fast 5 cm.
+
+466
+00:35:23,660 --> 00:35:31,420
+Dann hat sie infrarenal eine Aortendisektion aus einer Rhythmie von 4,4 cm.
+
+467
+00:35:31,420 --> 00:35:46,340
+Dann hat sie eine atriobenöse Erkrankung und zwar der Aorta Iliacacumunis auf beiden
+
+468
+00:35:46,340 --> 00:35:47,340
+Seiten.
+
+469
+00:35:47,780 --> 00:35:58,500
+Und ganz oben an der Aorta Carotis interna links eine Stenose und rechts hat sie Plak.
+
+470
+00:35:58,500 --> 00:36:02,460
+Der Frau ist wirklich von Kopf bis Fuß verkalkt.
+
+471
+00:36:02,460 --> 00:36:08,660
+Die Gefäße sind erweitert und sind sehr kritisch.
+
+472
+00:36:08,660 --> 00:36:15,980
+Also muss man bei dieser starken Verkalkung und einer rosmatischen Erweiterung, höchstwahrscheinlich
+
+473
+00:36:15,980 --> 00:36:22,260
+davon ausgehen, dass ihre Oberbauchschmerzen und manchmal auch diese torakalen Schmerzen
+
+474
+00:36:22,260 --> 00:36:28,620
+wahrscheinlich ein Problem dieser Aorten-Anorysma-Geschichte ist.
+
+475
+00:36:28,620 --> 00:36:34,060
+Jetzt wird sie noch mal untersucht, bekommt eine Computertomografie, eine Angiografie der
+
+476
+00:36:34,060 --> 00:36:42,020
+ganzen torakalen und abdominellen Aorta, um dann zu entscheiden, ob sie ein Eingriff
+
+477
+00:36:42,020 --> 00:36:46,580
+braucht, was wäre der Eingriff beim Anorysma zum Beispiel einstahnt.

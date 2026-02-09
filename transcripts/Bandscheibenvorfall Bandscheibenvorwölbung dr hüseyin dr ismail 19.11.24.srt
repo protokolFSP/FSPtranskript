@@ -1,0 +1,1735 @@
+1
+00:00:00,000 --> 00:00:05,460
+Guten Abend, demir ist mein Name.
+
+2
+00:00:05,460 --> 00:00:06,460
+Ja, guten Abend.
+
+3
+00:00:06,460 --> 00:00:10,460
+Ich bin der erste Arzt in der Arzt auf dieser Station.
+
+4
+00:00:10,460 --> 00:00:11,460
+Wie heißen Sie?
+
+5
+00:00:11,460 --> 00:00:13,460
+Mein Name ist Julius Becker.
+
+6
+00:00:13,460 --> 00:00:15,460
+Julius Becker.
+
+7
+00:00:15,460 --> 00:00:20,460
+Herr Becker, könnt ihr Sie bitte Ihren Nachnamen langsam bestabilen?
+
+8
+00:00:20,460 --> 00:00:29,460
+Julius wird geschrieben, J. Ulrich Ludwig Ida Ulrich Siegfried.
+
+9
+00:00:29,460 --> 00:00:36,460
+Ulrich Siegfried, Julius.
+
+10
+00:00:36,460 --> 00:00:38,460
+Ja, Julius.
+
+11
+00:00:38,460 --> 00:00:46,460
+Und nachname Becker, Bertha, Emil, Caesar, Kaufmann, Emil, Richard.
+
+12
+00:00:46,460 --> 00:00:50,740
+Herr Becker, wie alt sind Sie?
+
+13
+00:00:50,740 --> 00:00:53,740
+Ich bin 49 Jahre alt.
+
+14
+00:00:53,740 --> 00:00:55,740
+Waren Sie sich genau geboren?
+
+15
+00:00:55,740 --> 00:00:59,740
+Am 10. August 1975.
+
+16
+00:00:59,740 --> 00:01:05,740
+Ja, okay, Herr Becker.
+
+17
+00:01:05,740 --> 00:01:07,740
+Was kann ich für Sie tun?
+
+18
+00:01:07,740 --> 00:01:15,740
+Und zwar, von dem ich habe seit drei Tagen Schmerzen im Bereich meiner Halswirbelsäule,
+
+19
+00:01:15,740 --> 00:01:20,990
+die Schmerzen strahlen in meinen rechten Arm aus.
+
+20
+00:01:20,990 --> 00:01:24,990
+Und seit heute ist es so, dass ich ein bisschen,
+
+21
+00:01:24,990 --> 00:01:32,370
+ich habe schon Kraft, aber ein bisschen Kraftverlust habe in meinem rechten Arm.
+
+22
+00:01:32,370 --> 00:01:35,370
+Seit wann haben Sie die Becherbe schmerzen?
+
+23
+00:01:35,370 --> 00:01:37,370
+Seit drei Tagen.
+
+24
+00:01:37,370 --> 00:01:41,370
+Seit drei Tagen habe ich Schmerzen in meinem Lackenbereich, die in meinem Arm auskommt.
+
+25
+00:01:41,370 --> 00:01:46,370
+Und seit heute habe ich das Problem,
+
+26
+00:01:46,370 --> 00:01:49,370
+dass ich nicht mehr so viel Kraft habe bei einem rechten Arm.
+
+27
+00:01:49,370 --> 00:01:51,370
+Okay, ich verstehe, Herr Becker.
+
+28
+00:01:51,370 --> 00:01:53,370
+Gleichgradiger Kraftverlust.
+
+29
+00:01:53,370 --> 00:02:05,070
+Könnten Sie mir genau bescheiden, sind die Schmerzen drumpfende, stehende
+
+30
+00:02:05,070 --> 00:02:08,070
+oder krampartige?
+
+31
+00:02:08,070 --> 00:02:11,070
+Ich würde sagen, das so ziehen der Schmerz.
+
+32
+00:02:11,070 --> 00:02:20,590
+Sind die Schmerzen pröstlich aufgetretet oder langsam?
+
+33
+00:02:20,590 --> 00:02:27,590
+Die Schmerzen, nee, also vor drei Tagen haben die so langsam, also ich bin wohnens aufgewacht
+
+34
+00:02:27,590 --> 00:02:30,590
+und da hatte ich die Schmerzen gehabt sozusagen.
+
+35
+00:02:30,590 --> 00:02:34,590
+Und die waren dann immer mehr zugenommen, also im Laufe des Tages haben die dann zugenommen.
+
+36
+00:02:34,590 --> 00:02:39,920
+Okay.
+
+37
+00:02:39,920 --> 00:02:42,920
+Wie stark sind die Schmerzen bei der Schmerz,
+
+38
+00:02:42,920 --> 00:02:48,920
+oder wobei ein sehr lecker Schmerz uns sehen, stärker Schmerz entspricht?
+
+39
+00:02:48,920 --> 00:02:50,920
+Ich würde sagen sieben.
+
+40
+00:02:50,920 --> 00:02:58,970
+Halten Sie die Schmerzen bis Ende des Gesprächs aus
+
+41
+00:02:58,970 --> 00:03:01,970
+oder machen Sie etwas in etwas...
+
+42
+00:03:01,970 --> 00:03:04,970
+Nee, wir können weiter reden.
+
+43
+00:03:04,970 --> 00:03:07,970
+Okay, ja, ich verstehe, Herr Becker.
+
+44
+00:03:08,970 --> 00:03:21,970
+Haben Sie in der letzten Zeit eine schwere Dinge angehoben?
+
+45
+00:03:21,970 --> 00:03:25,970
+Schwere Sachen mit den Angogen? Nein.
+
+46
+00:03:25,970 --> 00:03:33,250
+Nein.
+
+47
+00:03:33,250 --> 00:03:42,250
+Ist Ihnen ein Taubheitsgefühl Kräben aufgefallen?
+
+48
+00:03:42,250 --> 00:03:45,250
+Nein, ist nicht aufgefallen.
+
+49
+00:03:45,250 --> 00:04:02,550
+Haben Sie eine Bewegung Einschreckung aufgefallen?
+
+50
+00:04:02,550 --> 00:04:08,550
+Bewegung Einschreckung, ja, also bewegen kann ich, aber ich habe nicht mehr so viel Kraft
+
+51
+00:04:08,550 --> 00:04:11,550
+im Vergleich zu meinem linken Arm.
+
+52
+00:04:11,550 --> 00:04:13,550
+Ja.
+
+53
+00:04:13,550 --> 00:04:16,550
+Kraftschwäch, also Muskelschwächung, würde ich sagen.
+
+54
+00:04:16,550 --> 00:04:25,720
+Haben Sie Überkeit?
+
+55
+00:04:25,720 --> 00:04:27,720
+Überkeit, nein, habe ich nicht.
+
+56
+00:04:27,720 --> 00:04:34,220
+Müssten Sie erübergreifen?
+
+57
+00:04:34,220 --> 00:04:38,220
+Ich habe keine Überkeit, aber ich muss auch nicht übergeben, nicht.
+
+58
+00:04:38,220 --> 00:04:47,220
+Ist Ihnen Herr Schrazan Herr Stolptan bemerkt?
+
+59
+00:04:47,220 --> 00:04:50,220
+Nein, ich habe nicht.
+
+60
+00:04:50,220 --> 00:04:58,220
+Herr Doktor, eine Frage, was hat es mit meinen Schmerzen zu tun?
+
+61
+00:04:58,220 --> 00:05:02,220
+Sie haben Übelkeit oder Herz?
+
+62
+00:05:02,220 --> 00:05:04,220
+Ja.
+
+63
+00:05:04,220 --> 00:05:07,220
+Hat es mit meinen Schmerzen im Wackenbereich zu tun?
+
+64
+00:05:07,220 --> 00:05:12,220
+Ja, manchmal hat es Probleme oder magene Probleme.
+
+65
+00:05:12,220 --> 00:05:23,220
+Ich habe keine Überreifen, aber ich muss diese Frage stellen.
+
+66
+00:05:23,220 --> 00:05:27,220
+Haben Sie Atemnot?
+
+67
+00:05:27,220 --> 00:05:30,220
+Atemnot habe ich auch nicht.
+
+68
+00:05:30,220 --> 00:05:32,220
+Okay.
+
+69
+00:05:32,220 --> 00:05:36,220
+Fühlen Sie sich february?
+
+70
+00:05:36,220 --> 00:05:45,060
+Nein.
+
+71
+00:05:45,060 --> 00:05:55,060
+Haben Sie gegen diese Beschwerde ein Medikament eingehauen?
+
+72
+00:05:55,060 --> 00:05:57,060
+Ja.
+
+73
+00:05:57,060 --> 00:05:59,060
+Welche Medikament habe ich eingehauen?
+
+74
+00:05:59,060 --> 00:06:03,060
+Auf jeden Fall habe ich zu Hause 600 Millikamten.
+
+75
+00:06:03,060 --> 00:06:05,060
+600 Millikamten.
+
+76
+00:06:05,060 --> 00:06:09,060
+Hat das Medikament Ihre geholfen?
+
+77
+00:06:09,060 --> 00:06:13,060
+Ja, das hat so ein bisschen meine Schmerzen gelindert.
+
+78
+00:06:13,060 --> 00:06:16,060
+Gelindert, verstehe.
+
+79
+00:06:16,060 --> 00:06:23,060
+Ich möchte auch fragen, haben Sie früher ähnliche Beschwerden?
+
+80
+00:06:23,060 --> 00:06:25,060
+Ähnliche Beschwerden?
+
+81
+00:06:25,060 --> 00:06:30,060
+Ja, hatte ich schon mal gehabt vor zwei, drei Jahren, aber die waren nicht so schlimm.
+
+82
+00:06:30,060 --> 00:06:33,060
+Da hat auch keine Schmerzausstrahlung in den Armen gehabt,
+
+83
+00:06:33,060 --> 00:06:36,060
+also nur nacken Schmerzen gehabt vor zwei, drei Jahren.
+
+84
+00:06:36,060 --> 00:06:41,060
+Waren Sie für diese Beschwerde beim Arzt gewesen?
+
+85
+00:06:41,060 --> 00:06:48,060
+Nein, damals habe ich auch über Profing genommen und da war es gut, nach ein paar Tagen.
+
+86
+00:06:48,060 --> 00:06:59,060
+Hat sich Ihre Beschwerde im Verlauf verschreitet oder geholfen?
+
+87
+00:06:59,060 --> 00:07:09,060
+Nein, eine leichte Verstärkung, würde ich sagen.
+
+88
+00:07:09,060 --> 00:07:16,060
+Also in den letzten drei Tagen meinten Sie, leichte Zunahme der Beschwerden.
+
+89
+00:07:17,060 --> 00:07:26,060
+Herr Höbecker, haben Sie Probleme beim Wasserlösen oder mit dem Stuhlgang?
+
+90
+00:07:26,060 --> 00:07:34,430
+Nein.
+
+91
+00:07:34,430 --> 00:07:40,430
+Ist Ihnen aufgefallen, dass Sie in der Restzeit ab und zu genommen haben?
+
+92
+00:07:40,430 --> 00:07:43,430
+Ab oder zu genommen haben?
+
+93
+00:07:43,430 --> 00:07:48,430
+Ich bin ungefähr gleich gewöhnt geblieben.
+
+94
+00:07:48,430 --> 00:07:51,430
+Schlafen Sie gut?
+
+95
+00:07:51,430 --> 00:07:54,430
+Ja.
+
+96
+00:07:54,430 --> 00:08:02,120
+Wie groß sind Sie, Herr Höbecker?
+
+97
+00:08:02,120 --> 00:08:06,120
+Ich bin 1,81 m groß.
+
+98
+00:08:06,120 --> 00:08:09,120
+Wie schwer sind Sie?
+
+99
+00:08:09,120 --> 00:08:13,120
+92 kg, kann man sagen.
+
+100
+00:08:13,120 --> 00:08:15,120
+92 kg.
+
+101
+00:08:15,120 --> 00:08:19,120
+Herr Höbecker,
+
+102
+00:08:19,120 --> 00:08:25,120
+sind bei Ihnen irgendwelche Erkrankungen bekannt?
+
+103
+00:08:25,120 --> 00:08:29,120
+Ich meine Bluthochduch- und Loxotokrankheit,
+
+104
+00:08:29,120 --> 00:08:32,120
+schippt du unter der Funktion?
+
+105
+00:08:32,120 --> 00:08:37,120
+Ja, ich nehme Medikamente ein wegen Bluthochducherkrankung.
+
+106
+00:08:37,120 --> 00:08:40,120
+Welche Medikamente?
+
+107
+00:08:40,120 --> 00:08:48,940
+Das heißt Ramipril, 10 mg, dann nehme ich morgens eine ein.
+
+108
+00:08:48,940 --> 00:09:01,940
+Seit wann haben Sie diese Erkrankungen?
+
+109
+00:09:01,940 --> 00:09:05,940
+Seit 3 Jahren, circa.
+
+110
+00:09:05,940 --> 00:09:11,320
+Gibt es noch andere Erkrankungen?
+
+111
+00:09:11,320 --> 00:09:15,320
+Ich nehme noch Medikamente wegen meinen erhöhten Cholesterinwert,
+
+112
+00:09:15,320 --> 00:09:20,490
+nehme ich Medikamente ein.
+
+113
+00:09:20,490 --> 00:09:22,490
+Welche Medikamente nennen Sie?
+
+114
+00:09:22,490 --> 00:09:33,560
+20 mg, abends eine.
+
+115
+00:09:33,560 --> 00:09:42,800
+Seit wann leiden Sie an Erkrankungen?
+
+116
+00:09:42,800 --> 00:09:47,800
+Auch circa 3 Jahre.
+
+117
+00:09:47,800 --> 00:09:53,500
+Gibt es noch andere Erkrankungen?
+
+118
+00:09:53,500 --> 00:09:56,500
+Nicht, dass ich wüsste.
+
+119
+00:09:56,500 --> 00:10:04,500
+Herr Höbecker, ist bei Ihnen irgendwelche Allergien oder Unverträglichkeit bekannt?
+
+120
+00:10:04,500 --> 00:10:10,300
+Nein.
+
+121
+00:10:10,300 --> 00:10:12,300
+Wundern Sie schon mal obverredet?
+
+122
+00:10:12,300 --> 00:10:14,300
+Nein.
+
+123
+00:10:14,300 --> 00:10:19,580
+Herr Höbecker, rauchen Sie?
+
+124
+00:10:19,580 --> 00:10:21,580
+Auch nicht.
+
+125
+00:10:21,580 --> 00:10:24,580
+Trinken Sie Alkohol?
+
+126
+00:10:24,580 --> 00:10:26,580
+Ja.
+
+127
+00:10:26,580 --> 00:10:33,790
+2-3 Mal in der Woche ein Glas Wein trinke ich schon zum Essen.
+
+128
+00:10:33,790 --> 00:10:36,790
+Ja, ein Glas Wein.
+
+129
+00:10:36,790 --> 00:10:42,790
+Herr Höbecker, ich nehme an, dass Sie keine Drogen nehmen, oder?
+
+130
+00:10:42,790 --> 00:10:45,790
+Nein, habe ich nie genommen.
+
+131
+00:10:45,790 --> 00:10:56,790
+Herr Höbecker, sind Sie gegen Corona-Hepatitis oder Kinderkrankheit gegräft?
+
+132
+00:10:56,790 --> 00:10:59,790
+Ja, ich bin vollständig geimpft.
+
+133
+00:10:59,790 --> 00:11:03,790
+War Sie in der Westerzeit im Ausland gewesen?
+
+134
+00:11:03,790 --> 00:11:10,200
+Letzte Zeit waren Sie letzten Sommer bei euch auf Mallorca gewesen.
+
+135
+00:11:10,200 --> 00:11:12,200
+Mallorca?
+
+136
+00:11:12,200 --> 00:11:25,260
+Herr Höbecker, ich möchte ein paar Fragen bei Ihrer Familie stellen.
+
+137
+00:11:25,260 --> 00:11:31,260
+Haben Ihre Eltern irgendwelche Erkrankungen?
+
+138
+00:11:32,260 --> 00:11:39,260
+Ja, mein Vater hat Bluthochdruckerkrankungen, soweit ich weiß.
+
+139
+00:11:39,260 --> 00:11:41,260
+Soweit ich weiß?
+
+140
+00:11:41,260 --> 00:11:44,260
+Soweit ich weiß, also ich kenne hier alle Erkrankungen.
+
+141
+00:11:44,260 --> 00:11:47,260
+Da weiß ich nur, dass er Bluthochdruckerkrankungen hat,
+
+142
+00:11:47,260 --> 00:11:50,260
+weil wir darüber reden, sonst weiß ich da nichts.
+
+143
+00:11:50,260 --> 00:11:56,260
+Meine Mutter nimmt Spritze wegen dem erhöhten Zuckerwert.
+
+144
+00:11:56,260 --> 00:11:58,260
+Eine authentische Zuckerwert.
+
+145
+00:11:58,260 --> 00:12:00,260
+Sie hat Spritzen.
+
+146
+00:12:00,260 --> 00:12:07,260
+Ich weiß nicht, ob die Erkrankungen zählen, sie ist auch übergewichtig.
+
+147
+00:12:07,260 --> 00:12:14,780
+Aber Sie geschwistert?
+
+148
+00:12:14,780 --> 00:12:17,780
+Ja, ich habe einen Bruder.
+
+149
+00:12:17,780 --> 00:12:19,780
+Ist er gesund?
+
+150
+00:12:19,780 --> 00:12:21,780
+Soweit ich weiß, ja.
+
+151
+00:12:21,780 --> 00:12:29,220
+Sind Sie verheiratet?
+
+152
+00:12:29,220 --> 00:12:34,880
+Ja, ich bin verheiratet.
+
+153
+00:12:34,880 --> 00:12:36,880
+Bleiben Sie mit Ihrer Familie?
+
+154
+00:12:36,880 --> 00:12:42,880
+Ja, wir wohnen, haben noch zwei Kinder, mit meiner Frau,
+
+155
+00:12:42,880 --> 00:12:44,880
+wir sind alle zusammen.
+
+156
+00:12:44,880 --> 00:12:46,880
+Sind Sie gesund?
+
+157
+00:12:46,880 --> 00:12:48,880
+Wer?
+
+158
+00:12:48,880 --> 00:12:50,880
+Die Kinder, die Frau.
+
+159
+00:12:50,880 --> 00:12:54,880
+Ja, alle sind gesund, soweit ich weiß.
+
+160
+00:12:54,880 --> 00:12:57,880
+Was machen Sie von der Uhr?
+
+161
+00:12:57,880 --> 00:13:00,880
+Ich bin Zollbeanter.
+
+162
+00:13:00,880 --> 00:13:01,880
+Bitte?
+
+163
+00:13:01,880 --> 00:13:03,880
+Ich bin Zollbeanter.
+
+164
+00:13:03,880 --> 00:13:09,600
+Aber dann ruckwachen?
+
+165
+00:13:09,600 --> 00:13:15,700
+Ja.
+
+166
+00:13:15,700 --> 00:13:28,700
+Herr Becker, ich möchte kurz zusammenfassen.
+
+167
+00:13:28,700 --> 00:13:35,700
+Sie haben gesagt, dass Sie seit drei Tagen Nackenschmerzen.
+
+168
+00:13:35,700 --> 00:13:41,700
+Sie haben sich auf die schmerzen Strahlen recht.
+
+169
+00:13:41,700 --> 00:13:50,700
+Im Verlauf verschwärzt sich die Schmerzen.
+
+170
+00:13:50,700 --> 00:13:55,700
+Sie haben auch Kraft verliebt.
+
+171
+00:13:55,700 --> 00:14:08,340
+Ich habe für mich alle wichtige Fragen.
+
+172
+00:14:08,340 --> 00:14:11,340
+Wollen Sie etwas hinzuführen?
+
+173
+00:14:11,340 --> 00:14:13,340
+Ja.
+
+174
+00:14:13,340 --> 00:14:17,340
+Sie haben gesagt, dass ich einen Kraftverlust habe.
+
+175
+00:14:17,340 --> 00:14:19,340
+Aber Sie haben nicht gesagt, wo.
+
+176
+00:14:19,340 --> 00:14:22,340
+Man kann ja Nackenschmerzen mit auftragenden Armen haben
+
+177
+00:14:22,340 --> 00:14:25,340
+und Kraftverlust zu einem Fuß haben.
+
+178
+00:14:25,340 --> 00:14:27,340
+Das war am Arm?
+
+179
+00:14:27,340 --> 00:14:29,340
+Ja, Arm.
+
+180
+00:14:29,340 --> 00:14:33,340
+Ich wollte es etwas präzisieren.
+
+181
+00:14:33,340 --> 00:14:38,340
+Sonst passt das.
+
+182
+00:14:38,340 --> 00:14:43,340
+Ich wollte noch die letzte Frage stellen.
+
+183
+00:14:43,340 --> 00:14:45,340
+Hatten Sie einen Unfall?
+
+184
+00:14:45,340 --> 00:14:47,340
+Ein Unfall habe ich nicht gehabt.
+
+185
+00:14:47,340 --> 00:14:49,340
+Nein, in der letzten Zeit nicht.
+
+186
+00:14:49,340 --> 00:15:04,140
+Sie sind schmerzendauerhaft.
+
+187
+00:15:04,140 --> 00:15:06,140
+Sie sind schmerzendauerhaft?
+
+188
+00:15:06,140 --> 00:15:08,140
+Ja, seit drei Tagen.
+
+189
+00:15:08,140 --> 00:15:12,920
+Danke, Doktor.
+
+190
+00:15:12,920 --> 00:15:14,920
+Wie geht es denn weiter?
+
+191
+00:15:14,920 --> 00:15:17,920
+Was habe ich denn gemacht?
+
+192
+00:15:17,920 --> 00:15:23,920
+Herr Becker, ich vermute, dass Sie eine Erdenprobleme haben.
+
+193
+00:15:23,920 --> 00:15:27,920
+Aber das ist eigentlich etwas,
+
+194
+00:15:27,920 --> 00:15:33,920
+das ich zuerst die Körperhüter untersuchen.
+
+195
+00:15:33,920 --> 00:15:39,920
+Danach brauchen wir Lobo- und Bildgebände untersuchen.
+
+196
+00:15:39,920 --> 00:15:46,920
+Wenn wir alle Ergebnisse erlangen,
+
+197
+00:15:46,920 --> 00:15:51,920
+werden wir das weitere Problem beitragen.
+
+198
+00:15:51,920 --> 00:15:57,920
+Sie nehmen Sie bitte Platz.
+
+199
+00:15:57,920 --> 00:15:59,920
+Ich komme gleich.
+
+200
+00:15:59,920 --> 00:16:02,920
+Danke schön, Herr Doktor.
+
+201
+00:16:02,920 --> 00:16:13,580
+Haben Leute Fragen?
+
+202
+00:16:13,580 --> 00:16:21,020
+Ich habe eine Frage.
+
+203
+00:16:21,020 --> 00:16:26,020
+Haben Sie Kraftverlust beim Greifen oder Halten?
+
+204
+00:16:26,020 --> 00:16:31,020
+Wenn ich mein Arm zumiert ziehe,
+
+205
+00:16:31,020 --> 00:16:36,020
+dann habe ich meinen Bezirksgericht.
+
+206
+00:16:36,020 --> 00:16:39,020
+Sie haben keine Kraftverlust im Finger.
+
+207
+00:16:39,020 --> 00:16:45,020
+Ich habe den Finger nicht auf meinem Ellenbogen.
+
+208
+00:16:45,020 --> 00:16:48,020
+Bei den Beugen meines Ellenbogens.
+
+209
+00:16:48,020 --> 00:16:50,020
+Danke.
+
+210
+00:16:50,020 --> 00:17:08,040
+Hallo.
+
+211
+00:17:08,040 --> 00:17:15,910
+Hat jemand weitere Fragen?
+
+212
+00:17:15,910 --> 00:17:18,910
+Haben Sie Gestörungen?
+
+213
+00:17:18,910 --> 00:17:21,910
+Nein.
+
+214
+00:17:21,910 --> 00:17:25,910
+Haben Sie gestauter Halswänen bemerkt?
+
+215
+00:17:25,910 --> 00:17:28,910
+Nein, habe ich nicht.
+
+216
+00:17:28,910 --> 00:17:36,810
+Ich habe eine Frage.
+
+217
+00:17:36,810 --> 00:17:41,810
+Können Sie irgendeine Naken in alle Richtungen bewegen?
+
+218
+00:17:41,810 --> 00:17:44,810
+Ich habe eine Halswäbelseule.
+
+219
+00:17:44,810 --> 00:17:48,810
+Ich kann es bewegen, aber wenn ich nach rechts drehe,
+
+220
+00:17:48,810 --> 00:17:50,810
+ist es eingeschränkt.
+
+221
+00:17:50,810 --> 00:17:52,810
+Schmerzhaft eingeschränkt.
+
+222
+00:17:52,810 --> 00:18:13,920
+Ich kann drehen, aber es tut weh.
+
+223
+00:18:13,920 --> 00:18:16,920
+Herr Kollege, brauchen Sie es?
+
+224
+00:18:16,920 --> 00:18:19,920
+Nein, ich möchte noch.
+
+225
+00:18:19,920 --> 00:18:25,610
+Ich kann mich anfangen.
+
+226
+00:18:25,610 --> 00:18:29,610
+Dann kann ich vielleicht noch mal stoppen.
+
+227
+00:18:29,610 --> 00:18:32,610
+Die 1,5 Minuten ist da.
+
+228
+00:18:32,610 --> 00:18:35,610
+Geht das?
+
+229
+00:18:35,610 --> 00:18:38,610
+Los geht es.
+
+230
+00:18:38,610 --> 00:18:41,610
+Guten Abend Herr Oberarzt.
+
+231
+00:18:41,610 --> 00:18:44,610
+Ich habe einen neuen Patienten.
+
+232
+00:18:44,610 --> 00:18:47,610
+Er heißt Julius Mecker.
+
+233
+00:18:47,610 --> 00:18:51,610
+Er ist 49 Jahre alt.
+
+234
+00:18:51,610 --> 00:18:55,610
+Er kam zu uns wegen,
+
+235
+00:18:55,610 --> 00:19:00,610
+seit 3 Tagen bestehende,
+
+236
+00:19:00,610 --> 00:19:04,610
+siehende und tunemende Schmerz,
+
+237
+00:19:04,610 --> 00:19:07,610
+Naken-Schmerzen.
+
+238
+00:19:07,610 --> 00:19:11,610
+Die Schmerzen strahlen in den Rechten ab.
+
+239
+00:19:11,610 --> 00:19:16,610
+Der Patient berichtet,
+
+240
+00:19:16,610 --> 00:19:23,610
+dass die Schmerzen langsam aufgetreten sind.
+
+241
+00:19:23,610 --> 00:19:27,610
+Darüber hinaus berichtet der Patient,
+
+242
+00:19:27,610 --> 00:19:33,610
+dass die Schmerzen dauerhaft sind.
+
+243
+00:19:33,610 --> 00:19:44,610
+Die Schmerzen liegen bei 7,10 auf einer Schmerzskala.
+
+244
+00:19:44,610 --> 00:19:55,610
+Darüber hinaus gibt der Patient an,
+
+245
+00:19:55,610 --> 00:20:07,610
+dass sie die Schmerzen im Rechten oberenextrinten haben.
+
+246
+00:20:07,610 --> 00:20:13,610
+Die Frage nach Arstisi,
+
+247
+00:20:13,610 --> 00:20:21,610
+womit es nausea und Herzprobleme wurden verneint.
+
+248
+00:20:21,610 --> 00:20:26,610
+Außerdem gibt der Patient an,
+
+249
+00:20:26,610 --> 00:20:30,610
+dass sie gegen diese Schmerzen
+
+250
+00:20:30,610 --> 00:20:35,610
+Ibuprofen 600 Milligramm eingenommen haben
+
+251
+00:20:35,610 --> 00:20:42,610
+und das Medikament hat ihm geholfen.
+
+252
+00:20:42,610 --> 00:20:49,610
+In der Vegetativenanlage ist unaufhörig,
+
+253
+00:20:49,610 --> 00:20:54,610
+andere Vorerkrankungen sind arteriale Hypertomie
+
+254
+00:20:54,610 --> 00:20:59,610
+und Hypertkulistromemie bekannt.
+
+255
+00:20:59,610 --> 00:21:04,610
+Der Patient leidet seit 3 Jahren arteriale Hypertomie
+
+256
+00:21:04,610 --> 00:21:13,610
+und er nimmt 7 Milligramm morgens ein
+
+257
+00:21:13,610 --> 00:21:21,610
+und er nimmt auch 27 Milligramm abends.
+
+258
+00:21:21,610 --> 00:21:25,610
+Seit 3 Jahren.
+
+259
+00:21:25,610 --> 00:21:31,610
+Allergen sind unbekannt, nicht bekannt
+
+260
+00:21:31,610 --> 00:21:41,610
+und bislang ist der Patient bislang
+
+261
+00:21:41,610 --> 00:21:45,610
+keine Operationen erpuppt.
+
+262
+00:21:45,610 --> 00:21:48,610
+Die Kotinkonsum wurde verneint
+
+263
+00:21:48,610 --> 00:21:58,610
+und Herr Becker trägt 2-3 Glas Wein pro Woche
+
+264
+00:21:58,610 --> 00:22:01,610
+und der Drugkonsum wurde verneint.
+
+265
+00:22:01,610 --> 00:22:06,610
+Im Funkstatus und Reisananlage ist unaufhörig.
+
+266
+00:22:06,610 --> 00:22:13,610
+In der Familienanlage hat sein Vater
+
+267
+00:22:13,610 --> 00:22:19,610
+arteriale Hypertomie und seine Mutter
+
+268
+00:22:19,610 --> 00:22:22,610
+hat Diabetes mellitus
+
+269
+00:22:23,610 --> 00:22:29,610
+Der Patient hat einen gesunden Bruder
+
+270
+00:22:29,610 --> 00:22:35,610
+und er ist verheiratet und hat 2 Gesunde Kinder.
+
+271
+00:22:35,610 --> 00:22:41,610
+Der Patient arbeitet als Solbeamter
+
+272
+00:22:41,610 --> 00:22:46,610
+und hat ein kleines Subtom
+
+273
+00:22:46,610 --> 00:22:50,610
+und eine Anämnese durch den Amnest
+
+274
+00:22:50,610 --> 00:22:55,610
+Stereokalertiskussrolapsus hin.
+
+275
+00:22:55,610 --> 00:23:00,610
+Differenzialdiagnostisch kommen
+
+276
+00:23:00,610 --> 00:23:04,610
+folgende Erkrankungen.
+
+277
+00:23:04,610 --> 00:23:08,610
+Muskelverschüpfelung,
+
+278
+00:23:08,610 --> 00:23:19,610
+Spinaldegenerative Erkrankungen.
+
+279
+00:23:19,610 --> 00:23:23,610
+Wo und wann fahren Sie mit der Erkrankung?
+
+280
+00:23:23,610 --> 00:23:27,610
+Selbkalt Spinalkonaxthenose.
+
+281
+00:23:27,610 --> 00:23:30,610
+Im welchen Bereich?
+
+282
+00:23:30,610 --> 00:23:32,610
+Sie sagen ja nur,
+
+283
+00:23:32,610 --> 00:23:36,610
+eventuell, dass da die degenerative Erkrankung wäre,
+
+284
+00:23:36,610 --> 00:23:39,610
+dann sollte es auch Ruhe sein.
+
+285
+00:23:39,610 --> 00:23:42,610
+Also eine Haltschöresolle.
+
+286
+00:23:42,610 --> 00:23:47,610
+Was kennen Sie da als einige Beispiele?
+
+287
+00:23:47,610 --> 00:23:51,610
+Spinalkanalthenose haben Sie gesagt,
+
+288
+00:23:51,610 --> 00:23:54,610
+eine, was noch,
+
+289
+00:23:54,610 --> 00:23:58,610
+eine aus der Perose.
+
+290
+00:23:58,610 --> 00:24:02,610
+Würde aus der Perose Schmerzen machen?
+
+291
+00:24:02,610 --> 00:24:07,610
+Nein, nein.
+
+292
+00:24:07,610 --> 00:24:14,610
+Oder wie bei so einer Praktur?
+
+293
+00:24:14,610 --> 00:24:17,610
+Praktur, ja, kann es auch sein.
+
+294
+00:24:17,610 --> 00:24:22,610
+Oder Rufenmachs Erkrankungen,
+
+295
+00:24:22,610 --> 00:24:26,610
+Spinalkort Erkrankungen wie Syringomile.
+
+296
+00:24:26,610 --> 00:24:30,610
+Kann auch diese machen.
+
+297
+00:24:30,610 --> 00:24:33,610
+Weiter.
+
+298
+00:24:33,610 --> 00:24:36,610
+Ihr Verdacht, ja,
+
+299
+00:24:36,610 --> 00:24:40,610
+Hauptgedacht, Thenose ist ein
+
+300
+00:24:40,610 --> 00:24:43,610
+Zervikalaban-Scherferfall.
+
+301
+00:24:43,610 --> 00:24:45,610
+Oder Prolaps.
+
+302
+00:24:45,610 --> 00:24:47,610
+Sollte sich die Verdacht auf Zervikalaban-Scherferfall
+
+303
+00:24:47,610 --> 00:24:49,610
+prolapses einverhalten,
+
+304
+00:24:49,610 --> 00:24:52,610
+würde ich folgende Therapie vorschlagen.
+
+305
+00:24:52,610 --> 00:24:55,610
+Würden Sie direkt zur Therapie gehen?
+
+306
+00:24:55,610 --> 00:24:58,610
+Oder würden Sie nachweisen,
+
+307
+00:24:58,610 --> 00:25:01,610
+ob das wirklich so ist?
+
+308
+00:25:01,610 --> 00:25:04,610
+Oder ausschließen, ob etwas anderes wäre?
+
+309
+00:25:04,610 --> 00:25:07,610
+Ja, so erst würde ich
+
+310
+00:25:07,610 --> 00:25:10,610
+Körperbeschandte besuchen.
+
+311
+00:25:10,610 --> 00:25:12,610
+Bei den Körperbeschandte
+
+312
+00:25:12,610 --> 00:25:13,610
+würde ich Muskelkraft
+
+313
+00:25:13,610 --> 00:25:16,610
+lauthalten.
+
+314
+00:25:16,610 --> 00:25:19,610
+Und
+
+315
+00:25:19,610 --> 00:25:23,610
+dann würde ich
+
+316
+00:25:23,610 --> 00:25:26,610
+Blutlabo
+
+317
+00:25:26,610 --> 00:25:29,610
+beurteilen.
+
+318
+00:25:29,610 --> 00:25:32,610
+Bei den Blutlabo würde ich
+
+319
+00:25:32,610 --> 00:25:35,610
+Blutbild, CRP
+
+320
+00:25:35,610 --> 00:25:39,080
+und BSC
+
+321
+00:25:39,080 --> 00:25:42,080
+ütieren.
+
+322
+00:25:42,080 --> 00:25:45,080
+Als bildgebende Verfahren würde ich
+
+323
+00:25:45,080 --> 00:25:48,080
+schon kennen, das heißt, wie man solle
+
+324
+00:25:48,080 --> 00:25:52,080
+Schwaben und MFT
+
+325
+00:25:52,080 --> 00:25:55,080
+als wir bei solle
+
+326
+00:25:55,080 --> 00:25:58,080
+veranlassten.
+
+327
+00:25:58,080 --> 00:26:01,080
+Sollte sich die Verdacht auf
+
+328
+00:26:01,080 --> 00:26:04,080
+zervikalables prolapses
+
+329
+00:26:04,080 --> 00:26:07,080
+ütieren, würde ich
+
+330
+00:26:07,080 --> 00:26:10,080
+folgende Therapie vorschlagen.
+
+331
+00:26:10,080 --> 00:26:13,080
+Zuerst würde ich
+
+332
+00:26:13,080 --> 00:26:16,080
+nichts zu redeln,
+
+333
+00:26:16,080 --> 00:26:19,080
+sondern auch zu spät.
+
+334
+00:26:19,080 --> 00:26:22,080
+Ich würde auch
+
+335
+00:26:22,080 --> 00:26:25,080
+Vitamin B12
+
+336
+00:26:25,080 --> 00:26:28,080
+verabreichen.
+
+337
+00:26:28,080 --> 00:26:31,080
+Ich würde auch
+
+338
+00:26:31,080 --> 00:26:33,080
+Physiotherapie
+
+339
+00:26:33,080 --> 00:26:36,080
+veranlassen.
+
+340
+00:26:36,080 --> 00:26:39,080
+Laut der MRT-Befunde
+
+341
+00:26:39,080 --> 00:26:42,080
+und
+
+342
+00:26:42,080 --> 00:26:45,080
+Therapieergebnisse würde ich
+
+343
+00:26:45,080 --> 00:26:47,080
+mit dem Verfahren
+
+344
+00:26:47,080 --> 00:26:50,080
+operativ vorschlagen.
+
+345
+00:26:50,080 --> 00:26:53,080
+Bei
+
+346
+00:26:53,080 --> 00:26:56,080
+Röntgen
+
+347
+00:26:56,080 --> 00:26:59,080
+ist es
+
+348
+00:26:59,080 --> 00:27:02,080
+eine Röntgenaufnahme
+
+349
+00:27:02,080 --> 00:27:05,080
+zu erkennen.
+
+350
+00:27:05,080 --> 00:27:08,080
+Oder wenn Sie eine Röntgenaufnahme
+
+351
+00:27:08,080 --> 00:27:11,080
+in zwei Ebenen durchschönen lassen,
+
+352
+00:27:11,080 --> 00:27:14,080
+dann könnten Sie ausschließen?
+
+353
+00:27:14,080 --> 00:27:17,080
+Was kann man in Röntgen sehen?
+
+354
+00:27:17,080 --> 00:27:20,080
+Welche Erkrankungen
+
+355
+00:27:20,080 --> 00:27:23,080
+können Sie sehen oder nicht sehen?
+
+356
+00:27:23,080 --> 00:27:26,080
+Ich schließe
+
+357
+00:27:26,080 --> 00:27:29,080
+aus, ob
+
+358
+00:27:29,080 --> 00:27:32,080
+eine Wirbelsäule
+
+359
+00:27:32,080 --> 00:27:35,080
+fragtüft gibt
+
+360
+00:27:35,080 --> 00:27:38,080
+oder Dislocation gibt.
+
+361
+00:27:38,080 --> 00:27:41,080
+Man könnte etwas noch sehen.
+
+362
+00:27:41,080 --> 00:27:44,080
+Leidwirbel
+
+363
+00:27:44,080 --> 00:27:47,080
+würden Sie das lateinisch nennen?
+
+364
+00:27:47,080 --> 00:27:50,080
+Die Stilistäse
+
+365
+00:27:50,080 --> 00:27:53,080
+Röntgen kann man
+
+366
+00:27:53,080 --> 00:27:56,080
+indirekt auch etwas sagen.
+
+367
+00:27:56,080 --> 00:27:59,080
+Über den Bandscheibenfach, wenn der sich
+
+368
+00:27:59,080 --> 00:28:02,080
+verändert,
+
+369
+00:28:02,080 --> 00:28:05,080
+dann kann man
+
+370
+00:28:05,080 --> 00:28:08,080
+eine Ostschundrose erkennen.
+
+371
+00:28:08,080 --> 00:28:11,080
+Wenn der Bandscheibenfach weniger wird,
+
+372
+00:28:11,080 --> 00:28:14,080
+dann kann man die
+
+373
+00:28:14,080 --> 00:28:17,080
+Gelenkfläche, der über die
+
+374
+00:28:17,080 --> 00:28:20,080
+Röntgenaufnahme,
+
+375
+00:28:20,080 --> 00:28:34,080
+die
+
+376
+00:28:34,080 --> 00:28:37,080
+Übergang zwischen Bandscheiben und Knochen
+
+377
+00:28:37,080 --> 00:28:40,080
+nicht regelmäßig ist,
+
+378
+00:28:40,080 --> 00:28:43,080
+eine Ostschundrose sehen.
+
+379
+00:28:43,080 --> 00:28:46,080
+Aber ein Bandscheibenvorfall, können wir das sehen?
+
+380
+00:28:46,080 --> 00:28:49,080
+Nein.
+
+381
+00:28:49,080 --> 00:28:52,080
+Wie können Sie das verwenden?
+
+382
+00:28:52,080 --> 00:28:55,080
+Welche Aufnahmen
+
+383
+00:28:55,080 --> 00:28:58,080
+würden Sie sonst veranlassen?
+
+384
+00:28:58,080 --> 00:29:01,080
+Sie haben gesagt, es ist ein Bandscheibenvorfall.
+
+385
+00:29:01,080 --> 00:29:04,080
+Es ist eine gefährliche Untersuchung?
+
+386
+00:29:04,080 --> 00:29:07,080
+Nein, das ist keine
+
+387
+00:29:07,080 --> 00:29:10,080
+gefährliche Untersuchung.
+
+388
+00:29:10,080 --> 00:29:13,080
+Aber mit den beiden MRT
+
+389
+00:29:13,080 --> 00:29:16,080
+können wir weich teilen
+
+390
+00:29:16,080 --> 00:29:19,080
+das organische Beruf teilen.
+
+391
+00:29:19,080 --> 00:29:22,080
+Besonders Spinalcourt, Bandscheiben
+
+392
+00:29:22,080 --> 00:29:25,080
+und Bindegewebe.
+
+393
+00:29:25,080 --> 00:29:28,080
+Das ist eine gefährliche Untersuchung.
+
+394
+00:29:28,080 --> 00:29:31,080
+Das ist eine gefährliche Untersuchung.
+
+395
+00:29:31,080 --> 00:29:34,080
+Bindegewebe teilen.
+
+396
+00:29:34,080 --> 00:29:37,080
+Ok, gut.
+
+397
+00:29:37,080 --> 00:29:40,080
+Von meiner Seite aus,
+
+398
+00:29:40,080 --> 00:29:43,080
+haben Sie Fragen?
+
+399
+00:29:43,080 --> 00:29:46,080
+Hat jemand in der Gruppe Fragen?
+
+400
+00:29:46,080 --> 00:29:54,010
+Kann jemand etwas ergänzen?
+
+401
+00:29:54,010 --> 00:29:58,540
+Man kann auch sagen,
+
+402
+00:29:58,540 --> 00:30:01,540
+dass diese alle differenzialen Diagnose sind.
+
+403
+00:30:01,540 --> 00:30:03,540
+Nein, das ist sehr komplex.
+
+404
+00:30:03,540 --> 00:30:12,040
+Du kannst es sagen, das ist eine sehr komplexe Band-Charm für die Alberta Disco Scrollabs.
+
+405
+00:30:12,040 --> 00:30:13,540
+Aber die Scrollabs erzählen es schon.
+
+406
+00:30:13,540 --> 00:30:16,040
+Du kannst mir ein weiteres Programm zeigen.
+
+407
+00:30:16,040 --> 00:30:20,540
+Wenn wir in der Türkei ein Band-Charm haben,
+
+408
+00:30:20,540 --> 00:30:22,540
+wenn wir in der Türkei ein Band-Charm haben,
+
+409
+00:30:22,540 --> 00:30:24,540
+dann wird es ein extra Disco-Roller.
+
+410
+00:30:24,540 --> 00:30:27,540
+Das wird ein extra Disco-Roller.
+
+411
+00:30:27,540 --> 00:30:29,540
+Dann wird es ein extra Disco-Roller.
+
+412
+00:30:29,540 --> 00:30:37,540
+Das wird ein extra Disco-Roller.
+
+413
+00:30:37,540 --> 00:30:43,540
+oder die Zächer, die die Zächer verabschieden.
+
+414
+00:30:43,540 --> 00:30:48,540
+Das ist eine sehr gute Frage.
+
+415
+00:30:48,540 --> 00:30:54,540
+Können Sie noch einmal beschreiben,
+
+416
+00:30:54,540 --> 00:30:59,540
+diese Aufdruckschritte?
+
+417
+00:30:59,540 --> 00:31:02,540
+Welches?
+
+418
+00:31:02,540 --> 00:31:15,540
+bei der zwischen der unterschied zwischen Bandscheid vor Wölkung und vor Fall besteht darin,
+
+419
+00:31:15,540 --> 00:31:26,540
+dass die Bandscheibe besteht aus einer Kapsel und einem galertigen Inhalt.
+
+420
+00:31:26,540 --> 00:31:45,540
+Wenn die Kapsel nicht mehr in Takt ist, dann nennt man eine Vorwölbung, also Veränderung der Bandschabstruktur
+
+421
+00:31:45,540 --> 00:31:56,540
+im Berichtung des Kanals, nennt man dann eine Vorwölbung und wenn die Kapsel nicht mehr in Takt ist,
+
+422
+00:31:56,540 --> 00:32:01,540
+dann tritt der galertige Inhalt nach außen aus.
+
+423
+00:32:01,540 --> 00:32:11,540
+Das Austreten dieser galertigen Inhalts nennt man dann ein Bandscheiben vor Fall,
+
+424
+00:32:11,540 --> 00:32:17,540
+oder ein Diskus Prolaps oder ein Bandscheim Prolaps.
+
+425
+00:32:17,540 --> 00:32:23,540
+Dateinisch oder Deutsch, Datein Deutsch kann man das sagen, wie man es möchte.
+
+426
+00:32:24,540 --> 00:32:31,540
+Als Differenzialdiagnosen an der Hasfiebersäule würde ich generell, kann man immer sagen,
+
+427
+00:32:31,540 --> 00:32:42,540
+einmal eine Facettengelenksartrose zum Beispiel, ein Schmerz kann auch mit Aufstrahlung auftreten
+
+428
+00:32:43,540 --> 00:33:01,550
+oder Spinalkalansternose, Spondylylistesis und Osteoschondrose können auch Problem machen
+
+429
+00:33:01,550 --> 00:33:05,550
+oder Neuroforamensternosen sozusagen.
+
+430
+00:33:05,550 --> 00:33:15,550
+Oder extrem wäre zum Beispiel fragturen, pathologische Frakturen, zum Beispiel fragturen durch Tumor bedingt
+
+431
+00:33:15,550 --> 00:33:24,550
+oder auch wie der Kollege vorhin sagte, dass man im Spinal irgendwelche Erkrankungen hat,
+
+432
+00:33:24,550 --> 00:33:28,550
+Syringo, Myolytis oder sowas in der Richtung.
+
+433
+00:33:28,550 --> 00:33:34,550
+Also, was eher nicht orthopedisch, sondern eher neurologisch Erkrankungen sind
+
+434
+00:33:34,550 --> 00:33:36,550
+oder neurologisch Erkrankungen sind.
