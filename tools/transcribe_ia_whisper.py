@@ -1,4 +1,4 @@
-# --- file: tools/transcribe_ia_whisper.py ---
+# file: tools/transcribe_ia_whisper.py
 """
 Internet Archive .m4a -> German .txt + .srt (Whisper small). One-by-one download only.
 
@@ -173,7 +173,10 @@ def transcribe_with_faster_whisper(
         vad_filter=vad_filter,
     )
 
-    _eprint(f"Detected language: {getattr(info, 'language', 'unknown')} | Duration: {getattr(info, 'duration', 'unknown')}")
+    _eprint(
+        f"Detected language: {getattr(info, 'language', 'unknown')} | "
+        f"Duration: {getattr(info, 'duration', 'unknown')}"
+    )
     return [Segment(float(s.start), float(s.end), str(s.text)) for s in seg_iter]
 
 
@@ -202,7 +205,8 @@ def main() -> int:
     metadata = fetch_item_metadata(args.identifier)
     all_m4a = filter_by_match(extract_m4a_filenames(metadata), args.match)
 
-    if args.list-missing-json:
+    # ✅ FIX: argparse converts --list-missing-json -> args.list_missing_json
+    if args.list_missing_json:
         sys.stdout.write(json.dumps(missing_files(all_m4a, out_dir), ensure_ascii=False))
         return 0
 
