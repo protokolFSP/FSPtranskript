@@ -1,4 +1,4 @@
-# --- file: .github/workflows/transcribe-batch-parallel.yml ---
+# file: .github/workflows/transcribe-batch-parallel.yml
 name: Transcribe IA batch (parallel)
 
 on:
@@ -22,6 +22,9 @@ concurrency:
   group: ia-transcribe
   cancel-in-progress: false
 
+env:
+  IA_IDENTIFIER: vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25
+
 jobs:
   prepare:
     runs-on: ubuntu-latest
@@ -31,12 +34,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Debug repo tree (fails fast if tool missing)
-        run: |
-          pwd
-          ls -la
-          find . -maxdepth 4 -type f | sort
-          test -f tools/transcribe_ia_whisper.py
+      - name: Upload transcribe tool (avoid checkout in matrix jobs)
+        uses: actions/upload-artifact@v4
+        with:
+          name: tooling
+          path: tools/transcribe_ia_whisper.py
 
       - uses: actions/setup-python@v5
         with:
@@ -50,7 +52,6 @@ jobs:
       - id: pick
         name: Pick next missing files
         env:
-          IA_IDENTIFIER: vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25
           BATCH_SIZE: ${{ inputs.batch_size }}
           MATCH: ${{ inputs.match }}
         run: |
@@ -91,7 +92,11 @@ jobs:
         item: ${{ fromJson(needs.prepare.outputs.matrix) }}
     timeout-minutes: 360
     steps:
-      - uses: actions/checkout@v4
+      - name: Download tool (no checkout)
+        uses: actions/download-artifact@v4
+        with:
+          name: tooling
+          path: tooling
 
       - name: Install system deps
         run: |
@@ -119,10 +124,9 @@ jobs:
 
       - name: Transcribe one file
         env:
-          IA_IDENTIFIER: vorhofflimmern-bei-bekannter-khk-dr-oemer-dr-remzi-09.05.25
           FILE: ${{ matrix.item.file }}
         run: |
-          python tools/transcribe_ia_whisper.py \
+          python tooling/transcribe_ia_whisper.py \
             --identifier "$IA_IDENTIFIER" \
             --out-dir "transcripts" \
             --file "$FILE" \
@@ -163,7 +167,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download all artifacts
+      - name: Download all transcript artifacts
         uses: actions/download-artifact@v4
         with:
           path: artifacts
