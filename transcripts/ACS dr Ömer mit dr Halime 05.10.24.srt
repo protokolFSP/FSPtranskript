@@ -1,0 +1,1915 @@
+1
+00:00:01,680 --> 00:00:13,680
+Guten Tag. Mein Name ist Cevick. Ich bin heute Ihre zuständige Ärztin auf dieser Station und möchte mit Ihnen das Anamnesegespräch durchführen.
+
+2
+00:00:13,680 --> 00:00:15,680
+Sind Sie damit einverstanden?
+
+3
+00:00:15,680 --> 00:00:18,680
+Aber natürlich. Bitte schön.
+
+4
+00:00:18,680 --> 00:00:24,680
+Okay. Bevor Sie mir Ihre aktuelle Beschwerden nennen, bräuchte ich einige persönliche Daten.
+
+5
+00:00:24,680 --> 00:00:28,680
+Sie können jederzeit fragen, wann etwas Ihnen unklar ist.
+
+6
+00:00:28,680 --> 00:00:31,680
+Also, wie heißen Sie?
+
+7
+00:00:31,680 --> 00:00:37,950
+Mein Name ist Hans Kanton.
+
+8
+00:00:37,950 --> 00:00:42,950
+Könnten Sie mir Ihren Nachnamen langsam bestabieren?
+
+9
+00:00:42,950 --> 00:00:48,950
+Kanton, wie in der Schweiz Kanton, also K-A-N-T-O-N.
+
+10
+00:00:48,950 --> 00:00:52,950
+Okay, Herr Kanton. Wie alt sind Sie?
+
+11
+00:00:52,950 --> 00:00:58,160
+Ich bin 48 Jahre alt.
+
+12
+00:00:58,160 --> 00:01:01,160
+Wie waren Sie genau geboren?
+
+13
+00:01:02,160 --> 00:01:11,160
+Am 23. August, 1900, was habe ich gesagt, 48?
+
+14
+00:01:11,160 --> 00:01:16,160
+76? Nein, 78.
+
+15
+00:01:16,160 --> 00:01:19,160
+78, ja.
+
+16
+00:01:19,160 --> 00:01:21,160
+76?
+
+17
+00:01:21,160 --> 00:01:23,160
+Ja, 76.
+
+18
+00:01:23,160 --> 00:01:25,160
+Pardon.
+
+19
+00:01:25,160 --> 00:01:28,160
+Wie groß sind Sie, Herr Kanton?
+
+20
+00:01:28,160 --> 00:01:31,160
+1,95 m.
+
+21
+00:01:31,160 --> 00:01:34,160
+Wie viel wiegen Sie zurzeit?
+
+22
+00:01:34,160 --> 00:01:37,160
+Ja, ein Moment, ein bisschen viel, 123 kg.
+
+23
+00:01:37,160 --> 00:01:40,160
+132?
+
+24
+00:01:40,160 --> 00:01:42,160
+23.
+
+25
+00:01:42,160 --> 00:01:44,160
+23, okay.
+
+26
+00:01:44,160 --> 00:01:48,160
+Vielen Dank für die Angaben, Herr Kanton.
+
+27
+00:01:48,160 --> 00:01:51,160
+Welche Beschwerden haben Sie? Was kann ich für Sie tun?
+
+28
+00:01:51,160 --> 00:01:53,160
+Herr Doktor, ich weiß nicht, wo ich anfangen soll.
+
+29
+00:01:53,160 --> 00:01:57,160
+Ich habe viele Beschwerden in den letzten 2-3 Tagen.
+
+30
+00:01:57,160 --> 00:02:01,160
+Ich habe seit ungefähr einem halben Jahr merke ich,
+
+31
+00:02:01,160 --> 00:02:06,160
+dass meine Luft bei Belastung immer weg bleibt, immer knapper wird.
+
+32
+00:02:06,160 --> 00:02:09,160
+Aber ich habe das nicht ernst genommen.
+
+33
+00:02:09,160 --> 00:02:12,160
+Jetzt wird das schlimmer.
+
+34
+00:02:12,160 --> 00:02:17,160
+Seit 3 Tagen habe ich so einen enge Gefühl und so einen Druck auf den Brust.
+
+35
+00:02:17,160 --> 00:02:22,160
+Deswegen habe ich jetzt Angst bekommen und bin hergekommen.
+
+36
+00:02:22,160 --> 00:02:30,160
+Sie haben seit einem halben Jahr Luftnot immer schlimmer geworden.
+
+37
+00:02:30,160 --> 00:02:34,160
+Seit 2-3 Tagen auch Luftnot und enge Gefühl.
+
+38
+00:02:34,160 --> 00:02:36,160
+Ja, genau.
+
+39
+00:02:36,160 --> 00:02:41,160
+Wo fühlen Sie diese enge Gefühl hinter dem Brustbein?
+
+40
+00:02:41,160 --> 00:02:43,160
+Hier vorne, genau.
+
+41
+00:02:43,160 --> 00:02:46,160
+Ich habe das Gefühl, dass die Strahl ein bisschen in den Hals
+
+42
+00:02:46,160 --> 00:02:49,160
+und so ein bisschen in die linke Schulter manchmal.
+
+43
+00:02:49,160 --> 00:02:52,160
+Und der linke auch manchmal komisch.
+
+44
+00:02:52,160 --> 00:02:54,160
+Genau.
+
+45
+00:02:54,160 --> 00:02:57,950
+Okay.
+
+46
+00:02:57,950 --> 00:03:05,950
+Herr Kanton, muss ich jetzt diese Gespräche kurz unterbrechen?
+
+47
+00:03:05,950 --> 00:03:14,950
+Ich muss Ihre Kreislaufwerte erst mal messen.
+
+48
+00:03:14,950 --> 00:03:19,950
+Ihre Vitalparameter werden von meinen Kollegen gemessen
+
+49
+00:03:19,950 --> 00:03:22,950
+und ich schreibe Ihnen ein EKG.
+
+50
+00:03:22,950 --> 00:03:29,950
+Wenn alles in Ordnung ist, können wir unser Gespräch fortfahren.
+
+51
+00:03:29,950 --> 00:03:31,950
+Ist das was Schlimmes?
+
+52
+00:03:31,950 --> 00:03:35,950
+Ja, ich kann jetzt nicht genau sagen, aber es könnte sein.
+
+53
+00:03:35,950 --> 00:03:41,950
+Aus Sicherheit wollte ich diese Untersuchungen erst mal durchführen.
+
+54
+00:03:41,950 --> 00:03:46,950
+Und auch Sauerstoffsetigung werde ich messen
+
+55
+00:03:46,950 --> 00:03:53,950
+und wir kommen Sie über die Nase, damit wir unsere Kreislaufwerte fortführen können.
+
+56
+00:03:53,950 --> 00:03:55,950
+Okay.
+
+57
+00:03:55,950 --> 00:04:03,950
+Sie haben enge Gefühl und auch haben Sie Schmerzen an der Brust?
+
+58
+00:04:03,950 --> 00:04:06,950
+Nicht immer, das kommt und geht.
+
+59
+00:04:06,950 --> 00:04:08,950
+Nur manchmal.
+
+60
+00:04:09,950 --> 00:04:12,950
+Wann kommen die Schmerzen?
+
+61
+00:04:12,950 --> 00:04:17,950
+Haben Sie etwas bemerkt, zum Beispiel bei Bewegung und Belastung?
+
+62
+00:04:17,950 --> 00:04:22,950
+Also wie ich schon sagte, wenn ich zu stark belaste, dann kommt es verstärkt.
+
+63
+00:04:22,950 --> 00:04:26,950
+Da kommt die Luftnot und danach dieses enge Gefühl.
+
+64
+00:04:26,950 --> 00:04:39,180
+Sie belassen zu stark und bekommen Sie diese Schmerzen, enge Gefühl und auch Luftnot?
+
+65
+00:04:39,180 --> 00:04:41,180
+Ja.
+
+66
+00:04:41,180 --> 00:04:43,180
+Okay.
+
+67
+00:04:43,180 --> 00:04:51,180
+Zum Beispiel, wie viele Treppen können Sie hochlaufen, ohne Luftnot zu bekommen?
+
+68
+00:04:51,180 --> 00:04:56,180
+Also früher bin ich drei, vier Stockwerke ohne Pause gelaufen.
+
+69
+00:04:56,180 --> 00:05:00,180
+Okay, dass ich jetzt nach einem Stockwerk ein bisschen stehen muss,
+
+70
+00:05:00,180 --> 00:05:05,180
+ein bisschen Luft atmen muss und dann weitermachen kann.
+
+71
+00:05:05,180 --> 00:05:08,180
+Seit zwei, drei Tagen meinen Sie.
+
+72
+00:05:08,180 --> 00:05:13,180
+Nur ein Stockwerk können Sie schaffen und dann Pause machen.
+
+73
+00:05:13,180 --> 00:05:23,690
+Genau.
+
+74
+00:05:23,690 --> 00:05:25,690
+Okay.
+
+75
+00:05:25,690 --> 00:05:29,690
+Hatten Sie ganz früher nicht beschwerden oder nur halben Jahr?
+
+76
+00:05:29,690 --> 00:05:31,690
+Das ist das erste Mal eigentlich.
+
+77
+00:05:31,690 --> 00:05:33,690
+Diese erste Mal.
+
+78
+00:05:33,690 --> 00:05:35,690
+Okay.
+
+79
+00:05:35,690 --> 00:05:39,690
+Und in laufender Zeit diese Beschwerden immer Schildimmer geworden?
+
+80
+00:05:39,690 --> 00:05:41,690
+Ja.
+
+81
+00:05:41,690 --> 00:05:47,690
+Auch am Anfang sind diese Schmerzen oder diese ganze Beschwerden plötzlich angefangen
+
+82
+00:05:47,690 --> 00:05:50,690
+oder langsam können Sie sagen?
+
+83
+00:05:50,690 --> 00:05:54,690
+Also seit zwei Tagen ging es eigentlich akut, muss ich sagen.
+
+84
+00:05:54,690 --> 00:05:56,690
+Okay.
+
+85
+00:05:56,690 --> 00:06:02,690
+Und wie viel Tag sind Ihre Schmerzen auf einer Schmerzkalafon,
+
+86
+00:06:02,690 --> 00:06:06,690
+null bis zehn, wobei null keine Schmerzen sind,
+
+87
+00:06:06,690 --> 00:06:09,690
+sehr heftige Schmerzen entspricht?
+
+88
+00:06:09,690 --> 00:06:12,690
+Also wenn es mal mit diesem Engige für meinen Sie,
+
+89
+00:06:12,690 --> 00:06:16,690
+und die Schmerzen, so fünf, sechs, würde ich sagen, wenn es mal kommt.
+
+90
+00:06:16,690 --> 00:06:18,690
+Wenn es mal kommt, fünf, sechs.
+
+91
+00:06:18,690 --> 00:06:22,690
+Und wie lange dauert diese Engige-Gefühl?
+
+92
+00:06:22,690 --> 00:06:25,690
+Eine halbe Stunde bleibt das schon.
+
+93
+00:06:25,690 --> 00:06:27,690
+Halbe Stunde, okay.
+
+94
+00:06:27,690 --> 00:06:33,060
+Immer halbe Stunde ungefähr.
+
+95
+00:06:33,060 --> 00:06:39,660
+Wenn Sie kommen, den Sie dauerhaft.
+
+96
+00:06:39,660 --> 00:06:41,660
+Wie dauerhaft?
+
+97
+00:06:41,660 --> 00:06:44,660
+Das bleibt schon.
+
+98
+00:06:44,660 --> 00:06:51,660
+Und wie viel Meter können Sie laufen, ohne Schmerzen
+
+99
+00:06:51,660 --> 00:06:54,660
+oder ohne Engige-Gefühl, ohne Luftnot zu haben?
+
+100
+00:06:54,660 --> 00:06:56,660
+Ja, dazu.
+
+101
+00:06:56,660 --> 00:06:58,660
+Beim Laufen merke ich das nicht so.
+
+102
+00:06:58,660 --> 00:07:01,660
+Es ist mehr, wenn ich eine körperliche Anstrengung habe.
+
+103
+00:07:01,660 --> 00:07:03,660
+Okay.
+
+104
+00:07:03,660 --> 00:07:05,660
+Normaler laufen nicht.
+
+105
+00:07:05,660 --> 00:07:07,660
+Normaler laufen keine.
+
+106
+00:07:07,660 --> 00:07:09,660
+Okay.
+
+107
+00:07:09,660 --> 00:07:17,330
+Wie können Sie diese Engige-Gefühl und Schmerzen beschreiben?
+
+108
+00:07:17,330 --> 00:07:21,330
+Sind Sie eher dumpf, brennend, zähend, stechend?
+
+109
+00:07:21,330 --> 00:07:23,330
+Nee, das ist eher so, da habe ich das Gefühl,
+
+110
+00:07:23,330 --> 00:07:26,330
+als ein großer Elefant mehr auf der Brust sitzt.
+
+111
+00:07:26,330 --> 00:07:30,330
+Engige-Gefühl, ja, so ein Stechen ist das eigentlich.
+
+112
+00:07:30,330 --> 00:07:32,330
+Okay.
+
+113
+00:07:32,330 --> 00:07:34,330
+Haben Sie dagegen etwas eingenommen?
+
+114
+00:07:34,330 --> 00:07:37,330
+Bist ja eigentlich noch nicht, nein.
+
+115
+00:07:37,330 --> 00:07:47,100
+Haben Sie deswegen beim anderen Arzt gesucht?
+
+116
+00:07:47,100 --> 00:07:49,100
+War ich noch nicht.
+
+117
+00:07:49,100 --> 00:07:51,100
+Ich wollte eigentlich nächste Woche zum Hausarzt,
+
+118
+00:07:51,100 --> 00:07:54,100
+aber nach den Beschmerzen jetzt doch so heftig geworden sind,
+
+119
+00:07:54,100 --> 00:07:56,100
+bin ich gleich zu Ihnen hierhergekommen.
+
+120
+00:07:56,100 --> 00:07:58,100
+Okay.
+
+121
+00:07:58,100 --> 00:08:02,100
+Haben Sie ein Auslöser- oder Versteckfaktor,
+
+122
+00:08:02,100 --> 00:08:04,100
+außer Belastung bemerkt?
+
+123
+00:08:04,100 --> 00:08:06,100
+Nein, eigentlich nicht.
+
+124
+00:08:06,100 --> 00:08:08,100
+Belastung, okay.
+
+125
+00:08:08,100 --> 00:08:09,100
+Was versteckt,
+
+126
+00:08:09,100 --> 00:08:13,100
+hat sich die Schmerzen erkannt und haben Sie etwas bemerkt?
+
+127
+00:08:13,100 --> 00:08:15,100
+Nein, weiß ich jetzt nicht.
+
+128
+00:08:15,100 --> 00:08:24,620
+Können Sie flach liegen in der letzten Zeit
+
+129
+00:08:24,620 --> 00:08:27,620
+oder seit diesen halben Jahren?
+
+130
+00:08:27,620 --> 00:08:29,620
+Flach liegen ist noch kein Problem, nein.
+
+131
+00:08:29,620 --> 00:08:34,860
+Okay, können Sie.
+
+132
+00:08:34,860 --> 00:08:37,860
+Haben Sie Beinschwellung?
+
+133
+00:08:37,860 --> 00:08:39,860
+Nein, bisher nicht, nein.
+
+134
+00:08:39,860 --> 00:08:41,860
+Beinschwellungen im Bein habe ich nicht bemerkt.
+
+135
+00:08:41,860 --> 00:08:43,860
+Nein, nicht, okay.
+
+136
+00:08:43,860 --> 00:08:46,860
+War Ihnen Schwindel?
+
+137
+00:08:46,860 --> 00:08:50,860
+Nein, Schwindelig.
+
+138
+00:08:50,860 --> 00:08:53,860
+Schwindelig.
+
+139
+00:08:53,860 --> 00:08:55,860
+Okay, nein.
+
+140
+00:08:55,860 --> 00:09:00,860
+Verspüren Sie Herzlagen, Herzstolpern oder Herzklopfen?
+
+141
+00:09:00,860 --> 00:09:02,860
+Also nicht, aber manchmal habe ich so einen kräftigen Herzschlag,
+
+142
+00:09:02,860 --> 00:09:04,860
+das stimmt.
+
+143
+00:09:04,860 --> 00:09:07,860
+Wenn die Schmerzen mal oder dieses Engelgeffen kommt,
+
+144
+00:09:07,860 --> 00:09:10,860
+dann habe ich das Gefühl, das klopft ganz kräftig
+
+145
+00:09:10,860 --> 00:09:16,860
+und das ist immer so, als ob es stolpert, diese Herzfrequenz.
+
+146
+00:09:16,860 --> 00:09:23,860
+Verspüren Sie diese Herzstolpern seit zwei bis drei Tagen oder?
+
+147
+00:09:23,860 --> 00:09:26,860
+Ja, da ist es verstärkt.
+
+148
+00:09:26,860 --> 00:09:30,860
+Das habe ich immer wieder gehabt, aber ich habe es nicht erkannt.
+
+149
+00:09:30,860 --> 00:09:32,860
+Okay, jetzt ist es stark.
+
+150
+00:09:32,860 --> 00:09:34,860
+Ja, ja.
+
+151
+00:09:34,860 --> 00:09:40,860
+Schwitzen Sie mehr Herkantun oder kalte Schweiz, haben Sie bemerkt?
+
+152
+00:09:40,860 --> 00:09:42,860
+Das habe ich nicht, nein.
+
+153
+00:09:42,860 --> 00:09:44,860
+Fühlen Sie sich fieberig?
+
+154
+00:09:44,860 --> 00:09:45,860
+Nein.
+
+155
+00:09:45,860 --> 00:09:47,860
+Nachtschweiß, haben Sie Nachtschweiß?
+
+156
+00:09:47,860 --> 00:09:49,860
+Nein, habe ich auch.
+
+157
+00:09:49,860 --> 00:09:50,860
+Okay.
+
+158
+00:09:50,860 --> 00:09:57,860
+Und haben Sie Blasehaut oder leuliche Veränderungen
+
+159
+00:09:57,860 --> 00:09:59,860
+an der Haut bemerkt?
+
+160
+00:09:59,860 --> 00:10:01,860
+Bin ich aufgefallen, nein.
+
+161
+00:10:01,860 --> 00:10:02,860
+Nein, okay.
+
+162
+00:10:02,860 --> 00:10:04,860
+Und wie ist die Appetit?
+
+163
+00:10:04,860 --> 00:10:07,860
+Also bisher ganz gut, ich bin mit 120 kg.
+
+164
+00:10:07,860 --> 00:10:09,860
+Appetit, gut.
+
+165
+00:10:09,860 --> 00:10:13,860
+Und in der letzten Zeit ab oder zu genommen?
+
+166
+00:10:13,860 --> 00:10:15,860
+Nein, alles unbefällt.
+
+167
+00:10:15,860 --> 00:10:16,860
+Okay.
+
+168
+00:10:16,860 --> 00:10:18,860
+Abnehmen, aber ich schaffe es nicht so.
+
+169
+00:10:18,860 --> 00:10:22,860
+Haben Sie Schwierigkeiten beim Wasserlassen oder Stuhlgang?
+
+170
+00:10:22,860 --> 00:10:23,860
+Nein.
+
+171
+00:10:23,860 --> 00:10:25,860
+Ab die Toilette in der Nacht?
+
+172
+00:10:25,860 --> 00:10:27,860
+Nein, nein.
+
+173
+00:10:27,860 --> 00:10:28,860
+Häufig?
+
+174
+00:10:28,860 --> 00:10:29,860
+Nein, alles gut.
+
+175
+00:10:29,860 --> 00:10:30,860
+Stuhl auch in Ordnung?
+
+176
+00:10:30,860 --> 00:10:31,860
+Ja.
+
+177
+00:10:31,860 --> 00:10:32,860
+Okay.
+
+178
+00:10:32,860 --> 00:10:36,860
+Ist Ihnen übel oder war Ihnen übelt herkantun?
+
+179
+00:10:36,860 --> 00:10:42,860
+Nein, wenn du es enger gefühl kommst, dann hat man das Gefühl, es ist eine leichte Übelkeit dabei.
+
+180
+00:10:42,860 --> 00:10:43,860
+Okay.
+
+181
+00:10:43,860 --> 00:10:50,860
+Nein, aber müssten Sie schon erbrechen?
+
+182
+00:10:50,860 --> 00:10:51,860
+Nein.
+
+183
+00:10:51,860 --> 00:10:52,860
+Okay.
+
+184
+00:10:52,860 --> 00:10:54,860
+Und haben Sie Husten?
+
+185
+00:10:54,860 --> 00:10:55,860
+Nein.
+
+186
+00:10:55,860 --> 00:10:58,200
+Okay.
+
+187
+00:10:58,200 --> 00:11:00,200
+Schlafen Sie gut, normalerweise?
+
+188
+00:11:00,200 --> 00:11:02,200
+Ja, aber ich habe kein Problem.
+
+189
+00:11:02,200 --> 00:11:03,200
+Okay.
+
+190
+00:11:03,200 --> 00:11:07,200
+Jetzt komme ich zu Ihren Vorerkrankungen herkantun.
+
+191
+00:11:07,200 --> 00:11:10,200
+Leiden Sie andauerhaften Erkrankungen?
+
+192
+00:11:10,200 --> 00:11:11,200
+Nein.
+
+193
+00:11:11,200 --> 00:11:16,200
+Bluthochdruck, Zuckerkrankheiten, Beispiel oder erhöhte Blutfettwerte könnte sein?
+
+194
+00:11:16,200 --> 00:11:18,200
+Bisher nichts bekannt, ja.
+
+195
+00:11:18,200 --> 00:11:20,200
+Okay, das freut mich.
+
+196
+00:11:20,200 --> 00:11:23,200
+Und wurden Sie schon einmal operiert?
+
+197
+00:11:23,200 --> 00:11:25,200
+Nein, auch nicht.
+
+198
+00:11:25,200 --> 00:11:26,200
+Okay.
+
+199
+00:11:26,200 --> 00:11:32,640
+Nehmen Sie regelmäßig oder bei Bedarf Medikamente ein?
+
+200
+00:11:32,640 --> 00:11:36,640
+Ja, aber wenn ich mal Schmerzen habe, dann nehme ich mal einen E-Bö-Profen, aber
+
+201
+00:11:36,640 --> 00:11:39,640
+ansonsten habe ich keine Medikamente.
+
+202
+00:11:39,640 --> 00:11:40,640
+Okay.
+
+203
+00:11:40,640 --> 00:11:45,640
+Und sind Ihnen irgendwelche Allergien oder Unverträglichkeiten bekannt herkantun?
+
+204
+00:11:45,640 --> 00:11:47,640
+Nein, nicht eigentlich.
+
+205
+00:11:47,640 --> 00:11:49,640
+Ich habe keine Erkrankungen.
+
+206
+00:11:49,640 --> 00:11:51,640
+Ich habe keine Erkrankungen.
+
+207
+00:11:51,640 --> 00:11:54,640
+Ich habe keine Erkrankungen.
+
+208
+00:11:54,640 --> 00:11:56,640
+Ich habe keine Erkrankungen.
+
+209
+00:11:56,640 --> 00:11:58,640
+Ich habe keine Erkrankungen.
+
+210
+00:11:58,640 --> 00:12:00,640
+Ich habe keine Erkrankungen.
+
+211
+00:12:00,640 --> 00:12:03,640
+Okay, und sind Sie vollständig geimpft?
+
+212
+00:12:03,640 --> 00:12:05,640
+Auch gegen Corona?
+
+213
+00:12:05,640 --> 00:12:08,640
+Mein Haushaus hat mich mal vor vielen angesprochen.
+
+214
+00:12:08,640 --> 00:12:10,640
+Ich glaube, es fehlen ein paar Impfungen.
+
+215
+00:12:10,640 --> 00:12:13,640
+Die Tetanus, müsste ich glaube ich erneuern.
+
+216
+00:12:13,640 --> 00:12:16,640
+Corona-Impfungen habe ich die letzten zwei nicht gemacht.
+
+217
+00:12:16,640 --> 00:12:18,640
+Ich hatte da vor, hatte ich zwei schon.
+
+218
+00:12:18,640 --> 00:12:26,640
+Okay, ja. Achten Sie darauf, ja, Aufricht, Impfungen sind wichtig.
+
+219
+00:12:26,640 --> 00:12:30,640
+Ja, am Haushalt auch immer so. Ich mag.
+
+220
+00:12:30,640 --> 00:12:36,640
+Okay, das verstehe ich. Und waren Sie in der letzten Zeit im Ausland?
+
+221
+00:12:36,640 --> 00:12:37,640
+Nein.
+
+222
+00:12:37,640 --> 00:12:43,640
+Okay, jetzt komme ich zu Ihren Lebensgewohnheiten. Herr Kanton, rauchen Sie?
+
+223
+00:12:43,640 --> 00:12:47,640
+Ja, leider habe ich dieses Lasten ja.
+
+224
+00:12:47,640 --> 00:12:50,640
+Wie viel rauchen Sie täglich und seit wann?
+
+225
+00:12:50,640 --> 00:12:55,640
+Fragen Sie nicht nach. Also, das kann schon sein, bis zwei Packungen am Tag.
+
+226
+00:12:55,640 --> 00:12:57,640
+Mhm.
+
+227
+00:12:57,640 --> 00:12:59,640
+Und?
+
+228
+00:12:59,640 --> 00:13:02,640
+Seit wann rauchen Sie so?
+
+229
+00:13:02,640 --> 00:13:04,640
+Auch über 30 Jahre schon.
+
+230
+00:13:04,640 --> 00:13:06,640
+35?
+
+231
+00:13:06,640 --> 00:13:07,640
+Ja, ungefähr.
+
+232
+00:13:07,640 --> 00:13:13,640
+Oh, das ist aber zu viel. Haben Sie einmal versucht, damit auch zu hören?
+
+233
+00:13:13,640 --> 00:13:16,640
+Ja, ich habe schon mehrfach, aber ich schaffte es irgendwie nicht.
+
+234
+00:13:16,640 --> 00:13:21,640
+Okay, ja. Wenn Sie wollen, können wir Sie dabei unterstützen.
+
+235
+00:13:21,640 --> 00:13:24,640
+Nach unserem Gespräch können wir darüber sprechen.
+
+236
+00:13:24,640 --> 00:13:26,640
+Wenn Sie wollen.
+
+237
+00:13:26,640 --> 00:13:28,640
+Ich würde sagen, wir machen erst mal hier.
+
+238
+00:13:28,640 --> 00:13:29,640
+Ja, natürlich.
+
+239
+00:13:29,640 --> 00:13:32,640
+Und das ist, glaube ich, eine langfristige Geschichte.
+
+240
+00:13:32,640 --> 00:13:35,640
+Okay. Trinken Sie Alkohol, Herr Kanton?
+
+241
+00:13:35,640 --> 00:13:37,640
+Ja, schon ab und zu.
+
+242
+00:13:37,640 --> 00:13:42,640
+Mhm. Was meinen Sie ab und zu, jeden Tag oder nur ab und zu?
+
+243
+00:13:42,640 --> 00:13:44,640
+Nur ab und zu.
+
+244
+00:13:44,640 --> 00:13:47,640
+Ja, so ein Bier am Abend, das können auch mal zwei Fleisch werden.
+
+245
+00:13:47,640 --> 00:13:49,640
+Ich glaube, das ist normal.
+
+246
+00:13:49,640 --> 00:13:51,640
+Sie sind hier auch Alkohol.
+
+247
+00:13:51,640 --> 00:13:52,640
+Mhm.
+
+248
+00:13:52,640 --> 00:13:56,640
+Aber manchmal zu einem Feier und auch mal ein Wein dazu.
+
+249
+00:13:56,640 --> 00:14:02,640
+Ja, okay. Feierlich dazu Wein, aber jeden Tag zwei Fleisch Bier täglich.
+
+250
+00:14:02,640 --> 00:14:03,640
+Ungefähr, ja.
+
+251
+00:14:03,640 --> 00:14:05,640
+Ungefähr. Seit wann?
+
+252
+00:14:05,640 --> 00:14:07,640
+Oh, auch schon.
+
+253
+00:14:07,640 --> 00:14:09,640
+22 Jahre, glaube ich.
+
+254
+00:14:09,640 --> 00:14:11,640
+Okay, das ist auch so viel.
+
+255
+00:14:11,640 --> 00:14:15,640
+Und jetzt, jetzt die Frage, nehmen Sie bitte nicht persönlich,
+
+256
+00:14:15,640 --> 00:14:17,640
+das ist eine Routimes-Gefrage.
+
+257
+00:14:17,640 --> 00:14:21,640
+Haben Sie oder hatten Sie einen Kontakt mit Drogen?
+
+258
+00:14:21,640 --> 00:14:24,640
+Ja, das meint ich jetzt genau mit Drogen.
+
+259
+00:14:24,640 --> 00:14:27,640
+Kokain oder Heroin habe ich nicht.
+
+260
+00:14:27,640 --> 00:14:30,640
+Aber kiffer manchmal schon.
+
+261
+00:14:30,640 --> 00:14:34,640
+Also das heißt, ich nehme Cannabis und so weiter.
+
+262
+00:14:34,640 --> 00:14:36,640
+Ja, das mache ich ab und zu.
+
+263
+00:14:36,640 --> 00:14:40,640
+Ja, Cannabis ab und zu nehmen Sie.
+
+264
+00:14:40,640 --> 00:14:41,640
+Okay.
+
+265
+00:14:41,640 --> 00:14:44,640
+Okay, ich denke.
+
+266
+00:14:44,640 --> 00:14:50,640
+Und jetzt möchte ich über Ihre Familie sprechen.
+
+267
+00:14:50,640 --> 00:14:55,640
+Haben Ihre Eltern irgendwelche Krankheiten?
+
+268
+00:14:55,640 --> 00:15:00,110
+Oh je, weiß ich jetzt nicht so genau.
+
+269
+00:15:00,110 --> 00:15:02,110
+Ich habe auch wenig Kontakt zu meinen Eltern,
+
+270
+00:15:02,110 --> 00:15:04,110
+aber so weit ich weiß,
+
+271
+00:15:04,110 --> 00:15:07,110
+hat mein Vater, glaube ich, einen Blutdruck.
+
+272
+00:15:07,110 --> 00:15:10,110
+Ich meine, die sind beide ganz fit, ja.
+
+273
+00:15:10,110 --> 00:15:13,110
+Die machen Wanderungen, die reisen rum.
+
+274
+00:15:13,110 --> 00:15:16,110
+Und meine Mutter nimmt ja auch so vieles ein,
+
+275
+00:15:16,110 --> 00:15:18,110
+mit Vitaminen und was auch immer.
+
+276
+00:15:18,110 --> 00:15:21,110
+Ich glaube, die hat keine Grundschneidankung bis zu viel.
+
+277
+00:15:21,110 --> 00:15:24,110
+Okay, leben Sie noch?
+
+278
+00:15:24,110 --> 00:15:26,110
+Ja, ja, ja.
+
+279
+00:15:26,110 --> 00:15:28,110
+Okay, das freut mich.
+
+280
+00:15:28,110 --> 00:15:30,110
+Und haben Sie Geschwister?
+
+281
+00:15:30,110 --> 00:15:32,110
+Nein.
+
+282
+00:15:32,110 --> 00:15:36,110
+Okay, Herr Kanton, sind Sie verheiratet?
+
+283
+00:15:36,110 --> 00:15:38,110
+Ja, ich bin verheiratet und habe zwei Kinder hier.
+
+284
+00:15:38,110 --> 00:15:40,110
+Sind Sie gesund?
+
+285
+00:15:40,110 --> 00:15:42,110
+Ja, Glückwunsch.
+
+286
+00:15:42,110 --> 00:15:43,110
+Gott sei Dank.
+
+287
+00:15:43,110 --> 00:15:45,110
+Und was machen Sie beruflich?
+
+288
+00:15:45,110 --> 00:15:47,110
+Ich bin Projektmanager.
+
+289
+00:15:47,110 --> 00:15:48,110
+Ja, gut.
+
+290
+00:15:48,110 --> 00:15:50,110
+Und haben Sie Stress bei der Arbeit?
+
+291
+00:15:50,110 --> 00:15:52,110
+Oh, nur.
+
+292
+00:15:52,110 --> 00:15:54,490
+Okay.
+
+293
+00:15:54,490 --> 00:15:56,490
+Und die letzte Frage,
+
+294
+00:15:56,490 --> 00:16:00,490
+wenn Sie diese enge Gefühl oder Luftnot
+
+295
+00:16:00,490 --> 00:16:02,490
+erst einmal bekommen haben,
+
+296
+00:16:02,490 --> 00:16:04,490
+in der letzten Zeit meine ich,
+
+297
+00:16:04,490 --> 00:16:06,490
+was haben Sie gemacht,
+
+298
+00:16:06,490 --> 00:16:09,490
+vielleicht viel Stress oder bei Belastung?
+
+299
+00:16:09,490 --> 00:16:12,490
+Ich meine, ich gebe das immer auf den Stress,
+
+300
+00:16:12,490 --> 00:16:14,490
+denn das haben wir jeden Tag.
+
+301
+00:16:14,490 --> 00:16:16,490
+Nicht besonders.
+
+302
+00:16:16,490 --> 00:16:18,490
+Okay.
+
+303
+00:16:18,490 --> 00:16:21,490
+Ich bin fertig mit meinen Fragen, Herr Kanton,
+
+304
+00:16:21,490 --> 00:16:23,490
+möchten Sie etwas hinzufügen?
+
+305
+00:16:23,490 --> 00:16:25,490
+Ja, aber es ist aus dem EKG geworden.
+
+306
+00:16:25,490 --> 00:16:27,490
+Sie haben doch vorhin noch ein bisschen Blut abgenommen.
+
+307
+00:16:27,490 --> 00:16:30,490
+Sie haben schon Ergebnis im EKG, können Sie etwas sehen?
+
+308
+00:16:30,490 --> 00:16:35,490
+Jetzt gibt es keine Auffälligkeiten,
+
+309
+00:16:35,490 --> 00:16:40,490
+aber sollen wir nochmal diese EKG wiederholen.
+
+310
+00:16:40,490 --> 00:16:44,490
+Und natürlich, ich werde sie körperlich untersuchen
+
+311
+00:16:44,490 --> 00:16:46,490
+und ihnen Blut abnehmen.
+
+312
+00:16:46,490 --> 00:16:47,490
+Okay.
+
+313
+00:16:47,490 --> 00:16:49,490
+Aber nach Ihren Angaben,
+
+314
+00:16:49,490 --> 00:16:53,490
+das könnte vom Herz verursachen.
+
+315
+00:16:53,490 --> 00:16:55,490
+Ah, okay.
+
+316
+00:16:55,490 --> 00:17:00,490
+Ich habe noch eine Frage für Sie, Herr Kanton.
+
+317
+00:17:00,490 --> 00:17:01,490
+Ja bitte.
+
+318
+00:17:01,490 --> 00:17:05,490
+Also, haben Sie auch ein Angstgefühl mit den Schmessen dabei?
+
+319
+00:17:05,490 --> 00:17:08,490
+Angstgefühl?
+
+320
+00:17:08,490 --> 00:17:14,550
+Angstgefühl.
+
+321
+00:17:14,550 --> 00:17:16,550
+Ja, ich habe noch eine Frage.
+
+322
+00:17:16,550 --> 00:17:19,550
+Ich habe noch eine Frage für Sie, Herr Kanton.
+
+323
+00:17:19,550 --> 00:17:21,550
+Ja bitte.
+
+324
+00:17:21,550 --> 00:17:27,550
+Also, haben Sie auch ein Angstgefühl mit den Schmessen dabei?
+
+325
+00:17:27,550 --> 00:17:29,550
+Angstgefühl.
+
+326
+00:17:29,550 --> 00:17:31,550
+Angstgefühl?
+
+327
+00:17:31,550 --> 00:17:33,550
+Es ist sehr beengend auf der Brüche.
+
+328
+00:17:33,550 --> 00:17:38,550
+Manchmal macht man Angst, aber es ist mehr mit dem Gefühl.
+
+329
+00:17:38,550 --> 00:17:40,550
+Das stimmt.
+
+330
+00:17:40,550 --> 00:17:44,550
+Müssten Sie nachts aufwachen?
+
+331
+00:17:44,550 --> 00:17:47,550
+Nein, das habe ich noch nicht erfahren.
+
+332
+00:17:47,550 --> 00:17:48,550
+Nein.
+
+333
+00:17:48,550 --> 00:17:53,240
+Okay, danke.
+
+334
+00:17:53,240 --> 00:17:56,240
+Schmerzintensität hat gefragt, hat gefragt, oder?
+
+335
+00:17:56,240 --> 00:17:57,240
+Herzkampf?
+
+336
+00:17:57,240 --> 00:17:58,240
+Ja.
+
+337
+00:17:58,240 --> 00:18:03,190
+5 oder 6 hat gesagt.
+
+338
+00:18:03,190 --> 00:18:06,190
+Dauergifrakt?
+
+339
+00:18:06,190 --> 00:18:08,190
+Hab auch gesagt, halbe Stunde je wurden.
+
+340
+00:18:08,190 --> 00:18:14,190
+Dauergifrakt, oder ich wäre gratifikifrakt.
+
+341
+00:18:14,190 --> 00:18:17,190
+Herz ist schon, ja.
+
+342
+00:18:17,190 --> 00:18:21,850
+Okay.
+
+343
+00:18:21,850 --> 00:18:25,850
+Benzi Brüche merzin bekommun geche noch etwas zu sagen,
+
+344
+00:18:25,850 --> 00:18:29,160
+bitte.
+
+345
+00:18:29,160 --> 00:18:32,160
+Ich habe gesagt nur Übelkeit.
+
+346
+00:18:32,160 --> 00:18:38,160
+Wenn Sie Brüche merzin haben, geche noch etwas zur Selbenzeit?
+
+347
+00:18:38,160 --> 00:18:40,160
+Nein, nein.
+
+348
+00:18:40,160 --> 00:18:42,160
+Nur Übelkeit?
+
+349
+00:18:42,160 --> 00:18:43,160
+Ja.
+
+350
+00:18:43,160 --> 00:18:50,180
+Okay.
+
+351
+00:18:50,180 --> 00:18:52,180
+Meine Fragen?
+
+352
+00:18:52,180 --> 00:18:54,180
+Natürlich hat gefragt.
+
+353
+00:18:54,180 --> 00:19:00,690
+Da machen wir alles als Gespräch?
+
+354
+00:19:00,690 --> 00:19:02,690
+Ja, bitte schön.
+
+355
+00:19:02,690 --> 00:19:05,690
+Brauchen Sie noch ein bisschen Zeit, Frau Doktor?
+
+356
+00:19:05,690 --> 00:19:08,690
+Ja, ich versuche.
+
+357
+00:19:08,690 --> 00:19:11,690
+Schönen Abend, liebe Oberarzt.
+
+358
+00:19:11,690 --> 00:19:15,690
+Ich habe heute mit einem neuen Patienten das an der Amnesi-Gespräch geführt.
+
+359
+00:19:15,690 --> 00:19:18,690
+Ah, Guten Abend, Frau Kolleginnen und neue Kolleginnen.
+
+360
+00:19:18,690 --> 00:19:20,690
+Und haben gut eingearbeitet.
+
+361
+00:19:20,690 --> 00:19:22,690
+Wie fühlen Sie sich?
+
+362
+00:19:22,690 --> 00:19:24,690
+Ja, ganz gut.
+
+363
+00:19:24,690 --> 00:19:25,690
+Danke.
+
+364
+00:19:25,690 --> 00:19:27,690
+Okay, das freut mich.
+
+365
+00:19:27,690 --> 00:19:29,690
+Dann erzählen Sie mal,
+
+366
+00:19:29,690 --> 00:19:31,690
+wie Sie sich das überlegen.
+
+367
+00:19:31,690 --> 00:19:34,690
+Es handelt sich um Hans Kanton.
+
+368
+00:19:34,690 --> 00:19:37,690
+Herr Kanton sei 48 Jahre alt.
+
+369
+00:19:37,690 --> 00:19:41,690
+Am 3. und 26.
+
+370
+00:19:41,690 --> 00:19:44,690
+19 unter 76 geboren.
+
+371
+00:19:44,690 --> 00:19:51,690
+1,95 m groß und 123 kg schwer.
+
+372
+00:19:51,690 --> 00:19:57,690
+Herr Kanton stellte sich heute wegen seit 2-3 Tagen bestehende
+
+373
+00:19:57,690 --> 00:20:00,690
+akut aufgetretene,
+
+374
+00:20:00,690 --> 00:20:02,690
+progrediente,
+
+375
+00:20:02,690 --> 00:20:06,690
+dünne und seit 2-3 Tagen bestehende,
+
+376
+00:20:06,690 --> 00:20:09,690
+akut aufgetretene, belastung abhängiger,
+
+377
+00:20:09,690 --> 00:20:11,690
+progrediente.
+
+378
+00:20:11,690 --> 00:20:13,690
+Okay.
+
+379
+00:20:13,690 --> 00:20:19,690
+Die nächsten Monate, das ist nicht bei 3 Tagen.
+
+380
+00:20:19,690 --> 00:20:21,690
+Auch gleich.
+
+381
+00:20:21,690 --> 00:20:25,690
+Ich glaube, aber natürlich halben Jahr bestehende.
+
+382
+00:20:25,690 --> 00:20:28,690
+Ich sage danach das.
+
+383
+00:20:28,690 --> 00:20:35,990
+Und akut aufgetretene, belastung abhängiger,
+
+384
+00:20:35,990 --> 00:20:37,990
+progrediente.
+
+385
+00:20:37,990 --> 00:20:46,260
+Und retrosternal,
+
+386
+00:20:46,260 --> 00:20:50,260
+torakalgi, mit Ausstrahlung in den Halsbereich
+
+387
+00:20:50,260 --> 00:20:54,260
+und in den linken Arm bei uns vor.
+
+388
+00:20:54,260 --> 00:20:58,260
+Er ordnet die Schmerzen auf einer Schmerzkalafon
+
+389
+00:20:58,260 --> 00:21:02,260
+bei 5-6 von 10 ein.
+
+390
+00:21:02,260 --> 00:21:07,260
+Und außer dann berichtet der Patient,
+
+391
+00:21:07,260 --> 00:21:12,260
+dass er ähnliche Beschwerden auch seit halbem Jahr
+
+392
+00:21:12,260 --> 00:21:16,260
+gehabt habe.
+
+393
+00:21:16,260 --> 00:21:22,260
+Und diese Schmerz- und engen Gefühl
+
+394
+00:21:22,260 --> 00:21:27,260
+dauere halbe Stunde.
+
+395
+00:21:27,260 --> 00:21:37,260
+Und der Patient könne früher 3-4 Stockwerke
+
+396
+00:21:37,260 --> 00:21:41,260
+Treppe hochlaufen.
+
+397
+00:21:41,260 --> 00:21:46,260
+Aber in der letzten Zeit könne er nur ein Stockwerk
+
+398
+00:21:46,260 --> 00:21:48,260
+hochlaufen.
+
+399
+00:21:48,260 --> 00:21:52,260
+Und dann müsste er Pause machen.
+
+400
+00:21:53,260 --> 00:21:59,260
+Und außer dann leide Herr Kanton als Begleitzentrum
+
+401
+00:21:59,260 --> 00:22:08,260
+unter Herzstolpern und engen Gefühl.
+
+402
+00:22:08,260 --> 00:22:11,260
+Die Fragen,
+
+403
+00:22:11,260 --> 00:22:13,260
+Herr Palpitationen sagen Sie, ja?
+
+404
+00:22:13,260 --> 00:22:16,260
+Ah, Palpitation, okay.
+
+405
+00:22:16,260 --> 00:22:20,260
+Und die Fragen nach Urtopne, Neutrik,
+
+406
+00:22:20,260 --> 00:22:24,260
+Turi, Beinüdem, Vertigo,
+
+407
+00:22:24,260 --> 00:22:29,260
+und wurden verneint.
+
+408
+00:22:29,260 --> 00:22:34,260
+Der Patient habe keine Medikamente bisher eingenommen
+
+409
+00:22:34,260 --> 00:22:40,260
+und auch habe er keinen Arzt besucht.
+
+410
+00:22:40,260 --> 00:22:50,020
+Die vegetative Anamnese zeigt leichte Nausea.
+
+411
+00:22:50,020 --> 00:22:55,020
+Ansonsten sind die anderen Informationen unauffällig.
+
+412
+00:22:55,020 --> 00:23:02,020
+Vor Erkrankungen und Operationen wurden verneint.
+
+413
+00:23:02,020 --> 00:23:06,020
+Die Medikamentanamnese gab die Einnahme von Ibu Profan
+
+414
+00:23:06,020 --> 00:23:08,020
+bei Bedarf.
+
+415
+00:23:08,020 --> 00:23:12,020
+Und beim Patienten sei keine Allergie bekannt
+
+416
+00:23:12,020 --> 00:23:17,020
+und der im Status sei nicht vollständig.
+
+417
+00:23:17,020 --> 00:23:22,020
+Gegen Corona haben die letzten zwei Impfungen
+
+418
+00:23:22,020 --> 00:23:25,020
+der Patient nicht machen lassen.
+
+419
+00:23:25,020 --> 00:23:31,020
+Und auch der Tönnisimpfung ist nicht vollständig.
+
+420
+00:23:31,020 --> 00:23:35,020
+Die Reiseanamnese sei unauffällig.
+
+421
+00:23:35,020 --> 00:23:41,020
+Herr Kanton ist raucher mit 2 Packungen täglich
+
+422
+00:23:41,020 --> 00:23:45,020
+seit 35 Jahren.
+
+423
+00:23:45,020 --> 00:23:53,020
+Das beträgt 70 Packungen.
+
+424
+00:23:53,020 --> 00:23:57,020
+Er trinkt Alkohol, täglich,
+
+425
+00:23:57,020 --> 00:24:01,020
+Zwerflerche, Biya seit 20 Jahren.
+
+426
+00:24:01,020 --> 00:24:05,020
+Manchmal Wein auch.
+
+427
+00:24:05,020 --> 00:24:10,020
+Und er rauchte Cannabis ab und zu.
+
+428
+00:24:10,020 --> 00:24:15,020
+Und der Anamnese leidet der Vater an Artere hypertonie
+
+429
+00:24:15,020 --> 00:24:20,020
+und die Mutter sei gesund.
+
+430
+00:24:20,020 --> 00:24:24,020
+Herr Kanton sei Einzelkind,
+
+431
+00:24:24,020 --> 00:24:27,020
+verheiratet habe zwei gesunde Kinder
+
+432
+00:24:27,020 --> 00:24:32,020
+und sei Projektmanager als von Beruf
+
+433
+00:24:32,020 --> 00:24:36,020
+und habe viel Stress auf der Arbeit.
+
+434
+00:24:36,020 --> 00:24:40,020
+Die anamnestischen Angaben deuten auf
+
+435
+00:24:40,020 --> 00:24:44,020
+am ehesten Akutes Corona-Sendrum hin.
+
+436
+00:24:44,020 --> 00:24:51,020
+Und als differenzial Diagnose kommen
+
+437
+00:24:51,020 --> 00:24:56,020
+Pneumotorax und Puminaremboli
+
+438
+00:24:56,020 --> 00:25:03,940
+und Angina Pectoris in Betracht.
+
+439
+00:25:03,940 --> 00:25:06,940
+Angina Pectoris ist auch eine Beschreibung
+
+440
+00:25:06,940 --> 00:25:10,940
+und der Symptome ist jetzt keine Erkrankung.
+
+441
+00:25:10,940 --> 00:25:14,940
+Ein BWS-Syndrom,
+
+442
+00:25:14,940 --> 00:25:17,940
+eine Buswerbesyndrom, Schmerzen
+
+443
+00:25:17,940 --> 00:25:21,940
+von der Wirbelsäule, die nach vorne aufstrahlt.
+
+444
+00:25:21,940 --> 00:25:25,940
+Ich dachte, ich mag Probleme,
+
+445
+00:25:25,940 --> 00:25:28,940
+als differenzial Diagnose könnte sein.
+
+446
+00:25:28,940 --> 00:25:32,940
+Oder Pneumotorax dachte ich.
+
+447
+00:25:32,940 --> 00:25:36,940
+Was darf es sein?
+
+448
+00:25:36,940 --> 00:25:39,940
+Noch differenzial Diagnostisch.
+
+449
+00:25:39,940 --> 00:25:49,280
+Ein enges Gefühl auf der Brust,
+
+450
+00:25:49,280 --> 00:25:53,880
+vielleicht noch einen Blutdruck.
+
+451
+00:25:53,880 --> 00:25:57,880
+Eine rizidivierende, hypertensive Entgleisung.
+
+452
+00:25:57,880 --> 00:26:00,880
+Vielleicht mal der Grund sein,
+
+453
+00:26:00,880 --> 00:26:03,880
+Magen gastrointrassinal beschwerden.
+
+454
+00:26:03,880 --> 00:26:07,880
+Ja, Ulcus ventricle.
+
+455
+00:26:07,880 --> 00:26:11,880
+Woran denkt man noch?
+
+456
+00:26:11,880 --> 00:26:15,880
+Irgendeine Arten?
+
+457
+00:26:15,880 --> 00:26:18,880
+Arten, Dissektion.
+
+458
+00:26:18,880 --> 00:26:21,880
+Oder Arten, Ektasie.
+
+459
+00:26:21,880 --> 00:26:24,880
+Also Probleme mit der Arter.
+
+460
+00:26:24,880 --> 00:26:27,880
+Können auch mal solche Beschwerden machen.
+
+461
+00:26:27,880 --> 00:26:29,880
+Ja, wenn du so viel rauchst,
+
+462
+00:26:29,880 --> 00:26:32,880
+woran denken sie noch?
+
+463
+00:26:32,880 --> 00:26:34,880
+COPD.
+
+464
+00:26:34,880 --> 00:26:37,880
+Das kann von der Lunge her kommen,
+
+465
+00:26:37,880 --> 00:26:40,880
+dass er einfach Schluckdruck bekommt.
+
+466
+00:26:40,880 --> 00:26:43,880
+Also, müssen wir auch mal gucken.
+
+467
+00:26:43,880 --> 00:26:46,880
+Aber ich glaube, das am wahrscheinlichsten ist,
+
+468
+00:26:46,880 --> 00:26:50,880
+wir müssen schauen, ob wir nicht ein Akkord des Corona-Ansyndroms
+
+469
+00:26:50,880 --> 00:26:53,880
+mit Bedacht auf Karakal rein.
+
+470
+00:26:53,880 --> 00:26:57,880
+So viel, Familienanämese, so viel rauchen.
+
+471
+00:26:57,880 --> 00:27:01,880
+Ja, die großkuläre Sterienübergewicht rauchen,
+
+472
+00:27:01,880 --> 00:27:03,880
+insbesondere.
+
+473
+00:27:03,880 --> 00:27:06,880
+Es kann auch immer sein, dass ein Jugend Mensch
+
+474
+00:27:06,880 --> 00:27:09,880
+auch mal eine KHK natürlich hat.
+
+475
+00:27:09,880 --> 00:27:12,880
+Sehr gut, okay.
+
+476
+00:27:12,880 --> 00:27:18,880
+Sie machen eine EKG und gedenken natürlich auch an einen Vorhof-Limmern.
+
+477
+00:27:18,880 --> 00:27:21,880
+Das kann ja manchmal auch solche Beschwerden machen,
+
+478
+00:27:21,880 --> 00:27:24,880
+dass man schlechter Luft bekommt.
+
+479
+00:27:24,880 --> 00:27:29,700
+Das Herz ist sehr gut.
