@@ -1,0 +1,2319 @@
+1
+00:00:00,110 --> 00:00:13,110
+Hallo, mein Name ist Topgös, ich bin hier als Assistent, und ich bin heute für Sie zuständig.
+
+2
+00:00:13,110 --> 00:00:26,110
+Ich würde gerne Ihnen das Anamnese-Gespräch führen, aber ich muss zu Ihnen
+
+3
+00:00:27,110 --> 00:00:34,110
+Ich muss zu Ihnen zu persönlichen Daten angefragen stellen.
+
+4
+00:00:34,110 --> 00:00:37,110
+Sind Sie damit einverstanden?
+
+5
+00:00:37,110 --> 00:00:39,110
+Ja, bin ich.
+
+6
+00:00:39,110 --> 00:00:41,110
+Wie heißen Sie bitte?
+
+7
+00:00:41,110 --> 00:00:45,110
+Ich heiße Hanelore Lindemann.
+
+8
+00:00:45,110 --> 00:00:47,110
+Hanelore ist eine Frau.
+
+9
+00:00:48,110 --> 00:00:57,110
+Frau Lindemann, könntest du bitte vor und nach Namen genau und langsam abstabieren?
+
+10
+00:00:57,110 --> 00:01:13,110
+Hanelore, ich stabe Ha, A, N, N, E, L, O, R, E.
+
+11
+00:01:13,110 --> 00:01:14,110
+Hanelore.
+
+12
+00:01:14,110 --> 00:01:16,110
+Und nach Namen bitte?
+
+13
+00:01:16,110 --> 00:01:29,110
+Lin-demann, L, I, N, D, E, M, A, N, N.
+
+14
+00:01:29,110 --> 00:01:31,110
+Anne Lindemann.
+
+15
+00:01:31,110 --> 00:01:36,110
+Okay, Frau Lindemann, vielen Dank. Wie alt sind Sie?
+
+16
+00:01:36,110 --> 00:01:39,110
+Ich bin 58 Jahre alt.
+
+17
+00:01:40,110 --> 00:01:42,110
+Wann sind Sie genau gebaut?
+
+18
+00:01:42,110 --> 00:01:47,110
+Am 1. Mai 1966.
+
+19
+00:01:47,110 --> 00:01:51,390
+Wie groß und wie schwer sind Sie?
+
+20
+00:01:51,390 --> 00:01:58,390
+Ich bin 1,60 m groß und wiege zur Zeit 68 kg.
+
+21
+00:01:58,390 --> 00:02:04,390
+Okay, Frau Lindemann, was führt Sie zu uns? Was kann ich für Sie tun?
+
+22
+00:02:04,390 --> 00:02:11,900
+Ich habe seit 3 Stunden ziemlich stark Schmerzen im linken Arm.
+
+23
+00:02:11,900 --> 00:02:19,900
+Das geht bis in die Finger, besonders der Daumen-Schmerz und auch der Zeigefinger.
+
+24
+00:02:19,900 --> 00:02:24,900
+Aber der gesamte Arm geht mehr in den Daumenbereich.
+
+25
+00:02:24,900 --> 00:02:27,900
+Das habe ich seit 3 Stunden.
+
+26
+00:02:28,900 --> 00:02:32,900
+Wie schreibst du Ihre Schmerzen?
+
+27
+00:02:32,900 --> 00:02:36,900
+Sind Sie eher dumpf oder drücken oder stechen?
+
+28
+00:02:36,900 --> 00:02:39,900
+Es ist mehr als so ein dumpfer Schmerz.
+
+29
+00:02:39,900 --> 00:02:49,900
+Teilweise ist auch etwas kribbeln, wie ein kribbeln in den Arm und in den Fingern.
+
+30
+00:02:49,900 --> 00:02:56,900
+Haben Sie Schmerzen in den Brustbereich, Brustkopf?
+
+31
+00:02:56,900 --> 00:03:01,660
+Nein, eigentlich nicht.
+
+32
+00:03:04,660 --> 00:03:15,660
+Wie stark sind Ihre Schmerzen auf einer Schmerzkala von 0 bis 10?
+
+33
+00:03:15,660 --> 00:03:22,660
+0, den kleinen Schmerzen, 10, den sehr starken Schmerzen bedeutet.
+
+34
+00:03:22,660 --> 00:03:31,290
+Wie stark sind die Schmerzen?
+
+35
+00:03:31,290 --> 00:03:33,290
+Ich höre gar nicht.
+
+36
+00:03:33,290 --> 00:03:36,290
+Ich würde sagen 5 bis 6.
+
+37
+00:03:36,290 --> 00:03:39,290
+5 bis 6?
+
+38
+00:03:39,290 --> 00:03:42,290
+Ich höre gar nicht.
+
+39
+00:03:42,290 --> 00:03:55,100
+Frau Lindemann, hätten Sie früher ein bisschen mehr Schmerzen?
+
+40
+00:03:55,100 --> 00:03:59,100
+Die Verbindung ist schlecht.
+
+41
+00:03:59,100 --> 00:04:04,850
+5 bis 6?
+
+42
+00:04:04,850 --> 00:04:08,850
+Ich höre gar nicht.
+
+43
+00:04:08,850 --> 00:04:12,850
+Hatten Sie früher ein bisschen mehr Schmerzen?
+
+44
+00:04:12,850 --> 00:04:18,160
+Nein, habe ich nicht.
+
+45
+00:04:18,160 --> 00:04:20,160
+Erstes Mal.
+
+46
+00:04:20,160 --> 00:04:32,460
+Frau Lindemann, ist Ihnen schwindelig?
+
+47
+00:04:32,460 --> 00:04:35,460
+Nein, mir ist nicht schwindelig.
+
+48
+00:04:36,460 --> 00:04:44,820
+Haben Sie Fibbe?
+
+49
+00:04:44,820 --> 00:04:49,820
+Nein, ich glaube nicht.
+
+50
+00:04:49,820 --> 00:04:56,820
+Haben Sie in der Zeit Abgenonung oder Südgenonung?
+
+51
+00:04:56,820 --> 00:05:01,820
+Nein, Gewicht ist immer gleichgeblieben.
+
+52
+00:05:01,820 --> 00:05:04,820
+Gut.
+
+53
+00:05:04,820 --> 00:05:10,060
+Haben Sie Kopfschmerzen?
+
+54
+00:05:10,060 --> 00:05:15,880
+Nein, habe ich nicht.
+
+55
+00:05:15,880 --> 00:05:22,610
+Haben Sie Nackenschmerzen?
+
+56
+00:05:22,610 --> 00:05:25,610
+Ja, etwas.
+
+57
+00:05:25,610 --> 00:05:31,610
+Wenn ich den Kopf drehe zur rechten Seite, dann habe ich Schmerzen im Nacken
+
+58
+00:05:31,610 --> 00:05:38,610
+und dann ist auch das Schmerz und das Kribbeln im Arm schlimmer.
+
+59
+00:05:38,610 --> 00:05:40,610
+Es ist stärker.
+
+60
+00:05:40,610 --> 00:05:45,610
+Welche Seite, wenn Sie Ihren Kopf drehen?
+
+61
+00:05:45,610 --> 00:05:48,610
+Wenn ich den Kopf nach rechts drehe.
+
+62
+00:05:48,610 --> 00:05:51,610
+Nach rechts.
+
+63
+00:05:51,610 --> 00:05:53,610
+Nach rechts.
+
+64
+00:05:53,610 --> 00:05:59,610
+Aber Sie haben linke Arme.
+
+65
+00:05:59,610 --> 00:06:03,610
+Ja, linke Arme.
+
+66
+00:06:03,610 --> 00:06:07,610
+Okay, verstehe Frau Lindemann.
+
+67
+00:06:07,610 --> 00:06:14,400
+Möchten Sie etwas hinzufügen?
+
+68
+00:06:14,400 --> 00:06:29,900
+Ja, ich weiß nicht, ob es daran gelegen hat.
+
+69
+00:06:29,900 --> 00:06:35,900
+Ich habe versucht, zu Hause Gardinen, eine Gardiner aufzuhängen,
+
+70
+00:06:35,900 --> 00:06:39,900
+oben an der Decke, eine Gardiner am Fenster.
+
+71
+00:06:39,900 --> 00:06:43,900
+Da musste ich den Kopf immer hochheben, so hochgrecken.
+
+72
+00:06:43,900 --> 00:06:47,900
+Und danach fingen die Schmerzen an.
+
+73
+00:06:47,900 --> 00:06:50,900
+Okay, verstehe.
+
+74
+00:06:50,900 --> 00:06:53,900
+Können Sie mich verstehen?
+
+75
+00:06:53,900 --> 00:06:55,900
+Ja, verstehe Sie.
+
+76
+00:06:55,900 --> 00:06:58,900
+Ich höre Sie.
+
+77
+00:06:58,900 --> 00:07:04,900
+Manchmal weg, manchmal komm, aber kein Problem.
+
+78
+00:07:04,900 --> 00:07:09,900
+Was ist von Beruf Frau Lindemann?
+
+79
+00:07:09,900 --> 00:07:18,980
+Arbeit in einer Kita, Kindertagesstätte.
+
+80
+00:07:18,980 --> 00:07:27,980
+Okay, haben Sie Stress in Arbeit?
+
+81
+00:07:27,980 --> 00:07:32,980
+Nein, es ist eine anstrengende Arbeit, aber die macht mir Spaß.
+
+82
+00:07:32,980 --> 00:07:35,980
+Es ist gut.
+
+83
+00:07:35,980 --> 00:07:43,980
+Sie haben ein Garten und arbeiten Sie schon im Garten?
+
+84
+00:07:43,980 --> 00:07:54,980
+Ja, ich habe heute Morgen eine Gardiner aufgehängt am Fenster.
+
+85
+00:07:54,980 --> 00:08:05,980
+Wenn Sie hochheben könnten, schmerzen.
+
+86
+00:08:05,980 --> 00:08:11,980
+Danach sind die Schmerzen aufgetreten, glaube ich, als Ursache.
+
+87
+00:08:11,980 --> 00:08:17,610
+Ja, als Ursache.
+
+88
+00:08:17,610 --> 00:08:31,170
+Okay, haben Sie Probleme beim Wasserlassen und Stuhlgang?
+
+89
+00:08:31,170 --> 00:08:34,170
+Stuhlgang ist in Ordnung.
+
+90
+00:08:34,170 --> 00:08:37,170
+Ich habe vor einem Jahr eine Darmspiegelung machen lassen.
+
+91
+00:08:37,170 --> 00:08:41,170
+Eine Vorsorgendarmspiegelung, die beiden Ordnung.
+
+92
+00:08:41,170 --> 00:08:46,170
+Wasserlassen habe ich etwas Probleme beim Husten.
+
+93
+00:08:46,170 --> 00:08:52,170
+Wenn ich Husten muss und ließen muss, dann habe ich manchmal, geht etwas Urin ab.
+
+94
+00:08:52,170 --> 00:08:56,170
+Da sagt die Frau, das hängt damit zusammen mit meinen Geburt.
+
+95
+00:08:56,170 --> 00:09:03,170
+Ich habe drei Kinder geboren und da ist mein Schließmuskel nicht mehr so richtig gut.
+
+96
+00:09:03,170 --> 00:09:08,170
+Okay, ich bin ein Kindertag.
+
+97
+00:09:08,170 --> 00:09:11,170
+Sind Sie von Haarat?
+
+98
+00:09:11,170 --> 00:09:13,170
+Ja.
+
+99
+00:09:13,170 --> 00:09:15,170
+Und sind Sie mit der Irene Familie zusammen?
+
+100
+00:09:15,170 --> 00:09:17,170
+Mit meiner Mann.
+
+101
+00:09:17,170 --> 00:09:21,170
+Die Kinder sind schon aus dem Haus, hier sind ja schon älter.
+
+102
+00:09:21,170 --> 00:09:24,170
+Okay.
+
+103
+00:09:24,170 --> 00:09:27,170
+Rachen Sie frahin Dama?
+
+104
+00:09:27,170 --> 00:09:29,170
+Nein, ich habe noch nie geraucht.
+
+105
+00:09:29,170 --> 00:09:34,170
+Früher haben sie da vorne.
+
+106
+00:09:34,170 --> 00:09:37,170
+Trinken Sie Alkohol?
+
+107
+00:09:37,170 --> 00:09:43,170
+Ja, ich trinke etwas Wein, 1-2 Gläser pro Woche.
+
+108
+00:09:43,170 --> 00:09:45,170
+Nicht jeden Tag.
+
+109
+00:09:45,170 --> 00:09:48,170
+Okay.
+
+110
+00:09:48,170 --> 00:09:50,170
+Super.
+
+111
+00:09:50,170 --> 00:09:55,170
+Nehmen Sie bitte nicht persönlich, ich muss diese Fragen stellen.
+
+112
+00:09:55,170 --> 00:09:58,170
+Nehmen Sie Droge?
+
+113
+00:09:58,170 --> 00:10:01,170
+Nein.
+
+114
+00:10:01,170 --> 00:10:06,170
+Leben Ihre Eltern noch frahin Dama?
+
+115
+00:10:06,170 --> 00:10:10,170
+Mein Vater ist verstorben.
+
+116
+00:10:10,170 --> 00:10:15,170
+Im Alter von 68 Jahren ist er verstorben an einem Herzinfarkt.
+
+117
+00:10:15,170 --> 00:10:18,170
+Oh, ist es mühsalat?
+
+118
+00:10:18,170 --> 00:10:23,170
+Und der ist 86 Jahre alt.
+
+119
+00:10:23,170 --> 00:10:27,170
+Die Mutter hat eine Herzmuskelschwäche.
+
+120
+00:10:27,170 --> 00:10:30,170
+Und hat Nieren-Schwäche.
+
+121
+00:10:30,170 --> 00:10:34,170
+Die Nieren funktionieren nicht mehr so gut.
+
+122
+00:10:34,170 --> 00:10:38,510
+Ja.
+
+123
+00:10:38,510 --> 00:10:43,880
+Okay.
+
+124
+00:10:43,880 --> 00:10:45,880
+Es ist mühsalat.
+
+125
+00:10:45,880 --> 00:10:49,880
+Und haben Sie hier Schwester?
+
+126
+00:10:49,880 --> 00:10:52,880
+Ja, ich habe eine Schwester.
+
+127
+00:10:52,880 --> 00:11:02,880
+Die Schwester ist 56 Jahre alt und hat auch hohen Blutdruck.
+
+128
+00:11:02,880 --> 00:11:09,880
+Okay, Frau Lindermann, haben Sie vor Erkrankungen Bluthochdruck
+
+129
+00:11:09,880 --> 00:11:12,880
+oder Blutdruck?
+
+130
+00:11:12,880 --> 00:11:15,880
+Ja, ich habe einen Blutdruck.
+
+131
+00:11:15,880 --> 00:11:18,880
+Ich habe einen Blutdruck.
+
+132
+00:11:18,880 --> 00:11:21,880
+Nehmen Sie dagegen etwas?
+
+133
+00:11:21,880 --> 00:11:25,880
+Ja, dagegen nehme ich etwas ein.
+
+134
+00:11:25,880 --> 00:11:30,880
+Das Mitte, das heißt, Biso pro Yol.
+
+135
+00:11:30,880 --> 00:11:33,880
+Wie viel Milligramm nehmen Sie?
+
+136
+00:11:33,880 --> 00:11:38,260
+Hinterstit 5.
+
+137
+00:11:38,260 --> 00:11:41,260
+Einmal täglich?
+
+138
+00:11:41,260 --> 00:11:45,260
+Einmal morgens und einmal abends.
+
+139
+00:11:45,260 --> 00:11:49,260
+Und dann nehme ich noch Kanndesartan,
+
+140
+00:11:49,260 --> 00:11:53,260
+auch einmal morgens und einmal abends.
+
+141
+00:11:53,260 --> 00:11:56,260
+Okay.
+
+142
+00:11:56,260 --> 00:11:59,260
+Haben Sie die andere Krankheit?
+
+143
+00:11:59,260 --> 00:12:01,260
+andere Krankheiten.
+
+144
+00:12:01,260 --> 00:12:05,700
+Ja, ich habe seit vier Jahren habe ich Zucker.
+
+145
+00:12:05,700 --> 00:12:07,700
+Okay.
+
+146
+00:12:07,700 --> 00:12:10,700
+Typ 2, alte Zucker oder?
+
+147
+00:12:10,700 --> 00:12:12,700
+Alter, alte Zucker.
+
+148
+00:12:12,700 --> 00:12:15,700
+Da muss ich auch eine Tablette nehmen.
+
+149
+00:12:15,700 --> 00:12:18,700
+Was nehmen Sie?
+
+150
+00:12:18,700 --> 00:12:22,580
+Medformin?
+
+151
+00:12:22,580 --> 00:12:25,580
+Ja, Medformin, das ist 850.
+
+152
+00:12:25,580 --> 00:12:30,580
+Dann nehme ich morgens eine Tablette und abends halbe.
+
+153
+00:12:30,580 --> 00:12:35,180
+Und dann nehme ich noch,
+
+154
+00:12:35,180 --> 00:12:39,180
+eben hohes Cholesterin auch seit vier Jahren.
+
+155
+00:12:39,180 --> 00:12:42,180
+Nehmen Sie, das Mittel heißt,
+
+156
+00:12:42,180 --> 00:12:47,230
+Rosu-Vastatin.
+
+157
+00:12:47,230 --> 00:12:49,230
+Da steht 20 hinter.
+
+158
+00:12:49,230 --> 00:12:53,230
+Und dann nehme ich morgens eine Tablette ein.
+
+159
+00:12:53,230 --> 00:13:01,510
+Dann nehme ich auch noch ein Medikament wegen meinem Herzen.
+
+160
+00:13:01,510 --> 00:13:07,510
+Da nehme ich ASS 100.
+
+161
+00:13:07,510 --> 00:13:09,510
+Eine Tablette,
+
+162
+00:13:09,510 --> 00:13:11,510
+weil ich hatte vor zwei Jahren,
+
+163
+00:13:11,510 --> 00:13:15,510
+vor einem Jahr hatte ich eine Herzkatheter-Untersuchung
+
+164
+00:13:15,510 --> 00:13:18,510
+und habe dabei so zwei so kleine Röhrchen,
+
+165
+00:13:18,510 --> 00:13:21,510
+die die Herzkranzgefäße eingesetzt bekommen.
+
+166
+00:13:21,510 --> 00:13:25,510
+Weil meine Herzkranzgefäße verengt waren.
+
+167
+00:13:25,510 --> 00:13:30,510
+Okay.
+
+168
+00:13:30,510 --> 00:13:33,510
+Frau Lindemann,
+
+169
+00:13:33,510 --> 00:13:37,510
+haben Sie schon in der
+
+170
+00:13:37,510 --> 00:13:41,510
+wichtigsten drei Krankheiten,
+
+171
+00:13:41,510 --> 00:13:46,510
+haben Sie schon ihre Blutdruck regelmäßig gemessen
+
+172
+00:13:46,510 --> 00:13:49,510
+oder Blutzucker?
+
+173
+00:13:49,510 --> 00:13:51,510
+Blutdruck,
+
+174
+00:13:51,510 --> 00:13:53,510
+regelmäßig,
+
+175
+00:13:53,510 --> 00:13:55,510
+den Blutzucker,
+
+176
+00:13:55,510 --> 00:13:58,510
+da bin ich etwas unzuverlässig.
+
+177
+00:13:58,510 --> 00:14:01,510
+Manchmal melde ich mit dem Blutzucker
+
+178
+00:14:01,510 --> 00:14:03,510
+ein Blutzucker, der meines Mannes,
+
+179
+00:14:03,510 --> 00:14:05,510
+weil der hat auch Zucker
+
+180
+00:14:05,510 --> 00:14:07,510
+und der nicht das regt.
+
+181
+00:14:07,510 --> 00:14:09,510
+Da bin ich etwas faul.
+
+182
+00:14:09,510 --> 00:14:15,510
+Der Blutzucker war zu letzt 140 auf 90.
+
+183
+00:14:15,510 --> 00:14:17,510
+Das war vor drei Tagen.
+
+184
+00:14:17,510 --> 00:14:21,510
+Aber gehen Sie manchmal wegen Blutzucker
+
+185
+00:14:21,510 --> 00:14:24,510
+Ihren Hausarzt-Päleit?
+
+186
+00:14:24,510 --> 00:14:27,510
+Ja, ich gehe alle drei Monate zum Hausarzt
+
+187
+00:14:27,510 --> 00:14:29,510
+wegen dem Zucker.
+
+188
+00:14:29,510 --> 00:14:31,510
+Wir haben Blut bekommen und der Zucker
+
+189
+00:14:31,510 --> 00:14:33,510
+langzeitwert gemessen.
+
+190
+00:14:33,510 --> 00:14:37,510
+Und das war der Arzt zufrieden.
+
+191
+00:14:37,510 --> 00:14:39,510
+Super.
+
+192
+00:14:39,510 --> 00:14:41,510
+Okay.
+
+193
+00:14:41,510 --> 00:14:45,510
+Okay.
+
+194
+00:14:45,510 --> 00:14:52,260
+Geniokologie.
+
+195
+00:14:52,260 --> 00:14:54,260
+Genzi,
+
+196
+00:14:54,260 --> 00:15:00,260
+regelmäßig Ihren Fraunarzt-Kontrolle Ihrenzi.
+
+197
+00:15:00,260 --> 00:15:04,260
+Ich habe eine Fraunärztin gegen ich regelmäßig zur Vorsorge.
+
+198
+00:15:04,260 --> 00:15:07,260
+Das war das letzte Mal, glaube ich,
+
+199
+00:15:07,260 --> 00:15:10,260
+im November, letzten November.
+
+200
+00:15:10,260 --> 00:15:12,260
+Aber das war die zweite Woche.
+
+201
+00:15:12,260 --> 00:15:14,260
+Super.
+
+202
+00:15:14,260 --> 00:15:17,260
+Und wann war Ihre letzte Periode?
+
+203
+00:15:17,260 --> 00:15:20,260
+Ja, die ist sehr unregelmäßig geworden.
+
+204
+00:15:20,260 --> 00:15:23,260
+Das ist nur noch sehr wenig, sehr selten.
+
+205
+00:15:23,260 --> 00:15:26,260
+Also, bestimmt seit ein, zwei Jahren
+
+206
+00:15:26,260 --> 00:15:29,260
+ist die Periode sehr unregelmäßig.
+
+207
+00:15:29,260 --> 00:15:33,260
+Wir haben nicht eine Periode für die Regulation.
+
+208
+00:15:33,260 --> 00:15:35,260
+Ja.
+
+209
+00:15:35,260 --> 00:15:37,260
+Das ist unregelmäßig.
+
+210
+00:15:37,260 --> 00:15:59,600
+Periode ist ein
+
+211
+00:15:59,600 --> 00:16:04,600
+Schmanger. Nein. Nein.
+
+212
+00:16:04,600 --> 00:16:08,600
+Sind Sie 48 oder 40 Jahre?
+
+213
+00:16:08,600 --> 00:16:10,600
+50.
+
+214
+00:16:10,600 --> 00:16:12,600
+Okay.
+
+215
+00:16:12,600 --> 00:16:14,600
+Okay, Fralindaman.
+
+216
+00:16:14,600 --> 00:16:17,880
+Mhm.
+
+217
+00:16:17,880 --> 00:16:22,880
+Aber sie hat gesagt, ich könnte
+
+218
+00:16:22,880 --> 00:16:25,880
+zusammenfassen, Fralindaman.
+
+219
+00:16:25,880 --> 00:16:27,880
+Ja, ja.
+
+220
+00:16:27,880 --> 00:16:32,880
+Sie haben seit drei Stunden
+
+221
+00:16:32,880 --> 00:16:37,880
+linke Arme und Finger daumenschmerzen.
+
+222
+00:16:37,880 --> 00:16:40,880
+Sie schmerzen dumfe.
+
+223
+00:16:40,880 --> 00:16:42,880
+Sie haben Kribbeln.
+
+224
+00:16:42,880 --> 00:16:45,880
+Sie...
+
+225
+00:16:45,880 --> 00:16:48,880
+die ihre Schmerzen,
+
+226
+00:16:48,880 --> 00:16:53,880
+ihre Kopfrechte Seite, wenn sie rechte Seite drehen,
+
+227
+00:16:53,880 --> 00:16:58,880
+dann verschlechtert sie sich.
+
+228
+00:16:58,880 --> 00:17:03,880
+Ja, sie haben keine...
+
+229
+00:17:03,880 --> 00:17:08,880
+Sie haben keine Schwindel, keine Übel, keine Fieber,
+
+230
+00:17:08,880 --> 00:17:11,880
+keine Gewissverlust.
+
+231
+00:17:11,880 --> 00:17:17,880
+Aber wenn sie ihre Arme
+
+232
+00:17:18,880 --> 00:17:23,880
+haben, die Schmerzen anfangen,
+
+233
+00:17:23,880 --> 00:17:25,880
+sie denken.
+
+234
+00:17:25,880 --> 00:17:27,880
+Okay.
+
+235
+00:17:27,880 --> 00:17:29,880
+Sie ist erster.
+
+236
+00:17:29,880 --> 00:17:32,880
+Sie hat nicht raucheren,
+
+237
+00:17:32,880 --> 00:17:37,880
+regelmäßig weniger trinken Alkohol.
+
+238
+00:17:37,880 --> 00:17:41,880
+Aber sie haben drei verschiedene Krankheiten,
+
+239
+00:17:41,880 --> 00:17:44,880
+wichtige Krankheiten.
+
+240
+00:17:45,880 --> 00:17:48,880
+Noch ein paar Punkte.
+
+241
+00:17:48,880 --> 00:17:52,880
+Ja, möchten Sie etwas zu viel?
+
+242
+00:17:52,880 --> 00:17:55,880
+Ja, also ich glaube,
+
+243
+00:17:55,880 --> 00:17:58,880
+dass der Schmerz entstanden ist,
+
+244
+00:17:58,880 --> 00:18:01,880
+weil ich meinen Kopf so lange
+
+245
+00:18:01,880 --> 00:18:04,880
+nach oben zur Decke gestreckt habe
+
+246
+00:18:04,880 --> 00:18:06,880
+beim Aufhängen der Gardinen.
+
+247
+00:18:06,880 --> 00:18:09,880
+Ist meine Erklärung für den Schmerz.
+
+248
+00:18:09,880 --> 00:18:11,880
+Da ist irgendwas passiert im Hals
+
+249
+00:18:11,880 --> 00:18:13,880
+oder wo ich weiß es nicht genau.
+
+250
+00:18:13,880 --> 00:18:15,880
+Das kann sein.
+
+251
+00:18:15,880 --> 00:18:17,880
+Okay.
+
+252
+00:18:17,880 --> 00:18:20,880
+Sonst haben Sie das alles richtig widergegeben.
+
+253
+00:18:20,880 --> 00:18:22,880
+Okay, Frau Lindemann,
+
+254
+00:18:22,880 --> 00:18:25,880
+vielen Dank für die ausführliche Informationen.
+
+255
+00:18:25,880 --> 00:18:29,880
+Ich habe wichtige Informationen gesammelt.
+
+256
+00:18:29,880 --> 00:18:33,320
+Okay.
+
+257
+00:18:33,320 --> 00:18:35,320
+Wollen Sie Fragen?
+
+258
+00:18:35,320 --> 00:18:37,320
+Was kann ich haben?
+
+259
+00:18:37,320 --> 00:18:39,320
+Was kann das sein?
+
+260
+00:18:39,320 --> 00:18:41,320
+Ja, Frau Lindemann,
+
+261
+00:18:41,320 --> 00:18:48,320
+ich möchte nichts zu sagen,
+
+262
+00:18:48,320 --> 00:18:51,320
+aber ich kann nichts zu sagen.
+
+263
+00:18:51,320 --> 00:19:10,200
+Vielleicht kann es ein
+
+264
+00:19:10,200 --> 00:19:17,200
+Sie haben die wichtige Hypertension,
+
+265
+00:19:17,200 --> 00:19:40,200
+die
+
+266
+00:19:40,200 --> 00:19:46,200
+Röntgen, Nacken, Schmerzen.
+
+267
+00:19:46,200 --> 00:19:56,200
+Gut, dann versuchen Sie das für sich zusammenzufassen in medizinische
+
+268
+00:19:56,200 --> 00:20:02,200
+Fachausdrücke, die Beschwerden, die Schmerzen, Ausstrahlung,
+
+269
+00:20:02,200 --> 00:20:03,200
+was auch immer.
+
+270
+00:20:03,200 --> 00:20:08,200
+Wir klären noch im Kollegen- und Kolleginnenkreis,
+
+271
+00:20:08,200 --> 00:20:11,200
+ob bestimmte Dinge vielleicht noch ergänzt werden sollen
+
+272
+00:20:11,200 --> 00:20:13,200
+oder ob noch Fragen sind.
+
+273
+00:20:13,200 --> 00:20:18,200
+Wir haben Kollegen und Kolleginnen noch eine Frage,
+
+274
+00:20:18,200 --> 00:20:22,200
+wie wir das gesagt haben.
+
+275
+00:20:22,200 --> 00:20:25,200
+Ich habe eine Frage für Sie, Frau Lindewan.
+
+276
+00:20:26,200 --> 00:20:32,200
+Haben Sie Kraftfellows in Ihrer betroffenen Arme?
+
+277
+00:20:32,200 --> 00:20:35,200
+Können Sie es benutzen?
+
+278
+00:20:35,200 --> 00:20:40,200
+Wenn ich die linke Hand zumache, die Faustbale,
+
+279
+00:20:40,200 --> 00:20:43,200
+das ist etwas weniger, habe ich den Eindruck.
+
+280
+00:20:43,200 --> 00:20:46,200
+Etwas weniger Kraft als normal.
+
+281
+00:20:46,200 --> 00:20:49,200
+Danke Ihnen für die Antwort.
+
+282
+00:20:49,200 --> 00:20:54,200
+Ich habe eine Frage.
+
+283
+00:20:54,200 --> 00:20:59,200
+Wo sind Ihre Schmerzen?
+
+284
+00:20:59,200 --> 00:21:05,200
+Oberarm, Unterarm oder ganz Arm?
+
+285
+00:21:05,200 --> 00:21:07,200
+Können Sie beschreiben?
+
+286
+00:21:07,200 --> 00:21:09,200
+Einmal etwas Schmerzen oben im Hals.
+
+287
+00:21:09,200 --> 00:21:11,200
+Oberarm im Hals?
+
+288
+00:21:11,200 --> 00:21:14,200
+Einmal etwas Schmerzen, aber stärkere Schmerzen
+
+289
+00:21:14,200 --> 00:21:17,200
+ist im Arm, mehr im Unterarm
+
+290
+00:21:17,200 --> 00:21:21,200
+und auf der Seite, wo der Daumen ist.
+
+291
+00:21:21,200 --> 00:21:27,830
+Können wir sagen,
+
+292
+00:21:27,830 --> 00:21:32,830
+von Nacken bis Zeigefinger?
+
+293
+00:21:32,830 --> 00:21:37,830
+Bis in den Daumen und Zeigefinger,
+
+294
+00:21:37,830 --> 00:21:42,830
+ausdrehen, aber besonders im Unterarm
+
+295
+00:21:42,830 --> 00:21:44,830
+und in der Hand.
+
+296
+00:21:44,830 --> 00:21:52,400
+Ich habe auch eine Frage.
+
+297
+00:21:52,400 --> 00:21:56,400
+Haben Sie Bewegungseinchränkungen?
+
+298
+00:21:56,400 --> 00:22:02,900
+Wenn ich den Kopf drehe, besonders nach rechts,
+
+299
+00:22:02,900 --> 00:22:06,900
+da merke ich, dass der Schmerz sich verstärkt
+
+300
+00:22:06,900 --> 00:22:09,900
+und dass das Kribbeln stärker wird.
+
+301
+00:22:09,900 --> 00:22:12,900
+Am Eisen laufen, dieses pelzige Gefühl.
+
+302
+00:22:12,900 --> 00:22:18,720
+Eine Frage, Frau Lindemann.
+
+303
+00:22:18,720 --> 00:22:23,720
+Ist Ihnen Muskelkraft oder Muskelverhältung
+
+304
+00:22:23,720 --> 00:22:29,150
+im Nackenbereich aufgefallen?
+
+305
+00:22:29,150 --> 00:22:31,150
+Normalerweise nicht.
+
+306
+00:22:31,150 --> 00:22:34,150
+Aber es fühlt sich etwas komisch an den Nacken,
+
+307
+00:22:34,150 --> 00:22:36,150
+etwas eigenartig und wie gesagt,
+
+308
+00:22:36,150 --> 00:22:39,150
+es ist auch etwas schmerzhaft.
+
+309
+00:22:39,150 --> 00:22:43,150
+Ich glaube schon, dass der Muskel etwas verspannt ist.
+
+310
+00:22:43,150 --> 00:22:48,650
+Eine Frage.
+
+311
+00:22:48,650 --> 00:22:52,650
+Schlägt Ihr Herz ungewöhnlich, langsam oder schneller?
+
+312
+00:22:52,650 --> 00:22:56,540
+Frau Lindemann.
+
+313
+00:22:56,540 --> 00:22:59,540
+Ist mir jetzt nicht aufgefallen.
+
+314
+00:22:59,540 --> 00:23:03,540
+Das Herz war eigentlich, da gab es noch nie Probleme.
+
+315
+00:23:03,540 --> 00:23:07,540
+Ich bin ja auch in Kontrolle beim Kardiologen
+
+316
+00:23:07,540 --> 00:23:10,540
+wegen dem Herzkarteter und wegen dieser Röhrchen,
+
+317
+00:23:10,540 --> 00:23:13,540
+den Herz ganz gefessen.
+
+318
+00:23:13,540 --> 00:23:17,540
+Aber bisher ist mir der Herzrhythmus noch nie aufgefallen,
+
+319
+00:23:17,540 --> 00:23:21,540
+dass er zu schnell, zu langsam oder unregelig schlürt.
+
+320
+00:23:21,540 --> 00:23:24,540
+Danke schön.
+
+321
+00:23:24,540 --> 00:23:26,540
+Ich habe eine Frage.
+
+322
+00:23:26,540 --> 00:23:31,540
+Haben Sie etwas Schweres gehoben
+
+323
+00:23:31,540 --> 00:23:35,540
+oder haben Sie eine bewegende Bewegung gemacht?
+
+324
+00:23:35,540 --> 00:23:39,540
+Vor den Schmerzen?
+
+325
+00:23:39,540 --> 00:23:42,540
+Ja, plötzlich nicht.
+
+326
+00:23:42,540 --> 00:23:46,540
+Aber ich habe eben einige Zeit versucht,
+
+327
+00:23:46,540 --> 00:23:50,540
+eine Gardine aufzuhängen,
+
+328
+00:23:50,540 --> 00:23:53,540
+am Fenster zu Hause.
+
+329
+00:23:53,540 --> 00:23:56,540
+Ich habe eine Gardine.
+
+330
+00:23:56,540 --> 00:23:59,540
+Ich habe sie immer so hochheben.
+
+331
+00:23:59,540 --> 00:24:05,540
+Das war vielleicht, das hat er zum Beigetragen, glaube ich.
+
+332
+00:24:05,540 --> 00:24:09,540
+Haben Sie Taubhaut?
+
+333
+00:24:09,540 --> 00:24:13,540
+Ja, ein bisschen fälziges Gefühl.
+
+334
+00:24:13,540 --> 00:24:16,540
+Also so wie Kribbeln.
+
+335
+00:24:16,540 --> 00:24:19,540
+Das ist vielleicht auch etwas taub.
+
+336
+00:24:19,540 --> 00:24:22,540
+Danke.
+
+337
+00:24:22,540 --> 00:24:25,540
+Eine Frage würde ich ergänzen.
+
+338
+00:24:25,540 --> 00:24:28,540
+Haben Sie in letzter Zeit einen Unfall gehabt,
+
+339
+00:24:28,540 --> 00:24:33,540
+einen Sturz gehabt oder einen Autounfall?
+
+340
+00:24:33,540 --> 00:24:37,540
+Man nennt das ja eine Peitschenverletzung
+
+341
+00:24:37,540 --> 00:24:39,540
+der Herzwebel-Säule.
+
+342
+00:24:39,540 --> 00:24:42,540
+Eine Distortion habe ich nicht gehabt.
+
+343
+00:24:42,540 --> 00:24:44,540
+Ein Unfall.
+
+344
+00:24:44,540 --> 00:24:47,540
+Die andere Frage ist, sind Sie schon einmal operiert worden?
+
+345
+00:24:47,540 --> 00:24:49,540
+Ja.
+
+346
+00:24:49,540 --> 00:24:52,540
+Die anderen ist bisher nicht gefordert.
+
+347
+00:24:52,540 --> 00:25:00,540
+Am Ende alle Fragen stellen.
+
+348
+00:25:00,540 --> 00:25:07,540
+Alle Sturz und Verträglichkeiten sind nicht gefragt.
+
+349
+00:25:07,540 --> 00:25:10,540
+Die Impfung geht nicht gefragt.
+
+350
+00:25:10,540 --> 00:25:13,540
+Dauernd nicht gut.
+
+351
+00:25:13,540 --> 00:25:16,540
+Ich habe Sie gegen...
+
+352
+00:25:16,540 --> 00:25:23,870
+Also Unverträglichkeiten, Allergien habe ich nicht.
+
+353
+00:25:23,870 --> 00:25:28,870
+Mein Hausarzt sagt, ich bin ausreichend geimpft zur Zeit.
+
+354
+00:25:28,870 --> 00:25:30,870
+Das ist in Ordnung.
+
+355
+00:25:30,870 --> 00:25:33,870
+Muss ich auch als Erzieherin in der Kita?
+
+356
+00:25:33,870 --> 00:25:37,870
+Da muss ich immer aktuell geimpft sein.
+
+357
+00:25:37,870 --> 00:25:40,870
+Sonst darf ich da nicht arbeiten.
+
+358
+00:25:40,870 --> 00:25:45,870
+Ich war im letzten Jahr nicht in Ausland verreist.
+
+359
+00:25:45,870 --> 00:25:48,870
+Ich war immer nur in Deutschland.
+
+360
+00:25:48,870 --> 00:25:51,870
+Ich bin als Kind am Blinddarm operiert worden.
+
+361
+00:25:51,870 --> 00:25:56,870
+Ich bin als Kind am Leistenbruch operiert worden.
+
+362
+00:25:56,870 --> 00:26:01,870
+Vor zehn Jahren hatte ich eine Geilenblasenoperation.
+
+363
+00:26:01,870 --> 00:26:05,870
+Wegen Geilensteinen hatte ich auch Kohleken.
+
+364
+00:26:05,870 --> 00:26:09,870
+Ich hatte drei Operationen.
+
+365
+00:26:09,870 --> 00:26:14,870
+Haben Sie gegen diese Schmerzen eine Geilenblasenoperation?
+
+366
+00:26:14,870 --> 00:26:17,870
+Nein, habe ich bisher nicht gemacht.
+
+367
+00:26:17,870 --> 00:26:21,870
+Sie haben gesagt, ich würde gerne wissen,
+
+368
+00:26:21,870 --> 00:26:31,180
+ob die Schmerzen auch genau beschreiben.
+
+369
+00:26:31,180 --> 00:26:37,180
+Ich habe die Schmerzen einmal im Nacken, im Halsbereich.
+
+370
+00:26:37,180 --> 00:26:41,180
+Aber die sind nicht so stark im Halsbereich.
+
+371
+00:26:41,180 --> 00:26:44,180
+Stärker sind sie im Arm.
+
+372
+00:26:44,180 --> 00:26:49,180
+Besonders im Unterarm und im Daumen und im Zeigefinger.
+
+373
+00:26:49,180 --> 00:26:53,180
+Da habe ich Schmerzen und da kribbelt es auch sehr stark.
+
+374
+00:26:53,180 --> 00:26:55,180
+Da habe ich ein bisschen...
+
+375
+00:26:55,180 --> 00:26:58,180
+Da merke ich auch, dass ich nicht so gut zufassen kann.
+
+376
+00:26:58,180 --> 00:27:01,180
+Aber sind die Schmerzen da?
+
+377
+00:27:01,180 --> 00:27:06,780
+Die Schmerzen sind aber da seit drei Stunden.
+
+378
+00:27:06,780 --> 00:27:13,780
+Und mit der Zeit verschlechtert hätten sich die Schmerzen?
+
+379
+00:27:13,780 --> 00:27:17,780
+Um den Kopf nach rechts drehen, habe ich den Eindruck,
+
+380
+00:27:17,780 --> 00:27:20,780
+der Schmerz und das Kribbeln wird schlimmer.
+
+381
+00:27:20,780 --> 00:27:25,780
+Ich denke, die Fragen gestellt, Herr Oberast.
+
+382
+00:27:25,780 --> 00:27:28,780
+Können wir erst als Gespräche anfangen?
+
+383
+00:27:28,780 --> 00:27:33,420
+Gerne, gerne anfangen.
+
+384
+00:27:33,420 --> 00:27:37,420
+Hallo, schönen guten Tag, Herr Oberast.
+
+385
+00:27:37,420 --> 00:27:40,420
+Haben Sie gerade Zeit für mich?
+
+386
+00:27:40,420 --> 00:27:45,420
+Wir haben eine neue Patientin.
+
+387
+00:27:45,420 --> 00:27:52,420
+Sie heißt Frau Hanelore Lindemann.
+
+388
+00:27:52,420 --> 00:27:57,420
+Die Frau Lindemann stelle sich bei uns
+
+389
+00:27:57,420 --> 00:28:07,420
+wegen drei Stunden
+
+390
+00:28:07,420 --> 00:28:12,420
+starker Arme schmerzen.
+
+391
+00:28:12,420 --> 00:28:20,420
+Vor die Schmerzen strahlen, nacken aus.
+
+392
+00:28:20,420 --> 00:28:25,420
+Auch daumenfinger aus.
+
+393
+00:28:25,420 --> 00:28:30,420
+Außerdem berichtete die Patientin,
+
+394
+00:28:30,420 --> 00:28:35,420
+die Schmerzen...
+
+395
+00:28:35,420 --> 00:28:42,420
+die Schmerzen, wenn sie Kopf drehen,
+
+396
+00:28:42,420 --> 00:28:49,420
+wenn sie Kopf drehen, die Schmerzen per Steg sein.
+
+397
+00:28:49,420 --> 00:28:53,420
+Sie haben keine...
+
+398
+00:28:54,420 --> 00:28:59,420
+Ich möchte einmal kurz unterbrechen.
+
+399
+00:28:59,420 --> 00:29:04,420
+Wie alt ist Frau Lindemann?
+
+400
+00:29:04,420 --> 00:29:10,420
+Sie ist 58 Jahre alt, jahre Patientin.
+
+401
+00:29:10,420 --> 00:29:15,420
+Ich wiederhole mal, was Sie mir jetzt berichtet haben.
+
+402
+00:29:15,420 --> 00:29:17,420
+Sie sind entschuldigend.
+
+403
+00:29:17,420 --> 00:29:22,420
+Sie ist 1. Mai 1966 geboren.
+
+404
+00:29:22,420 --> 00:29:28,420
+Sie ist 1 Meter 60 groß, 78 Kilogramm schwer.
+
+405
+00:29:28,420 --> 00:29:33,420
+68 Kilogramm.
+
+406
+00:29:33,420 --> 00:29:37,420
+68, 78.
+
+407
+00:29:37,420 --> 00:29:41,420
+Ich wiederhole einmal, was Sie mir gesagt haben.
+
+408
+00:29:41,420 --> 00:29:45,420
+Frau Hanelore Lindemann, jetzt haben wir ergänzt,
+
+409
+00:29:45,420 --> 00:29:49,420
+eine 58-jährige Patientin,
+
+410
+00:29:49,420 --> 00:29:52,420
+die uns in der Notaufnahme vor.
+
+411
+00:29:52,420 --> 00:30:00,420
+Sie berichtet über seit 3 Stunden bestehender Schmerzen
+
+412
+00:30:00,420 --> 00:30:05,420
+im Bereich der Halswirbelsäule und des linken Armes,
+
+413
+00:30:05,420 --> 00:30:10,420
+besonders stark im Bereich des linken Unterarmes.
+
+414
+00:30:10,420 --> 00:30:13,420
+Und welcher Finger?
+
+415
+00:30:13,420 --> 00:30:16,420
+Welchen Finger ist der Schmerz besonders?
+
+416
+00:30:16,420 --> 00:30:19,420
+Daumen.
+
+417
+00:30:19,420 --> 00:30:21,420
+Daumen.
+
+418
+00:30:21,420 --> 00:30:24,420
+Daumen.
+
+419
+00:30:24,420 --> 00:30:27,420
+Daumen.
+
+420
+00:30:27,420 --> 00:30:30,420
+Daumen.
+
+421
+00:30:30,420 --> 00:30:33,420
+Daumen.
+
+422
+00:30:33,420 --> 00:30:36,420
+Daumen.
+
+423
+00:30:36,420 --> 00:30:39,420
+Daumen.
+
+424
+00:30:39,420 --> 00:30:47,420
+Daumen.
+
+425
+00:30:47,420 --> 00:30:50,420
+Daumen.
+
+426
+00:30:50,420 --> 00:31:01,420
+Daumen.
+
+427
+00:31:01,420 --> 00:31:06,420
+Daumen.
+
+428
+00:31:06,420 --> 00:31:16,420
+Das ist ein dummer Schmerz mit kribbeln Parästisien.
+
+429
+00:31:16,420 --> 00:31:21,420
+Wie stark ist der Schmerzgrad?
+
+430
+00:31:21,420 --> 00:31:36,420
+Die Schmerzintensität liegt bei 5 bis 6 auf der NRS Schmerzskala.
+
+431
+00:31:36,420 --> 00:31:43,420
+Gut, prima. Gibt es einen Auslöser, eine Ursache für diese Schmerzen?
+
+432
+00:31:43,420 --> 00:31:53,420
+Ja, Sie haben gesagt, wenn Sie Ihren Armen hochheben,
+
+433
+00:31:53,420 --> 00:32:04,420
+und schwer heben, könnte die Schmerzen aufgetreten sein.
+
+434
+00:32:04,420 --> 00:32:11,420
+Was hat die Patientin vorher, in der Zeit vorher gemacht?
+
+435
+00:32:11,420 --> 00:32:19,420
+Sie haben eine Blume.
+
+436
+00:32:19,420 --> 00:32:26,420
+Eine Gardine ist ein Vorhang vor dem Fenster.
+
+437
+00:32:26,420 --> 00:32:30,420
+Sie haben dort einen blauen Vorhang.
+
+438
+00:32:30,420 --> 00:32:34,420
+Schauen Sie mal auf Ihre rechte Seite.
+
+439
+00:32:34,420 --> 00:32:38,420
+Sie haben eine Gardine.
+
+440
+00:32:38,420 --> 00:32:43,420
+Sie haben eine Gardine, die oben versucht aufzuhängen.
+
+441
+00:32:43,420 --> 00:32:49,420
+Nicht Blume, Gardine.
+
+442
+00:32:49,420 --> 00:32:55,420
+Das kann die Ursache eventuell sein.
+
+443
+00:32:55,420 --> 00:33:00,420
+Hat die Patientin einen Unfall vorher gehabt?
+
+444
+00:33:00,420 --> 00:33:15,420
+Nein, Sie haben nicht einen Unfall gehabt,
+
+445
+00:33:15,420 --> 00:33:20,420
+sondern die Schmerzen, die hochheben.
+
+446
+00:33:20,420 --> 00:33:24,420
+Vielleicht eine Muskelschmerz.
+
+447
+00:33:24,420 --> 00:33:28,420
+Hat die Patientin chronische Erkrankungen?
+
+448
+00:33:28,420 --> 00:33:34,420
+Ja, Sie haben 3 wichtige chronische Erkrankungen.
+
+449
+00:33:34,420 --> 00:33:42,420
+Arterielle Hypertonie, Diabetes mellitus 2 und Hypercholestrinie.
+
+450
+00:33:42,420 --> 00:33:47,420
+Sie haben 2 Stands.
+
+451
+00:33:47,420 --> 00:33:50,420
+Was war das mit Instanz?
+
+452
+00:33:50,420 --> 00:33:53,420
+Hartz-Katheter.
+
+453
+00:33:53,420 --> 00:33:55,420
+Wann war es?
+
+454
+00:33:55,420 --> 00:33:58,420
+Ich weiß nicht.
+
+455
+00:33:58,420 --> 00:34:01,420
+Vor 2 Jahren?
+
+456
+00:34:01,420 --> 00:34:04,420
+Nein, im Jahr.
+
+457
+00:34:04,420 --> 00:34:09,420
+Es findet sich eine arterielle Hypertonie seit 5 Jahren.
+
+458
+00:34:09,420 --> 00:34:19,420
+Sie hat 4 Jahre mit 2 Stands.
+
+459
+00:34:19,420 --> 00:34:24,420
+Sie hat eine Hypercholesterinie seit 4 Jahren.
+
+460
+00:34:24,420 --> 00:34:29,420
+Sie wurde schon operiert.
+
+461
+00:34:29,420 --> 00:34:36,420
+Ich habe nicht die erste Operation gehört.
+
+462
+00:34:36,420 --> 00:34:40,420
+Ich habe nur einen Leistungsbruch gehört.
+
+463
+00:34:40,420 --> 00:34:44,420
+Als Kind war sie.
+
+464
+00:34:44,420 --> 00:34:47,420
+Kennen Sie das Medizinischen Begriff?
+
+465
+00:34:47,420 --> 00:34:50,420
+Ja, Leistungsbruch.
+
+466
+00:34:50,420 --> 00:34:54,420
+Ich habe nicht die erste Operation gehört.
+
+467
+00:34:54,420 --> 00:35:01,420
+Sie hat eine Hypertomie.
+
+468
+00:35:01,420 --> 00:35:04,420
+Sie hat eine Hypertomie.
+
+469
+00:35:04,420 --> 00:35:08,420
+Ich habe nicht die erste Operation gehört.
+
+470
+00:35:08,420 --> 00:35:17,690
+Ich habe nicht die erste Operation gehört.
+
+471
+00:35:17,690 --> 00:35:21,690
+Sie hat eine Hypertomie.
+
+472
+00:35:21,690 --> 00:35:25,130
+Kolesistektomie, fürst ein Yarin.
+
+473
+00:35:25,130 --> 00:35:26,570
+Sehr gut.
+
+474
+00:35:26,570 --> 00:35:29,170
+Bordesi Kolesistektomie.
+
+475
+00:35:29,170 --> 00:35:33,490
+Und in der Kindheit eine Appendektomie und eine...
+
+476
+00:35:33,490 --> 00:35:34,890
+Güntherne.
+
+477
+00:35:34,890 --> 00:35:36,410
+Sehr gut.
+
+478
+00:35:36,410 --> 00:35:37,530
+Gut.
+
+479
+00:35:37,530 --> 00:35:41,410
+Gibt es andere Risikofaktoren bei der Patientin?
+
+480
+00:35:41,410 --> 00:35:45,610
+Ja, die ist erst jahr.
+
+481
+00:35:45,610 --> 00:35:56,610
+Vielleicht muss die Kinder manchmal umarmen und heben.
+
+482
+00:35:56,610 --> 00:35:57,610
+Okay.
+
+483
+00:35:57,610 --> 00:36:00,450
+Was hat die Patientin, raucht die Patientin?
+
+484
+00:36:00,450 --> 00:36:03,730
+Nein, sie... sie nicht rauchern.
+
+485
+00:36:03,730 --> 00:36:05,730
+Okay.
+
+486
+00:36:05,730 --> 00:36:09,290
+Und nicht so viel trinken, Alkohol.
+
+487
+00:36:10,290 --> 00:36:11,290
+Okay.
+
+488
+00:36:11,290 --> 00:36:16,490
+Und die Familienamnese ist dort etwas Erwähnenswertes?
+
+489
+00:36:16,490 --> 00:36:23,010
+Ja, sie haben drei Kinder und wohnt mit ihrem Mann zusammen.
+
+490
+00:36:23,010 --> 00:36:29,090
+Und sie haben kein Stress in Arbeitsplätzen.
+
+491
+00:36:29,090 --> 00:36:39,090
+Und aber sie haben im Wechseljahr vielleicht, nachtemstens vielleicht,
+
+492
+00:36:39,090 --> 00:36:41,250
+Menoposer vielleicht.
+
+493
+00:36:41,250 --> 00:36:43,410
+Eltern leben die Eltern noch?
+
+494
+00:36:43,410 --> 00:36:49,810
+Ja, nein, sie haben schon gestorben.
+
+495
+00:36:49,810 --> 00:36:56,810
+Und welche Alter, wie alt der Vater da war?
+
+496
+00:36:56,810 --> 00:37:02,810
+68 Jahre alt, weil er gestorben.
+
+497
+00:37:02,810 --> 00:37:07,810
+Und Mutter, 86.
+
+498
+00:37:07,810 --> 00:37:10,810
+Die Mutter lebt noch?
+
+499
+00:37:10,810 --> 00:37:14,810
+Lebt noch und nirgendwo versagt.
+
+500
+00:37:14,810 --> 00:37:21,810
+Sie können den medizinischen Begriff nennen?
+
+501
+00:37:21,810 --> 00:37:25,810
+Ja, Coronar, Herzkrankheit oder?
+
+502
+00:37:25,810 --> 00:37:28,810
+Herzmuskelschwäche, nicht?
+
+503
+00:37:28,810 --> 00:37:32,810
+Herzmuskel, ja, Herzmuskelschwäche, Corona.
+
+504
+00:37:32,810 --> 00:37:34,810
+Hat ihr Mediapartin?
+
+505
+00:37:34,810 --> 00:37:35,810
+Nein.
+
+506
+00:37:35,810 --> 00:37:39,810
+Nein, das ist jetzt die Hygieneinsuffizienz.
+
+507
+00:37:39,810 --> 00:37:51,810
+Hygieneinsuffizienz, Cardiomyopathie kann auch in eine Myocardinsuffizienz nennen,
+
+508
+00:37:51,810 --> 00:37:53,810
+aber das ist noch etwas anderes.
+
+509
+00:37:53,810 --> 00:37:58,810
+Also sie hat eine Myocardinsuffizienz.
+
+510
+00:37:58,810 --> 00:38:03,810
+Und ich habe gesagt, die Mutter hat eine Nieren-Schwäche.
+
+511
+00:38:04,810 --> 00:38:11,810
+Also sie wahrscheinlich einen Kreatininwert von, sagen wir, 2,5.
+
+512
+00:38:11,810 --> 00:38:16,810
+Ha, Nieren, nicht Nierenversagen, Nieren-Schwäche.
+
+513
+00:38:16,810 --> 00:38:19,810
+Niereninsuffizienz.
+
+514
+00:38:19,810 --> 00:38:24,810
+Wahrscheinlich hat sie eine noch konsierte Niereninsuffizienz, das wissen wir nicht genau,
+
+515
+00:38:24,810 --> 00:38:28,810
+aber kein Nierenversagen, dann wäre sie wahrscheinlich dialysepflichtig.
+
+516
+00:38:28,810 --> 00:38:30,810
+Ja, okay.
+
+517
+00:38:30,810 --> 00:38:37,810
+Niereninsuffizienz ist das in Ordnung, Niereninsuffizienz.
+
+518
+00:38:37,810 --> 00:38:43,810
+Ich würde ruhig sagen, Niereninsuffizienz ist durchaus ein medizinischer Fachbegriff in Deutschland.
+
+519
+00:38:43,810 --> 00:38:46,810
+Niereninsuffizienz.
+
+520
+00:38:46,810 --> 00:38:53,810
+Vielleicht rennale Insuffizienz, aber der Begriff Niereninsuffizienz ist eigentlich gebräuchlich.
+
+521
+00:38:53,810 --> 00:38:55,810
+Ja, gut.
+
+522
+00:38:55,810 --> 00:39:00,810
+Gut, hat die Patientin Probleme beim Stuhlgang oder Wasserlassen?
+
+523
+00:39:00,810 --> 00:39:02,810
+Keine Probleme.
+
+524
+00:39:02,810 --> 00:39:05,810
+Sie hat gesagt, nur Urin-Probleme.
+
+525
+00:39:05,810 --> 00:39:12,810
+Sie haben drei Kinder bekommen, deswegen,
+
+526
+00:39:12,810 --> 00:39:24,810
+wenn sie Husten haben, könnte unwillig Urin-Harn blasen.
+
+527
+00:39:24,810 --> 00:39:27,810
+Das geht Urin ab.
+
+528
+00:39:27,810 --> 00:39:33,810
+Wir nennen das eher, sie klagt über eine Stressincontinens.
+
+529
+00:39:33,810 --> 00:39:35,810
+Nein, Stressincontinens, ja.
+
+530
+00:39:35,810 --> 00:39:42,810
+Wenn Blachen, Niesen oder Pressen, also Bauchmuskeln,
+
+531
+00:39:42,810 --> 00:39:45,810
+anspannen kann zu einer Stressincontinens.
+
+532
+00:39:45,810 --> 00:39:50,810
+Stressincontinens, aber nicht diese Schmerzen erklären.
+
+533
+00:39:53,280 --> 00:39:56,280
+Ja, der Stuhlgang ist in Ordnung.
+
+534
+00:39:56,280 --> 00:40:02,280
+Die Patientin hat berichtet, dass sie vor einiger Zeit eine Untersuchung hatte für den Damen.
+
+535
+00:40:02,280 --> 00:40:06,940
+Ja, die Koloskopie war gut.
+
+536
+00:40:06,940 --> 00:40:11,940
+Genau, sie hatte eine Vorsorge-Koloskopie und die war in Ordnung.
+
+537
+00:40:11,940 --> 00:40:13,940
+Ja, gut.
+
+538
+00:40:13,940 --> 00:40:15,940
+Kein Problem.
+
+539
+00:40:15,940 --> 00:40:18,940
+Was ist Ihre Verdachtstiagnose?
+
+540
+00:40:18,940 --> 00:40:26,460
+HVC-Centrum, oder?
+
+541
+00:40:26,460 --> 00:40:29,460
+Ja.
+
+542
+00:40:29,460 --> 00:40:36,460
+Da unten steht schon eine Diagnose.
+
+543
+00:40:36,460 --> 00:40:39,460
+Ja, ich weiß nicht.
+
+544
+00:40:39,460 --> 00:40:42,460
+Aber ich ...
+
+545
+00:40:42,460 --> 00:40:44,460
+Diskus pro Lassus.
+
+546
+00:40:44,460 --> 00:40:49,460
+Akute Diagnose, würde ich jetzt erst mal sagen,
+
+547
+00:40:49,460 --> 00:40:55,460
+Servico brachiali, also ausgehend wahrscheinlich von der HWS.
+
+548
+00:40:55,460 --> 00:40:59,460
+Vielleicht ein Diskusprolaps, ja, kann gut sein.
+
+549
+00:40:59,460 --> 00:41:05,460
+Und dieser Diskusprolaps strahlt in das Segment C6, C7 ein.
+
+550
+00:41:05,460 --> 00:41:09,460
+Daumen, Zeigefinger, das ist ja mehr C6, 7.
+
+551
+00:41:09,460 --> 00:41:12,460
+Kleinfingerseitig wäre wahrscheinlich C8.
+
+552
+00:41:12,460 --> 00:41:17,460
+Alle Orthopädenneurologen unter Ihnen oder Neurochirurgen sollen mich korrigieren,
+
+553
+00:41:17,460 --> 00:41:19,460
+wenn das falsch ist.
+
+554
+00:41:19,460 --> 00:41:22,460
+Aber ich würde sagen, C6, 7.
+
+555
+00:41:22,460 --> 00:41:26,460
+Segment wahrscheinlich betroffen in der Halswirbelsäule.
+
+556
+00:41:26,460 --> 00:41:33,460
+Der Auslöser ist eventuell diese lange Haltung, die die Patientin hatte.
+
+557
+00:41:33,460 --> 00:41:36,460
+Sie wollte die Gardiner auffängen, der Kopf war verdreht,
+
+558
+00:41:36,460 --> 00:41:40,460
+eine Rotation abgeknickt, dann kann das passieren.
+
+559
+00:41:40,460 --> 00:41:44,460
+Aber vielleicht war dort auch eine Vorschädigung.
+
+560
+00:41:44,460 --> 00:41:47,460
+Differenzialdiagnose?
+
+561
+00:41:47,460 --> 00:41:53,460
+Als Differenzialdiagnose ein Diskusprolapsus,
+
+562
+00:41:53,460 --> 00:41:57,460
+Akutes Coronasendrom,
+
+563
+00:41:57,460 --> 00:42:03,460
+vertigo, vielleicht vertigo, aber
+
+564
+00:42:03,460 --> 00:42:07,460
+und unkontrolliert Diabetes mellitus.
+
+565
+00:42:07,460 --> 00:42:12,460
+Die Patientin hat ja eine kardiologe Vorgeschichte.
+
+566
+00:42:12,460 --> 00:42:15,460
+Deswegen Alphacotoconasen.
+
+567
+00:42:16,460 --> 00:42:19,460
+Genau, das muss man auf alle Fälle ausschließen.
+
+568
+00:42:19,460 --> 00:42:23,460
+Mein Tipp ist, erstmal Danke, dass Sie sich zur Verfügung gestellt haben.
+
+569
+00:42:23,460 --> 00:42:26,460
+Das ist ja heute, hatten wir ein Publikum, habe ich gesehen.
+
+570
+00:42:26,460 --> 00:42:28,460
+Ich bedanke mich, danke.
+
+571
+00:42:28,460 --> 00:42:35,460
+Versuchen Sie weiter in der Systematik Konsequenz sein.
+
+572
+00:42:35,460 --> 00:42:39,460
+Dann vergessen Sie auch nicht die Operationen.
+
+573
+00:42:39,460 --> 00:42:47,460
+Das soll in Ihrem Anameseschema möglich geführt haben
+
+574
+00:42:47,460 --> 00:42:50,460
+und auch systematisch abarbeiten.
+
+575
+00:42:50,460 --> 00:42:58,460
+Die Frau Lindemann, wo ist die Operation?
+
+576
+00:42:58,460 --> 00:43:07,460
+Nein, nein, nein, aber Sie haben die Frau Lindemann nicht nach Operationen gefragt.
+
+577
+00:43:07,460 --> 00:43:11,460
+Sie haben in diesem Fall vergessen.
+
+578
+00:43:11,460 --> 00:43:18,460
+Aber das ist schon wichtig, das sollten Sie möglichst nicht vergessen.
+
+579
+00:43:18,460 --> 00:43:19,460
+Danke.
+
+580
+00:43:19,460 --> 00:43:20,460
+Gut.

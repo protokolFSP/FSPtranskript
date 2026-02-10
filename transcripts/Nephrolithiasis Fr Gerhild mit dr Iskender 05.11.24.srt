@@ -1,0 +1,2087 @@
+1
+00:00:00,850 --> 00:00:10,290
+Guten Abend, Karakorak ist mein Name und ich bin der Diensthabenderarzt auf dieser Station und würde gerne mit Ihnen das Aufnahmegespräch führen.
+
+2
+00:00:10,290 --> 00:00:12,010
+Sind Sie damit einverstanden?
+
+3
+00:00:12,010 --> 00:00:14,370
+Ja, ja, Hauptsache jemand hilft mir.
+
+4
+00:00:14,370 --> 00:00:21,290
+Also bevor wir über Ihre aktuelle Beschwerden sprechen, möchte ich ein paar Fragen zu Ihrer Person stellen.
+
+5
+00:00:21,290 --> 00:00:22,690
+Wie heißen Sie?
+
+6
+00:00:22,690 --> 00:00:25,290
+Ich heiße Jochen Schäfer.
+
+7
+00:00:25,290 --> 00:00:28,730
+Könnten Sie bitte Ihren Vor- und Nachnamen bestabieren?
+
+8
+00:00:29,010 --> 00:00:40,010
+Ja, Jochen j o chen ja und Schäfer scha umlaut.
+
+9
+00:00:40,010 --> 00:00:41,010
+Mhm.
+
+10
+00:00:41,010 --> 00:00:42,650
+Es ist er.
+
+11
+00:00:42,650 --> 00:00:44,810
+Okay, also Herr Schäfer.
+
+12
+00:00:44,810 --> 00:00:45,610
+Mhm.
+
+13
+00:00:45,610 --> 00:00:47,570
+Ja Herr Schäfer, wie alt sind Sie?
+
+14
+00:00:47,570 --> 00:00:49,010
+Ich bin 1840.
+
+15
+00:00:49,010 --> 00:00:50,690
+1840.
+
+16
+00:00:50,690 --> 00:00:53,050
+Und wann sind Sie gerne geboren?
+
+17
+00:00:53,050 --> 00:00:56,610
+Am 17.04.76.
+
+18
+00:00:57,090 --> 00:00:59,050
+76.
+
+19
+00:00:59,050 --> 00:01:00,050
+Mhm.
+
+20
+00:01:00,050 --> 00:01:02,580
+Okay.
+
+21
+00:01:02,580 --> 00:01:05,380
+Und wie groß sind Sie Herr Schäfer?
+
+22
+00:01:05,380 --> 00:01:07,860
+Ich bin 1883.
+
+23
+00:01:07,860 --> 00:01:09,500
+1883.
+
+24
+00:01:09,500 --> 00:01:12,980
+Und wissen Sie, wie viel wiegen Sie so seit?
+
+25
+00:01:12,980 --> 00:01:15,460
+Ich wiege so 90 Kilo.
+
+26
+00:01:15,460 --> 00:01:17,340
+90 Kilo, okay.
+
+27
+00:01:17,340 --> 00:01:20,380
+Also Herr Schäfer, wie kann ich Ihnen helfen?
+
+28
+00:01:20,380 --> 00:01:21,860
+Was für Beschwerden haben Sie?
+
+29
+00:01:21,860 --> 00:01:25,220
+Ja, das hat vor ein paar Stunden angefangen.
+
+30
+00:01:25,220 --> 00:01:28,300
+Ich hab mit einmal solch heftigen Schmerzen
+
+31
+00:01:28,300 --> 00:01:30,860
+so auf der rechten Seite im Rücken.
+
+32
+00:01:30,860 --> 00:01:33,740
+Und das strahlt, also auch, ja,
+
+33
+00:01:33,740 --> 00:01:36,540
+das strahlt auch weiter aus und ...
+
+34
+00:01:36,540 --> 00:01:39,860
+Und die Schmerzen sind wirklich sehr, sehr heftig.
+
+35
+00:01:39,860 --> 00:01:43,220
+Und ich muss dann nicht auf die Toilette gehen.
+
+36
+00:01:43,220 --> 00:01:46,420
+Da kommt aber fast gar nichts.
+
+37
+00:01:46,420 --> 00:01:49,700
+Und das brennt aber ganz stark und ...
+
+38
+00:01:49,700 --> 00:01:52,660
+Puh, weil die Schmerzen so stark sind,
+
+39
+00:01:52,700 --> 00:01:55,420
+muss ich mich sogar schon einmal übergeben.
+
+40
+00:01:55,420 --> 00:01:56,420
+Mhm.
+
+41
+00:01:56,420 --> 00:01:58,940
+Also ich fühle mich ganz schlecht.
+
+42
+00:01:58,940 --> 00:02:00,540
+Okay, verstehe.
+
+43
+00:02:00,540 --> 00:02:03,980
+Also Ihre Beschwerden, Herr Schäfer.
+
+44
+00:02:03,980 --> 00:02:07,060
+Also, könnten Sie bitte Ihre Schmerzen genau beschreiben?
+
+45
+00:02:07,060 --> 00:02:10,460
+Sind Sie dumpf, stechend oder brachend?
+
+46
+00:02:10,460 --> 00:02:13,500
+Ja, also dumpf sind die eher nicht.
+
+47
+00:02:13,500 --> 00:02:17,700
+Ich würde die eher so als brennend stechend bezeichnen, ja.
+
+48
+00:02:17,700 --> 00:02:19,980
+Und es sind immer so, so Krämpfe.
+
+49
+00:02:20,020 --> 00:02:24,180
+Das kommt immer, das kommt immer in so Wellen, ja.
+
+50
+00:02:24,180 --> 00:02:25,180
+Okay.
+
+51
+00:02:25,180 --> 00:02:28,780
+Und wie stark sind Ihre Schmerzen auf eine Schmerzskala,
+
+52
+00:02:28,780 --> 00:02:32,420
+wobei 1 sehr leicht und 10 sehr starker Schmerzen bedeuten?
+
+53
+00:02:32,420 --> 00:02:35,900
+Also, das sind schon sehr starke Schmerzen.
+
+54
+00:02:35,900 --> 00:02:40,020
+Ich würde sagen, bei 8 sind die bestimmt, ja.
+
+55
+00:02:40,020 --> 00:02:41,420
+Ah, okay.
+
+56
+00:02:41,420 --> 00:02:44,060
+Also soll ich Ihnen etwas geben?
+
+57
+00:02:44,060 --> 00:02:48,180
+Oder könnten Sie Ihre Schmerzen bis zum Ende des Geschwindelhaushalten?
+
+58
+00:02:48,180 --> 00:02:50,860
+Ich glaube, das wäre schon gut, wenn Sie mir etwas geben könnten.
+
+59
+00:02:50,860 --> 00:02:54,100
+Ich habe nämlich mich bisher noch nicht getraut, etwas zu nehmen, ja.
+
+60
+00:02:54,100 --> 00:02:55,260
+Okay, Herr Schäfer.
+
+61
+00:02:55,260 --> 00:02:58,100
+Aber bevor ich Ihnen etwas gebe,
+
+62
+00:02:58,100 --> 00:03:02,700
+möchte ich, würde ich gerne wissen, ob Sie Allergien haben,
+
+63
+00:03:02,700 --> 00:03:04,940
+also gegen Medikamente?
+
+64
+00:03:04,940 --> 00:03:06,260
+Gegen Medikamente?
+
+65
+00:03:06,260 --> 00:03:13,780
+Nee, das Einzige, was ich habe, ist eine ziemlich ausgebregte Westbengifft-Allergie, ja.
+
+66
+00:03:13,780 --> 00:03:14,580
+Okay.
+
+67
+00:03:14,580 --> 00:03:16,220
+Wie äußert Sie sich?
+
+68
+00:03:16,260 --> 00:03:23,180
+Ja, also da habe ich mal so Luftnot bekommen und der ging es mir ganz schlecht.
+
+69
+00:03:23,180 --> 00:03:25,140
+Also da muss ich wirklich aufpassen.
+
+70
+00:03:25,140 --> 00:03:32,820
+Okay, also Frau Schäfer, jetzt Herr Schäfer, ich lege jetzt zurzeit einen Zugang.
+
+71
+00:03:32,820 --> 00:03:37,060
+Und ich gebe eine Schmerzmittel und eine Spasselbohr.
+
+72
+00:03:37,060 --> 00:03:40,460
+Das wird mich bestimmt ein bisschen erleichtern, ja.
+
+73
+00:03:40,460 --> 00:03:44,820
+Jetzt setzen wir Ihre Gespräch fort.
+
+74
+00:03:44,820 --> 00:03:45,420
+Ja.
+
+75
+00:03:46,340 --> 00:03:51,900
+Und Sie haben eventuell, dass Sie auch Übelkeit haben.
+
+76
+00:03:51,900 --> 00:03:53,140
+Ja.
+
+77
+00:03:53,140 --> 00:03:54,900
+Müssen Sie Sie übergeben?
+
+78
+00:03:54,900 --> 00:03:57,580
+Ja, genau. Einmal musste ich mich übergeben.
+
+79
+00:03:57,580 --> 00:04:00,340
+Einfach, weil die Schmerzen so stark sind.
+
+80
+00:04:00,340 --> 00:04:01,260
+Okay.
+
+81
+00:04:01,260 --> 00:04:06,260
+Und Sie haben auch eventuell, dass diese Schmerzen ausstrahlen.
+
+82
+00:04:06,260 --> 00:04:10,260
+Worin strahlen diese Schmerzen aus?
+
+83
+00:04:10,260 --> 00:04:15,460
+Ja, also das geht bis in die Leiste und auch bis zum Genital hin, ja.
+
+84
+00:04:15,460 --> 00:04:16,460
+Mhm.
+
+85
+00:04:16,460 --> 00:04:24,260
+Und sind Ihre Schmerzen plus die angefangen?
+
+86
+00:04:24,260 --> 00:04:26,460
+Ja, das hat mir einmal angefangen.
+
+87
+00:04:26,460 --> 00:04:28,940
+Ich habe so etwas überhaupt noch nicht erlebt.
+
+88
+00:04:28,940 --> 00:04:34,500
+Haben Sie das dagegen etwas eingenommen?
+
+89
+00:04:34,500 --> 00:04:36,300
+Nein, nein, bisher eben noch nicht.
+
+90
+00:04:36,300 --> 00:04:38,940
+Ich bin eigentlich ziemlich schnell dann hierher gekommen,
+
+91
+00:04:38,940 --> 00:04:41,060
+weil das solche heftigen Schmerzen sind.
+
+92
+00:04:41,380 --> 00:04:42,380
+Mhm.
+
+93
+00:04:42,380 --> 00:04:48,380
+Und jetzt möchte ich ein paar Fragen zu Ihrer allgemeinen Zustandstelle, Herr Schäfer.
+
+94
+00:04:48,380 --> 00:04:53,060
+Haben Sie nachts schweiß oder Stuhlwurst?
+
+95
+00:04:53,060 --> 00:04:57,060
+Nein, nein, also bisher nicht.
+
+96
+00:04:57,060 --> 00:04:59,060
+Okay.
+
+97
+00:04:59,060 --> 00:05:04,060
+Und haben Sie Probleme mit Stuhlgang?
+
+98
+00:05:04,060 --> 00:05:08,060
+Also ich habe so ein bisschen empfindlichen Darmen.
+
+99
+00:05:09,060 --> 00:05:15,060
+Da hat man schon mal gesagt, ob ich vielleicht so ein Anfänge von so einem Reizdarm habe.
+
+100
+00:05:15,060 --> 00:05:22,060
+Aber wenn ich jetzt nicht ganz schwer verdauelige Sachen esse,
+
+101
+00:05:22,060 --> 00:05:25,060
+habe ich eigentlich keine Schwierigkeiten.
+
+102
+00:05:25,060 --> 00:05:26,060
+Okay.
+
+103
+00:05:26,060 --> 00:05:32,060
+Aber Sie haben eventuell, dass Sie beim Wasser das Schmerzen haben?
+
+104
+00:05:32,060 --> 00:05:33,060
+Oh ja, ja.
+
+105
+00:05:33,060 --> 00:05:37,060
+Und ich muss eigentlich ständig, aber jedes Mal tut es wieder so weh.
+
+106
+00:05:38,060 --> 00:05:39,060
+Okay.
+
+107
+00:05:39,060 --> 00:05:44,060
+Also müssen Sie vielmals oder also öfter Wasser lassen, oder?
+
+108
+00:05:44,060 --> 00:05:45,060
+Ja, ja, jetzt.
+
+109
+00:05:45,060 --> 00:05:48,060
+Und immer nur so ganz klein bisschen, ja.
+
+110
+00:05:48,060 --> 00:05:54,060
+Wie ist Ihre Urmenge, also ist Ihre Urmenge weniger geworden oder?
+
+111
+00:05:54,060 --> 00:05:57,060
+Ja, das ist nur ganz wenig, was daraus kommt.
+
+112
+00:05:57,060 --> 00:05:58,060
+Okay.
+
+113
+00:05:58,060 --> 00:06:01,060
+Und wie ist die Farbe des Urins?
+
+114
+00:06:01,060 --> 00:06:06,060
+Also ich meine, das könnte das sein, dass da ein bisschen Blut drin ist.
+
+115
+00:06:06,060 --> 00:06:08,060
+Und da kommt so rote Flöckchen drin.
+
+116
+00:06:08,060 --> 00:06:09,060
+Blut drin.
+
+117
+00:06:09,060 --> 00:06:10,060
+Okay.
+
+118
+00:06:10,060 --> 00:06:12,060
+Wann haben Sie das?
+
+119
+00:06:12,060 --> 00:06:16,060
+Das ist jetzt erst seit, seit es losgegangen ist mit den Schmerzen.
+
+120
+00:06:16,060 --> 00:06:17,060
+Vorher war das noch nicht.
+
+121
+00:06:17,060 --> 00:06:18,060
+Okay.
+
+122
+00:06:18,060 --> 00:06:20,060
+Okay, verstehe.
+
+123
+00:06:20,060 --> 00:06:21,060
+Okay.
+
+124
+00:06:21,060 --> 00:06:23,060
+Haben Sie auch Fieber?
+
+125
+00:06:23,060 --> 00:06:26,060
+Ich habe mich nicht gemessen, aber das könnte schon sein.
+
+126
+00:06:26,060 --> 00:06:32,060
+Also ja, vielleicht bin ich ein bisschen warm, aber also ich habe mich noch nicht gemessen.
+
+127
+00:06:32,060 --> 00:06:33,060
+Okay.
+
+128
+00:06:33,060 --> 00:06:34,060
+Okay.
+
+129
+00:06:34,060 --> 00:06:39,060
+Haben Sie in letzter Zeit zu oder abgenommen, Herr Schäfer?
+
+130
+00:06:39,060 --> 00:06:43,060
+Also, das ist eigentlich immer gleich.
+
+131
+00:06:43,060 --> 00:06:49,060
+Also ich wieg mich jetzt auch nicht jeden Tag, aber eigentlich ist das so ziemlich stabil.
+
+132
+00:06:49,060 --> 00:06:50,060
+Okay, super.
+
+133
+00:06:50,060 --> 00:06:54,060
+Und wie ist Ihre Appetit?
+
+134
+00:06:54,060 --> 00:06:59,060
+Ich habe eigentlich immer einen ganz guten Appetit, aber heute habe ich jetzt noch nicht so,
+
+135
+00:06:59,060 --> 00:07:01,060
+also ja, heute geht es mir nicht gut.
+
+136
+00:07:01,060 --> 00:07:05,060
+Also jetzt will ich jetzt nicht behaupten, dass ich gerade guten Appetit habe.
+
+137
+00:07:05,060 --> 00:07:07,060
+Okay, okay.
+
+138
+00:07:07,060 --> 00:07:09,060
+Und wie ist Ihr Schlaf?
+
+139
+00:07:09,060 --> 00:07:11,060
+Schlafen Sie gut?
+
+140
+00:07:11,060 --> 00:07:13,060
+Nein, ich kann nicht immer ganz ruhig schlafen.
+
+141
+00:07:13,060 --> 00:07:17,060
+Ich muss halt sehr früh morgens oder fast in der Nacht aufzutäne.
+
+142
+00:07:17,060 --> 00:07:19,060
+Ich habe so ein bisschen komischen Tagesrhythmus,
+
+143
+00:07:19,060 --> 00:07:21,060
+weil ich in einer anderen Bäckerei arbeite.
+
+144
+00:07:21,060 --> 00:07:24,060
+Da muss man ja immer ganz früh arbeiten.
+
+145
+00:07:24,060 --> 00:07:29,060
+Und ja, dann bin ich halt eben auch abends schnell wieder weg.
+
+146
+00:07:29,060 --> 00:07:32,060
+Ja, aber eigentlich habe ich das ganz gut im Griff.
+
+147
+00:07:32,060 --> 00:07:34,060
+Ja, okay, super.
+
+148
+00:07:34,060 --> 00:07:40,060
+Und jetzt hätte ich einige Fragen zu Ihrer Vorgeschichte, Herr Schäfer.
+
+149
+00:07:40,060 --> 00:07:45,060
+Sind bei Ihnen irgendwelche chronische Krankungen bekannt?
+
+150
+00:07:45,060 --> 00:07:48,060
+Sie haben eventuell, dass Sie Reistam-Syndrom haben?
+
+151
+00:07:48,060 --> 00:07:51,060
+Ja, also das hat man mal so erwähnt,
+
+152
+00:07:51,060 --> 00:07:54,060
+dass das möglich wäre.
+
+153
+00:07:54,060 --> 00:08:01,060
+Aber wie gesagt, in dem Moment, wo ich jetzt keine stark bländen
+
+154
+00:08:01,060 --> 00:08:03,060
+oder ganz schwer verdaulichen Sachen esse,
+
+155
+00:08:03,060 --> 00:08:06,060
+ich esse gar nicht so gerne so fette Sachen und so,
+
+156
+00:08:06,060 --> 00:08:08,060
+und dann geht es mir eigentlich ganz gut.
+
+157
+00:08:08,060 --> 00:08:13,060
+Okay, also ich nehme an, dass Sie keine chronische Erkrankungen haben.
+
+158
+00:08:13,060 --> 00:08:17,060
+Was ich habe, so hat man jetzt vor vier Jahren mal festgestellt,
+
+159
+00:08:17,060 --> 00:08:19,060
+dass ich ein bisschen hohen Blutdruck habe.
+
+160
+00:08:19,060 --> 00:08:22,060
+Aber ich weiß nicht, ob das auch vielleicht kommt
+
+161
+00:08:22,060 --> 00:08:25,060
+vom komischen Tagesrhythmus,
+
+162
+00:08:25,060 --> 00:08:30,060
+weil ich immer eigentlich gegen die Uhr unterwegs bin.
+
+163
+00:08:30,060 --> 00:08:36,060
+Okay, außer vorhin Blutdruck haben Sie noch andere Erkrankungen?
+
+164
+00:08:36,060 --> 00:08:41,060
+Ja, also das hat jetzt auch wieder mit der Arbeit zu tun.
+
+165
+00:08:41,060 --> 00:08:44,060
+Ich habe jetzt so seit ein paar Monaten immer mal wieder
+
+166
+00:08:44,060 --> 00:08:49,060
+so Sehenscheidenentzündungen am rechten Arm, am rechten Unterarm,
+
+167
+00:08:49,060 --> 00:08:52,060
+einfach weil ich viel mit den Händen arbeiten muss.
+
+168
+00:08:52,060 --> 00:09:00,060
+Aber so chronische Erkrankungen in dem Sinne habe ich eigentlich sonst nicht.
+
+169
+00:09:00,060 --> 00:09:05,060
+Seit wann haben Sie diese Schwelden, also das der entscheidet?
+
+170
+00:09:05,060 --> 00:09:08,060
+Das ist schon seit ein paar Monaten, seit drei Monaten.
+
+171
+00:09:08,060 --> 00:09:11,060
+Das kommt immer wieder, und dann geht es mal wieder ganz gut.
+
+172
+00:09:11,060 --> 00:09:18,060
+Da reibe ich halt das manchmal ein mit so einer Ticlofenachsalbe.
+
+173
+00:09:18,060 --> 00:09:24,060
+Und ja, außerhalb der Arbeit, also bei der Arbeit kann ich das halt nicht tragen,
+
+174
+00:09:24,060 --> 00:09:30,060
+aber außerhalb der Arbeit trage ich so eine Schiene,
+
+175
+00:09:30,060 --> 00:09:33,060
+die das Handgelenk so ein bisschen fixiert.
+
+176
+00:09:33,060 --> 00:09:39,700
+Aber aus jenischen Gründen geht das halt bei der Arbeit nicht.
+
+177
+00:09:39,700 --> 00:09:44,700
+Okay, gibt es noch andere Erkrankungen, von denen ich wissen sollte?
+
+178
+00:09:44,700 --> 00:09:47,700
+Ne, sonst ist eigentlich alles in Ordnung, ja.
+
+179
+00:09:47,700 --> 00:09:50,700
+Also Herr Schäfer, wurden Sie schon mal operiert?
+
+180
+00:09:50,700 --> 00:09:52,700
+Nein, die Operation habe ich noch nie.
+
+181
+00:09:52,700 --> 00:09:54,700
+Okay, super.
+
+182
+00:09:54,700 --> 00:10:02,700
+Und außer diese Ticlofenachsalbe, also benutzen oder nehmen Sie regelmäßig Medikamente ein?
+
+183
+00:10:02,700 --> 00:10:07,700
+Ja, also gegen den Blutung nehme ich eine Tablette morgens abends,
+
+184
+00:10:07,700 --> 00:10:09,700
+die Tierzehme.
+
+185
+00:10:09,700 --> 00:10:14,700
+Und wissen Sie die Dosierung?
+
+186
+00:10:14,700 --> 00:10:17,700
+Oh, ich meine, da steht 90 drauf.
+
+187
+00:10:17,700 --> 00:10:19,700
+90?
+
+188
+00:10:19,700 --> 00:10:22,700
+Und noch etwas?
+
+189
+00:10:22,700 --> 00:10:26,700
+Ne, ne, ne, also ja, ich will auch gar nicht so viele Tabletten nehmen.
+
+190
+00:10:26,700 --> 00:10:31,700
+Okay, und Sie haben schon eventuell, dass Sie Wespenallegien haben?
+
+191
+00:10:31,700 --> 00:10:36,700
+Außer diese Allegien haben Sie Unfertiglichkeiten oder Allegien?
+
+192
+00:10:36,700 --> 00:10:39,700
+Ne, sonst habe ich eigentlich nichts.
+
+193
+00:10:39,700 --> 00:10:44,700
+Okay, und jetzt hätte ich einige Fragen zu Ihrer Lebensgewohnheit,
+
+194
+00:10:44,700 --> 00:10:47,700
+Herr Schäfer, brauchen Sie?
+
+195
+00:10:47,700 --> 00:10:49,700
+Oh, nicht mehr.
+
+196
+00:10:49,700 --> 00:10:53,700
+Ich habe vor fünf Jahren erfunden, dass ich mit dem Rauchen aufgehört habe.
+
+197
+00:10:53,700 --> 00:10:56,700
+Okay, früher?
+
+198
+00:10:56,700 --> 00:11:03,700
+Ja, also seit ich erwachsen war, habe ich eigentlich immer geraucht, ja.
+
+199
+00:11:03,700 --> 00:11:08,700
+Und da habe ich auch ganz schön viel geraucht.
+
+200
+00:11:08,700 --> 00:11:10,700
+Ein Päckchen am Tag war das immer, ja.
+
+201
+00:11:10,700 --> 00:11:14,700
+Ungefähr wie viel Jahren?
+
+202
+00:11:14,700 --> 00:11:23,700
+Ja, also seit ich 20 war, und vor fünf Jahren habe ich aufgehört, also 23 Jahre.
+
+203
+00:11:23,700 --> 00:11:26,700
+Ja, in 20 Jahren, ein Päckchen.
+
+204
+00:11:26,700 --> 00:11:32,700
+Okay, aber Sie haben eine gute Entscheidung getroffen.
+
+205
+00:11:32,700 --> 00:11:35,700
+Ja, aber auch teuer der Spaß, ne?
+
+206
+00:11:35,700 --> 00:11:39,700
+Ja, aber das ist nicht kleinbar, aber Sie haben das geschafft.
+
+207
+00:11:39,700 --> 00:11:43,700
+Ja, also das Rauchen ist so teuer, ne?
+
+208
+00:11:43,700 --> 00:11:45,700
+Ja, ja, ja, ja.
+
+209
+00:11:45,700 --> 00:11:49,700
+Ja, aber das Aufhören war natürlich schwer, aber irgendwie ist es gegangen, ja.
+
+210
+00:11:49,700 --> 00:11:53,700
+Ja, und trinken Sie Alkohol, Herr Schäfer?
+
+211
+00:11:53,700 --> 00:11:58,700
+Ja, also vorm Einschlafen trinke ich meistens so zwei, drei Gläser Bier.
+
+212
+00:11:58,700 --> 00:12:01,700
+Ja, mhm.
+
+213
+00:12:01,700 --> 00:12:05,700
+Okay, also jede Abend, meinen Sie?
+
+214
+00:12:05,700 --> 00:12:07,700
+So gut wie jeden Abend, ja.
+
+215
+00:12:07,700 --> 00:12:10,700
+Okay, dazu gibt es etwas?
+
+216
+00:12:10,700 --> 00:12:27,700
+Ja, also wenn es mal etwas zu feiern gibt, ja, wenn ich mal irgendwo bei irgendeinem Fest oder was dabei bin, dann trinke ich auch noch ein bisschen mehr, aber normalerweise nur eben regelmäßig.
+
+217
+00:12:27,700 --> 00:12:29,700
+Das passiert nicht so oft.
+
+218
+00:12:29,700 --> 00:12:34,700
+Herr Schäfer, also nehmen Sie die nächste Frage nicht persönlich Herr Schäfer, das ist eine ultimäßige Frage.
+
+219
+00:12:34,700 --> 00:12:37,700
+Haben Sie Erfahrung mit Drogen?
+
+220
+00:12:37,700 --> 00:12:41,700
+Mit Drogen, ne? Also will ich auch gar nicht das haben, ja.
+
+221
+00:12:41,700 --> 00:12:43,700
+Super.
+
+222
+00:12:43,700 --> 00:12:48,700
+Und wie ist Ihre Impfstatus? Sind Sie vollständig geimpft?
+
+223
+00:12:48,700 --> 00:12:50,700
+Ich meine gegen Corona, ja.
+
+224
+00:12:50,700 --> 00:12:54,700
+Wir kriegen Corona auch gegen Kinderkrankheiten.
+
+225
+00:12:54,700 --> 00:12:58,700
+Ja, mein Gott, Kinderkrankheiten, das ist schon lange her, aber
+
+226
+00:12:58,700 --> 00:13:02,700
+also ich meine, dass ich da auch alles hab, was man so haben kann, ja.
+
+227
+00:13:02,700 --> 00:13:06,700
+Okay, gegen Corona, wie viel mal? Sind Sie geimpft?
+
+228
+00:13:06,700 --> 00:13:16,700
+Äh, dreimal oder vielleicht auch sogar schon viermal, ich hab gar nicht so einen Griff, aber im letzten Jahr bin ich jedenfalls noch geimpft worden.
+
+229
+00:13:16,700 --> 00:13:17,700
+Okay, ja, super.
+
+230
+00:13:17,700 --> 00:13:19,700
+Und gegen Grippe bin ich auch geimpft, ja.
+
+231
+00:13:19,700 --> 00:13:21,700
+Oh, super, super.
+
+232
+00:13:21,700 --> 00:13:26,700
+Und treiben Sie regelmäßig Sport, Herr Schäfer?
+
+233
+00:13:26,700 --> 00:13:36,700
+Ja, also eher nicht, also meine Arbeit ist so anstrengend und wie gesagt, ich hab diesen komischen Tageslauf, da komme ich nicht so viel zum Sport,
+
+234
+00:13:36,700 --> 00:13:39,700
+aber wenn ich mal frei hab, fahre ich ganz gerne ein bisschen mit dem Fahrrad.
+
+235
+00:13:39,700 --> 00:13:41,700
+Okay.
+
+236
+00:13:41,700 --> 00:13:47,700
+Ja, also Herr Schäfer, jetzt möchte ich einige Fragen zu Ihrer Familienstellen.
+
+237
+00:13:47,700 --> 00:13:50,700
+Leben Ihre Eltern noch?
+
+238
+00:13:50,700 --> 00:13:52,700
+Meine Eltern, die leben beide noch, ja, ja.
+
+239
+00:13:52,700 --> 00:13:58,700
+Okay, wissen Sie, ob Ihre Eltern an irgendwelche chronischen Erkrankungen leiden?
+
+240
+00:13:58,700 --> 00:14:07,700
+Ja, also meine Mutter, das weiß ich, die hat so Probleme mit ihrer Wirbelsäule, die wird immer krummer, ja, und da muss sie ganz viel Gymnastik machen
+
+241
+00:14:07,700 --> 00:14:14,700
+und man hat auch schon überlegt, ob man sie irgendwie mal operiert, aber also noch geht das so.
+
+242
+00:14:14,700 --> 00:14:30,700
+Und bei meinem Vater, ja, der hat so Gefäßerschlüsse in den Beinen und hat offene Stellen an den Füßen gehabt und einen der rechte große Zähne muss dem schon apotheiert werden.
+
+243
+00:14:30,700 --> 00:14:35,360
+Oh, okay.
+
+244
+00:14:35,360 --> 00:14:37,360
+Okay.
+
+245
+00:14:37,360 --> 00:14:39,360
+Noch andere Erkrankungen haben?
+
+246
+00:14:39,360 --> 00:14:42,360
+Nee, aber das reicht ja auch völlig hin, ja.
+
+247
+00:14:42,360 --> 00:14:50,360
+Aber ich habe nicht richtig verstanden, also, was hat Ihre Mutter?
+
+248
+00:14:50,360 --> 00:14:52,360
+Sie hat Probleme mit der Wirbelsäule.
+
+249
+00:14:52,360 --> 00:14:56,360
+Wirbelsäule, wissen Sie, der genaue Name?
+
+250
+00:14:56,360 --> 00:15:06,360
+Nein, kann ich Ihnen nicht sagen. Ich weiß nur, dass ich die so so verbiegt praktisch, ne, in eine falsche Richtung.
+
+251
+00:15:06,360 --> 00:15:09,360
+Ah, okay, verstehe, okay.
+
+252
+00:15:09,360 --> 00:15:11,360
+Und haben Sie Geschwister, Herr Schäfer?
+
+253
+00:15:11,360 --> 00:15:13,360
+Nein, ich habe keine Geschwister.
+
+254
+00:15:13,360 --> 00:15:17,360
+Und Sie haben eventuell, dass Sie Bäckerin, oder?
+
+255
+00:15:17,360 --> 00:15:21,360
+Bäcker, ja, ich bin Bäcker. Ich arbeite in einer Bäckerei, ja.
+
+256
+00:15:21,360 --> 00:15:25,360
+Okay, Bäcker. Haben Sie Stress bei der Arbeit?
+
+257
+00:15:25,360 --> 00:15:28,360
+Ja, natürlich schon, ja.
+
+258
+00:15:28,360 --> 00:15:29,360
+Okay.
+
+259
+00:15:29,360 --> 00:15:33,360
+Es muss immer schnell gehen und es ist immer heiß und es ist immer...
+
+260
+00:15:33,360 --> 00:15:34,360
+Ja, ja.
+
+261
+00:15:34,360 --> 00:15:40,360
+Also, im Sommer muss es, es muss ein bisschen schwierig sein, oder?
+
+262
+00:15:40,360 --> 00:15:43,360
+Ja, ja, im Sommer ist es natürlich extrem heiß, ja.
+
+263
+00:15:43,360 --> 00:15:47,360
+Und, ja, wir sind halt auch immer unter Zeitdruck, ne.
+
+264
+00:15:47,360 --> 00:15:48,360
+Okay.
+
+265
+00:15:48,360 --> 00:15:51,360
+Und sind Sie verheiratet, Herr Schäfer?
+
+266
+00:15:51,360 --> 00:15:54,360
+Ja, noch, ich bin getrennt lebend.
+
+267
+00:15:54,360 --> 00:15:57,360
+Getrennt lebend, okay.
+
+268
+00:15:57,360 --> 00:16:00,360
+Das macht natürlich auch noch ein bisschen Stress, ja.
+
+269
+00:16:00,360 --> 00:16:03,360
+Verstehe, haben Sie Kinder?
+
+270
+00:16:03,360 --> 00:16:07,360
+Ja, wir haben drei Kinder, die sind aber bei meiner Frau.
+
+271
+00:16:07,360 --> 00:16:09,360
+Okay, sind Sie gesund?
+
+272
+00:16:09,360 --> 00:16:12,360
+Die Kinder sind so, ja, ja.
+
+273
+00:16:12,360 --> 00:16:18,360
+Okay. Also, Herr Schäfer, ich möchte zu Ihnen zu Ihrer Beschwerden kommen.
+
+274
+00:16:18,360 --> 00:16:24,360
+Also, haben Sie Herzrasen, Herzstuppeln?
+
+275
+00:16:24,360 --> 00:16:28,360
+Nein, nein, nein, ich habe Rückenschmerzen, also da hinten.
+
+276
+00:16:28,360 --> 00:16:30,360
+Okay, ja, okay.
+
+277
+00:16:30,360 --> 00:16:33,360
+Und trinken Sie ausreichend Früssigkeit?
+
+278
+00:16:33,360 --> 00:16:36,360
+Also, ich meine Wasser, oder?
+
+279
+00:16:36,360 --> 00:16:42,360
+Ja, also, ja klar, bei der Arbeit trinken wir schon auf, weil es eben so warm ist, aber, ja.
+
+280
+00:16:42,360 --> 00:16:50,360
+Okay, okay. Also, Herr Schäfer, also, ich habe alle wichtige Fragen gestellt.
+
+281
+00:16:50,360 --> 00:16:55,360
+Fällt Ihnen etwas ein, das ich wissen sollte, oder haben Sie Fragen an mich?
+
+282
+00:16:55,360 --> 00:17:03,360
+Ja, ich will natürlich jetzt wissen, woher das kommen kann und, ja, was man dagegen tun kann, vor allen Dingen.
+
+283
+00:17:03,360 --> 00:17:08,360
+Dieses Schmerz, die Spritze da, das hilft ja schon ein bisschen, wird ja schon ein bisschen besser.
+
+284
+00:17:08,360 --> 00:17:12,360
+Aber ich kann ja nicht ständig irgendwelche Medikamente nehmen.
+
+285
+00:17:12,360 --> 00:17:14,360
+Was ist denn da die Ursache wohl?
+
+286
+00:17:14,360 --> 00:17:25,360
+Also, Ihre Beschwerden deuten auf eine Nierenprobleme hin, um diese Diagnose zu bestätigen.
+
+287
+00:17:25,360 --> 00:17:30,360
+Soll ich ein paar Fragen, ein paar Untersuchungen durchführen?
+
+288
+00:17:30,360 --> 00:17:36,360
+Wie körperliche Untersuchungen, Laboruntersuchungen und giftgebende Verfahren.
+
+289
+00:17:36,360 --> 00:17:37,360
+Sobald…
+
+290
+00:17:37,360 --> 00:17:41,360
+Was kann man da machen? Was für Bildgebungen macht man da?
+
+291
+00:17:41,360 --> 00:17:47,360
+Also, eine Röntgenbild können wir auch machen, auch Al-Utraschal.
+
+292
+00:17:47,360 --> 00:17:55,360
+Und sobald alle Befunde vorliegen, kann ich Ihnen etwas Generelles sagen, was Ihnen fehlt.
+
+293
+00:17:55,360 --> 00:17:57,360
+Ah ja, das klingt gut, ja.
+
+294
+00:17:58,360 --> 00:18:00,360
+Okay, bitte nehmen Sie Platz.
+
+295
+00:18:00,360 --> 00:18:03,360
+Ja, dann warte ich hier vorne, bis es weitergeht.
+
+296
+00:18:03,360 --> 00:18:04,360
+Wir kommen gleich.
+
+297
+00:18:04,360 --> 00:18:05,360
+Alles klar.
+
+298
+00:18:06,360 --> 00:18:10,360
+Vielen Dank, 19 Minuten, das ist gut.
+
+299
+00:18:10,360 --> 00:18:12,360
+Perfekte Zeit, ja.
+
+300
+00:18:12,360 --> 00:18:20,950
+Ich habe noch eine Frage für Sie, Herr Schippa.
+
+301
+00:18:20,950 --> 00:18:23,950
+Hat Sie früher ähnliche Beschwerden?
+
+302
+00:18:23,950 --> 00:18:26,950
+Nein, sowas habe ich noch nie gehabt.
+
+303
+00:18:27,950 --> 00:18:36,950
+Bei der Bewegung oder in Ruhe kommt es zu einer Linderung der Schmerzen oder Verstärkung?
+
+304
+00:18:36,950 --> 00:18:42,300
+Also, ich habe das Gefühl, wenn ich still halte, geht es ein bisschen besser
+
+305
+00:18:42,300 --> 00:18:46,300
+und bei Bewegung geht es nochmal wieder richtig los, ja.
+
+306
+00:18:46,300 --> 00:18:48,300
+Okay, danke.
+
+307
+00:18:48,300 --> 00:18:54,360
+Noch eine andere Frage, Kollegen.
+
+308
+00:18:54,360 --> 00:19:09,100
+Ich würde gerne wissen, häufiger Handrank oder Vermehrung der Handmenge?
+
+309
+00:19:10,100 --> 00:19:13,100
+Höfiger Handrank.
+
+310
+00:19:13,100 --> 00:19:15,100
+Häufiger Handrank.
+
+311
+00:19:15,100 --> 00:19:22,100
+Ja, also ich habe ja gesagt, es kommt aber nur ganz wenig und die Menge ist nicht mehr.
+
+312
+00:19:22,100 --> 00:19:26,100
+Sondern die Menge ist wenig, aber ich muss ständig auf die Toilette gehen.
+
+313
+00:19:26,100 --> 00:19:31,100
+Habt ihr Schmerzen oder Schüpürchen, ein Brennen beinahe?
+
+314
+00:19:31,100 --> 00:19:33,100
+Oh ja, das habe ich auch gesagt.
+
+315
+00:19:33,100 --> 00:19:37,100
+Ich habe gesagt, Brennen oder Schmerzen, wer ist?
+
+316
+00:19:37,100 --> 00:19:39,100
+Brennen.
+
+317
+00:19:39,100 --> 00:19:44,100
+Ja, also Brennen ist Schmerzen, Brennen ist ja auch unangenehm.
+
+318
+00:19:44,100 --> 00:19:52,100
+Nur Schmerzen, Al-Güri, Brennen oder Schmerzen, diesüri, deswegen muss ich fragen.
+
+319
+00:19:52,100 --> 00:19:54,100
+Brennen oder Schmerzen?
+
+320
+00:19:54,100 --> 00:19:56,100
+Brennen oder Schmerzen?
+
+321
+00:19:56,100 --> 00:20:05,100
+Beide Beine haben sie bemerkt, dass ich meine Tauchhausgefühl kreife.
+
+322
+00:20:05,100 --> 00:20:07,100
+Tauchhausgefühl? Nein.
+
+323
+00:20:07,100 --> 00:20:21,100
+Nein. Die Schmerzen strahlen nur, also jetzt diese Rückenschmerzen strahlen in die rechte Leiste, aber nicht ins Bein.
+
+324
+00:20:21,100 --> 00:20:29,100
+Diese Fragen für Differenzialdiagnose, die mal die desgegen.
+
+325
+00:20:29,100 --> 00:20:33,100
+Also die Beine sind nicht tauch.
+
+326
+00:20:33,100 --> 00:20:42,100
+Ich denke alle Fragen gestärkt haben Kollegen keine Fragen, dann können wir als als Gecippra anfangen.
+
+327
+00:20:42,100 --> 00:20:44,100
+Komm mir aus gerne.
+
+328
+00:20:44,100 --> 00:20:48,100
+Bitte.
+
+329
+00:20:48,100 --> 00:20:50,100
+Okay.
+
+330
+00:20:50,100 --> 00:20:58,100
+Guten Abend Frau Oberheersten. Ich habe einen neuen Patienten aufgenommen, den ich Ihnen vorstellen möchte.
+
+331
+00:20:58,100 --> 00:21:00,100
+Haben Sie kurze Zeit für mich?
+
+332
+00:21:00,100 --> 00:21:02,100
+Ja, natürlich. Den haben Sie gesehen.
+
+333
+00:21:02,100 --> 00:21:10,100
+Also er heißt Jochen Schäfer, er ist 48 Jahre alt, 1,83 m groß und 90 kg schwer.
+
+334
+00:21:10,100 --> 00:21:33,100
+Er hat sich bei uns seit einer Stunde bestehende Rechtszeitige Lumbargie mit Ausstrahlung in den Ingeniellbereich vorgestellt.
+
+335
+00:21:34,100 --> 00:21:48,100
+Der Patient berichtet, dass die Schmerzen plöstlich aufgetreten sind und im Verlauf verschlechtert hätten.
+
+336
+00:21:49,100 --> 00:22:03,100
+Und die Schmerzkarte beschreibt der Patient als kollegartig, krampfartig.
+
+337
+00:22:03,100 --> 00:22:20,100
+Und als begleitungssymptome nannte der Patient Emesis, Mauser, Wiegibar und Alguri.
+
+338
+00:22:21,100 --> 00:22:45,100
+Und der Patient beschrieb die Urin, dass der Urin als, also der Patient hat bemerkt, dass das Blut im Urin gibt.
+
+339
+00:22:46,100 --> 00:22:53,100
+Und der Patient klagt da überall Polakis Urin.
+
+340
+00:22:53,100 --> 00:23:05,100
+Und der Begede-Tipp Anamnese erwähnt der Patient keine Auffälligkeit.
+
+341
+00:23:05,100 --> 00:23:06,100
+Keine Auffälligkeit?
+
+342
+00:23:06,100 --> 00:23:08,100
+Ja, Auffälligkeit, keine Auffälligkeit.
+
+343
+00:23:08,100 --> 00:23:29,100
+Und an Vorerkrankungen leidet die Patient an arterielle Hypertone seit 4 Jahren und vermutlich eine Reis-den-Syndrom beschrieb der Patient.
+
+344
+00:23:29,100 --> 00:23:34,100
+Aber das ist nicht genau festgestellt, wurde.
+
+345
+00:23:34,100 --> 00:23:37,100
+Und er nimmt da auch keine Medikamente, oder?
+
+346
+00:23:37,100 --> 00:23:38,100
+Nein, nein.
+
+347
+00:23:38,100 --> 00:23:50,100
+Und der Patient auch klagt über Sehenscheideentzündung, aber das weiß ich nicht.
+
+348
+00:23:50,100 --> 00:23:54,100
+Ja, wissen Sie die Fachbezeichnung?
+
+349
+00:23:54,100 --> 00:23:58,100
+Ja, leider erinnert sich.
+
+350
+00:23:58,100 --> 00:23:59,100
+Tendo Vaginitis.
+
+351
+00:23:59,100 --> 00:24:00,100
+Wie bitte?
+
+352
+00:24:00,100 --> 00:24:02,100
+Tendo Vaginitis.
+
+353
+00:24:02,100 --> 00:24:05,100
+Tendo Vaginitis, ja, seit 3 Monaten.
+
+354
+00:24:05,100 --> 00:24:12,100
+Mit Handgelenksschiene behandelt.
+
+355
+00:24:12,100 --> 00:24:17,100
+Und der Patient wurde nie operiert.
+
+356
+00:24:17,100 --> 00:24:28,100
+Und der Patient nimmt 90 mg, einmal morgens und einmal abends ein.
+
+357
+00:24:28,100 --> 00:24:36,100
+Und bei Bedarf benutzt er Diktofenaxalbe.
+
+358
+00:24:36,100 --> 00:24:50,100
+Und bei den Patienten eine Wespenallergie bekannt, die sich Lyspneur äußert.
+
+359
+00:24:50,100 --> 00:24:55,100
+Und er ist extraucher.
+
+360
+00:24:55,100 --> 00:25:00,100
+Seit 5 Jahren hat er mit Rauchum aufgehört.
+
+361
+00:25:00,100 --> 00:25:10,100
+Und vorher hat er seit 21 Jahren Einpackung täglich geraucht.
+
+362
+00:25:10,100 --> 00:25:20,100
+Also der Alkoholkonsum beträgt bis 3 Gläser Bier abends.
+
+363
+00:25:20,100 --> 00:25:23,100
+Und die Druckenkonsum wurde vermeint.
+
+364
+00:25:23,100 --> 00:25:26,100
+Der Druckenkonsum wurde vermeint.
+
+365
+00:25:26,100 --> 00:25:28,100
+Nein.
+
+366
+00:25:28,100 --> 00:25:33,100
+Er fällt Fahrrad.
+
+367
+00:25:33,100 --> 00:25:36,100
+Aber hat nicht so viel Zeit.
+
+368
+00:25:36,100 --> 00:25:42,100
+Der Impfstatus ist vollständig.
+
+369
+00:25:42,100 --> 00:25:54,100
+Und an der Familienanamnese ergab sich, dass der Vater an PAVK leidet.
+
+370
+00:25:54,100 --> 00:26:07,100
+Und die Mutter hat vermutlich ein Skoliosen.
+
+371
+00:26:08,100 --> 00:26:11,100
+Und er ist Becker.
+
+372
+00:26:11,100 --> 00:26:14,100
+Und er hat Stress bei der Arbeit.
+
+373
+00:26:14,100 --> 00:26:22,100
+Und er lebt zurzeit alleine und habe 3 gesunde Kinder.
+
+374
+00:26:22,100 --> 00:26:32,100
+Also aufgrund der anamnestischen Angaben, gehe ich von einer Nefolitis aus.
+
+375
+00:26:32,100 --> 00:26:40,100
+Die finanziellen Diagnostik kommen auch süßtitis.
+
+376
+00:26:40,100 --> 00:26:53,100
+Süßtitis, auch eine Beckenentzündung.
+
+377
+00:26:53,100 --> 00:27:04,100
+Im unspezifischen Handwerks-Effekt möglicherweise.
+
+378
+00:27:04,100 --> 00:27:06,100
+Denalkalzinom, vielleicht.
+
+379
+00:27:06,100 --> 00:27:10,100
+Im Fall kommen auch die Betracht.
+
+380
+00:27:10,100 --> 00:27:12,100
+Noch mal bitte.
+
+381
+00:27:12,100 --> 00:27:15,100
+Denalkalzinom kommt auch.
+
+382
+00:27:15,100 --> 00:27:17,100
+Ach so, ja.
+
+383
+00:27:17,100 --> 00:27:20,100
+Was machen Sie denn diagnostisch mit dem Patienten?
+
+384
+00:27:20,100 --> 00:27:25,100
+Zuerst werde ich den Patientin kürzlich untersuchen.
+
+385
+00:27:25,100 --> 00:27:35,100
+Die Kopfhalsschmerzen werde ich überprüfen.
+
+386
+00:27:35,100 --> 00:27:39,100
+Klopfschmerzen.
+
+387
+00:27:39,100 --> 00:27:42,100
+Und die Flanken.
+
+388
+00:27:42,100 --> 00:27:47,100
+Also werde ich auch Blut abnehmen.
+
+389
+00:27:47,100 --> 00:27:51,100
+Bei den Läubern untersuchen werde ich Blutpilz.
+
+390
+00:27:51,100 --> 00:27:54,100
+Ein Sündenparameter wie BSG, CLP.
+
+391
+00:27:54,100 --> 00:27:56,100
+Nehrenwerte.
+
+392
+00:27:56,100 --> 00:27:58,100
+Nehrenwerte.
+
+393
+00:27:58,100 --> 00:28:01,100
+Auch werde ich bestimmen.
+
+394
+00:28:01,100 --> 00:28:06,100
+Und TSH auch.
+
+395
+00:28:06,100 --> 00:28:16,100
+Und Urinstatus werde ich auch bestimmen.
+
+396
+00:28:16,100 --> 00:28:19,100
+Was bestimmen Sie da speziell?
+
+397
+00:28:19,100 --> 00:28:28,100
+Also bei der Logosciptose Protein.
+
+398
+00:28:28,100 --> 00:28:35,100
+Ob Eiweiß gibt es oder nicht.
+
+399
+00:28:35,100 --> 00:28:38,100
+Ja, genau.
+
+400
+00:28:38,100 --> 00:28:45,100
+Und noch Urinkultur werde ich auch ein Anordnen.
+
+401
+00:28:45,100 --> 00:28:48,100
+Und wo nachgucken wir noch?
+
+402
+00:28:48,100 --> 00:28:54,100
+Bei der Labo untersuchen.
+
+403
+00:28:54,100 --> 00:28:56,100
+Bei Urin?
+
+404
+00:28:56,100 --> 00:28:58,100
+Bei Urin, okay.
+
+405
+00:28:58,100 --> 00:29:01,100
+Wir haben Verdacht auf Steine.
+
+406
+00:29:01,100 --> 00:29:04,100
+Also Blut auch.
+
+407
+00:29:04,100 --> 00:29:07,100
+Also Erdursüte.
+
+408
+00:29:07,100 --> 00:29:10,100
+Ja, aber woher kommen die Steine?
+
+409
+00:29:10,100 --> 00:29:14,100
+Okay, nicht so.
+
+410
+00:29:14,100 --> 00:29:21,500
+Ich habe nicht verstanden, ich schulde mir.
+
+411
+00:29:21,500 --> 00:29:24,500
+Worauf sind die Steine?
+
+412
+00:29:24,500 --> 00:29:27,500
+Also Nehren?
+
+413
+00:29:27,500 --> 00:29:31,500
+Ja, wenn es Nehrensteine sind.
+
+414
+00:29:31,500 --> 00:29:36,500
+Was können wir im Urin bestimmen?
+
+415
+00:29:36,500 --> 00:29:39,500
+Ob übermäßig Calcium drin ist?
+
+416
+00:29:39,500 --> 00:29:42,500
+Oder ob übermäßig Oxalat drin ist?
+
+417
+00:29:42,500 --> 00:29:46,500
+Oxalat oder Calcium.
+
+418
+00:29:46,500 --> 00:29:50,500
+Also bei Mikroskopisch können wir auch das verteilen.
+
+419
+00:29:50,500 --> 00:29:57,500
+Und als Gewender verfahren werde ich eine Abdomen.
+
+420
+00:29:57,500 --> 00:30:01,500
+Ja, bei der Abdomensonographie.
+
+421
+00:30:01,500 --> 00:30:05,500
+Bei der Abdomensonographie werde ich die Nehren,
+
+422
+00:30:05,500 --> 00:30:10,500
+Calix, der ist Nehrens, also Beurteilen.
+
+423
+00:30:10,500 --> 00:30:14,500
+Und gibt es auch eine Stau,
+
+424
+00:30:14,500 --> 00:30:17,500
+kann ich auch Beurteilen.
+
+425
+00:30:17,500 --> 00:30:20,500
+Ja, wie äußert sich der Stau?
+
+426
+00:30:20,500 --> 00:30:24,500
+Also die Vergrößerung in den Calixen.
+
+427
+00:30:24,500 --> 00:30:27,500
+Genau.
+
+428
+00:30:27,500 --> 00:30:32,500
+Und auch kann ich auch die
+
+429
+00:30:32,500 --> 00:30:38,500
+Blase auch beurteilen, ob es eine
+
+430
+00:30:38,500 --> 00:30:42,500
+westliche Urin gibt oder nicht.
+
+431
+00:30:42,500 --> 00:30:44,500
+Besten, ja.
+
+432
+00:30:44,500 --> 00:30:47,500
+Was das zu vermuten ist,
+
+433
+00:30:47,500 --> 00:30:50,500
+weil der Städtner die Stau ist,
+
+434
+00:30:50,500 --> 00:30:53,500
+und das kommt nur wenig.
+
+435
+00:30:53,500 --> 00:30:57,500
+Und werde ich auch eine Rectal-Distall-
+
+436
+00:30:57,500 --> 00:31:01,500
+Untersuchung durchführen, ob es eine Brust-
+
+437
+00:31:01,500 --> 00:31:04,500
+Datafibrillation gibt oder nicht.
+
+438
+00:31:04,500 --> 00:31:07,500
+Genau.
+
+439
+00:31:07,500 --> 00:31:11,500
+Also gegebenenfalls werde ich eine CT des Abdomens
+
+440
+00:31:11,500 --> 00:31:15,500
+durchführen, ob ich mit der Abdomen-
+
+441
+00:31:15,500 --> 00:31:18,500
+nicht gut beurteilen kann.
+
+442
+00:31:18,500 --> 00:31:22,500
+Wie würden Sie denn, wenn sich Ihre Diagnose
+
+443
+00:31:22,500 --> 00:31:25,500
+bestätigt, wie würden Sie dann
+
+444
+00:31:25,500 --> 00:31:28,500
+Therapeuten vorgehen?
+
+445
+00:31:28,500 --> 00:31:31,500
+Also werde ich zuerst den Patienten
+
+446
+00:31:31,500 --> 00:31:35,500
+stationär aufnehmen, Flüssigkeit zu führen
+
+447
+00:31:35,500 --> 00:31:39,500
+und bei Nachweis von Ästhetik
+
+448
+00:31:39,500 --> 00:31:42,500
+und der Städtner,
+
+449
+00:31:42,500 --> 00:31:45,500
+und beim Nachweis von Erreger
+
+450
+00:31:45,500 --> 00:31:48,500
+werde ich eine Antibioterapie einleiten
+
+451
+00:31:48,500 --> 00:31:52,500
+und eine Schmerztherapie
+
+452
+00:31:52,500 --> 00:31:55,500
+und Spasmolotikung.
+
+453
+00:31:55,500 --> 00:31:58,500
+Super, ja, sehr gut.
+
+454
+00:31:58,500 --> 00:32:02,500
+Und wenn es eine Stein gibt,
+
+455
+00:32:02,500 --> 00:32:05,500
+werde ich zuerst mit
+
+456
+00:32:05,500 --> 00:32:08,500
+Konservativtherapie behandeln.
+
+457
+00:32:08,500 --> 00:32:11,500
+Wenn es nicht schafft, dann werde ich
+
+458
+00:32:11,500 --> 00:32:15,500
+eine örologische Konservation
+
+459
+00:32:15,500 --> 00:32:19,500
+mit vielleicht
+
+460
+00:32:19,500 --> 00:32:22,500
+mit welchen
+
+461
+00:32:22,500 --> 00:32:25,500
+ESWL, ja.
+
+462
+00:32:25,500 --> 00:32:28,500
+Stuhl, Stuhl-Sphärmgeschichte,
+
+463
+00:32:28,500 --> 00:32:31,500
+Literatripplergeschichte, oder
+
+464
+00:32:31,500 --> 00:32:35,500
+eine Handanleiter oder
+
+465
+00:32:35,500 --> 00:32:39,500
+Ötheraenoskopie.
+
+466
+00:32:39,500 --> 00:32:42,500
+Gut, dann bin ich gespannt,
+
+467
+00:32:42,500 --> 00:32:45,500
+was Sie mir erzählen über Ihre
+
+468
+00:32:45,500 --> 00:32:48,500
+Untersuchungsergebnisse. Halten Sie mich bitte
+
+469
+00:32:48,500 --> 00:32:51,500
+auf dem Laufenden über den Herrn.
+
+470
+00:32:51,500 --> 00:32:54,500
+Gut, Sie haben sich supergeschlagen.
+
+471
+00:32:54,500 --> 00:32:57,500
+Perfekt, ja.
+
+472
+00:32:57,500 --> 00:33:00,500
+Sehr schöne Anamnese,
+
+473
+00:33:00,500 --> 00:33:03,500
+sehr vollständige Arzt-Arzt-Bericht.
+
+474
+00:33:03,500 --> 00:33:06,500
+Ein Wort habe ich
+
+475
+00:33:06,500 --> 00:33:09,500
+so ein bisschen vermisst,
+
+476
+00:33:09,500 --> 00:33:12,500
+aber das haben Sie dann später noch
+
+477
+00:33:12,500 --> 00:33:15,500
+nachgeliefert.
+
+478
+00:33:15,500 --> 00:33:18,500
+Sie haben bei den Schmerzen,
+
+479
+00:33:18,500 --> 00:33:21,500
+haben Sie über Lumbalgie gesprochen
+
+480
+00:33:21,500 --> 00:33:24,500
+und sind aber nachher,
+
+481
+00:33:24,500 --> 00:33:27,500
+haben Sie beim Diagnostischen
+
+482
+00:33:27,500 --> 00:33:30,500
+Vorgehen, haben Sie gesprochen,
+
+483
+00:33:30,500 --> 00:33:33,500
+dass Sie Flankenschmerzen untersuchen.
+
+484
+00:33:33,500 --> 00:33:36,500
+Das ist eigentlich so,
+
+485
+00:33:36,500 --> 00:33:39,500
+das Stichwort auf das man eigentlich wartet.
+
+486
+00:33:39,500 --> 00:33:42,500
+Genau, da sitzen halt die Nieren hier so an der Seite.
+
+487
+00:33:42,500 --> 00:33:45,500
+Dann,
+
+488
+00:33:45,500 --> 00:33:48,500
+nur ein winziger
+
+489
+00:33:48,500 --> 00:33:51,500
+Formulierungsverbesserungsvorschlag,
+
+490
+00:33:51,500 --> 00:33:54,500
+Sie haben gesagt, an der Familie
+
+491
+00:33:54,500 --> 00:33:57,500
+Anamnese ergab sich.
+
+492
+00:33:57,500 --> 00:34:00,500
+Wenn würde ich sagen in der Familie
+
+493
+00:34:00,500 --> 00:34:03,500
+Anamnese ergab sich.
+
+494
+00:34:03,500 --> 00:34:06,500
+Aber genau, Skoliose ist das Stichwort.
+
+495
+00:34:06,500 --> 00:34:09,500
+Und PRVK beim Vater
+
+496
+00:34:09,500 --> 00:34:12,500
+auf, so gleich richtig, richtig gesagt.
+
+497
+00:34:12,500 --> 00:34:15,500
+Wann machen Sie Ihre Krüfe morgen?
+
+498
+00:34:15,500 --> 00:34:18,500
+16. Dezember.
+
+499
+00:34:18,500 --> 00:34:21,500
+Sie könnten morgen hingehen.
+
+500
+00:34:21,500 --> 00:34:24,500
+Alles gut gelaufen.
+
+501
+00:34:24,500 --> 00:34:27,500
+Gut.
+
+502
+00:34:27,500 --> 00:34:30,500
+Gut.
+
+503
+00:34:30,500 --> 00:34:33,500
+Aber jedem Fall,
+
+504
+00:34:33,500 --> 00:34:36,500
+haben wir gesagt,
+
+505
+00:34:36,500 --> 00:34:39,500
+Stimmt, er hat ja nicht als Fachbegriff gesagt.
+
+506
+00:34:39,500 --> 00:34:42,500
+Der Patient hat Blut im Urin bemerkt.
+
+507
+00:34:42,500 --> 00:34:45,500
+Könnte man noch sagen, Hämatorie.
+
+508
+00:34:45,500 --> 00:34:48,500
+Und, ja, Dissory haben Sie schon
+
+509
+00:34:48,500 --> 00:34:51,500
+sufliert, Herr Dr. Gündes.
+
+510
+00:34:51,500 --> 00:34:54,500
+Genau.
+
+511
+00:34:54,500 --> 00:34:57,500
+Ja, aber ich denke mal,
+
+512
+00:34:57,500 --> 00:35:01,500
+sowohl dieses sehr
+
+513
+00:35:01,500 --> 00:35:04,500
+Drate vorgehen in der Anamnese,
+
+514
+00:35:04,500 --> 00:35:07,500
+die waren, also 90 Minuten waren sie durch
+
+515
+00:35:07,500 --> 00:35:10,500
+und hatten wirklich alles gefragt.
+
+516
+00:35:10,500 --> 00:35:13,500
+Und genauso schlüssig und konsequent haben Sie jetzt
+
+517
+00:35:13,500 --> 00:35:17,810
+Ihre Präsentation gemacht.
+
+518
+00:35:17,810 --> 00:35:20,810
+Sprachlich überhaupt gar keine Probleme.
+
+519
+00:35:20,810 --> 00:35:23,810
+Wir konnten uns immer sehr gut verstehen.
+
+520
+00:35:23,810 --> 00:35:26,810
+Wir haben gesagt,
+
+521
+00:35:26,810 --> 00:35:29,810
+besser kann man es nicht machen.
+
+522
+00:35:29,810 --> 00:35:32,810
+Gut.

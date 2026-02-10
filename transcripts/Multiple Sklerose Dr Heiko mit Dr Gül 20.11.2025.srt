@@ -1,0 +1,2287 @@
+1
+00:00:00,000 --> 00:00:07,000
+Ich würde gerne mit Ihnen das Aufnahmegespräch führen.
+
+2
+00:00:07,000 --> 00:00:09,000
+Sind Sie damit einverstanden?
+
+3
+00:00:09,000 --> 00:00:11,000
+Ja, bin ich.
+
+4
+00:00:11,000 --> 00:00:12,000
+Wie heißen Sie das?
+
+5
+00:00:12,000 --> 00:00:15,000
+Ich heiße Miriam Rega.
+
+6
+00:00:15,000 --> 00:00:19,000
+Miriam Rega.
+
+7
+00:00:19,000 --> 00:00:23,000
+Bitte bestabieren Sie Ihren Namen.
+
+8
+00:00:23,000 --> 00:00:32,000
+Miriam schreibt sich M-I-R-I-A-M.
+
+9
+00:00:32,000 --> 00:00:40,000
+Und Rega, R-A-E-G-E-R.
+
+10
+00:00:40,000 --> 00:00:43,000
+Interessant. Okay. Vielen Dank.
+
+11
+00:00:43,000 --> 00:00:45,000
+Frau Rega.
+
+12
+00:00:45,000 --> 00:00:48,000
+Wie heißen Sie?
+
+13
+00:00:48,000 --> 00:00:50,000
+Ich bin 44 Jahre alt.
+
+14
+00:00:51,000 --> 00:00:54,000
+44.
+
+15
+00:00:54,000 --> 00:00:57,000
+Wann sind Sie genergeboren?
+
+16
+00:00:57,000 --> 00:01:05,000
+Am 16. April 1981.
+
+17
+00:01:05,000 --> 00:01:08,000
+Wissen Sie aktuell, wie groß Sie sind und wie viel Sie liegen?
+
+18
+00:01:08,000 --> 00:01:11,000
+Ich bin 1,72 m groß.
+
+19
+00:01:11,000 --> 00:01:15,000
+Und wie viel?
+
+20
+00:01:15,000 --> 00:01:18,000
+65 kg.
+
+21
+00:01:18,000 --> 00:01:22,000
+Vielen Dank, Frau Rega.
+
+22
+00:01:22,000 --> 00:01:24,000
+Was kann ich für Sie tun?
+
+23
+00:01:24,000 --> 00:01:26,000
+Was für welche Werte haben Sie?
+
+24
+00:01:26,000 --> 00:01:31,000
+Ich fühle mich seit mehreren Wochen sehr müde, schnell erschöpft.
+
+25
+00:01:31,000 --> 00:01:36,000
+Und ich merke, dass ich unsicher gehe.
+
+26
+00:01:36,000 --> 00:01:39,000
+Beim Gehen spüre ich eine Unsicherheit.
+
+27
+00:01:39,000 --> 00:01:45,000
+Ich habe immer das Gefühl, ich falle vielleicht hin.
+
+28
+00:01:45,000 --> 00:01:48,000
+Ich habe auch Sehstörungen.
+
+29
+00:01:48,000 --> 00:01:51,000
+Ich kann mich sehr scharf sehen.
+
+30
+00:01:51,000 --> 00:01:53,000
+Das hat sich verändert.
+
+31
+00:01:53,000 --> 00:01:56,000
+Manchmal sehe ich auch Doppelbilder.
+
+32
+00:01:56,000 --> 00:01:58,000
+Okay, Doppelbilder.
+
+33
+00:01:58,000 --> 00:02:02,000
+Seit wann haben Sie?
+
+34
+00:02:02,000 --> 00:02:06,000
+Sie haben mehrere Wochen, sagen wir mal 6 Wochen.
+
+35
+00:02:06,000 --> 00:02:08,000
+6 Wochen.
+
+36
+00:02:08,000 --> 00:02:14,000
+Wegen dieser Bechwerden haben Sie einen Arzt aufgesucht?
+
+37
+00:02:14,000 --> 00:02:16,000
+Nein, bis jetzt noch nicht.
+
+38
+00:02:16,000 --> 00:02:19,000
+Das ist auch in den letzten Tagen eher schlimmer geworden.
+
+39
+00:02:19,000 --> 00:02:21,000
+Ich hatte Urlaub.
+
+40
+00:02:21,000 --> 00:02:24,000
+Ich dachte, wenn ich mich erhole, wenn ich Ruhe habe,
+
+41
+00:02:24,000 --> 00:02:26,000
+dann wird es besser.
+
+42
+00:02:26,000 --> 00:02:29,000
+Aber es wurde nicht besser.
+
+43
+00:02:29,000 --> 00:02:33,000
+Wo waren Sie da?
+
+44
+00:02:33,000 --> 00:02:35,000
+Ich war zu Hause.
+
+45
+00:02:35,000 --> 00:02:37,000
+Ich habe zu Hause Urlaub gemacht.
+
+46
+00:02:37,000 --> 00:02:39,000
+Es war sonst sehr schön.
+
+47
+00:02:39,000 --> 00:02:42,000
+Ich habe viel versucht, an der frischen Luft zu sein.
+
+48
+00:02:42,000 --> 00:02:45,000
+Ich habe viel versucht, mit dem Gehen und der Unsicherheit.
+
+49
+00:02:45,000 --> 00:02:52,000
+Frau Rega, sagen Sie mir bitte, was essen Sie eigentlich?
+
+50
+00:02:52,000 --> 00:02:55,000
+Essen Sie Fleisch regelmäßig?
+
+51
+00:02:55,000 --> 00:02:58,000
+Sie sind Vegetarien?
+
+52
+00:02:58,000 --> 00:03:02,000
+Nein, ich esse, glaube ich, ernähre mich ausgewogen.
+
+53
+00:03:02,000 --> 00:03:06,000
+Ich esse so zweimal in der Woche Fleisch.
+
+54
+00:03:06,000 --> 00:03:09,000
+Aber nicht jeden Tag.
+
+55
+00:03:09,000 --> 00:03:12,000
+Ich versuche viel Gemüse zu essen.
+
+56
+00:03:12,000 --> 00:03:15,000
+Sehr gut.
+
+57
+00:03:15,000 --> 00:03:20,000
+Haben Sie vielleicht Hochdruck, Zuckerkrankheit?
+
+58
+00:03:20,000 --> 00:03:28,000
+Ich möchte außer diese Krankheit,
+
+59
+00:03:28,000 --> 00:03:36,000
+gibt es Auslöser für diese Krankheit?
+
+60
+00:03:36,000 --> 00:03:38,000
+Das weiß ich nicht.
+
+61
+00:03:38,000 --> 00:03:43,000
+Woran ich mich erinnern kann, war ich vor acht Wochen
+
+62
+00:03:43,000 --> 00:03:49,000
+im Süddeutschland, im Schwarzwald Wandern.
+
+63
+00:03:49,000 --> 00:03:53,000
+Da habe ich einen Zeckenbiss gehabt.
+
+64
+00:03:53,000 --> 00:03:56,000
+Das war vor ungefähr acht Wochen.
+
+65
+00:03:56,000 --> 00:04:01,000
+Ich habe die Zecke entfernt, aber habe mich danach nicht mehr darum gekümmert.
+
+66
+00:04:01,000 --> 00:04:05,000
+Aber ich weiß es nicht, ob das damit zu tun haben kann.
+
+67
+00:04:05,000 --> 00:04:09,000
+Ja, vielleicht gibt es eine Verbindung.
+
+68
+00:04:09,000 --> 00:04:22,000
+Damals haben Sie gegen die Encephalitis oder eine Impfung bekommen?
+
+69
+00:04:22,000 --> 00:04:25,000
+Nein, Impfung habe ich nicht bekommen.
+
+70
+00:04:25,000 --> 00:04:29,000
+Haben Sie Fieber?
+
+71
+00:04:29,000 --> 00:04:32,000
+Nein, habe ich nicht.
+
+72
+00:04:32,000 --> 00:04:35,000
+Haben Sie Kopfschmerzen oder Nackenschmerzen?
+
+73
+00:04:35,000 --> 00:04:38,000
+Ich habe nicht.
+
+74
+00:04:38,000 --> 00:04:41,000
+Haben Sie das bewusst sein zu erloren?
+
+75
+00:04:41,000 --> 00:04:44,000
+Nein.
+
+76
+00:04:44,000 --> 00:04:47,000
+Nein.
+
+77
+00:04:47,000 --> 00:04:53,100
+Nein.
+
+78
+00:04:53,100 --> 00:04:56,100
+Nein.
+
+79
+00:04:56,100 --> 00:04:59,100
+Nein.
+
+80
+00:04:59,100 --> 00:05:02,100
+Nein.
+
+81
+00:05:02,100 --> 00:05:10,800
+Nein.
+
+82
+00:05:10,800 --> 00:05:19,800
+Seit sechs Wochen fühlen Sie sich müde und unsicherheitlich beim Gehen.
+
+83
+00:05:19,800 --> 00:05:22,800
+Sie haben doppelte Bilder.
+
+84
+00:05:22,800 --> 00:05:29,800
+Ja, ich habe so ein Taubheitsgefühl in beiden Unterschenkeln.
+
+85
+00:05:29,800 --> 00:05:32,800
+Manchmal ist es so wie Kribbeln.
+
+86
+00:05:32,800 --> 00:05:35,800
+Beide Unterschenkeln und Kribbeln.
+
+87
+00:05:35,800 --> 00:05:38,800
+Haben Sie auch Kraftlosigkeit in Armen oder Beinen?
+
+88
+00:05:38,800 --> 00:05:41,800
+Direkt Kraftlosigkeit kann ich nicht sagen.
+
+89
+00:05:41,800 --> 00:05:44,800
+Aber ich bin sehr müde und schnell erschöpft.
+
+90
+00:05:44,800 --> 00:05:47,800
+Keine Auflehmungen.
+
+91
+00:05:47,800 --> 00:05:50,800
+Nein, Lehmungen habe ich nicht bemerkt.
+
+92
+00:05:50,800 --> 00:05:53,800
+Ich habe nicht.
+
+93
+00:05:53,800 --> 00:05:56,800
+Ich habe nicht.
+
+94
+00:05:56,800 --> 00:05:59,800
+Ich habe keine Auflehmungen.
+
+95
+00:05:59,800 --> 00:06:02,800
+Ich habe keine Lehmungen.
+
+96
+00:06:02,800 --> 00:06:05,800
+Ihr Appetit, wenn ich gut verstanden habe, ist sehr gut, oder?
+
+97
+00:06:05,800 --> 00:06:08,800
+Der Appetit ist ganz gut.
+
+98
+00:06:08,800 --> 00:06:11,800
+Aber da ich mich weniger bewegt habe,
+
+99
+00:06:11,800 --> 00:06:14,800
+in den letzten Tagen habe ich auch weniger Appetit.
+
+100
+00:06:14,800 --> 00:06:17,800
+Ich habe weniger Hunger.
+
+101
+00:06:17,800 --> 00:06:20,800
+Seit ungefähr ein, zwei Wochen?
+
+102
+00:06:20,800 --> 00:06:23,800
+Ja, ungefähr.
+
+103
+00:06:23,800 --> 00:06:26,800
+Haben Sie in letzter Zeit abgenommen?
+
+104
+00:06:26,800 --> 00:06:29,800
+Nein, mein Gewicht habe ich gehalten.
+
+105
+00:06:29,800 --> 00:06:32,800
+Okay, ich habe mich stabil gehalten.
+
+106
+00:06:32,800 --> 00:06:35,800
+Haben Sie Probleme beim Wasser lassen?
+
+107
+00:06:35,800 --> 00:06:38,800
+Ja, das habe ich auch beobachtet,
+
+108
+00:06:38,800 --> 00:06:42,800
+dass ich in den letzten Wochen mein Wasser nicht mehr so gut halten kann.
+
+109
+00:06:42,800 --> 00:06:45,800
+Ich kann es nicht so gut kontrollieren.
+
+110
+00:06:45,800 --> 00:06:48,800
+Oh, es wurde schwierig.
+
+111
+00:06:48,800 --> 00:06:51,800
+Aber ich habe keine Schmerzen.
+
+112
+00:06:51,800 --> 00:06:54,800
+Okay, ich habe keine Schmerzen.
+
+113
+00:06:54,800 --> 00:06:57,800
+Aber keine Schmerzen.
+
+114
+00:06:57,800 --> 00:07:03,580
+Schmerz keine Schmerzen.
+
+115
+00:07:03,580 --> 00:07:06,580
+Haben Sie Probleme beim Mittelfstuhlgang?
+
+116
+00:07:06,580 --> 00:07:09,580
+Ja, weil ich habe eine chronische Darmentzündung.
+
+117
+00:07:09,580 --> 00:07:12,580
+Oh, vielleicht war es?
+
+118
+00:07:12,580 --> 00:07:15,580
+Das heißt, Colitis ulcerosa.
+
+119
+00:07:15,580 --> 00:07:18,580
+So ungefähr seit acht, neun Jahren ist das bekannt.
+
+120
+00:07:18,580 --> 00:07:21,580
+Zurzeit habe ich drei Jahre lang die Schmerzen.
+
+121
+00:07:21,580 --> 00:07:24,580
+Aber in den letzten zehn Jahren ist das bekannt.
+
+122
+00:07:24,580 --> 00:07:27,580
+Zurzeit habe ich drei bis fünf Mal Stuhlgang.
+
+123
+00:07:27,580 --> 00:07:30,580
+Aber es ist viel besser als früher.
+
+124
+00:07:30,580 --> 00:07:33,580
+Da hatte ich oft Blut im Stuhl.
+
+125
+00:07:33,580 --> 00:07:36,580
+Das habe ich zurzeit aber nicht.
+
+126
+00:07:36,580 --> 00:07:39,580
+Okay, früher Blut, aber gerade keine.
+
+127
+00:07:39,580 --> 00:07:44,020
+Sehr gut.
+
+128
+00:07:44,020 --> 00:07:48,530
+Haben Sie noch andere Bischewerte, wie ich wissen sollte?
+
+129
+00:07:48,530 --> 00:07:51,530
+Beschwerden, nein.
+
+130
+00:07:51,530 --> 00:07:54,530
+Ich habe die Müdigkeit mit dem Gang und Sicherheit.
+
+131
+00:07:54,530 --> 00:07:57,530
+Das haben Sie alles schon gesagt.
+
+132
+00:07:57,530 --> 00:08:00,530
+Sprachstörungen, Hörstörungen.
+
+133
+00:08:00,530 --> 00:08:03,530
+Sprachstörungen nicht, aber eben Sprachstörungen.
+
+134
+00:08:03,530 --> 00:08:06,530
+Manchmal fällt mir das sprechen schwer.
+
+135
+00:08:06,530 --> 00:08:09,530
+Wenn ich längere Zeit rede, dann wird meine Stimme schwächer.
+
+136
+00:08:09,530 --> 00:08:12,530
+Ja, meine Heiserkeit?
+
+137
+00:08:12,530 --> 00:08:15,530
+Ja, dass meine Stimme sich müde anfühlt.
+
+138
+00:08:15,530 --> 00:08:18,530
+Das ist mir schwerfällt.
+
+139
+00:08:18,530 --> 00:08:21,530
+Aber keine Artikulation Probleme.
+
+140
+00:08:21,530 --> 00:08:24,530
+Nein, nein, nein.
+
+141
+00:08:24,530 --> 00:08:27,530
+Ich verstehe.
+
+142
+00:08:27,530 --> 00:08:30,530
+Okay.
+
+143
+00:08:30,530 --> 00:08:33,530
+Herr, ich frage mich.
+
+144
+00:08:33,530 --> 00:08:36,530
+Ich habe eine Schildrüssenentzündung.
+
+145
+00:08:36,530 --> 00:08:39,530
+Ja, einmal die Dame entzündet.
+
+146
+00:08:39,530 --> 00:08:42,530
+Dann habe ich noch eine chronische Schildrüssenentzündung.
+
+147
+00:08:42,530 --> 00:08:45,530
+Ich habe eine Schildrüssenentzündung.
+
+148
+00:08:45,530 --> 00:08:48,530
+Ich habe noch eine chronische Schildrüssenentzündung.
+
+149
+00:08:48,530 --> 00:08:51,530
+Ja.
+
+150
+00:08:51,530 --> 00:08:54,530
+Am Anfang war das eine Unterfunktion.
+
+151
+00:08:54,530 --> 00:08:57,530
+Aber seitdem ich eine Tablette nehme,
+
+152
+00:08:57,530 --> 00:09:00,530
+regelmäßig ist die Funktion jetzt normal.
+
+153
+00:09:00,530 --> 00:09:03,530
+Aber die Ärzte sagen, es bleibt diese chronische Schildrüssenentzündung.
+
+154
+00:09:03,530 --> 00:09:06,530
+Die wird bleiben.
+
+155
+00:09:06,530 --> 00:09:09,530
+Seit wann?
+
+156
+00:09:09,530 --> 00:09:12,530
+Seit wann haben Sie Schildrüssen?
+
+157
+00:09:12,530 --> 00:09:15,530
+Seit 10 Jahren.
+
+158
+00:09:15,530 --> 00:09:18,530
+Sonst noch andere Alkranten?
+
+159
+00:09:18,530 --> 00:09:21,530
+Nein.
+
+160
+00:09:21,530 --> 00:09:24,530
+Wurden Sie schon einmal operiert?
+
+161
+00:09:24,530 --> 00:09:27,530
+Ja, am Blinddarm.
+
+162
+00:09:27,530 --> 00:09:30,530
+Da war ich 10 Jahre alt.
+
+163
+00:09:30,530 --> 00:09:33,530
+Entfernung.
+
+164
+00:09:33,530 --> 00:09:36,530
+Dann wurde ich am rechten Oberarm operiert.
+
+165
+00:09:36,530 --> 00:09:39,530
+Da war der Oberarm gebrochen durch einen Fahrradsturz.
+
+166
+00:09:39,530 --> 00:09:42,530
+Am Beginn des Oberarms.
+
+167
+00:09:42,530 --> 00:09:45,530
+Da war der gebrochen.
+
+168
+00:09:45,530 --> 00:09:48,530
+Das musste operiert werden.
+
+169
+00:09:48,530 --> 00:09:51,530
+Weil das hätte sonst nicht gut wieder verheilt.
+
+170
+00:09:51,530 --> 00:09:54,530
+Haben Sie aktuell beschwert?
+
+171
+00:09:54,530 --> 00:09:57,530
+Nein, habe ich nicht.
+
+172
+00:09:57,530 --> 00:10:00,530
+Es freut mich.
+
+173
+00:10:00,530 --> 00:10:03,530
+Wie alt waren Sie damals?
+
+174
+00:10:03,530 --> 00:10:06,530
+Da war ich 22.
+
+175
+00:10:06,530 --> 00:10:09,530
+Das ist die letzte Operation?
+
+176
+00:10:09,530 --> 00:10:12,530
+Nein, sonst keine.
+
+177
+00:10:12,530 --> 00:10:15,530
+Ich nehme einmal für die Schildrüse ein.
+
+178
+00:10:15,530 --> 00:10:18,530
+Das Mittel heißt Jot Turox.
+
+179
+00:10:18,530 --> 00:10:21,530
+Jot Turox.
+
+180
+00:10:21,530 --> 00:10:24,530
+Eine Tabuhta 1.
+
+181
+00:10:24,530 --> 00:10:27,530
+Jot, J, O, D.
+
+182
+00:10:27,530 --> 00:10:30,530
+TH, Y.
+
+183
+00:10:30,530 --> 00:10:33,530
+ROX, Jot Turox.
+
+184
+00:10:33,530 --> 00:10:36,530
+25 Mikrogramm.
+
+185
+00:10:36,530 --> 00:10:39,530
+Da steht 75.
+
+186
+00:10:39,530 --> 00:10:42,530
+Wie oft nehmen Sie auch?
+
+187
+00:10:42,530 --> 00:10:45,530
+Eine pro Tag.
+
+188
+00:10:45,530 --> 00:10:48,530
+Und gegen die Qualitätsglycerosa?
+
+189
+00:10:48,530 --> 00:10:51,530
+Ja, da nehme ich einmal Tabletten.
+
+190
+00:10:51,530 --> 00:10:54,530
+Die heißen Mesalazin.
+
+191
+00:10:54,530 --> 00:10:57,530
+50 Mikrogramm?
+
+192
+00:10:57,530 --> 00:11:00,530
+Nein, dahinter steht 500.
+
+193
+00:11:00,530 --> 00:11:03,530
+Und dann nehme ich morgens 2 und abends 2.
+
+194
+00:11:03,530 --> 00:11:06,530
+Und dann nehme ich noch Schaum.
+
+195
+00:11:06,530 --> 00:11:09,530
+Da steht drauf Rektalschaum.
+
+196
+00:11:09,530 --> 00:11:12,530
+Ich glaube, das ist Cortison.
+
+197
+00:11:12,530 --> 00:11:15,530
+Da steht drauf Budez.
+
+198
+00:11:15,530 --> 00:11:18,530
+Dann nehme ich 2 Mal am Tag.
+
+199
+00:11:18,530 --> 00:11:21,530
+Dann nehmen wir 2 Mal am Tag.
+
+200
+00:11:21,530 --> 00:11:24,530
+Dann nehmen wir 2 Mal am Tag.
+
+201
+00:11:24,530 --> 00:11:27,530
+Dann nehmen wir 2 Mal am Tag.
+
+202
+00:11:27,530 --> 00:11:30,530
+Leute, ich container sie halt.
+
+203
+00:11:30,530 --> 00:11:47,570
+Dann大概 0 5000
+
+204
+00:11:47,570 --> 00:11:50,570
+Da Schaum.
+
+205
+00:11:50,570 --> 00:11:53,530
+Dann nehmen wir 2 Mal beim Tag.
+
+206
+00:11:53,530 --> 00:12:00,530
+Und Rektalscham?
+
+207
+00:12:00,530 --> 00:12:09,530
+Ne, sonst keine.
+
+208
+00:12:09,530 --> 00:12:13,530
+Nein.
+
+209
+00:12:13,530 --> 00:12:18,530
+Ist mir nicht bekannt.
+
+210
+00:12:18,530 --> 00:12:22,530
+Nein.
+
+211
+00:12:23,530 --> 00:12:28,530
+Ich habe noch nie geraucht.
+
+212
+00:12:28,530 --> 00:12:31,530
+Trinken Sie Alkohol?
+
+213
+00:12:31,530 --> 00:12:35,530
+Ja, aber selten. Ein Glas Wein pro Woche.
+
+214
+00:12:35,530 --> 00:12:38,530
+Ein Glas Wein.
+
+215
+00:12:38,530 --> 00:12:42,530
+Nehmen Sie sonst die Drogen?
+
+216
+00:12:42,530 --> 00:12:45,530
+Nein.
+
+217
+00:12:45,530 --> 00:12:55,530
+Ich habe meine Familie, die ich wissen sollte,
+
+218
+00:12:55,530 --> 00:12:58,530
+mit chronischen Erkrankungen.
+
+219
+00:12:58,530 --> 00:13:01,530
+Mein Vater ist 70 Jahre alt.
+
+220
+00:13:01,530 --> 00:13:05,530
+Er hat seit einigen Jahren hohen Blutdruck.
+
+221
+00:13:05,530 --> 00:13:09,530
+Seit zwei Jahren ist bei ihm bekannt,
+
+222
+00:13:09,530 --> 00:13:14,530
+dass die Hauptschlachader im Bauch so ausgesagt ist.
+
+223
+00:13:14,530 --> 00:13:20,530
+Er muss seinen Blutdruck genau kontrollieren.
+
+224
+00:13:20,530 --> 00:13:23,530
+Aber bisher will man das nicht operieren.
+
+225
+00:13:23,530 --> 00:13:27,530
+Man will noch abwarten.
+
+226
+00:13:27,530 --> 00:13:33,530
+Habt die Hauptschlachader im Bauch platziert?
+
+227
+00:13:33,530 --> 00:13:36,530
+Ausgesagt.
+
+228
+00:13:36,530 --> 00:13:39,530
+Vergrößerung.
+
+229
+00:13:39,530 --> 00:13:45,530
+Ich habe meine Mutter, die ist 69 Jahre alt.
+
+230
+00:13:45,530 --> 00:13:50,530
+Sie hatte vor vier Jahren Eierstockkrebs.
+
+231
+00:13:50,530 --> 00:13:54,530
+Das wurde operiert.
+
+232
+00:13:54,530 --> 00:13:58,530
+Anschließend bekam sie Chemotherapie.
+
+233
+00:13:58,530 --> 00:14:01,530
+Aber es geht ihr ganz gut.
+
+234
+00:14:01,530 --> 00:14:04,530
+Das freut mich sehr.
+
+235
+00:14:04,530 --> 00:14:08,530
+Vor 15 Jahren hatte meine Mutter eine Operation
+
+236
+00:14:08,530 --> 00:14:11,530
+an der linken Hüfte.
+
+237
+00:14:11,530 --> 00:14:17,530
+Da hat sie ein neues Hüftgelenk bekommen wegen Arthrose.
+
+238
+00:14:17,530 --> 00:14:21,530
+Vor 15 Jahren?
+
+239
+00:14:21,530 --> 00:14:25,530
+Neue Hüfte.
+
+240
+00:14:25,530 --> 00:14:28,530
+Links.
+
+241
+00:14:28,530 --> 00:14:33,530
+Sind Ihre Mutter gut?
+
+242
+00:14:33,530 --> 00:14:37,530
+Ja, ich kann ganz gut damit gehen.
+
+243
+00:14:37,530 --> 00:14:41,530
+Haben Sie eine Schwester?
+
+244
+00:14:41,530 --> 00:14:45,530
+Ich habe eine Schwester, die ist ein Jahr älter als ich.
+
+245
+00:14:45,530 --> 00:14:48,530
+Aber die ist gesund.
+
+246
+00:14:48,530 --> 00:14:51,530
+Was machen Sie beruflich?
+
+247
+00:14:51,530 --> 00:14:55,530
+Ich bin Busfahrerin.
+
+248
+00:14:55,530 --> 00:14:59,530
+Ich kann mit den Beschwerden nicht arbeiten.
+
+249
+00:14:59,530 --> 00:15:03,530
+Ich kann nicht gut sehen.
+
+250
+00:15:03,530 --> 00:15:06,530
+Ich bin zu unsicher.
+
+251
+00:15:06,530 --> 00:15:09,530
+Ich hatte bis jetzt Urlaub.
+
+252
+00:15:09,530 --> 00:15:12,530
+Es muss untersucht werden.
+
+253
+00:15:12,530 --> 00:15:15,530
+Sie haben gut gemacht.
+
+254
+00:15:15,530 --> 00:15:19,530
+Seit ungefähr drei Wochen können Sie nicht mehr arbeiten?
+
+255
+00:15:19,530 --> 00:15:22,530
+Ja, in den letzten drei Wochen
+
+256
+00:15:22,530 --> 00:15:25,530
+hätte ich nicht arbeiten können.
+
+257
+00:15:25,530 --> 00:15:28,530
+Sind Sie verheiratet?
+
+258
+00:15:28,530 --> 00:15:31,530
+Nein, ich bin ledig.
+
+259
+00:15:31,530 --> 00:15:34,530
+Ich wohne mit meinem Partner zusammen.
+
+260
+00:15:34,530 --> 00:15:37,530
+Haben Sie Kinder?
+
+261
+00:15:37,530 --> 00:15:40,530
+Nein.
+
+262
+00:15:40,530 --> 00:15:43,530
+Sind Sie vorständig geimpft?
+
+263
+00:15:43,530 --> 00:15:46,530
+Ja, da wird immer darauf geachtet vom Betriebsarzt.
+
+264
+00:15:46,530 --> 00:15:49,530
+Ich muss immer regelmäßig zum Betriebsarzt.
+
+265
+00:15:49,530 --> 00:15:52,530
+Weil ich Busfahrerin bin.
+
+266
+00:15:52,530 --> 00:15:55,530
+Ich bin mit dem Betriebsarzt.
+
+267
+00:15:55,530 --> 00:15:58,530
+Ich bin mit dem Betriebsarzt.
+
+268
+00:15:58,530 --> 00:16:01,530
+Ich bin mit dem Betriebsarzt.
+
+269
+00:16:01,530 --> 00:16:04,530
+Ich bin mit dem Betriebsarzt.
+
+270
+00:16:04,530 --> 00:16:07,530
+Sie sagen, es ist aktuell.
+
+271
+00:16:07,530 --> 00:16:10,530
+Träubend Sie Sport regelmäßig?
+
+272
+00:16:10,530 --> 00:16:13,530
+Nein, ich versuche zu wandern.
+
+273
+00:16:13,530 --> 00:16:16,530
+Aber manchmal ist es schwierig.
+
+274
+00:16:16,530 --> 00:16:19,530
+Ich arbeite als Busfahrerin.
+
+275
+00:16:19,530 --> 00:16:22,530
+Ich bin Freieger.
+
+276
+00:16:22,530 --> 00:16:25,530
+Sie sind vorständig geimpft.
+
+277
+00:16:25,530 --> 00:16:28,530
+Sport ist gut.
+
+278
+00:16:28,530 --> 00:16:31,530
+Aber waren Sie in nächster Zeit im Ausland?
+
+279
+00:16:31,530 --> 00:16:34,530
+Sie haben gesagt, acht Wochen?
+
+280
+00:16:34,530 --> 00:16:37,530
+Süddeutschland?
+
+281
+00:16:37,530 --> 00:16:40,530
+Ja, da war ich in Süddeutschland.
+
+282
+00:16:40,530 --> 00:16:43,530
+Aber das ist nicht im Ausland.
+
+283
+00:16:43,530 --> 00:16:46,530
+Vor drei Monaten war ich in Ägypten.
+
+284
+00:16:46,530 --> 00:16:49,530
+Vor drei Monaten?
+
+285
+00:16:49,530 --> 00:16:52,530
+Ja, da war ich zehn Tage lang dort.
+
+286
+00:16:52,530 --> 00:16:55,530
+Ich hatte für zwei Tage einen Magen-Darm-Infekt.
+
+287
+00:16:55,530 --> 00:16:58,530
+Aber der ist wieder gut abgeklungen.
+
+288
+00:16:58,530 --> 00:17:01,530
+Das war alles gut.
+
+289
+00:17:01,530 --> 00:17:04,530
+Magen-Darm-Infektion?
+
+290
+00:17:04,530 --> 00:17:07,530
+Ja, oder Infektion.
+
+291
+00:17:07,530 --> 00:17:10,530
+Ich habe erbrochen und hatte Verstärk-Durchfall.
+
+292
+00:17:10,530 --> 00:17:13,530
+Aber das waren nur zwei Tage.
+
+293
+00:17:13,530 --> 00:17:16,530
+Dann wird das wieder besser.
+
+294
+00:17:16,530 --> 00:17:19,530
+Ich bin fertig.
+
+295
+00:17:19,530 --> 00:17:22,530
+Möchten Sie etwas zufügen?
+
+296
+00:17:22,530 --> 00:17:25,530
+Nein, eigentlich nicht.
+
+297
+00:17:25,530 --> 00:17:28,530
+Sehr gut.
+
+298
+00:17:28,530 --> 00:17:31,530
+Ich muss sofort bei Ihnen
+
+299
+00:17:31,530 --> 00:17:34,530
+körperliche Untersuchungen durchführen.
+
+300
+00:17:34,530 --> 00:17:37,530
+Für Labo-Untersuchungen ein bisschen Blut abnehmen.
+
+301
+00:17:37,530 --> 00:17:40,530
+Dann werden wir uns dann wieder auf die Hand
+
+302
+00:17:40,530 --> 00:17:43,530
+auf die Hand und auf die Hand.
+
+303
+00:17:43,530 --> 00:17:46,530
+Dann können wir entweder eine Kopf-City
+
+304
+00:17:46,530 --> 00:17:49,530
+oder Kopf-MRT durchführen.
+
+305
+00:17:49,530 --> 00:17:52,530
+Was heißt MRT?
+
+306
+00:17:52,530 --> 00:17:55,530
+Magnestronas Tumografie bedeutet.
+
+307
+00:17:55,530 --> 00:17:58,530
+Ach so, habe ich schon mal von gehört.
+
+308
+00:17:58,530 --> 00:18:01,530
+Aber bei mir ist es noch nie gemacht worden.
+
+309
+00:18:01,530 --> 00:18:04,530
+Ja, das ist eine sehr sicherer Untersuchung.
+
+310
+00:18:04,530 --> 00:18:07,530
+Keine Sorge.
+
+311
+00:18:07,530 --> 00:18:10,530
+Können wir vielleicht weiterer Schritte darüber sprechen?
+
+312
+00:18:10,530 --> 00:18:13,530
+Vielleicht werden wir auch
+
+313
+00:18:13,530 --> 00:18:16,530
+bei Ihnen eine Lombard-Punktion durchführen.
+
+314
+00:18:16,530 --> 00:18:19,530
+Ich meine,
+
+315
+00:18:19,530 --> 00:18:22,530
+in Ihrem Landenbereich
+
+316
+00:18:22,530 --> 00:18:25,530
+ein Gehirnwasser bekommen.
+
+317
+00:18:25,530 --> 00:18:28,530
+Ach so, Rückenmarkwasser?
+
+318
+00:18:28,530 --> 00:18:31,530
+Ja, ja, ja.
+
+319
+00:18:31,530 --> 00:18:34,530
+Ach so, ich habe davon gehört.
+
+320
+00:18:34,530 --> 00:18:37,530
+Ja, gut.
+
+321
+00:18:37,530 --> 00:18:40,530
+Dann haben Sie jetzt Zeit, sich etwas vorzubereiten.
+
+322
+00:18:40,530 --> 00:18:43,530
+Übersetzen Sie die Patientensprache.
+
+323
+00:18:43,530 --> 00:18:46,530
+Heute sind es ja recht viele.
+
+324
+00:18:46,530 --> 00:18:49,530
+Haben vielleicht noch Fragen.
+
+325
+00:18:49,530 --> 00:18:52,530
+Es ist schon sehr viel gefragt worden.
+
+326
+00:18:52,530 --> 00:18:55,530
+Vielleicht fehlt noch etwas.
+
+327
+00:18:55,530 --> 00:19:02,210
+Darf ich Frage?
+
+328
+00:19:02,210 --> 00:19:05,210
+Ich möchte wissen, ob Sie
+
+329
+00:19:05,210 --> 00:19:08,210
+Fieber oder Schütterfrost haben.
+
+330
+00:19:08,210 --> 00:19:11,210
+Ja, die Kollegin hatte nach Fieber gefragt.
+
+331
+00:19:11,210 --> 00:19:14,210
+Fieber habe ich nicht.
+
+332
+00:19:14,210 --> 00:19:17,210
+Hab ich nicht gehabt.
+
+333
+00:19:17,210 --> 00:19:21,780
+Haben Sie Hautausschlag oder Gärtsucht?
+
+334
+00:19:21,780 --> 00:19:24,780
+Nein, habe ich nicht bemerkt.
+
+335
+00:19:24,780 --> 00:19:27,780
+Nein?
+
+336
+00:19:27,780 --> 00:19:30,780
+Haben Sie Zittern in Händen?
+
+337
+00:19:30,780 --> 00:19:33,780
+Pickel.
+
+338
+00:19:33,780 --> 00:19:36,780
+Nein, habe ich nicht.
+
+339
+00:19:36,780 --> 00:19:39,780
+Wenn Sie in Ägypten war,
+
+340
+00:19:39,780 --> 00:19:42,780
+wie es behandeln gegen
+
+341
+00:19:42,780 --> 00:19:45,780
+Darmentestündung?
+
+342
+00:19:45,780 --> 00:19:48,780
+Nein, ohne Antibiotikum.
+
+343
+00:19:48,780 --> 00:19:51,780
+Ich habe mich einfach ins Hotelzimmer gelegt
+
+344
+00:19:51,780 --> 00:19:54,780
+und habe
+
+345
+00:19:54,780 --> 00:20:01,780
+eine andere
+
+346
+00:20:01,780 --> 00:20:04,780
+Wasser- und Tee getrunken.
+
+347
+00:20:04,780 --> 00:20:07,780
+Etwas Toast gegessen.
+
+348
+00:20:07,780 --> 00:20:10,780
+Dann wurde es nach 2 Tagen besser.
+
+349
+00:20:10,780 --> 00:20:13,780
+Ich hatte auch kein Fieber.
+
+350
+00:20:13,780 --> 00:20:16,780
+Es war nur Übelkeit, Erbrechen und Durchfall.
+
+351
+00:20:16,780 --> 00:20:19,780
+Ich würde wissen,
+
+352
+00:20:19,780 --> 00:20:22,780
+ob Sie Kopfverletzung hatten.
+
+353
+00:20:22,780 --> 00:20:25,780
+Nein, ich hatte in letzter Zeit
+
+354
+00:20:25,780 --> 00:20:28,780
+keinen Unfall oder Kopfverletzung.
+
+355
+00:20:28,780 --> 00:20:31,780
+Danke schön.
+
+356
+00:20:31,780 --> 00:20:37,210
+Gerne.
+
+357
+00:20:37,210 --> 00:20:49,550
+Schönen guten Abend, Herr Oberarzt.
+
+358
+00:20:49,550 --> 00:20:52,550
+Ich habe eine neue Patientin,
+
+359
+00:20:52,550 --> 00:20:55,550
+die ich Ihnen vorstellen möchte.
+
+360
+00:20:55,550 --> 00:20:58,550
+Haben Sie einen Moment dafür?
+
+361
+00:20:58,550 --> 00:21:01,550
+Ja, habe ich.
+
+362
+00:21:01,550 --> 00:21:04,550
+Vielen Dank. Es geht um Frau Miriam Ragerger.
+
+363
+00:21:04,550 --> 00:21:07,550
+Rager.
+
+364
+00:21:07,550 --> 00:21:10,550
+Einfach nur Rager.
+
+365
+00:21:10,550 --> 00:21:13,550
+Rager.
+
+366
+00:21:13,550 --> 00:21:16,550
+Sie ist 44 Jahre alt.
+
+367
+00:21:16,550 --> 00:21:19,550
+Geboren am 16. April 1980.
+
+368
+00:21:19,550 --> 00:21:22,550
+Sie wiege ein mit 65 kg
+
+369
+00:21:22,550 --> 00:21:25,550
+und hat eine Erbrechung.
+
+370
+00:21:25,550 --> 00:21:28,550
+Sie hat eine Erbrechung.
+
+371
+00:21:28,550 --> 00:21:31,550
+Sie hat eine Erbrechung.
+
+372
+00:21:31,550 --> 00:21:34,550
+Sie hat eine Erbrechung.
+
+373
+00:21:34,550 --> 00:21:37,550
+Sie hat eine Erbrechung.
+
+374
+00:21:37,550 --> 00:21:40,750
+Sie sagt,
+
+375
+00:21:40,750 --> 00:21:44,550
+sie ist 45 kg undы 571 g
+
+376
+00:21:44,550 --> 00:21:47,670
+Und sie wiegt passportieren
+
+377
+00:21:47,670 --> 00:21:52,230
+und ist 45 kg.
+
+378
+00:21:52,230 --> 00:21:55,550
+Frau Rager misste sich bei
+
+379
+00:21:55,550 --> 00:21:58,910
+uns vor wegen Zeit
+
+380
+00:21:58,910 --> 00:22:02,710
+sechs Wochen bestehende
+
+381
+00:22:02,710 --> 00:22:07,710
+Insbesondere die Störungen und die Doppelbilder.
+
+382
+00:22:07,710 --> 00:22:14,710
+Sagen Sie vielleicht, sagen Sie vielleicht Visusminderung, Visusminderung oder Visustörung
+
+383
+00:22:14,710 --> 00:22:20,710
+und Diplopie. Diplopie ist die Doppelbilder.
+
+384
+00:22:20,710 --> 00:22:27,710
+Okay. Den zweiten Akkulakt ist die Visusminderung und Diplopie.
+
+385
+00:22:28,710 --> 00:22:37,710
+Laut der Patientin habe sie vor acht Wochen in Süddeutschland einen Urlaub gemacht.
+
+386
+00:22:37,710 --> 00:22:47,710
+Dort hat ein Zeckenbiss bei ihr gemacht.
+
+387
+00:22:47,710 --> 00:22:52,710
+Ja oder erlitt oder bekommen. Einen Zeckenbiss erlitten bekommen.
+
+388
+00:22:52,710 --> 00:23:01,710
+Als möglicher Auslöser nennen wir vielleicht Zeckenbiss.
+
+389
+00:23:01,710 --> 00:23:14,710
+Darüber hinaus berichtet sie über Parisie und Hypesthesie in beiden Beinen.
+
+390
+00:23:15,710 --> 00:23:21,710
+Zusätzlich leiden sie an Hanh in Kontinent.
+
+391
+00:23:21,710 --> 00:23:36,710
+In nächsten Wochen, des Weiteren klagte sie über schnelle Sprache.
+
+392
+00:23:36,710 --> 00:23:39,710
+Wie kann man sagen? Stimme müde.
+
+393
+00:23:40,710 --> 00:23:47,710
+Man kann sagen, schnell ermüdende Stimme.
+
+394
+00:23:47,710 --> 00:23:49,710
+Ja, schnell ermüdende Stimme.
+
+395
+00:23:49,710 --> 00:23:52,710
+Ich kenne jetzt dafür auch keinen Fachausdruck.
+
+396
+00:23:52,710 --> 00:23:55,710
+Schnell ermüdende Stimme.
+
+397
+00:23:55,710 --> 00:24:04,710
+Die Fragen nach Fibar, Nackensteifigkeit und Sephalie wurden fein ein.
+
+398
+00:24:04,710 --> 00:24:07,710
+Die vegetative Anamnesis ist unauffällig.
+
+399
+00:24:07,710 --> 00:24:13,710
+Bis auf Diarrö wegen Qualitis Ulcerosa.
+
+400
+00:24:13,710 --> 00:24:16,710
+Wie oft ist die Diarrö?
+
+401
+00:24:16,710 --> 00:24:18,710
+3-5 Mal täglich.
+
+402
+00:24:18,710 --> 00:24:20,710
+Und keine Brühe.
+
+403
+00:24:20,710 --> 00:24:22,710
+Okay.
+
+404
+00:24:22,710 --> 00:24:25,710
+Und jetzt kommen wir vor Erkrankungen.
+
+405
+00:24:25,710 --> 00:24:32,710
+Sie haben ungefähr 8-9 Jahre Qualitis Ulcerosa.
+
+406
+00:24:32,710 --> 00:24:41,710
+Und sie leiden an Hypotheose, aber am Anfang nicht Hypotheose.
+
+407
+00:24:41,710 --> 00:24:48,710
+Im Laufe der Zeit, sie leiden an Hypotheose ungefähr seit 10 Jahren.
+
+408
+00:24:48,710 --> 00:24:59,710
+Sie wurden mit 10 Jahren Appendectomy.
+
+409
+00:24:59,710 --> 00:25:01,710
+Appendectomy? Ja.
+
+410
+00:25:01,710 --> 00:25:03,710
+Okay.
+
+411
+00:25:03,710 --> 00:25:11,710
+Darüber hinaus, nach einem Fahrradunfall,
+
+412
+00:25:11,710 --> 00:25:17,710
+wurde bei ihr mit 22 Jahren
+
+413
+00:25:17,710 --> 00:25:25,710
+rechtseitige Humerus-Fraktöroperation geöffnet.
+
+414
+00:25:25,710 --> 00:25:27,710
+Operiert.
+
+415
+00:25:27,710 --> 00:25:32,710
+Sie hatte eine Unterfunktion der Schildrüse.
+
+416
+00:25:32,710 --> 00:25:35,710
+Was hat man noch festgestellt?
+
+417
+00:25:35,710 --> 00:25:38,710
+Schildrüse und Unterfunktion.
+
+418
+00:25:38,710 --> 00:25:40,710
+Ja.
+
+419
+00:25:40,710 --> 00:25:43,710
+Sie hat gesagt, ich habe eine chronische Entzündung der Schildrüse.
+
+420
+00:25:43,710 --> 00:25:45,710
+Ja.
+
+421
+00:25:45,710 --> 00:25:47,710
+Wahrscheinlich Hashimoto.
+
+422
+00:25:47,710 --> 00:25:49,710
+Autoimmuntyrioditis.
+
+423
+00:25:49,710 --> 00:25:52,710
+Wahrscheinlich handelt es sich um Hashimoto-Tyrioditis.
+
+424
+00:25:52,710 --> 00:25:54,710
+Okay.
+
+425
+00:25:54,710 --> 00:25:57,710
+Sie ist regelmäßig J-Trox.
+
+426
+00:25:57,710 --> 00:25:59,710
+75 Mikrogramm Tabletten.
+
+427
+00:25:59,710 --> 00:26:02,710
+Morgen, morgens ein.
+
+428
+00:26:02,710 --> 00:26:07,710
+Messalazin, Tablet 500 mg, 2 mal täglich.
+
+429
+00:26:07,710 --> 00:26:12,710
+Wie viele Tabletten insgesamt, Messalazin?
+
+430
+00:26:12,710 --> 00:26:15,710
+500 mg, aber wie viel?
+
+431
+00:26:15,710 --> 00:26:17,710
+Ich weiß nicht.
+
+432
+00:26:17,710 --> 00:26:20,710
+Morgens 2 und abends 2.
+
+433
+00:26:20,710 --> 00:26:23,710
+Insgesamt 2'000 mg.
+
+434
+00:26:23,710 --> 00:26:31,710
+Und darüber hinaus benutzt ihr sie rektar schau zweimal täglich und
+
+435
+00:26:31,710 --> 00:26:38,710
+buddes kapsel kapsel oder? Nein, zepfchen.
+
+436
+00:26:38,710 --> 00:26:43,710
+Kennen Sie den medizinischen Begriff für zepfchen?
+
+437
+00:26:43,710 --> 00:26:49,710
+Ja, suppositorien.
+
+438
+00:26:49,710 --> 00:26:56,710
+Ja, ist nicht mehr so populär wie früher, aber Kinder bekommen noch Fieberzepfchen,
+
+439
+00:26:56,710 --> 00:27:06,710
+kleine Kinderfieberzepfchen und es gibt auch Mesalazin-Zepfchen oder buddes Zepfchen, gibt es auch suppositorien.
+
+440
+00:27:06,710 --> 00:27:17,710
+Ja, suppositorien. Bei ihr sind keine Allergen und Verträglichkeiten bekannt.
+
+441
+00:27:17,710 --> 00:27:27,710
+Sie ist nicht raucherin, sie raucher sehr selten, ein Glas, ein Glas, ein Bein,
+
+442
+00:27:27,710 --> 00:27:31,710
+ein Wochen nicht. Ja, pro Woche.
+
+443
+00:27:31,710 --> 00:27:43,710
+Und Drogenkonsum wurden verneint. Ja, hat seit einigen Jahren leider an Artilieli-Hypertonie
+
+444
+00:27:43,710 --> 00:27:54,710
+und seit zwei Jahren Abdominal-Aurt-Anevrisma.
+
+445
+00:27:54,710 --> 00:28:04,710
+Ja, Aorten-Anorisma. Aorta ist die Schlagader und Aorten-Anorisma.
+
+446
+00:28:04,710 --> 00:28:24,710
+Ja, seit ungefähr zwei Jahren. Ihre Mutter ist neunundsexte Jahre alt, sie hatte vor fünf, vier Jahren wegen einer ovariellen Kartinom operiert und Chemotherapie.
+
+447
+00:28:25,710 --> 00:28:30,710
+Was hat die Mutter noch?
+
+448
+00:28:30,710 --> 00:28:40,710
+Vor 15 Jahren wurde bei ihr eine total endotep-Hüftgelenk-Protest-Links-Seite.
+
+449
+00:28:40,710 --> 00:28:41,710
+Warum?
+
+450
+00:28:42,710 --> 00:28:45,710
+Arthros, wegen Arthros.
+
+451
+00:28:45,710 --> 00:28:47,710
+Ja, Koksarthrose.
+
+452
+00:28:47,710 --> 00:28:53,710
+Ja, wegen Koksarthrose wurde vor 15 Jahren eine Hüfttep-Links durchgeführt.
+
+453
+00:28:53,710 --> 00:28:55,710
+Sehr gut.
+
+454
+00:28:55,710 --> 00:29:08,710
+Ja, unsere Partien sind Busfahrer, aber seit ungefähr drei Wochen wegen der Attaxi krankgeschrieben.
+
+455
+00:29:08,710 --> 00:29:12,710
+Nee, sie ist noch nicht krankgeschrieben, weil sie Urlaub hatte.
+
+456
+00:29:12,710 --> 00:29:23,710
+Sie hatte Urlaub und dann sagt sie, ich will es ausprobieren, aber so kann sie nicht arbeiten, ist auch zu gefährlich und deswegen kommt sie jetzt in die Ambulanz zu ihnen.
+
+457
+00:29:23,710 --> 00:29:28,710
+Ja, sie ist ledig, aber sie habe eine feste Partnerin.
+
+458
+00:29:28,710 --> 00:29:30,710
+Partner?
+
+459
+00:29:30,710 --> 00:29:31,710
+Partner.
+
+460
+00:29:31,710 --> 00:29:37,710
+Sie haben eine feste Partnerin, sie haben keine Kinder.
+
+461
+00:29:37,710 --> 00:29:44,710
+Ich habe nicht gefragt, wann war Ihre letzte Periode?
+
+462
+00:29:44,710 --> 00:29:45,710
+Ich muss fragen.
+
+463
+00:29:45,710 --> 00:29:52,710
+Letzte Periode war vor drei Wochen und Sie verhüteten mit Condom.
+
+464
+00:29:52,710 --> 00:29:57,710
+Condom, vor drei Wochen.
+
+465
+00:29:57,710 --> 00:30:00,710
+Das ist wichtig, ich habe verheiratet.
+
+466
+00:30:00,710 --> 00:30:06,710
+Sie ist vollständig geimpft und sie fordern diese Krankheit.
+
+467
+00:30:06,710 --> 00:30:11,710
+Sie treiben, wandern und so seid auch Yoga.
+
+468
+00:30:11,710 --> 00:30:15,710
+Ja, etwas sportlich, sie versucht zu wandern, etwas Yoga.
+
+469
+00:30:15,710 --> 00:30:18,710
+Danke, was ist Ihre Verdachtsdiagnose?
+
+470
+00:30:18,710 --> 00:30:21,710
+Für die Sommermeninge Encephalitis.
+
+471
+00:30:21,710 --> 00:30:26,710
+Ja, da sind Sie in die Falle getappt.
+
+472
+00:30:26,710 --> 00:30:28,710
+Wir sagen in die Falle.
+
+473
+00:30:28,710 --> 00:30:33,710
+Okay, Frühsommermeninge Encephalitis kann sein.
+
+474
+00:30:33,710 --> 00:30:40,710
+Aber Sie haben gesagt, die IPTIEN, die vor drei Monaten bleiben,
+
+475
+00:30:40,710 --> 00:30:45,710
+sie war ein Echiptien.
+
+476
+00:30:45,710 --> 00:30:49,710
+Dort hatte auch Magen-Darren-Erkrankungen,
+
+477
+00:30:49,710 --> 00:30:55,710
+vielleicht auch eine parasitose.
+
+478
+00:30:55,710 --> 00:31:00,710
+Kann sein, ja, aber überlegen Sie mal die neurologische Problematik.
+
+479
+00:31:00,710 --> 00:31:08,710
+Sie hat Attaxi, sie hat Diplopie, sie hat Sensibilitätsstörungen
+
+480
+00:31:08,710 --> 00:31:13,710
+in den beiden Beinen, also symmetrische Störungen hat sie.
+
+481
+00:31:13,710 --> 00:31:18,710
+Sie hat diese Harnenkontinenz.
+
+482
+00:31:18,710 --> 00:31:24,710
+Das spricht eher für eine systemische Erkrankung, als für eine Encephalitis.
+
+483
+00:31:24,710 --> 00:31:33,710
+Aber Multiplizeroose kann man denken, aber kann man sofort Ihre Krankengeschichte denken.
+
+484
+00:31:33,710 --> 00:31:43,710
+Zeckenbiss, vor acht Wochen, und die vielleicht auch Bezwöchmann-Gül-Irebechwerden.
+
+485
+00:31:43,710 --> 00:31:47,710
+Aber Multiplizeroose, ich habe...
+
+486
+00:31:47,710 --> 00:31:51,710
+Haben Sie auch daran gedacht, aber ich sage mal so,
+
+487
+00:31:51,710 --> 00:31:56,710
+dass mit dem Zeckenbiss, das war etwas von mir, etwas gemein, sage ich,
+
+488
+00:31:56,710 --> 00:31:59,710
+Deutsch heißt das gemein, ein Trick.
+
+489
+00:31:59,710 --> 00:32:02,710
+Ich habe gesagt, ich hatte auch einen Zeckenbiss,
+
+490
+00:32:02,710 --> 00:32:10,710
+ich denke man sofort an FSME oder man denkt an eine Neuroborreliose,
+
+491
+00:32:10,710 --> 00:32:14,710
+aber eine Neuroborreliose, soweit ich das kenne,
+
+492
+00:32:14,710 --> 00:32:19,710
+betrifft oft nur ein Körpersegment oder eine Stelle,
+
+493
+00:32:19,710 --> 00:32:25,710
+Facialisparese oder eine bestimmte Segment, aber sie hat es symmetrisch.
+
+494
+00:32:25,710 --> 00:32:29,710
+Sie hat beide Unterschenkel, sie hat die Doppelbilder,
+
+495
+00:32:29,710 --> 00:32:34,710
+sie hat die Sprache, Sprache wird langsam diese Dysartrie,
+
+496
+00:32:34,710 --> 00:32:38,710
+sie hat die Hahnenkontinenz, das spricht schon,
+
+497
+00:32:38,710 --> 00:32:44,710
+kann schon für eine MS sprechen, für eine Encephalomiolytis, die Seminata,
+
+498
+00:32:44,710 --> 00:32:49,710
+aber das würden Sie ja in der Differenzialdiagnostik natürlich anschauen.
+
+499
+00:32:49,710 --> 00:32:53,710
+Und da kommt die Bildgebung an allererster Stelle,
+
+500
+00:32:53,710 --> 00:32:57,710
+das MRT ist heutzutage der Goldstandard.
+
+501
+00:32:57,710 --> 00:33:01,710
+Früher war es etwas anders, die Liegforpunktion und so was,
+
+502
+00:33:01,710 --> 00:33:06,710
+als es noch kein MRT gab, aber das MRT ist inzwischen, glaube ich, da die
+
+503
+00:33:06,710 --> 00:33:10,710
+Aussage kräftigste Methode in der Diagnostik.
+
+504
+00:33:10,710 --> 00:33:14,710
+Und wenn das MRT in Ordnung ist, dann glaube ich,
+
+505
+00:33:14,710 --> 00:33:19,710
+kann es natürlich Richtung Zecke vielleicht etwas sein oder andere Geschichten,
+
+506
+00:33:19,710 --> 00:33:23,710
+aber es spricht viel, glaube ich, für eine Multiple Sklerose,
+
+507
+00:33:23,710 --> 00:33:26,710
+die ja oft auch so ganz langsam beginnt und so relativ gut spricht.
+
+508
+00:33:26,710 --> 00:33:28,710
+Ja, natürlich.
+
+509
+00:33:28,710 --> 00:33:32,710
+Gut, aber erst mal vielen Dank.
+
+510
+00:33:32,710 --> 00:33:35,710
+Wichtig war mir, nicht die richtige Diagnose zu stellen,
+
+511
+00:33:35,710 --> 00:33:38,710
+sondern, dass Sie in die richtige Richtung mal denken.
+
+512
+00:33:38,710 --> 00:33:42,710
+Viel wichtiger war eigentlich, dass Sie das sehr systematisch gemacht haben.
+
+513
+00:33:42,710 --> 00:33:47,710
+Sie haben die medizinischen Fachbegriffe, denke ich,
+
+514
+00:33:47,710 --> 00:33:50,710
+weitgehend auch erwähnt und gebracht.
+
+515
+00:33:50,710 --> 00:33:53,710
+Aber ich rösche nicht so gut.
+
+516
+00:33:53,710 --> 00:33:57,710
+Ja, ja, gut. Ich kann das aber vergleichen mit vielen anderen Trainings.
+
+517
+00:33:57,710 --> 00:34:00,710
+Ich finde, Sie sprechen recht gut.
+
+518
+00:34:00,710 --> 00:34:02,710
+Danke, danke.
+
+519
+00:34:02,710 --> 00:34:04,710
+Ich kann Sie gut verstehen.
+
+520
+00:34:04,710 --> 00:34:07,710
+Wichtig ist, dass Sie Ihre Sätze auch gut überlegen,
+
+521
+00:34:07,710 --> 00:34:10,710
+nicht zu schnell werden, weil dann wird es manchmal schwierig
+
+522
+00:34:10,710 --> 00:34:14,710
+in der Grammatik und langsam ruhige Sätze machen, das ist alles gut.
+
+523
+00:34:14,710 --> 00:34:17,710
+Ich fands gut.
+
+524
+00:34:17,710 --> 00:34:22,710
+Mein Problem ist, ich verstehe sofort die Diagnose.
+
+525
+00:34:22,710 --> 00:34:24,710
+Ja.
+
+526
+00:34:24,710 --> 00:34:27,710
+Und deswegen, ich möchte so schnell.
+
+527
+00:34:27,710 --> 00:34:33,710
+Sie waren bei der Anamnese sehr schnell, dass Sie gleich gesagt haben,
+
+528
+00:34:33,710 --> 00:34:38,710
+es könnte FSME sein, haben Sie gesagt.
+
+529
+00:34:38,710 --> 00:34:41,710
+Da müssen Sie aufpassen, dass Sie sich nicht zu sehr
+
+530
+00:34:41,710 --> 00:34:44,710
+von Anfang an gleich festlegen, wo eine Diagnose,
+
+531
+00:34:44,710 --> 00:34:48,710
+sondern Sie seien offen, dass Sie erst mal Daten sammeln,
+
+532
+00:34:48,710 --> 00:34:50,710
+erst mal die Anamnese erheben
+
+533
+00:34:50,710 --> 00:34:55,710
+und dann versuchen Sie vielleicht, eine Diagnose zu finden.
+
+534
+00:34:55,710 --> 00:35:00,710
+Aber wenn Sie von vornherein sagen, Zecken bis, das ist FSME,
+
+535
+00:35:00,710 --> 00:35:04,710
+dann war sie noch im Schwarzwald, das ist in Deutschland Endemiegebiet.
+
+536
+00:35:04,710 --> 00:35:07,710
+Ja, in Norddeutschland gibt es kaum Endemiegebiete,
+
+537
+00:35:07,710 --> 00:35:10,710
+aber in Schwarzwald, Südlicht, der Mainlinie,
+
+538
+00:35:10,710 --> 00:35:14,710
+sind in Bayern und Baden-Württemberg,
+
+539
+00:35:14,710 --> 00:35:18,710
+sind Bodensee, sind viele, ist FSME Endemiegebiet.
+
+540
+00:35:18,710 --> 00:35:24,710
+Aber wie ist unterschiedlich FSME und Multiplesclerosum?
+
+541
+00:35:24,710 --> 00:35:26,710
+Wie kann man verstehen?
+
+542
+00:35:26,710 --> 00:35:33,710
+Ich glaube, FSME ist eine relativ rasch auftretende Erkrankung,
+
+543
+00:35:33,710 --> 00:35:39,710
+während dieses Multiplesclerose oft eher so schleichendes, beginnt langsam.
+
+544
+00:35:39,710 --> 00:35:45,710
+FSME ist oft, glaube ich, die klinische Symptomatik akuter
+
+545
+00:35:46,710 --> 00:35:55,710
+und gut, natürlich haben die Leute auch dadurch zentral nervöse Störungen und Ausfälle
+
+546
+00:35:55,710 --> 00:36:00,710
+und das muss man natürlich differenzial diagnostisch natürlich abwägen, das ist ganz klar.
+
+547
+00:36:00,710 --> 00:36:05,710
+Die Patientin war jetzt nicht geimpft gegen FSME, weil, was so oft ist,
+
+548
+00:36:05,710 --> 00:36:08,710
+sie wohnt, sage ich jetzt mal, in Norddeutschland,
+
+549
+00:36:08,710 --> 00:36:14,710
+da ist die FSME-Impfung nicht unbedingt eine Indikationsimpfung,
+
+550
+00:36:14,710 --> 00:36:17,710
+während in Süddeutschland das ja sehr empfohlen wird,
+
+551
+00:36:17,710 --> 00:36:22,710
+dass die Bevölkerung sich dort weitgehend impfen lässt.
+
+552
+00:36:22,710 --> 00:36:25,710
+Aber gut, das ist ein anderes Problem.
+
+553
+00:36:25,710 --> 00:36:28,710
+Wichtig ist jetzt ja erstmal hier bei dem Training,
+
+554
+00:36:28,710 --> 00:36:35,710
+dass sie gute Fragen stellen, die Patientin oder den Patienten verstehen,
+
+555
+00:36:35,710 --> 00:36:39,710
+auch Rückfragen, wenn sie etwas nicht verstehen,
+
+556
+00:36:39,710 --> 00:36:42,710
+vielleicht ein Medikament oder so etwas,
+
+557
+00:36:42,710 --> 00:36:45,710
+aber das haben sie ja alles gut gekonnt.
+
+558
+00:36:45,710 --> 00:36:48,710
+Und ja, ich war sehr zufrieden.
+
+559
+00:36:48,710 --> 00:36:50,710
+Wann ist Ihre Prüfung?
+
+560
+00:36:50,710 --> 00:36:52,710
+18. Dezember.
+
+561
+00:36:52,710 --> 00:36:54,710
+Ja, schön.
+
+562
+00:36:54,710 --> 00:36:57,710
+Im Münster.
+
+563
+00:36:57,710 --> 00:37:00,710
+In Münster, ja, in Westfadenlippe.
+
+564
+00:37:00,710 --> 00:37:05,710
+Im Hintergrund haben Sie ein Bild von Lauterbrunnen, ist das richtig?
+
+565
+00:37:05,710 --> 00:37:06,710
+Ja.
+
+566
+00:37:06,710 --> 00:37:07,710
+Die Schweiz?
+
+567
+00:37:07,710 --> 00:37:08,710
+Ja, ich weiß.
+
+568
+00:37:08,710 --> 00:37:10,710
+Das ist die Schweiz, okay.
+
+569
+00:37:10,710 --> 00:37:12,710
+Aber Sie sind jetzt nicht in der Schweiz.
+
+570
+00:37:12,710 --> 00:37:14,710
+Ich war Urlaub.
+
+571
+00:37:14,710 --> 00:37:16,710
+Ach so, schön.
+
+572
+00:37:16,710 --> 00:37:18,710
+Prima.
