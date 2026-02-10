@@ -1,0 +1,1267 @@
+1
+00:00:01,940 --> 00:00:03,940
+Ich weiß nicht.
+
+2
+00:00:03,940 --> 00:00:09,940
+Guten Tag. Ich begrüße Sie. Ich bin aus der Stadt Trump.
+
+3
+00:00:09,940 --> 00:00:13,940
+Ich will Ihnen genau das Gespräch mit Ihnen durchführen.
+
+4
+00:00:13,940 --> 00:00:15,940
+Sind Sie damit einverstanden?
+
+5
+00:00:15,940 --> 00:00:16,940
+Gerne, bitte schön.
+
+6
+00:00:16,940 --> 00:00:22,940
+Ja, bevor wir beginnen, habe ich eine eigene Frage an Sie.
+
+7
+00:00:22,940 --> 00:00:24,940
+Wie heißen Sie?
+
+8
+00:00:24,940 --> 00:00:26,940
+Mein Name ist Klaus Müller.
+
+9
+00:00:26,940 --> 00:00:33,430
+Könnten Sie Ihre Vorunachnahme Maxan Buchstabieren?
+
+10
+00:00:34,430 --> 00:00:41,430
+Klaus, H-L-A-U-S, Müller, M-U-L-L-E-R.
+
+11
+00:00:41,430 --> 00:00:45,430
+Alles klar. Wie alt sind Sie, Herr Müller?
+
+12
+00:00:45,430 --> 00:00:47,430
+Ich bin 70 Jahre alt.
+
+13
+00:00:47,430 --> 00:00:51,430
+Und wann sind Sie gerne geworden?
+
+14
+00:00:51,430 --> 00:00:54,430
+Am 2. Januar 1955.
+
+15
+00:00:54,430 --> 00:01:01,120
+1955? Ja.
+
+16
+00:01:01,120 --> 00:01:04,120
+Und wie groß sind Sie?
+
+17
+00:01:04,120 --> 00:01:07,120
+Ich bin ungefähr 1.000 Jahre alt.
+
+18
+00:01:07,120 --> 00:01:15,380
+Alles klar.
+
+19
+00:01:15,380 --> 00:01:18,380
+Und Herr Müller, was führt Sie zu uns?
+
+20
+00:01:18,380 --> 00:01:20,380
+Wie kann ich Ihnen helfen?
+
+21
+00:01:20,380 --> 00:01:27,380
+Ich habe seit 3 Tagen Fieber, Schüttelfrost und Husten sehr stark.
+
+22
+00:01:27,380 --> 00:01:32,200
+Haben Sie Fieber und Strafrost?
+
+23
+00:01:32,200 --> 00:01:34,200
+Ich Husten sehr stark.
+
+24
+00:01:34,200 --> 00:01:36,200
+Husten Sie, ja.
+
+25
+00:01:37,200 --> 00:01:43,200
+Haben Sie Ausruf oder bemerkt?
+
+26
+00:01:43,200 --> 00:01:46,200
+Ich habe gelbgrünen Ausruf, habe ich bemerkt.
+
+27
+00:01:46,200 --> 00:01:54,870
+Haben Sie die Fieber gemessen?
+
+28
+00:01:54,870 --> 00:01:59,870
+Ich habe gemessen zu Hause, war 39,2.
+
+29
+00:01:59,870 --> 00:02:04,310
+Gestern oder wann sind Sie genau gemessen?
+
+30
+00:02:04,310 --> 00:02:09,310
+Heute habe ich gemessen 39,2. Gestern war es bei 38,8.
+
+31
+00:02:10,310 --> 00:02:15,310
+Haben Sie ähnliche Beschwerden in Ihrer Familie?
+
+32
+00:02:15,310 --> 00:02:20,310
+Nein, meine Frau ist gesund.
+
+33
+00:02:20,310 --> 00:02:25,310
+Haben Sie Brustschmerzen oder MGF-Atemnot?
+
+34
+00:02:25,310 --> 00:02:28,310
+Ja, wenn ich Huste, habe ich sehr stark Brustschmerzen.
+
+35
+00:02:28,310 --> 00:02:33,300
+Und beim Einatmen auch.
+
+36
+00:02:37,210 --> 00:02:42,210
+Haben Sie diese Beschwerden früher ähnliche Beschwerden gehabt?
+
+37
+00:02:42,210 --> 00:02:47,210
+lange, lange vorher glaube ich, aber das war nicht so stark wie jetzt.
+
+38
+00:02:47,210 --> 00:02:49,210
+Es geht jetzt über 3 Tage lang.
+
+39
+00:02:49,210 --> 00:02:51,210
+Alles klar.
+
+40
+00:02:51,210 --> 00:02:55,210
+Sind Sie vorstellig geimpft?
+
+41
+00:02:55,210 --> 00:02:57,210
+Ich bin vollständig geimpft.
+
+42
+00:02:57,210 --> 00:02:59,210
+Gegen Corona auch?
+
+43
+00:02:59,210 --> 00:03:01,210
+Ich war vor kurzem noch bei meinem Hausarzt.
+
+44
+00:03:01,210 --> 00:03:13,080
+Haben Sie etwas bemerkt?
+
+45
+00:03:13,080 --> 00:03:15,080
+Nein.
+
+46
+00:03:15,080 --> 00:03:21,160
+Alles klar.
+
+47
+00:03:21,160 --> 00:03:28,440
+Haben Sie Probleme mit dem Stuhlgang und der Masse?
+
+48
+00:03:28,440 --> 00:03:30,440
+Nein.
+
+49
+00:03:30,440 --> 00:03:37,440
+Haben Sie Nachschweiß?
+
+50
+00:03:37,440 --> 00:03:39,440
+Nein.
+
+51
+00:03:39,440 --> 00:03:45,440
+Aber ich schwitze generell auch Tagsüber.
+
+52
+00:03:45,440 --> 00:03:55,490
+Wie ist Ihr Appetit?
+
+53
+00:03:55,490 --> 00:03:58,490
+Ich bin ein bisschen apetitlos.
+
+54
+00:03:58,490 --> 00:04:03,980
+Ich fühle mich auch sehr schwach.
+
+55
+00:04:03,980 --> 00:04:06,980
+Seit wann fühlen Sie sich schwach?
+
+56
+00:04:06,980 --> 00:04:11,540
+3 Tage.
+
+57
+00:04:11,540 --> 00:04:21,300
+Haben Sie unwirklich ab und zu genommen in der letzten Zeit?
+
+58
+00:04:21,300 --> 00:04:24,300
+Das weiß ich nicht.
+
+59
+00:04:24,300 --> 00:04:36,070
+Dann werden wieder Ihre Beschwerden kommen.
+
+60
+00:04:36,070 --> 00:04:41,070
+Haben Sie vorherkrankungen?
+
+61
+00:04:41,070 --> 00:04:44,070
+Ich habe einige vorherkrankungen.
+
+62
+00:04:44,070 --> 00:04:47,070
+Ich habe einen Diabetes.
+
+63
+00:04:47,070 --> 00:04:50,070
+Ich habe Blutdruck.
+
+64
+00:04:50,070 --> 00:04:58,380
+Ich habe Hördekolestering.
+
+65
+00:04:58,380 --> 00:05:02,380
+Seit wann haben Sie Diabetes?
+
+66
+00:05:02,380 --> 00:05:06,380
+Seit über 10 Jahren.
+
+67
+00:05:06,380 --> 00:05:10,380
+Ich habe Blutdruck seit 8 Jahren.
+
+68
+00:05:10,380 --> 00:05:12,380
+Seit 8 Jahren?
+
+69
+00:05:12,380 --> 00:05:14,380
+Ja.
+
+70
+00:05:14,380 --> 00:05:19,380
+Seit wann haben Sie Diabetes?
+
+71
+00:05:19,380 --> 00:05:21,380
+Seit 10 Jahren.
+
+72
+00:05:21,380 --> 00:05:24,380
+Ich habe Blutdruck.
+
+73
+00:05:24,380 --> 00:05:27,380
+Ich habe Blutdruck.
+
+74
+00:05:27,380 --> 00:05:30,380
+Ich habe Blutdruck.
+
+75
+00:05:30,380 --> 00:05:33,380
+Ich habe Blutdruck.
+
+76
+00:05:33,380 --> 00:05:36,380
+Ich habe Blutdruck.
+
+77
+00:05:36,380 --> 00:05:39,380
+Ich habe Blutdruck.
+
+78
+00:05:39,380 --> 00:05:42,380
+Ich habe Hördekolestering.
+
+79
+00:05:42,380 --> 00:05:45,380
+Seit wann haben Sie Diabetes?
+
+80
+00:05:45,380 --> 00:05:51,380
+Seit 10 Jahren.
+
+81
+00:05:51,380 --> 00:06:03,380
+Ich nehme für den Diabetes Med1.
+
+82
+00:06:03,380 --> 00:06:10,380
+Im Abend nehme ich einer tableIde does 1.
+
+83
+00:06:10,380 --> 00:06:16,380
+für welche Zucker oder für Bulltochdruck?
+
+84
+00:06:16,380 --> 00:06:37,820
+Ich habe 16 Milligramm morgens und abends und für die Kolesterol nehme ich einmal abends
+
+85
+00:06:37,820 --> 00:06:40,820
+und ich habe 40 Milligramm morgens.
+
+86
+00:06:40,820 --> 00:06:49,170
+Wo denn du schon mal operiert?
+
+87
+00:06:49,170 --> 00:06:54,170
+Ich wurde schon mal operiert, ja. Ich habe die Galle rausbekommen.
+
+88
+00:06:54,170 --> 00:07:00,800
+Wann haben diese Operation gehabt?
+
+89
+00:07:00,800 --> 00:07:02,800
+Das war vor 15 Jahren.
+
+90
+00:07:02,800 --> 00:07:09,870
+Sonst haben sie andere Operation gehabt, oder?
+
+91
+00:07:09,870 --> 00:07:11,870
+Sonst bin ich schon mal operiert.
+
+92
+00:07:11,870 --> 00:07:12,870
+Alles klar.
+
+93
+00:07:12,870 --> 00:07:17,870
+Und haben sie Allergien?
+
+94
+00:07:17,870 --> 00:07:19,870
+Ich habe keine Allergien.
+
+95
+00:07:19,870 --> 00:07:21,870
+Und verzerrt nicht, was haben sie, oder?
+
+96
+00:07:21,870 --> 00:07:23,870
+Ist mir nicht bekannt.
+
+97
+00:07:23,870 --> 00:07:25,870
+Alles klar.
+
+98
+00:07:25,870 --> 00:07:35,530
+Und gibt es chronische Erklaren in jeder Familie?
+
+99
+00:07:35,530 --> 00:07:39,530
+Also meine Eltern sind gestorben, ja?
+
+100
+00:07:39,530 --> 00:07:40,530
+Ja.
+
+101
+00:07:40,530 --> 00:07:46,530
+Ich bin schon alt, meine Kinder sind gesund.
+
+102
+00:07:46,530 --> 00:07:50,530
+Und Woran gestorben, ich stürze mich leid, Woran gestorben,
+
+103
+00:07:50,530 --> 00:07:52,530
+alle Eltern wissen Sie?
+
+104
+00:07:52,530 --> 00:07:56,530
+Also meine Mutter ist ein Herz, sie ist plötzlich gestorben,
+
+105
+00:07:56,530 --> 00:08:00,530
+man sagte, es wäre ein Herzinfarkt gewesen,
+
+106
+00:08:00,530 --> 00:08:04,530
+mein Vater ist gestorben, einer Demenz.
+
+107
+00:08:07,760 --> 00:08:12,760
+Meine Vater war noch jung, der ist mit 65 Jahren gestorben.
+
+108
+00:08:12,760 --> 00:08:15,760
+Und Mutter ist gestorben.
+
+109
+00:08:15,760 --> 00:08:18,760
+Mutter ist auch gestorben, Mutter ist am Herz,
+
+110
+00:08:18,760 --> 00:08:23,360
+wahrscheinlich Herzinfarkt.
+
+111
+00:08:23,360 --> 00:08:25,360
+Und wie alt ist sie?
+
+112
+00:08:25,360 --> 00:08:27,360
+Wie alt war sie?
+
+113
+00:08:27,360 --> 00:08:29,360
+Wie alt sie waren damals?
+
+114
+00:08:29,360 --> 00:08:33,360
+Die war auch, glaube ich, ungefähr so 22 Jahre alt.
+
+115
+00:08:33,360 --> 00:08:35,360
+Und wie alt war sie?
+
+116
+00:08:35,360 --> 00:08:40,360
+Die war auch, glaube ich, ungefähr so 72 Jahre alt oder 73,
+
+117
+00:08:40,360 --> 00:08:43,900
+wie meine ich ganz sicher.
+
+118
+00:08:43,900 --> 00:08:44,900
+Alles klar.
+
+119
+00:08:44,900 --> 00:08:47,900
+Und Sie sind einzelne Kinder, und sind Sie verheiratet?
+
+120
+00:08:47,900 --> 00:08:49,900
+Ich bin verheiratet, ja.
+
+121
+00:08:49,900 --> 00:08:55,540
+Und haben Sie Kinder?
+
+122
+00:08:55,540 --> 00:08:57,540
+Ich habe drei Kinder.
+
+123
+00:08:57,540 --> 00:08:59,540
+Und sind Sie gesund?
+
+124
+00:08:59,540 --> 00:09:00,540
+Ja.
+
+125
+00:09:00,540 --> 00:09:06,970
+Was ist Sie vom Beruf?
+
+126
+00:09:06,970 --> 00:09:07,970
+Rentner.
+
+127
+00:09:07,970 --> 00:09:10,970
+Rentner, und was haben Sie früher?
+
+128
+00:09:10,970 --> 00:09:15,690
+Ich war Architekt.
+
+129
+00:09:15,690 --> 00:09:22,690
+Rentner, und leben Sie mit Ihrer Frau oder Ihre Familie?
+
+130
+00:09:22,690 --> 00:09:28,250
+Leben Sie mit meiner Frau zusammen, ja.
+
+131
+00:09:28,250 --> 00:09:32,250
+Und ich würde fragen, rauchen Sie her?
+
+132
+00:09:32,250 --> 00:09:34,250
+Ich rauche nicht, nein.
+
+133
+00:09:34,250 --> 00:09:36,250
+Haben Sie früher geraucht, oder?
+
+134
+00:09:36,250 --> 00:09:38,250
+Auch nicht, nein.
+
+135
+00:09:38,250 --> 00:09:39,250
+Das ist super.
+
+136
+00:09:39,250 --> 00:09:41,250
+Und trinken Sie Alkohol?
+
+137
+00:09:41,250 --> 00:09:43,250
+Sehr, sehr selten.
+
+138
+00:09:43,250 --> 00:09:46,250
+Also ganz selten, nur bei Feiern.
+
+139
+00:09:46,250 --> 00:09:51,250
+Wie kann man das formulieren?
+
+140
+00:09:51,250 --> 00:09:54,250
+Du Beispiel einmal in einem Monat, oder?
+
+141
+00:09:54,250 --> 00:09:59,250
+Ne, weniger, noch weniger, alle paar Monate.
+
+142
+00:09:59,250 --> 00:10:01,250
+Alles klar.
+
+143
+00:10:01,250 --> 00:10:06,250
+Wenn Geburtstag ist, wenn eine Feier ist, in Feiertage sind dann?
+
+144
+00:10:06,250 --> 00:10:12,250
+Ja, Sie rauchen nicht und trinken Sie weniger Alkohol.
+
+145
+00:10:12,250 --> 00:10:17,250
+Ich nehme an, dass Sie keine Drogen konsumieren.
+
+146
+00:10:17,250 --> 00:10:19,250
+Aber ich muss das...
+
+147
+00:10:19,250 --> 00:10:21,250
+Aber ich bin nicht so alt.
+
+148
+00:10:21,250 --> 00:10:28,340
+Alles klar.
+
+149
+00:10:28,340 --> 00:10:32,340
+Wir kommen zu Ihren aktuellen Beschwerden wieder.
+
+150
+00:10:32,340 --> 00:10:37,340
+Und haben Sie sonst Beschwerden, zum Beispiel Übelkeit,
+
+151
+00:10:37,340 --> 00:10:43,340
+oder Erbrochen, oder nur Husten und Fieber haben Sie?
+
+152
+00:10:43,340 --> 00:10:46,340
+Genau.
+
+153
+00:10:46,340 --> 00:10:52,180
+Alles klar.
+
+154
+00:10:52,180 --> 00:11:05,660
+Und jetzt haben Sie eine Geschwerung in der Haar bemerkt, oder?
+
+155
+00:11:05,660 --> 00:11:08,660
+Nein, haben Sie nicht.
+
+156
+00:11:08,660 --> 00:11:13,660
+Okay, Herr Müller, wir haben mit unserem Gespräch fertig.
+
+157
+00:11:13,660 --> 00:11:20,660
+Und sind Ihnen etwas Wichtiges eingefallen?
+
+158
+00:11:20,660 --> 00:11:23,660
+Und haben Sie einen Fragen an mich?
+
+159
+00:11:23,660 --> 00:11:27,660
+Nein, ich würde gern wissen, was Sie jetzt machen,
+
+160
+00:11:27,660 --> 00:11:31,660
+ob das etwas Schlimmes sein könnte, oder...
+
+161
+00:11:31,660 --> 00:11:33,660
+Was glauben Sie, was habe ich?
+
+162
+00:11:33,660 --> 00:11:38,660
+Ist das nur eine krippale Infekt, oder was habe ich?
+
+163
+00:11:39,660 --> 00:11:48,660
+Als Anonymitischer Agnabendreuten Sie eine Lungenentsündung...
+
+164
+00:11:48,660 --> 00:11:50,660
+Oh, eine Lungenentsündung.
+
+165
+00:11:50,660 --> 00:11:56,660
+Aber können wir das genau nach dem Alluntersuchungen sein?
+
+166
+00:11:56,660 --> 00:12:03,660
+Nach diesem Gespräch werden wir körperlich Untersuchungen dann abnehmen.
+
+167
+00:12:03,660 --> 00:12:11,660
+Und dann werden wir noch andere weiter diagnostisch Angaben durchführen.
+
+168
+00:12:11,660 --> 00:12:14,660
+Was werden Sie noch machen?
+
+169
+00:12:14,660 --> 00:12:22,660
+Ich will ein Torax-Röntgen machen.
+
+170
+00:12:22,660 --> 00:12:24,660
+Torax?
+
+171
+00:12:24,660 --> 00:12:26,660
+Brust-Röntgen.
+
+172
+00:12:26,660 --> 00:12:28,660
+Ja.
+
+173
+00:12:28,660 --> 00:12:34,660
+Hab ich etwas mit der Brust oder habe ich etwas mit der Lunge?
+
+174
+00:12:34,660 --> 00:12:45,660
+Diese Untersuchung zeigt uns, was Sie in der Brustbereich haben.
+
+175
+00:12:45,660 --> 00:12:50,660
+Dunken oder Brunchen.
+
+176
+00:12:50,660 --> 00:12:52,660
+Das kann man dann sehen da, ja?
+
+177
+00:12:52,660 --> 00:12:57,660
+Ja, damit wir mehr wissen, was Sie genau haben.
+
+178
+00:12:57,660 --> 00:13:07,660
+Dann mit allen Ergebnissen, wenn dann mit allen Ergebnissen besprechen,
+
+179
+00:13:07,660 --> 00:13:09,660
+etwas mit Ihnen wieder.
+
+180
+00:13:09,660 --> 00:13:11,660
+Dann, ja.
+
+181
+00:13:11,660 --> 00:13:15,260
+Okay, das kann.
+
+182
+00:13:15,260 --> 00:13:17,260
+Danke schön.
+
+183
+00:13:17,260 --> 00:13:19,260
+Haben Kollegen oder Kollegen noch andere Fragen?
+
+184
+00:13:19,260 --> 00:13:23,240
+Das war sehr schön.
+
+185
+00:13:23,240 --> 00:13:26,710
+Haben Sie sich füblich?
+
+186
+00:13:26,710 --> 00:13:28,710
+Ja.
+
+187
+00:13:28,710 --> 00:13:32,710
+Haben Sie gemessen?
+
+188
+00:13:32,710 --> 00:13:37,790
+Hab ich mir die Frage beantwortet.
+
+189
+00:13:37,790 --> 00:13:42,790
+Hatten Sie in der letzten Zeit eine Erkältung oder eine Reparation?
+
+190
+00:13:42,790 --> 00:13:46,790
+Ich hatte vor vier Wochen schon mal einen Infekt gehabt.
+
+191
+00:13:46,790 --> 00:13:57,200
+Okay.
+
+192
+00:13:57,200 --> 00:14:01,200
+Waren Sie damals beim Hausarzt, oder?
+
+193
+00:14:01,200 --> 00:14:03,200
+Ja, ich war beim Hausarzt.
+
+194
+00:14:03,200 --> 00:14:05,200
+Ich hatte einen Krippaleinfekt.
+
+195
+00:14:05,200 --> 00:14:10,200
+Er hat mir dann Ibuprofen aufgeschrieben und dann war es auch mal ein paar Tage besser geworden.
+
+196
+00:14:10,200 --> 00:14:12,200
+Nur Ibuprofen, okay.
+
+197
+00:14:12,200 --> 00:14:14,200
+Genau, nur Ibuprofen, richtig.
+
+198
+00:14:14,200 --> 00:14:21,370
+Haben Sie Schmerzen bei meinem Einatzen oder aussatmen?
+
+199
+00:14:21,370 --> 00:14:26,500
+Hab ich auch beantwortet, ja.
+
+200
+00:14:26,500 --> 00:14:29,500
+Können Sie diese Schmerzen genauer beschreiben?
+
+201
+00:14:29,500 --> 00:14:31,500
+Großschmerzen habe ich.
+
+202
+00:14:31,500 --> 00:14:35,500
+Und sind Sie eher stechend, dumpf, rennend?
+
+203
+00:14:35,500 --> 00:14:41,060
+Stechende Schmerzen sind das.
+
+204
+00:14:41,060 --> 00:14:44,060
+Könnten Sie bitte Ihre Hüste beschreiben?
+
+205
+00:14:44,060 --> 00:14:47,060
+Das ist eine Attacke oder immer ständig?
+
+206
+00:14:47,060 --> 00:14:52,060
+Oder wann sind Sie schlimmer geworden?
+
+207
+00:14:52,060 --> 00:14:54,060
+Nein, das ist nicht Attacke für mich.
+
+208
+00:14:54,060 --> 00:14:56,060
+Das kommt ab und zu.
+
+209
+00:14:56,060 --> 00:15:01,060
+Dann rust ich ein paar Mal und dann ist der Schleim raus.
+
+210
+00:15:01,060 --> 00:15:05,060
+Bitte, auch könnten Sie beschreiben Ihre Fieber tagsüber
+
+211
+00:15:05,060 --> 00:15:10,060
+oder insbesondere bestimmte Tagzeit?
+
+212
+00:15:10,060 --> 00:15:12,060
+Also das habe ich nicht gemessen.
+
+213
+00:15:12,060 --> 00:15:14,060
+Ich habe morgens und abends gemessen.
+
+214
+00:15:14,060 --> 00:15:20,260
+Okay, vielen Dank.
+
+215
+00:15:20,260 --> 00:15:22,260
+Ich denke, alle Fragen gestellt hat, Herr Tocan.
+
+216
+00:15:22,260 --> 00:15:23,260
+Könnten wir als als...
+
+217
+00:15:23,260 --> 00:15:25,260
+Ich war auch nicht im Ausland gewesen.
+
+218
+00:15:25,260 --> 00:15:27,260
+Okay, gut.
+
+219
+00:15:27,260 --> 00:15:31,260
+Könnten wir als als geschebte Anfang, Herr Tocan?
+
+220
+00:15:31,260 --> 00:15:32,260
+Ja.
+
+221
+00:15:32,260 --> 00:15:34,260
+Ja, haben Sie?
+
+222
+00:15:34,260 --> 00:15:35,260
+Alles klar.
+
+223
+00:15:35,260 --> 00:15:36,260
+Bitte schön.
+
+224
+00:15:36,260 --> 00:15:38,260
+Herr Obererz, grüß mein Name.
+
+225
+00:15:38,260 --> 00:15:41,260
+Ich habe neue Patienten aufgenommen.
+
+226
+00:15:41,260 --> 00:15:44,260
+Ich würde gerne Ihnen vorstellen. Darf ich?
+
+227
+00:15:44,260 --> 00:15:45,260
+Gerne.
+
+228
+00:15:45,260 --> 00:15:46,260
+Okay.
+
+229
+00:15:46,260 --> 00:15:48,260
+Es geht um Klaus Müller.
+
+230
+00:15:48,260 --> 00:15:56,260
+Er ist 70 Jahre alt und ist am 1., 2., 950 geboren.
+
+231
+00:15:56,260 --> 00:16:02,260
+Er ist 173...
+
+232
+00:16:02,260 --> 00:16:10,260
+1 Meter 73 groß und wiegt 81 kg.
+
+233
+00:16:10,260 --> 00:16:21,260
+Er stetzt sich in unserer Ambulanz seit 3 Tagen bestehende Fieber und Hüsten.
+
+234
+00:16:21,260 --> 00:16:22,260
+Boah.
+
+235
+00:16:22,260 --> 00:16:35,260
+Und als begleitende Plumme hatte er gelbliche grüne Ausrüffung
+
+236
+00:16:35,260 --> 00:16:49,260
+und die Fieber sei 39,2 C gemessen.
+
+237
+00:16:49,260 --> 00:17:00,260
+Und begleit September Wutherferneid, er habe keine Übelkeit,
+
+238
+00:17:00,260 --> 00:17:02,260
+und er brach.
+
+239
+00:17:02,260 --> 00:17:13,260
+Und er hatte als vegetative Anamnensaktiv Nachzweiß-Appetitlosigkeit
+
+240
+00:17:13,260 --> 00:17:16,260
+fatig seit 3 Tagen.
+
+241
+00:17:16,260 --> 00:17:32,260
+und an Vorerkrankungen habe er die Apthes Melitus, Hypertonie und Hyperchlorostämie
+
+242
+00:17:32,260 --> 00:17:40,260
+und er nehme dagegen Metformin, Candesatan und Atavocetin ein
+
+243
+00:17:40,260 --> 00:17:52,260
+und bei ihm wurde vor 15 Jahren Cholestomie durchgeführt und er habe keine Allergien
+
+244
+00:17:52,260 --> 00:18:11,260
+und er ist ein sehr Kind und sein Vater sei an Demenz verstorben
+
+245
+00:18:11,260 --> 00:18:26,260
+bei seinem Mutter ist er an Hessinfarkt verstorben
+
+246
+00:18:26,260 --> 00:18:41,260
+er sei verheiratet, er habe drei jesunde Kinder und er saure nicht und trinke sehr sehr viel Alkohol
+
+247
+00:18:42,260 --> 00:19:06,260
+und als Analyseangaben durften auf akute Pynomonie hin aber kommen akute Ptonsylaktomie und Mediastinitis auf per Dachs im Betracht
+
+248
+00:19:07,260 --> 00:19:16,530
+Wie kam man, ist das Fieber plötzlich auch getreten oder war das nach und nach, haben Sie das gefragt?
+
+249
+00:19:16,530 --> 00:19:22,530
+Ist er plötzlich krank geworden oder hat er, das ist es zudem jetzt?
+
+250
+00:19:22,530 --> 00:19:32,740
+Es hat mir jetzt angefangen, entfallen aber er hat seit drei Tagen Fieber
+
+251
+00:19:32,740 --> 00:19:39,740
+Er hat das Fieber plötzlich angefangen oder hat er sich davor schon krank gefühlt, wissen Sie das?
+
+252
+00:19:39,740 --> 00:19:46,740
+Leider habe ich nicht gefragt, sollte ich fragen
+
+253
+00:19:46,740 --> 00:19:51,740
+Sie glauben mehr hat eine Lumenentzündung wahrscheinlich?
+
+254
+00:19:51,740 --> 00:20:02,740
+Ja, weil grünliche Auswurf und Fieber und Hüsten
+
+255
+00:20:02,740 --> 00:20:06,740
+Kann das auch noch normale Bronschitis sein?
+
+256
+00:20:06,740 --> 00:20:10,740
+Das könnte auch eine Bronschitis sein
+
+257
+00:20:10,740 --> 00:20:16,740
+Was machen Sie mit dem Patienten jetzt?
+
+258
+00:20:16,740 --> 00:20:22,740
+Jetzt erstmal für fallische Untersuchung dann Blut abnehmen
+
+259
+00:20:22,740 --> 00:20:31,740
+Ich meine Entzündungswerte, er ist alte Patient, Nierenwerte, Lerbewerte
+
+260
+00:20:32,740 --> 00:20:39,740
+Er hat erwähnt, dass er ein bisschen Brötchenmessen habe
+
+261
+00:20:39,740 --> 00:20:46,740
+Das wäre besser, wenn wir auch Herzliche Enzyme überprüfen
+
+262
+00:20:46,740 --> 00:20:55,740
+Dann Röntgen-Torax machen damit wir sehen ob er eine Infiltration in Lunge hat
+
+263
+00:20:55,740 --> 00:20:59,740
+Können Sie eine Influencer ausschließen?
+
+264
+00:20:59,740 --> 00:21:09,740
+Ja, wir können auch eine Abstriche nehmen
+
+265
+00:21:09,740 --> 00:21:16,740
+Was sollten Sie noch machen bei dem Verdacht einer Lungenentzündung in der Ambulanz?
+
+266
+00:21:16,740 --> 00:21:19,740
+Was sollten Sie noch für eine Untersuchung machen?
+
+267
+00:21:19,740 --> 00:21:23,720
+Ganz wichtig
+
+268
+00:21:23,720 --> 00:21:26,720
+Köperschuntersuchung ist sehr wichtig
+
+269
+00:21:26,720 --> 00:21:36,720
+Röntgen, EKG, Luftnot
+
+270
+00:21:36,720 --> 00:21:39,720
+Was sollten Sie kontrollieren?
+
+271
+00:21:39,720 --> 00:21:42,720
+Noch etwas
+
+272
+00:21:42,720 --> 00:21:47,720
+Wenn jemand Luftnot hat, er kommt mit Luftnot
+
+273
+00:21:47,720 --> 00:21:53,720
+Das ist Sauerstoffsetigung
+
+274
+00:21:53,720 --> 00:21:56,720
+Das gehört zum EKG
+
+275
+00:21:56,720 --> 00:21:59,720
+Eine Sache noch ganz wichtig, was sollten Sie kontrollieren?
+
+276
+00:21:59,720 --> 00:22:07,720
+Blutdruck oder Köperschuntersuchung, Vitalparameter und EKG
+
+277
+00:22:07,720 --> 00:22:09,720
+Röntgen
+
+278
+00:22:09,720 --> 00:22:11,720
+Wissen Sie, was eine BGA ist?
+
+279
+00:22:11,720 --> 00:22:14,720
+Ja, kenne ich, Blutdruck als Analyse
+
+280
+00:22:14,720 --> 00:22:24,720
+Wenn Sie mit kontrollieren, können Sie auch bei den Patienten nicht richtig beobachten
+
+281
+00:22:24,720 --> 00:22:27,720
+Das wäre ganz wichtig
+
+282
+00:22:27,720 --> 00:22:35,720
+Ja, das ist ein wichtiger Analyse
+
+283
+00:22:35,720 --> 00:22:42,720
+Wenn Sie eine Blutgasanalyse machen, kann man das kontrollieren
+
+284
+00:22:42,720 --> 00:22:47,720
+Dann kann man sehen, wie der HB ist, wie die Sättigung ist
+
+285
+00:22:47,720 --> 00:22:51,720
+Dosis, Respirator, Metabolisch
+
+286
+00:22:51,720 --> 00:22:55,720
+Und die VDI-Eliut, das können Sie alles ganz gut sehen
+
+287
+00:22:55,720 --> 00:23:00,720
+Er ist ja kein junger Patient, er ist schon etwas älter, da sollte man vorsichtig sein
+
+288
+00:23:00,720 --> 00:23:03,720
+Nehmen Sie den Patienten stationär auf oder ausmachen Sie mit dem?
+
+289
+00:23:03,720 --> 00:23:07,720
+Wenn sich der Verdacht bestätigt, dass er eine Lungenentzündung hat
+
+290
+00:23:07,720 --> 00:23:15,720
+Da gibt es einen Skala, damit wir helfen, ob der Patient stationär behandeln muss
+
+291
+00:23:15,720 --> 00:23:22,720
+Der Patient ist 75 Jahre alt, er bekommt einen Punkt
+
+292
+00:23:22,720 --> 00:23:30,720
+Aber der Konfusion ist nicht gesund und orientiert, dann ist er nur Respirator
+
+293
+00:23:30,720 --> 00:23:38,720
+Das ist auch wichtig und mit dem Hochdruck, wenn der Patient nilsiger Druck hat
+
+294
+00:23:38,720 --> 00:23:45,720
+Da kommt auch noch einen Punkt, aber ich würde gerne stationär aufnehmen
+
+295
+00:23:45,720 --> 00:23:49,720
+Ja, würde ich auch machen, was machen Sie mit den Patienten?
+
+296
+00:23:49,720 --> 00:23:57,720
+Wenn Sie die Station aufnehmen, dann einen Zugang legen, dann Flüssigkeit zuvor
+
+297
+00:23:57,720 --> 00:24:04,720
+Und Elektrolyt, nach dem Ergänz, wissen wir ja mehr
+
+298
+00:24:04,720 --> 00:24:14,720
+Aber nach dem Ergänz, die Schienele Antibiotik, IV geben, dann noch Pales
+
+299
+00:24:14,720 --> 00:24:17,720
+Was würden Sie geben, was für eine Antibiotik?
+
+300
+00:24:18,720 --> 00:24:23,720
+Ich würde erst mal am Oxygen Club nicht geben
+
+301
+00:24:23,720 --> 00:24:27,720
+Kann er auch, ja, das ist gut an
+
+302
+00:24:27,720 --> 00:24:30,720
+Was machen Sie noch auf der Station?
+
+303
+00:24:30,720 --> 00:24:33,720
+Was können Sie noch supportive Therapie machen?
+
+304
+00:24:33,720 --> 00:24:40,720
+Ja, wir machen Atemrabiltation
+
+305
+00:24:40,720 --> 00:24:45,720
+Atemübungen, Direktion
+
+306
+00:24:45,720 --> 00:24:49,720
+Atemübungen, für uns Therapie
+
+307
+00:24:49,720 --> 00:24:53,720
+Was geben Sie noch ein bisschen in der Lativa, um das Ganze zu lösen?
+
+308
+00:24:53,720 --> 00:25:03,720
+Und wie so ein Anängesik und Antipyritik geben
+
+309
+00:25:03,720 --> 00:25:05,720
+Hab ich nicht verstanden
+
+310
+00:25:05,720 --> 00:25:08,720
+Antipyritik gegen Fieber
+
+311
+00:25:08,720 --> 00:25:10,720
+Antipyritika
+
+312
+00:25:10,720 --> 00:25:12,720
+Was geben Sie da?
+
+313
+00:25:12,720 --> 00:25:16,720
+Das könnte Metamizol sein, Parastemol
+
+314
+00:25:16,720 --> 00:25:23,720
+Wenn er keine Allergien hat, dann können wir alles geben
+
+315
+00:25:23,720 --> 00:25:26,720
+Sehr gut, gut
+
+316
+00:25:26,720 --> 00:25:28,720
+Ich bedanke mich
+
+317
+00:25:28,720 --> 00:25:30,720
+Ich bedanke mich auch
