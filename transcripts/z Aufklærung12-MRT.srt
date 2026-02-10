@@ -1,0 +1,35 @@
+1
+00:00:00,140 --> 00:00:07,860
+Eine sogenannte Magnetresonanstomographie, kurz NRT, ist eine Untersuchung, bei der wir
+
+2
+00:00:07,860 --> 00:00:11,500
+Teile ihres Körpers dreidimensional sehen können.
+
+3
+00:00:11,500 --> 00:00:17,220
+Bei dieser Untersuchung verwenden wir ein starkes Magnetfeld und keine Strahlung.
+
+4
+00:00:17,220 --> 00:00:22,980
+Also bei dieser Methode wird keine Röntgenstrahlung verwendet, sondern ein Magnetfeld.
+
+5
+00:00:22,980 --> 00:00:28,020
+Sie müssen dabei für etwa 20 Minuten ganz ruhig liegen.
+
+6
+00:00:28,020 --> 00:00:31,940
+Das ist wichtig für die Qualität der Bilder.
+
+7
+00:00:31,940 --> 00:00:37,300
+Es ist notwendig, dass wir bei dieser Untersuchung ein sogenanntes Kontrastmittel verwenden.
+
+8
+00:00:37,300 --> 00:00:43,100
+Das ist eine Substanz, die wir Ihnen während der Untersuchung in eine Wehne spritzen.
+
+9
+00:00:43,100 --> 00:00:48,220
+Damit können wir bestimmte Strukturen Ihrer Organe und Blutgefäße besser sehen.
