@@ -1,0 +1,11 @@
+1
+00:00:00,750 --> 00:00:09,110
+Das Belastungseckg ist eine spezielle Form des sogenannten EKG, bei der sie sich bewegen
+
+2
+00:00:09,110 --> 00:00:13,390
+und wir für längere Zeit die Ströme ihres Herzens messen.
+
+3
+00:00:13,390 --> 00:00:18,270
+Wir erkennen bei dieser Untersuchung, wie ihr Herz auf Belastung reagiert.

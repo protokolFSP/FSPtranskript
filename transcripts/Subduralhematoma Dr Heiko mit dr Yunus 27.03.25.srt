@@ -1,0 +1,5127 @@
+1
+00:00:01,680 --> 00:00:03,680
+Guten Tag.
+
+2
+00:00:03,680 --> 00:00:05,680
+Hallo.
+
+3
+00:00:05,680 --> 00:00:07,680
+Hallo.
+
+4
+00:00:07,680 --> 00:00:09,680
+Hallo.
+
+5
+00:00:09,680 --> 00:00:11,680
+Akta ist mein Name und ich bin hier erst.
+
+6
+00:00:11,680 --> 00:00:13,680
+So erst möchte ich ein paar Fragen
+
+7
+00:00:13,680 --> 00:00:15,680
+Ihrer Person stellen.
+
+8
+00:00:15,680 --> 00:00:17,680
+Dann kommen wir gleich
+
+9
+00:00:17,680 --> 00:00:19,680
+zu Ihren Beschwerden.
+
+10
+00:00:19,680 --> 00:00:21,680
+Ist das enorm?
+
+11
+00:00:21,680 --> 00:00:23,680
+Ja.
+
+12
+00:00:23,680 --> 00:00:25,680
+Wie heißen Sie?
+
+13
+00:00:25,680 --> 00:00:27,680
+Also der Patient kommt
+
+14
+00:00:27,680 --> 00:00:29,680
+in Begleitung der Frau
+
+15
+00:00:29,680 --> 00:00:31,680
+der Ehefrau
+
+16
+00:00:31,680 --> 00:00:33,680
+und der Patient kann
+
+17
+00:00:33,680 --> 00:00:35,680
+nicht selber richtig antworten.
+
+18
+00:00:35,680 --> 00:00:37,680
+Die Ehefrau antwortet.
+
+19
+00:00:37,680 --> 00:00:39,680
+Ja, die Ehefrau antwortet.
+
+20
+00:00:39,680 --> 00:00:41,680
+Die Ehefrau sagt
+
+21
+00:00:41,680 --> 00:00:43,680
+mein Mann heißt
+
+22
+00:00:43,680 --> 00:00:45,680
+Peter Spengemann.
+
+23
+00:00:45,680 --> 00:00:47,680
+Das ist der Name des Patienten.
+
+24
+00:00:47,680 --> 00:00:49,680
+Peter Spengemann.
+
+25
+00:00:49,680 --> 00:00:51,680
+Können Sie bitte
+
+26
+00:00:51,680 --> 00:00:53,680
+sein
+
+27
+00:00:53,680 --> 00:00:55,680
+Ihren
+
+28
+00:00:55,680 --> 00:00:57,680
+Ihren Mann
+
+29
+00:00:57,680 --> 00:00:59,680
+Vornamen
+
+30
+00:00:59,680 --> 00:01:01,680
+langsam bestärbieren?
+
+31
+00:01:01,680 --> 00:01:03,680
+Ja, Peter schreibt sich
+
+32
+00:01:03,680 --> 00:01:05,680
+Peter
+
+33
+00:01:05,680 --> 00:01:07,680
+Peter
+
+34
+00:01:07,680 --> 00:01:09,680
+ist der Vorname
+
+35
+00:01:09,680 --> 00:01:11,680
+und Spengemann
+
+36
+00:01:11,680 --> 00:01:13,680
+schreibt sich
+
+37
+00:01:13,680 --> 00:01:15,680
+S
+
+38
+00:01:15,680 --> 00:01:17,680
+P
+
+39
+00:01:17,680 --> 00:01:19,680
+E
+
+40
+00:01:19,680 --> 00:01:21,680
+N
+
+41
+00:01:21,680 --> 00:01:23,680
+G
+
+42
+00:01:23,680 --> 00:01:25,680
+Spengemann
+
+43
+00:01:25,680 --> 00:01:27,680
+Spengemann
+
+44
+00:01:27,680 --> 00:01:29,680
+Ja
+
+45
+00:01:29,680 --> 00:01:31,680
+Frau
+
+46
+00:01:31,680 --> 00:01:33,680
+Spengemann
+
+47
+00:01:33,680 --> 00:01:35,680
+Wie groß
+
+48
+00:01:35,680 --> 00:01:37,680
+Ihren
+
+49
+00:01:37,680 --> 00:01:39,680
+Mann sind?
+
+50
+00:01:39,680 --> 00:01:41,680
+Wie groß ist Ihr Mann?
+
+51
+00:01:41,680 --> 00:01:43,680
+1,84 m
+
+52
+00:01:43,680 --> 00:01:45,680
+Ja
+
+53
+00:01:45,680 --> 00:01:47,680
+Wie viel wiegen
+
+54
+00:01:47,680 --> 00:01:51,540
+er?
+
+55
+00:01:51,540 --> 00:01:53,540
+90 kg
+
+56
+00:01:53,540 --> 00:01:55,540
+Nein
+
+57
+00:01:55,540 --> 00:01:57,540
+90 kg
+
+58
+00:01:57,540 --> 00:01:59,540
+Wie viel wiegen
+
+59
+00:01:59,540 --> 00:02:01,540
+er?
+
+60
+00:02:01,540 --> 00:02:03,540
+90 kg
+
+61
+00:02:03,540 --> 00:02:05,540
+90 kg
+
+62
+00:02:05,540 --> 00:02:07,540
+90 kg
+
+63
+00:02:07,540 --> 00:02:09,540
+90 kg
+
+64
+00:02:09,540 --> 00:02:11,540
+Was ist der Hausarzt?
+
+65
+00:02:11,540 --> 00:02:13,540
+Der Hausarzt ist Dr.
+
+66
+00:02:13,540 --> 00:02:15,540
+Meier
+
+67
+00:02:15,540 --> 00:02:19,940
+Was
+
+68
+00:02:19,940 --> 00:02:21,940
+für Sie uns welche
+
+69
+00:02:21,940 --> 00:02:23,940
+Habbeschwerde haben?
+
+70
+00:02:23,940 --> 00:02:25,940
+Ja, also jetzt
+
+71
+00:02:25,940 --> 00:02:27,940
+Frau
+
+72
+00:02:27,940 --> 00:02:29,940
+Mein Mann
+
+73
+00:02:29,940 --> 00:02:31,940
+ist in den letzten 12 Stunden
+
+74
+00:02:31,940 --> 00:02:33,940
+sehr verändert
+
+75
+00:02:33,940 --> 00:02:35,940
+er hat sich sehr verändert
+
+76
+00:02:35,940 --> 00:02:37,940
+er ist teilweise
+
+77
+00:02:37,940 --> 00:02:39,940
+sehr unruhig
+
+78
+00:02:39,940 --> 00:02:41,940
+und teilweise
+
+79
+00:02:41,940 --> 00:02:43,940
+aber auch sehr schläfrig
+
+80
+00:02:43,940 --> 00:02:45,940
+Teilweise schläft er
+
+81
+00:02:45,940 --> 00:02:47,940
+ganz viel und dann ist er
+
+82
+00:02:47,940 --> 00:02:49,940
+plötzlich auch wieder unruhig
+
+83
+00:02:49,940 --> 00:02:51,940
+etwas aggressiv
+
+84
+00:02:51,940 --> 00:02:53,940
+Er
+
+85
+00:02:53,940 --> 00:02:55,940
+kann schlecht gehen
+
+86
+00:02:55,940 --> 00:02:57,940
+er ist sehr unsicher
+
+87
+00:02:57,940 --> 00:02:59,940
+in gehen
+
+88
+00:02:59,940 --> 00:03:01,940
+und er muss sich oft festhalten
+
+89
+00:03:01,940 --> 00:03:03,940
+wenn er geht und heute Nacht
+
+90
+00:03:03,940 --> 00:03:05,940
+ist er auf dem Weg zur Toilette
+
+91
+00:03:05,940 --> 00:03:07,940
+ist er gestürzt
+
+92
+00:03:09,940 --> 00:03:13,920
+Also er ist sehr
+
+93
+00:03:13,920 --> 00:03:15,920
+unruhig, er ist teilweise
+
+94
+00:03:15,920 --> 00:03:17,920
+schläfrig
+
+95
+00:03:17,920 --> 00:03:19,920
+und er kann nicht so sicher gehen
+
+96
+00:03:19,920 --> 00:03:21,920
+und ist in der Nacht
+
+97
+00:03:21,920 --> 00:03:23,920
+einmal gefallen
+
+98
+00:03:23,920 --> 00:03:25,920
+gestürzt
+
+99
+00:03:25,920 --> 00:03:27,920
+seit wann
+
+100
+00:03:27,920 --> 00:03:29,920
+hat er
+
+101
+00:03:29,920 --> 00:03:31,920
+unruhig, schläfrig
+
+102
+00:03:31,920 --> 00:03:33,920
+oder
+
+103
+00:03:33,920 --> 00:03:35,920
+seit 12 Stunden
+
+104
+00:03:35,920 --> 00:03:37,920
+und früher
+
+105
+00:03:37,920 --> 00:03:39,920
+da ist mir das nicht so aufgefallen
+
+106
+00:03:39,920 --> 00:03:41,920
+okay, genau
+
+107
+00:03:41,920 --> 00:03:43,920
+sind diese Beschwerden
+
+108
+00:03:43,920 --> 00:03:45,920
+plötzlich oder langsam aufgetreten?
+
+109
+00:03:45,920 --> 00:03:47,920
+ja, die sind langsam aufgetreten
+
+110
+00:03:47,920 --> 00:03:49,920
+aber so innerhalb
+
+111
+00:03:49,920 --> 00:03:51,920
+vielleicht von 1, 2 Stunden
+
+112
+00:03:51,920 --> 00:03:53,920
+sind sie aufgetreten
+
+113
+00:03:53,920 --> 00:03:55,920
+ja
+
+114
+00:03:55,920 --> 00:03:57,920
+er ist auch übel
+
+115
+00:03:57,920 --> 00:03:59,920
+er hat 2 Mal erbrochen
+
+116
+00:03:59,920 --> 00:04:01,920
+ja
+
+117
+00:04:01,920 --> 00:04:03,920
+es hat sich irgendwie
+
+118
+00:04:03,920 --> 00:04:05,920
+alles verändert in den letzten 12 Stunden
+
+119
+00:04:05,920 --> 00:04:07,920
+ja
+
+120
+00:04:07,920 --> 00:04:09,920
+ja, er fährt sonst
+
+121
+00:04:09,920 --> 00:04:11,920
+auch mit dem Fahrrad
+
+122
+00:04:11,920 --> 00:04:13,920
+jeden Tag fährt er sonst
+
+123
+00:04:13,920 --> 00:04:15,920
+mit dem Fahrrad
+
+124
+00:04:15,920 --> 00:04:17,920
+aber in den letzten
+
+125
+00:04:17,920 --> 00:04:19,920
+heute nicht
+
+126
+00:04:19,920 --> 00:04:21,920
+und seit gestern auch nicht
+
+127
+00:04:21,920 --> 00:04:23,920
+er ist zu unsicher
+
+128
+00:04:23,920 --> 00:04:25,920
+er sagt, ich kann nicht Rad fahren
+
+129
+00:04:25,920 --> 00:04:27,920
+ich fühle mich
+
+130
+00:04:27,920 --> 00:04:29,920
+unsicher, es geht nicht
+
+131
+00:04:29,920 --> 00:04:31,920
+heute
+
+132
+00:04:31,920 --> 00:04:42,720
+kann
+
+133
+00:04:42,720 --> 00:04:44,720
+er ihre Arme
+
+134
+00:04:44,720 --> 00:04:46,720
+und
+
+135
+00:04:46,720 --> 00:04:48,720
+beinahe ganz normal bewegen
+
+136
+00:04:48,720 --> 00:04:50,720
+oder
+
+137
+00:04:50,720 --> 00:04:52,720
+ist er
+
+138
+00:04:52,720 --> 00:04:54,720
+sind ohm-machtig?
+
+139
+00:04:54,720 --> 00:04:56,720
+nein, er kann das ganz gut bewegen
+
+140
+00:04:56,720 --> 00:04:58,720
+aber insgesamt
+
+141
+00:04:58,720 --> 00:05:00,720
+wenn er geht
+
+142
+00:05:00,720 --> 00:05:02,720
+können sie sich untersuchen
+
+143
+00:05:02,720 --> 00:05:04,720
+er geht sehr vorsichtig
+
+144
+00:05:04,720 --> 00:05:06,720
+und kleine Schritte
+
+145
+00:05:06,720 --> 00:05:08,720
+normalerweise ist er
+
+146
+00:05:08,720 --> 00:05:10,720
+sehr vital und aktiv
+
+147
+00:05:10,720 --> 00:05:12,720
+aber
+
+148
+00:05:12,720 --> 00:05:14,720
+wie gesagt, das ist seit 12 Stunden
+
+149
+00:05:14,720 --> 00:05:16,720
+hat sich das verändert
+
+150
+00:05:16,720 --> 00:05:18,720
+okay
+
+151
+00:05:18,720 --> 00:05:20,720
+ist er
+
+152
+00:05:20,720 --> 00:05:22,720
+schwindelig
+
+153
+00:05:22,720 --> 00:05:24,720
+oder ist es bewusst sein Verloge?
+
+154
+00:05:24,720 --> 00:05:26,720
+das bewusst sein
+
+155
+00:05:26,720 --> 00:05:28,720
+hat er glaube ich nicht verloren
+
+156
+00:05:28,720 --> 00:05:30,720
+aber
+
+157
+00:05:30,720 --> 00:05:32,720
+ihm ist jetzt auch glaube ich etwas schwindelig
+
+158
+00:05:32,720 --> 00:05:34,720
+und wie gesagt eben
+
+159
+00:05:34,720 --> 00:05:36,720
+also übel, er hat erbrochen
+
+160
+00:05:36,720 --> 00:05:51,260
+und ja
+
+161
+00:05:51,260 --> 00:05:53,260
+hat er
+
+162
+00:05:53,260 --> 00:05:55,260
+Schwierigkeiten beim
+
+163
+00:05:55,260 --> 00:05:57,260
+sehen oder sprechen?
+
+164
+00:05:57,260 --> 00:06:01,180
+nein, glaube ich nicht
+
+165
+00:06:01,180 --> 00:06:03,180
+beim sehen
+
+166
+00:06:03,180 --> 00:06:05,180
+glaube ich nicht
+
+167
+00:06:05,180 --> 00:06:07,180
+nein, beim sprechen eigentlich auch nicht
+
+168
+00:06:07,180 --> 00:06:09,180
+aber insgesamt ist er ruhiger
+
+169
+00:06:09,180 --> 00:06:11,180
+und wie gesagt, er schläft
+
+170
+00:06:11,180 --> 00:06:13,180
+jetzt viel und
+
+171
+00:06:13,180 --> 00:06:15,180
+er hat jetzt auch nicht so viel gesprochen
+
+172
+00:06:15,180 --> 00:06:17,180
+okay
+
+173
+00:06:17,180 --> 00:06:19,180
+ist ihnen
+
+174
+00:06:19,180 --> 00:06:21,180
+noch etwas auch gefallen
+
+175
+00:06:21,180 --> 00:06:23,180
+oder
+
+176
+00:06:23,180 --> 00:06:25,180
+das
+
+177
+00:06:25,180 --> 00:06:27,180
+Gleichgewicht
+
+178
+00:06:27,180 --> 00:06:29,180
+zu halten?
+
+179
+00:06:29,180 --> 00:06:31,180
+ja, das kann er nicht gut
+
+180
+00:06:31,180 --> 00:06:33,180
+er fühlt sich ja unsicher, er kann nicht gut gehen
+
+181
+00:06:33,180 --> 00:06:35,180
+und er möchte auch nicht Rad fahren
+
+182
+00:06:35,180 --> 00:06:37,180
+sonst fährt er immer mit dem Fahrrad
+
+183
+00:06:37,180 --> 00:06:39,180
+aber das will er nicht mehr
+
+184
+00:06:39,180 --> 00:06:41,180
+er sagt, ich fühle mich zu unsicher
+
+185
+00:06:41,180 --> 00:06:51,790
+unsicher, gerne
+
+186
+00:06:51,790 --> 00:06:53,790
+hat er Fiber?
+
+187
+00:06:53,790 --> 00:06:55,790
+ich glaube nicht
+
+188
+00:06:55,790 --> 00:06:57,790
+nein, Fiber hat er nicht
+
+189
+00:06:57,790 --> 00:07:01,390
+wie ist
+
+190
+00:07:01,390 --> 00:07:03,390
+er appetiert in letzter Zeit?
+
+191
+00:07:03,390 --> 00:07:05,390
+also, appetiert war immer gut
+
+192
+00:07:05,390 --> 00:07:07,390
+ja
+
+193
+00:07:07,390 --> 00:07:09,390
+hat er
+
+194
+00:07:09,390 --> 00:07:11,390
+abgenommen
+
+195
+00:07:11,390 --> 00:07:13,390
+oder zugenommen?
+
+196
+00:07:13,390 --> 00:07:15,390
+das glaube ich, er hat sein Gewicht gehalten
+
+197
+00:07:15,390 --> 00:07:17,390
+genau
+
+198
+00:07:17,390 --> 00:07:19,390
+hat er Probleme
+
+199
+00:07:19,390 --> 00:07:21,390
+mit dem Stuhlgang
+
+200
+00:07:21,390 --> 00:07:23,390
+oder was er lassen?
+
+201
+00:07:23,390 --> 00:07:25,390
+nein, Stuhlgang
+
+202
+00:07:25,390 --> 00:07:27,390
+ist regelmäßig
+
+203
+00:07:27,390 --> 00:07:29,390
+da geht er regelmäßig
+
+204
+00:07:29,390 --> 00:07:31,390
+und auf Toilette geht er glaube ich so 2 mal in der Nacht
+
+205
+00:07:31,390 --> 00:07:33,390
+das aber schon seit einiger Zeit
+
+206
+00:07:33,390 --> 00:07:35,390
+aber das stört ihn nicht groß
+
+207
+00:07:35,390 --> 00:07:37,390
+er kann danach normalerweise wieder gut einschlafen
+
+208
+00:07:37,390 --> 00:07:39,390
+zum Beispiel
+
+209
+00:07:39,390 --> 00:07:41,390
+Urin
+
+210
+00:07:41,390 --> 00:07:43,390
+oder Stuhlverlohren
+
+211
+00:07:43,390 --> 00:07:45,390
+nein, das hat er nicht
+
+212
+00:07:45,390 --> 00:07:47,390
+ok
+
+213
+00:07:47,390 --> 00:07:49,390
+schlaft er gut?
+
+214
+00:07:49,390 --> 00:07:51,390
+normalerweise schläft er gut
+
+215
+00:07:51,390 --> 00:07:53,390
+wie gesagt, jetzt seit 12 Stunden
+
+216
+00:07:53,390 --> 00:07:55,390
+schläft er auch ganz plötzlich
+
+217
+00:07:55,390 --> 00:07:57,390
+am Tisch ein
+
+218
+00:07:57,390 --> 00:07:59,390
+weil er so schläfrig ist seit 12 Stunden
+
+219
+00:07:59,390 --> 00:08:01,390
+normalerweise schläft er regelmäßig
+
+220
+00:08:01,390 --> 00:08:03,390
+und gut
+
+221
+00:08:03,390 --> 00:08:07,220
+hat er Müdigkeit?
+
+222
+00:08:07,220 --> 00:08:09,220
+ja, er ist ja sehr müde
+
+223
+00:08:09,220 --> 00:08:11,220
+und schläfrig
+
+224
+00:08:11,220 --> 00:08:13,220
+und dann wieder ist er plötzlich ganz aufgeregt
+
+225
+00:08:13,220 --> 00:08:15,220
+und auch manchmal
+
+226
+00:08:15,220 --> 00:08:17,220
+jetzt aggressiv
+
+227
+00:08:17,220 --> 00:08:19,220
+also er hat sich sehr verändert
+
+228
+00:08:19,220 --> 00:08:21,220
+hat er
+
+229
+00:08:21,220 --> 00:08:23,220
+ein Siedler?
+
+230
+00:08:23,220 --> 00:08:25,220
+nein
+
+231
+00:08:25,220 --> 00:08:27,220
+nein
+
+232
+00:08:27,220 --> 00:08:29,220
+hat er Husten oder Luftnot?
+
+233
+00:08:29,220 --> 00:08:31,220
+Atomnot?
+
+234
+00:08:31,220 --> 00:08:33,220
+nein
+
+235
+00:08:33,220 --> 00:08:35,220
+hat er Herzrasen
+
+236
+00:08:35,220 --> 00:08:38,880
+oder Brustenge?
+
+237
+00:08:38,880 --> 00:08:40,880
+also er hat Herzrhythmusstörungen
+
+238
+00:08:40,880 --> 00:08:42,880
+und da hat er auch eine
+
+239
+00:08:42,880 --> 00:08:44,880
+Katheterbehandlung mal gehabt
+
+240
+00:08:44,880 --> 00:08:46,880
+vor 3 Jahren
+
+241
+00:08:46,880 --> 00:08:48,880
+um das Herz wieder
+
+242
+00:08:48,880 --> 00:08:50,880
+in den richtigen Rhythmus zu bekommen
+
+243
+00:08:50,880 --> 00:08:52,880
+aber das war nicht richtig
+
+244
+00:08:52,880 --> 00:08:54,880
+erfolgreich
+
+245
+00:08:54,880 --> 00:08:56,880
+er muss deswegen auch ein Mittel
+
+246
+00:08:56,880 --> 00:08:58,880
+für die Blutgerinnung nehmen
+
+247
+00:08:58,880 --> 00:09:00,880
+jeden Tag muss er eine Tablette
+
+248
+00:09:00,880 --> 00:09:02,880
+nehmen dafür
+
+249
+00:09:02,880 --> 00:09:04,880
+aber
+
+250
+00:09:04,880 --> 00:09:06,880
+er hat sich bisher immer
+
+251
+00:09:06,880 --> 00:09:08,880
+ganz wohl gefühlt
+
+252
+00:09:08,880 --> 00:09:10,880
+das war bisher ganz gut
+
+253
+00:09:10,880 --> 00:09:12,880
+immer
+
+254
+00:09:12,880 --> 00:09:14,880
+war immer in Ordnung
+
+255
+00:09:14,880 --> 00:09:16,880
+ja
+
+256
+00:09:16,880 --> 00:09:26,080
+sind diese Beschwerden
+
+257
+00:09:26,080 --> 00:09:28,080
+früher schon einmal
+
+258
+00:09:28,080 --> 00:09:30,080
+aufgetreten?
+
+259
+00:09:30,080 --> 00:09:32,080
+nein
+
+260
+00:09:32,080 --> 00:09:34,080
+so was hat er noch nie gehabt
+
+261
+00:09:34,080 --> 00:09:36,080
+ich kenne ihn jetzt ja schon über 30 Jahre
+
+262
+00:09:36,080 --> 00:09:38,080
+sind wir verheiratet 35 Jahre
+
+263
+00:09:38,080 --> 00:09:40,080
+so was hat er noch nie gehabt
+
+264
+00:09:40,080 --> 00:09:42,080
+ja
+
+265
+00:09:42,080 --> 00:09:44,080
+sind diese Beschwerden
+
+266
+00:09:44,080 --> 00:09:46,080
+mit der Zeit verändert?
+
+267
+00:09:46,080 --> 00:09:48,080
+nein
+
+268
+00:09:48,080 --> 00:09:50,080
+vor 12 Stunden
+
+269
+00:09:50,080 --> 00:09:52,080
+hat das angefangen
+
+270
+00:09:52,080 --> 00:09:54,080
+und
+
+271
+00:09:54,080 --> 00:09:56,080
+das hat sich jetzt so durchgezogen
+
+272
+00:09:56,080 --> 00:09:58,080
+also wie gesagt das mit dem Erbrechen
+
+273
+00:09:58,080 --> 00:10:00,080
+und der Übelkeit das ist jetzt in den letzten
+
+274
+00:10:00,080 --> 00:10:02,080
+2 Stunden gekommen
+
+275
+00:10:02,080 --> 00:10:04,080
+insofern hat es sich etwas verändert
+
+276
+00:10:04,080 --> 00:10:06,080
+etwas verschlimmert
+
+277
+00:10:06,080 --> 00:10:10,700
+verschlimmert
+
+278
+00:10:10,700 --> 00:10:12,700
+haben Sie beim Erbrechen
+
+279
+00:10:12,700 --> 00:10:14,700
+etwas Auslöse für die Schmerzen
+
+280
+00:10:14,700 --> 00:10:16,700
+für diese Beschwerden
+
+281
+00:10:16,700 --> 00:10:18,700
+Auslöser
+
+282
+00:10:18,700 --> 00:10:20,700
+ich weiß es nicht
+
+283
+00:10:20,700 --> 00:10:22,700
+also ich kann mich erinnern
+
+284
+00:10:22,700 --> 00:10:24,700
+mein Sohn hat mich dran erinnert
+
+285
+00:10:24,700 --> 00:10:26,700
+vor ca. 3 Wochen ist er einmal
+
+286
+00:10:26,700 --> 00:10:28,700
+mit dem Fahrrad gestürzt
+
+287
+00:10:28,700 --> 00:10:30,700
+und
+
+288
+00:10:30,700 --> 00:10:32,700
+er hatte da
+
+289
+00:10:32,700 --> 00:10:34,700
+eine kleine Platzwunde am Kopf
+
+290
+00:10:34,700 --> 00:10:36,700
+aber die war klein
+
+291
+00:10:36,700 --> 00:10:38,700
+wir haben einen Pflaster drauf gemacht
+
+292
+00:10:38,700 --> 00:10:40,700
+und
+
+293
+00:10:40,700 --> 00:10:42,700
+er sagt es geht ihm gut
+
+294
+00:10:42,700 --> 00:10:44,700
+ich habe ihn gefragt
+
+295
+00:10:44,700 --> 00:10:46,700
+ob er bewusstlos war
+
+296
+00:10:46,700 --> 00:10:48,700
+konnte er sich nicht genau erinnern
+
+297
+00:10:48,700 --> 00:10:50,700
+es gibt auch keinen Zeugen
+
+298
+00:10:50,700 --> 00:10:52,700
+für den Sturz
+
+299
+00:10:52,700 --> 00:10:54,700
+er ist danach aber wieder weiterrad gefahren
+
+300
+00:10:54,700 --> 00:10:56,700
+das war so ungefähr
+
+301
+00:10:56,700 --> 00:10:58,700
+vor 3 Wochen
+
+302
+00:10:58,700 --> 00:11:00,700
+ok
+
+303
+00:11:00,700 --> 00:11:05,300
+um
+
+304
+00:11:05,300 --> 00:11:07,300
+waren Sie in letzter Zeit krank
+
+305
+00:11:07,300 --> 00:11:09,300
+und beim Arzt
+
+306
+00:11:09,300 --> 00:11:11,300
+bei diese Beschwerden?
+
+307
+00:11:11,300 --> 00:11:13,300
+nein
+
+308
+00:11:13,300 --> 00:11:15,300
+die sind ja jetzt erst seit 12 Stunden aufgetreten
+
+309
+00:11:15,300 --> 00:11:17,300
+diese Beschwerden
+
+310
+00:11:17,300 --> 00:11:19,300
+und da waren wir bisher noch nicht beim Arzt
+
+311
+00:11:19,300 --> 00:11:21,300
+aber heute Morgen haben wir gesagt
+
+312
+00:11:21,300 --> 00:11:23,300
+es wird schlimmer
+
+313
+00:11:23,300 --> 00:11:25,300
+es geht ihm nicht gut
+
+314
+00:11:25,300 --> 00:11:27,300
+wir müssen in die Notambulanz
+
+315
+00:11:27,300 --> 00:11:29,300
+ok
+
+316
+00:11:29,300 --> 00:11:34,240
+in Ordnung
+
+317
+00:11:34,240 --> 00:11:36,240
+Frau
+
+318
+00:11:36,240 --> 00:11:38,240
+Frau Spingermann
+
+319
+00:11:38,240 --> 00:11:40,240
+ich hatte ein paar Fragen
+
+320
+00:11:40,240 --> 00:11:42,240
+so
+
+321
+00:11:42,240 --> 00:11:44,240
+ihre Mann
+
+322
+00:11:44,240 --> 00:11:46,240
+haben wir eine Krankengeschichte
+
+323
+00:11:46,240 --> 00:11:48,240
+ja
+
+324
+00:11:48,240 --> 00:11:50,240
+leiden Sie an einer bestimmten chronischen
+
+325
+00:11:50,240 --> 00:11:52,240
+Erkrankung
+
+326
+00:11:52,240 --> 00:11:54,240
+mein Mann
+
+327
+00:11:54,240 --> 00:11:56,240
+muss immer Tabletten nehmen gegen hohen Blutdruck
+
+328
+00:11:56,240 --> 00:11:58,240
+das ist
+
+329
+00:11:58,240 --> 00:12:00,240
+ungefähr seit 10 Jahren
+
+330
+00:12:00,240 --> 00:12:02,240
+und wir messen regelmäßig
+
+331
+00:12:02,240 --> 00:12:04,240
+den Blutdruck fast jeden Tag einmal
+
+332
+00:12:04,240 --> 00:12:06,240
+zu unterschiedlichen Zeiten
+
+333
+00:12:06,240 --> 00:12:08,240
+und der Blutdruck war in letzter Zeit immer gut
+
+334
+00:12:08,240 --> 00:12:10,240
+er nimmt die Werte
+
+335
+00:12:10,240 --> 00:12:12,240
+dann auch mit zu seinem Hausarzt
+
+336
+00:12:12,240 --> 00:12:14,240
+und der ist zufrieden
+
+337
+00:12:14,240 --> 00:12:16,240
+und wie gesagt
+
+338
+00:12:16,240 --> 00:12:18,240
+er hat diese Herzrhythmusstörungen
+
+339
+00:12:18,240 --> 00:12:20,240
+da hat er diese Katheterbehandlung gehabt
+
+340
+00:12:20,240 --> 00:12:22,240
+vor 3 oder 4 Jahren
+
+341
+00:12:22,240 --> 00:12:24,240
+war das
+
+342
+00:12:24,240 --> 00:12:26,240
+aber ansonsten
+
+343
+00:12:26,240 --> 00:12:28,240
+hat er keine chronischen Erkrankungen
+
+344
+00:12:28,240 --> 00:12:30,240
+gibt es
+
+345
+00:12:30,240 --> 00:12:32,240
+weitere Erkrankungen?
+
+346
+00:12:32,240 --> 00:12:34,240
+nein
+
+347
+00:12:34,240 --> 00:12:36,240
+sind Sie
+
+348
+00:12:36,240 --> 00:12:38,240
+ist er
+
+349
+00:12:38,240 --> 00:12:40,240
+schon einmal operiert geworden?
+
+350
+00:12:40,240 --> 00:12:42,240
+ja als Kind
+
+351
+00:12:42,240 --> 00:12:44,240
+da weiß ich aber nicht genau wie alt er war
+
+352
+00:12:44,240 --> 00:12:46,240
+so 10 Jahre alt
+
+353
+00:12:46,240 --> 00:12:48,240
+am Blindarm operiert worden
+
+354
+00:12:48,240 --> 00:12:50,240
+und dann ist er
+
+355
+00:12:50,240 --> 00:12:52,240
+noch an den Mandeln operiert
+
+356
+00:12:52,240 --> 00:12:54,240
+worden
+
+357
+00:12:54,240 --> 00:12:56,240
+auch in der Kindheit
+
+358
+00:12:56,240 --> 00:12:58,240
+das waren die Operationen
+
+359
+00:12:58,240 --> 00:13:00,240
+okay
+
+360
+00:13:00,240 --> 00:13:02,240
+genau
+
+361
+00:13:02,240 --> 00:13:04,240
+nehmt
+
+362
+00:13:04,240 --> 00:13:06,240
+er
+
+363
+00:13:06,240 --> 00:13:08,240
+regelmäßig
+
+364
+00:13:08,240 --> 00:13:10,240
+gelegentlich mit Kament
+
+365
+00:13:10,240 --> 00:13:12,240
+er nimmt
+
+366
+00:13:12,240 --> 00:13:14,240
+Tabletten ein
+
+367
+00:13:14,240 --> 00:13:16,240
+ich habe das hier auf dem Zettel
+
+368
+00:13:16,240 --> 00:13:18,240
+da steht drauf
+
+369
+00:13:18,240 --> 00:13:20,240
+Rami Priel
+
+370
+00:13:20,240 --> 00:13:22,240
+das ist glaube ich Blutdruck
+
+371
+00:13:22,240 --> 00:13:24,240
+ein Blutdruckmittel
+
+372
+00:13:24,240 --> 00:13:26,240
+morgens eine und abends eine Tablette
+
+373
+00:13:26,240 --> 00:13:31,150
+Kennen Sie Dosierung?
+
+374
+00:13:31,150 --> 00:13:33,150
+Ich stärke
+
+375
+00:13:33,150 --> 00:13:35,150
+dahinter steht 5
+
+376
+00:13:35,150 --> 00:13:37,150
+5
+
+377
+00:13:37,150 --> 00:13:39,150
+weitere Medikamente
+
+378
+00:13:39,150 --> 00:13:41,150
+dann
+
+379
+00:13:41,150 --> 00:13:43,150
+nehmt er noch ein anderes
+
+380
+00:13:43,150 --> 00:13:45,150
+Blutdruckmittel bisoprolol
+
+381
+00:13:45,150 --> 00:13:48,530
+da steht auch 5
+
+382
+00:13:48,530 --> 00:13:50,530
+hinter
+
+383
+00:13:50,530 --> 00:13:52,530
+und dann nehmt er
+
+384
+00:13:52,530 --> 00:13:54,530
+auch morgens eine Tablette
+
+385
+00:13:54,530 --> 00:13:56,530
+und abends eine Tablette
+
+386
+00:13:56,530 --> 00:13:58,530
+genau
+
+387
+00:13:58,530 --> 00:14:00,530
+und dann nehmt er noch ein Medikament
+
+388
+00:14:00,530 --> 00:14:02,530
+das ist wegen der Blutgerinnung
+
+389
+00:14:02,530 --> 00:14:04,530
+weil er ja
+
+390
+00:14:04,530 --> 00:14:06,530
+diese Herzrhythmostörung hat
+
+391
+00:14:06,530 --> 00:14:08,530
+der Arzt gesagt das muss er ganz wichtig
+
+392
+00:14:08,530 --> 00:14:10,530
+muss er das jeden Tag nehmen
+
+393
+00:14:10,530 --> 00:14:12,530
+das heißt Lixiana
+
+394
+00:14:12,530 --> 00:14:14,530
+Lixiana
+
+395
+00:14:14,530 --> 00:14:16,530
+da nehmt er eine Tablette von
+
+396
+00:14:16,530 --> 00:14:18,530
+äh
+
+397
+00:14:18,530 --> 00:14:22,060
+dahinter
+
+398
+00:14:22,060 --> 00:14:24,060
+eine Tablette
+
+399
+00:14:24,060 --> 00:14:26,060
+60
+
+400
+00:14:26,060 --> 00:14:28,060
+60 steht dahinter
+
+401
+00:14:28,060 --> 00:14:33,230
+60
+
+402
+00:14:33,230 --> 00:14:35,230
+und
+
+403
+00:14:35,230 --> 00:14:37,230
+für Herzrhythmostörung
+
+404
+00:14:37,230 --> 00:14:39,230
+nehmt er
+
+405
+00:14:39,230 --> 00:14:41,230
+eine Medikamente
+
+406
+00:14:41,230 --> 00:14:43,230
+eine Medikamente
+
+407
+00:14:43,230 --> 00:14:45,230
+der Arzt hat gesagt
+
+408
+00:14:45,230 --> 00:14:47,230
+dieses
+
+409
+00:14:47,230 --> 00:14:49,230
+Mittel bisoprolol
+
+410
+00:14:49,230 --> 00:14:51,230
+das sei auch etwas gegen Herzrhythmostörung
+
+411
+00:14:51,230 --> 00:14:53,230
+aber auch
+
+412
+00:14:53,230 --> 00:14:55,230
+für seinen Blutdruck
+
+413
+00:14:55,230 --> 00:14:57,230
+also zusammen ein Kombinationsmittel sei das
+
+414
+00:14:57,230 --> 00:14:59,230
+genau nur bisoprolol
+
+415
+00:14:59,230 --> 00:15:01,230
+ja
+
+416
+00:15:01,230 --> 00:15:03,230
+hat er
+
+417
+00:15:03,230 --> 00:15:05,230
+allergien oder
+
+418
+00:15:05,230 --> 00:15:07,230
+Unverträglichkeiten?
+
+419
+00:15:07,230 --> 00:15:09,230
+Nein, soweit mir bekannt ist
+
+420
+00:15:09,230 --> 00:15:11,230
+nein, der verträgt alles
+
+421
+00:15:11,230 --> 00:15:13,230
+der kann alles essen
+
+422
+00:15:13,230 --> 00:15:15,230
+und hat keine allergien
+
+423
+00:15:15,230 --> 00:15:17,230
+Nein
+
+424
+00:15:17,230 --> 00:15:19,230
+Raucht er?
+
+425
+00:15:19,230 --> 00:15:21,230
+Nein, der raucht nicht
+
+426
+00:15:21,230 --> 00:15:23,230
+äh, trinkt er
+
+427
+00:15:23,230 --> 00:15:25,230
+irgendwie
+
+428
+00:15:25,230 --> 00:15:27,230
+ja, Alkohol trinkt er aber selten
+
+429
+00:15:27,230 --> 00:15:29,230
+selten mal eine Flasche Bier
+
+430
+00:15:29,230 --> 00:15:31,230
+das ist aber nicht jeden Tag
+
+431
+00:15:31,230 --> 00:15:33,230
+vielleicht pro Woche eine Flasche
+
+432
+00:15:33,230 --> 00:15:48,450
+bis zwei Flaschen pro Woche
+
+433
+00:15:48,450 --> 00:15:50,450
+äh, mutimäßig
+
+434
+00:15:50,450 --> 00:15:52,450
+muss ich fragen, haben Sie
+
+435
+00:15:52,450 --> 00:15:54,450
+hat er Kontakt
+
+436
+00:15:54,450 --> 00:15:56,450
+mit irgendwelchen Drogen gehabt?
+
+437
+00:15:56,450 --> 00:15:58,450
+Nein, soweit ich weiß nicht
+
+438
+00:15:58,450 --> 00:16:00,450
+Nein, das macht er nicht
+
+439
+00:16:00,450 --> 00:16:02,450
+genau
+
+440
+00:16:02,450 --> 00:16:04,450
+äh
+
+441
+00:16:04,450 --> 00:16:06,450
+Was ist er vom Beruf?
+
+442
+00:16:06,450 --> 00:16:08,450
+Also mein Mann
+
+443
+00:16:08,450 --> 00:16:10,450
+ist Hausmeister in einer Schule
+
+444
+00:16:10,450 --> 00:16:24,670
+Haben Sie Kinder?
+
+445
+00:16:24,670 --> 00:16:26,670
+Ja, drei Kinder
+
+446
+00:16:26,670 --> 00:16:28,670
+ähm
+
+447
+00:16:28,670 --> 00:16:30,670
+Person ist 34 Jahre alt
+
+448
+00:16:30,670 --> 00:16:32,670
+und zwei Töchter
+
+449
+00:16:32,670 --> 00:16:34,670
+die sind 29 und
+
+450
+00:16:34,670 --> 00:16:36,670
+27 Jahre alt
+
+451
+00:16:36,670 --> 00:16:38,670
+die sind gesund
+
+452
+00:16:38,670 --> 00:16:46,400
+äh, wohnen Sie
+
+453
+00:16:46,400 --> 00:16:48,400
+zusammen? Ja
+
+454
+00:16:48,400 --> 00:16:50,400
+Also ich wohne mit meinem Mann
+
+455
+00:16:50,400 --> 00:16:52,400
+zusammen, die Kinder wohnen nicht mehr bei uns
+
+456
+00:16:52,400 --> 00:16:54,400
+die sind in anderen
+
+457
+00:16:54,400 --> 00:17:03,280
+Leben in anderen Städten
+
+458
+00:17:03,280 --> 00:17:05,280
+äh, leiden
+
+459
+00:17:05,280 --> 00:17:07,280
+Familienangehörige
+
+460
+00:17:07,280 --> 00:17:09,280
+an wichtige Erkrankungen
+
+461
+00:17:09,280 --> 00:17:11,280
+zum Beispiel, Sucherkrankheit
+
+462
+00:17:11,280 --> 00:17:13,280
+Auto, Krebs und so weiter
+
+463
+00:17:13,280 --> 00:17:15,280
+ähm
+
+464
+00:17:15,280 --> 00:17:17,280
+ähm, der Vater
+
+465
+00:17:17,280 --> 00:17:19,280
+meines Mannes
+
+466
+00:17:19,280 --> 00:17:21,280
+äh, der ist 86 Jahre alt
+
+467
+00:17:21,280 --> 00:17:23,280
+der lebt, der hat hohe
+
+468
+00:17:23,280 --> 00:17:25,280
+auch hohe Blutdruck
+
+469
+00:17:25,280 --> 00:17:27,280
+und er hat eine schwere Hüftartrose
+
+470
+00:17:27,280 --> 00:17:29,280
+auf der linken Seite
+
+471
+00:17:29,280 --> 00:17:31,280
+aber er will sich nicht operieren
+
+472
+00:17:31,280 --> 00:17:33,280
+lassen, ähm, er geht
+
+473
+00:17:33,280 --> 00:17:35,280
+an einem Rollator
+
+474
+00:17:35,280 --> 00:17:37,280
+ja, die Mutter
+
+475
+00:17:37,280 --> 00:17:39,280
+die ist 84 Jahre alt, die lebt
+
+476
+00:17:39,280 --> 00:17:41,280
+auch noch, sie hatte vor
+
+477
+00:17:41,280 --> 00:17:43,280
+20 Jahren Brustkrebs
+
+478
+00:17:43,280 --> 00:17:45,280
+das ist aber
+
+479
+00:17:45,280 --> 00:17:47,280
+insgesamt gut verlaufen, die Behandlung
+
+480
+00:17:47,280 --> 00:17:49,280
+und die Zeit danach
+
+481
+00:17:49,280 --> 00:17:51,280
+und sie hatte vor
+
+482
+00:17:51,280 --> 00:17:53,280
+10 Jahren einen
+
+483
+00:17:53,280 --> 00:17:55,280
+Bandscheibenvorfall
+
+484
+00:17:55,280 --> 00:17:57,280
+ähm
+
+485
+00:17:57,280 --> 00:17:59,280
+und wurde äh, operiert
+
+486
+00:17:59,280 --> 00:18:07,460
+vor 10 Jahren
+
+487
+00:18:07,460 --> 00:18:09,460
+äh, Entschuldigung, äh
+
+488
+00:18:09,460 --> 00:18:11,460
+wie alt
+
+489
+00:18:11,460 --> 00:18:13,460
+ihre Mutter
+
+490
+00:18:13,460 --> 00:18:15,460
+ist 84 Jahre alt
+
+491
+00:18:15,460 --> 00:18:17,460
+ja, ähm
+
+492
+00:18:17,460 --> 00:18:19,460
+genau
+
+493
+00:18:19,460 --> 00:18:21,460
+äh, hat ihr
+
+494
+00:18:21,460 --> 00:18:23,460
+hat ihr Mann Geschwister
+
+495
+00:18:23,460 --> 00:18:25,460
+äh, mein Mann
+
+496
+00:18:25,460 --> 00:18:27,460
+hat keine Geschwister, nein
+
+497
+00:18:27,460 --> 00:18:29,460
+genau
+
+498
+00:18:29,460 --> 00:18:31,460
+äh, wann
+
+499
+00:18:31,460 --> 00:18:33,460
+ist er das letzte Mal
+
+500
+00:18:33,460 --> 00:18:35,460
+im Urlaub
+
+501
+00:18:35,460 --> 00:18:37,460
+das letzte Mal im Urlaub
+
+502
+00:18:37,460 --> 00:18:39,460
+waren wir im Herbst, im Oktober
+
+503
+00:18:39,460 --> 00:18:41,460
+da waren wir
+
+504
+00:18:41,460 --> 00:18:43,460
+ja, 10 Tage
+
+505
+00:18:43,460 --> 00:18:54,900
+in Österreich
+
+506
+00:18:54,900 --> 00:18:56,900
+äh, wie ist
+
+507
+00:18:56,900 --> 00:18:58,900
+ihr Impfstatus
+
+508
+00:18:58,900 --> 00:19:00,900
+mein Mann der Impfstatus
+
+509
+00:19:00,900 --> 00:19:02,900
+äh, ich glaube, da lässt er immer regelmäßig
+
+510
+00:19:02,900 --> 00:19:04,900
+äh, das kontrollieren, er hat
+
+511
+00:19:04,900 --> 00:19:06,900
+auch im Herbst, das haben wir zusammen gemacht
+
+512
+00:19:06,900 --> 00:19:08,900
+äh, eine Impfung gegen
+
+513
+00:19:08,900 --> 00:19:10,900
+Corona
+
+514
+00:19:10,900 --> 00:19:12,900
+haben wir gemacht und eine Impfung gegen
+
+515
+00:19:12,900 --> 00:19:14,900
+Grippe
+
+516
+00:19:14,900 --> 00:19:16,900
+das machen, haben wir immer gemacht
+
+517
+00:19:16,900 --> 00:19:18,900
+gegen das im Herbst, im November
+
+518
+00:19:18,900 --> 00:19:20,900
+und ich glaube, sonst ist er
+
+519
+00:19:20,900 --> 00:19:22,900
+äh, ausreichend geimpft
+
+520
+00:19:22,900 --> 00:19:24,900
+also der Hausarzt hat
+
+521
+00:19:24,900 --> 00:19:26,900
+immer gesagt, das ist in Ordnung, das passt
+
+522
+00:19:26,900 --> 00:19:31,170
+wie viel Mal
+
+523
+00:19:31,170 --> 00:19:33,170
+gegen Corona gehen
+
+524
+00:19:33,170 --> 00:19:35,170
+ich glaube, jetzt das fünfte Mal
+
+525
+00:19:35,170 --> 00:19:42,000
+fünfte
+
+526
+00:19:42,000 --> 00:19:44,000
+äh, wann war ihre
+
+527
+00:19:44,000 --> 00:19:46,000
+Impfung, da das letzte Mal
+
+528
+00:19:46,000 --> 00:19:48,000
+äh, aufgefügt
+
+529
+00:19:48,000 --> 00:19:50,000
+das kann ich Ihnen jetzt nicht sagen
+
+530
+00:19:50,000 --> 00:19:52,000
+ich habe jetzt den Impfpass von meinem Mann
+
+531
+00:19:52,000 --> 00:19:54,000
+nicht mit, das muss ich dann zu Hause
+
+532
+00:19:54,000 --> 00:19:56,000
+nochmal den Impfpass holen
+
+533
+00:19:56,000 --> 00:19:58,000
+und Ihnen dann zeigen
+
+534
+00:19:58,000 --> 00:20:00,000
+aber wie gesagt, der Hausarzt hat immer
+
+535
+00:20:00,000 --> 00:20:02,000
+gesagt, zur Zeit, es ist alles im Augenblick
+
+536
+00:20:02,000 --> 00:20:04,000
+in Ordnung
+
+537
+00:20:04,000 --> 00:20:06,000
+aber ich weiß es jetzt nicht genau
+
+538
+00:20:06,000 --> 00:20:08,000
+weil ich den Impfpass, das habe ich nicht im Kopf
+
+539
+00:20:08,000 --> 00:20:11,730
+äh,
+
+540
+00:20:11,730 --> 00:20:13,730
+wir sind jetzt fertig, haben Sie
+
+541
+00:20:13,730 --> 00:20:15,730
+noch Informationen da
+
+542
+00:20:15,730 --> 00:20:17,730
+wichtig sein könnten?
+
+543
+00:20:17,730 --> 00:20:19,730
+Was kann der mein Mann denn haben?
+
+544
+00:20:19,730 --> 00:20:21,730
+ich mache mir große Sorgen, weil er so
+
+545
+00:20:21,730 --> 00:20:23,730
+wie gesagt, er ist ganz anders
+
+546
+00:20:23,730 --> 00:20:25,730
+und so verändert und
+
+547
+00:20:25,730 --> 00:20:27,730
+ja
+
+548
+00:20:27,730 --> 00:20:29,730
+genau, ich verstehe Frau Spingenmann
+
+549
+00:20:29,730 --> 00:20:31,730
+äh, dass Sie
+
+550
+00:20:31,730 --> 00:20:33,730
+sich Sorgen machen
+
+551
+00:20:33,730 --> 00:20:35,730
+wir werden alle notwendigen
+
+552
+00:20:35,730 --> 00:20:37,730
+Untersuchungen
+
+553
+00:20:37,730 --> 00:20:39,730
+Schritt für Schritt durchführen, zum Beispiel
+
+554
+00:20:39,730 --> 00:20:41,730
+äh
+
+555
+00:20:41,730 --> 00:20:43,730
+so erst eine köpfelliche
+
+556
+00:20:43,730 --> 00:20:45,730
+Untersuchung durchführen
+
+557
+00:20:45,730 --> 00:20:47,730
+und Bluetooth Lopfer
+
+558
+00:20:47,730 --> 00:20:49,730
+Untersuchungen abnehmen
+
+559
+00:20:49,730 --> 00:20:51,730
+dann könnten weitere Untersuchungen
+
+560
+00:20:51,730 --> 00:20:53,730
+wie LKG, Röntgen,
+
+561
+00:20:53,730 --> 00:20:55,730
+Ultraschall,
+
+562
+00:20:55,730 --> 00:20:57,730
+CT, oder MRT
+
+563
+00:20:57,730 --> 00:20:59,730
+Schadenotik sein
+
+564
+00:20:59,730 --> 00:21:01,730
+sobald
+
+565
+00:21:01,730 --> 00:21:03,730
+wie sobald
+
+566
+00:21:03,730 --> 00:21:05,730
+wir alle Ergebnisse haben
+
+567
+00:21:05,730 --> 00:21:07,730
+erkläre ich Ihnen alles
+
+568
+00:21:07,730 --> 00:21:09,730
+genau und besprechen
+
+569
+00:21:09,730 --> 00:21:11,730
+das weitere vorgehend mit Ihnen
+
+570
+00:21:11,730 --> 00:21:13,730
+aber ich denke
+
+571
+00:21:13,730 --> 00:21:15,730
+Ihre Mathe hat
+
+572
+00:21:15,730 --> 00:21:17,730
+äh
+
+573
+00:21:17,730 --> 00:21:19,730
+kann
+
+574
+00:21:19,730 --> 00:21:21,730
+eine Hämologie
+
+575
+00:21:21,730 --> 00:21:23,730
+äh, im
+
+576
+00:21:23,730 --> 00:21:25,730
+äh
+
+577
+00:21:25,730 --> 00:21:27,730
+Gehirn
+
+578
+00:21:27,730 --> 00:21:29,730
+sind
+
+579
+00:21:29,730 --> 00:21:31,730
+ist
+
+580
+00:21:31,730 --> 00:21:33,730
+deswegen
+
+581
+00:21:33,730 --> 00:21:35,730
+wir sind eine
+
+582
+00:21:35,730 --> 00:21:37,730
+sofortige
+
+583
+00:21:37,730 --> 00:21:39,730
+Maßnahmen empfangen
+
+584
+00:21:39,730 --> 00:21:41,730
+okay, gut, das können wir so machen
+
+585
+00:21:41,730 --> 00:21:43,730
+prima, dann haben Sie jetzt etwas Zeit
+
+586
+00:21:43,730 --> 00:21:45,730
+äh
+
+587
+00:21:45,730 --> 00:21:47,730
+wir haben uns geeinigt so auf 10 Minuten
+
+588
+00:21:47,730 --> 00:21:49,730
+wenn Sie eher fertig sind, geht das eher
+
+589
+00:21:49,730 --> 00:21:51,730
+überlegen Sie sich die
+
+590
+00:21:51,730 --> 00:21:53,730
+Übersetzung der
+
+591
+00:21:53,730 --> 00:21:55,730
+Patientensprache in Fach
+
+592
+00:21:55,730 --> 00:21:57,730
+äh, medizinische Fachsprache
+
+593
+00:21:57,730 --> 00:21:59,730
+und wenn Kolleginnen und Kollegen
+
+594
+00:21:59,730 --> 00:22:01,730
+es sind ja jetzt doch noch viele
+
+595
+00:22:01,730 --> 00:22:03,730
+gekommen äh, Fragen haben
+
+596
+00:22:03,730 --> 00:22:05,730
+dann bitte ich Sie
+
+597
+00:22:05,730 --> 00:22:07,730
+diese Fragen zu stellen
+
+598
+00:22:07,730 --> 00:22:13,470
+ja
+
+599
+00:22:13,470 --> 00:22:15,470
+hat er Kopfschmerzen?
+
+600
+00:22:15,470 --> 00:22:17,470
+habe mir geflaggt
+
+601
+00:22:17,470 --> 00:22:19,470
+äh, wenn Sie das so sagen
+
+602
+00:22:19,470 --> 00:22:21,470
+hat er so in den letzten Tagen mal
+
+603
+00:22:21,470 --> 00:22:23,470
+über Kopfschmerzen geklagt
+
+604
+00:22:23,470 --> 00:22:25,470
+das kenne ich bei ihm gar nicht so
+
+605
+00:22:25,470 --> 00:22:27,470
+äh, normalerweise hat er nie
+
+606
+00:22:27,470 --> 00:22:29,470
+Kopfschmerzen, aber in den letzten Tagen
+
+607
+00:22:29,470 --> 00:22:31,470
+hat er mal so gesagt, ach ich hab so ein bisschen
+
+608
+00:22:31,470 --> 00:22:33,470
+Kopfschmerzen, und er hat gesagt, das ist
+
+609
+00:22:33,470 --> 00:22:35,470
+das Wetter, äh, es wird
+
+610
+00:22:35,470 --> 00:22:37,470
+jetzt so warm, es ist das Wetter
+
+611
+00:22:37,470 --> 00:22:39,470
+aber mehr haben wir jetzt nicht gemacht
+
+612
+00:22:39,470 --> 00:22:48,000
+hat er Taubheitsgefühl
+
+613
+00:22:48,000 --> 00:22:51,980
+oder äh, Grebel?
+
+614
+00:22:51,980 --> 00:22:53,980
+Nein, ist mir, nein
+
+615
+00:22:53,980 --> 00:22:57,260
+müsste man ihn vielleicht
+
+616
+00:22:57,260 --> 00:22:59,260
+nachher nochmal genau fragen
+
+617
+00:22:59,260 --> 00:23:01,260
+bei der körperlichen Untersuchung, aber soweit ich
+
+618
+00:23:01,260 --> 00:23:06,850
+weiß, nein
+
+619
+00:23:06,850 --> 00:23:08,850
+ich habe aber den Eindruck, wenn ich ihn jetzt
+
+620
+00:23:08,850 --> 00:23:10,850
+auch nur weltweit frage, dass er nicht
+
+621
+00:23:10,850 --> 00:23:12,850
+immer, äh, so
+
+622
+00:23:12,850 --> 00:23:14,850
+ganz richtig antwortet, er ist
+
+623
+00:23:14,850 --> 00:23:16,850
+manchmal etwas verwirrt
+
+624
+00:23:16,850 --> 00:23:25,440
+ja, hat er, hat
+
+625
+00:23:25,440 --> 00:23:27,440
+ich sage mal
+
+626
+00:23:27,440 --> 00:23:29,440
+verwirrt
+
+627
+00:23:29,440 --> 00:23:31,440
+verwirrt? Ja, ist etwas
+
+628
+00:23:31,440 --> 00:23:33,440
+verwirrt sagt man, glaube ich
+
+629
+00:23:33,440 --> 00:23:35,440
+aber das erst seit gestern
+
+630
+00:23:35,440 --> 00:23:37,440
+seit ungefähr zwölf Stunden
+
+631
+00:23:37,440 --> 00:23:41,840
+ja, ich stamm mich
+
+632
+00:23:41,840 --> 00:23:43,840
+Sie haben gesagt
+
+633
+00:23:43,840 --> 00:23:45,840
+dass
+
+634
+00:23:45,840 --> 00:23:47,840
+er, äh, er
+
+635
+00:23:47,840 --> 00:23:49,840
+erbrichen haben
+
+636
+00:23:49,840 --> 00:23:51,840
+ja, er hat zweimal
+
+637
+00:23:51,840 --> 00:23:53,840
+erbrochen, ja
+
+638
+00:23:53,840 --> 00:23:55,840
+plötzlich, äh, fangt
+
+639
+00:23:55,840 --> 00:23:57,840
+er an oder langsam?
+
+640
+00:23:57,840 --> 00:23:59,840
+Ja, er hat so
+
+641
+00:23:59,840 --> 00:24:01,840
+gesagt, mir ist übel
+
+642
+00:24:01,840 --> 00:24:03,840
+äh, äh, überübel
+
+643
+00:24:03,840 --> 00:24:05,840
+und dann hat er aber auch relativ schnell
+
+644
+00:24:05,840 --> 00:24:09,120
+erbrochen, ich habe mir das
+
+645
+00:24:09,120 --> 00:24:11,120
+angeschaut, das Erbrochene
+
+646
+00:24:11,120 --> 00:24:13,120
+das war so gelblich, schleimig
+
+647
+00:24:13,120 --> 00:24:15,120
+er hatte vorher, glaube ich, etwas gegessen
+
+648
+00:24:15,120 --> 00:24:17,120
+einen Apfel gegessen und ein
+
+649
+00:24:17,120 --> 00:24:19,120
+Stück Brot, ja, das waren
+
+650
+00:24:19,120 --> 00:24:21,120
+so Speisereste
+
+651
+00:24:21,120 --> 00:24:23,120
+die er dann erbrochen hat
+
+652
+00:24:23,120 --> 00:24:36,420
+Ja, warum, Kollegen, noch
+
+653
+00:24:36,420 --> 00:24:41,810
+an die Frage?
+
+654
+00:24:41,810 --> 00:24:43,810
+Augenblick, ist kein
+
+655
+00:24:43,810 --> 00:24:45,810
+Fragebedarf mehr, aber der Kollege
+
+656
+00:24:45,810 --> 00:24:47,810
+glaube ich noch am, am
+
+657
+00:24:47,810 --> 00:24:49,810
+Schreiben
+
+658
+00:24:49,810 --> 00:24:55,390
+das ist jetzt ja so
+
+659
+00:24:55,390 --> 00:24:57,390
+einer wenigen Fälle, die
+
+660
+00:24:57,390 --> 00:24:59,390
+wir sozusagen als Fremd an am Nese
+
+661
+00:24:59,390 --> 00:25:01,390
+ja, ja, aber
+
+662
+00:25:01,390 --> 00:25:03,390
+mir
+
+663
+00:25:03,390 --> 00:25:05,390
+eine Falle gibt es
+
+664
+00:25:05,390 --> 00:25:07,390
+Fremd an am Nese und deswegen
+
+665
+00:25:07,390 --> 00:25:09,390
+eine Schöne, ja, das ist
+
+666
+00:25:09,390 --> 00:25:11,390
+eine schöne, danke schön, vielen Dank
+
+667
+00:25:11,390 --> 00:25:13,390
+gerade bei
+
+668
+00:25:13,390 --> 00:25:15,390
+älteren Patienten
+
+669
+00:25:15,390 --> 00:25:17,390
+wird das immer häufiger
+
+670
+00:25:17,390 --> 00:25:19,390
+oder häufig vorkommen, dass
+
+671
+00:25:19,390 --> 00:25:21,390
+Patienten disorientiert sind
+
+672
+00:25:21,390 --> 00:25:23,390
+verwirrt sind, das
+
+673
+00:25:23,390 --> 00:25:25,390
+muss dann eine Fremd an am Nese
+
+674
+00:25:25,390 --> 00:25:27,390
+zum erstes bitten werden, ne
+
+675
+00:25:27,390 --> 00:25:29,390
+Entschuldigen
+
+676
+00:25:29,390 --> 00:25:31,390
+wie ist
+
+677
+00:25:31,390 --> 00:25:33,390
+hier man
+
+678
+00:25:33,390 --> 00:25:35,390
+alt
+
+679
+00:25:35,390 --> 00:25:37,390
+ja
+
+680
+00:25:37,390 --> 00:25:39,390
+wie alt er ist, er ist 62
+
+681
+00:25:39,390 --> 00:25:41,390
+Jahre alt, 62
+
+682
+00:25:41,390 --> 00:25:43,390
+62 Jahre, ja
+
+683
+00:25:43,390 --> 00:25:45,390
+geboren am 24.
+
+684
+00:25:45,390 --> 00:25:47,390
+März
+
+685
+00:25:47,390 --> 00:25:49,390
+1963, er hatte
+
+686
+00:25:49,390 --> 00:25:51,390
+jetzt gerade Geburtstag
+
+687
+00:25:51,390 --> 00:25:56,560
+ja
+
+688
+00:25:56,560 --> 00:25:58,560
+hat er letzte Woche ausbüllen
+
+689
+00:25:58,560 --> 00:26:00,560
+genommen oder
+
+690
+00:26:00,560 --> 00:26:02,560
+andere Medikamente letzte Woche
+
+691
+00:26:02,560 --> 00:26:04,560
+nein, mein Mann nimmt sonst keine
+
+692
+00:26:04,560 --> 00:26:06,560
+Medikamente, der ist, der nimmt nur
+
+693
+00:26:06,560 --> 00:26:08,560
+die Blutobmittel und dieses Mittel
+
+694
+00:26:08,560 --> 00:26:10,560
+für die Blutgerinnung
+
+695
+00:26:10,560 --> 00:26:12,560
+aber
+
+696
+00:26:12,560 --> 00:26:14,560
+andere Mittel und Schmerzmittel und so
+
+697
+00:26:14,560 --> 00:26:16,560
+nimmt man nicht, da ist er ganz
+
+698
+00:26:16,560 --> 00:26:18,560
+nein, da ist
+
+699
+00:26:18,560 --> 00:26:20,560
+er ganz geizig, das will er nicht
+
+700
+00:26:22,060 --> 00:26:24,060
+und hier hat man regelmäßig
+
+701
+00:26:24,060 --> 00:26:26,060
+Hausarzt oder Kardiologische Kontrolle
+
+702
+00:26:26,060 --> 00:26:28,060
+gehabt? Ja, ja, ja
+
+703
+00:26:28,060 --> 00:26:30,060
+er muss wegen dem
+
+704
+00:26:30,060 --> 00:26:32,060
+Herzen, geht er so
+
+705
+00:26:32,060 --> 00:26:34,060
+einmal im Jahr zum Kardiologen
+
+706
+00:26:34,060 --> 00:26:36,060
+und
+
+707
+00:26:36,060 --> 00:26:38,060
+war da die letzte Kontrolle, war
+
+708
+00:26:38,060 --> 00:26:40,060
+der Kardiolog so weit zufrieden
+
+709
+00:26:40,060 --> 00:26:42,060
+aber er muss eben
+
+710
+00:26:42,060 --> 00:26:44,060
+regelmäßig diese Medikamente nehmen
+
+711
+00:26:44,060 --> 00:26:48,660
+okay
+
+712
+00:26:48,660 --> 00:26:52,060
+Aktaika, können wir
+
+713
+00:26:52,060 --> 00:26:54,060
+anfangen?
+
+714
+00:26:54,060 --> 00:26:56,060
+Ein bisschen Zeit brauche ich
+
+715
+00:26:56,060 --> 00:26:58,060
+okay
+
+716
+00:26:58,060 --> 00:27:01,470
+das ist ja auch in Ordnung
+
+717
+00:27:01,470 --> 00:27:03,470
+in der Prüfung
+
+718
+00:27:03,470 --> 00:27:05,470
+haben Sie etwas mehr Zeit
+
+719
+00:27:05,470 --> 00:27:07,470
+sich vorzubereiten?
+
+720
+00:27:07,470 --> 00:27:09,470
+20 Minuten
+
+721
+00:27:09,470 --> 00:27:11,470
+bei der nächsten Woche
+
+722
+00:27:11,470 --> 00:27:17,920
+ist denn da
+
+723
+00:27:17,920 --> 00:27:19,920
+noch Ramadan
+
+724
+00:27:19,920 --> 00:27:21,920
+nächste Woche? Nein,
+
+725
+00:27:21,920 --> 00:27:23,920
+Ramadan am Ende
+
+726
+00:27:23,920 --> 00:27:25,920
+Samstag
+
+727
+00:27:25,920 --> 00:27:27,920
+Sonntag
+
+728
+00:27:27,920 --> 00:27:29,920
+Sonntag, Sonntag, Samstag
+
+729
+00:27:29,920 --> 00:27:31,920
+am Ende
+
+730
+00:27:31,920 --> 00:27:33,920
+also Monatsende sozusagen
+
+731
+00:27:33,920 --> 00:27:35,920
+okay
+
+732
+00:27:35,920 --> 00:27:37,920
+Sonntag können wir
+
+733
+00:27:37,920 --> 00:27:39,920
+alles essen
+
+734
+00:27:39,920 --> 00:27:41,920
+okay, gut
+
+735
+00:27:41,920 --> 00:27:43,920
+wissen Sie schon, was Sie essen?
+
+736
+00:27:43,920 --> 00:27:45,920
+alles
+
+737
+00:27:45,920 --> 00:27:47,920
+alles
+
+738
+00:27:47,920 --> 00:27:49,920
+alles, gut
+
+739
+00:27:49,920 --> 00:27:55,760
+so
+
+740
+00:27:55,760 --> 00:27:59,170
+ja
+
+741
+00:27:59,170 --> 00:28:01,170
+okay
+
+742
+00:28:01,170 --> 00:28:03,170
+können wir starten?
+
+743
+00:28:03,170 --> 00:28:05,170
+genau
+
+744
+00:28:05,170 --> 00:28:09,660
+bitte schön
+
+745
+00:28:09,660 --> 00:28:11,660
+ich bin jetzt ja Oberarzt
+
+746
+00:28:11,660 --> 00:28:13,660
+ja Oberarzt
+
+747
+00:28:13,660 --> 00:28:15,660
+ich würde Ihnen
+
+748
+00:28:15,660 --> 00:28:17,660
+gerne einen Patienten vorstellen
+
+749
+00:28:17,660 --> 00:28:19,660
+denn ich gerade eben
+
+750
+00:28:19,660 --> 00:28:21,660
+in der Notauchnämie gesehen habe
+
+751
+00:28:21,660 --> 00:28:23,660
+können Sie
+
+752
+00:28:23,660 --> 00:28:25,660
+kurz Zeit? Ja, habe ich
+
+753
+00:28:25,660 --> 00:28:27,660
+haben Sie
+
+754
+00:28:27,660 --> 00:28:29,660
+Herr Peter Spingermann
+
+755
+00:28:29,660 --> 00:28:31,660
+Herr Peter Spingermann
+
+756
+00:28:31,660 --> 00:28:33,660
+Herr Peter Spingermann
+
+757
+00:28:33,660 --> 00:28:35,660
+62 Jahre alt
+
+758
+00:28:35,660 --> 00:28:37,660
+1,84 cm
+
+759
+00:28:37,660 --> 00:28:39,660
+groß
+
+760
+00:28:39,660 --> 00:28:41,660
+und 19 kg schwer
+
+761
+00:28:41,660 --> 00:28:43,660
+der Patient
+
+762
+00:28:43,660 --> 00:28:45,660
+stellt sich bei uns
+
+763
+00:28:45,660 --> 00:28:47,660
+vor Aufgrund seit
+
+764
+00:28:47,660 --> 00:28:49,660
+12 Stunden
+
+765
+00:28:49,660 --> 00:28:51,660
+langsam
+
+766
+00:28:51,660 --> 00:28:53,660
+aufgetretenen
+
+767
+00:28:53,660 --> 00:28:55,660
+unruhig
+
+768
+00:28:55,660 --> 00:28:57,660
+und unruhig
+
+769
+00:28:57,660 --> 00:28:59,660
+und unruhig
+
+770
+00:28:59,660 --> 00:29:01,660
+unruhig
+
+771
+00:29:01,660 --> 00:29:03,660
+schlaftig
+
+772
+00:29:03,660 --> 00:29:05,660
+aggressiv
+
+773
+00:29:05,660 --> 00:29:09,170
+sagen Sie vielleicht
+
+774
+00:29:09,170 --> 00:29:11,170
+der Patient kommt
+
+775
+00:29:11,170 --> 00:29:13,170
+in Begleitung der Ehefrau
+
+776
+00:29:13,170 --> 00:29:15,170
+genau
+
+777
+00:29:15,170 --> 00:29:17,170
+und die
+
+778
+00:29:17,170 --> 00:29:19,170
+Anamnese wird
+
+779
+00:29:19,170 --> 00:29:21,170
+über die Ehefrau erhoben
+
+780
+00:29:21,170 --> 00:29:23,170
+das sollten Sie
+
+781
+00:29:23,170 --> 00:29:25,170
+zu Anfang sagen
+
+782
+00:29:25,170 --> 00:29:27,170
+weil der Patient berichtet
+
+783
+00:29:27,170 --> 00:29:29,170
+ja nicht selber
+
+784
+00:29:29,170 --> 00:29:31,170
+der Patient kann wahrscheinlich nicht adäquat antworten
+
+785
+00:29:31,170 --> 00:29:33,170
+sondern die Ehefrau
+
+786
+00:29:33,170 --> 00:29:35,170
+wird befragt
+
+787
+00:29:35,170 --> 00:29:37,170
+zur
+
+788
+00:29:37,170 --> 00:29:39,170
+Vorgeschichte des Mannes
+
+789
+00:29:39,170 --> 00:29:41,170
+ja
+
+790
+00:29:41,170 --> 00:29:43,170
+der Patient
+
+791
+00:29:43,170 --> 00:29:45,170
+begleitend
+
+792
+00:29:45,170 --> 00:29:47,170
+ihre Frau
+
+793
+00:29:47,170 --> 00:29:49,170
+und ich
+
+794
+00:29:49,170 --> 00:29:51,170
+frage
+
+795
+00:29:51,170 --> 00:29:53,170
+meine Fragen
+
+796
+00:29:53,170 --> 00:29:55,170
+ihre
+
+797
+00:29:55,170 --> 00:29:57,170
+Ehefrau
+
+798
+00:29:57,170 --> 00:29:59,170
+ich habe
+
+799
+00:29:59,170 --> 00:30:01,170
+die Anamnese
+
+800
+00:30:01,170 --> 00:30:03,170
+mit Hilfe
+
+801
+00:30:03,170 --> 00:30:05,170
+der Ehefrau
+
+802
+00:30:05,170 --> 00:30:07,170
+erstellt
+
+803
+00:30:07,170 --> 00:30:09,170
+genau
+
+804
+00:30:09,170 --> 00:30:16,160
+Sie haben kurz berichtet
+
+805
+00:30:16,160 --> 00:30:18,160
+seit 12 Stunden
+
+806
+00:30:18,160 --> 00:30:20,160
+hat der Patient
+
+807
+00:30:20,160 --> 00:30:22,160
+eine Symptomatik
+
+808
+00:30:22,160 --> 00:30:24,160
+woraus besteht die Symptomatik
+
+809
+00:30:24,160 --> 00:30:26,160
+Was hat er für Symptome
+
+810
+00:30:26,160 --> 00:30:28,160
+die Symptome
+
+811
+00:30:28,160 --> 00:30:30,160
+in
+
+812
+00:30:30,160 --> 00:30:32,160
+unruhig
+
+813
+00:30:32,160 --> 00:30:34,160
+schlaftig
+
+814
+00:30:34,160 --> 00:30:36,160
+aggressiv
+
+815
+00:30:36,160 --> 00:30:38,160
+man kann sagen
+
+816
+00:30:38,160 --> 00:30:40,160
+agitiert
+
+817
+00:30:40,160 --> 00:30:42,160
+agitiert
+
+818
+00:30:42,160 --> 00:30:44,160
+es teilweise
+
+819
+00:30:44,160 --> 00:30:46,160
+vielleicht
+
+820
+00:30:46,160 --> 00:30:48,160
+subnulent
+
+821
+00:30:48,160 --> 00:30:50,160
+ja
+
+822
+00:30:50,160 --> 00:30:52,160
+das kann man vielleicht sagen
+
+823
+00:30:52,160 --> 00:30:54,160
+und das Ganze seit 12 Stunden
+
+824
+00:30:54,160 --> 00:30:56,160
+Konklusion
+
+825
+00:30:56,160 --> 00:30:58,160
+und in den Tagen vorher
+
+826
+00:30:58,160 --> 00:31:00,160
+war der Patient da irgendwie auffällig
+
+827
+00:31:00,160 --> 00:31:02,160
+oder ist das jetzt sehr plötzlich
+
+828
+00:31:02,160 --> 00:31:04,160
+gekommen
+
+829
+00:31:04,160 --> 00:31:06,160
+diese Entwicklung
+
+830
+00:31:06,160 --> 00:31:08,160
+die Beschwerden
+
+831
+00:31:08,160 --> 00:31:10,160
+sind
+
+832
+00:31:10,160 --> 00:31:12,160
+langsam aufgetreten
+
+833
+00:31:12,160 --> 00:31:14,160
+langsam aufgetreten
+
+834
+00:31:16,160 --> 00:31:18,160
+und mit der Zeit
+
+835
+00:31:18,160 --> 00:31:20,160
+verschlimmet geworden
+
+836
+00:31:20,160 --> 00:31:22,160
+gibt es noch
+
+837
+00:31:22,160 --> 00:31:24,160
+andere Symptome bei dem Patienten
+
+838
+00:31:24,160 --> 00:31:26,160
+ja genau
+
+839
+00:31:26,160 --> 00:31:28,160
+andere Symptome
+
+840
+00:31:28,160 --> 00:31:30,160
+die der Patient hat
+
+841
+00:31:30,160 --> 00:31:32,160
+über
+
+842
+00:31:32,160 --> 00:31:34,160
+Übelkeit
+
+843
+00:31:34,160 --> 00:31:36,160
+und
+
+844
+00:31:36,160 --> 00:31:38,160
+2 Mal Emesis
+
+845
+00:31:38,160 --> 00:31:41,500
+und
+
+846
+00:31:41,500 --> 00:31:43,500
+Nausea
+
+847
+00:31:43,500 --> 00:31:45,500
+Nausea und 2 Malemesis
+
+848
+00:31:45,500 --> 00:31:47,500
+Können Sie das
+
+849
+00:31:47,500 --> 00:31:49,500
+Erbrochene, haben Sie das
+
+850
+00:31:49,500 --> 00:31:51,500
+erfragt, wie das Erbrochene
+
+851
+00:31:51,500 --> 00:31:53,500
+aussieht
+
+852
+00:31:53,500 --> 00:31:55,500
+Entschuldigung
+
+853
+00:31:55,500 --> 00:31:57,500
+ich
+
+854
+00:31:57,500 --> 00:31:59,500
+diese Frage nicht fragen
+
+855
+00:31:59,500 --> 00:32:01,500
+Ja gut, die Frau hat kurz berichtet
+
+856
+00:32:01,500 --> 00:32:03,500
+es war
+
+857
+00:32:03,500 --> 00:32:05,500
+wohl etwas Speisereste
+
+858
+00:32:05,500 --> 00:32:07,500
+Brot
+
+859
+00:32:07,500 --> 00:32:09,500
+und etwas Apfel, was er vorher gegessen hatte
+
+860
+00:32:09,500 --> 00:32:11,500
+kein Blut, keine Blutbecken
+
+861
+00:32:11,500 --> 00:32:13,500
+Essenwäßchen
+
+862
+00:32:13,500 --> 00:32:15,500
+Okay, gibt es sonstige Symptome
+
+863
+00:32:15,500 --> 00:32:17,500
+sonstige Symptome
+
+864
+00:32:17,500 --> 00:32:19,500
+ich
+
+865
+00:32:19,500 --> 00:32:21,500
+frage
+
+866
+00:32:21,500 --> 00:32:23,500
+eher
+
+867
+00:32:23,500 --> 00:32:25,500
+haben Sie
+
+868
+00:32:25,500 --> 00:32:27,500
+bemerkt
+
+869
+00:32:27,500 --> 00:32:29,500
+einige Aussprache
+
+870
+00:32:29,500 --> 00:32:31,500
+für die Beschwerden
+
+871
+00:32:31,500 --> 00:32:33,500
+und sie
+
+872
+00:32:33,500 --> 00:32:35,500
+sagte das
+
+873
+00:32:35,500 --> 00:32:37,500
+sie sagte das
+
+874
+00:32:37,500 --> 00:32:39,500
+mein
+
+875
+00:32:39,500 --> 00:32:41,500
+Ihren
+
+876
+00:32:41,500 --> 00:32:43,500
+Ihren Ehemann
+
+877
+00:32:43,500 --> 00:32:45,500
+ja
+
+878
+00:32:45,500 --> 00:32:47,500
+3 Wochen
+
+879
+00:32:47,500 --> 00:32:49,500
+Fahrrad
+
+880
+00:32:49,500 --> 00:32:51,500
+Fahrrad gestürzt
+
+881
+00:32:51,500 --> 00:32:53,500
+er hatte einen Sturz
+
+882
+00:32:53,500 --> 00:32:55,500
+mit dem Fahrrad
+
+883
+00:32:55,500 --> 00:32:57,500
+mit dem Fahrrad
+
+884
+00:32:57,500 --> 00:32:59,500
+und
+
+885
+00:32:59,500 --> 00:33:01,500
+jeden Tag
+
+886
+00:33:01,500 --> 00:33:03,500
+Ihren Mann
+
+887
+00:33:03,500 --> 00:33:05,500
+Radfahren
+
+888
+00:33:05,500 --> 00:33:07,500
+Allerweils fährt er jeden Tag
+
+889
+00:33:07,500 --> 00:33:09,500
+mit dem Fahrrad, ja
+
+890
+00:33:09,500 --> 00:33:11,500
+und heute
+
+891
+00:33:11,500 --> 00:33:13,500
+gegen diese Beschwerden
+
+892
+00:33:13,500 --> 00:33:15,500
+nicht Radfahren
+
+893
+00:33:15,500 --> 00:33:17,500
+ja, er ist unsicher
+
+894
+00:33:17,500 --> 00:33:19,500
+unsicher
+
+895
+00:33:19,500 --> 00:33:21,500
+hat der Patient sonst noch Auffälligkeiten
+
+896
+00:33:21,500 --> 00:33:23,500
+kann er gut gehen
+
+897
+00:33:23,500 --> 00:33:25,500
+ist er sicher
+
+898
+00:33:25,500 --> 00:33:27,500
+in Gehen
+
+899
+00:33:27,500 --> 00:33:29,500
+ist er gestürzt
+
+900
+00:33:29,500 --> 00:33:31,500
+in letzter Zeit
+
+901
+00:33:31,500 --> 00:33:33,500
+ja
+
+902
+00:33:33,500 --> 00:33:35,500
+vor 12
+
+903
+00:33:35,500 --> 00:33:37,500
+Stunden
+
+904
+00:33:37,500 --> 00:33:39,500
+in der Nacht
+
+905
+00:33:39,500 --> 00:33:41,500
+ist er auf dem Weg
+
+906
+00:33:41,500 --> 00:33:43,500
+zur Toilette gestürzt
+
+907
+00:33:43,500 --> 00:33:45,500
+gestürzt
+
+908
+00:33:45,500 --> 00:33:47,500
+und
+
+909
+00:33:47,500 --> 00:33:49,500
+der Patient
+
+910
+00:33:49,500 --> 00:33:51,500
+der Patient
+
+911
+00:33:51,500 --> 00:33:53,500
+nimmt
+
+912
+00:33:53,500 --> 00:33:55,500
+regelmäßig
+
+913
+00:33:55,500 --> 00:33:57,500
+Blutgerinnung
+
+914
+00:33:57,500 --> 00:33:59,500
+ein
+
+915
+00:33:59,500 --> 00:34:01,500
+er
+
+916
+00:34:01,500 --> 00:34:03,500
+Name Lixiana
+
+917
+00:34:03,500 --> 00:34:05,500
+60 Milligramm
+
+918
+00:34:05,500 --> 00:34:07,500
+ja, Lixiana
+
+919
+00:34:07,500 --> 00:34:09,500
+60 Milligramm, warum
+
+920
+00:34:09,500 --> 00:34:11,500
+nimmt er Lixiana ein
+
+921
+00:34:11,500 --> 00:34:13,500
+äh
+
+922
+00:34:13,500 --> 00:34:15,500
+äh
+
+923
+00:34:15,500 --> 00:34:17,500
+er
+
+924
+00:34:17,500 --> 00:34:19,500
+er nimmt
+
+925
+00:34:19,500 --> 00:34:21,500
+Lixiana gegen
+
+926
+00:34:21,500 --> 00:34:23,500
+Adrenalfibrillation ein
+
+927
+00:34:23,500 --> 00:34:25,500
+ja, oder gegen
+
+928
+00:34:25,500 --> 00:34:27,500
+Herzrhythmusstörungen
+
+929
+00:34:27,500 --> 00:34:29,500
+eher Frau berichtet
+
+930
+00:34:29,500 --> 00:34:31,500
+dass der Mann
+
+931
+00:34:31,500 --> 00:34:33,500
+Lixiana einnehmen muss wegen seiner Herzrhythmusstörungen
+
+932
+00:34:33,500 --> 00:34:35,500
+gibt es dazu
+
+933
+00:34:35,500 --> 00:34:37,500
+noch eine Vorgeschichte
+
+934
+00:34:37,500 --> 00:34:39,500
+können Sie dazu noch etwas sagen
+
+935
+00:34:39,500 --> 00:34:41,500
+äh
+
+936
+00:34:41,500 --> 00:34:43,500
+seit wann sind die Herzrhythmusstörungen
+
+937
+00:34:43,500 --> 00:34:45,500
+und sind die versucht worden anders
+
+938
+00:34:45,500 --> 00:34:47,500
+zu behandeln
+
+939
+00:34:47,500 --> 00:34:49,500
+äh
+
+940
+00:34:49,500 --> 00:34:52,750
+äh
+
+941
+00:34:52,750 --> 00:34:54,750
+ich verges
+
+942
+00:34:54,750 --> 00:34:56,750
+und nicht
+
+943
+00:34:56,750 --> 00:34:58,750
+genotisiert
+
+944
+00:34:58,750 --> 00:35:00,750
+also der Patient hat seit 5 Jahren
+
+945
+00:35:00,750 --> 00:35:02,750
+Herzrhythmusstörungen
+
+946
+00:35:02,750 --> 00:35:04,750
+die Patientin kann nicht genau die Diagnose
+
+947
+00:35:04,750 --> 00:35:06,750
+sagen, wie das heißt
+
+948
+00:35:06,750 --> 00:35:08,750
+und es ist aber
+
+949
+00:35:08,750 --> 00:35:10,750
+vor 3 Jahren oder 4 Jahren sagt sie
+
+950
+00:35:10,750 --> 00:35:12,750
+ein Herzkatheter gemacht
+
+951
+00:35:12,750 --> 00:35:14,750
+und da hat man versucht
+
+952
+00:35:14,750 --> 00:35:16,750
+diese Herzrhythmusstörungen
+
+953
+00:35:16,750 --> 00:35:18,750
+zu behandeln
+
+954
+00:35:18,750 --> 00:35:20,750
+wahrscheinlich war es eine Katheter-Aplation
+
+955
+00:35:20,750 --> 00:35:22,750
+ja
+
+956
+00:35:22,750 --> 00:35:24,750
+wahrscheinlich eine Applation
+
+957
+00:35:24,750 --> 00:35:26,750
+die aber wohl nichts erfolgreich war
+
+958
+00:35:26,750 --> 00:35:28,750
+äh so sagt die Frau
+
+959
+00:35:28,750 --> 00:35:30,750
+also er hat weiterhin seine Herzrhythmusstörungen
+
+960
+00:35:30,750 --> 00:35:32,750
+und er nimmt
+
+961
+00:35:32,750 --> 00:35:34,750
+Lixiana 60 ein
+
+962
+00:35:34,750 --> 00:35:36,750
+okay
+
+963
+00:35:36,750 --> 00:35:38,750
+nimmt er sonst noch Tabletten ein
+
+964
+00:35:38,750 --> 00:35:40,750
+wegen anderer chronischer Erkrankungen
+
+965
+00:35:40,750 --> 00:35:42,750
+äh
+
+966
+00:35:42,750 --> 00:35:44,750
+er habe äh Artriol Hippatoni
+
+967
+00:35:44,750 --> 00:35:46,750
+seit 10 Jahren
+
+968
+00:35:46,750 --> 00:35:48,750
+äh
+
+969
+00:35:48,750 --> 00:35:50,750
+mit äh
+
+970
+00:35:50,750 --> 00:35:52,750
+Ramipril Morgen und Abend
+
+971
+00:35:52,750 --> 00:35:54,750
+äh
+
+972
+00:35:54,750 --> 00:35:56,750
+behandelt
+
+973
+00:35:56,750 --> 00:35:58,750
+ja, welche Stärke?
+
+974
+00:35:58,750 --> 00:36:00,750
+5 Milligramm
+
+975
+00:36:00,750 --> 00:36:02,750
+5 Milligramm, ja, und noch andere Tabletten
+
+976
+00:36:02,750 --> 00:36:04,750
+und Wiso Prool
+
+977
+00:36:04,750 --> 00:36:06,750
+5 Milligramm
+
+978
+00:36:06,750 --> 00:36:08,750
+morgens und abends
+
+979
+00:36:08,750 --> 00:36:10,750
+okay, gut
+
+980
+00:36:10,750 --> 00:36:12,750
+ja, ist der Patient schon mal
+
+981
+00:36:12,750 --> 00:36:14,750
+operiert worden?
+
+982
+00:36:14,750 --> 00:36:16,750
+ja, äh
+
+983
+00:36:16,750 --> 00:36:18,750
+der Patient als Kind
+
+984
+00:36:18,750 --> 00:36:20,750
+äh
+
+985
+00:36:20,750 --> 00:36:22,750
+bei dem Patient sei als Kind
+
+986
+00:36:22,750 --> 00:36:24,750
+äh Appendectomie
+
+987
+00:36:24,750 --> 00:36:26,750
+und äh
+
+988
+00:36:26,750 --> 00:36:28,750
+Konzillectomie
+
+989
+00:36:28,750 --> 00:36:30,750
+äh durchgeführt worden
+
+990
+00:36:30,750 --> 00:36:32,750
+genau, ja, gut
+
+991
+00:36:32,750 --> 00:36:34,750
+bringen wir ab
+
+992
+00:36:34,750 --> 00:36:36,750
+äh und ähm
+
+993
+00:36:36,750 --> 00:36:38,750
+Noxen
+
+994
+00:36:38,750 --> 00:36:40,750
+äh
+
+995
+00:36:40,750 --> 00:36:42,750
+Rauchen und
+
+996
+00:36:42,750 --> 00:36:44,750
+Drogenkonsum wurden verneint
+
+997
+00:36:44,750 --> 00:36:46,750
+äh
+
+998
+00:36:46,750 --> 00:36:48,750
+Trinke, gelegentlich
+
+999
+00:36:48,750 --> 00:36:50,750
+äh Bier
+
+1000
+00:36:50,750 --> 00:36:52,750
+äh
+
+1001
+00:36:52,750 --> 00:36:54,750
+Trinke, ein Flasche Bier
+
+1002
+00:36:54,750 --> 00:36:56,750
+gelegentlich Provohe
+
+1003
+00:36:56,750 --> 00:36:58,750
+okay, also ein
+
+1004
+00:36:58,750 --> 00:37:00,750
+äh ein mäßiger Alkoholkonsum
+
+1005
+00:37:00,750 --> 00:37:02,750
+ja, gut
+
+1006
+00:37:02,750 --> 00:37:04,750
+ich wiederhole einmal kurz, was ich mir gesagt haben
+
+1007
+00:37:04,750 --> 00:37:06,750
+also, der Herr Spengermann
+
+1008
+00:37:06,750 --> 00:37:08,750
+der kommt in die Ambulanz
+
+1009
+00:37:08,750 --> 00:37:10,750
+in Begleitung seiner Ehefrau
+
+1010
+00:37:10,750 --> 00:37:12,750
+die Ehefrau berichtet, dass der Patient
+
+1011
+00:37:12,750 --> 00:37:14,750
+seit 12 Stunden auffallend
+
+1012
+00:37:14,750 --> 00:37:16,750
+verändert ist
+
+1013
+00:37:16,750 --> 00:37:18,750
+äh er sei agitiert
+
+1014
+00:37:18,750 --> 00:37:20,750
+er sei teilweise sogar etwas
+
+1015
+00:37:20,750 --> 00:37:22,750
+aggressiv, dann wieder
+
+1016
+00:37:22,750 --> 00:37:24,750
+äh Somnolent
+
+1017
+00:37:24,750 --> 00:37:26,750
+und desorientiert
+
+1018
+00:37:26,750 --> 00:37:28,750
+er kann äh nicht adäquat
+
+1019
+00:37:28,750 --> 00:37:30,750
+antworten auf bestimmte Fragen
+
+1020
+00:37:30,750 --> 00:37:32,750
+äh
+
+1021
+00:37:32,750 --> 00:37:34,750
+unsicher im Gehen, sein Gangbild ist unsicher
+
+1022
+00:37:34,750 --> 00:37:36,750
+er ist in der Nacht
+
+1023
+00:37:36,750 --> 00:37:38,750
+auf dem Weg zur Toilette gestürzt
+
+1024
+00:37:38,750 --> 00:37:40,750
+äh und
+
+1025
+00:37:40,750 --> 00:37:42,750
+er hat äh
+
+1026
+00:37:42,750 --> 00:37:44,750
+Nausea und zweimalige Emesis
+
+1027
+00:37:44,750 --> 00:37:46,750
+äh das Erbrochen
+
+1028
+00:37:46,750 --> 00:37:48,750
+äh ist unauffällig, sind Speisereste
+
+1029
+00:37:48,750 --> 00:37:50,750
+kein Blut
+
+1030
+00:37:50,750 --> 00:37:52,750
+und äh
+
+1031
+00:37:52,750 --> 00:37:54,750
+der Patient ist sonst sehr aktiv
+
+1032
+00:37:54,750 --> 00:37:56,750
+er fährt regelmäßig mit dem Fahrrad
+
+1033
+00:37:56,750 --> 00:37:58,750
+äh das macht er jetzt seit
+
+1034
+00:37:58,750 --> 00:38:00,750
+dieser Zeit nicht mehr
+
+1035
+00:38:00,750 --> 00:38:02,750
+äh in der Vorgeschichte ist erwähnenswert
+
+1036
+00:38:02,750 --> 00:38:04,750
+dass die Frau sagt vor 3 Wochen
+
+1037
+00:38:04,750 --> 00:38:06,750
+sei der Patient mit dem Fahrrad gestürzt
+
+1038
+00:38:06,750 --> 00:38:08,750
+ohne
+
+1039
+00:38:08,750 --> 00:38:10,750
+weitere Zeugen, aber er berichtet das
+
+1040
+00:38:10,750 --> 00:38:12,750
+und er habe sich
+
+1041
+00:38:12,750 --> 00:38:14,750
+äh äh am Kopf
+
+1042
+00:38:14,750 --> 00:38:16,750
+gestoßen, hatte eine kleine
+
+1043
+00:38:16,750 --> 00:38:18,750
+Kopfplatzwunde, die aber
+
+1044
+00:38:18,750 --> 00:38:20,750
+verheilt ist
+
+1045
+00:38:20,750 --> 00:38:22,750
+und äh ja
+
+1046
+00:38:22,750 --> 00:38:24,750
+er nimmt Tabletten ein
+
+1047
+00:38:24,750 --> 00:38:26,750
+äh ging seine Artigale Hypertonie
+
+1048
+00:38:26,750 --> 00:38:28,750
+Ramieprin 5, Bisoprol 5
+
+1049
+00:38:28,750 --> 00:38:30,750
+jeweils 2 mal eine, er nimmt
+
+1050
+00:38:30,750 --> 00:38:32,750
+Lixianer 60, ein
+
+1051
+00:38:32,750 --> 00:38:34,750
+einmal eine, weil er wohl
+
+1052
+00:38:34,750 --> 00:38:36,750
+wahrscheinlich ein
+
+1053
+00:38:36,750 --> 00:38:38,750
+persistierendes Vorhofflemmern hat
+
+1054
+00:38:38,750 --> 00:38:40,750
+äh es wurde eine äh
+
+1055
+00:38:40,750 --> 00:38:42,750
+Katheter-Aplation versucht, die aber
+
+1056
+00:38:42,750 --> 00:38:44,750
+wohl nicht erfolgreich war
+
+1057
+00:38:44,750 --> 00:38:46,750
+gut, ähm
+
+1058
+00:38:46,750 --> 00:38:48,750
+ja, gibt es Auffälligkeiten
+
+1059
+00:38:48,750 --> 00:38:50,750
+in der Familienvorgeschichte
+
+1060
+00:38:50,750 --> 00:38:52,750
+äh ja
+
+1061
+00:38:52,750 --> 00:38:54,750
+ihre Mutter
+
+1062
+00:38:54,750 --> 00:38:56,750
+haaa
+
+1063
+00:38:56,750 --> 00:38:58,750
+seine Mutter
+
+1064
+00:38:58,750 --> 00:39:00,750
+äh äh äh
+
+1065
+00:39:00,750 --> 00:39:02,750
+84 Jahre
+
+1066
+00:39:02,750 --> 00:39:04,750
+alt
+
+1067
+00:39:04,750 --> 00:39:06,750
+noch lebt
+
+1068
+00:39:06,750 --> 00:39:08,750
+vor 20 Jahren
+
+1069
+00:39:08,750 --> 00:39:10,750
+äh Mama Karzinom
+
+1070
+00:39:10,750 --> 00:39:12,750
+äh erlte
+
+1071
+00:39:12,750 --> 00:39:14,750
+ja
+
+1072
+00:39:14,750 --> 00:39:16,750
+äh und gut Behandlung
+
+1073
+00:39:16,750 --> 00:39:18,750
+ja
+
+1074
+00:39:18,750 --> 00:39:20,750
+äh äh vor
+
+1075
+00:39:20,750 --> 00:39:22,750
+10 Jahren
+
+1076
+00:39:22,750 --> 00:39:24,750
+äh
+
+1077
+00:39:24,750 --> 00:39:26,750
+vorfall
+
+1078
+00:39:26,750 --> 00:39:28,750
+ja
+
+1079
+00:39:28,750 --> 00:39:30,750
+versuchen Sie mal
+
+1080
+00:39:30,750 --> 00:39:32,750
+das medizinische
+
+1081
+00:39:32,750 --> 00:39:34,750
+kennt jemand von den Kollegen den Begriff
+
+1082
+00:39:34,750 --> 00:39:36,750
+Bandscheidenvorfall medizinisch
+
+1083
+00:39:36,750 --> 00:39:38,750
+Croisband Riptur
+
+1084
+00:39:38,750 --> 00:39:40,750
+ja
+
+1085
+00:39:40,750 --> 00:39:42,750
+meniskopati
+
+1086
+00:39:42,750 --> 00:39:44,750
+meniskopati
+
+1087
+00:39:44,750 --> 00:39:46,750
+ist mehr am Knie, meniscus
+
+1088
+00:39:46,750 --> 00:39:48,750
+sagen Sie ruhig Discus
+
+1089
+00:39:48,750 --> 00:39:50,750
+Discus Prolaps
+
+1090
+00:39:50,750 --> 00:39:52,750
+ja, Discus Prolaps
+
+1091
+00:39:52,750 --> 00:39:54,750
+wahrscheinlich wurde äh die Mutter
+
+1092
+00:39:54,750 --> 00:39:56,750
+vor 10 Jahren wegen eines Discus Prolaps
+
+1093
+00:39:56,750 --> 00:39:58,750
+operiert im Bereich der
+
+1094
+00:39:58,750 --> 00:40:00,750
+Lendenwirbelsäule, gibt und der Vater
+
+1095
+00:40:00,750 --> 00:40:02,750
+lebt der Vater noch?
+
+1096
+00:40:02,750 --> 00:40:04,750
+und Vater äh äh
+
+1097
+00:40:04,750 --> 00:40:06,750
+86 Jahre
+
+1098
+00:40:06,750 --> 00:40:08,750
+Jahre alt
+
+1099
+00:40:08,750 --> 00:40:10,750
+hat arteriales
+
+1100
+00:40:10,750 --> 00:40:12,750
+Hypertony
+
+1101
+00:40:12,750 --> 00:40:14,750
+ja
+
+1102
+00:40:14,750 --> 00:40:16,750
+und äh
+
+1103
+00:40:16,750 --> 00:40:18,750
+an äh
+
+1104
+00:40:18,750 --> 00:40:20,750
+coxarthrosa leide
+
+1105
+00:40:20,750 --> 00:40:22,750
+eine schwere coxarthrose ja
+
+1106
+00:40:22,750 --> 00:40:24,750
+okay, gut
+
+1107
+00:40:24,750 --> 00:40:26,750
+ja, das ist ja schon
+
+1108
+00:40:26,750 --> 00:40:28,750
+in Ordnung, gut
+
+1109
+00:40:28,750 --> 00:40:30,750
+ähm
+
+1110
+00:40:30,750 --> 00:40:32,750
+Was ist Ihre Verdachtstiagnose?
+
+1111
+00:40:32,750 --> 00:40:34,750
+äh
+
+1112
+00:40:34,750 --> 00:40:36,750
+ich vergiss äh
+
+1113
+00:40:36,750 --> 00:40:38,750
+Beruf und Sozialanamnese
+
+1114
+00:40:38,750 --> 00:40:40,750
+ja, ja gut, das können Sie bitte noch ergänzen
+
+1115
+00:40:40,750 --> 00:40:42,750
+ja, was ist der Patient vor Beruf?
+
+1116
+00:40:42,750 --> 00:40:44,750
+äh der Patient
+
+1117
+00:40:44,750 --> 00:40:46,750
+sei Hausmeister
+
+1118
+00:40:46,750 --> 00:40:48,750
+in Schule
+
+1119
+00:40:48,750 --> 00:40:50,750
+ich habe drei Kinder
+
+1120
+00:40:50,750 --> 00:40:52,750
+äh und äh
+
+1121
+00:40:52,750 --> 00:40:54,750
+mit äh ihr
+
+1122
+00:40:54,750 --> 00:40:56,750
+mit ihr Frau äh wohnen
+
+1123
+00:40:56,750 --> 00:40:58,750
+ja, der Patient wohnt
+
+1124
+00:40:58,750 --> 00:41:00,750
+zusammen mit seiner Ehefrau
+
+1125
+00:41:00,750 --> 00:41:02,750
+und die Kinder wohnen aber woanders
+
+1126
+00:41:02,750 --> 00:41:04,750
+ja, gut
+
+1127
+00:41:04,750 --> 00:41:06,750
+Was ist Ihre Verdachtstiagnose?
+
+1128
+00:41:06,750 --> 00:41:08,750
+äh
+
+1129
+00:41:08,750 --> 00:41:10,750
+Aufgrund der Symptomatik
+
+1130
+00:41:10,750 --> 00:41:12,750
+habe ich den Verdacht auf
+
+1131
+00:41:12,750 --> 00:41:14,750
+ein äh
+
+1132
+00:41:14,750 --> 00:41:16,750
+cranial Hemmologie
+
+1133
+00:41:16,750 --> 00:41:18,750
+ja, warum?
+
+1134
+00:41:18,750 --> 00:41:20,750
+äh
+
+1135
+00:41:20,750 --> 00:41:22,750
+da
+
+1136
+00:41:22,750 --> 00:41:24,750
+da der Patient
+
+1137
+00:41:24,750 --> 00:41:26,750
+äh
+
+1138
+00:41:26,750 --> 00:41:28,750
+äh regelmäßig
+
+1139
+00:41:28,750 --> 00:41:30,750
+nicht
+
+1140
+00:41:30,750 --> 00:41:32,750
+nicht regelmäßig Lichsiana
+
+1141
+00:41:32,750 --> 00:41:34,750
+einnehmen
+
+1142
+00:41:34,750 --> 00:41:36,750
+okay
+
+1143
+00:41:36,750 --> 00:41:38,750
+und vor
+
+1144
+00:41:38,750 --> 00:41:40,750
+zwölf Uhr
+
+1145
+00:41:40,750 --> 00:41:42,750
+im Toilette gestürzt
+
+1146
+00:41:42,750 --> 00:41:44,750
+ja, das war vor aber er hatte ja die Symptomatik
+
+1147
+00:41:44,750 --> 00:41:46,750
+dieser Veränderung
+
+1148
+00:41:46,750 --> 00:41:48,750
+schon vor dem Sturz
+
+1149
+00:41:48,750 --> 00:41:50,750
+in der Toilette
+
+1150
+00:41:50,750 --> 00:41:52,750
+da war er ja schon verändert
+
+1151
+00:41:52,750 --> 00:41:54,750
+da war er äh
+
+1152
+00:41:54,750 --> 00:41:56,750
+sicher und äh
+
+1153
+00:41:56,750 --> 00:41:58,750
+war aggressiv, war somnolent
+
+1154
+00:41:58,750 --> 00:42:00,750
+äh
+
+1155
+00:42:00,750 --> 00:42:02,750
+seit zwölf Stunden hat er ja eine Symptomatik
+
+1156
+00:42:02,750 --> 00:42:04,750
+äh
+
+1157
+00:42:04,750 --> 00:42:06,750
+gut, also Hemmuragie
+
+1158
+00:42:06,750 --> 00:42:08,750
+äh äh in die Richtung
+
+1159
+00:42:08,750 --> 00:42:10,750
+ja, hat noch jemand
+
+1160
+00:42:10,750 --> 00:42:12,750
+eine Idee von den Kollegen?
+
+1161
+00:42:12,750 --> 00:42:16,510
+Apoplex
+
+1162
+00:42:16,510 --> 00:42:18,510
+ja, okay
+
+1163
+00:42:18,510 --> 00:42:20,510
+er hat eine abwahrscheinlich absolute
+
+1164
+00:42:20,510 --> 00:42:22,510
+Arrythmie, er hat ein hohes Risiko
+
+1165
+00:42:22,510 --> 00:42:24,510
+für ein äh Apoplex
+
+1166
+00:42:24,510 --> 00:42:26,510
+kann er haben
+
+1167
+00:42:26,510 --> 00:42:28,510
+aber denken Sie nochmal an den Fahrradsturz
+
+1168
+00:42:28,510 --> 00:42:33,260
+vor drei Wochen
+
+1169
+00:42:33,260 --> 00:42:37,180
+ähm
+
+1170
+00:42:37,180 --> 00:42:39,180
+da wurde gerade hier gesagt
+
+1171
+00:42:39,180 --> 00:42:41,180
+an alle subdual Hematom
+
+1172
+00:42:41,180 --> 00:42:43,180
+ja, der Meinung bin ich auch
+
+1173
+00:42:43,180 --> 00:42:45,180
+äh das
+
+1174
+00:42:45,180 --> 00:42:47,180
+ist nicht selten
+
+1175
+00:42:47,180 --> 00:42:49,180
+ein Mensch
+
+1176
+00:42:49,180 --> 00:42:51,180
+ein vermeintliches Bagatell Trauma hatte
+
+1177
+00:42:51,180 --> 00:42:53,180
+äh in diesem Falle
+
+1178
+00:42:53,180 --> 00:42:55,180
+ein Sturz mit dem Fahrrad
+
+1179
+00:42:55,180 --> 00:42:57,180
+er hat sich den Kopf angeschlagen
+
+1180
+00:42:57,180 --> 00:42:59,180
+er muss gar nicht bewusstlos gewesen sein
+
+1181
+00:42:59,180 --> 00:43:01,180
+er muss keine schwere Komozio gehabt haben
+
+1182
+00:43:01,180 --> 00:43:03,180
+äh
+
+1183
+00:43:03,180 --> 00:43:05,180
+dieser Patient ist vielleicht auch
+
+1184
+00:43:05,180 --> 00:43:07,180
+äh etwas undifferenziert
+
+1185
+00:43:07,180 --> 00:43:09,180
+und unkritisch gegenüber seinen Beschwerden
+
+1186
+00:43:09,180 --> 00:43:11,180
+er hatte vor drei Wochen einen Fahrradsturz
+
+1187
+00:43:11,180 --> 00:43:13,180
+ein in dem Sinne
+
+1188
+00:43:13,180 --> 00:43:15,180
+vielleicht Schädel Hirntrauma
+
+1189
+00:43:15,180 --> 00:43:17,180
+und das hat zu einer Sickerblutung geführt
+
+1190
+00:43:17,180 --> 00:43:19,180
+äh weil er ja nun auch unter Lixianer steht
+
+1191
+00:43:19,180 --> 00:43:21,180
+äh
+
+1192
+00:43:21,180 --> 00:43:23,180
+und das kann nach Wochen
+
+1193
+00:43:23,180 --> 00:43:25,180
+erst zu Symptomen führen
+
+1194
+00:43:25,180 --> 00:43:27,180
+das muss nicht sofort sein
+
+1195
+00:43:27,180 --> 00:43:29,180
+sondern das kann lange dauern
+
+1196
+00:43:29,180 --> 00:43:31,180
+habe ich selbst schon erlebt bei Patienten
+
+1197
+00:43:31,180 --> 00:43:33,180
+die auch mit dem Fahrrad
+
+1198
+00:43:33,180 --> 00:43:35,180
+oder mit dem äh Motorrad gestürzt waren
+
+1199
+00:43:35,180 --> 00:43:37,180
+oder Moped oder zu Hause die Treppe
+
+1200
+00:43:37,180 --> 00:43:39,180
+gestürzt waren
+
+1201
+00:43:39,180 --> 00:43:41,180
+also den Verdacht muss man haben
+
+1202
+00:43:41,180 --> 00:43:43,180
+dass es ein subduales Hematom
+
+1203
+00:43:43,180 --> 00:43:45,180
+ist bei den Patienten
+
+1204
+00:43:45,180 --> 00:43:47,180
+Sie haben ja selber gesagt
+
+1205
+00:43:47,180 --> 00:43:49,180
+Sie machen eine eingehende Diagnostik
+
+1206
+00:43:49,180 --> 00:43:51,180
+Sie machen wahrscheinlich auch eine Bildgebung
+
+1207
+00:43:51,180 --> 00:43:53,180
+des Schädels
+
+1208
+00:43:53,180 --> 00:43:55,180
+äh und da wird dann selbst
+
+1209
+00:43:55,180 --> 00:43:57,180
+bei einem CT wahrscheinlich das auch schon
+
+1210
+00:43:57,180 --> 00:43:59,180
+herauskommt diese Verdachtsdiagnose
+
+1211
+00:43:59,180 --> 00:44:01,180
+und differential diagnostisch
+
+1212
+00:44:01,180 --> 00:44:03,180
+würde ich natürlich auch an einen
+
+1213
+00:44:03,180 --> 00:44:05,180
+Apoplex denken
+
+1214
+00:44:05,180 --> 00:44:07,180
+äh das kann natürlich sein
+
+1215
+00:44:07,180 --> 00:44:09,180
+äh bei dieser
+
+1216
+00:44:09,180 --> 00:44:11,180
+Risikokonstellation, Artegelle-Hypertonie
+
+1217
+00:44:11,180 --> 00:44:13,180
+äh wahrscheinlich absolute Arytmie
+
+1218
+00:44:13,180 --> 00:44:15,180
+äh und das ist natürlich
+
+1219
+00:44:15,180 --> 00:44:17,180
+schon äh eine gewisse Risikokonstellation
+
+1220
+00:44:17,180 --> 00:44:19,180
+Gut
+
+1221
+00:44:19,180 --> 00:44:21,180
+ja erst mal
+
+1222
+00:44:21,180 --> 00:44:23,180
+Ich hatte
+
+1223
+00:44:23,180 --> 00:44:25,180
+ich hatte eine ähnlichen Patientin
+
+1224
+00:44:25,180 --> 00:44:27,180
+als ich äh Gerberkt habe
+
+1225
+00:44:27,180 --> 00:44:29,180
+in Türkeis
+
+1226
+00:44:29,180 --> 00:44:31,180
+Ja, ja
+
+1227
+00:44:31,180 --> 00:44:33,180
+weil es kann immer was sich, es passiert relativ häufig
+
+1228
+00:44:33,180 --> 00:44:35,180
+Sie hat äh Diabetes
+
+1229
+00:44:35,180 --> 00:44:37,180
+Melitotip 2
+
+1230
+00:44:37,180 --> 00:44:39,180
+und äh
+
+1231
+00:44:39,180 --> 00:44:41,180
+in Südengespritz äh eingenommen
+
+1232
+00:44:41,180 --> 00:44:43,180
+und haa äh
+
+1233
+00:44:43,180 --> 00:44:45,180
+Lyxiana 60 Milligramm
+
+1234
+00:44:45,180 --> 00:44:47,180
+äh eingenommen täglich
+
+1235
+00:44:47,180 --> 00:44:49,180
+Ja
+
+1236
+00:44:49,180 --> 00:44:51,180
+äh äh sie hat im Toilette gestürzt
+
+1237
+00:44:51,180 --> 00:44:53,180
+und langsam
+
+1238
+00:44:53,180 --> 00:44:55,180
+aufgetretener diese Beschwerden
+
+1239
+00:44:55,180 --> 00:44:57,180
+äh ja
+
+1240
+00:44:57,180 --> 00:44:59,180
+ja, ja
+
+1241
+00:44:59,180 --> 00:45:01,180
+Ich kann mich an einen Marathonläufer erinnern
+
+1242
+00:45:01,180 --> 00:45:03,180
+äh
+
+1243
+00:45:03,180 --> 00:45:05,180
+der war gut 60 Jahre alt
+
+1244
+00:45:05,180 --> 00:45:07,180
+er war sehr ambitioniert, er hat schon mehrere Marathons gelaufen
+
+1245
+00:45:07,180 --> 00:45:09,180
+er nahm keine Medikamente ein
+
+1246
+00:45:09,180 --> 00:45:11,180
+keinerlei Medikamente
+
+1247
+00:45:11,180 --> 00:45:13,180
+und war eigentlich
+
+1248
+00:45:13,180 --> 00:45:15,180
+gut immer sportmedizinisch kontrolliert
+
+1249
+00:45:15,180 --> 00:45:17,180
+aber der Patient entwickelte
+
+1250
+00:45:17,180 --> 00:45:19,180
+eine Wesensveränderung
+
+1251
+00:45:19,180 --> 00:45:21,180
+die Frau kam mit ihm in die Praxis und sagt
+
+1252
+00:45:21,180 --> 00:45:23,180
+der ist völlig verändert
+
+1253
+00:45:23,180 --> 00:45:25,180
+und der Patient im Nachherein
+
+1254
+00:45:25,180 --> 00:45:27,180
+war er 2 Wochen vorher gestürzt
+
+1255
+00:45:27,180 --> 00:45:29,180
+beim Marathon Training
+
+1256
+00:45:29,180 --> 00:45:31,180
+im Wald
+
+1257
+00:45:31,180 --> 00:45:33,180
+alleine gelaufen, keiner konnte
+
+1258
+00:45:33,180 --> 00:45:35,180
+Fahrzeuge
+
+1259
+00:45:35,180 --> 00:45:39,620
+ein gut duales Hematom
+
+1260
+00:45:39,620 --> 00:45:41,620
+Professor an der hiesigen Universität
+
+1261
+00:45:41,620 --> 00:45:43,620
+er konnte nachher aber
+
+1262
+00:45:43,620 --> 00:45:45,620
+wieder äh äh in die Leere
+
+1263
+00:45:45,620 --> 00:45:47,620
+und Vorlesungen halten, aber er musste
+
+1264
+00:45:47,620 --> 00:45:49,620
+dringend notoperiert werden
+
+1265
+00:45:49,620 --> 00:45:51,620
+Ja
+
+1266
+00:45:51,620 --> 00:45:53,620
+so kann es passieren
+
+1267
+00:45:53,620 --> 00:45:55,620
+Gut, erstmal vielen Dank
+
+1268
+00:45:55,620 --> 00:45:57,620
+Gut, das ist ja
+
+1269
+00:45:57,620 --> 00:45:59,620
+heute Abend sehr viele Menschen noch gewesen
+
+1270
+00:45:59,620 --> 00:46:01,620
+Ja
+
+1271
+00:46:01,620 --> 00:46:03,620
+Das fand ich gut und ich hoffe, dass sie es jetzt noch
+
+1272
+00:46:03,620 --> 00:46:05,620
+zeitlich irgendwie schaffen
+
+1273
+00:46:05,620 --> 00:46:07,620
+wir haben einen guten Abend
+
+1274
+00:46:07,620 --> 00:46:09,620
+im Ramadan
+
+1275
+00:46:09,620 --> 00:46:11,620
+und dass sie auch ihre Prüfung gut machen
+
+1276
+00:46:11,620 --> 00:46:13,620
+und ähm ich würde sagen
+
+1277
+00:46:13,620 --> 00:46:15,620
+wir sehen uns dann nächste Woche
+
+1278
+00:46:15,620 --> 00:46:17,620
+dann wieder um 18 Uhr
+
+1279
+00:46:17,620 --> 00:46:19,620
+18 Uhr
+
+1280
+00:46:19,620 --> 00:46:21,620
+Gut, dann sage ich mal allen einen schönen Abend
+
+1281
+00:46:21,620 --> 00:46:23,620
+und machen Sie es gut. Tschüss
+
+1282
+00:46:23,620 --> 00:46:25,620
+Vielen Dank

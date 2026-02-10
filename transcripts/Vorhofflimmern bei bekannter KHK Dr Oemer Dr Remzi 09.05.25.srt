@@ -1,0 +1,2303 @@
+1
+00:00:00,000 --> 00:00:08,000
+Guten Abend, Görücü ist mein Name. Ich bin heute zuständige Assistent-Arzt und ich würde gerne mit Ihnen Aufnahme-Aufnahme-Experte durchführen.
+
+2
+00:00:08,000 --> 00:00:12,000
+Guten Abend, aber ich habe Ihren Namen leider nicht ganz verstanden. Wie ist der Name?
+
+3
+00:00:12,000 --> 00:00:14,000
+Görücü ist mein Name. Wie bitte?
+
+4
+00:00:14,000 --> 00:00:15,000
+Görücü.
+
+5
+00:00:15,000 --> 00:00:20,000
+Görücü, ja.
+
+6
+00:00:20,000 --> 00:00:22,000
+Görücü, ja.
+
+7
+00:00:22,000 --> 00:00:24,000
+Was ist das für ein Name?
+
+8
+00:00:24,000 --> 00:00:25,000
+Das ist ein Türk-Name.
+
+9
+00:00:25,000 --> 00:00:27,000
+Ach so, Sie kommen aus der Türkei.
+
+10
+00:00:27,000 --> 00:00:29,000
+Ja, ich komme aus der Türkei.
+
+11
+00:00:29,000 --> 00:00:31,000
+Ah, Sie sprechen aber gut Deutsch.
+
+12
+00:00:31,000 --> 00:00:34,000
+Wie lange sind Sie schon in Deutschland?
+
+13
+00:00:34,000 --> 00:00:37,000
+Seit zwei Jahren bin ich in Deutschland.
+
+14
+00:00:37,000 --> 00:00:39,000
+Und da haben Sie so schnell gut Deutsch gelernt?
+
+15
+00:00:39,000 --> 00:00:41,000
+Vielen Dank.
+
+16
+00:00:41,000 --> 00:00:43,000
+Das ist aber sehr ervorwittlich.
+
+17
+00:00:43,000 --> 00:00:46,000
+Sehr gut, sehr gut.
+
+18
+00:00:46,000 --> 00:00:51,000
+Ich habe gehört, dass Ärzte aus der Türkei gute Ärzte sind.
+
+19
+00:00:51,000 --> 00:00:54,000
+Ja, sie haben total recht.
+
+20
+00:00:54,000 --> 00:01:00,000
+Ich hoffe.
+
+21
+00:01:00,000 --> 00:01:08,000
+Bevor wir beginnen, ich habe einige Fragen über Sie, persönliche Fragen.
+
+22
+00:01:08,000 --> 00:01:11,000
+Wie heißen Sie?
+
+23
+00:01:11,000 --> 00:01:19,580
+Mein Name ist Alexander Leiter.
+
+24
+00:01:19,580 --> 00:01:22,580
+Könnten Sie langsam Buchstabinen?
+
+25
+00:01:22,580 --> 00:01:24,580
+Ich habe einen Vornamen.
+
+26
+00:01:24,580 --> 00:01:35,580
+Alexander, Anton Ludwig, Emil X, Anton Nordpol, Dora, Emil Richard, Alexander.
+
+27
+00:01:35,580 --> 00:01:37,580
+Alles klar.
+
+28
+00:01:37,580 --> 00:01:41,580
+Nachname ist Leiter.
+
+29
+00:01:41,580 --> 00:01:47,580
+So wie die Leiter, Ludwig Emil Ida, Theodor Emil Richard, Leiter.
+
+30
+00:01:47,580 --> 00:01:49,580
+Ja, vielen Dank.
+
+31
+00:01:49,580 --> 00:01:51,580
+Und wie alt sind Sie?
+
+32
+00:01:51,580 --> 00:01:54,580
+Ich bin 78 Jahre alt.
+
+33
+00:01:54,580 --> 00:01:57,580
+Und wann sind Sie genau geboren?
+
+34
+00:01:57,580 --> 00:02:09,410
+Ich bin geboren am 23. März, 1947.
+
+35
+00:02:09,410 --> 00:02:12,410
+47 Jahre alt.
+
+36
+00:02:12,410 --> 00:02:16,410
+Und wie groß sind Sie, Herr Leiter?
+
+37
+00:02:16,410 --> 00:02:21,410
+1,79 m.
+
+38
+00:02:21,410 --> 00:02:25,410
+Wie viel wiegen Sie?
+
+39
+00:02:25,410 --> 00:02:31,100
+82 kg.
+
+40
+00:02:31,100 --> 00:02:37,100
+Was für Sie zu uns?
+
+41
+00:02:37,100 --> 00:02:42,100
+Herr Dr. Kiritschü, ich sage mal Kiritschü, so habe ich es dir verstanden.
+
+42
+00:02:42,100 --> 00:02:45,100
+Ich mache sehr viel Sport.
+
+43
+00:02:45,100 --> 00:02:47,100
+Ich bin eigentlich immer sehr fit.
+
+44
+00:02:47,100 --> 00:02:53,100
+Aber ich merke in letzter Zeit, dass wenn ich meinen Blutdruck messe,
+
+45
+00:02:53,100 --> 00:02:57,100
+ich nehme auch Tabletten, das zeigt mir das Gerät an,
+
+46
+00:02:57,100 --> 00:02:59,100
+oder gibt Alarm.
+
+47
+00:02:59,100 --> 00:03:06,100
+Und es piepst immer, als ob der Puls unregelmäßig ist.
+
+48
+00:03:06,100 --> 00:03:08,100
+Aber ich merke nichts.
+
+49
+00:03:08,100 --> 00:03:14,100
+Piepst du wegen Puls oder wegen Blutdruck?
+
+50
+00:03:14,100 --> 00:03:16,100
+Ich weiß es nicht.
+
+51
+00:03:16,100 --> 00:03:21,100
+Der Blutdruck ist bei mir bei 140 bis 170 kg.
+
+52
+00:03:21,100 --> 00:03:24,100
+Wann sind Sie letztes Mal in der Blutdruck gemessen?
+
+53
+00:03:24,100 --> 00:03:26,100
+Gestern und heute Morgen.
+
+54
+00:03:26,100 --> 00:03:28,100
+Alles klar.
+
+55
+00:03:28,100 --> 00:03:34,100
+Und wie war heute Morgen Ihr Puls?
+
+56
+00:03:34,100 --> 00:03:38,100
+Der Puls ist immer zwischen 80 und 90 kg.
+
+57
+00:03:38,100 --> 00:03:41,100
+Aber das ist bei mir eigentlich immer.
+
+58
+00:03:41,100 --> 00:03:45,100
+Wenn ich ein bisschen Sport mache, wenn ich mich etwas anstrengen,
+
+59
+00:03:45,100 --> 00:03:47,100
+dann geht er natürlich auch etwas höher.
+
+60
+00:03:47,100 --> 00:03:53,100
+Aber ich glaube, wenn ich den Blutdruck messe,
+
+61
+00:03:53,100 --> 00:03:55,100
+ist es etwas unregelmäßig.
+
+62
+00:03:55,100 --> 00:03:58,100
+Vielleicht gibt es deswegen das Gerät einen Alarm.
+
+63
+00:03:58,100 --> 00:03:59,100
+Alles klar.
+
+64
+00:03:59,100 --> 00:04:01,100
+Haben Sie Beschwerden?
+
+65
+00:04:01,100 --> 00:04:02,100
+Nein.
+
+66
+00:04:02,100 --> 00:04:06,100
+Ich sage mal so, ganz leicht, aber ich merke es nicht so.
+
+67
+00:04:06,100 --> 00:04:08,100
+Ich merke es nur beim Sport.
+
+68
+00:04:08,100 --> 00:04:12,100
+Ich mache Fitness und ich mache auch Gerätetraining.
+
+69
+00:04:12,100 --> 00:04:16,100
+Und in den letzten ein paar Wochen merke ich,
+
+70
+00:04:16,100 --> 00:04:19,100
+dass ich nicht mehr diese Leistung bringen kann,
+
+71
+00:04:19,100 --> 00:04:26,790
+dass ich früher aufhören muss und ein bisschen Luftnot bekomme.
+
+72
+00:04:26,790 --> 00:04:31,790
+Sonst haben Sie keine Beschwerden?
+
+73
+00:04:31,790 --> 00:04:34,790
+Nein, wenn ich merke, dass ich nicht merke, dann höre ich auf.
+
+74
+00:04:34,790 --> 00:04:39,790
+Aber ich frage mich, woher das kommt, warum das so ist,
+
+75
+00:04:39,790 --> 00:04:41,790
+weil ich finde, ich fahre eigentlich immer sehr fit.
+
+76
+00:04:41,790 --> 00:04:44,790
+Haben Sie Herzrasen oder Herzstöpeln, wenn man?
+
+77
+00:04:44,790 --> 00:04:46,790
+Nein, also ich merke nichts.
+
+78
+00:04:46,790 --> 00:04:52,790
+Haben Sie nicht mehr alles, klar?
+
+79
+00:04:52,790 --> 00:05:01,450
+Nach wie vielen Minuten fühlen Sie sich diese?
+
+80
+00:05:01,450 --> 00:05:05,450
+Normalerweise mache ich so halb, dreiviertel Stunde,
+
+81
+00:05:05,450 --> 00:05:07,450
+also 45 Minuten.
+
+82
+00:05:07,450 --> 00:05:10,450
+Und jetzt merke ich so nach 20, 25 Minuten,
+
+83
+00:05:10,450 --> 00:05:12,450
+dass die Luft etwas knapp wird.
+
+84
+00:05:12,450 --> 00:05:16,450
+Es ist jetzt schlimm, aber ich merke, da ist ein Unterschied.
+
+85
+00:05:16,450 --> 00:05:20,450
+Fühlen Sie sich, dass Sie sitzen,
+
+86
+00:05:20,450 --> 00:05:23,450
+sich müssen oder wie fühlen Sie sich?
+
+87
+00:05:23,450 --> 00:05:26,450
+Stärke, Atemnot oder nur...
+
+88
+00:05:26,450 --> 00:05:31,450
+Also nur eine leichte Atemnot, merke so richtige Atemnot,
+
+89
+00:05:31,450 --> 00:05:33,450
+ist es nicht, aber ich tu mir schwer.
+
+90
+00:05:33,450 --> 00:05:36,450
+Ich muss etwas mehr Atem, wenn ich merke,
+
+91
+00:05:36,450 --> 00:05:41,450
+dass ich mich nicht so belasten kann wie vorher auch.
+
+92
+00:05:42,450 --> 00:05:49,450
+Und dann höre ich einfach auf, aber manchmal klappt es gut,
+
+93
+00:05:49,450 --> 00:05:54,450
+aber jetzt in den letzten zwei Wochen muss ich vorher aufhören.
+
+94
+00:05:54,450 --> 00:06:01,450
+Nach wie vielen Minuten ich meine, sich ruhen fühlen Sie sich besser?
+
+95
+00:06:01,450 --> 00:06:03,450
+Ach so, wenn ich mich ausgeruht habe,
+
+96
+00:06:03,450 --> 00:06:06,450
+ja, ich denke so nach einer halben Stunde.
+
+97
+00:06:06,450 --> 00:06:12,830
+Alles klar.
+
+98
+00:06:12,830 --> 00:06:19,830
+Haben Sie Fieber oder Stufroß oder Nachschweiß bemerkt?
+
+99
+00:06:19,830 --> 00:06:21,830
+Nein, das ist nicht so.
+
+100
+00:06:21,830 --> 00:06:26,830
+Und hat sich Ihre Appetit in der letzten Zeit verändert?
+
+101
+00:06:26,830 --> 00:06:28,830
+Nein.
+
+102
+00:06:28,830 --> 00:06:37,830
+Haben Sie unwirklich in der letzten Zeit ab oder zu genommen?
+
+103
+00:06:37,830 --> 00:06:41,830
+Ach so, nein, nicht gleich.
+
+104
+00:06:41,830 --> 00:06:43,830
+Alles klar.
+
+105
+00:06:43,830 --> 00:06:53,240
+Aber ich nehme nur dieses Entum.
+
+106
+00:06:53,240 --> 00:06:58,240
+Okay, wir kommen später zu.
+
+107
+00:06:58,240 --> 00:07:02,240
+Haben Sie Vorerkrankungen von denen, wie ich es wissen sollte?
+
+108
+00:07:02,240 --> 00:07:06,240
+Ja, ich habe einen bekannten Humphlohenblutdruck.
+
+109
+00:07:06,240 --> 00:07:13,240
+Und ich habe vor circa zehn Jahren ein Herzkartett bekommen.
+
+110
+00:07:13,240 --> 00:07:16,240
+Und ich habe zwei Stents.
+
+111
+00:07:16,240 --> 00:07:19,240
+Aber das war bisher immer alles in Ordnung.
+
+112
+00:07:19,240 --> 00:07:22,240
+Hypertonie, seit wann haben Sie die?
+
+113
+00:07:22,240 --> 00:07:24,240
+Seit über 20 Jahren.
+
+114
+00:07:24,240 --> 00:07:30,780
+Und vor zehn Jahren wurde bei Ihnen Herzkartette durchgeführt.
+
+115
+00:07:30,780 --> 00:07:34,780
+Und was war Therapie eigentlich?
+
+116
+00:07:34,780 --> 00:07:36,780
+Stents.
+
+117
+00:07:36,780 --> 00:07:38,780
+Ich habe bei Stents bekommen, habe ich ja gesagt.
+
+118
+00:07:38,780 --> 00:07:45,780
+Sonst haben Sie andere Beklankungen?
+
+119
+00:07:45,780 --> 00:07:47,780
+Nein, ansonsten gut.
+
+120
+00:07:47,780 --> 00:07:52,780
+Ich hatte mal eine kleine Prostata-Operation, aber das war jetzt nichts Wichtiges.
+
+121
+00:07:52,780 --> 00:07:56,780
+Und sonst ist alles okay.
+
+122
+00:07:56,780 --> 00:07:58,780
+Wann war diese Prostata-OP?
+
+123
+00:07:58,780 --> 00:08:00,780
+Vor circa vier Jahren.
+
+124
+00:08:01,780 --> 00:08:05,780
+Sonst wurden Sie operiert?
+
+125
+00:08:05,780 --> 00:08:07,780
+Nein, ansonsten keine.
+
+126
+00:08:07,780 --> 00:08:15,780
+Und nehmen Sie, regeln Sie oder bei Bedarf Medikamente ein?
+
+127
+00:08:15,780 --> 00:08:17,780
+Gegen Hypertonie oder?
+
+128
+00:08:17,780 --> 00:08:22,780
+Ja, ich nehme jetzt für den Blutdruck zwei Medikamente und einmal As-100.
+
+129
+00:08:22,780 --> 00:08:32,250
+Einmal As-100 und Aspirin-100.
+
+130
+00:08:32,250 --> 00:08:34,250
+Und sonst?
+
+131
+00:08:34,250 --> 00:08:36,250
+Und zwei Blutdruck-Tampletten.
+
+132
+00:08:36,250 --> 00:08:41,250
+Was ist die Namen dieser Tante?
+
+133
+00:08:41,250 --> 00:08:43,250
+Ich muss Sie selber mal gucken.
+
+134
+00:08:43,250 --> 00:08:45,250
+Ich habe es bei mir in der Hosentasche.
+
+135
+00:08:45,250 --> 00:08:47,250
+Ich hol es mal gerade mal raus.
+
+136
+00:08:47,250 --> 00:08:49,250
+Kann mir die Namen nie merken.
+
+137
+00:08:49,250 --> 00:08:54,250
+Ich schaue mal hier einmal Kandesatan.
+
+138
+00:08:54,250 --> 00:08:56,250
+Welche Dosierung?
+
+139
+00:08:56,250 --> 00:08:58,250
+8 Milligramm.
+
+140
+00:08:58,250 --> 00:09:03,250
+Und abends nehme ich die...
+
+141
+00:09:03,250 --> 00:09:15,150
+Was sind Sie vom Beruf, Herr Leiter?
+
+142
+00:09:15,150 --> 00:09:17,150
+Schreiner gewesen.
+
+143
+00:09:17,150 --> 00:09:20,150
+Ich bin jetzt Rentner, aber ich war Schreiner.
+
+144
+00:09:20,150 --> 00:09:27,010
+Ich habe einen Möbel aufgebaut und Möbel repariert.
+
+145
+00:09:27,010 --> 00:09:30,010
+Und sind Sie verheiratet?
+
+146
+00:09:30,010 --> 00:09:31,010
+Ja.
+
+147
+00:09:31,010 --> 00:09:34,860
+Und haben Sie Kinder?
+
+148
+00:09:34,860 --> 00:09:38,860
+Ja, ich habe zwei Erwachsene Kinder.
+
+149
+00:09:38,860 --> 00:09:40,860
+Eine Tochter und ein Sohn.
+
+150
+00:09:40,860 --> 00:09:41,860
+Sind Sie gesund?
+
+151
+00:09:41,860 --> 00:09:46,460
+Ja, glücklicherweise.
+
+152
+00:09:46,460 --> 00:09:49,460
+Haben Sie Stress?
+
+153
+00:09:49,460 --> 00:09:51,460
+Leiden Sie unter Stress?
+
+154
+00:09:51,460 --> 00:09:52,460
+Ich stress?
+
+155
+00:09:52,460 --> 00:09:54,460
+Als Rentner hatten wir keinen Stress.
+
+156
+00:09:54,460 --> 00:09:57,460
+Nein, nein, die Zeiten sind vorbei.
+
+157
+00:09:57,460 --> 00:09:58,460
+Alles klar.
+
+158
+00:09:58,460 --> 00:10:04,460
+Und haben Sie Erkrankungen in Ihrer Familie,
+
+159
+00:10:04,460 --> 00:10:08,460
+die Sie in der Familie haben,
+
+160
+00:10:08,460 --> 00:10:12,460
+in meinem nahen Umkreis?
+
+161
+00:10:12,460 --> 00:10:17,460
+Sind Sie noch Eltern?
+
+162
+00:10:17,460 --> 00:10:19,460
+Nein, nein, nein.
+
+163
+00:10:19,460 --> 00:10:22,460
+Sie sind schon vor längerer Zeit verstorben.
+
+164
+00:10:22,460 --> 00:10:28,460
+Und als Sie vorhin sind Sie gestorben?
+
+165
+00:10:28,460 --> 00:10:33,460
+Mein Vater hatte einen Herzinfarkt.
+
+166
+00:10:33,460 --> 00:10:36,460
+Und meine Mutter einen Schlaganfall.
+
+167
+00:10:36,460 --> 00:11:01,450
+Und rauchen Sie zuzeit?
+
+168
+00:11:01,450 --> 00:11:02,450
+Nein, nein.
+
+169
+00:11:02,450 --> 00:11:05,450
+Ich habe nie geraucht.
+
+170
+00:11:05,450 --> 00:11:10,450
+Und trinken Sie Alkohol?
+
+171
+00:11:10,450 --> 00:11:12,450
+Sehr, sehr, sehr lange.
+
+172
+00:11:12,450 --> 00:11:14,450
+Ich fasse nie.
+
+173
+00:11:14,450 --> 00:11:18,450
+Und ich nehme an, dass Sie keinen Drogen nehmen.
+
+174
+00:11:18,450 --> 00:11:20,450
+Aber trotzdem muss ich fragen.
+
+175
+00:11:20,450 --> 00:11:22,450
+Nehmen Sie Drogen?
+
+176
+00:11:22,450 --> 00:11:30,450
+Nein, meine schlimmsten Droge sind die Zartpitter Schokolade.
+
+177
+00:11:30,450 --> 00:11:40,840
+Ja, jetzt bei mir die Fragen fertig.
+
+178
+00:11:40,840 --> 00:11:46,840
+Und haben Sie noch etwas zu hinzufügen
+
+179
+00:11:46,840 --> 00:11:49,840
+oder Fragen an mich?
+
+180
+00:11:49,840 --> 00:11:53,840
+Also, was ich jetzt auch in den letzten paar Wochen gemerkt habe,
+
+181
+00:11:53,840 --> 00:11:59,840
+dass sich die Socken etwas einschnüren an den Füßen
+
+182
+00:11:59,840 --> 00:12:01,840
+und das an den Unterschenkeln,
+
+183
+00:12:01,840 --> 00:12:05,840
+sich etwas Wasser ansammelt um die Knöchel herum.
+
+184
+00:12:05,840 --> 00:12:13,120
+Haben Sie bemerkt eine Schwerung von Ihrer Beine?
+
+185
+00:12:13,120 --> 00:12:15,120
+An den Knöcheln, ja.
+
+186
+00:12:15,120 --> 00:12:23,120
+Und die Socken, die Schnüren ein und hinterlassen Spuren?
+
+187
+00:12:23,120 --> 00:12:25,120
+Alles klar.
+
+188
+00:12:25,120 --> 00:12:32,120
+Und brauchen Sie, wie viele Kissen zu schlafen?
+
+189
+00:12:32,120 --> 00:12:34,120
+Also, noch geht es.
+
+190
+00:12:34,120 --> 00:12:38,120
+Beim Liegen tue ich mich etwas schwer, aber es geht im Moment.
+
+191
+00:12:38,120 --> 00:12:42,120
+Aber das ist etwas mir aufgefallen.
+
+192
+00:12:42,120 --> 00:12:44,120
+Die Blutdruckmessen, das Gerät,
+
+193
+00:12:44,120 --> 00:12:47,120
+zeigt, dass da eine Rhythmusstörung vorliegt.
+
+194
+00:12:47,120 --> 00:12:51,120
+Und mir tun die Füße etwas anschwellen.
+
+195
+00:12:51,120 --> 00:12:53,120
+Beide Füße haben Sie das gemacht?
+
+196
+00:12:53,120 --> 00:12:55,120
+Beide Füße, das habe ich vorher nicht gehabt.
+
+197
+00:12:55,120 --> 00:13:08,120
+Und manchmal wird es auch ein bisschen leicht eng auf der Brust.
+
+198
+00:13:08,120 --> 00:13:13,100
+Aber das geht gleich wieder weg.
+
+199
+00:13:13,100 --> 00:13:20,100
+Wie fühlen sich die Brust-Wicht-Teilen?
+
+200
+00:13:20,100 --> 00:13:22,100
+Das ist für einen kurzen Moment.
+
+201
+00:13:22,100 --> 00:13:24,100
+Das ist meistens beim Sport.
+
+202
+00:13:24,100 --> 00:13:26,100
+Nicht zu sehr anstrengend.
+
+203
+00:13:26,100 --> 00:13:31,100
+Und in diesem Zeit fühlen Sie sich erstoppen?
+
+204
+00:13:31,100 --> 00:13:35,100
+Nein, ich hatte ja gesagt, da bekomme ich ein bisschen Luftnot.
+
+205
+00:13:35,100 --> 00:13:37,100
+Und manchmal ist es auch ein bisschen eng.
+
+206
+00:13:37,100 --> 00:13:41,100
+Aber das geht nach 15, 20 Minuten wieder weg.
+
+207
+00:13:42,100 --> 00:13:45,100
+Sind Sie vorständig geimpft?
+
+208
+00:13:45,100 --> 00:13:47,100
+Ja.
+
+209
+00:13:47,100 --> 00:13:52,100
+Haben Sie in letzter Zeit gereist?
+
+210
+00:13:52,100 --> 00:13:54,100
+Nein, nein, nein.
+
+211
+00:13:54,100 --> 00:13:56,100
+Auslern.
+
+212
+00:13:56,100 --> 00:13:59,100
+Wir machen unsere Reisen jetzt hier in Deutschland.
+
+213
+00:13:59,100 --> 00:14:02,100
+Alles klar.
+
+214
+00:14:02,100 --> 00:14:04,100
+Ja, vielen Dank.
+
+215
+00:14:04,100 --> 00:14:08,100
+Und noch haben Sie etwas zu erwähnen?
+
+216
+00:14:08,100 --> 00:14:13,100
+Ja, ich wäre froh, wenn Sie vielleicht nachschauen können,
+
+217
+00:14:13,100 --> 00:14:18,100
+ob es etwas gibt oder muss ich mir Sorgen machen.
+
+218
+00:14:18,100 --> 00:14:20,100
+Deswegen bin ich jetzt da.
+
+219
+00:14:20,100 --> 00:14:25,100
+Ja, Sie haben eine gute Entscheidung getroffen, um hier zu kommen.
+
+220
+00:14:25,100 --> 00:14:31,100
+Jetzt soll ich Sie untersuchen.
+
+221
+00:14:31,100 --> 00:14:34,100
+Weit untersuchen, muss ich durchführen.
+
+222
+00:14:35,100 --> 00:14:45,100
+Erstens muss ich eine EKG geben, weil sie ein Rhythmie haben.
+
+223
+00:14:45,100 --> 00:14:48,100
+Ein Rhythmie verstehe ich nicht.
+
+224
+00:14:48,100 --> 00:14:56,100
+Ja, Rhythmie bedeutet unregelmäßige Herzschlag.
+
+225
+00:14:57,100 --> 00:15:07,100
+Ich habe sie nicht gefühlt, aber ich habe sie mit EKG gestimmt.
+
+226
+00:15:07,100 --> 00:15:10,100
+Machen Sie das noch heute Abend?
+
+227
+00:15:10,100 --> 00:15:14,100
+Ja, wir machen gleich.
+
+228
+00:15:14,100 --> 00:15:17,100
+Das ist schön.
+
+229
+00:15:17,100 --> 00:15:19,100
+Ich bedanke mich.
+
+230
+00:15:19,100 --> 00:15:22,730
+Danke schön.
+
+231
+00:15:22,730 --> 00:15:25,730
+Haben Kollegen noch andere Fragen?
+
+232
+00:15:25,730 --> 00:15:32,020
+Sehr gut, gute Frage.
+
+233
+00:15:32,020 --> 00:15:37,490
+Schwindelig ist mir nicht.
+
+234
+00:15:37,490 --> 00:15:40,490
+Beide Sie nachts wach wegen Atemnot?
+
+235
+00:15:40,490 --> 00:15:48,890
+Nein.
+
+236
+00:15:48,890 --> 00:15:55,890
+Besuchen Sie regelmäßig zum Hausarzt oder Kardiologe?
+
+237
+00:15:55,890 --> 00:15:57,890
+Ich bin regelmäßig beim Hausarzt.
+
+238
+00:15:57,890 --> 00:15:59,890
+Er kontrollierte immer meinen Blutdruck.
+
+239
+00:15:59,890 --> 00:16:03,890
+Beim Kardiologe war ich vor zwei Jahren das letzte Mal.
+
+240
+00:16:04,890 --> 00:16:09,890
+Sie wurden unmächtig?
+
+241
+00:16:09,890 --> 00:16:16,020
+Nein.
+
+242
+00:16:16,020 --> 00:16:19,020
+Haben Sie beschwerden beim Wasserlassen?
+
+243
+00:16:19,020 --> 00:16:21,020
+Nein.
+
+244
+00:16:21,020 --> 00:16:27,020
+Ich bin regelmäßig beim Urologen, weil die Prostate vergrößert ist.
+
+245
+00:16:27,020 --> 00:16:31,020
+Ich muss auch öfters nachts zum Wasserlassen raus.
+
+246
+00:16:31,020 --> 00:16:34,020
+Aber Schmerzen habe ich jetzt keine.
+
+247
+00:16:34,020 --> 00:16:39,020
+Seit wann haben Sie Herzkranken?
+
+248
+00:16:39,020 --> 00:16:54,200
+Ich habe gesagt, vor zehn Jahren habe ich Herzkarteter gehabt.
+
+249
+00:16:54,200 --> 00:16:59,090
+Haben Sie auch Husten dabei?
+
+250
+00:16:59,090 --> 00:17:02,090
+Husten habe ich nicht.
+
+251
+00:17:02,090 --> 00:17:05,090
+Der Blutdruck war eigentlich immer ganz gut.
+
+252
+00:17:05,090 --> 00:17:08,090
+130, 140, 70, 130, 80.
+
+253
+00:17:08,090 --> 00:17:19,920
+Okay, eine Frage?
+
+254
+00:17:19,920 --> 00:17:22,920
+Ich sehe niemand mehr.
+
+255
+00:17:22,920 --> 00:17:24,920
+Wo ist der Doktor?
+
+256
+00:17:24,920 --> 00:17:26,920
+Werden Sie?
+
+257
+00:17:26,920 --> 00:17:29,920
+Ich bin da.
+
+258
+00:17:29,920 --> 00:17:32,920
+Also das EKG ist gemacht.
+
+259
+00:17:32,920 --> 00:17:36,920
+Das EKG zeigt einen Puls von 72.
+
+260
+00:17:36,920 --> 00:17:39,920
+Aber es ist unregelmäßig.
+
+261
+00:17:39,920 --> 00:17:43,550
+Man sieht keine Pewelle.
+
+262
+00:17:43,550 --> 00:17:46,550
+Worauf geht es?
+
+263
+00:17:46,550 --> 00:17:50,950
+Zum Beispiel.
+
+264
+00:17:50,950 --> 00:18:00,220
+Hat der Patient vorher aber nicht gehabt?
+
+265
+00:18:00,220 --> 00:18:13,220
+Wegen Hypertonie.
+
+266
+00:18:13,220 --> 00:18:16,220
+Hargiumiopathy meine ich.
+
+267
+00:18:16,220 --> 00:18:19,220
+Nein, nein, nein.
+
+268
+00:18:19,220 --> 00:18:21,220
+Keine Diagnose.
+
+269
+00:18:21,220 --> 00:18:24,220
+Können wir Arzt-Arzt-Gespräch erst mal?
+
+270
+00:18:26,600 --> 00:18:29,600
+So, Doktor.
+
+271
+00:18:29,600 --> 00:18:33,600
+Herr Oberhals, ich habe einen neuen Patient aufgenommen.
+
+272
+00:18:33,600 --> 00:18:36,600
+Ich würde gerne Ihnen vorstellen.
+
+273
+00:18:36,600 --> 00:18:39,600
+Sehr gerne, dann legen Sie mal los.
+
+274
+00:18:39,600 --> 00:18:42,600
+Vielen Dank.
+
+275
+00:18:42,600 --> 00:18:46,600
+Es geht um Herr Alexander Leiter.
+
+276
+00:18:46,600 --> 00:18:49,600
+Er ist 78 Jahre alt.
+
+277
+00:18:49,600 --> 00:18:52,600
+Am 23.
+
+278
+00:18:52,600 --> 00:18:54,600
+3.
+
+279
+00:18:54,600 --> 00:18:57,600
+1947 geworden.
+
+280
+00:18:57,600 --> 00:19:02,600
+1 Meter 79 Metern groß.
+
+281
+00:19:02,600 --> 00:19:07,600
+82 Kilogramm.
+
+282
+00:19:07,600 --> 00:19:13,600
+Er stellt sich in der Notaufnahme
+
+283
+00:19:13,600 --> 00:19:18,600
+wegen seit 2 Wochen
+
+284
+00:19:18,600 --> 00:19:26,600
+eine bestehende Ermütung nach dem Sport vor.
+
+285
+00:19:26,600 --> 00:19:31,580
+Bequetschen.
+
+286
+00:19:31,580 --> 00:19:38,580
+Er hat auch leichter Atemnot nach dem Sport bemerkt.
+
+287
+00:19:38,580 --> 00:19:44,580
+Er hat eine Belastungs- und Dispünö.
+
+288
+00:19:44,580 --> 00:19:47,580
+Belastungs- und Dispünö.
+
+289
+00:19:47,580 --> 00:19:57,580
+Er muss 30 Minuten ausruhen,
+
+290
+00:19:57,580 --> 00:20:02,580
+damit er besser geht.
+
+291
+00:20:02,580 --> 00:20:06,580
+Damit er ihm besser geht.
+
+292
+00:20:06,580 --> 00:20:09,580
+Damit er ihm besser geht.
+
+293
+00:20:09,580 --> 00:20:14,580
+Er hat auch
+
+294
+00:20:14,580 --> 00:20:18,580
+bei den Füßen
+
+295
+00:20:18,580 --> 00:20:22,580
+eine Schwellung bemerkt.
+
+296
+00:20:22,580 --> 00:20:26,580
+Er hat die Ödem bemerkt.
+
+297
+00:20:26,580 --> 00:20:30,580
+Er hat die Ödem ausgeprägt.
+
+298
+00:20:30,580 --> 00:20:34,580
+Er hat eine Unterschenkel- oder Knöchel-Odem.
+
+299
+00:20:34,580 --> 00:20:37,580
+Er hat eine Oberschenkel.
+
+300
+00:20:37,580 --> 00:20:40,580
+Er hat eine Stauungsdämmer.
+
+301
+00:20:40,580 --> 00:20:43,580
+Er hat eine Stauungsdämmer.
+
+302
+00:20:43,580 --> 00:20:46,580
+Er hat die Stauungsdämmer.
+
+303
+00:20:46,580 --> 00:20:52,580
+Er hat eine Stauungsdämmer.
+
+304
+00:20:54,580 --> 00:20:59,580
+Er hat einen Knöchel-Odem.
+
+305
+00:20:59,580 --> 00:21:02,580
+Er hat keine Catique.
+
+306
+00:21:02,580 --> 00:21:07,580
+Er hat beide Seite Knöchel-Odem.
+
+307
+00:21:07,580 --> 00:21:09,160
+Er hat diezeiten 17 Jahre
+
+308
+00:21:09,160 --> 00:21:18,160
+Vor 20 Jahren wurde bei ihm eine Herzkatheter durchgeführt.
+
+309
+00:21:18,160 --> 00:21:22,160
+Dann haben wir zwei Stände gehabt.
+
+310
+00:21:22,160 --> 00:21:24,160
+Vor 20 Jahren oder vor 10 Jahren?
+
+311
+00:21:24,160 --> 00:21:30,760
+Vor 10 Jahren.
+
+312
+00:21:30,760 --> 00:21:33,760
+Und den Blutdruck hat er?
+
+313
+00:21:33,760 --> 00:21:38,760
+Seit 20 Jahren habe er Hypertony.
+
+314
+00:21:38,760 --> 00:21:49,760
+Vor 10 Jahren habe er Herzkrankheit.
+
+315
+00:21:49,760 --> 00:21:51,760
+Eine Herzkrankheit?
+
+316
+00:21:51,760 --> 00:21:55,760
+Sie meine eine coronare Herzkrankheit.
+
+317
+00:21:55,760 --> 00:22:00,760
+Haben Sie gefragt, ob er auch einen Herzinfarkt hatte?
+
+318
+00:22:00,760 --> 00:22:07,760
+Ja, er hatte Herzinfarkt, wegen Herzinfarkt.
+
+319
+00:22:07,760 --> 00:22:11,760
+Er hatte zwei Stände bekommen.
+
+320
+00:22:11,760 --> 00:22:15,760
+Sicher, dass er einen Herzinfarkt hatte?
+
+321
+00:22:15,760 --> 00:22:19,760
+Er hatte eine Herzkatheter bekommen.
+
+322
+00:22:19,760 --> 00:22:22,760
+Herzkatheter und zwei Stände.
+
+323
+00:22:22,760 --> 00:22:27,760
+Er hat eine Herzkrankheit.
+
+324
+00:22:27,760 --> 00:22:50,110
+Er hat ein Herzinfarkt.
+
+325
+00:22:50,110 --> 00:22:55,830
+Er sei Schnarrie.
+
+326
+00:22:55,830 --> 00:23:04,470
+Er sei zu Röntner vor Herr Schnarrie.
+
+327
+00:23:04,470 --> 00:23:06,790
+Schreiner.
+
+328
+00:23:06,790 --> 00:23:07,870
+Schreiner.
+
+329
+00:23:07,870 --> 00:23:09,470
+Schreiner.
+
+330
+00:23:09,470 --> 00:23:10,350
+Schreiner.
+
+331
+00:23:10,350 --> 00:23:12,790
+Ah, R E I N E R.
+
+332
+00:23:12,790 --> 00:23:13,870
+Schreiner.
+
+333
+00:23:13,870 --> 00:23:15,190
+Das ist aber egal.
+
+334
+00:23:15,190 --> 00:23:16,710
+Er sei fürheiert.
+
+335
+00:23:16,710 --> 00:23:18,710
+Er habe zwei gesunde Kinder.
+
+336
+00:23:19,030 --> 00:23:20,710
+Mhm.
+
+337
+00:23:20,710 --> 00:23:22,710
+Ja.
+
+338
+00:23:22,710 --> 00:23:29,910
+Und diese Angabe durch den Amelsten.
+
+339
+00:23:29,910 --> 00:23:31,190
+Sind Sie fertig?
+
+340
+00:23:31,190 --> 00:23:34,590
+Ich hätte noch ein paar Fragen zu den Patienten.
+
+341
+00:23:34,590 --> 00:23:35,430
+Gerne.
+
+342
+00:23:35,430 --> 00:23:42,230
+Hat er nur Luftnud, oder hat er auch manchmal eine instabile AP?
+
+343
+00:23:42,230 --> 00:23:43,990
+Oder strahlt es aus?
+
+344
+00:23:43,990 --> 00:23:55,590
+Er hat eine Belastungsdyspnö.
+
+345
+00:23:55,590 --> 00:24:01,190
+Er habe Belastungsdyspnö, aber hat er auch eine Belastungsangina.
+
+346
+00:24:01,190 --> 00:24:04,070
+Belastungsangina, ja.
+
+347
+00:24:04,070 --> 00:24:06,110
+Er hat leichter.
+
+348
+00:24:06,110 --> 00:24:06,910
+Hat er?
+
+349
+00:24:06,910 --> 00:24:07,910
+Ja.
+
+350
+00:24:07,910 --> 00:24:08,910
+Okay.
+
+351
+00:24:08,910 --> 00:24:11,910
+Er hat eine Belastungsangina.
+
+352
+00:24:11,910 --> 00:24:12,910
+Gut.
+
+353
+00:24:12,910 --> 00:24:19,190
+Hat er noch mal, haben Sie gefragt, ob er in den letzten zehn Jahren noch mal einen Herzkatheter
+
+354
+00:24:19,190 --> 00:24:22,910
+hatte, oder noch mal einen Herzinfarkt vielleicht hatte?
+
+355
+00:24:22,910 --> 00:24:25,550
+Haben Sie nicht gefragt.
+
+356
+00:24:25,550 --> 00:24:27,750
+Haben Sie nicht gefragt, okay.
+
+357
+00:24:27,750 --> 00:24:37,710
+Aber, ich habe gefragt, wo denn Sie operiert haben, hat er Sie erwähnt, muss ich sagen?
+
+358
+00:24:37,710 --> 00:24:40,630
+Er hat verneint, dass er operiert wurde.
+
+359
+00:24:40,630 --> 00:24:41,630
+Gut.
+
+360
+00:24:41,630 --> 00:24:46,550
+Was meinen Sie, was der Patient hat?
+
+361
+00:24:46,550 --> 00:24:48,630
+Sie haben eine EKG gemacht?
+
+362
+00:24:48,630 --> 00:24:51,630
+Ja, EKG.
+
+363
+00:24:51,630 --> 00:24:58,070
+Auf EKG gibt es keinen P-Wähler.
+
+364
+00:24:58,070 --> 00:25:00,910
+Im EKG, nicht auf EKG.
+
+365
+00:25:00,910 --> 00:25:05,390
+Im EKG gibt es keinen P-Wähler und unregelmäßige Q-Areskomplex.
+
+366
+00:25:05,390 --> 00:25:11,390
+Das sieht vorhoffeliment, Artilalfibulation.
+
+367
+00:25:11,390 --> 00:25:15,950
+Das sieht aus wie ein vorhoffeliment, okay.
+
+368
+00:25:15,950 --> 00:25:18,110
+Ja, das sieht auch wie ein vorhoffeliment.
+
+369
+00:25:18,110 --> 00:25:23,390
+Wie ist der Puls?
+
+370
+00:25:23,390 --> 00:25:24,950
+Ist es schnell oder langsam?
+
+371
+00:25:24,950 --> 00:25:32,390
+Es sieht 70 aus, als nicht tachikalbische.
+
+372
+00:25:33,390 --> 00:25:37,390
+Als er ist nicht tachiaritmisch.
+
+373
+00:25:37,390 --> 00:25:40,390
+Er ist normalfrequent.
+
+374
+00:25:40,390 --> 00:25:42,390
+Normalfrequenz, ja.
+
+375
+00:25:42,390 --> 00:25:43,390
+Normalfrequent.
+
+376
+00:25:43,390 --> 00:25:52,390
+Also, das heißt, Sie gehen von einem normalfrequenten Vorhofflimmern aus, okay.
+
+377
+00:25:52,390 --> 00:26:14,390
+Und diese Beschwerde durchstabilt einen Genapektor, wegen dieser Angaben durchstabilt einen Genapektor hin.
+
+378
+00:26:14,390 --> 00:26:16,390
+Was hat er jetzt?
+
+379
+00:26:16,390 --> 00:26:20,390
+Sie sagen, er hat jetzt eine Abotomie bei Vorhofflimmern.
+
+380
+00:26:20,390 --> 00:26:23,390
+Jetzt sagen Sie, er hat eine stabile Angena.
+
+381
+00:26:23,390 --> 00:26:25,390
+Was ist das jetzt?
+
+382
+00:26:25,390 --> 00:26:32,390
+Weil er habe Belastung, das könnte auch sein.
+
+383
+00:26:32,390 --> 00:26:35,390
+Normalerweise geht es so.
+
+384
+00:26:35,390 --> 00:26:44,390
+Sie geben eine Verdachtstiagnose oder ihre Arbeitstiagnose an und danach kommen ihre Differenzialdiagnose.
+
+385
+00:26:44,390 --> 00:26:49,390
+Das war meine Verdachtstiagnose, Stabilangena pektores.
+
+386
+00:26:49,390 --> 00:26:55,920
+Das ist aber ein Symptom, das ist aber keine Erkrankung.
+
+387
+00:26:55,920 --> 00:26:58,920
+Warum hatte die Angena pektores?
+
+388
+00:26:58,920 --> 00:27:01,920
+Stabilangena pektores ist nicht ein...
+
+389
+00:27:01,920 --> 00:27:08,920
+Ja, okay, Stabilangena pektores ist aber ein Symptom, das beschreibt eine Symptomatik.
+
+390
+00:27:08,920 --> 00:27:10,920
+Das ist keine Erkrankung.
+
+391
+00:27:10,920 --> 00:27:16,920
+Das heißt, Sie müssen jetzt eine Erkrankung angeben.
+
+392
+00:27:16,920 --> 00:27:26,920
+Dann wird er mal so vollbühren, er hat eine stabile Angena pektores bei Verdacht auf Progres der bekannten KKK,
+
+393
+00:27:26,920 --> 00:27:28,920
+Coronaheizerkrankung.
+
+394
+00:27:28,920 --> 00:27:33,740
+Also das ist Ihre Verdachtstiagnose, ja?
+
+395
+00:27:33,740 --> 00:27:34,740
+Ja.
+
+396
+00:27:34,740 --> 00:27:36,740
+Warum hat er Belastungsdüstpnö?
+
+397
+00:27:36,740 --> 00:27:43,740
+Das heißt, bei Progres der KKK und Herzinsuffizienz.
+
+398
+00:27:44,740 --> 00:27:53,140
+Beginnender Herzinsuffizienz, so würde ich das formulieren.
+
+399
+00:27:53,140 --> 00:27:58,140
+Denn er hat beim Liegen keine Düstpnö, es ist nur eine Belastungsdüstpnö.
+
+400
+00:27:58,140 --> 00:28:01,140
+Welche Nyhag-Klassifikation ist das?
+
+401
+00:28:01,140 --> 00:28:05,640
+Eins.
+
+402
+00:28:07,640 --> 00:28:10,640
+Eins, zwei, drei, vier, fünf, sechs.
+
+403
+00:28:10,640 --> 00:28:13,640
+Bestimmt nicht drei und vier.
+
+404
+00:28:13,640 --> 00:28:15,640
+Eins oder zwei?
+
+405
+00:28:15,640 --> 00:28:17,640
+Ja, eigentlich.
+
+406
+00:28:17,640 --> 00:28:20,640
+Kein Scepton war eins, dann zwei.
+
+407
+00:28:20,640 --> 00:28:22,640
+Jetzt ist es nicht mehr zwei.
+
+408
+00:28:22,640 --> 00:28:24,640
+Wir sind der Arzt, Sie müssen das wissen.
+
+409
+00:28:24,640 --> 00:28:26,640
+Sie haben den Patienten untersucht.
+
+410
+00:28:26,640 --> 00:28:29,640
+Und können wir nachher gleich nochmal fragen.
+
+411
+00:28:29,640 --> 00:28:31,640
+Alles klar.
+
+412
+00:28:31,640 --> 00:28:34,640
+Okay, was sind Ihre weitere Differenzialdiagnose?
+
+413
+00:28:34,640 --> 00:28:41,640
+Sie gehen jetzt von einem Progres der KKK aus, mit einer Arytmie und einer Herzinsuffizienz.
+
+414
+00:28:41,640 --> 00:28:43,640
+Okay, was haben Sie noch für eine Diagnose?
+
+415
+00:28:43,640 --> 00:28:48,640
+Das könnte auch Lungenembolie sein.
+
+416
+00:28:48,640 --> 00:28:51,640
+Könnte auch Lungenembolie sein, ja, wo?
+
+417
+00:28:51,640 --> 00:28:58,640
+Und eine Pneumonie könnte auch sein.
+
+418
+00:28:58,640 --> 00:29:02,640
+Luftnot, Pneumonie, das ist eine, ich meine, ich habe keine Pneumonie.
+
+419
+00:29:02,640 --> 00:29:05,640
+Bewochen, genau, alter Mann.
+
+420
+00:29:05,640 --> 00:29:08,640
+Und alter Mann.
+
+421
+00:29:08,640 --> 00:29:11,640
+Woran denken Sie noch bei alten Menschen?
+
+422
+00:29:11,640 --> 00:29:14,640
+Krebs, muss ich denken.
+
+423
+00:29:14,640 --> 00:29:15,640
+Natürlich, immer?
+
+424
+00:29:15,640 --> 00:29:16,640
+Ja.
+
+425
+00:29:16,640 --> 00:29:17,640
+Was war ein Krebs?
+
+426
+00:29:17,640 --> 00:29:22,640
+Das könnte auch eine Lungenkrebs, Bronchial-Kanzelnum könnte sein.
+
+427
+00:29:22,640 --> 00:29:25,640
+Bronchial-Kanzelnum kann es sein, ja, wo natürlich.
+
+428
+00:29:25,640 --> 00:29:28,640
+Was noch?
+
+429
+00:29:28,640 --> 00:29:36,120
+Noch mal etwas Kardiales.
+
+430
+00:29:36,120 --> 00:29:38,120
+Was gibt es im Herzen noch?
+
+431
+00:29:38,120 --> 00:29:41,400
+Herz.
+
+432
+00:29:41,400 --> 00:29:44,940
+Das geht immer so auf und zu?
+
+433
+00:29:44,940 --> 00:29:52,940
+Ja, auch auf der Klappe oder insuffizienz?
+
+434
+00:29:52,940 --> 00:29:57,940
+Eine Klappe insuffizienz, ja, kann eine Ortenklappe insuffizienz sein.
+
+435
+00:29:57,940 --> 00:30:00,940
+Das kann eine Trich-Hospital insuffizienz sein.
+
+436
+00:30:00,940 --> 00:30:04,940
+Das kann aber auch eine Mittalklappe insuffizienz sein.
+
+437
+00:30:04,940 --> 00:30:10,940
+Das heißt, Sie hören den Patienten ab, auskultieren die Herz-Töne
+
+438
+00:30:10,940 --> 00:30:15,940
+und dann können Sie ganz genau sagen, welche Klappe, welches Herz-Geräusch hat
+
+439
+00:30:15,940 --> 00:30:18,940
+und dann kann man das richtig zuordnen.
+
+440
+00:30:18,940 --> 00:30:20,940
+Mit Echo.
+
+441
+00:30:20,940 --> 00:30:23,940
+Echo ist nur eine Bestätigung.
+
+442
+00:30:23,940 --> 00:30:27,940
+Stimmt, das kommt von Abhören, dann haben Sie schon Ihre Diagnose.
+
+443
+00:30:27,940 --> 00:30:30,940
+Sie brauchen kein Echo, um eine Diagnose zu stellen.
+
+444
+00:30:30,940 --> 00:30:33,940
+Echo bestätigt Ihren Verdacht.
+
+445
+00:30:33,940 --> 00:30:35,940
+Ja, historische, historische.
+
+446
+00:30:35,940 --> 00:30:38,940
+Das kann man auch schön hören beim Auskultieren.
+
+447
+00:30:39,940 --> 00:30:43,940
+Sie müssen doch machen und haben eine Frage, eine Eskateologe.
+
+448
+00:30:43,940 --> 00:30:48,940
+Okay, aber woran muss man noch denken, am Herzen?
+
+449
+00:30:48,940 --> 00:30:51,940
+Ein Orten-Anarchist machen.
+
+450
+00:30:51,940 --> 00:30:53,940
+Orten, ja.
+
+451
+00:30:53,940 --> 00:30:55,940
+Oder Orten-Disektion, okay.
+
+452
+00:30:55,940 --> 00:30:59,940
+Er hat keinen Schmerzen, aber ja, Erartung ist immer.
+
+453
+00:30:59,940 --> 00:31:05,940
+Und Lunge vielleicht noch mal?
+
+454
+00:31:05,940 --> 00:31:07,940
+Lunge.
+
+455
+00:31:07,940 --> 00:31:09,940
+Er hat nie geraucht, aber es kann sich auch...
+
+456
+00:31:09,940 --> 00:31:11,940
+COPD.
+
+457
+00:31:11,940 --> 00:31:13,940
+Ein Lungen im Physiom sich geben.
+
+458
+00:31:13,940 --> 00:31:20,680
+Ja.
+
+459
+00:31:20,680 --> 00:31:22,680
+Okay.
+
+460
+00:31:22,680 --> 00:31:24,680
+Noch mehr?
+
+461
+00:31:24,680 --> 00:31:34,400
+Diagnose oder haben die Kollegen vielleicht nochmal die Kollegen mal zu Hilfe fragen.
+
+462
+00:31:34,400 --> 00:31:36,400
+Das sagen die anderen Kollegen noch dazu.
+
+463
+00:31:36,400 --> 00:31:46,820
+Andere Diagnose.
+
+464
+00:31:46,820 --> 00:31:48,820
+Das war echt erst mal.
+
+465
+00:31:48,820 --> 00:31:51,820
+Okay.
+
+466
+00:31:51,820 --> 00:31:54,820
+Ja, das war der Kollege, sie sind durchgefallen.
+
+467
+00:31:54,820 --> 00:31:56,820
+Ja.
+
+468
+00:31:56,820 --> 00:31:59,820
+Wir können jetzt ein bisschen eine kleine Analyse machen,
+
+469
+00:31:59,820 --> 00:32:01,820
+wenn die Kollegen einverstanden sind.
+
+470
+00:32:01,820 --> 00:32:07,960
+Dr. Mahmthavis auch da, oder dürfen wir eine kleine Analyse machen.
+
+471
+00:32:07,960 --> 00:32:09,960
+Ist nicht mehr da.
+
+472
+00:32:09,960 --> 00:32:16,960
+Erstens, das war jetzt ein Patient, der war vor zwei Tagen da.
+
+473
+00:32:16,960 --> 00:32:22,960
+Er hat wirklich ein neu aufgetretenes Phochoflimmern.
+
+474
+00:32:22,960 --> 00:32:27,960
+Und das ist wahrscheinlich der Grund, warum er eine Belastungsdyspne hat.
+
+475
+00:32:27,960 --> 00:32:32,960
+Und das ist ein Zeichen für eine beginnende Herzinsuffizienz.
+
+476
+00:32:32,960 --> 00:32:42,240
+Er hat NH2, diese Einstufungen müssen Sie ganz genau lernen für die Prüfung.
+
+477
+00:32:42,240 --> 00:32:44,240
+Ja.
+
+478
+00:32:44,240 --> 00:32:46,240
+Die NH2-Klassifikation.
+
+479
+00:32:46,240 --> 00:32:50,240
+Und die medizinischen Begriffe müssen Sie besser lernen.
+
+480
+00:32:51,240 --> 00:32:56,240
+Das ist natürlich auf Deutsch, ist es richtig.
+
+481
+00:32:56,240 --> 00:32:59,240
+Er hat bei Belastung Luftnot.
+
+482
+00:32:59,240 --> 00:33:01,240
+Aber wenn Sie Arzt-Arztgespräch machen,
+
+483
+00:33:01,240 --> 00:33:04,240
+müssen Sie schon die medizinischen Begriffe benutzen.
+
+484
+00:33:04,240 --> 00:33:06,240
+Ja.
+
+485
+00:33:06,240 --> 00:33:11,240
+Das Zweite ist, wenn der Patient Druck auf der Brust hat,
+
+486
+00:33:11,240 --> 00:33:16,240
+dann muss man immer natürlich an eine KHK denken.
+
+487
+00:33:16,240 --> 00:33:21,240
+Der Patient hat ja schon eine KHK, weil er Stands hat.
+
+488
+00:33:21,240 --> 00:33:26,240
+Und dann muss man auch daran denken, ob diese KHK sich verschlimmert hat.
+
+489
+00:33:26,240 --> 00:33:30,240
+Das nennt sich ein Progres der KHK.
+
+490
+00:33:30,240 --> 00:33:32,240
+Eine Verschlechterung der KHK.
+
+491
+00:33:32,240 --> 00:33:35,240
+Und da muss man natürlich nochmal schauen, wie Sie sagen,
+
+492
+00:33:35,240 --> 00:33:41,240
+Echo, EKG und sich überlegen, ob man nochmal einen Herzkatheter machen muss.
+
+493
+00:33:41,240 --> 00:33:50,740
+Der Patient hat neu aufgetretene Knöchelödem, also Unterschenkelödem.
+
+494
+00:33:50,740 --> 00:33:54,740
+Also wenn man nochmal zusammenfasst, Unterschenkelödem.
+
+495
+00:33:54,740 --> 00:33:58,740
+Belastungsdüsbne und eine neu aufgetretene Rhythmusstörung.
+
+496
+00:33:58,740 --> 00:34:05,740
+Also spricht das schon eher für eine kardiale Dekompensation
+
+497
+00:34:05,740 --> 00:34:09,740
+bei neu aufgetretenem Vorhof Lehmann.
+
+498
+00:34:10,740 --> 00:34:15,740
+Denn die Wahrscheinlichkeit bei Patienten über 70 Jahre
+
+499
+00:34:15,740 --> 00:34:22,740
+ist groß, dass man ein plötzliches oder spontanes Vorhof Lehmann bekommt.
+
+500
+00:34:22,740 --> 00:34:26,740
+Und oft merken die Patienten das nicht.
+
+501
+00:34:26,740 --> 00:34:32,740
+Wenn sie den Puls nicht messen, hat es an seinem Blutdruck-Messgerät gemerkt,
+
+502
+00:34:32,740 --> 00:34:37,740
+dass der Puls unregelmäßig ist.
+
+503
+00:34:37,740 --> 00:34:40,740
+Und das hat ihn beunruhigt, also ist er zum Arzt.
+
+504
+00:34:40,740 --> 00:34:50,750
+Also das heißt, Sie müssen jetzt ein bisschen die Diagnose
+
+505
+00:34:50,750 --> 00:34:55,750
+und die Therapie von Vorhof Lehmann kennenlernen.
+
+506
+00:34:55,750 --> 00:34:59,750
+Das heißt, welche Sorte von Vorhof Lehmann gibt es?
+
+507
+00:34:59,750 --> 00:35:03,750
+Ein intermittentes Vorhof Lehmann, ein permanentes Vorhof Lehmann,
+
+508
+00:35:03,750 --> 00:35:05,750
+ein chronisches Vorhof Lehmann.
+
+509
+00:35:05,750 --> 00:35:10,750
+Und wie stellt man die Diagnose?
+
+510
+00:35:10,750 --> 00:35:13,750
+Und wie ist die Therapie bei Vorhof Lehmann?
+
+511
+00:35:13,750 --> 00:35:20,030
+Es gibt mehrere Möglichkeiten, eine Rhythmusstabilisierung,
+
+512
+00:35:20,030 --> 00:35:24,030
+eine Frequenzstabilisierung.
+
+513
+00:35:24,030 --> 00:35:29,030
+Und er ist ja enormer Frequent, das heißt, die Frequenz ist in Ordnung,
+
+514
+00:35:29,030 --> 00:35:32,030
+als versucht man den Rhythmus zu stabilisieren.
+
+515
+00:35:32,030 --> 00:35:34,030
+Irgendwie macht man das als erstes.
+
+516
+00:35:36,600 --> 00:35:40,600
+Was macht man, um den Rhythmus zu stabilisieren bei Vorhof Lehmann?
+
+517
+00:35:40,600 --> 00:35:42,600
+Medikamentös.
+
+518
+00:35:42,600 --> 00:35:46,600
+Medikamentös ist eine Möglichkeit, wenn der Patient aber sonst gesund ist.
+
+519
+00:35:46,600 --> 00:35:50,600
+Eine Elektrokardioversion.
+
+520
+00:35:50,600 --> 00:35:55,600
+Genau, wenn er stabil ist und das Vorhof Lehmann neu ist,
+
+521
+00:35:55,600 --> 00:35:59,600
+dann würde man als erstes natürlich eine Elektrokardioversion probieren.
+
+522
+00:36:00,600 --> 00:36:04,600
+Wir bestimmen, ob eine Grinsel im Herz...
+
+523
+00:36:04,600 --> 00:36:06,600
+Und wie machen Sie das?
+
+524
+00:36:06,600 --> 00:36:11,600
+Mit endo-Echo.
+
+525
+00:36:11,600 --> 00:36:13,600
+Trans-asophagial-Echo.
+
+526
+00:36:13,600 --> 00:36:19,600
+Genau, ein TEE, ein Bluckecho oder ein trans-asophagiales Echokardiogramm.
+
+527
+00:36:19,600 --> 00:36:21,600
+Richtig.
+
+528
+00:36:21,600 --> 00:36:24,600
+Und, was müssen wir noch, Medikamentös machen?
+
+529
+00:36:24,600 --> 00:36:28,600
+Das Blut verdünnen, also antikoragulieren.
+
+530
+00:36:28,600 --> 00:36:32,600
+Und da gibt es welche Möglichkeiten?
+
+531
+00:36:32,600 --> 00:36:40,260
+Direkt antikoragulieren dürfen wir geben.
+
+532
+00:36:40,260 --> 00:36:42,260
+Welches?
+
+533
+00:36:42,260 --> 00:36:47,260
+Zum Beispiel elikuis, lexiana, davigatran.
+
+534
+00:36:47,260 --> 00:36:50,260
+Das sind Handelsnamen.
+
+535
+00:36:50,260 --> 00:36:53,260
+Sie müssen das mit den Wirkstoffen sein.
+
+536
+00:36:53,260 --> 00:36:57,260
+Davigatran.
+
+537
+00:36:57,260 --> 00:37:01,260
+Elikuis, wie heißt der Wirkstoff bei elikuis?
+
+538
+00:37:01,260 --> 00:37:05,260
+Apixaban.
+
+539
+00:37:05,260 --> 00:37:07,260
+Apixaban, ja.
+
+540
+00:37:07,260 --> 00:37:09,260
+Und bei lexiana?
+
+541
+00:37:09,260 --> 00:37:12,260
+Und lexiana ist was?
+
+542
+00:37:12,260 --> 00:37:15,260
+Eduxaban.
+
+543
+00:37:15,260 --> 00:37:18,260
+Okay, warte, eins haben wir noch.
+
+544
+00:37:18,260 --> 00:37:21,260
+Xarelto ist was?
+
+545
+00:37:21,260 --> 00:37:24,260
+Xarelto ist...
+
+546
+00:37:24,260 --> 00:37:27,260
+Xarelto war opf-oxaban.
+
+547
+00:37:27,260 --> 00:37:31,670
+Was hat man früher sehr oft gegeben?
+
+548
+00:37:31,670 --> 00:37:33,670
+Mocuma.
+
+549
+00:37:33,670 --> 00:37:35,670
+Oder Varparin, genau.
+
+550
+00:37:35,670 --> 00:37:40,670
+Und bei akut, wenn du eine frische Diagnose hast, was gibst du dann?
+
+551
+00:37:40,670 --> 00:37:42,670
+Bauchspritze?
+
+552
+00:37:42,670 --> 00:37:45,670
+Klexan...
+
+553
+00:37:45,670 --> 00:37:49,670
+Ein niedermolekulares Heparin.
+
+554
+00:37:49,670 --> 00:37:53,670
+Zum Beispiel, lexan, endepthoparin.
+
+555
+00:37:53,670 --> 00:37:57,670
+Aber es gibt natürlich auch andere Heparine, ja.
+
+556
+00:37:57,670 --> 00:37:59,670
+Genau.
+
+557
+00:37:59,670 --> 00:38:04,270
+Kompliziert, ja, schwierig.
+
+558
+00:38:04,270 --> 00:38:07,270
+Sie sind kein Facharzt für Kondysikatologie, oder?
+
+559
+00:38:07,270 --> 00:38:09,270
+Was haben Sie früher gemacht?
+
+560
+00:38:09,270 --> 00:38:11,270
+Ich habe keine Facharztinologie,
+
+561
+00:38:11,270 --> 00:38:15,270
+aber ich habe in der Türkei, in Nutzaufnahme gearbeitet.
+
+562
+00:38:15,270 --> 00:38:17,270
+Aber ich bin...
+
+563
+00:38:17,270 --> 00:38:21,270
+Dann müssen Sie das können, mein Lieber.
+
+564
+00:38:21,270 --> 00:38:24,270
+Also, Sie schauen sich an, Vorhof Limmern.
+
+565
+00:38:24,270 --> 00:38:29,270
+Sie schauen sich an die Einstufungen der Herzinsuffizienz.
+
+566
+00:38:29,270 --> 00:38:33,270
+Welche Sorten von Herzinsuffizienz gibt es?
+
+567
+00:38:33,270 --> 00:38:37,270
+Eine ischibische Kardiomyopathie, dilatative Kardiomyopathie,
+
+568
+00:38:37,270 --> 00:38:41,270
+obspektive Kardiomyopathie, eine Rhythmogene,
+
+569
+00:38:41,270 --> 00:38:45,270
+und eventuell eine Rhythmo-Kardiomyopathie,
+
+570
+00:38:45,270 --> 00:38:49,270
+dann gibt es jetzt auch eine neue Bezeichnung der Herzinsuffizienz.
+
+571
+00:38:49,270 --> 00:38:53,270
+Hefpef, hefref, so ähnlich heißen die,
+
+572
+00:38:53,270 --> 00:38:58,270
+da müssen Sie auch noch mal gucken, was das genau bedeutet.
+
+573
+00:38:58,270 --> 00:39:04,800
+Ja, sehr gut.
+
+574
+00:39:04,800 --> 00:39:09,800
+Warum, warum, warum können wir die Frage noch mal...
+
+575
+00:39:09,800 --> 00:39:12,800
+Momentan mit Bukinchox-Hestes-Karpen-Sabe,
+
+576
+00:39:12,800 --> 00:39:16,800
+ich kann mir das nicht anhören als Kardiologe.

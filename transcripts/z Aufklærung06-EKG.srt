@@ -1,0 +1,31 @@
+1
+00:00:01,520 --> 00:00:05,520
+Wir möchten bei Ihnen ein sogenanntes EKG schreiben.
+
+2
+00:00:05,520 --> 00:00:09,520
+Das ist eine schmerzlose Routine-Untersuchung Ihres Herzens.
+
+3
+00:00:09,520 --> 00:00:13,520
+Dabei können wir die Funktion Ihres Herzens-Untersuchung.
+
+4
+00:00:13,520 --> 00:00:18,520
+Bei dieser Untersuchung kleben wir einige Kabel auf die Haut Ihres Oberkörpers
+
+5
+00:00:18,520 --> 00:00:21,520
+und messen die elektrischen Ströme des Herzens.
+
+6
+00:00:21,520 --> 00:00:25,520
+Das dauert nur wenige Minuten und ist völlig schmerzfrei.
+
+7
+00:00:25,520 --> 00:00:27,520
+Sie merken von der Untersuchung nichts.
+
+8
+00:00:27,520 --> 00:00:30,520
+Es gibt keine Risiken oder Nebenwirkungen.
