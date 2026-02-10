@@ -1,0 +1,2171 @@
+1
+00:00:00,000 --> 00:00:05,360
+Hallo, Erwild ist mein Name.
+
+2
+00:00:05,360 --> 00:00:12,280
+Ich bin auf dieser Station als Assistenzarzt tätig und würde gerne mit Ihnen das Aufnahmegespräch durchführen.
+
+3
+00:00:12,280 --> 00:00:16,880
+Falls Sie Fragen haben, können Sie Ihre Fragen jederzeit stellen.
+
+4
+00:00:16,880 --> 00:00:19,360
+Wie heißen Sie?
+
+5
+00:00:19,360 --> 00:00:22,560
+Ich heiße Walter Kaufmann.
+
+6
+00:00:22,560 --> 00:00:30,350
+Können Sie Ihre Vor- und Nachnamenbuch stabilen?
+
+7
+00:00:30,350 --> 00:00:51,070
+Ja, Walter schreibt sich W-A-L-T-E-R Walter und Kaufmann-K-A-U-F-M-A-N-N.
+
+8
+00:00:51,070 --> 00:00:52,350
+Kaufmann.
+
+9
+00:00:52,350 --> 00:00:54,670
+Ja, also Herr Kaufmann, richtig?
+
+10
+00:00:54,670 --> 00:00:55,870
+Ja, ja.
+
+11
+00:00:55,870 --> 00:00:57,510
+Wie alt sind Sie?
+
+12
+00:00:57,510 --> 00:00:59,710
+Ich bin 64.
+
+13
+00:00:59,830 --> 00:01:02,390
+65. Wann sind Sie genau geworden?
+
+14
+00:01:02,390 --> 00:01:06,430
+Am 26. März 1961.
+
+15
+00:01:06,430 --> 00:01:10,730
+61.
+
+16
+00:01:10,730 --> 00:01:14,010
+Wie groß und wie schwer sind Sie?
+
+17
+00:01:14,010 --> 00:01:21,170
+Ich bin 1,83 m groß und 680 kg schwer.
+
+18
+00:01:21,170 --> 00:01:26,930
+680 kg schwer und wie heißt Ihr Hausarzt?
+
+19
+00:01:26,930 --> 00:01:29,890
+Das ist Dr. Lindemann.
+
+20
+00:01:30,010 --> 00:01:31,330
+Dr. Lindemann.
+
+21
+00:01:31,330 --> 00:01:32,610
+Alles klar.
+
+22
+00:01:32,610 --> 00:01:36,210
+Was führt Sie zu uns?
+
+23
+00:01:36,210 --> 00:01:42,530
+Ich habe seit 2 Tagen ziemlich starke Schmerzen im linken Bein.
+
+24
+00:01:42,530 --> 00:01:47,290
+Ab der Mitte vom Oberschenkel ungefähr ab.
+
+25
+00:01:47,290 --> 00:01:51,690
+Bis in den Unterschenkel rein und in den Fuß.
+
+26
+00:01:51,690 --> 00:01:54,250
+Habe ich Schmerzen?
+
+27
+00:01:54,250 --> 00:01:56,450
+Können Sie das wieder beschreiben?
+
+28
+00:01:56,450 --> 00:01:58,970
+Weil ich Notizen mache.
+
+29
+00:01:59,050 --> 00:02:01,090
+Wo der Schmerz ist?
+
+30
+00:02:01,090 --> 00:02:02,890
+Genau.
+
+31
+00:02:02,890 --> 00:02:06,450
+Ab der Mitte vom Oberschenkel ungefähr.
+
+32
+00:02:06,450 --> 00:02:10,130
+Nicht ganz zu Beginn, sondern ab der Mitte.
+
+33
+00:02:10,130 --> 00:02:14,210
+Und im Unterschenkel und bis in den Fuß hinein.
+
+34
+00:02:14,210 --> 00:02:15,850
+Bis in den Fuß, ja.
+
+35
+00:02:15,850 --> 00:02:18,370
+Und da vorne oder?
+
+36
+00:02:18,370 --> 00:02:21,010
+Sonst habe ich keine Schmerzen.
+
+37
+00:02:21,010 --> 00:02:25,850
+Ich hatte Schmerzen schon mal im linken Bein.
+
+38
+00:02:25,930 --> 00:02:34,650
+Seit einigen Wochen merkte ich, wenn ich beim Gehen nach 150-200 m bekam,
+
+39
+00:02:34,650 --> 00:02:38,010
+ich Schmerzen im Bein, besonders im Unterschenkel.
+
+40
+00:02:38,010 --> 00:02:42,090
+Und da musste ich auch mal stehen bleiben, Pause machen.
+
+41
+00:02:42,090 --> 00:02:45,930
+Ja, das war seit einigen Wochen.
+
+42
+00:02:45,930 --> 00:02:49,210
+Aber jetzt seit 2 Tagen habe ich ganz starke Schmerzen im Bein.
+
+43
+00:02:49,210 --> 00:02:51,930
+Sogar in Ruhe, meinen Sie?
+
+44
+00:02:51,930 --> 00:02:53,330
+Ja, auch in Ruhe.
+
+45
+00:02:54,290 --> 00:02:55,770
+Okay.
+
+46
+00:02:55,770 --> 00:03:03,810
+Also, wie stark sind Ihre Schmerzen auf einer Schmerzkala von 1 bis 10,
+
+47
+00:03:03,810 --> 00:03:08,210
+wobei eines sehr leicht und sehr unerträgliche Schmerzen entspricht?
+
+48
+00:03:08,210 --> 00:03:10,530
+Ich würde sagen 6 bis 7.
+
+49
+00:03:10,530 --> 00:03:12,370
+6 bis 7?
+
+50
+00:03:12,370 --> 00:03:13,370
+Okay.
+
+51
+00:03:13,370 --> 00:03:14,890
+Das ist aber in Ruhe, ne?
+
+52
+00:03:14,890 --> 00:03:16,090
+Also Sie können...
+
+53
+00:03:16,090 --> 00:03:17,090
+In Ruhe.
+
+54
+00:03:17,090 --> 00:03:23,210
+Wenn ich mich jetzt bewege, ich wollte heute etwas in ein Treppel steigen.
+
+55
+00:03:23,490 --> 00:03:25,050
+Das schaffe ich nicht mehr.
+
+56
+00:03:25,050 --> 00:03:27,570
+Das tut dann noch so weh am Bein.
+
+57
+00:03:27,570 --> 00:03:31,130
+Also ich bleibe lieber in Ruhe sitzen im Sessel.
+
+58
+00:03:31,130 --> 00:03:32,130
+Okay.
+
+59
+00:03:32,130 --> 00:03:37,330
+Und diese, Sie haben gesagt, die Schmerzen sind bis in den Fuß.
+
+60
+00:03:37,330 --> 00:03:38,330
+Das ist eigentlich...
+
+61
+00:03:38,330 --> 00:03:41,130
+Ja, die strahlen eigentlich fast bis in den Fuß.
+
+62
+00:03:41,130 --> 00:03:44,530
+Also, besonders im Oberschenkel, aber auch im Unterschenkel.
+
+63
+00:03:44,530 --> 00:03:49,970
+Haben Sie etwas bemerkt, was die Schmerzen lindert oder verschlimmert?
+
+64
+00:03:49,970 --> 00:03:51,970
+Bewegung verschlimmert.
+
+65
+00:03:51,970 --> 00:03:52,970
+Bewegung.
+
+66
+00:03:52,970 --> 00:03:53,970
+Okay.
+
+67
+00:03:53,970 --> 00:03:57,970
+Und was lindert, haben Sie nicht bemerkt?
+
+68
+00:03:57,970 --> 00:03:58,970
+Nein.
+
+69
+00:03:58,970 --> 00:04:02,370
+Nur Pause.
+
+70
+00:04:02,370 --> 00:04:03,370
+Ja.
+
+71
+00:04:03,370 --> 00:04:04,370
+Okay.
+
+72
+00:04:04,370 --> 00:04:10,210
+Haben Sie eine offene Wunde oder etwas anderes am Bein?
+
+73
+00:04:10,210 --> 00:04:11,730
+Oder das ist nur Schmerzen?
+
+74
+00:04:11,730 --> 00:04:12,730
+Nein, nicht bekannt.
+
+75
+00:04:12,730 --> 00:04:14,530
+Ich habe mich da auch nicht verletzt oder so.
+
+76
+00:04:14,530 --> 00:04:17,530
+Ich bin auch nicht begeistert.
+
+77
+00:04:17,530 --> 00:04:18,530
+Ja, und?
+
+78
+00:04:18,530 --> 00:04:19,530
+Ja.
+
+79
+00:04:20,530 --> 00:04:29,850
+Und also bezüglich des Beins, haben Sie Blässehaut oder Haarausfall oder Rötungen, Schwellungen,
+
+80
+00:04:29,850 --> 00:04:30,850
+was bemerkt?
+
+81
+00:04:30,850 --> 00:04:37,530
+Also irgendwie fühlt sich das linke Bein etwas kälter an, kühler an als das rechte.
+
+82
+00:04:37,530 --> 00:04:38,530
+Mhm.
+
+83
+00:04:38,530 --> 00:04:46,190
+Kältergefühl und kriebeln oder taubheißgefühl auch vielleicht?
+
+84
+00:04:46,190 --> 00:04:48,190
+Ich so richtig.
+
+85
+00:04:48,190 --> 00:04:51,190
+Eher so kühl, dass es so kühl ist.
+
+86
+00:04:51,190 --> 00:04:52,190
+Okay.
+
+87
+00:04:52,190 --> 00:04:53,190
+Das ist aufgefallen.
+
+88
+00:04:53,190 --> 00:04:54,190
+Ja.
+
+89
+00:04:54,190 --> 00:04:58,190
+Okay, aber keine, keine, also keine dicke Beine.
+
+90
+00:04:58,190 --> 00:05:00,190
+Keine Schwellung.
+
+91
+00:05:00,190 --> 00:05:01,190
+Keine Schwellung.
+
+92
+00:05:01,190 --> 00:05:02,190
+Okay.
+
+93
+00:05:02,190 --> 00:05:04,190
+Alles klar.
+
+94
+00:05:04,190 --> 00:05:15,190
+Ja, also ansonsten haben Sie vielleicht Brustschmerzen bemerkt oder eine Atemnut?
+
+95
+00:05:15,190 --> 00:05:16,190
+Nein.
+
+96
+00:05:16,190 --> 00:05:18,190
+Das habe ich nicht.
+
+97
+00:05:18,190 --> 00:05:20,190
+Das haben Sie nicht.
+
+98
+00:05:20,190 --> 00:05:22,190
+Okay, fühlen Sie sich fieberig?
+
+99
+00:05:22,190 --> 00:05:24,190
+Nein.
+
+100
+00:05:24,190 --> 00:05:28,190
+Haben Sie Ihnen letzter Zeit Abo dazu genommen?
+
+101
+00:05:28,190 --> 00:05:31,190
+Nein, ich habe mein Gewicht gehalten.
+
+102
+00:05:31,190 --> 00:05:33,190
+Ich muss aufpassen.
+
+103
+00:05:33,190 --> 00:05:36,190
+Ich habe so einen guten Appetit, dass ich ihn nicht noch zunehme.
+
+104
+00:05:36,190 --> 00:05:43,190
+Also ich wiege hier schon 86 kg und ja, aber zur Unumhabung habe ich nicht.
+
+105
+00:05:43,190 --> 00:05:44,190
+Ja, schon.
+
+106
+00:05:44,190 --> 00:05:46,190
+Also schlafen Sie gut?
+
+107
+00:05:46,190 --> 00:05:51,190
+Normal gut, aber jetzt seit zwei Nächten mit den Schmerzen habe ich nicht gut geschlafen.
+
+108
+00:05:51,190 --> 00:05:53,190
+Okay.
+
+109
+00:05:53,190 --> 00:06:00,190
+Und haben Sie Probleme mit dem Stuhlgang oder beim Wasserlassen?
+
+110
+00:06:00,190 --> 00:06:04,190
+Stuhlgang alle ein bis zwei Tage.
+
+111
+00:06:04,190 --> 00:06:07,190
+Ich habe immer so ein bisschen Verstopfung, aber das kenne ich.
+
+112
+00:06:07,190 --> 00:06:12,190
+Muss ich aufpassen, wenn ich Schokolade esse oder so, das ist nicht gut.
+
+113
+00:06:12,190 --> 00:06:15,190
+Das ist auch nicht gut wegen meinem Zucker.
+
+114
+00:06:15,190 --> 00:06:19,190
+Und Wasserlassen in der Nacht muss ich zweimal gehen.
+
+115
+00:06:19,190 --> 00:06:23,190
+Ich bin vor zwei Jahren an der Prostata operiert worden.
+
+116
+00:06:23,190 --> 00:06:27,190
+Und zweimal muss ich zur Toilette.
+
+117
+00:06:27,190 --> 00:06:29,190
+Kann danach aber wieder gut einschlafen.
+
+118
+00:06:29,190 --> 00:06:31,190
+Okay, gut.
+
+119
+00:06:31,190 --> 00:06:35,190
+Und diese Prostata-Operation, wann wurde das durchgeführt?
+
+120
+00:06:35,190 --> 00:06:37,190
+Vor zwei Jahren.
+
+121
+00:06:37,190 --> 00:06:39,190
+Da war ein Prostata Krebs.
+
+122
+00:06:39,190 --> 00:06:43,190
+Und da wurde ich operiert und anschließend bestrahlt.
+
+123
+00:06:43,190 --> 00:06:45,190
+Okay.
+
+124
+00:06:45,190 --> 00:06:50,190
+Oper und Strahlung haben Sie gehabt.
+
+125
+00:06:50,190 --> 00:06:52,190
+Okay.
+
+126
+00:06:52,190 --> 00:06:54,190
+Ja, schön.
+
+127
+00:06:54,190 --> 00:06:59,190
+Also haben Sie, wurden Sie noch andere oder wurde bei Ihnen noch andere
+
+128
+00:06:59,190 --> 00:07:01,190
+Operationen durchgeführt?
+
+129
+00:07:01,190 --> 00:07:06,190
+Altkind wurde ich operiert am Leistenbruch.
+
+130
+00:07:06,190 --> 00:07:08,190
+Auf der rechten Seite hatte ich ein Leistenbruch.
+
+131
+00:07:08,190 --> 00:07:11,190
+Da war ich, glaube ich, so zehn Jahre alt.
+
+132
+00:07:11,190 --> 00:07:19,190
+Und dann hatte ich noch einen Bruch des rechten Unterarmes.
+
+133
+00:07:19,190 --> 00:07:22,190
+Beim damals habe ich noch Fußball gespielt.
+
+134
+00:07:22,190 --> 00:07:28,190
+Da musste auch eine Metallplatte in den rechten Unterarm
+
+135
+00:07:28,190 --> 00:07:30,190
+eingebaut werden.
+
+136
+00:07:30,190 --> 00:07:32,190
+Metallplatte.
+
+137
+00:07:32,190 --> 00:07:34,190
+Okay.
+
+138
+00:07:34,190 --> 00:07:37,190
+Und das war vor, wann wurde das gemacht?
+
+139
+00:07:37,190 --> 00:07:40,190
+Das war jetzt vor mindestens 30 Jahren.
+
+140
+00:07:40,190 --> 00:07:42,190
+Vor 30 Jahren.
+
+141
+00:07:42,190 --> 00:07:44,190
+Ja.
+
+142
+00:07:44,190 --> 00:07:49,190
+Und sind bei Ihnen vor Erkrankungen bemerkt, die Zuckerkrankheiten?
+
+143
+00:07:49,190 --> 00:07:51,190
+Ja, ich habe Zucker.
+
+144
+00:07:51,190 --> 00:07:54,190
+Seit drei Jahren nehme ich Zuckertabletten.
+
+145
+00:07:54,190 --> 00:08:00,020
+Und ich habe Harnsäure, habe ich erhöht
+
+146
+00:08:00,020 --> 00:08:03,020
+und hatte auch schon mal einen Gichtanfall vor zwei Jahren.
+
+147
+00:08:03,020 --> 00:08:06,020
+Da nehme ich auch eine Tablette ein.
+
+148
+00:08:06,020 --> 00:08:09,020
+Gichtanfall vor zwei Jahren.
+
+149
+00:08:09,020 --> 00:08:10,020
+Ja.
+
+150
+00:08:10,020 --> 00:08:15,020
+Und wie gesagt, vor zwei Jahren auch diese Prostata-Krebs.
+
+151
+00:08:15,020 --> 00:08:18,020
+Genau, das habe ich notiert.
+
+152
+00:08:18,020 --> 00:08:23,020
+Noch andere Vorerkrankungen dabei?
+
+153
+00:08:23,020 --> 00:08:25,020
+Nein.
+
+154
+00:08:25,020 --> 00:08:29,020
+Was für Medikamente nehmen Sie ein?
+
+155
+00:08:29,020 --> 00:08:33,020
+Ich nehme einmal für den Zucker Med-Formin.
+
+156
+00:08:33,020 --> 00:08:37,020
+Da hinter steht 850.
+
+157
+00:08:37,020 --> 00:08:41,020
+Da nehme ich eine Tablette morgens und eine Tablette abends.
+
+158
+00:08:41,020 --> 00:08:43,020
+Okay.
+
+159
+00:08:43,020 --> 00:08:45,020
+Was noch?
+
+160
+00:08:45,020 --> 00:08:48,020
+Da nehme ich noch, damit die Harnsäure gesenkt,
+
+161
+00:08:48,020 --> 00:08:50,020
+nehme ich noch Alu-Purinol.
+
+162
+00:08:50,020 --> 00:08:56,980
+Und da hinter steht 300.
+
+163
+00:08:56,980 --> 00:08:58,980
+Okay.
+
+164
+00:08:58,980 --> 00:09:01,980
+Da nehme ich eine Tablette morgens.
+
+165
+00:09:01,980 --> 00:09:03,980
+Okay.
+
+166
+00:09:03,980 --> 00:09:06,980
+Nehmen Sie noch andere Medikamente?
+
+167
+00:09:06,980 --> 00:09:08,980
+Nein.
+
+168
+00:09:08,980 --> 00:09:10,980
+Gut.
+
+169
+00:09:10,980 --> 00:09:13,980
+Ist bei Ihnen allergie bekannt?
+
+170
+00:09:13,980 --> 00:09:16,980
+Nein, ich kenne allergin habe ich nicht.
+
+171
+00:09:16,980 --> 00:09:18,980
+Allergie nicht.
+
+172
+00:09:18,980 --> 00:09:22,980
+Unverträglichkeiten beim Essen.
+
+173
+00:09:22,980 --> 00:09:25,980
+Ist mir nicht bekannt.
+
+174
+00:09:25,980 --> 00:09:27,980
+Okay.
+
+175
+00:09:27,980 --> 00:09:30,980
+Rauchen Sie?
+
+176
+00:09:30,980 --> 00:09:33,980
+Ja, nicht rauchen.
+
+177
+00:09:33,980 --> 00:09:36,980
+Schon ziemlich lange, schon mindestens 40 Jahre.
+
+178
+00:09:36,980 --> 00:09:39,980
+Und da rauche ich jeden Tag eine Schachtel.
+
+179
+00:09:39,980 --> 00:09:43,490
+Täglich.
+
+180
+00:09:43,490 --> 00:09:46,490
+Okay, das ist eigentlich viel.
+
+181
+00:09:46,490 --> 00:09:49,490
+20 Zigaretten, meine sehr geehrten Damen.
+
+182
+00:09:49,490 --> 00:09:52,490
+Trinken Sie Alkohol?
+
+183
+00:09:52,490 --> 00:09:55,490
+Ja, abends trinke ich gerne so zum Abendessen
+
+184
+00:09:55,490 --> 00:09:57,490
+eine Flasche Bier.
+
+185
+00:09:57,490 --> 00:10:00,490
+Also 1-2 Flaschen Bier trinke ich pro Tag.
+
+186
+00:10:00,490 --> 00:10:03,490
+Okay.
+
+187
+00:10:03,490 --> 00:10:06,490
+Also meine nächste Frage,
+
+188
+00:10:06,490 --> 00:10:10,490
+nehme Sie, denn ich persönlich, das ist eine rotinmäßige Frage.
+
+189
+00:10:10,490 --> 00:10:13,490
+Haben Sie Kontakt mit den Drohnen oder hatten Sie früher?
+
+190
+00:10:13,490 --> 00:10:16,490
+Nein, habe ich nicht.
+
+191
+00:10:16,490 --> 00:10:19,490
+Gut, also kein Kontakt.
+
+192
+00:10:19,490 --> 00:10:22,490
+Sind Sie verheiratet?
+
+193
+00:10:22,490 --> 00:10:26,490
+Ja, ich bin verheiratet und wohne mit meiner Frau zusammen.
+
+194
+00:10:26,490 --> 00:10:32,630
+Und haben Sie auch Kinder?
+
+195
+00:10:32,630 --> 00:10:35,630
+Ja, eine Tochter.
+
+196
+00:10:35,630 --> 00:10:39,630
+Die ist 35 Jahre alt, soweit ich aber weiß, die ist gesund.
+
+197
+00:10:39,630 --> 00:10:42,630
+Die wohnt nicht mehr bei uns.
+
+198
+00:10:42,630 --> 00:10:45,630
+Ja, alles gut.
+
+199
+00:10:45,630 --> 00:10:48,630
+Und Ihre Eltern, leben Sie noch?
+
+200
+00:10:48,630 --> 00:10:51,630
+Meine Mutter ist 86 Jahre alt, die lebt noch.
+
+201
+00:10:51,630 --> 00:10:55,630
+Die hat Maubblick Probleme mit einem schwachen Herzmuskel.
+
+202
+00:10:55,630 --> 00:10:58,630
+Herzmuskelschwäche, da bekommt sie einige Medikamente.
+
+203
+00:10:58,630 --> 00:11:01,630
+Und sie hatte vor 30 Jahren, hatte sie Brustkrebs.
+
+204
+00:11:01,630 --> 00:11:04,630
+Wurde operiert und auch bestrahlt.
+
+205
+00:11:04,630 --> 00:11:07,630
+Aber das ist gut verlaufen.
+
+206
+00:11:07,630 --> 00:11:10,630
+Und Ihr Vater?
+
+207
+00:11:10,630 --> 00:11:13,630
+Der Vater ist mir 72 Jahre verstorben.
+
+208
+00:11:13,630 --> 00:11:19,260
+Der hatte eine Schmerz-Krise,
+
+209
+00:11:19,260 --> 00:11:22,260
+eine Erweiterung der Bauchschlachtader.
+
+210
+00:11:22,260 --> 00:11:25,260
+Und da ist es geplatzt.
+
+211
+00:11:25,260 --> 00:11:28,260
+Ja, mein Ballett, also das ist eine schwierige Situation.
+
+212
+00:11:28,260 --> 00:11:31,260
+Ja.
+
+213
+00:11:31,260 --> 00:11:38,510
+Ich habe auch eine Schmerz-Krise,
+
+214
+00:11:38,510 --> 00:11:41,510
+aber ich habe auch eine Schmerz-Krise.
+
+215
+00:11:41,510 --> 00:11:44,510
+Ich habe auch eine Schmerz-Krise.
+
+216
+00:11:44,510 --> 00:11:47,510
+Ich habe auch eine Schmerz-Krise.
+
+217
+00:11:47,510 --> 00:11:50,510
+Ich habe auch eine Schmerz-Krise.
+
+218
+00:11:51,510 --> 00:11:54,510
+Schau mal, du wirst mal.
+
+219
+00:11:54,510 --> 00:11:57,510
+Noch eine wichtige Erkrankung bei Ihrer Familie
+
+220
+00:11:57,510 --> 00:12:00,510
+ist nicht bekannt, ne?
+
+221
+00:12:00,510 --> 00:12:03,510
+Ich habe noch einen Bruder,
+
+222
+00:12:03,510 --> 00:12:06,510
+der ist 65 Jahre alt, der hat auch Zucker.
+
+223
+00:12:06,510 --> 00:12:09,510
+Und der hat in beiden Beinen
+
+224
+00:12:09,510 --> 00:12:12,510
+ziemlich schwere Durchblutungsstörungen.
+
+225
+00:12:12,510 --> 00:12:15,510
+Und da wurde er auch schon mal mit einem Katheter behandelt.
+
+226
+00:12:15,510 --> 00:12:18,510
+Um die Beine zu sehen,
+
+227
+00:12:18,510 --> 00:12:21,510
+um die Blutgefäße wieder zu öffnen.
+
+228
+00:12:21,510 --> 00:12:24,510
+Das war wohl ganz gut, ganz erfolgreich.
+
+229
+00:12:24,510 --> 00:12:27,510
+Ja, schon.
+
+230
+00:12:27,510 --> 00:12:30,510
+Also mit Katheter untersuchen.
+
+231
+00:12:30,510 --> 00:12:33,510
+Okay.
+
+232
+00:12:33,510 --> 00:12:39,170
+Und was machen Sie beruflich?
+
+233
+00:12:39,170 --> 00:12:42,170
+Bis zu meiner Prostataerkrankung war ich Zimmermann.
+
+234
+00:12:42,170 --> 00:12:45,170
+Und als ich dann den Prostata krank,
+
+235
+00:12:45,170 --> 00:12:48,170
+war ich dann wieder in der Brüder.
+
+236
+00:12:48,170 --> 00:12:51,170
+Und als ich dann den Prostata-Krebs bekam
+
+237
+00:12:51,170 --> 00:12:54,170
+und operiert wurde und bestrahlt wurde,
+
+238
+00:12:54,170 --> 00:12:57,170
+da bin ich dann in Rente gegangen.
+
+239
+00:12:57,170 --> 00:13:00,170
+Was macht einen Zimmermann?
+
+240
+00:13:00,170 --> 00:13:03,170
+Ein Zimmermann, der baut zum Beispiel
+
+241
+00:13:03,170 --> 00:13:06,170
+Dächer auf dem Haus, das Hausdach aus Holz.
+
+242
+00:13:06,170 --> 00:13:09,170
+Da kommen dann die Dachfannen drauf.
+
+243
+00:13:09,170 --> 00:13:12,170
+Das braucht der Zimmermann.
+
+244
+00:13:12,170 --> 00:13:15,170
+Ja, schön. Das ist auch ein Nachname.
+
+245
+00:13:15,170 --> 00:13:18,170
+Ja, Zimmermann ist auch ein Nachname, das stimmt.
+
+246
+00:13:18,170 --> 00:13:21,170
+Ja, so weit sind wir mit der, das Gespräch durch.
+
+247
+00:13:21,170 --> 00:13:24,170
+Haben Sie Fragen an mich?
+
+248
+00:13:24,170 --> 00:13:27,170
+Ja, was kann das sein?
+
+249
+00:13:27,170 --> 00:13:30,170
+Ich habe ja noch nie solche Schmerzen gehabt.
+
+250
+00:13:30,170 --> 00:13:33,170
+Ja, eigentlich, ich habe schon eine Verdachtdiagnose,
+
+251
+00:13:33,170 --> 00:13:36,170
+aber vor der Untersuchung wäre das nicht so gut zu sagen.
+
+252
+00:13:36,170 --> 00:13:39,170
+Zuerst würde ich sie körperlich untersuchen
+
+253
+00:13:39,170 --> 00:13:42,170
+und ein paar Mal nach der Prostata-Krebs.
+
+254
+00:13:42,170 --> 00:13:45,170
+Dann können wir genau das besprechen.
+
+255
+00:13:45,170 --> 00:13:48,170
+Okay, das können wir so machen.
+
+256
+00:13:48,170 --> 00:13:51,170
+Gut, dann haben Sie jetzt einige Minuten Zeit,
+
+257
+00:13:51,170 --> 00:13:54,170
+die Patientensprache zu übersetzen
+
+258
+00:13:54,170 --> 00:13:57,170
+in die Fachsprache.
+
+259
+00:13:57,170 --> 00:14:00,170
+Und wenn Kollegen und Kolleginnen Fragen haben,
+
+260
+00:14:00,170 --> 00:14:03,170
+Gänzungen haben, vielleicht bitte stellen Sie die Fragen jetzt.
+
+261
+00:14:03,170 --> 00:14:06,170
+Dann können Sie das besprechen.
+
+262
+00:14:06,170 --> 00:14:09,170
+Dann können Sie das besprechen.
+
+263
+00:14:09,170 --> 00:14:12,170
+Wenn Sie Fragen haben, vielleicht bitte stellen Sie die Fragen jetzt
+
+264
+00:14:12,170 --> 00:14:15,170
+oder Kommentare.
+
+265
+00:14:15,170 --> 00:14:18,170
+Ja, also, nur eine Frage möchte ich noch fragen.
+
+266
+00:14:18,170 --> 00:14:21,170
+Haben Sie in letzter Zeit, oder sind Sie in letzter Zeit gereist?
+
+267
+00:14:21,170 --> 00:14:25,510
+Seitdem ich diese Krebserkrankung habe,
+
+268
+00:14:25,510 --> 00:14:28,510
+Prostata-Krebs, verreisen wir nicht mehr groß.
+
+269
+00:14:28,510 --> 00:14:31,510
+Wir sind, vereisen in Deutschland.
+
+270
+00:14:31,510 --> 00:14:34,510
+Wir waren mal, für eine Woche,
+
+271
+00:14:34,510 --> 00:14:37,510
+waren wir mal in Frankreich.
+
+272
+00:14:37,510 --> 00:14:40,390
+Aber sonst verreisen wir nur innerhalb Deutschlands noch.
+
+273
+00:14:40,390 --> 00:14:42,390
+Okay.
+
+274
+00:14:42,390 --> 00:14:44,390
+Ja, alles klar.
+
+275
+00:14:44,390 --> 00:14:50,710
+Gut.
+
+276
+00:14:50,710 --> 00:14:55,150
+Ja, haben Kollegen noch Ergänzungen oder Fragen?
+
+277
+00:14:55,150 --> 00:14:57,150
+Ich habe eine Frage.
+
+278
+00:14:57,150 --> 00:14:59,150
+Bitte.
+
+279
+00:14:59,150 --> 00:15:01,150
+Schreibt uns die Sport.
+
+280
+00:15:01,150 --> 00:15:05,650
+Ich habe früher Fußball gespielt, aber in den letzten Jahren habe ich keinen Sport mehr gemacht.
+
+281
+00:15:05,650 --> 00:15:07,650
+Da bin ich so bequem geworden.
+
+282
+00:15:07,650 --> 00:15:10,650
+Der Beruf ist auch so anstrengend als Zimmermann gewesen.
+
+283
+00:15:10,650 --> 00:15:13,650
+Da war ich abends immer so müde und erschöpft.
+
+284
+00:15:13,650 --> 00:15:16,650
+Nein, Sport habe ich leider nicht mehr gemacht.
+
+285
+00:15:16,650 --> 00:15:18,650
+Ja, ne.
+
+286
+00:15:18,650 --> 00:15:20,650
+Was ist das?
+
+287
+00:15:20,650 --> 00:15:26,650
+Besuchen Sie regelmäßig zum Haushalts- und wissen Sie, wie hoch Ihre Blutzeit sind?
+
+288
+00:15:26,650 --> 00:15:32,650
+Also, ich gehe regelmäßig auch wegen dem Zucker zum Hausarzt.
+
+289
+00:15:32,650 --> 00:15:36,650
+Der macht alle Vierteljahre, bis der da diesen Zucker langzeitwert auch.
+
+290
+00:15:36,650 --> 00:15:39,650
+Und damit war der Haushalts eigentlich ganz zufrieden.
+
+291
+00:15:39,650 --> 00:15:43,650
+Er sagt immer nur, ich muss aufpassen, dass mein Gewicht nicht weiter steigt.
+
+292
+00:15:43,650 --> 00:15:45,650
+Am besten sogar etwas abnehmen.
+
+293
+00:15:45,650 --> 00:15:49,650
+Beim Urologen bin ich ja auch noch in der Nachkontrolle.
+
+294
+00:15:49,650 --> 00:15:51,650
+Da war ich das letzte Mal vor sechs Monaten.
+
+295
+00:15:51,650 --> 00:15:57,650
+Ich gehört vom Urologen so weit, dass alles in Ordnung ist.
+
+296
+00:15:57,650 --> 00:16:06,650
+Seit sechs Monaten haben Sie weitere Probleme mit Knuchen oder Gelenk oder Lunge?
+
+297
+00:16:06,650 --> 00:16:11,650
+Nein, ich hatte nur seit einigen Wochen diese Beschwerden beim Gehen,
+
+298
+00:16:11,650 --> 00:16:13,650
+dass ich Beschwerden im Bein hatte.
+
+299
+00:16:13,650 --> 00:16:16,650
+Das habe ich seit einigen Wochen bemerkt.
+
+300
+00:16:16,650 --> 00:16:19,650
+Und jetzt eben heftige Schmerzen seit zwei Tagen.
+
+301
+00:16:19,650 --> 00:16:23,650
+Aber sonst hatte ich vorher keine Probleme.
+
+302
+00:16:23,650 --> 00:16:27,650
+Okay, haben Sie früher einheblich werden?
+
+303
+00:16:27,650 --> 00:16:33,650
+Zum Beispiel, während langer Zeit laufen?
+
+304
+00:16:33,650 --> 00:16:36,650
+Das habe ich nicht verstanden. Können Sie das noch mal wiederholen?
+
+305
+00:16:36,650 --> 00:16:43,650
+Haben Sie früher einheblich werden, besonders bei Belastung?
+
+306
+00:16:43,650 --> 00:16:45,650
+Nein, habe ich vorher so noch nicht gehabt.
+
+307
+00:16:45,650 --> 00:16:47,650
+Ersten Mal haben Sie.
+
+308
+00:16:47,650 --> 00:16:49,650
+Nee, habe ich noch nie gehabt so.
+
+309
+00:16:49,650 --> 00:16:53,320
+Vielen Dank.
+
+310
+00:16:53,320 --> 00:16:56,320
+Vielleicht zum Schmerzcharakter.
+
+311
+00:16:56,320 --> 00:16:59,320
+Der Schmerz ist eher dumpf.
+
+312
+00:16:59,320 --> 00:17:02,320
+Es ist ein dumpfer, bohrender Schmerz.
+
+313
+00:17:02,320 --> 00:17:08,320
+Da gibt es eine Frage, sehe ich hier unten.
+
+314
+00:17:08,320 --> 00:17:13,320
+Vor einigen Wochen konnte ich 150 bis 200 Meter gut gehen.
+
+315
+00:17:13,320 --> 00:17:16,320
+Seit einigen Wochen ist es eben schlechter geworden.
+
+316
+00:17:16,320 --> 00:17:21,320
+Aber jetzt zur Zeit mit den akuten Schmerzen kann ich gar nicht mehr groß gehen.
+
+317
+00:17:21,320 --> 00:17:23,320
+Da bleibe ich lieber im Sessel sitzen.
+
+318
+00:17:23,320 --> 00:17:27,320
+Da habe ich gar nicht probiert, längere Strecken zu gehen.
+
+319
+00:17:27,320 --> 00:17:33,840
+Okay, vielen Dank.
+
+320
+00:17:33,840 --> 00:17:36,840
+Haben Sie Rückenschmerzen?
+
+321
+00:17:36,840 --> 00:17:41,840
+Ich habe manchmal Rückenschmerzen, aber nicht besonders stark.
+
+322
+00:17:41,840 --> 00:17:43,840
+Besondere Rückenschmerzen.
+
+323
+00:17:43,840 --> 00:17:45,840
+Nein, kann ich jetzt nicht sagen.
+
+324
+00:17:45,840 --> 00:18:09,160
+Viel stärker sind die Beinschmerzen.
+
+325
+00:18:09,160 --> 00:18:15,160
+Ja, also ich bin bereit, aber ich bin nicht so sehr gut mit Fachbegriffen immer.
+
+326
+00:18:15,160 --> 00:18:17,160
+Aber ich versuche das.
+
+327
+00:18:17,160 --> 00:18:19,160
+Können wir ja üben?
+
+328
+00:18:19,160 --> 00:18:26,160
+Ja, ich habe jetzt vielleicht innerhalb von zwei Monaten einen Termin für die Prüfung.
+
+329
+00:18:26,160 --> 00:18:31,160
+Das ist aber genauer, ist das nicht bekannt.
+
+330
+00:18:31,160 --> 00:18:39,160
+Ich werde einen Brief bekommen, dann in zwei Wochen würde ich den Termin haben.
+
+331
+00:18:39,160 --> 00:18:44,160
+Sie können es ja versuchen.
+
+332
+00:18:44,160 --> 00:18:48,160
+Hallo, Herr Oberarzt, ich hatte einen Patienten.
+
+333
+00:18:48,160 --> 00:18:51,160
+Hatten Sie kurze Zeit für mich?
+
+334
+00:18:51,160 --> 00:18:53,160
+Ja, habe ich.
+
+335
+00:18:53,160 --> 00:19:06,160
+Es geht um Herr Walter Kaufmann, 64 Jahre Patient, geboren am 26. März 1961.
+
+336
+00:19:06,160 --> 00:19:09,160
+1,63 m groß.
+
+337
+00:19:09,160 --> 00:19:12,160
+1,83 m.
+
+338
+00:19:12,160 --> 00:19:15,160
+1,83 m, habe ich geschrieben eigentlich.
+
+339
+00:19:15,160 --> 00:19:23,160
+1,83 m groß und 86 kg schwer.
+
+340
+00:19:23,160 --> 00:19:35,160
+Sie städte sich bei uns wegen seit zwei Tagen bestehender dumpfer und bohrenden Schmerzen
+
+341
+00:19:35,160 --> 00:19:42,160
+im linken Oberschenkel mit Ausstrahlung in den Fuß.
+
+342
+00:19:42,160 --> 00:19:50,160
+Die Schmerzen sind schon seit Langem bei ihm bekannt.
+
+343
+00:19:50,160 --> 00:19:58,160
+Er könnte bis 150, 200 Meter laufen.
+
+344
+00:19:58,160 --> 00:20:07,160
+Dann sollte er eine Pause machen, aber jetzt hat er sogar in Ruhe diese Schmerzen.
+
+345
+00:20:07,160 --> 00:20:11,160
+Sie sagen, die Schmerzen sind schon seit Langem bekannt.
+
+346
+00:20:11,160 --> 00:20:13,160
+Können Sie etwas nennen?
+
+347
+00:20:13,160 --> 00:20:17,160
+Ja, das habe ich nicht gefragt.
+
+348
+00:20:17,160 --> 00:20:21,160
+Der Patient hat gesagt seit einigen Wochen, seit einigen Wochen.
+
+349
+00:20:21,160 --> 00:20:29,160
+Er hat seit vier Wochen bemerkt, dass er beim Gehen Schmerzen im linken Bein hat.
+
+350
+00:20:29,160 --> 00:20:33,160
+Er muss dann stoppen.
+
+351
+00:20:33,160 --> 00:20:42,160
+Sie können auch sagen, der Patient stellt sich wegen Akute seit zwei Tagen bestehender Schmerzen
+
+352
+00:20:42,160 --> 00:20:49,160
+im linken Oberschenkel mit Ausstrahlung ins linken Unterschenkel und Fuß.
+
+353
+00:20:49,160 --> 00:20:54,160
+Der Schmerz wird als dumpf und bohrend beschrieben.
+
+354
+00:20:54,160 --> 00:21:00,160
+Er verstärkt sich bei Bewegung vor sechs bis sieben.
+
+355
+00:21:00,160 --> 00:21:09,160
+Seit einigen Wochen berichtet der Patient von belastungsabhängigen Schmerzen im linken Bein
+
+356
+00:21:09,160 --> 00:21:15,160
+nach einer Gestrecke von 150 bis 200 Metern.
+
+357
+00:21:15,160 --> 00:21:23,160
+Man kann sagen, es bestehen belastungsabhängige Schmerzen seit einigen Wochen in den linken Bein.
+
+358
+00:21:23,160 --> 00:21:27,160
+Ist der Patient irgendwie gestürzt? Hat er einen Unfall gehabt?
+
+359
+00:21:27,160 --> 00:21:30,160
+Dann habe ich auch nicht gefragt.
+
+360
+00:21:30,160 --> 00:21:35,160
+Der Patient hat kurz gesagt, ich bin nicht gestürzt oder hatte keinen Unfall.
+
+361
+00:21:35,160 --> 00:21:39,160
+Es sollten Sie immer fragen nach einem Unfallereignis.
+
+362
+00:21:39,160 --> 00:21:44,160
+Das kann sein, dass der Patient plötzlich sagt, ich bin ja vor je Woche von der Leiter gefallen.
+
+363
+00:21:44,160 --> 00:21:48,160
+Das war jetzt gar nicht so schlimm, aber jetzt kommt es vielleicht.
+
+364
+00:21:48,160 --> 00:21:51,160
+Aber es besteht kein Unfallereignis.
+
+365
+00:21:51,160 --> 00:21:56,160
+Hat der Patient sonst noch etwas beobachtet?
+
+366
+00:21:56,160 --> 00:22:00,160
+An der Haut war ein Schmerz.
+
+367
+00:22:00,160 --> 00:22:06,160
+Den Patienten ist ein kälter Gefühl aufgefallen.
+
+368
+00:22:06,160 --> 00:22:13,160
+Die Frage nach einer Schwellung, Rötung oder Haarausfall wurde verneint.
+
+369
+00:22:14,160 --> 00:22:20,160
+Die Vegetative an einem Näser war bis ins Omni.
+
+370
+00:22:20,160 --> 00:22:24,160
+Der Schmerzbedingte ins Omni seit zwei Tagen.
+
+371
+00:22:24,160 --> 00:22:30,160
+Und Obziptation unauffällig.
+
+372
+00:22:30,160 --> 00:22:40,160
+Er hat auch zweimal den nächtlichen Wasser lassen.
+
+373
+00:22:40,160 --> 00:22:47,160
+Das ist nach der Prostata-Operation, das vor zwei Jahren durchgeht.
+
+374
+00:22:47,160 --> 00:22:50,160
+Das nächtliche Wasser lassen.
+
+375
+00:22:50,160 --> 00:22:53,160
+Kennen Sie den Begriff nächtliches Wasserlassen?
+
+376
+00:22:53,160 --> 00:22:55,160
+Also Nüktorie.
+
+377
+00:22:55,160 --> 00:23:00,160
+Es besteht eine zweimalige Nüktorie.
+
+378
+00:23:00,160 --> 00:23:07,160
+Es ist wohl berichtet in diesem Zusammenhang von einer Prostata-Operation vor zwei Jahren.
+
+379
+00:23:07,160 --> 00:23:12,160
+Können Sie dann noch eigentlich bei den grönlichen Nachkorknungen?
+
+380
+00:23:12,160 --> 00:23:22,160
+Bei Ihnen sind noch diese folgende Operationen bekannt.
+
+381
+00:23:22,160 --> 00:23:32,160
+Als Kind mit zehn Jahren auf der linken Seite in Guinalhaneh-Operation wurde durchgeführt.
+
+382
+00:23:32,160 --> 00:23:49,160
+Vor 30 Jahren wurde im rechten Unterarm auch wegen einer Fraktur eine Operation durchgeführt.
+
+383
+00:23:49,160 --> 00:23:53,160
+Und mit Metallplatten habe ich auch gesehen.
+
+384
+00:23:53,160 --> 00:23:56,160
+Wahrscheinlich, man kann sagen eine Plattenostiosynthese.
+
+385
+00:23:56,160 --> 00:24:02,160
+Das ist die Angabe des Patienten.
+
+386
+00:24:02,160 --> 00:24:09,160
+Man müsste jetzt noch nachfragen, ist das Metall noch im Körper oder wurde das Metall nach einer gewissen Zeit entfernt?
+
+387
+00:24:09,160 --> 00:24:11,160
+Könnte man fragen.
+
+388
+00:24:11,160 --> 00:24:13,160
+Ist aber jetzt nicht so entscheidend.
+
+389
+00:24:13,160 --> 00:24:16,160
+Was hat der Patient für chronische Erkrankungen?
+
+390
+00:24:16,160 --> 00:24:22,160
+Für chronische Erkrankungen hat er Diabetes mellitus seit drei Jahren.
+
+391
+00:24:22,160 --> 00:24:34,160
+Er ist mit Formin 850mg zweimal täglich gut eingestellt.
+
+392
+00:24:34,160 --> 00:24:41,160
+Der Patient hat vor zwei Jahren auch einen Gichtanfall gehabt.
+
+393
+00:24:42,160 --> 00:24:49,160
+Deswegen nimmt er auch Allupquinol 300mg einmal täglich.
+
+394
+00:24:49,160 --> 00:24:52,160
+Kennen Sie die Ursache für einen Gichtanfall?
+
+395
+00:24:52,160 --> 00:24:55,160
+Welcher Wert im Blut ist dabei erhöht?
+
+396
+00:24:55,160 --> 00:25:00,160
+Genau, das ist Harnsäure.
+
+397
+00:25:00,160 --> 00:25:04,160
+Sagen Sie ruhig der Begriff, heißt Hyperurikemi.
+
+398
+00:25:04,160 --> 00:25:09,160
+Hyperurikemi, das ist die Harnsäure Erhöhung.
+
+399
+00:25:09,160 --> 00:25:17,160
+Viele Patienten haben eine Hyperurikemi und manche Patienten bekommen dann eine Artritis urika.
+
+400
+00:25:17,160 --> 00:25:22,160
+Das ist ein Gichtanfall.
+
+401
+00:25:22,160 --> 00:25:28,160
+Der Patient nimmt Allupurinol 300, haben Sie gesagt.
+
+402
+00:25:28,160 --> 00:25:33,160
+Dann war vorhin die Rede von einer Prostata-Operation.
+
+403
+00:25:33,160 --> 00:25:36,160
+Können Sie dazu Näheres sagen?
+
+404
+00:25:36,160 --> 00:25:42,160
+Ja, diese Prostata-Operation war wegen einer Prostata-Karsinom.
+
+405
+00:25:42,160 --> 00:25:49,160
+Er hat eine Operation und hat sogar danach Strahlung bekommen.
+
+406
+00:25:49,160 --> 00:25:56,160
+Kennen Sie den Begriff für Bestrahlung oder Radioterapie?
+
+407
+00:25:56,160 --> 00:26:00,160
+Ja, oder Radiatio.
+
+408
+00:26:00,160 --> 00:26:10,160
+Vor zwei Jahren Prostata-Karsinom mit OP und anschließender Radiatio.
+
+409
+00:26:10,160 --> 00:26:13,160
+Gab es Auffälligkeiten in der Nachsorge?
+
+410
+00:26:13,160 --> 00:26:21,410
+Was ich mich erinnere, dass er die Sennüb-Nyctore danach bekommt.
+
+411
+00:26:21,410 --> 00:26:28,410
+Ist der Patient noch ein regelmäßiger Nachsorge?
+
+412
+00:26:29,410 --> 00:26:34,410
+Ja, aber das haben die anderen Kollegen gefragt.
+
+413
+00:26:34,410 --> 00:26:43,410
+Vor sechs Monaten war die letzte Nachsorge und die war nach Auskunft des Patienten unauffällig.
+
+414
+00:26:43,410 --> 00:26:45,410
+Das stimmt.
+
+415
+00:26:45,410 --> 00:26:49,410
+Nach einer Karsinom, das ist wichtig.
+
+416
+00:26:49,410 --> 00:26:53,410
+Hat der Patient sonst die persönliche Risikofaktoren?
+
+417
+00:26:53,410 --> 00:26:57,410
+Außerdem Diabetes Melitus, Hyperurikämie.
+
+418
+00:26:57,410 --> 00:27:06,410
+Er ist Raucher seit 40 Jahren und mit 40 Parkumtschere.
+
+419
+00:27:06,410 --> 00:27:11,410
+40 Packages, ruhig auf Englisch.
+
+420
+00:27:11,410 --> 00:27:22,410
+Es besteht ein erheblicher Nikotin ab Usus von 40 Packages.
+
+421
+00:27:22,410 --> 00:27:26,410
+Das ist eine erhebliche Menge.
+
+422
+00:27:26,410 --> 00:27:30,410
+Man kann das Wort Nikotin ab Usus sagen.
+
+423
+00:27:30,410 --> 00:27:41,410
+Er trinkt auch abends ein, zwei Flaschenbier.
+
+424
+00:27:41,410 --> 00:27:46,410
+Täglich Drogenkursum wurde verneint.
+
+425
+00:27:46,410 --> 00:28:01,410
+An Familien an Amnesien sind auch bezüglich dieses Falls auch beim Vater.
+
+426
+00:28:01,410 --> 00:28:11,410
+Er ist wahrscheinlich an einem Arten-Dyssektion verstorben mit 72 Jahren.
+
+427
+00:28:11,410 --> 00:28:21,410
+Der Vater ist mit 72 Jahren an einer Arten-Ruptur verstorben.
+
+428
+00:28:21,410 --> 00:28:26,410
+Das wissen wir nicht.
+
+429
+00:28:26,410 --> 00:28:32,410
+Es besteht zumindest in der Familie eine gewisse Gefäßvorbelastung.
+
+430
+00:28:32,410 --> 00:28:39,410
+Die Mutter ist 86 Jahre alt.
+
+431
+00:28:39,410 --> 00:28:43,410
+Leider hat sie Herzinsuffizienz.
+
+432
+00:28:43,410 --> 00:28:55,410
+Vor 30 Jahren wurde sie wegen einer Brustkarzinom.
+
+433
+00:28:55,410 --> 00:29:05,410
+Sie haben sich mit einer Brustkarzinom operiert.
+
+434
+00:29:05,410 --> 00:29:08,410
+Was gibt es Geschwister?
+
+435
+00:29:08,410 --> 00:29:14,410
+Der Bruder ist 65 Jahre alt.
+
+436
+00:29:14,410 --> 00:29:18,410
+Er leidet auch an Diabetes-Militus.
+
+437
+00:29:18,410 --> 00:29:28,410
+Er leidet auch unter Blutungsstörungen an den Beinen.
+
+438
+00:29:28,410 --> 00:29:37,410
+Bei ihm wurde eine Geografie durchgeführt.
+
+439
+00:29:37,410 --> 00:29:43,410
+Wahrscheinlich besteht bei dem Bruder eine PAVK.
+
+440
+00:29:43,410 --> 00:29:50,410
+Eine PAVK, eine pfiatäre Verstichkrankheit.
+
+441
+00:29:50,410 --> 00:30:00,410
+Eine PAVK, eine pfiatäre Verstichkrankheit.
+
+442
+00:30:00,410 --> 00:30:10,410
+Eine pfiatäre Verstichkrankheit.
+
+443
+00:30:10,410 --> 00:30:25,410
+Er ist seit zwei Jahren verheiratet.
+
+444
+00:30:25,410 --> 00:30:31,410
+Er ist in Rente gegangen.
+
+445
+00:30:31,410 --> 00:30:37,410
+Er lebt mit seiner Frau und seiner Tochter.
+
+446
+00:30:37,410 --> 00:31:04,170
+Er ist
+
+447
+00:31:04,170 --> 00:31:14,170
+Diagnostisch kommen tiefen Wenenthrombose, vielleicht erisipäel.
+
+448
+00:31:14,170 --> 00:31:17,170
+Hat der Patient Fieber?
+
+449
+00:31:17,170 --> 00:31:19,170
+Eigentlich nicht.
+
+450
+00:31:19,170 --> 00:31:24,170
+Und tief für Beinwienenthrombose wurde da schon mal beschrieben im Chat.
+
+451
+00:31:24,170 --> 00:31:28,170
+Ja, in der Regel macht das eine Schwellung im Bein.
+
+452
+00:31:28,170 --> 00:31:30,170
+Genau, ja.
+
+453
+00:31:30,170 --> 00:31:34,170
+Was gäbe den noch in Betracht?
+
+454
+00:31:34,170 --> 00:31:38,170
+Denken Sie mal an die nähere Vorgeschichte des Patienten.
+
+455
+00:31:38,170 --> 00:31:40,170
+Was war vor zwei Jahren?
+
+456
+00:31:40,170 --> 00:31:46,170
+Also, vor zwei Jahren war diese eigentlich Prostata-Operation,
+
+457
+00:31:46,170 --> 00:31:50,170
+aber bezüglich der Operation, könnte Lenfürdämmer sein?
+
+458
+00:31:50,170 --> 00:31:52,170
+Das hat er auch.
+
+459
+00:31:52,170 --> 00:31:56,170
+Könnte es eine Ossere metastase sein im Oberschenkel?
+
+460
+00:31:56,170 --> 00:31:59,170
+Ja, also kann sein.
+
+461
+00:31:59,170 --> 00:32:02,170
+Man muss es zumindest in Betracht ziehen.
+
+462
+00:32:02,170 --> 00:32:08,170
+Also, es besteht einmal der vorhochgradige Vertracht auf einen Gefäßverschluss,
+
+463
+00:32:08,170 --> 00:32:13,170
+wahrscheinlich im Oberschenkelbereich, in der Arteia femoralis vielleicht.
+
+464
+00:32:13,170 --> 00:32:17,170
+Dieser akute Schmerz oder heftige Schmerz, der jetzt eingetreten ist,
+
+465
+00:32:17,170 --> 00:32:21,170
+die Haut ist kühl, sagt der Patient, vielleicht ist die Haut sogar sehr kalt.
+
+466
+00:32:21,170 --> 00:32:26,170
+Ob man periphere Pulse tasten kann, wird die Untersuchung zeigen.
+
+467
+00:32:27,170 --> 00:32:32,170
+Also, es besteht der hochgradige Verdacht auf eine Gefäßerkrankung.
+
+468
+00:32:32,170 --> 00:32:35,170
+Das ist schon richtig.
+
+469
+00:32:35,170 --> 00:32:39,170
+Aber ich würde differenzial diagnostisch auch an das Prostata-Kazinom denken.
+
+470
+00:32:39,170 --> 00:32:45,170
+Es gibt leider immer wieder auch Fälle von Osseren metastasen beim Prostata-Kazinom,
+
+471
+00:32:45,170 --> 00:32:49,170
+wo sechs Monate vorher in der Nachsorgeuntersuchung,
+
+472
+00:32:49,170 --> 00:32:52,170
+zumindest beim Urologen, alles gut war.
+
+473
+00:32:53,170 --> 00:32:57,170
+Dann muss man zumindest auch an die Vorgeschichte denken,
+
+474
+00:32:57,170 --> 00:33:02,170
+dass auf alle Fälle muss der Oberschenkel, muss es eine Bildgebung geben
+
+475
+00:33:02,170 --> 00:33:08,170
+und das genau anzuschauen, wo kann der Schmerz herkommen.
+
+476
+00:33:08,170 --> 00:33:11,170
+Und der Schmerz kann durchaus nach Peripher ausstrahlen
+
+477
+00:33:11,170 --> 00:33:14,170
+bei einer Osseren metastase.
+
+478
+00:33:14,170 --> 00:33:16,170
+Das kann durchaus sein.
+
+479
+00:33:16,170 --> 00:33:19,170
+Mehr spricht für eine artigale Verschlusskrankheit.
+
+480
+00:33:19,170 --> 00:33:23,170
+Der Patient berichtet über seit einigen Wochen bestehender
+
+481
+00:33:23,170 --> 00:33:27,170
+belastungsabhängiger eine Claudicatio-Symptomatik,
+
+482
+00:33:27,170 --> 00:33:29,170
+Claudicatio-Intermittence.
+
+483
+00:33:29,170 --> 00:33:32,170
+In Deutschland sagen wir dazu die Schaufensterkrankheit.
+
+484
+00:33:32,170 --> 00:33:36,170
+Der Patient geht von Schaufenster zu Schaufenster in den Städten
+
+485
+00:33:36,170 --> 00:33:41,170
+und er ist nicht neugierig, was in dem Fenster ist, in den Geschäften,
+
+486
+00:33:41,170 --> 00:33:44,170
+sondern er muss stehen bleiben, weil er Schmerzen hat.
+
+487
+00:33:44,170 --> 00:33:47,170
+Das heißt dann die Schaufensterkrankheit.
+
+488
+00:33:48,170 --> 00:33:51,170
+Also es ist eine Claudicatio-Intermittence-Symptomatik,
+
+489
+00:33:51,170 --> 00:33:54,170
+die der Patient hat seit einigen Wochen.
+
+490
+00:33:54,170 --> 00:33:57,170
+Und jetzt hat er wahrscheinlich einen Gefäßverschluss
+
+491
+00:33:57,170 --> 00:34:02,170
+oder einen Zugefäßverschluss, der ihm den Dauerschmerz bereitet.
+
+492
+00:34:02,170 --> 00:34:05,170
+Aber bitte differentialdiagnostisch,
+
+493
+00:34:05,170 --> 00:34:08,170
+das Prostatakazinom nicht vergessen.
+
+494
+00:34:08,170 --> 00:34:10,170
+Prostatakazinom, okay.
+
+495
+00:34:10,170 --> 00:34:15,170
+Irrezipil, würde ich eher sagen, da ist der Allgemeinzustand oft,
+
+496
+00:34:15,170 --> 00:34:17,170
+wenn es ein richtiges Irrezipil ist,
+
+497
+00:34:17,170 --> 00:34:21,170
+ist der Allgemeinzustand oft sehr stark beeinträchtig bei den Patienten.
+
+498
+00:34:21,170 --> 00:34:25,170
+Die Patienten haben in der Regel oder zumindest häufig Fieber.
+
+499
+00:34:25,170 --> 00:34:31,170
+Und sie berichten eher von einer warmen Haut oder geröteten Haut,
+
+500
+00:34:31,170 --> 00:34:34,170
+als vielleicht von einer kühlen Haut.
+
+501
+00:34:34,170 --> 00:34:38,170
+Genau, das merkt man eigentlich.
+
+502
+00:34:38,170 --> 00:34:41,170
+Ja, ja, ist klar.
+
+503
+00:34:41,170 --> 00:34:45,170
+Okay, ja, ja, aber ruhig einige Differentialdiagnosen nennen.
+
+504
+00:34:45,170 --> 00:34:48,170
+Es geht ja nicht um die richtige Diagnose,
+
+505
+00:34:48,170 --> 00:34:51,170
+sondern dass sie zumindest einige Gedanken äußern
+
+506
+00:34:51,170 --> 00:34:54,170
+und dafür dann auch sagen, differentialdiagnostisch
+
+507
+00:34:54,170 --> 00:34:57,170
+muss man auch ein Irrezipil ausschließen
+
+508
+00:34:57,170 --> 00:35:01,170
+oder eine tiefe Weinbähntompose ausschließen,
+
+509
+00:35:01,170 --> 00:35:04,170
+aber auch an das Prostatakazinom denken.
+
+510
+00:35:04,170 --> 00:35:06,170
+Ja, ne?
+
+511
+00:35:06,170 --> 00:35:09,170
+Gut, aber ich finde, das haben Sie gut gemacht.
+
+512
+00:35:09,170 --> 00:35:12,170
+Ich habe Sie gut verstanden.
+
+513
+00:35:12,170 --> 00:35:16,170
+Denken Sie bitte immer wieder dran, in diesem Fall ist
+
+514
+00:35:16,170 --> 00:35:19,170
+Herr Kaufmann der Patient, eher, ne?
+
+515
+00:35:19,170 --> 00:35:21,170
+Eher.
+
+516
+00:35:21,170 --> 00:35:24,170
+Eine Patientin sagen Sie sie, ja?
+
+517
+00:35:24,170 --> 00:35:26,170
+Also maskulin-feminin.
+
+518
+00:35:26,170 --> 00:35:28,170
+Das wird gerne vertauscht.
+
+519
+00:35:28,170 --> 00:35:30,170
+Aber ich habe Sie gut verstanden
+
+520
+00:35:30,170 --> 00:35:33,170
+und Sie haben die allermeisten Fachbegriffe.
+
+521
+00:35:33,170 --> 00:35:35,170
+Es waren jetzt nicht so ganz viel heute,
+
+522
+00:35:35,170 --> 00:35:38,170
+aber die haben Sie gut übersetzt
+
+523
+00:35:38,170 --> 00:35:41,170
+und denken Sie nochmal, das fällt Ihnen ein.
+
+524
+00:35:41,170 --> 00:35:44,170
+An das nächtliche Wasserlassen, an die Nüktorie.
+
+525
+00:35:44,170 --> 00:35:46,170
+Ja?
+
+526
+00:35:46,170 --> 00:35:51,170
+Das Wasserlassen, da sagen Sie ruhig bezüglich der Niktion,
+
+527
+00:35:51,170 --> 00:35:54,170
+besteht eine zweimalige Nüktorie,
+
+528
+00:35:54,170 --> 00:35:58,170
+wahrscheinlich in Folge der Prostata-Operation.
+
+529
+00:35:58,170 --> 00:36:02,170
+Aber eine zweimalige Nüktorie ist, sagen wir mal,
+
+530
+00:36:02,170 --> 00:36:06,170
+bei Menschen ab 60 Jahren durchaus nicht atologisch,
+
+531
+00:36:06,170 --> 00:36:09,170
+sondern es tritt häufiger auf, je nachdem,
+
+532
+00:36:09,170 --> 00:36:12,170
+auf wie viel Trinkmenge abends zu sich genommen wird.
+
+533
+00:36:12,170 --> 00:36:16,170
+Mineralwasser, Bier, Tee, was auch immer.
+
+534
+00:36:16,170 --> 00:36:18,170
+Hängt ja davon schon ab.
+
+535
+00:36:18,170 --> 00:36:20,170
+Gut, ja, dann würde ich doch sagen,
+
+536
+00:36:20,170 --> 00:36:22,170
+üben Sie weiter Fachbegriffe.
+
+537
+00:36:22,170 --> 00:36:25,170
+Wenn Sie sagen, da sind Sie noch nicht so gut.
+
+538
+00:36:25,170 --> 00:36:29,170
+Wenn das der Schwerpunkt ist, habe ich aber ein gutes Gefühl,
+
+539
+00:36:29,170 --> 00:36:32,170
+dass Sie das gut hinkriegen.
+
+540
+00:36:32,170 --> 00:36:34,170
+Ja, dann wünsche ich Ihnen.
+
+541
+00:36:34,170 --> 00:36:38,170
+Dann wünsche ich allen eine gute Woche
+
+542
+00:36:38,170 --> 00:36:42,170
+und wir können uns wieder verabreden für nächsten Donnerstag.
+
+543
+00:36:42,170 --> 00:36:45,170
+Dann sage ich einmal Tschüss.
