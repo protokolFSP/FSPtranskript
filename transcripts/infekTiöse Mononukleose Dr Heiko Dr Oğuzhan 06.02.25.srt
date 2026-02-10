@@ -1,0 +1,2763 @@
+1
+00:00:00,000 --> 00:00:01,000
+Okay.
+
+2
+00:00:02,000 --> 00:00:04,000
+Schönen guten Abend.
+
+3
+00:00:04,000 --> 00:00:06,000
+Ogu-San ist mein Name.
+
+4
+00:00:06,000 --> 00:00:09,000
+Ich bin auf dieser Station als Assistenzstätig
+
+5
+00:00:09,000 --> 00:00:13,000
+und möchte gerne das Aufnahmegespräch führen.
+
+6
+00:00:13,000 --> 00:00:19,000
+Ich werde Ihnen erst ein paar Fragen zu Ihrer Person stellen
+
+7
+00:00:19,000 --> 00:00:23,000
+und dann zu Ihrem Beschwerden übergehen.
+
+8
+00:00:23,000 --> 00:00:25,000
+Ist das in Ordnung für Sie?
+
+9
+00:00:25,000 --> 00:00:26,000
+Ja, ja.
+
+10
+00:00:26,000 --> 00:00:27,000
+Super.
+
+11
+00:00:27,000 --> 00:00:29,000
+Wie heißen Sie das?
+
+12
+00:00:29,000 --> 00:00:36,930
+Ich heiße Maximilian Habeck.
+
+13
+00:00:36,930 --> 00:00:40,930
+Könnten Sie bitte Ihren Vornamen, Namen, Buchstabieren?
+
+14
+00:00:40,930 --> 00:00:54,930
+Ja, der Vorname Maximilian M-A-X-I-M-I-L-I-A-N.
+
+15
+00:00:54,930 --> 00:00:56,930
+Maximilian.
+
+16
+00:00:56,930 --> 00:00:57,930
+Ja, Maximilian.
+
+17
+00:00:57,930 --> 00:01:05,930
+Habeck, Habeck, H-A-B-E-C-K.
+
+18
+00:01:05,930 --> 00:01:06,930
+Ja, super.
+
+19
+00:01:06,930 --> 00:01:08,930
+Herr Habeck, okay.
+
+20
+00:01:08,930 --> 00:01:10,930
+Wie heißen Sie Herr Habeck?
+
+21
+00:01:10,930 --> 00:01:12,930
+Ich bin 23.
+
+22
+00:01:12,930 --> 00:01:14,930
+23.
+
+23
+00:01:14,930 --> 00:01:16,930
+Wann genau sind Sie geworden?
+
+24
+00:01:17,930 --> 00:01:21,930
+Am 15. November 2001.
+
+25
+00:01:21,930 --> 00:01:31,540
+2001.
+
+26
+00:01:31,540 --> 00:01:34,540
+Können Sie mir sagen, wie viel wiegen Sie?
+
+27
+00:01:34,540 --> 00:01:38,540
+Zur Zeit wiege ich 68 Kilo.
+
+28
+00:01:38,540 --> 00:01:41,540
+68.
+
+29
+00:01:41,540 --> 00:01:43,540
+Und wie groß sind Sie?
+
+30
+00:01:43,540 --> 00:01:45,540
+1,2 Meter.
+
+31
+00:01:45,540 --> 00:01:51,740
+Wo wohnen Sie Herr Habeck?
+
+32
+00:01:51,740 --> 00:01:53,740
+Ich wohne in Münster.
+
+33
+00:01:53,740 --> 00:01:55,740
+Münster.
+
+34
+00:01:55,740 --> 00:02:01,280
+Wie heißt Ihr Hausarztin oder Ihr Hausarzt?
+
+35
+00:02:02,280 --> 00:02:05,280
+Auch Dr. Menke.
+
+36
+00:02:05,280 --> 00:02:07,280
+Menke.
+
+37
+00:02:07,280 --> 00:02:09,280
+Menke.
+
+38
+00:02:09,280 --> 00:02:11,280
+Menke.
+
+39
+00:02:11,280 --> 00:02:13,280
+Mit E.
+
+40
+00:02:13,280 --> 00:02:16,280
+M-I-N-K-I.
+
+41
+00:02:16,280 --> 00:02:19,280
+Was sind Sie von Beruf?
+
+42
+00:02:19,280 --> 00:02:21,280
+Ich studiere.
+
+43
+00:02:21,280 --> 00:02:24,280
+Welche Abteilung oder welche Studierung?
+
+44
+00:02:24,280 --> 00:02:26,280
+Ich studiere Jura.
+
+45
+00:02:26,280 --> 00:02:28,280
+Jura.
+
+46
+00:02:28,280 --> 00:02:32,690
+Darf ich Sie fragen, ob Sie verheiratet sind?
+
+47
+00:02:32,690 --> 00:02:34,690
+Nein, ich bin ledig.
+
+48
+00:02:34,690 --> 00:02:37,690
+Haben Sie Kinder?
+
+49
+00:02:37,690 --> 00:02:39,690
+Nein.
+
+50
+00:02:39,690 --> 00:02:41,690
+Wunderbar, danke schön.
+
+51
+00:02:41,690 --> 00:02:43,690
+Wie kann ich Ihnen helfen?
+
+52
+00:02:43,690 --> 00:02:45,690
+Was für zu uns?
+
+53
+00:02:45,690 --> 00:02:49,690
+Ich fühle mich in den letzten 3 Wochen ziemlich stark erschöpft.
+
+54
+00:02:49,690 --> 00:02:52,690
+Ich bin oft müde.
+
+55
+00:02:52,690 --> 00:02:55,690
+Ich habe wenig Appetit.
+
+56
+00:02:55,690 --> 00:02:58,690
+Ich bekomme auch relativ schnell Luftnot.
+
+57
+00:02:58,690 --> 00:03:01,690
+Ich treibe sonst viel Sport.
+
+58
+00:03:01,690 --> 00:03:04,690
+Aber joggen kann ich zurzeit gar nicht.
+
+59
+00:03:04,690 --> 00:03:07,690
+Das schaffe ich nicht.
+
+60
+00:03:07,690 --> 00:03:10,690
+Da bin ich zu schlapp, zu müde.
+
+61
+00:03:10,690 --> 00:03:13,690
+Ich habe stark weiße Fälle.
+
+62
+00:03:13,690 --> 00:03:16,690
+Besonders nachts muss ich stark schwitzen.
+
+63
+00:03:16,690 --> 00:03:19,690
+Dann habe ich jetzt Fieber gemessen.
+
+64
+00:03:19,690 --> 00:03:22,690
+Ich habe Fieber 8 und 3.
+
+65
+00:03:22,690 --> 00:03:25,690
+Ich habe Fieber 38,5.
+
+66
+00:03:25,690 --> 00:03:28,690
+Es geht mir nicht gut.
+
+67
+00:03:28,690 --> 00:03:36,520
+Können Sie mir sagen, dass Sie ähnliche Beschwerden schon einmal hätten?
+
+68
+00:03:36,520 --> 00:03:39,520
+Nein, so etwas habe ich noch nie gehabt.
+
+69
+00:03:39,520 --> 00:03:42,520
+Haben Sie bemerkt, ob es bestimmte Auslöse für die Beschwerden gibt?
+
+70
+00:03:42,520 --> 00:03:45,520
+Nein, aber ich habe keine Erklärung dafür.
+
+71
+00:03:45,520 --> 00:03:48,520
+Letzter 3 war.
+
+72
+00:03:48,520 --> 00:03:51,520
+Okay.
+
+73
+00:03:51,520 --> 00:03:54,520
+Ich habe noch keine Erklärung dafür.
+
+74
+00:03:54,520 --> 00:03:57,520
+Ich habe bis heute die Beinstelle der Beschwerden.
+
+75
+00:03:57,520 --> 00:04:02,660
+Die sind nicht gut.
+
+76
+00:04:02,660 --> 00:04:05,660
+Ich habe die Le emergency.
+
+77
+00:04:05,660 --> 00:04:08,660
+Ich habe gewisse Muskelschmerzen.
+
+78
+00:04:08,660 --> 00:04:11,660
+Ich habe einen Maraton gelaufen.
+
+79
+00:04:11,660 --> 00:04:14,660
+Ich hatte auch Muskelschmerzen.
+
+80
+00:04:14,660 --> 00:04:17,660
+Ich hatte auch die Nenumriesen.
+
+81
+00:04:17,660 --> 00:04:20,660
+Das fühlt sich an.
+
+82
+00:04:20,660 --> 00:04:23,660
+Auch die Knochen, wie du sie tun.
+
+83
+00:04:23,660 --> 00:04:37,220
+habe keine Kopfschmerzen und Kopfschmerzen habe ich nicht. Ich habe noch so bemerkt irgendwie im Bauch
+
+84
+00:04:37,220 --> 00:04:43,180
+habe ich so ein Druckgefühl im linken Bauch unter den Rippen, an dem Rippenbogen. Da ist so ein
+
+85
+00:04:43,180 --> 00:04:51,140
+Druckgefühl, da muss ich immer hin fühlen, aber ich kann nichts fühlen, so tasten kann ich nicht.
+
+86
+00:04:51,140 --> 00:04:56,660
+Dann habe ich so den Eindruck, dass mein Hals etwas dicker ist, weil ein Hals ist geschwollen
+
+87
+00:04:56,660 --> 00:05:06,830
+auf der Seite, ja, es ist nicht gut.
+
+88
+00:05:06,830 --> 00:05:14,830
+Wo sind sie, wo sind sie Druckgefühle im Bauch?
+
+89
+00:05:14,830 --> 00:05:19,830
+Linken, Linken, Linken, ja, und Rippenbogen.
+
+90
+00:05:19,830 --> 00:05:28,940
+Ja, ja, da so in der Gegend.
+
+91
+00:05:28,940 --> 00:05:34,940
+Haben Sie Übelkeit oder Erbrechen?
+
+92
+00:05:34,940 --> 00:05:38,940
+Nein, Übelkeit, Erbrechen habe ich nicht, aber wenig Appetit.
+
+93
+00:05:38,940 --> 00:05:45,940
+Ich kann nicht gut essen. Ich muss mich zum Essen immer zwingen.
+
+94
+00:05:45,940 --> 00:05:48,940
+Haben Sie Schwindelgefühl?
+
+95
+00:05:48,940 --> 00:05:50,940
+Nein, nein.
+
+96
+00:05:50,940 --> 00:05:57,290
+Haben Sie noch weitere Beschwerden?
+
+97
+00:05:57,290 --> 00:06:08,290
+Nein, Luftnot habe ich, ich habe diese Nachtschweißstark, Knochenschmerzen, Muskelschmerzen, Druckgefühl im Bauch,
+
+98
+00:06:08,290 --> 00:06:12,290
+das Fieber, Müdigkeit.
+
+99
+00:06:12,290 --> 00:06:29,220
+Ich fasse das noch einmal zusammen, bitte kollegen Sie mich, falls ich etwas falsch notiert habe.
+
+100
+00:06:29,220 --> 00:06:45,220
+Sie haben seit letzten drei Wochen bestehende Stärker, Erschöpfung und Müdigkeit und Luftnot.
+
+101
+00:06:45,220 --> 00:06:54,220
+Sie haben wenig Appetit und sie haben nach Schweiß und Fieber.
+
+102
+00:06:54,220 --> 00:07:09,220
+Die Fieber ist 38,5 Stg und sie klagten über Druckgefühl in linken Oberwach.
+
+103
+00:07:09,220 --> 00:07:13,220
+Und mein Hals geschohlen?
+
+104
+00:07:13,220 --> 00:07:15,220
+Ja, so dicker, der Seite besonders, so hier.
+
+105
+00:07:15,220 --> 00:07:18,220
+Haben Sie Halsschmerzen?
+
+106
+00:07:18,220 --> 00:07:21,220
+Nein, Halsschmerzen habe ich eigentlich nicht.
+
+107
+00:07:21,220 --> 00:07:27,220
+Die Luftnot habe ich aber nicht in Ruhe, sondern ich wohne im zweiten Stockwerk.
+
+108
+00:07:27,220 --> 00:07:36,220
+Wenn ich die Treppen steige, da muss ich jetzt eine Pause machen, weil ich keine richtige Luft kriege.
+
+109
+00:07:36,220 --> 00:07:43,040
+Dann kann ich jetzt wieder weiter Treppen steigen.
+
+110
+00:07:43,040 --> 00:07:45,040
+Dritte Stock?
+
+111
+00:07:45,040 --> 00:07:50,430
+Zweite Stock.
+
+112
+00:07:50,430 --> 00:07:55,430
+Haben Sie Beinschmeißen oder Beinen?
+
+113
+00:07:55,430 --> 00:07:58,430
+Also allgemeine Muskelschmerzen.
+
+114
+00:07:58,430 --> 00:08:12,940
+Aber besonders habe ich nicht.
+
+115
+00:08:12,940 --> 00:08:17,940
+Leider sind Koronationerkrankungen von denen ich fließen sollte?
+
+116
+00:08:17,940 --> 00:08:21,940
+Also ich habe seit der Kindheit, habe ich Asthma.
+
+117
+00:08:22,940 --> 00:08:29,940
+Ich bin allergisch auf viele Pollen, aber auch auf Hausstaub.
+
+118
+00:08:29,940 --> 00:08:36,940
+Wir haben schon viel probiert, aber ich habe immer wieder Beschwerden.
+
+119
+00:08:36,940 --> 00:08:40,940
+Ich brauche dafür, dass ich dafür einen Spray nehme.
+
+120
+00:08:40,940 --> 00:08:53,940
+Dann habe ich noch ein chronisches Hautexem, besonders in der Ellenbäuger, hier am Ellenbogen und in der Kniekehle.
+
+121
+00:08:53,940 --> 00:09:07,040
+Das ist im Winter oft schlimmer, im Sommer ist es besser, wenn Sonne dran kommt.
+
+122
+00:09:07,040 --> 00:09:11,040
+Wie über der Espray handelt gegen Asthma?
+
+123
+00:09:11,040 --> 00:09:16,040
+Asthma nehme ich Spray ein, wie Arnie heißt es?
+
+124
+00:09:17,040 --> 00:09:20,040
+Könnten Sie bitte?
+
+125
+00:09:20,040 --> 00:09:26,040
+V-A-N-I, Fianie.
+
+126
+00:09:26,040 --> 00:09:28,040
+Das nehme ich zweimal pro Tag.
+
+127
+00:09:28,040 --> 00:09:36,040
+Und bei Bedarf, sonst wenn ich Sport treibe, was ich in den letzten drei Wochen nicht gemacht habe, weil ich zu müde bin,
+
+128
+00:09:36,040 --> 00:09:39,040
+sonst nehme ich vor dem Sport noch Salvutamol.
+
+129
+00:09:39,040 --> 00:09:41,040
+Wie ist die Dosierung?
+
+130
+00:09:41,040 --> 00:09:44,040
+Zweimal pro Tag.
+
+131
+00:09:45,040 --> 00:09:48,040
+Morgens ein und abends eine.
+
+132
+00:09:48,040 --> 00:09:51,040
+Das ist eine Kapsel, die wir in der Brat, und dann muss ich das einatmen.
+
+133
+00:09:51,040 --> 00:09:54,040
+Das ist so ein Staub, ein Pulver.
+
+134
+00:09:54,040 --> 00:10:01,730
+Sie haben gesagt, andere Medikamente.
+
+135
+00:10:01,730 --> 00:10:05,730
+Bei Bedarf nehme ich vor dem Sport Salvutamol.
+
+136
+00:10:05,730 --> 00:10:22,600
+Leiden Sie andere krönchen Erkrankungen?
+
+137
+00:10:22,600 --> 00:10:26,600
+Nein, einmal Asthma und einmal Polynamen.
+
+138
+00:10:26,600 --> 00:10:31,600
+Sind Sie schon einmal operiert worden?
+
+139
+00:10:31,600 --> 00:10:38,600
+Ja, als Kind, da war ich, glaube ich, zehn Jahre alt, da hatte ich eine Mandeloperation.
+
+140
+00:10:38,600 --> 00:10:47,600
+Und vor zwei Jahren wurde am linken Knie, der Meniscus,
+
+141
+00:10:47,600 --> 00:10:53,600
+vor zwei Jahren wurde am linken Knie der Meniscus operiert mit einer Knie-Spiegelung.
+
+142
+00:10:53,600 --> 00:10:57,600
+Da wurde der Meniscus wieder genäht, der war eingerissen,
+
+143
+00:10:57,600 --> 00:11:01,600
+das ist wahrscheinlich beim Fußballspielen passiert.
+
+144
+00:11:01,600 --> 00:11:05,600
+Aber danach ist es gut gegangen, habe ich keine Probleme mehr gehabt.
+
+145
+00:11:05,600 --> 00:11:16,260
+Jetzt möchte ich Sie nach Krankheiten in Ihrer Familie fragen.
+
+146
+00:11:16,260 --> 00:11:19,260
+Leben Ihre Eltern noch?
+
+147
+00:11:19,260 --> 00:11:25,260
+Ja, der Vater ist 52 Jahre alt.
+
+148
+00:11:26,260 --> 00:11:36,260
+Er hatte in den letzten Jahren immer wieder Probleme mit geschwüren Amts-12-Fingerdamm.
+
+149
+00:11:36,260 --> 00:11:41,260
+Da muss er jetzt regelmäßig Tabletten nehmen und es ist jetzt besser geworden.
+
+150
+00:11:41,260 --> 00:11:48,260
+Er hatte auch hohen Blutdruck seit einigen Jahren.
+
+151
+00:11:48,260 --> 00:11:52,260
+Da muss er auch Medikamente nehmen, aber ich weiß nicht, welche.
+
+152
+00:11:52,260 --> 00:12:00,260
+Dann hatte er vor zwei Jahren nach einer Covid-Infektion eine Herzmuskelentzündung.
+
+153
+00:12:00,260 --> 00:12:14,840
+Das war es, oder?
+
+154
+00:12:14,840 --> 00:12:21,840
+Bei Vater war es, dass die Mutter die ist, 151 Jahre alt, die hat auch Asthma, so wie ich.
+
+155
+00:12:21,840 --> 00:12:29,570
+Hast du mal?
+
+156
+00:12:29,570 --> 00:12:30,570
+Haben Sie Geschwister?
+
+157
+00:12:30,570 --> 00:12:34,570
+Ja, eine Schwester, die ist 24 Jahre alt, die ist gesund.
+
+158
+00:12:34,570 --> 00:12:42,820
+Je weiter geht es mit der Vegetativeranmese.
+
+159
+00:12:42,820 --> 00:12:51,820
+Sie haben gesagt, ich habe Fieber und leiden Sie dann Schweißarsprüchen.
+
+160
+00:12:51,820 --> 00:12:54,820
+Ja, ich habe starken Nachts besonders.
+
+161
+00:12:54,820 --> 00:12:56,820
+Ich schwitze sehr stark.
+
+162
+00:12:56,820 --> 00:13:01,820
+Ich muss in der Nacht immer ein neues T-Shirt anziehen, weil das so durchgeschwitzt ist.
+
+163
+00:13:01,820 --> 00:13:04,820
+Und schlafen sehr gut?
+
+164
+00:13:04,820 --> 00:13:10,820
+Nein, seitdem ich jetzt seit drei Wochen, seitdem es mir nicht so gut geht, schlafe ich auch nicht so gut.
+
+165
+00:13:10,820 --> 00:13:22,200
+Weil ich tagsüber immer etwas müde bin, dann schlafe ich tagsüber etwas und da ist der Nachtschlaf jetzt zur Zeit nicht gut.
+
+166
+00:13:22,200 --> 00:13:25,200
+Haben Sie Husten?
+
+167
+00:13:25,200 --> 00:13:33,200
+Durch das Asthma habe ich manchmal Husten, aber nicht stärker als sonst.
+
+168
+00:13:33,200 --> 00:13:39,200
+Haben Sie bemerkt, dass in letzter Zeit ungewollt ab oder zu kommen?
+
+169
+00:13:39,200 --> 00:13:41,200
+Ja, das ist ein großes Problem.
+
+170
+00:13:41,200 --> 00:13:53,200
+Ich habe so schon vorher, bevor es mir jetzt so schlecht ging, habe ich bemerkt, so seit zwei Monaten habe ich Gewicht abgenommen, fast 8 Kilo.
+
+171
+00:13:53,200 --> 00:14:08,860
+Haben Sie Probleme beim Wasserlassen und mit dem Stullgang?
+
+172
+00:14:08,860 --> 00:14:10,860
+Nein, das ist alles in Ordnung.
+
+173
+00:14:10,860 --> 00:14:12,860
+Da habe ich keine Probleme.
+
+174
+00:14:12,860 --> 00:14:19,900
+Haben Sie Verstopfung oder Durchfall?
+
+175
+00:14:19,900 --> 00:14:20,900
+Nein, nein.
+
+176
+00:14:20,900 --> 00:14:29,900
+Können Sie mir sagen, ob Sie in Ihrem Privatleben oder Arbeitsleben Stress oder Angst haben?
+
+177
+00:14:29,900 --> 00:14:42,900
+Nein, das Studium ist zwar anstrengend, das ist ein gewisser Stress, aber ich fühle mich da jetzt nicht sehr stark beeinträchtigt.
+
+178
+00:14:42,900 --> 00:14:51,750
+Mehr Stress macht mir jetzt im Augenblick meinen Gesundheitszustand, falls es mir nicht gut geht.
+
+179
+00:14:51,750 --> 00:15:06,040
+Sie haben gesagt, Sie nehmen ein Zwei-Bit Tomaten und Ferne.
+
+180
+00:15:06,040 --> 00:15:07,040
+Ja.
+
+181
+00:15:07,040 --> 00:15:13,740
+Und nehmen Sie regelmäßig andere Medikamente ein?
+
+182
+00:15:13,740 --> 00:15:15,740
+Nein, nein.
+
+183
+00:15:15,740 --> 00:15:20,740
+Ich würde gerne wissen, ob Sie rauchen.
+
+184
+00:15:20,740 --> 00:15:24,740
+Nein, ich rauche nicht, auch wegen dem Ast war ich nicht.
+
+185
+00:15:24,740 --> 00:15:28,740
+Ich mache ja viel Sport, also rauchen tu ich nicht.
+
+186
+00:15:28,740 --> 00:15:30,740
+Super.
+
+187
+00:15:30,740 --> 00:15:32,740
+Trinken Sie regelmäßig Alkohol?
+
+188
+00:15:32,740 --> 00:15:40,740
+Nicht regelmäßig, aber am Wochenende mal auf einer Feier oder Party, da trinke ich auch mal eine Flasche Bier.
+
+189
+00:15:40,740 --> 00:15:44,740
+Sagen wir mal maximal zwei Flaschen Bier pro Woche.
+
+190
+00:15:44,740 --> 00:15:50,740
+Aber in den letzten drei Wochen glaube ich, seitdem es mir nicht gut geht, habe ich keinen Alkohol getrunken.
+
+191
+00:15:50,740 --> 00:15:51,740
+Ja, super.
+
+192
+00:15:51,740 --> 00:15:57,740
+Diese Frage ist rein routinmäßig. Bitte nehmen Sie nicht persönlich.
+
+193
+00:15:57,740 --> 00:16:00,740
+Haben Sie Kontakt mit Drogen?
+
+194
+00:16:00,740 --> 00:16:12,050
+Nein, habe ich nicht.
+
+195
+00:16:12,050 --> 00:16:20,050
+Wie ist das mit den Medikamenten?
+
+196
+00:16:20,050 --> 00:16:22,050
+Ist mir nicht bekannt.
+
+197
+00:16:22,050 --> 00:16:24,050
+Nein, ich habe es hier auch nicht.
+
+198
+00:16:24,050 --> 00:16:29,050
+Ja, Polen, früher und Hausstaubmilbe.
+
+199
+00:16:29,050 --> 00:16:30,050
+Hausstaub.
+
+200
+00:16:30,050 --> 00:16:31,050
+Hausstaub.
+
+201
+00:16:31,050 --> 00:16:36,050
+Wie ist das mit den Alergen?
+
+202
+00:16:36,050 --> 00:16:38,050
+Luftnot.
+
+203
+00:16:38,050 --> 00:16:45,050
+Man sagt, das Asthma kommt von den Polen, besonders früher, aber Hausstaub eben das ganze Jahr.
+
+204
+00:16:45,050 --> 00:16:48,050
+Das Problem ist Hausstaub.
+
+205
+00:16:48,050 --> 00:17:00,710
+Ist Ihre Impfstatus vollständig, zum Beispiel Kinderheit oder Covid-19?
+
+206
+00:17:00,710 --> 00:17:07,660
+Ich glaube, ich bin zurzeit gut geimpft, ausreichend geimpft.
+
+207
+00:17:07,660 --> 00:17:11,390
+Ja, das glaube ich.
+
+208
+00:17:11,390 --> 00:17:17,390
+Mein Impfspass jetzt nicht mit, den kann ich aber besorgen, kann ich Ihnen dann zeigen.
+
+209
+00:17:17,390 --> 00:17:19,390
+Ja, super.
+
+210
+00:17:19,390 --> 00:17:23,390
+Sind Sie in letzter Zeit im Ausland gereist?
+
+211
+00:17:23,390 --> 00:17:26,390
+Ja, ich war vor ungefähr drei Monaten.
+
+212
+00:17:26,390 --> 00:17:31,390
+Gut, vor drei Monaten war ich in Thailand und in Vietnam.
+
+213
+00:17:31,390 --> 00:17:40,390
+Zu einer so einer Backpacking-Tour mit Rucksack und da war ich gut drei Wochen unterwegs.
+
+214
+00:17:40,390 --> 00:17:56,810
+Haben Sie Ihre Reisen ein Problem oder eine Beschwerden?
+
+215
+00:17:56,810 --> 00:18:05,810
+Nein, ich hatte mal ein Tag oder zwei Tage etwas durchfragen und erbrechen in Thailand,
+
+216
+00:18:05,810 --> 00:18:08,810
+aber das war dann schnell wieder besser.
+
+217
+00:18:08,810 --> 00:18:12,810
+Sonst war da keine Komplikation in der Reise.
+
+218
+00:18:12,810 --> 00:18:16,220
+Ja, super.
+
+219
+00:18:16,220 --> 00:18:19,220
+Das war es, glaube ich.
+
+220
+00:18:19,220 --> 00:18:25,220
+Haben Sie noch Fragen oder wichtige Informationen für mich?
+
+221
+00:18:25,220 --> 00:18:28,220
+Ja, ich frage mich natürlich, was kann ich haben,
+
+222
+00:18:28,220 --> 00:18:33,220
+weil so etwas habe ich ja noch nie gehabt und so, dass es mir so lange schon so schlecht geht.
+
+223
+00:18:33,220 --> 00:18:37,220
+Ja, ich verstehe Ihnen.
+
+224
+00:18:37,220 --> 00:18:39,220
+Wir sind schon erledigt.
+
+225
+00:18:39,220 --> 00:18:44,220
+Ich habe eine Erleichterung geplant.
+
+226
+00:18:44,220 --> 00:18:53,220
+Ich habe jetzt auch eine Erleichterung geplant.
+
+227
+00:18:53,220 --> 00:18:58,220
+Ich habe nach einer Ausland gereicht.
+
+228
+00:18:58,220 --> 00:19:07,220
+Was heißt Tokax?
+
+229
+00:19:07,220 --> 00:19:09,220
+Was heißt Torax?
+
+230
+00:19:09,220 --> 00:19:14,220
+Röntgenbrust in den Brustbereich.
+
+231
+00:19:14,220 --> 00:19:15,220
+Brustkorb.
+
+232
+00:19:15,220 --> 00:19:16,220
+Brustkorb.
+
+233
+00:19:16,220 --> 00:19:17,220
+Ja, Brustkorb.
+
+234
+00:19:17,220 --> 00:19:18,220
+Gut.
+
+235
+00:19:18,220 --> 00:19:25,220
+Sobald alle Befunde vorliegen, können wir über die Diagnose und die Behandlung sprechen.
+
+236
+00:19:25,220 --> 00:19:27,220
+Okay, gut, das können wir so machen.
+
+237
+00:19:27,220 --> 00:19:28,220
+Danke.
+
+238
+00:19:28,220 --> 00:19:29,220
+Super.
+
+239
+00:19:29,220 --> 00:19:34,220
+Gut, dann haben Sie jetzt, sagen wir mal, 10 Minuten Zeit, sich einfach vorzubereiten.
+
+240
+00:19:34,220 --> 00:19:41,220
+Ich habe Sie an die Übersetzung der Patientensprache in die möglichst in die Fachbegriffe.
+
+241
+00:19:41,220 --> 00:19:45,220
+Und heute sind ja auch viele Kolleginnen und Kollegen zugeschaltet.
+
+242
+00:19:45,220 --> 00:19:51,220
+Vielleicht gibt es noch Fragen, die wir jetzt dann, die ich gerne beantworten.
+
+243
+00:19:51,220 --> 00:19:52,220
+Ja.
+
+244
+00:19:52,220 --> 00:19:56,220
+Die meisten Fragen sind, glaube ich, alle gut gestellt worden.
+
+245
+00:19:56,220 --> 00:20:00,220
+Es verbleiben, glaube ich, nicht mehr so viele Fragen.
+
+246
+00:20:00,220 --> 00:20:07,950
+Was könnte man denn noch fragen?
+
+247
+00:20:07,950 --> 00:20:10,950
+Ich habe eine Frage.
+
+248
+00:20:10,950 --> 00:20:11,950
+Ja.
+
+249
+00:20:11,950 --> 00:20:20,950
+Haben Sie Engelgefühl, Brustschmerzen, Herzrasen oder Herzklopfen bemerkt?
+
+250
+00:20:20,950 --> 00:20:28,950
+Also Engelgefühl und Brustschmerzen habe ich nicht, aber ich habe bemerkt, dass mein Puls etwas schneller schlägt.
+
+251
+00:20:28,950 --> 00:20:32,950
+Vielleicht hängt das damit zusammen, weil ich so schnell erschöpft bin.
+
+252
+00:20:32,950 --> 00:20:42,950
+Normalerweise habe ich einen Puls von unter 60, Ruhepuls und den habe ich jetzt gemessen und der ist zurzeit so bei 80, 85.
+
+253
+00:20:42,950 --> 00:20:49,950
+Das kann ich gut vergleichen, weil ich das früher immer kontrolliert habe.
+
+254
+00:20:49,950 --> 00:20:55,740
+Okay, danke schön.
+
+255
+00:20:55,740 --> 00:20:59,740
+Haben Sie belasse Haut bemerkt bei Ihnen?
+
+256
+00:20:59,740 --> 00:21:04,740
+Meine Freundin ist aufgefallen, dass ich so blass bin in letzter Zeit.
+
+257
+00:21:04,740 --> 00:21:09,740
+Sie wundert sich ja auch, dass ich so oft so müde bin und so viel schwitze.
+
+258
+00:21:09,740 --> 00:21:13,740
+Sie sagt auch, ich wäre blasser als sonst.
+
+259
+00:21:13,740 --> 00:21:17,740
+Anfang war das vielleicht nicht so, weil ich ja noch in Thailand war und wie Vietnam.
+
+260
+00:21:17,740 --> 00:21:19,740
+Da war ich dann relativ braun.
+
+261
+00:21:19,740 --> 00:21:21,740
+Da war viel Sonne.
+
+262
+00:21:21,740 --> 00:21:25,740
+Aber jetzt in letzter Zeit ist meine Freundin das aufgefallen.
+
+263
+00:21:25,740 --> 00:21:38,930
+Haben Sie schon einmal Käse aus Rohmilch gegessen?
+
+264
+00:21:38,930 --> 00:21:40,930
+Können Sie das bitte noch einmal wiederholen?
+
+265
+00:21:40,930 --> 00:21:46,930
+Haben Sie schon einmal Käse aus Rohmilch gegessen?
+
+266
+00:21:46,930 --> 00:21:47,930
+Käse aus Rohmilch?
+
+267
+00:21:47,930 --> 00:21:48,930
+Ja.
+
+268
+00:21:48,930 --> 00:21:50,930
+Das weiß ich gar nicht.
+
+269
+00:21:50,930 --> 00:21:54,930
+Ich habe gehört, das kann auch Krankheiten übertragen.
+
+270
+00:21:54,930 --> 00:21:57,930
+Aber das weiß ich jetzt gar nicht genau.
+
+271
+00:21:57,930 --> 00:21:59,930
+Kann ich Ihnen nichts sagen?
+
+272
+00:21:59,930 --> 00:22:05,700
+Hallo?
+
+273
+00:22:06,700 --> 00:22:11,940
+Ich habe etwas nur gehört, aber nicht richtig.
+
+274
+00:22:11,940 --> 00:22:13,940
+Können Sie das bitte wiederholen?
+
+275
+00:22:13,940 --> 00:22:15,940
+Nein.
+
+276
+00:22:15,940 --> 00:22:22,940
+Vielleicht kann man noch eine Frage stellen im Rahmen der Thailand-Reise
+
+277
+00:22:22,940 --> 00:22:24,940
+und Vietnam-Reise.
+
+278
+00:22:24,940 --> 00:22:28,940
+Ich habe extra das mit dem Impfen bewusst nicht gesagt.
+
+279
+00:22:28,940 --> 00:22:35,940
+Ich war vorher beim Open-Mediziner und habe alle Impfungen dort erhalten,
+
+280
+00:22:35,940 --> 00:22:43,940
+die notwendig waren für diese Reise und habe auch eine Malaria-Profilaxe gemacht.
+
+281
+00:22:43,940 --> 00:22:45,940
+Mit Tabletten.
+
+282
+00:22:45,940 --> 00:22:59,560
+Diese Frage sollte möglichst auch im Rahmen dieser Reise an am Nese,
+
+283
+00:22:59,560 --> 00:23:02,560
+wenn ich in Thailand war, sollte die auch gestellt werden.
+
+284
+00:23:02,560 --> 00:23:05,560
+Möglichst haben Sie eine Malaria-Profilaxe gemacht.
+
+285
+00:23:05,560 --> 00:23:17,750
+Gut.
+
+286
+00:23:17,750 --> 00:23:19,750
+Gibt es sonst noch Fragen?
+
+287
+00:23:19,750 --> 00:23:24,660
+Wenig Fragen.
+
+288
+00:23:24,660 --> 00:23:31,940
+Es ist ein gutes Zeichen, dass der Kollege alle entscheidenden Fragen eigentlich gestellt hat.
+
+289
+00:23:31,940 --> 00:23:34,940
+Das ist schon mal sehr positiv.
+
+290
+00:23:34,940 --> 00:23:40,930
+Schönen guten Tag Herr Oberarzt.
+
+291
+00:23:40,930 --> 00:23:43,930
+Ich möchte Ihnen einen neuen Patientin vorstellen.
+
+292
+00:23:43,930 --> 00:23:45,930
+Haben Sie Zeit für mich?
+
+293
+00:23:45,930 --> 00:23:47,930
+Ja, habe ich.
+
+294
+00:23:47,930 --> 00:23:54,930
+Herr Maximilian Habeck, 3-und 20-Jährige.
+
+295
+00:23:54,930 --> 00:23:59,930
+Er ist 28 kg.
+
+296
+00:23:59,930 --> 00:24:02,930
+68 kg.
+
+297
+00:24:02,930 --> 00:24:05,930
+68 kg.
+
+298
+00:24:05,930 --> 00:24:16,930
+Er ist 182 cm groß.
+
+299
+00:24:17,930 --> 00:24:26,930
+Herr Habeck ist Jurastudentin.
+
+300
+00:24:26,930 --> 00:24:28,930
+Okay.
+
+301
+00:24:28,930 --> 00:24:32,930
+Und ledig.
+
+302
+00:24:32,930 --> 00:24:39,930
+Ihre Hausarzt heißt Frau Dr. Menke.
+
+303
+00:24:39,930 --> 00:24:51,930
+Herr Habeck, ich stande heute wegen seit den letzten 3 Wochen bestehende Fatigue
+
+304
+00:24:51,930 --> 00:25:00,930
+und Fatigue in Möglichkeit, Appetitlosigkeit und Taschknö.
+
+305
+00:25:00,930 --> 00:25:04,930
+Ja, in Appetenz vielleicht?
+
+306
+00:25:04,930 --> 00:25:08,930
+Ja, in Appetenz.
+
+307
+00:25:08,930 --> 00:25:14,930
+Taschknö und Hypathidrose bei uns vor.
+
+308
+00:25:14,930 --> 00:25:18,930
+Die Dispnö ist eher ein Belastungsdispnö.
+
+309
+00:25:18,930 --> 00:25:21,930
+Also keine Ruhedispnö.
+
+310
+00:25:21,930 --> 00:25:27,930
+Das wäre eine Orthopnö, aber er hat eine Belastungsdispnö.
+
+311
+00:25:27,930 --> 00:25:30,930
+Er hat eine Belastungsdispnö.
+
+312
+00:25:30,930 --> 00:25:34,930
+Ja, bei einem Treppensteigen zum Beispiel.
+
+313
+00:25:34,930 --> 00:25:49,930
+Er leidet Fieber von 38,5 Stg.
+
+314
+00:25:49,930 --> 00:25:55,930
+Wissen Sie, wo er das gemessen hat?
+
+315
+00:25:55,930 --> 00:25:59,930
+Ja, ich habe nicht gefragt.
+
+316
+00:25:59,930 --> 00:26:02,930
+Er hat das im Mund gemessen.
+
+317
+00:26:02,930 --> 00:26:06,930
+Am besten immer Fragen, wo haben Sie das gemessen?
+
+318
+00:26:06,930 --> 00:26:08,930
+Gut.
+
+319
+00:26:08,930 --> 00:26:16,930
+Und begleitend sind, mir nach Marathon zu laufen.
+
+320
+00:26:16,930 --> 00:26:18,930
+Ja, also wie?
+
+321
+00:26:18,930 --> 00:26:20,930
+Er hat das verglichen.
+
+322
+00:26:20,930 --> 00:26:22,930
+Er hat Schmerzen wie nach einem Marathon.
+
+323
+00:26:22,930 --> 00:26:24,930
+Er ist jetzt ja kein Marathon gelaufen.
+
+324
+00:26:24,930 --> 00:26:26,930
+Das kann er nicht, weil er so schlapp ist.
+
+325
+00:26:26,930 --> 00:26:31,930
+Er beschreibt, nach einem Marathon habe ich solche Schmerzen gehabt.
+
+326
+00:26:31,930 --> 00:26:33,930
+So ähnliche Schmerzen.
+
+327
+00:26:33,930 --> 00:26:37,930
+Muskelschmerzen, Muskelkater sagen wir, Muskelkater.
+
+328
+00:26:37,930 --> 00:26:40,930
+Aber jetzt ist er nicht Marathon gelaufen.
+
+329
+00:26:40,930 --> 00:26:42,930
+Er hat nur einen Vergleich gemacht.
+
+330
+00:26:42,930 --> 00:26:46,930
+Er hat Müll und Atralgien.
+
+331
+00:26:46,930 --> 00:26:49,930
+Das ist auch eine Beschwerde.
+
+332
+00:26:49,930 --> 00:27:04,930
+Und außer dem klackte er über Druckgefühl im Hipokon-Rühm.
+
+333
+00:27:04,930 --> 00:27:07,930
+Im linken Hipokon-Rühm.
+
+334
+00:27:07,930 --> 00:27:09,930
+Im linken Hipokon-Rühm.
+
+335
+00:27:09,930 --> 00:27:15,590
+Und Hans geschuldene.
+
+336
+00:27:15,590 --> 00:27:24,590
+Er berichtet über eine Servikale Schwellung.
+
+337
+00:27:24,590 --> 00:27:28,590
+Oder ein Servikales Druckgefühl.
+
+338
+00:27:28,590 --> 00:27:31,590
+Er weiß nicht genau, er sagt, das fühlt sich dicker an.
+
+339
+00:27:31,590 --> 00:27:33,590
+Servikal.
+
+340
+00:27:33,590 --> 00:27:56,010
+Er berichtete, dass sie 3 zweite Stücke treppenlaufen.
+
+341
+00:27:56,010 --> 00:28:04,010
+Und er hat Atmung.
+
+342
+00:28:04,010 --> 00:28:08,010
+Sie haben vorhin ja schon gesagt, Belastungs-Display.
+
+343
+00:28:08,010 --> 00:28:10,010
+Belastungs-Luftnot.
+
+344
+00:28:10,010 --> 00:28:12,010
+Das reicht, glaube ich.
+
+345
+00:28:12,010 --> 00:28:15,010
+Das müssen Sie nicht nochmal über.
+
+346
+00:28:15,010 --> 00:28:19,010
+Er berichtet über Belastungs-Display beim Treppensteigen.
+
+347
+00:28:19,010 --> 00:28:21,010
+Das reicht.
+
+348
+00:28:21,010 --> 00:28:23,010
+Mehr muss man, glaube ich, nicht sagen.
+
+349
+00:28:23,010 --> 00:28:26,010
+Nicht entscheidend, ob es 2 Stockwerke sind oder 1.
+
+350
+00:28:26,010 --> 00:28:28,010
+Beim Treppensteigen.
+
+351
+00:28:28,010 --> 00:28:31,010
+Das ist ja ungewöhnlich für einen sonst gesunden Menschen.
+
+352
+00:28:31,010 --> 00:28:34,010
+Der Fitt ist.
+
+353
+00:28:34,010 --> 00:28:46,010
+Bekannte Krankungen, sei Asthma und Polenallergie.
+
+354
+00:28:46,010 --> 00:28:49,010
+Und Haustenallergie.
+
+355
+00:28:49,010 --> 00:28:55,010
+Sagen Sie ruhig, es besteht seit der Kindheit ein Asthma-Bronchale.
+
+356
+00:28:55,010 --> 00:29:03,010
+Man kann auch sagen ein allergisches Asthma-Bronchale auf Ausstaubmilbe und Polen.
+
+357
+00:29:03,010 --> 00:29:07,010
+Dann haben Sie das alles in einem Satz.
+
+358
+00:29:07,010 --> 00:29:09,010
+Ja.
+
+359
+00:29:09,010 --> 00:29:21,010
+Und an der Vorerkrankungen sei der Mathit auf Ellenbogen und auf.
+
+360
+00:29:21,010 --> 00:29:25,610
+Ich zeige es Ihnen mal.
+
+361
+00:29:25,610 --> 00:29:30,610
+Der Patient sagt in der Ellenbeuge und in der Kniekähle.
+
+362
+00:29:30,610 --> 00:29:33,610
+Kennen Sie die Begriffe?
+
+363
+00:29:33,610 --> 00:29:35,610
+Kubital.
+
+364
+00:29:35,610 --> 00:29:38,610
+Und Patella.
+
+365
+00:29:38,610 --> 00:29:40,610
+Nein, in der Kniekähle.
+
+366
+00:29:40,610 --> 00:29:43,610
+Hinten ist nicht die Patella.
+
+367
+00:29:43,610 --> 00:29:46,610
+Hinten ist die Pop-Litea.
+
+368
+00:29:46,610 --> 00:29:51,610
+Also Kubital und Pop-Litea ein Exem.
+
+369
+00:29:51,610 --> 00:29:54,610
+Was ja Asthmatica oft haben.
+
+370
+00:29:54,610 --> 00:29:59,610
+Ein ektopisches Exem oder Neurodermitis.
+
+371
+00:29:59,610 --> 00:30:02,610
+Der Mathit, oder?
+
+372
+00:30:02,610 --> 00:30:05,610
+Ja, der Mathitis ist ein bisschen noch ein anderer Begriff.
+
+373
+00:30:05,610 --> 00:30:12,610
+Ich würde eher sagen ein Exem und Kubital und Pop-Litea.
+
+374
+00:30:12,610 --> 00:30:15,610
+Ja, in der Lokalisation.
+
+375
+00:30:16,610 --> 00:30:18,610
+Ja.
+
+376
+00:30:18,610 --> 00:30:21,610
+Bekannte Veroperation.
+
+377
+00:30:21,610 --> 00:30:26,610
+Für die Verwaltungen.
+
+378
+00:30:26,610 --> 00:30:29,610
+Für die Verwaltungen.
+
+379
+00:30:29,610 --> 00:30:33,610
+Ich würde sagen, für die Verwaltungen,
+
+380
+00:30:33,610 --> 00:30:36,610
+für die Patienten.
+
+381
+00:30:36,610 --> 00:30:39,610
+Bei den Patienten.
+
+382
+00:30:39,610 --> 00:30:42,610
+Die Patienten.
+
+383
+00:30:42,610 --> 00:30:45,610
+Die Patienten.
+
+384
+00:30:45,610 --> 00:30:48,610
+Die Patienten.
+
+385
+00:30:48,610 --> 00:30:51,610
+Die Patienten.
+
+386
+00:30:51,610 --> 00:30:54,610
+Die Patienten.
+
+387
+00:30:54,610 --> 00:30:57,610
+Der Patient hat gesagt, es wurde der Meniscus operiert.
+
+388
+00:30:57,610 --> 00:30:59,610
+Meniscus.
+
+389
+00:30:59,610 --> 00:31:02,610
+Er wurde operiert.
+
+390
+00:31:02,610 --> 00:31:05,610
+Und die Operationstechnik war eine Spiegelung.
+
+391
+00:31:05,610 --> 00:31:08,610
+Spiegelung.
+
+392
+00:31:09,610 --> 00:31:12,610
+Genäht.
+
+393
+00:31:12,610 --> 00:31:14,610
+Atroskopie.
+
+394
+00:31:14,610 --> 00:31:17,610
+Atroskopie des linken Knies.
+
+395
+00:31:17,610 --> 00:31:20,610
+Dabei wurde eine Meniscus,
+
+396
+00:31:20,610 --> 00:31:23,610
+wahrscheinlich eine Meniscus Teilresekktion, durchgeführt.
+
+397
+00:31:23,610 --> 00:31:26,610
+Im Meniscus wird ja nicht mehr ganz entfernt,
+
+398
+00:31:26,610 --> 00:31:29,610
+sondern nur noch teilweise oder genäht.
+
+399
+00:31:29,610 --> 00:31:32,610
+Das macht man inzwischen nur noch sehr schonend.
+
+400
+00:31:32,610 --> 00:31:36,110
+Also vor zwei Jahren fand einer
+
+401
+00:31:36,110 --> 00:31:41,470
+Skopische meniscus OP, mehr wissen wir nicht am linken Knieschrad.
+
+402
+00:31:43,150 --> 00:31:44,550
+Also wir haben zwei Operationen.
+
+403
+00:31:44,670 --> 00:31:48,830
+Ja, und Tonselektomie im 10 Jahre.
+
+404
+00:31:48,950 --> 00:31:51,150
+Mit 10 Jahren, im Alter von 10 Jahren.
+
+405
+00:31:53,710 --> 00:31:55,870
+Nehmt der Patient Medikamente ein?
+
+406
+00:31:55,870 --> 00:32:15,580
+Die Patienten nehmen regelmäßig wie Annie.
+
+407
+00:32:15,700 --> 00:32:16,940
+Wie Annie, ja.
+
+408
+00:32:17,060 --> 00:32:18,660
+Zweimal pro Tag.
+
+409
+00:32:18,780 --> 00:32:19,660
+Ja.
+
+410
+00:32:19,780 --> 00:32:22,460
+Und Salgo Tamol bei Bedarf.
+
+411
+00:32:22,580 --> 00:32:24,100
+Gut.
+
+412
+00:32:24,220 --> 00:32:25,620
+Alles, ne?
+
+413
+00:32:25,740 --> 00:32:27,020
+Ja, alles.
+
+414
+00:32:27,020 --> 00:32:34,020
+Und die Familienanalyse, seit sich, beim Vater,
+
+415
+00:32:34,140 --> 00:32:37,340
+do denitis.
+
+416
+00:32:37,460 --> 00:32:39,180
+Wie alt ist der Vater?
+
+417
+00:32:39,300 --> 00:32:43,300
+Ihr Vater.
+
+418
+00:32:43,420 --> 00:32:48,420
+Sein Vater, sein, sein, ist Maskulinum, Maskulin, sein Vater.
+
+419
+00:32:48,540 --> 00:32:53,900
+Sein Vater sei 52 Jahre alt.
+
+420
+00:32:54,020 --> 00:32:54,900
+Ja.
+
+421
+00:32:54,900 --> 00:33:07,380
+Beim Vater, sein Vater leidet do denitis.
+
+422
+00:33:07,500 --> 00:33:12,500
+Ja, do denitis ist eine, eher so eine allgemeine,
+
+423
+00:33:12,620 --> 00:33:17,740
+vielleicht Schleimhautentzündung, aber der Patient hat 12 Finger.
+
+424
+00:33:17,860 --> 00:33:19,940
+Geschwürre, Geschwür.
+
+425
+00:33:20,060 --> 00:33:23,100
+Wie kennt ihr den Fachbegriff für Geschwürre?
+
+426
+00:33:23,220 --> 00:33:24,740
+Geschwürre.
+
+427
+00:33:24,740 --> 00:33:25,740
+Ulkus.
+
+428
+00:33:25,860 --> 00:33:27,180
+Ulkus, genau.
+
+429
+00:33:27,300 --> 00:33:30,180
+Wie heißt der Begriff? Ulkus?
+
+430
+00:33:30,300 --> 00:33:31,300
+Duodene.
+
+431
+00:33:31,420 --> 00:33:32,420
+Ja, duodene.
+
+432
+00:33:32,540 --> 00:33:37,620
+Der Vater leidet wohl an rezilivierenden Ulzeradudene.
+
+433
+00:33:37,740 --> 00:33:38,740
+Ja?
+
+434
+00:33:38,860 --> 00:33:39,860
+Ja.
+
+435
+00:33:39,980 --> 00:33:42,420
+Was hat der Vater noch an Erkrankungen?
+
+436
+00:33:42,540 --> 00:33:44,740
+Arbaterielle Hepartonie.
+
+437
+00:33:44,860 --> 00:33:45,860
+Ja.
+
+438
+00:33:45,980 --> 00:33:51,980
+Wo es zwei Jahre wegen Covid-19 meokardiert.
+
+439
+00:33:51,980 --> 00:33:56,620
+Ja, vor zwei Jahren hatte der Vater eine myocarditis,
+
+440
+00:33:56,740 --> 00:34:02,420
+wahrscheinlich nach einer Covid-19 Erkrankung, wahrscheinlich.
+
+441
+00:34:02,540 --> 00:34:03,540
+Was?
+
+442
+00:34:03,660 --> 00:34:07,620
+Der zeitliche Zusammenhang, weiß ich nicht, hat der Patient so berichtet.
+
+443
+00:34:07,740 --> 00:34:08,740
+Und die Mutter?
+
+444
+00:34:08,860 --> 00:34:10,620
+Ihre Mutter sei ...
+
+445
+00:34:10,740 --> 00:34:15,340
+Seine Mutter, seine Mutter, seine Mutter, seine Mutter,
+
+446
+00:34:15,460 --> 00:34:19,460
+sei 51 Jahre alt.
+
+447
+00:34:19,580 --> 00:34:20,580
+Ja.
+
+448
+00:34:20,580 --> 00:34:24,580
+Und leider an Asthma.
+
+449
+00:34:24,700 --> 00:34:27,580
+Sag mal, sagen Sie ruhig, Asthma-Bronchale.
+
+450
+00:34:27,700 --> 00:34:28,700
+Ja.
+
+451
+00:34:28,820 --> 00:34:31,900
+Auch an Asthma-Bronchale, so wie der Patient auch.
+
+452
+00:34:32,020 --> 00:34:33,020
+Ja.
+
+453
+00:34:33,140 --> 00:34:34,140
+Das Geschwister.
+
+454
+00:34:34,260 --> 00:34:40,580
+Und Geschwister sei gesund.
+
+455
+00:34:40,700 --> 00:34:41,700
+Ja, okay.
+
+456
+00:34:41,820 --> 00:34:42,820
+Gut.
+
+457
+00:34:42,940 --> 00:34:46,940
+Und vegetative Annamnese.
+
+458
+00:34:46,940 --> 00:34:54,480
+Er war unauffällig bis auf Insomnia.
+
+459
+00:34:54,600 --> 00:34:55,600
+Ja.
+
+460
+00:34:55,720 --> 00:35:01,720
+Und er habe vor zwei Monaten ein, vor zwei Monaten,
+
+461
+00:35:01,840 --> 00:35:06,840
+acht Kilogramm abgenommen.
+
+462
+00:35:06,960 --> 00:35:08,440
+Seit zwei Monaten.
+
+463
+00:35:08,560 --> 00:35:11,240
+Also in den letzten zwei Monaten.
+
+464
+00:35:11,360 --> 00:35:16,000
+Seit zwei Monaten umgewollt, acht Kilogramm aufgenommen.
+
+465
+00:35:16,120 --> 00:35:17,120
+Ja.
+
+466
+00:35:17,440 --> 00:35:28,440
+Er habe ein Noir-Studium-Stress, oder?
+
+467
+00:35:28,560 --> 00:35:29,560
+Ja.
+
+468
+00:35:29,680 --> 00:35:33,520
+Also ich würde sagen, besondere Stressfaktoren
+
+469
+00:35:33,640 --> 00:35:35,320
+werden liegen nicht vor.
+
+470
+00:35:35,440 --> 00:35:38,720
+Ja, also er sagte, das Studium ist zwar anstrengend,
+
+471
+00:35:38,840 --> 00:35:42,600
+aber es ist nicht so, dass er jetzt da ein Riesenproblem hat.
+
+472
+00:35:42,720 --> 00:35:46,120
+Sie müssten, wichtig ist, dass sie die Gewichtsabnahme
+
+473
+00:35:46,120 --> 00:35:49,320
+berichtig betonen, nicht so in einem Beisatz sagen.
+
+474
+00:35:49,440 --> 00:35:55,280
+Sie sagen sie ruhig, auffällig ist eine ungewollte Gewichtsabnahme
+
+475
+00:35:55,400 --> 00:35:59,640
+von ungefähr acht Kilogramm innerhalb der letzten zwei Monate.
+
+476
+00:35:59,760 --> 00:36:01,640
+Das ist schon ein auffälliger Befund.
+
+477
+00:36:01,760 --> 00:36:06,320
+Der sollte wirklich, dass der Oberarzt den auch hört.
+
+478
+00:36:06,440 --> 00:36:07,440
+Ja.
+
+479
+00:36:07,560 --> 00:36:10,920
+Und nicht dabei irgendwo, ja, das nicht mitbekommt.
+
+480
+00:36:11,040 --> 00:36:13,560
+Das ist eine wichtige Hinweis.
+
+481
+00:36:13,680 --> 00:36:14,680
+Gut.
+
+482
+00:36:14,680 --> 00:36:18,480
+Was gibt es sonst noch in der vegetativen Anamnese
+
+483
+00:36:18,600 --> 00:36:22,200
+oder bei den Risikofaktoren, Genussmittel?
+
+484
+00:36:22,320 --> 00:36:28,800
+Ja, sie rauchen nicht.
+
+485
+00:36:28,920 --> 00:36:34,680
+Und er trinke am Wochenende ein Kulaspier.
+
+486
+00:36:34,800 --> 00:36:35,800
+Ja, okay.
+
+487
+00:36:35,920 --> 00:36:38,440
+Und Drogenkonsum wurde verneint.
+
+488
+00:36:38,560 --> 00:36:39,560
+Ja.
+
+489
+00:36:39,880 --> 00:36:47,460
+Und sein Impfstatus ist vollständig.
+
+490
+00:36:47,580 --> 00:36:49,180
+Sei vollständig.
+
+491
+00:36:49,300 --> 00:36:50,300
+Ja.
+
+492
+00:36:50,420 --> 00:37:01,620
+Und er sei vor drei Monaten in Thailand und Vietnam gereist.
+
+493
+00:37:01,740 --> 00:37:03,460
+Geh es ja gereist.
+
+494
+00:37:03,580 --> 00:37:05,580
+Wie lange war er dort?
+
+495
+00:37:05,700 --> 00:37:08,500
+Wissen Sie, wie lange die Reise dauerte?
+
+496
+00:37:08,580 --> 00:37:09,580
+Wie viele Tage?
+
+497
+00:37:09,700 --> 00:37:10,700
+Wie viele Wochen?
+
+498
+00:37:10,820 --> 00:37:11,820
+Drei Wochen.
+
+499
+00:37:11,940 --> 00:37:12,940
+Drei Wochen.
+
+500
+00:37:13,060 --> 00:37:14,060
+Ja.
+
+501
+00:37:14,180 --> 00:37:16,820
+Ja, er ist dort gereist, gab es darauf?
+
+502
+00:37:16,940 --> 00:37:20,740
+Wir haben vorher Malaria pro flex gemacht.
+
+503
+00:37:20,860 --> 00:37:21,860
+Ja, okay.
+
+504
+00:37:21,980 --> 00:37:24,980
+Das war es.
+
+505
+00:37:25,100 --> 00:37:26,100
+Okay.
+
+506
+00:37:26,220 --> 00:37:31,380
+Also wichtig sind diese Angaben, wie die Gewichtsabnahme,
+
+507
+00:37:31,500 --> 00:37:36,380
+wie die Reise, die zurückliegende Reise sollten wirklich klar betont werden.
+
+508
+00:37:36,380 --> 00:37:42,220
+Auch gegenüber dem Oberarzt, dass das und die Gewichtsabnahme.
+
+509
+00:37:42,340 --> 00:37:43,340
+Okay.
+
+510
+00:37:43,460 --> 00:37:48,180
+Ich fange mal kurz zusammen, was mir jetzt hängen geblieben ist.
+
+511
+00:37:48,300 --> 00:37:52,700
+Der Patient, Herr Haabek, ist 23 Jahre alt.
+
+512
+00:37:52,820 --> 00:37:58,380
+Er ist 182 groß und wiegt zur Zeit 68 Kilogramm.
+
+513
+00:37:58,500 --> 00:38:03,740
+Herr Haabek fühlt sich seit ungefähr drei Wochen sehr erschöpft, müde.
+
+514
+00:38:03,740 --> 00:38:05,740
+Er hat ein Fatigue-Syndrom.
+
+515
+00:38:05,860 --> 00:38:09,300
+Er hat febrile Temperaturen 38,5.
+
+516
+00:38:09,420 --> 00:38:14,340
+Er hat ausgeprägte Hyperhydrosis, besonders in der Nacht.
+
+517
+00:38:14,460 --> 00:38:17,340
+Er hat eine Belastungs-Dispnö.
+
+518
+00:38:17,460 --> 00:38:22,460
+Er hat Möalviren, auch vielleicht Atralviren.
+
+519
+00:38:22,580 --> 00:38:26,820
+Er klagt über ein Druckgefühl im linken Hypochondrium
+
+520
+00:38:26,940 --> 00:38:31,100
+und über unklare zervikale Schwellungen.
+
+521
+00:38:32,100 --> 00:38:39,420
+Erwähnenswert ist, dass er eine Gewichtsabnahme von ungefähr 8 Kilogramm
+
+522
+00:38:39,540 --> 00:38:42,540
+in den letzten zwei Monaten bemerkt hat.
+
+523
+00:38:42,660 --> 00:38:46,020
+Er war vor drei Monaten für die Dauer von drei Wochen
+
+524
+00:38:46,140 --> 00:38:48,700
+in Vietnam und in Thailand.
+
+525
+00:38:48,820 --> 00:38:51,100
+Er war vorher beim Tropenmediziner
+
+526
+00:38:51,220 --> 00:38:54,340
+und hat sich alle nötigen Impfungen geben lassen.
+
+527
+00:38:54,460 --> 00:38:57,620
+Er hat auch eine Malaria-Profilaxe betrieben.
+
+528
+00:38:57,740 --> 00:38:58,740
+Ja.
+
+529
+00:38:59,340 --> 00:39:02,460
+An chronischen Erkrankungen hat er seit der Kindheit
+
+530
+00:39:02,580 --> 00:39:08,220
+ein allergisches Asthma-Brontiale auf Hausstorb, Milbe und Pollen.
+
+531
+00:39:08,340 --> 00:39:10,820
+Er hat ein chronisches Exem,
+
+532
+00:39:10,940 --> 00:39:16,140
+besonders in Kubital und Popliteal.
+
+533
+00:39:17,460 --> 00:39:20,740
+Er ist mit zehn Jahren Ton selekturiert worden.
+
+534
+00:39:20,860 --> 00:39:25,940
+Er hatte vor zwei Jahren eine Knie-Atroskopie
+
+535
+00:39:25,940 --> 00:39:29,380
+und dabei eine Meniscus-Operation.
+
+536
+00:39:29,500 --> 00:39:32,340
+Was genau gemacht wurde, wissen wir nicht.
+
+537
+00:39:34,020 --> 00:39:38,820
+Die Familie in Anamnese zeigt beim 52-jährigen Kratz
+
+538
+00:39:38,940 --> 00:39:42,940
+zilivierende Ulzeradu Denehy, eine arterielle Hypertonie
+
+539
+00:39:43,060 --> 00:39:46,660
+und vor zwei Jahren eine Myocarditis.
+
+540
+00:39:46,780 --> 00:39:51,180
+Wahrscheinlich im Zusammenhang mit einer Covid-Neuerankung.
+
+541
+00:39:51,420 --> 00:39:55,820
+Die 59-jährige Mutter leidet ebenfalls an einem Asthma-Brontiale.
+
+542
+00:39:55,940 --> 00:39:58,540
+Die 24-jährige Schwester ist gesund.
+
+543
+00:39:59,460 --> 00:40:03,420
+Ja, das sind so die wesentlichen Schatten.
+
+544
+00:40:03,540 --> 00:40:06,620
+Der Patient treibt sonst sportregelmäßig,
+
+545
+00:40:06,740 --> 00:40:08,420
+aber das kann er in den letzten Wochen
+
+546
+00:40:08,540 --> 00:40:12,500
+aufgrund seiner Erschöpfung und Leistungsminderung nicht.
+
+547
+00:40:13,940 --> 00:40:16,220
+Was ist Ihre Verdachtstiagnose?
+
+548
+00:40:16,340 --> 00:40:18,660
+Aufgrund der anamnischen Angaben
+
+549
+00:40:18,660 --> 00:40:23,660
+gehe ich von einem Verdacht auf, Tyroiditis aus.
+
+550
+00:40:25,660 --> 00:40:28,740
+Und als Differenzialdiagnose kommt
+
+551
+00:40:30,860 --> 00:40:34,660
+Larangitis, Asthma-Brontiale A-Tage
+
+552
+00:40:34,780 --> 00:40:40,220
+und Hypoteroid in Betrag.
+
+553
+00:40:41,500 --> 00:40:42,500
+Okay.
+
+554
+00:40:43,140 --> 00:40:50,230
+Was würden Sie bei einer Tyroiditis denn erwarten?
+
+555
+00:40:50,350 --> 00:40:52,470
+Ist die Schildrüse da schmerzhaft?
+
+556
+00:40:52,590 --> 00:40:53,590
+Druckschmerzhaft?
+
+557
+00:40:54,990 --> 00:40:55,990
+Ja, Druck.
+
+558
+00:40:56,510 --> 00:40:58,950
+Der Patient hat ja keine Schmerzen.
+
+559
+00:40:59,070 --> 00:41:01,390
+Er sagt nur, er hat ein Schwellungsgefühl
+
+560
+00:41:01,510 --> 00:41:03,390
+und er zeigt seitlich so mehr.
+
+561
+00:41:03,510 --> 00:41:04,510
+Das ja.
+
+562
+00:41:04,630 --> 00:41:06,110
+Da ist es geschwollen.
+
+563
+00:41:06,230 --> 00:41:10,270
+Und dann hat er eben auch dieses Druckgefühl im linken Oberbauch.
+
+564
+00:41:10,390 --> 00:41:11,390
+Ja.
+
+565
+00:41:11,510 --> 00:41:14,550
+Und er hat eine Gewichtsabnahme von acht Kilogramm
+
+566
+00:41:14,670 --> 00:41:16,270
+innerhalb von zwei Monaten.
+
+567
+00:41:19,330 --> 00:41:21,330
+Und er war in Thailand.
+
+568
+00:41:21,770 --> 00:41:22,770
+Ja.
+
+569
+00:41:22,890 --> 00:41:24,890
+Mononucleosis.
+
+570
+00:41:26,090 --> 00:41:29,090
+Epstein-Bar.
+
+571
+00:41:29,210 --> 00:41:30,210
+Epstein-Bar?
+
+572
+00:41:30,330 --> 00:41:31,330
+Ja.
+
+573
+00:41:31,450 --> 00:41:32,450
+Okay.
+
+574
+00:41:32,570 --> 00:41:35,850
+Wie würden Sie denn bei der Mononucleosis
+
+575
+00:41:35,970 --> 00:41:39,050
+hätten wir eventuell auch ein Druckgefühl im linken Oberbauch?
+
+576
+00:41:39,170 --> 00:41:42,370
+Was könnte das sein, das Druckgefühl im linken Oberbauch?
+
+577
+00:41:44,490 --> 00:41:45,490
+Leber.
+
+578
+00:41:47,090 --> 00:41:49,530
+Was liegt da noch für ein Organ im linken Oberbauch?
+
+579
+00:41:49,650 --> 00:41:50,650
+Ziemlich versteckt.
+
+580
+00:41:50,770 --> 00:41:52,770
+Linken Oberbauch.
+
+581
+00:41:52,890 --> 00:41:53,890
+Ja.
+
+582
+00:41:56,050 --> 00:41:57,050
+Mies.
+
+583
+00:41:57,170 --> 00:41:58,170
+Ja.
+
+584
+00:41:58,290 --> 00:42:00,690
+Das ist schon geschrieben, eine Splenomegalin.
+
+585
+00:42:00,810 --> 00:42:01,810
+Ja.
+
+586
+00:42:01,930 --> 00:42:03,450
+Da muss man daran denken.
+
+587
+00:42:03,570 --> 00:42:06,010
+Das kann bei der Mononucleose auch sein,
+
+588
+00:42:06,130 --> 00:42:08,130
+eine Splenomegalin.
+
+589
+00:42:08,250 --> 00:42:12,330
+Aber der Patient, glaube ich, hat eine klassische B-Symptomatik.
+
+590
+00:42:13,450 --> 00:42:14,450
+Ja.
+
+591
+00:42:14,570 --> 00:42:16,570
+Er hat eine Gewichtsabnahme.
+
+592
+00:42:16,690 --> 00:42:17,690
+Nachtschweiß.
+
+593
+00:42:17,730 --> 00:42:19,730
+Wahrscheinlich eine Splenomegalin.
+
+594
+00:42:19,850 --> 00:42:21,850
+Er hat servikale Schwellungen,
+
+595
+00:42:21,970 --> 00:42:24,370
+die er noch nicht richtig einsortieren kann.
+
+596
+00:42:24,490 --> 00:42:27,570
+Die Gewichtsabnahme, das würde ich sagen,
+
+597
+00:42:27,690 --> 00:42:30,890
+spricht eher für eine B-Symptomatik im Sinne,
+
+598
+00:42:31,010 --> 00:42:34,410
+eventuell vielleicht eines Lymphom, was der Patient hat.
+
+599
+00:42:34,530 --> 00:42:37,970
+Differenzialdiagnostisch würde ich an eine Malaria denken.
+
+600
+00:42:38,090 --> 00:42:39,090
+Ja.
+
+601
+00:42:39,210 --> 00:42:42,170
+Weil natürlich der Patient in Malaria-Gebiet war.
+
+602
+00:42:42,290 --> 00:42:44,490
+Er hat eine Profilachse betrieben,
+
+603
+00:42:44,610 --> 00:42:47,290
+aber wir wissen, eine Profilachse ist nicht
+
+604
+00:42:47,290 --> 00:42:49,290
+100-prozentig.
+
+605
+00:42:49,410 --> 00:42:53,970
+Aber auch eine Mononucleose, finde ich, kommt im Betracht.
+
+606
+00:42:54,090 --> 00:42:56,210
+Thürioiditis würde ich nicht sagen.
+
+607
+00:42:56,330 --> 00:42:59,890
+Weil die tut in Allgemeinen, tut das weh, hat der Schmerzen.
+
+608
+00:43:00,010 --> 00:43:05,490
+Und ich glaube, da wäre der Patient eher zum Arzt gegangen.
+
+609
+00:43:05,610 --> 00:43:08,610
+Weil ich glaube, das ist teilweise sehr schmerzhaft.
+
+610
+00:43:08,730 --> 00:43:09,730
+Ja.
+
+611
+00:43:09,850 --> 00:43:13,450
+Und da ist das Schlucken eingeschränkt.
+
+612
+00:43:13,450 --> 00:43:16,970
+Und insgesamt, also die Thürioiditis würde ich eher
+
+613
+00:43:17,090 --> 00:43:21,090
+in der Differenzialdiagnostik an fünfte, sechste Stelle stellen.
+
+614
+00:43:21,210 --> 00:43:24,010
+Verdacht auf B-Symptomatik,
+
+615
+00:43:24,130 --> 00:43:27,770
+verdacht auch vielleicht auf eine Systemerkrankung, leider.
+
+616
+00:43:27,890 --> 00:43:29,890
+Ja, Systemerkrankung.
+
+617
+00:43:31,050 --> 00:43:36,490
+DD, Malaria, Mononucleose, das kommt alles sicherlich auch mit im Betracht.
+
+618
+00:43:36,610 --> 00:43:39,090
+Ein Kollege hatte ja gefragt mit der Rohmilch.
+
+619
+00:43:39,210 --> 00:43:41,530
+Herr Kollege, meinten Sie Brutzelose?
+
+620
+00:43:42,530 --> 00:43:44,530
+Hört das nicht zu, ne?
+
+621
+00:43:44,650 --> 00:43:51,450
+Ein Kollege fragte, ob der Patient schon mal Käse aus Rohmilch gegessen hat,
+
+622
+00:43:51,570 --> 00:43:52,570
+glaube ich.
+
+623
+00:43:52,690 --> 00:43:55,450
+Mein, damit Brutzelose?
+
+624
+00:43:55,570 --> 00:44:00,530
+Ja, ich glaube, ein Kollege meint Brutzelose.
+
+625
+00:44:00,650 --> 00:44:05,450
+Und er fragt, ob sie, ob...
+
+626
+00:44:05,570 --> 00:44:07,250
+Rohmilch.
+
+627
+00:44:07,370 --> 00:44:08,370
+Genau, genau.
+
+628
+00:44:08,370 --> 00:44:11,650
+Er dachte, da war es wahrscheinlich ein Brutzelose, ne?
+
+629
+00:44:11,770 --> 00:44:16,370
+Ist sicherlich in Deutschland, kommt es auch, glaube ich, immer wieder vor.
+
+630
+00:44:16,490 --> 00:44:18,290
+Es wird ja immer wieder berichtet.
+
+631
+00:44:18,410 --> 00:44:24,290
+Viel seltener, glaube ich, als, jetzt sage ich mal, im Mittelmeerraum,
+
+632
+00:44:24,410 --> 00:44:27,170
+in warmen Klimazonen auch.
+
+633
+00:44:27,290 --> 00:44:32,450
+Hier ist die Brutzelose noch nicht so gut in den Köpfen der Ärzte.
+
+634
+00:44:32,570 --> 00:44:33,570
+Ja?
+
+635
+00:44:33,690 --> 00:44:36,930
+Ich habe davon gehört, aber ich habe noch nie einen Patienten
+
+636
+00:44:36,930 --> 00:44:40,050
+mit einer Brutzelose gehabt, muss ich Ihnen ehrlich sagen.
+
+637
+00:44:40,170 --> 00:44:42,850
+Vielleicht habe ich auch zu wenig dran gedacht.
+
+638
+00:44:42,970 --> 00:44:45,210
+Das ist ja immer das Problem.
+
+639
+00:44:45,330 --> 00:44:48,730
+Gut, aber ich finde, Sie haben das trotzdem sehr gut gemacht,
+
+640
+00:44:48,850 --> 00:44:51,930
+auch wenn ich Sie jetzt häufig unterbrochen habe.
+
+641
+00:44:52,050 --> 00:44:56,050
+Aber das tut der Oberarzt in der Prüfung wahrscheinlich immer mal wieder,
+
+642
+00:44:56,170 --> 00:45:00,930
+dass der Oberarzt nachfragt oder der Oberarzt ist ungeduldig,
+
+643
+00:45:01,050 --> 00:45:05,370
+er hat keine Zeit, er möchte möglichst entscheidende Informationen
+
+644
+00:45:05,370 --> 00:45:06,850
+innerhalb kurzer Zeit haben.
+
+645
+00:45:06,970 --> 00:45:07,970
+Ja?
+
+646
+00:45:08,090 --> 00:45:12,850
+Ich würde die Forschung, aber ich weiß, dass es Unterschiede gibt.
+
+647
+00:45:12,970 --> 00:45:15,370
+Ich würde die Vorstellung vielleicht in der Richtung
+
+648
+00:45:15,490 --> 00:45:16,690
+ein bisschen anders machen.
+
+649
+00:45:16,810 --> 00:45:20,370
+Ich würde in vorderen Stellen der Patient leidet aktuell
+
+650
+00:45:20,490 --> 00:45:22,090
+unter diesen Beschwerden.
+
+651
+00:45:22,210 --> 00:45:25,850
+Und dann würde ich wahrscheinlich gleich in dem Zusammenhang
+
+652
+00:45:25,970 --> 00:45:30,970
+schon sagen, auffällig ist eine Gewichtsabnahme von 8 kg
+
+653
+00:45:31,090 --> 00:45:32,730
+innerhalb von zwei Monaten.
+
+654
+00:45:33,050 --> 00:45:36,930
+Weil das gehört eigentlich in diese aktuelle Beschwerdesymptomatik rein.
+
+655
+00:45:37,050 --> 00:45:40,690
+Und bei Ihrem Aufbau der Anamnese kommen Sie erst ziemlich weit am Ende
+
+656
+00:45:40,810 --> 00:45:45,410
+mit der vegetativen Anamnese, nach der familienanamnese und so weiter,
+
+657
+00:45:45,530 --> 00:45:46,530
+glaube ich.
+
+658
+00:45:46,650 --> 00:45:50,450
+Und das ist in diesem Zusammenhang, würde ich sagen, ist das relativ spät.
+
+659
+00:45:50,570 --> 00:45:52,930
+Aber das muss jeder für sich entscheiden.
+
+660
+00:45:53,050 --> 00:45:54,970
+Hauptsache, Sie vergessen das nicht.
+
+661
+00:45:55,090 --> 00:45:56,090
+Ja?
+
+662
+00:45:56,210 --> 00:45:59,010
+Weil das sind schon diese sogenannten Red Flags in der Anamnese
+
+663
+00:45:59,130 --> 00:46:00,130
+bei den Patienten.
+
+664
+00:46:00,250 --> 00:46:01,250
+Er hat Fieber.
+
+665
+00:46:01,250 --> 00:46:05,250
+Er hat eine Gewichtsabnahme, die ist massiv, die ist sehr stark.
+
+666
+00:46:05,370 --> 00:46:11,250
+Und er hat diese Schwellungszustände, die er nicht einsortieren kann.
+
+667
+00:46:11,370 --> 00:46:14,690
+Und er hat diese ausgesprochenen Leistungsknick,
+
+668
+00:46:14,810 --> 00:46:17,010
+dass er sich nicht mehr in der Lage fühlt,
+
+669
+00:46:17,130 --> 00:46:19,250
+aus seinen geliebten Sport zu machen.
+
+670
+00:46:19,370 --> 00:46:24,370
+Das sind so Red Flags, wo man dann denken müsste,
+
+671
+00:46:24,490 --> 00:46:27,450
+wahrscheinlich und leider hat dieser Patient
+
+672
+00:46:27,570 --> 00:46:29,730
+vielleicht eine Systemerkrankung.
+
+673
+00:46:29,850 --> 00:46:30,850
+Ja.
+
+674
+00:46:31,330 --> 00:46:32,330
+Gut.
+
+675
+00:46:32,450 --> 00:46:35,530
+Aber trotzdem finde ich, haben Sie das gut gemacht
+
+676
+00:46:35,650 --> 00:46:37,330
+und das hat mir gut gefallen.
+
+677
+00:46:39,050 --> 00:46:44,850
+Verwechseln Sie, es ist Herr Habeck, sagen Sie bitte eher
+
+678
+00:46:44,970 --> 00:46:48,850
+und nicht Sie, verwechseln Sie da nicht das Geschlecht,
+
+679
+00:46:48,970 --> 00:46:50,450
+in dem Sinne, das passiert immer wieder.
+
+680
+00:46:50,570 --> 00:46:51,970
+Da achten Sie bitte darauf.
+
+681
+00:46:53,290 --> 00:46:54,770
+Wann haben Sie Ihre Prüfung?
+
+682
+00:46:56,330 --> 00:46:57,330
+Meint.
+
+683
+00:46:57,610 --> 00:46:58,610
+Und wann?
+
+684
+00:46:59,170 --> 00:47:03,250
+Meine Prüfung, 4. Februar.
+
+685
+00:47:03,370 --> 00:47:04,370
+Ja, gut.
+
+686
+00:47:04,490 --> 00:47:06,090
+Das ist ja bald.
+
+687
+00:47:06,210 --> 00:47:10,130
+Und ich habe ein gutes Gefühl, dass Sie die Prüfung gut machen.
+
+688
+00:47:10,250 --> 00:47:12,850
+Bewahren Sie die Ruhe und Gelassenheit
+
+689
+00:47:12,970 --> 00:47:15,330
+und dann werden Sie das gut hinkriegen.
+
+690
+00:47:15,450 --> 00:47:16,450
+Vielen Dank.
+
+691
+00:47:16,570 --> 00:47:18,330
+Ich wünsche Ihnen alles Gute.
