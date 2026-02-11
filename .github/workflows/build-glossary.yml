@@ -34,8 +34,11 @@ jobs:
             --out_json public/glossary.json \
             --cache_json public/wikidata_cache.json \
             --manual_overrides glossary/manual_overrides.csv \
+            --blacklist_path glossary/blacklist.txt \
             --max_terms 300 \
-            --min_count 2
+            --min_count 2 \
+            --max_ngram 4 \
+            --sleep_s 0.2
 
       - name: Commit & push if changed
         run: |
