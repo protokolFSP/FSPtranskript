@@ -1,28 +1,30 @@
 """
 Build a German medical glossary from transcript files in this repo.
 
-Input:
-- --transcripts_dir: folder containing transcript files (txt/md/json)
-- optional manual overrides CSV
+Inputs:
+- transcripts_dir: transcript files (.txt/.md/.json)
+- manual_overrides: optional mapping for lay terms
+- blacklist_path: remove generic terms/phrases
 
-Output:
+Outputs:
 - public/glossary.csv
 - public/glossary.json
-- public/wikidata_cache.json  (speeds up future runs)
+- public/wikidata_cache.json (search/entity cache)
 
 Wikidata:
-- uses labels/aliases/descriptions in German.
+- Uses labels/aliases/descriptions in German with retries/backoff.
 """
 
 from __future__ import annotations
 
 import argparse
 import json
+import random
 import re
 import time
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any, Dict, Iterable, List, Optional, Set
+from typing import Any, Dict, Iterable, List, Optional, Set, Tuple
 
 import pandas as pd
 import requests
@@ -31,30 +33,31 @@ from rapidfuzz import fuzz
 WIKIDATA_API = "https://www.wikidata.org/w/api.php"
 
 GERMAN_STOPWORDS: Set[str] = {
-    "und","oder","aber","auch","dann","denn","dass","das","der","die","ein","eine","einen","einem","einer",
-    "ich","wir","sie","ihr","ihnen","du","er","es","ist","sind","war","waren","haben","hat","hatte","hatten",
-    "nicht","kein","keine","mit","auf","für","im","in","am","an","zu","vom","von","als","bei","so","wie","was",
-    "wo","wann","warum","wieso","bitte","danke","okay","genau","ja","nein","mal","noch","schon","jetzt",
+    "und", "oder", "aber", "auch", "dann", "denn", "dass", "das", "der", "die", "ein", "eine", "einen",
+    "einem", "einer", "ich", "wir", "sie", "ihr", "ihnen", "du", "er", "es", "ist", "sind", "war", "waren",
+    "haben", "hat", "hatte", "hatten", "nicht", "kein", "keine", "mit", "auf", "für", "im", "in", "am", "an",
+    "zu", "vom", "von", "als", "bei", "so", "wie", "was", "wo", "wann", "warum", "wieso", "bitte", "danke",
+    "okay", "genau", "ja", "nein", "mal", "noch", "schon", "jetzt",
 }
 
 MED_SUFFIXES = (
-    "itis","ose","ämie","aemie","pathie","kardie","tomie","omie","ektomie","skopie","embolie","thrombose",
-    "infarkt","syndrom","stenose","insuffizienz","hypertonie","hypotonie",
+    "itis", "ose", "ämie", "aemie", "pathie", "kardie", "tomie", "omie", "ektomie", "skopie",
+    "embolie", "thrombose", "infarkt", "syndrom", "stenose", "insuffizienz", "hypertonie", "hypotonie",
 )
 
 MED_SUBSTRINGS = (
-    "pankreat","cholezyst","append","koronar","arter","vene","myokard","vorhoffl",
-    "tachy","brady","dyspno","synkop","angina","tropon","bilirub","creatin",
+    "pankreat", "cholezyst", "append", "koronar", "arter", "vene", "myokard", "vorhoffl",
+    "tachy", "brady", "dyspno", "synkop", "angina", "tropon", "bilirub", "creatin",
 )
 
 LAY_HINT_SUBSTRINGS = (
-    "schmerz","entzünd","atem","luft","herz","bauch","blinddarm","galle","niere","leber","lunge",
-    "übel","brechen","fieber","schwindel","blutdruck","zucker","wasser",
+    "schmerz", "entzünd", "atem", "luft", "herz", "bauch", "blinddarm", "galle", "niere", "leber", "lunge",
+    "übel", "brechen", "fieber", "schwindel", "blutdruck", "zucker", "wasser",
 )
 
 ABBREV_OK = {
-    "ekg","rr","spo2","ct","mrt","crp","hba1c","inr","ptt","aptt","bga","ck","ckmb",
-    "ldh","ast","alt","ggt","ntpro","nt-pro","ntprobnp","nt-probnp",
+    "ekg", "rr", "spo2", "ct", "mrt", "crp", "hba1c", "inr", "ptt", "aptt", "bga", "ck", "ckmb",
+    "ldh", "ast", "alt", "ggt", "ntpro", "nt-pro", "ntprobnp", "nt-probnp",
 }
 
 
@@ -65,10 +68,14 @@ def parse_args() -> argparse.Namespace:
     ap.add_argument("--out_json", required=True)
     ap.add_argument("--cache_json", required=True)
     ap.add_argument("--manual_overrides", default="")
+    ap.add_argument("--blacklist_path", default="glossary/blacklist.txt")
     ap.add_argument("--max_terms", type=int, default=300)
     ap.add_argument("--min_count", type=int, default=2)
-    ap.add_argument("--sleep_s", type=float, default=0.0)
+    ap.add_argument("--max_ngram", type=int, default=4)
+    ap.add_argument("--sleep_s", type=float, default=0.2)
     ap.add_argument("--max_file_mb", type=float, default=5.0)
+    ap.add_argument("--http_timeout_s", type=float, default=30.0)
+    ap.add_argument("--http_retries", type=int, default=6)
     return ap.parse_args()
 
 
@@ -126,7 +133,7 @@ def extract_text_from_json(text: str) -> str:
 
 def clean_transcript(raw: str) -> str:
     t = raw or ""
-    t = re.sub(r"(?s)\A---.*?---\s*", "", t)  # yaml frontmatter
+    t = re.sub(r"(?s)\A---.*?---\s*", "", t)
     t = re.sub(r"\[\s*\d{1,2}:\d{2}(?::\d{2})?\s*\]", " ", t)
     t = re.sub(r"\b\d{1,2}:\d{2}(?::\d{2})?\b", " ", t)
     t = re.sub(r"(?m)^\s*#{1,6}\s+", "", t)
@@ -160,6 +167,36 @@ def word_tokens(text: str) -> List[str]:
     return re.findall(r"[0-9A-Za-zÀ-ÖØ-öø-ÿÄÖÜäöüß\-]+", text or "")
 
 
+def load_blacklist(path: str) -> Tuple[Set[str], Set[str]]:
+    p = Path(path)
+    if not p.exists():
+        return set(), set()
+
+    phrase_bl: Set[str] = set()
+    token_bl: Set[str] = set()
+
+    for line in p.read_text(encoding="utf-8", errors="ignore").splitlines():
+        s = line.strip()
+        if not s or s.startswith("#"):
+            continue
+        s = re.sub(r"\s+", " ", s).lower()
+        phrase_bl.add(s)
+        if " " not in s:
+            token_bl.add(s)
+
+    return phrase_bl, token_bl
+
+
+def is_blacklisted(term_lc: str, phrase_bl: Set[str], token_bl: Set[str]) -> bool:
+    t = re.sub(r"\s+", " ", (term_lc or "").strip().lower())
+    if not t:
+        return False
+    if t in phrase_bl:
+        return True
+    tokens = t.split()
+    return any(tok in token_bl for tok in tokens)
+
+
 def is_medicalish_word(tok: str) -> bool:
     t = (tok or "").strip()
     if not t:
@@ -176,10 +213,13 @@ def is_medicalish_word(tok: str) -> bool:
         return True
     if any(s in tl for s in MED_SUBSTRINGS):
         return True
-    if t[0].isupper() and len(t) >= 6:
-        return True
     if any(ch.isdigit() for ch in t) and re.fullmatch(r"\d+[a-zA-Z%]+", t):
         return True
+
+    # Capitalized words are too broad; keep only longer proper nouns if needed.
+    if t[0].isupper() and len(t) >= 9:
+        return True
+
     return False
 
 
@@ -190,7 +230,7 @@ def is_candidate_ngram(tokens: List[str]) -> bool:
         return False
 
     joined = " ".join(tokens).strip()
-    if len(joined) < 3 or len(joined) > 60:
+    if len(joined) < 3 or len(joined) > 90:
         return False
 
     if not any(is_medicalish_word(t) for t in tokens):
@@ -202,22 +242,33 @@ def is_candidate_ngram(tokens: List[str]) -> bool:
     return True
 
 
-def extract_candidates(texts: Iterable[str]) -> Dict[str, int]:
+def extract_candidates(
+    texts: Iterable[str],
+    max_ngram: int,
+    phrase_bl: Set[str],
+    token_bl: Set[str],
+) -> Dict[str, int]:
+    max_ngram = int(max(1, max_ngram))
     counts: Dict[str, int] = {}
+
     for txt in texts:
         toks = word_tokens(txt)
 
         for w in toks:
             if is_candidate_ngram([w]):
                 k = w.lower()
-                counts[k] = counts.get(k, 0) + 1
+                if not is_blacklisted(k, phrase_bl, token_bl):
+                    counts[k] = counts.get(k, 0) + 1
 
-        for n in (2, 3):
+        for n in range(2, max_ngram + 1):
             for i in range(0, max(0, len(toks) - n + 1)):
                 ng = toks[i : i + n]
-                if is_candidate_ngram(ng):
-                    k = " ".join(x.lower() for x in ng)
-                    counts[k] = counts.get(k, 0) + 1
+                if not is_candidate_ngram(ng):
+                    continue
+                k = " ".join(x.lower() for x in ng)
+                if is_blacklisted(k, phrase_bl, token_bl):
+                    continue
+                counts[k] = counts.get(k, 0) + 1
 
     return counts
 
@@ -230,18 +281,69 @@ class WikidataEntity:
     aliases_de: List[str]
 
 
-def wikidata_search(session: requests.Session, term: str) -> Optional[str]:
+def _sleep_with_jitter(seconds: float) -> None:
+    if seconds <= 0:
+        return
+    time.sleep(seconds + random.random() * min(0.25, seconds))
+
+
+def http_get_json(
+    session: requests.Session,
+    params: Dict[str, Any],
+    timeout_s: float,
+    retries: int,
+    base_sleep_s: float,
+) -> Dict[str, Any]:
+    last_exc: Optional[BaseException] = None
+    for attempt in range(1, max(1, retries) + 1):
+        try:
+            r = session.get(WIKIDATA_API, params=params, timeout=timeout_s)
+            if r.status_code in (429, 500, 502, 503, 504):
+                retry_after = r.headers.get("Retry-After")
+                if retry_after and retry_after.isdigit():
+                    _sleep_with_jitter(float(retry_after))
+                else:
+                    _sleep_with_jitter(base_sleep_s * (2 ** (attempt - 1)))
+                continue
+
+            r.raise_for_status()
+            try:
+                return r.json()
+            except Exception as e:
+                last_exc = e
+                _sleep_with_jitter(base_sleep_s * (2 ** (attempt - 1)))
+                continue
+
+        except requests.RequestException as e:
+            last_exc = e
+            _sleep_with_jitter(base_sleep_s * (2 ** (attempt - 1)))
+            continue
+
+    raise RuntimeError(f"Wikidata request failed after {retries} retries: {last_exc}") from last_exc
+
+
+def wikidata_search(
+    session: requests.Session,
+    term: str,
+    timeout_s: float,
+    retries: int,
+    base_sleep_s: float,
+) -> Optional[str]:
     params = {"action": "wbsearchentities", "search": term, "language": "de", "limit": 5, "format": "json"}
-    r = session.get(WIKIDATA_API, params=params, timeout=30)
-    r.raise_for_status()
-    data = r.json()
+    data = http_get_json(session, params=params, timeout_s=timeout_s, retries=retries, base_sleep_s=base_sleep_s)
     results = data.get("search") or []
     if not results:
         return None
     return str(results[0].get("id") or "") or None
 
 
-def wikidata_get_entity(session: requests.Session, qid: str) -> Optional[WikidataEntity]:
+def wikidata_get_entity(
+    session: requests.Session,
+    qid: str,
+    timeout_s: float,
+    retries: int,
+    base_sleep_s: float,
+) -> Optional[WikidataEntity]:
     params = {
         "action": "wbgetentities",
         "ids": qid,
@@ -249,32 +351,48 @@ def wikidata_get_entity(session: requests.Session, qid: str) -> Optional[Wikidat
         "languages": "de",
         "format": "json",
     }
-    r = session.get(WIKIDATA_API, params=params, timeout=30)
-    r.raise_for_status()
-    data = r.json()
+    data = http_get_json(session, params=params, timeout_s=timeout_s, retries=retries, base_sleep_s=base_sleep_s)
     ent = (data.get("entities") or {}).get(qid)
     if not isinstance(ent, dict):
         return None
 
     label = ((ent.get("labels") or {}).get("de") or {}).get("value") or ""
     desc = ((ent.get("descriptions") or {}).get("de") or {}).get("value") or ""
-    aliases = [a.get("value") for a in ((ent.get("aliases") or {}).get("de") or []) if isinstance(a, dict) and a.get("value")]
+    aliases = [
+        a.get("value")
+        for a in ((ent.get("aliases") or {}).get("de") or [])
+        if isinstance(a, dict) and a.get("value")
+    ]
     aliases = [str(a) for a in aliases]
     return WikidataEntity(qid=qid, label_de=str(label), description_de=str(desc), aliases_de=aliases)
 
 
-def best_qid_for_term(session: requests.Session, term: str, cache: Dict[str, Any], sleep_s: float) -> Optional[str]:
+def best_qid_for_term(
+    session: requests.Session,
+    term: str,
+    cache: Dict[str, Any],
+    sleep_s: float,
+    timeout_s: float,
+    retries: int,
+) -> Optional[str]:
     key = f"search:{term.lower()}"
     if key in cache:
         return cache[key] or None
-    qid = wikidata_search(session, term)
+
+    qid = wikidata_search(session, term, timeout_s=timeout_s, retries=retries, base_sleep_s=sleep_s)
     cache[key] = qid or ""
-    if sleep_s > 0:
-        time.sleep(sleep_s)
+    _sleep_with_jitter(sleep_s)
     return qid
 
 
-def get_entity_cached(session: requests.Session, qid: str, cache: Dict[str, Any], sleep_s: float) -> Optional[WikidataEntity]:
+def get_entity_cached(
+    session: requests.Session,
+    qid: str,
+    cache: Dict[str, Any],
+    sleep_s: float,
+    timeout_s: float,
+    retries: int,
+) -> Optional[WikidataEntity]:
     key = f"entity:{qid}"
     if key in cache:
         raw = cache[key]
@@ -287,12 +405,11 @@ def get_entity_cached(session: requests.Session, qid: str, cache: Dict[str, Any]
             aliases_de=list(raw.get("aliases_de", [])),
         )
 
-    ent = wikidata_get_entity(session, qid)
+    ent = wikidata_get_entity(session, qid, timeout_s=timeout_s, retries=retries, base_sleep_s=sleep_s)
     cache[key] = (
         {"label_de": ent.label_de, "description_de": ent.description_de, "aliases_de": ent.aliases_de} if ent else ""
     )
-    if sleep_s > 0:
-        time.sleep(sleep_s)
+    _sleep_with_jitter(sleep_s)
     return ent
 
 
@@ -345,11 +462,19 @@ def main() -> int:
     if not transcripts_dir.exists():
         raise SystemExit(f"Missing transcripts dir: {transcripts_dir}")
 
+    phrase_bl, token_bl = load_blacklist(args.blacklist_path)
+
     texts = list(iter_transcript_texts(transcripts_dir, max_file_mb=float(args.max_file_mb)))
     if not texts:
         raise SystemExit(f"No transcripts found under: {transcripts_dir}")
 
-    cand = extract_candidates(texts)
+    cand = extract_candidates(
+        texts=texts,
+        max_ngram=int(args.max_ngram),
+        phrase_bl=phrase_bl,
+        token_bl=token_bl,
+    )
+
     items = [(t, c) for t, c in cand.items() if c >= int(args.min_count)]
     items.sort(key=lambda x: x[1], reverse=True)
     items = items[: int(args.max_terms)]
@@ -360,11 +485,30 @@ def main() -> int:
         cache = {}
 
     overrides = load_manual_overrides(args.manual_overrides)
+
     session = requests.Session()
+    session.headers.update(
+        {
+            "User-Agent": "FSPtranskript-GlossaryBot/1.0 (+https://github.com/protokolFSP/FSPtranskript)"
+        }
+    )
 
     rows: List[Dict[str, Any]] = []
-    for term_lc, freq in items:
-        qid = best_qid_for_term(session, term_lc, cache=cache, sleep_s=float(args.sleep_s))
+
+    for idx, (term_lc, freq) in enumerate(items, start=1):
+        try:
+            qid = best_qid_for_term(
+                session=session,
+                term=term_lc,
+                cache=cache,
+                sleep_s=float(args.sleep_s),
+                timeout_s=float(args.http_timeout_s),
+                retries=int(args.http_retries),
+            )
+        except Exception as e:
+            print(f"[WARN] search failed for term='{term_lc}': {e}")
+            qid = None
+
         if not qid:
             rows.append(
                 {
@@ -381,8 +525,33 @@ def main() -> int:
             )
             continue
 
-        ent = get_entity_cached(session, qid, cache=cache, sleep_s=float(args.sleep_s))
+        try:
+            ent = get_entity_cached(
+                session=session,
+                qid=qid,
+                cache=cache,
+                sleep_s=float(args.sleep_s),
+                timeout_s=float(args.http_timeout_s),
+                retries=int(args.http_retries),
+            )
+        except Exception as e:
+            print(f"[WARN] entity failed for qid='{qid}' term='{term_lc}': {e}")
+            ent = None
+
         if not ent:
+            rows.append(
+                {
+                    "term_in_corpus": term_lc,
+                    "freq": freq,
+                    "qid": qid,
+                    "label_de": "",
+                    "description_de": "",
+                    "technical_terms": "",
+                    "lay_terms": overrides.get(term_lc, ""),
+                    "aliases_de": "",
+                    "source": "Wikidata",
+                }
+            )
             continue
 
         syns = [ent.label_de] + ent.aliases_de
@@ -419,6 +588,9 @@ def main() -> int:
             }
         )
 
+        if idx % 25 == 0:
+            print(f"[INFO] processed {idx}/{len(items)} terms...")
+
     df = pd.DataFrame(rows).sort_values(["freq", "term_in_corpus"], ascending=[False, True], kind="mergesort")
 
     out_csv = Path(args.out_csv)
@@ -443,6 +615,7 @@ def main() -> int:
                 "source": r.get("source", ""),
             }
         )
+
     save_json(out_json, payload)
     save_json(cache_path, cache)
 
