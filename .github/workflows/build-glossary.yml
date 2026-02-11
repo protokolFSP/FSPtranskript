@@ -35,6 +35,10 @@ jobs:
             --cache_json public/wikidata_cache.json \
             --manual_overrides glossary/manual_overrides.csv \
             --blacklist_path glossary/blacklist.txt \
+            --out_todo_csv public/glossary.todo.csv \
+            --out_blacklist_suggestions_csv public/blacklist_suggestions.csv \
+            --todo_n 20 \
+            --blacklist_suggestions_n 50 \
             --max_terms 300 \
             --min_count 2 \
             --max_ngram 4 \
@@ -44,10 +48,15 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A public/glossary.csv public/glossary.json public/wikidata_cache.json
+          git add -A \
+            public/glossary.csv \
+            public/glossary.json \
+            public/wikidata_cache.json \
+            public/glossary.todo.csv \
+            public/blacklist_suggestions.csv
           if git diff --cached --quiet; then
             echo "No changes."
             exit 0
           fi
-          git commit -m "Update medical glossary from transcripts"
+          git commit -m "Update medical glossary + todo + blacklist suggestions"
           git push
