@@ -1,0 +1,21 @@
+term_in_corpus,freq,qid,label_de,description_de
+alt,1402,Q16148040,Alt,Familienname
+patientin,1276,Q181600,Patient,"Person, die eine medizinische Behandlung in Anspruch nimmt"
+patienten,1110,Q181600,Patient,"Person, die eine medizinische Behandlung in Anspruch nimmt"
+beschwerden,1080,Q829680,Beschwerdenliste,
+jahre alt,955,,,
+medikamente,931,Q12140,Arzneimittel,"Stoff, der für Diagnose, Prävention oder Therapie von Krankheiten benutzt wird"
+diagnose,568,Q16644043,Diagnose,"Identifizierung der Art und Ursache eines bestimmten Phänomens, die in vielen verschiedenen Disziplinen zur Bestimmung der Kausalität verwendet wird"
+blutdruck,534,Q82642,Blutdruck,Druck des Blutes in einem Blutgefäß
+untersuchung,475,Q21004260,Ermittlung,"Prozess, der darauf abzielt, das Wissen zu erweitern, Zweifel auszuräumen oder ein Problem zu lösen"
+den patienten,446,Q91173133,,im Januar 2019 veröffentlichter wissenschaftlicher Artikel
+diese schmerzen,407,,,
+stuhlgang,405,Q204015,Stuhlgang,Ausscheidung von Kot
+operation,350,Q1914636,Tätigkeit,"Handeln, kann sowohl körperliche als auch geistige Verrichtungen umfassen"
+milligramm,333,Q3241121,Milligramm,Massenheinheit
+ekg,278,Q79785,Elektrokardiogramm,Aufzeichnung der Summe der elektrischen Aktivitäten aller Herzmuskelfasern
+kopfschmerzen,270,Q86,Kopfschmerz,Schmerzen oder Beschwerden im Bereich des Kopfes
+sind die schmerzen,269,,,
+wasserlassen,269,Q105726,Miktion,Entleerung der Harnblase
+der patientin,243,,,
+krankenhaus,235,Q16917,Krankenhaus,medizinische Einrichtung
