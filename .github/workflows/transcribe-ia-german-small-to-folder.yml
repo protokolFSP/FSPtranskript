@@ -51,6 +51,242 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Build transcribe tool (self-contained)
+        run: |
+          mkdir -p tooling
+          cat > tooling/transcribe_ia_whisper.py <<'PY'
+          from __future__ import annotations
+
+          import argparse
+          import json
+          import sys
+          import tempfile
+          from dataclasses import dataclass
+          from pathlib import Path
+          from typing import List, Tuple
+          from urllib.parse import quote
+
+          import requests
+          from tqdm import tqdm
+
+          IA_METADATA_URL = "https://archive.org/metadata/{identifier}"
+          IA_DOWNLOAD_URL = "https://archive.org/download/{identifier}/{filename}"
+
+
+          @dataclass(frozen=True)
+          class Segment:
+              start: float
+              end: float
+              text: str
+
+
+          def _eprint(*args: object) -> None:
+              print(*args, file=sys.stderr)
+
+
+          def fetch_item_metadata(identifier: str, timeout_s: int = 30) -> dict:
+              url = IA_METADATA_URL.format(identifier=identifier)
+              resp = requests.get(url, timeout=timeout_s)
+              resp.raise_for_status()
+              return resp.json()
+
+
+          def extract_m4a_filenames(metadata: dict) -> List[str]:
+              files = metadata.get("files", [])
+              if isinstance(files, dict):
+                  files = list(files.values())
+
+              names: List[str] = []
+              for entry in files:
+                  if not isinstance(entry, dict):
+                      continue
+                  name = entry.get("name") or entry.get("file") or entry.get("filename")
+                  if isinstance(name, str) and name.lower().endswith(".m4a"):
+                      names.append(name)
+
+              names.sort(key=lambda s: s.casefold())
+              return names
+
+
+          def filter_by_match(files: List[str], match: str) -> List[str]:
+              if not match:
+                  return files
+              m = match.casefold()
+              return [f for f in files if m in f.casefold()]
+
+
+          def build_output_paths(out_dir: Path, remote_filename: str) -> Tuple[Path, Path]:
+              base = Path(Path(remote_filename).name).with_suffix("").name
+              return out_dir / f"{base}.txt", out_dir / f"{base}.srt"
+
+
+          def missing_files(files: List[str], out_dir: Path) -> List[str]:
+              miss: List[str] = []
+              for f in files:
+                  txt_path, srt_path = build_output_paths(out_dir, f)
+                  if not (txt_path.exists() and srt_path.exists()):
+                      miss.append(f)
+              return miss
+
+
+          def download_one_file(identifier: str, remote_filename: str, dest_path: Path, timeout_s: int = 60) -> None:
+              safe_remote = quote(remote_filename)
+              url = IA_DOWNLOAD_URL.format(identifier=identifier, filename=safe_remote)
+
+              with requests.get(url, stream=True, timeout=timeout_s) as r:
+                  r.raise_for_status()
+                  total = int(r.headers.get("Content-Length", "0") or "0")
+                  dest_path.parent.mkdir(parents=True, exist_ok=True)
+
+                  with open(dest_path, "wb") as f, tqdm(
+                      total=total if total > 0 else None,
+                      unit="B",
+                      unit_scale=True,
+                      desc="Downloading",
+                      leave=False,
+                  ) as pbar:
+                      for chunk in r.iter_content(chunk_size=1024 * 1024):
+                          if chunk:
+                              f.write(chunk)
+                              pbar.update(len(chunk))
+
+
+          def format_srt_timestamp(seconds: float) -> str:
+              ms = int(round(seconds * 1000.0))
+              hours, ms = divmod(ms, 3600 * 1000)
+              minutes, ms = divmod(ms, 60 * 1000)
+              secs, ms = divmod(ms, 1000)
+              return f"{hours:02d}:{minutes:02d}:{secs:02d},{ms:03d}"
+
+
+          def write_txt(out_path: Path, segments: List[Segment]) -> None:
+              out_path.parent.mkdir(parents=True, exist_ok=True)
+              text = "\n".join(s.text.strip() for s in segments if s.text.strip())
+              out_path.write_text(text + ("\n" if text else ""), encoding="utf-8")
+
+
+          def write_srt(out_path: Path, segments: List[Segment]) -> None:
+              out_path.parent.mkdir(parents=True, exist_ok=True)
+              lines: List[str] = []
+              idx = 1
+              for seg in segments:
+                  text = seg.text.strip()
+                  if not text:
+                      continue
+                  start = seg.start
+                  end = seg.end if seg.end > seg.start else seg.start + 0.001
+                  lines.append(str(idx))
+                  lines.append(f"{format_srt_timestamp(start)} --> {format_srt_timestamp(end)}")
+                  lines.append(text)
+                  lines.append("")
+                  idx += 1
+              out_path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+
+
+          def resolve_device(device_arg: str) -> str:
+              return device_arg if device_arg != "auto" else "cpu"
+
+
+          def default_compute_type(device: str, compute_type_arg: str) -> str:
+              if compute_type_arg != "auto":
+                  return compute_type_arg
+              return "float16" if device == "cuda" else "int8"
+
+
+          def transcribe_with_faster_whisper(
+              audio_path: Path,
+              model_name: str,
+              language: str,
+              device: str,
+              compute_type: str,
+              beam_size: int,
+              vad_filter: bool,
+          ) -> List[Segment]:
+              from faster_whisper import WhisperModel  # type: ignore
+
+              model = WhisperModel(model_name, device=device, compute_type=compute_type)
+              seg_iter, info = model.transcribe(
+                  str(audio_path),
+                  language=language,
+                  task="transcribe",
+                  beam_size=beam_size,
+                  vad_filter=vad_filter,
+              )
+
+              _eprint(
+                  f"Detected language: {getattr(info, 'language', 'unknown')} | "
+                  f"Duration: {getattr(info, 'duration', 'unknown')}"
+              )
+              return [Segment(float(s.start), float(s.end), str(s.text)) for s in seg_iter]
+
+
+          def main() -> int:
+              p = argparse.ArgumentParser()
+              p.add_argument("--identifier", required=True)
+              p.add_argument("--out-dir", default="transcripts")
+              p.add_argument("--model", default="small")
+              p.add_argument("--language", default="de")
+              p.add_argument("--device", default="auto", choices=["auto", "cpu", "cuda"])
+              p.add_argument("--compute-type", default="auto")
+              p.add_argument("--beam-size", type=int, default=1)
+              p.add_argument("--vad-filter", action="store_true")
+              p.add_argument("--file", default=None)
+              p.add_argument("--match", default="")
+              p.add_argument("--list-missing-json", action="store_true")
+              args = p.parse_args()
+
+              out_dir = Path(args.out_dir).resolve()
+              out_dir.mkdir(parents=True, exist_ok=True)
+
+              metadata = fetch_item_metadata(args.identifier)
+              all_m4a = filter_by_match(extract_m4a_filenames(metadata), args.match)
+
+              if args.list_missing_json:
+                  sys.stdout.write(json.dumps(missing_files(all_m4a, out_dir), ensure_ascii=False))
+                  sys.stdout.flush()
+                  return 0
+
+              if not args.file:
+                  _eprint("Error: --file is required for transcription runs.")
+                  return 2
+
+              device = resolve_device(args.device)
+              compute_type = default_compute_type(device, args.compute_type)
+
+              remote_filename = args.file
+              txt_path, srt_path = build_output_paths(out_dir, remote_filename)
+
+              with tempfile.TemporaryDirectory(prefix="ia_whisper_") as tmpdir:
+                  local_audio = Path(tmpdir) / Path(remote_filename).name
+                  download_one_file(args.identifier, remote_filename, local_audio)
+
+                  segments = transcribe_with_faster_whisper(
+                      audio_path=local_audio,
+                      model_name=args.model,
+                      language=args.language,
+                      device=device,
+                      compute_type=compute_type,
+                      beam_size=args.beam_size,
+                      vad_filter=args.vad_filter,
+                  )
+
+                  write_txt(txt_path, segments)
+                  write_srt(srt_path, segments)
+
+              return 0
+
+
+          if __name__ == "__main__":
+              raise SystemExit(main())
+          PY
+
+      - name: Upload tool for matrix jobs
+        uses: actions/upload-artifact@v4
+        with:
+          name: tooling
+          path: tooling/transcribe_ia_whisper.py
+          if-no-files-found: error
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -68,10 +304,7 @@ jobs:
           MATCH: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.match || vars.TRANSCRIBE_MATCH || '' }}
         run: |
           python - <<'PY'
-          import json
-          import os
-          import subprocess
-          import sys
+          import json, os, subprocess, sys
 
           identifier = os.environ["IA_IDENTIFIER"]
           out_dir = f"transcripts/{identifier}"
@@ -81,7 +314,7 @@ jobs:
           match = (os.environ.get("MATCH") or "").strip()
 
           cmd = [
-              sys.executable, "tools/transcribe_ia_whisper.py",
+              sys.executable, "tooling/transcribe_ia_whisper.py",
               "--identifier", identifier,
               "--out-dir", out_dir,
               "--list-missing-json",
@@ -91,17 +324,14 @@ jobs:
 
           missing = json.loads(subprocess.check_output(cmd).decode("utf-8"))
           picked = missing[:batch_size]
-
           matrix = [{"idx": i, "file": f} for i, f in enumerate(picked)]
-          out = json.dumps(matrix, ensure_ascii=False)
 
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fh:
-              fh.write(f"matrix={out}\n")
+              fh.write(f"matrix={json.dumps(matrix, ensure_ascii=False)}\n")
               fh.write(f"count={len(matrix)}\n")
               fh.write(f"max_parallel={max_parallel}\n")
               fh.write(f"out_dir={out_dir}\n")
 
-          print("Identifier:", identifier)
           print("Out dir:", out_dir)
           print("Picked:", matrix)
           PY
@@ -120,6 +350,12 @@ jobs:
       OUT_DIR: ${{ needs.prepare.outputs.out_dir }}
     steps:
       - uses: actions/checkout@v4
+
+      - name: Download tool
+        uses: actions/download-artifact@v4
+        with:
+          name: tooling
+          path: tooling
 
       - name: Install system deps
         run: |
@@ -149,7 +385,7 @@ jobs:
         env:
           FILE: ${{ matrix.item.file }}
         run: |
-          python tools/transcribe_ia_whisper.py \
+          python tooling/transcribe_ia_whisper.py \
             --identifier "$IA_IDENTIFIER" \
             --out-dir "$OUT_DIR" \
             --file "$FILE" \
@@ -161,8 +397,7 @@ jobs:
             --vad-filter
 
           python - <<'PY'
-          import os
-          import shutil
+          import os, shutil
           from pathlib import Path
 
           out_dir = Path(os.environ["OUT_DIR"])
