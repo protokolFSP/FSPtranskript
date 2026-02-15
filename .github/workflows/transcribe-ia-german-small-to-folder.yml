@@ -1,0 +1,227 @@
+# file: .github/workflows/transcribe-ia-german-small-to-folder.yml
+name: Transcribe IA (DE, small) -> transcripts/<id> (parallel)
+
+on:
+  workflow_dispatch:
+    inputs:
+      ia_identifier:
+        description: "Internet Archive identifier (örn: FSP21_23)"
+        required: true
+        default: "FSP21_23"
+        type: string
+      batch_size:
+        description: "Bu run'da kaç dosya işlensin (örn 4/10/20)"
+        required: true
+        default: "20"
+        type: string
+      max_parallel:
+        description: "Aynı anda kaç job koşsun (örn 4/6/8)"
+        required: true
+        default: "6"
+        type: string
+      match:
+        description: "Opsiyonel filtre (substring). Boş=hepsi"
+        required: false
+        default: ""
+        type: string
+
+  schedule:
+    - cron: "0 * * * *" # her saat başı
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ia-transcribe-de-small-${{ github.event_name == 'workflow_dispatch' && github.event.inputs.ia_identifier || vars.TRANSCRIBE_IA_IDENTIFIER || 'default' }}
+  cancel-in-progress: false
+
+env:
+  IA_IDENTIFIER: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.ia_identifier || vars.TRANSCRIBE_IA_IDENTIFIER || 'FSP21_23' }}
+  MODEL: small
+  LANGUAGE: de
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.pick.outputs.matrix }}
+      count: ${{ steps.pick.outputs.count }}
+      max_parallel: ${{ steps.pick.outputs.max_parallel }}
+      out_dir: ${{ steps.pick.outputs.out_dir }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps for listing
+        run: |
+          python -m pip install -U pip
+          pip install requests tqdm
+
+      - id: pick
+        name: Pick next missing files
+        env:
+          BATCH_SIZE: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.batch_size || vars.TRANSCRIBE_BATCH_SIZE || '20' }}
+          MAX_PARALLEL: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.max_parallel || vars.TRANSCRIBE_MAX_PARALLEL || '6' }}
+          MATCH: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.match || vars.TRANSCRIBE_MATCH || '' }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import subprocess
+          import sys
+
+          identifier = os.environ["IA_IDENTIFIER"]
+          out_dir = f"transcripts/{identifier}"
+
+          batch_size = int(os.environ["BATCH_SIZE"])
+          max_parallel = int(os.environ["MAX_PARALLEL"])
+          match = (os.environ.get("MATCH") or "").strip()
+
+          cmd = [
+              sys.executable, "tools/transcribe_ia_whisper.py",
+              "--identifier", identifier,
+              "--out-dir", out_dir,
+              "--list-missing-json",
+          ]
+          if match:
+              cmd += ["--match", match]
+
+          missing = json.loads(subprocess.check_output(cmd).decode("utf-8"))
+          picked = missing[:batch_size]
+
+          matrix = [{"idx": i, "file": f} for i, f in enumerate(picked)]
+          out = json.dumps(matrix, ensure_ascii=False)
+
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fh:
+              fh.write(f"matrix={out}\n")
+              fh.write(f"count={len(matrix)}\n")
+              fh.write(f"max_parallel={max_parallel}\n")
+              fh.write(f"out_dir={out_dir}\n")
+
+          print("Identifier:", identifier)
+          print("Out dir:", out_dir)
+          print("Picked:", matrix)
+          PY
+
+  transcribe:
+    needs: prepare
+    if: ${{ needs.prepare.outputs.count != '0' }}
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: ${{ fromJson(needs.prepare.outputs.max_parallel) }}
+      matrix:
+        item: ${{ fromJson(needs.prepare.outputs.matrix) }}
+    timeout-minutes: 360
+    env:
+      OUT_DIR: ${{ needs.prepare.outputs.out_dir }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install system deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache model downloads
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+            ~/.cache/whisper
+          key: whisper-cache-${{ runner.os }}-${{ env.MODEL }}-v1
+          restore-keys: |
+            whisper-cache-${{ runner.os }}-
+
+      - name: Install Python deps
+        run: |
+          python -m pip install -U pip
+          pip install faster-whisper requests tqdm
+
+      - name: Transcribe one file (TXT+SRT into OUT_DIR)
+        env:
+          FILE: ${{ matrix.item.file }}
+        run: |
+          python tools/transcribe_ia_whisper.py \
+            --identifier "$IA_IDENTIFIER" \
+            --out-dir "$OUT_DIR" \
+            --file "$FILE" \
+            --model "$MODEL" \
+            --language "$LANGUAGE" \
+            --device "cpu" \
+            --compute-type "int8" \
+            --beam-size 1 \
+            --vad-filter
+
+          python - <<'PY'
+          import os
+          import shutil
+          from pathlib import Path
+
+          out_dir = Path(os.environ["OUT_DIR"])
+          fn = os.environ["FILE"]
+          base = Path(fn).name
+          base = Path(base).with_suffix("").name
+
+          out = Path("artifact_out")
+          out.mkdir(parents=True, exist_ok=True)
+
+          for ext in (".txt", ".srt"):
+              src = out_dir / f"{base}{ext}"
+              if src.exists():
+                  shutil.copy2(src, out / src.name)
+          PY
+
+      - name: Upload outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: transcripts-${{ matrix.item.idx }}
+          path: artifact_out/*
+
+  merge_and_push:
+    needs: [prepare, transcribe]
+    if: ${{ needs.prepare.outputs.count != '0' && always() }}
+    runs-on: ubuntu-latest
+    env:
+      OUT_DIR: ${{ needs.prepare.outputs.out_dir }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download all transcript artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+
+      - name: Merge into OUT_DIR
+        run: |
+          mkdir -p "$OUT_DIR"
+          find artifacts -type f \( -name "*.txt" -o -name "*.srt" \) -print -exec cp -f {} "$OUT_DIR/" \;
+
+      - name: Commit & push once (with retry)
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          retry() {
+            local n=0
+            local max=5
+            while true; do
+              if "$@"; then return 0; fi
+              n=$((n+1))
+              if [ "$n" -ge "$max" ]; then return 1; fi
+              sleep $((n*10))
+            done
+          }
+
+          git add "$OUT_DIR"
+          git commit -m "Add DE(small) transcripts ($IA_IDENTIFIER)" || exit 0
+          retry git pull --rebase
+          retry git push
