@@ -1,0 +1,1631 @@
+1
+00:00:00,000 --> 00:00:02,000
+Guten Tag.
+
+2
+00:00:02,000 --> 00:00:07,260
+Hallo.
+
+3
+00:00:07,260 --> 00:00:09,260
+Mein Name ist Alper Uslogelere.
+
+4
+00:00:09,260 --> 00:00:13,260
+Ich bin auf dieser Station als Assistenz-Arzt tätig
+
+5
+00:00:13,260 --> 00:00:16,260
+und würde mit Ihnen das Aufnahmegespräch führen.
+
+6
+00:00:16,260 --> 00:00:18,260
+Sind Sie einverstanden?
+
+7
+00:00:18,260 --> 00:00:20,260
+Ja.
+
+8
+00:00:20,260 --> 00:00:22,260
+Okay, vielen Dank.
+
+9
+00:00:22,260 --> 00:00:25,260
+Ich würde gerne so als personische Frage stellen.
+
+10
+00:00:25,260 --> 00:00:27,260
+Wie heißen Sie?
+
+11
+00:00:27,260 --> 00:00:30,260
+Ich heiße Angelika Müller.
+
+12
+00:00:30,260 --> 00:00:32,260
+Könnten Sie sich auch sagen,
+
+13
+00:00:32,260 --> 00:00:38,980
+können Sie bitte Ihre Vor- und Nachname bestabieren?
+
+14
+00:00:38,980 --> 00:00:40,980
+Angelika schreibt,
+
+15
+00:00:40,980 --> 00:00:42,980
+bestabiert sich A,
+
+16
+00:00:42,980 --> 00:00:48,980
+N, G, E, L, I, K.
+
+17
+00:00:48,980 --> 00:00:50,980
+Angelika.
+
+18
+00:00:50,980 --> 00:00:52,980
+Ja.
+
+19
+00:00:52,980 --> 00:00:54,980
+Und Müller, der Nachname.
+
+20
+00:00:54,980 --> 00:00:59,980
+M, I, L, L, E, R.
+
+21
+00:00:59,980 --> 00:01:01,980
+Müller.
+
+22
+00:01:01,980 --> 00:01:03,980
+Ja, Frau Müller.
+
+23
+00:01:03,980 --> 00:01:05,980
+Wie alt sind Sie?
+
+24
+00:01:05,980 --> 00:01:07,980
+Ich bin 56 Jahre.
+
+25
+00:01:07,980 --> 00:01:10,980
+Was sind Sie genau geboren?
+
+26
+00:01:10,980 --> 00:01:15,980
+Am 15. Mai 1966.
+
+27
+00:01:15,980 --> 00:01:23,340
+Okay, danke schön.
+
+28
+00:01:23,340 --> 00:01:25,340
+Und wie groß sind Sie?
+
+29
+00:01:25,340 --> 00:01:27,340
+1,68 m.
+
+30
+00:01:27,340 --> 00:01:32,060
+Wie viel wiegen Sie?
+
+31
+00:01:32,060 --> 00:01:35,060
+68 kg.
+
+32
+00:01:35,060 --> 00:01:38,370
+Ja, Frau Müller.
+
+33
+00:01:38,370 --> 00:01:40,370
+Was für Sie zu uns?
+
+34
+00:01:41,370 --> 00:01:44,370
+Ja, ich habe so seit einem Tag,
+
+35
+00:01:44,370 --> 00:01:47,370
+ich fühle mich nicht so wohl.
+
+36
+00:01:47,370 --> 00:01:49,370
+Mir ist übel.
+
+37
+00:01:49,370 --> 00:01:52,370
+Ich habe auch schon zweimal gebrochen.
+
+38
+00:01:52,370 --> 00:01:55,370
+Und es tut mir eben Bauch so weh.
+
+39
+00:01:55,370 --> 00:02:00,660
+Ich habe Bauchschmerzen.
+
+40
+00:02:00,660 --> 00:02:06,660
+Ja, haben Sie seit einem Tag Bauchschmerzen?
+
+41
+00:02:06,660 --> 00:02:09,660
+Seit gestern, ja, seit einem Tag.
+
+42
+00:02:09,660 --> 00:02:11,660
+Ja, gestern.
+
+43
+00:02:11,660 --> 00:02:14,660
+Wo sind die Schmerzen genau?
+
+44
+00:02:14,660 --> 00:02:16,660
+Ja, so ein bisschen rechts,
+
+45
+00:02:16,660 --> 00:02:19,660
+rechts so an dem Rippenbogen rechts,
+
+46
+00:02:19,660 --> 00:02:21,660
+am Oberbauch, mehr rechts, ja.
+
+47
+00:02:21,660 --> 00:02:24,660
+In der Mitte und mehr rechts.
+
+48
+00:02:24,660 --> 00:02:29,490
+Können Sie beschreiben,
+
+49
+00:02:29,490 --> 00:02:31,490
+diese Schmerzen,
+
+50
+00:02:31,490 --> 00:02:33,490
+Brennende Schmerzen,
+
+51
+00:02:33,490 --> 00:02:35,490
+Strechende Schmerzen oder Brücken,
+
+52
+00:02:35,490 --> 00:02:37,490
+was können Sie beschreiben?
+
+53
+00:02:37,490 --> 00:02:39,490
+Nee, das ist mehr so,
+
+54
+00:02:39,490 --> 00:02:41,490
+mehr drückend,
+
+55
+00:02:41,490 --> 00:02:43,490
+Brückender Schmerz.
+
+56
+00:02:43,490 --> 00:02:47,020
+Ja, streichende Schmerzen,
+
+57
+00:02:47,020 --> 00:02:49,020
+die gehen wohinaus.
+
+58
+00:02:49,020 --> 00:02:53,020
+Ja, so ein bisschen zieht das in die rechte Schulter.
+
+59
+00:02:53,020 --> 00:02:59,160
+Ja, ich verstande.
+
+60
+00:02:59,160 --> 00:03:03,160
+Können Sie, haben Sie bemerkt,
+
+61
+00:03:03,160 --> 00:03:06,160
+gibt es ein bestimmter Auslöser
+
+62
+00:03:06,160 --> 00:03:09,160
+für diese Schmerzen, zum Beispiel nach dem Essen?
+
+63
+00:03:09,160 --> 00:03:12,160
+Ich habe seit gestern nichts mehr gegessen.
+
+64
+00:03:12,160 --> 00:03:15,160
+Mir ist so schlecht, ich habe keinen Appetit.
+
+65
+00:03:15,160 --> 00:03:18,160
+Ich habe nur etwas getrunken,
+
+66
+00:03:18,160 --> 00:03:24,100
+ein bisschen Wasser und ein bisschen Tee.
+
+67
+00:03:24,100 --> 00:03:28,100
+Und wegen der, haben Sie Appetitlosigkeit
+
+68
+00:03:28,100 --> 00:03:30,100
+bei diesen Schmerzen?
+
+69
+00:03:30,100 --> 00:03:32,100
+Ja, ja.
+
+70
+00:03:32,100 --> 00:03:35,100
+Mir ist übel und ich habe keinen Appetit
+
+71
+00:03:35,100 --> 00:03:38,100
+und es tut mir alles weh.
+
+72
+00:03:38,100 --> 00:03:41,100
+Ja, ich habe verstanden.
+
+73
+00:03:41,100 --> 00:03:44,100
+Und ich habe das verstanden,
+
+74
+00:03:44,100 --> 00:03:47,100
+sind diese Schmerzen plötzlich begonnen?
+
+75
+00:03:47,100 --> 00:03:50,100
+Ja, relativ schnell.
+
+76
+00:03:50,100 --> 00:03:53,100
+Haben sie durchfallen?
+
+77
+00:03:53,100 --> 00:03:56,100
+Nein.
+
+78
+00:03:56,100 --> 00:03:59,100
+Nein, das war bisher immer alles in Ordnung.
+
+79
+00:03:59,100 --> 00:04:02,100
+Aber ich war jetzt auch seit gestern nicht mehr auf der Toilette,
+
+80
+00:04:02,100 --> 00:04:05,100
+weil ich auch nichts gegessen habe.
+
+81
+00:04:05,100 --> 00:04:08,100
+Ja, er verstanden.
+
+82
+00:04:08,100 --> 00:04:11,100
+Und haben Sie in der letzten Zeit Appetitl zu genommen?
+
+83
+00:04:11,100 --> 00:04:14,100
+Ja, ich habe das nicht mehr gegessen.
+
+84
+00:04:14,100 --> 00:04:17,100
+Haben Sie in der letzten Zeit Appetitl zu genommen?
+
+85
+00:04:17,100 --> 00:04:20,100
+Nein, das habe ich nicht verstanden.
+
+86
+00:04:20,100 --> 00:04:23,100
+Haben Sie in der letzten Zeit Appetitl zu genommen?
+
+87
+00:04:23,100 --> 00:04:26,100
+Gewicht verloren?
+
+88
+00:04:26,100 --> 00:04:29,100
+Nein, das ist gleichgeblieben.
+
+89
+00:04:29,100 --> 00:04:32,100
+Haben Sie Fieber?
+
+90
+00:04:32,100 --> 00:04:35,100
+Ja, ich habe heute Morgen gemessen
+
+91
+00:04:35,100 --> 00:04:38,100
+und da hatte ich 38,5.
+
+92
+00:04:38,100 --> 00:04:41,100
+Und ich habe so ein bisschen Schüttelfrost.
+
+93
+00:04:41,100 --> 00:04:44,100
+Haben Sie Probleme beim Wasserlassen?
+
+94
+00:04:44,100 --> 00:04:47,100
+Nein.
+
+95
+00:04:47,100 --> 00:04:50,100
+Ich merke es nicht.
+
+96
+00:04:50,100 --> 00:04:53,100
+Haben Sie Nachschweiß?
+
+97
+00:04:53,100 --> 00:04:56,100
+Ja, heute Nacht habe ich etwas geschwitzt,
+
+98
+00:04:56,100 --> 00:04:59,100
+aber ich glaube, das kam vom Fieber.
+
+99
+00:04:59,100 --> 00:05:02,100
+Ja, Sie haben es nicht.
+
+100
+00:05:02,100 --> 00:05:05,100
+Ich glaube, haben Sie heute Morgen
+
+101
+00:05:05,100 --> 00:05:08,100
+ein bisschen Schüttelfrost?
+
+102
+00:05:08,100 --> 00:05:11,100
+Nein, die letzte Nacht war nicht gut.
+
+103
+00:05:11,100 --> 00:05:14,100
+Ich habe auch mal eine Wärmflasche auf den Bauch gelegt, vorsichtig.
+
+104
+00:05:14,100 --> 00:05:17,100
+Aber das war noch schlimmer, die Wärmflasche.
+
+105
+00:05:17,100 --> 00:05:20,100
+Wärmflasche?
+
+106
+00:05:20,100 --> 00:05:23,100
+Haben Sie gegen diese Schmerzen Medikamente
+
+107
+00:05:23,100 --> 00:05:26,100
+eingenommen?
+
+108
+00:05:26,100 --> 00:05:29,100
+Nein, bisher habe ich noch nichts eingenommen.
+
+109
+00:05:29,100 --> 00:05:32,100
+Ich nehme noch etwas,
+
+110
+00:05:32,100 --> 00:05:35,100
+aber ich habe noch etwas mitgelegt.
+
+111
+00:05:36,100 --> 00:05:37,100
+Okay, haben Sie
+
+112
+00:05:37,100 --> 00:05:40,100
+eine kranklose Liedung?
+
+113
+00:05:40,100 --> 00:05:43,100
+Nein, bisher habe ich noch nichts eingenommen.
+
+114
+00:05:43,100 --> 00:05:46,100
+Ich nehme normalerweise keine Schmerztabletten.
+
+115
+00:05:46,100 --> 00:05:49,100
+Ich verstehe.
+
+116
+00:05:49,100 --> 00:05:52,100
+Okay.
+
+117
+00:05:52,100 --> 00:05:54,100
+Haben Sie
+
+118
+00:05:54,100 --> 00:05:57,100
+eine Erkrankung?
+
+119
+00:05:57,100 --> 00:06:00,100
+Was meinen Sie mit Vorerkrankungen?
+
+120
+00:06:00,100 --> 00:06:03,100
+Leiden Sie an chronischer Krankheit.
+
+121
+00:06:03,100 --> 00:06:13,100
+Ich habe etwas erhöhten Blutdruck seit ungefähr fünf Jahren, sechs Jahren, nehme ich auch Tabletten ein.
+
+122
+00:06:13,100 --> 00:06:16,100
+Welche Tablette nehmen Sie ein?
+
+123
+00:06:16,100 --> 00:06:18,100
+Ja, ich habe hier so ein Zettel aufgeschrieben.
+
+124
+00:06:18,100 --> 00:06:25,100
+Da steht drauf Metopolul.
+
+125
+00:06:25,100 --> 00:06:26,100
+Ja.
+
+126
+00:06:27,100 --> 00:06:29,100
+Wie viel Millikar?
+
+127
+00:06:29,100 --> 00:06:31,100
+Da steht 10.
+
+128
+00:06:31,100 --> 00:06:33,100
+Metopolul, 10.
+
+129
+00:06:33,100 --> 00:06:37,100
+Und zwar eine morgens und eine abends.
+
+130
+00:06:37,100 --> 00:06:42,100
+Und dann habe ich noch eine Tablette.
+
+131
+00:06:42,100 --> 00:06:44,100
+Das ist auch ein schwerer Name.
+
+132
+00:06:44,100 --> 00:06:48,100
+Ramibril, 5.
+
+133
+00:06:48,100 --> 00:06:50,100
+5 Millikar.
+
+134
+00:06:50,100 --> 00:06:54,100
+Eine Tablette morgens und eine halbe Tablette abends.
+
+135
+00:06:55,100 --> 00:07:00,100
+Wie ist es für dich, wenn du dich auf die Tablette geraten hast?
+
+136
+00:07:00,100 --> 00:07:04,100
+Nein, eigentlich nicht.
+
+137
+00:07:04,100 --> 00:07:09,100
+Ich habe mich sonst immer gesund gefühlt.
+
+138
+00:07:09,100 --> 00:07:10,100
+Sehr gut.
+
+139
+00:07:10,100 --> 00:07:14,100
+Und wo ist sie schon operiert?
+
+140
+00:07:14,100 --> 00:07:17,100
+Nein, ich bin noch nie operiert worden.
+
+141
+00:07:17,100 --> 00:07:21,060
+Wie ist die Allergie?
+
+142
+00:07:21,060 --> 00:07:28,060
+Ich habe sie schon aufgerufen.
+
+143
+00:07:28,060 --> 00:07:33,060
+Meine Kinder sagen immer, ich würde Erdbeeren nicht vertragen.
+
+144
+00:07:33,060 --> 00:07:36,060
+Aber ich finde, ich vertrachte Erdbeeren ganz gut.
+
+145
+00:07:36,060 --> 00:07:39,060
+Ich bekomme manchmal einen kleinen Ausschlag am Mund von Erdbeeren.
+
+146
+00:07:39,060 --> 00:07:41,060
+Wenn ich Erdbeeren esse.
+
+147
+00:07:41,060 --> 00:07:43,060
+Erdbeeren sehr gerne.
+
+148
+00:07:43,060 --> 00:07:46,060
+Ich glaube nicht, dass ich eine Allergie habe.
+
+149
+00:07:46,060 --> 00:07:48,060
+Verstanden.
+
+150
+00:07:48,060 --> 00:07:50,060
+Und laufen Sie?
+
+151
+00:07:50,060 --> 00:07:52,060
+Nein.
+
+152
+00:07:52,060 --> 00:07:54,060
+Haben Sie gelauft?
+
+153
+00:07:54,060 --> 00:07:57,060
+Nein, als Jugendliche mal probiert.
+
+154
+00:07:57,060 --> 00:08:00,060
+Aber das war kein richtiges Rauchen.
+
+155
+00:08:00,060 --> 00:08:03,060
+Nein, ich habe noch nicht so richtig gelaufen.
+
+156
+00:08:03,060 --> 00:08:05,060
+Sehr gut, das ist gut für Sie.
+
+157
+00:08:05,060 --> 00:08:07,060
+Trinken Sie Alkohol?
+
+158
+00:08:07,060 --> 00:08:10,060
+Ja, aber höchstens einmal am Wochenende.
+
+159
+00:08:10,060 --> 00:08:13,060
+Zum Essen mal ein Glas Wein.
+
+160
+00:08:13,060 --> 00:08:18,620
+Aber nur 1-2 Gläser am Wochenende, mehr nicht.
+
+161
+00:08:18,620 --> 00:08:20,620
+Okay.
+
+162
+00:08:20,620 --> 00:08:23,620
+Ich habe noch keine Fragen.
+
+163
+00:08:23,620 --> 00:08:26,620
+Haben Sie schon Drogen probiert?
+
+164
+00:08:26,620 --> 00:08:29,620
+Nein, Drogen kenne ich nicht.
+
+165
+00:08:29,620 --> 00:08:31,620
+Ja.
+
+166
+00:08:31,620 --> 00:08:35,620
+Sind Ihre Eltern gesund?
+
+167
+00:08:35,620 --> 00:08:38,620
+Meine Eltern.
+
+168
+00:08:38,620 --> 00:08:41,620
+Die Mutter, die hat auch einen hohen Blutdruck.
+
+169
+00:08:41,620 --> 00:08:45,620
+Ist 82 Jahre alt.
+
+170
+00:08:45,620 --> 00:08:49,620
+Und ist an der Galle operiert worden wegen Gallenstein.
+
+171
+00:08:49,620 --> 00:08:56,830
+Aber da war sie, glaube ich, so 55 Jahre alt.
+
+172
+00:08:56,830 --> 00:08:58,830
+Okay, er verstanden.
+
+173
+00:08:58,830 --> 00:09:02,830
+Ist sie am Leben?
+
+174
+00:09:02,830 --> 00:09:04,830
+Die Mutter lebt noch.
+
+175
+00:09:04,830 --> 00:09:07,830
+Der Vater ist vor 2 Jahren gestorben.
+
+176
+00:09:07,830 --> 00:09:11,830
+Mit 84 Jahre ernte Prostatakrebs.
+
+177
+00:09:11,830 --> 00:09:17,520
+Haben Sie Geschwister?
+
+178
+00:09:17,520 --> 00:09:21,520
+Ja, ich habe eine Schwester, die ist 2 Jahre älter als ich.
+
+179
+00:09:21,520 --> 00:09:25,520
+Die ist vor 3 Jahren,
+
+180
+00:09:25,520 --> 00:09:32,110
+musste sie an der Galle operiert werden, weil sie Gallenstein hatte.
+
+181
+00:09:32,110 --> 00:09:34,110
+Okay.
+
+182
+00:09:34,110 --> 00:09:36,110
+Sind Sie verheiratet?
+
+183
+00:09:36,110 --> 00:09:40,110
+Ja, ich habe 3 Kinder.
+
+184
+00:09:40,110 --> 00:09:45,110
+25, 22 und 20 Jahre alt.
+
+185
+00:09:45,110 --> 00:09:48,110
+Und gesund.
+
+186
+00:09:48,110 --> 00:09:54,110
+Mein Mann hat auch einen hohen Blutdruck, aber nicht so schlimm.
+
+187
+00:09:54,110 --> 00:09:57,110
+Der ist auch gesund.
+
+188
+00:09:57,110 --> 00:09:59,110
+Sehr schön.
+
+189
+00:09:59,110 --> 00:10:03,110
+Was sind Sie vor dem Beruf?
+
+190
+00:10:03,110 --> 00:10:06,110
+Ich bin Verkäuferin.
+
+191
+00:10:06,110 --> 00:10:10,110
+Ich muss den ganzen Tag stehen und hin und her gehen.
+
+192
+00:10:10,110 --> 00:10:13,110
+Okay.
+
+193
+00:10:13,110 --> 00:10:19,110
+Und haben Sie wechseljahre?
+
+194
+00:10:19,110 --> 00:10:22,110
+Ja, sind Sie jetzt wechseljahre?
+
+195
+00:10:22,110 --> 00:10:25,110
+Wechseljahre sind schon fast vorbei.
+
+196
+00:10:25,110 --> 00:10:33,110
+War sie schon im Ausland?
+
+197
+00:10:33,110 --> 00:10:37,110
+Ja, haben Sie gereist?
+
+198
+00:10:37,110 --> 00:10:40,110
+Ja, ich bin in letzter Zeit.
+
+199
+00:10:40,110 --> 00:10:45,110
+Wegen Corona war ich nicht im Ausland.
+
+200
+00:10:45,110 --> 00:10:48,110
+Wir sind in Deutschland geblieben.
+
+201
+00:10:48,110 --> 00:10:51,110
+Das ist gut.
+
+202
+00:10:51,110 --> 00:10:56,110
+Und sind Sie gegen Corona geimpft?
+
+203
+00:10:56,110 --> 00:10:59,110
+3 Impfungen habe ich schon.
+
+204
+00:10:59,110 --> 00:11:02,110
+Auch diese Booster-Impfungen habe ich schon.
+
+205
+00:11:02,110 --> 00:11:06,940
+Ja, das ist schön.
+
+206
+00:11:06,940 --> 00:11:09,940
+Okay.
+
+207
+00:11:09,940 --> 00:11:12,940
+Frau Angelica.
+
+208
+00:11:12,940 --> 00:11:15,940
+Frau Müller.
+
+209
+00:11:15,940 --> 00:11:21,940
+Ich habe wichtige Fragen für mich gestartet.
+
+210
+00:11:21,940 --> 00:11:25,940
+Und möchten Sie etwas sagen oder fragen?
+
+211
+00:11:25,940 --> 00:11:29,940
+Ja, was kann das sein?
+
+212
+00:11:29,940 --> 00:11:32,940
+Ich habe diese Schmerzen.
+
+213
+00:11:32,940 --> 00:11:35,940
+Ich habe sie vorher noch nie gehabt.
+
+214
+00:11:35,940 --> 00:11:38,940
+Ja.
+
+215
+00:11:38,940 --> 00:11:44,940
+Es kann sein, Sie haben eine Galenblase Probleme.
+
+216
+00:11:44,940 --> 00:11:51,940
+Die Angabe geht von einem Galenproblem aus.
+
+217
+00:11:51,940 --> 00:11:59,940
+Sie haben auch eine Galenprobleme.
+
+218
+00:11:59,940 --> 00:12:11,940
+Aber ich muss ein Diagnostische Massage durschen.
+
+219
+00:12:11,940 --> 00:12:19,940
+Ich werde Ihnen dann eine bestimmte Diagnose sagen.
+
+220
+00:12:19,940 --> 00:12:22,940
+Ich habe eine gute Team.
+
+221
+00:12:22,940 --> 00:12:25,940
+Sie sind gut.
+
+222
+00:12:25,940 --> 00:12:28,940
+Vielen Dank.
+
+223
+00:12:28,940 --> 00:12:32,940
+Dann warten wir mal die Untersuchung ab.
+
+224
+00:12:32,940 --> 00:12:35,940
+Bitte nehmen Sie Platz.
+
+225
+00:12:35,940 --> 00:12:38,940
+Ich ruf Ihnen gleich auf.
+
+226
+00:12:38,940 --> 00:12:42,940
+Sie machen jetzt mal eine Zusammenfassung für sich.
+
+227
+00:12:42,940 --> 00:12:45,940
+5 Minuten.
+
+228
+00:12:45,940 --> 00:12:49,940
+Dann können wir die Vorstellung beim Oberarzt machen.
+
+229
+00:12:49,940 --> 00:12:52,940
+Bis gleich.
+
+230
+00:12:52,940 --> 00:12:56,940
+Oder habt ihr die anderen Kollegen Fragen?
+
+231
+00:12:56,940 --> 00:12:59,940
+Ich weiß nicht.
+
+232
+00:12:59,940 --> 00:13:03,940
+Wir sind die Schmerzen auf einer Schmerz-Kala.
+
+233
+00:13:03,940 --> 00:13:06,940
+Ja.
+
+234
+00:13:06,940 --> 00:13:13,460
+Wir sind die Schmerzen auf einer Schmerz-Kala.
+
+235
+00:13:13,460 --> 00:13:16,460
+Ja.
+
+236
+00:13:16,460 --> 00:13:19,460
+Ich habe das vergessen.
+
+237
+00:13:19,460 --> 00:13:26,250
+Wollen Sie Frau Müller noch fragen, wie stark sind die Schmerzen?
+
+238
+00:13:26,250 --> 00:13:30,250
+Ja, wie stark sind Ihre Schmerzen auf einer Schmerz-Kala?
+
+239
+00:13:30,250 --> 00:13:34,250
+Nur ist es leichter, 10 ist stark.
+
+240
+00:13:34,250 --> 00:13:38,250
+Ja, ich würde schon sagen 7 bis 8.
+
+241
+00:13:38,250 --> 00:13:41,250
+Ich habe eine Frage.
+
+242
+00:13:41,250 --> 00:13:50,110
+Wie war die Fallbund-Konsistenz von Erbrecher Erböchen?
+
+243
+00:13:50,110 --> 00:13:54,110
+Und dem Erbrechen? Ja.
+
+244
+00:13:54,110 --> 00:13:58,110
+Das war so schleimig, gelbgrünlich.
+
+245
+00:13:58,110 --> 00:14:01,110
+Kein Blut.
+
+246
+00:14:01,110 --> 00:14:07,090
+Okay.
+
+247
+00:14:07,090 --> 00:14:12,660
+Gut, machen wir jetzt erstmal eine kleine Klaufe?
+
+248
+00:14:12,660 --> 00:14:15,660
+Sind die Schmerzen dauerhaft da?
+
+249
+00:14:15,660 --> 00:14:18,660
+Oder gehen Sie auch wieder weg?
+
+250
+00:14:18,660 --> 00:14:21,660
+Das habe ich jetzt nicht verstanden.
+
+251
+00:14:21,660 --> 00:14:24,660
+Sind die Schmerzen dauerhaft da?
+
+252
+00:14:24,660 --> 00:14:27,660
+Nein, die sind ziemlich dauerhaft.
+
+253
+00:14:27,660 --> 00:14:30,660
+Also nicht.
+
+254
+00:14:30,660 --> 00:14:33,660
+Meine Schwester hat immer gesagt,
+
+255
+00:14:33,660 --> 00:14:37,660
+als sie adäkalen Steine hatte und operiert werden musste,
+
+256
+00:14:37,660 --> 00:14:40,660
+meine Schwester hatte so richtige Koliken.
+
+257
+00:14:40,660 --> 00:14:43,660
+Das habe ich eher nicht.
+
+258
+00:14:43,660 --> 00:14:46,660
+Das ist mir so ein Dauerschmerz.
+
+259
+00:14:46,660 --> 00:14:49,660
+Das ist mir so ein Dauerschmerz.
+
+260
+00:14:49,660 --> 00:14:52,660
+Okay, danke.
+
+261
+00:14:52,660 --> 00:14:55,660
+Haben Sie gestern etwas Fettiges gegessen?
+
+262
+00:14:55,660 --> 00:14:58,660
+Vorgestern war ich auf einem Geburtstag eingeladen.
+
+263
+00:14:58,660 --> 00:15:04,800
+Und da habe ich doch 2 Stücke Sahnetorte gegessen.
+
+264
+00:15:04,800 --> 00:15:07,800
+Ich weiß eigentlich,
+
+265
+00:15:07,800 --> 00:15:10,800
+Sahne und fettige Sachen vertrage ich eigentlich nicht gut.
+
+266
+00:15:10,800 --> 00:15:13,800
+Hatten Sie früher ähnliche Bechwerde?
+
+267
+00:15:13,800 --> 00:15:16,800
+Ja, ich habe es früher gegessen.
+
+268
+00:15:16,800 --> 00:15:27,700
+Ich habe es früher gegessen.
+
+269
+00:15:27,700 --> 00:15:30,700
+Hast du früher ähnliche Bechwerde?
+
+270
+00:15:30,700 --> 00:15:33,700
+Nein, so etwas habe ich eigentlich noch nie gehabt, so ein Schmerz.
+
+271
+00:15:33,700 --> 00:15:38,370
+Nein, das ist neu.
+
+272
+00:15:38,370 --> 00:18:09,210
+So, wie sieht es aus?
+
+273
+00:18:09,210 --> 00:18:14,740
+Ich kann anfangen.
+
+274
+00:18:14,740 --> 00:18:22,850
+Herr Oberhass, haben Sie gesagt,
+
+275
+00:18:22,850 --> 00:18:28,850
+ich möchte Ihnen eine Patientin vorstellen.
+
+276
+00:18:28,850 --> 00:18:31,850
+Okay, habe ich.
+
+277
+00:18:31,850 --> 00:18:34,850
+Ja, danke schön.
+
+278
+00:18:34,850 --> 00:18:40,850
+Frau Angelika Münder ist 56-Jährige Patientin.
+
+279
+00:18:40,850 --> 00:18:47,850
+Die Patientin ist 168 cm groß
+
+280
+00:18:47,850 --> 00:18:50,850
+und 68 gewischt.
+
+281
+00:18:50,850 --> 00:18:53,850
+Kilo, ja?
+
+282
+00:18:53,850 --> 00:18:56,850
+Ja, gewischt.
+
+283
+00:18:56,850 --> 00:19:09,850
+Und die Patientin sterte sich uns wegen seit gestern aufgetretener
+
+284
+00:19:09,850 --> 00:19:15,850
+Drückender auf Erhalterabdominergie vor.
+
+285
+00:19:15,850 --> 00:19:17,850
+Ja.
+
+286
+00:19:17,850 --> 00:19:21,850
+Diese Schmerzen strahlen
+
+287
+00:19:21,850 --> 00:19:28,850
+im rechten Oberbau und in rechten Schulter.
+
+288
+00:19:28,850 --> 00:19:31,850
+Ja, strahlen aus in die Schulter, ja?
+
+289
+00:19:31,850 --> 00:19:34,850
+Ja, aus.
+
+290
+00:19:34,850 --> 00:19:40,850
+Und die Schmerzintenz, das liegt auf einer Skala 7 bis 8.
+
+291
+00:19:40,850 --> 00:19:42,850
+Okay.
+
+292
+00:19:42,850 --> 00:19:46,850
+Auf einer Skala bis 7 bis 8
+
+293
+00:19:46,850 --> 00:19:52,850
+und die Patientin klackte über Romythus,
+
+294
+00:19:52,850 --> 00:20:00,850
+Neuzia und zweimal, die Patientin habe zweimal Erbrötchen.
+
+295
+00:20:00,850 --> 00:20:02,850
+Ja, okay.
+
+296
+00:20:02,850 --> 00:20:12,850
+Und die Patientin habe zuerst mal diese Schmerzen gehabt
+
+297
+00:20:12,850 --> 00:20:22,850
+und bei der Patientin habe wegen dieser Schmerzen
+
+298
+00:20:22,850 --> 00:20:27,850
+keine Appetit und Insomnia.
+
+299
+00:20:27,850 --> 00:20:30,850
+Appetit und Insomnia.
+
+300
+00:20:30,850 --> 00:20:33,850
+Okay, gibt es eine auffällige Vorgeschichte diesbezüglich?
+
+301
+00:20:33,850 --> 00:20:35,850
+Hat sie so etwas schon mal gehabt?
+
+302
+00:20:35,850 --> 00:20:37,850
+Nein, das ist so erstmal
+
+303
+00:20:37,850 --> 00:20:40,850
+und wegen dieser Schmerzen nur gestern Abend
+
+304
+00:20:40,850 --> 00:20:43,850
+habe die Patientin gehabt.
+
+305
+00:20:43,850 --> 00:20:45,850
+Ja, gibt es Temperaturen?
+
+306
+00:20:45,850 --> 00:20:51,850
+Ja, die Patientin, die Patientin habe Fieber auch
+
+307
+00:20:51,850 --> 00:20:57,850
+und die Temperatur ist 38,5 Grad.
+
+308
+00:20:57,850 --> 00:20:59,850
+Okay.
+
+309
+00:20:59,850 --> 00:21:12,850
+Ja, die Nachfrage, die weiteren Fragen wurden verneint.
+
+310
+00:21:12,850 --> 00:21:17,850
+Ja, gibt es Risikofaktoren?
+
+311
+00:21:17,850 --> 00:21:25,850
+Ja, die Patientin habe vorgestern
+
+312
+00:21:25,850 --> 00:21:30,850
+ein fettreicher Essen gegessen
+
+313
+00:21:30,850 --> 00:21:38,850
+und auch die Patientin, der 48 Programme,
+
+314
+00:21:38,850 --> 00:21:50,850
+seine Mutter wurde eine Kulistik-Tummi gehabt.
+
+315
+00:21:50,850 --> 00:21:55,850
+Ja, die Mutter, auch die Schwester.
+
+316
+00:21:55,850 --> 00:21:57,850
+Okay, die Schwester.
+
+317
+00:21:57,850 --> 00:21:59,850
+Ja, ihre Schwester, die Schwester.
+
+318
+00:21:59,850 --> 00:22:02,850
+Und habe eine Kulistik-Tummi auch gehabt.
+
+319
+00:22:02,850 --> 00:22:07,850
+Ja, gibt es Schwangerschaften in der Vorgeschichte?
+
+320
+00:22:07,850 --> 00:22:13,850
+Ja, die Patientin habe drei Kinder,
+
+321
+00:22:13,850 --> 00:22:17,850
+drei gesunde Kinder
+
+322
+00:22:17,850 --> 00:22:22,850
+und die Patientin, leider,
+
+323
+00:22:22,850 --> 00:22:28,850
+die Leider an Arterieal-Hipartone seit fünf Jahren
+
+324
+00:22:28,850 --> 00:22:34,850
+und die Patientin nehme regelmäßig Metaprolose 10 mg,
+
+325
+00:22:34,850 --> 00:22:41,850
+1,01 und mit Briefe 5 mg, 1,0 halbe Tablete.
+
+326
+00:22:41,850 --> 00:22:43,850
+Okay.
+
+327
+00:22:43,850 --> 00:22:50,850
+Die Patientin habe bis dann kein Operiert.
+
+328
+00:22:50,850 --> 00:22:53,850
+Also keine Voroperation im Kopf?
+
+329
+00:22:53,850 --> 00:22:56,850
+Voroperation, ja, bis dann.
+
+330
+00:22:56,850 --> 00:23:00,850
+Und die Patientin habe keine Allergie,
+
+331
+00:23:00,850 --> 00:23:08,850
+aber manchmal konnte die Patientin gegen Erdbeeren unverträgt.
+
+332
+00:23:08,850 --> 00:23:10,850
+Okay, okay.
+
+333
+00:23:10,850 --> 00:23:15,850
+Er ist nicht die Patientin, ist nicht raucher,
+
+334
+00:23:15,850 --> 00:23:20,850
+sie trinken gelegen, nicht nur wohnende,
+
+335
+00:23:20,850 --> 00:23:23,850
+ein, zwei, glässe Wein, trinken.
+
+336
+00:23:23,850 --> 00:23:25,850
+Okay, alles.
+
+337
+00:23:25,850 --> 00:23:29,850
+Und sie habe keine Drogen probiert.
+
+338
+00:23:29,850 --> 00:23:31,850
+Okay.
+
+339
+00:23:31,850 --> 00:23:35,850
+Und ihre Mutter leider an Arterieal-Hipartone,
+
+340
+00:23:35,850 --> 00:23:40,850
+auch ich habe gesagt,
+
+341
+00:23:40,850 --> 00:23:54,850
+sein Vater sei an Prostatkarsun und gestorben.
+
+342
+00:23:54,850 --> 00:23:56,850
+Okay.
+
+343
+00:23:56,850 --> 00:23:58,850
+Woran denken Sie, woran denken Sie, Herr Kollege,
+
+344
+00:23:58,850 --> 00:24:00,850
+was hat die Patientin?
+
+345
+00:24:00,850 --> 00:24:08,850
+Aufgrund dieser Angabe gehe ich für Koleistitis aus.
+
+346
+00:24:08,850 --> 00:24:13,850
+Koleistitis aus, ja.
+
+347
+00:24:13,850 --> 00:24:21,850
+Ja, kann man denke ich ausgehen, wahrscheinlich wird sie vielleicht auch Gallensteine haben,
+
+348
+00:24:21,850 --> 00:24:28,850
+wie ihre Schwester und wie ihre Mutter, drei Schwangerschaften in der Vorgeschichte
+
+349
+00:24:29,850 --> 00:24:36,850
+ausgehen und zumindest hatte sie ja schon eine gewisse Fettunverträglichkeit beschrieben.
+
+350
+00:24:36,850 --> 00:24:40,850
+Ja, und was eben differenzialdiagnostisch in Betracht?
+
+351
+00:24:40,850 --> 00:24:51,850
+Ja, ausdifferenzialdiagnostisch kommen, kommen, kommen, kommen,
+
+352
+00:24:51,850 --> 00:25:03,850
+kommen, auch akute Pargratitis und Nephrolitiasis in Betracht.
+
+353
+00:25:03,850 --> 00:25:10,850
+Okay, was spreche gegen eine Nephrolitiasis?
+
+354
+00:25:10,850 --> 00:25:23,850
+Ja, ne, richtig Schmerzen, Nephrolitiasis gibt es nicht viel, aber...
+
+355
+00:25:23,850 --> 00:25:26,850
+Wie sagten die Schmerzenstrahlen auch in die Schulter raus?
+
+356
+00:25:26,850 --> 00:25:28,850
+Schulter aus, es kann sein, ja.
+
+357
+00:25:28,850 --> 00:25:37,850
+Aber ich denke, differenzialdiagnostisch, Rulkus duodini, Pargratitis, auch Gastitis
+
+358
+00:25:37,850 --> 00:25:42,850
+Was sind sich die hauptsächlichen Differenzialdiagnostischen?
+
+359
+00:25:42,850 --> 00:25:44,850
+Ja, Differenzialdiagnostischen, richtig.
+
+360
+00:25:44,850 --> 00:25:49,850
+Und was wollen Sie jetzt in der Primärdiagnostik veranlassen?
+
+361
+00:25:49,850 --> 00:25:56,850
+Ja, ich würde gerne erst für Parliche untersuchen, Parliche untersuchen
+
+362
+00:25:56,850 --> 00:26:06,850
+Und dann sollte ich Abdomenzsonografie durchführen
+
+363
+00:26:06,850 --> 00:26:12,850
+Und Abdomenzsohn aufnahme natürlich durchführen
+
+364
+00:26:13,850 --> 00:26:28,850
+Und auch die gibt es, könnten wir ERCP durchführen
+
+365
+00:26:28,850 --> 00:26:36,850
+Ja, gut, das wäre sicherlich der erste Schritt, ich würde jetzt erst mal untersuchen, Abdomenzsonografie
+
+366
+00:26:36,850 --> 00:26:39,850
+Und Laborabnahme, natürlich Laborabnahme
+
+367
+00:26:39,850 --> 00:26:45,850
+Ich denke auch, wichtig ist im Rahmen der Blutabnahme, ihr eine Infusion anlegen
+
+368
+00:26:45,850 --> 00:26:50,850
+Die Patientin soll nicht mehr oral sich ernähren
+
+369
+00:26:50,850 --> 00:26:55,850
+Und ich denke, sie wird, wenn sie seit gestern nichts mehr gegessen hat, wahrscheinlich auch wenig getrunken hat
+
+370
+00:26:55,850 --> 00:26:59,850
+Auch etwas exikiert sein, sie braucht eine Infusion
+
+371
+00:26:59,850 --> 00:27:04,850
+Natürlich, Sie haben Recht, die Patientin könnte Exikose
+
+372
+00:27:04,850 --> 00:27:14,850
+Und ich muss einen Zugang legen und ausreichende Flüchtigkeit durchführen
+
+373
+00:27:14,850 --> 00:27:22,850
+Auch gegen Schmerzen sollte ich Energie-Ticker verabreichen
+
+374
+00:27:22,850 --> 00:27:35,850
+Auch, ja auch, der Patientin habe Fieber, ich sollte Antibiotische Therapie durchführen
+
+375
+00:27:35,850 --> 00:27:40,850
+Mindestens nach Erhalt des Akutlabores je nachdem, wie eine Entzündungskonstellation ist
+
+376
+00:27:40,850 --> 00:27:45,850
+Mit Leukozylten, CRP, Antibiosenerwägung ziehen
+
+377
+00:27:46,850 --> 00:27:54,850
+Und eine ERCP würde ich jetzt auch erst mal sagen, wäre jetzt erst mal etwas nachgeordnet
+
+378
+00:27:54,850 --> 00:28:01,850
+Im Augenblick wäre es erst mal wichtig, eine Basisdiagnostik, Patientin möglichst den Schmerz zu behandeln
+
+379
+00:28:01,850 --> 00:28:05,850
+Flüssigkeit zu geben und gegebenenfalls Antibiotese
+
+380
+00:28:05,850 --> 00:28:06,850
+Ja, richtig
+
+381
+00:28:06,850 --> 00:28:10,850
+Ja, das bin ich wieder einverstanden, würde ich so machen
+
+382
+00:28:10,850 --> 00:28:11,850
+Ja, danke schön
+
+383
+00:28:12,850 --> 00:28:16,850
+Gut, ja, finde ich, das haben Sie gut gemacht
+
+384
+00:28:16,850 --> 00:28:17,850
+Danke schön
+
+385
+00:28:17,850 --> 00:28:25,850
+Achten Sie drauf, wenn Sie das Schildern und die Anamnese machen, nehmen Sie möglichst nicht so oft die Hände vor das Gesicht
+
+386
+00:28:25,850 --> 00:28:32,850
+Häufiger gemacht und dann so runtergeschaut zu Ihrem Block, lassen Sie die Hände ruhig unten
+
+387
+00:28:32,850 --> 00:28:39,850
+Dann versteht Sie die Patientin besser oder der Oberarzt, ist besser die Hände nicht vor das Gesicht zu machen
+
+388
+00:28:39,850 --> 00:28:40,850
+Ja, ja
+
+389
+00:28:40,850 --> 00:28:42,850
+Vielen Dank für Ihre Tipps
+
+390
+00:28:42,850 --> 00:28:45,850
+Manchmal ist es natürlich eine Stresssituation
+
+391
+00:28:45,850 --> 00:28:49,850
+Ja, erst mal, ich gehöre nächstermal nicht
+
+392
+00:28:49,850 --> 00:28:55,850
+Ich sage dann, dass, wenn mir etwas auffällt, dass Sie das vielleicht etwas abgewöhnen sollen
+
+393
+00:28:55,850 --> 00:28:57,850
+Man ist, glaube ich, ganz gut
+
+394
+00:28:57,850 --> 00:28:58,850
+Ja, danke schön
+
+395
+00:28:59,850 --> 00:29:05,850
+Ansonsten finde ich gut, Sie haben sich auch nicht aus der Ruhe bringen lassen
+
+396
+00:29:05,850 --> 00:29:12,850
+Wichtig ist, wenn Sie etwas nicht verstehen, auch von der Patientin nicht nachfragen
+
+397
+00:29:12,850 --> 00:29:16,850
+und lieber den Namen stabilieren lassen, ja
+
+398
+00:29:16,850 --> 00:29:21,850
+Das ist wichtig, bevor man vielleicht einen falschen Namen aufschreibt oder so etwas
+
+399
+00:29:21,850 --> 00:29:25,850
+Und ja, das ist entscheidend
+
+400
+00:29:25,850 --> 00:29:26,850
+Okay
+
+401
+00:29:26,850 --> 00:29:27,850
+Vielen Dank für Ihre Tipps
+
+402
+00:29:27,850 --> 00:29:29,850
+Haben Sie denn schon einen Prüfungstermin?
+
+403
+00:29:29,850 --> 00:29:33,850
+Ja, sie sind auf der Ruhe
+
+404
+00:29:33,850 --> 00:29:35,850
+Ein Monat später
+
+405
+00:29:35,850 --> 00:29:37,850
+Haben Sie jetzt ja noch etwas Zeit
+
+406
+00:29:37,850 --> 00:29:40,850
+Ich habe da ein gutes Gefühl
+
+407
+00:29:40,850 --> 00:29:41,850
+Ja, danke schön
+
+408
+00:29:41,850 --> 00:29:43,850
+Okay

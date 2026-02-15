@@ -1,0 +1,3667 @@
+1
+00:00:00,530 --> 00:00:01,530
+Schön.
+
+2
+00:00:01,530 --> 00:00:04,480
+Schön, guten Morgen.
+
+3
+00:00:04,480 --> 00:00:09,480
+Mein Name ist, ich bin der Diensthabende Arzt auf dieser Station und würde gerne mit
+
+4
+00:00:09,480 --> 00:00:11,480
+Ihnen das Patientengespräch durchführen.
+
+5
+00:00:11,480 --> 00:00:13,480
+Sind Sie damit ein Verstanden?
+
+6
+00:00:13,480 --> 00:00:15,480
+Ja, guten Morgen.
+
+7
+00:00:15,480 --> 00:00:16,480
+Guten Morgen.
+
+8
+00:00:16,480 --> 00:00:19,480
+Kurz zum Ablauch, ich werde Ihnen jetzt ein paar allgemeine Fragen stellen.
+
+9
+00:00:19,480 --> 00:00:22,480
+Dann können mich zu Ihren aktuellen Beschwerden übergehen.
+
+10
+00:00:22,480 --> 00:00:25,480
+Wenn Sie etwas nicht verstehen oder Fragen haben, melden Sie sich bitte dabei mir.
+
+11
+00:00:25,480 --> 00:00:26,480
+Wie heißen Sie denn?
+
+12
+00:00:26,480 --> 00:00:29,480
+Mein Name ist Thomas Bauch.
+
+13
+00:00:29,480 --> 00:00:31,480
+Thomas mit Haar.
+
+14
+00:00:31,480 --> 00:00:34,480
+Bauch, Sie haben gesagt.
+
+15
+00:00:34,480 --> 00:00:35,480
+Bauch.
+
+16
+00:00:35,480 --> 00:00:36,480
+Oh.
+
+17
+00:00:36,480 --> 00:00:38,480
+B-A-U-C-H.
+
+18
+00:00:38,480 --> 00:00:40,480
+Ihr Bauch, genau.
+
+19
+00:00:40,480 --> 00:00:41,480
+Ihr Bauch.
+
+20
+00:00:41,480 --> 00:00:44,480
+Wie alt sind Sie und wann genau sind Sie geworden, Herr Bauch?
+
+21
+00:00:44,480 --> 00:00:53,050
+Ich bin geboren am 25.1.82, mit 41 Jahren alt.
+
+22
+00:00:53,050 --> 00:00:55,050
+Danke.
+
+23
+00:00:55,050 --> 00:00:59,050
+Wie groß und wie viel wie ich kieken Sie schon seit, Herr Bauch?
+
+24
+00:00:59,050 --> 00:01:04,050
+Ich bin ungefähr 1.71 groß und wiege circa 85 Kilo.
+
+25
+00:01:04,050 --> 00:01:08,580
+Vielen Dank für die Informationen, Herr Bauch.
+
+26
+00:01:08,580 --> 00:01:09,580
+Was führt Sie zu uns?
+
+27
+00:01:09,580 --> 00:01:10,580
+Was kann ich für Sie tun?
+
+28
+00:01:10,580 --> 00:01:16,580
+Also ich habe seit ungefähr jetzt schon 2 Tagen zunehmende Schmerzen im Bauch.
+
+29
+00:01:16,580 --> 00:01:24,900
+Könnte Sie mir sagen, wo die Schmerzen am stärksten sind,
+
+30
+00:01:24,900 --> 00:01:27,900
+in der rechte Seite, linker Seite Oberbauch, Unterbauch?
+
+31
+00:01:27,900 --> 00:01:33,900
+Die sind insbesondere heute, sind wir im rechten Unterbauch.
+
+32
+00:01:33,900 --> 00:01:40,720
+Haben die Schmerzen langsam oder plötzlich bewohnen?
+
+33
+00:01:40,720 --> 00:01:43,720
+Die haben ja plötzlich bekommen.
+
+34
+00:01:43,720 --> 00:01:44,720
+Plötzlich bekommen?
+
+35
+00:01:44,720 --> 00:01:50,720
+Also die plötzlich waren die da und dann habe ich Schmerzmedikamente genommen
+
+36
+00:01:50,720 --> 00:01:54,720
+und waren sie auch wieder weg und jetzt sind sie wieder da.
+
+37
+00:01:54,720 --> 00:01:59,720
+Darf ich fragen, welche Medikamente haben Sie eingenommen?
+
+38
+00:01:59,720 --> 00:02:01,720
+Ich habe die Profäne eingenommen.
+
+39
+00:02:01,720 --> 00:02:04,960
+Profäne.
+
+40
+00:02:04,960 --> 00:02:05,960
+Einmal, oder?
+
+41
+00:02:06,960 --> 00:02:08,960
+Ja, jetzt zwei, drei Mal genommen.
+
+42
+00:02:08,960 --> 00:02:11,960
+Ich habe die Plastik ja schon seit 2-3 Tagen.
+
+43
+00:02:11,960 --> 00:02:15,960
+Sind die Schmerzen auch in der rechte Unterbauch auch getreten
+
+44
+00:02:15,960 --> 00:02:20,960
+oder um der Nabel oder strahlende Schmerzen in einer anderen Körperregion?
+
+45
+00:02:20,960 --> 00:02:24,960
+Ja, die sind tatsächlich im Oberbauch angefangen und sind so ein bisschen gewandert.
+
+46
+00:02:24,960 --> 00:02:36,990
+Aber auch Strahlungen haben Sie nicht für die Schmerzen?
+
+47
+00:02:36,990 --> 00:02:38,990
+Wie meinen Sie aus Strahlungen?
+
+48
+00:02:38,990 --> 00:02:41,990
+Ich meine, diese Schmerzen fangen mit einer anderen Körperregion
+
+49
+00:02:41,990 --> 00:02:44,990
+und in der Laufe der Zeit, aber das ist ja gewandert.
+
+50
+00:02:44,990 --> 00:02:47,990
+Sie haben gesagt, im Oberbauch die Schmerzen angefangen
+
+51
+00:02:47,990 --> 00:02:49,990
+und im Laufe der Zeit in der Unterbauch gehe.
+
+52
+00:02:49,990 --> 00:02:53,990
+Könnten Sie mir diese Schmerzen etwas genauer beschreiben?
+
+53
+00:02:53,990 --> 00:02:57,990
+Sie die Schmerzen, ja, dumpf, drückend, stehend, ziehend, willend, vor mich.
+
+54
+00:02:57,990 --> 00:03:02,990
+Also die sind eher so dumpf, aber auch stechend manchmal?
+
+55
+00:03:02,990 --> 00:03:08,990
+Könnten Sie diese Schmerzen auf einer Schmerzskalle anstufen
+
+56
+00:03:08,990 --> 00:03:13,990
+von 1 bis 10, wobei 1 sehr leid, 10 sehr starke Schmerzen entspricht?
+
+57
+00:03:13,990 --> 00:03:17,990
+Ich würde schon sagen, so 6, ungefähr 6, 7.
+
+58
+00:03:17,990 --> 00:03:24,140
+Gibt es etwas, das die Schmerzen lindern oder verstiegeln?
+
+59
+00:03:24,140 --> 00:03:29,140
+Okay, Sie haben gesagt, Ibuprofenchid, gibt es eine Linie?
+
+60
+00:03:29,140 --> 00:03:33,140
+Ja, also es wird mehr, wenn ich tatsächlich so ein bisschen gehe
+
+61
+00:03:33,140 --> 00:03:36,140
+oder Treppensteiger oder so.
+
+62
+00:03:36,140 --> 00:03:41,140
+Hatten Sie schon einmal solche Beschwerden gehabt?
+
+63
+00:03:41,140 --> 00:03:43,140
+Nein, noch nie.
+
+64
+00:03:43,140 --> 00:03:53,070
+Nein, das ist das. Leiden Sie unter Übelkeit, mussten Sie sich übergeben, Herr Wauch?
+
+65
+00:03:53,070 --> 00:03:57,070
+Übelkeit habe ich, aber ich habe es nicht mehr geben.
+
+66
+00:03:57,070 --> 00:04:10,020
+Ja, haben Sie jährliche Farbveränderung in der Augen
+
+67
+00:04:10,020 --> 00:04:14,020
+oder auf die Haut aber merkt? Nein.
+
+68
+00:04:14,020 --> 00:04:25,620
+Haben Sie Buschmerzen, Dispene, Atemnot? Nein.
+
+69
+00:04:25,620 --> 00:04:30,620
+Wie ist Ihr Stuhlverhalten, ist alles in Ordnung mit dem Stuhlgang
+
+70
+00:04:30,620 --> 00:04:32,620
+und beim Masselassen verbar?
+
+71
+00:04:32,620 --> 00:04:37,620
+Ich habe tatsächlich seit ungefähr seit 2 Tagen etwas brennen
+
+72
+00:04:37,620 --> 00:04:44,620
+und ein bisschen Durchfall, aber nichts Wildes eigentlich.
+
+73
+00:04:44,620 --> 00:04:49,620
+Brennen beim Masselassen, Sie haben gesagt, oder beim Stuhlgang?
+
+74
+00:04:49,620 --> 00:04:53,620
+Ja, sowohl beim Masselassen ein bisschen brennen,
+
+75
+00:04:53,620 --> 00:04:57,620
+als auch etwas flüssigeren Stuhl.
+
+76
+00:04:57,620 --> 00:05:01,310
+Mäßig.
+
+77
+00:05:01,310 --> 00:05:04,310
+Haben Sie etwas Ungewöhnliches in jedem Stuhlbemerk?
+
+78
+00:05:04,310 --> 00:05:09,310
+Ich meine, ist mehr Schleimisch oder Blutbemerk in einem Stuhl?
+
+79
+00:05:09,310 --> 00:05:11,310
+Blut habe ich nicht bemerkt.
+
+80
+00:05:11,310 --> 00:05:13,310
+Nur wässig.
+
+81
+00:05:14,310 --> 00:05:16,310
+Ja.
+
+82
+00:05:16,310 --> 00:05:19,310
+Gibt es eine bestimmte Auslösung für die Schmerzen?
+
+83
+00:05:19,310 --> 00:05:28,290
+Ja, eine bestimmte Auslösung für die Schmerzen,
+
+84
+00:05:28,290 --> 00:05:31,290
+zum Beispiel Nahrungsabhängig, Bewegung,
+
+85
+00:05:31,290 --> 00:05:34,290
+oder haben Sie etwas Unfall?
+
+86
+00:05:34,290 --> 00:05:37,290
+Wenn ich Treppen steige, sind die ein bisschen mehr,
+
+87
+00:05:37,290 --> 00:05:40,290
+habe ich eben gesagt.
+
+88
+00:05:40,290 --> 00:05:43,290
+Aber ansonsten nichts mit der Nahrung.
+
+89
+00:05:43,290 --> 00:05:47,290
+Ja, Sie haben gesagt, beim Waslassen, Sie haben eine brennende Schmerzen.
+
+90
+00:05:47,290 --> 00:05:51,290
+Haben Sie in Ihrem Urin Blut oder Papterendrumpemerk?
+
+91
+00:05:51,290 --> 00:06:01,380
+Nein.
+
+92
+00:06:01,380 --> 00:06:05,380
+Haben Sie viel beigemessen oder leider unter Stütthorst herbau?
+
+93
+00:06:05,380 --> 00:06:08,380
+Ich habe mich nicht gemessen, aber ich glaube,
+
+94
+00:06:08,380 --> 00:06:12,380
+ich habe ein bisschen elbe Temperaturen, aber ich habe nicht gemessen.
+
+95
+00:06:12,380 --> 00:06:15,380
+Nein, ich verstehe.
+
+96
+00:06:15,380 --> 00:06:18,380
+Schlafen Sie gut? Haben Sie Probleme beim Schlafen?
+
+97
+00:06:18,380 --> 00:06:26,050
+Nein, ich habe keine Probleme.
+
+98
+00:06:26,050 --> 00:06:31,050
+Haben Sie in der letzten Zeit Angewicht verloren?
+
+99
+00:06:31,050 --> 00:06:34,050
+Nein, auch nicht.
+
+100
+00:06:34,050 --> 00:06:38,840
+Sie haben keine Probleme beim Schlafen, das bedeutet,
+
+101
+00:06:38,840 --> 00:06:42,840
+leiden Sie nicht unter Nachtschweiß?
+
+102
+00:06:42,840 --> 00:06:45,840
+Nein, eigentlich alles in Ordnung.
+
+103
+00:06:45,840 --> 00:06:47,840
+Okay, danke schön.
+
+104
+00:06:47,840 --> 00:06:53,790
+Ja, Herr Bau, ich würde gerne nach Ihrer Vorgeschichte fragen.
+
+105
+00:06:53,790 --> 00:06:56,790
+Leiden Sie an Vorerkrankungen von denen ich wissen sollte?
+
+106
+00:06:57,790 --> 00:06:59,790
+Mir nicht bewusst.
+
+107
+00:06:59,790 --> 00:07:02,790
+Das freut mich.
+
+108
+00:07:02,790 --> 00:07:06,790
+Leiden Sie sich oder gelegen dich eine bestimmte Medikamente,
+
+109
+00:07:06,790 --> 00:07:08,790
+außer diese Epopropfen?
+
+110
+00:07:08,790 --> 00:07:10,790
+Nein, eigentlich nicht.
+
+111
+00:07:10,790 --> 00:07:12,790
+Das freut mich auch.
+
+112
+00:07:12,790 --> 00:07:15,790
+Sind Sie schon mal operiert worden, Herr Bau?
+
+113
+00:07:15,790 --> 00:07:18,790
+Ich habe die Mandeln raus, meine Mandeln wurden.
+
+114
+00:07:18,790 --> 00:07:21,790
+Ja, wann war das?
+
+115
+00:07:21,790 --> 00:07:25,790
+Da war ich zehn Jahre alt, ungefähr, das ist schon ein bisschen länger her.
+
+116
+00:07:25,790 --> 00:07:28,790
+Ja, über 30 Jahre her.
+
+117
+00:07:28,790 --> 00:07:31,790
+Sie Kind war, ich verstehe.
+
+118
+00:07:31,790 --> 00:07:33,790
+Sind bei Ihnen alle geblieben, bekannt, Herr Bau?
+
+119
+00:07:33,790 --> 00:07:35,790
+Hausstorpe, alle hier habe ich.
+
+120
+00:07:35,790 --> 00:07:37,790
+Hausstorpe, wie reagieren Sie darauf?
+
+121
+00:07:37,790 --> 00:07:40,790
+Jukreiz und Niesen.
+
+122
+00:07:40,790 --> 00:07:46,060
+Niesen, ja.
+
+123
+00:07:46,060 --> 00:07:49,060
+Würde ich gerne nach Ihrer Lebensgewohnheit fragen,
+
+124
+00:07:49,060 --> 00:07:51,060
+Herr Bau, darf man Sie?
+
+125
+00:07:51,060 --> 00:07:53,060
+Nein.
+
+126
+00:07:53,060 --> 00:07:55,060
+Kann man Sie nie geraucht, oder?
+
+127
+00:07:55,060 --> 00:07:57,060
+Ab und zu, also bei Gelegenheit.
+
+128
+00:07:57,060 --> 00:08:01,060
+Aber ich bin jetzt nicht jemand, der Zigaretten kauft.
+
+129
+00:08:01,060 --> 00:08:03,060
+Okay, ich verstehe Sie.
+
+130
+00:08:03,060 --> 00:08:05,060
+Trinken Sie Alkohol?
+
+131
+00:08:05,060 --> 00:08:08,300
+Ich trinke Gelegenheit durch Alkohol.
+
+132
+00:08:08,300 --> 00:08:11,300
+Ja, und was meine Sie, geht Ihnen?
+
+133
+00:08:11,300 --> 00:08:13,300
+Feier, Feier, Geburtstag,
+
+134
+00:08:13,300 --> 00:08:15,300
+oder bei Weihnachten, oder?
+
+135
+00:08:15,300 --> 00:08:18,300
+Darf ich sagen, was trinken Sie?
+
+136
+00:08:18,300 --> 00:08:21,300
+Was es an gibt?
+
+137
+00:08:21,300 --> 00:08:23,300
+Ich weiß es nicht, ich glaube,
+
+138
+00:08:23,300 --> 00:08:25,300
+ob es Bier gibt, ob es Wein gibt,
+
+139
+00:08:25,300 --> 00:08:28,300
+und es kommt darauf an.
+
+140
+00:08:28,300 --> 00:08:30,300
+Danke, danke.
+
+141
+00:08:30,300 --> 00:08:32,300
+Das ist eine Routinefrage,
+
+142
+00:08:32,300 --> 00:08:34,300
+bitte nehmen Sie nicht persönlich.
+
+143
+00:08:34,300 --> 00:08:36,300
+Haben Sie Kontakt mit dem Drogen?
+
+144
+00:08:36,300 --> 00:08:38,300
+Jetzt aktuell?
+
+145
+00:08:38,300 --> 00:08:40,300
+Ja.
+
+146
+00:08:40,300 --> 00:08:42,300
+Ob ich droge, nein?
+
+147
+00:08:42,300 --> 00:08:46,300
+Ehrlich gesagt, ich interessiere mich für die vorherige auch.
+
+148
+00:08:46,300 --> 00:08:49,300
+Haben Sie, hatten Sie einen Kontakt mit dem Drogen?
+
+149
+00:08:49,300 --> 00:08:51,300
+Oder so seit, haben Sie Kontakt?
+
+150
+00:08:51,300 --> 00:08:53,300
+Also ich habe noch nie Drogen, oder?
+
+151
+00:08:53,300 --> 00:08:55,300
+Ja, ich habe noch nie.
+
+152
+00:08:55,300 --> 00:08:58,300
+Haben Sie interessieren sich für Drogen?
+
+153
+00:08:58,300 --> 00:09:00,300
+Das ist eine Routinefrage.
+
+154
+00:09:00,300 --> 00:09:02,300
+Ehrlich gesagt, ich habe jetzt...
+
+155
+00:09:02,300 --> 00:09:04,300
+Haben Sie interessieren sich für Drogen?
+
+156
+00:09:04,300 --> 00:09:06,300
+Ich?
+
+157
+00:09:06,300 --> 00:09:08,300
+Ja, dass Sie interessieren sich für Drogen.
+
+158
+00:09:08,300 --> 00:09:11,300
+Nein, habe ich nicht erlebt.
+
+159
+00:09:11,300 --> 00:09:14,300
+Aber ich habe in Deutschland gehört,
+
+160
+00:09:14,300 --> 00:09:17,300
+dass es ein sehr üblich ist.
+
+161
+00:09:17,300 --> 00:09:19,300
+Mit Drogen?
+
+162
+00:09:19,300 --> 00:09:21,300
+Ja, Drogen.
+
+163
+00:09:21,300 --> 00:09:24,300
+Ja, in der Türkei ist es nicht so häufig zu sehen,
+
+164
+00:09:24,300 --> 00:09:26,300
+aber hier in Deutschland in der Bau,
+
+165
+00:09:26,300 --> 00:09:28,300
+Hauptbahnhof oder etwas...
+
+166
+00:09:28,300 --> 00:09:30,300
+Ja?
+
+167
+00:09:30,300 --> 00:09:32,300
+Ich habe vielmals gesehen.
+
+168
+00:09:32,300 --> 00:09:34,300
+Okay.
+
+169
+00:09:34,300 --> 00:09:37,300
+Herr Bauch, lebt Ihre Eltern noch?
+
+170
+00:09:37,300 --> 00:09:39,300
+Beide leben noch, ja.
+
+171
+00:09:39,300 --> 00:09:41,300
+Das freut mich.
+
+172
+00:09:41,300 --> 00:09:43,300
+Leiden Sie an chronische Erkrankungen?
+
+173
+00:09:43,300 --> 00:09:46,300
+Ja, die haben beide einen Blutwuchdruck
+
+174
+00:09:46,300 --> 00:09:49,300
+und beide leiden an Diabetes.
+
+175
+00:09:49,300 --> 00:09:52,300
+Also, wenn Sie einen Zucker in den Kranken gucken.
+
+176
+00:09:52,300 --> 00:09:58,240
+Ja.
+
+177
+00:09:58,240 --> 00:10:01,240
+Was machen Sie wirklich in der Bau?
+
+178
+00:10:01,240 --> 00:10:03,240
+Ich bin Informatiker.
+
+179
+00:10:03,240 --> 00:10:05,240
+Informatiker, ja.
+
+180
+00:10:05,240 --> 00:10:07,240
+Wo arbeiten Sie?
+
+181
+00:10:07,240 --> 00:10:09,240
+Sie können mir sagen.
+
+182
+00:10:09,240 --> 00:10:11,240
+Das ist eine Firma in Köln.
+
+183
+00:10:11,240 --> 00:10:13,240
+Haben Sie Stress bei der Arbeit?
+
+184
+00:10:13,240 --> 00:10:16,550
+Geht so.
+
+185
+00:10:16,550 --> 00:10:19,550
+Es kann viel von zu Hause aus arbeiten.
+
+186
+00:10:19,550 --> 00:10:21,550
+Aber es ist in Ordnung.
+
+187
+00:10:21,550 --> 00:10:23,550
+Ich habe gerne eine.
+
+188
+00:10:23,550 --> 00:10:25,550
+Okay, vielen Dank.
+
+189
+00:10:25,550 --> 00:10:27,550
+Sie können sich tun, oder?
+
+190
+00:10:27,550 --> 00:10:29,550
+Es ist okay.
+
+191
+00:10:29,550 --> 00:10:31,550
+Ja, das freut mich.
+
+192
+00:10:31,550 --> 00:10:33,550
+Wie ist Ihre Familienstand, Herr Bauch?
+
+193
+00:10:33,550 --> 00:10:35,550
+Ich bin ledig.
+
+194
+00:10:35,550 --> 00:10:37,550
+Ledig? Ja.
+
+195
+00:10:37,550 --> 00:10:39,550
+Haben Sie Kinder?
+
+196
+00:10:39,550 --> 00:10:41,550
+Okay, das freut mich.
+
+197
+00:10:41,550 --> 00:10:43,550
+Vielen Dank für alle Informationen, Herr Bauch.
+
+198
+00:10:43,550 --> 00:10:45,550
+Jetzt würde ich gerne ein...
+
+199
+00:10:45,550 --> 00:10:47,550
+Was glauben Sie, dass ich das habe?
+
+200
+00:10:47,550 --> 00:10:49,550
+Ja, wenn...
+
+201
+00:10:49,550 --> 00:10:51,550
+In erster Linie werde ich jetzt
+
+202
+00:10:51,550 --> 00:10:53,550
+eine kleine Zusammenfassung machen.
+
+203
+00:10:53,550 --> 00:10:56,550
+Wenn ich etwas falsch sagte,
+
+204
+00:10:56,550 --> 00:10:59,550
+oder wenn Sie etwas korrigieren möchte,
+
+205
+00:10:59,550 --> 00:11:01,550
+bitte sagen Sie mir Bescheid.
+
+206
+00:11:01,550 --> 00:11:04,550
+Sie haben seit drei Tagen Bauchschmerzen.
+
+207
+00:11:04,550 --> 00:11:07,550
+Es fang mit dem Nabelbereich.
+
+208
+00:11:07,550 --> 00:11:09,550
+Aber im Laufe der Zeit,
+
+209
+00:11:09,550 --> 00:11:12,550
+diese Schmerzen waren in den Rechtern unter Bauch.
+
+210
+00:11:12,550 --> 00:11:14,550
+Sie leiden...
+
+211
+00:11:14,550 --> 00:11:17,550
+Das ist ein Oberbauchbereich, das angefangen ist.
+
+212
+00:11:17,550 --> 00:11:19,550
+Ja, das ist ein Oberbauchbereich.
+
+213
+00:11:19,550 --> 00:11:21,550
+Ja, das ist ein Oberbauchbereich.
+
+214
+00:11:21,550 --> 00:11:23,550
+Aber diese Schmerzen sind dunkel,
+
+215
+00:11:23,550 --> 00:11:25,550
+dunkel und sterb.
+
+216
+00:11:25,550 --> 00:11:28,550
+Und eine Schmerzskalarbeit ist 7 Lege.
+
+217
+00:11:28,550 --> 00:11:30,550
+Sie leiden unter Übelkeit,
+
+218
+00:11:30,550 --> 00:11:32,550
+aber mussten Sie sich nicht übergeben.
+
+219
+00:11:32,550 --> 00:11:34,550
+Sie haben keine phabri-
+
+220
+00:11:34,550 --> 00:11:36,550
+ländische Papieränderung.
+
+221
+00:11:36,550 --> 00:11:38,550
+Sie haben auch Durchfahrt,
+
+222
+00:11:38,550 --> 00:11:40,550
+wässig und Probleme beim Wasserlassen.
+
+223
+00:11:40,550 --> 00:11:42,550
+Sie sind ein bisschen brennend.
+
+224
+00:11:42,550 --> 00:11:44,550
+Sie haben auch Durchfahrt, wässig und Probleme beim Wasserlassen.
+
+225
+00:11:44,550 --> 00:11:46,550
+Sie haben auch Durchfahrt, wässig und Probleme beim Wasserlassen.
+
+226
+00:11:46,550 --> 00:11:48,550
+Sie möchten etwas hinzufügen?
+
+227
+00:11:48,550 --> 00:11:50,550
+Oder möchten Sie mich korrigieren?
+
+228
+00:11:50,550 --> 00:11:52,550
+Nein, eigentlich nicht.
+
+229
+00:11:52,550 --> 00:11:54,550
+Ich bin nur neugierig, was ich habe.
+
+230
+00:11:54,550 --> 00:11:56,550
+Ja, ich habe eine Verdacht gesteckt.
+
+231
+00:11:56,550 --> 00:11:59,550
+Aber ich brauche die andere zweite Witter
+
+232
+00:11:59,550 --> 00:12:01,550
+für meine Untersuchungen.
+
+233
+00:12:01,550 --> 00:12:03,550
+Das bedeutet, ich würde gerne Sie
+
+234
+00:12:03,550 --> 00:12:05,550
+körperisch untersuchen,
+
+235
+00:12:05,550 --> 00:12:07,550
+dann Ihnen Blut abnehmen
+
+236
+00:12:07,550 --> 00:12:09,550
+und eine Sonografie durchführen
+
+237
+00:12:09,550 --> 00:12:11,550
+für Ihre Bauchschmerzen.
+
+238
+00:12:11,550 --> 00:12:13,550
+Aber mein Verdacht...
+
+239
+00:12:13,550 --> 00:12:15,550
+Eine was?
+
+240
+00:12:15,550 --> 00:12:17,550
+Ultraschall, Bauchultraschall, ich meine,
+
+241
+00:12:17,550 --> 00:12:19,550
+das ist eine Untersuchungsmethode,
+
+242
+00:12:19,550 --> 00:12:21,550
+Bildgebirgene.
+
+243
+00:12:21,550 --> 00:12:23,550
+Und mit Hilfe dieser Ultraschall
+
+244
+00:12:23,550 --> 00:12:25,550
+können wir inneren Organe genauer
+
+245
+00:12:25,550 --> 00:12:27,550
+sehen und bewutzeilen,
+
+246
+00:12:27,550 --> 00:12:29,550
+wie Nieren, Milz oder Bauch.
+
+247
+00:12:29,550 --> 00:12:31,550
+Eine Bauchspiegel?
+
+248
+00:12:31,550 --> 00:12:33,550
+Es ist nicht so.
+
+249
+00:12:33,550 --> 00:12:36,550
+Es ist nicht stehende Untersuchungen.
+
+250
+00:12:36,550 --> 00:12:38,550
+Wir haben eine Schall,
+
+251
+00:12:38,550 --> 00:12:40,550
+Kopfschall,
+
+252
+00:12:40,550 --> 00:12:42,550
+und wir beruhigen Ihre Bauch
+
+253
+00:12:42,550 --> 00:12:44,550
+mit diesem Schall, mit der Kontaktgähn.
+
+254
+00:12:44,550 --> 00:12:46,550
+Es ist nicht wie ein Spiegelung.
+
+255
+00:12:46,550 --> 00:12:48,550
+Also keine Lakose oder so was?
+
+256
+00:12:48,550 --> 00:12:50,550
+Nein, nein, nein, nein, nein.
+
+257
+00:12:50,550 --> 00:12:52,550
+Das dauert ungefähr zehn Minuten.
+
+258
+00:12:52,550 --> 00:12:54,550
+Schmerzlos, strahlendose Therapie.
+
+259
+00:12:54,550 --> 00:12:56,550
+Machen Sie das in der Ambulanz?
+
+260
+00:12:56,550 --> 00:12:58,550
+Ja, können wir diese machen hier in der Ambulanz.
+
+261
+00:12:58,550 --> 00:13:00,550
+Wir haben Geräte für das.
+
+262
+00:13:00,550 --> 00:13:02,550
+Und wenn alle
+
+263
+00:13:02,550 --> 00:13:04,550
+befunden vorliegen,
+
+264
+00:13:04,550 --> 00:13:06,550
+komme ich zu Ihnen und
+
+265
+00:13:06,550 --> 00:13:08,550
+wir sprechen über Ihren Fall.
+
+266
+00:13:08,550 --> 00:13:10,550
+Ihren Risikation.
+
+267
+00:13:10,550 --> 00:13:12,550
+Haben Sie schon alle Verdacht,
+
+268
+00:13:12,550 --> 00:13:14,550
+dass Sie sich in der Ambulanz
+
+269
+00:13:14,550 --> 00:13:16,550
+verhindern?
+
+270
+00:13:16,550 --> 00:13:18,550
+Ja, ich habe fast vergessen.
+
+271
+00:13:18,550 --> 00:13:20,550
+Ich habe einen Verdacht auf
+
+272
+00:13:20,550 --> 00:13:22,550
+diese
+
+273
+00:13:22,550 --> 00:13:24,550
+Handweginfekt
+
+274
+00:13:24,550 --> 00:13:26,550
+oder
+
+275
+00:13:26,550 --> 00:13:28,550
+Blinddarm Entzündung.
+
+276
+00:13:28,550 --> 00:13:30,550
+Aber Sie haben
+
+277
+00:13:30,550 --> 00:13:32,550
+keinen Fieber gemessen.
+
+278
+00:13:32,550 --> 00:13:34,550
+Das bedeutet,
+
+279
+00:13:34,550 --> 00:13:36,550
+sollte ich jetzt Ihre Vitalparameter.
+
+280
+00:13:36,550 --> 00:13:38,550
+Bei Blinddarm Entzündung,
+
+281
+00:13:38,550 --> 00:13:40,550
+das heißt, der muss operiert werden?
+
+282
+00:13:40,550 --> 00:13:42,550
+Ja, jeder Blinddarm Entzündung
+
+283
+00:13:42,550 --> 00:13:44,550
+muss nicht operiert werden.
+
+284
+00:13:44,550 --> 00:13:46,550
+Bei der Ultraschall
+
+285
+00:13:46,550 --> 00:13:48,550
+können wir diese
+
+286
+00:13:48,550 --> 00:13:50,550
+Duschmessung der Blinddarm messen.
+
+287
+00:13:50,550 --> 00:13:52,550
+Wenn es mehr als
+
+288
+00:13:52,550 --> 00:13:54,550
+1 cm,
+
+289
+00:13:54,550 --> 00:13:56,550
+leider sollten Sie operiert werden.
+
+290
+00:13:56,550 --> 00:13:58,550
+Aber weniger
+
+291
+00:13:58,550 --> 00:14:00,550
+7 oder 6 cm.
+
+292
+00:14:00,550 --> 00:14:02,550
+Das bedeutet, wir können mit Antibiotherapika
+
+293
+00:14:02,550 --> 00:14:04,550
+oder mit Flüssigkeitstherapie
+
+294
+00:14:04,550 --> 00:14:06,550
+hier behandeln.
+
+295
+00:14:06,550 --> 00:14:08,550
+Ich habe mal gehört,
+
+296
+00:14:08,550 --> 00:14:10,550
+der
+
+297
+00:14:10,550 --> 00:14:12,550
+Vater von meinem
+
+298
+00:14:12,550 --> 00:14:14,550
+Bekannten
+
+299
+00:14:14,550 --> 00:14:16,550
+ist mal an einem blinddarm Durchbruch gestorben.
+
+300
+00:14:16,550 --> 00:14:18,550
+Das ist gefährlich, oder?
+
+301
+00:14:18,550 --> 00:14:20,550
+Ja, leider würde ich sagen,
+
+302
+00:14:20,550 --> 00:14:22,550
+das ist dann gefährlich.
+
+303
+00:14:22,550 --> 00:14:24,550
+Aber Sie haben
+
+304
+00:14:24,550 --> 00:14:26,550
+Platz für Blinddarm.
+
+305
+00:14:26,550 --> 00:14:28,550
+Sie haben per Vorrat.
+
+306
+00:14:28,550 --> 00:14:30,550
+Ich konnte nicht,
+
+307
+00:14:30,550 --> 00:14:32,550
+Sie genauer
+
+308
+00:14:32,550 --> 00:14:34,550
+verstehen.
+
+309
+00:14:34,550 --> 00:14:36,550
+Der hat einen blinddarm Durchbruch gehabt.
+
+310
+00:14:36,550 --> 00:14:38,550
+Dann hat der einen Schein
+
+311
+00:14:38,550 --> 00:14:40,550
+eine Vergiftung gehabt
+
+312
+00:14:40,550 --> 00:14:42,550
+und ist dann gestorben.
+
+313
+00:14:42,550 --> 00:14:44,550
+Das ist ja dann auch gefährlich, oder?
+
+314
+00:14:44,550 --> 00:14:46,550
+Ja, das ist sehr gefährlich.
+
+315
+00:14:46,550 --> 00:14:48,550
+Aber wir werden
+
+316
+00:14:48,550 --> 00:14:50,550
+jetzt Labor untersuchen,
+
+317
+00:14:50,550 --> 00:14:52,550
+wenn es um eine Entzündung gibt.
+
+318
+00:14:52,550 --> 00:14:54,550
+Und auch
+
+319
+00:14:54,550 --> 00:14:56,550
+eine Bauchultraschall durchführen.
+
+320
+00:14:56,550 --> 00:14:58,550
+Und das Rauschen
+
+321
+00:14:58,550 --> 00:15:00,550
+und Bauchultraschall?
+
+322
+00:15:00,550 --> 00:15:02,550
+Damit wir sehr genau sehen.
+
+323
+00:15:02,550 --> 00:15:04,550
+Da muss man nicht
+
+324
+00:15:04,550 --> 00:15:06,550
+rüber gehen,
+
+325
+00:15:06,550 --> 00:15:08,550
+das braucht man nicht.
+
+326
+00:15:08,550 --> 00:15:10,550
+Es ist nicht erforderlich, aber
+
+327
+00:15:10,550 --> 00:15:12,550
+wenn wir bei der Bauchultraschall
+
+328
+00:15:12,550 --> 00:15:14,550
+keine wesentliche Befunde bekommen,
+
+329
+00:15:14,550 --> 00:15:16,550
+können wir
+
+330
+00:15:16,550 --> 00:15:18,550
+diese Computertomographie durchführen.
+
+331
+00:15:18,550 --> 00:15:20,550
+Also ich bitte Sie,
+
+332
+00:15:20,550 --> 00:15:22,550
+wirklich alles durchzuchecken bei mir.
+
+333
+00:15:22,550 --> 00:15:24,550
+Ja, ja, ja.
+
+334
+00:15:24,550 --> 00:15:26,550
+Machen Sie sich keine Sorge, Sie sind bei mir.
+
+335
+00:15:26,550 --> 00:15:28,550
+Also ich möchte hier,
+
+336
+00:15:28,550 --> 00:15:30,550
+ich kann auch hier bleiben, im Kanton ausbleiben.
+
+337
+00:15:30,550 --> 00:15:32,550
+Ich habe kein Problem damit.
+
+338
+00:15:32,550 --> 00:15:34,550
+Das ist bei mir einmal.
+
+339
+00:15:34,550 --> 00:15:36,550
+Vielen Dank für Ihr Verständnis.
+
+340
+00:15:36,550 --> 00:15:38,550
+Aufmerksamkeit,
+
+341
+00:15:38,550 --> 00:15:40,550
+ich mache keine Sorge, Sie sind bei uns in guten Händen.
+
+342
+00:15:40,550 --> 00:15:42,550
+Jetzt werde ich
+
+343
+00:15:42,550 --> 00:15:44,550
+Ihrem Fall mit meinem Chef ansprechen.
+
+344
+00:15:44,550 --> 00:15:46,550
+Ist der auch hier?
+
+345
+00:15:46,550 --> 00:15:48,550
+Ja, ja.
+
+346
+00:15:48,550 --> 00:15:50,550
+Kann ich Ihnen auch gleich sprechen?
+
+347
+00:15:50,550 --> 00:15:52,550
+Ich würde auch.
+
+348
+00:15:52,550 --> 00:15:54,550
+Ja.
+
+349
+00:15:54,550 --> 00:15:56,550
+Ich kann nicht sagen,
+
+350
+00:15:56,550 --> 00:15:58,550
+dass Sie nicht aufmerksam sind.
+
+351
+00:15:58,550 --> 00:16:00,550
+Natürlich.
+
+352
+00:16:00,550 --> 00:16:02,550
+Natürlich können Sie sprechen, aber
+
+353
+00:16:02,550 --> 00:16:04,550
+wir sind hier
+
+354
+00:16:04,550 --> 00:16:06,550
+als Teamarbeiten.
+
+355
+00:16:06,550 --> 00:16:08,550
+Und wenn ich Ihre
+
+356
+00:16:08,550 --> 00:16:10,550
+Fall zu meinem Chefarzt erzählen,
+
+357
+00:16:10,550 --> 00:16:12,550
+können Sie
+
+358
+00:16:12,550 --> 00:16:14,550
+auch mit ihm sprechen.
+
+359
+00:16:14,550 --> 00:16:16,550
+Okay.
+
+360
+00:16:16,550 --> 00:16:18,550
+Ich dachte, nur Privatpatienten können mit dem Chef
+
+361
+00:16:18,550 --> 00:16:20,550
+Arzt sprechen.
+
+362
+00:16:20,550 --> 00:16:22,550
+Deswegen.
+
+363
+00:16:22,550 --> 00:16:24,550
+Wir sind hier Arzt und unsere Pflicht,
+
+364
+00:16:24,550 --> 00:16:26,550
+um Patienten zu kümmen.
+
+365
+00:16:26,550 --> 00:16:28,550
+Okay.
+
+366
+00:16:28,550 --> 00:16:30,550
+Ich fühle mich gut aufgehoben hier.
+
+367
+00:16:30,550 --> 00:16:32,550
+Dankeschön.
+
+368
+00:16:32,550 --> 00:16:34,550
+Das freut mich.
+
+369
+00:16:34,550 --> 00:16:38,470
+Soll ich Sie hier warten?
+
+370
+00:16:38,470 --> 00:16:40,470
+Ja, Sie warten bitte.
+
+371
+00:16:40,470 --> 00:16:42,470
+Sie hier.
+
+372
+00:16:42,470 --> 00:16:44,470
+Ich komme in 5 Minuten,
+
+373
+00:16:44,470 --> 00:16:46,470
+um Sie zu untersuchen.
+
+374
+00:16:46,470 --> 00:16:48,470
+Dann, ja, okay.
+
+375
+00:16:48,470 --> 00:16:52,620
+Haben Kollegen oder Kollegen
+
+376
+00:16:52,620 --> 00:16:54,620
+eine andere Frage?
+
+377
+00:16:54,620 --> 00:16:56,620
+Ich erweite.
+
+378
+00:16:56,620 --> 00:16:58,620
+Ja, ich will.
+
+379
+00:16:58,620 --> 00:17:00,620
+Sind Sie
+
+380
+00:17:00,620 --> 00:17:02,620
+vollständig gegen Corona?
+
+381
+00:17:02,620 --> 00:17:04,620
+Ich bin vollständig gegen Corona.
+
+382
+00:17:04,620 --> 00:17:06,620
+Ja.
+
+383
+00:17:06,620 --> 00:17:08,620
+Und noch eine.
+
+384
+00:17:08,620 --> 00:17:10,620
+Haben Sie Geschwister?
+
+385
+00:17:10,620 --> 00:17:12,620
+Ich bin Einzelkind.
+
+386
+00:17:12,620 --> 00:17:14,620
+Okay.
+
+387
+00:17:14,620 --> 00:17:16,620
+Ist das möglich,
+
+388
+00:17:16,620 --> 00:17:18,620
+dass Sie in der Lesterzeit
+
+389
+00:17:18,620 --> 00:17:20,620
+verdorben etwas gegessen?
+
+390
+00:17:20,620 --> 00:17:22,620
+Kann ich mich nicht daran erinnern.
+
+391
+00:17:22,620 --> 00:17:24,620
+Ich erhebe mich eigentlich immer
+
+392
+00:17:24,620 --> 00:17:27,860
+gleich
+
+393
+00:17:27,860 --> 00:17:29,860
+und versuche mich gesund zu ändern.
+
+394
+00:17:29,860 --> 00:17:31,860
+Ich fahre mich draußen
+
+395
+00:17:31,860 --> 00:17:33,860
+im Restaurant.
+
+396
+00:17:33,860 --> 00:17:35,860
+Dankeschön.
+
+397
+00:17:35,860 --> 00:17:37,860
+Ich habe auch nicht im Ausland.
+
+398
+00:17:37,860 --> 00:17:39,860
+Ich habe auch eine Frage über
+
+399
+00:17:39,860 --> 00:17:41,860
+gehen Sie auf die Toilette?
+
+400
+00:17:41,860 --> 00:17:43,860
+Oder haben Sie bemerkt,
+
+401
+00:17:43,860 --> 00:17:45,860
+dass Sie mehrmals auf die Toilette gehen?
+
+402
+00:17:45,860 --> 00:17:47,860
+Nein.
+
+403
+00:17:47,860 --> 00:17:49,860
+Nein, ich.
+
+404
+00:17:49,860 --> 00:17:51,860
+Ich fahre auch nicht im Ausland.
+
+405
+00:17:51,860 --> 00:17:53,860
+Und
+
+406
+00:17:53,860 --> 00:17:55,860
+wir müssen eben
+
+407
+00:17:55,860 --> 00:17:57,860
+von Fern dosieren.
+
+408
+00:17:57,860 --> 00:17:59,860
+Wie oft habe ich das eingenommen?
+
+409
+00:17:59,860 --> 00:18:01,860
+Wie viele Milligramm
+
+410
+00:18:01,860 --> 00:18:03,860
+und wie oft?
+
+411
+00:18:03,860 --> 00:18:05,860
+Ich habe die
+
+412
+00:18:05,860 --> 00:18:07,860
+frei verkäuft, die ich in der Apotheke geholt habe.
+
+413
+00:18:07,860 --> 00:18:09,860
+Das sind glaube ich 400 Milligramm.
+
+414
+00:18:09,860 --> 00:18:11,860
+Ich habe 2-3 Stück eingenommen.
+
+415
+00:18:11,860 --> 00:18:13,860
+Vielleicht
+
+416
+00:18:13,860 --> 00:18:15,860
+als 2 oder 3 erinnere ich mich nicht ganz genau.
+
+417
+00:18:15,860 --> 00:18:17,860
+Wenn Sie
+
+418
+00:18:17,860 --> 00:18:19,860
+im Fern eingenommen,
+
+419
+00:18:19,860 --> 00:18:21,860
+dann haben Sie
+
+420
+00:18:21,860 --> 00:18:30,340
+die
+
+421
+00:18:30,340 --> 00:18:32,340
+Bemerkungen, die Sie eingenommen haben,
+
+422
+00:18:32,340 --> 00:18:34,340
+das sind besser geworden.
+
+423
+00:18:34,340 --> 00:18:36,340
+Komplett weg?
+
+424
+00:18:36,340 --> 00:18:40,190
+Nicht komplett.
+
+425
+00:18:40,190 --> 00:18:42,190
+Aber besser.
+
+426
+00:18:42,190 --> 00:18:44,190
+Die
+
+427
+00:18:44,190 --> 00:18:46,190
+sind immer
+
+428
+00:18:46,190 --> 00:18:48,190
+dünn,
+
+429
+00:18:48,190 --> 00:18:50,190
+sehr fähig.
+
+430
+00:18:50,190 --> 00:18:52,190
+Die sind immer
+
+431
+00:18:52,190 --> 00:18:54,190
+dünn,
+
+432
+00:18:54,190 --> 00:18:56,190
+sehr fähig.
+
+433
+00:18:56,190 --> 00:18:58,190
+Nein, nein.
+
+434
+00:18:58,190 --> 00:19:00,190
+Sie sind immer
+
+435
+00:19:00,190 --> 00:19:02,190
+da, dumpf
+
+436
+00:19:02,190 --> 00:19:04,190
+und manchmal stechend.
+
+437
+00:19:04,190 --> 00:19:06,190
+Wenn ich mich bewege,
+
+438
+00:19:06,190 --> 00:19:08,190
+wenn ich treppen steige,
+
+439
+00:19:08,190 --> 00:19:10,190
+dann tut es weh.
+
+440
+00:19:10,190 --> 00:19:12,190
+Wenn ich belaste so ein bisschen.
+
+441
+00:19:12,190 --> 00:19:14,190
+Jetzt momentan,
+
+442
+00:19:14,190 --> 00:19:16,190
+wo die Schmelzen am Stechsten sind?
+
+443
+00:19:16,190 --> 00:19:18,190
+Die sind momentan
+
+444
+00:19:18,190 --> 00:19:20,190
+im rechten Unterbau am stärksten.
+
+445
+00:19:20,190 --> 00:19:22,190
+Danke schön.
+
+446
+00:19:22,190 --> 00:19:24,190
+Wenn ich so drauf drücke,
+
+447
+00:19:24,190 --> 00:19:27,820
+dann tut das richtig weh.
+
+448
+00:19:27,820 --> 00:19:29,820
+Wie ist Ihre Appetit?
+
+449
+00:19:29,820 --> 00:19:31,820
+Gut.
+
+450
+00:19:31,820 --> 00:19:37,570
+Hat sich nicht verändert.
+
+451
+00:19:37,570 --> 00:19:39,570
+Können wir anfangen als Schiprae?
+
+452
+00:19:39,570 --> 00:19:41,570
+Ja.
+
+453
+00:19:41,570 --> 00:19:43,570
+Bitte schön.
+
+454
+00:19:43,570 --> 00:19:45,570
+Guten Morgen, Herr Oberarzt.
+
+455
+00:19:45,570 --> 00:19:47,570
+Ich habe gerade einen neuen Patientin gesehen
+
+456
+00:19:47,570 --> 00:19:49,570
+und würde gerne
+
+457
+00:19:49,570 --> 00:19:51,570
+Ihnen vorstellen.
+
+458
+00:19:51,570 --> 00:19:53,570
+Haben Sie Zeit für mich?
+
+459
+00:19:53,570 --> 00:19:55,570
+Ja.
+
+460
+00:19:55,570 --> 00:19:57,570
+Herr Trommersbau,
+
+461
+00:19:57,570 --> 00:19:59,570
+Sie ist 41 Jahre alt
+
+462
+00:19:59,570 --> 00:20:01,570
+und ist ein...
+
+463
+00:20:01,570 --> 00:20:03,570
+41 Jahre alt
+
+464
+00:20:03,570 --> 00:20:05,570
+und ist am
+
+465
+00:20:05,570 --> 00:20:07,570
+25.
+
+466
+00:20:07,570 --> 00:20:09,570
+1982 gebohnt.
+
+467
+00:20:09,570 --> 00:20:11,570
+Er ist 1,71 Meter groß
+
+468
+00:20:11,570 --> 00:20:13,570
+und 85 kg schwer.
+
+469
+00:20:13,570 --> 00:20:15,570
+Herr Baustellte sich heute bei uns
+
+470
+00:20:15,570 --> 00:20:17,570
+wegen vor zwei Tagen
+
+471
+00:20:17,570 --> 00:20:19,570
+plus sich aufgetretene,
+
+472
+00:20:19,570 --> 00:20:21,570
+progredierende,
+
+473
+00:20:21,570 --> 00:20:23,570
+dumpferstechende
+
+474
+00:20:23,570 --> 00:20:25,570
+Oberbauschmerzen
+
+475
+00:20:25,570 --> 00:20:27,570
+vor.
+
+476
+00:20:27,570 --> 00:20:29,570
+Er gab an, dass die Schmerzen
+
+477
+00:20:29,570 --> 00:20:31,570
+im Oberbau aufgetreten
+
+478
+00:20:31,570 --> 00:20:33,570
+seien, aber im Laufe der Zeit
+
+479
+00:20:33,570 --> 00:20:35,570
+waren die Schmerzen
+
+480
+00:20:35,570 --> 00:20:37,570
+in den rechtern unteren
+
+481
+00:20:37,570 --> 00:20:39,570
+Bauch gewandert.
+
+482
+00:20:39,570 --> 00:20:41,570
+Und
+
+483
+00:20:41,570 --> 00:20:43,570
+die Schmerzen würden auf
+
+484
+00:20:43,570 --> 00:20:45,570
+einer Schmerzskala
+
+485
+00:20:45,570 --> 00:20:47,570
+bei sieben liegen ohne Ausstrahlung.
+
+486
+00:20:47,570 --> 00:20:49,570
+Er
+
+487
+00:20:49,570 --> 00:20:51,570
+klagte
+
+488
+00:20:51,570 --> 00:20:53,570
+Klage über
+
+489
+00:20:53,570 --> 00:20:55,570
+Übelkeit ohne Emesis
+
+490
+00:20:55,570 --> 00:20:57,570
+und auch
+
+491
+00:20:57,570 --> 00:20:59,570
+die Zufriedenheit
+
+492
+00:20:59,570 --> 00:21:01,570
+und einmalige Diarrheur.
+
+493
+00:21:01,570 --> 00:21:03,570
+Er ist wässrig
+
+494
+00:21:03,570 --> 00:21:05,570
+ohne erkennbares Blut.
+
+495
+00:21:05,570 --> 00:21:07,570
+Und
+
+496
+00:21:07,570 --> 00:21:09,570
+er sagte,
+
+497
+00:21:09,570 --> 00:21:11,570
+dass die Schmerzen bei der Bewegung
+
+498
+00:21:11,570 --> 00:21:13,570
+besonders beim Treppensteigen
+
+499
+00:21:13,570 --> 00:21:15,570
+immer schlimmer geworden seien.
+
+500
+00:21:15,570 --> 00:21:17,570
+Hermaturgie
+
+501
+00:21:17,570 --> 00:21:19,570
+Icterus
+
+502
+00:21:19,570 --> 00:21:21,570
+und
+
+503
+00:21:21,570 --> 00:21:23,570
+Melena wurden von den Patienten
+
+504
+00:21:23,570 --> 00:21:25,570
+verneint.
+
+505
+00:21:25,570 --> 00:21:27,570
+Er war
+
+506
+00:21:27,570 --> 00:21:29,570
+nicht gemessen
+
+507
+00:21:29,570 --> 00:21:31,570
+und hatte keine Probleme
+
+508
+00:21:31,570 --> 00:21:33,570
+mit B-Sympathie.
+
+509
+00:21:33,570 --> 00:21:35,570
+Er ist unauffällig.
+
+510
+00:21:35,570 --> 00:21:37,570
+Und
+
+511
+00:21:37,570 --> 00:21:39,570
+bei den Patienten
+
+512
+00:21:39,570 --> 00:21:41,570
+seien keine Vorerkrankungen,
+
+513
+00:21:41,570 --> 00:21:43,570
+bis her bekannt.
+
+514
+00:21:43,570 --> 00:21:45,570
+Er
+
+515
+00:21:45,570 --> 00:21:47,570
+nehmt keine Dauermedikation.
+
+516
+00:21:47,570 --> 00:21:49,570
+Bei den Patienten
+
+517
+00:21:49,570 --> 00:21:51,570
+wurden
+
+518
+00:21:51,570 --> 00:21:53,570
+mit 10. Lebensjahr
+
+519
+00:21:53,570 --> 00:21:55,570
+ein Ponsylektomö durchgeführt.
+
+520
+00:21:55,570 --> 00:21:57,570
+Er sei allergisch
+
+521
+00:21:57,570 --> 00:21:59,570
+auf Haus, Stau
+
+522
+00:21:59,570 --> 00:22:01,570
+und RB, Provitus und Renitis
+
+523
+00:22:01,570 --> 00:22:03,570
+dagegen.
+
+524
+00:22:03,570 --> 00:22:05,570
+Er sei
+
+525
+00:22:05,570 --> 00:22:07,570
+nicht rauchig, er trinke
+
+526
+00:22:07,570 --> 00:22:09,570
+ab und zu ein Fleisch Bier,
+
+527
+00:22:09,570 --> 00:22:11,570
+Drogenkonsum von den Patienten
+
+528
+00:22:11,570 --> 00:22:13,570
+verneint.
+
+529
+00:22:13,570 --> 00:22:15,570
+In der Familie
+
+530
+00:22:15,570 --> 00:22:17,570
+in der Anamnese ergab sich Folgendes.
+
+531
+00:22:17,570 --> 00:22:19,570
+Beide
+
+532
+00:22:19,570 --> 00:22:21,570
+Familienmitglied leiden
+
+533
+00:22:21,570 --> 00:22:23,570
+mit der Hypertonie
+
+534
+00:22:23,570 --> 00:22:25,570
+und Diabetes mellitus.
+
+535
+00:22:25,570 --> 00:22:27,570
+Er
+
+536
+00:22:27,570 --> 00:22:29,570
+war Informatiker
+
+537
+00:22:29,570 --> 00:22:31,570
+bei einer Firma in Köln.
+
+538
+00:22:31,570 --> 00:22:33,570
+Er sei ledig
+
+539
+00:22:33,570 --> 00:22:35,570
+und
+
+540
+00:22:35,570 --> 00:22:37,570
+hat keine Kinder.
+
+541
+00:22:37,570 --> 00:22:39,570
+An amnestische Angaben
+
+542
+00:22:39,570 --> 00:22:41,570
+deuten am 1. auf
+
+543
+00:22:41,570 --> 00:22:43,570
+eine Urolithiasis
+
+544
+00:22:43,570 --> 00:22:45,570
+hin.
+
+545
+00:22:45,570 --> 00:22:47,570
+Als differential Diagnotisch
+
+546
+00:22:47,570 --> 00:22:49,570
+kommt
+
+547
+00:22:49,570 --> 00:22:51,570
+akute Apandesitis in den Tracht.
+
+548
+00:22:51,570 --> 00:22:53,570
+Meine
+
+549
+00:22:53,570 --> 00:22:55,570
+Verdachtdiagnose bestätigen
+
+550
+00:22:55,570 --> 00:22:57,570
+werde ich Folgende Untersuchungen durchführen.
+
+551
+00:22:57,570 --> 00:22:59,570
+Er ist mal körperliche Untersuchungen.
+
+552
+00:22:59,570 --> 00:23:01,570
+Ich
+
+553
+00:23:01,570 --> 00:23:03,570
+meine Klopfschmerzen
+
+554
+00:23:03,570 --> 00:23:05,570
+in der rechten und linke Flanke
+
+555
+00:23:05,570 --> 00:23:07,570
+und los lasse Schmerzen bei der Rechtern
+
+556
+00:23:07,570 --> 00:23:09,570
+unter Bau.
+
+557
+00:23:09,570 --> 00:23:11,570
+Obwärtsspannung werde ich durchführen.
+
+558
+00:23:11,570 --> 00:23:13,570
+Als
+
+559
+00:23:13,570 --> 00:23:15,570
+Laborparameter werde ich Blutbild,
+
+560
+00:23:15,570 --> 00:23:17,570
+Entzündungsparameter, Leber-
+
+561
+00:23:17,570 --> 00:23:19,570
+und
+
+562
+00:23:19,570 --> 00:23:21,570
+Urinstatus und Urinkultur
+
+563
+00:23:21,570 --> 00:23:23,570
+durchführen.
+
+564
+00:23:23,570 --> 00:23:25,570
+Urinkultur
+
+565
+00:23:25,570 --> 00:23:27,570
+ist nicht so erforderlich,
+
+566
+00:23:27,570 --> 00:23:29,570
+aber bei der Antibiotika
+
+567
+00:23:29,570 --> 00:23:31,570
+können wir diese
+
+568
+00:23:31,570 --> 00:23:33,570
+auch auf diese Akten.
+
+569
+00:23:33,570 --> 00:23:35,570
+Dann werde ich
+
+570
+00:23:35,570 --> 00:23:37,570
+Sonografieabdomen durchführen, um
+
+571
+00:23:37,570 --> 00:23:39,570
+meine Differenzialdiagnose
+
+572
+00:23:39,570 --> 00:23:41,570
+auszuschließen.
+
+573
+00:23:41,570 --> 00:23:43,570
+Zum Beispiel, Haumark Infekt,
+
+574
+00:23:43,570 --> 00:23:45,570
+Pyronephritis und Akute Apandesitis
+
+575
+00:23:45,570 --> 00:23:47,570
+werden wir
+
+576
+00:23:47,570 --> 00:23:49,570
+in der Rechtern
+
+577
+00:23:49,570 --> 00:23:51,570
+durchführen.
+
+578
+00:23:51,570 --> 00:23:53,570
+Es gibt eine geringe Möglichkeit
+
+579
+00:23:53,570 --> 00:23:55,570
+um diese Steine
+
+580
+00:23:55,570 --> 00:23:57,570
+zu sehen.
+
+581
+00:23:57,570 --> 00:23:59,570
+Gegebenenfalls
+
+582
+00:23:59,570 --> 00:24:01,570
+werde ich
+
+583
+00:24:01,570 --> 00:24:03,570
+eine Computer-Tomographie
+
+584
+00:24:03,570 --> 00:24:05,570
+durchführen.
+
+585
+00:24:05,570 --> 00:24:07,570
+Ja,
+
+586
+00:24:07,570 --> 00:24:09,570
+ja,
+
+587
+00:24:09,570 --> 00:24:11,570
+das ist
+
+588
+00:24:11,570 --> 00:24:13,570
+alles.
+
+589
+00:24:13,570 --> 00:24:15,570
+Was meinen Sie, Herr Oberatz?
+
+590
+00:24:15,570 --> 00:24:17,570
+Was glauben Sie denn eher?
+
+591
+00:24:17,570 --> 00:24:19,570
+Er hat
+
+592
+00:24:19,570 --> 00:24:21,570
+beschrieben, dass er
+
+593
+00:24:21,570 --> 00:24:23,570
+umfischwärzend hat,
+
+594
+00:24:23,570 --> 00:24:25,570
+mit ab und zu stechendem Charakter,
+
+595
+00:24:25,570 --> 00:24:27,570
+wie er auch provozieren kann,
+
+596
+00:24:27,570 --> 00:24:29,570
+wenn er treppen läuft.
+
+597
+00:24:29,570 --> 00:24:31,570
+Ja, bei der die Bürger sind.
+
+598
+00:24:31,570 --> 00:24:33,570
+Ist er eher so für Urulutiasis
+
+599
+00:24:33,570 --> 00:24:35,570
+oder passt das eher doch
+
+600
+00:24:35,570 --> 00:24:37,570
+zu einer Apandesitis?
+
+601
+00:24:37,570 --> 00:24:39,570
+Schließt
+
+602
+00:24:39,570 --> 00:24:41,570
+ein Haarenwegsinfekt
+
+603
+00:24:41,570 --> 00:24:43,570
+und geht es aus?
+
+604
+00:24:43,570 --> 00:24:45,570
+Oder kann das beides auftreten?
+
+605
+00:24:45,570 --> 00:24:47,570
+Könnte es beides auftreten,
+
+606
+00:24:47,570 --> 00:24:49,570
+aber im Erzterlinie
+
+607
+00:24:49,570 --> 00:24:51,570
+habe ich diese
+
+608
+00:24:51,570 --> 00:24:53,570
+gewusst,
+
+609
+00:24:53,570 --> 00:24:55,570
+dass bei der Bewegung
+
+610
+00:24:55,570 --> 00:24:57,570
+Stehändeschmerzen
+
+611
+00:24:57,570 --> 00:24:59,570
+und die Suguet
+
+612
+00:24:59,570 --> 00:25:01,570
+ich denke an
+
+613
+00:25:01,570 --> 00:25:03,570
+die Urulutiasis in Erzterlinien
+
+614
+00:25:03,570 --> 00:25:05,570
+und auch
+
+615
+00:25:05,570 --> 00:25:07,570
+Urulutiasis haben sie eher
+
+616
+00:25:07,570 --> 00:25:09,570
+auch beschwerdenen Ruhe,
+
+617
+00:25:09,570 --> 00:25:11,570
+die müssen wiederkommen.
+
+618
+00:25:11,570 --> 00:25:13,570
+Wenn Stehänden
+
+619
+00:25:13,570 --> 00:25:15,570
+Haarenleiter
+
+620
+00:25:15,570 --> 00:25:17,570
+verkrampft,
+
+621
+00:25:17,570 --> 00:25:19,570
+dann tut das weh.
+
+622
+00:25:19,570 --> 00:25:21,570
+Das ist eine kollegartige Schmerz.
+
+623
+00:25:21,570 --> 00:25:23,570
+Die Patienten
+
+624
+00:25:23,570 --> 00:25:25,570
+können nicht auf der
+
+625
+00:25:25,570 --> 00:25:27,570
+auf dem gleichen Platz sitzen bleiben.
+
+626
+00:25:27,570 --> 00:25:29,570
+Die müssen sich immer bewegen.
+
+627
+00:25:29,570 --> 00:25:31,570
+Haben Sie schon mal gesehen,
+
+628
+00:25:31,570 --> 00:25:33,570
+jemanden mit einer kollegartigen Schmerz?
+
+629
+00:25:33,570 --> 00:25:35,570
+Ja, ja, viele, viele Mal.
+
+630
+00:25:35,570 --> 00:25:37,570
+Wie ein Fisch, wie ich gesagt habe
+
+631
+00:25:37,570 --> 00:25:39,570
+mit meinen Kollegen, wie ein Fisch
+
+632
+00:25:39,570 --> 00:25:41,570
+immer bewegt.
+
+633
+00:25:41,570 --> 00:25:43,570
+Die Bewegung muss sich die ganze Zeit,
+
+634
+00:25:43,570 --> 00:25:45,570
+die können nicht da bleiben, hier bleiben.
+
+635
+00:25:45,570 --> 00:25:47,570
+Die müssen immer bewegen.
+
+636
+00:25:47,570 --> 00:25:49,570
+Ich habe gedacht,
+
+637
+00:25:49,570 --> 00:25:51,570
+dass die Steine ein bisschen groß
+
+638
+00:25:51,570 --> 00:25:53,570
+und verengt
+
+639
+00:25:53,570 --> 00:25:55,570
+diese Haarenleiter
+
+640
+00:25:55,570 --> 00:25:57,570
+und vielleicht bei der Bewegung
+
+641
+00:25:57,570 --> 00:25:59,570
+diese Steine ein bisschen bewegen
+
+642
+00:25:59,570 --> 00:26:01,570
+und wenn die Patienten, aber sie haben völlig Recht.
+
+643
+00:26:01,570 --> 00:26:03,570
+Aus diesem Grund
+
+644
+00:26:03,570 --> 00:26:05,570
+möchte ich akute Apandesitis sein,
+
+645
+00:26:05,570 --> 00:26:07,570
+und bei der Bewegung diese
+
+646
+00:26:07,570 --> 00:26:09,570
+Nein, Sie können,
+
+647
+00:26:09,570 --> 00:26:11,570
+welche Übungen können Sie dem Patienten
+
+648
+00:26:11,570 --> 00:26:13,570
+machen lassen,
+
+649
+00:26:13,570 --> 00:26:15,570
+wo Sie erkennen können,
+
+650
+00:26:15,570 --> 00:26:17,570
+ob es tatsächlich eine
+
+651
+00:26:17,570 --> 00:26:19,570
+Apandesitis ist oder nicht.
+
+652
+00:26:19,570 --> 00:26:21,570
+Es gibt eine bestimmte
+
+653
+00:26:21,570 --> 00:26:23,570
+Übung.
+
+654
+00:26:23,570 --> 00:26:25,570
+Ja, Übung,
+
+655
+00:26:25,570 --> 00:26:27,570
+ich die auf die Zähne
+
+656
+00:26:27,570 --> 00:26:29,570
+stehen
+
+657
+00:26:29,570 --> 00:26:31,570
+und dann
+
+658
+00:26:31,570 --> 00:26:33,570
+plötzlich auf die Färze
+
+659
+00:26:33,570 --> 00:26:35,570
+oder Sie sagen den Patienten springen Sie mal hoch.
+
+660
+00:26:35,570 --> 00:26:37,570
+Ja, ja, auch.
+
+661
+00:26:37,570 --> 00:26:39,570
+Springen Sie mal 2-mal hoch.
+
+662
+00:26:39,570 --> 00:26:41,570
+Und wenn die Schmerzen haben,
+
+663
+00:26:41,570 --> 00:26:43,570
+oft ein Zeichen, eine Apandesitis,
+
+664
+00:26:43,570 --> 00:26:45,570
+sogenannte Erschütterungsschmerz.
+
+665
+00:26:45,570 --> 00:26:47,570
+Wenn Sie jetzt den Verdacht,
+
+666
+00:26:47,570 --> 00:26:51,330
+Ihr beschreibt auch manchmal,
+
+667
+00:26:51,330 --> 00:26:53,330
+wenn Sie jetzt zum Beispiel
+
+668
+00:26:53,330 --> 00:26:55,330
+Treppen steigeln,
+
+669
+00:26:55,330 --> 00:26:57,330
+und da müssten Sie als Stufen steigen.
+
+670
+00:26:57,330 --> 00:26:59,330
+Also Sie müssten immer so
+
+671
+00:26:59,330 --> 00:27:01,330
+Suchen steigen,
+
+672
+00:27:01,330 --> 00:27:03,330
+dann kann das auch mal so ein
+
+673
+00:27:03,330 --> 00:27:05,330
+Muskuluspsoas Schmerz sein.
+
+674
+00:27:05,330 --> 00:27:07,330
+Muskuluspsoas kann auch mal
+
+675
+00:27:07,330 --> 00:27:09,330
+Schmerzen.
+
+676
+00:27:09,330 --> 00:27:11,330
+Das kann auch sein, wenn der
+
+677
+00:27:11,330 --> 00:27:13,330
+Blinder ein bisschen falsch
+
+678
+00:27:13,330 --> 00:27:15,330
+belegen ist.
+
+679
+00:27:15,330 --> 00:27:17,330
+Wenn Sie jetzt den Verdacht haben
+
+680
+00:27:17,330 --> 00:27:19,330
+auf einer
+
+681
+00:27:19,330 --> 00:27:21,330
+Blindermensündung, apandesitis,
+
+682
+00:27:21,330 --> 00:27:23,330
+welche Untersuchung
+
+683
+00:27:23,330 --> 00:27:25,330
+machten Sie bei den Patienten?
+
+684
+00:27:25,330 --> 00:27:27,330
+Körperlöschen untersuchbar.
+
+685
+00:27:27,330 --> 00:27:29,330
+Körperlöschen untersuchbar.
+
+686
+00:27:29,330 --> 00:27:31,330
+Körperlöschen untersuchbar
+
+687
+00:27:31,330 --> 00:27:33,330
+Auf der Finettmanlaster gibt es
+
+688
+00:27:33,330 --> 00:27:35,330
+Schmerz.
+
+689
+00:27:35,330 --> 00:27:37,330
+Losz das Schmerz ist richtig, genau.
+
+690
+00:27:37,330 --> 00:27:39,330
+Der Pfand.
+
+691
+00:27:39,330 --> 00:27:41,330
+Haben Sie schon mal etwas von
+
+692
+00:27:41,330 --> 00:27:43,330
+McBurney gehört?
+
+693
+00:27:43,330 --> 00:27:45,330
+Ja, das ist ein Punkt.
+
+694
+00:27:45,330 --> 00:27:47,330
+Das ist ein ganz, ganz
+
+695
+00:27:47,330 --> 00:27:49,330
+genauer Punkt der apandesitis.
+
+696
+00:27:49,330 --> 00:27:51,330
+Und ich glaube
+
+697
+00:27:51,330 --> 00:27:53,330
+von der Narbe und aus
+
+698
+00:27:53,330 --> 00:27:55,330
+ich her
+
+699
+00:27:55,330 --> 00:27:57,330
+mit einem Finger zu messen
+
+700
+00:27:57,330 --> 00:27:59,330
+und die
+
+701
+00:27:59,330 --> 00:28:01,330
+zwei und direkt gerückt
+
+702
+00:28:01,330 --> 00:28:03,330
+und dann
+
+703
+00:28:03,330 --> 00:28:05,330
+ja, ich kann
+
+704
+00:28:05,330 --> 00:28:07,330
+nicht unter dem Bau, das
+
+705
+00:28:07,330 --> 00:28:09,330
+bedeutet, dass es McBurney ist.
+
+706
+00:28:09,330 --> 00:28:11,330
+Also, das gibt es auch mit dem McBurney
+
+707
+00:28:11,330 --> 00:28:13,330
+Punkt.
+
+708
+00:28:13,330 --> 00:28:15,330
+Zwischen Spinaeliaca anterior
+
+709
+00:28:15,330 --> 00:28:17,330
+und Bauchnarbe.
+
+710
+00:28:17,330 --> 00:28:19,330
+Und dann gibt es noch
+
+711
+00:28:19,330 --> 00:28:21,330
+den Lance Punkt.
+
+712
+00:28:21,330 --> 00:28:23,330
+Das ist der Punkt
+
+713
+00:28:23,330 --> 00:28:25,330
+zwischen beiden
+
+714
+00:28:25,330 --> 00:28:27,330
+Spinaeliaca anterior
+
+715
+00:28:27,330 --> 00:28:29,330
+rechts und links
+
+716
+00:28:29,330 --> 00:28:31,330
+und den mittleren Drittel.
+
+717
+00:28:31,330 --> 00:28:33,330
+Also, ein Drittel wieder.
+
+718
+00:28:33,330 --> 00:28:35,330
+Mittleren Drittel, ja.
+
+719
+00:28:35,330 --> 00:28:37,330
+Okay.
+
+720
+00:28:37,330 --> 00:28:39,330
+Es gibt verschiedene Zeichen, die können ich nochmal durchlesen.
+
+721
+00:28:39,330 --> 00:28:41,330
+Einmal, ich möchte jetzt nicht alle aufführen.
+
+722
+00:28:41,330 --> 00:28:43,330
+Ja.
+
+723
+00:28:43,330 --> 00:28:45,330
+Aber die sollten Sie schon
+
+724
+00:28:45,330 --> 00:28:47,330
+im Blickwinkel haben, im Auge haben.
+
+725
+00:28:47,330 --> 00:28:49,330
+Dankeschön.
+
+726
+00:28:49,330 --> 00:28:51,330
+McBurney
+
+727
+00:28:51,330 --> 00:28:53,330
+Lance Punkt, McBurney Punkt, los las ich
+
+728
+00:28:53,330 --> 00:28:55,330
+merzen. Und ist das auch möglich
+
+729
+00:28:55,330 --> 00:28:57,330
+abwährend
+
+730
+00:28:57,330 --> 00:28:59,330
+Abwehrspannung.
+
+731
+00:28:59,330 --> 00:29:01,330
+Definitiv.
+
+732
+00:29:01,330 --> 00:29:05,860
+Definitiv.
+
+733
+00:29:05,860 --> 00:29:07,860
+Können Sie die Psoas zeichnen?
+
+734
+00:29:07,860 --> 00:29:09,860
+Psoas, muss ich das Psoas zeichnen?
+
+735
+00:29:09,860 --> 00:29:11,860
+Nein, leider.
+
+736
+00:29:11,860 --> 00:29:13,860
+Können Sie das Menüver Lasek?
+
+737
+00:29:13,860 --> 00:29:15,860
+Lasek, ja.
+
+738
+00:29:15,860 --> 00:29:17,860
+Ich habe diese Beinaufhebung
+
+739
+00:29:17,860 --> 00:29:19,860
+eine belitzende Schmerzen
+
+740
+00:29:19,860 --> 00:29:21,860
+in der Hucke.
+
+741
+00:29:21,860 --> 00:29:23,860
+Genau, wenn Sie zum Beispiel
+
+742
+00:29:23,860 --> 00:29:25,860
+das Bein anheben
+
+743
+00:29:25,860 --> 00:29:27,860
+und
+
+744
+00:29:27,860 --> 00:29:29,860
+das Sie dann
+
+745
+00:29:29,860 --> 00:29:31,860
+wenn Sie das quasi
+
+746
+00:29:31,860 --> 00:29:33,860
+gegen den Widerstand
+
+747
+00:29:33,860 --> 00:29:35,860
+sowas wie Lasek ungefähr,
+
+748
+00:29:35,860 --> 00:29:37,860
+aber Sie müssten das Knie zum Beispiel
+
+749
+00:29:37,860 --> 00:29:39,860
+hochziehen, ja.
+
+750
+00:29:39,860 --> 00:29:41,860
+Drücken dagegen gegen Widerstand.
+
+751
+00:29:41,860 --> 00:29:43,860
+Dann ist das so ein Psoas-Schmerz.
+
+752
+00:29:43,860 --> 00:29:45,860
+Psoas, okay.
+
+753
+00:29:45,860 --> 00:29:47,860
+Es ist ungefähr wie Lasek,
+
+754
+00:29:47,860 --> 00:29:49,860
+aber gegen Widerstand.
+
+755
+00:29:49,860 --> 00:29:51,860
+Dankeschön.
+
+756
+00:29:51,860 --> 00:29:53,860
+Da gibt es verschiedene Zeichen
+
+757
+00:29:53,860 --> 00:29:55,860
+und verschiedene Untersuchungsmöglichkeiten
+
+758
+00:29:55,860 --> 00:29:57,860
+in dem
+
+759
+00:29:57,860 --> 00:29:59,860
+können Sie nochmal nachlesen
+
+760
+00:29:59,860 --> 00:30:01,860
+im Untersuch einer Mesebuch
+
+761
+00:30:01,860 --> 00:30:03,860
+oder körperlich Untersuchung.
+
+762
+00:30:03,860 --> 00:30:05,860
+Ja, ich habe jetzt in meinem Kopf
+
+763
+00:30:05,860 --> 00:30:07,860
+diese alle belegen.
+
+764
+00:30:07,860 --> 00:30:09,860
+Ja, danke.
+
+765
+00:30:09,860 --> 00:30:11,860
+Gut.
+
+766
+00:30:11,860 --> 00:30:13,860
+Wenn es eine Frau wäre,
+
+767
+00:30:13,860 --> 00:30:15,860
+woran würden Sie noch denken?
+
+768
+00:30:15,860 --> 00:30:17,860
+Ja, bei der Frau
+
+769
+00:30:17,860 --> 00:30:19,860
+achte ich auch diese geneachologische Anamnese
+
+770
+00:30:19,860 --> 00:30:21,860
+und könnte es sein
+
+771
+00:30:21,860 --> 00:30:23,860
+Nexitis
+
+772
+00:30:23,860 --> 00:30:25,860
+und auch Extra-Otteregrivität
+
+773
+00:30:25,860 --> 00:30:27,860
+oder Schwangerschaft.
+
+774
+00:30:27,860 --> 00:30:29,860
+Ja, ja, ich habe schon geschaut
+
+775
+00:30:29,860 --> 00:30:31,860
+oder auch wieder ein bisschen.
+
+776
+00:30:31,860 --> 00:30:33,860
+Ja.
+
+777
+00:30:33,860 --> 00:30:35,860
+Sie machen jetzt einen Ultraschall,
+
+778
+00:30:35,860 --> 00:30:37,860
+haben Sie gesagt, in den Blutern.
+
+779
+00:30:37,860 --> 00:30:39,860
+Ich würde direkt mit Blutkulturen
+
+780
+00:30:39,860 --> 00:30:41,860
+abnehmen.
+
+781
+00:30:41,860 --> 00:30:43,860
+Und
+
+782
+00:30:43,860 --> 00:30:45,860
+was machen wir mit den Patienten dann?
+
+783
+00:30:45,860 --> 00:30:47,860
+Oh ja,
+
+784
+00:30:47,860 --> 00:30:49,860
+wie die Patienten nüchtern bleiben lassen
+
+785
+00:30:49,860 --> 00:30:51,860
+und sind bis zu acht Stunden.
+
+786
+00:30:51,860 --> 00:30:53,860
+Erst mal, wie müssen diese denken,
+
+787
+00:30:53,860 --> 00:30:55,860
+dann mit Antibioterapika.
+
+788
+00:30:55,860 --> 00:30:57,860
+Was können Sie im Ultraschall
+
+789
+00:30:57,860 --> 00:30:59,860
+sehen,
+
+790
+00:30:59,860 --> 00:31:01,860
+wenn Sie gut Ultraschall machen?
+
+791
+00:31:01,860 --> 00:31:03,860
+Ja, diese
+
+792
+00:31:03,860 --> 00:31:05,860
+ödematöse Vergrößerung
+
+793
+00:31:05,860 --> 00:31:07,860
+der Wunsch fortsetzt
+
+794
+00:31:07,860 --> 00:31:09,860
+und
+
+795
+00:31:09,860 --> 00:31:11,860
+diese innähere Gewebe
+
+796
+00:31:11,860 --> 00:31:13,860
+ein bisschen
+
+797
+00:31:13,860 --> 00:31:15,860
+schmutzige Nähere
+
+798
+00:31:15,860 --> 00:31:17,860
+die Gewebe nicht schmutzig.
+
+799
+00:31:17,860 --> 00:31:19,860
+Müßigkeit
+
+800
+00:31:19,860 --> 00:31:21,860
+Ja,
+
+801
+00:31:21,860 --> 00:31:23,860
+Müßigkeit in der Nähere Gewebe.
+
+802
+00:31:23,860 --> 00:31:25,860
+Wenn es
+
+803
+00:31:25,860 --> 00:31:27,860
+schon perforiert ist,
+
+804
+00:31:27,860 --> 00:31:29,860
+dann können Sie
+
+805
+00:31:29,860 --> 00:31:31,860
+Luft sehen.
+
+806
+00:31:31,860 --> 00:31:33,860
+Gut.
+
+807
+00:31:33,860 --> 00:31:35,860
+Sie können sehen,
+
+808
+00:31:35,860 --> 00:31:37,860
+ob der Blind dann so
+
+809
+00:31:37,860 --> 00:31:39,860
+kokadenförmig ist.
+
+810
+00:31:39,860 --> 00:31:41,860
+Das ist so wie eine Zitscheibe.
+
+811
+00:31:41,860 --> 00:31:43,860
+Kann man sehen.
+
+812
+00:31:43,860 --> 00:31:45,860
+Kokaden.
+
+813
+00:31:45,860 --> 00:31:47,860
+Können Sie doch mal nachlesen.
+
+814
+00:31:47,860 --> 00:31:49,860
+Kokaden
+
+815
+00:31:49,860 --> 00:31:51,860
+ARDM
+
+816
+00:31:51,860 --> 00:31:53,860
+und wenn Sie den Ultraschall gut darstellen können,
+
+817
+00:31:53,860 --> 00:31:55,860
+ob der Blind dann
+
+818
+00:31:55,860 --> 00:31:57,860
+verdickt ist.
+
+819
+00:31:57,860 --> 00:31:59,860
+Können Sie mehr als 6 mm
+
+820
+00:31:59,860 --> 00:32:01,860
+zum Beispiel, ob der verdickt ist.
+
+821
+00:32:01,860 --> 00:32:03,860
+Jetzt haben die zum Beispiel
+
+822
+00:32:03,860 --> 00:32:05,860
+Dokadenphänomen.
+
+823
+00:32:05,860 --> 00:32:07,860
+Sie können zum Beispiel aber auch
+
+824
+00:32:07,860 --> 00:32:09,860
+jetzt ein Patient haben,
+
+825
+00:32:09,860 --> 00:32:11,860
+der viel Luft hat
+
+826
+00:32:11,860 --> 00:32:13,860
+und den Blind
+
+827
+00:32:13,860 --> 00:32:15,860
+dann gar nicht sehen können.
+
+828
+00:32:15,860 --> 00:32:17,860
+Was machen Sie dann?
+
+829
+00:32:17,860 --> 00:32:19,860
+Ja,
+
+830
+00:32:19,860 --> 00:32:21,860
+ich werde ein
+
+831
+00:32:21,860 --> 00:32:23,860
+Computatomographier Abdomen mit
+
+832
+00:32:23,860 --> 00:32:25,860
+Kontrastmitteilung schlüpfen.
+
+833
+00:32:25,860 --> 00:32:27,860
+Damit ich genau sehen kann.
+
+834
+00:32:27,860 --> 00:32:29,860
+Aber ich muss zuerst,
+
+835
+00:32:29,860 --> 00:32:31,860
+ich habe erst einmal gesagt, dass
+
+836
+00:32:31,860 --> 00:32:33,860
+es erholt ist. Ich muss zuerst diese ausschließen.
+
+837
+00:32:33,860 --> 00:32:35,860
+Genau.
+
+838
+00:32:35,860 --> 00:32:37,860
+Okay,
+
+839
+00:32:37,860 --> 00:32:39,860
+und jetzt
+
+840
+00:32:39,860 --> 00:32:41,860
+was machen wir therapeutisch
+
+841
+00:32:41,860 --> 00:32:43,860
+und wie ich gesagt habe,
+
+842
+00:32:43,860 --> 00:32:45,860
+nüchtern bleiben lassen,
+
+843
+00:32:45,860 --> 00:32:47,860
+dann Flüssigkeit, Therapie
+
+844
+00:32:47,860 --> 00:32:49,860
+und das ist die
+
+845
+00:32:49,860 --> 00:32:51,860
+Durchmesser für 1 cm ist wichtig
+
+846
+00:32:51,860 --> 00:32:53,860
+für uns, weil
+
+847
+00:32:53,860 --> 00:32:55,860
+bei der
+
+848
+00:32:55,860 --> 00:32:57,860
+Fehlerfälle gibt es
+
+849
+00:32:57,860 --> 00:32:59,860
+diese
+
+850
+00:32:59,860 --> 00:33:01,860
+Schmerzenlindern,
+
+851
+00:33:01,860 --> 00:33:03,860
+Spontanlindern
+
+852
+00:33:03,860 --> 00:33:05,860
+oder die Ödomatoriosveränderung
+
+853
+00:33:05,860 --> 00:33:07,860
+spontan gelindert
+
+854
+00:33:07,860 --> 00:33:09,860
+werden und wie beobachten.
+
+855
+00:33:09,860 --> 00:33:11,860
+Schicken Sie in der Hause oder bleibt der hier?
+
+856
+00:33:11,860 --> 00:33:13,860
+Nein, nein, Überwachung
+
+857
+00:33:13,860 --> 00:33:15,860
+in der Stationenaufnahme
+
+858
+00:33:15,860 --> 00:33:17,860
+und
+
+859
+00:33:17,860 --> 00:33:19,860
+wenn es diese
+
+860
+00:33:19,860 --> 00:33:21,860
+mit einer Sonografie Kontrolle
+
+861
+00:33:21,860 --> 00:33:23,860
+diese Durchmesser wird
+
+862
+00:33:23,860 --> 00:33:25,860
+ein bisschen vermehrt,
+
+863
+00:33:25,860 --> 00:33:27,860
+können wir chirurgische Eingriff planen
+
+864
+00:33:27,860 --> 00:33:29,860
+und wenn es
+
+865
+00:33:29,860 --> 00:33:31,860
+Herzbedingungen gibt?
+
+866
+00:33:31,860 --> 00:33:33,860
+Ja, ich
+
+867
+00:33:33,860 --> 00:33:35,860
+wenn wir überzeugt,
+
+868
+00:33:35,860 --> 00:33:37,860
+dass es eine Akkuterpandesit ist,
+
+869
+00:33:37,860 --> 00:33:39,860
+die wir uns nicht mehr geben.
+
+870
+00:33:39,860 --> 00:33:41,860
+Das würde
+
+871
+00:33:41,860 --> 00:33:43,860
+Metamisol oder
+
+872
+00:33:43,860 --> 00:33:45,860
+Ja, genau, richtig.
+
+873
+00:33:45,860 --> 00:33:47,860
+Geben Sie auch ein Antibiotikum direkt oder?
+
+874
+00:33:47,860 --> 00:33:49,860
+Ja, wenn wir
+
+875
+00:33:49,860 --> 00:33:51,860
+sehen, diese nähere Gewebe
+
+876
+00:33:51,860 --> 00:33:53,860
+es ist ein bisschen entzündet
+
+877
+00:33:53,860 --> 00:33:55,860
+oder
+
+878
+00:33:55,860 --> 00:33:57,860
+könnte es, aber ich bin mir
+
+879
+00:33:57,860 --> 00:33:59,860
+nicht sicher.
+
+880
+00:33:59,860 --> 00:34:01,860
+Also ich schroben geben meistens
+
+881
+00:34:01,860 --> 00:34:03,860
+wenn mich nicht alles täuscht
+
+882
+00:34:03,860 --> 00:34:05,860
+einmal ein Antibiotikum
+
+883
+00:34:05,860 --> 00:34:07,860
+auch vor der Operation glaube ich
+
+884
+00:34:07,860 --> 00:34:09,860
+vorbeugelt.
+
+885
+00:34:09,860 --> 00:34:11,860
+Ich bin ja bei dir sicher.
+
+886
+00:34:11,860 --> 00:34:13,860
+Das können vielleicht chirurgisch sagen, wie wir sind.
+
+887
+00:34:13,860 --> 00:34:15,860
+Ich wollte das machen.
+
+888
+00:34:15,860 --> 00:34:17,860
+Genau so, ja.
+
+889
+00:34:17,860 --> 00:34:19,860
+Manchmal geben
+
+890
+00:34:19,860 --> 00:34:21,860
+die einen Antibiotikum vor der Operation
+
+891
+00:34:21,860 --> 00:34:23,860
+und dann schaut man
+
+892
+00:34:23,860 --> 00:34:25,860
+wie das Ganze entwickelt.
+
+893
+00:34:25,860 --> 00:34:27,860
+Genau.
+
+894
+00:34:27,860 --> 00:34:29,860
+Gut.
+
+895
+00:34:29,860 --> 00:34:31,860
+Ja.
+
+896
+00:34:31,860 --> 00:34:33,860
+Ja.
+
+897
+00:34:33,860 --> 00:34:35,860
+Das war okay.
+
+898
+00:34:35,860 --> 00:34:37,860
+Dankeschön.
+
+899
+00:34:37,860 --> 00:34:39,860
+Ich habe Prüfung
+
+900
+00:34:39,860 --> 00:34:41,860
+am 21. März
+
+901
+00:34:41,860 --> 00:34:43,860
+zwar diese Dienstag
+
+902
+00:34:43,860 --> 00:34:45,860
+Sie reden
+
+903
+00:34:45,860 --> 00:34:47,860
+sehr gut, sehr flüssig
+
+904
+00:34:47,860 --> 00:34:49,860
+finde ich, aber sie machen
+
+905
+00:34:49,860 --> 00:34:51,860
+so ein bisschen Flüchtigkeitsfehler,
+
+906
+00:34:51,860 --> 00:34:53,860
+wie er und sie
+
+907
+00:34:53,860 --> 00:34:55,860
+verbitzen sie so ein bisschen
+
+908
+00:34:55,860 --> 00:34:57,860
+die
+
+909
+00:34:57,860 --> 00:34:59,860
+die Pronomen,
+
+910
+00:34:59,860 --> 00:35:01,860
+also Mann, Frau
+
+911
+00:35:01,860 --> 00:35:03,860
+Ja, ja, ja.
+
+912
+00:35:03,860 --> 00:35:05,860
+Er ist sicher.
+
+913
+00:35:05,860 --> 00:35:07,860
+Er bleiben
+
+914
+00:35:07,860 --> 00:35:09,860
+Sie reden sehr flüssig, sehr schnell
+
+915
+00:35:09,860 --> 00:35:11,860
+und ich finde auch sehr sicher.
+
+916
+00:35:11,860 --> 00:35:13,860
+Das finde ich gut.
+
+917
+00:35:13,860 --> 00:35:15,860
+Also sehr gut.
