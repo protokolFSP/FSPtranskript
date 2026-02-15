@@ -1,0 +1,2039 @@
+1
+00:00:00,210 --> 00:00:02,210
+Guten Abend.
+
+2
+00:00:02,210 --> 00:00:06,960
+Guten Abend Herr Doktor.
+
+3
+00:00:06,960 --> 00:00:10,300
+Ich heiße Mohamed Hamidi.
+
+4
+00:00:10,300 --> 00:00:15,300
+Ich bin auf dieser Station als Assistentarzt tätig und möchte und würde gerne mit Ihnen das Aufnahmengespräch durchführen.
+
+5
+00:00:15,300 --> 00:00:17,300
+Sind Sie einverstanden?
+
+6
+00:00:17,300 --> 00:00:19,300
+Wie heißen Sie Doktor Mohamed?
+
+7
+00:00:19,300 --> 00:00:21,300
+Mohamed Hamidi, ja.
+
+8
+00:00:21,300 --> 00:00:23,300
+Kommen Sie aus Saudi-Arabien?
+
+9
+00:00:23,300 --> 00:00:25,300
+Aus Syrien.
+
+10
+00:00:25,300 --> 00:00:27,300
+Aus Syrien?
+
+11
+00:00:27,300 --> 00:00:29,300
+Aus Syrien.
+
+12
+00:00:29,300 --> 00:00:31,300
+Aus Syrien.
+
+13
+00:00:31,300 --> 00:00:33,300
+Aus Syrien.
+
+14
+00:00:33,300 --> 00:00:35,300
+Aus Syrien.
+
+15
+00:00:35,300 --> 00:00:38,300
+Ah, ja, das ist ein schlimmer Krieg dort gewesen.
+
+16
+00:00:38,300 --> 00:00:41,300
+Ja, genau. Deswegen bin ich her.
+
+17
+00:00:41,300 --> 00:00:45,300
+Okay, freut mich sehr. Ich hoffe, es geht Ihnen gut Herr Doktor.
+
+18
+00:00:45,300 --> 00:00:47,300
+Dankeschön.
+
+19
+00:00:47,300 --> 00:00:54,300
+Zuerst stelle ich ein paar allgemeine Fragen und dann kommen wir zu Ihren aktuellen Beschwerden.
+
+20
+00:00:54,300 --> 00:00:56,300
+Ist es in Ordnung?
+
+21
+00:00:56,300 --> 00:00:58,300
+Ja, natürlich gerne Doktor.
+
+22
+00:00:58,300 --> 00:01:06,300
+Ich bin extra hier in diese Notaufnahme gekommen, weil hier gute Ärzte sind Herr Doktor.
+
+23
+00:01:06,300 --> 00:01:08,300
+Ja, ich hoffe auch.
+
+24
+00:01:08,300 --> 00:01:12,300
+Wie heißen Sie denn?
+
+25
+00:01:12,300 --> 00:01:17,300
+Mein Name ist Franz Decker.
+
+26
+00:01:17,300 --> 00:01:19,300
+Franz Decker.
+
+27
+00:01:19,300 --> 00:01:21,300
+Ja bitte.
+
+28
+00:01:21,300 --> 00:01:25,300
+Konnten Sie bitte Nachname buchstabieren?
+
+29
+00:01:25,300 --> 00:01:27,300
+Mein Nachname ist Decker.
+
+30
+00:01:27,300 --> 00:01:30,300
+Ich buchstabiere Dora Emil C. Saar.
+
+31
+00:01:30,300 --> 00:01:33,300
+K. Wie Karl? Emil Richard.
+
+32
+00:01:33,300 --> 00:01:39,300
+Konnten Sie nur buchstaben sagen ohne?
+
+33
+00:01:39,300 --> 00:01:43,300
+Also Decker. D. E. C.
+
+34
+00:01:43,300 --> 00:01:45,300
+C.
+
+35
+00:01:45,300 --> 00:01:47,300
+K. E. R.
+
+36
+00:01:47,300 --> 00:01:50,710
+Decker.
+
+37
+00:01:50,710 --> 00:01:52,710
+Decker, genau.
+
+38
+00:01:52,710 --> 00:01:54,710
+Decker.
+
+39
+00:01:54,710 --> 00:01:56,710
+Wie alt sind Sie?
+
+40
+00:01:56,710 --> 00:02:00,710
+Ich bin 54 Jahre alt.
+
+41
+00:02:00,710 --> 00:02:04,710
+Ja, und wann Sie sind genau geboren?
+
+42
+00:02:04,710 --> 00:02:06,710
+Sie möchten mein Geburtstatus.
+
+43
+00:02:06,710 --> 00:02:16,710
+Ich muss mal bauen, das ist der 23. April 1968.
+
+44
+00:02:16,710 --> 00:02:24,710
+Okay, und wie groß sind Sie?
+
+45
+00:02:24,710 --> 00:02:28,710
+1,73 Meter.
+
+46
+00:02:28,710 --> 00:02:31,710
+Sie wollen wahrscheinlich jetzt auch mein Gewicht wissen.
+
+47
+00:02:31,710 --> 00:02:35,710
+115 kg.
+
+48
+00:02:35,710 --> 00:02:37,710
+115 kg.
+
+49
+00:02:37,710 --> 00:02:42,710
+Ja, Sie haben Obergewicht.
+
+50
+00:02:42,710 --> 00:02:44,710
+Ja, leider so ein bisschen.
+
+51
+00:02:44,710 --> 00:02:46,710
+Ich will Sie wissen, dass.
+
+52
+00:02:46,710 --> 00:02:48,710
+Okay, Herr Decker.
+
+53
+00:02:48,710 --> 00:02:52,710
+Konnten Sie, was führt Sie zu uns?
+
+54
+00:02:52,710 --> 00:02:54,710
+Wie kann ich Ihnen helfen?
+
+55
+00:02:54,710 --> 00:02:57,710
+Also Herr Dr. Mohamed.
+
+56
+00:02:57,710 --> 00:03:03,710
+Ich habe seit 2 Tagen zu einem komischen Druck auf der Brust.
+
+57
+00:03:03,710 --> 00:03:07,710
+Und seit gestern tut mir auch der Rücken weh.
+
+58
+00:03:07,710 --> 00:03:12,250
+Und das macht mir jetzt ein bisschen Angst.
+
+59
+00:03:12,250 --> 00:03:14,250
+Okay, Herr Decker.
+
+60
+00:03:14,250 --> 00:03:18,250
+Konnten Sie mir sagen, wo genau sind die Schmerzen?
+
+61
+00:03:18,250 --> 00:03:22,250
+Also wenn ich hier drauf zeige, hier auf der linken Brust helfte,
+
+62
+00:03:22,250 --> 00:03:26,250
+das geht so ein bisschen über der gesamte Brust.
+
+63
+00:03:26,250 --> 00:03:31,250
+Okay, und strahlen die Schmerzen irgendwo hin?
+
+64
+00:03:31,250 --> 00:03:34,250
+Zum Beispiel linker Schulter oder Arm?
+
+65
+00:03:34,250 --> 00:03:36,250
+Schulter jetzt nicht, aber ich kann es schlecht sagen,
+
+66
+00:03:36,250 --> 00:03:39,250
+ob jetzt die Schmerzen vom Rücken nach vorne kommen
+
+67
+00:03:39,250 --> 00:03:41,250
+oder von vorne nach hinten.
+
+68
+00:03:41,250 --> 00:03:44,250
+Also ich habe auch Rückenschmerzen auf dieser Höhe.
+
+69
+00:03:44,250 --> 00:03:48,850
+Zwischen den Schulterblättern.
+
+70
+00:03:48,850 --> 00:03:54,850
+Ich verstehe aus Strahlung nach Rücken.
+
+71
+00:03:54,850 --> 00:03:58,850
+Wie gesagt, ich weiß jetzt nicht, ob Sie von Rücken nach vorne kommen
+
+72
+00:03:58,850 --> 00:04:01,850
+oder ob die Brutzen von vorne nach hinten gehen.
+
+73
+00:04:01,850 --> 00:04:04,850
+Beides ist da.
+
+74
+00:04:04,850 --> 00:04:06,850
+Okay.
+
+75
+00:04:09,190 --> 00:04:15,190
+Und sind die Schmerzen langsam oder plötzlich aufgenommen?
+
+76
+00:04:15,190 --> 00:04:22,390
+Langsam, aber die sind sehr stark jetzt geworden seit zwei Tagen.
+
+77
+00:04:22,390 --> 00:04:28,080
+Und immer stärker.
+
+78
+00:04:28,080 --> 00:04:35,080
+Auf wie stark sind die Schmerzen?
+
+79
+00:04:35,080 --> 00:04:41,080
+Auf einer Skala von 1 bis 10, wobei 1 sehr leichter
+
+80
+00:04:41,080 --> 00:04:46,080
+und sehr starken Schmerzen entspricht.
+
+81
+00:04:46,080 --> 00:04:48,080
+Also langsam, wir haben langsam begonnen,
+
+82
+00:04:48,080 --> 00:04:54,080
+das war vielleicht bei 2, 3 und sind jetzt ungefähr bei 7, 8 gelandet.
+
+83
+00:04:54,080 --> 00:04:59,080
+2, 3 am Anfang und jetzt 7, 8.
+
+84
+00:04:59,080 --> 00:05:02,490
+Ja, würde ich schon sagen.
+
+85
+00:05:02,490 --> 00:05:04,490
+Es ist so, dass ich schlecht Luft bekomme.
+
+86
+00:05:04,490 --> 00:05:08,490
+Wenn ich einatme, dann habe ich das Gefühl, es sticht manchmal
+
+87
+00:05:09,490 --> 00:05:12,490
+und ich kann nicht tief durchatmen.
+
+88
+00:05:12,490 --> 00:05:16,490
+Sie können keinen tief atmen.
+
+89
+00:05:16,490 --> 00:05:18,490
+Ja, das fehlt mir.
+
+90
+00:05:18,490 --> 00:05:23,490
+Weil bei tief atmen, die Schmerzen sich verstärken.
+
+91
+00:05:23,490 --> 00:05:29,060
+Ja.
+
+92
+00:05:29,060 --> 00:05:32,060
+Und da haben Sie eng geholen?
+
+93
+00:05:32,060 --> 00:05:36,060
+Ja, also seit heute habe ich auch das Gefühl,
+
+94
+00:05:36,060 --> 00:05:43,780
+als ob mir so ein Elefant auf der Brust sitzt.
+
+95
+00:05:43,780 --> 00:05:52,060
+Und haben Sie Atemnot?
+
+96
+00:05:52,060 --> 00:05:56,060
+Also ich tue, wie gesagt, ich tue mich schwer zu atmen.
+
+97
+00:05:56,060 --> 00:05:59,060
+Ja, das wird immer schlimmer.
+
+98
+00:05:59,060 --> 00:06:05,060
+Ja, ich habe verstanden, Sie haben Schmerzen bei tiefen Atmen,
+
+99
+00:06:05,060 --> 00:06:07,060
+aber nicht Atemnot.
+
+100
+00:06:07,060 --> 00:06:09,060
+Aber Sie haben Atemnot.
+
+101
+00:06:09,060 --> 00:06:12,060
+Wenn ich mich belaste, wenn ich versuche, auf Toilette zu gehen
+
+102
+00:06:12,060 --> 00:06:16,060
+und eine Wohnung zu laufen, dann fällt mir das schon schwer.
+
+103
+00:06:16,060 --> 00:06:20,060
+Das bedeutet bei leichter Belastung.
+
+104
+00:06:20,060 --> 00:06:23,060
+Ja, bei leichter Belastung.
+
+105
+00:06:23,060 --> 00:06:37,290
+Haben Sie schon einmal eine ähnliche Beschwerden für die Höhe?
+
+106
+00:06:37,290 --> 00:06:40,290
+Also ich muss dazu sagen, ich habe vor zehn Jahren schon mal
+
+107
+00:06:40,290 --> 00:06:43,290
+einen Herzinfarkt gehabt.
+
+108
+00:06:43,290 --> 00:06:48,290
+Da habe ich sehr viel geraucht und hatte hohen Blutdruck.
+
+109
+00:06:48,290 --> 00:06:53,290
+Die Schmerzen waren ähnlich, aber noch schlimmer.
+
+110
+00:06:53,290 --> 00:07:00,290
+Vor zehn Jahren, und Sie sind jetzt 44, das bedeutet, Sie waren jung.
+
+111
+00:07:00,290 --> 00:07:03,290
+Relativ jung.
+
+112
+00:07:03,290 --> 00:07:07,290
+Ich bin jetzt 54.
+
+113
+00:07:07,290 --> 00:07:10,290
+44, okay.
+
+114
+00:07:10,290 --> 00:07:14,290
+Und das war ungefähr vor zehn Jahren, da war ich 44.
+
+115
+00:07:14,290 --> 00:07:18,290
+Noch jung.
+
+116
+00:07:18,290 --> 00:07:22,290
+Das bedeutet, Sie rauchen sehr viel.
+
+117
+00:07:22,290 --> 00:07:26,290
+Also bis zum Herzinfarkt habe ich viel geraucht.
+
+118
+00:07:26,290 --> 00:07:29,290
+Und nach dem Herzinfarkt aber nicht mehr.
+
+119
+00:07:29,290 --> 00:07:32,290
+Ja, das ist gut.
+
+120
+00:07:32,290 --> 00:07:43,290
+Okay, Herr Decker, haben Sie schwindelisch oder ist Ihnen schwindelisch?
+
+121
+00:07:43,290 --> 00:07:46,290
+Nein, ich habe keine Schwindel.
+
+122
+00:07:46,290 --> 00:07:49,290
+Aber ich habe eine leichte Übelkeit.
+
+123
+00:07:49,290 --> 00:07:52,290
+Und erbrochen?
+
+124
+00:07:52,290 --> 00:07:57,260
+Nein.
+
+125
+00:07:57,260 --> 00:08:00,260
+Obelkeit auch seit zwei Tagen?
+
+126
+00:08:00,260 --> 00:08:02,260
+Das seit heute.
+
+127
+00:08:02,260 --> 00:08:26,450
+Haben Sie andere Beschwerden, wirklich diese Brust oder Bauch?
+
+128
+00:08:26,450 --> 00:08:29,450
+Ich habe Ihre Frage nicht ganz verstanden, Herr Doktor.
+
+129
+00:08:29,450 --> 00:08:33,450
+Haben Sie noch andere Beschwerden?
+
+130
+00:08:33,450 --> 00:08:36,450
+Nein, das ist genug, das reicht mir.
+
+131
+00:08:36,450 --> 00:08:38,450
+Ja, natürlich.
+
+132
+00:08:38,450 --> 00:08:42,450
+Ich meine, in Haars zum Beispiel, Schluckte,
+
+133
+00:08:42,450 --> 00:08:46,450
+ist es mehr auf die Brust und dann rücken.
+
+134
+00:08:46,450 --> 00:08:53,500
+Okay, haben Sie die Brust?
+
+135
+00:08:53,500 --> 00:08:57,500
+Nein, ist mir nicht aufgefallen, war mir das nicht.
+
+136
+00:08:57,500 --> 00:09:00,500
+Okay, schütteln Brust auch rein, ja?
+
+137
+00:09:00,500 --> 00:09:05,310
+Nein, nein, nein.
+
+138
+00:09:05,310 --> 00:09:10,310
+Haben Sie Störungen, Wasser lassen und Stuhlgang?
+
+139
+00:09:10,310 --> 00:09:13,310
+Nein, das ist alles in Ordnung.
+
+140
+00:09:13,310 --> 00:09:23,480
+Herr Decker, leider sehen Sie an chronischen Krankungen,
+
+141
+00:09:23,480 --> 00:09:28,480
+zum Beispiel Zuckerkrankheit, Bluthochdruck.
+
+142
+00:09:28,480 --> 00:09:34,480
+Ich habe jetzt nicht Bluthochdruck, ich nehme auch Medikamente,
+
+143
+00:09:34,480 --> 00:09:36,480
+wie gesagt, seit dem Herzinfarkt.
+
+144
+00:09:36,480 --> 00:09:38,480
+Ja.
+
+145
+00:09:38,480 --> 00:09:42,480
+Ansonsten, Sie sehen, ich habe ein bisschen Übergewicht
+
+146
+00:09:42,480 --> 00:09:45,480
+und mein Kohle Sterin ist halt hoch.
+
+147
+00:09:45,480 --> 00:09:52,140
+Seit wann haben Bluthochdruck?
+
+148
+00:09:52,140 --> 00:09:56,140
+Also, das ist damals mit dem Herzinfarkt aufgefallen.
+
+149
+00:09:56,140 --> 00:09:58,140
+Aufgefahren, ja.
+
+150
+00:09:58,140 --> 00:10:01,140
+Wo hatte ich keine Medikamente, war mir das nicht bekannt?
+
+151
+00:10:01,140 --> 00:10:05,140
+Ja, bevor die Herzinfarkte, es war nicht diagnostiziert.
+
+152
+00:10:05,140 --> 00:10:07,140
+Nein, nein, ich war auch kaum beim Arzt,
+
+153
+00:10:07,140 --> 00:10:10,140
+ich habe mich ja eigentlich gesund gefühlt.
+
+154
+00:10:10,140 --> 00:10:12,140
+Ja, ich verstehe.
+
+155
+00:10:12,140 --> 00:10:19,140
+Und Kohle Sterin, werte seit wann auch, sind?
+
+156
+00:10:19,140 --> 00:10:22,140
+Ja, alles seit dem Herzinfarkt.
+
+157
+00:10:22,140 --> 00:10:25,140
+Da war ich, davor war ich ja nie beim Arzt, deswegen.
+
+158
+00:10:25,140 --> 00:10:28,140
+Ja, das ist wie Backit.
+
+159
+00:10:28,140 --> 00:10:31,140
+Ja, genau, hat man nicht festgestellt, genau.
+
+160
+00:10:31,140 --> 00:10:36,180
+Ja, ganz wie Backit.
+
+161
+00:10:36,180 --> 00:10:43,180
+Leiden Sie oder haben Sie alleerbischen gegen etwas?
+
+162
+00:10:43,180 --> 00:10:49,170
+Nein, bisher nicht, nein.
+
+163
+00:10:49,170 --> 00:10:53,170
+Und Unverträglichkeit?
+
+164
+00:10:53,170 --> 00:10:56,170
+Wie meinen Sie Unverträglichkeit?
+
+165
+00:10:56,170 --> 00:11:04,170
+Zum Beispiel Laktos und Toleranz oder Gluten und Toleranz.
+
+166
+00:11:04,170 --> 00:11:08,170
+Ich bin dauerlicherweise alles essen und trinken, Sie sehen in meinem Bauch.
+
+167
+00:11:08,170 --> 00:11:10,170
+Ja, gut.
+
+168
+00:11:10,170 --> 00:11:12,170
+Sehr gerne.
+
+169
+00:11:12,170 --> 00:11:17,170
+Herr Mohamed, überprüfen Sie bitte die Vitalpermite des Patianten
+
+170
+00:11:17,170 --> 00:11:22,510
+und fahren Sie dann mit Iran im Nesefort.
+
+171
+00:11:22,510 --> 00:11:28,460
+Ja, okay.
+
+172
+00:11:28,460 --> 00:11:32,460
+Der blühten Druck ist ein bisschen vor.
+
+173
+00:11:32,460 --> 00:11:38,460
+Es ist 180 zu 100.
+
+174
+00:11:38,460 --> 00:11:40,460
+Das ist hoch, ja.
+
+175
+00:11:40,460 --> 00:11:42,460
+Das ist ja manchmal, aber vielleicht ist das der Grund,
+
+176
+00:11:42,460 --> 00:11:44,460
+weil ich schon Druck auf den Brust habe.
+
+177
+00:11:44,460 --> 00:11:50,460
+Herr Decker, ich gebe Ihnen ein Tablet.
+
+178
+00:11:50,460 --> 00:11:56,460
+Ein Helm mit einer Reaktion, bitte zeigen.
+
+179
+00:11:56,460 --> 00:12:12,460
+Ich möchte ein e-k-Geschrei von der Vitalparamite überprüfen,
+
+180
+00:12:12,460 --> 00:12:19,460
+wie blühten Druck, die Leichtoff-KB, der ZDG,
+
+181
+00:12:19,460 --> 00:12:25,460
+die ZDG, die die ZDG haben.
+
+182
+00:12:25,460 --> 00:12:31,460
+Ich möchte das mit einer Reaktion, wie blühten Druck,
+
+183
+00:12:31,460 --> 00:12:39,460
+die Leichtoff-KB, die ZDG, die Leichtoff-KB,
+
+184
+00:12:39,460 --> 00:12:47,460
+der ZDG, die Leichtoff-KB, die Leichtoff-KB,
+
+185
+00:12:47,460 --> 00:12:59,300
+100 und die Pulse ist 100 pro Minute. So, ich sollte Ihnen Sauerstoff geben und eine Tablette
+
+186
+00:12:59,300 --> 00:13:09,820
+bliege unter die Zange. Unter den Zungen, okay. Ja, und wir warten einige Minuten und dann
+
+187
+00:13:09,820 --> 00:13:17,580
+wir weiter die Anamnese gesprich vor. Machen Sie auch ein EKG-Doctor oder kommt das mit?
+
+188
+00:13:17,580 --> 00:13:26,980
+Ja natürlich, ja natürlich, die Schwester kommt gerade und EKG machen. Ja, natürlich.
+
+189
+00:13:26,980 --> 00:13:37,580
+Gut, EKG. Vielen Dank, es geht mir ein bisschen besser. Das EKG ist auch ganz gut. Es ist ein
+
+190
+00:13:37,580 --> 00:13:48,220
+Synos-Rhythmus, keine Hebungen. Okay, wir zurückkommen zum Gespräch.
+
+191
+00:13:48,220 --> 00:14:06,920
+Sind Sie gegen Kinderkrankheit geimpft? Das hat mein Haushaltsüberprüft, ja.
+
+192
+00:14:06,920 --> 00:14:17,120
+Ja, okay. Und gegen Corona? Bin ich auch geimpft, ich habe Ihnen drei Impfungen. Das letzte war vor
+
+193
+00:14:17,120 --> 00:14:39,380
+fünf Monaten. Wie ist Ihnen Ihre Appetit? Es ist ein Appetit.
+
+194
+00:14:39,420 --> 00:14:44,340
+Er war sehr gut. Beide Tage nicht so gut, aber ansonsten leider zu gut.
+
+195
+00:14:44,340 --> 00:15:04,020
+Okay, und Herr Decker, Rauchen, Sie haben gesagt, vorher, Sie haben viele.
+
+196
+00:15:04,020 --> 00:15:13,980
+Ja, und könnte mir sagen, ein bisschen mehr über die Rauchen, wie viel Zigaretin
+
+197
+00:15:13,980 --> 00:15:20,540
+geraucht und wie lange gezeigt. Das war viel, ich habe ungefähr eine Schachtel am Tag geraucht.
+
+198
+00:15:20,540 --> 00:15:28,700
+Und das über, sicherlich über 20 Jahre. Umgefähr vor 20 Jahren.
+
+199
+00:15:28,700 --> 00:15:38,740
+Okay, und trinken Sie Alkohol? Ja. Wie viel und was Sie trinken?
+
+200
+00:15:39,700 --> 00:15:49,380
+Ja gut, ich trinke immer am Abend mal eine Flasche Bier, manchmal auch mehr und manchmal trinke ich auch so einen Rotfall.
+
+201
+00:15:49,380 --> 00:15:57,310
+Ein Glas? Ja, je nachdem, was es ist, auch mal ein bisschen mehr.
+
+202
+00:15:57,310 --> 00:16:15,070
+Und Herr Decker, nehmen Sie bitte diese Frage nicht persönlich, es ist einfach eine Routinefrage.
+
+203
+00:16:16,030 --> 00:16:19,150
+Nehmen Sie Drogen oder hatten Sie?
+
+204
+00:16:19,150 --> 00:16:21,790
+Meine größte Droge ist Schokolade.
+
+205
+00:16:21,790 --> 00:16:26,670
+Wir haben jeden Abend zwei Tafeln Schokolade verdruckt.
+
+206
+00:16:26,670 --> 00:16:29,790
+Aber andere Drogen habe ich glücklicherweise nicht.
+
+207
+00:16:29,790 --> 00:16:41,950
+Ja, nachdem wir darüber sprechen, ich merke auch viel Schokolade.
+
+208
+00:16:42,830 --> 00:16:50,240
+Okay, Herr, was sind Sie von Beruf?
+
+209
+00:16:50,240 --> 00:16:53,680
+Ich bin Bauningenieur.
+
+210
+00:16:53,680 --> 00:17:02,800
+Meine Aufgabe ist es auf den Baustellen, die als Bauleiter die Arbeiten zu kontrollieren.
+
+211
+00:17:02,800 --> 00:17:07,170
+Und sind Sie für das Erwartet?
+
+212
+00:17:07,170 --> 00:17:08,610
+Ja.
+
+213
+00:17:08,610 --> 00:17:10,690
+Haben Sie Kinder?
+
+214
+00:17:10,690 --> 00:17:12,450
+Ich habe zwei Kinder.
+
+215
+00:17:13,410 --> 00:17:15,810
+Sind Sie gesund?
+
+216
+00:17:15,810 --> 00:17:19,810
+Ein Tochter und einen Sohn und die sind gesund glücklicherweise.
+
+217
+00:17:19,810 --> 00:17:23,810
+Und leben Sie alles zusammen?
+
+218
+00:17:23,810 --> 00:17:28,850
+Nein, die Kinder haben sie natürlich schon länger aus dem Haus.
+
+219
+00:17:28,850 --> 00:17:32,530
+Die haben beide studiert, die eine ist jetzt in Hamburg.
+
+220
+00:17:32,530 --> 00:17:42,050
+Sie ist Ärztin und der Sohn ist Betriebswirt, der ist nach München gegangen.
+
+221
+00:17:42,370 --> 00:17:43,890
+Ja, sehr gut.
+
+222
+00:17:43,890 --> 00:17:48,770
+Und dann leben Sie mit Ihrer Frau?
+
+223
+00:17:48,770 --> 00:17:54,930
+Ja, ich wollte meine Frau.
+
+224
+00:17:54,930 --> 00:18:00,450
+Haben Sie Stress bei der Arbeit oder bei der Familie?
+
+225
+00:18:00,450 --> 00:18:04,690
+Im Alltag habe ich genug, natürlich.
+
+226
+00:18:04,690 --> 00:18:09,090
+Im Beruf ist natürlich viel zu tun und da ist auch viel Stress.
+
+227
+00:18:09,090 --> 00:18:13,900
+Viel Stress.
+
+228
+00:18:14,220 --> 00:18:21,900
+Herr Decker, ich stelle eine Frage über Familie einem Neese.
+
+229
+00:18:21,900 --> 00:18:26,060
+Lernen Ihre Eltern noch?
+
+230
+00:18:26,060 --> 00:18:31,940
+Mein Vater lebt noch, aber meine Mutter ist letztes Jahr verstorben leider.
+
+231
+00:18:31,940 --> 00:18:36,500
+Woran verstorben?
+
+232
+00:18:37,460 --> 00:18:45,460
+Sie hatte leider ein Krebs und ist dann am Folgen des Krebs verstorben.
+
+233
+00:18:45,460 --> 00:18:47,460
+Das ging leider nicht.
+
+234
+00:18:47,460 --> 00:18:49,460
+Wie sind Sie welche Krebs?
+
+235
+00:18:49,460 --> 00:18:53,460
+Ein gynecologischer Krebs, ich glaube.
+
+236
+00:18:53,460 --> 00:18:57,460
+Gynecologischer, aber sie ist nicht.
+
+237
+00:18:57,460 --> 00:19:01,460
+Und Ihr Vater leidet alleine?
+
+238
+00:19:02,420 --> 00:19:04,420
+Aber dem geht es gut.
+
+239
+00:19:04,420 --> 00:19:08,420
+Keine Erklanten.
+
+240
+00:19:08,420 --> 00:19:15,380
+Der nimmt zwar keine Tabletten, der ist auch gesund,
+
+241
+00:19:15,380 --> 00:19:17,380
+er versorgt sich alleine.
+
+242
+00:19:17,380 --> 00:19:19,380
+Der ist sportlich.
+
+243
+00:19:19,380 --> 00:19:30,060
+Ich hoffe auch, dass Sie nach diesem Problem behandeln.
+
+244
+00:19:30,060 --> 00:19:36,060
+Auch Sie Sport machen, ich empfehle.
+
+245
+00:19:36,060 --> 00:19:40,060
+Ich will immer gerne, aber ich habe leider nie die Zeit dazu.
+
+246
+00:19:40,060 --> 00:19:47,600
+Okay, darüber reden wir später.
+
+247
+00:19:47,600 --> 00:19:55,410
+Herr Doktor, was glauben Sie, was ich habe?
+
+248
+00:19:55,410 --> 00:19:57,410
+Ja, ich habe sie.
+
+249
+00:19:57,410 --> 00:19:59,410
+Ist es etwas Schlimmes?
+
+250
+00:19:59,410 --> 00:20:01,410
+Ist es mit einem Herzinfarkt?
+
+251
+00:20:01,410 --> 00:20:03,410
+Ja, ich habe sie.
+
+252
+00:20:03,410 --> 00:20:11,410
+Ich habe die wichtigsten Fragen gestellt.
+
+253
+00:20:11,410 --> 00:20:13,410
+Möchten Sie etwas hinzufugeln?
+
+254
+00:20:13,410 --> 00:20:15,410
+Ich möchte wissen, was es ist, Herr Doktor.
+
+255
+00:20:15,410 --> 00:20:17,410
+Sie haben mich so gefragt.
+
+256
+00:20:17,410 --> 00:20:25,410
+Auf dem EKG haben Sie keine Fragen zum Glück.
+
+257
+00:20:25,410 --> 00:20:29,410
+Aber leider haben Sie meine Verdachtdiagnose
+
+258
+00:20:29,410 --> 00:20:35,410
+Herzkrankheit, Corona-Herzkrankheit.
+
+259
+00:20:35,410 --> 00:20:39,410
+Das habe ich ja schon gesagt.
+
+260
+00:20:39,410 --> 00:20:41,410
+Vor zehn Jahren habe ich ein Herzinfarkt gehabt.
+
+261
+00:20:41,410 --> 00:20:45,410
+Ja, leider kommen Sie noch einmal.
+
+262
+00:20:45,410 --> 00:20:49,410
+Sie haben sie aber gewischt.
+
+263
+00:20:49,410 --> 00:20:59,410
+Sie haben welche Medikamente Sie nehmen?
+
+264
+00:20:59,410 --> 00:21:01,410
+Sie wollen meine Medikamente.
+
+265
+00:21:01,410 --> 00:21:03,410
+Ich habe mehrere Medikamente.
+
+266
+00:21:03,410 --> 00:21:05,410
+Ja, Sie können mir sagen.
+
+267
+00:21:05,410 --> 00:21:09,410
+Ich habe zum einen das Aspirin 100.
+
+268
+00:21:09,410 --> 00:21:17,040
+Dann habe ich Metaprolol 95.
+
+269
+00:21:17,040 --> 00:21:19,040
+Dann nehme ich eine Tabletin.
+
+270
+00:21:19,040 --> 00:21:23,040
+Metaprolol 95.
+
+271
+00:21:23,040 --> 00:21:34,270
+Dann nehme ich Ramipri 5.
+
+272
+00:21:34,270 --> 00:21:38,270
+Ich habe etwas gegen das Cholesterin.
+
+273
+00:21:38,270 --> 00:21:40,270
+Das ist Artorvastatin 40.
+
+274
+00:21:40,270 --> 00:21:53,790
+Ich sage, Sie haben noch einmal eine Corona-Herzkrankheit.
+
+275
+00:21:53,790 --> 00:21:59,790
+Was heißt eine neue Corona-Herzkrankheit?
+
+276
+00:21:59,790 --> 00:22:01,790
+Ist es ein Herzinfarkt oder etwas anderes?
+
+277
+00:22:01,790 --> 00:22:07,790
+Ja, das gerne sein, weil auf dem EKG
+
+278
+00:22:07,790 --> 00:22:13,790
+nicht schnell sein kann.
+
+279
+00:22:13,790 --> 00:22:17,790
+Wir machen noch einmal EKG später.
+
+280
+00:22:17,790 --> 00:22:23,790
+Aber wir brauchen Korbisch- und Laborentersuchungen.
+
+281
+00:22:23,790 --> 00:22:33,790
+Dann können wir entscheiden, ob Sie Herzinfarkt oder nur Karhäker haben.
+
+282
+00:22:33,790 --> 00:22:43,790
+Ich bitte Ihnen, ein paar Minuten gedürft zu sein.
+
+283
+00:22:43,790 --> 00:22:49,790
+Soll ich hier warten, während Sie mich wachen?
+
+284
+00:22:49,790 --> 00:22:53,790
+Sie bleiben hier.
+
+285
+00:22:53,790 --> 00:22:57,790
+Ihr Sauerstoff muss dauerhaft bekommen.
+
+286
+00:22:57,790 --> 00:23:15,900
+Dann gleich mit der Sister Korbisch- und Laborentersuchung durchführen.
+
+287
+00:23:15,900 --> 00:23:19,900
+Und wann nehmen Sie Blut ab?
+
+288
+00:23:19,900 --> 00:23:23,900
+Jetzt.
+
+289
+00:23:23,900 --> 00:23:31,900
+Direkt nach dem Korbisch- und Laborentersuchung.
+
+290
+00:23:31,900 --> 00:23:39,780
+Dann warten wir hier.
+
+291
+00:23:39,780 --> 00:23:58,770
+Ich bitte Ihnen, ein paar Minuten gedürft zu sein.
+
+292
+00:23:58,770 --> 00:24:04,210
+Ja, ein paar Minuten.
+
+293
+00:24:04,210 --> 00:24:10,210
+Ich bitte Ihnen, ein paar Minuten gedürft zu sein.
+
+294
+00:24:10,210 --> 00:24:14,210
+Nein.
+
+295
+00:24:14,210 --> 00:24:20,210
+Nein.
+
+296
+00:24:20,210 --> 00:24:24,210
+Nein.
+
+297
+00:24:24,210 --> 00:24:38,080
+Nein.
+
+298
+00:24:38,080 --> 00:24:42,080
+Nein.
+
+299
+00:24:42,080 --> 00:24:46,080
+Nein.
+
+300
+00:24:46,080 --> 00:24:54,080
+Nein.
+
+301
+00:24:54,080 --> 00:24:58,080
+Nein.
+
+302
+00:24:58,080 --> 00:25:02,080
+Nein.
+
+303
+00:25:02,080 --> 00:25:06,080
+Nein.
+
+304
+00:25:06,080 --> 00:25:10,080
+Nein.
+
+305
+00:25:10,080 --> 00:25:14,080
+Nein.
+
+306
+00:25:14,080 --> 00:25:24,080
+Nein.
+
+307
+00:25:24,080 --> 00:25:30,080
+Nein.
+
+308
+00:25:30,080 --> 00:25:42,080
+Nein.
+
+309
+00:25:42,080 --> 00:25:45,360
+Nicht, Schwindel hatte gefragt, aber kalt schweiß ich, bin ich nicht.
+
+310
+00:25:46,360 --> 00:25:49,840
+Aber Sie haben nicht gefragt, ob ich Unterschenkelödem habe,
+
+311
+00:25:49,840 --> 00:25:54,880
+ob ich eine Reise hinter mir habe,
+
+312
+00:25:54,880 --> 00:25:59,570
+als Differenzialdiagnose.
+
+313
+00:26:03,570 --> 00:26:07,890
+Wie viel kissen Benüsunzi zum Schlafen?
+
+314
+00:26:09,970 --> 00:26:13,410
+Wie viel kissen Benüsunzi zum Schlafen?
+
+315
+00:26:13,730 --> 00:26:16,930
+Genau, ein Kissen reicht mir.
+
+316
+00:26:18,210 --> 00:26:20,610
+Wie viel Reisen?
+
+317
+00:26:20,610 --> 00:26:22,050
+Keine Reisen.
+
+318
+00:26:24,610 --> 00:26:28,370
+Ich habe nicht.
+
+319
+00:26:28,370 --> 00:26:36,130
+Manchmal, wenn ich am Abend spät esse, habe ich etwas aufgestoßen.
+
+320
+00:26:39,200 --> 00:26:44,800
+Ich habe auch eine Reise hinter mir,
+
+321
+00:26:44,800 --> 00:26:47,040
+die ich in der Taubhaus-Gefür hatte.
+
+322
+00:26:47,040 --> 00:26:51,970
+Nein, nein.
+
+323
+00:26:51,970 --> 00:26:55,650
+Ich habe nicht gefragt, ob ich eine Reise hinter mir habe.
+
+324
+00:26:55,650 --> 00:26:57,650
+Ja, war der.
+
+325
+00:26:57,650 --> 00:27:02,850
+Ich habe nicht gefragt, ob ich eine Reise hinter mir habe.
+
+326
+00:27:02,850 --> 00:27:06,850
+Ich habe nicht gefragt, ob ich eine Reise hinter mir habe.
+
+327
+00:27:07,170 --> 00:27:17,310
+Wurden Sie einmal operiert worden?
+
+328
+00:27:17,310 --> 00:27:21,310
+Ja, ich habe schon mehrere Operationen hinter mir.
+
+329
+00:27:21,310 --> 00:27:23,310
+Ja, bitte schön.
+
+330
+00:27:23,310 --> 00:27:29,310
+Also ich hatte vor fünf Jahren mein rechtes Knie operiert worden.
+
+331
+00:27:29,310 --> 00:27:31,310
+Da hatte ich so ein Miniskusriss.
+
+332
+00:27:31,310 --> 00:27:37,310
+Vor 15 Jahren ist mein Blinddarm operiert.
+
+333
+00:27:37,630 --> 00:27:41,630
+Blinddarm operiert als 15 Jahre alt?
+
+334
+00:27:41,630 --> 00:27:43,630
+Vor 15 Jahren.
+
+335
+00:27:43,630 --> 00:27:47,630
+Da hatte ich eine Blinddarmperforation.
+
+336
+00:27:52,980 --> 00:27:58,980
+Dann hatte ich eine Züste am Nebenholding.
+
+337
+00:27:58,980 --> 00:28:05,540
+Das ist vor sechs Jahren operiert worden.
+
+338
+00:28:05,540 --> 00:28:09,540
+Vor 20 Jahren hatte ich eine Steißbein-Fistel.
+
+339
+00:28:09,860 --> 00:28:11,860
+Das war eine ganz schlimme OP.
+
+340
+00:28:11,860 --> 00:28:15,860
+Da musste ich sechs Wochen mit einer offenen Wunderung laufen.
+
+341
+00:28:15,860 --> 00:28:17,860
+Das war sehr unangenehm.
+
+342
+00:28:17,860 --> 00:28:19,860
+Entschuldigung.
+
+343
+00:28:19,860 --> 00:28:23,860
+Noch einmal konnten Sie wiederholen, die vor der Krankung gehen.
+
+344
+00:28:23,860 --> 00:28:25,860
+Vor 10 Jahren.
+
+345
+00:28:25,860 --> 00:28:27,860
+Vor Operationen, meinen Sie.
+
+346
+00:28:27,860 --> 00:28:29,860
+Also wie gesagt, ein Miniskusriss.
+
+347
+00:28:29,860 --> 00:28:31,860
+Dann Blinddarm-OP.
+
+348
+00:28:31,860 --> 00:28:33,860
+Blind...
+
+349
+00:28:33,860 --> 00:28:35,860
+Vor 10 Jahren.
+
+350
+00:28:35,860 --> 00:28:37,860
+15 Jahre.
+
+351
+00:28:37,860 --> 00:28:39,860
+15 Jahre.
+
+352
+00:28:39,860 --> 00:28:41,860
+Blinddarm-OP.
+
+353
+00:28:41,860 --> 00:28:43,860
+Und vor 10 Jahren...
+
+354
+00:28:43,860 --> 00:28:49,860
+Da hatte ich eine Züste am Nebenholding.
+
+355
+00:28:49,860 --> 00:28:51,860
+Züste am Nebenholding.
+
+356
+00:28:51,860 --> 00:28:57,230
+Ich glaube, das nennt sich Spermatozene oder so ähnlich.
+
+357
+00:28:57,230 --> 00:28:59,230
+Ja.
+
+358
+00:28:59,230 --> 00:29:02,960
+Und...
+
+359
+00:29:02,960 --> 00:29:06,960
+Was habe ich gesagt vorhin?
+
+360
+00:29:06,960 --> 00:29:08,960
+Genau.
+
+361
+00:29:08,960 --> 00:29:10,960
+Eine Steißbein-Fistel.
+
+362
+00:29:10,960 --> 00:29:12,960
+Steißbein.
+
+363
+00:29:12,960 --> 00:29:14,960
+Steißbein.
+
+364
+00:29:14,960 --> 00:29:16,960
+Fistel.
+
+365
+00:29:16,960 --> 00:29:18,960
+Fistel.
+
+366
+00:29:18,960 --> 00:29:22,960
+Sie haben gesagt, vor 10 Jahren ein Ersinfakt gehabt.
+
+367
+00:29:22,960 --> 00:29:24,960
+Ja.
+
+368
+00:29:24,960 --> 00:29:26,960
+Und welche...
+
+369
+00:29:30,960 --> 00:29:32,960
+wurden Sie...
+
+370
+00:29:32,960 --> 00:29:34,960
+ist es wirklich behandelt, oder?
+
+371
+00:29:34,960 --> 00:29:38,960
+Ja, gut, nach dem Ersinfakt hat mein Herzkathetiker natürlich auf einen Stand bekommen.
+
+372
+00:29:38,960 --> 00:29:40,960
+Ein Stand bekommen.
+
+373
+00:29:40,960 --> 00:29:42,960
+Ja, ja.
+
+374
+00:29:42,960 --> 00:29:44,960
+Regelmäßig beim Kardiologen.
+
+375
+00:29:44,960 --> 00:29:46,960
+Der sagt, bisher ist alles in Ordnung.
+
+376
+00:29:46,960 --> 00:29:50,960
+Ja, und Sie haben gesagt, Perfuration aber nicht...
+
+377
+00:29:50,960 --> 00:29:52,960
+gut gehören.
+
+378
+00:29:52,960 --> 00:29:54,960
+Perfurationen.
+
+379
+00:29:54,960 --> 00:29:56,960
+Blinddarm.
+
+380
+00:29:56,960 --> 00:30:08,940
+Blinddarm.
+
+381
+00:30:08,940 --> 00:30:15,230
+Ja.
+
+382
+00:30:15,230 --> 00:30:17,230
+Starknzen.
+
+383
+00:30:17,230 --> 00:30:19,230
+Machen wir den Arztübergabe.
+
+384
+00:30:19,230 --> 00:30:21,230
+Ja.
+
+385
+00:30:21,230 --> 00:30:23,230
+Gibt es noch eine Frage?
+
+386
+00:30:23,230 --> 00:30:25,230
+Nein.
+
+387
+00:30:25,230 --> 00:30:27,230
+Wir machen jetzt den Arztübergabe, Oberarzt.
+
+388
+00:30:27,230 --> 00:30:29,230
+Ja, okay.
+
+389
+00:30:29,230 --> 00:30:32,930
+Guten Abend, Herr Oberarzt.
+
+390
+00:30:32,930 --> 00:30:36,590
+Hallo, liebe Kollege.
+
+391
+00:30:36,590 --> 00:30:42,590
+Ich würde gerne Ihnen die neuen Patienten vorstellen.
+
+392
+00:30:42,590 --> 00:30:44,590
+Haben Sie kurz Zeit für mich.
+
+393
+00:30:44,590 --> 00:30:46,590
+Aber natürlich bitteschön.
+
+394
+00:30:46,590 --> 00:30:48,590
+Was haben Sie denn?
+
+395
+00:30:48,590 --> 00:30:52,590
+Sein Name ist Franz Decker.
+
+396
+00:30:52,590 --> 00:31:02,590
+Er ist 54 Jahre alt und zwar geboren am 23. April 1968.
+
+397
+00:31:02,590 --> 00:31:10,590
+Er ist 1,73 m groß und wiegt 115 kg.
+
+398
+00:31:10,590 --> 00:31:12,590
+Ganz schön viel, ja?
+
+399
+00:31:12,590 --> 00:31:14,590
+Ja, sehr.
+
+400
+00:31:14,590 --> 00:31:28,590
+Herr Decker stellte sich heute bei uns wegen seit 2 Tagen bestehenden
+
+401
+00:31:28,590 --> 00:31:38,590
+Rhetorsternellen, Schmerzen mit Ausstrahlung,
+
+402
+00:31:38,590 --> 00:31:44,590
+mit Rückenausstrahlung in den Rücken.
+
+403
+00:31:44,590 --> 00:32:00,580
+Er berichtete, dass die Schmerzen am Anfang 2, 3 auf der Skala von 10,
+
+404
+00:32:00,580 --> 00:32:18,270
+und im Laufe der Zeit die Schmerzen 7, 8 von 10 angestiegen sind.
+
+405
+00:32:18,270 --> 00:32:34,270
+Er berichtete auch über tiefe Atmenschmerzen
+
+406
+00:32:34,270 --> 00:32:38,270
+und Enggelfung.
+
+407
+00:32:38,270 --> 00:32:44,270
+Wo sind die Schmerzen bei tiefer Inspiration?
+
+408
+00:32:44,270 --> 00:32:54,270
+An den Mittellbrust und Ausstrahlung nach dem Rücken.
+
+409
+00:32:54,270 --> 00:32:58,270
+Sind Sie stechend, dumpf, oder was meint ihr mit Schmerzen?
+
+410
+00:32:58,270 --> 00:33:00,270
+Was für hart von Schmerzen sind das?
+
+411
+00:33:00,270 --> 00:33:06,270
+Das ist nicht gesteht.
+
+412
+00:33:06,270 --> 00:33:12,270
+Er hat stechende Schmerzen bei tiefer Inspiration.
+
+413
+00:33:12,270 --> 00:33:36,780
+Er berichtete, dass Atem das Rüstbneue bei leichter Belästung auftreten wurde.
+
+414
+00:33:36,780 --> 00:33:48,780
+Er berichtete, dass er vor 10 Jahren Herzinfarkt hatte.
+
+415
+00:33:48,780 --> 00:33:56,780
+Und danach eine Stentoppe durchgeführt.
+
+416
+00:33:56,780 --> 00:34:08,780
+Er hat eine Corona-Angeografie mit Stent-Implantation.
+
+417
+00:34:08,780 --> 00:34:13,780
+Die Frage nach Obelkeit, Erbröschen,
+
+418
+00:34:13,780 --> 00:34:19,780
+die er lassen und Sturrungen verneint wurden.
+
+419
+00:34:19,780 --> 00:34:29,780
+Die Abität zurzeit ist ein bisschen verwendet.
+
+420
+00:34:29,780 --> 00:34:39,980
+Aber sonst ist der Abität sehr gut.
+
+421
+00:34:39,980 --> 00:34:50,980
+Er klagte, dass die Schmerzen langsam aufgetreten sind.
+
+422
+00:34:50,980 --> 00:35:01,980
+Und sich im Laufe der Zeit verschwemmet werden.
+
+423
+00:35:01,980 --> 00:35:08,980
+An Vorerkrankungen sind bekannt.
+
+424
+00:35:08,980 --> 00:35:23,980
+Er hat seit 10 Jahren Atelierhypertonie.
+
+425
+00:35:23,980 --> 00:35:30,890
+Er leidet an Obergewicht.
+
+426
+00:35:30,890 --> 00:35:38,890
+Er hat eine Frage nach Allergien und Unverzweglichkeit verneint.
+
+427
+00:35:38,890 --> 00:35:55,890
+Der Patient nimmt 100 mg morgens oder einmal pro Tag mit 190 mg.
+
+428
+00:35:55,890 --> 00:36:08,380
+195 mg.
+
+429
+00:36:08,380 --> 00:36:18,380
+99 mg.
+
+430
+00:36:18,380 --> 00:36:28,380
+45 mg.
+
+431
+00:36:28,380 --> 00:36:38,380
+95 mg.
+
+432
+00:36:38,380 --> 00:36:50,000
+Und 20 mg abends.
+
+433
+00:36:50,000 --> 00:37:02,000
+Herr Dekker hat vorher geraucht.
+
+434
+00:37:02,000 --> 00:37:07,000
+Ein Packung pro Tag vor 20 Jahren.
+
+435
+00:37:07,000 --> 00:37:13,000
+Aber nach dem Herzinfarkt nicht mehr.
+
+436
+00:37:13,000 --> 00:37:17,000
+Alkohol.
+
+437
+00:37:17,000 --> 00:37:25,000
+Er bringt ein oder manchmal mehr Flasche Bier pro Tag.
+
+438
+00:37:25,000 --> 00:37:29,000
+Manchmal erbringt Rotwein, ein Glas oder mehr.
+
+439
+00:37:29,000 --> 00:37:45,630
+Die Familie ergeben einen krebsgenetischen, genekologischen Krebs bei Mutter.
+
+440
+00:37:45,630 --> 00:37:52,630
+Er weiß nicht, welcher genau ist.
+
+441
+00:37:52,630 --> 00:38:02,680
+Der Vater ist gestorben.
+
+442
+00:38:02,680 --> 00:38:06,680
+Mutter oder Vater?
+
+443
+00:38:06,680 --> 00:38:11,680
+Mutter, genekologische Krebs.
+
+444
+00:38:11,680 --> 00:38:16,680
+Und ist an dem Krebs verstorben.
+
+445
+00:38:16,680 --> 00:38:19,680
+Mutter ist verstorben.
+
+446
+00:38:19,680 --> 00:38:24,680
+Vater ist gesund.
+
+447
+00:38:24,680 --> 00:38:32,680
+Mutter ist an genekologischen Krebs verstorben.
+
+448
+00:38:32,680 --> 00:38:38,680
+Herr Dekker ist Bauingenieur.
+
+449
+00:38:38,680 --> 00:38:45,680
+Er ist verheiratet und hat zwei gesunde Kinder.
+
+450
+00:38:45,680 --> 00:38:51,680
+Er liebt mit der Frau zusammen.
+
+451
+00:38:51,680 --> 00:38:58,470
+Er hat viel Stress bei Arbeit.
+
+452
+00:38:58,470 --> 00:39:03,470
+Die Impfstätigkeit ist vollständig.
+
+453
+00:39:03,470 --> 00:39:10,470
+Er ist dreimal gegen Covid-19 geimpft.
+
+454
+00:39:10,470 --> 00:39:18,260
+Das war der Ernest.
+
+455
+00:39:18,260 --> 00:39:28,260
+Er ist auf einem nächsten Angriff.
+
+456
+00:39:28,260 --> 00:39:38,260
+Er ist von Herzinfarkt aus.
+
+457
+00:39:38,260 --> 00:39:45,150
+Wie ist das Labor?
+
+458
+00:39:45,150 --> 00:39:53,150
+Wir haben einen Labor gemacht.
+
+459
+00:39:53,150 --> 00:40:01,150
+Wenn Sie sagen, es ist ein Herzinfarkt, dann brauchen Sie ein Labor.
+
+460
+00:40:01,150 --> 00:40:19,000
+Die ZK und ZK-MB sind erhöhte.
+
+461
+00:40:19,000 --> 00:40:29,000
+Er ist von Herzinfarkt aus erhöht.
+
+462
+00:40:29,000 --> 00:40:35,000
+Welcher Wert ist erhöht?
+
+463
+00:40:35,000 --> 00:40:47,340
+Er ist von Herzinfarkt aus erhöht.
+
+464
+00:40:47,340 --> 00:40:57,340
+Was war am EKG?
+
+465
+00:40:57,340 --> 00:41:08,810
+Er hat beim ersten EKG keine ST-Hebungen gehabt.
+
+466
+00:41:08,810 --> 00:41:18,810
+Er hat nach ihrem EKG eine ST-Streckenhebung.
+
+467
+00:41:18,810 --> 00:41:26,810
+Er hat einen Akuten-Myokartinfarkt.
+
+468
+00:41:26,810 --> 00:41:34,810
+Das Labor hat einen positiven Troponientest.
+
+469
+00:41:34,810 --> 00:41:43,810
+Was machen Sie mit den Patienten?
+
+470
+00:41:43,810 --> 00:41:55,810
+Wir bleiben bei uns.
+
+471
+00:41:55,810 --> 00:42:03,810
+Wir haben schon ein paar Medikamente gemacht.
+
+472
+00:42:03,810 --> 00:42:08,810
+Was braucht der Patient?
+
+473
+00:42:08,810 --> 00:42:14,810
+Wir haben einen Antigoagulant-Medikament.
+
+474
+00:42:14,810 --> 00:42:24,810
+Das ist wichtig.
+
+475
+00:42:24,810 --> 00:42:34,810
+Das ist das Arspyriene.
+
+476
+00:42:34,810 --> 00:42:44,810
+Wir sind in der Klinik.
+
+477
+00:42:44,810 --> 00:42:54,810
+Das ist für Langit.
+
+478
+00:42:54,810 --> 00:43:06,810
+Wir haben eine Tropocinase.
+
+479
+00:43:06,810 --> 00:43:18,150
+Wir haben eine Erdkarte.
+
+480
+00:43:18,150 --> 00:43:28,150
+Wir haben eine Erdkarte.
+
+481
+00:43:28,150 --> 00:43:38,150
+Wir wollen eine Lusiterapie machen.
+
+482
+00:43:38,150 --> 00:43:48,150
+Eine operative Trompenempfernung.
+
+483
+00:43:48,150 --> 00:43:58,150
+Wir sind akut und frisch.
+
+484
+00:43:58,150 --> 00:44:08,150
+Wir können die Schaden bekommen.
+
+485
+00:44:08,150 --> 00:44:18,150
+Wir machen die Trombus.
+
+486
+00:44:18,150 --> 00:44:25,150
+Wenn die Medikamente nicht los ist,
+
+487
+00:44:25,150 --> 00:44:34,150
+dann machen wir eine operative Trompenempfernung.
+
+488
+00:44:34,150 --> 00:44:54,150
+Wir machen eine Corona-Angiografie.
+
+489
+00:44:54,150 --> 00:45:04,150
+Wir machen eine Corona-Angiografie.
+
+490
+00:45:04,150 --> 00:45:14,150
+Was sind Ihre Diagnose?
+
+491
+00:45:14,150 --> 00:45:24,150
+Was kann man noch denken?
+
+492
+00:45:24,150 --> 00:45:34,150
+Keine Herzinfarkt.
+
+493
+00:45:34,150 --> 00:45:44,150
+Was ist eine Stabilung?
+
+494
+00:45:44,150 --> 00:45:54,150
+Das ist Stabilung.
+
+495
+00:45:54,150 --> 00:46:00,150
+Wenn er immer wieder Schmerzen hat,
+
+496
+00:46:00,150 --> 00:46:12,150
+dann ist es eine Stabilung.
+
+497
+00:46:12,150 --> 00:46:22,150
+Was ist eine Stabilung?
+
+498
+00:46:22,150 --> 00:46:32,150
+Wir haben wegen der Lungenembuli nicht gefragt,
+
+499
+00:46:32,150 --> 00:46:36,150
+ob er eine Reise hatte, ob er eine Trombose hatte,
+
+500
+00:46:36,150 --> 00:46:42,150
+ob er eine Trombose hatte,
+
+501
+00:46:42,150 --> 00:46:49,150
+ob er eine Trombose hatte,
+
+502
+00:46:49,150 --> 00:46:57,150
+ob er eine Trombose hatte,
+
+503
+00:46:57,150 --> 00:47:09,010
+ob er eine Trombose hatte,
+
+504
+00:47:09,010 --> 00:47:19,010
+ob er eine Trombose hatte,
+
+505
+00:47:19,010 --> 00:47:28,010
+ob er eine Trombose hatte,
+
+506
+00:47:28,010 --> 00:47:39,580
+ob er eine Trombose hatte,
+
+507
+00:47:39,580 --> 00:47:49,580
+ob er eine Trombose hatte,
+
+508
+00:47:49,580 --> 00:47:58,580
+ob er eine Trombose hatte,
+
+509
+00:47:58,580 --> 00:48:08,580
+ob er eine Trombose hatte,
+
+510
+00:48:08,580 --> 00:48:18,580
+ob er eine Trombose hatte,

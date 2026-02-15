@@ -1,0 +1,931 @@
+1
+00:00:00,000 --> 00:00:30,260
+Ich bin momentan auf dieser Station gedient, aber der Arzt, ich bin wieder mit Ihnen das Aufnahmegeschwöhnung.
+
+2
+00:00:30,260 --> 00:00:38,260
+Wie heißen Sie denn? Mein Name ist Tom Müller.
+
+3
+00:00:38,260 --> 00:00:45,260
+Könnten Sie bitte Ihren Nachname und Vorname stabilen?
+
+4
+00:00:45,260 --> 00:00:51,260
+Mein Name ist Tom, der Automater.
+
+5
+00:00:51,260 --> 00:00:57,260
+Nachname ist Müller.
+
+6
+00:00:57,260 --> 00:01:11,260
+Herr Müller, ich möchte Ihre Beschwerde erzählen.
+
+7
+00:01:11,260 --> 00:01:27,260
+Ich bin 1,70 m groß.
+
+8
+00:01:27,260 --> 00:01:35,880
+Ich bin 85 kg.
+
+9
+00:01:35,880 --> 00:01:41,880
+Ich bin 40 Jahre alt.
+
+10
+00:01:41,880 --> 00:01:55,110
+Am 2.2.1982.
+
+11
+00:01:55,110 --> 00:02:08,520
+Was kann ich für Sie tun? Was haben Sie mit der Beschwerde?
+
+12
+00:02:08,520 --> 00:02:18,520
+Ich habe seit einer Woche Rückenschmerzen.
+
+13
+00:02:18,520 --> 00:02:24,520
+Das zieht in meine rechte Beine hinein.
+
+14
+00:02:24,520 --> 00:02:47,770
+Haben Sie eine Unfalle gehabt oder haben Sie ein bayerisches Beweg?
+
+15
+00:02:47,770 --> 00:02:57,770
+Ich bin morgens aufgestanden und wollte auf die Aubertage gehen.
+
+16
+00:02:57,770 --> 00:03:03,770
+Ich habe mich gebückt und das war ein einschießender Schmerz.
+
+17
+00:03:03,770 --> 00:03:13,770
+Seitdem tut mir mein Rücken weh und der Schmerz strahlt in meinen Beinen aus.
+
+18
+00:03:13,770 --> 00:03:25,110
+Ich habe mich auf eine Schmerz gestartet.
+
+19
+00:03:25,110 --> 00:03:35,110
+Ich habe mich auf eine Schmerz gestartet.
+
+20
+00:03:35,110 --> 00:03:43,110
+Ich habe mich auf eine Schmerz gestartet.
+
+21
+00:03:43,110 --> 00:03:49,110
+Wie viele Schmerzen haben Sie?
+
+22
+00:03:49,110 --> 00:03:51,110
+7.
+
+23
+00:03:51,110 --> 00:03:56,460
+7.
+
+24
+00:03:56,460 --> 00:04:02,460
+Wie viele Schmerzen haben Sie?
+
+25
+00:04:02,460 --> 00:04:12,440
+Ich habe die ganze Zeit.
+
+26
+00:04:12,440 --> 00:04:22,440
+Was ist das Schmerz?
+
+27
+00:04:22,440 --> 00:04:32,440
+Verstärken.
+
+28
+00:04:32,440 --> 00:04:57,780
+Sie sind gut aufliegen.
+
+29
+00:04:57,780 --> 00:05:15,290
+Sie haben schon aufgefallen, dass Sie ein gewöhnliches Gefühl haben?
+
+30
+00:05:15,290 --> 00:05:26,790
+Nein, ein bisschen gefühlt habe ich nicht aufgefallen.
+
+31
+00:05:26,790 --> 00:05:36,790
+Sie haben eine Kraftverlust aufgefallen?
+
+32
+00:05:36,790 --> 00:05:42,170
+Nein, ich habe keine Schmerz.
+
+33
+00:05:42,170 --> 00:05:48,170
+Ich habe keine Lebung oder Kraftverlust.
+
+34
+00:05:48,170 --> 00:05:50,170
+Ich habe nicht aufgefallen.
+
+35
+00:05:50,170 --> 00:06:00,170
+Wie viele Schmerzen haben Sie?
+
+36
+00:06:00,170 --> 00:06:06,170
+Ich habe die Schmerzen und die helfen mir.
+
+37
+00:06:06,170 --> 00:06:10,170
+Wie viele Schmerzen haben Sie?
+
+38
+00:06:10,170 --> 00:06:20,170
+Ich nehme das bei Bedarf ein und das ist ein 800 Milligramm.
+
+39
+00:06:20,170 --> 00:06:31,700
+Ich nehme die schon dreimal am Tag ein.
+
+40
+00:06:31,700 --> 00:06:45,050
+Ich nehme die Schmerzen, die ich mit heißem Wasser oder heißem Kisten anbinde.
+
+41
+00:06:45,050 --> 00:06:49,050
+Ich habe es noch gemacht, ich weiß nicht, ob es gut wird oder nicht.
+
+42
+00:06:49,050 --> 00:07:03,820
+Herr Müller, sind Sie schon einmal operiert?
+
+43
+00:07:03,820 --> 00:07:07,820
+Nein, ich habe nicht operiert.
+
+44
+00:07:07,820 --> 00:07:13,320
+Doch, wegen Blindern wurde ich mal operiert, wo ich klein war.
+
+45
+00:07:13,320 --> 00:07:21,320
+Ich habe eine Frage.
+
+46
+00:07:21,320 --> 00:07:25,320
+Haben Sie Fieber?
+
+47
+00:07:25,320 --> 00:07:27,320
+Nein, habe ich nicht.
+
+48
+00:07:27,320 --> 00:07:31,320
+Leiden Sie unter Kopfschmerzen?
+
+49
+00:07:31,320 --> 00:07:33,320
+Kopfschmerzen habe ich auch nicht.
+
+50
+00:07:33,320 --> 00:07:35,320
+Ich weiss aus Brücken?
+
+51
+00:07:35,320 --> 00:07:37,320
+Auch nicht.
+
+52
+00:07:37,320 --> 00:07:41,320
+Leiden Sie Atemnot oder Kostüm?
+
+53
+00:07:41,320 --> 00:07:47,320
+Haben Sie Probleme mit dem Wasalasen oder Schukran?
+
+54
+00:07:47,320 --> 00:07:51,110
+Nein, habe ich nicht.
+
+55
+00:07:51,110 --> 00:08:13,190
+Herr Müller, bei Ihnen ist es eine Konkurrenz, eine Schukran-Krankheit oder eine Erinnerung?
+
+56
+00:08:13,190 --> 00:08:21,000
+Nein, es ist nicht bekannt bei mir.
+
+57
+00:08:21,000 --> 00:08:23,000
+Sie ist sehr viel geimpft?
+
+58
+00:08:23,000 --> 00:08:28,380
+Geimpft, ja, ich habe alle Impfungen gemacht auf die Corona-Jaffung.
+
+59
+00:08:28,380 --> 00:08:32,380
+Vor einem Monat hatte ich die Brust-Impfung gemacht.
+
+60
+00:08:32,380 --> 00:08:35,820
+Durchführen lassen.
+
+61
+00:08:35,820 --> 00:08:37,820
+Brauchen Sie?
+
+62
+00:08:37,820 --> 00:08:45,830
+Ja, eine Packung am Tag.
+
+63
+00:08:45,830 --> 00:08:49,830
+Das ist zwar langsam teuer jetzt, aber ich kann noch nicht aufwärmen.
+
+64
+00:08:49,830 --> 00:08:51,830
+Wie lange haben Sie das gemacht?
+
+65
+00:08:51,830 --> 00:08:55,830
+Seit 15 Jahren.
+
+66
+00:08:55,830 --> 00:08:59,300
+15 Jahre.
+
+67
+00:08:59,300 --> 00:09:01,300
+Das war nicht gut.
+
+68
+00:09:01,300 --> 00:09:05,300
+Sie haben auch Türkisch Alkohol?
+
+69
+00:09:05,300 --> 00:09:07,300
+Ja, nicht wirklich.
+
+70
+00:09:07,300 --> 00:09:11,300
+Ein Glas Wein, abends zum Essen trinke ich mir schon.
+
+71
+00:09:11,300 --> 00:09:18,150
+Wie lange haben Sie das gemacht?
+
+72
+00:09:18,150 --> 00:09:20,150
+Meistens.
+
+73
+00:09:20,150 --> 00:09:36,170
+Herr Müller, doch eine Frage für Ihre Familie.
+
+74
+00:09:36,170 --> 00:09:48,170
+Hat jemand in Ihrer Familie auch eine Erkrankung oder eine Erfahre-Krankheit?
+
+75
+00:09:48,170 --> 00:09:50,170
+Was meinst du für eine Familie?
+
+76
+00:09:50,170 --> 00:10:00,170
+Ich habe eine Erkrankung für meine Mutter.
+
+77
+00:10:00,170 --> 00:10:12,630
+Meine Mutter ist übergewichtig.
+
+78
+00:10:12,630 --> 00:10:30,120
+Sie nimmt auch Medikamente wegen Schildrüse.
+
+79
+00:10:30,120 --> 00:10:36,120
+Wie alt ist Ihre Eltern?
+
+80
+00:10:36,120 --> 00:10:38,120
+Meine Eltern.
+
+81
+00:10:38,120 --> 00:10:51,080
+Mein Vater ist 75 Jahre alt und meine Mutter ist 69 Jahre alt.
+
+82
+00:10:51,080 --> 00:10:53,080
+Danke.
+
+83
+00:10:53,080 --> 00:11:02,710
+Es gibt noch eine Schweste oder eine Pfarrer?
+
+84
+00:11:02,710 --> 00:11:04,710
+Ich habe einen Bruder.
+
+85
+00:11:04,710 --> 00:11:10,440
+Ist er gesund?
+
+86
+00:11:10,440 --> 00:11:18,300
+Ja, er ist gesund.
+
+87
+00:11:18,300 --> 00:11:20,300
+Wie ist Ihr Beruf, Herr Müller?
+
+88
+00:11:20,300 --> 00:11:22,300
+Wer? Ich?
+
+89
+00:11:22,300 --> 00:11:26,300
+Ich bin Programmierer, IT-Bericher.
+
+90
+00:11:26,300 --> 00:11:31,960
+Ich arbeite in der IT-Bericher.
+
+91
+00:11:31,960 --> 00:11:33,960
+Wie ist Ihr Leben?
+
+92
+00:11:33,960 --> 00:11:35,960
+Ich habe zwei Kinder.
+
+93
+00:11:35,960 --> 00:11:37,960
+Sind Sie gesund?
+
+94
+00:11:37,960 --> 00:11:39,960
+Jawohl.
+
+95
+00:11:39,960 --> 00:12:00,570
+Herr Müller, ich möchte auf Ihre Beschwerden zurückkommen.
+
+96
+00:12:00,570 --> 00:12:21,820
+Können Sie mit dem Bein oder normalen Laufen?
+
+97
+00:12:21,820 --> 00:12:29,820
+Können Sie sich schmerzen oder ein ungewöhnliches Gefeuern?
+
+98
+00:12:29,820 --> 00:12:33,820
+Es ist ein Dauerschmerz.
+
+99
+00:12:33,820 --> 00:12:39,820
+Wenn ich laufe, ist es nicht schlimmer oder nicht.
+
+100
+00:12:39,820 --> 00:12:48,060
+Bravieren Sie eine Unfähigkeit für die Arbeit?
+
+101
+00:12:48,060 --> 00:12:58,060
+Ich kann nicht lange sitzen.
+
+102
+00:12:58,060 --> 00:13:04,060
+Ich weiß noch nicht, was ich habe.
+
+103
+00:13:04,060 --> 00:13:06,060
+Was denken Sie?
+
+104
+00:13:06,060 --> 00:13:10,060
+Können Sie ein bisschen aushalten?
+
+105
+00:13:10,060 --> 00:13:16,060
+Ich mache eine Waffe.
+
+106
+00:13:16,060 --> 00:13:22,060
+Ich gebe eine Jessica Tablet.
+
+107
+00:13:22,060 --> 00:13:26,060
+Gerne.
+
+108
+00:13:26,060 --> 00:13:39,270
+Gibt es noch irgendwelche Musiker?
+
+109
+00:13:39,270 --> 00:13:43,270
+Sonst zu beschwerden? Nein.
+
+110
+00:13:43,270 --> 00:13:49,220
+Außer meinen Rückenschmerzen bin ich glücklich.
+
+111
+00:13:49,220 --> 00:13:57,500
+Ja, mit dem Anamnese fertig.
+
+112
+00:13:57,500 --> 00:14:03,500
+Möchten Sie etwas hinschauen?
+
+113
+00:14:03,500 --> 00:14:05,500
+Nein.
+
+114
+00:14:05,500 --> 00:14:09,500
+Was passiert mit mir?
+
+115
+00:14:09,500 --> 00:14:17,500
+Ich werde Ihnen eine körperliche Untersuchung geben.
+
+116
+00:14:17,500 --> 00:14:29,500
+Ich werde eine Brut abnehmen.
+
+117
+00:14:29,500 --> 00:14:39,500
+Ich werde eine Gerundeparameter kontrollieren.
+
+118
+00:14:39,500 --> 00:14:45,500
+Ich werde die Berge und die Werte bestimmen.
+
+119
+00:14:45,500 --> 00:15:07,030
+Ich werde auf den Rücken und eine Untersuchung geben.
+
+120
+00:15:07,030 --> 00:15:11,030
+Sind Sie gefährlich?
+
+121
+00:15:11,030 --> 00:15:13,030
+Nein.
+
+122
+00:15:13,030 --> 00:15:19,030
+Diese Untersuchung ist eine moderne Untersuchung.
+
+123
+00:15:19,030 --> 00:15:35,030
+Diese Untersuchung können wir eine schwache Gewebe und ihre Knochen ganz genau gut erstellen.
+
+124
+00:15:35,030 --> 00:15:54,730
+Diese Erfahren durch Magnetfeld, eine mitgewöhnene Verfahren für uns erstellen.
+
+125
+00:15:54,730 --> 00:16:03,030
+Aufgrundlich können wir etwas in den Feld.
+
+126
+00:16:03,030 --> 00:16:11,030
+Ganz gut und schmerzhaft.
+
+127
+00:16:41,030 --> 00:16:49,030
+Ich werde eine Berührung oder eine Schmerzmittel geben.
+
+128
+00:16:49,030 --> 00:16:53,030
+Das ist alles hübsch.
+
+129
+00:16:53,030 --> 00:17:06,540
+Haben Sie bestimmte Medikamente oder Alergie?
+
+130
+00:17:06,540 --> 00:17:12,540
+Nein, ich kenne nicht so viele Medikamente.
+
+131
+00:17:12,540 --> 00:17:16,540
+Auf Kontrast mitnehmen?
+
+132
+00:17:16,540 --> 00:17:20,540
+Nein, das kenne ich nicht.
+
+133
+00:17:20,540 --> 00:17:44,760
+Wenn Sie nicht aufstehen oder von Sistön nicht, können Sie nicht aufstehen.
+
+134
+00:17:44,760 --> 00:17:54,760
+Wir müssen Ihnen im Krankenhaus aufnehmen.
+
+135
+00:17:54,760 --> 00:17:58,760
+Sind Sie damit einverstanden?
+
+136
+00:17:58,760 --> 00:18:04,760
+Hauptsache, Sie helfen mir, Herr Doktor.
+
+137
+00:18:04,760 --> 00:18:24,250
+Ich werde Ihnen mit einer persönlichen Person begleiten.
+
+138
+00:18:24,250 --> 00:18:30,250
+Gehen Sie sofort auf die Station.
+
+139
+00:18:30,250 --> 00:18:44,310
+Sie sind fertig für die Anamneser.
+
+140
+00:18:44,310 --> 00:19:05,030
+Sie haben auch irgendwelche urgenten Sachen in der Gruppe.
+
+141
+00:19:05,030 --> 00:19:17,530
+Sie haben etwas gesichert.
+
+142
+00:19:17,530 --> 00:19:27,530
+Wenn Sie eine Oberarztvorstellung machen, können Sie dann reden.
+
+143
+00:19:27,530 --> 00:19:37,530
+Eigentlich ist alles relativ okay.
+
+144
+00:19:37,530 --> 00:19:47,530
+Sie haben eine spezielle Anamneser gefragt.
+
+145
+00:19:47,530 --> 00:19:57,530
+Sie haben leicht durcheinander gefragt.
+
+146
+00:19:57,530 --> 00:20:07,530
+Ich würde eine Struktur reinbauen.
+
+147
+00:20:07,530 --> 00:20:17,530
+Als Gedankensstütze, sage ich es sehr oft, ich wiederhole noch einmal,
+
+148
+00:20:17,530 --> 00:20:27,530
+Sie haben schon gefragt, wo Sie eine Parise haben.
+
+149
+00:20:27,530 --> 00:20:37,530
+Man kann auch fragen, ob Sie sich bei der Temperatur unterschieden haben.
+
+150
+00:20:37,530 --> 00:20:49,530
+Man hat vielleicht gefehlt, aber ich weiß nicht, ob Sie in der Prüfung so detailiert fragen.
+
+151
+00:20:49,530 --> 00:20:55,530
+Da gibt es den Begriff, Perfere durch Flutung, Motorizensilität.
+
+152
+00:20:55,530 --> 00:21:01,530
+Ich wiederhole, dass Sie das einbrennen.
+
+153
+00:21:01,530 --> 00:21:09,530
+Sie haben das Gefühl, Sie sind gut.
+
+154
+00:21:09,530 --> 00:21:23,530
+Aber wenn andere Fragen kommen, dann wird Ihre Grammatik und die Sprache ein bisschen falsch.
+
+155
+00:21:23,530 --> 00:21:35,450
+Sie haben ein bisschen verletzt.
+
+156
+00:21:35,450 --> 00:21:45,450
+Sie haben das Gefühl, Sie haben das Gefühl, Sie sind gut.
+
+157
+00:22:18,650 --> 00:22:41,780
+Sie haben eine Programmierung gesagt.
+
+158
+00:22:41,780 --> 00:23:01,780
+Sie haben seit einer Woche mit einer Woche aufgetretenen Stärke geschmarsen.
+
+159
+00:23:01,780 --> 00:23:11,780
+Sie haben das Gefühl, Sie haben das Gefühl, Sie sind gut.
+
+160
+00:23:11,780 --> 00:23:21,780
+Sie haben das Gefühl, Sie sind gut.
+
+161
+00:23:21,780 --> 00:23:31,780
+Sie haben das Gefühl, Sie sind gut.
+
+162
+00:23:31,780 --> 00:23:41,780
+Sie haben das Gefühl, Sie sind gut.
+
+163
+00:23:41,780 --> 00:23:53,580
+Sie haben das Gefühl, Sie sind gut.
+
+164
+00:23:53,580 --> 00:24:04,980
+Sie haben das Gefühl, Sie sind gut.
+
+165
+00:24:04,980 --> 00:24:14,980
+Bei den Patienten ist eine Katmosik, ein so genanter Bein,
+
+166
+00:24:14,980 --> 00:24:24,980
+und die Missentfüllung, die Druckgefühle, verneint.
+
+167
+00:24:24,980 --> 00:24:36,870
+Sie haben nur eine schmerzhafte Beweglichkeit.
+
+168
+00:24:36,870 --> 00:24:46,870
+Sie haben eine Schmerzgefühle, die aus weiteren Küken hinzufühlt,
+
+169
+00:24:46,870 --> 00:24:56,870
+und eine Arbeit nicht fahren könnte.
+
+170
+00:24:56,870 --> 00:25:06,870
+Sie haben eine Schmerzinfektion, die aus Vorerkrankungen...
+
+171
+00:25:06,870 --> 00:25:16,870
+Auf eines Schmerzkala, Schmerzintestate, liegt bei 7 von 10.
+
+172
+00:25:16,870 --> 00:25:26,870
+An Vorerkrankungen und Voroperationen wurde verneint.
+
+173
+00:25:26,870 --> 00:25:30,870
+Es ist eine Rauche.
+
+174
+00:25:30,870 --> 00:25:34,870
+Hat der Schmerzmittel eingenommen?
+
+175
+00:26:04,870 --> 00:26:10,870
+Er ist abgeklungen oder gelindert?
+
+176
+00:26:46,570 --> 00:26:56,570
+Er ist abgeklungen oder gelindert?
+
+177
+00:26:56,570 --> 00:27:06,570
+Er ist abgeklungen oder gelindert?
+
+178
+00:27:06,570 --> 00:27:14,570
+Er ist abgeklungen oder gelindert?
+
+179
+00:27:14,570 --> 00:27:26,420
+Er ist abgeklungen oder gelindert?
+
+180
+00:27:26,420 --> 00:27:44,520
+Er ist abgeklungen oder gelindert?
+
+181
+00:27:44,520 --> 00:27:54,520
+Er ist abgeklungen oder gelindert?
+
+182
+00:27:54,520 --> 00:28:07,690
+Er ist abgeklungen oder gelindert?
+
+183
+00:28:07,690 --> 00:28:15,690
+Er ist abgeklungen oder gelindert?
+
+184
+00:28:15,690 --> 00:28:25,690
+Er ist abgeklungen oder gelindert?
+
+185
+00:28:25,690 --> 00:28:37,320
+Er ist abgeklungen oder gelindert?
+
+186
+00:28:37,320 --> 00:28:56,680
+Er ist abgeklungen oder gelindert?
+
+187
+00:28:56,680 --> 00:29:06,680
+Er ist abgeklungen oder gelindert?
+
+188
+00:29:06,680 --> 00:29:16,680
+Er ist abgeklungen oder gelindert?
+
+189
+00:29:16,680 --> 00:29:30,300
+Er ist abgeklungen oder gelindert?
+
+190
+00:29:30,300 --> 00:29:40,300
+Er ist abgeklungen oder gelindert?
+
+191
+00:29:40,300 --> 00:29:50,300
+Was denken Sie denn?
+
+192
+00:30:20,300 --> 00:30:32,220
+Verlässt der Fossilink, bitte.
+
+193
+00:30:32,220 --> 00:30:42,220
+Vielleicht kann man eine Perferscheuerskrankheit denken.
+
+194
+00:30:42,220 --> 00:31:00,220
+Damit Sie Ihre Verdachtsdiagnose erhärten oder ausschließen, was es sein kann, haben Sie?
+
+195
+00:31:00,220 --> 00:31:12,220
+Wir können beide Untersuchungen durch verschiedene Untersuchungen erhören.
+
+196
+00:31:12,220 --> 00:31:39,460
+Was können Sie machen?
+
+197
+00:31:39,460 --> 00:31:59,460
+Was können Sie machen?
+
+198
+00:31:59,460 --> 00:32:09,460
+Was haben Sie gesagt?
+
+199
+00:32:09,460 --> 00:32:29,460
+Was haben Sie gesagt?
+
+200
+00:32:29,460 --> 00:32:39,460
+Was haben Sie gesagt?
+
+201
+00:32:39,460 --> 00:32:49,460
+Was haben Sie gesagt?
+
+202
+00:32:49,460 --> 00:33:00,940
+Was haben Sie gesagt?
+
+203
+00:33:00,940 --> 00:33:10,940
+Was haben Sie gesagt?
+
+204
+00:33:10,940 --> 00:33:20,940
+Was haben Sie gesagt?
+
+205
+00:33:20,940 --> 00:33:40,940
+Was haben Sie gesagt?
+
+206
+00:33:40,940 --> 00:33:50,940
+Was haben Sie gesagt?
+
+207
+00:33:50,940 --> 00:34:00,940
+Was haben Sie gesagt?
+
+208
+00:34:00,940 --> 00:34:20,940
+Was haben Sie gesagt?
+
+209
+00:34:20,940 --> 00:34:30,940
+Was haben Sie gesagt?
+
+210
+00:34:30,940 --> 00:34:40,940
+Was haben Sie gesagt?
+
+211
+00:34:40,940 --> 00:34:52,570
+Was haben Sie gesagt?
+
+212
+00:34:52,570 --> 00:35:02,570
+Was haben Sie gesagt?
+
+213
+00:35:02,570 --> 00:35:12,570
+Was haben Sie gesagt?
+
+214
+00:35:12,570 --> 00:35:22,570
+Was haben Sie gesagt?
+
+215
+00:35:22,570 --> 00:35:32,570
+Was haben Sie gesagt?
+
+216
+00:35:32,570 --> 00:35:42,570
+Was haben Sie gesagt?
+
+217
+00:35:42,570 --> 00:35:52,570
+Was haben Sie gesagt?
+
+218
+00:35:52,570 --> 00:36:02,570
+Was haben Sie gesagt?
+
+219
+00:36:02,570 --> 00:36:12,570
+Was haben Sie gesagt?
+
+220
+00:36:12,570 --> 00:36:22,570
+Was haben Sie gesagt?
+
+221
+00:36:22,570 --> 00:36:32,570
+Was haben Sie gesagt?
+
+222
+00:36:32,570 --> 00:36:42,570
+Was haben Sie gesagt?
+
+223
+00:36:42,570 --> 00:36:52,570
+Was haben Sie gesagt?
+
+224
+00:36:52,570 --> 00:37:02,570
+Was haben Sie gesagt?
+
+225
+00:37:02,570 --> 00:37:12,570
+Was haben Sie gesagt?
+
+226
+00:37:12,570 --> 00:37:22,570
+Ein neurologisches Konzil haben Sie auch ausgestellt.
+
+227
+00:37:22,570 --> 00:37:42,570
+Ein Neurologist macht eine Neurologie.
+
+228
+00:37:42,570 --> 00:38:12,040
+Ich habe ein Neurologist-Konsil eingeleitet.
+
+229
+00:38:12,040 --> 00:38:32,040
+Ein Neurologist-Konsil wurde ausgestellt.
+
+230
+00:38:32,040 --> 00:38:53,080
+Ich habe ein Neurologist-Konsil eingeleitet.
+
+231
+00:38:53,080 --> 00:39:03,080
+Ich habe ein Neurologist-Konsil eingeleitet.
+
+232
+00:39:03,080 --> 00:39:13,080
+Ich habe ein Neurologist-Konsil eingeleitet.
+
+233
+00:39:13,080 --> 00:39:23,080
+Ein Neurologist-Konsil wurde ausgestellt.
