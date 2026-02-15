@@ -1,0 +1,2035 @@
+1
+00:00:00,560 --> 00:00:04,770
+Bitte schön.
+
+2
+00:00:04,770 --> 00:00:10,020
+Ich bin der zuständige Arzt für Sie.
+
+3
+00:00:10,020 --> 00:00:15,020
+Bevor wir anfangen, lassen Sie mich bitte zuerst Ihre persönliche Daten notieren.
+
+4
+00:00:15,020 --> 00:00:21,020
+Wenn Sie etwas nicht verstehen, geben Sie mir Bescheid oder fragen Sie nach.
+
+5
+00:00:21,020 --> 00:00:24,020
+Wie heißen Sie?
+
+6
+00:00:24,020 --> 00:00:27,810
+Nicole Müller.
+
+7
+00:00:27,810 --> 00:00:30,810
+Nicole mit C?
+
+8
+00:00:30,810 --> 00:00:32,810
+Ja.
+
+9
+00:00:33,810 --> 00:00:36,810
+Wie alt sind Sie?
+
+10
+00:00:36,810 --> 00:00:38,810
+Herr Müller.
+
+11
+00:00:38,810 --> 00:00:43,700
+Nee, Frau Müller, 50 Jahre alt.
+
+12
+00:00:43,700 --> 00:00:50,000
+Verraten Sie mir, wie viel Ihr Geburtstatus?
+
+13
+00:00:50,000 --> 00:00:56,240
+Erster 1972.
+
+14
+00:00:56,240 --> 00:01:00,770
+Wie groß sind Sie?
+
+15
+00:01:00,770 --> 00:01:02,770
+71.
+
+16
+00:01:04,300 --> 00:01:06,300
+Wie viel wiegeln Sie?
+
+17
+00:01:06,300 --> 00:01:12,940
+82.
+
+18
+00:01:12,940 --> 00:01:15,940
+Sind Sie verheiratet, Frau Müller?
+
+19
+00:01:15,940 --> 00:01:17,940
+Ja, ich bin verheiratet.
+
+20
+00:01:17,940 --> 00:01:19,940
+Haben Sie Kinder?
+
+21
+00:01:19,940 --> 00:01:25,350
+Ich habe einen Kind, ja.
+
+22
+00:01:25,350 --> 00:01:29,350
+Ja, Frau Müller, was kann ich für Sie tun?
+
+23
+00:01:29,350 --> 00:01:42,330
+Ja, ich habe seit drei Tagen Luftnot.
+
+24
+00:01:42,330 --> 00:01:48,940
+Luftnot?
+
+25
+00:01:48,940 --> 00:01:50,940
+Okay.
+
+26
+00:01:51,940 --> 00:01:54,940
+Okay, können Sie mir bitte genau beschreiben,
+
+27
+00:01:54,940 --> 00:01:58,940
+wann haben Sie Luftnot bei Belastung oder in Ruhe?
+
+28
+00:01:58,940 --> 00:02:01,940
+Wie treten diese Beschwerden auch?
+
+29
+00:02:01,940 --> 00:02:07,940
+Ich habe Beschwerden auch in Ruhe.
+
+30
+00:02:07,940 --> 00:02:09,940
+Okay.
+
+31
+00:02:09,940 --> 00:02:13,940
+Das reicht auch beim Belastung.
+
+32
+00:02:13,940 --> 00:02:15,940
+Genau.
+
+33
+00:02:15,940 --> 00:02:19,940
+Also ich kann mich nicht mehr belassen, weil ich so viel Luftnot habe.
+
+34
+00:02:19,940 --> 00:02:21,940
+Okay.
+
+35
+00:02:21,940 --> 00:02:30,050
+Und können Sie flach liegen?
+
+36
+00:02:30,050 --> 00:02:35,670
+Nein, wo bin ich dann, kann ich nicht flach liegen.
+
+37
+00:02:35,670 --> 00:02:37,670
+Okay.
+
+38
+00:02:37,670 --> 00:02:46,850
+Dann zum Schlafen benutzen Sie ein paar Kisten, ja?
+
+39
+00:02:46,850 --> 00:02:49,850
+Ja, ich versuche höher zu schlafen.
+
+40
+00:02:49,850 --> 00:02:51,850
+Okay.
+
+41
+00:02:51,850 --> 00:02:53,850
+Wie viel Kisten benutzen Sie?
+
+42
+00:02:53,850 --> 00:02:57,850
+Ich habe meinen eigenen Kisten, aber ich versuche mich,
+
+43
+00:02:57,850 --> 00:03:00,850
+so sitzend hinzulegen.
+
+44
+00:03:00,850 --> 00:03:07,710
+Okay.
+
+45
+00:03:07,710 --> 00:03:10,710
+Haben Sie enge Gefühle oder Brustschmerzen?
+
+46
+00:03:10,710 --> 00:03:14,710
+Brustschmerzen, nein.
+
+47
+00:03:14,710 --> 00:03:16,710
+Aber ich kriege nicht so gut Luft,
+
+48
+00:03:16,710 --> 00:03:19,710
+denn ich ist ein bisschen eng in der Brust, ja.
+
+49
+00:03:19,710 --> 00:03:29,940
+Wie waren Sie vorher, vor drei Tagen,
+
+50
+00:03:29,940 --> 00:03:35,940
+wie sind diese Beschwerden aufgetreten?
+
+51
+00:03:35,940 --> 00:03:37,940
+Vor drei Tagen?
+
+52
+00:03:37,940 --> 00:03:41,940
+Ja, er hört nicht oder langsam,
+
+53
+00:03:41,940 --> 00:03:45,940
+oder im Laufe der Zeit sind die Beschwerden...
+
+54
+00:03:45,940 --> 00:03:48,940
+Na ja, es ist halt seit drei Tagen, das weiß ich nicht.
+
+55
+00:03:48,940 --> 00:03:50,940
+Das ist halt seit drei Tagen.
+
+56
+00:03:50,940 --> 00:03:52,940
+Ich weiß nicht, wie das vorher war.
+
+57
+00:03:52,940 --> 00:03:55,940
+Also vorher ging es mir eigentlich gut.
+
+58
+00:03:55,940 --> 00:03:59,600
+Okay.
+
+59
+00:03:59,600 --> 00:04:03,600
+Vorher konnten Sie Sport treiben?
+
+60
+00:04:03,600 --> 00:04:20,290
+Ich bin nicht so sportlich.
+
+61
+00:04:20,290 --> 00:04:29,290
+Haben Sie erbrochen oder ist Ihnen übel?
+
+62
+00:04:29,290 --> 00:04:31,290
+Nein, ich habe keine Übelkeit.
+
+63
+00:04:31,290 --> 00:04:34,290
+Ich habe nur Luftnot und so enge Gefühlinge der Brust.
+
+64
+00:04:34,290 --> 00:04:36,290
+Okay.
+
+65
+00:04:36,290 --> 00:04:39,290
+Fühlen Sie sich wieblich?
+
+66
+00:04:39,290 --> 00:04:40,290
+Wie?
+
+67
+00:04:40,290 --> 00:04:42,290
+Fühlen Sie sich wieblich?
+
+68
+00:04:42,290 --> 00:04:44,290
+Ziebrig?
+
+69
+00:04:44,290 --> 00:04:45,290
+Ja.
+
+70
+00:04:45,290 --> 00:04:52,660
+Nein.
+
+71
+00:04:52,660 --> 00:04:54,660
+Okay.
+
+72
+00:04:54,660 --> 00:05:01,690
+Okay.
+
+73
+00:05:01,690 --> 00:05:04,690
+Sonst haben Sie noch irgendwelche Beschwerden?
+
+74
+00:05:04,690 --> 00:05:06,690
+Herzrasen.
+
+75
+00:05:06,690 --> 00:05:07,690
+Herzrasen.
+
+76
+00:05:07,690 --> 00:05:13,600
+Ich habe das Gefühl, dass mein Herz schneller schlägt.
+
+77
+00:05:13,600 --> 00:05:18,600
+Wann haben Sie diese Beschwerden?
+
+78
+00:05:18,600 --> 00:05:22,600
+Immer oder sind Sie wieder weg?
+
+79
+00:05:22,600 --> 00:05:25,600
+Seit drei Tagen.
+
+80
+00:05:25,600 --> 00:05:27,600
+Seit drei Tagen.
+
+81
+00:05:27,600 --> 00:05:30,600
+Immer haben Sie Herzrasen.
+
+82
+00:05:30,600 --> 00:05:33,600
+Nicht immer, aber mal mehr, mal weniger.
+
+83
+00:05:33,600 --> 00:05:44,180
+Aber ich habe Herzrasen jetzt.
+
+84
+00:05:44,180 --> 00:05:50,180
+Haben Sie bemerkt, ob diese Beschwerden etwas verstärkt?
+
+85
+00:05:50,180 --> 00:05:57,510
+Gibt es etwas, was diese Beschwerden verstärkt oder blindert?
+
+86
+00:05:57,510 --> 00:06:05,520
+Nein.
+
+87
+00:06:05,520 --> 00:06:07,520
+Okay.
+
+88
+00:06:07,520 --> 00:06:11,520
+Was haben Sie beim Wasserlassen oder Stuhlgang?
+
+89
+00:06:11,520 --> 00:06:18,060
+Ich habe das Gefühl, dass ich die Tage etwas mehr Wasser lassen muss.
+
+90
+00:06:18,060 --> 00:06:21,060
+Aber mit dem Stuhlgang habe ich keine Probleme.
+
+91
+00:06:21,060 --> 00:06:29,360
+Seit drei Tagen.
+
+92
+00:06:29,360 --> 00:06:31,360
+Ja.
+
+93
+00:06:31,360 --> 00:06:34,360
+Trinken Sie genug Wasser?
+
+94
+00:06:34,360 --> 00:06:38,220
+Ja.
+
+95
+00:06:38,220 --> 00:06:40,220
+Wie viel trinken Sie?
+
+96
+00:06:40,220 --> 00:06:44,910
+Ich trinke einen Liter am Tag.
+
+97
+00:06:44,910 --> 00:06:49,410
+Nein.
+
+98
+00:06:49,410 --> 00:06:53,410
+Wie oft gehen Sie zur Toilette?
+
+99
+00:06:53,410 --> 00:06:55,410
+Seit drei Tagen.
+
+100
+00:06:55,410 --> 00:06:58,410
+Sie meinen Wasserlassen?
+
+101
+00:06:58,410 --> 00:07:00,410
+Genau.
+
+102
+00:07:00,410 --> 00:07:02,410
+Oft.
+
+103
+00:07:02,410 --> 00:07:04,410
+Ich habe mich gezählt.
+
+104
+00:07:04,410 --> 00:07:07,720
+Ich muss nachts sehr oft raus.
+
+105
+00:07:07,720 --> 00:07:17,110
+Okay.
+
+106
+00:07:17,110 --> 00:07:25,110
+Jetzt möchte ich über Ihre Vorerkrankungen ein paar Fragen stellen.
+
+107
+00:07:25,110 --> 00:07:30,110
+Leiden Sie an chronische Erkrankungen?
+
+108
+00:07:30,110 --> 00:07:38,800
+Ich nehme Medikamente zur Blutverdünnung.
+
+109
+00:07:38,800 --> 00:07:43,800
+Der Arzt hat vor vier Jahren gesagt, dass etwas am Rhythmus nicht stimmt.
+
+110
+00:07:43,800 --> 00:07:45,800
+Dann ist das wieder normal geworden.
+
+111
+00:07:45,800 --> 00:07:48,800
+Aber ich muss die Blutverdünnung einnehmen.
+
+112
+00:07:48,800 --> 00:07:51,800
+Ich habe Bluthochdruck.
+
+113
+00:07:51,800 --> 00:07:54,800
+Dann nehme ich auch zwei Tabletten ein.
+
+114
+00:07:54,800 --> 00:07:56,800
+Ich habe aber nicht.
+
+115
+00:07:56,800 --> 00:07:59,800
+Die Blutverdünnungstablette kenne ich auch nicht.
+
+116
+00:07:59,800 --> 00:08:01,800
+Ich kann mir das alles nicht merken.
+
+117
+00:08:01,800 --> 00:08:04,800
+Ich habe meinen Medikamentenplan zu Hause vergessen.
+
+118
+00:08:04,800 --> 00:08:12,800
+Ich war damals vor vier Jahren beim Kardiologen.
+
+119
+00:08:12,800 --> 00:08:18,070
+Ich bin sehr verletzt.
+
+120
+00:08:18,070 --> 00:08:21,070
+Ich bin sehr verletzt.
+
+121
+00:08:21,070 --> 00:08:24,070
+Ich bin sehr verletzt.
+
+122
+00:08:24,070 --> 00:08:26,070
+Ich bin sehr verletzt.
+
+123
+00:08:26,070 --> 00:08:30,070
+Wir müssen eine Reaktion haben.
+
+124
+00:08:30,070 --> 00:08:35,070
+Die Patient hat einen Entgegiffel.
+
+125
+00:08:35,070 --> 00:08:39,070
+Er hat sehr viel Luft.
+
+126
+00:08:39,070 --> 00:08:42,070
+Er hat sehr viel Luft.
+
+127
+00:08:42,070 --> 00:08:45,070
+Er hat sehr viel Luft.
+
+128
+00:08:45,070 --> 00:08:47,070
+Ryu Baynare hat sehr viel Luft.
+
+129
+00:08:47,070 --> 00:08:50,070
+Ich habe pedalspurgeln.
+
+130
+00:08:50,070 --> 00:08:53,070
+Ich habe his anderen Räume.
+
+131
+00:08:53,070 --> 00:08:56,070
+Ich habe Schw grade Figures.
+
+132
+00:08:56,070 --> 00:08:58,070
+next class
+
+133
+00:09:00,070 --> 00:09:03,070
+Ich habe eine Schwede.
+
+134
+00:09:03,070 --> 00:09:06,070
+Ich habe eine Schwede.
+
+135
+00:09:06,070 --> 00:09:08,070
+Ich habe eine Schwede.
+
+136
+00:09:08,070 --> 00:09:11,070
+Was soll die Reaktion sein?
+
+137
+00:09:11,070 --> 00:09:14,070
+Das habe ich nicht verstanden.
+
+138
+00:09:14,070 --> 00:09:21,070
+Wir, diese Situation, welche Reaktion...
+
+139
+00:09:21,070 --> 00:09:27,070
+Ach, was muss der Arzt machen, wenn ich sage, dass ich Luftnot habe und dass es mir nicht gut geht?
+
+140
+00:09:27,070 --> 00:09:30,070
+Wenn ich in einen Sauerstoff gebe?
+
+141
+00:09:30,070 --> 00:09:36,070
+Ja genau, das ist sehr gut. Das muss man eigentlich immer sagen, dann freut sich der Prüfer.
+
+142
+00:09:36,070 --> 00:09:41,070
+Also wenn Sie jetzt Luftnot haben, kriegen Sie jetzt erstmal Sauerstoff von mir.
+
+143
+00:09:41,070 --> 00:09:45,070
+Wir schreiben mal sofort ein EKG und machen Sie mal an den Monitor dran.
+
+144
+00:09:45,070 --> 00:09:49,070
+Das sage ich ja immer, ich sage das ja jedes Mal. Jetzt habe ich es vergessen.
+
+145
+00:09:49,070 --> 00:09:55,070
+Also ist es gut, wenn der Arzt sagt, dass der Patient tatsächlich kein richtiger Notfall,
+
+146
+00:09:55,070 --> 00:09:59,070
+weil der Patient hat das seit drei Tagen, ist ja kein akute Luftnot.
+
+147
+00:09:59,070 --> 00:10:05,070
+Aber trotzdem, wenn einer mit Luftnot kommt, sehr gut, dann muss man sagen,
+
+148
+00:10:05,070 --> 00:10:10,070
+wir machen Sauerstoff dran, hier hängen Sie an dem Monitor dran, überwachen den Rhythmus
+
+149
+00:10:10,070 --> 00:10:15,070
+und schreiben mal ein EKG. Und dann kann man weiter machen. Stimmt.
+
+150
+00:10:15,070 --> 00:10:16,070
+Genau.
+
+151
+00:10:16,070 --> 00:10:17,070
+Prüfer, ja.
+
+152
+00:10:17,070 --> 00:10:20,410
+Okay.
+
+153
+00:10:20,410 --> 00:10:22,410
+Haben wir das gemacht?
+
+154
+00:10:22,410 --> 00:10:26,410
+Also ich war vor vier Jahren, haben wir gemacht jetzt, genau.
+
+155
+00:10:26,410 --> 00:10:31,410
+Ich war vor vier Jahren beim Kardiologen und der hat damals gesagt,
+
+156
+00:10:31,410 --> 00:10:37,410
+dass eine Klappe nicht so gut ist. Ich weiß aber nicht, welche Klappe.
+
+157
+00:10:37,410 --> 00:10:41,410
+Die Klappe ist verkeilt, hat er mir gesagt.
+
+158
+00:10:41,410 --> 00:10:44,300
+Verkeilt.
+
+159
+00:10:44,300 --> 00:10:48,280
+Okay.
+
+160
+00:10:48,280 --> 00:10:53,280
+Sonst habe ich, weiß ich, sonst habe ich eigentlich keine Erkrankungen.
+
+161
+00:10:53,280 --> 00:10:56,280
+Okay, Sie sind schon mal operiert worden?
+
+162
+00:10:56,280 --> 00:11:01,280
+Ja, ich hatte einen Kaiserschnitt, als ich mein Kind auf die Welt gebracht habe.
+
+163
+00:11:05,800 --> 00:11:10,800
+Ich bin in Ihrer Familie, wesentliche Erkrankungen,
+
+164
+00:11:10,800 --> 00:11:17,800
+um denen ich wissen sollte, wie ein Blutzucker oder Herzkrankheiten Krebs.
+
+165
+00:11:17,800 --> 00:11:22,800
+Ja, meine Mutter hatte Krebs.
+
+166
+00:11:22,800 --> 00:11:24,800
+Was für Krebs?
+
+167
+00:11:24,800 --> 00:11:26,800
+Mir ein Zellkarzinom.
+
+168
+00:11:26,800 --> 00:11:30,800
+Mein Vater ist Gott sei Dank gesund.
+
+169
+00:11:30,800 --> 00:11:35,180
+Ja, sonst eigentlich nichts.
+
+170
+00:11:35,180 --> 00:11:41,420
+Aber Herr Dorf, da das mit der Luft wird das besser?
+
+171
+00:11:41,420 --> 00:11:43,420
+Warum kriege ich keine Luft?
+
+172
+00:11:43,420 --> 00:11:51,550
+Ich habe Angst, weil ich Luftnot habe.
+
+173
+00:11:51,550 --> 00:11:54,550
+Können Sie mir da helfen, wird das besser mit meiner Luft?
+
+174
+00:11:54,550 --> 00:11:57,550
+Okay, Sauerstoff hat Ihnen nicht geholfen.
+
+175
+00:11:57,550 --> 00:12:00,550
+Ja, aber ich will, es ist besser geworden.
+
+176
+00:12:00,550 --> 00:12:02,550
+Aber ich will wissen, woher das kommt.
+
+177
+00:12:02,550 --> 00:12:04,550
+Warum habe ich Luftnot?
+
+178
+00:12:04,550 --> 00:12:11,550
+Ja, Sie haben nicht alle Untersuchungen durchgeführt,
+
+179
+00:12:11,550 --> 00:12:25,550
+aber beim EKG haben Sie ein Herzrasen und Stabilis.
+
+180
+00:12:25,550 --> 00:12:31,550
+Stabilis, Angina pectoris habe ich nicht.
+
+181
+00:12:31,550 --> 00:12:33,550
+Was ist Angina pectoris?
+
+182
+00:12:33,550 --> 00:12:36,550
+Angina pectoris ist eng gefühlt.
+
+183
+00:12:36,550 --> 00:12:38,550
+Was ist Angina?
+
+184
+00:12:38,550 --> 00:12:40,550
+Angina heißt Schmerz.
+
+185
+00:12:40,550 --> 00:12:42,550
+Pektoris heißt Brust.
+
+186
+00:12:42,550 --> 00:12:44,550
+Angina pectoris heißt Brustschmerz.
+
+187
+00:12:44,550 --> 00:12:46,550
+Ich habe keine Schmerzen angegeben.
+
+188
+00:12:46,550 --> 00:12:48,550
+Ich habe keine Angina pectoris.
+
+189
+00:12:48,550 --> 00:12:54,110
+Entschuldigung, ich habe etwas vergessen.
+
+190
+00:12:54,110 --> 00:12:56,110
+Ich habe vergessen, Ihnen zu sagen,
+
+191
+00:12:56,110 --> 00:12:58,110
+dass ich Insulin spritze.
+
+192
+00:12:58,110 --> 00:13:00,110
+Ich habe Diabetes.
+
+193
+00:13:01,110 --> 00:13:06,110
+Ich habe vergessen, dass ich immer zu sagen.
+
+194
+00:13:06,110 --> 00:13:08,110
+Ja, ich verstehe.
+
+195
+00:13:08,110 --> 00:13:11,110
+Okay.
+
+196
+00:13:11,110 --> 00:13:18,710
+Wenn Sie etwas Akutes haben, können wir die Weitstellung
+
+197
+00:13:18,710 --> 00:13:20,710
+untersuchen und direkt machen.
+
+198
+00:13:20,710 --> 00:13:25,710
+Aber es wäre super, super, super, super, super.
+
+199
+00:13:25,710 --> 00:13:28,710
+Wenn wir das Gespräch am Ende zu führen.
+
+200
+00:13:28,710 --> 00:13:30,710
+Ja, okay.
+
+201
+00:13:30,710 --> 00:13:32,710
+Aber ich habe Angst, Herr Doktor.
+
+202
+00:13:32,710 --> 00:13:34,710
+Was habe ich denn?
+
+203
+00:13:34,710 --> 00:13:38,710
+Ja, leider kann ich Ihnen nicht genau sagen, was Sie haben.
+
+204
+00:13:38,710 --> 00:13:41,710
+Erst mal, ich muss die Weitstellung untersuchen und durchführen.
+
+205
+00:13:41,710 --> 00:13:45,710
+Dann kann ich Ihnen sagen, welches...
+
+206
+00:13:45,710 --> 00:13:47,710
+Also gut, dann warte ich noch.
+
+207
+00:13:47,710 --> 00:13:49,710
+Also gut.
+
+208
+00:13:49,710 --> 00:13:51,710
+Okay.
+
+209
+00:13:51,710 --> 00:13:54,710
+Gehen Sie regelmäßig zum Blauen Arzt?
+
+210
+00:13:54,710 --> 00:13:56,710
+Das ist schon lange her.
+
+211
+00:13:56,710 --> 00:13:58,710
+Meine Gebärmutter ist schon draußen.
+
+212
+00:13:58,710 --> 00:14:00,710
+Warum?
+
+213
+00:14:00,710 --> 00:14:02,710
+Das weiß ich nicht.
+
+214
+00:14:02,710 --> 00:14:07,060
+Da ist etwas gewesen und dann haben Sie mir empfohlen,
+
+215
+00:14:07,060 --> 00:14:09,060
+dass die Gebärmutter raus muss.
+
+216
+00:14:09,060 --> 00:14:11,060
+Es war aber kein Krebs.
+
+217
+00:14:11,060 --> 00:14:13,060
+Okay.
+
+218
+00:14:13,060 --> 00:14:15,060
+Das war etwas Gutartiges.
+
+219
+00:14:15,060 --> 00:14:18,060
+Ich hatte so starke Blutung, deswegen musste die Gebärmutter raus.
+
+220
+00:14:18,060 --> 00:14:20,060
+Ich habe keine Gebärmutter.
+
+221
+00:14:20,060 --> 00:14:23,060
+Ich hatte so starke Blutung, deswegen musste die Gebärmutter raus.
+
+222
+00:14:23,060 --> 00:14:26,060
+Wann war das, genau?
+
+223
+00:14:26,060 --> 00:14:29,060
+Cool, das war vor 10 Jahren ungefähr.
+
+224
+00:14:29,060 --> 00:14:32,060
+Wann war der letzte Frauenarzt?
+
+225
+00:14:32,060 --> 00:14:34,060
+Kontroll.
+
+226
+00:14:34,060 --> 00:14:35,060
+Danach?
+
+227
+00:14:35,060 --> 00:14:36,060
+Ja.
+
+228
+00:14:36,060 --> 00:14:38,060
+Danach bin ich meine letzte.
+
+229
+00:14:38,060 --> 00:14:41,060
+Die ist auch schon zwei Jahre her.
+
+230
+00:14:41,060 --> 00:14:43,060
+War alles in Ordnung?
+
+231
+00:14:43,060 --> 00:14:46,060
+Ja, da war alles in Ordnung.
+
+232
+00:14:46,060 --> 00:14:53,430
+Okay.
+
+233
+00:14:53,430 --> 00:14:58,320
+Wie ist Ihr Appetit?
+
+234
+00:14:58,320 --> 00:15:01,320
+Jetzt habe ich Luft.
+
+235
+00:15:01,320 --> 00:15:03,320
+Jetzt habe ich gar keinen Appetit.
+
+236
+00:15:03,320 --> 00:15:06,320
+Aber eigentlich war mein Appetit gut.
+
+237
+00:15:06,320 --> 00:15:12,320
+Okay.
+
+238
+00:15:12,320 --> 00:15:15,320
+Wir haben wie mit Kamenze gesagt,
+
+239
+00:15:15,320 --> 00:15:18,320
+wir haben eine Blutverdünne
+
+240
+00:15:18,320 --> 00:15:21,320
+und zwei Bluthochdruckverblicken gegen Bluthochdruck.
+
+241
+00:15:21,320 --> 00:15:23,320
+Sonst nehmen Sie irgendwelche
+
+242
+00:15:23,320 --> 00:15:26,320
+Aussage noch ins Bild.
+
+243
+00:15:26,320 --> 00:15:29,320
+Ich habe früher geraucht.
+
+244
+00:15:29,320 --> 00:15:32,320
+Ich habe 20 Jahre lang geraucht.
+
+245
+00:15:32,320 --> 00:15:38,740
+Aber ich habe vor 20 Jahren aufgehört.
+
+246
+00:15:38,740 --> 00:15:41,740
+15 Jahren aufgehört.
+
+247
+00:15:41,740 --> 00:15:44,740
+Entschuldigung, sonst geht das nicht.
+
+248
+00:15:44,740 --> 00:15:47,740
+Wie viele Treten?
+
+249
+00:15:47,740 --> 00:15:50,740
+Was haben Sie geraucht?
+
+250
+00:15:50,740 --> 00:15:53,740
+Eine Packung am Tag, 20 Jahre lang.
+
+251
+00:15:53,740 --> 00:15:55,740
+Okay.
+
+252
+00:15:55,740 --> 00:15:58,740
+Trinken Sie Alkohol?
+
+253
+00:15:58,740 --> 00:16:01,740
+Nein.
+
+254
+00:16:01,740 --> 00:16:04,740
+Drogen?
+
+255
+00:16:04,740 --> 00:16:07,740
+Genau.
+
+256
+00:16:07,740 --> 00:16:10,740
+Wie kommen Sie darauf, dass ich Drogen einnehme?
+
+257
+00:16:10,740 --> 00:16:13,740
+Das ist eine Routinefrage.
+
+258
+00:16:13,740 --> 00:16:16,740
+Nein, ich nehme keine Drogen ein.
+
+259
+00:16:16,740 --> 00:16:19,740
+Ist Ihnen eine Allergie bekannt?
+
+260
+00:16:19,740 --> 00:16:22,740
+Nein, keine Allergie.
+
+261
+00:16:22,740 --> 00:16:25,740
+Meine Seite, Frau Munde, habe ich die wichtigsten Fragen gestellt.
+
+262
+00:16:25,740 --> 00:16:28,740
+Müssten Sie etwas hinzufügen?
+
+263
+00:16:28,740 --> 00:16:31,740
+Haben Sie Fragen?
+
+264
+00:16:31,740 --> 00:16:34,740
+Jetzt, wie ich Ihnen gesagt habe,
+
+265
+00:16:34,740 --> 00:16:37,740
+erst mal ich würde Sie körperlich untersuchen.
+
+266
+00:16:37,740 --> 00:16:40,740
+Danach würde ich Ihnen Blut abnehmen
+
+267
+00:16:40,740 --> 00:16:43,740
+und ein Herz-Ultraschall durchführen.
+
+268
+00:16:43,740 --> 00:16:46,740
+Ich würde Ihnen eine Begründung geben.
+
+269
+00:16:46,740 --> 00:16:49,740
+Ich würde Ihnen eine Begründung geben.
+
+270
+00:16:49,740 --> 00:16:52,740
+Ein Herz-Ultraschall durchführen.
+
+271
+00:16:52,740 --> 00:16:55,740
+Je nachdem, wie die Ergebnisse besprechen,
+
+272
+00:16:55,740 --> 00:16:58,740
+besprechen wir noch mal.
+
+273
+00:16:58,740 --> 00:17:01,740
+Alles klar.
+
+274
+00:17:01,740 --> 00:17:09,580
+Ich sehe es nicht.
+
+275
+00:17:09,580 --> 00:17:12,580
+Haben Sie Husten?
+
+276
+00:17:12,580 --> 00:17:15,580
+Husten?
+
+277
+00:17:15,580 --> 00:17:18,580
+Nein, so ein Reizhusten.
+
+278
+00:17:18,580 --> 00:17:21,580
+Ich kratze am Halb.
+
+279
+00:17:21,580 --> 00:17:25,820
+Aber kein Husten richtig.
+
+280
+00:17:25,820 --> 00:17:28,820
+Haben Sie Durstgefühl?
+
+281
+00:17:28,820 --> 00:17:37,140
+Nein.
+
+282
+00:17:37,140 --> 00:17:40,140
+Haben Sie geschwollene Beine bemerkt?
+
+283
+00:17:40,140 --> 00:17:43,140
+Beine.
+
+284
+00:17:43,140 --> 00:17:46,140
+Die Knöchel sind dick, ja.
+
+285
+00:17:46,140 --> 00:17:49,140
+Beide Knöchel sind dick.
+
+286
+00:17:49,140 --> 00:18:05,700
+Seit wann?
+
+287
+00:18:05,700 --> 00:18:08,700
+Beine.
+
+288
+00:18:08,700 --> 00:18:11,700
+Ich weiß nicht,
+
+289
+00:18:11,700 --> 00:18:16,780
+ich habe schon länger, dass sie dicker sind.
+
+290
+00:18:16,780 --> 00:18:19,780
+Wissen Sie, morgen sind wir wieder schlanker.
+
+291
+00:18:19,780 --> 00:18:24,160
+Dann bin ich aufstehen und laufe abends.
+
+292
+00:18:24,160 --> 00:18:46,680
+Wenn ich dann sitze, sind die dick.
+
+293
+00:18:46,680 --> 00:18:49,680
+Noch ein Problem.
+
+294
+00:18:49,680 --> 00:18:52,680
+Ich möchte gerne Ihre Medikamente erzielen.
+
+295
+00:18:52,680 --> 00:18:55,680
+Aber das fragen Sie sowieso.
+
+296
+00:18:55,680 --> 00:18:58,680
+Mein Hausarzt.
+
+297
+00:18:58,680 --> 00:19:14,930
+Mein Hausarzt ist Dr. Schmidt.
+
+298
+00:19:14,930 --> 00:19:19,690
+Jetzt soll ich die Patientenvorstellung anfangen.
+
+299
+00:19:19,690 --> 00:19:22,690
+Patientenvorstellung soll ich anfangen.
+
+300
+00:19:22,690 --> 00:19:27,000
+Wenn Sie alles gefragt haben.
+
+301
+00:19:27,000 --> 00:19:30,000
+Meine Leitschaft habe ich alles gefragt.
+
+302
+00:19:30,000 --> 00:19:33,000
+Aber ich brauche eine Minute bitte.
+
+303
+00:19:33,000 --> 00:19:36,000
+Ja gerne, kein Problem.
+
+304
+00:19:36,000 --> 00:19:42,680
+Ich kann noch 2 Minuten haben.
+
+305
+00:19:42,680 --> 00:19:45,680
+Sind Sie vonständig geimpft?
+
+306
+00:19:45,680 --> 00:19:48,680
+Ja, ich bin vollständig geimpft.
+
+307
+00:19:48,680 --> 00:19:55,650
+Also 2 Mal geimpft und einmal geboostert.
+
+308
+00:19:55,650 --> 00:19:58,650
+Was sind Sie von bernof?
+
+309
+00:19:58,650 --> 00:20:13,040
+Ich bin Hausfrau.
+
+310
+00:20:13,040 --> 00:20:16,040
+Ich weiß nicht, ob das wichtig ist.
+
+311
+00:20:16,040 --> 00:20:19,040
+Meine 3. Impfung hatte ich Anfang Februar.
+
+312
+00:20:19,040 --> 00:20:23,420
+Seit der Impfung war es mir so schlecht.
+
+313
+00:20:23,420 --> 00:20:26,420
+Ich wurde immer schlechter.
+
+314
+00:20:26,420 --> 00:20:29,420
+Was war die letzte Impfung?
+
+315
+00:20:29,420 --> 00:20:32,420
+Meine Impfung war vor 14 Tagen.
+
+316
+00:20:32,420 --> 00:20:35,420
+Nach der Impfung ging es mir eine Woche nicht so gut.
+
+317
+00:20:35,420 --> 00:20:38,420
+Ich war schlapp.
+
+318
+00:20:38,420 --> 00:20:41,420
+Ich habe ein Bett gelegen.
+
+319
+00:20:41,420 --> 00:20:44,420
+Danach habe ich mich nicht so richtig erholt.
+
+320
+00:20:44,420 --> 00:20:47,420
+Jetzt habe ich die 3 Tage Druck auf der Brust.
+
+321
+00:20:47,420 --> 00:20:50,420
+Diese Luftnot immer mehr.
+
+322
+00:20:50,420 --> 00:20:56,710
+Haben Sie diese Beschwerde?
+
+323
+00:20:56,710 --> 00:20:59,710
+Zum Beispiel Blutlof.
+
+324
+00:20:59,710 --> 00:21:02,710
+Ich habe die letzte Impfung zurückgeführt.
+
+325
+00:21:02,710 --> 00:21:05,710
+Es ist mir jetzt erst eingefallen.
+
+326
+00:21:05,710 --> 00:21:08,710
+Ich habe jetzt erst gemerkt.
+
+327
+00:21:08,710 --> 00:21:19,810
+Waren Sie in der letzten Zeit?
+
+328
+00:21:19,810 --> 00:21:22,810
+Zeit, nicht Zeit.
+
+329
+00:21:22,810 --> 00:21:29,360
+Zeit.
+
+330
+00:21:29,360 --> 00:21:32,360
+Was nochmal?
+
+331
+00:21:32,360 --> 00:21:35,360
+Ob ich in der letzten Zeit pass?
+
+332
+00:21:35,360 --> 00:21:38,360
+Nein, ich habe die Zeit.
+
+333
+00:21:38,360 --> 00:21:41,360
+Ich habe nicht eingefallen.
+
+334
+00:21:41,360 --> 00:21:44,360
+Was nochmal?
+
+335
+00:21:44,360 --> 00:21:47,360
+Nein, ich habe die Zeit.
+
+336
+00:21:47,360 --> 00:21:58,900
+Ich habe jetzt über den Covid-19 geholt.
+
+337
+00:21:58,900 --> 00:22:05,720
+Ich habe nicht hier hin infragequehen.
+
+338
+00:22:07,720 --> 00:22:11,720
+Wenn ich nicht mehr fragte,
+
+339
+00:22:11,720 --> 00:22:14,720
+dann darauf habe ich eine Frage.
+
+340
+00:22:14,720 --> 00:22:18,720
+Ich möchte ihnen eine Patrimonietin vorstellen.
+
+341
+00:22:18,720 --> 00:22:28,920
+Vorstellen haben Sie kurz Zeit. Gerne. Es geht um Frau Nicole Uehler, sie ist 50 Jahre alt und
+
+342
+00:22:28,920 --> 00:22:40,680
+82 Kilo und 171 Zentimeter groß. Sie klappt über 1 Meter 72 groß, sagt man, nicht 172
+
+343
+00:22:40,680 --> 00:22:46,840
+Zentimeter, das sagt man auf gar keinen Fall. 1 Meter 72 Zentimeter, müssen Sie gar nicht sagen,
+
+344
+00:22:46,840 --> 00:23:00,400
+1 Meter 72 groß. 1 Meter 72 groß, genau. Sie klappt über Atemnot seit 3 Tagen nicht nur beim
+
+345
+00:23:00,400 --> 00:23:10,360
+Belastung, sondern auch in Ruhe und sie kann nicht, sie hat auch Otopne seit,
+
+346
+00:23:10,360 --> 00:23:29,840
+gleichzeitig und Tachikadi. Tachikadi auf Deutsch. Tachikadi ist rückisch. Tachikadi und diese,
+
+347
+00:23:29,840 --> 00:23:46,160
+und sie müssen, als weiterer Bechwerden nennt sie Nocturie seit 3 Tagen und Reizüsten und indem
+
+348
+00:23:46,160 --> 00:23:56,480
+im Beide, Beide. Egal, Knöchel oder Unterschenkel. Knöchel habe ich gesagt, aber man kann
+
+349
+00:23:56,480 --> 00:24:09,520
+doch sagen Unterschenkel. Im Beide Unterschenkel und sie hat, sie hat letzte Corona-Impfung,
+
+350
+00:24:09,520 --> 00:24:20,480
+dritte Corona-Impfung am Februar vor 30 Tagen bekommen. Vor 14 Tagen. Vor 14 Tagen, ja. Und
+
+351
+00:24:20,480 --> 00:24:37,770
+die Beschwerden sind nach der Impfung aufgetreten. So langsam aufgetreten, ja. Sie hat in Vorerkrankungen
+
+352
+00:24:37,770 --> 00:24:55,780
+liegt Arithmy seit 4 Jahren und arteriale Hypertonie vor. Ja, oder man kann auch sagen, an amnestisch
+
+353
+00:24:55,780 --> 00:25:03,060
+Vorhoflimmern, Arithmy, also, sie hat ja nicht gesagt, was es ist, aber wenn sie sagt, sie nimmt
+
+354
+00:25:03,060 --> 00:25:07,740
+Blutverdünnung ein, weil sie eine Rhythmusstörung hat, dann kann es ja nur Vorhoflimmern sein.
+
+355
+00:25:08,340 --> 00:25:14,500
+An amnestisch, wenn man sagt, an amnestisch Vorhoflimmern heißt das, man weiß es nicht genau, man hat es nicht
+
+356
+00:25:14,500 --> 00:25:19,620
+schwarz auf weiß gelesen irgendwo, sondern das ist nur das, was der Patient gesagt hat. Man kann
+
+357
+00:25:19,620 --> 00:25:26,980
+einfach sagen, an amnestisch liegt ein Vorhoflimmern vor mit Oraleantikogolation. Hat ja eine Oraleantikogolation,
+
+358
+00:25:26,980 --> 00:25:40,900
+nennt man ja so. An amnestisch Vorhoflimmern und arteriale Hypertonie vor, dagegen nimmt sie
+
+359
+00:25:40,900 --> 00:25:50,060
+Antikogolan mit und Bluthochdruckmedikamente. Oraleantikogolation, sie hat gesagt, sie nimmt
+
+360
+00:25:50,060 --> 00:25:55,980
+Tabletten ein für die Blutverdünnung. Das nennt man Oraleantikogolation. Genau.
+
+361
+00:25:56,980 --> 00:26:04,860
+Oraleantikogolation und Blutdruckmedikamente, Antihypertensiv. Antihypertensiv war.
+
+362
+00:26:04,860 --> 00:26:19,380
+Antihypertensiv war. Antihypertensiv war. Genau. Und sie hat auch erwähnt, dass sie vor vier
+
+363
+00:26:19,380 --> 00:26:29,660
+Jahren eine Wurde bei ihr eine klappe, eine Herzklappe Funktion Störung festgestellt. Sehr gut,
+
+364
+00:26:29,660 --> 00:26:37,980
+genau. Super, super, super Formuliert. Sehr gut, ja. Und sie hat auch Diabetes mellitus und
+
+365
+00:26:37,980 --> 00:26:45,140
+dagegen Spritze, wie Insulin. Oder sie hat Insulinpflichtigen Diabetes mellitus, kann
+
+366
+00:26:45,140 --> 00:26:53,770
+man auch sagen, man muss nicht sagen, da gehen Spritze Insulin, sondern man kann sagen, sie hat
+
+367
+00:26:53,770 --> 00:26:59,290
+einen Insulinpflichtigen Diabetes mellitus. Man hätte sie ja noch fragen können, wie
+
+368
+00:26:59,290 --> 00:27:03,810
+ein Lebensjahr sie den Diabetes entwickelt hat, ob das ein Typ 1, Typ 2 Diabetes ist,
+
+369
+00:27:03,810 --> 00:27:10,010
+das wissen die meisten Patienten. Bei Insulinpflichtigen Diabetes, wenn die 50 Jahre alt sind, frag
+
+370
+00:27:10,010 --> 00:27:14,490
+ich immer, ob das ein Typ 1 oder Typ 2 Diabetes ist. Ich hatte auch schon einen 60-Jährigen,
+
+371
+00:27:15,090 --> 00:27:19,050
+wo ich gedacht habe, das ist bestimmt ein Typ 2 Diabetes, aber der Patient hat selber Gott sei
+
+372
+00:27:19,050 --> 00:27:23,610
+Dank zu mir gesagt, dass das ein Typ 1 Diabetes ist. Das ist wichtig für die Therapie nachher,
+
+373
+00:27:23,610 --> 00:27:29,530
+weil Typ 1 Diabetes kann neigen ja zu Keto-Azidosen, die darf man halt nicht bei
+
+374
+00:27:29,530 --> 00:27:33,970
+Voruntersuchungen, muss man denen halt so ein bisschen Infusion geben, weil die ganz schnell
+
+375
+00:27:33,970 --> 00:27:37,530
+zu einer Keto-Azidose neigen. Also es ist schon wichtig zu wissen, ob das ein Typ 1 oder
+
+376
+00:27:37,530 --> 00:27:42,570
+Typ 2 Diabetes ist. Also vielleicht müssen Sie das in der Prüfung halt nur sagen dann.
+
+377
+00:27:42,570 --> 00:27:54,810
+Ja, ja. In der Familienanamnese liegt die Mutterlandscheid-Nieren-Zerkratinom vor und bei
+
+378
+00:27:54,810 --> 00:28:08,770
+ihr wurde Historectomy durchgeführt vor zehn Jahren wegen starker Blutung. Möglicherweise, was
+
+379
+00:28:08,770 --> 00:28:12,090
+ist es dann, wenn sie starke Blutung hatte, wenn das gemachte Myom wahrscheinlich,
+
+380
+00:28:12,170 --> 00:28:17,730
+eine Uterusmyomatosis oder so was. Ich habe ja gesagt, das war nichts Bösartiges. Egal, also es war
+
+381
+00:28:17,730 --> 00:28:22,170
+auf jeden Fall nichts Bösartiges, muss man dazu sagen. Es reicht, wenn man sagt, dass sie
+
+382
+00:28:22,170 --> 00:28:28,570
+hysterektomiert worden ist vor, keine Ahnung, was habe ich gesagt vor zehn Jahren, aber das
+
+383
+00:28:28,570 --> 00:28:34,890
+laut Patient war das nichts Bösartiges. Also so sagt ich das immer, wenn ich das vorstellen
+
+384
+00:28:34,890 --> 00:28:57,960
+möchte. Wie hat das vor zehn Jahren, 20 Jahre Einpackung Trarete geraucht? Man kann auch gleich
+
+385
+00:28:57,960 --> 00:29:05,660
+sagen 20 Päck hier ist Nikotinkonsum. Was ist das denn? So errechnet man das ja, ne? Ja, ja. Also
+
+386
+00:29:05,660 --> 00:29:14,300
+man kann auch gleich sagen 20 Päck hier ist Nikotinkonsum. War alles richtig, was sie
+
+387
+00:29:14,300 --> 00:29:18,300
+gesagt haben um Gott zu finden. Also es war Formulierung war auch alles richtig.
+
+388
+00:29:18,300 --> 00:29:27,780
+Okay, ja, sie sind zu Beschwerden. Und dann, wie ist der Namnese? Nach dem bisherigen Angaben,
+
+389
+00:29:27,780 --> 00:29:39,740
+gehe ich von New Califis aus, um meine Verdacht zu bestimmen, meine Verdacht zu bestätigen,
+
+390
+00:29:39,740 --> 00:29:50,460
+würde ich die Patienten erstmal körperlich untersuchen und Blut, ihr Blut abnehmen. Was nehmen
+
+391
+00:29:50,460 --> 00:30:04,660
+sie ab? Erstmal großes Flugbild und Entzündungparameter und Herzwerte. Bei welcher Herzwerte? Troponin.
+
+392
+00:30:04,660 --> 00:30:23,140
+Troponin und CK, CK-MB und? Enp, ne? Ja. Pro BNP, ist ganz richtig. Okay, ja, gut. Entzündungparameter.
+
+393
+00:30:23,140 --> 00:30:29,740
+Was würden wir bei dieser Patientin noch abnehmen, diese Frau, diese Frau, die Luftnot hat, was
+
+394
+00:30:29,820 --> 00:30:36,220
+müssen wir bei ihr noch abnehmen? Ja, Dedima. Dedima. Dedima, das ist ganz wichtig, sehr gut,
+
+395
+00:30:36,220 --> 00:30:42,300
+genau. Dedima, Troponin haben wir dann auch, dann haben wir diese eine Palette auch abgeklärt,
+
+396
+00:30:42,300 --> 00:30:51,660
+BNP, Troponin, Dedima, haben wir ja alles. Okay, Herz und Züme haben wir, okay. Was noch?
+
+397
+00:30:52,660 --> 00:31:00,380
+Luftnot, könnte Entzündung sein, Entzündungswerte haben wir auch, sehr gut. So, was könnte denn
+
+398
+00:31:00,380 --> 00:31:08,540
+die Diagnose sein? Die Diagnostik kommt. Sie können sagen, meine Verdachtdiagnose ist,
+
+399
+00:31:08,540 --> 00:31:14,620
+eine Myokaditis, weil die Patientin die Beschwerden nach der Impfung entwickelt hat, ne? Das ist so,
+
+400
+00:31:14,620 --> 00:31:23,620
+ne? Das denken Sie. Genau. Aber es könnte auch gut was sein. Die Franzialkiagnostik kommt zum Beispiel
+
+401
+00:31:23,620 --> 00:31:34,860
+uns stabil angina pectoris, uns stabil angina pectoris. Nein, akutes Coronasyndrom. Okay, akutes
+
+402
+00:31:34,860 --> 00:31:41,500
+Coronasyndrom. Wir sagen einfach jetzt akutes Coronasyndrom. Okay. Könnte ein akutes
+
+403
+00:31:41,500 --> 00:31:47,380
+Coronasyndrom sein? Warum könnte das ein akutes Coronasyndrom sein oder eine angina pectoris
+
+404
+00:31:47,380 --> 00:31:52,100
+kann es ja nicht sein? Sie hat ja keine Schmerzen. Ein akutes Coronasyndrom könnte es sein,
+
+405
+00:31:52,100 --> 00:31:57,340
+obwohl sie keine Schmerzen hat. Warum könnte bei dieser Patientin ein akutes Coronasyndrom
+
+406
+00:31:57,340 --> 00:32:15,930
+vorlegen, obwohl sie keine Brustschmerzen angibt? Doch das wissen Sie. Ich habe extra gesagt,
+
+407
+00:32:15,930 --> 00:32:21,930
+dass die Patientin Typ 1, Typ 2 Diabetikerin wichtig ist. Neuropathie wegen der Neuropathie. Nein,
+
+408
+00:32:21,930 --> 00:32:28,170
+wegen dem Diabetes. Sie müssen sagen, sehr gut. Diabetes, Diabetikerin. Patente,
+
+409
+00:32:28,170 --> 00:32:34,410
+Diabetikerin müssen Sie sagen, ja. Und jede Patientin, wirklich jede, die Diabetiker
+
+410
+00:32:34,410 --> 00:32:39,450
+sind und Luftnot haben. Wir haben ganz viele Patienten, die einfach nur etwas Beklemmungen
+
+411
+00:32:39,450 --> 00:32:43,490
+in der Brust haben, keine Schmerzen, ein bisschen Beklemmung und eigentlich nur Luftnot haben,
+
+412
+00:32:43,530 --> 00:32:49,010
+nur Luftnot. Und in Silindslichtigen Diabetes seit Jahren, die haben oftmals eine Herzinfarkt.
+
+413
+00:32:49,010 --> 00:32:55,890
+Man sieht es, man merkt es nicht. Deswegen immer sagen, bei den Patienten könnte
+
+414
+00:32:55,890 --> 00:33:01,810
+Auswärterin Jörg Caditis ein Akuts Coronasyndrom vorlegen. Warum? Weil die Patientin Diabetikerin
+
+415
+00:33:01,810 --> 00:33:06,210
+ist, muss die Kanäle beschwerden, die Schmerzen haben. Da geht es nur ein bisschen Druck noch.
+
+416
+00:33:06,210 --> 00:33:11,730
+Was könnte es noch sein? Die Prinzelldiagnose. Pulmonanemboli. Lungen, Arterienemboli.
+
+417
+00:33:12,730 --> 00:33:19,250
+Sagen Sie das? Lungen, Arterienemboli. Genau, sehr gut. Wir sagen, das ist so eine Lungen, Arterienemboli.
+
+418
+00:33:19,250 --> 00:33:26,610
+Warum? Was passt zu einer Lungen, Arterienemboli? Ich habe extra ein Fall genommen, was zu allem passt.
+
+419
+00:33:26,610 --> 00:33:35,130
+Was passt für eine Lungen, Arterienemboli? Dafür sprechen die Odemen am Beinen und
+
+420
+00:33:36,130 --> 00:33:42,610
+damit fangen wir nicht an. Was spricht für die Lungen, Arterienemboli? Was hat die Patientin für Beschwerden?
+
+421
+00:33:42,610 --> 00:33:49,050
+Weswegen kommt die? Enge Gefühl? Nein, Luftnot. Sie kommt mit Luftnot.
+
+422
+00:33:49,050 --> 00:33:54,050
+Was ist die Hauptleitbild einer Lungen, Arterienemboli ist Luftnot. Also sie hat Luftnot.
+
+423
+00:33:54,050 --> 00:34:00,010
+Was hat sie noch? Enge Gefühl? Passt auf, ne? Luftnot und Herzrasen. Herzrasen passt.
+
+424
+00:34:00,010 --> 00:34:07,010
+Warum passt das Herzrasen? Ja, sehr gut. Ja.
+
+425
+00:34:07,010 --> 00:34:18,610
+Rechts, Herz, Herz, Belastung. Rechts, Herz, Belastung. Als Rechts-Herts-Belastungszeichen haben die
+
+426
+00:34:18,610 --> 00:34:27,890
+Patienten hohes Troponin, hohes BNP, und was haben sie noch? Sie haben eine hohe Herzfrequenz
+
+427
+00:34:27,890 --> 00:34:32,850
+und was haben sie noch im EKG? Was gucken wir uns im EKG an? Jetzt machen wir später. Ist okay.
+
+428
+00:34:32,850 --> 00:34:37,330
+Herzrasen, das passt für Lungen, Arterienemboli. Vierte Differenzialdiagnose, das brauchen wir
+
+429
+00:34:37,330 --> 00:34:44,210
+jetzt aber auch noch. Oder die Dritte, wir sind bei der Dritten erst. Ja, vierte. Dritte.
+
+430
+00:34:44,210 --> 00:34:50,290
+Differenzialdiagnose, dritte Differenzialdiagnose. Okay. Was hat die Patientin extra gesagt?
+
+431
+00:34:50,290 --> 00:35:01,290
+Was hat sie? Sie hat vor vier Jahren. Vor vier Jahren, Klappe, Herzklappe, Herzweilwerk.
+
+432
+00:35:01,290 --> 00:35:08,050
+Welche Herzklappe bei älteren Leuten, wo sie es jetzt 50 Jahre alt, das passt nicht, ne?
+
+433
+00:35:08,050 --> 00:35:13,250
+Wenn es jetzt eine 80-jährige Oma wäre und sie hat sagt vor vier Jahren war die Klappe
+
+434
+00:35:13,250 --> 00:35:19,410
+verkalkt und sie ist 80 Jahre alt, dann ist es fast immer die Ortenklappenstinnose.
+
+435
+00:35:20,410 --> 00:35:24,970
+Und deswegen müssen sie bei diesen Patienten immer fragen, sind sie schon mal bewusstlos
+
+436
+00:35:24,970 --> 00:35:32,770
+geworden, haben sie Schwindel? Ja, das ist ganz oft. Luftnot, Druck auf der Brust, die
+
+437
+00:35:32,770 --> 00:35:39,730
+drei Seichen und Schwindel. Das ist Ortenklappenstinnose bei 80-Jährigen, aber diese ist erst 50,
+
+438
+00:35:39,730 --> 00:35:44,570
+ne? Das heißt, es kann eine Mitralklappeninsuffizient sein, es kann eine Mitralklappenstinnose sein,
+
+439
+00:35:44,570 --> 00:35:49,210
+es kann ja alles Mögliche sein, das wissen wir ja jetzt nicht. Aber die Klappe könnte die
+
+440
+00:35:49,210 --> 00:35:57,550
+Ursache sein, ne? Ja. Das finden wir woraus, wo sehen wir das ganz einfach, ob das die Klappe ist?
+
+441
+00:35:57,550 --> 00:36:01,710
+Das sehen wir ganz schnell. Schokadio-Presen. Sehr gut, genau, das machen wir ja auch noch. Super.
+
+442
+00:36:01,710 --> 00:36:07,790
+Genau. Und das andere ist, jetzt kommt, ja, jetzt kommt die vierte Diagnose. Was hat sie
+
+443
+00:36:07,790 --> 00:36:15,070
+gesagt? Sie nimmt Anticoagulation. Warum nimmt sie Anticoagulation? Vorvorfilme? Ja, und sie ist
+
+444
+00:36:15,070 --> 00:36:23,840
+Tachikat, haben wir gesagt. Sie hat Herzrasen. Was kann sie haben? Ganz einfach, haben die meisten
+
+445
+00:36:23,840 --> 00:36:34,440
+Patienten. Tachikadesvorhoflemann. Tachiarhythmia absoluta bei Vorhoflemann. Tachikadesvorhoflemann
+
+446
+00:36:34,440 --> 00:36:39,320
+kann sie haben. Genau. Und Tachikadesvorhoflemann führt nämlich auch ganz schnell dazu,
+
+447
+00:36:39,320 --> 00:36:46,240
+dass die Patienten KDLD kompensieren. Okay. Blut haben wir super, haben sie super gemacht,
+
+448
+00:36:46,240 --> 00:36:53,600
+die Lungenembolie ist abgedeckt mit D-Demmeretroponin und BMP. Und dann haben wir abgeklärt,
+
+449
+00:36:53,600 --> 00:37:00,360
+zick-zicker im Betroponin. Herzinfarkt, Akut-Kronasymprum. Und dann haben wir Infektparameter
+
+450
+00:37:00,360 --> 00:37:05,240
+Lungenentzündung, zum Beispiel die fünf-Veterinzialdiagnose, kann ja auch sein. Jetzt haben wir alles.
+
+451
+00:37:05,240 --> 00:37:08,800
+Ich habe extra so ein Fall genommen, weil das ist oft bei uns. Da muss man überlegen,
+
+452
+00:37:08,800 --> 00:37:13,960
+was hat der Patient? Ja. Jetzt haben wir gesagt, gucken wir uns das EKG an. Was sehen wir,
+
+453
+00:37:13,960 --> 00:37:27,640
+wenn es ein Lungenembolie ist? Ein Argmie? Nein. Was ist typisch für Lungenembolie?
+
+454
+00:37:27,640 --> 00:37:33,160
+Tachikadi, das haben Sie doch schon gesagt. Tachikad, sagen wir mal Tachikadi. Tachikadi.
+
+455
+00:37:33,160 --> 00:37:39,280
+Tachikadi. Was noch? Was haben die noch? Nur das müssen Sie wissen,
+
+456
+00:37:39,280 --> 00:37:45,760
+zwei Sachen. Rechtschenkelblock, Rechtsherzbelastung. Ja. Okay. Auch wenn Sie es nicht sehen,
+
+457
+00:37:45,760 --> 00:37:51,080
+Sie müssen sagen, ja. Also Rechtschenkelblock, Tachikadi, könnte schon mal ein Hinweis dafür sein,
+
+458
+00:37:51,080 --> 00:37:57,280
+wegen der Rechtsherzbelastung am Rechtsherzblock, rechtschenkelblock. Das ist ein Zeichen zum
+
+459
+00:37:57,280 --> 00:38:02,360
+Beispiel für die Lungenembolie. Und was können wir noch sehen? Die Tachiarotinia absoluta sehen
+
+460
+00:38:02,360 --> 00:38:09,080
+wir. Vorhoflemann, schnelles Vorhoflemann, Frequenz um die 120. Auch die Ursache könnte es sein.
+
+461
+00:38:09,080 --> 00:38:15,360
+Und was sehen wir beim Akuts-Kronasymprum oder beim Herzinfarkt? Entweder Hebungen,
+
+462
+00:38:15,360 --> 00:38:21,280
+dann ist es ein Erhöhunginfarkt oder Senkungen, dann ist es ein Entstehenakuts-Kronasymprum. Oder,
+
+463
+00:38:21,280 --> 00:38:25,880
+aber Sie sehen gar nichts. Und trotzdem ist es ein Akuts-Kronasymprum. Das sieht man dann nur im
+
+464
+00:38:25,880 --> 00:38:32,520
+Labor. Und bei der Ordentlichlappenstinnnose zum Beispiel sieht man über Truffib-Zeichen,
+
+465
+00:38:32,520 --> 00:38:37,640
+im EKG. Aber das müssen Sie alles nicht wissen. Alles gut, alles okay. Und dann machen wir
+
+466
+00:38:37,640 --> 00:38:43,400
+ein Echo. Als nächstes, wir haben schon so viel, schon erreicht. Wir können schon nachher aus
+
+467
+00:38:43,400 --> 00:38:49,600
+genau sagen, was der Patient hat. Und dann machen wir Echo und was sehen wir im Echo bei der
+
+468
+00:38:49,600 --> 00:38:58,440
+Lungenembolie? Lungenembolie legen wir wieder rechte Herzbelastung. Rechts Herz ist groß,
+
+469
+00:38:58,440 --> 00:39:03,120
+genau. Sehr gut. Punkt nicht zu gut. Das rechte Herz, das rechte Herz ist groß. Das Detail
+
+470
+00:39:03,120 --> 00:39:08,840
+müssten Sie nicht wissen. Bei der Herzensuffizienz, das haben wir gar nicht gesagt, das können
+
+471
+00:39:08,840 --> 00:39:14,520
+wir ja auch einfach eine Herzunzuffizienz haben, was der Patient hat. Als Differenzialdiagnose. Dann sehen
+
+472
+00:39:14,520 --> 00:39:22,960
+Sie einfach, dass das Herz nicht gut pumpt. Dann müssen wir herausfinden, warum. Genau. Bei der KKK,
+
+473
+00:39:22,960 --> 00:39:29,160
+das heißt Akuts-Kronasymprum, Jokatin-Fac, ist ja eine KKK, dann sehen wir, dass bestimmte
+
+474
+00:39:29,160 --> 00:39:35,720
+Abschnitte nicht gut pumpen. Das spricht dafür, dass keine Blutung nicht gut ist. Und was haben
+
+475
+00:39:35,720 --> 00:39:40,760
+wir noch gesagt? Herzunzuffizienz, Lungenembolie haben wir gesagt. Wir haben alles gesagt. Auf dem Klappe
+
+476
+00:39:40,760 --> 00:39:45,160
+können wir uns alles sehen. Klappe sehen wir halt. Klappen können wir uns auch angucken. Das war gut,
+
+477
+00:39:45,160 --> 00:39:52,440
+das war sehr gut. Deswegen, und aber jetzt haben Sie aber sich selber reingritten. Sie haben gesagt,
+
+478
+00:39:52,440 --> 00:39:59,200
+es könnte eine Myocarditis sein. Okay, reicht das alles, was wir gemacht haben für die Myocarditis?
+
+479
+00:39:59,200 --> 00:40:04,320
+Herzunzüme, okay, Sie sind erhöht. Das könnte ja auch eine Herzinfarkt sein, woher weiß ich
+
+480
+00:40:04,320 --> 00:40:12,280
+denn jetzt, dass das eine Myocarditis ist? Der Patient hat ein Hustroponin, normale CKCKNB,
+
+481
+00:40:12,280 --> 00:40:17,960
+das heißt auf jeden Fall Zeichnungs- und Akuts-Kronasymprum im Labor. Echokartigraphie ist
+
+482
+00:40:17,960 --> 00:40:23,280
+unauffällig. So, und woher weiß ich jetzt, muss ich jetzt Herzkartite haben machen, oder was
+
+483
+00:40:23,280 --> 00:40:27,040
+mache ich jetzt? Woher weiß ich denn jetzt, ob das ein Herzinfarkt oder eine Myocarditis ist?
+
+484
+00:40:27,040 --> 00:40:40,380
+Was mache ich jetzt als nächstes? Nein, wenn Sie sagen, dass es eine Myocarditis ist,
+
+485
+00:40:40,380 --> 00:40:47,980
+dann müssen Sie auch sagen, wie man die Diagnose stellt. Kardiormer-T. Myocarditis sieht man nur im
+
+486
+00:40:47,980 --> 00:40:59,970
+Kardiormer-T. Okay, und wie ist die Therapie von der Myocarditis? Sie haben das gesagt,
+
+487
+00:40:59,970 --> 00:41:11,720
+also müssen Sie auch sagen, was die Therapie ist. Also es ist eine symptomatische Therapie,
+
+488
+00:41:11,720 --> 00:41:16,640
+da gibt es keine Therapie. Symptomatische Therapie mit nicht-derodalen Antirheumatika,
+
+489
+00:41:16,640 --> 00:41:22,760
+körperliche Schonung, ja, für mind. vier bis sechs Wochen körperliche Schonung,
+
+490
+00:41:23,720 --> 00:41:31,560
+nicht-derodale Antirheumatika, ja, und gegebenenfalls eine M.R.T.-Kontrolle. Aber die Studien sagen,
+
+491
+00:41:31,560 --> 00:41:37,320
+dass Patienten die vaccine-bedingt, also impf-bedingt Myocarditiden entwickeln,
+
+492
+00:41:37,320 --> 00:41:43,200
+das sind alles milde Verläufe. Da ist eigentlich noch nie einer wirklich dran gestorben, ja. Die
+
+493
+00:41:43,200 --> 00:41:48,880
+Patienten, die impf-bedingt diese Myocarditiden entwickeln, die haben eigentlich immer einen
+
+494
+00:41:48,880 --> 00:41:54,480
+guten Verlauf. Wenn die Patienten vor der Booster-Impfung eine Myocarditis entwickeln,
+
+495
+00:41:54,480 --> 00:41:59,840
+da muss man halt gucken, wie akut das ist, wie hoch die Enzyme sind, wie ausgeprägt der
+
+496
+00:41:59,840 --> 00:42:05,760
+Befund im Kardiormer-T ist. Danach muss man halt nur entscheiden, dass es wichtig nach der
+
+497
+00:42:05,760 --> 00:42:12,160
+zweiten Impfung, ob man boostert oder nicht. Dann darf man nicht boostern, ne, weil dann ist
+
+498
+00:42:12,160 --> 00:42:18,160
+es gefährlich. Aber ansonsten, super, sehr gut. Wir haben ganz viele Differenzialdiagnosen,
+
+499
+00:42:18,160 --> 00:42:26,560
+5, 6 Differenzialdiagnosen. Ja. Wann war, wann war? Ach so ein Röntgen würde ich auch machen, ne?
+
+500
+00:42:26,560 --> 00:42:33,160
+Ein Röntgen würde ich auch machen. Ja, für die Lungenembolie. Nee. Wo sehen Sie die Lungenembolie?
+
+501
+00:42:33,160 --> 00:42:40,000
+Nicht im Röntgen-Torax. Wo sehen Sie die Lungenembolie? Nicht im Röntgen-Torax. Im Röntgen-Torax,
+
+502
+00:42:40,000 --> 00:42:47,440
+den bitte im CT. Wenn Sie den Verdacht haben, wenn die Dämere erhöht ist, muss der Patient,
+
+503
+00:42:47,440 --> 00:42:52,680
+wenn die Dämere erhöht ist, auch eine Rechtsärztesbelastung im ECHO haben, wenn er eine Lungenembolie hat?
+
+504
+00:42:52,680 --> 00:43:01,240
+Nein. Nein. Junge Patienten haben immer so eine gute Funktion. Das Herz ist so gesund,
+
+505
+00:43:01,240 --> 00:43:06,720
+dass wenn die eine Lungenembolie haben, dass die keine Rechtsärztesbelastung zeigen. Aber die
+
+506
+00:43:06,720 --> 00:43:12,120
+haben eine akute Lungenembolie im CT. Oft ist es so, dass sie keine Rechtsärztesbelastungszeichen
+
+507
+00:43:12,120 --> 00:43:20,880
+haben. Muss nicht. CT, Röntgen machen wir nur um zu gucken, ob der eine Pneumonie hat oder ob der Wasser in der Lunge hat.
+
+508
+00:43:20,880 --> 00:43:31,220
+Okay, ja. Okay, das war gut. Also das Deutsche hat mir sehr gut gefallen. Die Aussprache ist super.
+
+509
+00:43:31,220 --> 00:43:36,620
+Ja, ich glaube schon, dass wir stehen. Alles super. Sehr gut. Ich hoffe, ich werde
