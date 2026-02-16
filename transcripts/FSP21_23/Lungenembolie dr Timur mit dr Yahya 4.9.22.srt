@@ -1,0 +1,5155 @@
+1
+00:00:00,000 --> 00:00:01,000
+Hallo.
+
+2
+00:00:01,000 --> 00:00:02,000
+Bitte schön.
+
+3
+00:00:02,000 --> 00:00:03,000
+Hallo.
+
+4
+00:00:03,000 --> 00:00:04,000
+Guten Tag.
+
+5
+00:00:04,000 --> 00:00:05,000
+Guten Tag.
+
+6
+00:00:05,000 --> 00:00:08,000
+Ja, ich bin ja Herr Apci.
+
+7
+00:00:08,000 --> 00:00:12,000
+Und ich bin der Diensthabender Arzt auf dieser Station.
+
+8
+00:00:12,000 --> 00:00:15,000
+Und ich würde gerne mit Ihnen das Aufnahmegespräch führen.
+
+9
+00:00:15,000 --> 00:00:16,000
+Sind Sie damit einverstanden?
+
+10
+00:00:16,000 --> 00:00:17,000
+Ja, gerne.
+
+11
+00:00:17,000 --> 00:00:18,000
+Ja, okay.
+
+12
+00:00:18,000 --> 00:00:24,000
+Soerst möchte ich ein paar persönlichen Daten fragen.
+
+13
+00:00:24,000 --> 00:00:25,000
+Okay?
+
+14
+00:00:25,000 --> 00:00:26,000
+Ja.
+
+15
+00:00:26,000 --> 00:00:27,000
+Ja, wie heißen Sie?
+
+16
+00:00:27,000 --> 00:00:30,730
+Schmidt Müller.
+
+17
+00:00:30,730 --> 00:00:32,730
+Schmidt Müller.
+
+18
+00:00:32,730 --> 00:00:36,730
+Ja, Schmidt mit DT.
+
+19
+00:00:36,730 --> 00:00:38,730
+Ja, amen.
+
+20
+00:00:38,730 --> 00:00:40,730
+Ja, genau, mit DT.
+
+21
+00:00:40,730 --> 00:00:41,730
+Ja, okay.
+
+22
+00:00:41,730 --> 00:00:43,730
+Wie alt sind Sie?
+
+23
+00:00:43,730 --> 00:00:46,730
+65 Jahre alt.
+
+24
+00:00:46,730 --> 00:00:48,730
+65.
+
+25
+00:00:48,730 --> 00:00:51,730
+Und wann genau sind Sie geworden?
+
+26
+00:00:51,730 --> 00:00:57,730
+1967.
+
+27
+00:00:58,730 --> 00:01:02,730
+Ich hoffe, es macht noch mehr, bisschen, aber es ist nicht schlimm.
+
+28
+00:01:02,730 --> 00:01:03,730
+Ja, okay.
+
+29
+00:01:03,730 --> 00:01:08,730
+Und Tag und Monat?
+
+30
+00:01:08,730 --> 00:01:11,730
+Ja, 1.04.1967.
+
+31
+00:01:11,730 --> 00:01:13,730
+Ja, okay.
+
+32
+00:01:13,730 --> 00:01:16,730
+Und wie groß sind Sie, Herr Müller?
+
+33
+00:01:16,730 --> 00:01:18,730
+171.
+
+34
+00:01:18,730 --> 00:01:20,730
+Und wie viel wiegen Sie?
+
+35
+00:01:20,730 --> 00:01:22,730
+80.
+
+36
+00:01:22,730 --> 00:01:31,020
+Und Herr Müller, was für Sie sonst, was Sie beschreiben haben?
+
+37
+00:01:31,020 --> 00:01:36,020
+Eigentlich, ich habe chronische Lungenerkrankungen.
+
+38
+00:01:36,020 --> 00:01:43,020
+Ich leide unter einer COPD, aber in den letzten 3 Tagen habe ich stark gehusst
+
+39
+00:01:43,020 --> 00:01:46,020
+mit Leichtdruck im Brust.
+
+40
+00:01:46,020 --> 00:01:53,020
+Was ich bisher nicht erlebt habe, muss ich ehrlich sein.
+
+41
+00:01:54,020 --> 00:01:59,020
+Ich könnte es nicht nachvollziehen, ob das von den Grünerkrankungen ist,
+
+42
+00:01:59,020 --> 00:02:03,020
+ob ich eine Schuhe von COPD habe,
+
+43
+00:02:03,020 --> 00:02:06,020
+daraufhin, welches 2 Tage gewartet habe,
+
+44
+00:02:06,020 --> 00:02:11,020
+ich gehe mal ins Krankenhaus, lasse ich mal genau herausfinden, wer kommt das?
+
+45
+00:02:11,020 --> 00:02:13,020
+Ja, okay.
+
+46
+00:02:13,020 --> 00:02:17,020
+Herr Müller, wie ich Sie richtig verstanden habe,
+
+47
+00:02:17,020 --> 00:02:21,020
+Sie haben starke Husten mit Ausführforder?
+
+48
+00:02:22,020 --> 00:02:26,020
+Leicht Auswurf habe ich immer gehabt, aber es ist nicht so ausgeprägt.
+
+49
+00:02:26,020 --> 00:02:29,020
+An die Ausruf würde ich nicht sagen.
+
+50
+00:02:29,020 --> 00:02:31,020
+Ja, okay.
+
+51
+00:02:31,020 --> 00:02:36,020
+Und seit wann haben Sie diese Husten?
+
+52
+00:02:36,020 --> 00:02:40,020
+Als Sie gesagt, ich hatte immer auf uns zu,
+
+53
+00:02:40,020 --> 00:02:44,020
+aber so in dieser Maß habe ich nie gehabt
+
+54
+00:02:44,020 --> 00:02:48,020
+und zudem habe ich noch so einen Brustschmeißer,
+
+55
+00:02:48,020 --> 00:02:50,020
+das habe ich auch gesagt.
+
+56
+00:02:50,020 --> 00:02:53,020
+Es ist nicht nur Husten, sondern auch so einen Brustschmeißer.
+
+57
+00:02:53,020 --> 00:02:55,020
+Ja, okay.
+
+58
+00:02:55,020 --> 00:02:59,020
+Und wann fängt Ihre Brustschmerzen an?
+
+59
+00:02:59,020 --> 00:03:02,020
+Das ist auch vor 3 Tagen eigentlich.
+
+60
+00:03:02,020 --> 00:03:07,910
+Und wo genau, in der Mitte?
+
+61
+00:03:07,910 --> 00:03:10,910
+Gesandte Brustwand, ja.
+
+62
+00:03:10,910 --> 00:03:17,120
+Und wie können Sie diese Schmerzen beschreiben?
+
+63
+00:03:17,120 --> 00:03:20,120
+Sind Sie dumm oder drückend?
+
+64
+00:03:20,120 --> 00:03:22,120
+Drückende Schmerzen.
+
+65
+00:03:22,120 --> 00:03:26,620
+Und strahlende Schmerzen,
+
+66
+00:03:26,620 --> 00:03:32,620
+wohingen auf mit Rücken oder Unten?
+
+67
+00:03:32,620 --> 00:03:35,620
+Nein, so eine Ausstrahlung,
+
+68
+00:03:35,620 --> 00:03:38,620
+kann ich nicht genau sagen,
+
+69
+00:03:38,620 --> 00:03:40,620
+habe ich auch nicht gespürt.
+
+70
+00:03:40,620 --> 00:03:42,620
+Das gesamte Brustwand des Betroffenen,
+
+71
+00:03:42,620 --> 00:03:44,620
+ich habe so eine drückende Schmerzen,
+
+72
+00:03:44,620 --> 00:03:46,620
+kann ich nicht mehr sagen.
+
+73
+00:03:46,620 --> 00:03:49,620
+Okay.
+
+74
+00:03:49,620 --> 00:03:54,620
+Wie können Sie,
+
+75
+00:03:54,620 --> 00:04:00,620
+oder auf eine Schmerzikala,
+
+76
+00:04:00,620 --> 00:04:04,620
+was spricht Japan 1 bis 10,
+
+77
+00:04:04,620 --> 00:04:08,620
+wobei 1 sehr leite Schmerzen und 10 sehr starke Schmerzen.
+
+78
+00:04:08,620 --> 00:04:12,620
+Wie stark sind die Schmerzen?
+
+79
+00:04:12,620 --> 00:04:16,620
+Wie stark die Schmerzen sind, das ist gute Frage.
+
+80
+00:04:16,620 --> 00:04:19,620
+Wenn ich Husten, dann tut es noch mehr weh.
+
+81
+00:04:19,620 --> 00:04:22,620
+Während Husten habe ich so eine Schmerzskala
+
+82
+00:04:22,620 --> 00:04:25,620
+zwischen 7 und 8.
+
+83
+00:04:25,620 --> 00:04:27,620
+Und danach, wenn ich mich erleichtere,
+
+84
+00:04:27,620 --> 00:04:29,620
+wenn ich keine Husten habe,
+
+85
+00:04:29,620 --> 00:04:31,620
+so eine dumpfe Schmerz,
+
+86
+00:04:31,620 --> 00:04:35,620
+dann eher bis 4 bis 5, würde ich sagen.
+
+87
+00:04:35,620 --> 00:04:39,620
+Okay, Herr Müller.
+
+88
+00:04:39,620 --> 00:04:50,900
+Und, Herr Müller.
+
+89
+00:04:50,900 --> 00:04:59,900
+Ja, sind Sie Fiber oder haben Sie Ihre Fiber gemessen?
+
+90
+00:04:59,900 --> 00:05:03,300
+Ich habe Fiber,
+
+91
+00:05:03,300 --> 00:05:06,300
+vielleicht haben Sie es freutzeitig gehabt.
+
+92
+00:05:06,300 --> 00:05:08,300
+Ich habe es nicht aber nicht gemessen.
+
+93
+00:05:08,300 --> 00:05:09,300
+Mir war warm,
+
+94
+00:05:09,300 --> 00:05:12,300
+aber ich kann es nicht genau sagen,
+
+95
+00:05:12,300 --> 00:05:14,300
+dass ich ein Fiber war.
+
+96
+00:05:14,300 --> 00:05:16,300
+Okay.
+
+97
+00:05:16,300 --> 00:05:18,300
+Und, Herr Müller,
+
+98
+00:05:18,300 --> 00:05:21,300
+haben Sie noch andere Beschwerden?
+
+99
+00:05:21,300 --> 00:05:26,930
+Ja, vielleicht.
+
+100
+00:05:26,930 --> 00:05:29,930
+Sie haben gesagt,
+
+101
+00:05:29,930 --> 00:05:32,930
+Sie haben gesagt,
+
+102
+00:05:32,930 --> 00:05:36,930
+Sie haben leichte Ausrufe.
+
+103
+00:05:36,930 --> 00:05:39,930
+Wie ist Ihre Ausrufe?
+
+104
+00:05:39,930 --> 00:05:42,930
+Welche warme?
+
+105
+00:05:42,930 --> 00:05:45,930
+Wie ist die Konsistenz?
+
+106
+00:05:45,930 --> 00:05:47,930
+Ich habe gesagt,
+
+107
+00:05:47,930 --> 00:05:50,930
+eigentlich habe ich nicht so eine ausgeprägte Ausrufe.
+
+108
+00:05:50,930 --> 00:05:55,930
+Ich habe eine Grunderkrankung durch die COPD.
+
+109
+00:05:55,930 --> 00:06:01,930
+Eigentlich war die Ausrufe immer so leicht Geld.
+
+110
+00:06:01,930 --> 00:06:06,930
+Ich würde sagen, es ist normal.
+
+111
+00:06:06,930 --> 00:06:08,930
+Natürlich sind Sie der Arzt.
+
+112
+00:06:08,930 --> 00:06:10,930
+Wir können das besser entscheiden.
+
+113
+00:06:10,930 --> 00:06:13,930
+Aber meines Erachtens ist es normal.
+
+114
+00:06:13,930 --> 00:06:15,930
+Okay, sehr schön.
+
+115
+00:06:15,930 --> 00:06:19,930
+Haben Sie das nicht bemerkt?
+
+116
+00:06:19,930 --> 00:06:23,930
+Ja, im Blut, im Auswurf.
+
+117
+00:06:23,930 --> 00:06:26,930
+Ob ich Blut im Auswurf gesehen habe?
+
+118
+00:06:26,930 --> 00:06:28,930
+Oder blutige Ausrufe gesehen habe?
+
+119
+00:06:28,930 --> 00:06:30,930
+Ja.
+
+120
+00:06:30,930 --> 00:06:33,930
+Ich konnte keine auf Blut feststellen.
+
+121
+00:06:33,930 --> 00:06:38,740
+Okay.
+
+122
+00:06:38,740 --> 00:06:44,740
+Haben Sie schnelle Herzschlagen?
+
+123
+00:06:44,740 --> 00:06:47,990
+Ob ein Herzschläge schlägt,
+
+124
+00:06:47,990 --> 00:06:49,990
+das ist eine gute Frage.
+
+125
+00:06:49,990 --> 00:06:51,990
+Ab und zu schon,
+
+126
+00:06:51,990 --> 00:06:53,990
+habe ich schon eine Herzschlage.
+
+127
+00:06:53,990 --> 00:06:56,990
+Aber nicht dauerhaft, manchmal.
+
+128
+00:06:56,990 --> 00:06:58,990
+Okay.
+
+129
+00:06:58,990 --> 00:07:00,990
+Das kommt und geht wieder weg.
+
+130
+00:07:00,990 --> 00:07:02,990
+Okay.
+
+131
+00:07:02,990 --> 00:07:09,990
+Sie sind nicht mehr da oder gehen Sie wieder weg?
+
+132
+00:07:09,990 --> 00:07:12,990
+Ob ich dauerhaft schmeißen habe.
+
+133
+00:07:12,990 --> 00:07:16,990
+Ich habe nicht dauerhaft schmeißen.
+
+134
+00:07:16,990 --> 00:07:19,990
+Ja, ich muss sagen, er meistern schon.
+
+135
+00:07:19,990 --> 00:07:22,990
+Aber wenn ich schlafe, dann ist es okay.
+
+136
+00:07:22,990 --> 00:07:27,990
+Ich kann es normal schlafen, muss ich sagen.
+
+137
+00:07:27,990 --> 00:07:29,990
+Okay.
+
+138
+00:07:29,990 --> 00:07:33,990
+Und gibt es etwas, das sich meistens lindert oder versteht?
+
+139
+00:07:33,990 --> 00:07:36,990
+Ein Auslöser für die Schmälze.
+
+140
+00:07:36,990 --> 00:07:39,990
+Ja, gibt es eine bestimmte Auslösung?
+
+141
+00:07:39,990 --> 00:07:42,990
+Nee, hustern.
+
+142
+00:07:42,990 --> 00:07:44,990
+Ja, nicht.
+
+143
+00:07:44,990 --> 00:07:46,990
+Durch die Hustern vermehrt sich denn?
+
+144
+00:07:46,990 --> 00:07:52,990
+Ja, sind Ihre Beschwerden,
+
+145
+00:07:52,990 --> 00:08:03,990
+hatten sich Ihre Hustern beim Einatmen
+
+146
+00:08:03,990 --> 00:08:07,990
+oder beim Ausatmen versteckt oder verländert?
+
+147
+00:08:07,990 --> 00:08:09,990
+Ob das am Atemabhängigen ist, mein Sie?
+
+148
+00:08:09,990 --> 00:08:11,990
+Ja.
+
+149
+00:08:11,990 --> 00:08:13,990
+Ich würde es gerade nehmen.
+
+150
+00:08:13,990 --> 00:08:16,990
+Hustern oder Ihre Brötchenmärchen?
+
+151
+00:08:16,990 --> 00:08:21,990
+Schwierig zu antworten.
+
+152
+00:08:21,990 --> 00:08:23,990
+Ja, Ihnen würde ich sagen.
+
+153
+00:08:23,990 --> 00:08:25,990
+Ja, okay.
+
+154
+00:08:25,990 --> 00:08:30,990
+Und beim Liegen oder beim Hochlegen oder beim Stehen
+
+155
+00:08:30,990 --> 00:08:34,990
+haben Sie das bemerkt, irgendwelche Veränderungen?
+
+156
+00:08:34,990 --> 00:08:36,990
+Nein, eigentlich nicht.
+
+157
+00:08:36,990 --> 00:08:38,990
+Nein, nicht.
+
+158
+00:08:38,990 --> 00:08:40,990
+Okay.
+
+159
+00:08:40,990 --> 00:08:55,470
+Okay.
+
+160
+00:08:55,470 --> 00:08:59,470
+Haben Sie Schüttefröse oder Nachweiß?
+
+161
+00:08:59,470 --> 00:09:02,470
+Nein, habe ich auch nicht gehabt.
+
+162
+00:09:02,470 --> 00:09:04,470
+Okay.
+
+163
+00:09:04,470 --> 00:09:06,470
+Mussten Sie sich erbrechen?
+
+164
+00:09:06,470 --> 00:09:08,470
+Nein.
+
+165
+00:09:08,470 --> 00:09:10,470
+Okay.
+
+166
+00:09:10,470 --> 00:09:14,470
+Haben Sie Probleme, eins zu schlafen oder durchzuschlafen?
+
+167
+00:09:14,470 --> 00:09:17,470
+Hab ich auch kein Problem.
+
+168
+00:09:17,470 --> 00:09:19,470
+Okay.
+
+169
+00:09:19,470 --> 00:09:26,470
+Haben Sie in den letzten Seinen zum Beispiel in sechs Monaten
+
+170
+00:09:26,470 --> 00:09:29,470
+ungewollt ab- oder zugenommen?
+
+171
+00:09:29,470 --> 00:09:32,470
+Nein, eigentlich bin ich stabil.
+
+172
+00:09:32,470 --> 00:09:34,470
+Nicht stabil, oder?
+
+173
+00:09:34,470 --> 00:09:36,470
+Stabil.
+
+174
+00:09:36,470 --> 00:09:38,470
+Ja, stabil.
+
+175
+00:09:38,470 --> 00:09:40,470
+Genau.
+
+176
+00:09:40,470 --> 00:09:42,470
+Ich habe auch nicht die Frage,
+
+177
+00:09:42,470 --> 00:09:44,470
+ob ich mich nicht stammig bin.
+
+178
+00:09:44,470 --> 00:09:46,470
+Ich bin nicht stabil, oder?
+
+179
+00:09:46,470 --> 00:09:48,470
+Ich stabe wie.
+
+180
+00:09:48,470 --> 00:09:50,470
+Ja, stabil.
+
+181
+00:09:50,470 --> 00:09:57,470
+Ja, Sie haben gesagt, nur Sie sind ein bisschen fibrig.
+
+182
+00:09:57,470 --> 00:10:01,470
+Ja, ich konnte nicht das Fibre bezeichnen,
+
+183
+00:10:01,470 --> 00:10:04,470
+aber das warme Gefühl war.
+
+184
+00:10:04,470 --> 00:10:06,470
+Ich habe es nicht gemessen.
+
+185
+00:10:06,470 --> 00:10:09,470
+Ja, okay.
+
+186
+00:10:09,470 --> 00:10:11,470
+Okay.
+
+187
+00:10:11,470 --> 00:10:16,470
+Okay, ist bei Ihnen übel?
+
+188
+00:10:16,470 --> 00:10:20,470
+Okay, übel ist auch nicht.
+
+189
+00:10:20,470 --> 00:10:35,740
+Okay, Herr Müller, wie Sie schon gesagt haben, Sie eine COPD haben, seit wann haben Sie diese Erkrankungen?
+
+190
+00:10:35,740 --> 00:10:38,740
+Seit ungefähr zehn Jahren.
+
+191
+00:10:38,740 --> 00:10:49,940
+Außer diese Krankheiten haben Sie noch andere Vorerkrankungen?
+
+192
+00:10:49,940 --> 00:10:51,940
+Nein.
+
+193
+00:10:51,940 --> 00:10:53,940
+Das reicht das aus.
+
+194
+00:10:53,940 --> 00:10:56,940
+Ja, ja, ich weiß.
+
+195
+00:10:56,940 --> 00:11:00,940
+Und wurden Sie schon einmal operiert?
+
+196
+00:11:00,940 --> 00:11:03,940
+Auch nicht, Gott sei Dank.
+
+197
+00:11:03,940 --> 00:11:06,940
+Ja, das freut mich.
+
+198
+00:11:06,940 --> 00:11:11,940
+Und was nehmen Sie für COPD ein?
+
+199
+00:11:11,940 --> 00:11:19,940
+Da gibt es zwei Sprähe, da gibt es zwei Sprähe, die ich von meinen Pognologen bekommen habe.
+
+200
+00:11:19,940 --> 00:11:26,940
+Und ab und zu natürlich, wenn das stark wird, die geben wir so einen Cortison auch bei Schuwa.
+
+201
+00:11:26,940 --> 00:11:30,940
+Aber mein Arzt ist aktuell im Urlaub.
+
+202
+00:11:30,940 --> 00:11:36,940
+Und ich könnte mit ihm nicht Kontakt aufnehmen, um nachzufragen, ob das eine COPD-Bedingung ist,
+
+203
+00:11:36,940 --> 00:11:38,940
+ob das ein Problem ist oder etwas anderes.
+
+204
+00:11:38,940 --> 00:11:41,940
+Deswegen bin ich hier gekommen.
+
+205
+00:11:41,940 --> 00:11:44,940
+Sie haben zwei Sprähe angenommen?
+
+206
+00:11:44,940 --> 00:11:48,940
+Ja, das ist eine Daur Haft, die ich zu nehmen habe.
+
+207
+00:11:48,940 --> 00:11:57,940
+Ja, ja, wie ich sie richtig verstanden habe, Sie haben nicht regelmäßig dieses Einzelnen.
+
+208
+00:11:57,940 --> 00:12:01,940
+Ja, weil ich brauche es nicht öfter.
+
+209
+00:12:01,940 --> 00:12:05,940
+Ja, manchmal ist es mir schlechter, wenn ich schrauche,
+
+210
+00:12:05,940 --> 00:12:08,940
+mich schlechte im Sinne von nicht, dass ich Schuwa habe,
+
+211
+00:12:08,940 --> 00:12:14,940
+sondern auch durch den Luft, durch den Atem, ist es mir schwer.
+
+212
+00:12:14,940 --> 00:12:16,940
+Daher muss ich meine Sprähe benutzen.
+
+213
+00:12:16,940 --> 00:12:19,940
+Ich schrauche noch dazu, muss sie eigentlich sein,
+
+214
+00:12:19,940 --> 00:12:24,940
+sondern 5 bis 6 Sekret pro Tag.
+
+215
+00:12:24,940 --> 00:12:34,940
+Ich war schon richtig chronisch abus, mit der Tabak sozusagen,
+
+216
+00:12:34,940 --> 00:12:36,940
+aber ich habe es stark reduziert.
+
+217
+00:12:36,940 --> 00:12:39,940
+Ich hatte vorher immer über 20 Sekret geraucht.
+
+218
+00:12:39,940 --> 00:12:41,940
+Seit ungefähr 10 Jahren, ich habe es reduziert,
+
+219
+00:12:41,940 --> 00:12:43,940
+seit ich das mitbekommen habe,
+
+220
+00:12:43,940 --> 00:12:48,940
+dass ich meine Lungen schon stark belastet habe.
+
+221
+00:12:48,940 --> 00:12:54,940
+Das OP ist auch jetzt unter Kontrolle, muss ich sagen,
+
+222
+00:12:54,940 --> 00:12:58,940
+soweit ich gehe auf, dass ich Kontrolle, Lungen, Atemtest,
+
+223
+00:12:58,940 --> 00:13:02,940
+macht meine Arzt auch regelmäßig,
+
+224
+00:13:02,940 --> 00:13:05,940
+der meint, dass wir sind im guter Weg.
+
+225
+00:13:05,940 --> 00:13:09,940
+Herr Müller, ich empfehle Ihnen,
+
+226
+00:13:09,940 --> 00:13:14,940
+dass Sie Ihre Sprähe oder Ihre Medikamente
+
+227
+00:13:14,940 --> 00:13:17,940
+regelmäßig einnehmen müssen.
+
+228
+00:13:17,940 --> 00:13:19,940
+Okay.
+
+229
+00:13:19,940 --> 00:13:23,940
+Reagieren Sie allergisch mit Medikamente oder Lebensmittel?
+
+230
+00:13:23,940 --> 00:13:25,940
+Nein.
+
+231
+00:13:25,940 --> 00:13:35,180
+Sind Sie vollständig gegen Corona-Virus geimpft?
+
+232
+00:13:35,180 --> 00:13:38,180
+Ja, ich bin dreimal geimpft.
+
+233
+00:13:38,180 --> 00:13:44,180
+Und waren Sie schon einmal im Ausland?
+
+234
+00:13:44,180 --> 00:13:47,180
+Nein, nicht jetzt, vor allem in der letzten Zeit.
+
+235
+00:13:47,180 --> 00:13:59,180
+Sie haben gesagt, Sie haben 10 Sekrette pro Tag gebraucht.
+
+236
+00:13:59,180 --> 00:14:05,180
+Ich habe gesagt, dass ich aktuell 5 bis 6 pro Tag.
+
+237
+00:14:05,180 --> 00:14:07,180
+Ja, 5 bis 6.
+
+238
+00:14:07,180 --> 00:14:10,180
+Aber früher?
+
+239
+00:14:10,180 --> 00:14:12,180
+Mehr als 20.
+
+240
+00:14:12,180 --> 00:14:15,180
+Aber seit 10 Jahren habe ich sie stark kritisiert.
+
+241
+00:14:15,180 --> 00:14:20,180
+Vor 10 Jahren war das, aber seitdem ich das Diagnose mitbekommen habe,
+
+242
+00:14:20,180 --> 00:14:22,180
+habe ich sie stark kritisiert.
+
+243
+00:14:22,180 --> 00:14:26,180
+Und früher, vor 10 Jahren,
+
+244
+00:14:26,180 --> 00:14:29,180
+wie viele Sekrette brauchen Sie?
+
+245
+00:14:29,180 --> 00:14:32,180
+20 Sekrette haben Sie?
+
+246
+00:14:32,180 --> 00:14:36,180
+Wie lange habe ich denn stark geraucht?
+
+247
+00:14:36,180 --> 00:14:39,180
+Ungefähr 20 Jahre.
+
+248
+00:14:39,180 --> 00:14:43,180
+Mehr als 20 Sekrette?
+
+249
+00:14:43,180 --> 00:14:45,180
+Ja, genau.
+
+250
+00:14:45,180 --> 00:14:50,690
+Trinken Sie Alkohol?
+
+251
+00:14:50,690 --> 00:14:56,180
+Herr Müller?
+
+252
+00:14:56,180 --> 00:14:58,180
+Hallo?
+
+253
+00:14:58,180 --> 00:15:00,180
+Noch da?
+
+254
+00:15:00,180 --> 00:15:04,190
+Ich höre Sie ganz schlecht.
+
+255
+00:15:04,190 --> 00:15:09,010
+Hallo?
+
+256
+00:15:09,010 --> 00:15:11,010
+Trinken Sie Alkohol, Herr Müller?
+
+257
+00:15:11,010 --> 00:15:13,010
+Nein, ab und zu.
+
+258
+00:15:13,010 --> 00:15:18,010
+Das ist eine Rückkinderpräge.
+
+259
+00:15:18,010 --> 00:15:20,010
+Ich habe das Fragen.
+
+260
+00:15:20,010 --> 00:15:22,010
+Nehmen Sie Drogen?
+
+261
+00:15:22,010 --> 00:15:24,010
+Auch nicht mehr.
+
+262
+00:15:24,010 --> 00:15:26,010
+Okay.
+
+263
+00:15:26,010 --> 00:15:29,010
+Herr Müller,
+
+264
+00:15:29,010 --> 00:15:37,010
+oder besuchen Sie regelmäßig in Ihren Hausarzt
+
+265
+00:15:37,010 --> 00:15:42,010
+um Ihre Versorgung und Untersuchung zu machen?
+
+266
+00:15:42,010 --> 00:15:47,450
+Was meinst du, damit habe ich genau auch gestern verstanden?
+
+267
+00:15:47,450 --> 00:15:54,450
+Ja, haben Sie regelmäßig Versorgung und Untersuchung gemacht?
+
+268
+00:15:54,450 --> 00:16:02,450
+Ich meine, um eine Darmkrebs zu schließen,
+
+269
+00:16:02,450 --> 00:16:07,450
+auszuschließen, oder?
+
+270
+00:16:07,450 --> 00:16:09,450
+Okay, das hat mich keiner was gesagt,
+
+271
+00:16:09,450 --> 00:16:12,450
+ob ich eine Vorsorgeuntersuchung machen muss natürlich.
+
+272
+00:16:12,450 --> 00:16:16,450
+Ich habe vor 10 Jahren mal einen Darmspiegeln gehabt.
+
+273
+00:16:16,450 --> 00:16:18,450
+Das war okay, und die meint das jetzt,
+
+274
+00:16:18,450 --> 00:16:20,450
+ich brauche es aktuell nicht.
+
+275
+00:16:20,450 --> 00:16:22,450
+Ich habe auch kein Problem mit dem Stuhlgang.
+
+276
+00:16:22,450 --> 00:16:25,450
+Wie kommen Sie auf die Idee, dass ich das machen muss?
+
+277
+00:16:25,450 --> 00:16:28,450
+Oder empfinden Sie mich, dass ich das machen muss?
+
+278
+00:16:28,450 --> 00:16:32,450
+Ja, ab 15 Jahren,
+
+279
+00:16:32,450 --> 00:16:42,450
+kann man für jede Mensch
+
+280
+00:16:42,450 --> 00:16:48,450
+oder jede Person Versorgung und Untersuchung machen?
+
+281
+00:16:48,450 --> 00:16:50,450
+Anbieten, okay.
+
+282
+00:16:50,450 --> 00:16:55,450
+Ja, und ich würde Ihnen empfehlen auch.
+
+283
+00:16:55,450 --> 00:16:57,450
+Okay, gerne.
+
+284
+00:16:57,450 --> 00:16:59,450
+Das würde ich, wenn ich jetzt mit diesen Probleme,
+
+285
+00:16:59,450 --> 00:17:02,450
+sozusagen, in die Probleme, sich beseitigt,
+
+286
+00:17:02,450 --> 00:17:04,450
+natürlich würde ich, wenn Sie mich darum kümmern,
+
+287
+00:17:04,450 --> 00:17:06,450
+würde ich mal in meine Haushalts gehen
+
+288
+00:17:06,450 --> 00:17:10,450
+und dann würde ich Ihren entsprechenden Untersuchung wahrnehmen.
+
+289
+00:17:10,450 --> 00:17:12,450
+Danke für Ihre Empfehlung.
+
+290
+00:17:12,450 --> 00:17:15,450
+Und leben Ihre Eltern noch?
+
+291
+00:17:15,450 --> 00:17:17,450
+Nee.
+
+292
+00:17:17,450 --> 00:17:21,450
+Und woran sind Sie gestorben?
+
+293
+00:17:21,450 --> 00:17:26,450
+Mein Vater hat Lumenkrebs.
+
+294
+00:17:26,450 --> 00:17:32,450
+Er ist fast vor 10 Jahren verschlafen.
+
+295
+00:17:32,450 --> 00:17:37,450
+Und meine Mutter hat auch Brustkrebs.
+
+296
+00:17:47,440 --> 00:17:55,440
+Und in welcher Alter ist sie gestorben?
+
+297
+00:17:55,440 --> 00:17:57,440
+Sind Sie verstorben?
+
+298
+00:17:57,440 --> 00:18:02,440
+Ja, das war, mein Vater war schon ungefähr 75 Jahre alt.
+
+299
+00:18:02,440 --> 00:18:04,440
+Ja.
+
+300
+00:18:04,440 --> 00:18:08,440
+Und meine Mutter war 70 Jahre alt.
+
+301
+00:18:08,440 --> 00:18:10,440
+70.
+
+302
+00:18:10,440 --> 00:18:11,440
+Okay, danke.
+
+303
+00:18:11,440 --> 00:18:13,440
+Und haben Sie Geschwister?
+
+304
+00:18:13,440 --> 00:18:15,440
+Nee, habe ich keine.
+
+305
+00:18:15,440 --> 00:18:20,440
+Und Herr Müller, sind Sie verheiratet?
+
+306
+00:18:20,440 --> 00:18:22,440
+Auch nicht.
+
+307
+00:18:22,440 --> 00:18:24,440
+Haben Sie Kinder?
+
+308
+00:18:24,440 --> 00:18:26,440
+Auch keine Kinder.
+
+309
+00:18:26,440 --> 00:18:31,490
+Und mit wem wohnen Sie?
+
+310
+00:18:31,490 --> 00:18:36,490
+Ich wohn alleine, in Gebäude, wo meine Eltern waren.
+
+311
+00:18:36,490 --> 00:18:39,490
+Ich wohn jetzt da drinnen.
+
+312
+00:18:39,490 --> 00:18:43,490
+Und was machen Sie beruflich?
+
+313
+00:18:43,490 --> 00:18:45,490
+Sind Sie beruflich?
+
+314
+00:18:45,490 --> 00:18:50,490
+Ich bin jetzt durch den COPD schon früher in Rente gegangen.
+
+315
+00:18:50,490 --> 00:18:57,490
+Und ich war eher so wie Hausmeister, ja, jahrelang.
+
+316
+00:18:57,490 --> 00:19:00,490
+Und am Ende habe ich alles abgegeben.
+
+317
+00:19:00,490 --> 00:19:03,490
+Könnte ich nicht mehr.
+
+318
+00:19:03,490 --> 00:19:06,490
+Okay, Herr Müller, ich denke,
+
+319
+00:19:06,490 --> 00:19:09,490
+ihr habt alle wirklich eine Frage gestellt.
+
+320
+00:19:09,490 --> 00:19:13,490
+Haben Sie noch Fragen oder möchten Sie etwas mehr zugeben?
+
+321
+00:19:13,490 --> 00:19:18,490
+Ich würde gerne wissen, was ich habe, was ich noch zu tun.
+
+322
+00:19:18,490 --> 00:19:22,490
+Und was würden Sie mich empfehlen, das ist meine Wunsch zur Saison.
+
+323
+00:19:22,490 --> 00:19:24,490
+Sonst habe ich keine Frage.
+
+324
+00:19:24,490 --> 00:19:26,490
+Ja, okay.
+
+325
+00:19:26,490 --> 00:19:33,490
+Herr Müller, ich habe eine Verdacht auf Ihre Lungen erzündet.
+
+326
+00:19:33,490 --> 00:19:38,490
+Ich vermute, dass Sie eine dünne Entzündung haben.
+
+327
+00:19:38,490 --> 00:19:39,490
+Ja, ja.
+
+328
+00:19:39,490 --> 00:19:44,490
+Aber es muss bestätigt werden.
+
+329
+00:19:44,490 --> 00:19:49,490
+So erst möchte ich Sie körperlich untersuchen.
+
+330
+00:19:49,490 --> 00:19:53,490
+Danach werde ich bei Ihnen Blut abnehmen.
+
+331
+00:19:53,490 --> 00:20:01,490
+Und eine Röntgen wird, eine Röntgen Torax,
+
+332
+00:20:01,490 --> 00:20:06,490
+muss veranlasen werden.
+
+333
+00:20:06,490 --> 00:20:11,490
+Und jetzt werde ich mit dem Oberarzt sprechen,
+
+334
+00:20:11,490 --> 00:20:13,490
+wie wir weiter vorgehen.
+
+335
+00:20:13,490 --> 00:20:17,490
+Danach sprechen wir weiter.
+
+336
+00:20:17,490 --> 00:20:19,490
+Alles klar.
+
+337
+00:20:19,490 --> 00:20:21,490
+Danke schön.
+
+338
+00:20:21,490 --> 00:20:23,490
+Bis gleich.
+
+339
+00:20:23,490 --> 00:20:25,490
+Haben wir alle Fragen gestellt?
+
+340
+00:20:25,490 --> 00:20:28,490
+Haben wir etwas vergessen?
+
+341
+00:20:28,490 --> 00:20:35,490
+Ja, manchmal einige Fragen vergessen.
+
+342
+00:20:35,490 --> 00:20:42,490
+Haben Sie bei der Diagnostik ein Medikament oder eine Neutropyrat eingenehm?
+
+343
+00:20:42,490 --> 00:20:44,490
+Nein.
+
+344
+00:20:44,490 --> 00:20:49,490
+Haben Sie Schulukbechirat oder Öftedogpilenin geholfen?
+
+345
+00:20:49,490 --> 00:20:52,490
+Ja, das ist aber nicht neu.
+
+346
+00:20:52,490 --> 00:20:56,490
+Ich habe es von der Brille ab und zu gehabt seit Jahren lang.
+
+347
+00:20:56,490 --> 00:21:01,490
+Aber jetzt mit diesen Problemen, mit diesen Beschwerden,
+
+348
+00:21:01,490 --> 00:21:05,490
+hat sich das nicht verändert oder geändert.
+
+349
+00:21:05,490 --> 00:21:09,490
+Die Probleme für sich sind nicht zunehmend.
+
+350
+00:21:09,490 --> 00:21:13,490
+Ich habe Fragen, aber Sie haben Antwort.
+
+351
+00:21:13,490 --> 00:21:16,490
+Hatten Sie so jetzt das für Sie schon einen Mann?
+
+352
+00:21:16,490 --> 00:21:18,490
+Nein.
+
+353
+00:21:18,490 --> 00:21:20,490
+Diese Maß habe ich gesagt, habe ich nie gehabt.
+
+354
+00:21:20,490 --> 00:21:23,490
+Deswegen habe ich gesagt, ich kann nicht jetzt lange warten.
+
+355
+00:21:23,490 --> 00:21:26,490
+Bei einer Behandlung Arzt ist es ein Mulaub.
+
+356
+00:21:26,490 --> 00:21:31,490
+Ich muss jetzt in den Krankenhaus, dass ich das klären lassen, warum ich es habe.
+
+357
+00:21:31,490 --> 00:21:36,490
+Wie haben Sie sich die Beschwerden mit der Zeit für drei Tage angesprochen?
+
+358
+00:21:36,490 --> 00:21:41,490
+Ja, so starker Husten, so ein Druck auf den Brust und Schmerzen noch.
+
+359
+00:21:41,490 --> 00:21:44,490
+Als ich gesagt habe, wie ich das beschreiben habe,
+
+360
+00:21:44,490 --> 00:21:46,490
+leichte Temperatur hatte ich auch gehabt.
+
+361
+00:21:46,490 --> 00:21:50,490
+Da habe ich nicht gemessen, aber so ein leichter Auswurf.
+
+362
+00:21:50,490 --> 00:21:53,490
+Aber das war immer, wie es war, muss ich sagen.
+
+363
+00:21:53,490 --> 00:21:58,490
+Deswegen wegen den Husten, da muss man wegen Schmerzen und Schmerzen in den Krankenhaus.
+
+364
+00:21:58,490 --> 00:22:01,490
+Können Sie vielleicht im Bett liegen?
+
+365
+00:22:01,490 --> 00:22:08,490
+Geht. Das ist nicht aber neue Probleme von mir.
+
+366
+00:22:08,490 --> 00:22:10,490
+Das war immer so.
+
+367
+00:22:10,490 --> 00:22:12,490
+Wie viel Kissen haben Sie?
+
+368
+00:22:12,490 --> 00:22:17,490
+Ich habe ein spezieller Bett, wo ich wegen der Reflukskrankheiten meine,
+
+369
+00:22:17,490 --> 00:22:20,490
+dass ich etwas hatte, aber nicht ausgeprägt habe.
+
+370
+00:22:20,490 --> 00:22:23,490
+Ich habe auch aus dem, dass meine Empfehlung von meinem Haus heißt,
+
+371
+00:22:23,490 --> 00:22:27,490
+dass ich nicht gerade schlafen, sondern auch mit mir ein bisschen flächern,
+
+372
+00:22:27,490 --> 00:22:30,490
+so zu sagen, so ein Zehn- oder 15-Gerat.
+
+373
+00:22:30,490 --> 00:22:33,490
+Momentan, was steht im Vordergrund,
+
+374
+00:22:33,490 --> 00:22:36,490
+Beliefnot oder das Türkei für den Brusten?
+
+375
+00:22:36,490 --> 00:22:42,400
+Druck, Gefühlen, Schmerzen mit Husten.
+
+376
+00:22:42,400 --> 00:22:44,400
+Das war es. Dankeschön.
+
+377
+00:22:44,400 --> 00:22:48,400
+Haben noch andere Fragen, Kollegen?
+
+378
+00:22:48,400 --> 00:22:52,400
+Ob die anderen Kollegen Fragen haben.
+
+379
+00:22:52,400 --> 00:22:58,400
+Können Sie einfach Luft kriegen?
+
+380
+00:22:58,400 --> 00:23:01,400
+Noch ein paar Werte, ich herrsch nicht.
+
+381
+00:23:01,400 --> 00:23:03,400
+Luftnot.
+
+382
+00:23:03,400 --> 00:23:06,400
+Haben Sie auch Luftnot?
+
+383
+00:23:06,400 --> 00:23:11,400
+Und dritten Bespieler, in der Nacht?
+
+384
+00:23:11,400 --> 00:23:17,400
+Oder Tagsüber und nach?
+
+385
+00:23:17,400 --> 00:23:20,400
+Luftnot habe ich.
+
+386
+00:23:20,400 --> 00:23:23,400
+Das wurde nicht genau gefragt.
+
+387
+00:23:23,400 --> 00:23:29,400
+Aber jetzt müssen Sie vertiefen, wann und wie.
+
+388
+00:23:29,400 --> 00:23:32,400
+Vielleicht Sie möchten uns fragen,
+
+389
+00:23:32,400 --> 00:23:36,400
+ist das eine Einatmen-Luftnot?
+
+390
+00:23:36,400 --> 00:23:39,400
+Oder Ausatmen?
+
+391
+00:23:39,400 --> 00:23:43,400
+Wieder einatmen, noch im Ausatmen.
+
+392
+00:23:43,400 --> 00:23:46,400
+Noch?
+
+393
+00:23:46,400 --> 00:23:50,400
+Noch, bis zu Luftnot, muss ich weiter fragen.
+
+394
+00:23:50,400 --> 00:23:56,400
+Bis zu Brustschmerzen, das muss noch gefragt werden.
+
+395
+00:23:56,400 --> 00:24:00,780
+Können wir anfangen?
+
+396
+00:24:00,780 --> 00:24:04,780
+Nein, muss ich noch fragen.
+
+397
+00:24:04,780 --> 00:24:08,780
+Ich war von der Gruppe noch die anderen Fragen.
+
+398
+00:24:08,780 --> 00:24:11,780
+Meinen Sie Brustschmerzen?
+
+399
+00:24:11,780 --> 00:24:14,780
+Ja, ich habe so einen Brustschmerzen.
+
+400
+00:24:14,780 --> 00:24:16,780
+Ich habe so eine Druck auf dem Brust,
+
+401
+00:24:16,780 --> 00:24:19,780
+mit Schwertz und...
+
+402
+00:24:19,780 --> 00:24:24,780
+Ich habe schon die sieben Dimension gestellt.
+
+403
+00:24:24,780 --> 00:24:28,780
+Aber vielleicht...
+
+404
+00:24:28,780 --> 00:24:30,780
+Was man einfach, der einfachste Frage,
+
+405
+00:24:30,780 --> 00:24:32,780
+was man hier stellen soll,
+
+406
+00:24:32,780 --> 00:24:34,780
+Belastung, das für mich.
+
+407
+00:24:34,780 --> 00:24:40,780
+Aber hier habe ich schon gefragt...
+
+408
+00:24:40,780 --> 00:24:42,780
+Er hat gesagt, im Stehen, hat er nicht gefragt,
+
+409
+00:24:42,780 --> 00:24:44,780
+ob ich bei Belastung...
+
+410
+00:24:44,780 --> 00:24:46,780
+Stätten Sie Stehen oder Legen?
+
+411
+00:24:46,780 --> 00:24:48,780
+Ja, ja.
+
+412
+00:24:48,780 --> 00:24:50,780
+Das war nicht bei Belastung.
+
+413
+00:24:50,780 --> 00:24:52,780
+Die Frage war so, haben Sie im Stehen,
+
+414
+00:24:52,780 --> 00:24:54,780
+im Legen oder im Sitz?
+
+415
+00:24:54,780 --> 00:24:56,780
+Stätten Sie Bestätten auch in Ruhe
+
+416
+00:24:56,780 --> 00:24:58,780
+oder nur bei Belastung auf?
+
+417
+00:24:58,780 --> 00:25:00,780
+Das ist wichtig.
+
+418
+00:25:00,780 --> 00:25:02,780
+Muss man die Belastung Wort benutzen.
+
+419
+00:25:02,780 --> 00:25:04,780
+Belastung ist etwas anderes als im Stehen.
+
+420
+00:25:04,780 --> 00:25:06,780
+Ich stehe, aber ich habe keine Luftnot.
+
+421
+00:25:06,780 --> 00:25:08,780
+Aber wenn ich so ein paar Schritte laufen,
+
+422
+00:25:08,780 --> 00:25:10,780
+oder da habe ich so ein vermehrtes Schmerzen,
+
+423
+00:25:10,780 --> 00:25:12,780
+das muss man auch...
+
+424
+00:25:12,780 --> 00:25:14,780
+Wer sich das nicht interessiert,
+
+425
+00:25:14,780 --> 00:25:16,780
+hier hat er gefragt,
+
+426
+00:25:16,780 --> 00:25:18,780
+ob Sie sich beim Schmerzen
+
+427
+00:25:18,780 --> 00:25:20,780
+abhängig davon sitzen
+
+428
+00:25:20,780 --> 00:25:22,780
+oder Legen stehen.
+
+429
+00:25:22,780 --> 00:25:24,780
+Das ist Laguerung,
+
+430
+00:25:24,780 --> 00:25:26,780
+Belastung.
+
+431
+00:25:26,780 --> 00:25:28,780
+Das ist nicht Laguerung,
+
+432
+00:25:28,780 --> 00:25:30,780
+aber das ist ein Belastung.
+
+433
+00:25:30,780 --> 00:25:32,780
+Das ist Laguerung,
+
+434
+00:25:32,780 --> 00:25:34,780
+das ist ein Belastung.
+
+435
+00:25:34,780 --> 00:25:36,780
+Das ist Laguerung,
+
+436
+00:25:36,780 --> 00:25:38,780
+das ist nicht Laguerung,
+
+437
+00:25:38,780 --> 00:25:40,780
+aber das ist ein Belastung.
+
+438
+00:25:40,780 --> 00:25:42,780
+Das wurde nicht gefragt.
+
+439
+00:25:42,780 --> 00:25:44,780
+Ich höre ganz genau.
+
+440
+00:25:44,780 --> 00:25:46,780
+Weil in den Proven,
+
+441
+00:25:46,780 --> 00:25:51,340
+die können auch so eine Frage stellen.
+
+442
+00:25:51,340 --> 00:25:53,340
+Die Unterricht muss man wissen.
+
+443
+00:25:53,340 --> 00:25:55,340
+Sie haben Laguerung,
+
+444
+00:25:55,340 --> 00:25:57,340
+das ist nicht Laguerung,
+
+445
+00:25:57,340 --> 00:25:59,340
+das muss man auch tragen.
+
+446
+00:25:59,340 --> 00:26:01,340
+Und was noch dazu?
+
+447
+00:26:01,340 --> 00:26:03,340
+Da muss man noch fragen.
+
+448
+00:26:03,340 --> 00:26:05,340
+Haben Sie,
+
+449
+00:26:05,340 --> 00:26:07,340
+ich hole eine Beine,
+
+450
+00:26:07,340 --> 00:26:09,340
+eine gute Frage,
+
+451
+00:26:09,340 --> 00:26:11,340
+eine tolle Frage.
+
+452
+00:26:11,340 --> 00:26:16,600
+Nein.
+
+453
+00:26:16,600 --> 00:26:18,600
+Warum haben Sie die Frage gestellt?
+
+454
+00:26:18,600 --> 00:26:22,580
+Ich möchte von Harz 1 zu
+
+455
+00:26:22,580 --> 00:26:24,580
+Sylton talscheiden.
+
+456
+00:26:24,580 --> 00:26:26,580
+Sehr gut, noch etwas?
+
+457
+00:26:26,580 --> 00:26:28,580
+Dann machen wir den dem...
+
+458
+00:26:28,580 --> 00:26:30,580
+Ja, sehr gut.
+
+459
+00:26:30,580 --> 00:26:32,580
+Jung und Emily.
+
+460
+00:26:32,580 --> 00:26:34,580
+Genau.
+
+461
+00:26:34,580 --> 00:26:36,580
+Deswegen muss man die Frage
+
+462
+00:26:36,580 --> 00:26:38,580
+immer noch vertiefen.
+
+463
+00:26:38,580 --> 00:26:40,580
+Und
+
+464
+00:26:40,580 --> 00:26:42,580
+wie fühlen Sie sich allgemein?
+
+465
+00:26:42,580 --> 00:26:44,580
+Wie fühlen Sie sich krank
+
+466
+00:26:44,580 --> 00:26:46,580
+wie Erkältung oder Brepe?
+
+467
+00:26:46,580 --> 00:26:48,580
+Ich fühle mich
+
+468
+00:26:48,580 --> 00:26:50,580
+in den letzten 3 Tagen
+
+469
+00:26:50,580 --> 00:26:52,580
+schwer erkrankt, muss man sagen.
+
+470
+00:26:52,580 --> 00:26:54,580
+Durch den Husten,
+
+471
+00:26:54,580 --> 00:26:56,580
+durch den Schmerzen.
+
+472
+00:26:56,580 --> 00:26:58,580
+So eine Erkältung würde ich nicht sagen.
+
+473
+00:26:58,580 --> 00:27:00,580
+Das ist eine Erkältung.
+
+474
+00:27:00,580 --> 00:27:02,580
+Ich habe immer ab und zu
+
+475
+00:27:02,580 --> 00:27:04,580
+Erkältungen gehabt,
+
+476
+00:27:04,580 --> 00:27:06,580
+um in dieser Maß Husten zu haben.
+
+477
+00:27:06,580 --> 00:27:08,580
+Oder
+
+478
+00:27:08,580 --> 00:27:10,580
+zu erleben,
+
+479
+00:27:10,580 --> 00:27:12,580
+war nicht so,
+
+480
+00:27:12,580 --> 00:27:14,580
+muss man sagen.
+
+481
+00:27:14,580 --> 00:27:16,580
+Haben Sie
+
+482
+00:27:16,580 --> 00:27:18,580
+selbst
+
+483
+00:27:18,580 --> 00:27:20,580
+eine Corona-Schnelltest
+
+484
+00:27:20,580 --> 00:27:22,580
+durchgeführt?
+
+485
+00:27:22,580 --> 00:27:24,580
+Gute Frage.
+
+486
+00:27:24,580 --> 00:27:26,580
+Hab ich gemacht.
+
+487
+00:27:26,580 --> 00:27:28,580
+Das war negativ.
+
+488
+00:27:28,580 --> 00:27:30,580
+Das ist ein aktuelles
+
+489
+00:27:30,580 --> 00:27:32,580
+Abtodet, muss man sagen.
+
+490
+00:27:32,580 --> 00:27:34,580
+Das ist auch richtig.
+
+491
+00:27:34,580 --> 00:27:36,580
+Bei jeder Husten
+
+492
+00:27:36,580 --> 00:27:38,580
+muss man Corona testen.
+
+493
+00:27:38,580 --> 00:27:40,580
+Was wurde nicht gefragt noch?
+
+494
+00:27:40,580 --> 00:27:42,580
+Bist du
+
+495
+00:27:42,580 --> 00:27:44,580
+nicht der
+
+496
+00:27:44,580 --> 00:27:46,580
+Brustschmelzen?
+
+497
+00:27:46,580 --> 00:27:48,580
+Genau,
+
+498
+00:27:48,580 --> 00:27:50,580
+hier hat
+
+499
+00:27:50,580 --> 00:27:52,580
+Brücken.
+
+500
+00:27:52,580 --> 00:27:54,580
+Genau.
+
+501
+00:27:54,580 --> 00:27:56,580
+Aber
+
+502
+00:27:56,580 --> 00:27:58,580
+wie sieht es aus mit der Belastung?
+
+503
+00:27:58,580 --> 00:28:00,580
+Haben wir gefragt best?
+
+504
+00:28:00,580 --> 00:28:02,580
+Ist es vermehrt mit der Belastung
+
+505
+00:28:02,580 --> 00:28:04,580
+oder nicht?
+
+506
+00:28:04,580 --> 00:28:06,580
+Wie viele Treppen steigen?
+
+507
+00:28:06,580 --> 00:28:08,580
+Wie viele Treppen
+
+508
+00:28:08,580 --> 00:28:10,580
+steigen bevor sie
+
+509
+00:28:10,580 --> 00:28:12,580
+stehen bleiben
+
+510
+00:28:12,580 --> 00:28:14,580
+oder Luftnot haben?
+
+511
+00:28:14,580 --> 00:28:16,580
+Wie viele
+
+512
+00:28:16,580 --> 00:28:18,580
+schaffen sie?
+
+513
+00:28:18,580 --> 00:28:20,580
+Wie viele Tage schaffen sie?
+
+514
+00:28:20,580 --> 00:28:22,580
+Nach der 1.
+
+515
+00:28:22,580 --> 00:28:24,580
+Tage bin ich fix und fertig.
+
+516
+00:28:24,580 --> 00:28:26,580
+Oder ohne Pause
+
+517
+00:28:26,580 --> 00:28:28,580
+zu machen?
+
+518
+00:28:28,580 --> 00:28:30,580
+Ja, nach der 1.
+
+519
+00:28:30,580 --> 00:28:32,580
+Tage.
+
+520
+00:28:32,580 --> 00:28:34,580
+Ich habe das
+
+521
+00:28:34,580 --> 00:28:41,770
+maximal seit 3 Tagen nicht mehr.
+
+522
+00:28:41,770 --> 00:28:43,770
+Okay,
+
+523
+00:28:43,770 --> 00:28:45,770
+ich bespreche den Arzt.
+
+524
+00:28:45,770 --> 00:28:47,770
+Bitte schön.
+
+525
+00:28:47,770 --> 00:28:49,770
+Guten Tag Herr Oberarztin.
+
+526
+00:28:49,770 --> 00:28:51,770
+Haben Sie Zeit für mich?
+
+527
+00:28:51,770 --> 00:28:53,770
+Ja, schon guten Tag.
+
+528
+00:28:53,770 --> 00:28:55,770
+Ich möchte Ihnen
+
+529
+00:28:55,770 --> 00:28:57,770
+über einen neuen Patient
+
+530
+00:28:57,770 --> 00:28:59,770
+berichten.
+
+531
+00:28:59,770 --> 00:29:01,770
+Ja,
+
+532
+00:29:01,770 --> 00:29:03,770
+ich möchte Ihnen
+
+533
+00:29:03,770 --> 00:29:05,770
+über einen neuen Patient
+
+534
+00:29:05,770 --> 00:29:07,770
+berichten.
+
+535
+00:29:07,770 --> 00:29:09,770
+Herr Schmidmüller
+
+536
+00:29:09,770 --> 00:29:11,770
+ist 65 Jahre Patientin
+
+537
+00:29:11,770 --> 00:29:13,770
+und
+
+538
+00:29:13,770 --> 00:29:15,770
+1,70 m
+
+539
+00:29:15,770 --> 00:29:17,770
+groß und 80 kg schwer.
+
+540
+00:29:17,770 --> 00:29:19,770
+Er
+
+541
+00:29:19,770 --> 00:29:21,770
+erstaute sich
+
+542
+00:29:21,770 --> 00:29:23,770
+wegen
+
+543
+00:29:23,770 --> 00:29:25,770
+seit
+
+544
+00:29:25,770 --> 00:29:27,770
+4 Tagen
+
+545
+00:29:27,770 --> 00:29:29,770
+bestehenden
+
+546
+00:29:29,770 --> 00:29:31,770
+und
+
+547
+00:29:31,770 --> 00:29:33,770
+zunehmenden
+
+548
+00:29:33,770 --> 00:29:35,770
+Erstaunen
+
+549
+00:29:35,770 --> 00:29:37,770
+und
+
+550
+00:29:37,770 --> 00:29:39,770
+mit
+
+551
+00:29:39,770 --> 00:29:41,770
+leichtem Auswurf
+
+552
+00:29:41,770 --> 00:29:43,770
+für
+
+553
+00:29:43,770 --> 00:29:45,770
+die Schmerzen
+
+554
+00:29:45,770 --> 00:29:47,770
+sein
+
+555
+00:29:47,770 --> 00:29:49,770
+ohne Ausstrahlung
+
+556
+00:29:49,770 --> 00:29:51,770
+aufgetreten
+
+557
+00:29:51,770 --> 00:29:53,770
+und
+
+558
+00:29:53,770 --> 00:29:55,770
+erklagt
+
+559
+00:29:55,770 --> 00:29:57,770
+über
+
+560
+00:29:57,770 --> 00:29:59,770
+die Büsbne
+
+561
+00:29:59,770 --> 00:30:01,770
+und Belastung
+
+562
+00:30:01,770 --> 00:30:03,770
+abhängig.
+
+563
+00:30:03,770 --> 00:30:05,770
+Sie können
+
+564
+00:30:05,770 --> 00:30:10,300
+nur
+
+565
+00:30:10,300 --> 00:30:12,300
+eine Etage einsteigen.
+
+566
+00:30:12,300 --> 00:30:14,300
+Auserden
+
+567
+00:30:14,300 --> 00:30:16,300
+gab er
+
+568
+00:30:16,300 --> 00:30:18,300
+auch an
+
+569
+00:30:18,300 --> 00:30:20,300
+die Schmerzen
+
+570
+00:30:20,300 --> 00:30:22,300
+nicht
+
+571
+00:30:22,300 --> 00:30:24,300
+dauerhaft
+
+572
+00:30:24,300 --> 00:30:26,300
+sein.
+
+573
+00:30:26,300 --> 00:30:28,300
+Die Fragen
+
+574
+00:30:28,300 --> 00:30:30,300
+nach
+
+575
+00:30:30,300 --> 00:30:32,300
+der Schmerz-Serie
+
+576
+00:30:32,300 --> 00:30:34,300
+die Fragen nach
+
+577
+00:30:34,300 --> 00:30:36,300
+geschwollener Bein
+
+578
+00:30:36,300 --> 00:30:38,300
+Lagerung abhängig
+
+579
+00:30:38,300 --> 00:30:40,300
+Atemabhängig
+
+580
+00:30:40,300 --> 00:30:42,300
+wurde verneint.
+
+581
+00:30:42,300 --> 00:30:44,300
+Die Schmerzintensität
+
+582
+00:30:44,300 --> 00:30:46,300
+sein
+
+583
+00:30:46,300 --> 00:30:48,300
+während Husten
+
+584
+00:30:48,300 --> 00:30:50,300
+7, 8
+
+585
+00:30:50,300 --> 00:30:52,300
+und
+
+586
+00:30:52,300 --> 00:30:54,300
+ohne Husten
+
+587
+00:30:54,300 --> 00:30:56,300
+4, 5
+
+588
+00:30:56,300 --> 00:30:58,300
+liegen.
+
+589
+00:30:58,300 --> 00:31:02,440
+Schmerzskala
+
+590
+00:31:02,440 --> 00:31:04,440
+Die
+
+591
+00:31:04,440 --> 00:31:06,440
+Schmerzskala
+
+592
+00:31:06,440 --> 00:31:08,440
+bis auf
+
+593
+00:31:08,440 --> 00:31:10,440
+Fieber
+
+594
+00:31:10,440 --> 00:31:12,440
+sei die vegetative Anamnese
+
+595
+00:31:12,440 --> 00:31:14,440
+unauffällig
+
+596
+00:31:14,440 --> 00:31:16,440
+die Patienten
+
+597
+00:31:16,440 --> 00:31:18,440
+leiden
+
+598
+00:31:18,440 --> 00:31:20,440
+seit
+
+599
+00:31:20,440 --> 00:31:22,440
+10 Jahren
+
+600
+00:31:22,440 --> 00:31:24,440
+COPD
+
+601
+00:31:24,440 --> 00:31:26,440
+und dagegen
+
+602
+00:31:26,440 --> 00:31:28,440
+eine Sphäre
+
+603
+00:31:28,440 --> 00:31:30,440
+angenommen
+
+604
+00:31:30,440 --> 00:31:32,440
+erwähnte
+
+605
+00:31:32,440 --> 00:31:34,440
+er
+
+606
+00:31:34,440 --> 00:31:36,440
+er nehme
+
+607
+00:31:36,440 --> 00:31:38,440
+nicht regelmäßig ein
+
+608
+00:31:38,440 --> 00:31:40,440
+allergin
+
+609
+00:31:40,440 --> 00:31:42,440
+sein
+
+610
+00:31:42,440 --> 00:31:44,440
+bei ihm nicht bekannt
+
+611
+00:31:44,440 --> 00:31:46,440
+und
+
+612
+00:31:46,440 --> 00:31:48,440
+er
+
+613
+00:31:48,440 --> 00:31:50,440
+wurde keine
+
+614
+00:31:50,440 --> 00:31:52,440
+Operation
+
+615
+00:31:52,440 --> 00:31:54,440
+operiert
+
+616
+00:31:54,440 --> 00:31:56,440
+er wurde nicht operiert
+
+617
+00:31:56,440 --> 00:31:58,440
+hatte keine OP gehabt
+
+618
+00:31:58,440 --> 00:32:00,440
+ja, er hatte
+
+619
+00:32:00,440 --> 00:32:02,440
+keine OP gehabt
+
+620
+00:32:02,440 --> 00:32:04,440
+und
+
+621
+00:32:04,440 --> 00:32:06,440
+er sei wegen Corona
+
+622
+00:32:06,440 --> 00:32:08,440
+vollständig geimpft
+
+623
+00:32:10,440 --> 00:32:12,440
+Tabakabusus
+
+624
+00:32:12,440 --> 00:32:14,440
+oder
+
+625
+00:32:14,440 --> 00:32:16,440
+er rauka
+
+626
+00:32:16,440 --> 00:32:18,440
+seit 10 Jahren
+
+627
+00:32:18,440 --> 00:32:20,440
+50 Zigaretten täglich
+
+628
+00:32:20,440 --> 00:32:22,440
+aber früher
+
+629
+00:32:24,440 --> 00:32:26,440
+20
+
+630
+00:32:26,440 --> 00:32:28,440
+Backups
+
+631
+00:32:28,440 --> 00:32:30,440
+aber früher
+
+632
+00:32:30,440 --> 00:32:32,440
+wurde Tabakabusus
+
+633
+00:32:32,440 --> 00:32:34,440
+mit 20 Backups
+
+634
+00:32:34,440 --> 00:32:36,440
+beiat
+
+635
+00:32:36,440 --> 00:32:38,440
+Alkohol, Konsum
+
+636
+00:32:38,440 --> 00:32:40,440
+und Drogenabusus
+
+637
+00:32:40,440 --> 00:32:42,440
+wurden verneint
+
+638
+00:32:44,440 --> 00:32:46,440
+in der Familienanamnese
+
+639
+00:32:46,440 --> 00:32:48,440
+ergab sich
+
+640
+00:32:52,440 --> 00:32:54,440
+Torax
+
+641
+00:32:54,440 --> 00:32:56,440
+oder
+
+642
+00:32:56,440 --> 00:32:58,440
+langen Karcinum
+
+643
+00:32:58,440 --> 00:33:00,440
+Beinfatte
+
+644
+00:33:00,440 --> 00:33:02,440
+Beinfatte
+
+645
+00:33:06,440 --> 00:33:08,440
+und
+
+646
+00:33:08,440 --> 00:33:10,440
+Mama Karcinum
+
+647
+00:33:10,440 --> 00:33:12,440
+Beidenmutter
+
+648
+00:33:14,440 --> 00:33:16,440
+er sei Lady und habe keine Kinder
+
+649
+00:33:16,440 --> 00:33:18,440
+allein
+
+650
+00:33:18,440 --> 00:33:20,440
+er lebe allein
+
+651
+00:33:20,440 --> 00:33:22,440
+er sei Räbner
+
+652
+00:33:22,440 --> 00:33:24,440
+und früher
+
+653
+00:33:24,440 --> 00:33:26,440
+früher
+
+654
+00:33:26,440 --> 00:33:28,440
+habe er Hausmeister
+
+655
+00:33:28,440 --> 00:33:30,440
+von Beruf
+
+656
+00:33:30,440 --> 00:33:32,440
+die Vegetativen
+
+657
+00:33:32,440 --> 00:33:34,440
+früher als
+
+658
+00:33:34,440 --> 00:33:36,440
+als Hausmeister
+
+659
+00:33:36,440 --> 00:33:38,440
+ja, früher habe er
+
+660
+00:33:38,440 --> 00:33:40,440
+als Hausmeister
+
+661
+00:33:40,440 --> 00:33:42,440
+gearbeitet
+
+662
+00:33:42,440 --> 00:33:44,440
+ja, die Vegetativen
+
+663
+00:33:44,440 --> 00:33:46,440
+ja
+
+664
+00:33:46,440 --> 00:33:49,750
+die Anamnese
+
+665
+00:33:49,750 --> 00:33:51,750
+die Anamnese
+
+666
+00:33:51,750 --> 00:33:53,750
+deuten am ersten
+
+667
+00:33:53,750 --> 00:33:55,750
+auf
+
+668
+00:33:57,750 --> 00:33:59,750
+akute Pynomony
+
+669
+00:33:59,750 --> 00:34:01,750
+akute Pynomony
+
+670
+00:34:01,750 --> 00:34:03,750
+hin
+
+671
+00:34:03,750 --> 00:34:05,750
+und die Vegetativen
+
+672
+00:34:05,750 --> 00:34:07,750
+ja, als Differenzial Diagnosen
+
+673
+00:34:07,750 --> 00:34:09,750
+kommen
+
+674
+00:34:09,750 --> 00:34:11,750
+kommen
+
+675
+00:34:11,750 --> 00:34:13,750
+ja, Lungenembore
+
+676
+00:34:13,750 --> 00:34:15,750
+und
+
+677
+00:34:15,750 --> 00:34:17,750
+ja
+
+678
+00:34:17,750 --> 00:34:21,540
+ja, Lungenkrebs
+
+679
+00:34:21,540 --> 00:34:23,540
+auch
+
+680
+00:34:23,540 --> 00:34:25,540
+vielleicht
+
+681
+00:34:25,540 --> 00:34:27,540
+ja, Bronchial Karcinum
+
+682
+00:34:27,540 --> 00:34:29,540
+im Betracht
+
+683
+00:34:29,540 --> 00:34:31,540
+so weiter
+
+684
+00:34:31,540 --> 00:34:33,540
+wurde
+
+685
+00:34:33,540 --> 00:34:35,540
+oder um die Verdacht Diagnose
+
+686
+00:34:35,540 --> 00:34:37,540
+zu bestätigen
+
+687
+00:34:37,540 --> 00:34:39,540
+sollten wir
+
+688
+00:34:39,540 --> 00:34:41,540
+die weitere Diagnostischen
+
+689
+00:34:41,540 --> 00:34:43,540
+Massnahmen durchführen
+
+690
+00:34:43,540 --> 00:34:45,540
+ja,
+
+691
+00:34:45,540 --> 00:34:47,540
+rundken Torax
+
+692
+00:34:47,540 --> 00:34:49,540
+Blutbild
+
+693
+00:34:49,540 --> 00:34:51,540
+wie
+
+694
+00:34:51,540 --> 00:34:53,540
+so wie
+
+695
+00:34:53,540 --> 00:34:55,540
+Gerinnungsparameter
+
+696
+00:34:55,540 --> 00:34:57,540
+ja
+
+697
+00:34:57,540 --> 00:34:59,540
+Entsündungparameter
+
+698
+00:34:59,540 --> 00:35:01,540
+Lebewerte
+
+699
+00:35:01,540 --> 00:35:03,540
+und Nierenwerte
+
+700
+00:35:03,540 --> 00:35:05,540
+sehr gut
+
+701
+00:35:05,540 --> 00:35:07,540
+Was würden Sie als erstes
+
+702
+00:35:07,540 --> 00:35:09,540
+machen in diesem Fall
+
+703
+00:35:09,540 --> 00:35:11,540
+wenn Sie eine Patient haben
+
+704
+00:35:11,540 --> 00:35:13,540
+jetzt in der Notaufnahme
+
+705
+00:35:13,540 --> 00:35:15,540
+bekannte COPD
+
+706
+00:35:15,540 --> 00:35:17,540
+das würde ich als erstes denken
+
+707
+00:35:17,540 --> 00:35:19,540
+als erstes denken
+
+708
+00:35:19,540 --> 00:35:21,540
+oder ja
+
+709
+00:35:21,540 --> 00:35:23,540
+als erstes, dass die Patient hat
+
+710
+00:35:23,540 --> 00:35:25,540
+bekannte COPD und seit 3 Tagen
+
+711
+00:35:25,540 --> 00:35:27,540
+sie nehmen Probleme
+
+712
+00:35:27,540 --> 00:35:29,540
+mit Husten
+
+713
+00:35:29,540 --> 00:35:31,540
+und drüber auf den Brust
+
+714
+00:35:31,540 --> 00:35:33,540
+und was würden Sie denken, als erstes
+
+715
+00:35:33,540 --> 00:35:35,540
+das ist eine neue Attac
+
+716
+00:35:35,540 --> 00:35:37,540
+oder eine Schubung
+
+717
+00:35:37,540 --> 00:35:39,540
+eine akute Schubung
+
+718
+00:35:39,540 --> 00:35:41,540
+eine akute Schub
+
+719
+00:35:41,540 --> 00:35:43,540
+von COPD
+
+720
+00:35:43,540 --> 00:35:45,540
+erstes mal, das ist wichtig
+
+721
+00:35:45,540 --> 00:35:47,540
+aber man fragt sich
+
+722
+00:35:47,540 --> 00:35:49,540
+3 Tage zu niemenden
+
+723
+00:35:49,540 --> 00:35:51,540
+Könnte sein
+
+724
+00:35:51,540 --> 00:35:53,540
+aber es ist nicht verkehrt, da haben Sie Frau Recht
+
+725
+00:35:53,540 --> 00:35:55,540
+Was könnte noch sein, das so
+
+726
+00:35:55,540 --> 00:35:59,020
+Was würden Sie
+
+727
+00:35:59,020 --> 00:36:01,020
+Sie machen jetzt Diagnostik
+
+728
+00:36:01,020 --> 00:36:03,020
+ja
+
+729
+00:36:03,020 --> 00:36:05,020
+Covid jetzt Spallung
+
+730
+00:36:05,020 --> 00:36:07,020
+super Kollegen, Covid ist getestet
+
+731
+00:36:07,020 --> 00:36:09,020
+ist negativ
+
+732
+00:36:09,020 --> 00:36:11,020
+ja, außer Covid
+
+733
+00:36:11,020 --> 00:36:13,020
+kann man
+
+734
+00:36:13,020 --> 00:36:15,020
+auch
+
+735
+00:36:15,020 --> 00:36:17,020
+Panamoni
+
+736
+00:36:17,020 --> 00:36:19,020
+auch denken
+
+737
+00:36:19,020 --> 00:36:21,020
+und
+
+738
+00:36:21,020 --> 00:36:23,020
+vielleicht zum Ausschluss
+
+739
+00:36:23,020 --> 00:36:25,020
+für Herzinfarkt
+
+740
+00:36:25,020 --> 00:36:27,020
+oder Myocardinfarkt
+
+741
+00:36:27,020 --> 00:36:29,020
+sind EKG
+
+742
+00:36:29,020 --> 00:36:31,020
+und Cardiac
+
+743
+00:36:31,020 --> 00:36:33,020
+Enzymen
+
+744
+00:36:33,020 --> 00:36:35,020
+Notpendi
+
+745
+00:36:35,020 --> 00:36:37,020
+Vollrecht
+
+746
+00:36:37,020 --> 00:36:39,020
+wir kommen noch auf den
+
+747
+00:36:39,020 --> 00:36:41,020
+aber Sie machen es gut
+
+748
+00:36:41,020 --> 00:36:43,020
+als Sie gesagt haben, wir reden
+
+749
+00:36:43,020 --> 00:36:45,020
+erst mal um unsere
+
+750
+00:36:45,020 --> 00:36:47,020
+Wahrscheinlichkeit
+
+751
+00:36:47,020 --> 00:36:49,020
+eine Hochwahrscheinlichkeit
+
+752
+00:36:49,020 --> 00:36:51,020
+von der Krankenzulandung
+
+753
+00:36:51,020 --> 00:36:53,020
+Sie haben gesagt
+
+754
+00:36:53,020 --> 00:36:55,020
+eine Erschubung von COPD
+
+755
+00:36:55,020 --> 00:36:57,020
+richtig
+
+756
+00:36:57,020 --> 00:36:59,020
+und Lungenentzündung, Panamoni
+
+757
+00:36:59,020 --> 00:37:01,020
+ist auch richtig, Könnte sein
+
+758
+00:37:01,020 --> 00:37:03,020
+davor machen Sie dann
+
+759
+00:37:03,020 --> 00:37:05,020
+Grundkanauffnahmen
+
+760
+00:37:05,020 --> 00:37:07,020
+Entzündung, Parameter
+
+761
+00:37:07,020 --> 00:37:09,020
+wenn Sie eine COPD und Lungen,
+
+762
+00:37:09,020 --> 00:37:11,020
+Sie haben die Vermutung,
+
+763
+00:37:11,020 --> 00:37:13,020
+Was würden Sie noch machen?
+
+764
+00:37:13,020 --> 00:37:15,020
+Ja
+
+765
+00:37:15,020 --> 00:37:17,020
+geringes Parameter, inklusive
+
+766
+00:37:17,020 --> 00:37:19,020
+DEDIMA
+
+767
+00:37:19,020 --> 00:37:21,020
+wir reden über
+
+768
+00:37:21,020 --> 00:37:23,020
+Lungenentzündung und COPD
+
+769
+00:37:23,020 --> 00:37:25,020
+Was würden Sie machen?
+
+770
+00:37:25,020 --> 00:37:27,020
+Was sind Sie
+
+771
+00:37:27,020 --> 00:37:29,020
+vor Ihnen
+
+772
+00:37:29,020 --> 00:37:31,020
+und Sie sehen den Zustand
+
+773
+00:37:31,020 --> 00:37:33,020
+dass er
+
+774
+00:37:33,020 --> 00:37:35,020
+Starkuszen hat
+
+775
+00:37:35,020 --> 00:37:37,020
+Man kann auch
+
+776
+00:37:37,020 --> 00:37:39,020
+die Zutatsanalyse
+
+777
+00:37:39,020 --> 00:37:41,020
+sehr wichtig
+
+778
+00:37:41,020 --> 00:37:43,020
+aber davor brauchen Sie auch
+
+779
+00:37:43,020 --> 00:37:45,020
+ich würde in so einem Basin
+
+780
+00:37:45,020 --> 00:37:47,020
+auch ein Nudaufnahme
+
+781
+00:37:47,020 --> 00:37:49,020
+zur ersten Kreislauf mal schicken
+
+782
+00:37:49,020 --> 00:37:51,020
+Sauerstoff
+
+783
+00:37:51,020 --> 00:37:53,020
+Sauerstoff
+
+784
+00:37:53,020 --> 00:37:55,020
+und ein Monitor
+
+785
+00:37:55,020 --> 00:37:57,020
+genau
+
+786
+00:37:57,020 --> 00:37:59,020
+man braucht bei jeder
+
+787
+00:37:59,020 --> 00:38:01,020
+Nudfallpassion
+
+788
+00:38:01,020 --> 00:38:03,020
+das ist dann erstes Schritt
+
+789
+00:38:03,020 --> 00:38:05,020
+ansonsten können Sie nicht weiter kommen
+
+790
+00:38:05,020 --> 00:38:07,020
+wenn Sie das von 100 haben
+
+791
+00:38:07,020 --> 00:38:09,020
+100%
+
+792
+00:38:09,020 --> 00:38:11,020
+dann sind Sie beruhigt
+
+793
+00:38:11,020 --> 00:38:13,020
+wenn das Patient hat gute Sauerstoff
+
+794
+00:38:13,020 --> 00:38:15,020
+dann kann ich der Rest langsam und ruhig machen
+
+795
+00:38:15,020 --> 00:38:17,020
+wenn Sie das
+
+796
+00:38:17,020 --> 00:38:19,020
+übersehen
+
+797
+00:38:19,020 --> 00:38:21,020
+wenn der Patient eine heilste Rhythmus von 130 hat
+
+798
+00:38:21,020 --> 00:38:23,020
+und das übersehen Sie
+
+799
+00:38:23,020 --> 00:38:25,020
+dann sehen Sie das nicht
+
+800
+00:38:25,020 --> 00:38:27,020
+der Rest, was Sie machen ist umsonst
+
+801
+00:38:27,020 --> 00:38:29,020
+weil der Patient geht in den nächsten
+
+802
+00:38:29,020 --> 00:38:31,020
+in den Kardial
+
+803
+00:38:31,020 --> 00:38:33,020
+die Kompensation
+
+804
+00:38:33,020 --> 00:38:35,020
+das ist ein Problem
+
+805
+00:38:35,020 --> 00:38:37,020
+das heißt die 3 Sachen bei jeder Patient
+
+806
+00:38:37,020 --> 00:38:39,020
+auch in der Praxis messen
+
+807
+00:38:39,020 --> 00:38:41,020
+das ist eine Standard Goldmaßdauer
+
+808
+00:38:41,020 --> 00:38:43,020
+und dann
+
+809
+00:38:43,020 --> 00:38:45,020
+der nächstes BGH
+
+810
+00:38:45,020 --> 00:38:47,020
+dann können Sie auch in Ruhe machen
+
+811
+00:38:47,020 --> 00:38:49,020
+dann können Sie auch in Sauerstoff
+
+812
+00:38:49,020 --> 00:38:51,020
+mit Trotz BGH
+
+813
+00:38:51,020 --> 00:38:53,020
+wie das passt
+
+814
+00:38:53,020 --> 00:38:55,020
+für die Lungeninzinnung
+
+815
+00:38:55,020 --> 00:38:57,020
+wenn Sie das nicht machen
+
+816
+00:38:57,020 --> 00:38:59,020
+kriegen Sie das Geld nicht von der Kasse
+
+817
+00:38:59,020 --> 00:39:01,020
+weil die brauchen das
+
+818
+00:39:01,020 --> 00:39:03,020
+weil Sie auch COPD
+
+819
+00:39:03,020 --> 00:39:05,020
+wie nur so
+
+820
+00:39:05,020 --> 00:39:07,020
+das spielt keine Rolle
+
+821
+00:39:07,020 --> 00:39:09,020
+Sie brauchen eine BGH
+
+822
+00:39:09,020 --> 00:39:11,020
+sehr gut
+
+823
+00:39:11,020 --> 00:39:13,020
+wegen der COPD
+
+824
+00:39:13,020 --> 00:39:15,020
+haben wir 2 Kleinigkeiten
+
+825
+00:39:15,020 --> 00:39:17,020
+die machen können
+
+826
+00:39:17,020 --> 00:39:19,020
+nur das machen ist gemacht
+
+827
+00:39:19,020 --> 00:39:21,020
+Sie vermuten das könnte auch in der Lungenimbuli sein
+
+828
+00:39:21,020 --> 00:39:23,020
+oder?
+
+829
+00:39:23,020 --> 00:39:25,020
+ja
+
+830
+00:39:25,020 --> 00:39:27,020
+eigentlich die Analystik
+
+831
+00:39:27,020 --> 00:39:29,020
+richtig
+
+832
+00:39:29,020 --> 00:39:31,020
+sich nach dem Lungenimbuli
+
+833
+00:39:31,020 --> 00:39:33,020
+als Schub von der COPD
+
+834
+00:39:33,020 --> 00:39:35,020
+weil seit 3 Tagen
+
+835
+00:39:35,020 --> 00:39:37,020
+das zu nehmen
+
+836
+00:39:37,020 --> 00:39:39,020
+das ist ein akut Ereignis
+
+837
+00:39:39,020 --> 00:39:41,020
+das ist nicht chronisch
+
+838
+00:39:41,020 --> 00:39:43,020
+der Mann sagt klar
+
+839
+00:39:43,020 --> 00:39:45,020
+seit 10 Jahren leide ich nur
+
+840
+00:39:45,020 --> 00:39:47,020
+unter einer COPD
+
+841
+00:39:47,020 --> 00:39:49,020
+aber so eine Probleme habe ich nie gehabt
+
+842
+00:39:49,020 --> 00:39:51,020
+das ist die ausgeprägte Symptome
+
+843
+00:39:51,020 --> 00:39:53,020
+das ihr noch nie erlebt habt
+
+844
+00:39:53,020 --> 00:39:55,020
+wenn er so beschreibt
+
+845
+00:39:55,020 --> 00:39:57,020
+da muss man ernst nehmen
+
+846
+00:39:57,020 --> 00:39:59,020
+seit 3 Tagen
+
+847
+00:39:59,020 --> 00:40:01,020
+das könnte man auch etwas vertiefen
+
+848
+00:40:01,020 --> 00:40:03,020
+die Frage
+
+849
+00:40:03,020 --> 00:40:05,020
+vor 3 Tagen wurde er plötzlich aufgetreten
+
+850
+00:40:05,020 --> 00:40:07,020
+oder langsam
+
+851
+00:40:07,020 --> 00:40:09,020
+das haben wir auch nicht gefragt
+
+852
+00:40:09,020 --> 00:40:11,020
+das muss man auffragen
+
+853
+00:40:11,020 --> 00:40:13,020
+ist es plötzlich aufgetreten
+
+854
+00:40:13,020 --> 00:40:15,020
+oder ist es schon mal langsam
+
+855
+00:40:15,020 --> 00:40:17,020
+und in den letzten 2 Tagen ist es noch schlimmer geworden
+
+856
+00:40:17,020 --> 00:40:19,020
+das ist auch wichtig für unser Diagnostik
+
+857
+00:40:19,020 --> 00:40:21,020
+ist das zu sagen
+
+858
+00:40:21,020 --> 00:40:23,020
+Verfahren
+
+859
+00:40:23,020 --> 00:40:25,020
+wenn er sagt das plötzlich aufgetreten
+
+860
+00:40:25,020 --> 00:40:27,020
+dann ist es schon klar
+
+861
+00:40:27,020 --> 00:40:29,020
+dann ist es Lungenimbuli
+
+862
+00:40:29,020 --> 00:40:31,020
+kann nicht anders sein
+
+863
+00:40:31,020 --> 00:40:33,020
+dann geht es von dieser Richtung
+
+864
+00:40:33,020 --> 00:40:35,020
+und dann mache ich weiter an
+
+865
+00:40:35,020 --> 00:40:37,020
+okay, Sie vermuten, dass es Lungenimbuli ist
+
+866
+00:40:37,020 --> 00:40:40,390
+und was machen Sie denn
+
+867
+00:40:40,390 --> 00:40:42,390
+ich würde
+
+868
+00:40:42,390 --> 00:40:44,390
+die mal
+
+869
+00:40:44,390 --> 00:40:46,390
+überprüfen
+
+870
+00:40:46,390 --> 00:40:48,390
+das kann man machen
+
+871
+00:40:48,390 --> 00:40:50,390
+das ist auch nicht verkehrt
+
+872
+00:40:50,390 --> 00:40:52,390
+ich würde
+
+873
+00:40:52,390 --> 00:40:54,390
+sollte sich die Verdacht
+
+874
+00:40:54,390 --> 00:40:56,390
+zu bestätigen
+
+875
+00:40:56,390 --> 00:40:58,390
+würde ich
+
+876
+00:40:58,390 --> 00:41:00,390
+Antikovolgiterapie mit der Parin
+
+877
+00:41:00,390 --> 00:41:02,390
+würde ich sofort
+
+878
+00:41:02,390 --> 00:41:04,390
+bei Erhälter
+
+879
+00:41:04,390 --> 00:41:06,390
+die die mehr eine antikovolgiterapie starten
+
+880
+00:41:06,390 --> 00:41:08,390
+oder machen Sie noch
+
+881
+00:41:08,390 --> 00:41:10,390
+das ist der Durstin
+
+882
+00:41:10,390 --> 00:41:12,390
+fast ich
+
+883
+00:41:12,390 --> 00:41:14,390
+die Diagnose
+
+884
+00:41:14,390 --> 00:41:16,390
+bestätigen
+
+885
+00:41:16,390 --> 00:41:18,390
+mit was würden Sie das machen denn
+
+886
+00:41:18,390 --> 00:41:20,390
+Sie haben eine Vermutung
+
+887
+00:41:20,390 --> 00:41:22,390
+die Verdacht Diagnosis
+
+888
+00:41:22,390 --> 00:41:24,390
+die Lungenimbuli
+
+889
+00:41:24,390 --> 00:41:26,390
+Sie haben BGA gemacht
+
+890
+00:41:26,390 --> 00:41:28,390
+Sie haben Didyama gemacht
+
+891
+00:41:28,390 --> 00:41:30,390
+Didyama ist auch BGA
+
+892
+00:41:30,390 --> 00:41:32,390
+ist auch im Grenz, das geht
+
+893
+00:41:32,390 --> 00:41:34,390
+braucht nicht starker Unterstützung
+
+894
+00:41:34,390 --> 00:41:39,340
+was würden Sie noch machen
+
+895
+00:41:39,340 --> 00:41:41,340
+die Diagnose zu bestätigen
+
+896
+00:41:41,340 --> 00:41:43,340
+ja MRT
+
+897
+00:41:43,340 --> 00:41:45,340
+nein
+
+898
+00:41:47,340 --> 00:41:53,850
+Röntgen Torax hat denn eingeschrieben
+
+899
+00:41:53,850 --> 00:41:55,850
+aber Röntgen Torax kann man machen
+
+900
+00:41:55,850 --> 00:41:57,850
+damit kann man
+
+901
+00:41:57,850 --> 00:41:59,850
+eine Atopyspneumonie
+
+902
+00:41:59,850 --> 00:42:01,850
+oder eine COPD
+
+903
+00:42:01,850 --> 00:42:03,850
+nicht ausschließen
+
+904
+00:42:03,850 --> 00:42:05,850
+sondern etwas bestätigen
+
+905
+00:42:05,850 --> 00:42:07,850
+der Lungenimbuli
+
+906
+00:42:07,850 --> 00:42:09,850
+aber kann man nicht
+
+907
+00:42:09,850 --> 00:42:11,850
+Mittel einer Rücken
+
+908
+00:42:11,850 --> 00:42:13,850
+in der Lungenimbuli ausschließen
+
+909
+00:42:13,850 --> 00:42:19,850
+was braucht man dafür
+
+910
+00:42:19,850 --> 00:42:21,850
+sehr gut, Kollegen schreibt ein CT
+
+911
+00:42:21,850 --> 00:42:26,570
+was für CT braucht man
+
+912
+00:42:26,570 --> 00:42:28,570
+Torax CT
+
+913
+00:42:28,570 --> 00:42:30,570
+muss das so
+
+914
+00:42:30,570 --> 00:42:32,570
+Centigrafe
+
+915
+00:42:32,570 --> 00:42:34,570
+Nein
+
+916
+00:42:36,570 --> 00:42:38,570
+Angesetze
+
+917
+00:42:38,570 --> 00:42:40,570
+Angesetze
+
+918
+00:42:40,570 --> 00:42:42,570
+das muss spezial geschrieben werden
+
+919
+00:42:42,570 --> 00:42:44,570
+wenn Sie eine normale
+
+920
+00:42:44,570 --> 00:42:46,570
+Torax CT machen
+
+921
+00:42:46,570 --> 00:42:48,570
+Sie werden
+
+922
+00:42:48,570 --> 00:42:50,570
+eine große Lungenimbuli
+
+923
+00:42:50,570 --> 00:42:52,570
+damit ausschließen
+
+924
+00:42:52,570 --> 00:42:54,570
+aber wenn Sie eine Prefere, kleine Lungenimbuli haben
+
+925
+00:42:54,570 --> 00:42:56,570
+Sie brauchen
+
+926
+00:42:56,570 --> 00:42:58,570
+unbedingt eine Pulmonalangesetze
+
+927
+00:42:58,570 --> 00:43:00,570
+Mittel einer Pulmonalangesetze
+
+928
+00:43:00,570 --> 00:43:02,570
+die können Sie auch in der
+
+929
+00:43:02,570 --> 00:43:04,570
+Prefere Lungenimbuli ausschließen
+
+930
+00:43:04,570 --> 00:43:06,570
+das ist eine Großstandard
+
+931
+00:43:06,570 --> 00:43:08,570
+wenn Sie so etwas haben
+
+932
+00:43:08,570 --> 00:43:10,570
+dann müssen Sie das machen
+
+933
+00:43:10,570 --> 00:43:12,570
+wenn das COPD
+
+934
+00:43:12,570 --> 00:43:14,570
+wenn die D-Dema
+
+935
+00:43:14,570 --> 00:43:16,570
+hoch ist
+
+936
+00:43:16,570 --> 00:43:18,570
+wenn die Kinder
+
+937
+00:43:18,570 --> 00:43:20,570
+sich nach der Pulmonalangbuli
+
+938
+00:43:20,570 --> 00:43:22,570
+dann müssen Sie das machen
+
+939
+00:43:22,570 --> 00:43:24,570
+Was würden Sie noch machen
+
+940
+00:43:24,570 --> 00:43:26,570
+wenn Sie jetzt sagen
+
+941
+00:43:26,570 --> 00:43:28,570
+eine Lungenimbuli ist
+
+942
+00:43:28,570 --> 00:43:30,570
+man macht sofort CT
+
+943
+00:43:30,570 --> 00:43:32,570
+oder dafür macht man etwas anders
+
+944
+00:43:32,570 --> 00:43:38,500
+in der Notaufnahme
+
+945
+00:43:38,500 --> 00:43:40,500
+kann sich sehr gut
+
+946
+00:43:40,500 --> 00:43:42,500
+ECHO schreibt man
+
+947
+00:43:42,500 --> 00:43:44,500
+ECHO macht dann auch Standards
+
+948
+00:43:44,500 --> 00:43:46,500
+warum macht man das
+
+949
+00:43:46,500 --> 00:43:48,500
+Ja um eine
+
+950
+00:43:48,500 --> 00:43:50,500
+Herzprobleme oder Herzkrankheiten
+
+951
+00:43:50,500 --> 00:43:52,500
+ausschließen
+
+952
+00:43:52,500 --> 00:43:54,500
+Nein
+
+953
+00:43:54,500 --> 00:43:56,500
+Rechtheisbelastung
+
+954
+00:43:56,500 --> 00:43:58,500
+sehr gut schreibt die Kollegen
+
+955
+00:43:58,500 --> 00:44:00,500
+während der Lungenimbuli
+
+956
+00:44:00,500 --> 00:44:02,500
+Rechtheisbelastung
+
+957
+00:44:02,500 --> 00:44:04,500
+wir testen Sie nicht
+
+958
+00:44:04,500 --> 00:44:06,500
+dass Sie falsch verstehen
+
+959
+00:44:06,500 --> 00:44:08,500
+es geht um dass wir unseres
+
+960
+00:44:08,500 --> 00:44:10,500
+sozusagen Ketten tauschen
+
+961
+00:44:10,500 --> 00:44:12,500
+davor machen wir dieser
+
+962
+00:44:12,500 --> 00:44:14,500
+Gespräch jetzt
+
+963
+00:44:14,500 --> 00:44:16,500
+das ist eine Standard
+
+964
+00:44:16,500 --> 00:44:18,500
+wenn Sie eine Lungenimbuli haben
+
+965
+00:44:18,500 --> 00:44:20,500
+Sie haben eine Rechtheisbelastung
+
+966
+00:44:20,500 --> 00:44:22,500
+aber nicht bei jeder Lungenimbuli
+
+967
+00:44:22,500 --> 00:44:24,500
+wenn Sie nur per Ferlung in der Muli haben
+
+968
+00:44:24,500 --> 00:44:26,500
+Sie werden keine Rechtheisbelastung haben
+
+969
+00:44:26,500 --> 00:44:28,500
+UnkG wird unauffällig
+
+970
+00:44:28,500 --> 00:44:30,500
+wenn Sie eine Zentralung in der Muli haben
+
+971
+00:44:30,500 --> 00:44:32,500
+dann können Sie eine Rechtheisbelastung haben
+
+972
+00:44:32,500 --> 00:44:34,500
+dann sehen Sie das in der UnkG
+
+973
+00:44:34,500 --> 00:44:36,500
+und sagen Sie, der Mann hat eine Rechtheisbelastung
+
+974
+00:44:36,500 --> 00:44:38,500
+Mensch sagt, ich brauche keine Siti
+
+975
+00:44:38,500 --> 00:44:40,500
+das ist schon klar, der hat Rechtheisbelastung
+
+976
+00:44:40,500 --> 00:44:42,500
+Mensch, gerade die Lungen
+
+977
+00:44:42,500 --> 00:44:44,500
+und das ist Hinweis auf eine Lungenimbuli
+
+978
+00:44:44,500 --> 00:44:46,500
+eine Staatsschmidtante-Kokulation, Punkt Schluss
+
+979
+00:44:46,500 --> 00:44:48,500
+fertig
+
+980
+00:44:48,500 --> 00:44:50,500
+wenn man so sicher ist
+
+981
+00:44:50,500 --> 00:44:52,500
+aber meines Erachtens ist besser
+
+982
+00:44:52,500 --> 00:44:54,500
+dass man in der Pulminale Angest durchzuführen
+
+983
+00:44:54,500 --> 00:44:56,500
+dass es besser für die Patienten
+
+984
+00:44:56,500 --> 00:44:58,500
+ist, dass sie das ausgeschliesst haben
+
+985
+00:45:00,500 --> 00:45:02,500
+erhöhte Pulminale Altaferendruck
+
+986
+00:45:02,500 --> 00:45:04,500
+das sieht man auch in den E-Cro
+
+987
+00:45:04,500 --> 00:45:06,500
+haben Sie vorwicht
+
+988
+00:45:08,500 --> 00:45:10,500
+aber
+
+989
+00:45:10,500 --> 00:45:12,500
+wichtiges Sache für die Prüfung
+
+990
+00:45:12,500 --> 00:45:14,500
+das heißt, sie brauchen eine
+
+991
+00:45:14,500 --> 00:45:16,500
+weil Lungenimbuli, sie brauchen eine
+
+992
+00:45:16,500 --> 00:45:18,500
+Notaufnahme BGH
+
+993
+00:45:18,500 --> 00:45:20,500
+die dem Hersteltaschein
+
+994
+00:45:20,500 --> 00:45:22,500
+dann, der Rest, es außerhalb der Notaufnahme
+
+995
+00:45:22,500 --> 00:45:24,500
+zum CT müssen sie in der Radiologie schicken
+
+996
+00:45:24,500 --> 00:45:26,500
+und man macht es am meisten so
+
+997
+00:45:26,500 --> 00:45:28,500
+dass man sagt, ich nehme den Patient auf
+
+998
+00:45:28,500 --> 00:45:30,500
+ob es CT der geht auf Station
+
+999
+00:45:30,500 --> 00:45:32,500
+praktisch
+
+1000
+00:45:32,500 --> 00:45:34,500
+der Patient ist gut versorgt
+
+1001
+00:45:34,500 --> 00:45:36,500
+hat alles bekommen und dann geht auf Station
+
+1002
+00:45:36,500 --> 00:45:38,500
+oder können Sie wieder eine Notaufnahme
+
+1003
+00:45:38,500 --> 00:45:40,500
+bestellen
+
+1004
+00:45:40,500 --> 00:45:42,500
+das geht auch aber mindestens
+
+1005
+00:45:42,500 --> 00:45:44,500
+das außerhalb der Notaufnahme
+
+1006
+00:45:44,500 --> 00:45:46,500
+dann ist es auch gemacht CT
+
+1007
+00:45:46,500 --> 00:45:48,500
+und hat sich mit der Medellung
+
+1008
+00:45:48,500 --> 00:45:50,500
+im Bilümbulibisch gestorben
+
+1009
+00:45:50,500 --> 00:45:52,500
+und Sie haben vorhin klar gesagt
+
+1010
+00:45:52,500 --> 00:45:54,500
+dass Sie mit einer Antikokulation starten
+
+1011
+00:45:54,500 --> 00:45:56,500
+welche Antikokulation
+
+1012
+00:45:56,500 --> 00:45:58,500
+würden Sie jetzt
+
+1013
+00:45:58,500 --> 00:46:00,500
+ja, Heparin
+
+1014
+00:46:00,500 --> 00:46:02,500
+ja, das ist eine Standard
+
+1015
+00:46:02,500 --> 00:46:04,500
+das macht eine Notaufnahme
+
+1016
+00:46:04,500 --> 00:46:06,500
+sondern nicht die Molekule
+
+1017
+00:46:06,500 --> 00:46:08,500
+Heparin einfach
+
+1018
+00:46:08,500 --> 00:46:10,500
+wie dosiert man, kennt sie
+
+1019
+00:46:10,500 --> 00:46:12,500
+ich habe mit aus oder ja nicht
+
+1020
+00:46:12,500 --> 00:46:14,500
+dass sie je nach Gewicht zu sagen
+
+1021
+00:46:14,500 --> 00:46:16,500
+Gewicht adaptiert der Dosierung
+
+1022
+00:46:16,500 --> 00:46:18,500
+ja, sie sind ein bisschen
+
+1023
+00:46:18,500 --> 00:46:20,500
+in der Prozung
+
+1024
+00:46:20,500 --> 00:46:22,500
+da müssen Sie lesen
+
+1025
+00:46:22,500 --> 00:46:24,500
+das ist aber nicht so schwer
+
+1026
+00:46:24,500 --> 00:46:26,500
+vielleicht in der Prozung die Fragen weißt du nicht genau
+
+1027
+00:46:26,500 --> 00:46:28,500
+aber müssen Sie wissen auch wahrscheinlich
+
+1028
+00:46:28,500 --> 00:46:30,500
+bei Heparin ja
+
+1029
+00:46:30,500 --> 00:46:32,500
+aber bei Nord
+
+1030
+00:46:32,500 --> 00:46:34,500
+müssen Sie nicht unbedingt
+
+1031
+00:46:34,500 --> 00:46:36,500
+wenn Sie nur einfach sagen, ja sofort
+
+1032
+00:46:36,500 --> 00:46:38,500
+mit Nord auch gestatten, das geht auch
+
+1033
+00:46:38,500 --> 00:46:40,500
+aber Central mit Heparin ist man
+
+1034
+00:46:40,500 --> 00:46:42,500
+und dann Umstellung auf Nord
+
+1035
+00:46:42,500 --> 00:46:44,500
+das ist besser
+
+1036
+00:46:44,500 --> 00:46:46,500
+und dann man gibt
+
+1037
+00:46:46,500 --> 00:46:48,500
+das Monat sagt man ja
+
+1038
+00:46:48,500 --> 00:46:50,500
+maximal 3 Monate
+
+1039
+00:46:50,500 --> 00:46:52,500
+und bis jetzt Monat kann man das machen
+
+1040
+00:46:52,500 --> 00:46:54,500
+und was würde man noch machen
+
+1041
+00:46:54,500 --> 00:46:56,500
+wenn Sie jetzt in der Lungeninobilie bestätigt haben
+
+1042
+00:46:56,500 --> 00:46:58,500
+vorhin der Kollegen hat auch gefragt
+
+1043
+00:46:58,500 --> 00:47:00,500
+wegen Beine
+
+1044
+00:47:00,500 --> 00:47:02,500
+Udema habe ich nicht
+
+1045
+00:47:02,500 --> 00:47:04,500
+das würden Sie noch machen
+
+1046
+00:47:04,500 --> 00:47:09,450
+eine EKG schreiben
+
+1047
+00:47:09,450 --> 00:47:11,450
+EKG, das muss man sowieso machen
+
+1048
+00:47:11,450 --> 00:47:13,450
+das ist schon eine Standard
+
+1049
+00:47:13,450 --> 00:47:15,450
+das gehört auch dazu
+
+1050
+00:47:15,450 --> 00:47:17,450
+auch so eine Hälste
+
+1051
+00:47:17,450 --> 00:47:19,450
+während der Lungeninobilie
+
+1052
+00:47:19,450 --> 00:47:21,450
+gegen die Hälsrasen
+
+1053
+00:47:21,450 --> 00:47:23,450
+vorflimmen man
+
+1054
+00:47:23,450 --> 00:47:25,450
+das gehört auch dazu
+
+1055
+00:47:25,450 --> 00:47:27,450
+da sehen Sie auch ab und zu
+
+1056
+00:47:27,450 --> 00:47:29,450
+das muss man nicht, aber kann man auch haben
+
+1057
+00:47:29,450 --> 00:47:31,450
+das schreiben die Kollegen
+
+1058
+00:47:31,450 --> 00:47:33,450
+die Kollegen, die schreiben doppelere Beine
+
+1059
+00:47:33,450 --> 00:47:35,450
+doppelere, das ist wichtig, das muss man machen
+
+1060
+00:47:35,450 --> 00:47:37,450
+damit man
+
+1061
+00:47:37,450 --> 00:47:39,450
+aber wenn der Patient
+
+1062
+00:47:39,450 --> 00:47:41,450
+eine Beine Udema hat
+
+1063
+00:47:41,450 --> 00:47:43,450
+muss nicht
+
+1064
+00:47:43,450 --> 00:47:45,450
+muss nicht
+
+1065
+00:47:45,450 --> 00:47:47,450
+trotzdem gehört das so
+
+1066
+00:47:47,450 --> 00:47:49,450
+Patient hat keine starke Beine Udema
+
+1067
+00:47:49,450 --> 00:47:51,450
+hat trotzdem oben in einem großen Gefäß
+
+1068
+00:47:51,450 --> 00:47:53,450
+eine Thrombose
+
+1069
+00:47:53,450 --> 00:47:55,450
+die Durchblutung ist normal
+
+1070
+00:47:55,450 --> 00:47:57,450
+aber der hat Thrombose jetzt dort
+
+1071
+00:47:57,450 --> 00:47:59,450
+und die schießt nach oben
+
+1072
+00:47:59,450 --> 00:48:01,450
+das können Sie nicht sagen
+
+1073
+00:48:01,450 --> 00:48:03,450
+der hat Durchblutung, normal Durchblutung
+
+1074
+00:48:03,450 --> 00:48:05,450
+im Wein, aber
+
+1075
+00:48:05,450 --> 00:48:07,450
+hat trotzdem Thrombose
+
+1076
+00:48:07,450 --> 00:48:09,450
+ja auch umgekehrt
+
+1077
+00:48:09,450 --> 00:48:11,450
+könnte auch sein, haben Sie recht
+
+1078
+00:48:11,450 --> 00:48:13,450
+das ist der starke Udema hat
+
+1079
+00:48:13,450 --> 00:48:15,450
+haben Sie nicht entschieden würde ich
+
+1080
+00:48:15,450 --> 00:48:17,450
+doppler machen
+
+1081
+00:48:17,450 --> 00:48:19,450
+weil er einen klarer Txt hat
+
+1082
+00:48:19,450 --> 00:48:21,450
+aber dann hat man nicht Beidseite
+
+1083
+00:48:21,450 --> 00:48:23,450
+dann hat man eine Seite die machen
+
+1084
+00:48:23,450 --> 00:48:25,450
+dann ist schon klar, weil sieht man den Unterschied
+
+1085
+00:48:25,450 --> 00:48:27,450
+wo die Thrombose ist
+
+1086
+00:48:27,450 --> 00:48:29,450
+das wäre mehr
+
+1087
+00:48:29,450 --> 00:48:31,450
+Udematose als anderen Beinen
+
+1088
+00:48:31,450 --> 00:48:33,450
+okay
+
+1089
+00:48:33,450 --> 00:48:35,450
+wenn man Beidseite hat
+
+1090
+00:48:35,450 --> 00:48:37,450
+es ist eher so ein Kardialproblem
+
+1091
+00:48:37,450 --> 00:48:39,450
+man sagt man ist nicht primonial
+
+1092
+00:48:39,450 --> 00:48:41,450
+es sind Kardialprobleme
+
+1093
+00:48:41,450 --> 00:48:43,450
+es könnte auch schon sein
+
+1094
+00:48:43,450 --> 00:48:45,450
+dass Sie eine hessische
+
+1095
+00:48:45,450 --> 00:48:47,450
+Städtelung in den Bully bekommen
+
+1096
+00:48:47,450 --> 00:48:49,450
+während des dessen
+
+1097
+00:48:49,450 --> 00:48:51,450
+haben Sie eine unterschänkende Idee
+
+1098
+00:48:51,450 --> 00:48:53,450
+das könnte schon sein
+
+1099
+00:48:53,450 --> 00:48:55,450
+kann auch auftreten
+
+1100
+00:48:55,450 --> 00:48:57,450
+aber das kann nicht eine Ausschlussdiagnose
+
+1101
+00:48:57,450 --> 00:48:59,450
+oder von der TVT sein
+
+1102
+00:48:59,450 --> 00:49:01,450
+muss man trotzdem machen
+
+1103
+00:49:01,450 --> 00:49:03,450
+und was würden Sie noch machen
+
+1104
+00:49:03,450 --> 00:49:10,120
+warum der Mann hat den Lungen im Bully
+
+1105
+00:49:10,120 --> 00:49:12,120
+es kann sein
+
+1106
+00:49:12,120 --> 00:49:14,120
+ja mit Problemen
+
+1107
+00:49:14,120 --> 00:49:16,120
+das ist ja auch bei den Gerinnungsparametern
+
+1108
+00:49:16,120 --> 00:49:18,120
+ja
+
+1109
+00:49:18,120 --> 00:49:20,120
+man kann das auch denken
+
+1110
+00:49:20,120 --> 00:49:22,120
+es kann hematologisch ein Problem hinterher sein
+
+1111
+00:49:22,120 --> 00:49:24,120
+aber man sieht
+
+1112
+00:49:24,120 --> 00:49:26,120
+das Gerinnung ist normal
+
+1113
+00:49:26,120 --> 00:49:28,120
+Thrombosunzahl ist normal
+
+1114
+00:49:28,120 --> 00:49:30,120
+hat keine Blutung
+
+1115
+00:49:30,120 --> 00:49:32,120
+Geschichte
+
+1116
+00:49:32,120 --> 00:49:34,120
+ja sie rauchten
+
+1117
+00:49:34,120 --> 00:49:36,120
+schon lange
+
+1118
+00:49:36,120 --> 00:49:38,120
+und man nicht
+
+1119
+00:49:38,120 --> 00:49:40,120
+er rauchte
+
+1120
+00:49:40,120 --> 00:49:42,120
+natürlich jahrelang
+
+1121
+00:49:42,120 --> 00:49:44,120
+da muss man eine Melignität
+
+1122
+00:49:44,120 --> 00:49:46,120
+auch damit ausschließen
+
+1123
+00:49:46,120 --> 00:49:48,120
+in diesem Alter wenn man stark geraucht hat
+
+1124
+00:49:48,120 --> 00:49:50,120
+jetzt nebenbei COPD
+
+1125
+00:49:50,120 --> 00:49:52,120
+man kann auch
+
+1126
+00:49:52,120 --> 00:49:54,120
+Brunschescopie veranlassen
+
+1127
+00:49:54,120 --> 00:49:56,120
+und braucht man nicht Brunschescopie
+
+1128
+00:49:56,120 --> 00:49:58,120
+oder ein CT
+
+1129
+00:49:58,120 --> 00:50:00,120
+Sie haben eine CT gemacht
+
+1130
+00:50:00,120 --> 00:50:02,120
+mit der CT können Sie die Lungen
+
+1131
+00:50:02,120 --> 00:50:04,120
+genau sehen ob den Krebs hat
+
+1132
+00:50:04,120 --> 00:50:06,120
+oder nicht
+
+1133
+00:50:06,120 --> 00:50:08,120
+aber man braucht eine Ultrasche noch dass du
+
+1134
+00:50:08,120 --> 00:50:10,120
+es könnte sein dass es
+
+1135
+00:50:10,120 --> 00:50:12,120
+ein Problem ist
+
+1136
+00:50:12,120 --> 00:50:14,120
+dass man ein Lymphknot in den Bauch sieht
+
+1137
+00:50:14,120 --> 00:50:16,120
+damit man
+
+1138
+00:50:16,120 --> 00:50:18,120
+kann man nicht ausschließen
+
+1139
+00:50:18,120 --> 00:50:20,120
+aber hinweist auf ein Darmproblem
+
+1140
+00:50:20,120 --> 00:50:22,120
+oder Marnproblem
+
+1141
+00:50:22,120 --> 00:50:24,120
+man macht so eine Standorteilung
+
+1142
+00:50:24,120 --> 00:50:26,120
+eine Abdomenultrasche
+
+1143
+00:50:26,120 --> 00:50:28,120
+und was noch dazu
+
+1144
+00:50:28,120 --> 00:50:30,120
+wie Sie vorhin erwähnt haben
+
+1145
+00:50:30,120 --> 00:50:32,120
+eine Vorsorgeuntersuchung
+
+1146
+00:50:32,120 --> 00:50:34,120
+dann geht man Richtung Marnenspiegelung
+
+1147
+00:50:34,120 --> 00:50:36,120
+Darmspiegelung
+
+1148
+00:50:36,120 --> 00:50:38,120
+wenn man Lungenembole hat
+
+1149
+00:50:38,120 --> 00:50:40,120
+mit der Armkrebs
+
+1150
+00:50:40,120 --> 00:50:42,120
+mit der Dissen kann man die Beine ausschließen
+
+1151
+00:50:42,120 --> 00:50:44,120
+und die Kollegin schreibt
+
+1152
+00:50:44,120 --> 00:50:46,120
+sehr gut Reiser
+
+1153
+00:50:46,120 --> 00:50:48,120
+wurde auch gefragt
+
+1154
+00:50:48,120 --> 00:50:50,120
+ob ich gereist habe
+
+1155
+00:50:50,120 --> 00:50:52,120
+oder nicht
+
+1156
+00:50:52,120 --> 00:50:54,120
+das ist auch so lang
+
+1157
+00:50:54,120 --> 00:50:56,120
+wenn man
+
+1158
+00:50:56,120 --> 00:50:58,120
+lange Reise hat
+
+1159
+00:50:58,120 --> 00:51:00,120
+dann kriegt man auch
+
+1160
+00:51:00,120 --> 00:51:02,120
+das ist auch wieder TVT
+
+1161
+00:51:02,120 --> 00:51:04,120
+das kommt nicht von sich allein
+
+1162
+00:51:04,120 --> 00:51:06,120
+dann kriegt man TVT
+
+1163
+00:51:06,120 --> 00:51:08,120
+ansonsten
+
+1164
+00:51:08,120 --> 00:51:10,120
+wir haben alles gefragt
+
+1165
+00:51:10,120 --> 00:51:12,120
+und alle Diagnostik durchgeführt
+
+1166
+00:51:12,120 --> 00:51:14,120
+haben wir etwas vergessen
+
+1167
+00:51:14,120 --> 00:51:16,120
+Immobilität
+
+1168
+00:51:16,120 --> 00:51:18,120
+das könnte man auch fragen
+
+1169
+00:51:18,120 --> 00:51:20,120
+aber
+
+1170
+00:51:20,120 --> 00:51:22,120
+ich denke
+
+1171
+00:51:22,120 --> 00:51:24,120
+seit langem
+
+1172
+00:51:24,120 --> 00:51:26,120
+habe er
+
+1173
+00:51:26,120 --> 00:51:28,120
+oder sei er
+
+1174
+00:51:28,120 --> 00:51:30,120
+Immobil
+
+1175
+00:51:30,120 --> 00:51:32,120
+wenn man Immobil ist, dann ist es richtig
+
+1176
+00:51:32,120 --> 00:51:34,120
+aber der Mann kommt
+
+1177
+00:51:34,120 --> 00:51:36,120
+und die Diagnostik
+
+1178
+00:51:36,120 --> 00:51:38,120
+aber sie haben voll Recht
+
+1179
+00:51:38,120 --> 00:51:40,120
+muss man fragen
+
+1180
+00:51:40,120 --> 00:51:42,120
+vermuten kann man vieles
+
+1181
+00:51:42,120 --> 00:51:44,120
+aber
+
+1182
+00:51:44,120 --> 00:51:46,120
+wenn man auf Deutsch schreibt
+
+1183
+00:51:46,120 --> 00:51:48,120
+man muss in dem Sinne fragen
+
+1184
+00:51:48,120 --> 00:51:50,120
+weil sie nicht gefragt haben
+
+1185
+00:51:50,120 --> 00:51:52,120
+mit der Vermutung
+
+1186
+00:51:52,120 --> 00:51:54,120
+die Nachvollstehung
+
+1187
+00:51:54,120 --> 00:51:56,120
+zuerst wollte ich fragen
+
+1188
+00:51:56,120 --> 00:51:58,120
+treiben Sie Sport
+
+1189
+00:51:58,120 --> 00:52:00,120
+oder sehr gut
+
+1190
+00:52:00,120 --> 00:52:02,120
+aber dann habe ich
+
+1191
+00:52:02,120 --> 00:52:04,120
+gedacht, dass es sinnvoll ist
+
+1192
+00:52:04,120 --> 00:52:06,120
+weil
+
+1193
+00:52:06,120 --> 00:52:08,120
+sie haben
+
+1194
+00:52:08,120 --> 00:52:10,120
+die Leider
+
+1195
+00:52:10,120 --> 00:52:12,120
+an COPD
+
+1196
+00:52:12,120 --> 00:52:14,120
+und sie haben starke Brustschmerzen
+
+1197
+00:52:14,120 --> 00:52:16,120
+und
+
+1198
+00:52:16,120 --> 00:52:18,120
+ich dachte selber
+
+1199
+00:52:18,120 --> 00:52:20,120
+er
+
+1200
+00:52:20,120 --> 00:52:22,120
+ist sein Immobil
+
+1201
+00:52:22,120 --> 00:52:24,120
+ja, aber trotzdem
+
+1202
+00:52:24,120 --> 00:52:26,120
+für jede Gruppe gibt es
+
+1203
+00:52:26,120 --> 00:52:28,120
+eine spezielle Sport
+
+1204
+00:52:28,120 --> 00:52:30,120
+vor COPD gibt es auch Sport
+
+1205
+00:52:30,120 --> 00:52:32,120
+vor Krebs
+
+1206
+00:52:32,120 --> 00:52:34,120
+von Ottwilch
+
+1207
+00:52:34,120 --> 00:52:36,120
+gibt es auch Sport
+
+1208
+00:52:36,120 --> 00:52:38,120
+da muss man Sport
+
+1209
+00:52:38,120 --> 00:52:40,120
+haben, da gibt es keine Grenze
+
+1210
+00:52:40,120 --> 00:52:42,120
+ja
+
+1211
+00:52:42,120 --> 00:52:44,120
+dann muss man ein Bett legere
+
+1212
+00:52:44,120 --> 00:52:46,120
+dann kriegt man auch Sport
+
+1213
+00:52:46,120 --> 00:52:48,120
+passiv Sport kriegt man auch
+
+1214
+00:52:48,120 --> 00:52:50,120
+Konfysiotherapie kriegt man das
+
+1215
+00:52:50,120 --> 00:52:52,120
+bis zum Ende, genau wie ihr
+
+1216
+00:52:52,120 --> 00:52:54,120
+wartet, kann man ohne Ende machen
+
+1217
+00:52:54,120 --> 00:52:56,120
+das ist auch so ohne Ende, da gibt es keine Grenze
+
+1218
+00:52:56,120 --> 00:52:58,120
+aber gute Frage
+
+1219
+00:52:58,120 --> 00:53:00,120
+ich glaube
+
+1220
+00:53:00,120 --> 00:53:02,120
+Differentialdiagnose haben wir
+
+1221
+00:53:02,120 --> 00:53:04,120
+auch selbst
+
+1222
+00:53:04,120 --> 00:53:06,120
+gesprochen
+
+1223
+00:53:06,120 --> 00:53:08,120
+London Krebs auch
+
+1224
+00:53:08,120 --> 00:53:10,120
+HES Probleme
+
+1225
+00:53:10,120 --> 00:53:12,120
+haben wir UKG gemacht
+
+1226
+00:53:12,120 --> 00:53:14,120
+noch dazu, LKG gemacht
+
+1227
+00:53:14,120 --> 00:53:16,120
+das wurde auch gemacht
+
+1228
+00:53:16,120 --> 00:53:18,120
+und was braucht man noch
+
+1229
+00:53:18,120 --> 00:53:20,120
+natürlich bei Lungen
+
+1230
+00:53:20,120 --> 00:53:22,120
+im Bully braucht man nicht Luft
+
+1231
+00:53:22,120 --> 00:53:24,120
+aber wenn man sagt es cover keine Lungen
+
+1232
+00:53:24,120 --> 00:53:26,120
+dann braucht man auch Luft hoch
+
+1233
+00:53:26,120 --> 00:53:28,120
+das ist ein Atemtest
+
+1234
+00:53:28,120 --> 00:53:30,120
+dass man der Lungenkapazität
+
+1235
+00:53:30,120 --> 00:53:32,120
+genau schätzt
+
+1236
+00:53:32,120 --> 00:53:34,120
+und sieht
+
+1237
+00:53:34,120 --> 00:53:36,120
+nicht dass es doch in der COPD
+
+1238
+00:53:36,120 --> 00:53:38,120
+schupe ist
+
+1239
+00:53:38,120 --> 00:53:40,120
+dafür braucht man
+
+1240
+00:53:40,120 --> 00:53:42,120
+den Atemobungen
+
+1241
+00:53:42,120 --> 00:53:44,120
+da kriegt man auf Station
+
+1242
+00:53:44,120 --> 00:53:46,120
+mit seinem Gerät
+
+1243
+00:53:46,120 --> 00:53:48,120
+das werden sie dann später auf Station
+
+1244
+00:53:48,120 --> 00:53:50,120
+lagen, falls sie dahin kommen
+
+1245
+00:53:50,120 --> 00:53:52,120
+oder falls sie an STC machen
+
+1246
+00:53:52,120 --> 00:53:54,120
+da müssen sie sowieso dann lernen
+
+1247
+00:53:54,120 --> 00:53:56,120
+ansonsten
+
+1248
+00:53:56,120 --> 00:53:58,120
+wir haben alles gesprochen
+
+1249
+00:53:58,120 --> 00:54:00,120
+und Krebs Geschichte
+
+1250
+00:54:00,120 --> 00:54:02,120
+in ihren Alten
+
+1251
+00:54:02,120 --> 00:54:04,120
+ist auch wichtig
+
+1252
+00:54:04,120 --> 00:54:06,120
+genau
+
+1253
+00:54:06,120 --> 00:54:08,120
+und Vorsorge
+
+1254
+00:54:08,120 --> 00:54:22,120
+untersuchen durch das
+
+1255
+00:54:22,120 --> 00:54:24,120
+bei Frauen ist der Risikofaktor
+
+1256
+00:54:24,120 --> 00:54:26,120
+die ganze Sache
+
+1257
+00:54:26,120 --> 00:54:28,120
+bei Männer, viele kommen nicht in die Pfarrer
+
+1258
+00:54:28,120 --> 00:54:30,120
+aber OP und so weiter
+
+1259
+00:54:30,120 --> 00:54:32,120
+haben sie auch gefragt weil ich keine gehabt
+
+1260
+00:54:32,120 --> 00:54:34,120
+sie haben einen tollen gemacht
+
+1261
+00:54:34,120 --> 00:54:36,120
+haben wir etwas vergessen
+
+1262
+00:54:36,120 --> 00:54:38,120
+vielleicht
+
+1263
+00:54:38,120 --> 00:54:42,100
+in Aktuellen
+
+1264
+00:54:42,100 --> 00:54:44,100
+haben alle etwas gelernt
+
+1265
+00:54:44,100 --> 00:54:46,100
+oder gefragt
+
+1266
+00:54:46,100 --> 00:54:48,100
+allergie
+
+1267
+00:54:48,100 --> 00:54:50,100
+ja allergie wurde auch gefragt
+
+1268
+00:54:50,100 --> 00:54:52,100
+das ist eine Schub sein
+
+1269
+00:54:52,100 --> 00:54:54,100
+das wurde gefragt
+
+1270
+00:54:54,100 --> 00:54:56,100
+habe ich keine
+
+1271
+00:54:56,100 --> 00:54:58,100
+das könnte auch sein
+
+1272
+00:54:58,100 --> 00:55:00,100
+aber plötzlich
+
+1273
+00:55:00,100 --> 00:55:02,100
+könnte alles möglich sein
+
+1274
+00:55:02,100 --> 00:55:04,100
+ich habe extra COPD gesagt
+
+1275
+00:55:04,100 --> 00:55:06,100
+weil am meisten
+
+1276
+00:55:06,100 --> 00:55:08,100
+unterschätzt man den der Lungenembolie
+
+1277
+00:55:08,100 --> 00:55:10,100
+bei chronischer Hess
+
+1278
+00:55:10,100 --> 00:55:12,100
+Krankheiten und bei COPD
+
+1279
+00:55:12,100 --> 00:55:14,100
+leider
+
+1280
+00:55:14,100 --> 00:55:16,100
+und daraufhin habe ich extra
+
+1281
+00:55:16,100 --> 00:55:18,100
+diese Fragen bestellt
+
+1282
+00:55:18,100 --> 00:55:20,100
+dass man nicht unterschätzen soll
+
+1283
+00:55:20,100 --> 00:55:22,100
+dass man auch
+
+1284
+00:55:22,100 --> 00:55:24,100
+nebenbei so etwas auch denken
+
+1285
+00:55:24,100 --> 00:55:30,460
+zu sagen
+
+1286
+00:55:30,460 --> 00:55:37,190
+haben wir etwas vergessen
+
+1287
+00:55:37,190 --> 00:55:39,190
+ich glaube nicht
+
+1288
+00:55:39,190 --> 00:55:41,190
+wenn sie keine mehr Fragen haben
+
+1289
+00:55:41,190 --> 00:55:43,190
+dann sind wir fertig oder
