@@ -1,0 +1,1239 @@
+1
+00:00:00,620 --> 00:00:08,890
+Hallo. Ja, ein wunderschönes Namen, bitte.
+
+2
+00:00:08,890 --> 00:00:23,890
+Guten Tag. Usta ist mein Name und ich möchte mit Ihnen über Ihre Beschwerden sprechen, aber zuerst brauche ich ein paar Personen an und kommen wir zu Ihren Beschwerden.
+
+3
+00:00:23,890 --> 00:00:26,890
+Sind Sie damit einverstanden? Ja, gerne.
+
+4
+00:00:26,890 --> 00:00:36,890
+Wie lautet Ihr Name? Mein Name ist Johannes Weber. Johannes Weber.
+
+5
+00:00:37,890 --> 00:00:42,890
+Ich bin im Vornamen. Genau.
+
+6
+00:00:42,890 --> 00:00:47,890
+Und ich möchte Sie bitte den Nachnamen buchstabieren.
+
+7
+00:00:47,890 --> 00:00:53,890
+Wie Wilfried, Emil, Bertha, Emil, Richard.
+
+8
+00:00:53,890 --> 00:01:00,890
+Ja, Herr Weber. Wie alt sind Sie?
+
+9
+00:01:00,890 --> 00:01:08,890
+Ich bin 44 Jahre alt. Und wann sind Sie 44? Ja.
+
+10
+00:01:08,890 --> 00:01:15,890
+Und wann sind Sie genau geboren? Am 1. Februar 1979.
+
+11
+00:01:15,890 --> 00:01:20,890
+1979.
+
+12
+00:01:21,890 --> 00:01:30,890
+Und wie viel wiegen Sie zurzeit? Ich wiege 75 Kilogramm.
+
+13
+00:01:30,890 --> 00:01:37,890
+Und wie groß sind Sie? Ich bin 1 Meter 81 groß.
+
+14
+00:01:37,890 --> 00:01:46,200
+80 groß. Ja, Herr Weber, was wird Sie uns?
+
+15
+00:01:46,200 --> 00:02:06,200
+Und zur Folge ist, seit 4 Tagen habe ich starke Schmerzen in meinem Nacken, linksseitig, und die Schmerzen sind zunehmend, die ziehen in meinen rechten Arm hinein.
+
+16
+00:02:08,800 --> 00:02:16,800
+Die Schmerzen sind bewegungsabhängig. Wenn ich meinen Kopf nach links drehe, tut es mehr weh.
+
+17
+00:02:16,800 --> 00:02:23,800
+Das ist die Schmerzzunahme. Eine Schmerzunahme bei links drehen meines Kopfes.
+
+18
+00:02:23,800 --> 00:02:29,800
+Ja, okay. Alles klar. Wir haben die Schmerzen begonnen, oder plötzlich?
+
+19
+00:02:29,800 --> 00:02:37,800
+Ja, also ein Tag vorher habe ich bei einem Freund beim Umzug geholfen.
+
+20
+00:02:37,800 --> 00:02:44,800
+Ja. Und dann am nächsten Tag bin ich mit Schmerzen aufgewacht, am nächsten Morgen.
+
+21
+00:02:44,800 --> 00:02:48,800
+Dann habe ich ein bisschen Schmerzen gehabt, und die Schmerzen sind jetzt immer mehr geworden.
+
+22
+00:02:48,800 --> 00:02:53,800
+Haben Sie sehr schwer Gegenstände gehoben, oder?
+
+23
+00:02:53,800 --> 00:02:59,800
+Ja, alles. Schwerwe, leichte Kartons, Möbel, Waschmaschine, schon einige.
+
+24
+00:02:59,800 --> 00:03:04,800
+Aber der Umzug war gestern, ne?
+
+25
+00:03:04,800 --> 00:03:15,800
+Nee, der Umzug war vor 5 Tagen. Seit 4 Tagen habe ich Schmerzen, und ein Tag vorher, vor diesen 4 Tagen, hatte ich beim Umzug geholfen.
+
+26
+00:03:15,800 --> 00:03:20,800
+Schmerzen strahlen nur im rechten Arm hinein?
+
+27
+00:03:20,800 --> 00:03:25,800
+Ja, in meinem rechten Arm bis zu meinen rechten Daumen.
+
+28
+00:03:25,800 --> 00:03:27,800
+Ja, rechten Daumen. Okay.
+
+29
+00:03:27,800 --> 00:03:36,300
+Ja, bis zu meinen rechten Daumen. Die Schmerzen sind zunehmend ziehend, und es ist bewegungsabhängig.
+
+30
+00:03:36,300 --> 00:03:46,300
+Okay. Sind die Schmerzen, haben Sie die gleiche Geschwerbe früher gehabt, oder zum ersten Mal?
+
+31
+00:03:46,300 --> 00:03:53,300
+Ja, früher habe ich abends auch mal Nackenschmerzen gehabt, aber ohne Ausstrahlung in meinem Arm.
+
+32
+00:03:53,300 --> 00:04:00,300
+Ja, okay. Also, 1-2 Mal vor einigen Jahren, also ganz früher.
+
+33
+00:04:00,300 --> 00:04:06,300
+Ja, okay. Haben Sie vielmal Herr Weber?
+
+34
+00:04:06,300 --> 00:04:07,300
+Wie nochmal?
+
+35
+00:04:07,300 --> 00:04:09,300
+Haben Sie Fieber?
+
+36
+00:04:09,300 --> 00:04:11,300
+Fieber, nein, habe ich keinen.
+
+37
+00:04:11,300 --> 00:04:14,300
+Okay. Haben Sie Übelkeit?
+
+38
+00:04:14,300 --> 00:04:16,300
+Übelkeit habe ich nicht.
+
+39
+00:04:16,300 --> 00:04:20,300
+Müssten Sie...ebrechen?
+
+40
+00:04:20,300 --> 00:04:21,300
+Nein.
+
+41
+00:04:21,300 --> 00:04:24,300
+Ja, okay. Schlafen Sie gut?
+
+42
+00:04:24,300 --> 00:04:32,300
+Ja, durch die Schmerzen kann ich weniger schlafen, ja. Muss ich ein paar Mal nachts aufwachen wegen den Schmerzen.
+
+43
+00:04:32,300 --> 00:04:38,300
+Okay. Haben Sie Probleme mit dem Stuhlgang oder beim Wasserlassen?
+
+44
+00:04:38,300 --> 00:04:41,300
+Ne, habe ich keine.
+
+45
+00:04:41,300 --> 00:04:46,300
+Okay. Haben Sie Kopfschmerzen?
+
+46
+00:04:46,300 --> 00:04:50,300
+Ab und zu, ja. Im Hinterkopfbereich.
+
+47
+00:04:50,300 --> 00:04:53,300
+Ja. Okay.
+
+48
+00:04:53,300 --> 00:05:03,300
+Nun würde ich mit Ihnen über Ihre Vorerkrankungen sprechen, aber davor möchten Sie etwas hinzufügen?
+
+49
+00:05:04,300 --> 00:05:10,300
+Ja, wo Sie gesagt haben, ob ich Kopfschmerzen habe, habe ich auch manchmal ein bisschen schwindel.
+
+50
+00:05:10,300 --> 00:05:13,300
+Ja, schwindel, okay.
+
+51
+00:05:13,300 --> 00:05:20,300
+Also, wenn die Schmerzen sehr stark sind, habe ich Kopfschmerzen und schwindel.
+
+52
+00:05:20,300 --> 00:05:24,300
+Ist der Schwindel sehr plötzlich aufgetreten?
+
+53
+00:05:24,300 --> 00:05:27,300
+Nein, also schmerzabhängig.
+
+54
+00:05:28,300 --> 00:05:35,300
+Ja, okay. Haben Sie Kopfschmerzen oder Kopfschmerzen in rechten Armen oder Nakaschenerzen?
+
+55
+00:05:35,300 --> 00:05:37,300
+Im Nakaschenerzen?
+
+56
+00:05:37,300 --> 00:05:41,300
+Im anderen Bereich, nein, in meinem Daumen habe ich Kopfschmerzen.
+
+57
+00:05:41,300 --> 00:05:46,300
+Mein Daumen, der ist ein bisschen pelzig, sind Kopfschmerzen.
+
+58
+00:05:46,300 --> 00:05:48,300
+Ja, okay.
+
+59
+00:05:48,300 --> 00:05:53,300
+Gab es in Ihrer Vergangenheit irgendwelche Vorerkrankungen?
+
+60
+00:05:54,300 --> 00:05:58,300
+In meiner Vergangenheit Vorerkrankungen, was meinen Sie damit?
+
+61
+00:05:58,300 --> 00:06:12,300
+Zum Beispiel Bluthochdruck, Zuckerkrankheit oder Bandvorfall im Rücken.
+
+62
+00:06:12,300 --> 00:06:15,300
+Bandscheibenvorfall, meinen Sie?
+
+63
+00:06:15,300 --> 00:06:17,300
+Ja, Bandscheibenvorfall.
+
+64
+00:06:17,300 --> 00:06:20,300
+Okay, nee, nicht, dass ich wüsste.
+
+65
+00:06:20,300 --> 00:06:27,300
+Ja, okay. Haben Sie irgendwelche Medikationen eingenommen?
+
+66
+00:06:27,300 --> 00:06:35,300
+Ja, seit 4 Tagen nehme ich bei Bedarf Ibuprofen ein, 600 Milligramm.
+
+67
+00:06:35,300 --> 00:06:38,300
+600 Milligramm Ibuprofen bei Bedarf?
+
+68
+00:06:38,300 --> 00:06:40,300
+Und was noch?
+
+69
+00:06:40,300 --> 00:06:43,300
+Ne, nur das nehme ich ein.
+
+70
+00:06:43,300 --> 00:06:48,300
+Nur Ibuprofen wegen der Makaschenmerzen.
+
+71
+00:06:48,300 --> 00:06:50,300
+Genau, richtig.
+
+72
+00:06:50,300 --> 00:07:00,300
+Ich würde nach Ihrer Familie vorgeschickt fragen und lehnen die Eltern noch Herr Weber?
+
+73
+00:07:00,300 --> 00:07:02,300
+Ja, meine Eltern leben noch.
+
+74
+00:07:02,300 --> 00:07:05,300
+Okay, sehr Gott sei Dank.
+
+75
+00:07:05,300 --> 00:07:10,300
+Und leiden Ihr Vater und Ihre Mutter an chronische Erkrankungen?
+
+76
+00:07:10,300 --> 00:07:14,300
+Was sind, was meinen Sie damit?
+
+77
+00:07:14,300 --> 00:07:29,300
+Ja, meine Mutter hat eine Zuckererkrankung, nimmt Tabletten deswegen.
+
+78
+00:07:29,300 --> 00:07:31,300
+Was ist alles?
+
+79
+00:07:31,300 --> 00:07:34,300
+Ja, so weit ich das weiß.
+
+80
+00:07:34,300 --> 00:07:37,300
+Haben Sie Gechiwista?
+
+81
+00:07:37,300 --> 00:07:40,300
+Ich habe einen Bruder.
+
+82
+00:07:40,300 --> 00:07:43,900
+Okay.
+
+83
+00:07:43,900 --> 00:07:45,900
+Ist er gesund?
+
+84
+00:07:45,900 --> 00:07:47,900
+Ja.
+
+85
+00:07:47,900 --> 00:07:52,900
+Sind Sie schon mal operiert worden, Herr Weber?
+
+86
+00:07:52,900 --> 00:07:56,900
+Ja, in meiner Jugend wurde ich mal operiert.
+
+87
+00:07:56,900 --> 00:07:59,900
+Da wurde mein Blindamen entfernt.
+
+88
+00:07:59,900 --> 00:08:13,900
+Ist die Operation komplikationslos verläuft?
+
+89
+00:08:13,900 --> 00:08:19,900
+Sobald mich erinnern kann, kann ich mich nicht erinnern, dass es schlecht war.
+
+90
+00:08:19,900 --> 00:08:23,900
+Haben Sie gesagt mit 18?
+
+91
+00:08:23,900 --> 00:08:29,900
+Nein, in meiner Jugend mit 15 Jahren.
+
+92
+00:08:29,900 --> 00:08:35,900
+Wurden Sie aus einem anderen Grund operiert?
+
+93
+00:08:35,900 --> 00:08:37,900
+Aus?
+
+94
+00:08:37,900 --> 00:08:40,900
+Aus einem anderen Grund operiert.
+
+95
+00:08:40,900 --> 00:08:44,900
+Das Blindamen wurde, ob ich da, oder wurde etwas anderes noch operiert?
+
+96
+00:08:44,900 --> 00:08:46,900
+Ja, was noch?
+
+97
+00:08:46,900 --> 00:08:48,900
+Also zusätzlich.
+
+98
+00:08:48,900 --> 00:08:50,900
+Ja, zusätzlich.
+
+99
+00:08:50,900 --> 00:08:56,900
+Haben Sie in der letzten Zeit ab- oder zugenommen?
+
+100
+00:08:56,900 --> 00:08:59,900
+Nichts besonders, nein.
+
+101
+00:08:59,900 --> 00:09:01,900
+Ich war gleich.
+
+102
+00:09:01,900 --> 00:09:04,900
+Treiben Sie regelmäßig vor?
+
+103
+00:09:04,900 --> 00:09:08,900
+Nicht wirklich, nein.
+
+104
+00:09:08,900 --> 00:09:11,900
+Wie ist die Appetit, Herr Weber?
+
+105
+00:09:11,900 --> 00:09:14,900
+Normal, gut und auch völlig.
+
+106
+00:09:14,900 --> 00:09:24,900
+Haben Sie bestimmte Allergien?
+
+107
+00:09:24,900 --> 00:09:29,900
+Allergien, ja, gegen Nüsse habe ich Allergien.
+
+108
+00:09:29,900 --> 00:09:34,900
+Wie öffnet sich Nüsseallergien?
+
+109
+00:09:34,900 --> 00:09:39,900
+Wenn ich Nüsse esse, dann habe ich wirklich Atemnot.
+
+110
+00:09:39,900 --> 00:09:41,900
+Atemnot, okay.
+
+111
+00:09:41,900 --> 00:09:43,900
+Brauchen Sie, Herr Weber?
+
+112
+00:09:43,900 --> 00:09:45,900
+Brauchen, nein.
+
+113
+00:09:45,900 --> 00:09:47,900
+Trinken Sie Alkohol?
+
+114
+00:09:47,900 --> 00:09:50,900
+Ja, gelegentlich, bei Heier.
+
+115
+00:09:50,900 --> 00:09:53,900
+Was trinken Sie und wie oft?
+
+116
+00:09:53,900 --> 00:09:57,900
+Wie oft? Ja, gelegentlich, also regelmäßig ist es nicht.
+
+117
+00:09:57,900 --> 00:10:00,900
+Was ich trinke, meistens trinke ich ein Bier.
+
+118
+00:10:00,900 --> 00:10:02,900
+Ja, okay.
+
+119
+00:10:02,900 --> 00:10:07,900
+Bitte nehmen Sie das nicht persönlich, das ist eine Rückenfrage.
+
+120
+00:10:07,900 --> 00:10:09,900
+Haben Sie Kontakt mit Drogen?
+
+121
+00:10:09,900 --> 00:10:12,900
+Oh, Drogen, nein.
+
+122
+00:10:12,900 --> 00:10:15,900
+Ich weiß noch nicht mal, wie Drogen geschrieben wird.
+
+123
+00:10:15,900 --> 00:10:19,150
+Das ist eine Rückenfrage.
+
+124
+00:10:19,150 --> 00:10:22,150
+Haben Sie Kinder, Herr Weber?
+
+125
+00:10:22,150 --> 00:10:24,150
+Ja.
+
+126
+00:10:24,150 --> 00:10:26,150
+Wie viel?
+
+127
+00:10:26,150 --> 00:10:28,150
+Ein Sohn.
+
+128
+00:10:28,150 --> 00:10:30,150
+Ist der gesund?
+
+129
+00:10:30,150 --> 00:10:32,150
+Ja, Gott sei Dank.
+
+130
+00:10:32,150 --> 00:10:36,150
+Sind Sie zuheiratet?
+
+131
+00:10:36,150 --> 00:10:38,150
+Ja.
+
+132
+00:10:38,150 --> 00:10:44,150
+Und wohnen Sie oder lieben Sie mit Ihrer Familie zusammen?
+
+133
+00:10:44,150 --> 00:10:46,150
+Ja, genau.
+
+134
+00:10:46,150 --> 00:10:48,150
+Was machen Sie beruflich?
+
+135
+00:10:48,150 --> 00:10:50,150
+Ich bin Busfahrer.
+
+136
+00:10:50,150 --> 00:10:52,150
+Busfahrer.
+
+137
+00:10:52,150 --> 00:10:55,150
+Das ist gut.
+
+138
+00:10:55,150 --> 00:10:59,150
+Ja, ich möchte kurz zusammenfassen.
+
+139
+00:10:59,150 --> 00:11:06,150
+Sie haben seit vier Tagen zunehmende, ziehende,
+
+140
+00:11:06,150 --> 00:11:12,150
+natten Schmerzen in die rechten Arme.
+
+141
+00:11:12,150 --> 00:11:15,150
+Links, links, links.
+
+142
+00:11:15,150 --> 00:11:17,150
+Links und strahlen.
+
+143
+00:11:17,150 --> 00:11:20,150
+Die Schmerzen strahlen die Rechten.
+
+144
+00:11:20,150 --> 00:11:22,150
+Nein, alles links.
+
+145
+00:11:22,150 --> 00:11:24,150
+Alles links.
+
+146
+00:11:24,150 --> 00:11:26,150
+Okay.
+
+147
+00:11:26,150 --> 00:11:34,150
+Und die Schmerzen sind bewegungsabhängig?
+
+148
+00:11:34,150 --> 00:11:39,150
+Die sind bewegungsabhängig.
+
+149
+00:11:39,150 --> 00:11:42,150
+Okay, das war meine Frage.
+
+150
+00:11:42,150 --> 00:11:45,150
+Möchten Sie etwas hinzufügen, Herr Weber?
+
+151
+00:11:45,150 --> 00:11:47,150
+Ja.
+
+152
+00:11:47,150 --> 00:11:49,150
+Wie geht es jetzt weiter, Herr Doktor?
+
+153
+00:11:49,150 --> 00:11:53,150
+Ja, ich möchte jetzt erklären, was wir machen wollen.
+
+154
+00:11:53,150 --> 00:11:59,150
+Ich möchte Sie körperlich unterrufen.
+
+155
+00:11:59,150 --> 00:12:09,150
+Und danach möchte ich, würde ich Nackenschmerzen,
+
+156
+00:12:09,150 --> 00:12:12,150
+Röntgen veranlassen.
+
+157
+00:12:12,150 --> 00:12:21,150
+Und gegebenenfalls eine
+
+158
+00:12:21,150 --> 00:12:26,150
+MRT zu anlassen.
+
+159
+00:12:26,150 --> 00:12:28,150
+Okay.
+
+160
+00:12:28,150 --> 00:12:31,150
+Ja, und,
+
+161
+00:12:31,150 --> 00:12:37,150
+könnten Sie die Schmerzen aushalten
+
+162
+00:12:37,150 --> 00:12:42,150
+vor der Untersuchung, oder können Sie
+
+163
+00:12:42,150 --> 00:12:44,150
+die Schmerzen aushalten?
+
+164
+00:12:44,150 --> 00:12:48,150
+Ja, ich halte die Schmerzen aus, ja.
+
+165
+00:12:48,150 --> 00:12:50,150
+Hauptsache, sie helfen mir.
+
+166
+00:12:50,150 --> 00:12:54,150
+Die Schmerzen sind bewegungsabhängig.
+
+167
+00:12:54,150 --> 00:12:58,620
+Okay.
+
+168
+00:12:58,620 --> 00:13:10,780
+Hab'n Kollege Nanderefragen.
+
+169
+00:13:10,780 --> 00:13:14,780
+Wie geht es jetzt mit der Schmerzen?
+
+170
+00:13:14,780 --> 00:13:16,780
+Von 0 bis 10.
+
+171
+00:13:16,780 --> 00:13:17,780
+Von 0 bis 10?
+
+172
+00:13:17,780 --> 00:13:25,650
+Ja, ich würde sagen 7.
+
+173
+00:13:25,650 --> 00:13:31,650
+Welcher Handbein ist es von der Arbeit, Herr Weber?
+
+174
+00:13:31,650 --> 00:13:38,650
+Ich bin Busfahrer, ich bin in beiden Armen. Aber ich bin selber Rechtshänder.
+
+175
+00:13:38,650 --> 00:13:46,460
+Sind Sie deswegen schon bei einem anderen Arzt gewesen?
+
+176
+00:13:46,460 --> 00:13:53,460
+Wegen dem Nachhinschmerzen jetzt aktuell nicht, nein, Sie sind meine erste Arzt.
+
+177
+00:13:54,460 --> 00:13:59,460
+Sie haben gesagt, die Übeprofen sind 600 mg eingeladen.
+
+178
+00:13:59,460 --> 00:14:06,460
+Welche Verbesserung bewirkt die Medikamente?
+
+179
+00:14:06,460 --> 00:14:11,460
+Die Medikamente, eine leichte Linderung ist schon da.
+
+180
+00:14:11,460 --> 00:14:23,440
+Wenn ich die nehme, dann sind die Schmerzen weniger, so 3, 4 ungefähr.
+
+181
+00:14:23,440 --> 00:14:27,440
+Die Schmerzmittel, also Übeprofen, bewirkt eine Linderung.
+
+182
+00:14:27,440 --> 00:14:33,440
+Die Schmerzen immer da, sie sind nur Kopfbewegung.
+
+183
+00:14:33,440 --> 00:14:47,040
+Sie sind immer da, aber die sind schlimmer, wenn ich meinen Kopf nach links drehe.
+
+184
+00:14:47,040 --> 00:14:52,040
+Sie haben gesagt, krippen.
+
+185
+00:14:52,040 --> 00:14:55,040
+Welche Seite?
+
+186
+00:14:55,040 --> 00:14:58,040
+Mein linker Daumen.
+
+187
+00:14:58,040 --> 00:15:04,040
+Mein linker Daumen ist pelzig, ein bisschen komisches Gefühl.
+
+188
+00:15:04,040 --> 00:15:13,770
+Pelzig, kommt vom Pelz, Kürk.
+
+189
+00:15:13,770 --> 00:15:27,720
+Sie haben gesagt, schwindeln.
+
+190
+00:15:27,720 --> 00:15:32,720
+Wenn ich starke Kopfschmerzen, also wenn ich die Nackenschmerzen zunehme,
+
+191
+00:15:32,720 --> 00:15:35,720
+dann kriege ich starke Kopfschmerzen.
+
+192
+00:15:35,720 --> 00:15:41,720
+Dabei ist ab und zu mal, dass es mir schwindelig ist.
+
+193
+00:15:41,720 --> 00:15:44,720
+Das dreht sich alles so ein bisschen bei starkem Schmerz.
+
+194
+00:15:44,720 --> 00:15:49,720
+Wie viel Minuten dauert die Schwindel?
+
+195
+00:15:49,720 --> 00:15:53,720
+Wenn ich zum Beispiel mein Kopf nach links gucke, weil ich etwas sehen möchte,
+
+196
+00:15:53,720 --> 00:15:55,720
+dann kommt der starke Schmerz.
+
+197
+00:15:55,720 --> 00:16:00,720
+Durch den schmacken Schmerz, das dauert so ungefähr 4 Minuten.
+
+198
+00:16:00,720 --> 00:16:08,720
+Haben Sie sehr störung, auch störung?
+
+199
+00:16:08,720 --> 00:16:12,060
+Nein, habe ich nicht.
+
+200
+00:16:12,060 --> 00:16:18,560
+Ich habe nicht sehr störung, habe ich nicht.
+
+201
+00:16:18,560 --> 00:16:22,560
+Timnitus, was bedeutet auf Deutsch?
+
+202
+00:16:22,560 --> 00:16:26,560
+Timnitus, dauert das Geräusch, haben Sie Geräusche?
+
+203
+00:16:26,560 --> 00:16:29,900
+Ja, Geräusche.
+
+204
+00:16:29,900 --> 00:16:33,900
+Ich habe nichts, kein Problem damit.
+
+205
+00:16:33,900 --> 00:16:39,310
+Können wir anfangen?
+
+206
+00:16:39,310 --> 00:16:49,080
+Ja, ja. Hallo Herr Oberath.
+
+207
+00:16:49,080 --> 00:16:54,080
+Wir haben heute einen neuen Patientin.
+
+208
+00:16:54,080 --> 00:17:01,080
+Ich möchte über ihn berichten.
+
+209
+00:17:01,080 --> 00:17:04,080
+Ich habe ihn seitwünftig.
+
+210
+00:17:04,080 --> 00:17:07,080
+Ja, natürlich. Schießen Sie mal los.
+
+211
+00:17:07,080 --> 00:17:19,080
+Ja. Mein Patientin heißt Johannes Weber.
+
+212
+00:17:19,080 --> 00:17:30,080
+Er ist 44 Jahre alt und erste Februar 1979 geboren.
+
+213
+00:17:30,080 --> 00:17:38,080
+Er wiegt zurzeit 75 kg schwer.
+
+214
+00:17:38,080 --> 00:17:48,080
+Er ist 1,81 Meter groß.
+
+215
+00:17:48,080 --> 00:18:04,080
+Er ist ein 44-jähriger Patient, der sich bei uns seit 4 Tagen beschädt,
+
+216
+00:18:04,080 --> 00:18:09,080
+zunehmend nach Schmerzen vorgestellt hat.
+
+217
+00:18:09,080 --> 00:18:15,080
+Die Schmerzen sind bewegungsabhängig.
+
+218
+00:18:15,080 --> 00:18:25,080
+Auf einer Schmerzskala hatten die Schmerzen bei 6.
+
+219
+00:18:25,080 --> 00:18:34,080
+Im Laufe der Zeit hatten die Schmerzen sich immer verschlechtert.
+
+220
+00:18:34,080 --> 00:19:03,220
+Und der Patientin gibt an, dass er Schlafschütterung wegen der Schmerzen hat.
+
+221
+00:19:03,220 --> 00:19:19,220
+Er klagte über Schwindel und ab und zu Kopfschmerzen.
+
+222
+00:19:19,220 --> 00:19:48,170
+Er ist wegen der Schmerzen, der mit 15
+
+223
+00:19:48,170 --> 00:19:57,170
+und er hat Nüsseallergie und er äußert sich mit Atemlos.
+
+224
+00:19:57,170 --> 00:20:08,170
+Er ist nicht raucher und er trinkt gelegenlich Bier.
+
+225
+00:20:08,170 --> 00:20:23,170
+Die Frage nach Gewichtsverlust und Appetitlosigkeit wurde von dem Patientin verleinert.
+
+226
+00:20:23,170 --> 00:20:43,170
+Er hat einen Sohn, der gesund ist und ist verheiratet und wohnt mit ihrer Familie.
+
+227
+00:20:43,170 --> 00:20:57,170
+Er arbeitet als Busfahrer.
+
+228
+00:20:57,170 --> 00:21:08,170
+Der Vater des Patienten hat Bluthochdruck.
+
+229
+00:21:08,170 --> 00:21:16,170
+Die Mutter des Patienten hat Zuckerkrankheit.
+
+230
+00:21:16,170 --> 00:21:27,170
+Ich glaube, diese Krankheit ist nicht verbunden mit diesem Fall.
+
+231
+00:21:27,170 --> 00:21:46,940
+Ich würde gerne den Patienten körperlich untersuchen.
+
+232
+00:21:46,940 --> 00:22:01,940
+Ich würde ein Nackenregion in zwei Eben veranlassen.
+
+233
+00:22:01,940 --> 00:22:30,960
+Ich würde gerne den Nackenregion in zwei Eben veranlassen.
+
+234
+00:22:30,960 --> 00:22:50,960
+Ich würde trotzdem sagen, dass Röntgenhws in zwei Eben veranlösen.
+
+235
+00:22:50,960 --> 00:23:12,960
+Röntgen aufnahmene Aufnahme.
+
+236
+00:23:12,960 --> 00:23:32,960
+Ich glaube, es ist schwer, den Bandscheibenvorfall zu sehen.
+
+237
+00:23:32,960 --> 00:23:52,960
+Es ist schwer, den Bandscheibenvorfall zu sehen.
+
+238
+00:23:52,960 --> 00:24:02,960
+Warum machen wir eine Röntgenaufnahme?
+
+239
+00:24:02,960 --> 00:24:21,960
+Warum machen wir eine Servikal-Vibelsäule?
+
+240
+00:24:21,960 --> 00:24:31,960
+Man kann etwas ausschließen.
+
+241
+00:24:31,960 --> 00:24:49,430
+Wir sollten einen Pneumotorax ausschließen.
+
+242
+00:24:49,430 --> 00:24:59,430
+Wenn man Schmerzausstarrungen links hat, kann man andere Probleme haben.
+
+243
+00:24:59,430 --> 00:25:09,430
+Aber es geht jetzt zu Zeit.
+
+244
+00:25:09,430 --> 00:25:19,430
+Man kann bestimmte Sachen im Röntgen sehen.
+
+245
+00:25:19,430 --> 00:25:39,430
+Im Röntgen können wir im Knochen sehen.
+
+246
+00:25:39,430 --> 00:25:59,430
+Man kann aber sehen, wie hoch der Bandscheibenfach ist.
+
+247
+00:25:59,430 --> 00:26:27,430
+Man kann auch sagen, ob der Knöcher eine Degeneration hat.
+
+248
+00:26:27,430 --> 00:26:37,430
+Wir haben Röntgen gemacht, der sieht gut aus.
+
+249
+00:26:37,430 --> 00:26:53,430
+Ich würde gerne eine MRT von der Servikalregion.
+
+250
+00:26:53,430 --> 00:27:07,430
+Sie können auch abkürzen.
+
+251
+00:27:07,430 --> 00:27:27,430
+Als Therapeute empfehle ich dem Patienten, dass ich Schmerz und Schmerzmittel einnehmen.
+
+252
+00:27:27,430 --> 00:27:33,430
+Welche Schmerzmittel würden Sie als erstes geben?
+
+253
+00:27:33,430 --> 00:27:44,870
+Was ist das?
+
+254
+00:27:44,870 --> 00:27:54,870
+Das ist eine Entzündungshema.
+
+255
+00:27:54,870 --> 00:28:16,870
+Wenn es nicht reicht, kann man noch zu Nauvalgien oder Parasamol.
+
+256
+00:28:16,870 --> 00:28:36,870
+Die erste Therapeute wurde durch die Orale Einnahme von nicht stitulärer Antiromatik.
+
+257
+00:28:36,870 --> 00:28:52,870
+Wir haben eine Therapie, aber wir haben noch nicht über die Diagnose gesprochen.
+
+258
+00:28:52,870 --> 00:29:06,870
+Im MRT sehen wir einen Bandscheinvorfall C560.
+
+259
+00:29:06,870 --> 00:29:16,870
+Wie würde bei Ihnen die Diagnose heißen?
+
+260
+00:29:16,870 --> 00:29:26,870
+Das ist eine Servikale Bandscheinvorfall.
+
+261
+00:29:26,870 --> 00:29:46,870
+Das ist eine spezielle Diagnose.
+
+262
+00:29:46,870 --> 00:30:02,870
+Das ist eine Servikobrachialgie.
+
+263
+00:30:02,870 --> 00:30:12,870
+Das ist eine Servikobrachialgie.
+
+264
+00:30:12,870 --> 00:30:32,870
+Das ist eine Differenzialdiagnose.
+
+265
+00:30:32,870 --> 00:30:47,960
+Das ist eine Differenzialdiagnose.
+
+266
+00:30:47,960 --> 00:31:01,960
+Das ist eine Differenzialdiagnose.
+
+267
+00:31:01,960 --> 00:31:11,960
+Das könnte eine Neuropathie sein.
+
+268
+00:31:11,960 --> 00:31:40,310
+Das ist eine Neuropathie.
+
+269
+00:31:40,310 --> 00:31:50,310
+Das ist eine Neuropathie.
+
+270
+00:31:50,310 --> 00:32:12,310
+Das ist eine Neuropathie.
+
+271
+00:32:12,310 --> 00:32:22,310
+Das ist eine Neuropathie.
+
+272
+00:32:22,310 --> 00:32:32,310
+Das ist eine Neuropathie.
+
+273
+00:32:32,310 --> 00:32:45,190
+Das ist eine Neuropathie.
+
+274
+00:32:45,190 --> 00:32:55,190
+Das ist eine Differenzialdiagnose.
+
+275
+00:32:55,190 --> 00:33:05,190
+Das ist eine Neuropathie.
+
+276
+00:33:05,190 --> 00:33:15,190
+Das ist eine Neuropathie.
+
+277
+00:33:15,190 --> 00:33:25,190
+Das ist eine Neuropathie.
+
+278
+00:33:25,190 --> 00:33:45,190
+Das ist eine Neuropathie.
+
+279
+00:33:45,190 --> 00:33:55,190
+Das ist eine Neuropathie.
+
+280
+00:33:55,190 --> 00:34:05,190
+Das ist eine Neuropathie.
+
+281
+00:34:05,190 --> 00:34:15,190
+Das ist eine Neuropathie.
+
+282
+00:34:15,190 --> 00:34:27,520
+Das ist eine Neuropathie.
+
+283
+00:34:27,520 --> 00:34:37,520
+Das ist eine Neuropathie.
+
+284
+00:34:37,520 --> 00:34:47,520
+Das ist eine Neuropathie.
+
+285
+00:34:47,520 --> 00:34:57,520
+Das ist eine Neuropathie.
+
+286
+00:34:57,520 --> 00:35:07,520
+Das ist eine Neuropathie.
+
+287
+00:35:07,520 --> 00:35:17,520
+Was noch?
+
+288
+00:35:17,520 --> 00:35:27,520
+Man empfiehlt immer eine konservative Therapie.
+
+289
+00:35:27,520 --> 00:35:37,520
+Ich glaube, es ist eine Stadion der MRT.
+
+290
+00:35:37,520 --> 00:35:47,520
+Wenn man eine Stadion der MRT hat,
+
+291
+00:35:47,520 --> 00:36:03,520
+dann würde man empfehlen,
+
+292
+00:36:03,520 --> 00:36:13,520
+dass die Stadion vom Bandschreiben verfallen.
+
+293
+00:36:13,520 --> 00:36:17,520
+Eigentlich geht es um die Klinik.
+
+294
+00:36:17,520 --> 00:36:27,120
+Wenn es eine Kraftverlust gibt, empfiehlt man eine Operation.
+
+295
+00:36:27,120 --> 00:36:35,120
+Paris, das ist wichtig.
+
+296
+00:36:35,120 --> 00:36:43,120
+Was ist der Unterschied?
+
+297
+00:36:43,120 --> 00:36:53,120
+Das ist eine Stadion der MRT.
+
+298
+00:36:53,120 --> 00:37:03,120
+Das ist eine Stadion der MRT.
+
+299
+00:37:03,120 --> 00:37:13,120
+Das ist eine Stadion der MRT.
+
+300
+00:37:13,120 --> 00:37:23,120
+Das ist eine Stadion der MRT.
+
+301
+00:37:23,120 --> 00:37:33,120
+Das ist eine Stadion der MRT.
+
+302
+00:37:33,120 --> 00:37:43,120
+Das ist eine Stadion der MRT.
+
+303
+00:37:43,120 --> 00:37:54,560
+Das ist eine Stadion der MRT.
+
+304
+00:37:54,560 --> 00:38:04,560
+Das ist eine Stadion der MRT.
+
+305
+00:38:04,560 --> 00:38:14,560
+Das ist eine Stadion der MRT.
+
+306
+00:38:14,560 --> 00:38:24,560
+Das ist eine Stadion der MRT.
+
+307
+00:38:24,560 --> 00:38:34,560
+Das ist eine Stadion der MRT.
+
+308
+00:38:34,560 --> 00:38:44,560
+Das ist eine Stadion der MRT.
+
+309
+00:38:44,560 --> 00:38:54,560
+Das ist eine Stadion der MRT.
+
+310
+00:38:54,560 --> 00:39:04,560
+Das ist eine Stadion der MRT.
