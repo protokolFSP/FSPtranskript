@@ -1,0 +1,1791 @@
+1
+00:00:00,460 --> 00:00:14,000
+Hallo Guten Tag, ich bin als Osternsternsarzt auf der Station Stetich. Ich würde gerne mit Ihnen das Annamnese-Gespräch führen. Sind Sie damit ein Interesse?
+
+2
+00:00:14,000 --> 00:00:16,000
+Ja, Interesse.
+
+3
+00:00:17,000 --> 00:00:27,000
+Kurz zum Ablauf. Ich werde als Erstes Ihnen ein paar Fragen zu Ihren Daten stellen, dann direkt zu Ihren aktuellen Beschwerden übergehen. Wie heißen Sie?
+
+4
+00:00:27,000 --> 00:00:33,660
+Ich heiße Maya Müller.
+
+5
+00:00:33,660 --> 00:00:38,660
+Herr Müller, können Sie Ihre Vorname bestabieren?
+
+6
+00:00:38,660 --> 00:00:45,660
+Ich bin eine Frau. Ich heiße Maya MA epsilon A.
+
+7
+00:00:46,660 --> 00:00:51,660
+MA epsilon A.
+
+8
+00:00:51,660 --> 00:00:53,660
+Genau.
+
+9
+00:00:53,660 --> 00:00:56,660
+Frau Müller, wie alt sind Sie?
+
+10
+00:00:56,660 --> 00:01:02,320
+Ich bin 43 Jahre alt.
+
+11
+00:01:02,320 --> 00:01:06,530
+Wann sind Sie genau geboren?
+
+12
+00:01:06,530 --> 00:01:11,530
+Dann habe ich gleiche Fehler in dem Maat. Moment bitte.
+
+13
+00:01:11,530 --> 00:01:25,750
+Ich bin 12.5.1979 geboren.
+
+14
+00:01:25,750 --> 00:01:28,750
+Wie groß und wie schwer sind Sie?
+
+15
+00:01:28,750 --> 00:01:36,750
+Ich bin 71 Jahre alt und 1,65 Meter groß.
+
+16
+00:01:36,750 --> 00:01:42,740
+Was führt Sie zu uns, Frau Müller?
+
+17
+00:01:42,740 --> 00:01:54,740
+Herr Doktor, seit 2 Tagen habe ich Herzrasen, das ist aber echt schlecht. Manchmal ist mir auch schwindelig.
+
+18
+00:01:54,740 --> 00:02:07,090
+Vorher hatten Sie Herzrasen oder nur seit 2 Tagen?
+
+19
+00:02:07,090 --> 00:02:14,090
+Nein, wie kann ich beschreiben? Vor 2 Wochen habe ich auch ähnliche Atakten.
+
+20
+00:02:14,090 --> 00:02:21,090
+Ich bin einmal umgekippt nach meiner Herzrasen.
+
+21
+00:02:22,090 --> 00:02:31,090
+Vor 2 Wochen dauerte es etwa 15 Minuten.
+
+22
+00:02:31,090 --> 00:02:37,090
+Nachdem ich umgekippt war, konnte ich nichts erinnern.
+
+23
+00:02:37,090 --> 00:02:43,820
+Haben Sie Ihren Bewusstsein verloren?
+
+24
+00:02:43,820 --> 00:02:49,820
+Kurzfristig, wie gesagt, kann ich nicht richtig beschreiben.
+
+25
+00:02:49,820 --> 00:02:53,820
+Aber nach kurzem Zeit war ich wieder wach.
+
+26
+00:02:53,820 --> 00:02:59,380
+Meinen Sie vor 2 Wochen, oder?
+
+27
+00:02:59,380 --> 00:03:06,380
+Vor 2 Wochen genau. Dieses Mal habe ich nur Herzrasen.
+
+28
+00:03:06,380 --> 00:03:09,380
+Und wie gesagt, ist mir schwindelig.
+
+29
+00:03:09,380 --> 00:03:14,380
+Haben Sie Kopfschmerzen oder Brustschmerzen?
+
+30
+00:03:14,380 --> 00:03:17,380
+Eigentlich nicht.
+
+31
+00:03:17,380 --> 00:03:23,380
+Leiden Sie unter enge Gefühl im Brust?
+
+32
+00:03:23,380 --> 00:03:27,620
+Nein.
+
+33
+00:03:27,620 --> 00:03:36,620
+Aber vor 2 Wochen habe ich ähnliche Fragen auch gehört.
+
+34
+00:03:36,620 --> 00:03:42,620
+Damals wurde bei mir eine Ecke geschrieben. Ich weiß es nicht, warum.
+
+35
+00:03:42,620 --> 00:03:50,100
+Aber Ihr Kollege hat mir gesagt, dass ich keine kardiale Probleme hätte.
+
+36
+00:03:50,100 --> 00:03:52,100
+Okay.
+
+37
+00:03:52,100 --> 00:03:56,100
+wurde eine bestimmte Diagnose gestellt?
+
+38
+00:03:56,100 --> 00:04:00,100
+Nein. Ich war in der Notaufnahme vorstellig.
+
+39
+00:04:00,100 --> 00:04:04,100
+Und Sie haben gesagt, Sie haben keine Ursache gefunden.
+
+40
+00:04:04,100 --> 00:04:06,100
+Sie könnten nach Hause gehen.
+
+41
+00:04:06,100 --> 00:04:11,100
+Aber diese Attacke trat wieder auf. Deshalb bin ich da.
+
+42
+00:04:11,100 --> 00:04:16,100
+Ist Ihnen übel oder müssten Sie sich erbrechen?
+
+43
+00:04:16,100 --> 00:04:24,100
+Ist mir nicht übel. Aber seit 2 Wochen ist mein Stuhl ein bisschen wesrig.
+
+44
+00:04:24,100 --> 00:04:26,100
+Wesrig?
+
+45
+00:04:26,100 --> 00:04:29,820
+Ja.
+
+46
+00:04:29,820 --> 00:04:31,820
+Schwindel Sie?
+
+47
+00:04:31,820 --> 00:04:34,820
+Entschuldigung, haben Sie Nachschweiß?
+
+48
+00:04:34,820 --> 00:04:40,380
+Keine Nachschweiß, kann ich sagen.
+
+49
+00:04:40,380 --> 00:04:44,380
+Haben Sie Fieber oder Stilfrost?
+
+50
+00:04:44,380 --> 00:04:50,380
+Stilfrost habe ich nicht. Aber manchmal fühle ich mich sehr warm.
+
+51
+00:04:50,380 --> 00:04:53,380
+Aber ich habe meine Temperatur nicht gemessen.
+
+52
+00:04:53,380 --> 00:04:58,380
+Aber wissen Sie, wenn ich warm fühle, bin ich auch ein bisschen kibbelig.
+
+53
+00:04:58,380 --> 00:05:03,380
+Ich sitze meine Hände. Ich muss immer rausgehen.
+
+54
+00:05:03,380 --> 00:05:10,380
+Ich kann nicht zu Hause oder in einem Haus bleiben.
+
+55
+00:05:10,380 --> 00:05:13,380
+Das ist echt schlecht für mich.
+
+56
+00:05:13,380 --> 00:05:17,380
+Aber damals habe ich meine Temperatur nicht gemessen.
+
+57
+00:05:17,380 --> 00:05:25,110
+Sie haben schon gesagt, Ihr Stuhl war wesrig.
+
+58
+00:05:25,110 --> 00:05:29,110
+Haben Sie etwas Ungewöhnliches bemerkt?
+
+59
+00:05:29,110 --> 00:05:35,110
+Beispiel Schaumich oder Terchstuhl?
+
+60
+00:05:35,110 --> 00:05:40,110
+Das habe ich nicht bemerkt. Keine Farbveränderung habe ich gesehen.
+
+61
+00:05:40,110 --> 00:05:43,110
+Nur ein bisschen wesrig.
+
+62
+00:05:43,110 --> 00:05:52,360
+Haben Sie Haarausfall bemerkt oder trockene Haare?
+
+63
+00:05:52,360 --> 00:05:54,360
+Haarausfall, genau.
+
+64
+00:05:54,360 --> 00:05:59,360
+Das ist seit langem, früher ist es ein bisschen weniger.
+
+65
+00:05:59,360 --> 00:06:04,360
+Ich dachte, das ist normal, aber in letzter Zeit sehr viel.
+
+66
+00:06:04,360 --> 00:06:16,820
+Haben Sie bemerkt, dass Ihr Haut ein bisschen feucht sein?
+
+67
+00:06:16,820 --> 00:06:19,820
+Besonders meine Hände.
+
+68
+00:06:19,820 --> 00:06:35,470
+Haben Sie in der letzten Zeit eine Erkältung oder solche ähnliche Beschwerden erlitten?
+
+69
+00:06:35,470 --> 00:06:41,170
+Keine.
+
+70
+00:06:41,170 --> 00:06:43,170
+Fertigen Sie noch etwas ein?
+
+71
+00:06:43,170 --> 00:06:47,900
+Haben Sie sonst weitere Beschwerden?
+
+72
+00:06:47,900 --> 00:06:59,550
+Ja, ich kann sagen, ich habe etwa 5 kg Angewicht abgenommen in den letzten 3 Wochen.
+
+73
+00:06:59,550 --> 00:07:07,550
+Was ich noch sagen würde, mein Appetit ist eigentlich gut.
+
+74
+00:07:07,550 --> 00:07:12,550
+Soll ich noch sagen, oder viel für ein Mensch?
+
+75
+00:07:12,550 --> 00:07:14,550
+Ich esse sehr viel.
+
+76
+00:07:14,550 --> 00:07:23,250
+Trotzdem habe ich Gewicht abgenommen.
+
+77
+00:07:23,250 --> 00:07:28,250
+Haben Sie an Ihrem Haar etwas Ungewöhnliches bemerkt?
+
+78
+00:07:28,250 --> 00:07:32,250
+Wie zum Beispiel eine Wucherung oder Schulukbesche werden?
+
+79
+00:07:32,250 --> 00:07:41,250
+Das ist nicht richtig schluckbeschwerden, aber ich fühle mich wie ein Druck beim Schlucken.
+
+80
+00:07:41,250 --> 00:07:49,250
+Wenn ich gegen ein Spiegel bin, kann ich nichts merken, außer...
+
+81
+00:07:49,250 --> 00:07:52,250
+Aber diese Druck fühle ich mich, ja.
+
+82
+00:07:52,250 --> 00:08:09,800
+Okay, Frau Müller, haben Sie Schwierigkeiten ein oder durchzuschlafen?
+
+83
+00:08:12,240 --> 00:08:14,240
+Durchschlafen, soll ich sagen.
+
+84
+00:08:14,240 --> 00:08:18,240
+Ich kann einfach einschlafen, aber ich brauche nichts mehr.
+
+85
+00:08:18,240 --> 00:08:25,240
+Schlafen etwa 3 Stunden danach, mache ich wieder auf, dann ist das genug für mich.
+
+86
+00:08:25,240 --> 00:08:32,690
+Haben Sie Probleme mit der Wasserlassen?
+
+87
+00:08:32,690 --> 00:08:35,690
+Bei Wasserlassen habe ich keine Probleme.
+
+88
+00:08:35,690 --> 00:08:46,820
+Frau Müller, ich möchte ein paar Fragen zu Ihren Krankengeschichten stellen.
+
+89
+00:08:46,820 --> 00:08:50,820
+Haben Sie wichtige Erkrankungen, von denen ich wissen sollte?
+
+90
+00:08:50,820 --> 00:08:56,820
+Aktuell habe ich keine Erkrankungen, soll ich sagen.
+
+91
+00:08:56,820 --> 00:08:59,820
+wurden Sie schon mal operiert?
+
+92
+00:08:59,820 --> 00:09:06,820
+Ja, als ich 18 war, wurde mein Bildarm entfernt.
+
+93
+00:09:06,820 --> 00:09:13,820
+Ansonsten, nein, ja, nur einmal bin ich operiert worden.
+
+94
+00:09:14,820 --> 00:09:19,820
+Nehmen Sie regelmäßig oder gelegenlich Medikamente ein?
+
+95
+00:09:19,820 --> 00:09:25,820
+Manchmal, in letzter Zeit, wie gesagt, ich schlafe sehr, sehr wenig.
+
+96
+00:09:25,820 --> 00:09:31,820
+Zum Schlafen nehme ich Baldrian ein, ansonsten keine regelmäßige Medikamente.
+
+97
+00:09:31,820 --> 00:09:35,820
+Okay, Draghi meinen Sie?
+
+98
+00:09:35,820 --> 00:09:36,820
+Wie bitte?
+
+99
+00:09:36,820 --> 00:09:38,820
+Baldrian Draghi meinen Sie, oder?
+
+100
+00:09:38,820 --> 00:09:41,820
+Ja, genau, zum Schlafen, wie gesagt.
+
+101
+00:09:41,820 --> 00:09:47,220
+Haben Sie Allergie oder Unverträglichkeiten?
+
+102
+00:09:47,220 --> 00:09:52,220
+Ich habe gegen Pflaster Allergien.
+
+103
+00:09:52,220 --> 00:09:58,220
+Und ich kann einen Medikament einschmerzen, damit ich es richtig vertragen.
+
+104
+00:09:58,220 --> 00:10:03,220
+Nachdem ich dieses Medikament eingenommen habe, habe ich Magenschmerzen.
+
+105
+00:10:03,220 --> 00:10:06,220
+Wie heißt das? Normalgen oder so etwas?
+
+106
+00:10:06,220 --> 00:10:08,220
+Okay, normalgen.
+
+107
+00:10:09,220 --> 00:10:13,220
+Wie äußert sich die Pflaster Allergie?
+
+108
+00:10:13,220 --> 00:10:22,220
+Als ich allergisch war, habe ich sehr große Hautschlag bekommen und ein bisschen Fieber.
+
+109
+00:10:22,220 --> 00:10:28,220
+Und meine Ärztin hat gesagt, dass ich gegen Pflaster Allergie bin.
+
+110
+00:10:28,220 --> 00:10:35,220
+Muss ich immer äußern, damit ich keine grobe allergische Reaktion bekomme.
+
+111
+00:10:35,220 --> 00:10:40,920
+Frau Miller, rauchen Sie?
+
+112
+00:10:40,920 --> 00:10:43,920
+Leider ja.
+
+113
+00:10:43,920 --> 00:10:47,920
+Seit wann und wie viele Zigaretten pro Tag?
+
+114
+00:10:47,920 --> 00:10:52,920
+Seit ich 15 war, rauche ich.
+
+115
+00:10:52,920 --> 00:10:58,920
+Ohne Unterbrechung etwa 20, 25 Zigaretten am Tag.
+
+116
+00:10:58,920 --> 00:11:06,620
+Trinken Sie Alkohol?
+
+117
+00:11:06,620 --> 00:11:09,620
+Ja, gelegentlich.
+
+118
+00:11:09,620 --> 00:11:16,860
+Frau Miller, nehmen Sie nicht persönlich das frutigemäßige Frage.
+
+119
+00:11:16,860 --> 00:11:21,860
+Konsumieren Sie Drogen oder haben Sie Drogen ausprobiert?
+
+120
+00:11:21,860 --> 00:11:24,860
+Ich habe bisher keinen Kontakt.
+
+121
+00:11:24,860 --> 00:11:35,860
+In Ihren, Entschuldigung, gibt es in Ihren Eltern wichtige Erkrankungen?
+
+122
+00:11:38,140 --> 00:11:44,140
+Ja, bei meiner Mutter ist eine erhöhte Blutdruck bekannt.
+
+123
+00:11:44,140 --> 00:11:52,610
+Und mein Vater hat eine Blutvergiftung erlitten.
+
+124
+00:11:52,610 --> 00:11:58,610
+Wir haben nicht verstanden, wie es vorkommen ist,
+
+125
+00:11:58,610 --> 00:12:02,610
+aber die Erste haben gesagt, irgendwie Lungenentzündung
+
+126
+00:12:02,610 --> 00:12:06,610
+oder so war es, danach kriegt er Blutvergiftung.
+
+127
+00:12:06,610 --> 00:12:11,610
+Ja, mein Vater hat keine chronische Erkrankung.
+
+128
+00:12:11,610 --> 00:12:14,610
+Okay, haben Sie Geschwister?
+
+129
+00:12:14,610 --> 00:12:16,610
+Keine.
+
+130
+00:12:16,610 --> 00:12:20,610
+Okay, wie ist Ihr Familienstand?
+
+131
+00:12:20,610 --> 00:12:24,820
+Ich bin leidig.
+
+132
+00:12:24,820 --> 00:12:26,820
+Haben Sie Kinder?
+
+133
+00:12:26,820 --> 00:12:30,740
+Keine Kinder.
+
+134
+00:12:30,740 --> 00:12:32,740
+Wollen Sie allein?
+
+135
+00:12:32,740 --> 00:12:45,270
+Nein, ich lebe mit meiner Freundin.
+
+136
+00:12:45,270 --> 00:12:48,270
+Was sind Sie von Beruf, Frau Miller?
+
+137
+00:12:53,270 --> 00:12:55,270
+In welchem Bereich?
+
+138
+00:12:55,270 --> 00:13:02,270
+Ich bringe Mathe und Sport bei.
+
+139
+00:13:02,270 --> 00:13:08,860
+Okay, danke Frau Miller.
+
+140
+00:13:08,860 --> 00:13:11,860
+Ich habe meine ganz wichtige Fragen gestellt.
+
+141
+00:13:11,860 --> 00:13:13,860
+Haben Sie auch mich fragen,
+
+142
+00:13:13,860 --> 00:13:15,860
+oder fällt Ihnen noch etwas ein,
+
+143
+00:13:15,860 --> 00:13:20,160
+was Sie hinzufügen möchten?
+
+144
+00:13:20,160 --> 00:13:22,160
+Aktuell keine.
+
+145
+00:13:22,160 --> 00:13:25,160
+Ja, ich habe ein paar Fragen,
+
+146
+00:13:25,160 --> 00:13:28,160
+aber das ist unabhängig von meiner Erkrankung.
+
+147
+00:13:28,160 --> 00:13:31,160
+Vielleicht später, wenn wir Zeit hätten,
+
+148
+00:13:31,160 --> 00:13:34,160
+könnte ich diese Frage stellen.
+
+149
+00:13:34,160 --> 00:13:38,160
+Okay, Frau Miller, Sie können immer fragen.
+
+150
+00:13:38,160 --> 00:13:41,160
+Ich würde jetzt Sie körperlich untersuchen.
+
+151
+00:13:41,160 --> 00:13:44,160
+Dann würde ich Ihnen Blut abnehmen.
+
+152
+00:13:44,160 --> 00:13:49,160
+Dann gegebenenfalls manche bildgebende Untersuchungen,
+
+153
+00:13:49,160 --> 00:13:54,160
+wie zum Beispiel Ultration, Ultraschall-Untersuchung,
+
+154
+00:13:54,160 --> 00:13:58,160
+und dann sprechen wir uns wieder,
+
+155
+00:13:58,160 --> 00:14:02,160
+wie wir weitermachen können.
+
+156
+00:14:02,160 --> 00:14:06,160
+Wenn Sie keine Fragen mehr haben,
+
+157
+00:14:06,160 --> 00:14:10,160
+dann würde ich Sie körperlich untersuchen.
+
+158
+00:14:10,160 --> 00:14:14,160
+Vorher möchte ich, was Sie fragen,
+
+159
+00:14:14,160 --> 00:14:17,160
+sollte ich hier bleiben?
+
+160
+00:14:17,160 --> 00:14:21,160
+Oder könnte ich heute nach Hause gehen?
+
+161
+00:14:21,160 --> 00:14:26,160
+Wie gesagt, wir müssen manche Untersuchungen durchführen.
+
+162
+00:14:26,160 --> 00:14:29,160
+Diese Untersuchungen dauert ein bisschen.
+
+163
+00:14:29,160 --> 00:14:33,160
+Nach der Untersuchung entscheiden wir,
+
+164
+00:14:33,160 --> 00:14:39,160
+ob oder wie lange Sie im Krankenhaus bleiben sollen oder nicht.
+
+165
+00:14:39,160 --> 00:14:49,300
+Okay, Herr Doktor, ich bin ein Verstammener.
+
+166
+00:14:49,300 --> 00:14:51,300
+Okay, danke Frau Miller.
+
+167
+00:14:51,300 --> 00:15:05,200
+Welche Symptome sind Ihnen während des Anfalls aufgefallen?
+
+168
+00:15:05,200 --> 00:15:11,690
+Entschuldigung, könntest du wiederholen?
+
+169
+00:15:11,690 --> 00:15:14,690
+Sie haben gesagt,
+
+170
+00:15:14,690 --> 00:15:18,690
+seit vor zwei Wochen
+
+171
+00:15:18,690 --> 00:15:22,690
+einmal umkippen, singopiert.
+
+172
+00:15:22,690 --> 00:15:29,690
+Welche Symptome sind Ihnen während des Anfalls aufgefallen?
+
+173
+00:15:29,690 --> 00:15:34,690
+Bevor ich umkippt war, hatte ich, wie gesagt,
+
+174
+00:15:34,690 --> 00:15:36,690
+Herzrasen.
+
+175
+00:15:36,690 --> 00:15:39,690
+Mir ein bisschen schwindelig.
+
+176
+00:15:39,690 --> 00:15:46,260
+Ansonsten kann ich nicht andere beschwerden.
+
+177
+00:15:46,260 --> 00:15:50,260
+Zum Beispiel eine Sunge oder eine unwildtulische Miction?
+
+178
+00:15:50,260 --> 00:15:53,260
+Ja, genau, nachdem ich aufgewacht war,
+
+179
+00:15:53,260 --> 00:15:56,260
+hatte ich keinen Wasser lassen.
+
+180
+00:15:56,260 --> 00:16:00,260
+Und meine Sunge ist auch aktuell,
+
+181
+00:16:00,260 --> 00:16:03,260
+damals war auch gesund.
+
+182
+00:16:03,260 --> 00:16:08,260
+Ich habe keine Schädigung bemerkt, keine Blutungen, nichts.
+
+183
+00:16:08,260 --> 00:16:11,260
+Sie haben gesagt,
+
+184
+00:16:11,260 --> 00:16:13,260
+vor zwei Wochen,
+
+185
+00:16:13,260 --> 00:16:18,260
+eine Notfallstation gegangen.
+
+186
+00:16:18,260 --> 00:16:26,260
+Welche Laboruntersuchung war es?
+
+187
+00:16:26,260 --> 00:16:30,260
+Wie gesagt, Laboruntersuchung weiß ich nicht.
+
+188
+00:16:30,260 --> 00:16:35,260
+Die Ärzte hat mir nichts weiter Informationen gegeben,
+
+189
+00:16:35,260 --> 00:16:37,260
+aber ich erinnere mich,
+
+190
+00:16:37,260 --> 00:16:41,260
+aktuell haben die EKG geschrieben
+
+191
+00:16:41,260 --> 00:16:44,260
+und die haben gesagt, mein Herz ist aktuell gesund,
+
+192
+00:16:44,260 --> 00:16:48,260
+keine unregelmäßige Herzschläge hatte ich.
+
+193
+00:16:48,260 --> 00:16:53,260
+Aber ich weiß nicht, warum die EKG geschrieben haben.
+
+194
+00:16:53,260 --> 00:16:56,570
+Und ich möchte auch fragen,
+
+195
+00:16:56,570 --> 00:17:01,880
+dieses Mal soll ich wieder EKG bekommen?
+
+196
+00:17:02,880 --> 00:17:06,880
+Jetzt soll ich antworten?
+
+197
+00:17:06,880 --> 00:17:08,880
+Ja, das wäre super.
+
+198
+00:17:08,880 --> 00:17:11,880
+Sie sind zuständige Ärzte.
+
+199
+00:17:11,880 --> 00:17:13,880
+Ja, okay.
+
+200
+00:17:13,880 --> 00:17:16,880
+Ich dachte, wir haben beendet.
+
+201
+00:17:16,880 --> 00:17:19,880
+Ja, auf jeden Fall,
+
+202
+00:17:19,880 --> 00:17:24,880
+wir sollten auch jetzt ein EKG schreiben,
+
+203
+00:17:24,880 --> 00:17:27,880
+um eine Herzkrankheit auszuschließen.
+
+204
+00:17:28,880 --> 00:17:35,880
+Aber noch weitere Untersuchungen sind sinnvoll.
+
+205
+00:17:35,880 --> 00:17:43,300
+Und Sie haben gesagt,
+
+206
+00:17:43,300 --> 00:17:46,300
+dass ich vielleicht ein Ultraschall bekommen sollte.
+
+207
+00:17:46,300 --> 00:17:48,300
+Was ist Ultraschall?
+
+208
+00:17:48,300 --> 00:17:49,300
+Ja.
+
+209
+00:17:49,300 --> 00:17:53,300
+Und was für Ultraschall möchten Sie durchführen?
+
+210
+00:17:53,300 --> 00:17:56,300
+Ultraschall ist eine schmerzlose,
+
+211
+00:17:56,300 --> 00:17:59,300
+strahlendfrei Untersuchung.
+
+212
+00:17:59,300 --> 00:18:02,300
+Es gibt ein Schallkopf,
+
+213
+00:18:02,300 --> 00:18:07,300
+der Schallwellen ausschütten
+
+214
+00:18:07,300 --> 00:18:11,300
+und reflektierten Wellen wieder empfängt.
+
+215
+00:18:11,300 --> 00:18:15,300
+Und diese werden diese Bilder
+
+216
+00:18:15,300 --> 00:18:18,300
+auf einem Bildschirm dargestellt.
+
+217
+00:18:18,300 --> 00:18:22,300
+Dann sehen wir Organen und Strukturen
+
+218
+00:18:22,300 --> 00:18:25,300
+auf dem Bildschirm.
+
+219
+00:18:25,300 --> 00:18:32,220
+Bei der Ultraschall-Untersuchung
+
+220
+00:18:32,220 --> 00:18:37,220
+überprüfen wir, ob es ein Schwellung,
+
+221
+00:18:37,220 --> 00:18:42,220
+Lämpfknoten,
+
+222
+00:18:42,220 --> 00:18:46,220
+insbesondere in ihrem Schild trüsen.
+
+223
+00:18:46,220 --> 00:18:50,220
+Es gibt es eine Hocherung
+
+224
+00:18:50,220 --> 00:18:53,220
+oder Entzündung,
+
+225
+00:18:53,220 --> 00:18:57,220
+deswegen sollen wir diese Untersuchung durchführen.
+
+226
+00:18:57,220 --> 00:19:03,150
+Das verstehe ich jetzt.
+
+227
+00:19:03,150 --> 00:19:05,150
+Noch zwei Fragen.
+
+228
+00:19:05,150 --> 00:19:08,460
+Ja, bitte schön.
+
+229
+00:19:08,460 --> 00:19:11,460
+Schwinder, wie ist das Herzdich?
+
+230
+00:19:11,460 --> 00:19:14,460
+Ist das Drehen, ein Karussel,
+
+231
+00:19:14,460 --> 00:19:17,460
+oder schwanken Sie wie auf dem Schiff?
+
+232
+00:19:17,460 --> 00:19:20,460
+Ich kann mein Schwinder so beschreiben.
+
+233
+00:19:20,460 --> 00:19:24,900
+Ich bin stabil, wo ich aufstehe.
+
+234
+00:19:24,900 --> 00:19:26,900
+Aber ich bin stabil,
+
+235
+00:19:26,900 --> 00:19:29,900
+wo ich aufstehe.
+
+236
+00:19:29,900 --> 00:19:32,900
+Aber alle Sachen, alle Möbeln,
+
+237
+00:19:32,900 --> 00:19:35,900
+irgendwie direkt um mich um.
+
+238
+00:19:35,900 --> 00:19:37,900
+Danke schön.
+
+239
+00:19:37,900 --> 00:19:39,900
+Haben Sie gekrampft,
+
+240
+00:19:39,900 --> 00:19:44,600
+während der Umkippung?
+
+241
+00:19:44,600 --> 00:19:49,980
+Meinen Sie Grippe, Erkältung oder so was?
+
+242
+00:19:49,980 --> 00:19:51,980
+Gekrampft.
+
+243
+00:19:51,980 --> 00:19:53,980
+Ah, nie, nie.
+
+244
+00:19:53,980 --> 00:19:55,980
+Ich habe keine Krämpfe.
+
+245
+00:19:55,980 --> 00:19:57,980
+Ich konnte nicht erinnern,
+
+246
+00:19:57,980 --> 00:20:00,980
+aber nachdem ich aufgewacht habe,
+
+247
+00:20:00,980 --> 00:20:03,980
+habe ich auch keine Schmerzen in der Musik.
+
+248
+00:20:03,980 --> 00:20:05,980
+Okay.
+
+249
+00:20:05,980 --> 00:20:10,980
+Haben Sie auch Geräusche oder Augen sitzten?
+
+250
+00:20:10,980 --> 00:20:13,980
+Das habe ich nicht bemerkt.
+
+251
+00:20:13,980 --> 00:20:16,980
+Nur sitzten, wie gesagt, in der Hände.
+
+252
+00:20:16,980 --> 00:20:19,980
+Hände? Ja.
+
+253
+00:20:19,980 --> 00:20:28,770
+Einmal für Schwachen,
+
+254
+00:20:28,770 --> 00:20:32,770
+einmal für zwei Wochen ein Schwindel
+
+255
+00:20:32,770 --> 00:20:36,770
+und heute Morgen einmal ein Schwindel.
+
+256
+00:20:36,770 --> 00:20:39,770
+Verstehe richtig?
+
+257
+00:20:39,770 --> 00:20:42,770
+Genau, vor zwei Wochen habe ich einen Attacker
+
+258
+00:20:42,770 --> 00:20:45,770
+mit den Kopern, wie sie geäußert haben.
+
+259
+00:20:45,770 --> 00:20:47,770
+Ich bin umgekippt.
+
+260
+00:20:47,770 --> 00:20:49,770
+Und jetzt, heute, wieder schwindelig
+
+261
+00:20:49,770 --> 00:20:52,770
+und wieder heiß rasen.
+
+262
+00:20:52,770 --> 00:20:55,770
+Was ist das zweite Attacker?
+
+263
+00:20:55,770 --> 00:20:58,770
+Ich habe heute einen Daumen,
+
+264
+00:20:58,770 --> 00:21:01,770
+die Schwindel, heute.
+
+265
+00:21:01,770 --> 00:21:04,770
+Heute etwa fünf, zehn Minuten.
+
+266
+00:21:04,770 --> 00:21:13,100
+Okay.
+
+267
+00:21:13,100 --> 00:21:15,100
+Noch andere Fragen?
+
+268
+00:21:15,100 --> 00:21:18,640
+Mein Kollege?
+
+269
+00:21:18,640 --> 00:21:24,860
+Keine.
+
+270
+00:21:24,860 --> 00:21:26,860
+Darf ich vorstellen?
+
+271
+00:21:26,860 --> 00:21:28,860
+Ja, bitte schön.
+
+272
+00:21:28,860 --> 00:21:30,860
+Okay.
+
+273
+00:21:30,860 --> 00:21:32,860
+Hallo, guten Tag.
+
+274
+00:21:32,860 --> 00:21:35,860
+Ich möchte heute eine Patientin vorstellen.
+
+275
+00:21:35,860 --> 00:21:41,860
+Es geht um eine 43-jährige Patientin,
+
+276
+00:21:41,860 --> 00:21:43,860
+Maya Müller.
+
+277
+00:21:43,860 --> 00:21:46,860
+Die Patientin sei 165 cm groß
+
+278
+00:21:46,860 --> 00:21:49,860
+und 71 kg schwer.
+
+279
+00:21:49,860 --> 00:21:52,860
+Die Patientin stellte sich bei uns
+
+280
+00:21:52,860 --> 00:21:55,860
+wegen seit zwei Tagen bestehende
+
+281
+00:21:55,860 --> 00:22:01,270
+Tachikardi und Vertigo.
+
+282
+00:22:01,270 --> 00:22:05,270
+Außerdem habe die Patientin
+
+283
+00:22:05,270 --> 00:22:11,270
+vor zwei Wochen solche Beschwerden erlitten.
+
+284
+00:22:11,270 --> 00:22:17,270
+Vor zwei Wochen habe die Patientin
+
+285
+00:22:17,270 --> 00:22:22,270
+sein Bewusstsein verloren und umgekippt.
+
+286
+00:22:22,270 --> 00:22:29,270
+Damals sei die Patientin beim Arzt gewesen
+
+287
+00:22:29,270 --> 00:22:34,270
+und ein EKG geschrieben worden sei.
+
+288
+00:22:34,270 --> 00:22:39,270
+Die Befunde von EKG sei unhafällig.
+
+289
+00:22:39,270 --> 00:22:44,270
+Außerdem klagte die Patientin über
+
+290
+00:22:44,270 --> 00:22:50,940
+alle Befunde unhafällig.
+
+291
+00:22:50,940 --> 00:22:54,940
+Nicht nur EKG, andere Laborwerte.
+
+292
+00:22:54,940 --> 00:22:58,940
+andere Laborwerte auch unhafällig.
+
+293
+00:22:59,940 --> 00:23:05,940
+Meine Oberarztin, ich verstehe richtig.
+
+294
+00:23:05,940 --> 00:23:07,940
+Ja, genau.
+
+295
+00:23:07,940 --> 00:23:10,940
+Die Patientin hat so geäußert.
+
+296
+00:23:10,940 --> 00:23:12,940
+In der Notaufnahme wurde keine
+
+297
+00:23:12,940 --> 00:23:14,940
+feste Diagnose festgestellt,
+
+298
+00:23:14,940 --> 00:23:17,940
+weil alle Untersuchungen unhafällig sind.
+
+299
+00:23:17,940 --> 00:23:22,940
+Aber die Patientin hat nur EKG richtig erinnert.
+
+300
+00:23:22,940 --> 00:23:27,940
+Ansonsten hat sie die Laboruntersuchung nicht gewusst.
+
+301
+00:23:27,940 --> 00:23:34,660
+Außerdem klagte die Patientin über
+
+302
+00:23:34,660 --> 00:23:41,660
+Tremor an den Händen, Allopäsi, Feuchterhaut
+
+303
+00:23:41,660 --> 00:23:49,010
+und Globusgefühl in dem Hals.
+
+304
+00:23:49,010 --> 00:23:53,010
+In der Vegetativannahmesie klagte die Patientin
+
+305
+00:23:53,010 --> 00:23:58,010
+über Fieberich und Hitzeintoleranz.
+
+306
+00:23:58,010 --> 00:24:03,010
+Aber die Patientin hat sein Fieber nicht gemessen.
+
+307
+00:24:03,010 --> 00:24:10,010
+Die Patientin hat die Hitzeintoleranz erwähnt.
+
+308
+00:24:10,010 --> 00:24:17,010
+Aber trotzdem hat die Patientin 5g
+
+309
+00:24:17,010 --> 00:24:26,010
+in der letzten 3 Wochen abgenommen.
+
+310
+00:24:26,010 --> 00:24:30,010
+Außerdem leidet die Patientin an Insomni
+
+311
+00:24:30,010 --> 00:24:35,010
+und vermehrte Stulfrequenz.
+
+312
+00:24:35,010 --> 00:24:39,010
+Die weitere vegetativen Annesen
+
+313
+00:24:39,010 --> 00:24:42,010
+sei unauffällig.
+
+314
+00:24:42,010 --> 00:24:44,010
+An Feuererkrankungen,
+
+315
+00:24:44,010 --> 00:24:46,010
+an bei der Patientin
+
+316
+00:24:46,010 --> 00:24:51,010
+keine bestimmte Erkrankungen bekannt.
+
+317
+00:24:51,010 --> 00:24:56,010
+Die Patientin sei mit 18. Lebensjahr
+
+318
+00:24:56,010 --> 00:25:07,010
+wegen einer Appendiktonie durchgeführt worden.
+
+319
+00:25:07,010 --> 00:25:10,010
+Die Patientin nehme bei Bedarf
+
+320
+00:25:10,010 --> 00:25:15,670
+Baldrian-Dragil gegen Insomni ein.
+
+321
+00:25:15,670 --> 00:25:21,670
+Frau Müller reagiert allergisch auf Pflaster.
+
+322
+00:25:21,670 --> 00:25:24,670
+Die allergische Reaktion äußere sich
+
+323
+00:25:24,670 --> 00:25:27,670
+durch Eisanten und Fieber.
+
+324
+00:25:27,670 --> 00:25:31,670
+Außerdem haben die Patientin
+
+325
+00:25:31,670 --> 00:25:33,670
+Neurologien und Verträglichkeit,
+
+326
+00:25:33,670 --> 00:25:38,670
+die so Magenschmerzen führt.
+
+327
+00:25:38,670 --> 00:25:43,980
+Frau Müller raucht seit
+
+328
+00:25:43,980 --> 00:25:49,980
+5. Lebensjahr.
+
+329
+00:25:49,980 --> 00:25:55,980
+Bis 25 Zigaretten pro Tag.
+
+330
+00:25:55,980 --> 00:25:58,980
+Sie trinken gelegentlich Alkohol,
+
+331
+00:25:58,980 --> 00:26:00,980
+Drogenkonsum wurde verneint.
+
+332
+00:26:00,980 --> 00:26:02,980
+Familien an einem Nestig
+
+333
+00:26:02,980 --> 00:26:05,980
+fanden sich Artellhypertonie
+
+334
+00:26:05,980 --> 00:26:07,980
+bei der Mutter
+
+335
+00:26:07,980 --> 00:26:13,230
+und Sepsis auf dem Boden
+
+336
+00:26:13,230 --> 00:26:17,230
+einer lungen Entzündung beim Vater.
+
+337
+00:26:17,230 --> 00:26:19,230
+Frau Müller habe keine Geschwister.
+
+338
+00:26:19,230 --> 00:26:22,230
+Sie sei ledig, habe keine Kinder.
+
+339
+00:26:22,230 --> 00:26:26,230
+Lebe mit ihren Freunden.
+
+340
+00:26:26,230 --> 00:26:29,230
+Sie arbeite als Lehrerin,
+
+341
+00:26:29,230 --> 00:26:32,230
+Mathe und Sportlehrerin.
+
+342
+00:26:32,230 --> 00:26:35,230
+Nach der erhobenen Anamnese
+
+343
+00:26:35,230 --> 00:26:39,230
+gehe ich von einem Verdacht auf Hypertriose.
+
+344
+00:26:39,230 --> 00:26:44,230
+Differenzialdiagnostisch kommen
+
+345
+00:26:44,230 --> 00:26:47,230
+Panikattack, Drogenentzug,
+
+346
+00:26:47,230 --> 00:26:50,230
+Hypoglychemia, Insulinoma,
+
+347
+00:26:50,230 --> 00:26:53,230
+in Betracht.
+
+348
+00:26:53,230 --> 00:26:56,230
+Zur weiteren Abkühlerung würde ich folgenden
+
+349
+00:26:56,230 --> 00:26:58,230
+Maßnahmen durchführen.
+
+350
+00:26:58,230 --> 00:27:00,230
+Als erstes würde ich die Patientin
+
+351
+00:27:00,230 --> 00:27:02,230
+förperlich untersuchen.
+
+352
+00:27:02,230 --> 00:27:05,230
+Ich inspitiere die Patientin,
+
+353
+00:27:05,230 --> 00:27:09,230
+ob sie Feuchterhaut,
+
+354
+00:27:09,230 --> 00:27:14,230
+Handtremme, hyperreflecht sie aufweist.
+
+355
+00:27:14,230 --> 00:27:18,230
+Außerdem, ich möchte den Heiß palpieren,
+
+356
+00:27:18,230 --> 00:27:21,230
+ob es Lymphodenopathie
+
+357
+00:27:21,230 --> 00:27:24,230
+oder beim Schilddrösen
+
+358
+00:27:24,230 --> 00:27:29,230
+eine Knoten oder Knoten gibt.
+
+359
+00:27:29,230 --> 00:27:34,960
+Die Labontar suchen könnte
+
+360
+00:27:34,960 --> 00:27:37,960
+manche wichtige Hinweisen liefern.
+
+361
+00:27:37,960 --> 00:27:41,960
+Im Labor sollten Schilddrösenwerte,
+
+362
+00:27:41,960 --> 00:27:45,960
+Blutbildentzündungparameter,
+
+363
+00:27:45,960 --> 00:27:54,340
+Blikoswerte überprüft werden.
+
+364
+00:27:54,340 --> 00:27:58,340
+Außerdem, zum
+
+365
+00:27:58,340 --> 00:28:00,340
+Ausschluss von Herzkrankheiten,
+
+366
+00:28:00,340 --> 00:28:03,340
+eine EKG geschrieben werden.
+
+367
+00:28:03,340 --> 00:28:07,340
+Um die Diagnose so sichern,
+
+368
+00:28:07,340 --> 00:28:10,340
+könnte Ultraschall
+
+369
+00:28:10,340 --> 00:28:14,340
+an den Halsbereich
+
+370
+00:28:14,340 --> 00:28:18,340
+erfolgt werden.
+
+371
+00:28:18,340 --> 00:28:22,780
+Wenn wir eine
+
+372
+00:28:22,780 --> 00:28:27,860
+Hyperteroise
+
+373
+00:28:27,860 --> 00:28:30,860
+feststellen,
+
+374
+00:28:30,860 --> 00:28:33,860
+sollten wir Therapie mit
+
+375
+00:28:33,860 --> 00:28:37,860
+Thyrostatika einsetzen.
+
+376
+00:28:37,860 --> 00:28:41,860
+Wir sind z.B.
+
+377
+00:28:41,860 --> 00:28:45,860
+Propyltyrocyl,
+
+378
+00:28:45,860 --> 00:28:49,860
+Metimazol, Carbimazol.
+
+379
+00:28:49,860 --> 00:28:53,860
+Außerdem könnte auch eine Beta-Bloco
+
+380
+00:28:53,860 --> 00:29:01,990
+sinnvoll werden.
+
+381
+00:29:01,990 --> 00:29:05,990
+Welche Schilddrösenhormone möchten Sie unterzogen?
+
+382
+00:29:05,990 --> 00:29:09,990
+TSH,
+
+383
+00:29:09,990 --> 00:29:13,990
+Freistee,
+
+384
+00:29:13,990 --> 00:29:17,990
+Freistee 4.
+
+385
+00:29:17,990 --> 00:29:20,990
+Bei der Hyperteroise erwarten wir
+
+386
+00:29:20,990 --> 00:29:23,990
+Primärhyperteroise, erwarten wir
+
+387
+00:29:23,990 --> 00:29:26,990
+Erniedrige TSH-Werte
+
+388
+00:29:26,990 --> 00:29:30,990
+und Vermehrte T3, T4-Werte.
+
+389
+00:29:30,990 --> 00:29:34,990
+Sie ist 43,
+
+390
+00:29:34,990 --> 00:29:39,750
+könnte es auch Autoimmun sein?
+
+391
+00:29:39,750 --> 00:29:42,750
+Ja, es könnte sein.
+
+392
+00:29:42,750 --> 00:29:45,750
+Aber am meisten
+
+393
+00:29:45,750 --> 00:29:48,750
+Morbus Basetto
+
+394
+00:29:48,750 --> 00:29:51,750
+verursacht eine Hyperteroise,
+
+395
+00:29:51,750 --> 00:29:54,750
+aber
+
+396
+00:29:54,750 --> 00:29:57,750
+Hoshimoto Tiroitis
+
+397
+00:29:57,750 --> 00:30:00,750
+könnte am Anfang auch Hyperteroise verursachen,
+
+398
+00:30:00,750 --> 00:30:03,750
+aber danach Hoshimoto Tiroitis
+
+399
+00:30:03,750 --> 00:30:06,750
+am meisten Hyperteroise verursacht.
+
+400
+00:30:06,750 --> 00:30:09,750
+Und wissen Sie,
+
+401
+00:30:09,750 --> 00:30:12,750
+welche Antikörpe bei der Schilddröse
+
+402
+00:30:12,750 --> 00:30:15,750
+untersuchen wir?
+
+403
+00:30:15,750 --> 00:30:18,750
+Ja, Sie haben recht.
+
+404
+00:30:18,750 --> 00:30:21,750
+Ich habe vergesst Antikörpe.
+
+405
+00:30:21,750 --> 00:30:24,750
+Bei Morbus Basetto
+
+406
+00:30:24,750 --> 00:30:27,750
+erwarten wir Erhörte
+
+407
+00:30:27,750 --> 00:30:43,070
+Egal, welche Tiroitis
+
+408
+00:30:43,070 --> 00:30:46,070
+könnte irgendwelche Antikörpe
+
+409
+00:30:46,070 --> 00:30:49,070
+im Blut auch ein bisschen erhöht sein?
+
+410
+00:30:49,070 --> 00:30:53,990
+Tiroperoxidase Antikörpe
+
+411
+00:30:53,990 --> 00:30:56,990
+Mitochondriallantikörpe vielleicht
+
+412
+00:30:56,990 --> 00:31:03,510
+auch.
+
+413
+00:31:03,510 --> 00:31:06,510
+Ja, ich habe auch im Kopf TREK,
+
+414
+00:31:06,510 --> 00:31:09,510
+aber wenn Sie fragen,
+
+415
+00:31:09,510 --> 00:31:13,760
+welche Abkürzung ist das,
+
+416
+00:31:13,760 --> 00:31:16,760
+ich kann auch nicht richtig sagen.
+
+417
+00:31:16,760 --> 00:31:19,760
+Troglobulin Antikörpe
+
+418
+00:31:19,760 --> 00:31:22,760
+kann ich auch nicht richtig sagen.
+
+419
+00:31:22,760 --> 00:31:24,760
+Troglobulin Antikörpe
+
+420
+00:31:24,760 --> 00:31:29,330
+Cirоидperoxidase Antikörpe
+
+421
+00:31:29,330 --> 00:31:32,330
+und TSA Resector Antikörpe
+
+422
+00:31:32,330 --> 00:31:35,330
+Ja, das ist TSA Resector Antikörpe, genau TREK
+
+423
+00:31:35,330 --> 00:31:38,330
+Ist das so?
+
+424
+00:31:38,330 --> 00:31:39,330
+Ja,
+
+425
+00:31:39,330 --> 00:31:45,620
+soll ich noch was fragen?
+
+426
+00:31:45,620 --> 00:31:54,180
+Ich würde etwas sagen.
+
+427
+00:31:54,180 --> 00:31:57,180
+Wenn Sie möchten,
+
+428
+00:31:57,180 --> 00:32:09,860
+Fiebrich ist auf Deutsch, dass die Patientin hat Fieber über 38. Die Patientin hat nicht
+
+429
+00:32:09,860 --> 00:32:14,580
+selbst gemessen, wir haben bisher nicht gemessen, deshalb könnten wir nicht sagen, die Patientin
+
+430
+00:32:14,580 --> 00:32:20,700
+ist Fiebrich. Wir könnten einfach sagen, die Patientin haben Hitzeintoleranz, Punkt.
+
+431
+00:32:21,020 --> 00:32:25,020
+Sonst, wir wissen nicht objektiv, wie viel Grad ist das aktuell.
+
+432
+00:32:27,580 --> 00:32:37,480
+Und Rauchnernamnese zum Beispiel, das ist nur eine Empfehlung. Sie können auch noch gute
+
+433
+00:32:37,480 --> 00:32:45,680
+Langsätze bilden, aber wenn sie rechnen, sie hat etwa 28 Jahre Rauchnernamnese, aktuell
+
+434
+00:32:45,680 --> 00:32:56,640
+Raucht und etwa ein Packungsjahr könnten wir sagen, sie ist fortführende Raucherin mit 28
+
+435
+00:32:56,640 --> 00:33:07,240
+Packers. Wenn man fragt, dann könnten wir einfach sagen, seit dem 15. Lebensjahr, aber das brauchen
+
+436
+00:33:07,240 --> 00:33:18,200
+wir nicht. Das, wie viele Packers ist für uns wichtig. Und Glucose in Deutsch auch akademisch
+
+437
+00:33:18,200 --> 00:33:27,120
+nicht verwendet wird, einfach Blutzucker. Das ist alltäglich, aber im Krankenhaus sagt man
+
+438
+00:33:27,120 --> 00:33:33,720
+auch Blutzucker, kein Glucose. Glucose ist nur als Infusion, was wir geben könnten.
+
+439
+00:33:35,750 --> 00:33:39,270
+Okay, wie sind Sie bei der Prüfung, wie sollen wir sagen?
+
+440
+00:33:39,790 --> 00:33:42,510
+Blutzucker. Okay. Es ist halt so.
+
+441
+00:33:43,230 --> 00:33:54,020
+Okay. Und auch, ja, wie gesagt, Sie könnten einfach sehr gute richtige Gesetze bilden und
+
+442
+00:33:54,020 --> 00:33:59,980
+auch mit Verbindungen wie außer dem Fernsehen oder sowas. Aber zum Beispiel bei 18.
+
+443
+00:33:59,980 --> 00:34:07,340
+Lebensjahr wurde sie appenduaktömmiert. Das sind sehr, sehr einfach und damit sie weniger
+
+444
+00:34:07,340 --> 00:34:14,620
+Fehler machen könnten. Ja, Sie haben recht. Ich habe so notiert, deswegen habe ich so
+
+445
+00:34:14,620 --> 00:34:18,740
+gesagt, aber ich habe falsch gesagt. Nur ein bisschen zusammenfassen, das ist auch
+
+446
+00:34:18,740 --> 00:34:26,700
+Zeit. Man kann einfach Zeit gewinnen oder sparen. Ja, Sie haben recht.
+
+447
+00:34:27,620 --> 00:34:36,170
+Okay. Ja. Vielen Dank. Das ist alles, was ich sagen möchte.
+
+448
+00:34:37,010 --> 00:34:40,370
+Für die Rückmeldung und für Ihr Zeit. Danke.

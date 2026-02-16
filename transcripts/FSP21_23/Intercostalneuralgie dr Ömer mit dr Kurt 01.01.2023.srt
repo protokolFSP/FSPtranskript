@@ -1,0 +1,3571 @@
+1
+00:00:00,240 --> 00:00:06,110
+Hallo.
+
+2
+00:00:06,110 --> 00:00:09,110
+Hallo, guten Tag. Ich stelle mich kurz vor.
+
+3
+00:00:09,110 --> 00:00:13,110
+Ich bin Dr. Kurt, Diensthabendarzt auf der Station.
+
+4
+00:00:13,110 --> 00:00:17,110
+Ich würde gerne mit Ihnen das Aufnahmegespräch führen,
+
+5
+00:00:17,110 --> 00:00:19,110
+wenn Sie damit einverstanden sind.
+
+6
+00:00:19,110 --> 00:00:22,110
+Ja, genannte Dr. Kurt, ja, natürlich.
+
+7
+00:00:22,110 --> 00:00:25,110
+Mein Name ist auch ähnlich.
+
+8
+00:00:25,110 --> 00:00:31,110
+Ich bräuchte einfach Informationen über Sie, bevor wir anfangen.
+
+9
+00:00:31,110 --> 00:00:33,110
+Okay.
+
+10
+00:00:33,110 --> 00:00:35,110
+Ja, gerne, natürlich.
+
+11
+00:00:35,110 --> 00:00:37,110
+Okay, gut. Wie heißen Sie bitte?
+
+12
+00:00:37,110 --> 00:00:41,700
+Mein Name ist Michael.
+
+13
+00:00:41,700 --> 00:00:43,700
+Michael.
+
+14
+00:00:43,700 --> 00:00:45,700
+Reis.
+
+15
+00:00:45,700 --> 00:00:47,700
+Reis, Michael Reis.
+
+16
+00:00:47,700 --> 00:00:49,700
+Reis, genau.
+
+17
+00:00:49,700 --> 00:00:51,700
+Okay, also Michael.
+
+18
+00:00:51,700 --> 00:00:54,700
+Am Ende E, B, E, mit und A, wie so?
+
+19
+00:00:54,700 --> 00:00:57,700
+Michael, also Martha Ida Caesar Heinrich.
+
+20
+00:00:57,700 --> 00:00:59,700
+Ja.
+
+21
+00:00:59,700 --> 00:01:01,700
+Anton Emil Ludwig.
+
+22
+00:01:01,700 --> 00:01:06,460
+Emil.
+
+23
+00:01:06,460 --> 00:01:10,460
+Und Nachnamen, können Sie bitte Ihr Nachname bestellen?
+
+24
+00:01:10,460 --> 00:01:13,460
+Mein Nachname ist Reis.
+
+25
+00:01:13,460 --> 00:01:20,460
+Richard Emil Ida Siegfried Siegfried.
+
+26
+00:01:20,460 --> 00:01:23,460
+Also am Ende Z.
+
+27
+00:01:23,460 --> 00:01:27,460
+S. Siegfried Siegfried, also S. Reis.
+
+28
+00:01:27,460 --> 00:01:29,460
+Okay, am Ende Dapoulas. Okay, vielen Dank.
+
+29
+00:01:29,460 --> 00:01:32,460
+Wie heißen Sie Herr Reis?
+
+30
+00:01:32,460 --> 00:01:35,460
+Ich bin 54 Jahre alt.
+
+31
+00:01:35,460 --> 00:01:38,460
+54 Jahre alt.
+
+32
+00:01:38,460 --> 00:01:42,460
+Bitte, dass Ihr Geburtstatum aufgeben.
+
+33
+00:01:42,460 --> 00:01:50,460
+Mein Geburtstatum ist 18. April 1968.
+
+34
+00:01:50,460 --> 00:01:55,460
+18. April 1968.
+
+35
+00:01:55,460 --> 00:01:57,460
+Ja.
+
+36
+00:01:57,460 --> 00:01:59,460
+Okay, wie heißen Sie?
+
+37
+00:01:59,460 --> 00:02:01,460
+Ich habe ein bisschen zu viel.
+
+38
+00:02:01,460 --> 00:02:03,460
+Ich habe im Moment 95 kg.
+
+39
+00:02:03,460 --> 00:02:05,460
+95 kg, okay.
+
+40
+00:02:05,460 --> 00:02:08,460
+Wie groß sind Sie, Herr Reis?
+
+41
+00:02:08,460 --> 00:02:15,460
+Ich glaube, als ich mich zuletzt gemessen habe, waren es 1 Meter 76.
+
+42
+00:02:15,460 --> 00:02:17,460
+6,76.
+
+43
+00:02:17,460 --> 00:02:19,460
+Vielen Dank für alle Informationen, Herr Reis.
+
+44
+00:02:19,460 --> 00:02:21,460
+Ja, was ist passiert?
+
+45
+00:02:21,460 --> 00:02:24,460
+Also, welcher Beschwerden führen Sie heute?
+
+46
+00:02:24,460 --> 00:02:28,460
+Herr Doktor Put, also seit 2 Tagen bekomme ich irgendwie schlechte Luft.
+
+47
+00:02:28,460 --> 00:02:32,460
+Wenn ich versuche, einzuatmen, dann klappt es nicht so.
+
+48
+00:02:32,460 --> 00:02:34,460
+Ja.
+
+49
+00:02:34,460 --> 00:02:36,460
+Okay, ich verstehe.
+
+50
+00:02:36,460 --> 00:02:40,460
+Seit 2 Tagen haben Sie schlechte Luft.
+
+51
+00:02:40,460 --> 00:02:42,460
+Ja.
+
+52
+00:02:42,460 --> 00:02:52,460
+Ja, wissen Sie, welchen Problem haben, wie zum Beispiel Erkältung oder so ähnlich?
+
+53
+00:02:52,460 --> 00:02:55,460
+Nein, Erkältung habe ich jetzt in letzter Zeit nicht gehabt.
+
+54
+00:02:55,460 --> 00:03:03,460
+Ich habe im Winter immer wieder Erkältungen, aber die letzte, die liegt jetzt seit 3 Monaten zurück.
+
+55
+00:03:03,460 --> 00:03:12,460
+Aber seit 2 Tagen merke ich, wenn ich versuche, etwas tiefer Luft zu holen, dann geht das nicht.
+
+56
+00:03:12,460 --> 00:03:17,460
+Okay, haben Sie Schmerzen beim Einatmen?
+
+57
+00:03:17,460 --> 00:03:22,460
+Was mir auffällt, ist, dass ich so an den linken Rippen...
+
+58
+00:03:22,460 --> 00:03:27,460
+Da tut es mir weh und das Strahl so ein bisschen nach vorne aus.
+
+59
+00:03:27,460 --> 00:03:35,460
+Und das heißt, jedes Mal, wenn ich suche, einzuatmen, dann sticht es auch dort, dann ist ein komisches Gefühl.
+
+60
+00:03:35,460 --> 00:03:38,460
+Also, stehende Gefühle.
+
+61
+00:03:38,460 --> 00:03:40,460
+Das ist ein Schmerzen, oder?
+
+62
+00:03:40,460 --> 00:03:43,460
+Nein, das ist schon ein richtiger Schmerz.
+
+63
+00:03:43,460 --> 00:03:45,460
+Schmerzen, okay.
+
+64
+00:03:45,460 --> 00:03:47,460
+Genau, ich kann dabei nicht einatmen.
+
+65
+00:03:47,460 --> 00:03:50,460
+Besonders am linken Seite, oder?
+
+66
+00:03:50,460 --> 00:03:52,460
+Am linken Seite, genau.
+
+67
+00:03:52,460 --> 00:03:54,460
+Okay, linken Seite.
+
+68
+00:03:54,460 --> 00:03:57,460
+Haben Sie einen Unfall gehabt, Herr Reis?
+
+69
+00:03:57,460 --> 00:04:00,460
+Nein.
+
+70
+00:04:00,460 --> 00:04:05,460
+Haben Sie Fieber oder Husten?
+
+71
+00:04:05,460 --> 00:04:07,460
+Fieber und Husten habe ich auch nicht.
+
+72
+00:04:07,460 --> 00:04:09,460
+Nicht? Okay.
+
+73
+00:04:09,460 --> 00:04:15,460
+Ja, und haben Sie Probleme beim Schlafen?
+
+74
+00:04:15,460 --> 00:04:19,460
+Nein, zu schlafen, das finde ich ganz gut.
+
+75
+00:04:19,460 --> 00:04:27,460
+Nein, aber wenn ich mich hinlege, dann ist es auch schwierig, etwas zu atmen.
+
+76
+00:04:27,460 --> 00:04:29,460
+Achso, okay.
+
+77
+00:04:29,460 --> 00:04:31,460
+Beim Hinleben...
+
+78
+00:04:31,460 --> 00:04:36,460
+Ich kann mich zum Beispiel nicht auf die linke Seite drehen.
+
+79
+00:04:36,460 --> 00:04:41,460
+Dann habe ich so ein Druckgefühl auf den Rippen.
+
+80
+00:04:41,460 --> 00:04:44,460
+Und dann kann ich auch nicht richtig einatmen.
+
+81
+00:04:44,460 --> 00:04:48,460
+Ich muss auf der rechten Seite schlafen.
+
+82
+00:04:48,460 --> 00:04:49,460
+Achso, okay.
+
+83
+00:04:49,460 --> 00:04:52,460
+Bei der linken Seite haben Sie Druckgefühl.
+
+84
+00:04:52,460 --> 00:04:55,460
+Das wird noch schlimmer.
+
+85
+00:04:55,460 --> 00:04:57,460
+Okay, das ist bestätigt.
+
+86
+00:04:57,460 --> 00:05:01,460
+Brauchen Sie zum Schlafen Kissen?
+
+87
+00:05:01,460 --> 00:05:07,460
+Nein, also ich schlafe eigentlich mit einem Kissen, und das reicht mir eigentlich.
+
+88
+00:05:07,460 --> 00:05:12,460
+Okay, Sie haben kein Husten, Sie haben kein Fieber.
+
+89
+00:05:12,460 --> 00:05:14,460
+Okay.
+
+90
+00:05:14,460 --> 00:05:19,460
+Haben Sie noch andere Beschwerden?
+
+91
+00:05:19,460 --> 00:05:23,460
+Ja gut, ich habe immer wieder auch mal so ein bisschen Rückenschmerzen.
+
+92
+00:05:23,460 --> 00:05:25,460
+Das ist aber fast schon chronisch bei mir.
+
+93
+00:05:25,460 --> 00:05:27,460
+Rückenschmerzen seit wann?
+
+94
+00:05:27,460 --> 00:05:30,460
+Auch das habe ich seit Jahren immer wieder.
+
+95
+00:05:30,460 --> 00:05:32,460
+Seit Jahren.
+
+96
+00:05:32,460 --> 00:05:35,460
+Okay, okay.
+
+97
+00:05:35,460 --> 00:05:45,460
+Gut, und ja, haben Sie, leiden Sie unter Nachtschweiß oder?
+
+98
+00:05:45,460 --> 00:05:48,460
+Was meinen Sie mit Nachtschweiß?
+
+99
+00:05:48,460 --> 00:05:53,460
+Also ja, schwitzen Sie beim Schlafen.
+
+100
+00:05:53,460 --> 00:05:56,460
+Achso, nein, nein, nein, das nicht.
+
+101
+00:05:56,460 --> 00:05:58,460
+Kein Problem.
+
+102
+00:05:58,460 --> 00:06:02,460
+Aber ich habe halt immer wieder mal Magenschmerzen,
+
+103
+00:06:02,460 --> 00:06:07,460
+Gastritis und Sod brennen, und da muss ich immer wieder mal Tabletten nehmen.
+
+104
+00:06:07,460 --> 00:06:10,460
+Okay, Magenschmerzen und Sod brennen.
+
+105
+00:06:10,460 --> 00:06:13,460
+Seit wann haben Sie diese Beschwerden?
+
+106
+00:06:13,460 --> 00:06:15,460
+Auch das ist auch schon seit Jahren immer wieder.
+
+107
+00:06:15,460 --> 00:06:17,460
+Auch seit Jahren.
+
+108
+00:06:17,460 --> 00:06:21,460
+Ja, ich habe da öfters auch schon eine Magenspiegelung gehabt.
+
+109
+00:06:21,460 --> 00:06:22,460
+Achso.
+
+110
+00:06:22,460 --> 00:06:27,460
+Und da hieß es immer, das ist ein Gastritis.
+
+111
+00:06:27,460 --> 00:06:31,460
+Ganz am Anfang hatte ich auch so Bakterien im Magen.
+
+112
+00:06:31,460 --> 00:06:34,460
+Da habe ich Antibiotika bekommen.
+
+113
+00:06:34,460 --> 00:06:38,460
+Aber trotzdem habe ich immer wieder so Magenschmerzen.
+
+114
+00:06:38,460 --> 00:06:39,460
+Okay, okay.
+
+115
+00:06:39,460 --> 00:06:42,460
+Aber aktuell ist es gesund oder?
+
+116
+00:06:42,460 --> 00:06:44,460
+Im Moment geht es mit dem Magen.
+
+117
+00:06:44,460 --> 00:06:46,460
+Das ist jetzt nicht so schlimm.
+
+118
+00:06:46,460 --> 00:06:48,460
+Da nehme ich auch Medikamente ein.
+
+119
+00:06:48,460 --> 00:06:50,460
+Das hilft mir ganz gut.
+
+120
+00:06:50,460 --> 00:06:52,460
+Aber es ist eher die Luft.
+
+121
+00:06:52,460 --> 00:06:55,460
+Also ich kriege dann immer auch so eine Art.
+
+122
+00:06:55,460 --> 00:06:57,460
+Aber ich habe richtig verstanden,
+
+123
+00:06:57,460 --> 00:07:02,460
+dass ich die Beschwerden Antibiotika einnehme.
+
+124
+00:07:02,460 --> 00:07:05,460
+Ich nehme für den Magen Medikamente ein.
+
+125
+00:07:05,460 --> 00:07:10,460
+Okay, Sie haben das eingenommen, das wurde behandelt.
+
+126
+00:07:10,460 --> 00:07:14,460
+Ja, vor vielen Jahren habe ich immer ein Antibiotika eingenommen.
+
+127
+00:07:14,460 --> 00:07:17,460
+Da hieß es nach einer Magenspiegelung,
+
+128
+00:07:17,460 --> 00:07:19,460
+dass ich Bakterien habe.
+
+129
+00:07:19,460 --> 00:07:21,460
+Aber das war vor zehn Jahren.
+
+130
+00:07:21,460 --> 00:07:23,460
+Okay, okay, gut.
+
+131
+00:07:23,460 --> 00:07:27,460
+Herr Reis und also jetzt möchte ich über Ihren allgemeinsten Stand
+
+132
+00:07:27,460 --> 00:07:29,460
+einige Fragen stellen.
+
+133
+00:07:29,460 --> 00:07:33,460
+Haben Sie Probleme beim Wasserlasten, Stuhlgang?
+
+134
+00:07:33,460 --> 00:07:35,460
+Nein, das ist in Ordnung.
+
+135
+00:07:35,460 --> 00:07:38,460
+Da habe ich bisher glücklicherweise keine Probleme.
+
+136
+00:07:38,460 --> 00:07:42,460
+Okay, und da sind Sie schwindelig oder haben Sie überwältigt?
+
+137
+00:07:42,460 --> 00:07:44,460
+Nein, kein Problem.
+
+138
+00:07:44,460 --> 00:07:46,460
+Okay, ja.
+
+139
+00:07:46,460 --> 00:07:51,460
+Und möchtest du noch andere Beschwerden hinzufügen?
+
+140
+00:07:51,460 --> 00:07:56,460
+Das reicht, Roteinachs, mehr will ich nicht haben.
+
+141
+00:07:56,460 --> 00:08:01,460
+Ja, das ist, ja, ich glaube so.
+
+142
+00:08:01,460 --> 00:08:03,460
+Okay, gut.
+
+143
+00:08:03,460 --> 00:08:05,460
+Und jetzt vor Erkrankungen.
+
+144
+00:08:05,460 --> 00:08:08,460
+Haben Sie irgendwelche Vorerkrankungen?
+
+145
+00:08:08,460 --> 00:08:12,460
+Also ich habe einen hohen Blutdruck.
+
+146
+00:08:12,460 --> 00:08:14,460
+Blutdruck, blutdruck.
+
+147
+00:08:14,460 --> 00:08:16,460
+Und dann nehme ich zwei Medikamente ein.
+
+148
+00:08:16,460 --> 00:08:18,460
+Okay.
+
+149
+00:08:18,460 --> 00:08:22,460
+Seit wann erleiden Sie?
+
+150
+00:08:22,460 --> 00:08:26,460
+Der Blutdruck, ach so, ja, so seit circa seit fünf Jahren
+
+151
+00:08:26,460 --> 00:08:28,460
+nehme ich da Medikamente.
+
+152
+00:08:28,460 --> 00:08:31,460
+Seit fünf Jahren wählen Medikamente nehmen Sie ein, wissen Sie?
+
+153
+00:08:31,460 --> 00:08:33,460
+Oh, da muss ich nochmal nachschauen.
+
+154
+00:08:33,460 --> 00:08:38,460
+Als ich glaube, das eine nennt sich Bisoprolol.
+
+155
+00:08:38,460 --> 00:08:43,460
+Bisoprol, 5 Milligramm.
+
+156
+00:08:43,460 --> 00:08:47,460
+Bisoprolol, B-I-Z-O.
+
+157
+00:08:47,460 --> 00:08:49,460
+Bisoprolol, 5 Milligramm.
+
+158
+00:08:49,460 --> 00:08:51,460
+Okay, wie oft?
+
+159
+00:08:51,460 --> 00:08:53,460
+Einmal am Morgen.
+
+160
+00:08:53,460 --> 00:08:55,460
+Einmal am Morgen.
+
+161
+00:08:55,460 --> 00:08:56,460
+Genau.
+
+162
+00:08:56,460 --> 00:09:03,460
+Und dann habe ich noch eine Kandesartan, 16 Milligramm.
+
+163
+00:09:03,460 --> 00:09:05,460
+Kandesartan.
+
+164
+00:09:05,460 --> 00:09:07,460
+Ja.
+
+165
+00:09:07,460 --> 00:09:09,460
+Wie viel Milligramm?
+
+166
+00:09:09,460 --> 00:09:11,460
+16 Milligramm.
+
+167
+00:09:11,460 --> 00:09:13,460
+6 Milligramm.
+
+168
+00:09:13,460 --> 00:09:15,460
+6 Milligramm.
+
+169
+00:09:15,460 --> 00:09:17,460
+6 Milligramm.
+
+170
+00:09:17,460 --> 00:09:19,460
+16 Milligramm.
+
+171
+00:09:19,460 --> 00:09:21,460
+Okay.
+
+172
+00:09:21,460 --> 00:09:23,460
+Wie oft?
+
+173
+00:09:23,460 --> 00:09:26,460
+Das nehme ich einmal am Abend.
+
+174
+00:09:26,460 --> 00:09:28,460
+Einmal am Abend.
+
+175
+00:09:28,460 --> 00:09:30,460
+Okay.
+
+176
+00:09:30,460 --> 00:09:33,460
+Der Blutdruck stellt gut ein, oder?
+
+177
+00:09:33,460 --> 00:09:36,460
+Haben Sie irgendwelche Probleme?
+
+178
+00:09:36,460 --> 00:09:39,460
+Also der Hausarzt meint, das ist gut eingestellt.
+
+179
+00:09:39,460 --> 00:09:41,460
+Okay, sehr gut.
+
+180
+00:09:41,460 --> 00:09:43,460
+Und noch andere Vorerkrankungen.
+
+181
+00:09:43,460 --> 00:09:45,460
+Also, ja, mein Hausarzt macht das.
+
+182
+00:09:45,460 --> 00:09:49,460
+Nein, glücklicherweise habe ich jetzt bisher keinen Herzinfarkt gehabt.
+
+183
+00:09:49,460 --> 00:09:53,460
+In den Laboruntersuchungen, die mein Hausarzt macht,
+
+184
+00:09:53,460 --> 00:09:56,460
+waren die Zuckerwerte bisher auch immer in Ordnung.
+
+185
+00:09:56,460 --> 00:10:02,460
+Aber der Hausarzt sagt, der mein Cholesterin ist zu hoch
+
+186
+00:10:02,460 --> 00:10:06,460
+und der will, dass ich Medikamente nehme, aber ich will das nicht.
+
+187
+00:10:06,460 --> 00:10:08,460
+Achso, okay.
+
+188
+00:10:08,460 --> 00:10:13,460
+Wann wurde erhört, der Cholesterin festgestellt?
+
+189
+00:10:13,460 --> 00:10:15,460
+Also wissen Sie?
+
+190
+00:10:15,460 --> 00:10:18,460
+Ach gut, das ist uns auch seit vielen Jahren.
+
+191
+00:10:18,460 --> 00:10:21,460
+Ich glaube auch schon seit sechs, sieben Jahren.
+
+192
+00:10:21,460 --> 00:10:23,460
+Okay.
+
+193
+00:10:23,460 --> 00:10:27,460
+Nehmen Sie dagegen irgendwelche Medikamente ein?
+
+194
+00:10:27,460 --> 00:10:29,460
+Oder nur?
+
+195
+00:10:29,460 --> 00:10:31,460
+Nein, ich habe ja gerade gesagt,
+
+196
+00:10:31,460 --> 00:10:34,460
+mein Hausarzt will mir Medikamente geben.
+
+197
+00:10:34,460 --> 00:10:37,460
+Nein, mein Hausarzt will mir Medikamente gegen Cholesterin geben.
+
+198
+00:10:37,460 --> 00:10:40,460
+Aber ich will keine Medikamente.
+
+199
+00:10:40,460 --> 00:10:44,460
+Okay, Sie benutzen nicht die Medikamente.
+
+200
+00:10:44,460 --> 00:10:48,460
+Ich benutze gegen Cholesterin die Medikamente nicht.
+
+201
+00:10:48,460 --> 00:10:50,460
+Okay, wer hat Medikamente?
+
+202
+00:10:50,460 --> 00:10:52,460
+Gegen Cholesterin.
+
+203
+00:10:52,460 --> 00:10:54,460
+Er will mir gegen Cholesterin Medikamente geben,
+
+204
+00:10:54,460 --> 00:10:56,460
+aber die nehme ich nicht ein.
+
+205
+00:10:56,460 --> 00:11:00,460
+Sie möchte nicht Medikamente einnehmen.
+
+206
+00:11:00,460 --> 00:11:03,460
+Genau, gegen Cholesterin nehme ich keine Medikamente.
+
+207
+00:11:03,460 --> 00:11:09,460
+Okay, also das heißt, seit sechs Jahren stellt die Erhörte-Cholesterin nicht ein, oder?
+
+208
+00:11:09,460 --> 00:11:11,460
+Also Sie benutzen nicht Medikamente?
+
+209
+00:11:11,460 --> 00:11:14,460
+Nein, genau. Es ist nicht eingestellt.
+
+210
+00:11:14,460 --> 00:11:18,460
+Ach so, okay. Warum möchten Sie die Medikamente?
+
+211
+00:11:18,460 --> 00:11:21,460
+Ja, ich habe gehört von meinen Nachbarn und Freunden,
+
+212
+00:11:21,460 --> 00:11:24,460
+dass das Nebenwirkungen machen kann
+
+213
+00:11:24,460 --> 00:11:27,460
+und dass diese Medikamente nicht so gut sind.
+
+214
+00:11:27,460 --> 00:11:30,460
+Da habe ich Angst, deswegen will ich das nicht.
+
+215
+00:11:30,460 --> 00:11:34,460
+Also ich habe gehört, dass die Erhörte-Buletfetwerte gegen
+
+216
+00:11:34,460 --> 00:11:38,460
+eine andere Erkrankung so schlägt.
+
+217
+00:11:38,460 --> 00:11:42,460
+Also um das zu sagen, dass sie so zolt sind.
+
+218
+00:11:42,460 --> 00:11:46,460
+Ja, Doktor, wenn Sie das so ansprechen,
+
+219
+00:11:46,460 --> 00:11:49,460
+gegen welche Erkrankungen ist es nicht so gut?
+
+220
+00:11:49,460 --> 00:11:51,460
+Oder was ist das Risiko?
+
+221
+00:11:51,460 --> 00:11:55,460
+Ja, das ist Risiko für die Zumba-Espiel, ja,
+
+222
+00:11:55,460 --> 00:11:58,460
+auch für die Myokartinfarkt.
+
+223
+00:11:58,460 --> 00:12:01,460
+Also Sie sind 54 Jahre alt,
+
+224
+00:12:01,460 --> 00:12:07,460
+dass verursacht, also Arteriskorps, also ich meine...
+
+225
+00:12:07,460 --> 00:12:09,460
+Arteriskolose, was ist das?
+
+226
+00:12:09,460 --> 00:12:12,460
+Ja, das ist Verkalkung.
+
+227
+00:12:12,460 --> 00:12:14,460
+Ah, okay.
+
+228
+00:12:14,460 --> 00:12:16,460
+Ja, das ist sehr gefährlich.
+
+229
+00:12:16,460 --> 00:12:21,460
+Und auch, dass verursacht Diabetes oder so ähnliche Symptome...
+
+230
+00:12:21,460 --> 00:12:24,460
+Kolesterin macht Diabetes?
+
+231
+00:12:24,460 --> 00:12:27,460
+Also nicht macht, aber das ist,
+
+232
+00:12:27,460 --> 00:12:30,460
+also komplexe Situation, verstehen Sie?
+
+233
+00:12:30,460 --> 00:12:33,460
+Und deshalb, Kolesterin-Werte,
+
+234
+00:12:33,460 --> 00:12:38,460
+Bulutochdruck und Bulutzuka-Werte, das ist sehr wichtig.
+
+235
+00:12:38,460 --> 00:12:41,460
+Also das sollte zusammenstellen.
+
+236
+00:12:41,460 --> 00:12:44,460
+Und deshalb sollten Sie auch darauf atmen.
+
+237
+00:12:44,460 --> 00:12:46,460
+Deshalb, nein.
+
+238
+00:12:46,460 --> 00:12:48,460
+Aber ich denke, ich bin auch zu jung, ja.
+
+239
+00:12:48,460 --> 00:12:51,460
+Also ich bin noch 54, ich möchte keinen nicht so viel,
+
+240
+00:12:51,460 --> 00:12:53,460
+weil die kann man geeinnehmen.
+
+241
+00:12:53,460 --> 00:12:56,460
+Ich würde gerne noch ein bisschen warten.
+
+242
+00:12:56,460 --> 00:12:59,460
+Ja, ja, ich verstehe Sie ganz genau Herr Reis.
+
+243
+00:12:59,460 --> 00:13:04,460
+Also Sie machen Angst gegen irgendwelche Nebenwirkungen, okay.
+
+244
+00:13:04,460 --> 00:13:08,460
+Ich habe Angst wegen den Nebenwirkungen.
+
+245
+00:13:08,460 --> 00:13:14,460
+Ja, ja, ich verstehe, aber ich habe Angst auch für Ihre Gesundheit.
+
+246
+00:13:14,460 --> 00:13:16,460
+Also noch andere Probleme.
+
+247
+00:13:16,460 --> 00:13:18,460
+Deshalb müssen wir nach dem Anamnese gesprochen,
+
+248
+00:13:18,460 --> 00:13:22,460
+noch ausführlich darüber sprechen, okay?
+
+249
+00:13:22,460 --> 00:13:24,460
+Das können wir gerne machen, ja.
+
+250
+00:13:24,460 --> 00:13:34,460
+Das ist Dr. Zanacci.
+
+251
+00:13:34,460 --> 00:13:41,460
+Siegfried Anton, Nordpol Anton, Tina Christoph Ida.
+
+252
+00:13:41,460 --> 00:13:44,460
+Zanacci.
+
+253
+00:13:44,460 --> 00:13:46,460
+Okay, okay.
+
+254
+00:13:46,460 --> 00:13:51,460
+Wo liegt Ihr Hausarzt?
+
+255
+00:13:51,460 --> 00:13:53,460
+Also wo ist die Stadt?
+
+256
+00:13:53,460 --> 00:13:55,460
+Wie bitte?
+
+257
+00:13:55,460 --> 00:13:57,460
+Wo genau?
+
+258
+00:13:57,460 --> 00:13:59,460
+Wo ist die Praxis?
+
+259
+00:13:59,460 --> 00:14:02,460
+Also ist es in Mannheim?
+
+260
+00:14:02,460 --> 00:14:04,460
+Mannheim.
+
+261
+00:14:04,460 --> 00:14:06,460
+Okay, okay.
+
+262
+00:14:06,460 --> 00:14:10,460
+Gut, ich spreche mit Ihrem Hausarzt und dann können wir auch über diese
+
+263
+00:14:10,460 --> 00:14:12,460
+Thema noch mal sprechen, okay?
+
+264
+00:14:12,460 --> 00:14:14,460
+Sie können gerne mit meinem Hausarzt reden,
+
+265
+00:14:14,460 --> 00:14:16,460
+ich bleibe dabei.
+
+266
+00:14:16,460 --> 00:14:19,460
+Das ist wichtig, also okay, Herr Reis.
+
+267
+00:14:19,460 --> 00:14:22,460
+Und noch andere Vorerkrankungen, also das ist alles
+
+268
+00:14:22,460 --> 00:14:25,460
+Polesterinwerte und Bluthoffdruck.
+
+269
+00:14:25,460 --> 00:14:28,460
+Ansonsten ist sobald bisher alles in Ordnung.
+
+270
+00:14:28,460 --> 00:14:30,460
+Okay, sehr gut.
+
+271
+00:14:30,460 --> 00:14:32,460
+Und sind Sie schon mal operiert worden, also,
+
+272
+00:14:32,460 --> 00:14:34,460
+ich meine Blinddarm oder Galaxie?
+
+273
+00:14:34,460 --> 00:14:38,460
+Ja, als Kind bin ich mal operiert worden, aber ansonsten...
+
+274
+00:14:38,460 --> 00:14:40,460
+Welche Operation hatten Sie?
+
+275
+00:14:40,460 --> 00:14:42,460
+Nicht erinnern.
+
+276
+00:14:42,460 --> 00:14:44,460
+Ja, der Blinddarm ist operiert worden.
+
+277
+00:14:44,460 --> 00:14:46,460
+Blinddarm operiert, okay.
+
+278
+00:14:46,460 --> 00:14:48,460
+Wie alt waren Sie?
+
+279
+00:14:48,460 --> 00:14:51,460
+Erinnern wahrscheinlich 12 Jahre alt oder so.
+
+280
+00:14:51,460 --> 00:14:53,460
+14 Jahre, okay.
+
+281
+00:14:53,460 --> 00:14:55,460
+Sind Sie diese Operation,
+
+282
+00:14:55,460 --> 00:14:57,460
+die Plikationslos, Verlaufnode?
+
+283
+00:14:57,460 --> 00:14:59,460
+Ich kann mich jetzt nicht erinnern,
+
+284
+00:14:59,460 --> 00:15:01,460
+ich kann mich jetzt nicht erinnern,
+
+285
+00:15:01,460 --> 00:15:03,460
+dass ich das noch nicht habe.
+
+286
+00:15:03,460 --> 00:15:05,460
+Okay, gut.
+
+287
+00:15:05,460 --> 00:15:07,460
+Noch andere Operation?
+
+288
+00:15:07,460 --> 00:15:09,460
+Nein, ich muss mich nicht.
+
+289
+00:15:09,460 --> 00:15:11,460
+Ja, jetzt Allergie, also Herr Reis?
+
+290
+00:15:11,460 --> 00:15:13,460
+Haben Sie ergehtwähl'allergie?
+
+291
+00:15:13,460 --> 00:15:15,460
+Ich meine, wie zum Beispiel
+
+292
+00:15:15,460 --> 00:15:17,460
+Kontrastmittlerallergie
+
+293
+00:15:17,460 --> 00:15:19,460
+oder Grazer, Polen,
+
+294
+00:15:19,460 --> 00:15:21,460
+Haustopmilbun?
+
+295
+00:15:21,460 --> 00:15:23,460
+Ja, ich bin gefühlt.
+
+296
+00:15:23,460 --> 00:15:25,460
+Ich bin gefühlt.
+
+297
+00:15:25,460 --> 00:15:27,460
+Ja, wirklich.
+
+298
+00:15:27,460 --> 00:15:29,460
+Ich bin gefühlt.
+
+299
+00:15:29,460 --> 00:15:31,460
+Ja, wie waren Sie?
+
+300
+00:15:31,460 --> 00:15:33,460
+Ich war gefühlt.
+
+301
+00:15:33,460 --> 00:15:35,460
+Ich war gefühlt.
+
+302
+00:15:35,460 --> 00:15:37,460
+Ich war gefühlt.
+
+303
+00:15:37,460 --> 00:15:46,460
+Wenn Sie mich so fragen, ich habe gegen einige Polen, die die Erle, Birke und Haselnuss.
+
+304
+00:15:46,460 --> 00:15:50,460
+Erle, Haselnuss und noch andere? Birke.
+
+305
+00:15:50,460 --> 00:15:55,460
+Birke, Polenalergien. Okay. Wie euch setzt sich die Allergien? Also wissen Sie?
+
+306
+00:15:55,460 --> 00:15:58,460
+Ja, da lasse mir die Nase, meine Augen brennen.
+
+307
+00:15:58,460 --> 00:16:00,460
+Nase, Augen brennen.
+
+308
+00:16:00,460 --> 00:16:03,460
+Medikamente und manchmal sogar auch in Sprechen nehmen.
+
+309
+00:16:03,460 --> 00:16:05,460
+Manchmal bekomme ich auch Schwerluft.
+
+310
+00:16:05,460 --> 00:16:07,460
+Und Luftnot.
+
+311
+00:16:07,460 --> 00:16:09,460
+Manchmal, ja.
+
+312
+00:16:09,460 --> 00:16:12,460
+Okay, Nase und Augen brennen und Luftnot.
+
+313
+00:16:12,460 --> 00:16:14,460
+Okay, welchen Medikament nehmen Sie dagegen?
+
+314
+00:16:14,460 --> 00:16:17,460
+Also, was mir gut hilft, ist dieses Zetirizin.
+
+315
+00:16:17,460 --> 00:16:19,460
+Zetirizin, okay.
+
+316
+00:16:19,460 --> 00:16:21,460
+Welche Dosierung wissen Sie?
+
+317
+00:16:21,460 --> 00:16:24,460
+Oh, das weiß ich nicht. Das ist eine Tablette, die hole ich aus dem Start.
+
+318
+00:16:24,460 --> 00:16:26,460
+Okay. Aber nur bei Bedarf.
+
+319
+00:16:26,460 --> 00:16:27,460
+Ja, ja.
+
+320
+00:16:27,460 --> 00:16:30,460
+Okay, gut und noch andere? Alergien?
+
+321
+00:16:30,460 --> 00:16:31,460
+Nein.
+
+322
+00:16:31,460 --> 00:16:34,460
+Nein, also Missuka, Missumba, Spil.
+
+323
+00:16:34,460 --> 00:16:36,460
+Ach so, nein, nein.
+
+324
+00:16:36,460 --> 00:16:42,460
+Ja, gut, ja. Können Sie mir sagen, ob Sie rauchen, Herr Reis?
+
+325
+00:16:42,460 --> 00:16:44,460
+Ich rauche nein.
+
+326
+00:16:44,460 --> 00:16:46,460
+Nie? Nein.
+
+327
+00:16:46,460 --> 00:16:48,460
+Sehr gut, sehr gut. Das gehört mich.
+
+328
+00:16:48,460 --> 00:16:50,460
+Also, dass Sie haben sehr gut gemacht.
+
+329
+00:16:50,460 --> 00:16:53,460
+Also, okay. Und trinken Sie Alkohol?
+
+330
+00:16:53,460 --> 00:16:54,460
+Manchmal, ja.
+
+331
+00:16:54,460 --> 00:16:57,460
+Manchmal. Was trinken Sie manchmal? Was meinen Sie?
+
+332
+00:16:57,460 --> 00:16:59,460
+Ich mag gerne Rotwein.
+
+333
+00:16:59,460 --> 00:17:01,460
+Rotwein, okay.
+
+334
+00:17:01,460 --> 00:17:05,460
+Ich habe manchmal auch ein Bier.
+
+335
+00:17:05,460 --> 00:17:08,460
+Bier, also, was meinst du?
+
+336
+00:17:08,460 --> 00:17:14,460
+Bei Noah Party oder am Wochenende oder Einglas oder Einflaschen?
+
+337
+00:17:14,460 --> 00:17:20,460
+Genau, also nicht immer heißt, wenn man mal zum Essen geht
+
+338
+00:17:20,460 --> 00:17:23,460
+oder bei einer Feierlichkeit.
+
+339
+00:17:23,460 --> 00:17:26,460
+Okay, Noah, zu bestimmten Anlässen.
+
+340
+00:17:26,460 --> 00:17:28,460
+Ja, genau.
+
+341
+00:17:29,460 --> 00:17:34,460
+Okay. Und ja, diese Frage ist, Routine Frage, Herr Reis.
+
+342
+00:17:34,460 --> 00:17:38,460
+Konsumieren Sie Drogen oder haben Sie davon?
+
+343
+00:17:38,460 --> 00:17:45,460
+Nein, also meine schlimmste Droge sind Chips und Schokokeks.
+
+344
+00:17:45,460 --> 00:17:47,460
+Ach so, okay.
+
+345
+00:17:47,460 --> 00:17:50,460
+Das ist für alle.
+
+346
+00:17:50,460 --> 00:17:51,460
+Andere.
+
+347
+00:17:51,460 --> 00:17:52,460
+Drogen habe ich jetzt nicht.
+
+348
+00:17:52,460 --> 00:17:53,460
+Okay, okay.
+
+349
+00:17:53,460 --> 00:17:55,460
+Das ist für mich, das geht auch für mich.
+
+350
+00:17:55,460 --> 00:17:57,460
+Ja, Sie machen keine Droge.
+
+351
+00:17:57,460 --> 00:18:01,460
+Und was machen Sie beruflich, Herr Reis?
+
+352
+00:18:01,460 --> 00:18:03,460
+Ich arbeite im Büro.
+
+353
+00:18:03,460 --> 00:18:04,460
+Büro.
+
+354
+00:18:04,460 --> 00:18:08,460
+Ja, ich bin Projektmanager.
+
+355
+00:18:08,460 --> 00:18:09,460
+Manager.
+
+356
+00:18:09,460 --> 00:18:11,460
+Projektmanager.
+
+357
+00:18:11,460 --> 00:18:12,460
+Okay.
+
+358
+00:18:12,460 --> 00:18:17,460
+Also Sie sitzen, also Sie haben eine sitzende Berufstätigkeit,
+
+359
+00:18:17,460 --> 00:18:18,460
+oder?
+
+360
+00:18:18,460 --> 00:18:20,460
+Ja, ich beweisen Sie im Büro, ja.
+
+361
+00:18:20,460 --> 00:18:21,460
+Okay, okay.
+
+362
+00:18:21,460 --> 00:18:24,460
+Leiden Sie unter Stress oder wie ist das?
+
+363
+00:18:24,460 --> 00:18:26,460
+Was haben wir genug gerade?
+
+364
+00:18:26,460 --> 00:18:29,460
+Also bei der Arbeit ist schon immer viel zu tun.
+
+365
+00:18:29,460 --> 00:18:33,460
+Okay, Sie sind damit so viel im Haus, kein Problem.
+
+366
+00:18:33,460 --> 00:18:34,460
+Das heißt, zufrieden wir.
+
+367
+00:18:34,460 --> 00:18:36,460
+Natürlich, ich liebe meine Arbeit.
+
+368
+00:18:36,460 --> 00:18:37,460
+Okay, sehr gut.
+
+369
+00:18:37,460 --> 00:18:39,460
+Okay, gut.
+
+370
+00:18:39,460 --> 00:18:41,460
+Sind Sie verheiratet?
+
+371
+00:18:41,460 --> 00:18:42,460
+Ja.
+
+372
+00:18:42,460 --> 00:18:45,460
+Okay, und haben Sie Kinder?
+
+373
+00:18:45,460 --> 00:18:47,460
+Wir haben zwei Kinder, ja.
+
+374
+00:18:47,460 --> 00:18:49,460
+Zwei Kinder, okay, sehr gut.
+
+375
+00:18:49,460 --> 00:18:51,460
+Sind Sie gesund?
+
+376
+00:18:51,460 --> 00:18:53,460
+Die Kinder meinen Sie?
+
+377
+00:18:53,460 --> 00:18:55,460
+Ja, ja, glückweise.
+
+378
+00:18:55,460 --> 00:18:59,460
+Die haben bisher keine Erkrankungen, die das ganz gut haben.
+
+379
+00:18:59,460 --> 00:19:01,460
+Okay, sehr gut.
+
+380
+00:19:01,460 --> 00:19:08,460
+Ja, also jetzt möchte ich, also die Familien am Nese ein gefragt stellen.
+
+381
+00:19:08,460 --> 00:19:11,460
+Also Leben, ihr erhält noch?
+
+382
+00:19:11,460 --> 00:19:13,460
+Meine Eltern leben noch, ja.
+
+383
+00:19:13,460 --> 00:19:17,460
+Sehr gut, sind Sie gesund, Vater, Mutter oder Schüttgeschwister?
+
+384
+00:19:17,460 --> 00:19:19,460
+Also denen geht es gut.
+
+385
+00:19:19,460 --> 00:19:23,460
+Ja, gut, ist ja immer so, natürlich haben Sie so Ihre kleinen Beweichen.
+
+386
+00:19:23,460 --> 00:19:26,460
+Bewege, ihr Vater oder?
+
+387
+00:19:26,460 --> 00:19:29,460
+Ja, also Sie haben so Ihre kleinen Beweichen,
+
+388
+00:19:29,460 --> 00:19:34,460
+also das heißt da, Sie haben Ihre Erkrankungen, aber Ihnen geht es gut.
+
+389
+00:19:34,460 --> 00:19:38,460
+Also welche Erkrankungen können Sie noch mal sagen, ich habe nicht gut gehört?
+
+390
+00:19:38,460 --> 00:19:46,460
+Mit Beweichen meint man, dass die kleine Erkrankungen haben, also Alterserscheinungen.
+
+391
+00:19:46,460 --> 00:19:50,460
+Was meine ich, wie hast du Probleme oder Lungenprobleme?
+
+392
+00:19:50,460 --> 00:19:53,460
+Wenn Sie mich aussprechen lassen, Herr Doktor, dann kann ich das auch sagen.
+
+393
+00:19:53,460 --> 00:19:55,460
+Sie unterbrechen mich die ganze Zeit, Doktor.
+
+394
+00:19:55,460 --> 00:19:58,460
+Sie müssen mir zeigen, dass ich sprechen kann.
+
+395
+00:19:58,460 --> 00:20:04,460
+Also mein Vater hat einen hohen Blutdruck, nimmt auch Medikamente.
+
+396
+00:20:04,460 --> 00:20:05,460
+Okay.
+
+397
+00:20:05,460 --> 00:20:08,460
+Und er hat schon langsam auch so ein bisschen Knieprobleme.
+
+398
+00:20:08,460 --> 00:20:13,460
+Das heißt, er zeigt oder so, dann hat er Schmerzen.
+
+399
+00:20:13,460 --> 00:20:17,460
+Und die Augen sehen wohl auch nicht mehr so gut.
+
+400
+00:20:17,460 --> 00:20:20,460
+Er meint, dass er bald operiert werden muss.
+
+401
+00:20:20,460 --> 00:20:22,460
+Operiert werden muss, okay.
+
+402
+00:20:22,460 --> 00:20:31,460
+Ja, und meine Mutter leidet schon seit vielen, vielen Jahren über chronische Darmprobleme.
+
+403
+00:20:31,460 --> 00:20:36,460
+Das heißt, sie muss da manchmal Medikamente nehmen.
+
+404
+00:20:36,460 --> 00:20:42,460
+Sie hat oft auch Stopfungen und Verdauungsprobleme.
+
+405
+00:20:42,460 --> 00:20:45,460
+Okay, das ist verständlich.
+
+406
+00:20:45,460 --> 00:20:47,460
+Okay, gut.
+
+407
+00:20:47,460 --> 00:20:53,460
+Also Knieprobleme haben Sie gesagt, also, was meine ich, das ist ein Entzündung?
+
+408
+00:20:53,460 --> 00:20:57,460
+Wahrscheinlich Arthrose.
+
+409
+00:20:57,460 --> 00:20:59,460
+Okay, okay.
+
+410
+00:20:59,460 --> 00:21:03,460
+Und Blutdruck, um seit wann hat Ihr Vater?
+
+411
+00:21:03,460 --> 00:21:08,460
+Das weiß ich jetzt, das ist auch schon, glaube ich, seit 30 Jahren.
+
+412
+00:21:08,460 --> 00:21:10,460
+Okay, und Augenprobleme?
+
+413
+00:21:10,460 --> 00:21:14,460
+Das ist ein, also Grauesteuer oder Grünesteuer oder wegen der Arthrose?
+
+414
+00:21:14,460 --> 00:21:16,460
+Da bin ich jetzt überfragt.
+
+415
+00:21:16,460 --> 00:21:17,460
+Okay, okay.
+
+416
+00:21:17,460 --> 00:21:19,460
+Meint, dass er bald operiert werden muss.
+
+417
+00:21:19,460 --> 00:21:22,460
+Aber ich glaube, das war der Grauesteuer, was er hat.
+
+418
+00:21:22,460 --> 00:21:24,460
+Grauesteuer, okay.
+
+419
+00:21:24,460 --> 00:21:27,460
+Aber noch nicht operiert worden, also eine Planung.
+
+420
+00:21:27,460 --> 00:21:29,460
+Nee, das ist noch geplant.
+
+421
+00:21:29,460 --> 00:21:30,460
+Es steht noch an.
+
+422
+00:21:30,460 --> 00:21:31,460
+Okay, okay.
+
+423
+00:21:31,460 --> 00:21:33,460
+Gute Besserung, also Info raus.
+
+424
+00:21:33,460 --> 00:21:34,460
+Danke.
+
+425
+00:21:34,460 --> 00:21:39,460
+Und, okay, und chronische Darmprobleme hat die Mutter, also was meinen Sie,
+
+426
+00:21:39,460 --> 00:21:43,460
+das ist ein Krebs oder ein Gutartgetüme oder Entzündung?
+
+427
+00:21:43,460 --> 00:21:46,460
+Nein, wo hat sie jetzt nicht, das habe ich nicht gesagt.
+
+428
+00:21:46,460 --> 00:21:49,460
+Sie hat einfach nur Darmprobleme, sie hat Verstopfungen,
+
+429
+00:21:49,460 --> 00:21:53,460
+Blähungen und nicht mehr Nehentriff.
+
+430
+00:21:53,460 --> 00:21:57,460
+Ja, gut, manchmal ist es schon schlimm für Sie, also Sie hat da manchmal Schmerzen.
+
+431
+00:21:57,460 --> 00:21:58,460
+Okay, okay.
+
+432
+00:21:58,460 --> 00:22:00,460
+Das geht so nicht so gut.
+
+433
+00:22:00,460 --> 00:22:03,460
+Ja, okay, noch möchte ich eine Frage stellen.
+
+434
+00:22:03,460 --> 00:22:05,460
+Haben Sie Geschwister?
+
+435
+00:22:05,460 --> 00:22:07,460
+Ich habe noch eine Schwester, ja.
+
+436
+00:22:07,460 --> 00:22:09,460
+Okay, ist sie gesund?
+
+437
+00:22:09,460 --> 00:22:14,460
+Ich muss mal überlegen, soweit ich weiß, hat sie jetzt keine Beschwerden?
+
+438
+00:22:14,460 --> 00:22:15,460
+Nein.
+
+439
+00:22:15,460 --> 00:22:17,460
+Keine Beschwerden.
+
+440
+00:22:17,460 --> 00:22:18,460
+Mhm.
+
+441
+00:22:18,460 --> 00:22:23,460
+Gut, ja, also Herr Reis, ich denke, ich habe erst alle für mich
+
+442
+00:22:23,460 --> 00:22:25,460
+die wichtige Fragen gestellt.
+
+443
+00:22:25,460 --> 00:22:27,460
+Sie haben aber viele Fragen heute gestellt.
+
+444
+00:22:27,460 --> 00:22:33,460
+Aber für sie gesund, um eine richtige Diagnose stellen zu können,
+
+445
+00:22:33,460 --> 00:22:35,460
+ist das sehr wichtig.
+
+446
+00:22:35,460 --> 00:22:39,460
+Ja, und wissen Sie schon, warum ich jetzt diese Luftnot habe?
+
+447
+00:22:39,460 --> 00:22:45,460
+Ja, das ist, ja, bisher haben Sie so viele Informationen gegeben.
+
+448
+00:22:45,460 --> 00:22:49,460
+Das ist richtig, Herr Reis, aber das ist nicht genug.
+
+449
+00:22:49,460 --> 00:22:51,460
+Immer noch nicht genug?
+
+450
+00:22:51,460 --> 00:22:54,460
+Ja, leider, das ist nur eine Anamnese gesprungen.
+
+451
+00:22:54,460 --> 00:23:02,460
+Natürlich habe ich eine Verdastdiagnose, aber jetzt kann ich nicht so viel sagen, okay?
+
+452
+00:23:02,460 --> 00:23:15,460
+Das ist nicht bestimmte Symptome, also eine Diagnose entscheidend zu treffen.
+
+453
+00:23:15,460 --> 00:23:21,460
+Aber ja, ich möchte Sie zuerst die Körperunterzüge, okay?
+
+454
+00:23:21,460 --> 00:23:22,460
+Okay.
+
+455
+00:23:22,460 --> 00:23:26,460
+Danach mache ich eine Leberuntersuch.
+
+456
+00:23:26,460 --> 00:23:29,460
+Ein Kollege wird bei Ihnen mit der Luft abnehmen, okay?
+
+457
+00:23:29,460 --> 00:23:31,460
+Ja, das ist okay, das finde ich gut.
+
+458
+00:23:31,460 --> 00:23:33,460
+Ja, gut.
+
+459
+00:23:33,460 --> 00:23:39,460
+Dann, ja, es sollte ein Rundgenaufnahme gegebenenfalls Komfortatomographie,
+
+460
+00:23:39,460 --> 00:23:41,460
+vielleicht MRT.
+
+461
+00:23:41,460 --> 00:23:44,460
+Ach Gott, das machen Sie alles heute Abend, oder?
+
+462
+00:23:44,460 --> 00:23:47,460
+Es kommt darauf an, also Herr Reis.
+
+463
+00:23:47,460 --> 00:23:57,460
+Ich möchte Sie zuerst die Körperunterzüge, ja, dann sprechen wir noch darüber, okay?
+
+464
+00:23:57,460 --> 00:24:01,460
+Aber natürlich, ich spreche mit meinem Oberst dann.
+
+465
+00:24:01,460 --> 00:24:04,460
+Aber ich muss nicht im Krankenhaus bleiben, oder?
+
+466
+00:24:04,460 --> 00:24:06,460
+Weil ich will nicht im Krankenhaus bleiben.
+
+467
+00:24:06,460 --> 00:24:11,460
+Ja, also, ich denke ja, aber es kann sein.
+
+468
+00:24:11,460 --> 00:24:12,460
+Ja, auch.
+
+469
+00:24:12,460 --> 00:24:14,460
+Ich möchte nicht im Krankenhaus bleiben.
+
+470
+00:24:14,460 --> 00:24:16,460
+Nein.
+
+471
+00:24:16,460 --> 00:24:20,460
+Ja, ja, aber wenn es ist, wenn es ist,
+
+472
+00:24:20,460 --> 00:24:25,460
+ich möchte nicht im Krankenhaus bleiben.
+
+473
+00:24:25,460 --> 00:24:27,460
+Korona ist überall, also.
+
+474
+00:24:27,460 --> 00:24:29,460
+Ja, deswegen.
+
+475
+00:24:29,460 --> 00:24:31,460
+Ich mache mir schon Sorgen, meine Frau.
+
+476
+00:24:31,460 --> 00:24:33,460
+Ja, ja, ja.
+
+477
+00:24:33,460 --> 00:24:40,460
+Sie waren hier in diesem Krankenhaus, sie musste an einem Leisten beruf operiert werden,
+
+478
+00:24:40,460 --> 00:24:43,460
+und dann hat sie im Krankenhaus Korona bekommen, also.
+
+479
+00:24:43,460 --> 00:24:45,460
+Ja, das ist möglich.
+
+480
+00:24:45,460 --> 00:24:51,460
+Aber wie ich gesagt habe, ist das Risiko, also die Städte, das Risiko überall,
+
+481
+00:24:51,460 --> 00:24:53,460
+also auch draußen, auch draußen,
+
+482
+00:24:53,460 --> 00:24:57,460
+das Risiko, das Risiko, das Risiko, das Risiko, das Risiko, das Risiko,
+
+483
+00:24:57,460 --> 00:25:01,460
+das Risiko, das Risiko, das Risiko, das Risiko, das Risiko, das Risiko,
+
+484
+00:25:01,460 --> 00:25:05,460
+das Risiko überall, also auch draußen, auch Hause, auch kann, kann,
+
+485
+00:25:05,460 --> 00:25:06,460
+okay.
+
+486
+00:25:06,460 --> 00:25:09,460
+Ja, das ist mir schon klar, aber wenn ich es nicht sagen muss,
+
+487
+00:25:09,460 --> 00:25:11,460
+möchte ich nicht gerne im Krankenhaus bleiben.
+
+488
+00:25:11,460 --> 00:25:12,460
+Ja, ja, okay.
+
+489
+00:25:12,460 --> 00:25:16,460
+Ich werde Ihnen sehr dankbar, wenn Sie feststellen können,
+
+490
+00:25:16,460 --> 00:25:20,460
+was ich habe, und ich würde dann schon gerne nach Hause gehen wollen.
+
+491
+00:25:20,460 --> 00:25:24,460
+Okay, gut, also dann können wir noch mal spielen, okay?
+
+492
+00:25:24,460 --> 00:25:25,460
+Okay.
+
+493
+00:25:25,460 --> 00:25:27,460
+Jetzt machen wir einige Unterzugs.
+
+494
+00:25:27,460 --> 00:25:31,460
+Aber ja, wenn Sie nicht möchten, natürlich, also haben Sie recht,
+
+495
+00:25:31,460 --> 00:25:37,460
+also mit einem Papier diese Untersuchung ablehnen, also das ist kein Problem.
+
+496
+00:25:37,460 --> 00:25:43,460
+Okay, aber ich empfehle Ihnen, die Untersuchungen lehne ich nicht ab.
+
+497
+00:25:43,460 --> 00:25:46,460
+Ich sage nur, dass ich nicht gerne im Krankenhaus bleiben möchte,
+
+498
+00:25:46,460 --> 00:25:47,460
+wenn ich da meine.
+
+499
+00:25:47,460 --> 00:25:50,460
+Okay, okay, ich verstehe also, ich meine nach der Untersuchung,
+
+500
+00:25:50,460 --> 00:25:56,460
+so sollten wir, also machen wir, entscheiden wir einige,
+
+501
+00:25:56,460 --> 00:26:01,460
+über einige Idee treffen, okay, dann empfehlen wir Ihnen also,
+
+502
+00:26:01,460 --> 00:26:02,460
+ob Sie...
+
+503
+00:26:02,460 --> 00:26:04,460
+Sie meinen, wir machen jetzt erstmal die Untersuchungen
+
+504
+00:26:04,460 --> 00:26:06,460
+und dann sprechen wir noch mal.
+
+505
+00:26:06,460 --> 00:26:07,460
+Okay, ja, dann...
+
+506
+00:26:07,460 --> 00:26:09,460
+Das ist eine gute Idee, finde ich cool.
+
+507
+00:26:09,460 --> 00:26:12,460
+Dann, ob Sie, also dann, wir können einfach schauen,
+
+508
+00:26:12,460 --> 00:26:16,460
+ob Sie im Krankenhaus bleiben sollten oder müssen, okay?
+
+509
+00:26:16,460 --> 00:26:17,460
+Alles klar.
+
+510
+00:26:17,460 --> 00:26:18,460
+Das hört sich gut mit daran.
+
+511
+00:26:18,460 --> 00:26:19,460
+Okay, das hört sich gut mit daran.
+
+512
+00:26:19,460 --> 00:26:20,460
+Ja, vielen Dank.
+
+513
+00:26:20,460 --> 00:26:21,460
+Okay, gut, ich nehme Sie nicht mit.
+
+514
+00:26:21,460 --> 00:26:24,460
+Okay, dann, ja, ich gebe Ihnen die Zeit.
+
+515
+00:26:24,460 --> 00:26:26,460
+Ich habe so ein bisschen Angst wegen dem Herz.
+
+516
+00:26:26,460 --> 00:26:29,460
+Schauen Sie auch danach, auch noch mal?
+
+517
+00:26:29,460 --> 00:26:30,460
+Ja, ja, ja, das ist möglich.
+
+518
+00:26:30,460 --> 00:26:35,460
+Also, wir haben eine Ekokardiografie, also okay.
+
+519
+00:26:35,460 --> 00:26:39,460
+Alles ist gut, das machen Sie, alles wird gemacht, okay?
+
+520
+00:26:39,460 --> 00:26:40,460
+Machen Sie es, keine Ahnung.
+
+521
+00:26:40,460 --> 00:26:41,460
+Okay.
+
+522
+00:26:41,460 --> 00:26:42,460
+Okay, gut.
+
+523
+00:26:42,460 --> 00:26:43,460
+Gut, danke Herr Doktor.
+
+524
+00:26:43,460 --> 00:26:45,460
+Wo soll ich Platz nehmen?
+
+525
+00:26:45,460 --> 00:26:50,460
+Ja, also draußen, also geht ein Wartezimmer, okay?
+
+526
+00:26:50,460 --> 00:26:52,460
+Wenn Sie möchten, können Sie einfach die Kollegen...
+
+527
+00:26:52,460 --> 00:26:54,460
+Ein Wartezimmer, okay.
+
+528
+00:26:54,460 --> 00:26:57,460
+Wunderbar, gut, danke schön, dann nehme ich ein Wartezimmer.
+
+529
+00:26:57,460 --> 00:26:58,460
+Okay, danke schön.
+
+530
+00:26:58,460 --> 00:27:03,390
+Okay.
+
+531
+00:27:03,390 --> 00:27:04,390
+Gut.
+
+532
+00:27:04,390 --> 00:27:06,390
+Ein anstrengender Patient.
+
+533
+00:27:06,390 --> 00:27:11,390
+Ja, das ist immer möglich, kein Problem.
+
+534
+00:27:11,390 --> 00:27:16,390
+Ja, wir müssen also damit zurückkommen.
+
+535
+00:27:16,390 --> 00:27:18,390
+Sehr gut.
+
+536
+00:27:18,390 --> 00:27:22,390
+Okay, machen wir dann jetzt eine Übergabe an den Oberarzt?
+
+537
+00:27:22,390 --> 00:27:30,390
+Ja, aber ich würde einfach fragen, ich habe eigentlich nicht richtige, gute Diagnose,
+
+538
+00:27:30,390 --> 00:27:38,390
+das ist für mich nur, also nicht, also unsere Fall in München, deshalb...
+
+539
+00:27:38,390 --> 00:27:40,390
+Ja, okay.
+
+540
+00:27:40,390 --> 00:27:43,390
+Ich kann nicht direkt denken, also welcher Fall.
+
+541
+00:27:43,390 --> 00:27:46,390
+Wollen Sie jetzt noch ein paar Minuten Überlegung und Bedenkzeichen?
+
+542
+00:27:46,390 --> 00:27:51,390
+Nein, vielleicht, wir können uns zusammen eine Entscheidung treffen, oder?
+
+543
+00:27:51,390 --> 00:27:59,390
+Ja, deswegen, klar, also ich würde vorschlagen, ich bin jetzt der Oberarzt, Sie stellen mir jetzt erstmal Ihren Patienten vor, Herr Doktor Kurz.
+
+544
+00:27:59,390 --> 00:28:00,390
+Ja, okay.
+
+545
+00:28:00,390 --> 00:28:05,390
+Dann können wir uns gemeinsam überlegen, was die Arbeitsdiagnose ist oder wie?
+
+546
+00:28:05,390 --> 00:28:08,390
+Okay, gut, ja, wir können auch sagen, okay, wir können auch sagen.
+
+547
+00:28:08,390 --> 00:28:12,390
+Aber wenn Sie jetzt noch ein paar Minuten brauchen, um Ihre Analyse da zusammenzufassen,
+
+548
+00:28:12,390 --> 00:28:13,390
+Nein, nein, nein, nein, nein, nein, nein.
+
+549
+00:28:13,390 --> 00:28:16,390
+dann können Sie sich auch gerne mit den anderen Kollegen unterhalten.
+
+550
+00:28:16,390 --> 00:28:18,390
+Also, ich kann direkt anfangen, kein Problem.
+
+551
+00:28:18,390 --> 00:28:20,390
+Aber wenn Sie möchten, können Sie einfach...
+
+552
+00:28:20,390 --> 00:28:23,390
+Ja, ich habe Zeit, deswegen bin ich da, dann machen Sie bitte jetzt mal Ihre Übergabe.
+
+553
+00:28:23,390 --> 00:28:28,730
+Was für einen Patienten haben Sie heute angenommen?
+
+554
+00:28:28,730 --> 00:28:30,730
+Bitte schön.
+
+555
+00:28:30,730 --> 00:28:35,260
+Okay, also, ja, guten Tag.
+
+556
+00:28:35,260 --> 00:28:42,260
+Ich möchte Ihnen heute gerne den 54-jährigen Patient, Herr Reis vorstellen.
+
+557
+00:28:42,260 --> 00:28:48,260
+Er ist am 10. April 1968 geboren.
+
+558
+00:28:48,260 --> 00:28:55,260
+Er ist 95 Kilogramm schwer und 1 Meter 76 groß.
+
+559
+00:28:55,260 --> 00:29:09,260
+Ja, Herr Reis stellte sich heute regelseitig zwei Tage den bestehenden inspiratorischen Düsseln bei uns vor.
+
+560
+00:29:09,260 --> 00:29:11,260
+Der inspiratorische Düsseln?
+
+561
+00:29:11,260 --> 00:29:13,260
+Ist inspiratorische.
+
+562
+00:29:13,260 --> 00:29:16,260
+Inspiratorische, inspiratorische.
+
+563
+00:29:16,260 --> 00:29:18,260
+Inspiratorische, inspiratorische.
+
+564
+00:29:18,260 --> 00:29:24,260
+Oder ja, vielleicht stellte sich heute wegen einer Düsseln,
+
+565
+00:29:24,260 --> 00:29:30,260
+der Patient klagt über Besonders beim Einatmen dieser Beschwerden.
+
+566
+00:29:30,260 --> 00:29:34,260
+Wo sind die Schmerzen beim Einatmen?
+
+567
+00:29:34,260 --> 00:29:37,260
+Ja, die Schmerzen
+
+568
+00:29:38,260 --> 00:29:45,260
+seien besonders am linken Rippenbogen aufgetreten und die Schmerzen
+
+569
+00:29:45,260 --> 00:29:52,260
+hätten in vorne Seite gestrahlt.
+
+570
+00:29:53,260 --> 00:29:57,260
+Also, strahlen ventral aus oder?
+
+571
+00:29:57,260 --> 00:30:00,260
+Ja, ja, ich sehe das.
+
+572
+00:30:00,260 --> 00:30:08,260
+Sie haben mit ventralen Ausstrahlung.
+
+573
+00:30:08,260 --> 00:30:10,260
+Ja.
+
+574
+00:30:10,260 --> 00:30:19,260
+Ja, und der Patient berichtete, dass er beim Hinlegen
+
+575
+00:30:19,260 --> 00:30:25,260
+sich noch schlecht fühlen sollte.
+
+576
+00:30:25,260 --> 00:30:38,990
+Deshalb sollte er auf die rechte Seite schlafen.
+
+577
+00:30:38,990 --> 00:30:44,990
+Er hat bei der linken Seite Druckgefühl.
+
+578
+00:30:44,990 --> 00:30:52,990
+Und seit fünf Jahren habe der Patient chronische Lumbalgie.
+
+579
+00:30:52,990 --> 00:30:54,990
+Lumbalgie?
+
+580
+00:30:54,990 --> 00:30:56,990
+Rücken Schmerzen hat der Patient gesagt.
+
+581
+00:30:56,990 --> 00:30:58,990
+Ja, okay.
+
+582
+00:30:58,990 --> 00:31:00,990
+In welcher Höhe haben Sie jetzt nicht gefragt?
+
+583
+00:31:00,990 --> 00:31:04,990
+Der Patient hat gesagt, Rücken Schmerzen.
+
+584
+00:31:04,990 --> 00:31:08,990
+Ja, aber in welcher Höhe ist es die Halsverbeseule?
+
+585
+00:31:08,990 --> 00:31:10,990
+Ja, ja, richtig.
+
+586
+00:31:10,990 --> 00:31:13,990
+Das haben Sie nicht nachgefragt?
+
+587
+00:31:13,990 --> 00:31:16,990
+Ja, also okay, beide Köpfe.
+
+588
+00:31:16,990 --> 00:31:18,990
+Das ist ein Problem.
+
+589
+00:31:18,990 --> 00:31:20,990
+Ja, richtig, sollte ich fragen.
+
+590
+00:31:20,990 --> 00:31:23,990
+Ja, der Patient habe seit vielen Jahren Rücken Schmerzen.
+
+591
+00:31:23,990 --> 00:31:28,990
+Ja, die vegetative Amnesie sei unauffällig.
+
+592
+00:31:28,990 --> 00:31:36,990
+An vollkrankungen seien seit fünf Jahren arterielle Hypertonie.
+
+593
+00:31:36,990 --> 00:31:44,990
+Seit circa sechs, sieben Jahren ist eine Hypercholosteronemie bekannt.
+
+594
+00:31:44,990 --> 00:31:51,990
+Aber die Hypercholosteronemie wurde nicht behandelt.
+
+595
+00:31:51,990 --> 00:32:03,990
+Seien nicht behandelt worden, weil der Patient nicht Medikamente einnehmen möchte.
+
+596
+00:32:03,990 --> 00:32:15,990
+Mit zwölf Jahren habe sich eine Appendectomy unterzogen.
+
+597
+00:32:15,990 --> 00:32:23,990
+Die Medikamente an Amnesien ergab die regelmäßige Bisoprolol.
+
+598
+00:32:23,990 --> 00:32:29,990
+Das sind 5 mg morgens und kann das Ertagen abends 6-10 mg abends.
+
+599
+00:32:29,990 --> 00:32:31,990
+Ja, okay.
+
+600
+00:32:31,990 --> 00:32:47,990
+Der Patient hat eine Polnallergie mit brennenden Augen und Nasen.
+
+601
+00:32:47,990 --> 00:32:52,990
+Wie nennt sich das mit brennenden Augen oder Nasen?
+
+602
+00:32:52,990 --> 00:32:55,990
+Ja, das ist ein Rhinitis.
+
+603
+00:32:55,990 --> 00:32:57,990
+Rhinitis?
+
+604
+00:32:57,990 --> 00:33:00,990
+Ja, das ist ein Rhinokonjuktivitis.
+
+605
+00:33:00,990 --> 00:33:02,990
+Rhinokonjuktivitis, okay.
+
+606
+00:33:02,990 --> 00:33:04,990
+Ja, Rhinokonjuktivitis und Nüsse.
+
+607
+00:33:04,990 --> 00:33:11,990
+Ja, deswegen habe ich auch eine Medikamente mit Stetrizien tablett.
+
+608
+00:33:11,990 --> 00:33:14,990
+Okay, das ist eine Antialergie.
+
+609
+00:33:14,990 --> 00:33:16,990
+Ja, richtig.
+
+610
+00:33:17,990 --> 00:33:19,990
+Also, Entschuldigung.
+
+611
+00:33:19,990 --> 00:33:23,990
+Die Kontinuen, die ich hier habe, wurden verneinzt.
+
+612
+00:33:23,990 --> 00:33:37,990
+Das hat herrschen geheiratet, habet 2 Kinder, sie ist nicht gesund
+
+613
+00:33:37,990 --> 00:33:40,990
+und arbeitet im Büro als Projektmanager.
+
+614
+00:33:40,990 --> 00:33:44,530
+Okay.
+
+615
+00:33:44,530 --> 00:33:46,530
+Okay, gut.
+
+616
+00:33:46,530 --> 00:33:48,530
+Ja, Vater leide an...
+
+617
+00:33:48,530 --> 00:33:50,530
+Sein Vater?
+
+618
+00:33:50,530 --> 00:33:52,530
+Entschuldigung, ja sein Vater.
+
+619
+00:33:52,530 --> 00:33:58,530
+Sein Vater leide an einer arteriellen Hypertonie.
+
+620
+00:33:58,530 --> 00:34:06,530
+Er habe am Knie, also Bonatrose, oder ja, Bonatrose.
+
+621
+00:34:06,530 --> 00:34:08,530
+Bonatrose, oder?
+
+622
+00:34:08,530 --> 00:34:10,530
+Und Katarakt.
+
+623
+00:34:10,530 --> 00:34:12,530
+Okay.
+
+624
+00:34:12,530 --> 00:34:19,530
+Ja, wird eine Operation geplant.
+
+625
+00:34:19,530 --> 00:34:24,530
+Wird vorgenommen oder ist eine Operation geplant?
+
+626
+00:34:24,530 --> 00:34:28,530
+Ja, deswegen ist eine Operation geplant.
+
+627
+00:34:28,530 --> 00:34:30,530
+Ja, genau.
+
+628
+00:34:30,530 --> 00:34:32,530
+Ist geplant, ja richtig.
+
+629
+00:34:32,530 --> 00:34:41,530
+Okay, und seine Mutter habe seit vielen Jahren, ja, dann, also irgendwie eine Damekrankung,
+
+630
+00:34:41,530 --> 00:34:54,530
+habe sie Obstipation und sie nehmen dagegen Medikamente ein.
+
+631
+00:34:54,530 --> 00:35:01,530
+Ein Schwester, sie sind gesund, ja, sie haben keine Krankung.
+
+632
+00:35:01,530 --> 00:35:09,530
+Ja, also aufgrund der bisherigen Anamnesenangaben,
+
+633
+00:35:10,530 --> 00:35:16,530
+Geh von, ja, Pücher Pünomonie.
+
+634
+00:35:16,530 --> 00:35:18,530
+Eine was? Eine?
+
+635
+00:35:18,530 --> 00:35:20,530
+Atypücher Pünomonie.
+
+636
+00:35:20,530 --> 00:35:22,530
+Atypücher Pünomonie?
+
+637
+00:35:22,530 --> 00:35:34,530
+Ja, Astipharanzaldiagnosen, common, also, ja,
+
+638
+00:35:34,530 --> 00:35:41,530
+Herzinsufficiency oder vielleicht Skoliose.
+
+639
+00:35:41,530 --> 00:35:45,530
+Haben sie gefragt, ja, okay, also das sind jetzt die Defizitiatriagnosen,
+
+640
+00:35:45,530 --> 00:35:50,530
+aber haben sie den Patienten gefragt, ob er eine instabile AP hat,
+
+641
+00:35:50,530 --> 00:35:56,530
+oder indem er eine instabile AP, also Angina Pectoris,
+
+642
+00:35:56,530 --> 00:36:00,530
+ja, eigentlich,
+
+643
+00:36:00,530 --> 00:36:03,530
+Sie haben nicht gefragt, okay, haben Sie gefragt,
+
+644
+00:36:03,530 --> 00:36:08,530
+wenn Sie ein Herzinsuffizienz denken, wonach müssen Sie noch fragen?
+
+645
+00:36:08,530 --> 00:36:10,530
+Ja, deshalb habe ich...
+
+646
+00:36:10,530 --> 00:36:15,530
+Ob Udeme, ob Udeme in den Beinen hat, das haben Sie nicht gefragt?
+
+647
+00:36:15,530 --> 00:36:19,530
+Ja, ja, Udeme vielleicht ja, aber das wäre Ihnen sicherlich
+
+648
+00:36:19,530 --> 00:36:21,530
+bei der körperlichen Untersuchung dann aufgefallen.
+
+649
+00:36:21,530 --> 00:36:28,530
+Ja, ja, richtig, dass wir können beide Untersuchungen beurteilen,
+
+650
+00:36:28,530 --> 00:36:32,530
+ob der Patient hat oder nicht.
+
+651
+00:36:32,530 --> 00:36:37,530
+Ja, das ist aber ja einfach die finanzielle Diagnose.
+
+652
+00:36:37,530 --> 00:36:42,530
+Okay, woran denken Sie noch?
+
+653
+00:36:42,530 --> 00:36:48,530
+Also, was meinst du, also die beide...
+
+654
+00:36:48,530 --> 00:36:52,530
+Weitere, weitere oder andere Diagnose,
+
+655
+00:36:52,530 --> 00:36:54,530
+was kann es noch sein?
+
+656
+00:36:54,530 --> 00:36:57,530
+Vielleicht können die anderen Kollegen und Kolleginnen auch noch helfen?
+
+657
+00:36:57,530 --> 00:37:00,530
+Also es kann auch vielleicht...
+
+658
+00:37:00,530 --> 00:37:03,530
+Multibismeulom, okay.
+
+659
+00:37:03,530 --> 00:37:08,530
+Es kann auch vielleicht auch ein Unfall sein,
+
+660
+00:37:08,530 --> 00:37:16,530
+also vielleicht der Patient hat linke Seite gegen irgendetwas gestoßen und deshalb...
+
+661
+00:37:16,530 --> 00:37:20,530
+Aber Sie haben doch den Patienten gefragt, der hat doch keinen Unfall gehabt?
+
+662
+00:37:20,530 --> 00:37:22,530
+Ja, kein...
+
+663
+00:37:22,530 --> 00:37:29,530
+Also, der Patient ist 54 Jahre alt.
+
+664
+00:37:29,530 --> 00:37:36,530
+Am linken Seite hat der Patient Schmerzen...
+
+665
+00:37:36,530 --> 00:37:38,530
+Auf der linken Seite?
+
+666
+00:37:38,530 --> 00:37:42,530
+Auf der linken Seite Schmerzen und einatmen, das kann ein...
+
+667
+00:37:42,530 --> 00:37:44,530
+Also zweisseitige Misstruktur sein.
+
+668
+00:37:44,530 --> 00:37:46,530
+Eine was kann es sein?
+
+669
+00:37:46,530 --> 00:37:49,530
+Eine Mehlzropptur.
+
+670
+00:37:49,530 --> 00:37:54,530
+Ja, zweisseitige Misstruktur, also das ist vielleicht nicht in der Stiline.
+
+671
+00:37:54,530 --> 00:37:57,530
+Aber er hat ja keinen Trauma, haben Sie gesagt?
+
+672
+00:37:57,530 --> 00:38:01,530
+Ja, richtig, kein Trauma, aber wie ich gesagt habe...
+
+673
+00:38:01,530 --> 00:38:05,530
+Aber er ist doch im Moment kreislaufstabier, normalerweise.
+
+674
+00:38:05,530 --> 00:38:10,530
+Ja, aber wie ich gesagt habe, das kann auch eine zweisseitige Misstruktur sein.
+
+675
+00:38:10,530 --> 00:38:15,530
+Am Anfang bleibt der so nicht intakt.
+
+676
+00:38:15,530 --> 00:38:22,530
+Und der Patient hat nicht bemerkt, vielleicht hat er irgendwas gestoßen, aber das hat...
+
+677
+00:38:22,530 --> 00:38:25,530
+Aber das muss ja schon ein heftiger Stoß sein, ne?
+
+678
+00:38:25,530 --> 00:38:27,530
+Eine Mehlstruktur geht ja nicht einfach so.
+
+679
+00:38:27,530 --> 00:38:28,530
+Ja, der Patient...
+
+680
+00:38:28,530 --> 00:38:30,530
+Aber gut, lassen wir mal stehen.
+
+681
+00:38:30,530 --> 00:38:31,530
+Ja, das Alter und...
+
+682
+00:38:31,530 --> 00:38:34,530
+Wir können ja mit einer Sonneografie kontrollieren und schauen.
+
+683
+00:38:34,530 --> 00:38:36,530
+Ja, ja, ja, richtig.
+
+684
+00:38:36,530 --> 00:38:39,530
+Also das ist so weniger infrage.
+
+685
+00:38:39,530 --> 00:38:41,530
+Okay, was kann es noch sein?
+
+686
+00:38:41,530 --> 00:38:45,530
+Das ist ganz einfach. Vorhin kamen ein paar Vorschläge von den Kollegen.
+
+687
+00:38:45,530 --> 00:38:48,530
+Da war das, glaube ich, so gerade dabei.
+
+688
+00:38:48,530 --> 00:38:52,530
+Ja, Pynomotorax auch, also wegen dem...
+
+689
+00:38:52,530 --> 00:38:54,530
+Ja, auch eine Möglichkeit.
+
+690
+00:38:54,530 --> 00:38:58,530
+Aber ja, also wenn es Pynomotorax eine Möglichkeit ist,
+
+691
+00:38:58,530 --> 00:39:01,530
+auch Misstruktur, einem Pynomotorax, von Tampinen...
+
+692
+00:39:01,530 --> 00:39:04,530
+Ja, ich sage ja, das ist eine von seltenen Möglichkeiten,
+
+693
+00:39:04,530 --> 00:39:06,530
+aber da kann es so denken.
+
+694
+00:39:06,530 --> 00:39:08,530
+Natürlich, kann schon mal sein, ja.
+
+695
+00:39:08,530 --> 00:39:13,530
+COPD, also der Patient raucht nicht und COPD ist nicht.
+
+696
+00:39:13,530 --> 00:39:16,530
+Genau. Aber klar, muss man sagen.
+
+697
+00:39:16,530 --> 00:39:17,530
+Es kann sein, natürlich.
+
+698
+00:39:17,530 --> 00:39:18,530
+Ja, unwahrscheinlich.
+
+699
+00:39:18,530 --> 00:39:21,530
+Ja, unwahrscheinlich, wie Misstruktur, aber es kann auch sein.
+
+700
+00:39:21,530 --> 00:39:22,530
+Ja.
+
+701
+00:39:22,530 --> 00:39:25,530
+Was weiteres vorgehen, schlage ich vorhin,
+
+702
+00:39:25,530 --> 00:39:28,530
+das vor, ja, nach der Vitalparameter-Überpürofung
+
+703
+00:39:28,530 --> 00:39:32,530
+und der Körper-Untersuch, plan ich eine Labo-Untersuch,
+
+704
+00:39:32,530 --> 00:39:36,530
+also mit Bestenmück von...
+
+705
+00:39:36,530 --> 00:39:42,530
+Ja, kleines Blutbild, auch Enzymusparameter, Nieren und Leberwerte,
+
+706
+00:39:42,530 --> 00:39:48,530
+auch Schittdrösenwerte, so wie mit und P3, T4,
+
+707
+00:39:48,530 --> 00:39:52,530
+auch absoluten Gelbungsparameter.
+
+708
+00:39:52,530 --> 00:39:57,530
+Ja, danach sollten eine Röntgenaufnahme...
+
+709
+00:39:57,530 --> 00:39:59,530
+Machen Sie auch Herzentzüme mit?
+
+710
+00:39:59,530 --> 00:40:01,530
+Wie bitte? Herzentzüme.
+
+711
+00:40:01,530 --> 00:40:03,530
+Ja, ja, natürlich.
+
+712
+00:40:03,530 --> 00:40:06,530
+Ja, das sollte ein Herzentzüme...
+
+713
+00:40:06,530 --> 00:40:08,530
+Welche sind das?
+
+714
+00:40:08,530 --> 00:40:11,530
+Herzentzüme, wie zum Beispiel Troponin,
+
+715
+00:40:11,530 --> 00:40:17,530
+also Troponin T, Troponin U, TKMB, TKMB, ja.
+
+716
+00:40:17,530 --> 00:40:18,530
+Jawoll.
+
+717
+00:40:18,530 --> 00:40:22,530
+Das sollte überprüft werden.
+
+718
+00:40:22,530 --> 00:40:24,530
+Was würden Sie noch mitmachen,
+
+719
+00:40:24,530 --> 00:40:28,530
+wenn Sie schon Blut abnehmen, welche Laboparameter in Bezug auf die Lunge
+
+720
+00:40:28,530 --> 00:40:31,530
+oder eine Lungenembolie?
+
+721
+00:40:31,530 --> 00:40:36,530
+Ja, die Lungenembolie, also Auslöschen,
+
+722
+00:40:36,530 --> 00:40:40,530
+wäre es wichtig, die Edime, also...
+
+723
+00:40:40,530 --> 00:40:43,530
+Die Edime, richtig, würde ich mitmachen.
+
+724
+00:40:43,530 --> 00:40:48,530
+Ja, richtig, die Edime zu beprüfen, ja, natürlich.
+
+725
+00:40:48,530 --> 00:40:53,530
+Ja, und Röntgenaufnahme, LKG, Zoltem...
+
+726
+00:40:53,530 --> 00:40:55,530
+Ja, Röntgen und LKG sind wichtig, genau.
+
+727
+00:40:55,530 --> 00:40:56,530
+Ja, natürlich.
+
+728
+00:40:56,530 --> 00:41:01,530
+Und ja, der Patient kollagt über Luftnoten
+
+729
+00:41:01,530 --> 00:41:06,530
+und auch Blutgasanalyse.
+
+730
+00:41:06,530 --> 00:41:11,530
+Ja, gut, ja, so eine kleine Blutgasanalyse wäre es sehr sinnvoll, genau.
+
+731
+00:41:11,530 --> 00:41:12,530
+Ja, ja, das ist...
+
+732
+00:41:12,530 --> 00:41:16,530
+Und damit können Sie eigentlich relativ vieles ausschließen,
+
+733
+00:41:16,530 --> 00:41:18,530
+beispielsweise unterstützen
+
+734
+00:41:18,530 --> 00:41:20,530
+und dann würden wir das weitere vorgehen
+
+735
+00:41:20,530 --> 00:41:22,530
+oder das weitere Prozedere noch mal besprechen.
+
+736
+00:41:22,530 --> 00:41:24,530
+Ja, das ist richtig.
+
+737
+00:41:24,530 --> 00:41:27,530
+Genau, aber eine Diagnose, die der Patient eigentlich haben könnte,
+
+738
+00:41:27,530 --> 00:41:29,530
+haben Sie bisher aber noch nicht gesagt.
+
+739
+00:41:29,530 --> 00:41:31,530
+Ganz einfach.
+
+740
+00:41:31,530 --> 00:41:35,530
+Ganz einfach, ja, ich glaube daran, aber...
+
+741
+00:41:35,530 --> 00:41:37,530
+Ja, ja...
+
+742
+00:41:37,530 --> 00:41:39,530
+Schau mal in dem Chat, ob es dabei ist.
+
+743
+00:41:39,530 --> 00:41:42,530
+Es gibt dabei oder?
+
+744
+00:41:42,530 --> 00:41:44,530
+Ja, es ist dabei.
+
+745
+00:41:44,530 --> 00:41:47,530
+Dorsalgi.
+
+746
+00:41:47,530 --> 00:41:49,530
+Was passt so dorsalgi?
+
+747
+00:41:49,530 --> 00:41:50,530
+Da ist aber noch genauer.
+
+748
+00:41:50,530 --> 00:41:53,530
+Schauen Sie mal in dem Chat verlauf, da ist es dabei.
+
+749
+00:41:53,530 --> 00:41:56,530
+Rippuntumor, oder Insulina.
+
+750
+00:41:56,530 --> 00:41:58,530
+Nicht Rippuntumor.
+
+751
+00:41:58,530 --> 00:42:00,530
+Intekostale neuralgie.
+
+752
+00:42:00,530 --> 00:42:13,530
+Intekostale neuralgie, genau.
+
+753
+00:42:13,530 --> 00:42:15,530
+Was ist das?
+
+754
+00:42:15,530 --> 00:42:16,530
+Ja, also...
+
+755
+00:42:16,530 --> 00:42:17,530
+Wer hat es geschrieben?
+
+756
+00:42:17,530 --> 00:42:18,530
+Wer hat es geschrieben?
+
+757
+00:42:18,530 --> 00:42:19,530
+Wer soll es bestellen?
+
+758
+00:42:19,530 --> 00:42:21,530
+Pirdews.
+
+759
+00:42:21,530 --> 00:42:24,530
+Eine Frau Dr. Pirdews?
+
+760
+00:42:24,530 --> 00:42:26,530
+Frau Dr.
+
+761
+00:42:26,530 --> 00:42:31,670
+Was ist eine Intekostale neuralgie?
+
+762
+00:42:31,670 --> 00:42:36,520
+Wo ist sie?
+
+763
+00:42:36,520 --> 00:42:41,470
+Ich höre nichts.
+
+764
+00:42:41,470 --> 00:42:43,470
+Wollen Sie mich jetzt?
+
+765
+00:42:43,470 --> 00:42:45,470
+Jetzt ist es besser.
+
+766
+00:42:45,470 --> 00:42:49,470
+Also, was ist eine Intekostale neuralgie, Frau Dr.
+
+767
+00:42:49,470 --> 00:42:54,470
+Eine schmarske Füll.
+
+768
+00:42:54,470 --> 00:43:01,470
+Eine Schmarske, die sich in Ihrem Intekostalbereich
+
+769
+00:43:01,470 --> 00:43:10,470
+besonders beim Drücken verschlechtert ist.
+
+770
+00:43:10,470 --> 00:43:16,470
+Also Sie wollen sagen, das ist eine Reizung der Rippennerven.
+
+771
+00:43:16,470 --> 00:43:17,470
+Ja.
+
+772
+00:43:17,470 --> 00:43:21,300
+Genau, ganz einfach.
+
+773
+00:43:21,300 --> 00:43:26,300
+Also, Herr Dr. Kurz, das ist eine Reizung der Rippennerven.
+
+774
+00:43:26,300 --> 00:43:29,300
+Woher kommen die Rippennerven aus der Wirbelsäule?
+
+775
+00:43:29,300 --> 00:43:33,300
+Die kommen aus der Wirbelsäule, gehen entlang der Rippen
+
+776
+00:43:33,300 --> 00:43:35,300
+und ziehen nach vorne.
+
+777
+00:43:35,300 --> 00:43:36,300
+Okay, okay.
+
+778
+00:43:36,300 --> 00:43:41,300
+Das heißt, meistens hat man, wenn man Rückenschmerzen hat,
+
+779
+00:43:41,300 --> 00:43:45,300
+also eine Dorsalgie oder Muskelverspannungen,
+
+780
+00:43:45,300 --> 00:43:50,300
+dann können diese Rippennerven gereizt werden
+
+781
+00:43:50,300 --> 00:43:54,300
+und diese Schmerzen strahlen dann von Rückend bis nach vorne
+
+782
+00:43:54,300 --> 00:43:56,300
+in den Brust aus.
+
+783
+00:43:56,300 --> 00:44:00,300
+Bei jeder Torachsbewegung, wenn Sie ein- und ausatmen
+
+784
+00:44:00,300 --> 00:44:03,300
+und bei jeder Bewegung des Torachs, der Patient hat ja gesagt,
+
+785
+00:44:03,300 --> 00:44:06,300
+wenn er sich auf die linke Seite hinlegt,
+
+786
+00:44:06,300 --> 00:44:09,300
+dann schmerzt das, dann tut es ihm weh.
+
+787
+00:44:09,300 --> 00:44:13,300
+Das heißt, bei jeder Reizung der Rippennerven
+
+788
+00:44:13,300 --> 00:44:17,300
+können diese Schmerzen stechend sein
+
+789
+00:44:17,300 --> 00:44:21,300
+und das ist meistens einfach eine ganz einfache Sache.
+
+790
+00:44:21,300 --> 00:44:25,300
+Verspannung der Rückendmuskulatur, eine leichte Erkältung
+
+791
+00:44:25,300 --> 00:44:30,300
+oder sie haben etwas Schweres gehoben, lange Sitzende Tätigkeit,
+
+792
+00:44:30,300 --> 00:44:34,300
+arbeitet da im Büro, hat auch ein bisschen Stress.
+
+793
+00:44:34,300 --> 00:44:39,300
+Also ich denke, dass er einfach eine interkustale Neurogy hat.
+
+794
+00:44:39,300 --> 00:44:41,300
+Das blockiert beim Einatmen.
+
+795
+00:44:41,300 --> 00:44:44,300
+Wenn man tief einatmen möchte, dann blockiert das
+
+796
+00:44:44,300 --> 00:44:47,300
+und dann kann er nicht richtig durchatmen.
+
+797
+00:44:47,300 --> 00:44:50,300
+Das macht manchmal auch Panik, Unruhe, Atemnot.
+
+798
+00:44:50,300 --> 00:44:53,300
+Und so steigern sich die Menschen.
+
+799
+00:44:53,300 --> 00:44:57,300
+Ja, richtig. Das kann sein, ja. Das ist vernünftig.
+
+800
+00:44:57,300 --> 00:45:00,300
+Also es gibt ein Sprichwort, das heißt, was wenig ist,
+
+801
+00:45:00,300 --> 00:45:04,300
+ist wenig und was viel ist, ist viel.
+
+802
+00:45:04,300 --> 00:45:09,300
+Das heißt, eine Milzruptur oder andere Sachen können natürlich sein,
+
+803
+00:45:09,300 --> 00:45:13,300
+aber das ist eher seltener oder ist viel.
+
+804
+00:45:13,300 --> 00:45:17,300
+Unwahrscheinlich. Natürlich muss man dran denken, das ist richtig.
+
+805
+00:45:17,300 --> 00:45:22,300
+Also meine Arbeitsdiagnose wäre als erstes mal eine interkustale Neurogy.
+
+806
+00:45:22,300 --> 00:45:27,300
+Der zweite Diagnose, was ich ausschließen würde,
+
+807
+00:45:27,300 --> 00:45:31,300
+wäre ein Herzinfarkt oder ein akutes Coronasyndrom.
+
+808
+00:45:31,300 --> 00:45:35,300
+Denn er ist 54 Jahre alt, er hat ein Hypertonus,
+
+809
+00:45:35,300 --> 00:45:37,300
+er hat eine Hypocholesterinemie,
+
+810
+00:45:37,300 --> 00:45:41,300
+er hat eine positive Familienanamnese.
+
+811
+00:45:41,300 --> 00:45:44,300
+Der Vater ist auch ein Hypertonus erkrankt.
+
+812
+00:45:44,300 --> 00:45:48,300
+Daher würde ich natürlich auch ein Herzinfarkt als erstes ausschließen
+
+813
+00:45:48,300 --> 00:45:50,300
+mit einer Metragie.
+
+814
+00:45:50,300 --> 00:45:52,300
+Der Röntgen-Torax ist auch gut.
+
+815
+00:45:52,300 --> 00:45:54,300
+Damit kann ich sehen, ob da ein Pneumotorax ist,
+
+816
+00:45:54,300 --> 00:45:56,300
+ob da eine Pneumonie da ist.
+
+817
+00:45:56,300 --> 00:45:58,300
+Natürlich kann auch eine Pneumonie
+
+818
+00:45:58,300 --> 00:46:04,300
+oder eine atypische Pneumonie sich auch so äußern, ganz klar.
+
+819
+00:46:04,300 --> 00:46:06,300
+Das ist schon mal ganz gut.
+
+820
+00:46:06,300 --> 00:46:11,300
+Da müsste man aber im Labor ein hohes CRP erwarten.
+
+821
+00:46:11,300 --> 00:46:14,300
+Ja, das ist richtig.
+
+822
+00:46:14,300 --> 00:46:18,300
+Gut, jetzt habe ich es schon mal ein bisschen geärgert, glaube ich,
+
+823
+00:46:18,300 --> 00:46:19,300
+oder, Doktor?
+
+824
+00:46:19,300 --> 00:46:21,300
+Ja, ja, nein, nein, das war sehr gut.
+
+825
+00:46:21,300 --> 00:46:23,300
+Vielleicht ein, zwei Punkte.
+
+826
+00:46:23,300 --> 00:46:25,300
+Sie sind Facharzt für was?
+
+827
+00:46:25,300 --> 00:46:28,300
+Also gerade nicht.
+
+828
+00:46:28,300 --> 00:46:33,300
+Nur einiges Zeit als Notarzt in der Türkei gearbeitet.
+
+829
+00:46:33,300 --> 00:46:35,300
+Aber jetzt nur ein paar...
+
+830
+00:46:35,300 --> 00:46:42,300
+Sie sind noch in der Ausbildung gewesen als Assistenzarzt.
+
+831
+00:46:42,300 --> 00:46:47,300
+Ja, ja, jetzt denke ich nur zwei Mal Rostassin gemacht.
+
+832
+00:46:47,300 --> 00:46:49,300
+Okay.
+
+833
+00:46:49,300 --> 00:46:51,300
+Also, vielleicht ein paar Punkte.
+
+834
+00:46:51,300 --> 00:46:53,300
+Sie sprechen das schon ganz gut.
+
+835
+00:46:53,300 --> 00:46:56,300
+Die deutsche Sprache, manchmal verwechseln sie männlich und weiblich.
+
+836
+00:46:56,300 --> 00:47:00,300
+Er und sie, sie sind manchmal zu hektisch, zu schnell.
+
+837
+00:47:00,300 --> 00:47:02,300
+Sie lassen den Patienten nicht ausreden.
+
+838
+00:47:02,300 --> 00:47:04,300
+Sie unterbrechen den Patienten.
+
+839
+00:47:04,300 --> 00:47:06,300
+Das ist nicht gut.
+
+840
+00:47:06,300 --> 00:47:08,300
+Sie müssen den Patienten aussprechen lassen.
+
+841
+00:47:08,300 --> 00:47:10,300
+Sie unterbrechen den Patienten.
+
+842
+00:47:10,300 --> 00:47:11,300
+Ja, also...
+
+843
+00:47:11,300 --> 00:47:13,300
+Dann sagen Sie mal, ja, ja, sehr gut, sehr gut, sehr gut.
+
+844
+00:47:13,300 --> 00:47:14,300
+Okay, okay, okay.
+
+845
+00:47:14,300 --> 00:47:16,300
+Und unterbrechen den Patienten.
+
+846
+00:47:16,300 --> 00:47:17,300
+Warum so?
+
+847
+00:47:17,300 --> 00:47:19,300
+So wie jetzt zum Beispiel Sie unterbrechen den Patienten.
+
+848
+00:47:19,300 --> 00:47:22,300
+Abwarten, zuhören und dann reden.
+
+849
+00:47:22,300 --> 00:47:23,300
+Okay.
+
+850
+00:47:23,300 --> 00:47:28,300
+Also, normalerweise gibt es nervöse oder sehr sprechende Patienten.
+
+851
+00:47:28,300 --> 00:47:31,300
+Und wir simulieren das.
+
+852
+00:47:31,300 --> 00:47:34,300
+Deshalb wollte ich so sagen, wir haben 20 Minuten.
+
+853
+00:47:34,300 --> 00:47:36,300
+Ja, ich weiß.
+
+854
+00:47:36,300 --> 00:47:39,300
+Ja, und deshalb, also, ich möchte so stehen wie möglich,
+
+855
+00:47:39,300 --> 00:47:42,300
+so viele Passionen vom Patienten.
+
+856
+00:47:42,300 --> 00:47:44,300
+Und ja, und ja.
+
+857
+00:47:44,300 --> 00:47:48,300
+Ja, trotzdem ist es natürlich nicht sehr höflich
+
+858
+00:47:48,300 --> 00:47:51,300
+und nicht so freundlich den Patienten gegenüber,
+
+859
+00:47:51,300 --> 00:47:53,300
+wenn man sie unterbricht.
+
+860
+00:47:53,300 --> 00:47:54,300
+Ja, ja, das ist richtig.
+
+861
+00:47:54,300 --> 00:47:58,300
+Ja, beide Familien am Nese habe ich bemält.
+
+862
+00:47:58,300 --> 00:48:02,300
+Anfang habe ich wegen der Internet nicht gehört.
+
+863
+00:48:02,300 --> 00:48:05,300
+Sie haben nur kleine Erkrankungen so ähnlich gesagt.
+
+864
+00:48:05,300 --> 00:48:07,300
+Ich habe gedacht, Sie...
+
+865
+00:48:07,300 --> 00:48:09,300
+Genau, das wollte ich sagen.
+
+866
+00:48:09,300 --> 00:48:11,300
+Was es bedeutet, das habe ich ganz bewusst auch gesagt.
+
+867
+00:48:11,300 --> 00:48:16,300
+Kleine Wehwähchen ist auch so ein Ausdruck in der Deutschen.
+
+868
+00:48:16,300 --> 00:48:18,300
+Kleine Wehwähchen, was ist das?
+
+869
+00:48:18,300 --> 00:48:19,300
+Wehwähchen.
+
+870
+00:48:19,300 --> 00:48:24,300
+Das heißt, wenn du Schmerzen hast, dann sagst du, es tut mir weh.
+
+871
+00:48:24,300 --> 00:48:25,300
+Okay.
+
+872
+00:48:25,300 --> 00:48:27,300
+Darf ich auswählen?
+
+873
+00:48:27,300 --> 00:48:32,300
+Also, man sagte, es tut mir weh, weh tun.
+
+874
+00:48:32,300 --> 00:48:35,300
+Das bedeutet Schmerzen haben.
+
+875
+00:48:35,300 --> 00:48:40,300
+Und mit kleinen Wehwähchen meint man, er hat kleine Erkrankungen
+
+876
+00:48:40,300 --> 00:48:42,300
+oder wenige, einige Erkrankungen.
+
+877
+00:48:42,300 --> 00:48:43,300
+Okay, okay.
+
+878
+00:48:43,300 --> 00:48:47,300
+Ich habe gedacht, dass Sie also irgendwelche Erkrankungen sagen
+
+879
+00:48:47,300 --> 00:48:50,300
+und wir haben keine Probleme, wir haben nichts gehört.
+
+880
+00:48:50,300 --> 00:48:51,300
+Ja, okay.
+
+881
+00:48:51,300 --> 00:48:54,300
+Und deshalb, also, vorbeikommen andere Situationen.
+
+882
+00:48:54,300 --> 00:48:59,300
+Ich möchte Sie zweimal unterbrechen.
+
+883
+00:48:59,300 --> 00:49:03,300
+Okay, aber kein Problem.
+
+884
+00:49:03,300 --> 00:49:04,300
+Genau.
+
+885
+00:49:04,300 --> 00:49:07,300
+Ich wollte Sie jetzt nicht ärgern, aber ich wollte Sie ein bisschen
+
+886
+00:49:07,300 --> 00:49:11,300
+als Arzt herausfordern.
+
+887
+00:49:11,300 --> 00:49:14,300
+Ja, das ist...
+
+888
+00:49:14,300 --> 00:49:15,300
+Sehr gut.
+
+889
+00:49:15,300 --> 00:49:17,300
+Aber Sie machen es sehr gut, ganz toll.
+
+890
+00:49:17,300 --> 00:49:18,300
+Dankeschön.
+
+891
+00:49:18,300 --> 00:49:20,300
+Was ist bei Ihnen die Prüfung?
+
+892
+00:49:20,300 --> 00:49:23,300
+Ascent, Ascent, Mars.
+
+893
+00:49:23,300 --> 00:49:25,300
+Das ist also in so zwei...

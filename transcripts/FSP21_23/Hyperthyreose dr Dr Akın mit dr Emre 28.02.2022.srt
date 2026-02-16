@@ -1,0 +1,1775 @@
+1
+00:00:00,370 --> 00:00:02,370
+Guten Tag.
+
+2
+00:00:02,370 --> 00:00:07,370
+Guten Tag. Mein Name ist Emre Göchtas. Ich bin der zuständige Arzt für Sie.
+
+3
+00:00:07,370 --> 00:00:12,370
+Bevor wir anfangen, lassen Sie mich bitte zuerst Ihre personische Daten notieren.
+
+4
+00:00:12,370 --> 00:00:18,370
+Wenn Sie etwas nicht verstehen, bitte sagen Sie mir Bescheid oder fragen Sie nach, okay?
+
+5
+00:00:18,370 --> 00:00:20,370
+Ja, einfach danken.
+
+6
+00:00:20,370 --> 00:00:23,370
+Wie heißen Sie?
+
+7
+00:00:23,370 --> 00:00:25,370
+Mein Name ist Hans Zimmermann.
+
+8
+00:00:25,370 --> 00:00:30,060
+Mit Dopplerm, ja.
+
+9
+00:00:30,060 --> 00:00:32,060
+Mit Dopplerm, Dopplerm, ja.
+
+10
+00:00:32,060 --> 00:00:36,060
+Gut. Wie alt sind Sie, Herr Zimmermann?
+
+11
+00:00:36,060 --> 00:00:38,060
+Ich bin 50 Jahre alt.
+
+12
+00:00:38,060 --> 00:00:43,460
+Verraten Sie mir bitte Ihr Geburtstatement?
+
+13
+00:00:43,460 --> 00:00:46,460
+2. April 1971.
+
+14
+00:00:46,460 --> 00:00:49,810
+71.
+
+15
+00:00:49,810 --> 00:00:51,810
+Und wie groß sind Sie?
+
+16
+00:00:51,810 --> 00:00:55,810
+Ich bin 1,85 m groß.
+
+17
+00:00:55,810 --> 00:00:57,810
+Und wie viel wiegen Sie?
+
+18
+00:00:57,810 --> 00:01:01,810
+Ich habe abgenommen, also jetzt sehe ich ungefähr so 68 kg.
+
+19
+00:01:02,810 --> 00:01:04,810
+68.
+
+20
+00:01:04,810 --> 00:01:08,220
+Okay.
+
+21
+00:01:08,220 --> 00:01:10,220
+Sind Sie verheiratet?
+
+22
+00:01:10,220 --> 00:01:12,220
+Ja, ich bin verheiratet.
+
+23
+00:01:12,220 --> 00:01:14,220
+Haben Sie Kinder?
+
+24
+00:01:14,220 --> 00:01:16,220
+Ja, ich habe drei Kinder, ja.
+
+25
+00:01:16,220 --> 00:01:18,220
+Was sind Sie vom Beruf?
+
+26
+00:01:18,220 --> 00:01:21,220
+Ich arbeite in der IT-Branche.
+
+27
+00:01:21,220 --> 00:01:23,220
+IT-Branche.
+
+28
+00:01:23,220 --> 00:01:25,220
+Okay.
+
+29
+00:01:25,220 --> 00:01:28,220
+Herr Zimmermann, was kann ich für Sie tun?
+
+30
+00:01:28,220 --> 00:01:33,220
+Herr Doktor, ich komme mit verschiedenen Problemen zu Ihnen.
+
+31
+00:01:33,220 --> 00:01:36,220
+Das geht schon eine ganze Weile.
+
+32
+00:01:36,220 --> 00:01:41,220
+Aber heute Morgen habe ich jetzt erstmal so Herzrasen gehabt.
+
+33
+00:01:41,220 --> 00:01:43,220
+Und bin zum Hausarzt gegangen.
+
+34
+00:01:43,220 --> 00:01:46,220
+Und der hat dann EKG gemacht und gesagt, ich muss ins Krankenhaus.
+
+35
+00:01:46,220 --> 00:01:48,220
+Ich hätte Vorhofflimmen.
+
+36
+00:01:48,220 --> 00:01:50,220
+Das war der Grund.
+
+37
+00:01:50,220 --> 00:01:53,220
+Aber meine Beschwerden gehen schon einige Wochen.
+
+38
+00:01:53,220 --> 00:01:56,220
+Das dauert sich schon an.
+
+39
+00:01:56,220 --> 00:02:00,220
+Und jetzt bin ich wegen diesem Herzrasen gekommen.
+
+40
+00:02:00,220 --> 00:02:02,220
+Okay.
+
+41
+00:02:02,220 --> 00:02:05,220
+Wann waren Sie beim Hausarzt?
+
+42
+00:02:05,220 --> 00:02:07,220
+Heute Morgen.
+
+43
+00:02:07,220 --> 00:02:09,220
+Okay.
+
+44
+00:02:09,220 --> 00:02:12,220
+Und seit einigen Wochen haben Sie Herzrasen?
+
+45
+00:02:12,220 --> 00:02:15,220
+Nein, das Herzrasen ist neu seit heute Morgen.
+
+46
+00:02:15,220 --> 00:02:19,220
+Aber ich habe andere Probleme seit Wochen schon belasten.
+
+47
+00:02:19,220 --> 00:02:21,220
+Was war denn?
+
+48
+00:02:21,220 --> 00:02:25,220
+Ich habe erstens Gewicht abgenommen,
+
+49
+00:02:25,220 --> 00:02:28,220
+letzten Monaten.
+
+50
+00:02:28,220 --> 00:02:32,220
+Ich bin insgesamt nicht wie früher.
+
+51
+00:02:32,220 --> 00:02:34,220
+Ich bin unruhig.
+
+52
+00:02:34,220 --> 00:02:36,220
+Ich bin gereizt.
+
+53
+00:02:36,220 --> 00:02:38,220
+Ich bin sehr nervös.
+
+54
+00:02:38,220 --> 00:02:40,220
+Ich kann nicht mehr schlafen.
+
+55
+00:02:40,220 --> 00:02:44,220
+Also kann nachts eigentlich kaum mehr als 1-2 Stunden am Stück schlafen.
+
+56
+00:02:44,220 --> 00:02:47,220
+Ich habe Schweißausbrüche.
+
+57
+00:02:47,220 --> 00:02:50,220
+Ich bin nicht psychisch überlastet.
+
+58
+00:02:50,220 --> 00:02:53,220
+Ich weiß nicht, ob es von der Arbeit kommt.
+
+59
+00:02:53,220 --> 00:02:56,220
+Ich habe abgenommen, obwohl ich eigentlich sehr guten Appetit habe.
+
+60
+00:02:56,220 --> 00:02:58,220
+Ich esse sehr viel.
+
+61
+00:02:58,220 --> 00:03:01,220
+Aber ich habe trotzdem mit Gewicht abgenommen.
+
+62
+00:03:01,220 --> 00:03:03,220
+Ungefähr fast 8-9 Kilo.
+
+63
+00:03:03,220 --> 00:03:07,220
+Insgesamt ist mein Zustand nicht gut seit ein, 2 Monaten.
+
+64
+00:03:07,220 --> 00:03:10,220
+Okay, verstehe.
+
+65
+00:03:10,220 --> 00:03:13,220
+Haben Sie Herzrasen?
+
+66
+00:03:13,220 --> 00:03:15,220
+Das ist neu.
+
+67
+00:03:15,220 --> 00:03:18,220
+Deswegen komme ich jetzt zu Ihnen.
+
+68
+00:03:18,220 --> 00:03:21,220
+Haben Sie Erbrochen?
+
+69
+00:03:21,220 --> 00:03:26,320
+Nein.
+
+70
+00:03:26,320 --> 00:03:29,320
+Haben Sie Fieber gemerkt?
+
+71
+00:03:29,320 --> 00:03:32,320
+Nein, kann ich nicht sagen.
+
+72
+00:03:32,320 --> 00:03:35,320
+Haben Sie Probleme beim Stuhlgang?
+
+73
+00:03:35,320 --> 00:03:38,320
+Ich habe häufiger Stuhlgang.
+
+74
+00:03:38,320 --> 00:03:41,320
+Der Stuhl ist manchmal auch dünner als sonst.
+
+75
+00:03:41,320 --> 00:03:44,320
+Ich habe auch immer die Probleme,
+
+76
+00:03:44,320 --> 00:03:47,320
+aber ich habe auch immer die Probleme.
+
+77
+00:03:47,320 --> 00:03:50,320
+Es ist kein Durchfall, aber es ist manchmal sehr brei.
+
+78
+00:03:50,320 --> 00:03:53,320
+Früher habe ich nur alle 2 Tage Stuhlgang gehabt.
+
+79
+00:03:53,320 --> 00:03:56,320
+Jetzt habe ich dann jeden Tag.
+
+80
+00:03:56,320 --> 00:03:59,320
+Manchmal sogar 2 Mal pro Tag.
+
+81
+00:03:59,320 --> 00:04:02,320
+Obwohl die Appetit nicht gut ist.
+
+82
+00:04:02,320 --> 00:04:05,320
+Appetit ist sehr gut.
+
+83
+00:04:05,320 --> 00:04:08,320
+Ja, genau.
+
+84
+00:04:08,320 --> 00:04:11,320
+Entschuldigung.
+
+85
+00:04:11,320 --> 00:04:14,320
+Wie war die Farbe und Stuhlgang?
+
+86
+00:04:14,320 --> 00:04:17,320
+Normale.
+
+87
+00:04:17,320 --> 00:04:20,320
+Haben Sie Atemnot oder Brustschmerzen?
+
+88
+00:04:20,320 --> 00:04:23,320
+Kann ich so nicht sagen?
+
+89
+00:04:23,320 --> 00:04:26,320
+Nein, eigentlich nicht.
+
+90
+00:04:26,320 --> 00:04:29,320
+Wie ist Ihr Atemfrequenz?
+
+91
+00:04:29,320 --> 00:04:34,080
+Da fragen Sie etwas.
+
+92
+00:04:34,080 --> 00:04:37,080
+Ich habe nicht darauf geachtet.
+
+93
+00:04:37,080 --> 00:04:40,080
+Ich habe nicht darauf geachtet.
+
+94
+00:04:40,080 --> 00:04:54,690
+Noch haben Sie
+
+95
+00:04:54,690 --> 00:04:57,690
+Veränderungen in der letzten Zeit aufgefallen?
+
+96
+00:04:57,690 --> 00:05:00,690
+Mein Hals ist etwas dicker geworden.
+
+97
+00:05:00,690 --> 00:05:03,690
+Ich habe auch hier seitlich so Lymphknoten.
+
+98
+00:05:03,690 --> 00:05:06,690
+Keine Halsschmerzen.
+
+99
+00:05:06,690 --> 00:05:09,690
+Ich habe auch hier seitlich so Lymphknoten.
+
+100
+00:05:09,690 --> 00:05:12,690
+Ich habe auch hier seitlich so Lymphknoten.
+
+101
+00:05:12,690 --> 00:05:15,690
+Ich habe keine Halsschmerzen.
+
+102
+00:05:15,690 --> 00:05:18,690
+Das ist mir aufgefallen.
+
+103
+00:05:18,690 --> 00:05:21,690
+Haben Sie Schluckbeschwerde beim Essen?
+
+104
+00:05:21,690 --> 00:05:24,690
+Nein.
+
+105
+00:05:24,690 --> 00:05:27,690
+Haben Sie Heiserkeit?
+
+106
+00:05:27,690 --> 00:05:30,690
+Nein.
+
+107
+00:05:30,690 --> 00:05:42,170
+Ich habe etwas hinzufügen.
+
+108
+00:05:42,170 --> 00:05:45,170
+Die aktuelle Beschwärde.
+
+109
+00:05:45,170 --> 00:05:48,170
+Ich habe etwas hinzufügen.
+
+110
+00:05:48,170 --> 00:05:51,170
+Wir haben viele aktuelle Beschwärde.
+
+111
+00:05:51,170 --> 00:05:54,170
+Ne, das möchte ich nicht sagen.
+
+112
+00:05:54,170 --> 00:05:56,170
+Zittern.
+
+113
+00:05:56,170 --> 00:05:58,170
+Ich habe keine Zittern,
+
+114
+00:05:58,170 --> 00:06:20,070
+ich habe die Ев awareness curve
+
+115
+00:06:20,070 --> 00:06:26,830
+ist mal festgestellt worden. Dann habe ich so Reflux, habe ich mal gehabt, bin dann mal
+
+116
+00:06:26,830 --> 00:06:34,750
+indiskupiert worden und sonst eine Operation, hatte ich mal eine Meniscus-Operation, also
+
+117
+00:06:34,750 --> 00:06:41,350
+eine Sportverletzung, einen rechten Knie, sonst habe ich keine anderen Krankheiten bisher gehabt.
+
+118
+00:06:43,760 --> 00:06:50,400
+Okay, seit wann haben Sie diese Erkrankungen, Gallensteine und Reflux-Operation?
+
+119
+00:06:50,400 --> 00:06:56,120
+Seit ungefähr einem Jahr habe ich mit der Haushaltsaufgabe so Tablette aufgeschrieben,
+
+120
+00:06:56,120 --> 00:06:59,720
+die ich jetzt jeden Tag einnehme, damit der Gallenstein sich auflösen kann.
+
+121
+00:06:59,720 --> 00:07:02,120
+Okay, welche Tabletten nehmen Sie?
+
+122
+00:07:02,120 --> 00:07:07,640
+Also Osofalk, das ist für die Gallensteine, nehme ich morgen abends und dann nehme
+
+123
+00:07:07,640 --> 00:07:09,640
+mich für den Reflux-Pantropazol.
+
+124
+00:07:09,640 --> 00:07:23,490
+Gibt es in Ihrer Familie irgendwelche wesentliche Erkrankungen,
+
+125
+00:07:23,490 --> 00:07:29,090
+die ich wissen sollte, wie ein Bluthochdruck oder Diabetes?
+
+126
+00:07:29,090 --> 00:07:35,770
+Ja, also meine Mutter hat Diabetes und hat auch COPD, Bluthochdruck.
+
+127
+00:07:36,530 --> 00:07:42,330
+Mein Vater hat Herz-Rhythmusstörung gehabt, er hat auch einen Herzschrittmacher bekommen,
+
+128
+00:07:42,330 --> 00:07:49,750
+ansonsten kann ich mich jetzt nicht an andere Krankheiten erinnern.
+
+129
+00:07:49,750 --> 00:07:57,030
+Okay, der Vater hat Herzschrittmacher und Rhythmusstörungen, ja?
+
+130
+00:07:57,030 --> 00:08:00,470
+Ja, wie Rhythmus ist gesagt worden, hat damals einen Herzschrittmacher bekommen, ja.
+
+131
+00:08:00,470 --> 00:08:06,560
+Gut, wir müssen ja feinern, viel besser.
+
+132
+00:08:06,560 --> 00:08:08,720
+Schlafen Sie gut, haben Sie Probleme beim Schlafen?
+
+133
+00:08:08,760 --> 00:08:12,080
+Wie gesagt, habe ich ja schon gesagt, ich kann nicht gut schlafen.
+
+134
+00:08:12,080 --> 00:08:18,600
+Ich schlafe maximal ein bis zwei Stunden am Stück, mache oft auf, kann nicht einschlafen.
+
+135
+00:08:18,600 --> 00:08:20,600
+Schlafen ist schlecht.
+
+136
+00:08:20,600 --> 00:08:25,240
+Okay, wegen der Beschwerden, ja?
+
+137
+00:08:25,240 --> 00:08:29,600
+Ich weiß nicht, ich denke, dass ich insgesamt aufgeregt und nervös bin
+
+138
+00:08:29,600 --> 00:08:33,200
+und das ist auch nachts so, glaube ich, und deswegen kann ich nicht schlafen.
+
+139
+00:08:34,040 --> 00:08:39,200
+Okay, gibt es etwas, was Sie sie nicht belastet?
+
+140
+00:08:40,640 --> 00:08:45,920
+Ja, ich habe auch auf der Arbeit viel zu tun, das ist schon ein stressiger Beruf, den ich habe,
+
+141
+00:08:45,920 --> 00:08:49,440
+aber man hat andere Sachen, kann ich jetzt nicht sagen.
+
+142
+00:08:50,760 --> 00:09:00,200
+Okay, Hause Ösefreik und Antoprasol, nehmen Sie irgendwelche Regeln,
+
+143
+00:09:00,200 --> 00:09:02,200
+müssen die Medikamente ein oder beide darf?
+
+144
+00:09:02,200 --> 00:09:05,200
+Nein, das sind die Medikamente, die ich nehme, mehr nehme ich nicht.
+
+145
+00:09:05,200 --> 00:09:07,200
+Okay, schlafen Sie?
+
+146
+00:09:07,200 --> 00:09:11,600
+Nein, ich habe mal geraucht, aber nur ganz kurz, so ein, zwei Jahre,
+
+147
+00:09:11,600 --> 00:09:14,600
+als ich so 18, 19 war, dann habe ich aufgehört.
+
+148
+00:09:14,600 --> 00:09:17,600
+Wie lange haben Sie geraucht?
+
+149
+00:09:17,600 --> 00:09:19,600
+Ein oder zwei Jahre, nicht lange.
+
+150
+00:09:19,600 --> 00:09:27,080
+Okay, trinken Sie Alkohol?
+
+151
+00:09:27,080 --> 00:09:32,680
+Selten, also einmal im Monat vielleicht.
+
+152
+00:09:33,680 --> 00:09:35,680
+Einmal im Monat, okay.
+
+153
+00:09:36,680 --> 00:09:38,680
+Nehmen Sie Drogen?
+
+154
+00:09:38,680 --> 00:09:40,680
+Nein.
+
+155
+00:09:40,680 --> 00:09:43,680
+Ist Ihnen Allergien bekannt?
+
+156
+00:09:43,680 --> 00:09:49,680
+Man hat nicht verdacht, dass ich so eine Penizidienallergie hatte,
+
+157
+00:09:49,680 --> 00:09:53,680
+da habe ich mal Antibiotika gereagiert, vor langer Zeit.
+
+158
+00:09:53,680 --> 00:09:56,680
+Wie äußert sich diese Allergien?
+
+159
+00:09:56,680 --> 00:09:59,680
+Da habe ich Hautausschlag bekommen, den ganzen Körper.
+
+160
+00:09:59,680 --> 00:10:01,680
+Das ist ein Hautausschlag, okay.
+
+161
+00:10:01,680 --> 00:10:14,000
+Sie haben gesagt, Sie sind in der letzten Zeit unrieg, gereizt und sehr nervös.
+
+162
+00:10:14,000 --> 00:10:19,000
+Ich möchte auch fragen, ob Sie ein Konzentrationstürmung haben.
+
+163
+00:10:19,000 --> 00:10:22,000
+Ja, kann man schon sagen.
+
+164
+00:10:22,000 --> 00:10:26,000
+Ich habe schon Schwierigkeiten, mich als Normal zu konzentrieren.
+
+165
+00:10:26,000 --> 00:10:28,000
+Also ist nicht wie früher.
+
+166
+00:10:28,000 --> 00:10:31,000
+Ich verstehe.
+
+167
+00:10:31,000 --> 00:10:35,000
+Okay, meineseits habe ich die wichtigsten Fragen gestellt.
+
+168
+00:10:35,000 --> 00:10:39,000
+Müssten Sie etwas hinzufügen oder haben Sie Fragen?
+
+169
+00:10:39,000 --> 00:10:43,000
+Nein, die wichtigsten Sachen haben Sie aufgeschrieben, glaube ich.
+
+170
+00:10:43,000 --> 00:10:47,000
+Ich glaube, es ist eine Konzentration.
+
+171
+00:10:47,000 --> 00:10:53,000
+Okay, jetzt glaube ich, Sie möchten die Diagnose wissen.
+
+172
+00:10:53,000 --> 00:10:57,000
+Aber jetzt kann ich Ihnen nicht genau sagen,
+
+173
+00:10:57,000 --> 00:10:59,000
+was Sie haben.
+
+174
+00:10:59,000 --> 00:11:05,000
+Erst mal werden wir die körperliche Untersuchung durchführen.
+
+175
+00:11:05,000 --> 00:11:10,000
+Danach möchte ich ein paar diagnostische,
+
+176
+00:11:10,000 --> 00:11:15,000
+weitere diagnostische machen,
+
+177
+00:11:15,000 --> 00:11:20,000
+damit wir die richtige Diagnose stellen können.
+
+178
+00:11:20,000 --> 00:11:22,000
+Ja.
+
+179
+00:11:22,000 --> 00:11:29,000
+Ich würde Ihnen Blut abnehmen
+
+180
+00:11:29,000 --> 00:11:34,000
+und ein Halsultraschall durchführen,
+
+181
+00:11:34,000 --> 00:11:40,000
+weil ich die Halsschwellungen kontrollieren möchte.
+
+182
+00:11:40,000 --> 00:11:49,520
+Und ja, erst mal diese Untersuchung ist genug.
+
+183
+00:11:49,520 --> 00:11:55,520
+Dann je nach den Ergebnisse besprechen wir nochmal,
+
+184
+00:11:55,520 --> 00:11:57,520
+wie es weitergeht.
+
+185
+00:11:57,520 --> 00:11:59,520
+Machen Sie auch ein CT?
+
+186
+00:11:59,520 --> 00:12:02,520
+Was meinen Sie, brauche ich für Untersuchungen?
+
+187
+00:12:02,520 --> 00:12:05,520
+CT? Ja.
+
+188
+00:12:05,520 --> 00:12:10,520
+Erst mal möchte ich die Ultraschallergebnisse anschauen.
+
+189
+00:12:10,520 --> 00:12:16,520
+Danach können wir eine CT-Untersuchung veranlassen.
+
+190
+00:12:16,520 --> 00:12:18,520
+Ja.
+
+191
+00:12:18,520 --> 00:12:21,520
+Vielen Dank, Herr Doktor.
+
+192
+00:12:21,520 --> 00:12:24,520
+Bitte nehmen Sie Platz im Wartesma.
+
+193
+00:12:24,520 --> 00:12:26,520
+Ich komme Ihnen gleich.
+
+194
+00:12:26,520 --> 00:12:28,520
+Okay, vielen Dank.
+
+195
+00:12:28,520 --> 00:12:35,900
+Es gibt Kommentare, Fragen von den Zuhörern.
+
+196
+00:12:35,900 --> 00:12:38,900
+Erklagen Sie die Weime gut?
+
+197
+00:12:38,900 --> 00:12:40,900
+Nein, es ist mir heiß.
+
+198
+00:12:40,900 --> 00:12:43,900
+Ich muss gleich mein Hemd ausziehen, wenn es zu heiß ist.
+
+199
+00:12:43,900 --> 00:12:46,900
+Ist Ihr Haut feucht?
+
+200
+00:12:46,900 --> 00:12:50,900
+Ja, es spitzt sich dann ein bisschen.
+
+201
+00:12:50,900 --> 00:12:59,250
+Was gibt es noch für Fragen?
+
+202
+00:12:59,250 --> 00:13:07,960
+Ich habe es wichtig gefragt.
+
+203
+00:13:07,960 --> 00:13:12,960
+Was ich noch gefragt hätte, wäre,
+
+204
+00:13:12,960 --> 00:13:19,960
+ob Sie Seestörungen haben.
+
+205
+00:13:20,960 --> 00:13:32,680
+Dann habe ich nicht verloren.
+
+206
+00:13:32,680 --> 00:13:37,340
+Wenn wir keine weiteren Kommentare haben,
+
+207
+00:13:37,340 --> 00:13:39,340
+gehen wir zur Oberarztvorstellung.
+
+208
+00:13:39,340 --> 00:13:43,680
+Eine Minute, bitte.
+
+209
+00:13:43,680 --> 00:14:05,380
+Guten Tag, Herr Oberarzt.
+
+210
+00:14:05,380 --> 00:14:09,380
+Ich möchte Ihnen einen neuen Patient vorstellen.
+
+211
+00:14:09,380 --> 00:14:11,380
+Haben Sie gut Zeit?
+
+212
+00:14:11,380 --> 00:14:13,380
+Bitte schön.
+
+213
+00:14:13,380 --> 00:14:16,380
+Ich möchte Sie ein paar Mal sagen,
+
+214
+00:14:16,380 --> 00:14:19,380
+dass ich das nicht so gut bin.
+
+215
+00:14:19,380 --> 00:14:22,380
+Es geht um Hans Zimmermann,
+
+216
+00:14:22,380 --> 00:14:25,380
+er ist 50 Jahre alt.
+
+217
+00:14:25,380 --> 00:14:28,380
+Er hat 3 Kinder,
+
+218
+00:14:28,380 --> 00:14:31,380
+68 kg und 185 cm groß.
+
+219
+00:14:31,380 --> 00:14:34,380
+Er klagt über Tashukadi
+
+220
+00:14:34,380 --> 00:14:37,380
+seit heute Morgen.
+
+221
+00:14:37,380 --> 00:14:40,380
+Er war beim Hausarzt.
+
+222
+00:14:40,380 --> 00:14:44,380
+Er hat bei ihm eine EKG gemacht.
+
+223
+00:14:44,380 --> 00:14:47,380
+Ein Vorhoff,
+
+224
+00:14:47,380 --> 00:14:50,380
+eine atrielle Fibrillation,
+
+225
+00:14:50,380 --> 00:14:53,380
+wurde bei ihm festgestellt.
+
+226
+00:14:53,380 --> 00:14:56,380
+Er ist uns gekommen.
+
+227
+00:14:56,380 --> 00:14:59,380
+Er ist zu uns gekommen.
+
+228
+00:14:59,380 --> 00:15:02,380
+Er ist zu uns gekommen.
+
+229
+00:15:02,380 --> 00:15:05,380
+Er ist zu uns gekommen.
+
+230
+00:15:05,380 --> 00:15:08,380
+Er ist zu uns gekommen.
+
+231
+00:15:08,380 --> 00:15:11,380
+Er ist nicht zu uns gekommen.
+
+232
+00:15:11,380 --> 00:15:14,380
+Er ist der oleh,
+
+233
+00:15:14,380 --> 00:15:18,380
+Er ist 2 Monaten,
+
+234
+00:15:18,380 --> 00:15:21,380
+er hat 9 kg abgenommen.
+
+235
+00:15:21,380 --> 00:15:27,380
+Obwohl sein Apetit gut ist.
+
+236
+00:15:27,380 --> 00:15:30,380
+Und er auch Conventionstörung.
+
+237
+00:15:30,380 --> 00:15:33,380
+Hyperhydrosinopthrytone.
+
+238
+00:15:34,380 --> 00:15:37,380
+Er describe keine richtige Diarete
+
+239
+00:15:37,380 --> 00:15:52,410
+richtige Diare, aber der Stuhlgang ist dünn und er hat seit einigen Wochen eine Halsschwellung
+
+240
+00:15:52,410 --> 00:15:53,790
+gehabt.
+
+241
+00:15:53,790 --> 00:16:10,150
+Er ist in der letzten Zeit aufgefallen und er klagt auch über Tremor seit einigen Wochen.
+
+242
+00:16:10,150 --> 00:16:21,910
+Und in der Vorerkrankungen liegt Colelitiasis seit einigen Jahren und Gastroesophageale
+
+243
+00:16:21,910 --> 00:16:25,230
+Reflexkrankheiten seit einigen Jahren.
+
+244
+00:16:25,230 --> 00:16:38,750
+Und in der Familienanamnese liegt mutterlicherseits Pace Maker und Arithmie und vaterlicherseits
+
+245
+00:16:38,750 --> 00:16:43,150
+Diabetes Militus, COPD und Arteriella Hipertunifor.
+
+246
+00:16:43,150 --> 00:17:01,730
+Und er nimmt regelmäßig Ösefaltabletten morgens abends und Pantroprasol morgens ein.
+
+247
+00:17:01,730 --> 00:17:08,530
+Er ist allergisch gegen Penicillin und äußert sich mit Hautausschlag.
+
+248
+00:17:11,400 --> 00:17:17,680
+Nach den bisherigen Angaben gehe ich von Hyperthreose aus.
+
+249
+00:17:17,680 --> 00:17:31,040
+Dafür sprechen die genannten Sempromen wie Tashikadi und Konzentrationsstörung und
+
+250
+00:17:31,040 --> 00:17:39,400
+Gewichtverlust und die Hyperhydrosenotone und die Halsschwellungen.
+
+251
+00:17:40,400 --> 00:17:49,400
+Aber die pharaonziale Diagnostik kommt zum Beispiel ein Truidkarzinom im Betracht,
+
+252
+00:17:49,400 --> 00:17:55,040
+weil dafür sprechen die Gewichtverlust auch.
+
+253
+00:17:55,040 --> 00:18:04,720
+Habt man bei Hyperthreose ohne Karzinom auch Gewichtsverlust?
+
+254
+00:18:07,380 --> 00:18:14,380
+Für Hyperthreose sprechen auch Gewichtsverlust auch.
+
+255
+00:18:14,380 --> 00:18:16,380
+Also muss kein Karzinom sein, gell?
+
+256
+00:18:16,380 --> 00:18:17,380
+Ja genau.
+
+257
+00:18:17,380 --> 00:18:20,920
+Okay.
+
+258
+00:18:20,920 --> 00:18:28,920
+Ich würde erstmal diesen Patienten körperlich untersuchen.
+
+259
+00:18:28,920 --> 00:18:32,920
+Danach würde ich auch einen Blut abnehmen.
+
+260
+00:18:32,920 --> 00:18:40,920
+Im Blut kontrolliere ich Friedte 4 und T3 und TCA-Werte.
+
+261
+00:18:40,920 --> 00:18:42,920
+Was erwartet ihr da?
+
+262
+00:18:42,920 --> 00:18:58,920
+Ja, wenn der Patient ein primäres Hyperthreose hat und TCA-Werte kann niedrig sein
+
+263
+00:18:58,920 --> 00:19:03,920
+und Friedte 3 und T4-Werte erhöht.
+
+264
+00:19:03,920 --> 00:19:17,640
+Ich möchte auch die Entzündungparameter kontrollieren, ob der Patient ein Entzündung an der Truid hat.
+
+265
+00:19:17,640 --> 00:19:20,640
+Ja, okay.
+
+266
+00:19:21,640 --> 00:19:32,640
+Danach würde ich auch eine Ultraschall durchführen, ob der Patient eine Nodulus hat oder nicht.
+
+267
+00:19:32,640 --> 00:19:36,150
+Richtig.
+
+268
+00:19:36,150 --> 00:19:41,940
+Danach ein CT ist eine gute Option.
+
+269
+00:19:41,940 --> 00:19:46,190
+Ja, wieso?
+
+270
+00:19:46,190 --> 00:19:48,190
+Wie machen Sie das CT?
+
+271
+00:19:48,190 --> 00:19:52,560
+Mit Kontrastmitteln.
+
+272
+00:19:52,560 --> 00:19:54,560
+Sicher?
+
+273
+00:19:55,560 --> 00:19:57,560
+Nein.
+
+274
+00:19:57,560 --> 00:20:00,910
+Warum?
+
+275
+00:20:00,910 --> 00:20:05,910
+Weil Kontrastmitteln aus IOT besteht.
+
+276
+00:20:05,910 --> 00:20:10,910
+Deswegen ist das gefährlich für die hyperthreuse Schock.
+
+277
+00:20:10,910 --> 00:20:17,910
+Das ist das erste Problem, damit können Sie eine tyriotoxische Krise auslösen.
+
+278
+00:20:17,910 --> 00:20:19,910
+Was ist das zweite Problem?
+
+279
+00:20:19,910 --> 00:20:27,660
+Wenn Sie mal andere Diagnose denken, die Sie gesagt haben, Differenzialdiagnose.
+
+280
+00:20:27,660 --> 00:20:29,660
+Tritkarsen, dann meinen Sie.
+
+281
+00:20:29,660 --> 00:20:31,660
+Was ist da das Problem?
+
+282
+00:20:31,660 --> 00:20:40,030
+Wenn Sie CT mit Kontrastmitteln machen?
+
+283
+00:20:40,030 --> 00:20:42,030
+Ich weiß nicht.
+
+284
+00:20:42,030 --> 00:20:44,030
+Dann machen Sie die Therapie kaputt.
+
+285
+00:20:44,030 --> 00:20:50,360
+Dann können Sie keine Radiotherapie mehr machen.
+
+286
+00:20:50,360 --> 00:20:56,360
+Weil dann das ganze Jodendärschildtröse drin ist, dann können Sie nicht mehr radioaktiv machen.
+
+287
+00:20:56,360 --> 00:20:58,360
+Ach so, ja, genau.
+
+288
+00:20:58,360 --> 00:21:00,360
+Das wäre ein Problem.
+
+289
+00:21:00,360 --> 00:21:05,360
+Kein CT, wenn dann CT ohne Kontrastmittel, aber das ist nicht so gut für die Ausbildung.
+
+290
+00:21:05,360 --> 00:21:09,360
+Dann würde ich lieber ein MRT machen, wenn Sie unbedingt eine Person brauchen.
+
+291
+00:21:09,360 --> 00:21:12,360
+Oder CT ohne Kontrastmittel. Wichtig.
+
+292
+00:21:12,360 --> 00:21:15,360
+Weil ich gedacht auf schildtrösen Krankheiten oder Katzenohmen.
+
+293
+00:21:15,360 --> 00:21:18,360
+CT immer ohne Kontrastmittel.
+
+294
+00:21:18,360 --> 00:21:20,360
+Nein.
+
+295
+00:21:20,360 --> 00:21:22,360
+Was machen Sie noch?
+
+296
+00:21:22,360 --> 00:21:24,360
+Hat sich jemand reingeschrieben, sehe ich gerade?
+
+297
+00:21:24,360 --> 00:21:27,360
+Ja, Zintigraphie.
+
+298
+00:21:27,360 --> 00:21:29,360
+Was sehen Sie bei der Zintigraphie?
+
+299
+00:21:29,360 --> 00:21:32,360
+Wo nachschauen Sie da?
+
+300
+00:21:32,360 --> 00:21:34,360
+Hyperaktive Nodule.
+
+301
+00:21:34,360 --> 00:21:47,360
+Wenn der Patient eine hyperaktive Nodule hat, können wir mit Zintigraphie bestätigen, ob der Patient eine hyperaktive oder hyperaktive Nodule.
+
+302
+00:21:47,360 --> 00:21:49,360
+Okay.
+
+303
+00:21:49,360 --> 00:21:56,360
+Und wir können auch die Hyperfunktion der schildtrösen überpüren.
+
+304
+00:21:56,360 --> 00:22:00,360
+Genau, ob Sie eine Autonomie haben, zum Beispiel.
+
+305
+00:22:00,360 --> 00:22:02,360
+Ja.
+
+306
+00:22:02,360 --> 00:22:04,360
+Okay, gut.
+
+307
+00:22:04,360 --> 00:22:06,360
+Okay.
+
+308
+00:22:06,360 --> 00:22:17,360
+Kennen Sie eine Krankheit, die die Hypertereose als Hauptsympher hat?
+
+309
+00:22:17,360 --> 00:22:21,640
+Hashimoto.
+
+310
+00:22:21,640 --> 00:22:27,640
+Hashimoto macht meistens dann eher eine Hypertereose. Am Anfang kann man es sein.
+
+311
+00:22:27,640 --> 00:22:30,640
+Gravis, ja.
+
+312
+00:22:30,640 --> 00:22:32,640
+Genau. Was ist Gravis?
+
+313
+00:22:32,640 --> 00:22:34,640
+Gravis.
+
+314
+00:22:34,640 --> 00:22:36,640
+Gravis, Morbes, Basado.
+
+315
+00:22:36,640 --> 00:22:39,640
+Gravis ist im Deutschland nicht bekannt.
+
+316
+00:22:39,640 --> 00:22:42,640
+Gravis gibt es nicht in Deutschland. Morbes, Basado.
+
+317
+00:22:42,640 --> 00:22:47,640
+Kennen Sie die Merseburger Trias?
+
+318
+00:22:47,640 --> 00:22:54,640
+Das sind drei Symptome, die bei Morbes, Basado immer vorkommen.
+
+319
+00:22:54,640 --> 00:22:57,640
+Nein, drei Symptome.
+
+320
+00:22:57,640 --> 00:23:00,640
+Ja, Merseburger Trias heißt die. Ich weiß nicht, warum.
+
+321
+00:23:00,640 --> 00:23:04,640
+Also, gab es einen Arzt, der glaube ich in Merseburger war oder wie auch immer.
+
+322
+00:23:04,640 --> 00:23:08,640
+Strumer, Exo-Authalmus und Tachikadi. Ja, hat schon jemand reingeschrieben.
+
+323
+00:23:08,640 --> 00:23:10,640
+Ja, genau.
+
+324
+00:23:10,640 --> 00:23:12,640
+Manchmal bei Morbes, Basado vorhanden.
+
+325
+00:23:12,640 --> 00:23:15,640
+Deswegen habe ich auch gefragt, ob der Patient See-Störungen hat.
+
+326
+00:23:15,640 --> 00:23:19,640
+Wenn Exo-Authalmus da ist, kommen die manchmal Probleme beim Sehen oder
+
+327
+00:23:19,640 --> 00:23:21,640
+Beschwerden mit den Augen.
+
+328
+00:23:21,640 --> 00:23:23,640
+Ja.
+
+329
+00:23:23,640 --> 00:23:25,640
+Gut. Okay.
+
+330
+00:23:25,640 --> 00:23:29,640
+Aber Sie haben noch als Differenzialdiagnosant Schilddrüsen Katzenorm,
+
+331
+00:23:29,640 --> 00:23:31,640
+warum ist das richtig?
+
+332
+00:23:31,640 --> 00:23:33,640
+Oder warum haben Sie das gesagt?
+
+333
+00:23:33,640 --> 00:23:35,640
+Ich habe gedacht, der Patient, der es ist,
+
+334
+00:23:35,640 --> 00:23:37,640
+der hat eine Schilddrüsen-Katzenorm.
+
+335
+00:23:37,640 --> 00:23:41,780
+Wie haben Sie das gesagt?
+
+336
+00:23:41,780 --> 00:23:46,780
+Ich habe gedacht, der Patient ein Gewichtverlust hat.
+
+337
+00:23:46,780 --> 00:23:50,780
+Deswegen unter einer Halsschwellung.
+
+338
+00:23:50,780 --> 00:23:56,780
+Deswegen habe ich gedacht, ja, das ist bestimmt eine Hypertreose.
+
+339
+00:23:56,780 --> 00:24:01,780
+Aber Schild-Inch-Schilddrüsen, diese Symptome,
+
+340
+00:24:01,780 --> 00:24:03,780
+sprechen dagegen.
+
+341
+00:24:03,780 --> 00:24:10,780
+Ich meine, eine Thruid-Katzenorm kann mit einem Klinik von
+
+342
+00:24:10,780 --> 00:24:13,780
+Hypertreose kommen.
+
+343
+00:24:13,780 --> 00:24:15,780
+Ja.
+
+344
+00:24:15,780 --> 00:24:17,780
+Richtig.
+
+345
+00:24:17,780 --> 00:24:20,780
+Alles, was Sie gesagt haben, ist bei Hypertreose auch
+
+346
+00:24:20,780 --> 00:24:22,780
+möglich, also Gewichtsverlust.
+
+347
+00:24:22,780 --> 00:24:26,780
+Und Halsschwellung, Stromer, ist bei Hypertreose oft.
+
+348
+00:24:26,780 --> 00:24:29,780
+Ist nicht spezifisch für Katzenorm.
+
+349
+00:24:29,780 --> 00:24:31,780
+Aber, was der Patient genannt hat,
+
+350
+00:24:31,780 --> 00:24:33,780
+haben Sie auch noch mal gesagt,
+
+351
+00:24:33,780 --> 00:24:36,780
+da machen Sie Ultrascher, er hat ja Lymphknoten bemerkt.
+
+352
+00:24:36,780 --> 00:24:39,780
+Lymphknoten gibt es bei Hypertreose normalerweise nicht,
+
+353
+00:24:39,780 --> 00:24:43,780
+bei normaler Hypertreose, bei Basidorf eigentlich auch nicht.
+
+354
+00:24:43,780 --> 00:24:46,780
+Deswegen, Lymphknoten, wenn die geschwollen sind,
+
+355
+00:24:46,780 --> 00:24:48,780
+dann ist da der hochgradige Verdacht,
+
+356
+00:24:48,780 --> 00:24:52,780
+dass da auch ein Schilddrüsen-Katzenorm dahinter stecken kann.
+
+357
+00:24:52,780 --> 00:24:55,780
+Das war die wichtige Information aus der Anase,
+
+358
+00:24:55,780 --> 00:24:58,780
+die Sie dafür nehmen für das Schilddrüsen-Katzenorm.
+
+359
+00:24:58,780 --> 00:25:00,780
+Der Patient hatte in der Tat jetzt
+
+360
+00:25:00,780 --> 00:25:04,780
+eine Hypertreose bei Schilddrüsen-Katzenorm.
+
+361
+00:25:04,780 --> 00:25:08,780
+Kennen Sie die verschiedenen Schilddrüsen-Katzenormen?
+
+362
+00:25:08,780 --> 00:25:11,780
+Die verschiedenen, wissen Sie das zufällig?
+
+363
+00:25:11,780 --> 00:25:13,780
+Wissen Sie nicht, wissen Sie?
+
+364
+00:25:13,780 --> 00:25:16,780
+Ja, ich weiß nicht genau.
+
+365
+00:25:16,780 --> 00:25:18,780
+Es gibt die follikulären und populären
+
+366
+00:25:18,780 --> 00:25:20,780
+Schilddrüsen-Katzenorme.
+
+367
+00:25:20,780 --> 00:25:22,780
+Sie können oft, wie gesagt,
+
+368
+00:25:22,780 --> 00:25:24,780
+eine Schilddrüse über Funktion machen.
+
+369
+00:25:24,780 --> 00:25:26,780
+Und dann gibt es noch das Mediuläre
+
+370
+00:25:26,780 --> 00:25:28,780
+oder eine klassische Schilddrüsen-Katzenorm.
+
+371
+00:25:28,780 --> 00:25:31,780
+Das macht in der Regel keine Hypertreose.
+
+372
+00:25:31,780 --> 00:25:36,780
+Sie haben gesagt, Sie nehmen Blut ab.
+
+373
+00:25:36,780 --> 00:25:38,780
+Kennen Sie einen Wert, den Sie bei Verdacht
+
+374
+00:25:38,780 --> 00:25:41,780
+auf Schilddrüsen-Katzenormen bestimmen können?
+
+375
+00:25:41,780 --> 00:25:46,440
+Gut völlig, wissen Sie nicht, wissen Sie?
+
+376
+00:25:46,440 --> 00:25:48,440
+Im Blut, ein Tumormarker.
+
+377
+00:25:48,440 --> 00:25:50,440
+Tumormarker, ja.
+
+378
+00:25:50,440 --> 00:25:55,440
+Vollikulär Schilddrüsen-Katzenorme
+
+379
+00:25:55,440 --> 00:26:00,440
+ist oft das Thürioglobulin.
+
+380
+00:26:00,440 --> 00:26:03,440
+Bei Mediulären-Schilddrüsen-Katzenorm
+
+381
+00:26:03,440 --> 00:26:08,080
+gibt es mal Kaltzytonin als Marker manchmal.
+
+382
+00:26:08,080 --> 00:26:13,080
+Gut, was machen Sie mit den Patienten?
+
+383
+00:26:13,080 --> 00:26:16,080
+Wenn das Schilddrüsen-Katzenorm ist?
+
+384
+00:26:16,080 --> 00:26:22,080
+Erst mal, wir machen ein Radioterapie
+
+385
+00:26:22,080 --> 00:26:24,080
+für diese Patienten.
+
+386
+00:26:25,080 --> 00:26:28,080
+Erst mal machen wir die Diagnose.
+
+387
+00:26:28,080 --> 00:26:31,080
+Erst Diagnose stellen, machen Sie mit Biopsy meistens.
+
+388
+00:26:31,080 --> 00:26:33,080
+Genau.
+
+389
+00:26:33,080 --> 00:26:35,080
+Dann haben Sie nachgewiesen, ein Schilddrüsen-Katzenorm,
+
+390
+00:26:35,080 --> 00:26:39,080
+eine vollikuläres Schilddrüsen-Katzenorm.
+
+391
+00:26:39,080 --> 00:26:42,960
+Was machen Sie dann?
+
+392
+00:26:42,960 --> 00:26:44,960
+Ein Chemotherapie.
+
+393
+00:26:44,960 --> 00:26:46,960
+Wenn Staging?
+
+394
+00:26:46,960 --> 00:26:50,960
+Ja, hat Lymphknoten, lokal aber keine sonstigen Probleme.
+
+395
+00:26:50,960 --> 00:26:54,960
+Dann können wir mit chirurgischen Operativen behandeln?
+
+396
+00:26:54,960 --> 00:26:56,960
+Ja, okay.
+
+397
+00:26:56,960 --> 00:27:01,960
+Wenn wir nicht operativ behandeln,
+
+398
+00:27:01,960 --> 00:27:05,960
+dann können wir ein Chemotherapie und Radioterapie durchschwören.
+
+399
+00:27:05,960 --> 00:27:09,960
+Man macht eine Regel an Radioterapie.
+
+400
+00:27:09,960 --> 00:27:12,960
+Aber da muss man vorher gucken,
+
+401
+00:27:12,960 --> 00:27:15,960
+dass man die Schilddrüse vermutlich operativ entfernt.
+
+402
+00:27:15,960 --> 00:27:19,960
+Sonst gibt es eine starke Entzündung durch die Radioterapie.
+
+403
+00:27:19,960 --> 00:27:24,820
+Warum macht man eine Radioterapie?
+
+404
+00:27:24,820 --> 00:27:27,820
+Für die Schilddrüsen-Katzenorm?
+
+405
+00:27:27,820 --> 00:27:31,390
+Nein.
+
+406
+00:27:31,390 --> 00:27:37,390
+Wir machen die Gewebe ab.
+
+407
+00:27:37,390 --> 00:27:42,390
+Wir machen erst mal Hypothriose für diese Patienten.
+
+408
+00:27:42,390 --> 00:27:45,390
+Mit Radioterapie.
+
+409
+00:27:45,390 --> 00:27:50,390
+Dann geben wir den Patienten Hormon-Terapie,
+
+410
+00:27:50,390 --> 00:27:53,390
+wie Ertragoxin.
+
+411
+00:27:53,390 --> 00:27:57,390
+Dann können wir die Gewebe aktivieren.
+
+412
+00:27:57,390 --> 00:28:03,390
+Man geht den Patienten als künstliches TSH,
+
+413
+00:28:03,390 --> 00:28:06,390
+damit die Radioterapie aufnehmen soll.
+
+414
+00:28:06,390 --> 00:28:10,390
+Damit die Radioterapie in die bösen Zellen reingeht.
+
+415
+00:28:10,390 --> 00:28:13,390
+Sie machen es kaputt.
+
+416
+00:28:13,390 --> 00:28:16,390
+Sie haben auch versteckte andere Zellen.
+
+417
+00:28:16,390 --> 00:28:19,390
+Sie haben auch medizinsale Zellen.
+
+418
+00:28:19,390 --> 00:28:23,390
+Sie haben gesagt,
+
+419
+00:28:23,390 --> 00:28:30,390
+bevor Sie die Operation oder die Radioterapie machen können,
+
+420
+00:28:30,390 --> 00:28:34,390
+müssen Sie die Patienten vorbehandeln.
+
+421
+00:28:34,390 --> 00:28:38,390
+Was ist die Therapie bei einer Hypothriose?
+
+422
+00:28:38,390 --> 00:28:42,860
+Wie behandelt man die?
+
+423
+00:28:42,860 --> 00:28:45,860
+Normalerweise.
+
+424
+00:28:45,860 --> 00:28:51,860
+Für die Atrelle-Fibrillation geben wir ein Betoblocker.
+
+425
+00:28:51,860 --> 00:28:54,860
+Das zum Beispiel.
+
+426
+00:28:54,860 --> 00:29:03,400
+Diese Patienten haben hohe Trüb-Werte.
+
+427
+00:29:03,400 --> 00:29:10,400
+Erst mal müssen wir diese Werte erneidrigen.
+
+428
+00:29:10,400 --> 00:29:12,400
+Wie machen Sie das?
+
+429
+00:29:12,400 --> 00:29:18,870
+Im Hypothriose machen wir ein Radioterapie?
+
+430
+00:29:18,870 --> 00:29:21,870
+Oder gibt es Medikamentebehandlungen?
+
+431
+00:29:21,870 --> 00:29:25,870
+Medikamentebüsen sind sogar die Thyrostatiker.
+
+432
+00:29:25,870 --> 00:29:31,870
+Medikamentebüsen sind die Synthese von T3 und T4-Hemmen.
+
+433
+00:29:31,870 --> 00:29:34,870
+Die Ausschüttung.
+
+434
+00:29:34,870 --> 00:29:37,870
+Kennen Sie ein Beispiel dafür?
+
+435
+00:29:37,870 --> 00:29:40,870
+Ein Medikament ist nicht so wichtig.
+
+436
+00:29:40,870 --> 00:29:43,870
+Ein Profizil?
+
+437
+00:29:43,870 --> 00:29:48,870
+Ja, also Cabimazol oder Propyltioberziel.
+
+438
+00:29:48,870 --> 00:29:51,870
+Propizil ist Handelsname.
+
+439
+00:29:51,870 --> 00:29:55,870
+In Deutschland werden meistens Tiermazol und Cabimazol verwendet.
+
+440
+00:29:55,870 --> 00:29:58,870
+Das sind die beiden häufigsten.
+
+441
+00:29:58,870 --> 00:30:01,870
+Aber es ist Spezialisten-Endokynologie.
+
+442
+00:30:01,870 --> 00:30:04,870
+Warum sind Sie nicht unbedingt?
+
+443
+00:30:04,870 --> 00:30:08,870
+Okay, haben wir sehr viel gefragt über die Schilddröse.
+
+444
+00:30:08,870 --> 00:30:11,870
+Danke.
