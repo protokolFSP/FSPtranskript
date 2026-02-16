@@ -1,0 +1,1143 @@
+1
+00:00:02,030 --> 00:00:05,030
+Bitte schön. Okay.
+
+2
+00:00:05,030 --> 00:00:12,030
+Mein Name ist Gündus, ich bin die Assistenzaristin hier auf Node Aufnahme
+
+3
+00:00:12,030 --> 00:00:16,030
+und würde gerne mit Ihnen das Aufnahmegespräch durchführen.
+
+4
+00:00:16,030 --> 00:00:18,030
+Sind Sie damit einverstanden?
+
+5
+00:00:18,030 --> 00:00:19,030
+Ja.
+
+6
+00:00:19,030 --> 00:00:23,030
+Okay, zuerst brauche ich ein paar persönliche Daten.
+
+7
+00:00:23,030 --> 00:00:27,030
+Die muss ich in Ihrer Arktaschreiben.
+
+8
+00:00:27,030 --> 00:00:28,030
+Ja.
+
+9
+00:00:28,030 --> 00:00:30,030
+Und ja, wie heißen Sie denn?
+
+10
+00:00:30,030 --> 00:00:34,030
+Ich heiße Klaus Haskenhof.
+
+11
+00:00:34,030 --> 00:00:38,030
+Klaus, soll ich Buch stabilen?
+
+12
+00:00:38,030 --> 00:00:40,030
+Ja, bitte.
+
+13
+00:00:40,030 --> 00:00:47,340
+Klaus, K, L, A, U, S, Klaus.
+
+14
+00:00:47,340 --> 00:00:50,340
+Und der Nachname ist Haskenhof.
+
+15
+00:00:50,340 --> 00:01:05,340
+Schreibt sich H, A, S, K, E, N, H, U, F, F, 2 mal F.
+
+16
+00:01:05,340 --> 00:01:08,340
+Alles klar, Herr Haskenhof.
+
+17
+00:01:08,340 --> 00:01:12,230
+Wie alt sind Sie?
+
+18
+00:01:12,230 --> 00:01:16,230
+Ich bin 46 Jahre alt.
+
+19
+00:01:16,230 --> 00:01:20,230
+Wann sind Sie genau geboren?
+
+20
+00:01:20,230 --> 00:01:26,230
+Am 19. Juli 1975.
+
+21
+00:01:26,230 --> 00:01:32,690
+Okay, wie groß sind Sie?
+
+22
+00:01:32,690 --> 00:01:34,690
+1,84 m.
+
+23
+00:01:34,690 --> 00:01:39,930
+4,80 m.
+
+24
+00:01:39,930 --> 00:01:42,930
+Und wie viel wiegen Sie so seit?
+
+25
+00:01:42,930 --> 00:01:45,930
+82 kg.
+
+26
+00:01:45,930 --> 00:01:47,930
+82 kg.
+
+27
+00:01:47,930 --> 00:01:49,930
+Okay, alles gut.
+
+28
+00:01:49,930 --> 00:01:54,930
+Ja, Herr Haskenhof, was für Beschwerden haben Sie im Moment?
+
+29
+00:01:54,930 --> 00:02:01,930
+Ja, ich habe so seit ungefähr 3 Tagen, habe ich heftige Schmerzen im Rücken
+
+30
+00:02:01,930 --> 00:02:13,210
+und im linken Bein.
+
+31
+00:02:13,210 --> 00:02:15,210
+Seit 3 Tagen haben Sie das.
+
+32
+00:02:15,210 --> 00:02:18,210
+Ist das plötzlich oder langsam begonnen?
+
+33
+00:02:18,210 --> 00:02:21,210
+Nee, ziemlich plötzlich.
+
+34
+00:02:21,210 --> 00:02:23,210
+Kam plötzlich.
+
+35
+00:02:23,210 --> 00:02:26,520
+Okay.
+
+36
+00:02:26,520 --> 00:02:31,520
+Ist in der Ruhe aufgeschätzt oder bei Belastung?
+
+37
+00:02:31,520 --> 00:02:36,520
+Ja, ich musste einen schweren Sack mit Blumen Erde tragen.
+
+38
+00:02:36,520 --> 00:02:58,880
+Den musste ich hochheben und dann habe ich mich gedreht und dabei ist mir das in den Rücken gefahren.
+
+39
+00:02:58,880 --> 00:03:02,880
+Sie haben aber so etwas höhere nicht?
+
+40
+00:03:02,880 --> 00:03:07,880
+Ja, ich habe immer mal etwas Rückenschmerzen in den letzten Monaten,
+
+41
+00:03:07,880 --> 00:03:10,880
+aber das habe ich auf meinen Beruf zurückgeführt.
+
+42
+00:03:10,880 --> 00:03:15,880
+Aber solche Schmerzen, die auch ins Bein reingehen, hatte ich vorher noch nie?
+
+43
+00:03:15,880 --> 00:03:20,880
+Ja, sie haben auch im linken Bein Schmerzen.
+
+44
+00:03:20,880 --> 00:03:21,880
+Ja.
+
+45
+00:03:21,880 --> 00:03:27,880
+Okay, es ist Schaden in den linken Bein aus oder sie haben auch...
+
+46
+00:03:27,880 --> 00:03:32,880
+Das geht runter bis in den Fuß, in die Seite unten an den Knöchel.
+
+47
+00:03:32,880 --> 00:03:46,780
+Okay.
+
+48
+00:03:46,780 --> 00:03:50,780
+Können Sie bitte diese Schmerzen genau beschreiben?
+
+49
+00:03:50,780 --> 00:03:56,480
+Ist das brennend, zierhend?
+
+50
+00:03:56,480 --> 00:03:58,480
+Was für Schmerzen ist das?
+
+51
+00:03:58,480 --> 00:04:01,480
+Es ist mehr so brennend.
+
+52
+00:04:01,480 --> 00:04:07,480
+Aber auch dann ist es so ein bisschen auf der Haut, so ein bisschen wie pelzig.
+
+53
+00:04:07,480 --> 00:04:10,480
+Wenn man so drüber führt...
+
+54
+00:04:10,480 --> 00:04:13,480
+Wie holen, meinen Sie? Ich habe nicht verstanden.
+
+55
+00:04:13,480 --> 00:04:15,480
+Wie kribbeln?
+
+56
+00:04:15,480 --> 00:04:18,480
+Ich habe immer kribbeln und brennend.
+
+57
+00:04:18,480 --> 00:04:22,480
+Es kribbelt an der Haut da und es brennt.
+
+58
+00:04:22,480 --> 00:04:25,480
+Aber wenn ich über die Haut drüber fahre mit dem Finger,
+
+59
+00:04:25,480 --> 00:04:29,480
+fühlt sich das etwas pelzig an so.
+
+60
+00:04:29,480 --> 00:04:34,480
+Ich spüre das nicht so gut auf der Haut wie auf sonst auf der Haut.
+
+61
+00:04:34,480 --> 00:04:44,580
+Ja, ist gut.
+
+62
+00:04:44,580 --> 00:04:48,580
+Diese kribbeln und Störungen,
+
+63
+00:04:48,580 --> 00:04:52,580
+verspüren Sie wo genau?
+
+64
+00:04:52,580 --> 00:04:54,580
+Im linken Bein?
+
+65
+00:04:54,580 --> 00:04:58,580
+Ja, so am Unterschenkel, hier auf der Außenseite am Unterschenkel.
+
+66
+00:04:58,580 --> 00:05:00,580
+Außenseite, okay.
+
+67
+00:05:00,580 --> 00:05:04,580
+Also in der Wade und dann bis in den Knöchel und
+
+68
+00:05:04,580 --> 00:05:07,580
+ja, so bis in den Außenfuß.
+
+69
+00:05:07,580 --> 00:05:09,580
+Okay.
+
+70
+00:05:09,580 --> 00:05:15,580
+Hat sich Ihre Rückenschmerzen mit Bewegung verschlechtert?
+
+71
+00:05:15,580 --> 00:05:18,580
+Ja, Bewegung ist nicht gut.
+
+72
+00:05:18,580 --> 00:05:21,580
+Auch wenn ich mal husten muss, das ist auch schlimmer.
+
+73
+00:05:21,580 --> 00:05:23,580
+Ja.
+
+74
+00:05:23,580 --> 00:05:42,060
+Haben Sie Probleme mit Ihrer...
+
+75
+00:05:42,060 --> 00:05:45,060
+Wasserlassen zu halten?
+
+76
+00:05:45,060 --> 00:05:48,060
+Wie sagt man das?
+
+77
+00:05:48,060 --> 00:05:51,060
+Ja, Wasserlassen und Stuhlgang?
+
+78
+00:05:51,060 --> 00:05:54,060
+Ja, ich meine, unwillig wasserlassen.
+
+79
+00:05:54,060 --> 00:05:56,060
+unwillkürlich.
+
+80
+00:05:56,060 --> 00:05:58,060
+Ja.
+
+81
+00:05:58,060 --> 00:06:00,060
+Nein, ich kann, das geht.
+
+82
+00:06:00,060 --> 00:06:03,060
+Wasserlassen und Stuhlgang ist kein Problem.
+
+83
+00:06:03,060 --> 00:06:05,060
+Das geht.
+
+84
+00:06:05,060 --> 00:06:19,620
+Sie haben aber keine Unfall gehabt.
+
+85
+00:06:19,620 --> 00:06:22,620
+Nein, kein Unfall.
+
+86
+00:06:22,620 --> 00:06:25,620
+Aber ich habe keine Schwere,
+
+87
+00:06:25,620 --> 00:06:28,620
+und beim Begen hatten Sie...
+
+88
+00:06:28,620 --> 00:06:32,620
+Ein schwerer Sack hochheben, der Sack ist ungefähr 30 Kilo.
+
+89
+00:06:32,620 --> 00:06:35,620
+Und das muss ich oft machen bei der Arbeit.
+
+90
+00:06:35,620 --> 00:06:38,620
+Was machen Sie denn vom Beruf?
+
+91
+00:06:38,620 --> 00:06:41,620
+Ich bin im Gartenbau.
+
+92
+00:06:41,620 --> 00:06:44,620
+Ich bin im Garten- und Landschaftsbau.
+
+93
+00:06:44,620 --> 00:06:47,620
+Ich muss Wege pflastern und Bäume fällen.
+
+94
+00:06:47,620 --> 00:06:50,620
+Ich muss schwer tragen.
+
+95
+00:06:50,620 --> 00:07:05,110
+Können Sie Ihre Beine gut bewegen?
+
+96
+00:07:05,110 --> 00:07:09,420
+Ja, ich kann sie bewegen.
+
+97
+00:07:09,420 --> 00:07:12,420
+Aber ich merke, wenn ich so treppen steige,
+
+98
+00:07:12,420 --> 00:07:15,420
+das fällt mir schwer.
+
+99
+00:07:15,420 --> 00:07:17,420
+Also gerade treppen runter,
+
+100
+00:07:17,420 --> 00:07:20,420
+und ich habe nicht so viel Kraft.
+
+101
+00:07:20,420 --> 00:07:29,180
+Ich habe den eindrücklich Knick so weg.
+
+102
+00:07:29,180 --> 00:07:32,180
+Alles klar.
+
+103
+00:07:32,180 --> 00:07:35,180
+Wie stark sind die Schmerzen auf einer Scala
+
+104
+00:07:35,180 --> 00:07:38,180
+von 1 bis 10, wobei ein sehr leichten Schmerz
+
+105
+00:07:38,180 --> 00:07:41,180
+und sehr starken Schmerz entspricht?
+
+106
+00:07:41,180 --> 00:07:44,180
+Sie haben schon gesagt,
+
+107
+00:07:44,180 --> 00:07:47,180
+dass Sie solche Schmerzen beim Rücken schon gesprüft haben.
+
+108
+00:07:47,180 --> 00:07:50,180
+Aber das ist, ich denke, etwas erheftiger.
+
+109
+00:07:50,180 --> 00:07:53,180
+Ich würde sagen 1 bis 10, da würde ich sagen 8.
+
+110
+00:07:53,180 --> 00:08:02,710
+Haben Sie auch Kältegefühl in Ihrer Beine?
+
+111
+00:08:02,710 --> 00:08:05,710
+Nein, Kältegefühl.
+
+112
+00:08:05,710 --> 00:08:10,250
+Es kribbelt und brennt.
+
+113
+00:08:10,250 --> 00:08:13,250
+Nein, kältegefühl nicht.
+
+114
+00:08:13,250 --> 00:08:24,760
+Haben Sie etwas Ungewöhnliches bemerkt?
+
+115
+00:08:24,760 --> 00:08:27,760
+Ja, noch etwas Ungewöhnliches.
+
+116
+00:08:27,760 --> 00:08:30,760
+Ich habe noch etwas Ungewöhnliches bemerkt.
+
+117
+00:08:30,760 --> 00:08:35,010
+Ich habe noch etwas Ungewöhnliches bemerkt.
+
+118
+00:08:35,010 --> 00:08:38,010
+Ich habe noch etwas Ungewöhnliches bemerkt.
+
+119
+00:08:38,010 --> 00:08:41,010
+Nein, sonst nichts Besonderes.
+
+120
+00:08:41,010 --> 00:08:44,010
+Okay.
+
+121
+00:08:44,010 --> 00:08:47,010
+Wie fühlen Sie sich denn sonst körperlich?
+
+122
+00:08:47,010 --> 00:08:50,010
+Haben Sie in der letzten Zeit Fieber gehabt?
+
+123
+00:08:50,010 --> 00:08:53,010
+Schüttefrost oder Nachts Schweiß?
+
+124
+00:08:53,010 --> 00:08:56,010
+Nein, ich habe mich sonst immer ganz gesund gefühlt.
+
+125
+00:08:56,010 --> 00:08:59,010
+Ich konnte auch immer arbeiten.
+
+126
+00:08:59,010 --> 00:09:02,010
+Ich bin nicht krank gewesen.
+
+127
+00:09:02,010 --> 00:09:05,010
+Nein, das letzte Mal war ich, glaube ich, krank.
+
+128
+00:09:05,010 --> 00:09:08,010
+Ich konnte nicht arbeiten vor zwei Jahren.
+
+129
+00:09:08,010 --> 00:09:10,010
+Okay.
+
+130
+00:09:10,010 --> 00:09:18,260
+Haben Sie in der letzten Zeit Angewicht verloren?
+
+131
+00:09:18,260 --> 00:09:21,260
+Nein.
+
+132
+00:09:21,260 --> 00:09:24,260
+Nein, mein Gewicht habe ich immer so.
+
+133
+00:09:24,260 --> 00:09:27,260
+Zwischen 80 und 84 kg.
+
+134
+00:09:27,260 --> 00:09:30,260
+Das ist aber immer schon seit Jahren schon so in dem Bereich.
+
+135
+00:09:30,260 --> 00:09:33,260
+Wie ist es beim Schlagzeug?
+
+136
+00:09:33,260 --> 00:09:36,260
+Wie ist es beim Schlafen?
+
+137
+00:09:36,260 --> 00:09:39,260
+Haben Sie Schwierigkeiten beim Einschlafen oder durchzuschlafen?
+
+138
+00:09:39,260 --> 00:09:42,260
+Nein, ich kann super gut schlafen.
+
+139
+00:09:42,260 --> 00:09:45,260
+Morgen bin der Wecker Scheld.
+
+140
+00:09:45,260 --> 00:09:48,260
+Um halb sechs muss ich aufstehen.
+
+141
+00:09:48,260 --> 00:09:51,260
+Dann möchte ich immer noch weiter schlafen.
+
+142
+00:09:51,260 --> 00:09:54,260
+Aber ich kann gut schlafen.
+
+143
+00:09:54,260 --> 00:09:57,260
+Ja.
+
+144
+00:09:57,260 --> 00:10:00,260
+Ich habe schon gefragt, ob Sie Ihre Gewische mit dem Wasser lassen.
+
+145
+00:10:00,260 --> 00:10:03,260
+Ich möchte noch wissen, ob Sie Ihre Gewische mit dem Stuhlgang haben.
+
+146
+00:10:03,260 --> 00:10:06,260
+Nein.
+
+147
+00:10:06,260 --> 00:10:09,260
+Alles klar.
+
+148
+00:10:09,260 --> 00:10:15,940
+Sie haben auch erwähnt, dass Sie vor zwei Jahren krank waren.
+
+149
+00:10:15,940 --> 00:10:18,940
+Ich denke, Sie haben keine chronische Erkrankung.
+
+150
+00:10:18,940 --> 00:10:21,940
+Vor zwei Jahren war ich mal krank.
+
+151
+00:10:21,940 --> 00:10:24,940
+Da war eine Grippe.
+
+152
+00:10:24,940 --> 00:10:27,940
+Das war eine Grippe.
+
+153
+00:10:27,940 --> 00:10:30,940
+Da war nichts.
+
+154
+00:10:30,940 --> 00:10:33,940
+Ich war zehn Tage krank.
+
+155
+00:10:33,940 --> 00:10:36,940
+Ich war immer alles gut.
+
+156
+00:10:36,940 --> 00:10:39,940
+Bei Ihnen war es keine Erkrankung.
+
+157
+00:10:39,940 --> 00:10:42,940
+Keine Erkrankung.
+
+158
+00:10:42,940 --> 00:10:45,940
+Ich nehme Medikamente ein.
+
+159
+00:10:45,940 --> 00:10:48,940
+Gegen hohen Blutdruck.
+
+160
+00:10:48,940 --> 00:10:51,940
+Sie haben Bluthochdruck.
+
+161
+00:10:51,940 --> 00:10:54,940
+Seit fünf Jahren nehme ich die Tabletten ein.
+
+162
+00:10:54,940 --> 00:10:57,940
+Ich habe die Tabletten ein.
+
+163
+00:10:57,940 --> 00:11:00,940
+Ich habe hier ein Zettel.
+
+164
+00:11:00,940 --> 00:11:03,940
+Das steht drauf.
+
+165
+00:11:03,940 --> 00:11:06,940
+Die Tablette.
+
+166
+00:11:06,940 --> 00:11:09,940
+Eine Tablette morgens.
+
+167
+00:11:09,940 --> 00:11:12,940
+Und dann steht hier noch Ramie Bril.
+
+168
+00:11:12,940 --> 00:11:15,940
+Eine Tablette morgens.
+
+169
+00:11:15,940 --> 00:11:18,940
+Eine Tablette abends.
+
+170
+00:11:18,940 --> 00:11:21,940
+Eine Tablette abends.
+
+171
+00:11:21,940 --> 00:11:24,940
+Eine Tablette abends.
+
+172
+00:11:24,940 --> 00:11:36,410
+morgens und eine Tablette abends. Wurden sie dann schon mal operiert? Ja, das ist aber schon lange her.
+
+173
+00:11:36,410 --> 00:11:47,170
+Als Kind wurde ich an den Mandeln operiert. Da war ich glaube ich sieben Jahre alt. Und dann wurde
+
+174
+00:11:47,170 --> 00:12:00,530
+ich operiert am Blinddarm. Da war ich 18 und dann wurde ich noch mal operiert am rechten Fuß,
+
+175
+00:12:00,530 --> 00:12:13,980
+am Sprunggelenk hatte ich eine Bruch durch Fußball spielen. Da war ich 21. Ich habe
+
+176
+00:12:13,980 --> 00:12:21,740
+gar nicht gut verstanden. Hatten Sie irgendwelche ihre Knochen gebrochen oder? Ja, der Knochen war
+
+177
+00:12:21,740 --> 00:12:29,100
+gebrochen am Knöchel, am Sprunggelenk glaube ich heißt das. Rechts am rechten Fuß und das wurde
+
+178
+00:12:29,100 --> 00:12:47,190
+operiert. Da war ich 21. Das war beim Fußballspielen passiert. Als Medikamente nehmen Sie Bysoprolol und
+
+179
+00:12:47,190 --> 00:12:59,340
+Jomipil. Außer dieser nehmen Sie regelmäßig Medikamente ein, keiner. Ist bei Ihnen allergin bekannt?
+
+180
+00:12:59,340 --> 00:13:14,100
+Nein, allergin habe ich nicht. Sind Sie regelmäßig geimpft auch gegen Corona? Ja, habe ich jetzt die
+
+181
+00:13:14,100 --> 00:13:21,180
+dritte Impfung gemacht, diese Booster Impfung und sonst habe ich auch alle Impfungen. Ich gehe
+
+182
+00:13:21,180 --> 00:13:26,620
+auch zur Vorsorgeuntersuchung zum Hausarzt und wer hat gesagt, ich brauche nicht, im Augenblick
+
+183
+00:13:26,620 --> 00:13:38,200
+nicht geimpft werden. Ist alles in Ordnung. Okay, jetzt möchte ich nach Ihrer Lebensgewohnheit
+
+184
+00:13:38,200 --> 00:13:46,360
+fragen. Zum Beispiel rauchen Sie, trinken Sie Alkohol, eventuell auch Drogen? Also Drogen
+
+185
+00:13:46,360 --> 00:13:56,360
+nehme ich nicht. Alkohol trinke ich abends in eine Flasche Bier, so halber Liter, 0,5 eine,
+
+186
+00:13:56,360 --> 00:14:07,360
+aber nicht mehr. Täglich Arbeit, oder? Eigentlich jeden Tag. Rauchen tu ich schon seit 30 Jahren,
+
+187
+00:14:07,360 --> 00:14:18,470
+auch ich so 20 Zigaretten, also eine Packung am Tag. Seit 30 Jahren haben Sie das? Ja, seit 30 Jahren.
+
+188
+00:14:18,470 --> 00:14:38,460
+Okay. Ist bei Ihrer Familie, bei Ihrer Nährung und Zerwand schafft ein wichtiger Erkrankung bekannt.
+
+189
+00:14:38,460 --> 00:14:46,740
+Was verstehen Sie unter wichtige Erkrankungen? Ich meine chronische Erkrankungen zum Beispiel
+
+190
+00:14:46,740 --> 00:14:54,100
+Bluthochdruck, Blutsuckerkrankheit oder irgendwelche Krebserkrankungen. Also Krebserkrankungen
+
+191
+00:14:54,100 --> 00:15:05,380
+nicht. Meine Eltern, die haben beide etwas Alterszucker, die sind beide 70 Jahre alt und der Vater hat
+
+192
+00:15:05,380 --> 00:15:11,460
+Alterszucker und etwas hohen Blutdruck auch und die Mutter hat Alterszucker und Atrose,
+
+193
+00:15:11,460 --> 00:15:30,060
+Atrose an den Fingern, aber kein richtiges Rheuma. Alterszucker haben Sie gesagt? Ja, der Arzt
+
+194
+00:15:30,060 --> 00:15:35,580
+sagt Ihnen immer, Sie hätten Alterszucker. Also die haben den Zucker auch jetzt erst seit wenigen
+
+195
+00:15:35,580 --> 00:15:43,220
+Jahren im Alter gekriegt und die nehmen beide eine Zuckertablette, glaube ich, ein, aber das
+
+196
+00:15:43,220 --> 00:15:48,540
+ist glaube ich ganz gut so, sind die Werte ganz gut. Sie haben aber erhöhte Zuckerwerte,
+
+197
+00:15:48,540 --> 00:16:02,780
+oder? Die haben die Eltern, ja. Ja, ich meine die Eltern, ja. Okay, Sie haben gesagt, dass Sie als
+
+198
+00:16:02,780 --> 00:16:15,420
+Gardnerbau arbeiten. Ja. Ich möchte auch wissen, ob Sie verheiratet sind. Ja, ich bin verheiratet. Wir
+
+199
+00:16:15,420 --> 00:16:28,740
+haben zwei Kinder, die Kinder sind 16 und 18 Jahre alt, die sind gesund. Sie leben mit ihrer Familie
+
+200
+00:16:28,740 --> 00:16:50,320
+zusammen. Ja, ja. Okay, ich bin, ich habe alle Fragen meiner Seite gestellt. Und was, was, was
+
+201
+00:16:50,320 --> 00:17:00,950
+kann das sein? Was denken Sie, was ich haben kann? Also Herr Haskenhof, ich habe noch keine
+
+202
+00:17:00,950 --> 00:17:11,790
+konkrete Diagnose gestellt, aber ich gehe davon aus, dass Sie ein Problem mit Ihrer Bandscheibe haben,
+
+203
+00:17:12,630 --> 00:17:22,710
+mit, mit Ihrer Muskulatur. Okay. Aber um eine genaue Aussage machen zu können, möchte ich Sie gerne
+
+204
+00:17:22,710 --> 00:17:33,110
+körperlich untersuchen. Ja. Und ich möchte noch eine MRT-Untersuchung machen, Kenspien. Okay.
+
+205
+00:17:34,110 --> 00:17:47,270
+Untersuchung ja. Danach können wir weiter spägen. Okay. Bin ich mit einverstanden. Alles klar.
+
+206
+00:17:47,270 --> 00:17:55,710
+Brauchen Sie noch Fragen an mich? Danke, nein im Augenblick nicht. Brauchen Sie fünf Minuten zum
+
+207
+00:17:55,710 --> 00:18:17,430
+bleiben. Bitte. Bis gleich. Bis gleich. Okay. Ja. Guten Tag. Guten Tag, Herr Oberarzt. Ich habe eine neue
+
+208
+00:18:17,430 --> 00:18:22,870
+Aufnahme. In der Notaufnahme die möchte ich Ihnen gerne vorstellen. Haben Sie Zeit für mich?
+
+209
+00:18:23,470 --> 00:18:42,430
+Hab ich. Okay. Herr Klaus Haskenhof, 48 Jahre alte, alt, neun, ist neun Zentren, Juli 1975 geboren. Er ist
+
+210
+00:18:42,430 --> 00:18:53,390
+1 Meter 84 Zentimeter groß und wiegt derzeit 82 Kilo. Der Patient stellte sich wegen der plötzlich
+
+211
+00:18:53,390 --> 00:19:07,070
+beginnenden seit drei Tagen bestehende heftige Schmerzen im Lücken und im linken Bein bei uns vor. Er gab
+
+212
+00:19:07,070 --> 00:19:22,070
+an, dass die Schmerzen brennend sind, eine Ausstrahlung im ganzen linken Bein bis hin zum Fuß von vorhanden.
+
+213
+00:19:22,070 --> 00:19:37,870
+Die Schmerzintenz dazhüfte er auf 8 von 10 ein. Außerdem sagte der Patient, dass er Sensibilität
+
+214
+00:19:37,870 --> 00:19:51,350
+Stürmen betroffenen Beine habe. Wo sind die Sensibilität Stürmen? Es ist im linken Außenseiter des
+
+215
+00:19:51,350 --> 00:20:03,110
+linken Beins. Ja, linker Unterschenkel. Ja, linker, linken Unterschenkel. Gibt es eine, eine, eine Ursache
+
+216
+00:20:03,110 --> 00:20:11,110
+dieser Schmerzen? Ist er gestürzt oder? Ja, ich habe darüber gesprochen, aber er hat
+
+217
+00:20:11,110 --> 00:20:21,270
+irgendwie einen Fall verneint, aber er habe eine schwere Sage, er habe versucht, eine schwere
+
+218
+00:20:21,270 --> 00:20:30,990
+Sage hochzuheben und beim Brechen habe er diese Schmerzen verspürt, eigentlich. Das war die Auslöser.
+
+219
+00:20:31,310 --> 00:20:48,430
+Er ist ein Gardner-Bauer. Ja, ja, solche Schmerzen habe er auch. Im letzten
+
+220
+00:20:48,430 --> 00:21:01,020
+Zeit, das ist eine intermitierende Lumbargie eigentlich, aber das war nicht so stark.
+
+221
+00:21:01,020 --> 00:21:07,180
+Die Schmerzen in der früheren Zeit waren die genauso stark und hatten die auch eine
+
+222
+00:21:07,180 --> 00:21:14,260
+Ausstrahlung oder war das eine rückenschmerzige? Die war ohne Ausstrahlung und ohne Sensibilität
+
+223
+00:21:14,260 --> 00:21:28,780
+Stimmung. Er berichtete nur rückenschmerzen. Okay. Berichtet der Patient über Paresen? Genau, beim
+
+224
+00:21:28,780 --> 00:21:42,980
+Treppelsteigen bemerkte er am linken Fußbereich. Ja, also beim Flexiworn. Über eine Schwäche, über
+
+225
+00:21:42,980 --> 00:21:50,060
+eine Schwäche im Bein oder auch über, hat er auch Paresen. Hat er Paresen in der Blasenmuskulatur,
+
+226
+00:21:50,060 --> 00:22:06,670
+hat Erlähmungserscheinungen dort? Ach so, ja, ich bin mir nicht sicher. Aber Sie haben mich gefragt,
+
+227
+00:22:06,670 --> 00:22:17,990
+haben Sie Beschwerden beim Wasserlassen? Ja. Ja, das habe ich. Ich habe keine Beschwerden. Also die
+
+228
+00:22:17,990 --> 00:22:26,190
+Frage nach eventuell neurologischen Ausfallsfinkter, Glasensfinkter oder Schließmuskelstuhlgang,
+
+229
+00:22:26,790 --> 00:22:34,070
+sind verneint worden. Also da gibt es keine neurologischen Ausfälle. Genau. Aber er habe
+
+230
+00:22:34,070 --> 00:22:44,190
+Kribben der Beine auch? Aber keine Störung des Wasserlassens. Er kann den Urin halten. Ja.
+
+231
+00:22:44,190 --> 00:22:55,470
+Hat keine Inkontinenz, weder in der Blase noch im Rektum. Keine Stuhlinkoninenz. Gut. Okay.
+
+232
+00:22:56,790 --> 00:23:12,540
+Hat der Patient Schmerzmittel gebraucht? Wir haben darüber nicht gesprochen, ob er schon mal
+
+233
+00:23:12,540 --> 00:23:23,780
+Schmerzmittel eingenommen hat oder nicht. Ich muss mal fragen, aber er betet keine Schmerzmittel.
+
+234
+00:23:23,780 --> 00:23:32,700
+Hat der Patient sonst chronische Erkrankungen? Bei ihm, Artilielle Lipatonie bekannt, seit fünf
+
+235
+00:23:32,700 --> 00:23:41,140
+Jahren. Dagegen nehme er Bsopolol fünf Milligramm einmal morgens und Jamipril fünf Milligramm einmal
+
+236
+00:23:41,140 --> 00:23:48,700
+morgens und einmal abends. Ja gut. Gibt es sonst Auffälligkeiten in der Vorgeschichte,
+
+237
+00:23:48,700 --> 00:24:06,110
+Risikofaktoren? Für einen frische Herr Nibancheim Vorfall. Ein eigener Risikofaktor ist Arbeit. Er ist
+
+238
+00:24:06,110 --> 00:24:14,910
+Gardnerbauer vom Beruf. Das ist sicherlich ein Risikofaktor. Hat der Patient Voroperationen?
+
+239
+00:24:14,910 --> 00:24:26,070
+Ja, mit sieben Jahren, lebensjahr, wurde eine Tonsillektomie durchgeführt und mit 18
+
+240
+00:24:26,070 --> 00:24:40,710
+Ependeptimi. Er habe gesagt, auch wegen einer Unfall des Spungsgelenk würde eine Ostiastentese
+
+241
+00:24:40,710 --> 00:24:50,240
+durchgetragen. Wie alt war der Patient da? Ich muss das mal auch fragen. Das war beim Kindheit,
+
+242
+00:24:50,240 --> 00:25:05,080
+aber mit 21 Jahren. Ein Fußballspiel. Ja. Okay. Gut. Was haben Sie für eine Verdachtdiagnose?
+
+243
+00:25:07,480 --> 00:25:16,440
+Meine Verdachtdiagnose ist Diskuspolapsus. Ja. Welchen Bereich würden Sie erwarten bei dieser
+
+244
+00:25:16,440 --> 00:25:34,800
+Ausstrahlung seitlicher Unterschenkel? Ja, L4, L5 oder? L5. Ja. Kann man denken. Ja. Die Verdachtdiagnose
+
+245
+00:25:34,800 --> 00:25:48,440
+kann man pädifere Nähren schaden, Degenerative Veranderung oder herpes Zoster? Ja, herpes Zoster
+
+246
+00:25:48,440 --> 00:25:57,960
+gut. Kann oft auch noch im Frühstadium sein ohne Hauteffluoreszenzen. Haben wir immer wieder
+
+247
+00:25:57,960 --> 00:26:03,400
+schon erlebt, dass Patienten erst auf Rücken und Bandscheibe behandelt werden beim
+
+248
+00:26:03,400 --> 00:26:09,160
+Autopäden. Und dann kommen plötzlich die Hauteffluoreszenzen und dann ist die Diagnose eines
+
+249
+00:26:09,160 --> 00:26:14,280
+herpes Zoster da. Der ist natürlich anders behandelt werden muss als ein Bandscheibenvorfall. Das ist
+
+250
+00:26:14,280 --> 00:26:23,080
+klar. Was spricht denn, aber für einen Bandscheibenvorfall spricht ja eher dieses... An am Nese. Nese des
+
+251
+00:26:23,080 --> 00:26:29,160
+Hebens, des Drehens vielleicht, dass das ein plötzlicher Schmerz war. Das spricht nicht
+
+252
+00:26:29,160 --> 00:26:34,520
+unbedingt für ein herpes Zoster, aber in die Differenzialdiagnose sollte man das mit einbeziehen.
+
+253
+00:26:34,520 --> 00:26:46,680
+Gibt es einen Hinweis für eine PAVK? Das war eigentlich... Ich muss auch beiderkörperlich
+
+254
+00:26:46,680 --> 00:26:53,080
+untersuchen auf der Beine, ob irgendwelche Hautveranderungen, Haurausfall gibt oder nicht. Aber
+
+255
+00:26:53,160 --> 00:27:00,840
+er belichtete nicht bei Belastung irgendwelchen Schmerzen eigentlich. Er hat Bewegungseinschenkung,
+
+256
+00:27:00,840 --> 00:27:13,040
+kann nicht bewegen, aber das fängt nicht nach Laufen. Okay, okay, spricht nicht dafür. Er hat eine
+
+257
+00:27:13,040 --> 00:27:19,720
+Schwäche im Bein, sicherlich eine gewisse Kraftminderung wahrscheinlich. Sie haben beschrieben,
+
+258
+00:27:19,720 --> 00:27:27,200
+beim Treppensteigen, das spricht ja eher auch für eine Bandscheibenproblematik als für eine PAVK.
+
+259
+00:27:27,200 --> 00:27:45,120
+Gut, Risikofaktoren sonst, braucht er? Für PAVK, ja, er hat Nikotinkonsum 30-Payout, er
+
+260
+00:27:45,120 --> 00:27:58,120
+hat Bluthochdruck, habe keine familiärer Disposition. Gut, ich füge jetzt die Arbeitsdiagnose,
+
+261
+00:27:58,120 --> 00:28:08,120
+Verdachtdiagnose, Discos Prolapse im Segment vielleicht L5, vielleicht auch S1, L4 ist glaube
+
+262
+00:28:08,120 --> 00:28:15,320
+ich ein bisschen höher, aber mal gucken. Und differenzial diagnostisch sicherlich kann ein
+
+263
+00:28:15,320 --> 00:28:26,560
+Herbst Zoster mit reinspielen oder eventuell eine PAVK. Was spricht gegen ein Pseudoradikuläres
+
+264
+00:28:26,560 --> 00:28:37,680
+Syndrome? Es gibt ja auch einen Pseudoradikulären Schmerz ins Bein, also mit einer rein Irritation
+
+265
+00:28:37,680 --> 00:28:49,240
+vielleicht des Nerven. Wir machen jetzt eine kleine Fachprüfung. Wahrscheinlich spricht dagegen,
+
+266
+00:28:49,240 --> 00:28:54,840
+dass er eine neurologische Symptomatik hat, also zum Beispiel, dass die Kraftminderung da ist,
+
+267
+00:28:54,840 --> 00:29:00,200
+nach dem Bein, dass er nicht gut Treppen steigen kann, dass er das spürt, dass er da nicht viel
+
+268
+00:29:00,200 --> 00:29:05,280
+Kraft im Bein hat. Das ist glaube ich beim pseudoradikulären Syndrome eher so nicht der Fall.
+
+269
+00:29:06,280 --> 00:29:12,120
+Ich denke die Arbeitsdiagnose ist so, was machen Sie jetzt weiter,
+
+270
+00:29:12,120 --> 00:29:21,950
+in weiteren diagnostischen Schritten? Also wenn wir Discos Prolapse bestätigen,
+
+271
+00:29:21,950 --> 00:29:32,270
+es hängt davon ab, welche Stufe es hat. Wir haben konservative Therapie mit dem konservative
+
+272
+00:29:32,270 --> 00:29:38,710
+Therapie anfangen, Medikamentos. Er hat Schmerzen, Schmerztherapie und
+
+273
+00:29:38,710 --> 00:29:49,310
+anti-inflammatorische Therapie, auch Physiotherapie. Okay. Und ich meinte zuerst, da haben Sie ja
+
+274
+00:29:49,310 --> 00:29:54,030
+vorhin schon gesagt, zuerst die körperliche Untersuchung mit Schwerpunkt neurologische
+
+275
+00:29:54,350 --> 00:30:04,910
+Untersuchung, Reflexe, Pulse, Lautinspektionen, gegebenenfalls Bildgebung, kommt ins Spiel MRT
+
+276
+00:30:04,910 --> 00:30:14,150
+oder ein CT, je nachdem. Und dann entscheidet, ist es etwas konservativ zu behandeln,
+
+277
+00:30:15,110 --> 00:30:26,230
+oder eben operativ. Der Patient hat keine akute Symptomatik, die eine Intervention notwendig
+
+278
+00:30:26,230 --> 00:30:33,470
+macht wie eine Blasen- und Mastarmproblematik. Er hat keine Hinkonnenz. Insofern können wir
+
+279
+00:30:33,470 --> 00:30:39,350
+jetzt erst mal mit einer ausreichenden Schmerztherapie auch dem Patienten vielleicht dann auch helfen.
+
+280
+00:30:40,270 --> 00:30:50,870
+Ja, ich finde, das haben Sie sehr gut und sehr ruhig gemacht und die Anamnese auch systematisch
+
+281
+00:30:50,870 --> 00:30:58,590
+gut erhoben. Und das war auch sehr gut verständlich. Nachher bei der Schilderung beim Oberarzt,
+
+282
+00:30:58,590 --> 00:31:03,430
+dann versuchen Sie mal nicht die Hand vor den Mund zu nehmen, das haben Sie häufig dann
+
+283
+00:31:04,430 --> 00:31:13,310
+gemacht. Das ist einfach weghalten die Hand. Aber gut ist, Sie haben die Fachausdrücke dann
+
+284
+00:31:13,310 --> 00:31:20,710
+eingesetzt. Tonsylektromie, Apendectromie, Ostiosynthese, das wird ja gewünscht, dass Sie da
+
+285
+00:31:20,710 --> 00:31:27,590
+umschalten von der Patientensprache in die Klinische Sprache und ich denke, das ist Ihnen gut
+
+286
+00:31:27,590 --> 00:31:38,590
+und wenn haben Sie Prüfung am 16. Mai und wo haben Sie die Prüfung in Düsseldorf?

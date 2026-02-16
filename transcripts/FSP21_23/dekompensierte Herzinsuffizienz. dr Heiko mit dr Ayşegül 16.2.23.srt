@@ -1,0 +1,1335 @@
+1
+00:00:00,460 --> 00:00:11,420
+Hallo, guten Abend. Ich bin Ünlast. Ich bin als Assistant auf dieser Station tätig und heute für Sie zuständig.
+
+2
+00:00:11,420 --> 00:00:17,420
+Ich würde gerne mit Ihnen das Aufnahmegespräch durchführen. Seht Sie damit einverstanden?
+
+3
+00:00:17,420 --> 00:00:18,420
+Ja.
+
+4
+00:00:18,420 --> 00:00:26,420
+Ich würde gerne erst mal ein paar Fragen zur Ihrer Person stellen. Wie heißen Sie?
+
+5
+00:00:26,420 --> 00:00:37,420
+Ich heiße Hans-Peter Engelbrecht. Könntest du Sie bitte Ihre Macht- und Vornahmen wuschen zu werden?
+
+6
+00:00:37,420 --> 00:00:52,890
+Ja, Hans-Peter schreibt sich h a n s, ein Minus, Zeichen Peter P e t e r. Hans-Peter ist der Vorname.
+
+7
+00:00:52,890 --> 00:01:01,890
+Und Engelbrecht e n g e l, wie der Engel.
+
+8
+00:01:01,890 --> 00:01:02,890
+Ja.
+
+9
+00:01:02,890 --> 00:01:09,890
+W r e c h und t Engelbrecht.
+
+10
+00:01:09,890 --> 00:01:13,890
+Ja, Herr Engelbrecht, wie alt sind Sie?
+
+11
+00:01:13,890 --> 00:01:15,890
+Ich bin 61.
+
+12
+00:01:16,890 --> 00:01:20,890
+Wann sind Sie je n a geborgen?
+
+13
+00:01:20,890 --> 00:01:24,890
+Am 5. Februar 1962.
+
+14
+00:01:24,890 --> 00:01:32,770
+Ja. Wie groß und wie schwer sind Sie?
+
+15
+00:01:32,770 --> 00:01:44,930
+1 Meter 81 und 86 Kilo.
+
+16
+00:01:44,930 --> 00:01:51,930
+Okay. Herr Engelbrecht, was für Sie so uns, was für Beschwerden haben Sie?
+
+17
+00:01:51,930 --> 00:02:01,930
+Ja, ich habe jetzt so seit circa 3 Stunden sehr starke Luftnot. Ich kann mich gar nicht mehr flach hinlegen.
+
+18
+00:02:01,930 --> 00:02:10,930
+Das kann ich nicht. Da wird die Luftnot noch viel schlimmer. Die Luftnot war in den letzten Wochen auch vorhanden,
+
+19
+00:02:10,930 --> 00:02:14,930
+aber nicht so schlimm wie jetzt seit 3 Stunden.
+
+20
+00:02:14,930 --> 00:02:16,930
+Haben Sie Burus-Schmerzen?
+
+21
+00:02:16,930 --> 00:02:18,930
+Nein, keine Schmerzen.
+
+22
+00:02:18,930 --> 00:02:35,600
+Jetzt muss ich unser Besprechbausüren. Ich muss Ihre Witterparameter messen und an EKG schreiben.
+
+23
+00:02:35,600 --> 00:02:36,600
+Okay.
+
+24
+00:02:36,600 --> 00:02:39,600
+Ja, bitte liegen Sie auf dem Lege auch.
+
+25
+00:02:39,600 --> 00:02:42,600
+Ja, jetzt, ja.
+
+26
+00:02:42,600 --> 00:02:49,600
+Jetzt Ihre Witterparameter ist stabil. Können wir weiter machen?
+
+27
+00:02:49,600 --> 00:02:51,600
+Ja.
+
+28
+00:02:51,600 --> 00:02:58,600
+Sie haben gesagt, Sie haben starke Luftnot seit 3 Stunden.
+
+29
+00:02:58,600 --> 00:03:06,600
+Wann ist diese Schmerzen, erst mal, wie sind die Schmerzen aufgerät?
+
+30
+00:03:06,600 --> 00:03:11,600
+Sie haben gesagt, seit letzten 3 Wochen, oder?
+
+31
+00:03:11,600 --> 00:03:17,600
+Nein, also ich habe ja keine Schmerzen. Das ist starke Luftnot. Ich bekomme keine Luft.
+
+32
+00:03:17,600 --> 00:03:25,600
+Das ist jetzt ganz schlimm seit 3 Stunden, aber in den letzten Wochen habe ich auch schlecht Luft bekommen,
+
+33
+00:03:25,600 --> 00:03:28,600
+aber nicht so schlimm wie jetzt heute.
+
+34
+00:03:28,600 --> 00:03:32,600
+Ich konnte nicht mehr die Treppen richtig hoch steigen.
+
+35
+00:03:32,600 --> 00:03:37,600
+Ich wohne im zweiten Stockwerk und da muss ich dann immer mehrere Pausen jetzt machen,
+
+36
+00:03:37,600 --> 00:03:41,600
+um überhaupt meine Wohnung zu erreichen.
+
+37
+00:03:41,600 --> 00:03:45,600
+Ja, okay.
+
+38
+00:03:45,600 --> 00:03:54,920
+Sie haben gesagt, Sie haben keine Schmerzen.
+
+39
+00:03:54,920 --> 00:04:00,920
+Keine Schmerzen. Ich habe keine Schmerzen, aber die Luft ist schlecht. Ich bekomme keine Luft.
+
+40
+00:04:00,920 --> 00:04:04,920
+Ja, haben Sie Luftnot auch in der Ruhe?
+
+41
+00:04:04,920 --> 00:04:06,920
+Ja.
+
+42
+00:04:06,920 --> 00:04:14,920
+Ja, 3 Stunden ganz stark auch in der Ruhe. Ich muss ziemlich schnell atmen und kriege schlecht Luft.
+
+43
+00:04:14,920 --> 00:04:20,920
+Leiden Sie unter Herzrasen oder Perfektation?
+
+44
+00:04:20,920 --> 00:04:22,920
+Wie bitte?
+
+45
+00:04:22,920 --> 00:04:25,920
+Herzrasen, leiden Sie unter Herzrasen?
+
+46
+00:04:25,920 --> 00:04:29,920
+Also ich glaube, mein Puls geht jetzt ziemlich schnell.
+
+47
+00:04:29,920 --> 00:04:34,920
+In der letzten Zeit war auch, glaube ich, schneller der Puls.
+
+48
+00:04:34,920 --> 00:04:38,920
+Ja, schneller als normal.
+
+49
+00:04:38,920 --> 00:04:48,320
+Gibt es bestimmte Auflöser für diese Luftnot?
+
+50
+00:04:48,320 --> 00:04:54,320
+Ja, wenn ich mich bewege, wenn ich mich etwas körperlich anstrenge,
+
+51
+00:04:54,320 --> 00:04:57,320
+das schaffe ich nicht mehr.
+
+52
+00:04:57,320 --> 00:05:04,320
+Ich muss mich eigentlich in den Sessel setzen oder ins Bett und mit vielen Kissen im Bett.
+
+53
+00:05:04,320 --> 00:05:08,320
+So kann ich ganz gut, so kann ich Luft gehen.
+
+54
+00:05:08,320 --> 00:05:13,320
+Ich kann jetzt nicht mehr gehen hier oder die Treppe steigen. Das schaffe ich jetzt nicht.
+
+55
+00:05:13,320 --> 00:05:15,320
+Okay.
+
+56
+00:05:15,320 --> 00:05:18,320
+Haben Sie ähnliche Beschwerden früher?
+
+57
+00:05:18,320 --> 00:05:26,460
+Nein, aber in den letzten Wochen hatte ich eben auch schon Luftnot, aber nicht so schlimm.
+
+58
+00:05:26,460 --> 00:05:30,460
+War es deswegen bei anderen?
+
+59
+00:05:30,460 --> 00:05:34,460
+Jetzt nicht, in den letzten Wochen nicht.
+
+60
+00:05:34,460 --> 00:05:38,460
+Aber sonst werde ich vom Arzt kontrolliert,
+
+61
+00:05:38,460 --> 00:05:44,460
+weil er sagt, ich habe mein Herz funktioniert nicht mehr richtig.
+
+62
+00:05:44,460 --> 00:05:49,460
+Ich habe auch eine schlecht fließende Herzklappe.
+
+63
+00:05:49,460 --> 00:05:54,460
+Und mein Arzt überprüft das immer, einmal im Jahr.
+
+64
+00:05:54,460 --> 00:05:58,460
+Und er sagte mir, wenn es jetzt schlimmer wird, dann soll ich sofort kommen.
+
+65
+00:05:58,460 --> 00:06:03,460
+Aber heute ist es so schlimm, da bin ich lieber gleich ins Krankenhaus gegangen, in die Klinik.
+
+66
+00:06:03,460 --> 00:06:07,870
+Okay, ich habe verstanden.
+
+67
+00:06:07,870 --> 00:06:14,870
+Hat Ihr als Deswegen ein Medikament verschreiben?
+
+68
+00:06:14,870 --> 00:06:18,870
+Sieben, verschrieben ja. Ich nehme mehrere Medikamente.
+
+69
+00:06:18,870 --> 00:06:22,870
+Einmal wegen meinem hohen Blutdruck.
+
+70
+00:06:22,870 --> 00:06:26,870
+Seit zehn Jahren habe ich hohen Blutdruck und da nehme ich ein Medikament.
+
+71
+00:06:26,870 --> 00:06:32,870
+Und ein Medikament, das auch mein Herz wohl etwas unterstützen soll.
+
+72
+00:06:32,870 --> 00:06:36,870
+Und ein Medikament gegen hohes Cholesterin, nämlich.
+
+73
+00:06:36,870 --> 00:06:43,280
+Wie heißen Sie Medikament?
+
+74
+00:06:43,280 --> 00:06:54,280
+Ja, ich habe hier ein Zettel. Auf dem Zettel steht KW D. Loel 1,25.
+
+75
+00:06:54,280 --> 00:06:58,280
+Dann nehme ich morgens eine Tablette und abends.
+
+76
+00:06:58,280 --> 00:07:03,280
+Und dann steht hier noch Kandy Satan.
+
+77
+00:07:04,280 --> 00:07:09,280
+8 Medikament, 1 morgens, 1 abends.
+
+78
+00:07:09,280 --> 00:07:16,280
+Und für Cholesterin nehme ich Rosu Vastatin.
+
+79
+00:07:16,280 --> 00:07:24,030
+20 steht dahinter, 20 nehme ich 1 abends.
+
+80
+00:07:24,030 --> 00:07:26,030
+Ja, okay.
+
+81
+00:07:26,030 --> 00:07:28,030
+Haben Sie Husten?
+
+82
+00:07:28,030 --> 00:07:32,030
+Ja, in den letzten Tagen habe ich vermehrt Husten gehabt.
+
+83
+00:07:32,030 --> 00:07:38,030
+Und heute muss ich auch ganz häufig Husten und auch Schleim aushusten.
+
+84
+00:07:38,030 --> 00:07:45,030
+Können Sie bitte die Schleim beschreiben?
+
+85
+00:07:45,030 --> 00:07:51,030
+Ja, der ist so weisslich, weisslich.
+
+86
+00:07:51,030 --> 00:07:53,030
+Sonst nicht.
+
+87
+00:07:53,030 --> 00:07:56,030
+Nein, weißlich.
+
+88
+00:07:56,030 --> 00:07:59,980
+Okay.
+
+89
+00:07:59,980 --> 00:08:02,980
+Raus, das Zigarette.
+
+90
+00:08:03,980 --> 00:08:08,980
+Ich habe früher mal geraucht, aber das ist schon 30 Jahre her.
+
+91
+00:08:08,980 --> 00:08:13,980
+Da habe ich geraucht, aber seit 30 Jahren rauche ich nicht mehr.
+
+92
+00:08:13,980 --> 00:08:17,980
+Wie viele Jahre haben Sie geraucht?
+
+93
+00:08:17,980 --> 00:08:28,100
+Na, so 15 Jahre, aber nicht viel. 50 Retten vielleicht am Tag.
+
+94
+00:08:28,100 --> 00:08:30,100
+Das war nicht so viel.
+
+95
+00:08:30,100 --> 00:08:32,100
+Ja, okay.
+
+96
+00:08:32,100 --> 00:08:40,410
+Haben Sie Ihren Blutdruck gemessen?
+
+97
+00:08:40,410 --> 00:08:42,410
+Den Blutdruck?
+
+98
+00:08:42,410 --> 00:08:43,410
+Ja.
+
+99
+00:08:43,410 --> 00:08:45,410
+Jetzt heute nicht.
+
+100
+00:08:45,410 --> 00:08:48,410
+Ich habe mal hin und wieder Messe, ich mal den Blutdruck.
+
+101
+00:08:48,410 --> 00:08:55,410
+Ich glaube, letzte Woche habe ich mal gemessen, da war er so 145 zu 90.
+
+102
+00:08:55,410 --> 00:09:00,410
+Aber in letzter Zeit war er nie sehr hoch.
+
+103
+00:09:00,410 --> 00:09:03,410
+Der Arzt war eigentlich bei den Arztkontrollen,
+
+104
+00:09:03,410 --> 00:09:06,410
+der Arzt war eigentlich immer zufrieden mit dem Blutdruck.
+
+105
+00:09:06,410 --> 00:09:08,410
+Okay.
+
+106
+00:09:08,410 --> 00:09:15,410
+Haben Sie Luftnode beim Ein- und Ausatmen, beide?
+
+107
+00:09:15,410 --> 00:09:17,410
+Ja.
+
+108
+00:09:17,410 --> 00:09:20,410
+Ja, beim Arm.
+
+109
+00:09:20,410 --> 00:09:23,410
+Ich muss jetzt auch einfach viel schneller atmen, so ruhig.
+
+110
+00:09:23,410 --> 00:09:27,410
+Atme sonst ruhiger, aber heute und jetzt seit diesen 3 Stunden
+
+111
+00:09:27,410 --> 00:09:30,410
+muss ich viel mehr atmen, viel schneller.
+
+112
+00:09:30,410 --> 00:09:36,220
+Ja, okay.
+
+113
+00:09:36,220 --> 00:09:39,220
+Haben Sie geschwunden, eine Beine?
+
+114
+00:09:39,220 --> 00:09:43,220
+Ja, gerade in den letzten Wochen, da sind die Beine immer sehr dick.
+
+115
+00:09:43,220 --> 00:09:47,220
+Und zum Abend besonders dick.
+
+116
+00:09:47,220 --> 00:09:54,220
+Und morgens sind sie dann manchmal etwas dünner, aber immer geschwollen.
+
+117
+00:09:54,220 --> 00:09:58,220
+Und das ist in den letzten Wochen stärker geworden.
+
+118
+00:09:58,220 --> 00:10:00,220
+Viel stärker.
+
+119
+00:10:01,220 --> 00:10:03,220
+Ja.
+
+120
+00:10:03,220 --> 00:10:06,220
+Eine Beine oder beide Beine?
+
+121
+00:10:06,220 --> 00:10:14,870
+Beine Beine.
+
+122
+00:10:14,870 --> 00:10:21,870
+Haben Sie Luft in der Beine oder nur geschwollene Beine?
+
+123
+00:10:21,870 --> 00:10:26,870
+Nein, sonst sind die Beine dick,
+
+124
+00:10:26,870 --> 00:10:30,870
+aber sonst sind die Beine in Ordnung.
+
+125
+00:10:30,870 --> 00:10:32,870
+Ja.
+
+126
+00:10:32,870 --> 00:10:40,870
+Haben Sie in Beine Krypton, Topheizgefühl oder Lebewung?
+
+127
+00:10:40,870 --> 00:10:43,870
+Nein, nein, habe ich nicht.
+
+128
+00:10:43,870 --> 00:10:56,800
+Haben Sie in der letzten Zeit eine Reise gemacht?
+
+129
+00:10:56,800 --> 00:11:02,040
+Keine große Reise.
+
+130
+00:11:02,040 --> 00:11:07,040
+Ich war im letzten Sommer, war ich 3 Wochen in Österreich,
+
+131
+00:11:07,040 --> 00:11:11,040
+aber sonst habe ich keine großen Reisen gemacht.
+
+132
+00:11:11,040 --> 00:11:14,040
+Okay.
+
+133
+00:11:14,040 --> 00:11:19,040
+Sind die Luftnoten beim Liegen verschrägt?
+
+134
+00:11:19,040 --> 00:11:22,040
+Ja, habe ich dich verschrägt.
+
+135
+00:11:22,040 --> 00:11:25,040
+Ich kann mich gar nicht mehr hinlegen seit 3 Stunden.
+
+136
+00:11:25,040 --> 00:11:29,040
+Da bekomme ich keine Luft, deshalb muss ich sitzen.
+
+137
+00:11:29,040 --> 00:11:31,040
+Okay.
+
+138
+00:11:31,040 --> 00:11:34,040
+Und in den letzten Wochen habe ich immer,
+
+139
+00:11:34,040 --> 00:11:38,040
+musste ich auch immer nachts mit mindestens 2 Kissen liegen.
+
+140
+00:11:38,040 --> 00:11:42,040
+Mein Kopf musste etwas höher liegen, sonst konnte ich gar nicht schlafen.
+
+141
+00:11:42,040 --> 00:11:46,040
+Und ich musste auch nachts ganz häufig auf Toilette und Wasser lassen.
+
+142
+00:11:46,040 --> 00:11:50,040
+Wie oft gehen Sie auf die Toilette nachts?
+
+143
+00:11:50,040 --> 00:11:56,240
+Ja, in den letzten Wochen so 4 Mal.
+
+144
+00:11:56,240 --> 00:11:58,240
+Okay.
+
+145
+00:11:58,240 --> 00:12:02,320
+Haben Sie Fieber?
+
+146
+00:12:02,320 --> 00:12:05,320
+Nein, ich hatte auch in letzter Zeit kein Fieber.
+
+147
+00:12:05,320 --> 00:12:07,320
+Nein.
+
+148
+00:12:07,320 --> 00:12:11,320
+Haben Sie nach Schweiß oder Schweiß aufgedrückt?
+
+149
+00:12:11,320 --> 00:12:14,320
+Ja, das hatte ich schon in den letzten Wochen.
+
+150
+00:12:14,320 --> 00:12:17,320
+Als das mit der Luftnot schlimmer wurde, hatte ich häufig auch mal nachts,
+
+151
+00:12:17,320 --> 00:12:20,320
+dass ich stark geschwitzt habe.
+
+152
+00:12:20,320 --> 00:12:23,320
+Und habe ich dann auch nicht mehr so gut geschlafen,
+
+153
+00:12:23,320 --> 00:12:26,320
+weil ich war mehr unruhig.
+
+154
+00:12:26,320 --> 00:12:32,810
+Ich war aber immer tagsüber sehr müde und sehr schlapp.
+
+155
+00:12:32,810 --> 00:12:35,810
+Haben Sie Probleme beim Stuhlgang?
+
+156
+00:12:35,810 --> 00:12:38,810
+Nein, das ist in Ordnung.
+
+157
+00:12:38,810 --> 00:12:40,810
+Okay.
+
+158
+00:12:40,810 --> 00:12:45,810
+Was haben Sie noch auf die Toilette gegeben?
+
+159
+00:12:45,810 --> 00:12:58,810
+Haben Sie noch andere Probleme?
+
+160
+00:12:58,810 --> 00:13:01,810
+Ich habe keine Probleme.
+
+161
+00:13:01,810 --> 00:13:05,810
+Ich war vor einem Jahr beim Urulogen zur Vorsorge und Versuchung.
+
+162
+00:13:05,810 --> 00:13:07,810
+Da war alles in Ordnung.
+
+163
+00:13:07,810 --> 00:13:09,810
+Prostatei ist in Ordnung.
+
+164
+00:13:09,810 --> 00:13:14,810
+Aber jetzt in den letzten Wochen nachts viel häufiger auf Toilette
+
+165
+00:13:14,810 --> 00:13:16,810
+und Wasser lassen.
+
+166
+00:13:16,810 --> 00:13:18,810
+Okay.
+
+167
+00:13:18,810 --> 00:13:21,810
+Ist Ihnen Schwinde?
+
+168
+00:13:21,810 --> 00:13:23,810
+Ja, hoffentlich.
+
+169
+00:13:23,810 --> 00:13:25,810
+Ich habe auch noch eine Frage.
+
+170
+00:13:25,810 --> 00:13:27,810
+Ich habe noch eine Frage.
+
+171
+00:13:27,810 --> 00:13:30,810
+Ist Ihnen Schwinde?
+
+172
+00:13:30,810 --> 00:13:35,810
+Ja, heute seit der Luftnot, jetzt ist mir ziemlich schwindelig.
+
+173
+00:13:35,810 --> 00:13:38,810
+Ja, okay.
+
+174
+00:13:38,810 --> 00:13:42,810
+Haben Sie in der letzten Zeit ab oder so genommen?
+
+175
+00:13:42,810 --> 00:13:45,810
+Ich habe zugenommen.
+
+176
+00:13:45,810 --> 00:13:48,810
+Ich habe in den letzten vier Wochen ungefähr 5 kg zugenommen.
+
+177
+00:13:48,810 --> 00:13:55,330
+Wie ist Ihr Appetit?
+
+178
+00:13:55,330 --> 00:13:58,330
+Appetit ist normalerweise gut.
+
+179
+00:13:58,330 --> 00:14:01,330
+Ich vertrage vom Essen her auch alles.
+
+180
+00:14:01,330 --> 00:14:05,330
+Aber in den letzten Wochen auch, wo ich die Luftnot so hatte,
+
+181
+00:14:05,330 --> 00:14:10,330
+war der Appetit nicht mehr so gut.
+
+182
+00:14:10,330 --> 00:14:13,330
+Ich habe mich allerdings auch weniger bewegt,
+
+183
+00:14:13,330 --> 00:14:16,330
+weil ich ja so schnell Luftnot bekam.
+
+184
+00:14:16,330 --> 00:14:18,330
+Okay.
+
+185
+00:14:18,330 --> 00:14:21,330
+Ist Ihnen Allergie bekannt?
+
+186
+00:14:21,330 --> 00:14:26,800
+Allergie habe ich nicht.
+
+187
+00:14:26,800 --> 00:14:29,800
+Ich habe nicht mehr.
+
+188
+00:14:29,800 --> 00:14:32,800
+Haben Sie vorstandig geimpft?
+
+189
+00:14:32,800 --> 00:14:35,800
+Ich bin, glaube ich, vollständig geimpft.
+
+190
+00:14:35,800 --> 00:14:39,800
+Ja, ich habe häufiger Arbeitsunfälle gehabt in meinem Beruf.
+
+191
+00:14:39,800 --> 00:14:43,800
+Und da wurde ich häufiger versorgt.
+
+192
+00:14:43,800 --> 00:14:46,800
+Und da kriegte ich alle Impfungen.
+
+193
+00:14:46,800 --> 00:14:49,800
+Tätternuss-Impfung und Diff-Therie.
+
+194
+00:14:49,800 --> 00:14:53,800
+Und Covid-Impfung habe ich auch alle gehabt.
+
+195
+00:14:53,800 --> 00:14:56,800
+Und das ist dazu Frieden.
+
+196
+00:14:56,800 --> 00:14:59,800
+Ja, okay.
+
+197
+00:14:59,800 --> 00:15:01,800
+Als Vorerkrankung, leiden Sie,
+
+198
+00:15:01,800 --> 00:15:04,800
+Arterie, Riechibotöne, Hyperchoreostomy,
+
+199
+00:15:04,800 --> 00:15:07,800
+gibt es noch etwas?
+
+200
+00:15:07,800 --> 00:15:11,800
+Nein, aber wie gesagt, mein Arzt sagte eben,
+
+201
+00:15:11,800 --> 00:15:15,800
+dass ich auch ein klaches Herz habe.
+
+202
+00:15:15,800 --> 00:15:20,400
+Okay.
+
+203
+00:15:20,400 --> 00:15:23,400
+Wurde Sie schon einmal operiert?
+
+204
+00:15:23,400 --> 00:15:26,400
+Ja, als Kind wurde ich mal operiert.
+
+205
+00:15:26,400 --> 00:15:29,400
+Da war ich so, glaube ich, zehn Jahre alt.
+
+206
+00:15:29,400 --> 00:15:32,400
+Da wurde ich an den Mandeln operiert.
+
+207
+00:15:32,400 --> 00:15:35,400
+Und da war ich so, glaube ich, 13 Jahre alt.
+
+208
+00:15:35,400 --> 00:15:38,400
+Da wurde ich am Blinddamm operiert.
+
+209
+00:15:38,400 --> 00:15:42,450
+Ja.
+
+210
+00:15:42,450 --> 00:15:44,450
+Okay.
+
+211
+00:15:44,450 --> 00:15:47,790
+Trinken Sie Alkohol?
+
+212
+00:15:47,790 --> 00:15:50,790
+Ja, aber das ist nicht regelmäßig.
+
+213
+00:15:50,790 --> 00:15:53,790
+Ich trinke mal, wenn wir Besuch haben,
+
+214
+00:15:53,790 --> 00:15:55,790
+Freunde, da trinke ich mal ein Glas Bier.
+
+215
+00:15:55,790 --> 00:15:58,790
+Aber nicht jeden Tag.
+
+216
+00:15:58,790 --> 00:16:00,790
+Okay.
+
+217
+00:16:00,790 --> 00:16:03,790
+Nehmen Sie diese Frage nicht persönlich?
+
+218
+00:16:03,790 --> 00:16:05,790
+Das ist eine Routifrageweibung.
+
+219
+00:16:05,790 --> 00:16:07,790
+Haben Sie Kontakt mit Drogen?
+
+220
+00:16:07,790 --> 00:16:10,790
+Nein, habe ich nicht.
+
+221
+00:16:10,790 --> 00:16:13,790
+Okay.
+
+222
+00:16:13,790 --> 00:16:17,790
+Leben Ihre Eltern noch?
+
+223
+00:16:17,790 --> 00:16:20,790
+Die Mutter lebt noch.
+
+224
+00:16:20,790 --> 00:16:24,790
+Die Mutter ist 84 Jahre alt.
+
+225
+00:16:24,790 --> 00:16:30,790
+Die hat auch hohen Blutdruck und allgemeinen Gelenkverschleiß.
+
+226
+00:16:30,790 --> 00:16:33,790
+Arthrose in den Gelenken.
+
+227
+00:16:33,790 --> 00:16:38,790
+Der Vater, der ist gestorben mit 78.
+
+228
+00:16:38,790 --> 00:16:43,790
+Und da hat man gesagt, er ist an Herz schwäche gestorben.
+
+229
+00:16:43,790 --> 00:16:45,790
+Okay.
+
+230
+00:16:45,790 --> 00:16:48,790
+Ja, mein Beide.
+
+231
+00:16:48,790 --> 00:16:51,790
+Haben Sie Geschwister?
+
+232
+00:16:51,790 --> 00:16:54,790
+Ja, ich habe einen Bruder.
+
+233
+00:16:54,790 --> 00:16:57,790
+Er ist ein paar Jahre älter als ich.
+
+234
+00:16:57,790 --> 00:17:00,790
+Der hat hohen Blutdruck.
+
+235
+00:17:00,790 --> 00:17:02,790
+Ja.
+
+236
+00:17:02,790 --> 00:17:04,790
+Okay.
+
+237
+00:17:04,790 --> 00:17:06,790
+Was machen Sie von Beirut?
+
+238
+00:17:06,790 --> 00:17:14,180
+Ich bin von Beruf Tischler.
+
+239
+00:17:14,180 --> 00:17:16,180
+Ja.
+
+240
+00:17:16,180 --> 00:17:18,180
+Sind Sie verheiratet?
+
+241
+00:17:18,180 --> 00:17:22,490
+Ja, ich bin verheiratet und wohne mit meiner Frau zusammen.
+
+242
+00:17:22,490 --> 00:17:24,490
+Okay.
+
+243
+00:17:24,490 --> 00:17:30,490
+Ja, zwei Kinder, die sind 32 Jahre alt und 34 Jahre alt.
+
+244
+00:17:30,490 --> 00:17:33,490
+Ja, die sind gesund.
+
+245
+00:17:33,490 --> 00:17:35,490
+Ja.
+
+246
+00:17:35,490 --> 00:17:37,490
+Okay.
+
+247
+00:17:37,490 --> 00:17:45,150
+Okay.
+
+248
+00:17:45,150 --> 00:17:48,150
+Ich habe meine Fragen gesteckt.
+
+249
+00:17:48,150 --> 00:17:51,150
+Möchtest du etwas hierzufügen?
+
+250
+00:17:51,150 --> 00:17:54,150
+Ja, was kann das sein?
+
+251
+00:17:54,150 --> 00:17:58,150
+Dass es mir jetzt so schnell so schlecht geht und ich keine Luft mehr bekomme?
+
+252
+00:17:58,150 --> 00:18:02,150
+Ja, ja, ja, ich verstehe.
+
+253
+00:18:02,150 --> 00:18:26,550
+Aber jetzt kann ich nicht momentan in einer genannten
+
+254
+00:18:26,550 --> 00:18:28,550
+Beide.
+
+255
+00:18:28,550 --> 00:18:31,550
+Für die weitere Untersuchungen und Behandelte,
+
+256
+00:18:31,550 --> 00:18:34,550
+Müssten Sie bei uns bleiben?
+
+257
+00:18:34,550 --> 00:18:37,550
+Bitte nehmen Sie einen Platz im Weitensimmer.
+
+258
+00:18:37,550 --> 00:18:39,550
+Ich riefe Sie gleich an.
+
+259
+00:18:39,550 --> 00:18:41,550
+Ja, danke.
+
+260
+00:18:41,550 --> 00:18:43,550
+Okay, können wir so machen.
+
+261
+00:18:43,550 --> 00:18:45,550
+Gut.
+
+262
+00:18:45,550 --> 00:18:50,550
+So, dann brauchen Sie jetzt einige Minuten und vielleicht...
+
+263
+00:18:51,550 --> 00:18:55,550
+Hab ich meine Kollegen und Kollegen andere Fragen.
+
+264
+00:18:55,550 --> 00:19:08,820
+Ich habe keine Fragen.
+
+265
+00:19:08,820 --> 00:19:10,820
+Okay.
+
+266
+00:19:10,820 --> 00:19:13,820
+Ja, können wir anfangen.
+
+267
+00:19:13,820 --> 00:19:15,820
+Okay.
+
+268
+00:19:15,820 --> 00:19:17,820
+Hallo Oberjahrs.
+
+269
+00:19:17,820 --> 00:19:19,820
+Guten Abend.
+
+270
+00:19:19,820 --> 00:19:21,820
+Guten Abend.
+
+271
+00:19:21,820 --> 00:19:24,820
+Ich habe eine neue Person hier passiert.
+
+272
+00:19:24,820 --> 00:19:27,820
+Hat Sie sich Kurse zahlt für mich?
+
+273
+00:19:27,820 --> 00:19:29,820
+Ja, habe ich.
+
+274
+00:19:29,820 --> 00:19:35,820
+Ich berichte über den Patienten Hans-Peter Engerbricht.
+
+275
+00:19:35,820 --> 00:19:38,820
+Er ist alt und 60 Jahre alt.
+
+276
+00:19:38,820 --> 00:19:43,820
+Er ist 5 Jahre alt, 1902 und 80 Jahre alt.
+
+277
+00:19:43,820 --> 00:19:45,820
+62 Jahre alt.
+
+278
+00:19:45,820 --> 00:19:49,820
+Ich habe 62 Jahre alt.
+
+279
+00:19:49,820 --> 00:19:51,820
+Er ist 60 Jahre alt.
+
+280
+00:19:51,820 --> 00:19:54,820
+Er ist 1 Meter alt und 80 cm.
+
+281
+00:19:54,820 --> 00:19:58,820
+Er ist 86 km schwer.
+
+282
+00:19:58,820 --> 00:20:10,820
+Er hat sich heute bei uns seit 3 Stunden bei der Stärke auf die Luft.
+
+283
+00:20:10,820 --> 00:20:15,820
+Ja, die Düse, die Düse, die Düse vorgestellt.
+
+284
+00:20:15,820 --> 00:20:26,820
+Er berichtet, dass die Schmerzen seit 3 Wochen
+
+285
+00:20:26,820 --> 00:20:31,820
+nicht bei Belastung aufgeregt sind.
+
+286
+00:20:31,820 --> 00:20:34,820
+Schmerzen oder Symptome?
+
+287
+00:20:34,820 --> 00:20:37,820
+Symptome, ja.
+
+288
+00:20:37,820 --> 00:20:50,820
+Und wurden die Symptome im Laufe seit Verschlechter.
+
+289
+00:20:50,820 --> 00:20:54,820
+Er hat jetzt die Symptome in Ruhe.
+
+290
+00:20:54,820 --> 00:21:07,820
+Er klagte über Herz-Rasen, Farbitation, Angstgefühl.
+
+291
+00:21:07,820 --> 00:21:14,820
+Er leide an Herz-Rasen und Düstne.
+
+292
+00:21:14,820 --> 00:21:20,820
+Er nutzt zwei Kisten zum Schlafen.
+
+293
+00:21:20,820 --> 00:21:31,820
+Er leide an Herzklappen-Krankenheit.
+
+294
+00:21:31,820 --> 00:21:39,820
+Es besteht an amnestisch ein Hinweis auf ein Herzklappen-Vizium.
+
+295
+00:21:39,820 --> 00:21:45,820
+Er ist unklarer Lokalisation.
+
+296
+00:21:45,820 --> 00:21:50,820
+Der Patient weiß nicht, welchen Herzklappen er betroffen ist.
+
+297
+00:21:50,820 --> 00:21:55,820
+Er ist ein Herzklappen-Vizium.
+
+298
+00:21:55,820 --> 00:22:00,820
+Er ist seit 10 Jahren ein Arteriehrer.
+
+299
+00:22:00,820 --> 00:22:06,820
+Er hat eine Hypertons-Systeme.
+
+300
+00:22:06,820 --> 00:22:19,820
+Er hat in der letzten Zeit 4 kg zugenommen.
+
+301
+00:22:19,820 --> 00:22:23,820
+In welchem Zeitraum? Wissen Sie das?
+
+302
+00:22:23,820 --> 00:22:26,820
+Das ist die 4 Woche.
+
+303
+00:22:26,820 --> 00:22:31,820
+Er berichtet der Patient über eine Gewichtszunahme von 4 kg.
+
+304
+00:22:31,820 --> 00:22:40,820
+Er klagte auf Nüktürü.
+
+305
+00:22:40,820 --> 00:22:50,820
+Er hat 4-mal eine Gewichtszunahme.
+
+306
+00:22:50,820 --> 00:23:00,820
+Er hat beide Bein-Ödemen.
+
+307
+00:23:00,820 --> 00:23:12,230
+Er klagte auf 4-malige Nükturü.
+
+308
+00:23:12,230 --> 00:23:22,230
+Er klagte auf 4-malige Nükturü.
+
+309
+00:23:22,230 --> 00:23:29,230
+Er klagte auf 4-malige Nükturü.
+
+310
+00:23:29,230 --> 00:23:45,230
+Er ist seit 1870 in Sufianz gestorben.
+
+311
+00:23:45,230 --> 00:23:55,230
+Er ist seit 1870 in Sufianz gestorben.
+
+312
+00:23:55,230 --> 00:24:05,230
+Er ist seit 1870 in Sufianz gestorben.
+
+313
+00:24:05,230 --> 00:24:10,230
+Er hat eine Arteriehrer-Hypertons-Systeme.
+
+314
+00:24:10,230 --> 00:24:18,230
+Er schubst eine Heiß-Insofianz.
+
+315
+00:24:18,230 --> 00:24:30,230
+Wahrscheinlich eine dekompensierte Erd-Infizienz.
+
+316
+00:24:30,230 --> 00:24:40,230
+Er schubst eine Erd-Infizienz.
+
+317
+00:24:40,230 --> 00:24:50,230
+Er schubst eine Erd-Infizienz.
+
+318
+00:24:50,230 --> 00:25:00,230
+Er schubst eine Erd-Infizienz.
+
+319
+00:25:00,230 --> 00:25:10,230
+Er schubst eine Erd-Infizienz.
+
+320
+00:25:10,230 --> 00:25:18,230
+Er schubst eine Erd-Infizienz.
+
+321
+00:25:18,230 --> 00:25:28,230
+Er schubst eine Erd-Infizienz.
+
+322
+00:25:28,230 --> 00:25:38,230
+Er spricht vieles für eine dekompensierte Myokart-Insofizienz.
+
+323
+00:26:38,230 --> 00:26:48,230
+Er ist 61 Jahre alt.
+
+324
+00:26:48,230 --> 00:26:58,230
+Er ist 61 Jahre alt.
+
+325
+00:26:58,230 --> 00:27:07,230
+Er ist 61 Jahre alt.
+
+326
+00:27:07,230 --> 00:27:17,230
+Er ist 61 Jahre alt.
+
+327
+00:27:17,230 --> 00:27:27,230
+Er ist 61 Jahre alt.
+
+328
+00:27:27,230 --> 00:27:35,230
+Er ist 61 Jahre alt.
+
+329
+00:27:35,230 --> 00:27:45,230
+Er ist 61 Jahre alt.
+
+330
+00:27:45,230 --> 00:27:55,230
+Er ist 61 Jahre alt.
+
+331
+00:27:55,230 --> 00:28:04,230
+Er ist 61 Jahre alt.
+
+332
+00:28:04,230 --> 00:28:14,230
+Er ist 61 Jahre alt.
+
+333
+00:28:14,230 --> 00:28:24,230
+Er ist 61 Jahre alt.
+
+334
+00:28:24,230 --> 00:28:33,230
+Er ist 61 Jahre alt.

@@ -1,0 +1,2311 @@
+1
+00:00:00,000 --> 00:00:02,000
+Ja.
+
+2
+00:00:04,000 --> 00:00:06,000
+Ja, und tak.
+
+3
+00:00:06,000 --> 00:00:11,000
+Mein Name ist Gündüz. Ich bin in der Notaufnahme als Assistenz Ersynthetik.
+
+4
+00:00:11,000 --> 00:00:16,000
+Und wir gehen mit Ihnen das Anamnesi-Geschbrehführung in Ordnung für Sie.
+
+5
+00:00:16,000 --> 00:00:18,000
+Ja, gerne.
+
+6
+00:00:18,000 --> 00:00:24,000
+Bevor wir mit uns errempeln, möchten wir Ihnen ein paar allgemeine Fragen stellen.
+
+7
+00:00:24,000 --> 00:00:29,000
+Wenn Sie etwas nicht verstehen oder etwas Fragen haben, bitte sagen Sie mir Bescheid.
+
+8
+00:00:29,000 --> 00:00:31,000
+Okay?
+
+9
+00:00:31,000 --> 00:00:32,000
+Okay, schön.
+
+10
+00:00:32,000 --> 00:00:35,000
+Darf ich Ihren Namen erfahren?
+
+11
+00:00:35,000 --> 00:00:39,000
+Ja, mein Name ist Steven Koch.
+
+12
+00:00:39,000 --> 00:00:43,000
+Können Sie Ihren Vor- und Nachnamen buchtabieren?
+
+13
+00:00:43,000 --> 00:00:44,000
+Ja.
+
+14
+00:00:44,000 --> 00:00:46,000
+Vorname ist Steven.
+
+15
+00:00:46,000 --> 00:00:54,000
+Ich schreibe wie Siegfried, Theodor, Emil, V, E-N, Emil Nordpol.
+
+16
+00:00:54,000 --> 00:00:58,000
+Steven, Nachname ist Koch.
+
+17
+00:00:58,000 --> 00:01:00,000
+K, O, C-H.
+
+18
+00:01:00,000 --> 00:01:02,000
+C-H, okay.
+
+19
+00:01:02,000 --> 00:01:04,000
+Herr Koch, wie alt sind Sie?
+
+20
+00:01:04,000 --> 00:01:08,600
+Ich bin um 16, 50 Jahre alt.
+
+21
+00:01:08,600 --> 00:01:11,600
+Was ist der Gunagheborun?
+
+22
+00:01:11,600 --> 00:01:22,020
+Ich bin am 5., 10., 65 geworden.
+
+23
+00:01:22,020 --> 00:01:24,020
+Wie groß sind Sie?
+
+24
+00:01:24,020 --> 00:01:28,020
+Ich bin 1,76 m groß.
+
+25
+00:01:28,020 --> 00:01:31,020
+Wie viel wiegt ihr zur Seite?
+
+26
+00:01:31,020 --> 00:01:34,020
+Ja, so ungefähr 80 kg.
+
+27
+00:01:34,020 --> 00:01:36,020
+Okay.
+
+28
+00:01:36,020 --> 00:01:40,020
+Herr Koch, was für Bescheid haben Sie zur Seite?
+
+29
+00:01:40,020 --> 00:01:52,020
+Ich habe seit 3 Monaten in meiner rechten Leiste geschmerzt.
+
+30
+00:01:52,020 --> 00:02:02,100
+Wir sind seit 3 Tagen schlimmer geworden.
+
+31
+00:02:02,100 --> 00:02:11,060
+3 Tage sind schlimmer geworden.
+
+32
+00:02:11,060 --> 00:02:15,060
+Aber Sie haben es seit 3 Monaten verwendet.
+
+33
+00:02:15,060 --> 00:02:17,060
+Ja, genau.
+
+34
+00:02:17,060 --> 00:02:21,060
+Sie haben die rechten Leiste geschmerzt.
+
+35
+00:02:21,060 --> 00:02:25,060
+Genau, meine rechten Leistenregion.
+
+36
+00:02:25,060 --> 00:02:32,060
+Gibt es dort etwas ungewöhnliches Knoten oder so?
+
+37
+00:02:32,060 --> 00:02:35,060
+Nein, nicht, dass ich höchst.
+
+38
+00:02:35,060 --> 00:02:37,060
+Ich habe da nichts besonders getastet.
+
+39
+00:02:37,060 --> 00:02:50,060
+Wie beschreiben Sie die Schmerzen?
+
+40
+00:02:50,060 --> 00:02:55,060
+Wenn ich hier sitze, tut mir nichts weh.
+
+41
+00:02:55,060 --> 00:02:59,060
+Nur wenn ich laufen möchte, gehen möchte,
+
+42
+00:02:59,060 --> 00:03:02,060
+tun mir die ersten 5-10 m weh.
+
+43
+00:03:02,060 --> 00:03:07,060
+Ich habe weniger Schmerzen.
+
+44
+00:03:07,060 --> 00:03:10,060
+Am Anfang spürst du dich mehr?
+
+45
+00:03:10,060 --> 00:03:13,060
+Mehr, wenn ich lange sitze und aufstehe,
+
+46
+00:03:13,060 --> 00:03:15,060
+dann tut mir weh.
+
+47
+00:03:15,060 --> 00:03:18,060
+Aber wenn ich 10-20 m gelaufen bin,
+
+48
+00:03:18,060 --> 00:03:21,060
+dann geht es wieder.
+
+49
+00:03:21,060 --> 00:03:23,060
+Okay, ich verstehe.
+
+50
+00:03:23,060 --> 00:03:29,060
+Wenn Sie die Schmerzen auf einer Skala von 1 bis 10
+
+51
+00:03:29,060 --> 00:03:31,060
+beschreiben müssen, wo würden Sie einschätzen?
+
+52
+00:03:31,060 --> 00:03:36,060
+Das heißt, dass Sie die Schmerzen auf einer Skala beenden.
+
+53
+00:03:36,060 --> 00:03:43,730
+Ja, ich würde schon sagen, 8.
+
+54
+00:03:43,730 --> 00:03:47,730
+Gibt es in Ihrer Familie eine Schmerz,
+
+55
+00:03:47,730 --> 00:03:52,730
+die ich auf der Schmerz auf der Schmerz habe?
+
+56
+00:03:52,730 --> 00:03:55,730
+Nein, nicht, dass ich höchst.
+
+57
+00:03:55,730 --> 00:03:59,730
+Gibt es eine Schmerzprobleme?
+
+58
+00:03:59,730 --> 00:04:01,730
+Am Knie?
+
+59
+00:04:01,730 --> 00:04:04,730
+Ja, keine Probleme.
+
+60
+00:04:04,730 --> 00:04:07,730
+Zur Zeit nicht, Gott sei Dank.
+
+61
+00:04:07,730 --> 00:04:09,730
+Okay.
+
+62
+00:04:09,730 --> 00:04:12,730
+Spürst du dich mehr?
+
+63
+00:04:12,730 --> 00:04:18,730
+Wenn Sie die Schmerzen auf einer Skala beenden,
+
+64
+00:04:18,730 --> 00:04:23,730
+tun Sie z.B. morgens oder abends?
+
+65
+00:04:23,730 --> 00:04:30,730
+Ja, das ist eigentlich immer nach Belastung für das Weh.
+
+66
+00:04:30,730 --> 00:04:35,730
+Seit drei Tagen tut es die ganze Zeit wie egal, wie ich belaste.
+
+67
+00:04:35,730 --> 00:04:39,730
+Aber bis zu den drei Tagen war es meistens morgenschmerz
+
+68
+00:04:39,730 --> 00:04:41,730
+und abends in Ruhe auch Schmerzen.
+
+69
+00:04:41,730 --> 00:04:47,600
+Okay.
+
+70
+00:04:47,600 --> 00:04:49,600
+Manchmal.
+
+71
+00:04:49,600 --> 00:04:53,600
+Okay, Herr Kuhl, um Ihre Allgemeinsustand zu beurteilen,
+
+72
+00:04:53,600 --> 00:04:55,600
+möchte ich Ihnen noch weitere Fragen stellen.
+
+73
+00:04:55,600 --> 00:04:59,600
+Wie fühlen Sie sich allgemein?
+
+74
+00:04:59,600 --> 00:05:01,600
+Ich fühle sich gut.
+
+75
+00:05:01,600 --> 00:05:04,600
+Ja, sehr gut.
+
+76
+00:05:04,600 --> 00:05:08,600
+Haben Sie Probleme mit dem Magen oder Darm?
+
+77
+00:05:08,600 --> 00:05:11,600
+Nein.
+
+78
+00:05:11,600 --> 00:05:13,600
+Okay.
+
+79
+00:05:13,600 --> 00:05:17,600
+Ich höre Sie, Ihre Herr Manchmal ist in der Alstung.
+
+80
+00:05:17,600 --> 00:05:21,600
+Ich habe mit dem Herz noch keine Probleme.
+
+81
+00:05:21,600 --> 00:05:25,600
+Haben Sie Lungenprobleme, Atemnot?
+
+82
+00:05:25,600 --> 00:05:27,600
+Nein.
+
+83
+00:05:27,600 --> 00:05:32,600
+Haben Sie Schwierigkeiten beim Vassalassun oder mit dem Urin?
+
+84
+00:05:32,600 --> 00:05:35,600
+Nein, auch nicht.
+
+85
+00:05:35,600 --> 00:05:40,600
+Hat Ihrer Gebi, hat sich Ihrer Gebi in Neste sein verändert?
+
+86
+00:05:40,600 --> 00:05:42,600
+10 Gewalt?
+
+87
+00:05:42,600 --> 00:05:44,600
+10 Gewalt? Nein.
+
+88
+00:05:44,600 --> 00:05:47,550
+Okay.
+
+89
+00:05:47,550 --> 00:05:53,550
+Leidung Sie unter relevanten Erkrankungen, Herr Kuhl?
+
+90
+00:05:53,550 --> 00:05:58,550
+Ich meine Bluthochdruckdiabetes.
+
+91
+00:05:58,550 --> 00:06:03,550
+Ja, also macht Bluthochdruckerkrankungen,
+
+92
+00:06:03,550 --> 00:06:06,550
+dann nenn ich ein bisschen Medikament ein.
+
+93
+00:06:06,550 --> 00:06:11,550
+Welche Medikamente nennst du?
+
+94
+00:06:11,550 --> 00:06:13,550
+Nennst du Azea-Hemma?
+
+95
+00:06:13,550 --> 00:06:19,620
+Wissen Sie, wie heisst das?
+
+96
+00:06:19,620 --> 00:06:22,620
+Azea-Hemma, 10 Milligramm.
+
+97
+00:06:22,620 --> 00:06:24,620
+Okay.
+
+98
+00:06:25,620 --> 00:06:33,620
+Abgesehen von diesen Medikamenten, nehmen Sie noch etwas ein?
+
+99
+00:06:33,620 --> 00:06:38,620
+Letzter Zeit bei Bedarf, im Profen.
+
+100
+00:06:38,620 --> 00:06:42,620
+Ich nehme mich ein, 800 Milligramm, weil ich Schmerzen habe.
+
+101
+00:06:42,620 --> 00:06:44,620
+Ja, ich habe Schmerzen.
+
+102
+00:06:44,620 --> 00:06:49,020
+Okay.
+
+103
+00:06:49,020 --> 00:06:54,020
+Und ich nehme noch, wie heißt das, Allopurinol ein.
+
+104
+00:06:54,020 --> 00:06:58,360
+100 Milligramm.
+
+105
+00:06:58,360 --> 00:07:03,360
+Der Hausarzt.
+
+106
+00:07:03,360 --> 00:07:12,360
+Ich hatte einmal früher vor zwei Jahren Gicht gehabt.
+
+107
+00:07:12,360 --> 00:07:17,360
+Gicht am Fall gehabt und da hat er mir das verschrieben.
+
+108
+00:07:17,360 --> 00:07:25,410
+Seitdem Leidung Sie Bluthochdruck?
+
+109
+00:07:25,410 --> 00:07:32,410
+Seit fünf Jahren bestimmt oder zehn Jahren.
+
+110
+00:07:32,410 --> 00:07:38,410
+Wann hatten Sie Gicht am Fall, Darf ich fragen?
+
+111
+00:07:38,410 --> 00:07:41,410
+Das war glaube ich vor fünf Jahren.
+
+112
+00:07:41,410 --> 00:07:50,410
+Abgesehen von diesen Krankheiten haben Sie noch weitere Medikamenten?
+
+113
+00:07:50,410 --> 00:07:52,410
+Nein, nicht, dass ich rüster.
+
+114
+00:07:52,410 --> 00:07:55,410
+Was ist mit dem Verkauf der Operation?
+
+115
+00:07:55,410 --> 00:08:00,410
+Ich habe mich in meiner Jugend an Blindam geopert.
+
+116
+00:08:00,410 --> 00:08:12,990
+Wie war die Operation gelaufen?
+
+117
+00:08:12,990 --> 00:08:15,990
+Laufen war ohne Probleme gewesen.
+
+118
+00:08:15,990 --> 00:08:18,990
+Das war keine Komplikation, ganz normal.
+
+119
+00:08:18,990 --> 00:08:20,990
+Das war, was ich mich erinnern kann.
+
+120
+00:08:20,990 --> 00:08:22,990
+Okay.
+
+121
+00:08:22,990 --> 00:08:24,990
+Herr Koff, sind Sie vollständig?
+
+122
+00:08:24,990 --> 00:08:28,990
+Ja, was meinen Sie mit vollständig?
+
+123
+00:08:28,990 --> 00:08:39,990
+Ja, mein internationaler Ausweis, der ist voll.
+
+124
+00:08:39,990 --> 00:08:41,990
+Ich glaube, ich bin schon alles geimpft.
+
+125
+00:08:41,990 --> 00:08:46,990
+Haben Sie den Corona-Impfung bekommen?
+
+126
+00:08:46,990 --> 00:08:50,990
+Ja, ich habe die ganze Zeit dagegen gestimmt.
+
+127
+00:08:50,990 --> 00:08:54,990
+Aber vor drei Wochen habe ich meine zweite Impfung bekommen.
+
+128
+00:08:55,990 --> 00:09:02,750
+Sind Sie alle alleergegen?
+
+129
+00:09:02,750 --> 00:09:06,750
+Nein, ich habe alle alleergen nicht, dass ich rüster.
+
+130
+00:09:06,750 --> 00:09:12,030
+Vertrag Sie alle Lebensmittel gut?
+
+131
+00:09:12,030 --> 00:09:16,030
+So weit ich weiß, ja.
+
+132
+00:09:16,030 --> 00:09:18,030
+Sie haben keine Probleme?
+
+133
+00:09:18,030 --> 00:09:21,030
+Mit diesem Kürbis habe ich keine Probleme.
+
+134
+00:09:21,030 --> 00:09:24,030
+Brauchen Sie, Herr Koff?
+
+135
+00:09:24,030 --> 00:09:26,030
+Brauchen Sie, Herr Koff?
+
+136
+00:09:26,030 --> 00:09:28,030
+Ja, ich habe keine Probleme.
+
+137
+00:09:28,030 --> 00:09:30,030
+Trinken Sie Alkohol?
+
+138
+00:09:30,030 --> 00:09:34,030
+Ja, so ein Glas Wein, abends trinke ich schon gerne.
+
+139
+00:09:34,030 --> 00:09:39,030
+Zum Essen oder zum Fernsehen, zum Lesen.
+
+140
+00:09:39,030 --> 00:09:45,030
+Als Ihre Ersten muss ich fragen, ob Sie Drogen konsumieren?
+
+141
+00:09:45,030 --> 00:09:47,030
+Drogen?
+
+142
+00:09:47,030 --> 00:09:50,030
+Ich weiß noch nicht mal, wie Drogen beschrieben wird.
+
+143
+00:09:51,030 --> 00:09:58,030
+Was ist das für eine wichtige Erkrankung für Ihre Familie?
+
+144
+00:09:58,030 --> 00:10:02,030
+Wichtige Erkrankungen.
+
+145
+00:10:02,030 --> 00:10:09,030
+Mein Vater hat auch eine Bluthoftung Erkrankung.
+
+146
+00:10:09,030 --> 00:10:12,030
+Ich weiß noch nicht, ob das für Sie wichtig ist.
+
+147
+00:10:12,030 --> 00:10:16,030
+Und meine Mutter hat eine Erkrankung.
+
+148
+00:10:17,030 --> 00:10:20,030
+Wie alt sind meine Eltern?
+
+149
+00:10:20,030 --> 00:10:26,030
+Meine Eltern sind 82 Jahre alt.
+
+150
+00:10:26,030 --> 00:10:29,030
+Und die Mutter ist 80 Jahre alt.
+
+151
+00:10:29,030 --> 00:10:31,030
+Wie ist Ihr Vater?
+
+152
+00:10:31,030 --> 00:10:34,030
+Ich habe ein Bruder.
+
+153
+00:10:34,030 --> 00:10:38,540
+Ist er gesund?
+
+154
+00:10:38,540 --> 00:10:44,540
+Er nimmt zwar einen Medikament ein, aber für was ist das ein?
+
+155
+00:10:45,540 --> 00:10:53,690
+Was ist Ihr Beruf?
+
+156
+00:10:53,690 --> 00:10:58,130
+Ich bin Busfahrer.
+
+157
+00:10:58,130 --> 00:11:05,730
+Sind Sie verheiratet?
+
+158
+00:11:05,730 --> 00:11:07,730
+Ja.
+
+159
+00:11:07,730 --> 00:11:09,730
+Mit wem leben Sie?
+
+160
+00:11:09,730 --> 00:11:11,730
+Mit Ihrer Familie?
+
+161
+00:11:11,730 --> 00:11:14,730
+Mit wem leben Sie mit meiner Frau?
+
+162
+00:11:14,730 --> 00:11:16,730
+Mit einem?
+
+163
+00:11:16,730 --> 00:11:18,730
+Ja, ich habe zwei Söhne.
+
+164
+00:11:18,730 --> 00:11:20,730
+Der eine wohnt zu Hause.
+
+165
+00:11:20,730 --> 00:11:24,010
+Und der andere ist verheiratet.
+
+166
+00:11:24,010 --> 00:11:26,010
+Ich habe nicht verstanden.
+
+167
+00:11:26,010 --> 00:11:28,010
+Das sind faule Säcke.
+
+168
+00:11:28,010 --> 00:11:32,010
+Ich habe von meiner Arbeit eine wichtige Frage gestattet.
+
+169
+00:11:32,010 --> 00:11:35,010
+Gibt es etwas, was Sie tun?
+
+170
+00:11:35,010 --> 00:11:38,900
+Ich habe zwei Söhne.
+
+171
+00:11:38,900 --> 00:11:41,900
+Der eine wohnt bei mir zu Hause.
+
+172
+00:11:41,900 --> 00:11:44,900
+Und der andere wohnt mit mir zu Hause.
+
+173
+00:11:44,900 --> 00:11:46,900
+Das ist schön.
+
+174
+00:11:46,900 --> 00:11:50,370
+Aber sind Sie ein Kind?
+
+175
+00:11:50,370 --> 00:11:52,370
+Nein.
+
+176
+00:11:52,370 --> 00:11:54,370
+Noch nicht.
+
+177
+00:11:54,370 --> 00:11:56,370
+Das sind faule Säcke.
+
+178
+00:11:56,370 --> 00:12:02,370
+Gibt es etwas, was Sie tun?
+
+179
+00:12:02,370 --> 00:12:05,370
+Oder haben Sie Fragen an mich?
+
+180
+00:12:05,370 --> 00:12:08,370
+Ja, wie geht es denn weiter?
+
+181
+00:12:08,370 --> 00:12:10,370
+Was machen Sie jetzt?
+
+182
+00:12:10,370 --> 00:12:12,370
+Was passiert jetzt mit mir vor der Frau?
+
+183
+00:12:12,370 --> 00:12:16,370
+Ja, Herr Koch, so erst muss ich sie körperlich unterzogen.
+
+184
+00:12:16,370 --> 00:12:22,370
+Nur anhand dieser Beschwerden kann ich leider nicht genaues
+
+185
+00:12:22,370 --> 00:12:30,370
+aber nach der Unterzuhung können wir in alle Ruhe besprechen.
+
+186
+00:12:30,370 --> 00:12:41,690
+Okay.
+
+187
+00:12:41,690 --> 00:12:50,100
+Ich habe eine Frage in der Gruppe.
+
+188
+00:12:50,100 --> 00:12:54,860
+Wie ist ein Unfall?
+
+189
+00:12:54,860 --> 00:12:58,860
+Ein Unfall? Nein, ich hatte keinen Unfall.
+
+190
+00:12:58,860 --> 00:13:03,550
+Also jetzt aktuell nicht.
+
+191
+00:13:03,550 --> 00:13:07,550
+Ich hatte vor circa zehn Jahren ein Verkehrsunfall.
+
+192
+00:13:07,550 --> 00:13:15,900
+Und damals hatte ich eine Prellung gehabt.
+
+193
+00:13:15,900 --> 00:13:18,900
+Aber jetzt aktuell habe ich keinen Unfall.
+
+194
+00:13:18,900 --> 00:13:22,900
+Abonnes ich hier bei der Frau nach Schweiß.
+
+195
+00:13:22,900 --> 00:13:24,900
+Nein, habe ich nicht.
+
+196
+00:13:24,900 --> 00:13:26,900
+Ist es ein Sport?
+
+197
+00:13:26,900 --> 00:13:31,900
+Sport? Nein, ich war ab und zu mal Fahrrad.
+
+198
+00:13:31,900 --> 00:13:38,900
+Sind Sie deswegen schon bei einem anderen Arsch gewesen?
+
+199
+00:13:38,900 --> 00:13:40,900
+Ja, wegen der Beschwerden.
+
+200
+00:13:40,900 --> 00:13:42,900
+Nein, ich hatte immer Schmerzmüll genommen.
+
+201
+00:13:42,900 --> 00:13:44,900
+Das ging ja drei Monaten.
+
+202
+00:13:44,900 --> 00:13:47,900
+Aber jetzt seit drei Tagen sind die Schmerzen schlimmer geworden.
+
+203
+00:13:47,900 --> 00:13:55,700
+Deswegen bin ich jetzt hier in der Notaufnahme.
+
+204
+00:13:55,700 --> 00:14:01,700
+Haben Sie unterpüfte Fieber oder Farbe verwendet?
+
+205
+00:14:01,700 --> 00:14:04,700
+Farbe verwendet, sie bemerkt.
+
+206
+00:14:04,700 --> 00:14:06,700
+Nein, also Wärme meint sie.
+
+207
+00:14:06,700 --> 00:14:08,700
+Fieber ist ja ganz körper.
+
+208
+00:14:09,700 --> 00:14:14,700
+Werben oder Rötung bemerkt, nein, habe ich nicht.
+
+209
+00:14:14,700 --> 00:14:38,020
+Keine weitere Fragen.
+
+210
+00:14:38,020 --> 00:14:41,020
+Aber wie sind die nächsten Zeit auch noch zu genomen?
+
+211
+00:14:41,020 --> 00:15:07,700
+Akut, zu genomen, nein, Herr Dr. Bündnis.
+
+212
+00:15:07,700 --> 00:15:11,700
+Was ist Ihre Verdachtstereoknose, wenn ich fragen darf?
+
+213
+00:15:11,700 --> 00:15:15,700
+Ich habe eine Verdachtstereoknose, die an einem liestigen Angaben
+
+214
+00:15:15,700 --> 00:15:19,700
+deuten, am meisten aufkorkst, Artrose hin.
+
+215
+00:15:19,700 --> 00:15:22,700
+Sollen wir die Vorstellung machen?
+
+216
+00:15:22,700 --> 00:15:24,700
+Okay.
+
+217
+00:15:24,700 --> 00:15:29,700
+Hallo Herr Oberarzt, hätten Sie Zeit für mich, ich möchte Ihnen
+
+218
+00:15:29,700 --> 00:15:31,700
+einen Patienten vorstellen.
+
+219
+00:15:31,700 --> 00:15:34,700
+Okay, ja, bitte gerne.
+
+220
+00:15:34,700 --> 00:15:40,700
+Herr Steven Koch ist ein Patient, der 56 Jahre alt,
+
+221
+00:15:40,700 --> 00:15:45,700
+ein Meter, 670 gross, 10,8 Kilogramm, schweigt.
+
+222
+00:15:45,700 --> 00:15:51,700
+Der Patient hat sich wegen Zeitdreif, Monat 5,
+
+223
+00:15:51,700 --> 00:15:58,700
+aber Zeitdreif taggen, sunnenen,
+
+224
+00:15:58,700 --> 00:16:02,700
+Kokosalji Bay uns vorgestellt.
+
+225
+00:16:02,700 --> 00:16:08,700
+Laut dem Patienten, Zündlich Mersen,
+
+226
+00:16:08,700 --> 00:16:12,700
+haben Sie sich an den Angriff begonnen, aber Sie haben
+
+227
+00:16:12,700 --> 00:16:15,700
+die Zeit für die Verstehung geblieben.
+
+228
+00:16:15,700 --> 00:16:21,700
+Der Patient sagt, am Anfang bei Bewegung
+
+229
+00:16:21,700 --> 00:16:26,700
+verschmürfen Sie die Schmerzen,
+
+230
+00:16:26,700 --> 00:16:36,710
+aber dann zinken Sie die Schmerzen.
+
+231
+00:16:36,710 --> 00:16:39,710
+Nehmen Sie die Schmerzen ab?
+
+232
+00:16:39,710 --> 00:16:42,710
+Nehmen Sie die Schmerzen ab.
+
+233
+00:16:42,710 --> 00:16:49,710
+Außerden berechnet er morgens die Schmerzen,
+
+234
+00:16:49,710 --> 00:16:52,710
+von morgens die Schmerzen.
+
+235
+00:16:52,710 --> 00:16:59,710
+Beim Züsten würde ich die Schmerzen linden.
+
+236
+00:16:59,710 --> 00:17:09,120
+Und auerden bei Belastung würde ich die Schmerzen
+
+237
+00:17:10,120 --> 00:17:12,120
+beenden.
+
+238
+00:17:12,120 --> 00:17:17,120
+Die vegetative Anamnese war unaufhellig.
+
+239
+00:17:17,120 --> 00:17:20,120
+Buay der For Erkran, Kugeln,
+
+240
+00:17:20,120 --> 00:17:23,120
+fand uns die eine arterielle Hipertonie.
+
+241
+00:17:23,120 --> 00:17:32,120
+An dem er seit fünf Jahren leide
+
+242
+00:17:32,120 --> 00:17:42,120
+die Medikamente an der Anamnese,
+
+243
+00:17:42,120 --> 00:17:46,120
+er gab das Raseha Hema,
+
+244
+00:18:18,100 --> 00:18:25,100
+als Jugendalter,
+
+245
+00:18:25,100 --> 00:18:29,100
+eine Appendektome bekannt.
+
+246
+00:18:29,100 --> 00:18:33,100
+Er sei verständlich geimpft,
+
+247
+00:18:33,100 --> 00:18:38,100
+er habe zweite Corona-Infug aufbekommen.
+
+248
+00:18:38,100 --> 00:18:46,100
+Bei ihm sei keine Allergen und
+
+249
+00:18:46,100 --> 00:18:48,100
+die Verträglichkeit bekannte.
+
+250
+00:18:48,100 --> 00:18:56,100
+Er ist nicht rauch, er trinkt abends ein Glas Wein,
+
+251
+00:18:56,100 --> 00:18:59,100
+Drogen konsumvurdun fernayt.
+
+252
+00:18:59,100 --> 00:19:04,100
+Sein Vater leide an arterielle Hipertonie,
+
+253
+00:19:04,100 --> 00:19:08,100
+der zwei Jahre alt ist.
+
+254
+00:19:08,100 --> 00:19:12,100
+Seine Mutter leide an Diabetes melluturs,
+
+255
+00:19:12,100 --> 00:19:15,100
+die erst sechs Jahre alt ist.
+
+256
+00:19:15,100 --> 00:19:19,100
+Er hat eine Bruder,
+
+257
+00:19:19,100 --> 00:19:23,100
+er nehme ein Medikament,
+
+258
+00:19:23,100 --> 00:19:27,100
+aber der Name ist nicht bekannt.
+
+259
+00:19:27,100 --> 00:19:32,100
+Er ist Busfahrer, verheiratet,
+
+260
+00:19:32,100 --> 00:19:35,100
+habe zwei Söhne.
+
+261
+00:19:35,100 --> 00:19:40,790
+Okay.
+
+262
+00:19:40,790 --> 00:19:50,910
+Eine andere Frage.
+
+263
+00:19:50,910 --> 00:19:56,910
+Haben Sie gefragt, ob der Patient eine Parise hat?
+
+264
+00:19:56,910 --> 00:19:58,910
+Nein, ich habe nicht.
+
+265
+00:19:58,910 --> 00:20:00,910
+Durch Blutungsstörung?
+
+266
+00:20:00,910 --> 00:20:03,910
+Ja, ich habe nicht gebracht.
+
+267
+00:20:03,910 --> 00:20:05,910
+Okay.
+
+268
+00:20:05,910 --> 00:20:09,910
+An welche Erkrankungen haben Sie ans Erste gedacht?
+
+269
+00:20:09,910 --> 00:20:15,910
+In Ersterlinie, in Feltmia,
+
+270
+00:20:15,910 --> 00:20:18,910
+in Kokosartrose,
+
+271
+00:20:18,910 --> 00:20:39,510
+aber außerdem ein
+
+272
+00:20:39,510 --> 00:20:41,510
+Pferd,
+
+273
+00:20:41,510 --> 00:20:50,020
+als Sie als Drucknuss denken.
+
+274
+00:20:50,020 --> 00:20:53,020
+Waren Infektionen?
+
+275
+00:20:53,020 --> 00:20:57,020
+Nein, vom Becken kann auch Schmerzen ausstrahlen.
+
+276
+00:20:57,020 --> 00:21:01,020
+Z.B. ISG, Ilyosacralgelenksyndrom,
+
+277
+00:21:01,020 --> 00:21:07,610
+ISG-Syndrom, kann auch einen Leistenschmerz machen.
+
+278
+00:21:07,610 --> 00:21:17,290
+Und auch einen Leistenschmerz machen.
+
+279
+00:21:17,290 --> 00:21:19,290
+Gefäßerkrankungen,
+
+280
+00:21:19,290 --> 00:21:26,290
+aber die Pferd-PfK,
+
+281
+00:21:26,290 --> 00:21:29,290
+aber der Patient sagt,
+
+282
+00:21:29,290 --> 00:21:32,290
+am Anfang bei Becken,
+
+283
+00:21:32,290 --> 00:21:35,290
+ist es nicht so, dass es nicht so ist.
+
+284
+00:21:35,290 --> 00:21:38,290
+Es ist gut.
+
+285
+00:21:38,290 --> 00:21:45,100
+Deswegen haben Sie dies ausgeschlossen.
+
+286
+00:21:45,100 --> 00:21:48,100
+Ja, es ist gut.
+
+287
+00:21:48,100 --> 00:21:52,100
+Wie gehen Sie voran, um Ihre Verdachsdiagnose,
+
+288
+00:21:52,100 --> 00:21:54,100
+die erste Diagnose zu erhärten?
+
+289
+00:21:54,100 --> 00:21:56,100
+Was würden Sie vorschlagen?
+
+290
+00:21:56,100 --> 00:21:58,100
+Zur weiteren Abklärung müssen wir
+
+291
+00:21:58,100 --> 00:22:00,100
+so erst körperlich untersuchen.
+
+292
+00:22:00,100 --> 00:22:08,100
+Dann, MRT kommt infrage oder CT.
+
+293
+00:22:08,100 --> 00:22:11,100
+Als Erstes kommt Ihnen,
+
+294
+00:22:11,100 --> 00:22:15,100
+wenn Sie sagen, es ist eine Kokosartrose,
+
+295
+00:22:15,100 --> 00:22:19,100
+dann kommen Sie gleich mit großen Geschwossen.
+
+296
+00:22:19,100 --> 00:22:25,100
+Was ist das einfachste, günstigste?
+
+297
+00:22:25,100 --> 00:22:28,100
+Rundgenaufnahme,
+
+298
+00:22:28,100 --> 00:22:31,100
+zwei Ebenen Rundgenaufnahme
+
+299
+00:22:31,100 --> 00:22:34,100
+in diesem Bereich.
+
+300
+00:22:34,100 --> 00:22:37,100
+Wie würden Sie,
+
+301
+00:22:37,100 --> 00:22:41,100
+wenn Sie eine schriftliche Anordnung schreiben würden,
+
+302
+00:22:41,100 --> 00:22:44,100
+an den Kollegen?
+
+303
+00:22:44,100 --> 00:22:48,100
+Wir würden Sie das Rundgen anmelden.
+
+304
+00:22:48,100 --> 00:22:52,100
+Wir haben das gesagt, ich finde das noch mal genau.
+
+305
+00:22:52,100 --> 00:22:56,100
+Aber zuerst muss ich den Namen dem Partikeln anmelden.
+
+306
+00:22:56,100 --> 00:23:00,100
+Es geht nicht um Ausfüllen von diesen Dingen,
+
+307
+00:23:00,100 --> 00:23:04,100
+sondern es geht um Anordnung.
+
+308
+00:23:04,100 --> 00:23:07,100
+Hüftgelenk,
+
+309
+00:23:07,100 --> 00:23:10,100
+beidseitig,
+
+310
+00:23:10,100 --> 00:23:14,100
+Röntgen,
+
+311
+00:23:14,100 --> 00:23:17,100
+Handgelenk,
+
+312
+00:23:17,100 --> 00:23:20,100
+rechts in zwei Ebenen.
+
+313
+00:23:20,100 --> 00:23:23,100
+Die Anforderung wäre,
+
+314
+00:23:23,100 --> 00:23:26,100
+Röntgen, Hüftgelenk,
+
+315
+00:23:26,100 --> 00:23:29,100
+rechts in zwei Ebenen.
+
+316
+00:23:29,100 --> 00:23:32,100
+Ich möchte ein System erklären,
+
+317
+00:23:32,100 --> 00:23:35,100
+egal wo das ist.
+
+318
+00:23:35,100 --> 00:23:38,100
+Röntgen, Handgelenk,
+
+319
+00:23:38,100 --> 00:23:41,100
+rechts in zwei Ebenen,
+
+320
+00:23:41,100 --> 00:23:44,100
+Röntgen, rechts in zwei Ebenen,
+
+321
+00:23:44,100 --> 00:23:47,100
+Röntgen, Sprunggelenk in zwei Ebenen,
+
+322
+00:23:47,100 --> 00:23:50,100
+Röntgen, Hüftgelenk in zwei Ebenen.
+
+323
+00:23:50,100 --> 00:23:54,100
+Man könnte theoretisch eine Beckenübersichtaufnahme machen.
+
+324
+00:23:54,100 --> 00:23:58,100
+Und zweite Ebene, also eine Aksialle Ebene der Hüfte,
+
+325
+00:23:58,100 --> 00:24:01,100
+aber zuerst für eine Hüfte reicht aus,
+
+326
+00:24:01,100 --> 00:24:04,100
+wenn man strahlen schon und ist.
+
+327
+00:24:04,100 --> 00:24:07,100
+Wir wollen ja nicht vergleichen,
+
+328
+00:24:07,100 --> 00:24:10,100
+wie die Hüfte zu sein aussieht,
+
+329
+00:24:10,100 --> 00:24:13,100
+sondern wir wollen gucken, ob deine Arthose ist oder nicht.
+
+330
+00:24:13,100 --> 00:24:16,100
+Als zweite Diagnose,
+
+331
+00:24:16,100 --> 00:24:19,100
+was man erwähnt,
+
+332
+00:24:19,100 --> 00:24:22,100
+die Diagnose an Diagnostik, würden Sie was machen?
+
+333
+00:24:22,100 --> 00:24:25,100
+Wir müssen Bulut abnehmen,
+
+334
+00:24:25,100 --> 00:24:28,100
+um die Enzyntin-Parameter zu überprüfen.
+
+335
+00:24:28,100 --> 00:24:32,100
+Wenn wir
+
+336
+00:24:32,100 --> 00:24:36,100
+einen CT
+
+337
+00:24:36,100 --> 00:24:40,100
+machen,
+
+338
+00:24:40,100 --> 00:24:43,100
+müssen wir auch ...
+
+339
+00:24:43,100 --> 00:24:46,100
+Was würden Sie erst sagen?
+
+340
+00:24:46,100 --> 00:24:49,100
+Ein MRT oder ein CT? Welches Aussage kräftiger?
+
+341
+00:24:49,100 --> 00:24:53,100
+MRT ist weichteil
+
+342
+00:24:53,100 --> 00:24:56,100
+GWB BESA,
+
+343
+00:24:56,100 --> 00:24:59,100
+deswegen
+
+344
+00:24:59,100 --> 00:25:04,830
+für mich ist MRT BESA.
+
+345
+00:25:04,830 --> 00:25:08,830
+Wenn es künftig ist,
+
+346
+00:25:08,830 --> 00:25:12,830
+dann CT vielleicht,
+
+347
+00:25:12,830 --> 00:25:16,830
+aber Koksarthose können mit MRT BESA beurteilen.
+
+348
+00:25:16,830 --> 00:25:20,830
+Also beim Röntgen
+
+349
+00:25:20,830 --> 00:25:24,830
+reicht aus, um eine Koksarthose zu sehen.
+
+350
+00:25:24,830 --> 00:25:27,830
+Aber manchmal sagt es nicht sehr kräftig,
+
+351
+00:25:27,830 --> 00:25:30,830
+wenn es eine beginnende Arthose ist
+
+352
+00:25:30,830 --> 00:25:33,830
+oder wenn es eine beginnende Hüffkopfneckrose ist
+
+353
+00:25:33,830 --> 00:25:36,830
+und so was, so eine beginnende Hüffkopfneckrose,
+
+354
+00:25:36,830 --> 00:25:39,830
+sehen Sie nicht in einem CT.
+
+355
+00:25:39,830 --> 00:25:42,830
+Beim CT würde man machen,
+
+356
+00:25:42,830 --> 00:25:45,830
+wenn eine Deformation des Hüffgelenkens ist,
+
+357
+00:25:45,830 --> 00:25:48,830
+damit man vor einer Operation besser planen kann.
+
+358
+00:25:48,830 --> 00:25:51,830
+Aber ansonsten für die Diagnostik
+
+359
+00:25:51,830 --> 00:25:54,830
+reicht es alleine, wenn man ein Röntgen macht.
+
+360
+00:25:54,830 --> 00:25:57,830
+Wenn es nicht aussagekräftig ist,
+
+361
+00:25:57,830 --> 00:26:00,830
+kann man noch zusätzlich ein MRT machen.
+
+362
+00:26:00,830 --> 00:26:03,830
+Das ist zwar eine weichteil Aufnahme,
+
+363
+00:26:03,830 --> 00:26:06,830
+aber mit MRT sehen wir z.B. auch Dämen im Knochen,
+
+364
+00:26:06,830 --> 00:26:09,830
+als Zeichen einer aktivierten Arthose.
+
+365
+00:26:09,830 --> 00:26:12,830
+Man sieht mehr Informationen.
+
+366
+00:26:12,830 --> 00:26:15,830
+Aber normalerweise reicht Röntgen alleine aus.
+
+367
+00:26:15,830 --> 00:26:18,830
+Aber in früheren Stadien
+
+368
+00:26:18,830 --> 00:26:21,830
+werden die Klinik, also die Untersuchung,
+
+369
+00:26:21,830 --> 00:26:25,830
+ergibt, dass der Schmerzen hat, z.B. eine Hüftrotationsschmerz.
+
+370
+00:26:25,830 --> 00:26:28,830
+Und in Röntgen sehe ich nichts Besonderes.
+
+371
+00:26:28,830 --> 00:26:31,830
+Dann kann man ein MRT machen, z.B.
+
+372
+00:26:31,830 --> 00:26:34,830
+Man würde auch z.B. ein Tumor erkennen,
+
+373
+00:26:34,830 --> 00:26:37,830
+den man in Röntgen nicht erkennt.
+
+374
+00:26:37,830 --> 00:26:40,830
+Hatte ich schon mal gehabt, einer Dame,
+
+375
+00:26:40,830 --> 00:26:43,830
+die hatte vor 15 Jahren eine Marmarkatzelung gehabt.
+
+376
+00:26:43,830 --> 00:26:46,830
+Seitdem alles okay.
+
+377
+00:26:46,830 --> 00:26:49,830
+Die kam dann wegen Hüftrotationsschmerzen
+
+378
+00:26:49,830 --> 00:26:52,830
+und habe im Röntgen gerömpft.
+
+379
+00:26:52,830 --> 00:26:55,830
+Im Beginn der Arthose aber nicht besonders.
+
+380
+00:26:55,830 --> 00:26:58,830
+Aber die Untersuchung war auffällig.
+
+381
+00:26:58,830 --> 00:27:01,830
+Die konnte man nicht richtig rotieren.
+
+382
+00:27:01,830 --> 00:27:04,830
+Und haben MRT gemacht
+
+383
+00:27:04,830 --> 00:27:07,830
+und hat man gesehen, dass eine metastasierte Marmarkatzelung war.
+
+384
+00:27:07,830 --> 00:27:10,830
+Das habe man im Röntgen nicht gesehen.
+
+385
+00:27:10,830 --> 00:27:13,830
+Manchmal sieht man nicht alles im Röntgen.
+
+386
+00:27:13,830 --> 00:27:16,830
+Z.B. bei beginnenden Arthosen
+
+387
+00:27:16,830 --> 00:27:19,830
+oder bei unklaren Sachen, wo man sagt,
+
+388
+00:27:19,830 --> 00:27:22,830
+da muss irgendwas mit der Hüfte sein.
+
+389
+00:27:22,830 --> 00:27:25,830
+Ich möchte noch ein MRT machen, um genauer zu sehen.
+
+390
+00:27:25,830 --> 00:27:28,830
+Manchmal gibt es Stressfrakturen
+
+391
+00:27:28,830 --> 00:27:31,830
+oder bei Ostepolitikern z.B.
+
+392
+00:27:31,830 --> 00:27:36,240
+Wie gehen Sie vor?
+
+393
+00:27:36,240 --> 00:27:39,240
+Sie haben jetzt eine Coxarthose festgestellt.
+
+394
+00:27:39,240 --> 00:27:42,240
+Was empfehlen Sie den Patienten?
+
+395
+00:27:42,240 --> 00:27:45,240
+Die Therapie, die Sie haben,
+
+396
+00:27:45,240 --> 00:27:48,240
+die Therapie richtet sich nach der Schwergrat
+
+397
+00:27:48,240 --> 00:27:51,240
+der Coxarthose.
+
+398
+00:27:51,240 --> 00:27:54,240
+Im schlimmsten Fall kommt ein Tep in Frage.
+
+399
+00:27:54,240 --> 00:27:57,240
+Genau.
+
+400
+00:27:57,240 --> 00:28:00,240
+Tep ausgesprochen, das ist richtig.
+
+401
+00:28:00,240 --> 00:28:03,240
+Man sagt immer Hüfttep.
+
+402
+00:28:03,240 --> 00:28:06,240
+Was ist aber Tep ausgesprochen, ausgeschrieben?
+
+403
+00:28:06,240 --> 00:28:09,240
+Total endoprotese.
+
+404
+00:28:09,240 --> 00:28:12,240
+Genau.
+
+405
+00:28:12,240 --> 00:28:15,240
+Was empfehlen Sie sich?
+
+406
+00:28:15,240 --> 00:28:18,240
+Was empfehlen Sie sich?
+
+407
+00:28:18,240 --> 00:28:21,240
+Wir empfehlen den Patienten
+
+408
+00:28:21,240 --> 00:28:24,240
+Gewicht, Reduzierung
+
+409
+00:28:24,240 --> 00:28:27,240
+und
+
+410
+00:28:27,240 --> 00:28:30,240
+Muskelverkraft
+
+411
+00:28:30,240 --> 00:28:33,240
+und
+
+412
+00:28:33,240 --> 00:28:36,240
+Physiotherapie.
+
+413
+00:28:36,240 --> 00:28:39,240
+Ja.
+
+414
+00:28:39,240 --> 00:28:42,240
+Das ist ein Problem.
+
+415
+00:28:42,240 --> 00:28:45,240
+Der hat ja Schmerzen.
+
+416
+00:28:45,240 --> 00:28:48,240
+Er nimmt
+
+417
+00:28:48,240 --> 00:28:51,240
+2 Ibuprofen ein.
+
+418
+00:28:51,240 --> 00:28:54,240
+Aber wir wissen nicht, ob das regelmäßig gegeben wurde.
+
+419
+00:28:54,240 --> 00:28:57,240
+Man kann eine Woche regelmäßig Ibuprofen
+
+420
+00:28:57,240 --> 00:29:00,240
+3-mal am Tag.
+
+421
+00:29:00,240 --> 00:29:03,240
+Eine Woche durchgehend einnehmen lassen.
+
+422
+00:29:03,240 --> 00:29:06,240
+Wegen antiflamaturischen Wirkungen.
+
+423
+00:29:06,240 --> 00:29:09,240
+Wir kommen.
+
+424
+00:29:09,240 --> 00:29:12,240
+Wenn Patient
+
+425
+00:29:12,240 --> 00:29:15,240
+Einnahme von Ibuprofen
+
+426
+00:29:15,240 --> 00:29:18,240
+besiegt,
+
+427
+00:29:18,240 --> 00:29:21,240
+was empfehlen wir?
+
+428
+00:29:21,240 --> 00:29:24,240
+Manche Tablette, wie Handelsfragen zum Beispiel.
+
+429
+00:29:24,240 --> 00:29:27,240
+Eine andere Möglichkeit
+
+430
+00:29:27,240 --> 00:29:30,240
+Schmerz-Tablet.
+
+431
+00:29:30,240 --> 00:29:33,240
+Es ist ja 2 Sachen.
+
+432
+00:29:33,240 --> 00:29:36,240
+Das 1 ist,
+
+433
+00:29:36,240 --> 00:29:39,240
+wenn man orthopädisch gesehen ein Schmerz da ist,
+
+434
+00:29:39,240 --> 00:29:42,240
+ist eigentlich zu 90%
+
+435
+00:29:42,240 --> 00:29:45,240
+immer eine Information, eine Entzündung dort.
+
+436
+00:29:45,240 --> 00:29:48,240
+Okay.
+
+437
+00:29:48,240 --> 00:29:51,240
+Nummer 1, soll das Ziel sein, die Entzündung zu therapieren.
+
+438
+00:29:51,240 --> 00:29:54,240
+Da gibt es 2 Gruppen.
+
+439
+00:29:54,240 --> 00:29:57,240
+Die eine Gruppe heißt, nicht steuere Deile Antirheumatika.
+
+440
+00:29:57,240 --> 00:30:00,240
+Aber die andere Gruppe heißt,
+
+441
+00:30:00,240 --> 00:30:03,240
+es ist eine Gruppe, die eine Art.
+
+442
+00:30:03,240 --> 00:30:06,240
+Man sollte entweder 1 von den Beintherapien,
+
+443
+00:30:06,240 --> 00:30:09,240
+das ist das 1, plus Schmerztherapie.
+
+444
+00:30:09,240 --> 00:30:12,240
+Wenn natürlich jemand
+
+445
+00:30:12,240 --> 00:30:15,240
+Kontrahentikation hat,
+
+446
+00:30:15,240 --> 00:30:18,240
+wie Nieren und Sofizienz,
+
+447
+00:30:18,240 --> 00:30:21,240
+oder Probleme hat mit
+
+448
+00:30:21,240 --> 00:30:24,240
+Morphine oder irgendwas,
+
+449
+00:30:24,240 --> 00:30:27,240
+Kontrahentikation, dafür Hitte,
+
+450
+00:30:27,240 --> 00:30:30,240
+dann kann man halt nicht sehr viel machen.
+
+451
+00:30:30,240 --> 00:30:33,240
+Da kann man nur Analgesie, Analgeltikatherapie machen.
+
+452
+00:30:33,240 --> 00:30:36,240
+Von Nauvalgin bis Morphine.
+
+453
+00:30:36,240 --> 00:30:42,220
+Eigentlich kann man immer bei orthopädischen Patienten sagen,
+
+454
+00:30:42,220 --> 00:30:45,220
+wenn es möglich ist,
+
+455
+00:30:45,220 --> 00:30:48,220
+die Profin dreimal am Tag für 3-5 Tage oder eine Woche einnehmen.
+
+456
+00:30:48,220 --> 00:30:51,220
+Durchgehende einnehmen.
+
+457
+00:30:51,220 --> 00:30:54,220
+Viele 80% der Patienten nehmen das nur bei Bedarf
+
+458
+00:30:54,220 --> 00:30:57,220
+als Schmerzmitlein.
+
+459
+00:30:57,220 --> 00:31:00,220
+Die Wirkung von den Profen ist 6-8 Stunden.
+
+460
+00:31:00,220 --> 00:31:03,220
+Das müsste er dreimal am Tag verteilen
+
+461
+00:31:03,220 --> 00:31:06,220
+oder viermal am Tag, dreimal am Tag verteilen.
+
+462
+00:31:06,220 --> 00:31:09,220
+Und das auch noch 3-5 Tage.
+
+463
+00:31:09,220 --> 00:31:12,220
+Wenn das nicht reicht, reicht, kann man noch andere Therapien machen.
+
+464
+00:31:12,220 --> 00:31:15,220
+Zum Beispiel, hatte ich erwähnt, Kortison,
+
+465
+00:31:15,220 --> 00:31:19,980
+Gabel zum Beispiel.
+
+466
+00:31:19,980 --> 00:31:22,980
+Physiotherapie ist wichtig, genau.
+
+467
+00:31:22,980 --> 00:31:25,980
+Man kann auch Joao Leronsäuren Infiltration
+
+468
+00:31:25,980 --> 00:31:28,980
+ins Gelenk infiltrieren.
+
+469
+00:31:28,980 --> 00:31:31,980
+Röntgen, Reizfisch.
+
+470
+00:31:31,980 --> 00:31:34,980
+Also gibt es mehr Möglichkeiten, wie man eine Enzytomtherapie hat.
+
+471
+00:31:34,980 --> 00:31:37,980
+Ah, PRP?
+
+472
+00:31:37,980 --> 00:31:40,980
+Ja, ich höre PRP durch.
+
+473
+00:31:40,980 --> 00:31:43,980
+Man macht nicht sehr viele durch.
+
+474
+00:31:43,980 --> 00:31:46,980
+Also ist regional bedingt bekannt.
+
+475
+00:31:46,980 --> 00:31:49,980
+In Münchner Raum ist sehr bekannt.
+
+476
+00:31:49,980 --> 00:31:52,980
+Frankfurter Raum ist nicht so bekannt.
+
+477
+00:31:52,980 --> 00:31:55,980
+Es ist unterschiedlich.
+
+478
+00:31:55,980 --> 00:31:58,980
+Es ist nicht Nummer 1, weil es viele Sachen sind nicht von der
+
+479
+00:31:58,980 --> 00:32:01,980
+Versicherung bezahlt, wird nicht von der Versicherung bezahlt.
+
+480
+00:32:01,980 --> 00:32:04,980
+Auch Joao Leronsäuren nicht, aber Joao Leronsäuren
+
+481
+00:32:04,980 --> 00:32:07,980
+ist bei den Orthopänen auch hier in Deutschland sehr,
+
+482
+00:32:07,980 --> 00:32:10,980
+sehr bekannt.
+
+483
+00:32:10,980 --> 00:32:13,980
+Also da gibt es verschiedene Arten von Joao Leronsäuren, die man geben kann.
+
+484
+00:32:13,980 --> 00:32:16,980
+Joao Leronsäuren ist bekannt, aber PRP ist nicht so bekannt.
+
+485
+00:32:16,980 --> 00:32:19,980
+Ich habe noch einen Punkt, der alles ist.
+
+486
+00:32:19,980 --> 00:32:22,980
+Joao Leronsäuren ist auch PRP.
+
+487
+00:32:22,980 --> 00:32:25,980
+Ich würde sagen, beides hat seine Vorteile.
+
+488
+00:32:25,980 --> 00:32:28,980
+Die Studie hat ergeben, man hat eine Vergleichstudie gemacht
+
+489
+00:32:28,980 --> 00:32:31,980
+und dort hat gezeigt, dass PRP ein wenig besser
+
+490
+00:32:31,980 --> 00:32:34,980
+abgeschnitten hat.
+
+491
+00:32:34,980 --> 00:32:37,980
+Also jetzt auch nicht bombastisch, aber nur leicht ein bisschen mehr.
+
+492
+00:32:37,980 --> 00:32:42,380
+Also ich, deswegen behandle ich auch meine Patienten
+
+493
+00:32:42,380 --> 00:32:45,380
+mit PRP, aber nicht jeder möchte das haben.
+
+494
+00:32:45,380 --> 00:32:48,380
+Warum?
+
+495
+00:32:48,380 --> 00:32:51,380
+Ja, das ist so ja.
+
+496
+00:32:51,380 --> 00:32:54,380
+Genau, kostet ein bisschen mehr.
+
+497
+00:32:54,380 --> 00:32:57,380
+Aber ich kann ja nur empfehlen anbieten.
+
+498
+00:32:57,380 --> 00:33:00,380
+Die Patienten nehmen das an, aber nicht an.
+
+499
+00:33:00,380 --> 00:33:04,380
+Bei mir nehmen wir es eher an, aber als in der Regel
+
+500
+00:33:04,380 --> 00:33:08,380
+in einem Kassenpatient, also ich habe eine Privatpraxis
+
+501
+00:33:08,380 --> 00:33:11,380
+und daher nehmen wir es eher an als woanders.
+
+502
+00:33:11,380 --> 00:33:14,380
+Bei mir kommen wir...
+
+503
+00:33:14,380 --> 00:33:20,380
+Wird Joao Leronsäuren vom Krankenkassabersalt?
+
+504
+00:33:20,380 --> 00:33:22,380
+Wie?
+
+505
+00:33:22,380 --> 00:33:24,380
+Wird Joao Leronsäuren...
+
+506
+00:33:24,380 --> 00:33:26,380
+Nein, wird nicht bezahlt.
+
+507
+00:33:26,380 --> 00:33:28,380
+Okay.
+
+508
+00:33:28,380 --> 00:33:30,380
+Es ist egal, ob sie zu einer Privatpraxis gehen
+
+509
+00:33:30,380 --> 00:33:32,380
+oder zu einem Arzt, der auch einen Kassen-Sitz hat,
+
+510
+00:33:32,380 --> 00:33:34,380
+Joao Leronsäuren soll es jetzt nicht übernommen.
+
+511
+00:33:34,380 --> 00:33:36,380
+Okay.
+
+512
+00:33:36,380 --> 00:33:39,380
+Das ist aber billiger als PRP.
+
+513
+00:33:39,380 --> 00:33:42,380
+Kommt darauf an, es gibt Joao Leronsäuren.
+
+514
+00:33:42,380 --> 00:33:44,380
+Die sind teurer im Markt.
+
+515
+00:33:44,380 --> 00:33:46,380
+Es gibt verschiedene Marken.
+
+516
+00:33:46,380 --> 00:33:49,380
+Das gibt Joao Leronsäuren, die sind natürlich günstiger.
+
+517
+00:33:49,380 --> 00:33:56,380
+PRP ist auch, weil es nicht ein Standardprodukt ist,
+
+518
+00:33:56,380 --> 00:33:59,380
+kann jeder seine Preise so ein bisschen bestimmen.
+
+519
+00:33:59,380 --> 00:34:02,380
+Wer sagt, der kostet so viel oder so viel.
+
+520
+00:34:02,380 --> 00:34:04,380
+Okay.
+
+521
+00:34:04,380 --> 00:34:06,380
+Ist unterschiedlich.
+
+522
+00:34:06,380 --> 00:34:08,380
+Okay.
+
+523
+00:34:08,380 --> 00:34:12,380
+Was ich noch hinzufügen würde bei Ihnen ist,
+
+524
+00:34:12,380 --> 00:34:17,380
+bei der Anamnese, also bei der speziellen Anamnese,
+
+525
+00:34:17,380 --> 00:34:20,380
+direkt wo Sie fragen, seit wann es wehtut und so weiter,
+
+526
+00:34:20,380 --> 00:34:26,380
+da würde ich immer als Gedankenstütze...
+
+527
+00:34:26,380 --> 00:34:30,380
+Da gibt es einen Satz in der Orthopädie oder Unfallschirurdi.
+
+528
+00:34:30,380 --> 00:34:33,380
+Es steht meistens immer drinnen in einem Ambulanzbrief.
+
+529
+00:34:33,380 --> 00:34:36,380
+Die Periverde durch Blutung, Motorik, Sensibilität,
+
+530
+00:34:36,380 --> 00:34:39,380
+durch Blutung kann man an einem mäßig fragen,
+
+531
+00:34:39,380 --> 00:34:42,380
+also untersucht und technisch, ja, kann man fühlen.
+
+532
+00:34:42,380 --> 00:34:44,380
+Aber es geht hier um Anamnese.
+
+533
+00:34:44,380 --> 00:34:47,380
+Da kann man ja fragen, zum Beispiel,
+
+534
+00:34:47,380 --> 00:34:50,380
+ist der rechte Bein kälter als der linke Bein?
+
+535
+00:34:50,380 --> 00:34:52,380
+Gibt es einen Temperaturumstell, zum Beispiel.
+
+536
+00:34:52,380 --> 00:34:55,380
+Bei Motorik haben Sie Kraftverlust.
+
+537
+00:34:55,380 --> 00:34:57,380
+Das ist ein sehr guter Bein.
+
+538
+00:34:57,380 --> 00:34:59,380
+Das ist ein sehr guter Bein.
+
+539
+00:34:59,380 --> 00:35:01,380
+Das ist ein sehr guter Bein.
+
+540
+00:35:01,380 --> 00:35:03,380
+Das ist ein sehr guter Bein.
+
+541
+00:35:03,380 --> 00:35:06,380
+Bei Motorik haben Sie Kraftverlust.
+
+542
+00:35:06,380 --> 00:35:09,380
+Aber man muss manchmal ein bisschen genauer hören.
+
+543
+00:35:09,380 --> 00:35:10,380
+Das sind zwei Sachen.
+
+544
+00:35:10,380 --> 00:35:13,380
+Paräse, wenn manche sagen, ich habe Kraftverlust,
+
+545
+00:35:13,380 --> 00:35:15,380
+weil er Schmerzen hat.
+
+546
+00:35:15,380 --> 00:35:17,380
+Wenn es durch Schmerzen bedingte Kraftverlust hat,
+
+547
+00:35:17,380 --> 00:35:19,380
+ist das keine Paräse.
+
+548
+00:35:19,380 --> 00:35:21,380
+Man muss das halt raushören.
+
+549
+00:35:21,380 --> 00:35:24,380
+Und DMS ist Sensibilität.
+
+550
+00:35:24,380 --> 00:35:28,380
+Sensibilität haben Sie Gefühlstörungen, Kribbeln.
+
+551
+00:35:28,380 --> 00:35:31,380
+Kribbeln, wie weit es geht, wenn ich an die Kribbeln.
+
+552
+00:35:31,380 --> 00:35:33,380
+Ich habe eine Bein.
+
+553
+00:35:33,380 --> 00:35:36,380
+Ich habe die Schmerzen in eine bestimmte Region gezogen.
+
+554
+00:35:36,380 --> 00:35:39,380
+Z.B. hätte ich gesagt, der Leiste in meinen Knie.
+
+555
+00:35:39,380 --> 00:35:41,380
+Z.B.
+
+556
+00:35:41,380 --> 00:35:43,380
+Zieg die Schmerzen.
+
+557
+00:35:43,380 --> 00:35:45,380
+Das ist ein Standard,
+
+558
+00:35:45,380 --> 00:35:48,380
+bevor Sie die anderen Anamese anfangen.
+
+559
+00:35:48,380 --> 00:35:50,380
+Mit anderen Erkrankungen,
+
+560
+00:35:50,380 --> 00:35:53,380
+das man sortiert, aber am Anfang direkt fragt.
+
+561
+00:35:53,380 --> 00:35:55,380
+Sie haben direkt gedacht,
+
+562
+00:35:55,380 --> 00:35:58,380
+ab und nach Schmerzen, das ist Koksatuse.
+
+563
+00:35:58,380 --> 00:36:03,380
+Ja, sehr unrechtlich. Das meinst du.
+
+564
+00:36:03,380 --> 00:36:09,380
+Aber damit die Zeit auch voll ist bei der Prüfung,
+
+565
+00:36:09,380 --> 00:36:13,380
+das sind die Strukturen bei der automatischen Sache,
+
+566
+00:36:13,380 --> 00:36:15,380
+die sie denken, kann man fast immer sagen,
+
+567
+00:36:15,380 --> 00:36:19,380
+DMS-Intakt, auch wenn es Lumboschalgie ist,
+
+568
+00:36:19,380 --> 00:36:23,380
+Cervicobrachalgie ist, kann man auch sagen,
+
+569
+00:36:23,380 --> 00:36:27,380
+wie es an dem Arm oder wie es an den Bein ist.
+
+570
+00:36:27,380 --> 00:36:29,380
+Danke.
+
+571
+00:36:29,380 --> 00:36:32,380
+Wollte ich noch ein bisschen. Bitte schön.
+
+572
+00:36:32,380 --> 00:36:38,590
+Hat jemand noch eine Frage oder Sie in der Gruppe?
+
+573
+00:36:38,590 --> 00:36:44,590
+Von welchem Land, woher Sie hier kommen?
+
+574
+00:36:44,590 --> 00:36:46,590
+NRW.
+
+575
+00:36:46,590 --> 00:36:48,590
+NRW, okay. Detail ist nicht so,
+
+576
+00:36:48,590 --> 00:36:50,590
+sondern es ist ein Hayer.
+
+577
+00:36:50,590 --> 00:36:52,590
+Okay, gut, schön.
+
+578
+00:36:52,590 --> 00:36:54,590
+Wenn Sie keine Fragen haben,
