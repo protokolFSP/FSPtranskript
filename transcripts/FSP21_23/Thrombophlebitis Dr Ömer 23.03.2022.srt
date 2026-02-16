@@ -1,0 +1,2139 @@
+1
+00:00:02,580 --> 00:00:12,580
+Guten Tag. Ich bin der zuständige Arzt für Sie. Das ist mein Name. Wie heißen Sie?
+
+2
+00:00:12,580 --> 00:00:16,580
+Guten Tag. Mein Name ist Rolf.
+
+3
+00:00:16,580 --> 00:00:19,580
+Gräulich.
+
+4
+00:00:19,580 --> 00:00:25,580
+Herr Gräulich, können Sie bitte Ihren Vor- und Nachnamen standieren?
+
+5
+00:00:25,580 --> 00:00:28,580
+Aber natürlich. Mein Vorname ist Rolf.
+
+6
+00:00:28,580 --> 00:00:36,580
+Ludwig Friedrich. Nachname ist Gräulich. Gustav Richard.
+
+7
+00:00:36,580 --> 00:00:45,980
+Emi Udo. Ludwig Ida. César Heinrich. Gräulich.
+
+8
+00:00:45,980 --> 00:00:53,980
+Okay. Gräulich. Bevor wir anfangen, lassen Sie mich Ihre persönliche Daten notieren.
+
+9
+00:00:53,980 --> 00:00:57,980
+Danach kümmere ich mich um Ihre Beschwerde. Okay?
+
+10
+00:00:57,980 --> 00:01:01,980
+Gerne, natürlich. Okay. Wie raten Sie?
+
+11
+00:01:01,980 --> 00:01:10,330
+Ich bin 54 Jahre alt. Okay. Verraten Sie mir mit der Geburtstagung?
+
+12
+00:01:10,330 --> 00:01:16,330
+Oh, das wollen Sie auch noch wissen. Das ist der 23. Mai.
+
+13
+00:01:16,330 --> 00:01:18,330
+Okay.
+
+14
+00:01:18,330 --> 00:01:27,910
+1954. Okay. Wie viel wiegen Sie?
+
+15
+00:01:27,910 --> 00:01:33,910
+Ein bisschen zu viel. Wiege im Moment so ca. 94 kg.
+
+16
+00:01:33,910 --> 00:01:37,910
+Okay. Herr Gräulich. Und wie groß sind Sie?
+
+17
+00:01:37,910 --> 00:01:41,910
+Ungefähr 1,75 m.
+
+18
+00:01:41,910 --> 00:01:45,910
+Okay. Sind Sie verharatet?
+
+19
+00:01:45,910 --> 00:01:46,910
+Ja.
+
+20
+00:01:46,910 --> 00:01:48,910
+Haben Sie Kinder?
+
+21
+00:01:48,910 --> 00:01:50,910
+Zwei Kinder habe ich, ja.
+
+22
+00:01:50,910 --> 00:01:53,910
+Okay. Und was sind Sie von Beruf?
+
+23
+00:01:53,910 --> 00:01:58,350
+Ich bin Kfz-Mechaniker.
+
+24
+00:01:58,350 --> 00:02:06,580
+Also, Frau Herr Gräulich, was kann ich für Sie tun?
+
+25
+00:02:06,580 --> 00:02:11,580
+Also, Herr Doktor, leider hat mein Hausarzt heute Nachmittag zu.
+
+26
+00:02:11,580 --> 00:02:14,580
+Aber deswegen komme ich heute zu Ihnen.
+
+27
+00:02:14,580 --> 00:02:16,580
+Okay.
+
+28
+00:02:16,580 --> 00:02:26,580
+Ich habe seit ca. 2 Tagen zunehmende Schmerzen an meiner rechten Warte.
+
+29
+00:02:26,580 --> 00:02:30,580
+Und das ist auch so ein bisschen druckempfindlich,
+
+30
+00:02:30,580 --> 00:02:36,580
+wenn ich mit meiner Hand an so eine Wehne bestimmte Stelle komme.
+
+31
+00:02:36,580 --> 00:02:41,580
+Und das wird auch ein bisschen rot.
+
+32
+00:02:41,580 --> 00:02:44,580
+Okay.
+
+33
+00:02:44,580 --> 00:02:52,580
+Ist Ihnen etwas aufgefallen, dass die Warte geschwollen ist?
+
+34
+00:02:52,580 --> 00:02:54,580
+Ja, das stimmt.
+
+35
+00:02:54,580 --> 00:03:02,580
+So, wo ich mich frage, das sieht ein bisschen dicker aus als das linke Bein.
+
+36
+00:03:02,580 --> 00:03:04,580
+Ja, das stimmt.
+
+37
+00:03:04,580 --> 00:03:07,580
+Seit 2 Tagen.
+
+38
+00:03:07,580 --> 00:03:09,580
+Ja, und das wird...
+
+39
+00:03:09,580 --> 00:03:12,580
+Okay, vorher haben Sie auch solche Probleme gehabt?
+
+40
+00:03:12,580 --> 00:03:19,110
+Ich hatte vor vielen Jahren mal ähnliche Probleme gehabt.
+
+41
+00:03:19,110 --> 00:03:20,110
+Das stimmt ja.
+
+42
+00:03:20,110 --> 00:03:22,110
+Wann war genau das?
+
+43
+00:03:22,110 --> 00:03:25,110
+Das sind ungefähr 5 Jahre her.
+
+44
+00:03:25,110 --> 00:03:27,110
+5 Jahre her.
+
+45
+00:03:27,110 --> 00:03:34,110
+Und haben Sie dagegen zum Arzt gehen gegangen?
+
+46
+00:03:34,110 --> 00:03:41,110
+Sind Sie dagegen zum Arzt gehen gegangen?
+
+47
+00:03:41,110 --> 00:03:43,110
+Deswegen war ich beim Arzt, ja.
+
+48
+00:03:43,110 --> 00:03:46,110
+Damals hat gesagt, das ist eine Trombose.
+
+49
+00:03:47,110 --> 00:03:49,110
+Eine tiefe Bein-Wähntrombose.
+
+50
+00:03:49,110 --> 00:03:55,110
+Und ich musste über 1 Jahr so blutfördünnende Medikamente nehmen.
+
+51
+00:03:55,110 --> 00:04:01,110
+Und jetzt habe ich die Angst, dass es vielleicht etwas Gleiches oder Ähnliches ist.
+
+52
+00:04:01,110 --> 00:04:03,110
+Okay.
+
+53
+00:04:03,110 --> 00:04:07,110
+Nehmen Sie noch diese Medikamente ein?
+
+54
+00:04:07,110 --> 00:04:09,110
+Nein, nicht mehr, als du seid.
+
+55
+00:04:09,110 --> 00:04:11,110
+Jetzt 2 Jahre nicht mehr.
+
+56
+00:04:11,110 --> 00:04:16,110
+Aber ich hatte schon mehrere Trombosen gehabt.
+
+57
+00:04:16,110 --> 00:04:19,110
+Was für Trombose hatten Sie?
+
+58
+00:04:19,110 --> 00:04:24,110
+Einmal am linken Bein, einmal dann am rechten Bein.
+
+59
+00:04:24,110 --> 00:04:29,110
+Und ich hatte aber auch eine Lungenirrambulier schon mal gehabt.
+
+60
+00:04:29,110 --> 00:04:31,110
+Okay.
+
+61
+00:04:31,110 --> 00:04:36,110
+Das liegt schon länger zurück. Das sind circa 10 Jahre.
+
+62
+00:04:36,110 --> 00:04:38,110
+Ja.
+
+63
+00:04:38,110 --> 00:04:43,110
+Und man hat mich deswegen auch zu einem Spezialisten geschickt.
+
+64
+00:04:43,110 --> 00:04:45,110
+Okay.
+
+65
+00:04:45,110 --> 00:04:50,110
+Und der hat auch mein Blut untersucht und meinte, das ist alles in Ordnung.
+
+66
+00:04:50,110 --> 00:04:55,110
+Das gibt keine Hinweise für eine Gerinnungsstörung.
+
+67
+00:04:55,110 --> 00:04:59,110
+Habt jetzt nicht.
+
+68
+00:04:59,110 --> 00:05:00,110
+Okay.
+
+69
+00:05:00,110 --> 00:05:05,110
+Deswegen, die haben alle mit Kommentar abgesetzt.
+
+70
+00:05:05,110 --> 00:05:07,110
+Ja, ich bin immer in Kontrolle.
+
+71
+00:05:07,110 --> 00:05:11,110
+Ich bin auch bei einem Gefäß Spezialisten.
+
+72
+00:05:11,110 --> 00:05:16,110
+Der schaut hier nach meinen Gefäßen, nach den Beinen.
+
+73
+00:05:16,110 --> 00:05:18,110
+Und bisher war eigentlich alles in Ordnung.
+
+74
+00:05:18,110 --> 00:05:21,110
+Also, waren wir jetzt in Kontrolle?
+
+75
+00:05:21,110 --> 00:05:23,110
+Das war circa einem Jahr.
+
+76
+00:05:23,110 --> 00:05:24,110
+Okay.
+
+77
+00:05:24,110 --> 00:05:28,350
+War alles in Ordnung.
+
+78
+00:05:28,350 --> 00:05:29,350
+Okay.
+
+79
+00:05:29,350 --> 00:05:34,350
+Und am Ende, Sie sehen, ich trage normalerweise immer Stützstrümpfe.
+
+80
+00:05:34,350 --> 00:05:36,350
+Mhm.
+
+81
+00:05:36,350 --> 00:05:42,760
+Und ich war am Wochenende auf einer Reise mit dem Auto.
+
+82
+00:05:42,760 --> 00:05:45,760
+Wie viele Stunden hat dieser Reise gedauert?
+
+83
+00:05:45,760 --> 00:05:47,760
+Das war schon länger.
+
+84
+00:05:47,760 --> 00:05:50,760
+Das war so vier Stunden mit dem Auto, bin ich gefahren.
+
+85
+00:05:50,760 --> 00:05:52,760
+Vier Stunden.
+
+86
+00:05:52,760 --> 00:05:58,760
+Und obwohl ich immer zwischendurch auch immer eine Pause eingelegt habe.
+
+87
+00:05:58,760 --> 00:06:00,760
+Okay.
+
+88
+00:06:00,760 --> 00:06:05,760
+Und wann war diese Reise genau?
+
+89
+00:06:05,760 --> 00:06:10,760
+Ich meine, vor drei Tagen.
+
+90
+00:06:10,760 --> 00:06:15,760
+Also, nach dieser Reise sind diese Beschwerden aufgekriegt.
+
+91
+00:06:15,760 --> 00:06:21,250
+Ja, genau.
+
+92
+00:06:21,250 --> 00:06:25,250
+Also, Sie haben schon gesagt, dass die Schmerzen haben.
+
+93
+00:06:25,250 --> 00:06:33,250
+Wie könnten Sie mir sagen, wie genau die Schmerzen sind?
+
+94
+00:06:33,250 --> 00:06:38,250
+Sind sie eher dumpf oder stechend oder krampferartig?
+
+95
+00:06:38,250 --> 00:06:43,250
+Ja, es ist eher dumpf, aber es geht über die ganze Wade.
+
+96
+00:06:43,250 --> 00:06:48,250
+Aber wie Sie hier sehen, hier an dieser Wade ist ein dickes Gefäß.
+
+97
+00:06:48,250 --> 00:06:52,250
+Eine Wenig, das ist auch sehr prall.
+
+98
+00:06:52,250 --> 00:07:01,600
+Wenn man so auf die Wenig drauf drückt, das tut dann weh.
+
+99
+00:07:01,600 --> 00:07:02,600
+Okay.
+
+100
+00:07:02,600 --> 00:07:06,600
+Und haben Sie Fieber?
+
+101
+00:07:06,600 --> 00:07:09,600
+Nein, Fieber habe ich nicht.
+
+102
+00:07:09,600 --> 00:07:11,600
+Okay.
+
+103
+00:07:11,600 --> 00:07:13,600
+Haben Sie Unfall gehabt?
+
+104
+00:07:13,600 --> 00:07:15,600
+Ach so, nein.
+
+105
+00:07:15,600 --> 00:07:19,600
+Ich hatte keinen Trauma, keinen Unfall, keine Verletzung.
+
+106
+00:07:19,600 --> 00:07:21,600
+Das haben wir jetzt nicht.
+
+107
+00:07:21,600 --> 00:07:25,600
+Ist Ihnen irgendwelche Ungefüllnisches aufgefallen?
+
+108
+00:07:25,600 --> 00:07:31,600
+Ich meine, haben Sie noch irgendwelche Beschwerden?
+
+109
+00:07:31,600 --> 00:07:33,600
+Nein, habe so Schmerzen.
+
+110
+00:07:33,600 --> 00:07:36,600
+Schwellung ist da eine Rötung.
+
+111
+00:07:36,600 --> 00:07:39,600
+Sonst habe ich im Moment erst mal nichts.
+
+112
+00:07:39,600 --> 00:07:42,600
+Das reicht doch, das ist genug, mehr will ich nicht haben.
+
+113
+00:07:42,600 --> 00:07:44,600
+Ja, wir haben recht.
+
+114
+00:07:44,600 --> 00:07:51,600
+Okay, jetzt möchte ich über Ihre Erkrankungen einfach Frage stellen.
+
+115
+00:07:51,600 --> 00:07:57,600
+Sie hatten mehrmals Thrombose.
+
+116
+00:07:57,600 --> 00:08:12,600
+Und außer diese Krankheiten, leiden Sie noch irgendwelche an chronische Erkrankungen?
+
+117
+00:08:12,600 --> 00:08:14,600
+Wie Blutdruck, Diabetes.
+
+118
+00:08:14,600 --> 00:08:18,600
+Ja, in der Tat, das ist sehr gut.
+
+119
+00:08:18,600 --> 00:08:21,600
+Ich habe einen bekannten hohen Blutdruck.
+
+120
+00:08:21,600 --> 00:08:24,600
+Da nehme ich auch Medikamente ein.
+
+121
+00:08:24,600 --> 00:08:26,600
+Was nehmen Sie genau?
+
+122
+00:08:26,600 --> 00:08:28,600
+Medikamente?
+
+123
+00:08:28,600 --> 00:08:30,600
+Ja.
+
+124
+00:08:30,600 --> 00:08:33,600
+Das ist zum einen das Kandesatan.
+
+125
+00:08:33,600 --> 00:08:35,600
+Okay.
+
+126
+00:08:35,600 --> 00:08:37,600
+Wie viel Milligramm?
+
+127
+00:08:37,600 --> 00:08:39,600
+16 Milligramm.
+
+128
+00:08:39,600 --> 00:08:41,600
+Wie viel Mal?
+
+129
+00:08:41,600 --> 00:08:43,600
+Einmal am Morgen.
+
+130
+00:08:43,600 --> 00:08:49,010
+Und dann habe ich das Amnodipin.
+
+131
+00:08:49,010 --> 00:08:53,010
+Das sind glaube ich 5 Milligramm.
+
+132
+00:08:53,010 --> 00:08:57,010
+Und die nehme ich dann am Abend.
+
+133
+00:08:57,010 --> 00:09:03,010
+Und außer Blutdruck, gibt es noch etwas?
+
+134
+00:09:03,010 --> 00:09:07,010
+Ja, mein Doktor meinte, ich habe so einen beginnenden Diabetes.
+
+135
+00:09:07,010 --> 00:09:11,010
+Er hat mir auch gleich Medikamente verschrieben.
+
+136
+00:09:11,010 --> 00:09:17,010
+Da nehme ich, wie heißt das nochmal, Metromin.
+
+137
+00:09:17,010 --> 00:09:21,510
+Also seit wann?
+
+138
+00:09:21,510 --> 00:09:24,510
+Seit 500 Milligramm.
+
+139
+00:09:24,510 --> 00:09:26,510
+Okay, wie viel Mal?
+
+140
+00:09:26,510 --> 00:09:27,510
+Wie oft?
+
+141
+00:09:27,510 --> 00:09:30,510
+Zweimal, am Morgen und am Abend.
+
+142
+00:09:30,510 --> 00:09:33,510
+Seit wann haben Sie jetzt gerade Krankheit?
+
+143
+00:09:33,510 --> 00:09:35,510
+Seit wann?
+
+144
+00:09:35,510 --> 00:09:37,510
+Ah so, das ist ungefähr seit einem Jahr.
+
+145
+00:09:37,510 --> 00:09:39,510
+Seit einem Jahr, also 5, 2.
+
+146
+00:09:39,510 --> 00:09:42,510
+Ja, ich glaube ja.
+
+147
+00:09:42,510 --> 00:09:46,510
+Und seit wann haben Sie Blutdruck?
+
+148
+00:09:46,510 --> 00:09:49,510
+Das ist schon länger, das sind fast 20 Jahre.
+
+149
+00:09:49,510 --> 00:09:54,180
+Gibt es noch etwas?
+
+150
+00:09:54,180 --> 00:10:01,260
+Ansonsten nicht, ich habe ab und zu mal ein bisschen Sod brennen.
+
+151
+00:10:01,260 --> 00:10:03,260
+Das kommt immer wieder mal.
+
+152
+00:10:03,260 --> 00:10:05,260
+Sod brennen?
+
+153
+00:10:05,260 --> 00:10:09,260
+Ja, und da gibt es so kleine gelbe Medikamente.
+
+154
+00:10:09,260 --> 00:10:13,260
+Wenn ich die nehme, dann geht es mir meistens besser.
+
+155
+00:10:13,260 --> 00:10:16,260
+Seit wann haben Sie jetzt Beschwerden?
+
+156
+00:10:16,260 --> 00:10:19,260
+Ich glaube, seit 30 Jahren.
+
+157
+00:10:19,260 --> 00:10:25,140
+Okay, sind Sie schon mal operiert worden?
+
+158
+00:10:25,140 --> 00:10:28,140
+Ja, ich hatte schon mehrere Operationen.
+
+159
+00:10:28,140 --> 00:10:31,140
+Was für Operationen hatten Sie?
+
+160
+00:10:31,140 --> 00:10:35,140
+Also zum einen ist Medikallenblase schon entfernt worden.
+
+161
+00:10:35,140 --> 00:10:40,140
+Da hatte ich Steine gehabt und die war entzündet.
+
+162
+00:10:40,140 --> 00:10:42,140
+Okay.
+
+163
+00:10:42,140 --> 00:10:46,140
+Und dann hatte ich mal einen Sportunfall.
+
+164
+00:10:46,140 --> 00:10:50,140
+Und beim Skifahren.
+
+165
+00:10:50,140 --> 00:10:55,610
+Ich hatte einen Schlüsselbeinfraktur.
+
+166
+00:10:55,610 --> 00:10:58,610
+Hier oben, da bin ich beim Skifahren gefallen
+
+167
+00:10:58,610 --> 00:11:00,610
+und das Schlüsselbein war gebrochen.
+
+168
+00:11:00,610 --> 00:11:03,610
+Wie wurden Sie behandelt?
+
+169
+00:11:03,610 --> 00:11:11,180
+Das wurde operiert, da ist eine Metallplatte eingelegt.
+
+170
+00:11:11,180 --> 00:11:14,180
+Okay, das war es.
+
+171
+00:11:14,180 --> 00:11:21,180
+Und ich habe so eine Hand, wie heißt das, wenn der Nerv eingeklemmt ist?
+
+172
+00:11:21,180 --> 00:11:24,180
+Kapaltunnel.
+
+173
+00:11:24,180 --> 00:11:27,180
+Genau, eine Kapaltunnel-Syndromatis.
+
+174
+00:11:27,180 --> 00:11:30,180
+Hier auf der rechten Seite.
+
+175
+00:11:30,180 --> 00:11:40,160
+Okay, Herr Dröhmig, gibt es in Ihrer Familie schwierige Erkrankungen?
+
+176
+00:11:40,160 --> 00:11:44,500
+Was meinen Sie mit schwierigen?
+
+177
+00:11:44,500 --> 00:11:50,500
+Zum Beispiel ein Blutverwärter zu Krankheiten.
+
+178
+00:11:50,500 --> 00:11:55,820
+Also Krebs gibt es einige Fälle.
+
+179
+00:11:55,820 --> 00:11:58,820
+Ich habe keine Ahnung, ich habe keine Ahnung, ich habe keine Ahnung.
+
+180
+00:11:58,820 --> 00:12:01,820
+Meine Onkel hatte Prostatakation.
+
+181
+00:12:01,820 --> 00:12:04,820
+Und da musste operiert werden.
+
+182
+00:12:04,820 --> 00:12:10,820
+Und lebt Ihre Mutter und Vater noch?
+
+183
+00:12:10,820 --> 00:12:14,820
+Meine Eltern leben noch.
+
+184
+00:12:14,820 --> 00:12:20,320
+Die haben glücklicherweise keine größeren Erkrankungen,
+
+185
+00:12:20,320 --> 00:12:24,320
+aber meine Mutter, der Arzt, die hat Anzeichen
+
+186
+00:12:24,320 --> 00:12:27,320
+von einer beginnenden Demenz.
+
+187
+00:12:27,320 --> 00:12:32,320
+Aber ansonsten geht es ihnen noch relativ gut.
+
+188
+00:12:32,320 --> 00:12:38,020
+Mein Vater ist fit, der hat nichts.
+
+189
+00:12:38,020 --> 00:12:44,020
+Aber meine Tante, die hat Brustkrebs gehabt.
+
+190
+00:12:44,020 --> 00:12:49,020
+Und meine andere Tante hatte vor einem Jahr einen Schlagabfall.
+
+191
+00:12:49,020 --> 00:12:52,020
+Und ist leider jetzt betlägerig.
+
+192
+00:12:53,020 --> 00:13:01,800
+Haben Sie Probleme beim Schlafen?
+
+193
+00:13:01,800 --> 00:13:05,800
+An sich nicht, das klappt relativ gut.
+
+194
+00:13:05,800 --> 00:13:11,100
+Wie ist Ihr Appetit?
+
+195
+00:13:11,100 --> 00:13:14,100
+Das Problem ist zu gut.
+
+196
+00:13:14,100 --> 00:13:22,750
+Haben Sie Probleme beim Studiengang?
+
+197
+00:13:22,750 --> 00:13:26,750
+An sich nicht, das ist alles okay.
+
+198
+00:13:27,750 --> 00:13:32,750
+Herr Glöning, gibt es etwas, was Sie nicht belastet?
+
+199
+00:13:32,750 --> 00:13:35,750
+Wie meinen Sie das?
+
+200
+00:13:35,750 --> 00:13:39,750
+Haben Sie Stress in der Arbeit?
+
+201
+00:13:39,750 --> 00:13:43,750
+Natürlich, bei der Arbeit und so weit.
+
+202
+00:13:43,750 --> 00:13:47,750
+Aber das ist okay, das ist nichts Dramatisches.
+
+203
+00:13:47,750 --> 00:13:55,480
+Sie nehmen regelmäßig Kanadasatan,
+
+204
+00:13:55,480 --> 00:13:58,480
+amiosepin und metformin.
+
+205
+00:13:58,480 --> 00:14:03,480
+Nehmen Sie noch irgendwelche Kanadasatanen?
+
+206
+00:14:03,480 --> 00:14:06,480
+Nein, an sich nicht.
+
+207
+00:14:06,480 --> 00:14:10,480
+Wenn ich mal Schmerzen habe, dann nehme ich mal über Profin.
+
+208
+00:14:10,480 --> 00:14:18,380
+Aber habe ich jetzt längere Zeit auch nicht gehabt.
+
+209
+00:14:18,380 --> 00:14:21,380
+Brauchen Sie?
+
+210
+00:14:21,380 --> 00:14:25,380
+Hab und zu machen, nicht immer, aber manchmal.
+
+211
+00:14:25,380 --> 00:14:28,380
+Was meinen Sie denn?
+
+212
+00:14:28,380 --> 00:14:32,380
+Ich habe immer noch ein bis zwei Zigaretten am Tag.
+
+213
+00:14:32,380 --> 00:14:38,860
+Seit wann?
+
+214
+00:14:38,860 --> 00:14:42,860
+Ebigkeiten, über 30 Jahre.
+
+215
+00:14:42,860 --> 00:14:45,860
+Immer ein bis zwei Zigaretten?
+
+216
+00:14:45,860 --> 00:14:49,860
+Ja, manchmal auch gar nicht.
+
+217
+00:14:49,860 --> 00:14:52,860
+Aber so nach dem Abendessen manchmal.
+
+218
+00:14:52,860 --> 00:14:55,860
+Dann trinken Sie Alkohol?
+
+219
+00:14:55,860 --> 00:14:58,860
+Ab und zu mal.
+
+220
+00:14:58,860 --> 00:15:01,860
+Wie oft trinken Sie?
+
+221
+00:15:01,860 --> 00:15:04,860
+Ein Gläschen Wein am Abend.
+
+222
+00:15:04,860 --> 00:15:07,860
+Trink ich gerne mal.
+
+223
+00:15:07,860 --> 00:15:10,860
+Und dann auch mal ein Bier zwischendurch.
+
+224
+00:15:10,860 --> 00:15:15,820
+Nehmen Sie Drogen?
+
+225
+00:15:15,820 --> 00:15:18,820
+Drogen?
+
+226
+00:15:18,820 --> 00:15:21,820
+Nein, Drogen.
+
+227
+00:15:21,820 --> 00:15:24,820
+Ist bei Ihnen allergie bekannt?
+
+228
+00:15:24,820 --> 00:15:27,820
+Ja, mein Doktor meinte,
+
+229
+00:15:27,820 --> 00:15:30,820
+ich hatte mal einen Medikament bekommen,
+
+230
+00:15:30,820 --> 00:15:33,820
+ein Antibiotikum.
+
+231
+00:15:33,820 --> 00:15:36,820
+Aber ich habe den Namen vergessen.
+
+232
+00:15:36,820 --> 00:15:39,820
+Kann Penicillin sein?
+
+233
+00:15:39,820 --> 00:15:42,820
+Nein, das war ein anderes Antibiotikum.
+
+234
+00:15:42,820 --> 00:15:45,820
+Das hatte so einen komischen Namen.
+
+235
+00:15:45,820 --> 00:15:48,820
+Aber da kann ich noch mal nachgucken, das weiß ich nicht mehr.
+
+236
+00:15:48,820 --> 00:15:51,820
+Und ich habe auch so in früher
+
+237
+00:15:51,820 --> 00:15:58,980
+eine Polenallergie.
+
+238
+00:15:58,980 --> 00:16:01,980
+Was ist die Allergie?
+
+239
+00:16:01,980 --> 00:16:04,980
+Welche Allergie?
+
+240
+00:16:04,980 --> 00:16:07,980
+Ja, die Medikamente und die Polenallergie.
+
+241
+00:16:07,980 --> 00:16:10,980
+Auf die Medikamente habe ich einen ganz roten Ausschlag bekommen.
+
+242
+00:16:10,980 --> 00:16:13,980
+Ich hatte überall Juckreiz
+
+243
+00:16:13,980 --> 00:16:16,980
+und hatte Schwellungen am ganzen Körper.
+
+244
+00:16:16,980 --> 00:16:19,980
+Und die Polenallergie ist halt ganz typisch.
+
+245
+00:16:19,980 --> 00:16:22,980
+Da läuft mir die Nase.
+
+246
+00:16:22,980 --> 00:16:25,980
+Da trennen mir die Augen.
+
+247
+00:16:25,980 --> 00:16:28,980
+Das ist bei den Polen.
+
+248
+00:16:28,980 --> 00:16:31,980
+Ich möchte noch eine Frage stellen.
+
+249
+00:16:31,980 --> 00:16:38,860
+Was ist die Schmerzen,
+
+250
+00:16:38,860 --> 00:16:41,860
+die er hat oder die er stirbt?
+
+251
+00:16:41,860 --> 00:16:44,860
+Aktuell im Moment?
+
+252
+00:16:44,860 --> 00:16:47,860
+Genau.
+
+253
+00:16:47,860 --> 00:16:50,860
+Das kann ich jetzt nicht sagen.
+
+254
+00:16:50,860 --> 00:16:53,860
+Es ist nichts Besonderes.
+
+255
+00:16:53,860 --> 00:16:56,860
+Ich habe noch eine Frage.
+
+256
+00:16:56,860 --> 00:16:59,860
+Ich habe noch eine Frage.
+
+257
+00:16:59,860 --> 00:17:02,860
+Es ist schlimmer geworden.
+
+258
+00:17:02,860 --> 00:17:05,860
+Ich kann schlecht auf meinen Auftreten.
+
+259
+00:17:05,860 --> 00:17:08,860
+Ich hinke ein bisschen.
+
+260
+00:17:08,860 --> 00:17:14,060
+Wenn ich laufe, dann wird es schlimmer.
+
+261
+00:17:14,060 --> 00:17:17,060
+Beim Bewegung verschlimmert die Schmerzen.
+
+262
+00:17:17,060 --> 00:17:20,060
+Das ist richtig, genau.
+
+263
+00:17:20,060 --> 00:17:23,060
+Wie viele Meter können Sie laufen?
+
+264
+00:17:23,060 --> 00:17:26,060
+Nicht weit.
+
+265
+00:17:26,060 --> 00:17:29,060
+Ich habe nur 3-4 Meter.
+
+266
+00:17:29,060 --> 00:17:32,060
+Ich muss stehen bleiben, weil ich Schmerzen bekomme.
+
+267
+00:17:32,060 --> 00:17:35,060
+Vorher haben Sie so beschwerten?
+
+268
+00:17:35,060 --> 00:17:38,060
+Nein, dann hatte ich nicht.
+
+269
+00:17:38,060 --> 00:17:41,060
+Ich konnte ganz normal laufen.
+
+270
+00:17:41,060 --> 00:17:44,060
+Wenn Sie Ihre Beine hochlegen
+
+271
+00:17:44,060 --> 00:17:47,060
+und länger die Schmerzen...
+
+272
+00:17:47,060 --> 00:17:50,060
+Nein, das ändert sich nicht.
+
+273
+00:17:50,060 --> 00:17:55,210
+Wenn Sie ein Pause machen,
+
+274
+00:17:55,210 --> 00:17:58,210
+dann nachher können Sie wieder 3-4 Meter laufen.
+
+275
+00:17:58,210 --> 00:18:01,210
+Das bringt nicht sehr viel die Pause.
+
+276
+00:18:01,210 --> 00:18:04,210
+Ich muss kurz stehen bleiben.
+
+277
+00:18:04,210 --> 00:18:07,210
+Das ändert an den Schmerzen nicht sehr viel.
+
+278
+00:18:07,210 --> 00:18:10,210
+Das Beste ist sitzen.
+
+279
+00:18:10,210 --> 00:18:13,210
+Es gibt Ihre Beine.
+
+280
+00:18:13,210 --> 00:18:16,210
+Auf einer Wurde?
+
+281
+00:18:16,210 --> 00:18:19,210
+Nein, das habe ich nicht.
+
+282
+00:18:19,210 --> 00:18:23,650
+Herr Gröning, habe ich die wichtigsten Fragen gestellt?
+
+283
+00:18:23,650 --> 00:18:26,650
+Müssten Sie etwas ergänzen?
+
+284
+00:18:26,650 --> 00:18:29,650
+Nein, ich habe Angst, dass es wieder eine Trombose ist.
+
+285
+00:18:29,650 --> 00:18:32,650
+Deswegen bin ich da, dass Sie nachschauen.
+
+286
+00:18:32,650 --> 00:18:35,650
+Können Sie ein Ultraschall heute machen?
+
+287
+00:18:35,650 --> 00:18:38,650
+Herr Gröning, aber erst mal möchte ich die Körperversuchung versuchen.
+
+288
+00:18:38,650 --> 00:18:41,650
+Danach brauche ich eine Verluckungversuchung.
+
+289
+00:18:41,650 --> 00:18:44,650
+Ich nehme Ihnen einen Blutab.
+
+290
+00:18:44,650 --> 00:18:47,650
+Ich habe eine Verluckungversuchung.
+
+291
+00:18:47,650 --> 00:18:50,650
+Ich habe eine Verluckungversuchung.
+
+292
+00:18:50,650 --> 00:18:53,650
+Ich nehme Ihnen einen Blutab.
+
+293
+00:18:53,650 --> 00:18:56,650
+Danach möchte ich Ihnen ein Ultraschall durchschauen.
+
+294
+00:18:56,650 --> 00:18:59,650
+Das ist ein Ultraschall.
+
+295
+00:18:59,650 --> 00:19:02,650
+Das kenne ich.
+
+296
+00:19:02,650 --> 00:19:05,650
+Je nach Ergebnisse,
+
+297
+00:19:05,650 --> 00:19:08,650
+können wir auch eine Angiografie
+
+298
+00:19:08,650 --> 00:19:11,650
+durchschauen.
+
+299
+00:19:11,650 --> 00:19:14,650
+Ich hoffe nicht.
+
+300
+00:19:14,650 --> 00:19:17,650
+Ich habe eine Verluckungversuchung.
+
+301
+00:19:17,650 --> 00:19:20,650
+Ich hoffe nicht.
+
+302
+00:19:20,650 --> 00:19:23,650
+Ich hoffe, dass es keine Trombose ist.
+
+303
+00:19:23,650 --> 00:19:26,650
+Das macht mir wieder Angst.
+
+304
+00:19:26,650 --> 00:19:29,650
+Wir müssen die ersten Ergebnisse überprüfen.
+
+305
+00:19:29,650 --> 00:19:31,650
+Danach können wir nachher
+
+306
+00:19:31,650 --> 00:19:34,650
+doppelwäschrig machen.
+
+307
+00:19:34,650 --> 00:19:37,650
+Ich kenne das.
+
+308
+00:19:37,650 --> 00:19:40,650
+Ich muss jetzt ein bisschen warten.
+
+309
+00:19:40,650 --> 00:19:43,650
+Vielen Dank, Herr Doktor, für Ihre Zeit.
+
+310
+00:19:43,650 --> 00:19:46,650
+Ich habe eine Frage.
+
+311
+00:19:46,650 --> 00:19:49,650
+Dann setze ich mich in die zweite.
+
+312
+00:19:49,650 --> 00:19:58,180
+Danke.
+
+313
+00:19:58,180 --> 00:20:01,180
+Noch Fragen?
+
+314
+00:20:01,180 --> 00:20:09,530
+Kollegen sind alle zufrieden.
+
+315
+00:20:09,530 --> 00:20:17,230
+Dann brauche ich eine Minute Zeit.
+
+316
+00:20:17,230 --> 00:20:43,400
+Haben die anderen Kolleginnen und Kollegen noch Fragen?
+
+317
+00:20:43,400 --> 00:20:51,360
+Keine Frage.
+
+318
+00:20:51,360 --> 00:21:01,980
+Sie wissen alle, was es ist.
+
+319
+00:21:01,980 --> 00:21:10,540
+Ich möchte von Ihnen mindestens 2
+
+320
+00:21:10,540 --> 00:21:15,530
+Differenzialdiagnosen wissen.
+
+321
+00:21:15,530 --> 00:21:19,900
+Ich?
+
+322
+00:21:19,900 --> 00:21:25,080
+Ich bin bereit.
+
+323
+00:21:25,080 --> 00:21:28,080
+Dann bitte schön.
+
+324
+00:21:28,080 --> 00:21:31,080
+Guten Tag, Herr Oberarzt.
+
+325
+00:21:31,080 --> 00:21:34,080
+Wenn Sie Zeit haben, möchte ich Ihnen
+
+326
+00:21:34,080 --> 00:21:37,080
+einen neuen Patienten vorstellen.
+
+327
+00:21:37,080 --> 00:21:40,080
+Guten Tag, Servus.
+
+328
+00:21:40,080 --> 00:21:43,080
+Ich habe eine Frage.
+
+329
+00:21:43,080 --> 00:21:46,080
+Sie sind mal los.
+
+330
+00:21:46,080 --> 00:21:49,080
+Herr Gräulich ist ein 54-jähriger Patient.
+
+331
+00:21:49,080 --> 00:21:52,080
+94 kg.
+
+332
+00:21:52,080 --> 00:21:55,080
+175 cm groß.
+
+333
+00:21:55,080 --> 00:21:58,080
+Er klagt über
+
+334
+00:21:58,080 --> 00:22:01,080
+seit 2 Tagen zunehmende
+
+335
+00:22:01,080 --> 00:22:04,080
+Schmerzen an der rechten Bade.
+
+336
+00:22:04,080 --> 00:22:06,080
+Unter
+
+337
+00:22:06,080 --> 00:22:09,080
+Schmerzen.
+
+338
+00:22:09,080 --> 00:22:12,080
+Die Bade
+
+339
+00:22:12,080 --> 00:22:15,080
+sind in den letzten 2 Tagen
+
+340
+00:22:15,080 --> 00:22:18,080
+groß geworden.
+
+341
+00:22:18,080 --> 00:22:22,080
+Er
+
+342
+00:22:22,080 --> 00:22:25,080
+hat
+
+343
+00:22:25,080 --> 00:22:28,080
+vorher mehrmals
+
+344
+00:22:28,080 --> 00:22:31,080
+eine große Geschichte.
+
+345
+00:22:31,080 --> 00:22:34,080
+Er hatte
+
+346
+00:22:34,080 --> 00:22:37,080
+eine große Geschichte.
+
+347
+00:22:37,080 --> 00:22:40,080
+Er hatte eine große Geschichte.
+
+348
+00:22:40,080 --> 00:22:44,800
+Er hat 10 Jahre,
+
+349
+00:22:44,800 --> 00:22:47,480
+Linkenbein,
+
+350
+00:22:47,480 --> 00:22:51,080
+die dritten Kompose.
+
+351
+00:22:51,080 --> 00:22:54,080
+Aber eine Gerätungssstörung
+
+352
+00:22:54,080 --> 00:22:57,080
+würde bei ihm nicht festgestellt.
+
+353
+00:22:57,080 --> 00:23:00,080
+Das ist schon durchgeführt worden.
+
+354
+00:23:00,080 --> 00:23:03,080
+Er Besuch regelnmäßig
+
+355
+00:23:03,080 --> 00:23:07,080
+Er trägt eine Stromfrosse.
+
+356
+00:23:07,080 --> 00:23:10,080
+Einen Kompressionstrumpf.
+
+357
+00:23:10,080 --> 00:23:12,080
+Kompressionstrumpf.
+
+358
+00:23:12,080 --> 00:23:22,490
+Und außerdem, er kann nicht laufen wegen der Schmerzen.
+
+359
+00:23:22,490 --> 00:23:29,490
+Er kann nur 3-4 Meter laufen, danach treten die Schmerzen auf.
+
+360
+00:23:30,490 --> 00:23:37,490
+Er hat 3 Tage einen Reise gemacht.
+
+361
+00:23:37,490 --> 00:23:41,490
+Er musste 4 Stunden fahren.
+
+362
+00:23:41,490 --> 00:23:46,490
+Danach sind alle Beschwerden aufgeschrieben.
+
+363
+00:23:46,490 --> 00:23:49,490
+Ja, auf ja alles klar.
+
+364
+00:23:49,490 --> 00:23:55,490
+Also in der Vorgeschichte liegt Artäria-Legitatur-Ni.
+
+365
+00:23:55,490 --> 00:24:00,490
+Und Diabetes-Medizin 2-Telfo.
+
+366
+00:24:00,490 --> 00:24:13,150
+Und in der Familienanmese liegt bei der Mutter Alzheimer
+
+367
+00:24:13,150 --> 00:24:18,150
+und bei dem Onkel Frustratacatinum
+
+368
+00:24:18,150 --> 00:24:23,150
+und bei der Kante Mammacatinum
+
+369
+00:24:23,150 --> 00:24:28,150
+und auch die andere Kante hat der Schlaganfall.
+
+370
+00:24:28,150 --> 00:24:32,150
+Also apoplexisch.
+
+371
+00:24:32,150 --> 00:24:36,150
+Vegetative an einem Näsig ist unauffällig.
+
+372
+00:24:36,150 --> 00:24:42,150
+Er nimmt regelmäßig Kandesatan, 16 Milligramm morgens
+
+373
+00:24:42,150 --> 00:24:45,150
+und 1 Millipin, 5 Milligramm abends
+
+374
+00:24:45,150 --> 00:24:50,150
+und 500 Milligramm morgens und abends
+
+375
+00:24:50,150 --> 00:24:55,150
+und bei Bedarf über Profilienfabrierein.
+
+376
+00:24:55,150 --> 00:25:00,150
+Genussmittel ist nicht relevant für uns.
+
+377
+00:25:00,150 --> 00:25:05,150
+Er raucht 1-2 Skarretten am Tag seit 30 Jahren
+
+378
+00:25:05,150 --> 00:25:09,150
+und er trinkt ein Glas Bier abends.
+
+379
+00:25:09,150 --> 00:25:13,150
+Er ist allergisch gegen eine Medikamente,
+
+380
+00:25:13,150 --> 00:25:17,150
+aber er erinnert sich nicht die Name
+
+381
+00:25:17,150 --> 00:25:21,150
+und er ist allergisch auch gegen Folgen.
+
+382
+00:25:21,150 --> 00:25:36,460
+Also nach den bisherigen Angaben gehe ich um eine Tief-Benthrombose aus.
+
+383
+00:25:36,460 --> 00:25:40,460
+Von einem Rezidiv einer tiefen Bi-Benthrombose.
+
+384
+00:25:40,460 --> 00:25:43,460
+Der hatte es ja schon mal gehabt.
+
+385
+00:25:43,460 --> 00:25:53,460
+Die Franziare Diagnostik kommt zum Beispiel ein PHVK
+
+386
+00:25:53,460 --> 00:25:58,460
+oder ein Celilitis.
+
+387
+00:25:58,460 --> 00:25:59,460
+Eine was?
+
+388
+00:25:59,460 --> 00:26:01,460
+Ein Celilitis.
+
+389
+00:26:01,460 --> 00:26:03,460
+Celilitis, okay.
+
+390
+00:26:03,460 --> 00:26:05,460
+Ja.
+
+391
+00:26:05,460 --> 00:26:10,460
+Wir sehen sich ganz noch Celilitis, wenn die Haut infiziert wird.
+
+392
+00:26:10,460 --> 00:26:17,880
+Ein großer Infekt der Haut.
+
+393
+00:26:17,880 --> 00:26:22,350
+Infektion der Haut, können die Kollegen helfen?
+
+394
+00:26:22,350 --> 00:26:24,350
+Ermatitis.
+
+395
+00:26:24,350 --> 00:26:25,350
+Bitte?
+
+396
+00:26:25,350 --> 00:26:27,350
+Der Ermatitis.
+
+397
+00:26:27,350 --> 00:26:29,350
+Der Ermatitis, wie nennt sich das noch?
+
+398
+00:26:29,350 --> 00:26:31,350
+Ersippat.
+
+399
+00:26:31,350 --> 00:26:33,350
+Ja, sehr gut.
+
+400
+00:26:33,350 --> 00:26:37,020
+Ein Eresipel.
+
+401
+00:26:37,020 --> 00:26:39,020
+Sehr gut.
+
+402
+00:26:39,020 --> 00:26:43,020
+Also eine weitere Differenzialdiagnose, ein Eresipel.
+
+403
+00:26:43,020 --> 00:26:45,020
+Was noch?
+
+404
+00:26:45,020 --> 00:26:47,020
+Ein Eresipel.
+
+405
+00:26:47,020 --> 00:26:52,020
+Das kann ein beginnender Unkurs grüles sein,
+
+406
+00:26:52,020 --> 00:26:55,020
+weil der Patient hat diabetes.
+
+407
+00:26:55,020 --> 00:26:57,020
+Ah, okay.
+
+408
+00:26:57,020 --> 00:27:00,020
+Ja, und so was muss man denken, richtig.
+
+409
+00:27:00,020 --> 00:27:03,020
+Und, was ich vielleicht vergessen habe zu sagen,
+
+410
+00:27:03,020 --> 00:27:06,020
+und das hätten Sie sehen müssen, er hat Varizen.
+
+411
+00:27:06,020 --> 00:27:08,020
+An beiden Unterschenkeln.
+
+412
+00:27:08,020 --> 00:27:10,020
+Eine Varikosis.
+
+413
+00:27:10,020 --> 00:27:12,020
+Ja, eine Varikosis.
+
+414
+00:27:12,020 --> 00:27:14,020
+Woran muss man dann denken?
+
+415
+00:27:14,020 --> 00:27:18,020
+Wenn die Oberflächlichen Venen entzündet sind, wie heißt das?
+
+416
+00:27:18,020 --> 00:27:20,020
+Fläbo-Trombose.
+
+417
+00:27:20,020 --> 00:27:24,020
+Trombo-Flabitis.
+
+418
+00:27:24,020 --> 00:27:26,020
+Trombo-Flabitis, genau.
+
+419
+00:27:26,020 --> 00:27:29,020
+Er hat gesagt, dass die eine Venen sehr hart ist,
+
+420
+00:27:29,020 --> 00:27:31,020
+wenn man drauf drückt.
+
+421
+00:27:31,020 --> 00:27:36,020
+Also man muss auch eine Trombo-Flabitis denken, richtig.
+
+422
+00:27:36,020 --> 00:27:40,290
+Sehr gut.
+
+423
+00:27:40,290 --> 00:27:43,290
+Das waren so die wichtigsten Differenzialdiagnosen.
+
+424
+00:27:43,290 --> 00:27:46,290
+Ich hatte diese Woche also einen Patienten,
+
+425
+00:27:46,290 --> 00:27:51,290
+und er hat eine Trombo-Flabitis, wahrscheinlich.
+
+426
+00:27:51,290 --> 00:27:54,290
+Den haben wir jetzt noch mal zum Angelogen geschickt.
+
+427
+00:27:54,290 --> 00:27:59,290
+Muss man eine Trombo-Flabitis, oder wie behandeln Sie eine Trombo-Flabitis?
+
+428
+00:27:59,290 --> 00:28:01,290
+Jetzt war ich mal so.
+
+429
+00:28:01,290 --> 00:28:04,290
+Eine Entzündung der Oberflächlichen Venen.
+
+430
+00:28:04,290 --> 00:28:11,980
+Nicht der tiefen Beinvenen, sondern der Oberflächliche.
+
+431
+00:28:11,980 --> 00:28:17,980
+Also erst mal muss man unbedingt eine Mutversöhnung anbinden.
+
+432
+00:28:17,980 --> 00:28:19,980
+Muss man?
+
+433
+00:28:19,980 --> 00:28:20,980
+Oder?
+
+434
+00:28:20,980 --> 00:28:22,980
+Bei einer Oberflächlichen? Nein.
+
+435
+00:28:22,980 --> 00:28:23,980
+Nein.
+
+436
+00:28:23,980 --> 00:28:27,980
+Also bei der tiefen Beinvenen-Trombose müssen Sie antikoagulieren.
+
+437
+00:28:27,980 --> 00:28:29,980
+Das ist richtig.
+
+438
+00:28:29,980 --> 00:28:35,980
+Und eine Kompression durchführen, also eine Kompression.
+
+439
+00:28:35,980 --> 00:28:40,980
+Das ist bei der tiefen Beinvenen-Trombose, der TVT.
+
+440
+00:28:40,980 --> 00:28:46,980
+Bei der Oberflächlichen Venen-Entzündung brauchen Sie kein,
+
+441
+00:28:46,980 --> 00:28:49,980
+nicht unbedingt eine Blutverdünnung.
+
+442
+00:28:49,980 --> 00:28:54,980
+Das macht man nur, wenn diese Oberflächliche Venen-Entzündung
+
+443
+00:28:54,980 --> 00:28:57,980
+sehr ausgeprägt ist oder sehr groß ist,
+
+444
+00:28:57,980 --> 00:29:00,980
+dann kann man das vorübergehen,
+
+445
+00:29:00,980 --> 00:29:02,980
+eine kurze Zeit machen.
+
+446
+00:29:02,980 --> 00:29:04,980
+Muss man aber nicht.
+
+447
+00:29:04,980 --> 00:29:07,980
+Man gibt eher Schmerz-Pompemente,
+
+448
+00:29:07,980 --> 00:29:10,980
+nicht stehloridale Antirolematiker, Entzündungshemmer.
+
+449
+00:29:10,980 --> 00:29:12,980
+Man macht einen Kompression-Stumpf
+
+450
+00:29:12,980 --> 00:29:17,980
+und man kann auch vielleicht eine Heparin-Salbe benutzen.
+
+451
+00:29:17,980 --> 00:29:19,980
+Das ist der fein Unterschied.
+
+452
+00:29:19,980 --> 00:29:22,980
+Bei der tiefen Beinvenen-Trombose muss man antikoagulieren.
+
+453
+00:29:22,980 --> 00:29:26,980
+Bei der Oberflächlichen muss man nicht.
+
+454
+00:29:26,980 --> 00:29:33,980
+Je nach Ausprägung kann man kurzfristig antikoagulieren.
+
+455
+00:29:34,980 --> 00:29:43,670
+Für diesen Patienten auch, weil der vorgeschickt ist.
+
+456
+00:29:43,670 --> 00:29:46,670
+Genau, das ist ein besonderer Fall.
+
+457
+00:29:46,670 --> 00:29:50,670
+Ich habe bei den Patienten trotzdem eine Antikoagulation angeschangen,
+
+458
+00:29:50,670 --> 00:29:53,670
+aufgrund dieser Vorgeschichte.
+
+459
+00:29:53,670 --> 00:29:55,670
+Weil er schon mal mehrfach Trombosen hatte
+
+460
+00:29:55,670 --> 00:29:57,670
+und auch schon einmal Nungenembuddy.
+
+461
+00:29:57,670 --> 00:29:59,670
+Ich wollte auf Nummer Sicher gehen.
+
+462
+00:29:59,670 --> 00:30:04,670
+Ich wollte eine Sicherheit und habe ihn trotzdem antikoaguliert.
+
+463
+00:30:04,670 --> 00:30:07,670
+Ich habe ihn zum Angiologen geschickt,
+
+464
+00:30:07,670 --> 00:30:11,670
+dass er einen genauen Ultraschall macht.
+
+465
+00:30:11,670 --> 00:30:16,670
+Nachschaut, ob auch die tiefen Beinvenen schon betroffen sind.
+
+466
+00:30:16,670 --> 00:30:19,670
+Bei einer Oberflächlichen-Wähnen-Entzündung
+
+467
+00:30:19,670 --> 00:30:23,670
+muss man eigentlich nicht immer Antibiotika geben.
+
+468
+00:30:23,670 --> 00:30:25,670
+Vorhin kam die Frage.
+
+469
+00:30:25,670 --> 00:30:28,670
+Das hängt davon ab, wie ausgeprägt da ist.
+
+470
+00:30:28,670 --> 00:30:31,670
+Ob die Haut vielleicht im Sinne eines leichten,
+
+471
+00:30:31,670 --> 00:30:34,670
+beginnenden Erisipäels entzündet ist,
+
+472
+00:30:34,670 --> 00:30:37,670
+kann man einen Penicillin-Verfahrt geben.
+
+473
+00:30:37,670 --> 00:30:41,670
+Aber beim Erisipäel gibt man natürlich ein Antibiotikum.
+
+474
+00:30:41,670 --> 00:30:42,670
+Das ist richtig.
+
+475
+00:30:50,000 --> 00:30:52,000
+Wie ist es, Herr Doktor?
+
+476
+00:30:52,000 --> 00:30:56,000
+Darf der Patient laufen, wenn er eine Tromboflibitis hat
+
+477
+00:30:56,000 --> 00:30:58,000
+oder eine Trombose?
+
+478
+00:30:58,000 --> 00:31:01,000
+Darf er sich belasten?
+
+479
+00:31:01,000 --> 00:31:04,000
+Oder muss er Ruhe einhalten?
+
+480
+00:31:04,000 --> 00:31:06,000
+Nein.
+
+481
+00:31:06,000 --> 00:31:11,000
+Man muss die Beine erst mal hochlegen.
+
+482
+00:31:11,000 --> 00:31:16,000
+Sollte die Patienten die Beine hochlegen,
+
+483
+00:31:16,000 --> 00:31:21,000
+Hochlage und erst mal weniger belasten, glaube ich.
+
+484
+00:31:21,000 --> 00:31:25,000
+Wer kennt sich aus, haben wir Spezialisten unter uns,
+
+485
+00:31:25,000 --> 00:31:28,000
+von den Zuhörenden, Ärzten und Ärzten,
+
+486
+00:31:28,000 --> 00:31:31,000
+tiefe Beinwähntromose.
+
+487
+00:31:32,000 --> 00:31:36,000
+Darf der Patient belasten oder nicht?
+
+488
+00:31:36,000 --> 00:31:40,000
+Mobilisierung, sagt der eine Kollege, Herr Tschade.
+
+489
+00:31:40,000 --> 00:31:42,000
+Was sagen die anderen?
+
+490
+00:31:42,000 --> 00:31:46,700
+Sechs Wochen Pause, gibt es?
+
+491
+00:31:46,700 --> 00:31:53,030
+Immobilisation, keiner sagt was.
+
+492
+00:31:53,030 --> 00:31:55,030
+Keiner traut sich.
+
+493
+00:31:55,030 --> 00:32:00,030
+Also Herr Tschade war sehr mutig und er hat Recht.
+
+494
+00:32:00,030 --> 00:32:03,030
+Früher hat man die tiefe Beinwähntromose
+
+495
+00:32:03,030 --> 00:32:06,030
+im Mobil gehalten, aber das stimmt nicht mehr.
+
+496
+00:32:06,030 --> 00:32:09,030
+Die Patienten können sich mobilisieren,
+
+497
+00:32:09,030 --> 00:32:11,030
+die sollen sich auch mobilisieren.
+
+498
+00:32:11,030 --> 00:32:15,030
+Aber die brauchen einen Kompression, eine Kompression Strumpf
+
+499
+00:32:15,030 --> 00:32:18,030
+und eine Antikorbulation.
+
+500
+00:32:18,030 --> 00:32:20,030
+Dann können sie mobilisieren.
+
+501
+00:32:20,030 --> 00:32:23,030
+Die sollen jetzt nicht unbedingt Sport treiben,
+
+502
+00:32:23,030 --> 00:32:26,030
+aber die können laufen und mobilisieren.
+
+503
+00:32:26,030 --> 00:32:28,030
+Das ist richtig.
+
+504
+00:32:28,030 --> 00:32:30,030
+Bei der Tromboflibitis sowieso,
+
+505
+00:32:30,030 --> 00:32:33,030
+die können auch mobilisieren.
+
+506
+00:32:33,030 --> 00:32:35,030
+Beim Enrysipel auch,
+
+507
+00:32:35,030 --> 00:32:38,030
+so lagen sie keine Schmerzen.
+
+508
+00:32:38,030 --> 00:32:49,260
+Sehr gut Herr Tschade, ein Pluspunkt, der sagt nichts mehr.
+
+509
+00:32:49,260 --> 00:32:53,800
+Okay, vielen Dank.
+
+510
+00:32:53,800 --> 00:32:56,800
+Siebt noch Fragen oder Kritiken?
+
+511
+00:32:56,800 --> 00:32:59,800
+Vorschläge, keine Vorschläge.
+
+512
+00:32:59,800 --> 00:33:02,800
+Alle sind glücklich, alle sind zufrieden.
+
+513
+00:33:02,800 --> 00:33:08,040
+Alle sagen, Dr. Emre war heute sehr gut.
+
+514
+00:33:08,040 --> 00:33:11,040
+Und der letzte Prüfung in Stalach bestehen.
+
+515
+00:33:11,040 --> 00:33:14,040
+Wo ist die Prüfung?
+
+516
+00:33:14,040 --> 00:33:17,040
+Wo?
+
+517
+00:33:17,040 --> 00:33:20,040
+In Mainz.
+
+518
+00:33:20,040 --> 00:33:23,040
+Wo wohnen Sie?
+
+519
+00:33:23,040 --> 00:33:26,040
+In Kaiserslautern.
+
+520
+00:33:26,040 --> 00:33:29,040
+Nach der Prüfung sehen wir uns,
+
+521
+00:33:29,040 --> 00:33:32,040
+trinken wir einen Kaffee in Kaiserslautern.
+
+522
+00:33:32,040 --> 00:33:35,040
+Sie sind in Lützdach, ich weiß.
+
+523
+00:33:35,040 --> 00:33:38,040
+Okay, kommen wir.
+
+524
+00:33:38,040 --> 00:33:41,040
+Wir sind nicht sehr weit.
+
+525
+00:33:41,040 --> 00:33:44,040
+Ok, tukte sheküldürum war sehr gut.
+
+526
+00:33:44,040 --> 00:33:47,040
+Auch dank an Herrn Dr. Tschade,
+
+527
+00:33:47,040 --> 00:33:50,040
+was sind Sie für ein Facharzt Dr. Tschade?
+
+528
+00:33:50,040 --> 00:33:53,040
+Wo ist Dr. Tschade?
+
+529
+00:33:53,040 --> 00:33:56,040
+Wir sind ein Autopäde, sehr gut.
+
+530
+00:33:56,040 --> 00:33:59,040
+Sehr schön, jetzt kenn ich Sie,
+
+531
+00:33:59,040 --> 00:34:02,040
+wir hatten doch schon mal das Glück gehabt.
+
+532
+00:34:02,040 --> 00:34:06,450
+Sehr gut, sehr gut.
+
+533
+00:34:06,450 --> 00:34:08,450
+Vielen Dank, Herr Dr.
+
+534
+00:34:08,450 --> 00:34:11,450
+Dann wünsche Ihnen allen und auch den Kollegen,
+
+535
+00:34:11,450 --> 00:34:14,450
+einen schönen Abend, viel Erfolg bei den Prüfungen.

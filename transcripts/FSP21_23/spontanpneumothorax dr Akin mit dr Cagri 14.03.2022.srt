@@ -1,0 +1,2275 @@
+1
+00:00:00,000 --> 00:00:15,000
+Hallo Guten Tag, mein Name ist Jagir Bayram. Ich bin als Assistenz-Heirsch hier auf der Sitation. Ich würde gerne mit Ihnen das Anamnese-Gespräch führen, sind Sie da mit einverstanden?
+
+2
+00:00:15,000 --> 00:00:17,000
+Ja Doktor, bitte schön.
+
+3
+00:00:17,000 --> 00:00:32,560
+Ich werde Ihnen erst ein paar Fragen zu Ihren aktuellen Daten stellen, dann direkt zu Ihren aktuellen Beschwerden übergehen. Wie heißen Sie?
+
+4
+00:00:32,560 --> 00:00:35,560
+Mein Name ist Matthias Scheuermann.
+
+5
+00:00:35,560 --> 00:00:44,220
+Können Sie Ihre Nachname stabilieren?
+
+6
+00:00:44,220 --> 00:00:54,220
+Ja, S-C-H-E-U-E-R-M-A-N. Scheuermann.
+
+7
+00:00:54,220 --> 00:01:02,910
+Scheuermann, Herr Scheuermann, Ihr Vornamen mit I-A-S, richtig?
+
+8
+00:01:02,910 --> 00:01:04,910
+Matthias, ja, genau.
+
+9
+00:01:04,910 --> 00:01:10,410
+Okay. Herr Scheuermann, wie alt sind Sie?
+
+10
+00:01:10,410 --> 00:01:15,410
+Ich bin 29 Jahre alt.
+
+11
+00:01:15,410 --> 00:01:22,740
+29? Waren Sie im Sigena geboren?
+
+12
+00:01:22,740 --> 00:01:25,740
+1. Juli 1990.
+
+13
+00:01:25,740 --> 00:01:36,250
+1990? Wie groß und wie schwer sind Sie?
+
+14
+00:01:36,250 --> 00:01:41,250
+Also ich bin 1,83 m und wiege ungefähr 65 kg.
+
+15
+00:01:41,250 --> 00:01:50,970
+Herr Scheuermann, was führt Sie zu uns?
+
+16
+00:01:50,970 --> 00:01:59,970
+Herr Doktor, das sind stechende Schmerzen und Luftnot, die ich jetzt vor 2 Stunden bekommen habe.
+
+17
+00:01:59,970 --> 00:02:03,970
+Und ich habe auch Husten reizt so.
+
+18
+00:02:03,970 --> 00:02:07,970
+Das ist das Problem, das ich habe.
+
+19
+00:02:07,970 --> 00:02:13,970
+Stechend auf der rechten Seite und Luftnot.
+
+20
+00:02:13,970 --> 00:02:18,970
+Ich merke schon, wenn ich jetzt so rede.
+
+21
+00:02:18,970 --> 00:02:28,590
+Ich meine Sie Brustkorb, richtig?
+
+22
+00:02:28,590 --> 00:02:31,590
+Brustkorb, ja.
+
+23
+00:02:31,590 --> 00:02:33,590
+Es ist plötzlich aufgetreten, von jetzt auf gleich.
+
+24
+00:02:33,590 --> 00:02:37,590
+Ich war kerngesund heute Morgen und jetzt heute Nachmittag.
+
+25
+00:02:37,590 --> 00:02:41,770
+Heute Abend.
+
+26
+00:02:41,770 --> 00:02:43,770
+Stärken, Schmerzen.
+
+27
+00:02:43,770 --> 00:02:46,770
+Stechend, wie Messer.
+
+28
+00:02:46,770 --> 00:02:51,340
+Ist das ein Auslöser für die Schmerzen?
+
+29
+00:02:51,340 --> 00:02:56,340
+Ich habe, ich weiß nicht, keine Ahnung.
+
+30
+00:02:56,340 --> 00:02:59,340
+Ich habe nichts anderes gegessen, nichts gemacht.
+
+31
+00:02:59,340 --> 00:03:02,870
+Ganz spontan.
+
+32
+00:03:02,870 --> 00:03:04,870
+Haben Sie Luftnot?
+
+33
+00:03:04,870 --> 00:03:05,870
+Ja, ja.
+
+34
+00:03:05,870 --> 00:03:08,870
+Also wenn ich jetzt schneller spreche, merken Sie vielleicht auch, dass sich schon,
+
+35
+00:03:08,870 --> 00:03:13,870
+dass die Stimme ein bisschen Probleme bekommt.
+
+36
+00:03:13,870 --> 00:03:17,870
+Ich habe nicht gesehen, dass Sie auch Husten haben.
+
+37
+00:03:17,870 --> 00:03:22,870
+So kurz es husten, ja.
+
+38
+00:03:22,870 --> 00:03:24,870
+Ausruf?
+
+39
+00:03:24,870 --> 00:03:28,500
+Nein.
+
+40
+00:03:28,500 --> 00:03:32,500
+Wie gesagt, ich war kerngesund bis vor heute Nachmittag.
+
+41
+00:03:32,500 --> 00:03:38,260
+Ja.
+
+42
+00:03:38,260 --> 00:03:42,260
+Haben Sie Heißprobleme momentan, seit zwei Stunden,
+
+43
+00:03:42,260 --> 00:03:47,260
+meine Heißrasen oder Heißsturtern?
+
+44
+00:03:47,260 --> 00:03:51,260
+Kein, nur habe ich nicht bemerkt, nein, also kann ich nichts sagen.
+
+45
+00:03:51,260 --> 00:04:01,690
+Haben Sie sonst noch weitere Beschwerden?
+
+46
+00:04:01,690 --> 00:04:04,690
+Haben Sie noch etwas mehr?
+
+47
+00:04:04,690 --> 00:04:09,580
+Nein, das ist das Hauptproblem.
+
+48
+00:04:09,580 --> 00:04:16,580
+Sie haben seit zwei Stunden Stärke in den rechtseitigen Brustkotchen.
+
+49
+00:04:16,580 --> 00:04:18,580
+Ja.
+
+50
+00:04:18,580 --> 00:04:20,580
+Und Husten.
+
+51
+00:04:20,580 --> 00:04:23,580
+Ja, ich meine Probleme.
+
+52
+00:04:23,580 --> 00:04:25,580
+Atemot, ja.
+
+53
+00:04:25,580 --> 00:04:27,580
+Wie ist Ihr Appatit?
+
+54
+00:04:27,580 --> 00:04:34,630
+Normalerweise.
+
+55
+00:04:34,630 --> 00:04:40,630
+Früher hatten Sie keine Beschwerden oder keine Auffälligkeiten.
+
+56
+00:04:40,630 --> 00:04:49,980
+Haben Sie Beschwerden? Nein, das ist das erste Mal.
+
+57
+00:04:49,980 --> 00:04:53,980
+Haben Sie in der letzten Zeit ab- oder zugenommen?
+
+58
+00:04:53,980 --> 00:05:02,440
+Nein.
+
+59
+00:05:02,440 --> 00:05:04,440
+Haben Sie Fieber?
+
+60
+00:05:04,440 --> 00:05:08,740
+Nein, kein Fieber.
+
+61
+00:05:08,740 --> 00:05:12,740
+Haben Sie Stärfrost oder Nachschweiß?
+
+62
+00:05:12,740 --> 00:05:18,820
+Keine Beschwerden.
+
+63
+00:05:18,820 --> 00:05:25,820
+Haben Sie Schwierigkeiten, ein- oder durchzuschlafen?
+
+64
+00:05:25,820 --> 00:05:31,980
+Nein, ich habe keine Probleme gehabt.
+
+65
+00:05:31,980 --> 00:05:34,980
+Haben Sie Probleme beim Stuhlgang oder mit dem Wasserlassen?
+
+66
+00:05:34,980 --> 00:05:42,140
+Nein, alles gut.
+
+67
+00:05:42,140 --> 00:05:47,140
+Ich möchte jetzt ein paar Fragen zu Ihrem Krankengeschicht stellen.
+
+68
+00:05:47,140 --> 00:05:50,140
+Mein unfassendes Bild zu erhalten.
+
+69
+00:05:50,140 --> 00:05:53,140
+Gibt es in Ihrer Krankengeschichte wichtige Erkrankungen?
+
+70
+00:05:53,140 --> 00:06:00,140
+Ja, ich weiß nicht ob es wichtig ist, aber ich hatte mal die Diagnose vor fünf Jahren, ungefähr, was gewesen.
+
+71
+00:06:00,140 --> 00:06:03,140
+Ich hatte eine Leuchttürmathode von Lupus.
+
+72
+00:06:03,140 --> 00:06:07,140
+Er hatte Muskelgelenkbeschwerden und auch Hautauschlag.
+
+73
+00:06:07,140 --> 00:06:11,140
+Ich war beim Hausarzt, er hat mich zum Spezialisten geschickt.
+
+74
+00:06:11,140 --> 00:06:15,140
+Die haben Biopsien gemacht und gesagt, ich hatte diese Lupus-Krankheit.
+
+75
+00:06:15,140 --> 00:06:18,140
+Dann habe ich eine Koalitionstherapie bekommen.
+
+76
+00:06:18,140 --> 00:06:21,140
+Dann war das wieder weg und seitdem habe ich auch keine Probleme mehr gehabt.
+
+77
+00:06:21,140 --> 00:06:23,140
+Seit wann haben Sie keine Probleme?
+
+78
+00:06:23,140 --> 00:06:26,140
+Zwei bis fünf, sechs Jahren war das gewesen.
+
+79
+00:06:26,140 --> 00:06:34,180
+Sonst haben Sie weitere Krankheiten?
+
+80
+00:06:34,180 --> 00:06:41,180
+Ich habe Gastritis, also Reflux, deswegen nehme ich wieder mal Medikamente ein.
+
+81
+00:06:41,180 --> 00:06:46,180
+Ansonsten habe ich meine Menuskosoperation gehabt vor zehn Jahren.
+
+82
+00:06:46,180 --> 00:06:51,180
+Bei einer Verletzung war ich aber nie im Krankenhaus gewesen.
+
+83
+00:06:51,180 --> 00:06:55,700
+An welchem Knie?
+
+84
+00:06:55,700 --> 00:06:57,700
+Rechts.
+
+85
+00:06:58,700 --> 00:07:07,380
+Nehmen Sie regelmäßig oder gelegentlich Medikamente ein?
+
+86
+00:07:07,380 --> 00:07:12,380
+Gelegentlich nehme ich halt die Spandopazole, wenn ich so Reflex-Probleme habe.
+
+87
+00:07:12,380 --> 00:07:14,380
+Sonst keine Medikamente.
+
+88
+00:07:14,380 --> 00:07:16,380
+Wie viel Medikamente?
+
+89
+00:07:16,380 --> 00:07:18,380
+40 Medikamente.
+
+90
+00:07:18,380 --> 00:07:20,380
+Einmal total?
+
+91
+00:07:20,380 --> 00:07:23,630
+Nach Bedarf.
+
+92
+00:07:23,630 --> 00:07:25,630
+Bei Bedarf.
+
+93
+00:07:25,630 --> 00:07:29,010
+Okay.
+
+94
+00:07:29,010 --> 00:07:33,010
+Nehmen Sie sonst etwas?
+
+95
+00:07:33,010 --> 00:07:35,010
+Keine anderen Medikamenten?
+
+96
+00:07:35,010 --> 00:07:43,310
+Okay.
+
+97
+00:07:43,310 --> 00:07:47,310
+Haben Sie momentan Schwierigkeiten beim Atmen?
+
+98
+00:07:47,310 --> 00:07:49,310
+Fühlen Sie sich besser?
+
+99
+00:07:49,310 --> 00:07:51,310
+Brauchen Sie etwas momentan?
+
+100
+00:07:51,310 --> 00:07:58,310
+Oder können Sie uns halten, bis Sie unsere Aufnahmegespräch enden?
+
+101
+00:07:58,310 --> 00:08:04,310
+Also müssen Sie entscheiden, ich weiß nicht, ob ich etwas brauche.
+
+102
+00:08:04,310 --> 00:08:06,310
+Okay.
+
+103
+00:08:06,310 --> 00:08:14,310
+Jetzt muss ich Ihre Sauerstoffwerte überprüfen.
+
+104
+00:08:14,310 --> 00:08:16,310
+Okay.
+
+105
+00:08:16,310 --> 00:08:18,310
+Also, gut haben Sie gemacht.
+
+106
+00:08:18,310 --> 00:08:23,100
+Oximetrie zahlt 90 Prozent.
+
+107
+00:08:23,100 --> 00:08:25,100
+90 Prozent.
+
+108
+00:08:25,100 --> 00:08:29,100
+Muss Sauerstoff werden zuführen.
+
+109
+00:08:29,100 --> 00:08:31,100
+Ja, kann man machen.
+
+110
+00:08:31,100 --> 00:08:33,100
+Okay, jetzt habe ich Sauerstoffen im Masen.
+
+111
+00:08:33,100 --> 00:08:35,100
+Okay.
+
+112
+00:08:35,100 --> 00:08:39,100
+Fühlen Sie sich ein bisschen besser?
+
+113
+00:08:39,100 --> 00:08:43,100
+Ein bisschen besser, ja. Die Luft ist besser geworden.
+
+114
+00:08:43,100 --> 00:08:45,100
+Können wir weitermachen?
+
+115
+00:08:45,100 --> 00:08:47,100
+Ich denke ja.
+
+116
+00:08:47,100 --> 00:08:49,100
+Okay.
+
+117
+00:08:49,100 --> 00:08:53,100
+Haben Sie Allergien, etwas oder Unfälle?
+
+118
+00:08:53,100 --> 00:09:00,420
+Ich habe keine Allergien, aber ich habe damals, als dieser Lupus festgestellt worden ist,
+
+119
+00:09:00,420 --> 00:09:05,420
+habe ich so einen Ausweis bekommen, auf welchen Medikament ich aufpassen muss.
+
+120
+00:09:05,420 --> 00:09:12,420
+Das waren nur Vorsichtshalbe, aber ich habe jetzt keine bekannten Allergien oder Unverdäglichkeiten.
+
+121
+00:09:12,420 --> 00:09:14,730
+Okay.
+
+122
+00:09:14,730 --> 00:09:18,100
+Brauchen Sie?
+
+123
+00:09:18,100 --> 00:09:20,100
+Ja, leider.
+
+124
+00:09:20,100 --> 00:09:24,100
+Wie viele Geräte brauchen Sie pro Tag?
+
+125
+00:09:24,100 --> 00:09:32,940
+Ja, so 20, 30 Geräte, also eineinhalb Bäckchen manchmal.
+
+126
+00:09:32,940 --> 00:09:34,940
+Wie seit wann brauchen Sie?
+
+127
+00:09:34,940 --> 00:09:38,940
+Oh, ich habe mit so 16, 17 angefangen.
+
+128
+00:09:39,940 --> 00:09:45,640
+10 Jahre, 12 Jahre vielleicht.
+
+129
+00:09:45,640 --> 00:09:51,970
+10 Jahre, okay.
+
+130
+00:09:51,970 --> 00:09:54,970
+Trinken Sie Alkohol?
+
+131
+00:09:54,970 --> 00:10:08,700
+Nur bei Annästen, also vielleicht am Wochenende mal Wein, sonst nicht regelmäßig.
+
+132
+00:10:08,700 --> 00:10:12,700
+Okay, nehmen Sie nicht bitte persönlich, das ist rhythmische Frage.
+
+133
+00:10:12,700 --> 00:10:15,700
+Konsumieren Sie Abdrohungen?
+
+134
+00:10:15,700 --> 00:10:18,700
+Nein, ich nehme keine Drohungen zur Zeit ein.
+
+135
+00:10:18,700 --> 00:10:24,700
+Ich habe früher mal probiert ein bisschen, als ich jung war, mit Excessive,
+
+136
+00:10:24,700 --> 00:10:30,700
+aber das war damals noch, wo ich jung war, aktuell keine Drohungen.
+
+137
+00:10:30,700 --> 00:10:46,560
+Gibt es in Ihrer Alter ein wichtiger Erkrankungen, von denen ich es tun sollte?
+
+138
+00:10:46,560 --> 00:10:51,560
+Also mein Vater hatte Rheumar gehabt.
+
+139
+00:10:51,560 --> 00:10:57,560
+Er ist dann aber auch später bei Verkehrsunfall gestorben.
+
+140
+00:10:57,560 --> 00:11:05,560
+Meine Mutter lebt noch, die hat Diabetes und hat auch schon mal einen Schlaganfall gehabt,
+
+141
+00:11:05,560 --> 00:11:14,340
+so ein leichter, ansonsten keine weiteren Erkrankungen.
+
+142
+00:11:14,340 --> 00:11:22,340
+Ihr Mutter hat Diabetes-Mani-Tools, Suckerkrankheit und Schlaganfall.
+
+143
+00:11:22,340 --> 00:11:26,340
+Darf ich Sie fragen, wann Ihr Vater gestorben ist?
+
+144
+00:11:26,340 --> 00:11:31,340
+Das war vor 3, 4 Jahren Verkehrsunfall.
+
+145
+00:11:31,340 --> 00:11:35,340
+Okay, haben Sie Geschwister?
+
+146
+00:11:35,340 --> 00:11:37,340
+Nein, ich bin Einzelkind.
+
+147
+00:11:37,340 --> 00:11:44,630
+Wie ist Ihr Familienstand?
+
+148
+00:11:44,630 --> 00:11:49,860
+Ich bin feieradet.
+
+149
+00:11:49,860 --> 00:11:50,860
+Haben Sie Kinder?
+
+150
+00:11:50,860 --> 00:11:55,580
+Nein, noch keine.
+
+151
+00:11:55,580 --> 00:11:58,580
+Wohnen Sie mit der Frau?
+
+152
+00:11:58,580 --> 00:12:01,580
+Bitte?
+
+153
+00:12:01,580 --> 00:12:04,580
+Was sind Sie von mir ruf?
+
+154
+00:12:04,580 --> 00:12:12,720
+Ich bin in der Bank als IT-Techniker.
+
+155
+00:12:12,720 --> 00:12:17,480
+Okay, Herr Scheuermann.
+
+156
+00:12:17,480 --> 00:12:22,400
+Ich habe meine ganze Frage gestellt.
+
+157
+00:12:22,400 --> 00:12:24,400
+Haben Sie auch mich fragen,
+
+158
+00:12:24,400 --> 00:12:27,400
+oder fällt Ihnen noch etwas auf?
+
+159
+00:12:27,400 --> 00:12:30,400
+Nein, ich habe mich nicht verstanden.
+
+160
+00:12:30,400 --> 00:12:44,590
+Ich habe mich nicht verstanden.
+
+161
+00:12:44,590 --> 00:12:46,590
+Was sind Sie von mir ruf?
+
+162
+00:12:46,590 --> 00:12:49,590
+Ich habe meine ganze Frage gestellt.
+
+163
+00:12:49,590 --> 00:12:51,590
+Haben Sie mich fragen,
+
+164
+00:12:51,590 --> 00:12:53,590
+oder fällt Ihnen noch etwas auf?
+
+165
+00:12:53,590 --> 00:12:55,590
+Nein, ich denke,
+
+166
+00:12:55,590 --> 00:12:57,590
+das waren die wichtigsten Sachen,
+
+167
+00:12:57,590 --> 00:12:59,590
+die ich Ihnen sagen konnte.
+
+168
+00:12:59,590 --> 00:13:06,500
+Ich hoffe, dass Sie mir auch schnell helfen können.
+
+169
+00:13:06,500 --> 00:13:09,500
+Ich hoffe, dass es nichts Ernstes ist.
+
+170
+00:13:09,500 --> 00:13:11,500
+Wenn Sie keine Fragen mehr haben,
+
+171
+00:13:11,500 --> 00:13:14,500
+ich möchte Sie körperlich untersuchen.
+
+172
+00:13:14,500 --> 00:13:17,500
+Dann werde ich Ihnen Blut abnehmen,
+
+173
+00:13:17,500 --> 00:13:20,500
+die Fragen über die Weitergeschichte informieren.
+
+174
+00:13:20,500 --> 00:13:23,500
+Einfach.
+
+175
+00:13:23,500 --> 00:13:25,500
+Danke, Herr Doktor.
+
+176
+00:13:25,500 --> 00:13:27,500
+Gut.
+
+177
+00:13:27,500 --> 00:13:30,500
+Gibt es Kommentare oder weitere Fragen,
+
+178
+00:13:30,500 --> 00:13:33,500
+die Sie gestellt hätten?
+
+179
+00:13:33,500 --> 00:13:36,500
+Da es sich immer ein Notfall handelt,
+
+180
+00:13:36,500 --> 00:13:38,500
+sollten wir die Anmene pausieren,
+
+181
+00:13:38,500 --> 00:13:40,500
+eigentlich gehen machen,
+
+182
+00:13:40,500 --> 00:13:43,500
+um die Vitalparameter zu kontrollieren.
+
+183
+00:13:43,500 --> 00:13:45,500
+Das hat er gemacht.
+
+184
+00:13:45,500 --> 00:13:48,500
+Hatten Sie Traume oder Verletzung?
+
+185
+00:13:48,500 --> 00:13:50,500
+Ja, gute Frage.
+
+186
+00:13:50,500 --> 00:13:54,330
+Haben Sie gefragt?
+
+187
+00:13:54,330 --> 00:13:57,330
+Ich habe nicht gefragt, aber Herr Patient hat mir gesagt.
+
+188
+00:13:57,330 --> 00:13:59,330
+Hat mir gesagt, ja.
+
+189
+00:13:59,330 --> 00:14:01,330
+Das ist keine Ausschläge.
+
+190
+00:14:01,330 --> 00:14:03,330
+Trotzdem ist es eine Frage,
+
+191
+00:14:03,330 --> 00:14:06,330
+die man auch stellen sollte, finde ich.
+
+192
+00:14:06,330 --> 00:14:09,330
+Das ist die Verdachtsdiagnose.
+
+193
+00:14:09,330 --> 00:14:11,330
+Okay.
+
+194
+00:14:11,330 --> 00:14:14,330
+Hatten Sie auch so gesagt, Verdachtsdiagnose?
+
+195
+00:14:14,330 --> 00:14:16,330
+Ja.
+
+196
+00:14:16,330 --> 00:14:19,330
+Spontanprämiumdorax.
+
+197
+00:14:19,330 --> 00:14:23,830
+Stahlen Ihre Schmerzen in andere Körperregionen aus?
+
+198
+00:14:23,830 --> 00:14:26,830
+Schmerz an Mese kann man machen?
+
+199
+00:14:26,830 --> 00:14:29,830
+Im Bereich der Brust haben Sie gefragt.
+
+200
+00:14:29,830 --> 00:14:32,830
+Hauptsache, rechte Brustwand.
+
+201
+00:14:32,830 --> 00:14:35,830
+Brustkorb.
+
+202
+00:14:35,830 --> 00:14:38,830
+Was gibt es noch wichtige Fragen?
+
+203
+00:14:38,830 --> 00:14:44,620
+Vielleicht kann man sie in den Schmerzen atmen?
+
+204
+00:14:44,620 --> 00:14:46,620
+Kann man fragen?
+
+205
+00:14:46,620 --> 00:14:49,620
+Was Sie auffragen könnten,
+
+206
+00:14:49,620 --> 00:14:52,620
+ob die Luftmutter schlechter geworden ist.
+
+207
+00:14:52,620 --> 00:14:55,620
+Warum fragt man das?
+
+208
+00:14:55,620 --> 00:14:58,620
+Kann eine Verschieb-Pinomateras
+
+209
+00:14:58,620 --> 00:15:01,620
+oder wie heißt das auch durch?
+
+210
+00:15:01,620 --> 00:15:04,620
+Wie heißt das auch durch?
+
+211
+00:15:04,620 --> 00:15:10,980
+Nicht verraten, im Chat.
+
+212
+00:15:10,980 --> 00:15:16,180
+Wie heißt das?
+
+213
+00:15:16,180 --> 00:15:19,180
+Wie heißt das?
+
+214
+00:15:19,180 --> 00:15:23,690
+Wie heißt das?
+
+215
+00:15:23,690 --> 00:15:26,690
+Spannungsponomatrag ist richtig.
+
+216
+00:15:26,690 --> 00:15:29,690
+Spannungsponomatrag.
+
+217
+00:15:29,690 --> 00:15:32,690
+Das ist dann eher ein bisschen Notfall.
+
+218
+00:15:32,690 --> 00:15:35,690
+Dann merkt, dass es schlechter wird.
+
+219
+00:15:35,690 --> 00:15:38,690
+Okay.
+
+220
+00:15:38,690 --> 00:15:41,690
+Aber das waren die wichtigsten Fragen.
+
+221
+00:15:41,690 --> 00:15:44,690
+Die Anamese war sehr leer.
+
+222
+00:15:44,690 --> 00:15:47,690
+Junge Patient, erwarten wir nicht viel.
+
+223
+00:15:47,690 --> 00:15:50,690
+Medikamente haben Sie gefragt.
+
+224
+00:15:50,690 --> 00:15:53,690
+Sonst fällt mir auch nichts ein.
+
+225
+00:15:53,690 --> 00:15:56,690
+Was waren die wichtigsten Sachen?
+
+226
+00:15:56,690 --> 00:15:59,690
+Was waren Sie mit den Patienten?
+
+227
+00:15:59,690 --> 00:16:02,690
+Sollen wir gleich zum Vorgehen?
+
+228
+00:16:02,690 --> 00:16:05,690
+Oberarztvorstellung, können Sie auch kurz machen?
+
+229
+00:16:05,690 --> 00:16:08,690
+Dann können wir gleich zum Vorgehen.
+
+230
+00:16:08,690 --> 00:16:11,690
+Darf ich anfangen?
+
+231
+00:16:11,690 --> 00:16:17,340
+Bitte schön.
+
+232
+00:16:17,340 --> 00:16:20,340
+Ich muss noch mal kurz unterbrechen.
+
+233
+00:16:20,340 --> 00:16:23,340
+Bei so einem Patienten,
+
+234
+00:16:23,340 --> 00:16:26,340
+wo Sie einen Verdacht auf spontan hat,
+
+235
+00:16:26,340 --> 00:16:29,340
+machen Sie Ihre Diagnostik.
+
+236
+00:16:29,340 --> 00:16:32,340
+Ich stelle nicht als Oberarztvor.
+
+237
+00:16:32,340 --> 00:16:35,340
+Meistens stellen Sie den Oberarztvor,
+
+238
+00:16:35,340 --> 00:16:38,340
+wenn Sie Diagnosen und Therapie schon gemacht haben.
+
+239
+00:16:38,340 --> 00:16:41,340
+Wir machen es andersrum.
+
+240
+00:16:41,340 --> 00:16:45,940
+Bitte schön.
+
+241
+00:16:45,940 --> 00:16:48,940
+Hallo, guten Tag, Herr Oberarzt.
+
+242
+00:16:48,940 --> 00:16:52,940
+Ich möchte Ihnen heute einen 29-Jährigen
+
+243
+00:16:52,940 --> 00:16:55,940
+gegen den Herrn Matthias Schäuermann vorstellen.
+
+244
+00:16:55,940 --> 00:17:07,940
+Der Patient ist 1. Juli 1990 geworden.
+
+245
+00:17:07,940 --> 00:17:10,940
+Wenn Sie 29 Jahre sagen,
+
+246
+00:17:10,940 --> 00:17:12,940
+das reicht schon aus,
+
+247
+00:17:12,940 --> 00:17:21,900
+dann ist es 1. Juli 1993.
+
+248
+00:17:21,900 --> 00:17:24,900
+Das hört ich gerade nicht.
+
+249
+00:17:24,900 --> 00:17:32,760
+Ich höre es nur 1993.
+
+250
+00:17:32,760 --> 00:17:37,680
+1993, 1993.
+
+251
+00:17:37,680 --> 00:17:43,530
+Das reicht schon, wenn Sie sagen,
+
+252
+00:17:43,530 --> 00:17:46,530
+19-jähriger Patient.
+
+253
+00:17:46,530 --> 00:17:49,530
+Oberarzt hat keine Zeit für so etwas.
+
+254
+00:17:49,530 --> 00:17:52,530
+Deswegen müssen Sie sagen,
+
+255
+00:17:52,530 --> 00:18:00,070
+1. Juli 1993.
+
+256
+00:18:00,070 --> 00:18:06,070
+Er ist 108 cm und 85 kg schwer.
+
+257
+00:18:06,070 --> 00:18:09,070
+Der Patient stellte sich bei uns,
+
+258
+00:18:09,070 --> 00:18:13,070
+wenn sein Sender müßlich aufgetretener,
+
+259
+00:18:13,070 --> 00:18:17,070
+rechtsseitige Torachschmerzen mit Husten.
+
+260
+00:18:17,070 --> 00:18:23,070
+Bei der Patientin
+
+261
+00:18:23,070 --> 00:18:27,070
+seien keine Auslöser aufgefallen.
+
+262
+00:18:27,070 --> 00:18:32,070
+Außerdem klagte der Patient über Dyspnoe.
+
+263
+00:18:32,070 --> 00:18:35,070
+Herzprobleme,
+
+264
+00:18:35,070 --> 00:18:38,070
+Fragen nach Herzprobleme,
+
+265
+00:18:38,070 --> 00:18:40,070
+wurde verneinigt.
+
+266
+00:18:40,070 --> 00:18:44,070
+In der vegetative Anamnese
+
+267
+00:18:44,070 --> 00:18:49,420
+ist unauffällig.
+
+268
+00:18:49,420 --> 00:18:52,420
+Die vegetative Anamnese ist unauffällig.
+
+269
+00:18:52,420 --> 00:18:58,140
+An Vorerkrankungen
+
+270
+00:18:58,140 --> 00:19:04,140
+leide der Patient seit 4 Jahren Lupus erethomatosis.
+
+271
+00:19:04,140 --> 00:19:08,140
+Diese Krankheit sei konservativ
+
+272
+00:19:08,140 --> 00:19:12,140
+mit Cortisontherapie behandelt worden.
+
+273
+00:19:12,140 --> 00:19:16,380
+Außerdem leide der Patient
+
+274
+00:19:16,380 --> 00:19:19,380
+an gastroesophageal Reflehrkrankheit.
+
+275
+00:19:19,380 --> 00:19:26,380
+Dagegen nehme er Pantoplasol 40 mg bei Bedarf ein.
+
+276
+00:19:26,380 --> 00:19:30,380
+Der Patient
+
+277
+00:19:30,380 --> 00:19:32,380
+hat sich
+
+278
+00:19:32,380 --> 00:19:35,380
+Minuskeptomie vor 4 Jahren
+
+279
+00:19:35,380 --> 00:19:38,380
+rechts untersorgend.
+
+280
+00:19:38,380 --> 00:19:41,380
+Was hat er bekommen?
+
+281
+00:19:41,380 --> 00:19:46,380
+Wegen Minuskusrupto
+
+282
+00:19:46,380 --> 00:19:49,380
+Minuskeptomie untersorgend.
+
+283
+00:19:49,380 --> 00:19:52,380
+Ich weiß nicht, ob der Minuskus ganz raus ist
+
+284
+00:19:52,380 --> 00:19:57,370
+oder nur zurückgeht.
+
+285
+00:19:57,370 --> 00:20:00,370
+Ich habe nicht gefragt.
+
+286
+00:20:00,370 --> 00:20:05,960
+Ja, richtig.
+
+287
+00:20:05,960 --> 00:20:11,370
+Bei der Patientin
+
+288
+00:20:11,370 --> 00:20:15,370
+sei keine Allergie und Unverträglichkeiten bekannt.
+
+289
+00:20:15,370 --> 00:20:18,370
+Der Patient
+
+290
+00:20:18,370 --> 00:20:23,370
+braucht seit 10 Jahren 20 bis 30
+
+291
+00:20:23,370 --> 00:20:26,370
+Zigaretten pro Tag.
+
+292
+00:20:26,370 --> 00:20:29,370
+Am Wochenende
+
+293
+00:20:29,370 --> 00:20:32,370
+ein Glas Wein
+
+294
+00:20:32,370 --> 00:20:35,370
+und drogen Konsum wurde verneint.
+
+295
+00:20:35,370 --> 00:20:38,370
+Familienanamnästisch
+
+296
+00:20:38,370 --> 00:20:42,370
+fanden sich Rheuma-Erkrankungen beim Vater.
+
+297
+00:20:42,370 --> 00:20:45,370
+Vater
+
+298
+00:20:45,370 --> 00:20:49,370
+sei vor 4 Jahren wegen
+
+299
+00:20:49,370 --> 00:20:52,370
+Autounfall
+
+300
+00:20:52,370 --> 00:20:57,370
+und die Mutter leide
+
+301
+00:20:57,370 --> 00:21:00,370
+an Diabetes mellitus.
+
+302
+00:21:00,370 --> 00:21:04,370
+Sie haben
+
+303
+00:21:04,370 --> 00:21:08,370
+Schlaganfall
+
+304
+00:21:08,370 --> 00:21:11,370
+oder Apoplex gelitten.
+
+305
+00:21:11,370 --> 00:21:14,370
+Oder
+
+306
+00:21:14,370 --> 00:21:18,370
+hätte ein Schlaganfall
+
+307
+00:21:18,370 --> 00:21:21,370
+erlitten.
+
+308
+00:21:21,370 --> 00:21:24,370
+Der Patient
+
+309
+00:21:24,370 --> 00:21:27,370
+sei verheiratet, habe kein Kinder,
+
+310
+00:21:27,370 --> 00:21:30,370
+wohne mit seiner Frau.
+
+311
+00:21:30,370 --> 00:21:33,370
+Er arbeite als
+
+312
+00:21:33,370 --> 00:21:36,370
+IT-Techniker in einem Bank.
+
+313
+00:21:36,370 --> 00:21:39,370
+Nach den bisherigen Angaben
+
+314
+00:21:39,370 --> 00:21:42,370
+gehe ich von einem Verdacht auf
+
+315
+00:21:42,370 --> 00:21:45,370
+Pynomotorax aus.
+
+316
+00:21:45,370 --> 00:21:48,370
+Differenzial diagnostisch.
+
+317
+00:21:48,370 --> 00:21:51,370
+Vielleicht
+
+318
+00:21:51,370 --> 00:21:54,370
+miocardinfarkt
+
+319
+00:21:54,370 --> 00:22:00,090
+in den Mittag.
+
+320
+00:22:00,090 --> 00:22:06,420
+Zur weiteren Abkühlerung würde ich
+
+321
+00:22:06,420 --> 00:22:09,420
+folgende Massnahmen durchführen.
+
+322
+00:22:09,420 --> 00:22:12,420
+Als erstes
+
+323
+00:22:12,420 --> 00:22:15,420
+würde ich den Patienten
+
+324
+00:22:15,420 --> 00:22:18,420
+körperlich unterhalten.
+
+325
+00:22:18,420 --> 00:22:21,420
+Ich instiziere
+
+326
+00:22:21,420 --> 00:22:24,420
+den Brustkorb, ob es
+
+327
+00:22:24,420 --> 00:22:27,420
+symmetrisch ist.
+
+328
+00:22:27,420 --> 00:22:30,420
+Bei der Oskultation
+
+329
+00:22:30,420 --> 00:22:33,420
+achte ich darauf, ob es
+
+330
+00:22:33,420 --> 00:22:36,420
+Lungengeräusche gibt
+
+331
+00:22:36,420 --> 00:22:39,420
+oder wie Lungengeräusche ist.
+
+332
+00:22:39,420 --> 00:22:42,420
+Wenn ich
+
+333
+00:22:42,420 --> 00:22:45,420
+eine Stumlung feststelle,
+
+334
+00:22:45,420 --> 00:22:48,420
+dann spreche ich von einem Pynomotorax.
+
+335
+00:22:48,420 --> 00:22:51,420
+Was machen Sie?
+
+336
+00:22:51,420 --> 00:22:54,420
+Was machen Sie?
+
+337
+00:22:54,420 --> 00:22:57,420
+Bei der Perkussion
+
+338
+00:22:57,420 --> 00:23:00,420
+achte ich darauf, ob es
+
+339
+00:23:00,420 --> 00:23:04,730
+ein gedämpfter Kopfschall ist.
+
+340
+00:23:04,730 --> 00:23:07,730
+Ich erwarte ein gedämpfter Kopfschall.
+
+341
+00:23:07,730 --> 00:23:10,730
+Ich erwarte einen gedämpfter Kopfschall.
+
+342
+00:23:10,730 --> 00:23:13,730
+Ich erwarte einen gedämpfter Kopfschall.
+
+343
+00:23:13,730 --> 00:23:16,730
+Wo erwarten Sie ein gedämpfter Kopfschall?
+
+344
+00:23:16,730 --> 00:23:19,730
+Rechtszeitige
+
+345
+00:23:19,730 --> 00:23:22,730
+Hypersonorität
+
+346
+00:23:22,730 --> 00:23:25,730
+Hypersonorität
+
+347
+00:23:25,730 --> 00:23:28,730
+Sie erwarten Hypersonorung
+
+348
+00:23:28,730 --> 00:23:31,730
+Kopfschall.
+
+349
+00:23:31,730 --> 00:23:34,730
+Sie erwarten Hypersonorität
+
+350
+00:23:34,730 --> 00:23:37,730
+Hypersonorität
+
+351
+00:23:37,730 --> 00:23:40,730
+Sie erwarten Hypersonorität
+
+352
+00:23:40,730 --> 00:23:49,700
+Was hören Sie bei der Auskultation auf der rechten Seite bei den Patienten?
+
+353
+00:23:49,700 --> 00:23:54,700
+Bei der Auskultation erwarte ich Sturmlunge, rechtseitige Sturmlunge.
+
+354
+00:23:54,700 --> 00:23:58,700
+Ja, ist das so?
+
+355
+00:23:58,700 --> 00:24:05,700
+Ja, da oder verminderte Lungengeräusche.
+
+356
+00:24:05,700 --> 00:24:09,700
+Genau, das ist häufiger, dass man ein abgeschwächtes Atemgeräusch hört.
+
+357
+00:24:09,700 --> 00:24:13,700
+Also, dass man gar nichts hört, ist extrem selten beim Pneumotorax.
+
+358
+00:24:13,700 --> 00:24:17,700
+Da muss ja schon ein kompletter Atlekt, also kompletter Kollaps sein.
+
+359
+00:24:17,700 --> 00:24:21,700
+Also abgeschwächtes Atemgeräusch oder aufgehobenes Atemgeräusch,
+
+360
+00:24:21,700 --> 00:24:23,700
+ob wie ich schon richtig gesagt worden ist.
+
+361
+00:24:23,700 --> 00:24:26,700
+Und wo auskultieren Sie?
+
+362
+00:24:26,700 --> 00:24:28,700
+Überall natürlich.
+
+363
+00:24:28,700 --> 00:24:36,170
+Und wo kann es sein, dass Sie auch normales Atemgeräusch haben beim Pneumotorax?
+
+364
+00:24:36,170 --> 00:24:40,170
+Überall auskultiere ich, aber ich erwarte am meisten
+
+365
+00:24:40,170 --> 00:24:46,170
+Abgeschwächtes Atemgeräusch von Lungen, diese Beschwerden oder Auffälligkeiten.
+
+366
+00:24:46,170 --> 00:24:49,170
+Richtig, genau, das häufigste ist ein Abgekalt.
+
+367
+00:24:49,170 --> 00:24:51,170
+Wo legen Sie die Städoskopien?
+
+368
+00:24:51,170 --> 00:24:53,170
+Wo?
+
+369
+00:24:53,170 --> 00:24:55,170
+Bei Abgekalt abhören?
+
+370
+00:24:55,170 --> 00:24:58,170
+Ja, hinter dem Klavikulier.
+
+371
+00:24:58,170 --> 00:25:04,170
+Superklavikulier und interkostal.
+
+372
+00:25:04,170 --> 00:25:06,170
+Okay.
+
+373
+00:25:06,170 --> 00:25:13,720
+Wenn Sie da nichts hören, ist das automatisch den Pneumotorax?
+
+374
+00:25:13,720 --> 00:25:16,720
+Nein, wir brauchen noch weitere.
+
+375
+00:25:16,720 --> 00:25:19,720
+Es ist nur für die weiteren Untersuchungen kommen,
+
+376
+00:25:19,720 --> 00:25:21,720
+aber es ist von Ausstattationsrufung.
+
+377
+00:25:21,720 --> 00:25:24,720
+Wenn Sie jetzt hier auf der rechten Seite vom Patienten, das ist hier, ja,
+
+378
+00:25:24,720 --> 00:25:27,720
+wenn Sie jetzt praktisch mal hier Städoskop drauf halten,
+
+379
+00:25:27,720 --> 00:25:32,720
+dann hören Sie nichts, also leise Atemgeräusch.
+
+380
+00:25:32,720 --> 00:25:34,720
+Ist da die Diagnose für Sie sicher?
+
+381
+00:25:34,720 --> 00:25:38,610
+Nein.
+
+382
+00:25:38,610 --> 00:25:45,380
+Was muss man da immer machen?
+
+383
+00:25:45,380 --> 00:25:47,380
+Die Seite, die Seite.
+
+384
+00:25:47,380 --> 00:25:49,380
+Richtig, genau, Seiten-Differenz.
+
+385
+00:25:49,380 --> 00:25:52,380
+Das ist genau die richtige Antwort, die ich hören wollte.
+
+386
+00:25:52,380 --> 00:25:54,380
+Gucken, ob Seiten-Differenz besteht.
+
+387
+00:25:54,380 --> 00:25:56,380
+Genau, sehr gut.
+
+388
+00:25:56,380 --> 00:25:58,380
+Okay, jetzt haben Sie ausgotiert.
+
+389
+00:25:58,380 --> 00:26:00,380
+Also Sie haben Hypersornung, Klopschall,
+
+390
+00:26:00,380 --> 00:26:03,380
+abgeschwächtes oder aufgerobenes Atemgeräusch
+
+391
+00:26:03,380 --> 00:26:05,380
+auf der betroffenen Seite.
+
+392
+00:26:05,380 --> 00:26:09,260
+Was machen Sie jetzt?
+
+393
+00:26:09,260 --> 00:26:11,260
+Noch.
+
+394
+00:26:11,260 --> 00:26:14,260
+Sie als Körperl-Funktage suchen?
+
+395
+00:26:14,260 --> 00:26:16,260
+Als allgemein diagnostische Maßnahme.
+
+396
+00:26:16,260 --> 00:26:19,260
+Ich körperlich haben Sie jetzt schon genug untersucht, finde ich.
+
+397
+00:26:19,260 --> 00:26:24,260
+Ich überprüfe zuerst Vitalparameter,
+
+398
+00:26:24,260 --> 00:26:27,260
+besonders Sauerstoff-Sättigung.
+
+399
+00:26:27,260 --> 00:26:29,260
+Genau, ja.
+
+400
+00:26:29,260 --> 00:26:34,260
+Wenn wir eine Sauerstoff-Sättigung, Aufgabe zu führen.
+
+401
+00:26:34,260 --> 00:26:36,260
+Mhm.
+
+402
+00:26:36,260 --> 00:26:44,260
+Die Labo-Untersuchung könnte weitere wichtige Hinweisen liefern,
+
+403
+00:26:44,260 --> 00:26:47,260
+wie zum Beispiel Blutgasanalyse
+
+404
+00:26:47,260 --> 00:26:52,260
+oder können wir auch Blutbild überprüfen.
+
+405
+00:26:52,260 --> 00:26:55,260
+Brauchen Sie Blutbild beim Pneumotorax?
+
+406
+00:26:55,260 --> 00:27:00,260
+Nein, eigentlich nicht, aber es kann eigentlich mein Maßnahme sein.
+
+407
+00:27:00,260 --> 00:27:02,260
+Also Labo ist das letzte,
+
+408
+00:27:02,260 --> 00:27:04,260
+das wir nicht denken, über Pneumotorax, gell?
+
+409
+00:27:04,260 --> 00:27:07,260
+Dann sollten,
+
+410
+00:27:07,260 --> 00:27:11,260
+um die Verdachtdiagnose so sichern,
+
+411
+00:27:11,260 --> 00:27:18,260
+sollten Blutkentorax veranlassen oder einbeleiten werden.
+
+412
+00:27:18,260 --> 00:27:21,260
+Was schreiben Sie drauf?
+
+413
+00:27:21,260 --> 00:27:23,260
+Blutkentorax, auf Ihre Anforderung?
+
+414
+00:27:23,260 --> 00:27:28,500
+In Anforderung, Rezept,
+
+415
+00:27:28,500 --> 00:27:32,500
+sollten wir Daten von Patienten schreiben
+
+416
+00:27:32,500 --> 00:27:34,500
+und beschwerden
+
+417
+00:27:34,500 --> 00:27:40,500
+und gewünschte Untersuchungen
+
+418
+00:27:40,500 --> 00:27:43,500
+und manche Beschwerden.
+
+419
+00:27:43,500 --> 00:27:45,500
+Genau.
+
+420
+00:27:45,500 --> 00:27:47,500
+Was ist die Gewünschte der Sohn hier?
+
+421
+00:27:47,500 --> 00:27:52,940
+Zwei Ebenen, Torex, Posteriö anteru.
+
+422
+00:27:52,940 --> 00:27:54,940
+Ich habe schon erwähnt,
+
+423
+00:27:54,940 --> 00:27:56,940
+nur Röntgenborgs in Expiration.
+
+424
+00:27:56,940 --> 00:27:59,940
+Ja, Expiration, Torex.
+
+425
+00:27:59,940 --> 00:28:02,940
+Man kann das besser erkennen.
+
+426
+00:28:02,940 --> 00:28:05,940
+Okay, jetzt haben Sie Röntgen gemacht.
+
+427
+00:28:05,940 --> 00:28:08,940
+Also ich würde auf jeden Fall bei jungen Patienten immer auch IKG schreiben
+
+428
+00:28:08,940 --> 00:28:11,940
+und Richtung Herzinfarkt abklären, wie Sie schon gesagt haben.
+
+429
+00:28:11,940 --> 00:28:15,940
+Das ist auf jeden Fall eine Maßnahme, die man machen sollte.
+
+430
+00:28:15,940 --> 00:28:19,940
+Gut, und dann haben Sie Diagnose gestellt.
+
+431
+00:28:19,940 --> 00:28:21,940
+Für ein Motorhax rechts.
+
+432
+00:28:21,940 --> 00:28:23,940
+Was machen Sie jetzt?
+
+433
+00:28:23,940 --> 00:28:28,940
+Wenn wir bei unsicherer Befundetüren
+
+434
+00:28:28,940 --> 00:28:32,940
+auch CT durchführen.
+
+435
+00:28:32,940 --> 00:28:35,940
+Kann man machen, ja.
+
+436
+00:28:35,940 --> 00:28:40,940
+Bei Bestätigung der Verdachtdiagnose sollte
+
+437
+00:28:40,940 --> 00:28:45,940
+Sauerstoff abgeben,
+
+438
+00:28:45,940 --> 00:28:52,940
+dann interventionelle Therapie beginnen.
+
+439
+00:28:52,940 --> 00:29:01,940
+Wir zum Beispiel Torexdrenage, Luftdrenage.
+
+440
+00:29:01,940 --> 00:29:11,500
+Wo machen Sie die Torexdrenage?
+
+441
+00:29:11,500 --> 00:29:20,500
+Zwischen von siebthes, sechster, Tripen oder Interkostal.
+
+442
+00:29:20,500 --> 00:29:23,500
+Also ich bin kein Chirok,
+
+443
+00:29:23,500 --> 00:29:25,500
+aber normalerweise habe ich gelernt,
+
+444
+00:29:25,500 --> 00:29:28,500
+dass man bei Pneumotox normalerweise 2. ICR
+
+445
+00:29:28,500 --> 00:29:31,500
+Medioclavikulale hingemacht.
+
+446
+00:29:31,500 --> 00:29:34,500
+Das ist das, was ich gelernt habe.
+
+447
+00:29:34,500 --> 00:29:37,500
+Stimmt das?
+
+448
+00:29:37,500 --> 00:29:40,500
+Wo sind unsere Chiroken oder Notfallmediziner?
+
+449
+00:29:40,500 --> 00:29:42,500
+Das ist richtig.
+
+450
+00:29:42,500 --> 00:29:46,500
+Normalerweise.
+
+451
+00:29:46,500 --> 00:29:54,500
+Wenn der Patient von der Sauerstoffsättigung gut ist,
+
+452
+00:29:54,500 --> 00:29:57,500
+über 95 ohne Sauerstoffgabe,
+
+453
+00:29:57,500 --> 00:30:01,500
+und im Röntgen will sie jetzt
+
+454
+00:30:01,500 --> 00:30:06,500
+einen apikalen Pneumotox von ungefähr 2 cm sehen,
+
+455
+00:30:06,500 --> 00:30:10,500
+würden Sie auf jeden Fall eine Trenage anlegen?
+
+456
+00:30:10,500 --> 00:30:13,780
+Oder was würden Sie machen?
+
+457
+00:30:13,780 --> 00:30:19,780
+Wenn der Patient keine Sauerstoffprobleme
+
+458
+00:30:19,780 --> 00:30:24,780
+oder der Pneumotrax nicht stark ist,
+
+459
+00:30:24,780 --> 00:30:31,780
+können wir konservativ Überwachung durchführen.
+
+460
+00:30:31,780 --> 00:30:33,780
+Genau, bei kleinen Pneumotrax
+
+461
+00:30:33,780 --> 00:30:36,780
+wenig Symptomen und geringe Dynamik.
+
+462
+00:30:36,780 --> 00:30:38,780
+Der Beschwerden kann man auch manchmal
+
+463
+00:30:38,780 --> 00:30:40,780
+nur verlaufskontrollen machen,
+
+464
+00:30:40,780 --> 00:30:43,780
+aber dann würde ich den Patient in der Station aufnehmen.
+
+465
+00:30:43,780 --> 00:30:46,780
+Also nicht nach Hause schicken.
+
+466
+00:30:46,780 --> 00:30:53,780
+Okay, das ist zum Thema Pneumotorx.
+
+467
+00:30:53,780 --> 00:30:59,760
+Was ist das gefährliche an Pneumotorrax?
+
+468
+00:30:59,760 --> 00:31:01,760
+Haben wir schon angesprochen?
+
+469
+00:31:01,760 --> 00:31:05,760
+Wir haben angesprochen, ich habe wieder vergessen.
+
+470
+00:31:05,760 --> 00:31:06,760
+Und?
+
+471
+00:31:06,760 --> 00:31:07,760
+Diese Name.
+
+472
+00:31:07,760 --> 00:31:09,760
+Denken Sie, wenn man nach, vielleicht erinnern Sie sich.
+
+473
+00:31:09,760 --> 00:31:15,380
+Spannungspneumotorrax, ja?
+
+474
+00:31:15,380 --> 00:31:18,380
+Spannung, ja, Spannung per Pneumotrax.
+
+475
+00:31:18,380 --> 00:31:20,380
+Genau, was sind das?
+
+476
+00:31:20,380 --> 00:31:26,380
+Spannung per Pneumotrax kann
+
+477
+00:31:26,380 --> 00:31:29,380
+herzliche Probleme oder
+
+478
+00:31:29,380 --> 00:31:33,380
+vascular Kollaps verursachen.
+
+479
+00:31:33,380 --> 00:31:39,080
+Ja, genau, kann zu Herz
+
+480
+00:31:39,080 --> 00:31:43,080
+Zeitvolumen für Verminderung und Schock aufhören.
+
+481
+00:31:43,080 --> 00:31:46,080
+Das wollte ich gerade fragen, was sind so Zeichen?
+
+482
+00:31:46,080 --> 00:31:49,080
+Was sind so Zeichen bei Spannungspneumotorrax,
+
+483
+00:31:49,080 --> 00:31:51,080
+welche klinischen Zeichen würden Sie erwarten?
+
+484
+00:31:51,080 --> 00:31:56,330
+Tragical Verschiebung nach anderen Seiten.
+
+485
+00:31:56,330 --> 00:31:58,330
+Ja, das sehen Sie aber nicht von außen,
+
+486
+00:31:58,330 --> 00:32:00,330
+wenn Sie den Patienten angucken.
+
+487
+00:32:00,330 --> 00:32:03,330
+Was für klinische Zeichen gibt es denn für Hinweis,
+
+488
+00:32:03,330 --> 00:32:07,330
+dass es spontan spannungspneumotorrax sein könnte?
+
+489
+00:32:07,330 --> 00:32:12,950
+Tragical Verschiebung und
+
+490
+00:32:12,950 --> 00:32:15,950
+nicht
+
+491
+00:32:15,950 --> 00:32:20,950
+seit Differenz,
+
+492
+00:32:20,950 --> 00:32:23,950
+wir müssen seit Differenz
+
+493
+00:32:23,950 --> 00:32:27,950
+von Atem, Bewegung
+
+494
+00:32:27,950 --> 00:32:30,950
+überprüfen.
+
+495
+00:32:30,950 --> 00:32:33,950
+Rein klinisch gesehen, ohne,
+
+496
+00:32:33,950 --> 00:32:35,950
+Sie gucken den Patienten durch Inspektion,
+
+497
+00:32:35,950 --> 00:32:39,950
+gibt es Hinweise, dass es ein Spannungspneumotorrax sein könnte.
+
+498
+00:32:39,950 --> 00:32:47,460
+Klinische Zeichen dafür,
+
+499
+00:32:47,460 --> 00:32:49,460
+die Sie beunruhigen würden.
+
+500
+00:32:49,460 --> 00:32:51,460
+Sie sehen Sie ja nicht von außen,
+
+501
+00:32:51,460 --> 00:32:53,460
+da sieht man ja nicht von außen,
+
+502
+00:32:53,460 --> 00:32:56,460
+Sie sehen Sie im Röntgen, ich meine es klinisch,
+
+503
+00:32:56,460 --> 00:33:04,700
+allein durch Inspektion.
+
+504
+00:33:04,700 --> 00:33:06,700
+Ich weiß nicht.
+
+505
+00:33:06,700 --> 00:33:08,700
+Ich habe schon mal draufgeguckt,
+
+506
+00:33:08,700 --> 00:33:10,700
+ich habe schon, Zyanose,
+
+507
+00:33:10,700 --> 00:33:12,700
+Hypotonie,
+
+508
+00:33:12,700 --> 00:33:14,700
+Tariqadie,
+
+509
+00:33:14,700 --> 00:33:16,700
+zunehmende Luftnut,
+
+510
+00:33:16,700 --> 00:33:19,700
+eine Dynamik, dass die Luftnut immer schlechter wird.
+
+511
+00:33:19,700 --> 00:33:21,700
+Und bis hin zum Schock,
+
+512
+00:33:21,700 --> 00:33:24,700
+das sind Schockindexentwicklungen, die Patienten.
+
+513
+00:33:24,700 --> 00:33:26,700
+Hypotonie und Tariqadie,
+
+514
+00:33:26,700 --> 00:33:28,700
+das sind Hinweise,
+
+515
+00:33:28,700 --> 00:33:31,700
+die Sie dran denken lassen,
+
+516
+00:33:31,700 --> 00:33:34,700
+dass es ein Spannungspneumotorrax sein könnte.
+
+517
+00:33:34,700 --> 00:33:37,700
+Und da müssen Sie ganz schnell handeln.
+
+518
+00:33:37,700 --> 00:33:40,700
+Ich dachte eine sichtbare...
+
+519
+00:33:40,700 --> 00:33:43,700
+Klinische Zeichen, Inspektion, sichtbar.
+
+520
+00:33:43,700 --> 00:33:45,700
+Inspektion ist von außen,
+
+521
+00:33:45,700 --> 00:33:47,700
+das Sie sehen.
+
+522
+00:33:47,700 --> 00:33:50,700
+Das war gemeint, unabhängig von Röntgen
+
+523
+00:33:50,700 --> 00:33:52,700
+und Sachen, die Sie erzählt haben.
+
+524
+00:33:52,700 --> 00:33:54,700
+Also diese klinischen Zeichen.
+
+525
+00:33:54,700 --> 00:33:57,700
+Gut, ich gebe es dann noch Kommentare
+
+526
+00:33:57,700 --> 00:33:59,700
+zum Spannungspneumotorrax.
+
+527
+00:33:59,700 --> 00:34:01,700
+Ich gucke gerade mal nach.
+
+528
+00:34:01,700 --> 00:34:05,700
+Syncope, Schock, Zyrnose, Hypotonie,
+
+529
+00:34:05,700 --> 00:34:08,700
+Maske, Luftlösung, Spannung.
+
+530
+00:34:08,700 --> 00:34:12,700
+Die meisten Sachen haben wir, glaube ich, schon besprochen.
+
+531
+00:34:12,700 --> 00:34:20,700
+Gut, das war das Thema Spontaneumotorrax.
+
+532
+00:34:20,700 --> 00:34:23,700
+Gibt es aus der Anamnese Hinweise,
+
+533
+00:34:23,700 --> 00:34:26,700
+die Sie dazu bewogen haben,
+
+534
+00:34:26,700 --> 00:34:29,700
+dass Sie an diese Diagnose gedacht haben?
+
+535
+00:34:30,700 --> 00:34:34,700
+Oder welche an amnestigen Angaben deuten auf diese Diagnose hin?
+
+536
+00:34:34,700 --> 00:34:39,040
+Gab es welche?
+
+537
+00:34:39,040 --> 00:34:42,040
+Es gibt keine Auslöse, das ist spontan.
+
+538
+00:34:42,040 --> 00:34:46,040
+Und löslich aufgetretene Schmerzen,
+
+539
+00:34:46,040 --> 00:34:48,040
+nicht technisch Schmerzungen,
+
+540
+00:34:48,040 --> 00:34:54,040
+Sprich-Gespräch für Spontanpneumotorrax.
+
+541
+00:34:54,040 --> 00:34:57,040
+Aber gibt es Risikofaktoren für Spontanpneumotorrax?
+
+542
+00:34:57,040 --> 00:35:00,040
+Trifft es jeden Menschen gleich?
+
+543
+00:35:01,040 --> 00:35:06,040
+Junger Menschen entsteht diese Krankheit ein bisschen öfter
+
+544
+00:35:06,040 --> 00:35:09,040
+und schlange Personen.
+
+545
+00:35:09,040 --> 00:35:15,040
+Und brauchen dann eine Ursache.
+
+546
+00:35:15,040 --> 00:35:18,040
+Wie nennen Sie solche schlanken Patienten?
+
+547
+00:35:18,040 --> 00:35:20,040
+Wie nennt man das im medizinischen Fachbegriff?
+
+548
+00:35:20,040 --> 00:35:24,040
+Also groß und wenig Gewicht.
+
+549
+00:35:24,040 --> 00:35:31,170
+Kennen Sie den Fachbegriff dafür, wie die Patienten sind?
+
+550
+00:35:31,170 --> 00:35:36,980
+Jung, lang, groß.
+
+551
+00:35:36,980 --> 00:35:44,320
+Astänische Patienten.
+
+552
+00:35:44,320 --> 00:35:47,320
+Astänische Patienten.
+
+553
+00:35:47,320 --> 00:35:50,320
+Bei denen ist Risiko erhöht.
+
+554
+00:35:50,320 --> 00:35:53,320
+Und dann haben Sie gesagt, Zigaretten rauchen.
+
+555
+00:35:53,320 --> 00:35:56,320
+Nicht Astänische, dann Astänische.
+
+556
+00:35:56,320 --> 00:36:00,110
+Ohne Ä.
+
+557
+00:36:00,110 --> 00:36:02,110
+Astänische.
+
+558
+00:36:02,110 --> 00:36:04,110
+Das Ä wegmachen.
+
+559
+00:36:04,110 --> 00:36:06,110
+Okay.
+
+560
+00:36:06,110 --> 00:36:10,110
+Der Patient hatte vor sechs Jahren Lupus Ervetomaturus gehabt.
+
+561
+00:36:10,110 --> 00:36:12,110
+Ist Schwiders eine Rolle?
+
+562
+00:36:12,110 --> 00:36:21,060
+Oder hat er die Diagnose jetzt?
+
+563
+00:36:21,060 --> 00:36:23,060
+Oder war das nur zur Verwirrung?
+
+564
+00:36:23,060 --> 00:36:29,770
+Er hat keine Schmerzen mehr.
+
+565
+00:36:29,770 --> 00:36:34,080
+Was denken die anderen?
+
+566
+00:36:34,080 --> 00:36:36,080
+Ich weiß nicht.
+
+567
+00:36:36,080 --> 00:36:39,080
+Lupus ist sehr müde.
+
+568
+00:36:39,080 --> 00:36:41,080
+Wir nehmen die Joghter raus.
+
+569
+00:36:41,080 --> 00:36:43,080
+Wir haben eine Schaschet-Magischen-Kohidimone.
