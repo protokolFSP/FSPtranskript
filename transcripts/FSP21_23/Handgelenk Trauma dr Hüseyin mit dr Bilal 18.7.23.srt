@@ -1,0 +1,1195 @@
+1
+00:00:00,270 --> 00:00:04,960
+Bitte schön.
+
+2
+00:00:04,960 --> 00:00:06,960
+Hallo Guten Tag.
+
+3
+00:00:06,960 --> 00:00:08,960
+Ja, guten Tag.
+
+4
+00:00:08,960 --> 00:00:12,960
+Mein Name ist Bilal Alptan. Ich bin hier auf diese Station als Diensthabender Arzt tätig.
+
+5
+00:00:12,960 --> 00:00:16,960
+Ich würde mit Ihnen das Aufnahmegespräch führen.
+
+6
+00:00:16,960 --> 00:00:18,960
+Sind Sie damit einverstanden?
+
+7
+00:00:18,960 --> 00:00:20,960
+Jawohl.
+
+8
+00:00:20,960 --> 00:00:26,960
+Bevor wir über Ihre aktuelle Beschwerden sprechen, möchte ich ganz schnell Ihre persönliche Daten aufnehmen.
+
+9
+00:00:26,960 --> 00:00:28,960
+Wie heißen Sie denn?
+
+10
+00:00:28,960 --> 00:00:31,960
+Mein Name ist Herbert Schönling.
+
+11
+00:00:31,960 --> 00:00:37,960
+Herr Berth, schön. Könnten Sie sich denn vornamen Nachname Buchstabe?
+
+12
+00:00:37,960 --> 00:00:44,960
+Vorname ist Herbert, also Heinrich, Emil, Richard, Bertha, Emil, Richard, Theodor.
+
+13
+00:00:44,960 --> 00:00:53,960
+Nachname ist Schönling, Siegfried, Caesar, Heinrich, Ö, wo mit Umlaut.
+
+14
+00:00:53,960 --> 00:00:58,960
+Nordpol, Ludwig, Ida, Nordpol, Gustav.
+
+15
+00:00:58,960 --> 00:01:04,960
+Wie alt sind Sie?
+
+16
+00:01:04,960 --> 00:01:14,960
+Ich bin 24 Jahre alt.
+
+17
+00:01:14,960 --> 00:01:18,960
+Was ist Ihr genau geworden?
+
+18
+00:01:18,960 --> 00:01:22,960
+Ich bin ab dem 3. März 1999 geworden.
+
+19
+00:01:22,960 --> 00:01:25,960
+Noch eine Arbeiterin?
+
+20
+00:01:25,960 --> 00:01:31,960
+Am 4. März 1999 geworden, also im letzten Jahrtausend.
+
+21
+00:01:31,960 --> 00:01:35,960
+Okay.
+
+22
+00:01:35,960 --> 00:01:39,960
+Wie groß sind Sie?
+
+23
+00:01:39,960 --> 00:01:42,960
+Ich bin 1,70 m groß.
+
+24
+00:01:42,960 --> 00:01:48,960
+Und wie groß, wie schwer sind Sie?
+
+25
+00:01:48,960 --> 00:01:51,960
+Ich bin 75 kg leicht.
+
+26
+00:01:52,960 --> 00:01:58,960
+Was sind Sie von Beruf?
+
+27
+00:01:58,960 --> 00:02:01,960
+Ich bin Student.
+
+28
+00:02:01,960 --> 00:02:04,960
+Ich studiere Informatik.
+
+29
+00:02:04,960 --> 00:02:08,210
+Informatik.
+
+30
+00:02:08,210 --> 00:02:16,210
+Herr Schönling, was führt Sie zu uns, Herr Schönling?
+
+31
+00:02:16,210 --> 00:02:21,210
+Ich bin ein Fahrrad unterwegs gewesen.
+
+32
+00:02:21,210 --> 00:02:24,210
+Ich bin mit dem Fahrrad ausgerutscht.
+
+33
+00:02:24,210 --> 00:02:27,210
+Und auf meinen rechten Handgelenk gefallen.
+
+34
+00:02:27,210 --> 00:02:30,210
+Und auf meinem Kopf gefallen.
+
+35
+00:02:30,210 --> 00:02:36,210
+Auf rechten Handgelenk und das Haupte.
+
+36
+00:02:36,210 --> 00:02:45,660
+Wie ist das passiert?
+
+37
+00:02:45,660 --> 00:02:49,660
+Könnten Sie den Unfallhergang genau beschreiben?
+
+38
+00:02:49,660 --> 00:02:53,660
+Ich bin Fahrrad gefahren.
+
+39
+00:02:53,660 --> 00:02:56,660
+Und wollte die Kurve nach rechts nehmen.
+
+40
+00:02:56,660 --> 00:03:00,660
+Und dabei war der Boden zu schmutzig.
+
+41
+00:03:00,660 --> 00:03:03,660
+Und dann war es der Boden.
+
+42
+00:03:03,660 --> 00:03:07,660
+Und ich wollte die Kurve nach rechts nehmen.
+
+43
+00:03:07,660 --> 00:03:11,660
+Und dabei war der Boden sandig.
+
+44
+00:03:11,660 --> 00:03:14,660
+Und dabei ist mein Fahrrad ausgerutscht.
+
+45
+00:03:14,660 --> 00:03:16,660
+Ich habe die Kontrolle verloren.
+
+46
+00:03:16,660 --> 00:03:19,660
+Und bin auf das rechte Handgelenk gefallen.
+
+47
+00:03:19,660 --> 00:03:22,660
+Und auf meinem Kopf.
+
+48
+00:03:22,660 --> 00:03:26,660
+Haben Sie momentan Schmerzen?
+
+49
+00:03:26,660 --> 00:03:33,640
+Ja, in meinem rechten Handgelenk.
+
+50
+00:03:33,640 --> 00:03:35,640
+Und im Kopf?
+
+51
+00:03:35,640 --> 00:03:37,640
+Ich habe keine Schmerzen.
+
+52
+00:03:37,640 --> 00:03:39,640
+Ich habe einen Helm gehabt.
+
+53
+00:03:39,640 --> 00:03:41,640
+Sie haben mich geschwollt.
+
+54
+00:03:41,640 --> 00:03:50,500
+Sie sind, ist Ihre Hand geschwollt?
+
+55
+00:03:50,500 --> 00:03:57,370
+Ja, mein Handgelenk ist geschwollt.
+
+56
+00:03:57,370 --> 00:04:01,370
+Wo genau ist geschwollt?
+
+57
+00:04:01,370 --> 00:04:07,370
+Im Bereich meines Momentes.
+
+58
+00:04:07,370 --> 00:04:10,370
+Ich habe eine Speiche.
+
+59
+00:04:10,370 --> 00:04:15,100
+Speiche?
+
+60
+00:04:15,100 --> 00:04:17,100
+Wo bin ich?
+
+61
+00:04:17,100 --> 00:04:20,100
+Speiche?
+
+62
+00:04:20,100 --> 00:04:23,100
+Ja, im Handgelenk vielleicht.
+
+63
+00:04:23,100 --> 00:04:26,100
+Es war eine Ellen-Seite, sondern an der Speichenseite.
+
+64
+00:04:26,100 --> 00:04:29,100
+Ja, Speichenseite?
+
+65
+00:04:29,100 --> 00:04:32,100
+Ellen-Seite und Speichen.
+
+66
+00:04:32,100 --> 00:04:35,100
+Ja.
+
+67
+00:04:35,100 --> 00:04:38,100
+Speichenseite ist geschwollt.
+
+68
+00:04:38,100 --> 00:04:44,010
+Im Bereich wo der Daumen ist.
+
+69
+00:04:44,010 --> 00:04:46,010
+Noch einmal, bitte.
+
+70
+00:04:46,010 --> 00:04:49,010
+Wo mein Daumen ist, in dem Bereich.
+
+71
+00:04:49,010 --> 00:04:52,010
+Ja.
+
+72
+00:04:52,010 --> 00:04:55,010
+Auf dem Bereich des Radius.
+
+73
+00:04:55,010 --> 00:05:00,180
+Okay.
+
+74
+00:05:00,180 --> 00:05:04,850
+Fühlen Sie,
+
+75
+00:05:04,850 --> 00:05:07,850
+griebeln oder taubheißen Gefühle?
+
+76
+00:05:07,850 --> 00:05:10,850
+Haben Sie taubheißen Gefühle?
+
+77
+00:05:10,850 --> 00:05:13,850
+Wo meinen Sie?
+
+78
+00:05:13,850 --> 00:05:16,850
+Am rechten Hand.
+
+79
+00:05:16,850 --> 00:05:19,850
+Am rechten Hand?
+
+80
+00:05:19,850 --> 00:05:22,850
+In der rechten Hand habe ich keine Taubheißgefühle.
+
+81
+00:05:22,850 --> 00:05:26,850
+Ich habe auch keine gut Gefühle.
+
+82
+00:05:26,850 --> 00:05:45,970
+Mussten Sie erbrechen, Herr Schamlin?
+
+83
+00:05:45,970 --> 00:05:49,970
+Ich muss nicht erbrechen, aber ich habe auch nicht erbrochen.
+
+84
+00:05:49,970 --> 00:05:52,970
+Ich habe nicht erbrochen.
+
+85
+00:05:52,970 --> 00:05:55,970
+Okay.
+
+86
+00:05:55,970 --> 00:05:58,970
+Ich habe nicht erbrochen.
+
+87
+00:05:58,970 --> 00:06:01,970
+Okay.
+
+88
+00:06:01,970 --> 00:06:08,520
+Erbrochen.
+
+89
+00:06:08,520 --> 00:06:13,540
+Haben Sie Übelkeit?
+
+90
+00:06:13,540 --> 00:06:16,540
+Übelkeit? Nein.
+
+91
+00:06:16,540 --> 00:06:19,540
+Mir ist es nicht übel.
+
+92
+00:06:19,540 --> 00:06:24,230
+Okay.
+
+93
+00:06:24,230 --> 00:06:43,670
+Herr Schöning, leiden Sie an eine chronische Erkrankung?
+
+94
+00:06:43,670 --> 00:06:49,820
+Nein, nicht, dass ich wüsste.
+
+95
+00:06:49,820 --> 00:07:00,400
+Nehmen Sie irgendwelche Medikamente?
+
+96
+00:07:00,400 --> 00:07:03,400
+Medikamente nehme ich nicht ein, nein.
+
+97
+00:07:03,400 --> 00:07:08,400
+Nach dem Unfall, haben Sie etwas eingenommen?
+
+98
+00:07:08,400 --> 00:07:12,400
+Nein, ich bin unmittelbar hierher gekommen.
+
+99
+00:07:12,400 --> 00:07:27,570
+Wurden Sie schon einmal operiert?
+
+100
+00:07:27,570 --> 00:07:30,570
+Ja, am Blinddamm wurde ich operiert.
+
+101
+00:07:30,570 --> 00:07:34,880
+Da war ich 10 Jahre alt.
+
+102
+00:07:34,880 --> 00:07:37,880
+10 Jahre alt?
+
+103
+00:07:37,880 --> 00:07:40,880
+Und das war es?
+
+104
+00:07:40,880 --> 00:07:48,810
+Also Operation?
+
+105
+00:07:48,810 --> 00:07:52,810
+Ja, also Operation war es, ich hatte sonst keine Operation gehabt.
+
+106
+00:07:52,810 --> 00:07:54,810
+Okay.
+
+107
+00:07:54,810 --> 00:08:08,050
+Herr Schöning,
+
+108
+00:08:09,050 --> 00:08:18,130
+gibt es chronische Erkrankungen in Ihrer Familie?
+
+109
+00:08:18,130 --> 00:08:22,130
+In meiner Familie, was meint ihr mit chronischen Erkrankungen?
+
+110
+00:08:22,130 --> 00:08:27,130
+Ich meine z.B. Zugverkrankung, Bluthochdruck,
+
+111
+00:08:27,130 --> 00:08:30,130
+erhöhte Blutverzweite.
+
+112
+00:08:30,130 --> 00:08:34,130
+Also, ich weiß, mein Vater hat Bluthochdruckerkrankung.
+
+113
+00:08:35,130 --> 00:08:42,130
+Meine Mutter hat Schildrüsenunterfunktion.
+
+114
+00:08:42,130 --> 00:08:44,130
+Okay.
+
+115
+00:08:44,130 --> 00:08:47,130
+Leben, ihr erzählen noch?
+
+116
+00:08:47,130 --> 00:08:49,130
+Ja, die leben beide.
+
+117
+00:08:49,130 --> 00:08:56,740
+Gott sei Dank, wer soll mein Studium finanzieren?
+
+118
+00:08:56,740 --> 00:08:58,740
+Studium kostet Geld.
+
+119
+00:08:58,740 --> 00:09:01,740
+Mein Eltern finanzieren mein Studium.
+
+120
+00:09:01,740 --> 00:09:05,120
+Ja, natürlich.
+
+121
+00:09:05,120 --> 00:09:08,120
+Haben Sie eine Schwester?
+
+122
+00:09:08,120 --> 00:09:11,120
+Ich habe zwei Schwester, ja.
+
+123
+00:09:11,120 --> 00:09:14,120
+Sind Sie gesund?
+
+124
+00:09:14,120 --> 00:09:18,120
+Ja, ich weiß nichts von Erkrankungen, das ist mir nicht bekannt.
+
+125
+00:09:18,120 --> 00:09:28,220
+Okay.
+
+126
+00:09:28,220 --> 00:09:33,220
+Jetzt, ich möchte zu Ihrer generellen Situation etwas fragen.
+
+127
+00:09:33,220 --> 00:09:43,500
+Spölen Sie sich fibrisch manchmal, oder haben Sie Fieber?
+
+128
+00:09:43,500 --> 00:09:47,500
+Nein, ich habe kein Fieber.
+
+129
+00:09:47,500 --> 00:09:54,970
+Wie ist Ihre Appetit?
+
+130
+00:09:54,970 --> 00:09:56,970
+Eigentlich gut.
+
+131
+00:09:56,970 --> 00:10:03,970
+Können Sie gut schlafen nachts?
+
+132
+00:10:03,970 --> 00:10:08,750
+Ja.
+
+133
+00:10:08,750 --> 00:10:13,750
+Haben Sie Probleme beim Wasserlassen oder Stuhlgang?
+
+134
+00:10:13,750 --> 00:10:15,750
+Nein, habe ich nicht.
+
+135
+00:10:15,750 --> 00:10:35,300
+Sie haben schon gesagt, dass Sie keine Medikamente nehmen.
+
+136
+00:10:35,300 --> 00:10:42,300
+Ich möchte wissen, ob Sie eine Allergie haben.
+
+137
+00:10:42,300 --> 00:10:48,300
+Meine Eltern haben mir gesagt, dass ich keine Penicillin nehmen darf.
+
+138
+00:10:48,300 --> 00:10:58,300
+Wie reagieren Sie sich auf die Penicillin?
+
+139
+00:10:58,300 --> 00:11:03,300
+Mit Schwellung im Hals und Atem-Mode.
+
+140
+00:11:03,300 --> 00:11:06,300
+Laut meinen Eltern.
+
+141
+00:11:06,300 --> 00:11:10,300
+Kann ich mich nicht mehr so erinnern, da war ich ein Kind, wo ich das hatte.
+
+142
+00:11:10,300 --> 00:11:18,300
+Noch Unverträglichkeiten gegen Lebensmittel?
+
+143
+00:11:18,300 --> 00:11:26,300
+Nein, gegen die Klopfernak, wenn ich die einnehme, dann hat es Magenschmerzen.
+
+144
+00:11:26,300 --> 00:11:28,300
+Die vertrage ich nicht.
+
+145
+00:11:28,300 --> 00:11:40,220
+Ich nehme nicht regelmäßig den Klopfernak, aber wo ich sie genommen habe, hatte ich Probleme.
+
+146
+00:11:41,220 --> 00:11:48,220
+Wenn Sie Schmerzen haben, nehmen Sie die Klopfernak.
+
+147
+00:11:48,220 --> 00:11:53,220
+Wenn man die Klopfernak nicht hat, dann habe ich mal die Klopfernak eingenommen.
+
+148
+00:11:53,220 --> 00:11:55,220
+Das war nicht gut für mich.
+
+149
+00:11:55,220 --> 00:12:09,220
+Sind Sie geimpft gegen Kindheit, Krankheit und Corona?
+
+150
+00:12:09,220 --> 00:12:12,220
+Ja, Corona bin ich nicht geimpft.
+
+151
+00:12:12,220 --> 00:12:21,220
+Ich war erkrankt, habe mich geimpft und die Kinderimpfungen haben meine Eltern alles gemacht.
+
+152
+00:12:21,220 --> 00:12:32,100
+Jetzt möchte ich Ihre Gewöhnheit.
+
+153
+00:12:32,100 --> 00:12:44,100
+Lauchen Sie?
+
+154
+00:12:44,100 --> 00:12:47,100
+Ja, ich rauche.
+
+155
+00:12:47,100 --> 00:12:51,100
+Wie viel Zigaretten rauchen Sie täglich?
+
+156
+00:12:51,100 --> 00:12:56,100
+Sieht man das mir an?
+
+157
+00:12:56,100 --> 00:13:00,100
+Sieht man das bei mir an?
+
+158
+00:13:00,100 --> 00:13:04,100
+Dass ich rauche, weil ihr das wissen sie, dass ich rauche, dass sie fragen.
+
+159
+00:13:04,100 --> 00:13:11,100
+Ich habe nicht genau verstanden.
+
+160
+00:13:11,100 --> 00:13:13,100
+Das war ein Witz.
+
+161
+00:13:13,100 --> 00:13:15,100
+Okay, fragen Sie weiter.
+
+162
+00:13:15,100 --> 00:13:21,100
+Wie viel Zigaretten rauchen Sie täglich?
+
+163
+00:13:21,100 --> 00:13:26,100
+Ich würde sagen, so eine halbe Päckchen, ich rauche schon einen Tag.
+
+164
+00:13:26,100 --> 00:13:31,770
+Seit wann rauchen Sie halbe Päckchen?
+
+165
+00:13:31,770 --> 00:13:33,770
+Seit drei Jahren ungefähr.
+
+166
+00:13:33,770 --> 00:13:39,590
+Trinken Sie Alkohol?
+
+167
+00:13:39,590 --> 00:13:42,590
+Oh, nee, ich trinke kein Alkohol.
+
+168
+00:13:42,590 --> 00:13:48,840
+Früher habe ich mal getrunken, das habe ich nicht vertragen, ich trinke kein Alkohol.
+
+169
+00:13:48,840 --> 00:13:56,830
+Nicht vertragen.
+
+170
+00:13:56,830 --> 00:13:59,830
+Die nächste Frage ist eine Routine.
+
+171
+00:13:59,830 --> 00:14:02,830
+Ich nehme Sie nicht persönlich.
+
+172
+00:14:02,830 --> 00:14:06,830
+Haben Sie Erfahrung mit Droge?
+
+173
+00:14:06,830 --> 00:14:19,840
+Oh, nee, ich weiß noch nicht mal, wie das geschrieben wird.
+
+174
+00:14:19,840 --> 00:14:29,840
+Ja, Herr Schoenig, meinerseits habe ich die wichtigsten Fragen gestellt.
+
+175
+00:14:29,840 --> 00:14:32,840
+Möchten Sie etwas hinzufügen?
+
+176
+00:14:32,840 --> 00:14:35,840
+Haben Sie Fragen?
+
+177
+00:14:35,840 --> 00:14:39,840
+Nein, ich würde sagen, wie geht es weiter, Herr Doktor?
+
+178
+00:14:39,840 --> 00:14:41,840
+Was habe ich denn? Was denken Sie?
+
+179
+00:14:41,840 --> 00:14:45,840
+Was wird mit mir jetzt gemacht, was passiert mit mir?
+
+180
+00:14:45,840 --> 00:14:55,840
+Herr Schoenig, zuerst möchte ich Sie körperlich untersuchen
+
+181
+00:14:55,840 --> 00:15:10,840
+und dann ein Röntgen von Ihrer Hand, Ihrer rechten Hand veranlassen.
+
+182
+00:15:10,840 --> 00:15:23,840
+Und gegebenenfalls möchte ich auch ein CT vom ERCOPF veranlassen.
+
+183
+00:15:23,840 --> 00:15:34,840
+Und dann können wir sobald wir die Ergebnisse erhalten, können wir ausführlich sprechen.
+
+184
+00:15:34,840 --> 00:15:42,380
+CT vom ERCOPF?
+
+185
+00:15:42,380 --> 00:15:45,380
+Ja, ich meine das vom ERCOPF.
+
+186
+00:15:45,380 --> 00:16:06,380
+Weil in der Unfälle kann man sich im Kopf verletzen
+
+187
+00:16:06,380 --> 00:16:24,380
+und vor sich halber möchte ich Ihrer CT anlassen.
+
+188
+00:16:24,380 --> 00:16:27,380
+Okay, ist das schädlich?
+
+189
+00:16:27,380 --> 00:16:33,380
+Ja, ich komme zur Tomografie.
+
+190
+00:16:33,380 --> 00:16:41,380
+Wir werden mithilfe der Röntgenstrahlung durchgeführt.
+
+191
+00:16:41,380 --> 00:16:49,380
+Es ist ganz schmerzfrei und eigentlich nicht gefährlich,
+
+192
+00:16:49,380 --> 00:17:02,380
+weil Röntgenstrahlung sehr gering beim Computer Tomografie ist.
+
+193
+00:17:02,380 --> 00:17:23,380
+Und wenn manchmal Patienten brauchen oder manchmal um die Bilder besser zu sehen,
+
+194
+00:17:23,380 --> 00:17:38,380
+werden wir Kontrastmittel im Zugang in Wänen geben.
+
+195
+00:17:38,380 --> 00:17:53,380
+Aber wenn Sie eine Allergie gegen Kontrastmittel haben, können wir alternative Diagnose verfahren und veranlassen.
+
+196
+00:17:53,380 --> 00:17:57,380
+Okay, danke schön.
+
+197
+00:17:57,380 --> 00:18:01,380
+Haben Kollegen oder Kolleginnen andere Fragen?
+
+198
+00:18:01,380 --> 00:18:08,800
+Herr Schülpert, wann war Ihre letzte Tetanus im Punkt?
+
+199
+00:18:08,800 --> 00:18:16,800
+Die haben vor sechs Jahren ungefähr.
+
+200
+00:18:16,800 --> 00:18:19,800
+Vorsicht, vielen Dank.
+
+201
+00:18:19,800 --> 00:18:30,800
+Wie stark sind die Schmerzen auf einer Skala von 1 bis 10?
+
+202
+00:18:30,800 --> 00:18:34,800
+Was ist 1 bis 10?
+
+203
+00:18:34,800 --> 00:18:39,800
+0 bis 10.
+
+204
+00:18:39,800 --> 00:18:42,800
+Was meinen Sie damit?
+
+205
+00:18:42,800 --> 00:18:45,800
+Ich weiß nicht, was 1 oder 10 ist.
+
+206
+00:18:45,800 --> 00:18:53,800
+Die Schulnoten in der Türkei sind eine 10 sehr gut.
+
+207
+00:18:53,800 --> 00:18:56,800
+In Deutschland ist eine Schulnote eine 1 sehr gut.
+
+208
+00:18:57,800 --> 00:19:03,800
+Bei 0 haben Sie keine Schmerzen.
+
+209
+00:19:03,800 --> 00:19:08,800
+Bei 10 haben Sie unerträgliche Schmerzen.
+
+210
+00:19:08,800 --> 00:19:17,850
+Wenn ich meinen Handgelenk rückstelle, habe ich ungefähr 5 Bewegungen.
+
+211
+00:19:17,850 --> 00:19:24,510
+Bei Bewegungen habe ich 9.
+
+212
+00:19:24,510 --> 00:19:30,510
+5 von 10 in Ruhe und 9 von 10 bei Bewegung.
+
+213
+00:19:30,510 --> 00:19:37,940
+Haben Sie öffentliche Wunder oder Blutung?
+
+214
+00:19:37,940 --> 00:19:43,940
+Nein, ich habe keine Wunden an der Haut, sei es am Kopf, sei es an meiner Hand.
+
+215
+00:19:43,940 --> 00:19:46,940
+Keine Hautverletzung.
+
+216
+00:19:46,940 --> 00:20:04,820
+Haben Sie Hautverfärbung im rechten Handgelenk oder im Arm?
+
+217
+00:20:04,820 --> 00:20:07,820
+Hautverfärbung?
+
+218
+00:20:07,820 --> 00:20:14,820
+Wie Fleck, zum Beispiel, Blutverfärbung?
+
+219
+00:20:14,820 --> 00:20:17,820
+Blau oder rot?
+
+220
+00:20:17,820 --> 00:20:20,820
+Nein, das habe ich nicht.
+
+221
+00:20:21,820 --> 00:20:32,380
+Könnten Sie Ihr Hand bewegen?
+
+222
+00:20:32,380 --> 00:20:34,380
+Ja, ich kann nicht.
+
+223
+00:20:34,380 --> 00:20:38,380
+Ein Handgelenk kann ich nicht gut bewegen, es tut weh, dabei habe ich Schmerzen.
+
+224
+00:20:38,380 --> 00:20:42,380
+Aber meine Finger kann ich bewegen.
+
+225
+00:20:42,380 --> 00:20:48,380
+Wie ist Ihr Hand auch ein bisschen belästig?
+
+226
+00:20:48,380 --> 00:20:51,380
+Ihr rechter Hand?
+
+227
+00:20:51,380 --> 00:20:54,380
+Nein, ich würde nicht sagen.
+
+228
+00:20:54,380 --> 00:20:57,380
+Das ist normal.
+
+229
+00:20:57,380 --> 00:21:05,380
+Haben Sie Hautabschürfungen oder irgendetwas?
+
+230
+00:21:05,380 --> 00:21:10,380
+Nein, nicht am Kopf oder woanders, oder an mein Hand.
+
+231
+00:21:10,380 --> 00:21:20,380
+Wenn Sie Ihr Handgelenk bewegen, hören Sie eine Knarze, eine Geräusche?
+
+232
+00:21:20,380 --> 00:21:24,380
+Ich glaube, so viel kann ich nicht bewegen, das tut mir weh.
+
+233
+00:21:24,380 --> 00:21:29,380
+Oder haben Sie diese Geräusche gehört?
+
+234
+00:21:29,380 --> 00:21:33,380
+Gehört, das war so schnell alles.
+
+235
+00:21:33,380 --> 00:21:43,470
+Ich bin aufgestanden und habe Schmerzen gehabt.
+
+236
+00:21:43,470 --> 00:21:54,360
+Wenn Sie uns erst anfangen, bitte.
+
+237
+00:21:54,360 --> 00:21:59,360
+Guten Tag Herr Oberarz.
+
+238
+00:21:59,360 --> 00:22:08,360
+Ich habe einen neuen Patient auf den Notfallaufnahmen aufgenommen.
+
+239
+00:22:08,360 --> 00:22:13,360
+Ich möchte ihn vorstellen.
+
+240
+00:22:13,360 --> 00:22:15,360
+Haben Sie kurz seid?
+
+241
+00:22:15,360 --> 00:22:17,360
+Ja, deswegen bin ich hier.
+
+242
+00:22:17,360 --> 00:22:30,360
+Herr Herbert Schöning, der 25-jährige Patient,
+
+243
+00:22:30,360 --> 00:22:47,360
+hat sich bei uns wegen eines Fahrradunfalls vorgestellt.
+
+244
+00:22:47,360 --> 00:23:07,360
+Ich habe beim Fahrradfahren ihr Kontroll verloren und gestürzt.
+
+245
+00:23:07,360 --> 00:23:15,360
+Er ist auf der rechten Hand und auf der Kopfseite gestürzt.
+
+246
+00:23:15,360 --> 00:23:36,360
+Er ist auf der rechten Hand und auf der Kopfseite gestürzt.
+
+247
+00:23:36,360 --> 00:23:54,360
+Er hat beim Fahrradfahren Kopfhölm getragen.
+
+248
+00:23:54,360 --> 00:24:04,360
+Er hat keine Beschwerden antropft, aber am rechten Handgelenk
+
+249
+00:24:04,360 --> 00:24:16,090
+wurde er geschwollen.
+
+250
+00:24:16,090 --> 00:24:31,090
+Er hat keine Erbrochen und hatte keine Übelkeit.
+
+251
+00:24:31,090 --> 00:24:47,090
+Er hat keine Erbrochen und hatte keine Übelkeit.
+
+252
+00:24:47,090 --> 00:25:00,090
+Vor Erkrankungen gab es nur eine Appendectomie mit Zähnen.
+
+253
+00:25:00,090 --> 00:25:09,090
+An der Familienanamnese fanden sich Brückhochdruck,
+
+254
+00:25:09,090 --> 00:25:15,090
+Arteelehypertonie,
+
+255
+00:25:45,090 --> 00:25:51,090
+An der Familienanamnese ist unaufwählich.
+
+256
+00:25:51,090 --> 00:25:58,090
+Der Patient nimmt keine Medikamente.
+
+257
+00:25:58,090 --> 00:26:18,090
+Er raucht seit 3 Jahren halbe Päckchen.
+
+258
+00:26:18,090 --> 00:26:24,090
+Alkoholkonsum liegt nicht vor und Drogenkonsum wurde verneint.
+
+259
+00:26:24,090 --> 00:26:41,090
+Der Patient leidet an Penicillinallergie, die mit Halsschwellen und Atomen, die Anaphylaxie,
+
+260
+00:26:41,090 --> 00:26:54,090
+und der Patient nimmt die Medikamente, aber kann nicht gut vertragen.
+
+261
+00:26:54,090 --> 00:27:14,090
+Er hat eine Magenschmerz.
+
+262
+00:27:14,090 --> 00:27:39,090
+Er ist gegen Kindheitserkrankungen geimpft.
+
+263
+00:27:39,090 --> 00:28:01,090
+Er hat gegen Corona nicht geimpft, aber genießen.
+
+264
+00:28:01,090 --> 00:28:29,400
+Er hat eine Tethanusimpfung vor 6 Jahren gemacht.
+
+265
+00:28:29,400 --> 00:28:55,880
+Er hat eine Parise oder Durchfutungsstörung, oder das habe ich nicht rausgehört.
+
+266
+00:28:55,880 --> 00:29:10,880
+Er hat nach Tauchheitsgefühl und Krebeln gefragt, aber die Frage wurde verneint.
+
+267
+00:29:10,880 --> 00:29:30,880
+Er hat eine Lebenserscheinung von Parise.
+
+268
+00:30:00,880 --> 00:30:15,880
+Er hat zwei Ebenen veranlassen.
+
+269
+00:30:15,880 --> 00:30:35,880
+Er hat auf das Handgeland gefallen und auf den Kopf geplaten.
+
+270
+00:30:35,880 --> 00:30:55,880
+Er hat keine Beschwerden.
+
+271
+00:30:55,880 --> 00:31:17,880
+Er hat keine Beschwerden.
+
+272
+00:31:17,880 --> 00:31:39,880
+Er hat eine Atmnesie.
+
+273
+00:32:09,880 --> 00:32:38,880
+Er hat eine Atmnesie.
+
+274
+00:32:39,880 --> 00:33:05,880
+Er hat eine Stationärkontrolle.
+
+275
+00:33:05,880 --> 00:33:34,880
+Er hat eine Stationärkontrolle.
+
+276
+00:33:35,880 --> 00:34:04,880
+Er hat eine Stationärkontrolle.
+
+277
+00:34:05,880 --> 00:34:34,880
+Er hat eine Stationärkontrolle.
+
+278
+00:34:35,880 --> 00:34:57,880
+Er hat eine Stationärkontrolle.
+
+279
+00:34:57,880 --> 00:35:17,610
+Er hat keine Atmnesie.
+
+280
+00:35:17,610 --> 00:35:39,610
+Er hat eine Stationärkontrolle.
+
+281
+00:35:39,610 --> 00:36:01,610
+Er hat eine Stationärkontrolle.
+
+282
+00:36:01,610 --> 00:36:30,610
+Er hat eine Stationärkontrolle.
+
+283
+00:36:31,610 --> 00:37:00,610
+Er hat eine Stationärkontrolle.
+
+284
+00:37:01,610 --> 00:37:30,610
+Er hat eine Stationärkontrolle.
+
+285
+00:37:31,610 --> 00:37:55,340
+Er hat eine Stationärkontrolle.
+
+286
+00:37:55,340 --> 00:38:17,340
+Er hat eine Stationärkontrolle.
+
+287
+00:38:17,340 --> 00:38:48,770
+Er hat eine Stationärkontrolle.
+
+288
+00:38:49,770 --> 00:39:09,770
+Er hat eine Stationärkontrolle.
+
+289
+00:39:09,770 --> 00:39:31,770
+Er hat eine Stationärkontrolle.
+
+290
+00:39:31,770 --> 00:40:00,770
+Er hat eine Stationärkontrolle.
+
+291
+00:40:01,770 --> 00:40:36,530
+Er hat eine Stationärkontrolle.
+
+292
+00:40:37,530 --> 00:41:08,640
+Er hat eine Stationärkontrolle.
+
+293
+00:41:09,640 --> 00:41:29,640
+Er hat eine Stationärkontrolle.
+
+294
+00:41:29,640 --> 00:41:58,640
+Er hat eine Stationärkontrolle.
+
+295
+00:41:59,640 --> 00:42:27,590
+Er hat eine Stationärkontrolle.
+
+296
+00:42:27,590 --> 00:42:58,640
+Er hat eine Stationärkontrolle.
+
+297
+00:42:59,640 --> 00:43:21,640
+Er hat eine Stationärkontrolle.
+
+298
+00:43:21,640 --> 00:43:47,640
+Er hat eine Stationärkontrolle.
+
+299
+00:43:47,640 --> 00:44:07,860
+Er hat eine Stationärkontrolle.

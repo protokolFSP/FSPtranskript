@@ -1,0 +1,1731 @@
+1
+00:00:00,530 --> 00:00:13,530
+Ich bin hier zuständige Assistenz, mit ihnen werde ich das Annamnese-Gespräch führen.
+
+2
+00:00:13,530 --> 00:00:18,530
+Bevor wir über ihre aktuelle Beschwerden sprechen, möchte ich ein paar Algemeine fragen.
+
+3
+00:00:18,530 --> 00:00:20,530
+Sind Sie damit ein Verstandener?
+
+4
+00:00:20,530 --> 00:00:21,530
+Ja.
+
+5
+00:00:21,530 --> 00:00:22,530
+Okay.
+
+6
+00:00:22,530 --> 00:00:24,530
+Wie heißen Sie?
+
+7
+00:00:24,530 --> 00:00:26,530
+Mein Name ist Olaf Schmidt.
+
+8
+00:00:26,530 --> 00:00:28,530
+Olaf Schmidt.
+
+9
+00:00:28,530 --> 00:00:35,610
+Ist Ihre Nachname mit Date oder Double Tea?
+
+10
+00:00:35,610 --> 00:00:37,610
+Double Tea.
+
+11
+00:00:37,610 --> 00:00:38,610
+Double Tea.
+
+12
+00:00:38,610 --> 00:00:41,610
+Okay. Herr Schmidt.
+
+13
+00:00:41,610 --> 00:00:42,610
+Okay.
+
+14
+00:00:42,610 --> 00:00:44,610
+Wie alt sind Sie?
+
+15
+00:00:44,610 --> 00:00:46,610
+Ja, ich bin 75 Jahre alt.
+
+16
+00:00:46,610 --> 00:00:48,610
+75.
+
+17
+00:00:48,610 --> 00:00:50,610
+Okay.
+
+18
+00:00:50,610 --> 00:00:52,610
+Wann sind Sie genau geboren?
+
+19
+00:00:52,610 --> 00:00:56,610
+Am 2.02.1947.
+
+20
+00:00:56,610 --> 00:00:59,610
+1947.
+
+21
+00:00:59,610 --> 00:01:01,610
+1947.
+
+22
+00:01:01,610 --> 00:01:03,610
+Ja, genau.
+
+23
+00:01:03,610 --> 00:01:05,610
+Okay.
+
+24
+00:01:05,610 --> 00:01:08,610
+Wie groß sind Sie und wie viel wegen Sie?
+
+25
+00:01:08,610 --> 00:01:13,610
+Ich bin 1,75 Meter groß und wiegt 82 kg.
+
+26
+00:01:13,610 --> 00:01:15,610
+82 kg.
+
+27
+00:01:15,610 --> 00:01:17,610
+82.
+
+28
+00:01:17,610 --> 00:01:19,610
+Okay.
+
+29
+00:01:19,610 --> 00:01:20,610
+Okay.
+
+30
+00:01:20,610 --> 00:01:23,610
+Herr Schmidt, was führt Sie zu uns?
+
+31
+00:01:23,610 --> 00:01:27,610
+Ich habe seit drei Wochen Schmerzen im rechten Kniegelenk.
+
+32
+00:01:27,610 --> 00:01:31,610
+Ich bin mit meiner Frau wandern gegangen, lange Strecke gelaufen.
+
+33
+00:01:31,610 --> 00:01:34,610
+Dann habe ich gemerkt, dass mein reches Knie weh tut.
+
+34
+00:01:34,610 --> 00:01:38,610
+Und dieser Schmerz im rechten Kniegelenk, die nimmt immer mehr zu.
+
+35
+00:01:38,610 --> 00:01:40,610
+Immer zu.
+
+36
+00:01:40,610 --> 00:01:42,610
+Das ist ein zunehmender Schmerz.
+
+37
+00:01:42,610 --> 00:01:45,610
+Nein, wenn die Schmerzen da sind.
+
+38
+00:01:45,610 --> 00:01:47,610
+Okay.
+
+39
+00:01:47,610 --> 00:01:49,610
+Sind Sie gestürzt?
+
+40
+00:01:49,610 --> 00:01:51,610
+Nein.
+
+41
+00:01:51,610 --> 00:01:53,610
+Ich habe keinen Unfall gehabt.
+
+42
+00:01:53,610 --> 00:01:54,610
+Okay.
+
+43
+00:01:54,610 --> 00:01:57,610
+Ich bin gestürzt.
+
+44
+00:01:57,610 --> 00:02:00,610
+Wir sind nur spazierengegangen, lange Strecke.
+
+45
+00:02:00,610 --> 00:02:02,610
+Nein, nach Wandern.
+
+46
+00:02:02,610 --> 00:02:04,610
+Sie kommen mit Ihren Schmerzen.
+
+47
+00:02:04,610 --> 00:02:06,610
+Okay.
+
+48
+00:02:06,610 --> 00:02:10,610
+Wie stark sind Ihre Schmerzen auf einer Schmerzskala von 0 bis 10,
+
+49
+00:02:10,610 --> 00:02:16,610
+wenn 0 ist keine Schmerzen und 10 sehr starke Schmerzen meint?
+
+50
+00:02:16,610 --> 00:02:19,610
+Ich würde sagen 7.
+
+51
+00:02:19,610 --> 00:02:21,610
+7.
+
+52
+00:02:21,610 --> 00:02:26,610
+Sind Ihre Schmerzen dauerhaft oder willen für mich?
+
+53
+00:02:26,610 --> 00:02:29,610
+Ich würde sagen belastungsabhängig.
+
+54
+00:02:29,610 --> 00:02:33,610
+Wenn ich nicht viel tue, wenn ich sitze, schlafe, habe ich keinen Schmerzen.
+
+55
+00:02:33,610 --> 00:02:39,610
+Nur wenn ich Lauf, Treppen laufen möchte oder längere Strecke gehe,
+
+56
+00:02:39,610 --> 00:02:41,610
+dann habe ich Schmerzen im rechten Kniegelenk.
+
+57
+00:02:41,610 --> 00:02:43,610
+Okay, verstanden.
+
+58
+00:02:43,610 --> 00:02:47,610
+Sind Ihre Schmerzen plötzlich begonnen?
+
+59
+00:02:47,610 --> 00:02:49,610
+Nein, langsam.
+
+60
+00:02:49,610 --> 00:02:53,610
+Vor drei Wochen nach dem Spaziergang,
+
+61
+00:02:53,610 --> 00:02:55,610
+hat es begonnen nach dem Spaziergang.
+
+62
+00:02:55,610 --> 00:02:58,610
+Und jetzt immer mehr, immer mehr,
+
+63
+00:02:58,610 --> 00:03:01,610
+immer stärker auf die Schmerzen.
+
+64
+00:03:01,610 --> 00:03:14,610
+Ich würde sagen, wie ein Messer stehe ich.
+
+65
+00:03:14,610 --> 00:03:28,290
+Sind Ihre Schmerzen in anderen Körperregionen aus?
+
+66
+00:03:28,290 --> 00:03:31,290
+Ja, vielleicht in meinen Unterschenkeln.
+
+67
+00:03:31,290 --> 00:03:36,290
+Und vom Knie zu meiner Warte oder unterschenken.
+
+68
+00:03:36,290 --> 00:03:40,290
+Unterschenken, verstanden.
+
+69
+00:03:41,290 --> 00:03:49,290
+Okay, jetzt gibt es eine Auslöser für Ihre Schmerzen.
+
+70
+00:03:49,290 --> 00:03:53,290
+Auslöser, dass die Spazierungen gehen.
+
+71
+00:03:53,290 --> 00:03:56,290
+Ja, genau.
+
+72
+00:03:56,290 --> 00:04:02,290
+Okay, gibt es etwas, das Ihre Schmerzen verstärkt?
+
+73
+00:04:02,290 --> 00:04:04,290
+Verstärkt oder lindert?
+
+74
+00:04:04,290 --> 00:04:07,290
+Verstärkt ist, wenn ich spazieren gehe,
+
+75
+00:04:07,290 --> 00:04:11,290
+ich lege die Belastung und lindere die Schmerzen.
+
+76
+00:04:11,290 --> 00:04:14,290
+Wenn ich es kühle, zum Beispiel.
+
+77
+00:04:14,290 --> 00:04:17,290
+Oder in den Schmerzmittel einnehme.
+
+78
+00:04:17,290 --> 00:04:21,290
+Nehmen Sie dagegen irgendwelche Medikamente?
+
+79
+00:04:21,290 --> 00:04:24,290
+Ja, ich habe zu Hause Ibuprofen.
+
+80
+00:04:24,290 --> 00:04:26,290
+Ibuprofen, wie viel Milligramm?
+
+81
+00:04:26,290 --> 00:04:29,290
+400 Milligramm habe ich zu Hause.
+
+82
+00:04:29,290 --> 00:04:32,290
+19 Jahre, jetzt habe ich dich.
+
+83
+00:04:32,290 --> 00:04:34,290
+Ich habe 400 Milligramm.
+
+84
+00:04:34,290 --> 00:04:37,290
+Wenn Sie sich schmerzen, dann nehme ich die ein.
+
+85
+00:04:37,290 --> 00:04:43,290
+Hat Ibuprofen Ihnen geholfen?
+
+86
+00:04:43,290 --> 00:04:46,290
+Ja, ein bisschen.
+
+87
+00:04:46,290 --> 00:04:50,290
+Nicht viel, aber ein bisschen lindert.
+
+88
+00:04:50,290 --> 00:04:53,290
+Meine lindert ein bisschen, leichte Schmerzen.
+
+89
+00:04:53,290 --> 00:04:55,290
+Ja, verstanden.
+
+90
+00:04:55,290 --> 00:04:57,290
+Sie sind nicht weg.
+
+91
+00:04:57,290 --> 00:05:00,290
+Ja, genau.
+
+92
+00:05:00,290 --> 00:05:08,290
+Ja, gibt es Fieber oder füllen Sie sich fieberich an Ihrer betroffenen Knie?
+
+93
+00:05:08,290 --> 00:05:12,290
+Fieberik, nein, Fieber habe ich nicht.
+
+94
+00:05:12,290 --> 00:05:15,290
+Wärmegefühl habe ich manchmal.
+
+95
+00:05:15,290 --> 00:05:17,290
+Haben Sie das bemerkt?
+
+96
+00:05:17,290 --> 00:05:20,290
+Manchmal, aber nicht immer.
+
+97
+00:05:20,290 --> 00:05:28,290
+Okay, ist Ihre betroffene Knie geschwollen?
+
+98
+00:05:28,290 --> 00:05:31,290
+Nein, ich würde nicht so sagen.
+
+99
+00:05:31,290 --> 00:05:35,290
+Ein bisschen, aber eigentlich nicht so.
+
+100
+00:05:35,290 --> 00:05:41,290
+Können Sie Ihre Beine stecken?
+
+101
+00:05:41,290 --> 00:05:45,290
+Beugen ist eingeschränkt.
+
+102
+00:05:45,290 --> 00:05:50,290
+Meine linke Seite kann ich besser beugen aus der rechten Seite.
+
+103
+00:05:50,290 --> 00:05:54,290
+Die ist endgradig eingeschränkt.
+
+104
+00:05:54,290 --> 00:05:56,290
+Die Beugung.
+
+105
+00:05:56,290 --> 00:05:59,290
+Strecken geht.
+
+106
+00:05:59,290 --> 00:06:04,290
+Okay, Herr Schmidt, haben Sie Fieber?
+
+107
+00:06:04,290 --> 00:06:07,290
+Fieber habe ich nicht.
+
+108
+00:06:07,290 --> 00:06:09,290
+Kusten Sie?
+
+109
+00:06:09,290 --> 00:06:12,700
+Nein.
+
+110
+00:06:12,700 --> 00:06:15,700
+Ist Ihnen schwindelig?
+
+111
+00:06:15,700 --> 00:06:17,700
+Nein.
+
+112
+00:06:17,700 --> 00:06:21,700
+Ist Ihnen übel?
+
+113
+00:06:21,700 --> 00:06:24,700
+Übelkeit habe ich auch nicht.
+
+114
+00:06:24,700 --> 00:06:28,700
+Die Fragen sind über Ihre aktuelle Zustand.
+
+115
+00:06:28,700 --> 00:06:32,700
+Deswegen stelle ich diese Frage.
+
+116
+00:06:32,700 --> 00:06:36,700
+Wie ist Ihr Appatit?
+
+117
+00:06:36,700 --> 00:06:39,700
+Normal.
+
+118
+00:06:39,700 --> 00:06:43,700
+Haben Sie in der letzten Zeit ungewöhnlich abgenommen?
+
+119
+00:06:43,700 --> 00:06:46,700
+Nein, nichts Besonderes.
+
+120
+00:06:46,700 --> 00:06:48,700
+Okay.
+
+121
+00:06:48,700 --> 00:06:51,700
+Rast, Ihr Herz?
+
+122
+00:06:51,700 --> 00:06:53,700
+Nein.
+
+123
+00:06:53,700 --> 00:06:56,700
+Haben Sie Herzklopfen?
+
+124
+00:06:56,700 --> 00:06:59,700
+Nur wenn ich meine Frau sehe jeden Tag.
+
+125
+00:06:59,700 --> 00:07:02,700
+Ja, Sie verlieben Ihre Frau.
+
+126
+00:07:02,700 --> 00:07:06,700
+Natürlich, wir leben ja seit Jahren zusammen.
+
+127
+00:07:06,700 --> 00:07:09,700
+Okay.
+
+128
+00:07:09,700 --> 00:07:13,700
+Herr Schmidt, haben Sie krönliche Erkrankungen,
+
+129
+00:07:13,700 --> 00:07:16,700
+von denen ich wissen sollte?
+
+130
+00:07:16,700 --> 00:07:20,700
+Ja, ich nehme Medikamente wegen Bluthochdruck.
+
+131
+00:07:20,700 --> 00:07:24,700
+Seit wann leiden Sie daran?
+
+132
+00:07:24,700 --> 00:07:27,700
+Seit 15 Jahren.
+
+133
+00:07:27,700 --> 00:07:31,700
+Welche Medikamente nehmen Sie dagegen?
+
+134
+00:07:31,700 --> 00:07:34,700
+Am April, 10 Jahre.
+
+135
+00:07:34,700 --> 00:07:38,700
+Ja, ich nehme Medikamente wegen Bluthochdruck.
+
+136
+00:07:38,700 --> 00:07:41,700
+Ja, ich nehme Medikamente wegen Bluthochdruck.
+
+137
+00:07:41,700 --> 00:07:44,700
+Und wie lange nehmen Sie dagegen?
+
+138
+00:07:44,700 --> 00:07:47,700
+Am April, 10 Milligramm.
+
+139
+00:07:47,700 --> 00:07:50,700
+Täglich 2 Tage.
+
+140
+00:07:50,700 --> 00:07:53,700
+Ja, morgens, abends.
+
+141
+00:07:53,700 --> 00:07:56,700
+Okay.
+
+142
+00:07:56,700 --> 00:08:00,700
+Haben Sie ansonsten krönliche Erkrankungen?
+
+143
+00:08:00,700 --> 00:08:03,700
+Der Arzt hat mir noch,
+
+144
+00:08:03,700 --> 00:08:06,700
+wie meine Cholesterie noch in Medikamente gegeben.
+
+145
+00:08:06,700 --> 00:08:09,700
+Ich nehme 20 Milligramm, abends eine.
+
+146
+00:08:09,700 --> 00:08:12,700
+Abends eine.
+
+147
+00:08:12,700 --> 00:08:17,840
+Ansonsten nehme ich keine Medikamente ein.
+
+148
+00:08:17,840 --> 00:08:20,840
+Okay, ein Verstand.
+
+149
+00:08:20,840 --> 00:08:23,840
+Wurden Sie schon einmal operiert?
+
+150
+00:08:23,840 --> 00:08:27,840
+Ja, ich hatte mal ein Außenknöschelbruch.
+
+151
+00:08:27,840 --> 00:08:32,120
+Wie bitte?
+
+152
+00:08:32,120 --> 00:08:35,120
+Könnten Sie bitte wiederholen?
+
+153
+00:08:35,120 --> 00:08:39,120
+Ich hatte mal in meinem Sprunggelenk
+
+154
+00:08:39,120 --> 00:08:42,120
+einen Außenknöschelbruch gehabt.
+
+155
+00:08:42,120 --> 00:08:45,120
+Okay.
+
+156
+00:08:45,120 --> 00:08:48,120
+Wann wurden Sie operiert?
+
+157
+00:08:48,120 --> 00:08:51,120
+Das war vor 40 Jahren.
+
+158
+00:08:51,120 --> 00:08:58,410
+40 Jahre. Okay.
+
+159
+00:08:58,410 --> 00:09:01,410
+Aber haben Sie keine Konflikation?
+
+160
+00:09:01,410 --> 00:09:04,410
+Nein, das war alles gut verheilt.
+
+161
+00:09:04,410 --> 00:09:07,410
+Okay.
+
+162
+00:09:07,410 --> 00:09:10,410
+Ich habe noch ein paar Prüfen.
+
+163
+00:09:10,410 --> 00:09:13,410
+Haben Sie noch,
+
+164
+00:09:13,410 --> 00:09:16,410
+oder wurden Sie schon einmal operiert?
+
+165
+00:09:16,410 --> 00:09:19,410
+Weiter nicht. Das war die einzige OP, die ich jetzt hatte.
+
+166
+00:09:19,410 --> 00:09:22,410
+Okay.
+
+167
+00:09:22,410 --> 00:09:25,410
+Herr Schimmitz,
+
+168
+00:09:25,410 --> 00:09:28,410
+nehmen Sie regelmäßig
+
+169
+00:09:28,410 --> 00:09:31,410
+unser Ramipril und Simvastatin und Ibuprofen.
+
+170
+00:09:31,410 --> 00:09:34,410
+Andere Medikamente ein?
+
+171
+00:09:34,410 --> 00:09:37,410
+Nein.
+
+172
+00:09:37,410 --> 00:09:41,410
+Herr Schimmitz, reagieren Sie auf bestimmte Nahrungsmittel
+
+173
+00:09:41,410 --> 00:09:44,410
+oder Medikamente allergisch?
+
+174
+00:09:44,410 --> 00:09:47,410
+Allergisch, ja.
+
+175
+00:09:47,410 --> 00:09:50,410
+Ich darf kein Penicillin einnehmen.
+
+176
+00:09:50,410 --> 00:09:53,410
+Hatte ich mal früher eingenommen, weiß ich nicht warum.
+
+177
+00:09:53,410 --> 00:09:56,410
+Und da hatte ich mal einen Atemnot gehabt.
+
+178
+00:09:56,410 --> 00:09:59,410
+Und deswegen nehme ich das nicht mehr ein.
+
+179
+00:09:59,410 --> 00:10:02,410
+Ja, Penicillin ist eine Antibiotik.
+
+180
+00:10:02,410 --> 00:10:05,410
+Ja.
+
+181
+00:10:05,410 --> 00:10:08,410
+Okay.
+
+182
+00:10:08,410 --> 00:10:11,410
+Haben Sie Unverträglichkeit gegenüber jetzt was?
+
+183
+00:10:11,410 --> 00:10:14,410
+Ich hatte mal die Klophenac eingenommen gehabt.
+
+184
+00:10:14,410 --> 00:10:17,410
+Und da hatte ich Magen-Schmerzen bekommen.
+
+185
+00:10:17,410 --> 00:10:20,410
+Da habe ich nicht gut vertragen.
+
+186
+00:10:20,410 --> 00:10:23,410
+Magen-Schmerzen macht das.
+
+187
+00:10:23,410 --> 00:10:26,410
+Chemf-Magen-Schmerzen, ja.
+
+188
+00:10:26,410 --> 00:10:29,410
+Und Durchfall.
+
+189
+00:10:29,410 --> 00:10:32,410
+Herr Schimmitz, haben alle Gurundimpfungen Anhaltungen?
+
+190
+00:10:32,410 --> 00:10:38,410
+Also, wenn Sie jetzt aktuell wegen dem Corona-Gesicht,
+
+191
+00:10:38,410 --> 00:10:41,410
+da habe ich alle Impfungen hinter mir.
+
+192
+00:10:41,410 --> 00:10:44,410
+Kinderimpfungen.
+
+193
+00:10:44,410 --> 00:10:47,410
+Ich denke schon, weiß ich nicht mehr.
+
+194
+00:10:47,410 --> 00:10:50,410
+Das war damals nicht alles irgendwie,
+
+195
+00:10:50,410 --> 00:10:53,410
+da hat sich kein Ausweis von meinen Eltern bekommen.
+
+196
+00:10:53,410 --> 00:10:56,410
+Haben Sie Impfungen dabei?
+
+197
+00:10:56,410 --> 00:11:00,410
+Ja, ich habe jetzt einen Ausweis, der seit 20 Jahren gültig ist.
+
+198
+00:11:00,410 --> 00:11:03,410
+Da bin ich gegen Tetanus geimpft.
+
+199
+00:11:03,410 --> 00:11:07,410
+Einige Sachen, aber die Kinderimpfungen weiß ich nicht, ob ich alle hatte.
+
+200
+00:11:07,410 --> 00:11:10,410
+Okay, einfach.
+
+201
+00:11:10,410 --> 00:11:12,410
+Okay.
+
+202
+00:11:12,410 --> 00:11:15,410
+Waren Sie in der SIP-Welt?
+
+203
+00:11:15,410 --> 00:11:18,410
+Die kindliche Impfungen sind unklar.
+
+204
+00:11:18,410 --> 00:11:21,410
+Ich denke schon, aber weiß ich nicht.
+
+205
+00:11:21,410 --> 00:11:24,410
+Waren Sie in der letzten Zeit im Ausland?
+
+206
+00:11:24,410 --> 00:11:27,410
+In letzter Zeit in Ausland, nee.
+
+207
+00:11:27,410 --> 00:11:31,410
+In den letzten zwei Jahren Corona, da verlassen sich Deutschland nicht.
+
+208
+00:11:31,410 --> 00:11:35,410
+Ja, wir sind auch immer noch immer in Deutschland.
+
+209
+00:11:35,410 --> 00:11:38,410
+Rauchen Sie?
+
+210
+00:11:38,410 --> 00:11:41,410
+Rauchen, nein.
+
+211
+00:11:41,410 --> 00:11:44,410
+Haben Sie früher geraucht?
+
+212
+00:11:44,410 --> 00:11:46,410
+Nee.
+
+213
+00:11:46,410 --> 00:11:49,410
+Okay, trinken Sie Alkohol?
+
+214
+00:11:49,410 --> 00:11:52,410
+Ja, so ein klasse Weinabend zum Essen, trinke ich schon, ja.
+
+215
+00:11:52,410 --> 00:11:55,410
+Trinken Sie täglich, ein oder zweimal?
+
+216
+00:11:55,410 --> 00:11:58,410
+Täglicher nicht, ich würde sagen,
+
+217
+00:11:58,410 --> 00:12:01,410
+zwei, drei Mal im Woche.
+
+218
+00:12:01,410 --> 00:12:04,410
+Nicht jeden Abend, aber kündig mir abends mal.
+
+219
+00:12:04,410 --> 00:12:07,410
+Trinken Sie besonders Wein, oder?
+
+220
+00:12:07,410 --> 00:12:10,410
+Ja, ich trinke es, ich trinke es, ich trinke es.
+
+221
+00:12:10,410 --> 00:12:13,410
+Ich trinke es, ich trinke es, ich trinke es.
+
+222
+00:12:13,410 --> 00:12:16,410
+Trinken Sie besonders Wein, oder?
+
+223
+00:12:16,410 --> 00:12:19,410
+Ja, ein Glas Wein, also auch nicht viel.
+
+224
+00:12:19,410 --> 00:12:26,410
+Okay, Herr Schmidt, Sie sind über 70 Jahre alt,
+
+225
+00:12:26,410 --> 00:12:31,410
+aber ich muss fragen, nehmen Sie Drogen?
+
+226
+00:12:31,410 --> 00:12:37,410
+Nein, ich weiß noch nicht mal, wie Drogen geschrieben wird.
+
+227
+00:12:37,410 --> 00:12:40,410
+Alles klar.
+
+228
+00:12:40,410 --> 00:12:48,940
+Okay, Herr Schmidt, leben Ihre Eltern noch?
+
+229
+00:12:48,940 --> 00:12:50,940
+Nein.
+
+230
+00:12:50,940 --> 00:12:54,940
+Woran sind Ihre Eltern gestorben?
+
+231
+00:12:54,940 --> 00:12:58,940
+Mein Vater, der ist im Krieg verstorben.
+
+232
+00:12:58,940 --> 00:13:01,940
+Und Krieg.
+
+233
+00:13:01,940 --> 00:13:03,940
+Krieg, ah ja, okay.
+
+234
+00:13:03,940 --> 00:13:06,940
+Im Moment geben Sie nicht Krieg,
+
+235
+00:13:06,940 --> 00:13:11,940
+natürlich, das war 47 Jahre alt, der war im Krieg verletzt
+
+236
+00:13:11,940 --> 00:13:14,940
+und an seiner Verletzung war er verstorben.
+
+237
+00:13:14,940 --> 00:13:19,940
+Da war ich ein kleines Kind, also ich kenne meinen Vater nicht.
+
+238
+00:13:19,940 --> 00:13:21,940
+Ja.
+
+239
+00:13:21,940 --> 00:13:29,940
+Und meine Mutter, die ist, weiß ich nicht, die war 80 Jahre alt
+
+240
+00:13:29,940 --> 00:13:33,940
+und altersbedingt, denke ich, Herzinfarkt,
+
+241
+00:13:33,940 --> 00:13:35,940
+weiß ich nicht, was da war.
+
+242
+00:13:35,940 --> 00:13:37,940
+Ja, okay.
+
+243
+00:13:37,940 --> 00:13:39,940
+Wahrscheinlich Herzinfarkt.
+
+244
+00:13:39,940 --> 00:13:42,940
+Sind Sie einst, Liebkind?
+
+245
+00:13:42,940 --> 00:13:47,940
+Ich habe noch einen Bruder.
+
+246
+00:13:47,940 --> 00:13:50,940
+Lebt Ihr Bruder noch?
+
+247
+00:13:50,940 --> 00:13:53,940
+Nee, der lebt nicht mehr.
+
+248
+00:13:53,940 --> 00:13:55,940
+Wissen Sie?
+
+249
+00:13:55,940 --> 00:13:59,940
+Ja, der hatte einen Krebserkrankung gehabt.
+
+250
+00:13:59,940 --> 00:14:00,940
+Krebserkrankung.
+
+251
+00:14:00,940 --> 00:14:06,180
+Lungenkrebs.
+
+252
+00:14:06,180 --> 00:14:10,680
+Ja, ich habe auch ein Krebserkrankung gehabt.
+
+253
+00:14:10,680 --> 00:14:12,680
+Ja, leider.
+
+254
+00:14:12,680 --> 00:14:17,680
+Okay, Sie haben gesagt, dass Sie verheiratet sind.
+
+255
+00:14:17,680 --> 00:14:20,680
+Ich bin verheiratet, ja.
+
+256
+00:14:20,680 --> 00:14:25,680
+Ja, und ja, haben Sie Kinder?
+
+257
+00:14:25,680 --> 00:14:29,680
+Ja, ich habe zwei Kinder, ein Sohn und eine Tochter.
+
+258
+00:14:29,680 --> 00:14:33,680
+Ja, sind Ihre Kinder auch gesund?
+
+259
+00:14:33,680 --> 00:14:39,250
+Ja, ich weiß schon, der Sohn ist ein bisschen übergewichtig.
+
+260
+00:14:39,250 --> 00:14:45,250
+Aber ich weiß nicht, dass er Medikamente eignet.
+
+261
+00:14:45,250 --> 00:14:48,250
+Ich denke, dass die beide gesund sind.
+
+262
+00:14:48,250 --> 00:14:52,250
+Sie leben mit Ihrer Frau?
+
+263
+00:14:52,250 --> 00:14:55,590
+Mit meiner Frau zusammengenommen.
+
+264
+00:14:55,590 --> 00:14:57,590
+Meine Kinder wohnen nicht mehr im Haus.
+
+265
+00:14:57,590 --> 00:15:00,590
+Sie sind selbst verheiratet und leben anders.
+
+266
+00:15:00,590 --> 00:15:03,590
+Ja, okay.
+
+267
+00:15:03,590 --> 00:15:06,590
+Sind Sie im Rentner?
+
+268
+00:15:06,590 --> 00:15:13,780
+Ja, genau, ich bin Rentner.
+
+269
+00:15:13,780 --> 00:15:23,780
+Können Sie oder konnten Sie vor der Schmerzen regelmäßig Sport treiben?
+
+270
+00:15:23,780 --> 00:15:28,780
+Nein, ich verheirate mit meiner Frau und wir gehen spazieren.
+
+271
+00:15:28,780 --> 00:15:31,780
+Wir reisen gerne.
+
+272
+00:15:31,780 --> 00:15:36,780
+Ich mache keine regelmäßige Sport wie Tennis oder Fußball.
+
+273
+00:15:36,780 --> 00:15:39,780
+Wir gehen gerne spazieren.
+
+274
+00:15:39,780 --> 00:15:42,780
+Ab und zu gehen wir auch stimmen.
+
+275
+00:15:42,780 --> 00:15:50,780
+Früher hatten Sie ähnliche Beschwerden.
+
+276
+00:15:50,780 --> 00:15:53,780
+Nicht, dass ich mich erinnern kann.
+
+277
+00:15:53,780 --> 00:16:00,780
+Herr Schmidt, ich möchte für Sie kurz zusammenfassen.
+
+278
+00:16:00,780 --> 00:16:10,780
+Sie haben seit drei Wochen am rechten Knie Schmerzen.
+
+279
+00:16:10,780 --> 00:16:13,780
+Sie sind im Moment.
+
+280
+00:16:13,780 --> 00:16:22,780
+Und bei der Belastung sind sich ihre Schmerzen verschlimmert.
+
+281
+00:16:22,780 --> 00:16:26,780
+Vielleicht noch mal neu, ich habe es nicht verstanden.
+
+282
+00:16:26,780 --> 00:16:34,780
+Beide Belastung sind ihre Schmerzen schlimmert.
+
+283
+00:16:34,780 --> 00:16:36,780
+Genau.
+
+284
+00:16:36,780 --> 00:16:42,780
+Man kann auch sagen, die Schmerzen sind belastungsabhängig.
+
+285
+00:16:42,780 --> 00:16:52,780
+Sie haben, okay, Sie nehmen bei Bedarf Ibuprofen 400 mg ein.
+
+286
+00:16:53,780 --> 00:16:56,780
+Es heißt ihnen.
+
+287
+00:16:56,780 --> 00:17:00,780
+Müssen Sie etwas hinzufügen?
+
+288
+00:17:00,780 --> 00:17:06,780
+Nein, sind Sie fertig?
+
+289
+00:17:06,780 --> 00:17:14,780
+Ja, von meiner Seite habe ich alle wichtige Fragen gestellt.
+
+290
+00:17:14,780 --> 00:17:16,780
+Okay.
+
+291
+00:17:16,780 --> 00:17:25,140
+Wie geht es jetzt weiter, Frau Doktor?
+
+292
+00:17:25,140 --> 00:17:31,140
+Zuerst werden wir sie körperlich untersuchen.
+
+293
+00:17:31,140 --> 00:17:44,140
+Beide Untersuchungen werden wir ihre Bewegung kontrollieren.
+
+294
+00:17:44,140 --> 00:17:54,140
+Ich werde Sie für Ihre Bewegung veranlassen.
+
+295
+00:17:54,140 --> 00:18:04,140
+Ich werde Sie für Ihre Bewegung kontrollieren.
+
+296
+00:18:04,140 --> 00:18:09,140
+Sie haben eine Magnetresonanstomografie.
+
+297
+00:18:09,140 --> 00:18:11,140
+Was ist das?
+
+298
+00:18:11,140 --> 00:18:14,140
+Das ist Bildgebändesverfahren.
+
+299
+00:18:14,140 --> 00:18:18,140
+Es ist schmerzlos und strahlenfrei.
+
+300
+00:18:18,140 --> 00:18:32,140
+Für diesen Verfahren brauchen wir keine Vorbereitung.
+
+301
+00:18:32,140 --> 00:18:37,140
+Es dauert maximal 20 Minuten.
+
+302
+00:18:37,140 --> 00:18:50,140
+Wir können eine klinische Anatomie und eine pathologische Befunde beurteilen.
+
+303
+00:18:50,140 --> 00:18:52,140
+Okay.
+
+304
+00:18:52,140 --> 00:18:55,140
+Frau Doktor, was denken Sie, was ich haben könnte?
+
+305
+00:18:55,140 --> 00:18:57,140
+Natürlich müssen Sie erst untersuchen usw.
+
+306
+00:18:57,140 --> 00:18:59,140
+Was ist Ihre Meinung?
+
+307
+00:18:59,140 --> 00:19:01,140
+Was könnte ich haben?
+
+308
+00:19:01,140 --> 00:19:11,140
+Meine Meinung nach haben Sie weichte Gewebeverletzungen.
+
+309
+00:19:11,140 --> 00:19:16,140
+Wegen dieser Verletzungen haben Sie Knischmerzen.
+
+310
+00:19:16,140 --> 00:19:23,140
+Sie können nicht gut beugen und nicht gut flach liegen.
+
+311
+00:19:23,140 --> 00:19:26,550
+Okay.
+
+312
+00:19:26,550 --> 00:19:29,550
+Okay, dann schauen wir, wie es dann weitergeht.
+
+313
+00:19:29,550 --> 00:19:39,550
+Nach der Besprechung mit meinem Oberarzt werde ich wiederkommen.
+
+314
+00:19:39,550 --> 00:19:41,550
+Ich erkläre alles.
+
+315
+00:19:41,550 --> 00:19:44,550
+Okay, danke.
+
+316
+00:19:44,550 --> 00:19:46,550
+Bitte schön.
+
+317
+00:19:46,550 --> 00:19:48,550
+Bitte.
+
+318
+00:19:48,550 --> 00:19:50,550
+Bitte.
+
+319
+00:19:51,550 --> 00:19:56,550
+Bitte.
+
+320
+00:19:56,550 --> 00:19:59,550
+Bitte.
+
+321
+00:20:05,550 --> 00:20:11,550
+Meine Fuß nicht, meine Knie tut weh.
+
+322
+00:20:11,550 --> 00:20:14,550
+Das könnte 5 k m laufen.
+
+323
+00:20:14,550 --> 00:20:16,550
+Ich könnte auch 2 km laufen, aber es tut mehr weh.
+
+324
+00:20:16,550 --> 00:20:18,810
+concerns THIS
+
+325
+00:20:20,550 --> 00:20:28,550
+fühlen Sie sich taupaus gefühlt mit Empfindung und Kraftverlust mit oder ohne Schmerzen.
+
+326
+00:20:28,550 --> 00:20:31,550
+Die nochmal bitte habe ich nicht verstanden akustisch.
+
+327
+00:20:31,550 --> 00:20:41,550
+fühlen Sie sich taupaus gefühlt mit Empfindung, Kraftverlust mit oder ohne Schmerzen.
+
+328
+00:20:41,550 --> 00:21:02,550
+fühlen Sie sich taupaus gefühlt mit Empfindung und Kraftverlust mit oder ohne Schmerzen.
+
+329
+00:21:09,470 --> 00:21:14,470
+Haben Sie Hautverfärbungen bemerkt?
+
+330
+00:21:14,470 --> 00:21:23,470
+Nein, eine Verfärbung ist gleich wie ein linker Bein.
+
+331
+00:21:23,470 --> 00:21:39,170
+Ist die Bein dicker geworden?
+
+332
+00:21:39,170 --> 00:21:46,170
+Nein, mein Kniegelenk ist ganz leicht, aber nicht so, dass ich sagen würde, dass es sehr dick ist.
+
+333
+00:21:46,170 --> 00:21:51,170
+Diese Fragen sind gestellt.
+
+334
+00:21:51,170 --> 00:22:12,630
+Okay, anscheinend gibt es keine weitere Fragen.
+
+335
+00:22:12,630 --> 00:22:22,330
+Ja, können wir weiter machen.
+
+336
+00:22:22,330 --> 00:22:31,330
+Hallo, guten Tag Herr Oberhals. Ich habe einen neuen Patientin aufgenommen.
+
+337
+00:22:31,330 --> 00:22:44,330
+Herr Olaf Schmidt ist 75 Jahre alt und 82 und 1 Meter 75 groß.
+
+338
+00:22:44,330 --> 00:22:46,330
+82, was?
+
+339
+00:22:46,330 --> 00:22:50,330
+82 Kilogramm schwer.
+
+340
+00:22:50,330 --> 00:22:56,330
+Und 1 Meter 75 groß.
+
+341
+00:22:56,330 --> 00:23:10,330
+Herr Olaf Schmidt stellte sich bei uns wegen Zeit 3 Wochen, 5-täherender Knie Schmerzen an.
+
+342
+00:23:10,330 --> 00:23:23,330
+Sie haben sich mit den Schmerzen aufgenommen.
+
+343
+00:23:23,330 --> 00:23:32,330
+Sie haben sich mit den Schmerzen aufgenommen.
+
+344
+00:23:32,330 --> 00:23:42,330
+Sie haben sich mit den Schmerzen aufgenommen.
+
+345
+00:23:42,330 --> 00:23:52,330
+Sie haben sich mit den Schmerzen aufgenommen.
+
+346
+00:23:52,330 --> 00:24:12,330
+Sie haben sich mit den Schmerzen aufgenommen.
+
+347
+00:24:12,330 --> 00:24:32,330
+Sie haben sich mit den Schmerzen aufgenommen.
+
+348
+00:24:32,330 --> 00:24:52,330
+Sie haben sich mit den Schmerzen aufgenommen.
+
+349
+00:24:52,330 --> 00:25:12,330
+Sie haben sich mit den Schmerzen aufgenommen.
+
+350
+00:25:12,330 --> 00:25:32,330
+Sie haben sich mit den Schmerzen aufgenommen.
+
+351
+00:25:32,330 --> 00:25:52,330
+Sie haben sich mit den Schmerzen aufgenommen.
+
+352
+00:25:52,330 --> 00:26:02,330
+Sie haben sich mit den Schmerzen aufgenommen.
+
+353
+00:26:02,330 --> 00:26:14,330
+Der Patient reagiert auf Penicillin allergisch und erhabe Unverzwecklichkeit gegen Bodycrophenac.
+
+354
+00:26:14,330 --> 00:26:34,330
+Er sei gegen Corona vollständig geimpft und er sei sein Kindimpfstatus sei unklar.
+
+355
+00:26:34,330 --> 00:26:44,330
+Er sei nicht traurig.
+
+356
+00:26:44,330 --> 00:27:12,330
+Er sei nicht traurig.
+
+357
+00:27:12,330 --> 00:27:22,330
+Er sei nicht traurig.
+
+358
+00:27:22,330 --> 00:27:32,330
+Er sei verheiratet.
+
+359
+00:27:32,330 --> 00:27:42,330
+Er sei nicht traurig.
+
+360
+00:27:42,330 --> 00:27:52,330
+Er sei nicht traurig.
+
+361
+00:27:52,330 --> 00:28:02,330
+Er sei nicht traurig.
+
+362
+00:28:02,330 --> 00:28:12,330
+Er sei nicht traurig.
+
+363
+00:28:12,330 --> 00:28:20,330
+Er sei nicht traurig.
+
+364
+00:28:20,330 --> 00:28:30,330
+Er sei nicht traurig.
+
+365
+00:28:30,330 --> 00:28:41,770
+Er sei nicht traurig.
+
+366
+00:28:41,770 --> 00:28:51,770
+Er sei nicht traurig.
+
+367
+00:28:51,770 --> 00:29:01,770
+Er sei nicht traurig.
+
+368
+00:29:01,770 --> 00:29:09,770
+Er sei nicht traurig.
+
+369
+00:29:09,770 --> 00:29:19,770
+Er sei nicht traurig.
+
+370
+00:29:19,770 --> 00:29:29,770
+Er sei nicht traurig.
+
+371
+00:29:29,770 --> 00:29:41,460
+Er sei nicht traurig.
+
+372
+00:29:41,460 --> 00:29:51,460
+Er sei nicht traurig.
+
+373
+00:29:51,460 --> 00:29:59,460
+Er sei nicht traurig.
+
+374
+00:29:59,460 --> 00:30:19,460
+Er sei nicht traurig.
+
+375
+00:30:19,460 --> 00:30:39,460
+Er sei nicht traurig.
+
+376
+00:30:39,460 --> 00:30:59,460
+Er sei nicht traurig.
+
+377
+00:30:59,460 --> 00:31:20,710
+Er sei nicht traurig.
+
+378
+00:31:20,710 --> 00:31:40,710
+Er sei nicht traurig.
+
+379
+00:31:40,710 --> 00:32:00,710
+Er sei nicht traurig.
+
+380
+00:32:00,710 --> 00:32:20,710
+Er sei nicht traurig.
+
+381
+00:32:20,710 --> 00:32:40,710
+Er sei nicht traurig.
+
+382
+00:32:40,710 --> 00:33:00,710
+Er sei nicht traurig.
+
+383
+00:33:00,710 --> 00:33:20,710
+Er sei nicht traurig.
+
+384
+00:33:20,710 --> 00:33:28,710
+Er sei nicht traurig.
+
+385
+00:33:28,710 --> 00:33:48,710
+Er sei nicht traurig.
+
+386
+00:33:48,710 --> 00:34:08,710
+Er sei nicht traurig.
+
+387
+00:34:08,710 --> 00:34:28,710
+Er sei nicht traurig.
+
+388
+00:34:28,710 --> 00:34:48,710
+Er sei nicht traurig.
+
+389
+00:34:48,710 --> 00:35:08,710
+Er sei nicht traurig.
+
+390
+00:35:08,710 --> 00:35:32,780
+Er sei nicht traurig.
+
+391
+00:35:32,780 --> 00:35:52,780
+Er sei nicht traurig.
+
+392
+00:35:52,780 --> 00:36:12,780
+Er sei nicht traurig.
+
+393
+00:36:12,780 --> 00:36:20,780
+Er sei nicht traurig.
+
+394
+00:36:20,780 --> 00:36:42,780
+Er sei nicht traurig.
+
+395
+00:36:42,780 --> 00:36:48,780
+Er sei nicht traurig.
+
+396
+00:36:48,780 --> 00:36:58,780
+Er sei nicht traurig.
+
+397
+00:36:58,780 --> 00:37:08,780
+Er sei nicht traurig.
+
+398
+00:37:08,780 --> 00:37:28,780
+Er sei nicht traurig.
+
+399
+00:37:28,780 --> 00:37:38,780
+Er sei nicht traurig.
+
+400
+00:37:38,780 --> 00:37:50,470
+Er sei nicht traurig.
+
+401
+00:37:50,470 --> 00:37:58,470
+Er sei nicht traurig.
+
+402
+00:37:58,470 --> 00:38:08,470
+Er sei nicht traurig.
+
+403
+00:38:08,470 --> 00:38:18,470
+Er sei nicht traurig.
+
+404
+00:38:18,470 --> 00:38:26,470
+Er sei nicht traurig.
+
+405
+00:38:26,470 --> 00:38:36,470
+Er sei nicht traurig.
+
+406
+00:38:36,470 --> 00:38:46,470
+Er sei nicht traurig.
+
+407
+00:38:46,470 --> 00:38:54,470
+Er sei nicht traurig.
+
+408
+00:38:54,470 --> 00:39:04,470
+Er sei nicht traurig.
+
+409
+00:39:04,470 --> 00:39:14,470
+Er sei nicht traurig.
+
+410
+00:39:14,470 --> 00:39:22,470
+Er sei nicht traurig.
+
+411
+00:39:22,470 --> 00:39:32,470
+Er sei nicht traurig.
+
+412
+00:39:32,470 --> 00:39:42,470
+Er sei nicht traurig.
+
+413
+00:39:42,470 --> 00:39:52,580
+Er sei nicht traurig.
+
+414
+00:39:52,580 --> 00:40:05,720
+Er sei nicht traurig.
+
+415
+00:40:05,720 --> 00:40:17,160
+Er sei nicht traurig.
+
+416
+00:40:17,160 --> 00:40:27,160
+Er sei nicht traurig.
+
+417
+00:40:27,160 --> 00:40:37,160
+Er sei nicht traurig.
+
+418
+00:40:37,160 --> 00:40:45,160
+Er sei nicht traurig.
+
+419
+00:40:45,160 --> 00:40:55,160
+Er sei nicht traurig.
+
+420
+00:40:55,160 --> 00:41:05,160
+Er sei nicht traurig.
+
+421
+00:41:05,160 --> 00:41:15,160
+Er sei nicht traurig.
+
+422
+00:41:15,160 --> 00:41:25,160
+Er sei nicht traurig.
+
+423
+00:41:25,160 --> 00:41:33,160
+Er sei nicht traurig.
+
+424
+00:41:33,160 --> 00:41:43,160
+Er sei nicht traurig.
+
+425
+00:41:43,160 --> 00:41:53,160
+Er sei nicht traurig.
+
+426
+00:41:53,160 --> 00:42:03,160
+Er sei nicht traurig.
+
+427
+00:42:03,160 --> 00:42:13,160
+Er sei nicht traurig.
+
+428
+00:42:13,160 --> 00:42:21,160
+Er sei nicht traurig.
+
+429
+00:42:21,160 --> 00:42:31,160
+Er sei nicht traurig.
+
+430
+00:42:31,160 --> 00:42:41,160
+Er sei nicht traurig.
+
+431
+00:42:41,160 --> 00:42:51,160
+Er sei nicht traurig.
+
+432
+00:42:51,160 --> 00:43:01,160
+Er sei nicht traurig.
+
+433
+00:43:01,160 --> 00:43:03,160
+Er sei nicht traurig.
