@@ -1,0 +1,1383 @@
+1
+00:00:04,460 --> 00:00:17,460
+Hallo, ich bin der Arzt und heute für die Susten. Ich möchte mit Ihnen das Aufnahmegespräch für uns einverständnen.
+
+2
+00:00:17,460 --> 00:00:21,460
+Ja natürlich, gerne. Was kann ich für Sie tun?
+
+3
+00:00:21,460 --> 00:00:30,460
+Ich werde einige Fragen zu Ihren Personen stellen, dann kommen wir an Ihren aktuellen Bescheid.
+
+4
+00:00:30,460 --> 00:00:33,460
+Wie heißt es Ihnen zu Ende?
+
+5
+00:00:33,460 --> 00:00:39,970
+Mein Name ist Manuel Friedrich.
+
+6
+00:00:39,970 --> 00:00:42,970
+Könnt ihr Ihren Namen bestöbiren?
+
+7
+00:00:42,970 --> 00:00:52,970
+Manuel, Martha, Anton, Nordpol, Udo, Emil, Ludwig.
+
+8
+00:00:52,970 --> 00:00:57,970
+Manuel, Nachname ist Friedrich.
+
+9
+00:00:57,970 --> 00:01:10,500
+Fr. Ida Emil, Dora, Richard Ida, Caesar Heinrich. Friedrich.
+
+10
+00:01:10,500 --> 00:01:14,500
+Okay, Herr Friedrich, wie alt sind Sie?
+
+11
+00:01:14,500 --> 00:01:18,500
+Ich bin 26 Jahre alt.
+
+12
+00:01:18,500 --> 00:01:22,740
+26 Jahre alt.
+
+13
+00:01:22,740 --> 00:01:25,740
+Okay, wie alt sind Sie? Genau, ich weiß es nicht.
+
+14
+00:01:25,740 --> 00:01:34,250
+Am 18. August 1996.
+
+15
+00:01:34,250 --> 00:01:40,450
+Oder ist es falsch?
+
+16
+00:01:40,450 --> 00:01:43,450
+98, wahrscheinlich.
+
+17
+00:01:43,450 --> 00:01:47,450
+Oder 98, machen wir 98, okay.
+
+18
+00:01:47,450 --> 00:01:52,450
+Sie haben recht, Sie haben recht, okay.
+
+19
+00:01:52,450 --> 00:01:56,450
+Wie groß sind Sie und wie viel wiegen Sie, Herr Friedrich?
+
+20
+00:01:56,450 --> 00:02:01,450
+Ich bin circa 1,84 m.
+
+21
+00:02:01,450 --> 00:02:08,920
+Und Gewicht ist circa, was habe ich denn so, ich glaube ungefähr 95 kg.
+
+22
+00:02:08,920 --> 00:02:17,160
+Okay, Herr Friedrich, was führt es zu uns?
+
+23
+00:02:17,160 --> 00:02:21,160
+Herr Doktor, Entschuldigung, wie ist Ihr Name nochmal, bitte?
+
+24
+00:02:21,160 --> 00:02:26,160
+Ja, mein Name ist Karamurat.
+
+25
+00:02:26,160 --> 00:02:29,160
+Karamurat, okay.
+
+26
+00:02:29,160 --> 00:02:34,160
+Ja, richtig, Sie haben richtig ausgesprächene.
+
+27
+00:02:34,160 --> 00:02:39,160
+Was ist das für ein Name, bitte? Woher kommen Sie?
+
+28
+00:02:39,160 --> 00:02:43,160
+Mehmet, ich komme aus der Türkei.
+
+29
+00:02:43,160 --> 00:02:46,160
+Ach so, okay, aus der Türkei, sehr schön.
+
+30
+00:02:46,160 --> 00:02:49,160
+Gut, freut mich sehr.
+
+31
+00:02:49,160 --> 00:02:57,160
+Also Herr Doktor, ich habe schon seit einigen Tagen so Schmerzen im Oberbau
+
+32
+00:02:57,160 --> 00:03:03,160
+und das strahlt über den ganzen Bauch aus und das wird nicht besser und das wird immer schlimmer.
+
+33
+00:03:03,160 --> 00:03:20,940
+Können Sie bitte die Schmerzen genau beschreiben, sind es drückende, sichende, brennende oder dummkende Schmerzen?
+
+34
+00:03:20,940 --> 00:03:26,940
+Manchmal habe ich Krämpfe im oberen Bauch, das strahlt so in die Mitte aus.
+
+35
+00:03:27,940 --> 00:03:38,940
+Manchmal ist es so ein Druckgefühl und meistens wird es schlimmer, wenn ich etwas esse oder trinke, dann ist es ganz schlimm.
+
+36
+00:03:38,940 --> 00:03:52,000
+Okay, haben die Schmerzen plötzlich angefangen oder langsam...
+
+37
+00:03:52,000 --> 00:03:58,000
+Ich würde eher sagen, die haben langsam vor ungefähr eine Woche angefangen.
+
+38
+00:03:58,000 --> 00:04:11,000
+Ich dachte, es geht wieder vorbei, aber es wird eigentlich immer schlimmer.
+
+39
+00:04:11,000 --> 00:04:20,000
+Wie stark sind die Schmerzen auf einer Schmerzkolefone 1 bis 10, wobei ein sehr leichter Sehen sehr stark ist, dann schmerzen sie nicht.
+
+40
+00:04:20,000 --> 00:04:28,000
+Ich würde sagen, das ist der Unterschied, es gibt Phasen, da ist es wirklich sehr stark, so wie heute Abend zum Beispiel, deswegen bin ich da.
+
+41
+00:04:28,000 --> 00:04:37,640
+Da würde ich sagen, so 7, 8 vielleicht und manchmal ist es eher so bei 3, 4.
+
+42
+00:04:37,640 --> 00:04:44,640
+Okay, wissen Sie, was die Schmerzen ausgelöst hat?
+
+43
+00:04:44,640 --> 00:04:50,640
+Sie haben Essen gesagt, aber können Sie noch andere erklären?
+
+44
+00:04:50,640 --> 00:05:01,640
+Kann ich jetzt so nicht sagen, es hat irgendwann mal angefangen, aber es wird meistens, nach dem Essen wird es schlimmer.
+
+45
+00:05:01,640 --> 00:05:06,640
+Zwischendurch habe ich auch Schmerzen, aber wenn ich etwas esse, dann wird es noch schlimmer,
+
+46
+00:05:06,640 --> 00:05:14,640
+sodass ich jetzt eigentlich wenig Appetit habe und auch nicht essen möchte, weil ich Angst habe, dass die Schmerzen wieder kommen.
+
+47
+00:05:14,640 --> 00:05:24,360
+Haben Sie dagegen etwas eingenommen, wie Medikamente?
+
+48
+00:05:24,360 --> 00:05:28,360
+Ich habe mir jetzt so als die Schmerzen so stark waren, Paracetamol genommen,
+
+49
+00:05:28,360 --> 00:05:32,360
+das ist ein bisschen besser geworden, aber sonst habe ich nichts gegelaufen.
+
+50
+00:05:32,360 --> 00:05:36,360
+Hat das Ihnen geholfen? Ein bisschen besser?
+
+51
+00:05:36,360 --> 00:05:48,840
+Nur ganz wenig.
+
+52
+00:05:48,840 --> 00:06:02,270
+Sind die Schmerzen im Laufe der Zeit gewandert oder sind sie immer im Oberbauch?
+
+53
+00:06:02,270 --> 00:06:08,270
+Ich kann schon sagen, das ist vom Oberbauch so ein bisschen in den ganzen Bauch verteilt sich das.
+
+54
+00:06:08,270 --> 00:06:15,270
+Ich habe das Gefühl, dass ich dann so einen dicken Bauch bekomme, dass ich viel Luft im Bauch habe
+
+55
+00:06:15,270 --> 00:06:27,270
+und dass es manchmal in meinem ganzen Bauch rummort, also so richtig blubbert oder Schmerzen auslöst.
+
+56
+00:06:27,270 --> 00:06:30,270
+Ok. Haben Sie auch Billerungen?
+
+57
+00:06:30,270 --> 00:06:33,270
+So, als ob da viel Luft drin ist.
+
+58
+00:06:33,270 --> 00:06:39,270
+Haben Sie oft Sauere aufgestoßen?
+
+59
+00:06:39,270 --> 00:06:53,950
+Seit zwei Tagen ja.
+
+60
+00:06:53,950 --> 00:06:57,950
+Haben Sie Schmerzen beim Schlucken?
+
+61
+00:06:57,950 --> 00:07:02,950
+Seit gestern, merke ich, dass wenn ich etwas esse oder etwas trinke, dann habe ich das Gefühl,
+
+62
+00:07:02,950 --> 00:07:08,000
+dass es brennt so ein bisschen auf der Speise.
+
+63
+00:07:08,000 --> 00:07:15,280
+Sind die Schmerzen brennend oder auch drückend?
+
+64
+00:07:15,280 --> 00:07:32,010
+Erbrennend würde ich sagen.
+
+65
+00:07:32,010 --> 00:07:39,010
+Haben Sie etwas bemerkt, fast die Schmerzen lindert oder verschwindelt?
+
+66
+00:07:39,010 --> 00:07:44,010
+Also wie gesagt, mit dem Essen, egal, verschwindelt.
+
+67
+00:07:44,010 --> 00:07:47,010
+Ich habe jetzt nichts, wo ich sagen kann, dass es dann besser wird.
+
+68
+00:07:47,010 --> 00:07:51,010
+Manchmal hat es geholfen, wenn ich so eine Wärmeflasche auf den Bauch gelegt habe,
+
+69
+00:07:51,010 --> 00:07:58,010
+aber ansonsten kann ich nicht sagen, was besser geworden ist oder wo durch das besser geworden ist.
+
+70
+00:07:58,010 --> 00:08:03,010
+Haben Sie, Herr Friedrich, Herzrasen oder Herzklopfen?
+
+71
+00:08:03,010 --> 00:08:06,010
+Nein, nicht, dass ich das gemerkt habe.
+
+72
+00:08:06,010 --> 00:08:09,010
+Haben Sie Atembeschwerde, bekommen Sie gut Luft?
+
+73
+00:08:09,010 --> 00:08:12,010
+Ja, mit der Luft habe ich keine Probleme.
+
+74
+00:08:12,010 --> 00:08:15,010
+Sie haben keine Atemnot?
+
+75
+00:08:15,010 --> 00:08:17,010
+Nein, nein, nein.
+
+76
+00:08:17,010 --> 00:08:32,300
+Hatten Sie oder haben Sie momentan Fieber, Herr Friedrich, oder Schmülflost?
+
+77
+00:08:33,300 --> 00:08:38,300
+Nein, ich habe zu Fieber, ich habe sie nicht aufgefallen, ich habe sie nicht gemessen, aber warm ist mir nicht.
+
+78
+00:08:38,300 --> 00:08:41,300
+Schmülflost habe ich auch nicht, nein.
+
+79
+00:08:41,300 --> 00:08:47,300
+Leiden Sie unter Nachschweiß, oder hatten Sie schon mal ein Schwarzausbrücke?
+
+80
+00:08:47,300 --> 00:08:51,580
+Nein, nein, natürlich nicht.
+
+81
+00:08:51,580 --> 00:08:56,580
+Sie haben momentan weniger Petit?
+
+82
+00:08:56,580 --> 00:08:58,580
+Ja.
+
+83
+00:08:58,580 --> 00:09:03,580
+Haben Sie Investors seit 10 Jahren abgenommen oder so?
+
+84
+00:09:03,580 --> 00:09:05,580
+Nein, nein, nein.
+
+85
+00:09:05,580 --> 00:09:10,580
+Jetzt nur seit ein paar Tagen habe ich weniger Petit, aber ansonsten war alles gleich.
+
+86
+00:09:10,580 --> 00:09:14,580
+Ist Ihnen übel oder schwindelig, Herr Friedrich?
+
+87
+00:09:14,580 --> 00:09:18,580
+Nein, ja, das ist eine leichte Übelkeit, Entschuldigung.
+
+88
+00:09:18,580 --> 00:09:23,580
+Das habe ich schon, aber Schwindel habe ich jetzt nicht.
+
+89
+00:09:23,580 --> 00:09:28,580
+Müsten Sie schon mal erbrechen?
+
+90
+00:09:28,580 --> 00:09:37,580
+Ich sage mal so, ich hatte gestern einen leichten Brechreiz, ich habe das Gefühl gehabt, ich muss erbrechen, aber es kam nichts.
+
+91
+00:09:37,580 --> 00:09:46,050
+Schlafen Sie gut oder haben Sie Probleme beim Einschlafen oder durchschlafen?
+
+92
+00:09:46,050 --> 00:10:01,050
+Also Schlafprobleme habe ich bisher nicht, aber ich merke, dass seit einigen Tagen ich sehr schlecht schlafe, weil auch der Bauch ein bisschen weh tut und ich auch viel Luft im Bauch habe.
+
+93
+00:10:01,050 --> 00:10:09,520
+Haben Sie Probleme beim Wasalassen oder Stuhlgang?
+
+94
+00:10:09,520 --> 00:10:13,520
+Nein, das habe ich nicht, keine Probleme, da klappt alles gut.
+
+95
+00:10:13,520 --> 00:10:37,180
+Okay, Herr Friedrich, leiden Sie an wichtigste Erkrankungen wie Bluthochdruck oder Suckerkrankheit oder Schittrüse über Funktionen?
+
+96
+00:10:37,180 --> 00:10:44,430
+Nein, das habe ich nicht wirklicherweise, aber ich habe ein allergisches Erstmaß seit meiner Kindheit.
+
+97
+00:10:44,430 --> 00:10:54,460
+Ich benutze manchmal einen Spray, aber im Moment ist es stabil.
+
+98
+00:10:54,460 --> 00:10:58,460
+Wann war das letzte Asthmafall?
+
+99
+00:10:58,460 --> 00:11:05,460
+Ich hatte einen richtigen Asthma mit einem Brunchen, das war vor zwei Jahren ungefähr.
+
+100
+00:11:05,460 --> 00:11:09,460
+Was nehmen Sie dagegen?
+
+101
+00:11:09,460 --> 00:11:11,460
+Da habe ich einen Spray.
+
+102
+00:11:11,460 --> 00:11:15,460
+Wissen Sie, wie nahm es ist?
+
+103
+00:11:15,460 --> 00:11:19,460
+Das Name war Foster oder so ähnlich.
+
+104
+00:11:19,460 --> 00:11:26,040
+Nehmen Sie nur bei Bedarf.
+
+105
+00:11:26,040 --> 00:11:30,040
+Ja, nur wenn ich merke, dass die Luft knapp wird.
+
+106
+00:11:30,040 --> 00:11:34,040
+Nehmen Sie noch andere Vorerkrankungen?
+
+107
+00:11:34,040 --> 00:11:42,040
+Ach so, da fehlt mein Ja, ich habe so eine leichte Laktoseintoleranz.
+
+108
+00:11:42,040 --> 00:11:49,040
+Und bei manchen Obstsorten, die vertrage ich auch nicht.
+
+109
+00:11:49,040 --> 00:11:59,040
+Der Doktor meinte, das kann eine Frugtoseintoleranz sein, aber die ist nicht so ausgeprägt.
+
+110
+00:11:59,040 --> 00:12:06,040
+Wie äußert sich die Laktose und Frügtoseintoleranz?
+
+111
+00:12:06,040 --> 00:12:14,040
+Also ich bekomme dann so Blähungen, Bauchkrämpfe und auch Bauchschmerzen mit Durchfall.
+
+112
+00:12:14,040 --> 00:12:20,040
+Aber wie gesagt, da achte ich drauf und das klappt relativ gut.
+
+113
+00:12:20,040 --> 00:12:26,040
+Ist Ihnen noch andere Allergie gegen bestimmte Medikamente?
+
+114
+00:12:26,040 --> 00:12:29,040
+Nein, nein.
+
+115
+00:12:29,040 --> 00:12:34,040
+Und haben Sie noch andere und Verträglichkeit?
+
+116
+00:12:34,040 --> 00:12:36,040
+Das reicht, glaube ich.
+
+117
+00:12:36,040 --> 00:12:38,040
+Mehr will ich auch gar nicht.
+
+118
+00:12:38,040 --> 00:12:43,040
+Sind Sie schon mal operiert worden, Herr Friedrich?
+
+119
+00:12:43,040 --> 00:12:49,040
+Ich hatte eine Sportverletzung vor circa fünf Jahren.
+
+120
+00:12:49,040 --> 00:12:58,410
+Da musste ich am linken Knie operiert werden, weil ich ein Benderes hatte.
+
+121
+00:12:58,410 --> 00:13:01,410
+Was das hatte?
+
+122
+00:13:01,410 --> 00:13:05,410
+Ein Benderes.
+
+123
+00:13:05,410 --> 00:13:07,410
+Benderes, Riss.
+
+124
+00:13:07,410 --> 00:13:17,410
+Ja, okay.
+
+125
+00:13:17,410 --> 00:13:22,410
+Ist das mit Atroskopisch operiert worden?
+
+126
+00:13:22,410 --> 00:13:29,410
+Das heißt, atroskopisch weiß ich jetzt nicht, aber man hat so mit so einer kleinen Kamera und so Steben.
+
+127
+00:13:29,410 --> 00:13:33,410
+Ja, das ist ja in Knie Spiegelung.
+
+128
+00:13:33,410 --> 00:13:36,410
+Ah ja, genau, so ähnlich.
+
+129
+00:13:36,410 --> 00:13:40,410
+Okay, haben Sie noch andere Operationen, Herr Friedrich?
+
+130
+00:13:40,410 --> 00:13:43,410
+Nein, das reicht, das ist genug.
+
+131
+00:13:43,410 --> 00:13:48,410
+Sind Sie vorstellend geimpft?
+
+132
+00:13:48,410 --> 00:13:55,410
+Was meinst du, mein Haushalt überprüft immer die Impfungen, denn der meinte, es ist alles komplett.
+
+133
+00:13:55,410 --> 00:13:59,410
+Auch gegen Corona, wurden Sie geimpft?
+
+134
+00:13:59,410 --> 00:14:03,410
+Von Covid-Impfungen habe ich auch, ich habe schon drei Impfungen bisher.
+
+135
+00:14:03,410 --> 00:14:06,410
+Sehr schön, sehr schön.
+
+136
+00:14:06,410 --> 00:14:09,410
+Brauchen Sie?
+
+137
+00:14:09,410 --> 00:14:12,410
+Ja, manchmal aber nicht so oft.
+
+138
+00:14:12,410 --> 00:14:15,410
+Wie viele Seguriten täglich rauchen Sie?
+
+139
+00:14:15,410 --> 00:14:21,940
+Täglich rauche ich nicht, aber am Wochenende so zwei, drei Stück vielleicht.
+
+140
+00:14:21,940 --> 00:14:24,940
+Seit wann rauchen Sie?
+
+141
+00:14:24,940 --> 00:14:29,280
+Seit gleich vier, fünf Jahren.
+
+142
+00:14:29,280 --> 00:14:32,280
+Okay, trinken Sie regelmäßig Alkohol?
+
+143
+00:14:32,280 --> 00:14:37,280
+Regelmäßig nicht, aber auch wenn ein Fest oder ein Feier ist, am Wochenende trinken Sie.
+
+144
+00:14:37,280 --> 00:14:40,280
+Was trinken Sie?
+
+145
+00:14:40,280 --> 00:14:46,280
+Unterschiedlich, mal Wein oder Bier oder auch mal etwas anderes.
+
+146
+00:14:46,280 --> 00:14:55,280
+Nehmen Sie Drogen oder hatten Sie schon mal Kontakt mit Drogen?
+
+147
+00:14:55,280 --> 00:14:58,280
+Was meinen Sie mit Drogen?
+
+148
+00:14:58,280 --> 00:15:03,280
+Ja, ich hatte mal etwas ausprobiert, aber ich nehme das nicht regelmäßig.
+
+149
+00:15:03,280 --> 00:15:07,280
+Okay, was hatten Sie pro Brit?
+
+150
+00:15:07,280 --> 00:15:15,740
+Das war Marihuana ab und zu mal, mehr ist es nicht.
+
+151
+00:15:15,740 --> 00:15:22,740
+Okay, Herr Friedrich, sind Sie ledig oder verheiratet?
+
+152
+00:15:22,740 --> 00:15:27,740
+Also nein, ich bin nicht verheiratet, nein, ist noch viel zu früh.
+
+153
+00:15:27,740 --> 00:15:37,740
+Ja, ich verstehe, Sie sind sehr jung, aber ich muss diese Frage stellen, auch ob Sie Kinder?
+
+154
+00:15:37,740 --> 00:15:43,740
+Nein, nicht, dass ich das wüsste, aber normalerweise nicht.
+
+155
+00:15:43,740 --> 00:15:50,740
+Okay, ja, verstehe. Leben Sie allein oder mit jemandem zusammen?
+
+156
+00:15:50,740 --> 00:15:59,700
+Nein, ich wohne mit meiner Freundin zusammen.
+
+157
+00:15:59,700 --> 00:16:06,700
+Ich möchte einige Fragen Ihren Familien stellen.
+
+158
+00:16:06,700 --> 00:16:11,700
+Sind Ihre Eltern am Leben?
+
+159
+00:16:11,700 --> 00:16:14,700
+Meine Eltern? Ja, ja.
+
+160
+00:16:14,700 --> 00:16:20,700
+Sind Sie gesund oder leiden Sie an irgendeinem Problem?
+
+161
+00:16:20,700 --> 00:16:24,700
+Also, soweit ich weiß, haben Sie keine Erkrankungen.
+
+162
+00:16:24,700 --> 00:16:27,700
+Sie sind nicht.
+
+163
+00:16:27,700 --> 00:16:30,700
+Und haben Sie eine Schwester?
+
+164
+00:16:30,700 --> 00:16:34,700
+Ich habe noch eine ältere Schwester, ja.
+
+165
+00:16:34,700 --> 00:16:38,700
+Ist Sie auch gesund?
+
+166
+00:16:38,700 --> 00:16:44,700
+Ja, also ich wüsste jetzt nicht, dass Sie irgendeine Erkrankung hatten.
+
+167
+00:16:44,700 --> 00:16:52,700
+Okay, Herr Friedrich, ich bin soweit fertig mit meinen Fragen.
+
+168
+00:16:52,700 --> 00:17:02,700
+Ich denke, dass ich alle wichtige Informationen bekomme, aber ich bin noch vor allem etwas ins Übungsverfügung.
+
+169
+00:17:02,700 --> 00:17:07,700
+Vielen Dank, Sie haben sich sehr bemüht, was Sie glauben, was es ist, was Schlimmes oder
+
+170
+00:17:07,700 --> 00:17:11,700
+Was können die Schmerzen denn sein, deswegen bin ich da.
+
+171
+00:17:11,700 --> 00:17:22,700
+Ja, es ist sehr früh etwas zu sagen, aber nach bisherigen Angaben,
+
+172
+00:17:22,700 --> 00:17:32,700
+habe ich von Gastritis aus geheicht.
+
+173
+00:17:32,700 --> 00:17:35,700
+Aber das ist ein Verzicht.
+
+174
+00:17:35,700 --> 00:17:37,700
+Gastritis?
+
+175
+00:17:37,700 --> 00:17:41,700
+Gastritis, wie eine Entsündung im Magen.
+
+176
+00:17:41,700 --> 00:17:44,700
+Das ist Magenentsündung.
+
+177
+00:17:44,700 --> 00:17:48,700
+Deswegen, das ist Verdachtdiagnos.
+
+178
+00:17:48,700 --> 00:17:51,700
+Das ist Schlimmes.
+
+179
+00:17:51,700 --> 00:17:53,700
+Nein, nein.
+
+180
+00:17:53,700 --> 00:17:58,700
+Als erste Diagnostische Massnahme der Schizy-Körperlisch unterzugen,
+
+181
+00:17:58,700 --> 00:18:02,700
+dann zur weiteren Abkühlerung,
+
+182
+00:18:02,700 --> 00:18:05,700
+Zolten, Bulutabnahme,
+
+183
+00:18:05,700 --> 00:18:24,700
+Ultraschall, Bauchultraschall, auch gegebenenfalls Magen-Spiegelung durchführen.
+
+184
+00:18:24,700 --> 00:18:27,700
+Ist das etwas Schlimmes, so eine Magen-Spiegelung?
+
+185
+00:18:27,700 --> 00:18:29,700
+Davor habe ich so ein bisschen Angst.
+
+186
+00:18:29,700 --> 00:18:31,700
+Ja, ich verstehe es sehr.
+
+187
+00:18:31,700 --> 00:18:42,700
+Aber Sie werden beruhigt mit Anästhesika.
+
+188
+00:18:42,700 --> 00:18:50,700
+Deswegen werden Sie etwas nichts fühlen oder spüren.
+
+189
+00:18:50,700 --> 00:18:55,700
+Aber das ist eine einfache Untersuchung.
+
+190
+00:18:55,700 --> 00:18:56,700
+Okay, alles klar.
+
+191
+00:18:56,700 --> 00:18:59,700
+Sie geben mir also etwas zu schlafen, zum Beruhigen.
+
+192
+00:18:59,700 --> 00:19:04,700
+Ja, wir werden Sie eine Beruhigungsmittel mit Anästhesika.
+
+193
+00:19:04,700 --> 00:19:17,700
+Durch Ihre Mund werden eine Schlauch mit Kamera für die Speiserore.
+
+194
+00:19:17,700 --> 00:19:32,700
+Und dann verschoben, um Ihre Magen und Speiserore zu beurteilen.
+
+195
+00:19:32,700 --> 00:19:34,700
+Ja, ich kann Sie mir jetzt erklären.
+
+196
+00:19:34,700 --> 00:19:36,700
+Das ist schon die Vorstellung, das ist ja schon schlimm.
+
+197
+00:19:36,700 --> 00:19:40,700
+Gut, dass man da etwas zum Schlafen bekommt.
+
+198
+00:19:40,700 --> 00:19:43,700
+Okay, dann schauen wir mal, was rauskommt.
+
+199
+00:19:43,700 --> 00:19:47,700
+Ich wäre entdankbar, wenn man das Problem lösen könnte,
+
+200
+00:19:47,700 --> 00:19:49,700
+weil das ist schon unangenehm.
+
+201
+00:19:49,700 --> 00:19:51,700
+Ja, ich verstehe es sehr.
+
+202
+00:19:51,700 --> 00:19:54,700
+Sie sind auf guten Händen.
+
+203
+00:19:54,700 --> 00:19:55,700
+In gutem.
+
+204
+00:19:55,700 --> 00:19:59,700
+Ja, Sie sind in guten Händen.
+
+205
+00:19:59,700 --> 00:20:03,700
+Wir sind eine gute Team.
+
+206
+00:20:03,700 --> 00:20:07,700
+Und wir haben viele Erfahrungen über diese Krankheiten.
+
+207
+00:20:07,700 --> 00:20:10,700
+Machen Sie sich bitte keine Sorgen.
+
+208
+00:20:10,700 --> 00:20:12,700
+Dann freut mich das ja.
+
+209
+00:20:12,700 --> 00:20:14,700
+Okay, vielen Dank. Sie haben mich schon sehr beruhigt.
+
+210
+00:20:14,700 --> 00:20:16,700
+Ja, okay.
+
+211
+00:20:16,700 --> 00:20:22,700
+Okay, Herr Friedrich, ich komme Sie zu Ihnen wieder.
+
+212
+00:20:22,700 --> 00:20:24,700
+Wunderbar.
+
+213
+00:20:24,700 --> 00:20:27,700
+Habt ihr Kollegen oder Kolleginnen andere Fragen?
+
+214
+00:20:27,700 --> 00:20:35,910
+Genau, keine Fragen.
+
+215
+00:20:35,910 --> 00:20:40,910
+Herr Friedrich, was machen Sie beruflich?
+
+216
+00:20:40,910 --> 00:20:42,910
+Beruflich? Ich bin Student.
+
+217
+00:20:42,910 --> 00:20:48,410
+Was für Student?
+
+218
+00:20:48,410 --> 00:21:00,250
+Ich studiere Mathematikwissenschaften in Mannheim.
+
+219
+00:21:00,250 --> 00:21:09,740
+Wenn keine Fragen sind, ich gehe mir ein Glas Wasser holen.
+
+220
+00:21:09,740 --> 00:21:10,740
+Wer ist okay?
+
+221
+00:21:10,740 --> 00:21:11,740
+Ja, natürlich.
+
+222
+00:21:11,740 --> 00:21:13,740
+Danke, ich komme sofort.
+
+223
+00:21:13,740 --> 00:22:23,270
+Ja, jetzt ist er jetzt schon wieder ruck.
+
+224
+00:22:23,270 --> 00:22:25,270
+Okay, wir anfangen.
+
+225
+00:22:25,270 --> 00:22:27,270
+Ja, natürlich.
+
+226
+00:22:27,270 --> 00:22:30,270
+Hallo, guten Abend.
+
+227
+00:22:30,270 --> 00:22:32,270
+Hallo, Herr Berat.
+
+228
+00:22:32,270 --> 00:22:34,270
+Ah, der neue Doktor. Hallo, guten Tag.
+
+229
+00:22:34,270 --> 00:22:36,270
+Wie geht es Ihnen, Herr Kollege?
+
+230
+00:22:36,270 --> 00:22:39,270
+Ja, es geht mir gut und Ihnen.
+
+231
+00:22:39,270 --> 00:22:41,270
+Danke schön.
+
+232
+00:22:41,270 --> 00:22:43,270
+Wir sind die ersten Tage in unserer Klinik.
+
+233
+00:22:43,270 --> 00:22:45,270
+Kommen Sie gut zurecht?
+
+234
+00:22:45,270 --> 00:22:48,270
+Ja, alles war gut.
+
+235
+00:22:48,270 --> 00:22:53,270
+Und ich habe heute einen neuen Patient aufgenommen.
+
+236
+00:22:53,270 --> 00:22:56,270
+Haben Sie kurz Zeit für mich?
+
+237
+00:22:56,270 --> 00:22:58,270
+Ja, dann legen Sie mal los.
+
+238
+00:22:58,270 --> 00:23:00,270
+Was haben Sie für einen Patienten angeschaut?
+
+239
+00:23:00,270 --> 00:23:04,270
+Ja, ich möchte gerne den Fall Ihnen vorstellen.
+
+240
+00:23:04,270 --> 00:23:06,270
+Bitte schön.
+
+241
+00:23:06,270 --> 00:23:12,270
+Herr Manuel Friedrich ist 26 Jahre Patient.
+
+242
+00:23:12,270 --> 00:23:15,270
+Er ist ein 26-jähriger Patient.
+
+243
+00:23:15,270 --> 00:23:21,270
+Ja, Herr Friedrich ist ein 26-jähriger Patient,
+
+244
+00:23:21,270 --> 00:23:25,270
+der sich bei uns heute,
+
+245
+00:23:25,270 --> 00:23:29,270
+wegen seit einigen Tagen,
+
+246
+00:23:29,270 --> 00:23:36,270
+5-tenden Krampfartiger, manchmal Dumfer,
+
+247
+00:23:36,270 --> 00:23:41,270
+Abdominalgie,
+
+248
+00:23:42,270 --> 00:23:52,270
+keine Abdominalgie.
+
+249
+00:23:52,270 --> 00:23:55,270
+Abdominalgi Obama gibt es nicht,
+
+250
+00:23:55,270 --> 00:23:58,270
+mit abdominalen Schmerzen.
+
+251
+00:23:58,270 --> 00:24:01,270
+Okay.
+
+252
+00:24:01,270 --> 00:24:24,270
+wurde mit 7 bis 8 von 10 auf einer Schmerzskala bewertet.
+
+253
+00:24:24,270 --> 00:24:34,270
+Wo sind die Schmerzen?
+
+254
+00:24:34,270 --> 00:24:52,270
+Die Schmerzen würden am Anfang am Epigastrium, aber momentan im ganzen Bauch habe ich ja Schmerzen.
+
+255
+00:24:52,270 --> 00:25:01,270
+Also die Schmerzen begannen epigastral und sind jetzt auf den Bauch ausgestrahlt oder ausgedehnt.
+
+256
+00:25:01,270 --> 00:25:07,270
+Was war die Art von Schmerzen?
+
+257
+00:25:07,270 --> 00:25:13,270
+Die Schmerzen sind krampfartig und dumpf.
+
+258
+00:25:13,270 --> 00:25:33,210
+Darab hinaus verrichtete er, dass die Schmerzen nach dem Essen immer Schirma gegorten sein.
+
+259
+00:25:33,210 --> 00:25:53,210
+Er hat einmal Parasitamol eingenommen, dass hat ihnen wenig geholfen.
+
+260
+00:26:23,210 --> 00:26:25,210
+Das ist Pyrosis.
+
+261
+00:26:25,210 --> 00:26:32,210
+Pyrosis bezeichnet man Sauerstoßen.
+
+262
+00:26:32,210 --> 00:26:35,210
+Sauerstoßen?
+
+263
+00:26:35,210 --> 00:26:37,210
+Okay.
+
+264
+00:26:37,210 --> 00:26:57,210
+Die vegetative Anamnese war unaufweilig bis auf Inapäten
+
+265
+00:27:30,860 --> 00:27:38,860
+und die Schmerzen sind auf der Schmerzen geblieben.
+
+266
+00:27:38,860 --> 00:27:52,860
+Aber die Schmerzen sind stabil und die Schmerzen sind auf der Schmerzen geblieben.
+
+267
+00:27:52,860 --> 00:27:54,860
+Osterspray, okay.
+
+268
+00:27:54,860 --> 00:27:56,860
+Osterspray, ja.
+
+269
+00:27:56,860 --> 00:28:11,860
+Vor fünf Jahren habe er wegen einer Sportverletzung am linken Knie operiert worden.
+
+270
+00:28:11,860 --> 00:28:17,860
+Habe er operiert worden ist nicht. Ist er operiert worden oder habe er eine Operation gehabt?
+
+271
+00:28:17,860 --> 00:28:30,860
+Ja, wegen der Sportverletzung habe er vor fünf Jahren am linken Knie eine Operation unterzogen.
+
+272
+00:28:30,860 --> 00:28:35,360
+Habe er sich eine Operation unterzogen?
+
+273
+00:28:35,360 --> 00:28:37,360
+Ja, ich habe vergessen, ja.
+
+274
+00:28:37,360 --> 00:28:39,360
+Okay, vielen Dank.
+
+275
+00:28:40,360 --> 00:28:45,360
+Er rauche,
+
+276
+00:28:45,360 --> 00:28:51,360
+zwei oder drei Zigarette am Wochen,
+
+277
+00:28:51,360 --> 00:28:55,360
+seit vier, fünf Jahren.
+
+278
+00:28:55,360 --> 00:28:57,360
+In der Woche.
+
+279
+00:28:57,360 --> 00:28:59,360
+In der Woche.
+
+280
+00:28:59,360 --> 00:29:05,990
+Er trinkt sehr seltene Alkohol,
+
+281
+00:29:05,990 --> 00:29:10,990
+nur am Feier ein Wein oder Bier.
+
+282
+00:29:10,990 --> 00:29:19,990
+Manchmal nehmen wir Mariana.
+
+283
+00:29:19,990 --> 00:29:22,990
+Aber das ist auch sehr selten.
+
+284
+00:29:22,990 --> 00:29:25,990
+Das sei am...
+
+285
+00:29:25,990 --> 00:29:28,990
+Das sei ja auch sehr selten.
+
+286
+00:29:28,990 --> 00:29:32,990
+Er sei momentan leidig,
+
+287
+00:29:32,990 --> 00:29:36,990
+von einem Zayner Freundin,
+
+288
+00:29:36,990 --> 00:29:40,990
+zu einem Zay,
+
+289
+00:29:40,990 --> 00:29:42,990
+oder Student
+
+290
+00:29:42,990 --> 00:29:47,990
+in Mathematik wissenschaftler.
+
+291
+00:29:47,990 --> 00:29:50,990
+Das sind wir.
+
+292
+00:29:50,990 --> 00:30:03,690
+Und seine Familie war auch mafällig.
+
+293
+00:30:03,690 --> 00:30:09,990
+Okay, so was ist hier der Verdachtdiagnose?
+
+294
+00:30:09,990 --> 00:30:12,990
+Die Annamnistischen Angaben,
+
+295
+00:30:12,990 --> 00:30:15,990
+der Erste,
+
+296
+00:30:15,990 --> 00:30:18,990
+Ulkus Ventriculi,
+
+297
+00:30:18,990 --> 00:30:21,990
+hin,
+
+298
+00:30:21,990 --> 00:30:23,990
+aber den Diagnostischen
+
+299
+00:30:23,990 --> 00:30:25,990
+Diagnosen,
+
+300
+00:30:25,990 --> 00:30:28,990
+Ulkus Duodeni,
+
+301
+00:30:28,990 --> 00:30:31,990
+Gast Osefage Elrefleo,
+
+302
+00:30:31,990 --> 00:30:34,990
+Osefagus Carcinum.
+
+303
+00:30:34,990 --> 00:30:37,990
+Carcinum, ja.
+
+304
+00:30:37,990 --> 00:30:41,990
+Oder ganz normal eine Gastritis wahrscheinlich?
+
+305
+00:30:41,990 --> 00:30:46,990
+Ja, auch in Betracht.
+
+306
+00:30:46,990 --> 00:30:50,990
+Warum sollte ein junger Mann mit 26 Jahren eigentlich in Ulkus haben?
+
+307
+00:30:50,990 --> 00:30:54,990
+Haben Sie gefragt, ob er einen schwarzen Stuhlgang hat,
+
+308
+00:30:54,990 --> 00:30:56,990
+eine Melena?
+
+309
+00:30:56,990 --> 00:31:02,990
+Ich habe nicht gefragt, aber er hat mir gesagt,
+
+310
+00:31:02,990 --> 00:31:05,990
+ich habe keine Probleme beim Stuhlgang.
+
+311
+00:31:05,990 --> 00:31:13,240
+Aber ich musste nachfragen.
+
+312
+00:31:13,240 --> 00:31:17,240
+Was ist weitere Differenzialdiagnosen?
+
+313
+00:31:17,240 --> 00:31:20,240
+Was fällt Ihnen noch?
+
+314
+00:31:20,240 --> 00:31:24,240
+Weitere Abkühlerung möchte ich
+
+315
+00:31:24,240 --> 00:31:27,240
+körperliche Untersuchung durchführen.
+
+316
+00:31:27,240 --> 00:31:29,240
+Ja, okay.
+
+317
+00:31:29,240 --> 00:31:31,240
+Das ist notwendig.
+
+318
+00:31:31,240 --> 00:31:36,240
+An welchen Differenzialdiagnosen denken Sie noch?
+
+319
+00:31:36,240 --> 00:31:41,240
+Ja, wir müssen eine akut Abdomen,
+
+320
+00:31:41,240 --> 00:31:44,240
+Abendicitis auszuschließen.
+
+321
+00:31:44,240 --> 00:31:53,240
+Bei Schmerzen muss man bei jungen Menschen auch eine akute Abendicitis denken.
+
+322
+00:31:53,240 --> 00:31:56,240
+Das ist richtig, ja.
+
+323
+00:31:56,240 --> 00:32:10,920
+Und auch Herzkrankheit sollen wir auch ausschließen.
+
+324
+00:32:10,920 --> 00:32:13,920
+Herzkrankheit, ja.
+
+325
+00:32:13,920 --> 00:32:16,920
+Ja, unwahrscheinlich.
+
+326
+00:32:16,920 --> 00:32:19,920
+Woran noch, was gibt es noch im Oberbauch,
+
+327
+00:32:19,920 --> 00:32:21,920
+was euch Schmerzen auslösen kann?
+
+328
+00:32:21,920 --> 00:32:25,920
+Wir sollen eine Pankratitis,
+
+329
+00:32:25,920 --> 00:32:30,920
+Colitisitis oder Coledocorithiasis auszuschließen.
+
+330
+00:32:30,920 --> 00:32:33,920
+An der ganzen Phase muss man denken, das ist richtig.
+
+331
+00:32:33,920 --> 00:32:38,260
+Auch sprechen Sie drüben.
+
+332
+00:32:38,260 --> 00:32:41,260
+Oder bei jungen Menschen kann auch mal vorkommen ein Ilius,
+
+333
+00:32:41,260 --> 00:32:45,280
+ein Darmverschluss.
+
+334
+00:32:45,280 --> 00:32:50,280
+Ja, ich habe gedacht, aber er hat gesagt,
+
+335
+00:32:50,280 --> 00:32:53,280
+keine Stubankprobleme.
+
+336
+00:32:53,280 --> 00:32:56,280
+Deswegen will ich es nicht sagen.
+
+337
+00:32:56,280 --> 00:32:58,280
+Also eher unwahrscheinlich, aber auch daran
+
+338
+00:32:58,280 --> 00:33:00,280
+muss man mal denken, kann man.
+
+339
+00:33:00,280 --> 00:33:02,280
+Sehr gut, wunderbar.
+
+340
+00:33:02,280 --> 00:33:04,280
+Vielen Dank, Herr Doktor.
+
+341
+00:33:04,280 --> 00:33:07,280
+Sehr gut gemacht, das für den Anfang ist ja schon mal sehr gut.
+
+342
+00:33:07,280 --> 00:33:11,280
+Gut, haben die anderen Kollegen noch Fragen?
+
+343
+00:33:11,280 --> 00:33:14,280
+Oder Kolleginnen, muss man auch sagen.
+
+344
+00:33:14,280 --> 00:33:22,020
+Keine Fragen, der Doktor hat es also sehr gut gemacht,
+
+345
+00:33:22,020 --> 00:33:24,020
+so zu sagen, wunderbar.
+
+346
+00:33:24,020 --> 00:33:28,020
+Hat unser Chef Doktor.
