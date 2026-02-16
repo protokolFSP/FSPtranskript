@@ -1,0 +1,2923 @@
+1
+00:00:01,780 --> 00:00:06,140
+Schön.
+
+2
+00:00:06,140 --> 00:00:08,140
+Guten Tag.
+
+3
+00:00:08,140 --> 00:00:10,140
+Guten Tag.
+
+4
+00:00:10,140 --> 00:00:15,140
+Polat ist mein Name. Ich bin auf dieser Station als Erstentätig.
+
+5
+00:00:15,140 --> 00:00:18,140
+Und würde gerne mit Ihnen eine Amnesie gespricht führen.
+
+6
+00:00:18,140 --> 00:00:20,140
+Sind Sie damit einverstanden?
+
+7
+00:00:20,140 --> 00:00:22,140
+Ja, natürlich.
+
+8
+00:00:22,140 --> 00:00:26,140
+Bevor wir über Ihre aktuelle Beschwerden sprechen,
+
+9
+00:00:26,140 --> 00:00:30,140
+möchte ich zuerst Ihre personische Daten erfahren.
+
+10
+00:00:30,140 --> 00:00:32,140
+Wie heißen Sie?
+
+11
+00:00:32,140 --> 00:00:39,570
+Ich heiße Michael Schmitz.
+
+12
+00:00:39,570 --> 00:00:42,570
+Schmitz mit D und T.
+
+13
+00:00:42,570 --> 00:00:45,570
+Mit DT, richtig, ja.
+
+14
+00:00:45,570 --> 00:00:50,570
+Okay. Herr Schmitz, wie alt sind Sie?
+
+15
+00:00:50,570 --> 00:00:52,570
+Ich bin 38 Jahre alt.
+
+16
+00:00:52,570 --> 00:00:59,790
+Wann sind Sie genau geboren?
+
+17
+00:00:59,790 --> 00:01:01,790
+Wann bin ich geboren?
+
+18
+00:01:01,790 --> 00:01:10,790
+Ich bin am 15. Juni 1984 geboren.
+
+19
+00:01:10,790 --> 00:01:17,090
+Okay. Wie viel wiegen Sie?
+
+20
+00:01:17,090 --> 00:01:22,330
+Ich wiege 72 kg.
+
+21
+00:01:22,330 --> 00:01:24,330
+Wie groß sind Sie?
+
+22
+00:01:24,330 --> 00:01:27,330
+Ich bin 1,76 m.
+
+23
+00:01:27,330 --> 00:01:33,250
+Okay. Herr Schmitz, was für die Beschwerden haben Sie?
+
+24
+00:01:33,250 --> 00:01:35,250
+Wie kann ich Ihnen helfen?
+
+25
+00:01:35,250 --> 00:01:46,290
+Ich habe seit ungefähr 8 Wochen immer wieder Fieber.
+
+26
+00:01:46,290 --> 00:01:50,290
+Ich kriege schlecht Luft.
+
+27
+00:01:50,290 --> 00:01:55,290
+Ich war damit vor 6 Wochen in der Uniklinik.
+
+28
+00:01:55,290 --> 00:02:00,290
+Die haben mir in die Nasennebenhöhlen reingeguckt.
+
+29
+00:02:00,290 --> 00:02:04,290
+Die haben gesagt, ich hätte eine Nasennebenhöhlenentzündung.
+
+30
+00:02:04,290 --> 00:02:08,290
+Ich habe 10 Tage Antibiotika-Therapie bekommen.
+
+31
+00:02:08,290 --> 00:02:11,290
+Die haben mich nach Hause geschickt.
+
+32
+00:02:11,290 --> 00:02:14,290
+Wenige Tage später hat das Ganze wieder angefangen.
+
+33
+00:02:14,290 --> 00:02:17,290
+Jetzt schwitzt sich mir verrückt.
+
+34
+00:02:17,290 --> 00:02:19,290
+Ich habe ein Gewicht verloren.
+
+35
+00:02:19,290 --> 00:02:21,290
+Ich kann nichts mehr essen.
+
+36
+00:02:21,290 --> 00:02:27,450
+Ich weiß nicht, was ich machen soll.
+
+37
+00:02:27,450 --> 00:02:29,450
+Ja, ein Disklone.
+
+38
+00:02:29,450 --> 00:02:41,350
+Ja, zuerst möchte ich über Fieber sprechen.
+
+39
+00:02:41,350 --> 00:02:45,350
+Seit 8 Wochen haben Sie Fieber.
+
+40
+00:02:45,350 --> 00:02:50,350
+Wie hoch ist ungefähr Fieber?
+
+41
+00:02:50,350 --> 00:02:58,350
+Das letzte Mal, als ich gemessen habe, waren es 39,5°C.
+
+42
+00:02:58,350 --> 00:03:06,690
+Ja, haben Sie dagegen etwas eingenommen?
+
+43
+00:03:06,690 --> 00:03:09,690
+Ich habe öfters Paracetamol genommen.
+
+44
+00:03:09,690 --> 00:03:16,090
+Das geht runter, aber ein paar Stunden später kommt es wieder hoch.
+
+45
+00:03:16,090 --> 00:03:22,100
+Ja.
+
+46
+00:03:22,100 --> 00:03:27,100
+Über Ihre Luftnoten.
+
+47
+00:03:27,100 --> 00:03:35,100
+Tritt diese Luftnoten bei Belastung auf oder auch in Ruhe.
+
+48
+00:03:35,100 --> 00:03:37,100
+Ich habe keine Luftnoten.
+
+49
+00:03:37,100 --> 00:03:40,100
+Ich kriege nur durch die Nase keine Luft.
+
+50
+00:03:40,100 --> 00:03:44,100
+Ach so, okay.
+
+51
+00:03:44,100 --> 00:03:54,340
+Haben Sie vorher oder früher andere Infektionen überstanden,
+
+52
+00:03:54,340 --> 00:04:00,340
+außer Nase neben der Entzündung?
+
+53
+00:04:00,340 --> 00:04:02,340
+Nein, nicht, dass ich wüsste.
+
+54
+00:04:02,340 --> 00:04:06,140
+Ich glaube, es ist ja immer gern gesund.
+
+55
+00:04:06,140 --> 00:04:11,140
+Aber Sie haben häufiger diese Entzündung?
+
+56
+00:04:11,140 --> 00:04:15,140
+Nein, wie gesagt, ich habe diese Beschwerden seit 8 Wochen.
+
+57
+00:04:15,140 --> 00:04:20,820
+Aber hier habe ich so etwas nie gehabt?
+
+58
+00:04:20,820 --> 00:04:25,820
+Ja, aber Sie haben erwähnt, dass Sie vor 6 Wochen
+
+59
+00:04:25,820 --> 00:04:32,820
+eine Nase neben der Entzündung diagnostizieren.
+
+60
+00:04:32,820 --> 00:04:36,820
+Dann haben Sie Antwiottigung eingenommen,
+
+61
+00:04:36,820 --> 00:04:43,820
+aber trotzdem wieder Infektionen bekommen.
+
+62
+00:04:43,820 --> 00:04:46,820
+Ich weiß nicht, ob das eine Infektion ist.
+
+63
+00:04:46,820 --> 00:04:52,820
+Wie viel haben Sie erwähnt, dass Sie Gewissverlust bekommen?
+
+64
+00:04:52,820 --> 00:04:55,820
+Wie viel Kilogramm?
+
+65
+00:04:55,820 --> 00:04:59,820
+In den letzten 8 Wochen waren es ungefähr 5 bis 6 Wochen.
+
+66
+00:04:59,820 --> 00:05:02,820
+Ich habe nicht mehr gewusst, wie viel Kilogramm.
+
+67
+00:05:02,820 --> 00:05:09,820
+Ich habe nicht mehr gewusst, wie viel Kilogramm.
+
+68
+00:05:09,820 --> 00:05:12,820
+Ich habe nicht mehr gewusst, wie viel Kilogramm.
+
+69
+00:05:12,820 --> 00:05:15,820
+Ich habe nicht mehr gewusst, wie viel Kilogramm.
+
+70
+00:05:15,820 --> 00:05:17,820
+Wie viel Kilogramm?
+
+71
+00:05:17,820 --> 00:05:21,820
+In den letzten 8 Wochen waren es ungefähr 8 Kilogramm.
+
+72
+00:05:21,820 --> 00:05:35,510
+Ist das unwillkürlich oder wie ist Ihr Appetit?
+
+73
+00:05:35,510 --> 00:05:40,510
+Mein Appetit ist in den letzten 8 Wochen schlechter geworden.
+
+74
+00:05:40,510 --> 00:05:52,010
+Das Schwitzen.
+
+75
+00:05:52,010 --> 00:05:56,010
+Meinen Sie nach Schweiß oder Kalzenschweiß?
+
+76
+00:05:57,010 --> 00:06:01,010
+Ich schwitze sowohl Tag und Nacht.
+
+77
+00:06:01,010 --> 00:06:06,010
+Müssten Sie Nachtwäsche wechseln?
+
+78
+00:06:06,010 --> 00:06:10,010
+Nun wieder, das Bett ist dann völlig nass geschwitzt.
+
+79
+00:06:10,010 --> 00:06:14,010
+Ich stehe dann auf, mache die Bettwäsche neu und ziehe mich herum.
+
+80
+00:06:14,010 --> 00:06:19,010
+Bekommen Sie Stufrost?
+
+81
+00:06:19,010 --> 00:06:25,010
+Manchmal, wenn ich nass geschwitzt bin, dann ist mir auch kalz.
+
+82
+00:06:25,010 --> 00:06:38,060
+Herr Schmiss, haben Sie bemerkt, dass in Ihre Körperteile Blaufläcken?
+
+83
+00:06:38,060 --> 00:06:49,660
+Blaufläcken habe ich nicht bemerkt.
+
+84
+00:06:49,660 --> 00:06:59,660
+Oder ist Ihnen z.B. Nasenbluten oder Sandfleischbluten aufgefallen?
+
+85
+00:06:59,660 --> 00:07:10,630
+Nein, das habe ich auch nicht.
+
+86
+00:07:10,630 --> 00:07:14,630
+Ist Ihnen übel?
+
+87
+00:07:14,630 --> 00:07:16,630
+Nein, Übelkeit habe ich nicht.
+
+88
+00:07:16,630 --> 00:07:19,630
+Müssten Sie sich übergeben?
+
+89
+00:07:19,630 --> 00:07:22,980
+Nein, das habe ich auch noch nicht.
+
+90
+00:07:22,980 --> 00:07:30,980
+Haben Sie Kopfschmerzen oder andere Beschwerden?
+
+91
+00:07:30,980 --> 00:07:40,980
+Ich habe ein bisschen Kopfschmerzen im vorderen Gesichtbereich, aber das habe ich früher nicht gehabt.
+
+92
+00:07:40,980 --> 00:07:52,770
+Wann haben Sie Antibiotik im Leicesters eingenommen?
+
+93
+00:07:52,770 --> 00:07:57,770
+Das sind, wie gesagt, ungefähr sechs Wochen her.
+
+94
+00:07:57,770 --> 00:08:02,770
+Ansonsten in Nähe keine Antibiotika?
+
+95
+00:08:02,770 --> 00:08:07,770
+Nein, in den letzten Tagen habe ich keine Antibiotika genommen.
+
+96
+00:08:07,770 --> 00:08:20,240
+Haben Sie Probleme beim Maserlassen oder Stuhlgang?
+
+97
+00:08:20,240 --> 00:08:25,340
+Nein, habe ich nicht.
+
+98
+00:08:25,340 --> 00:08:29,780
+Oder kriegen Sie Luftnot?
+
+99
+00:08:29,780 --> 00:08:31,780
+Nein, Luftnot kriege ich auch nicht.
+
+100
+00:08:31,780 --> 00:08:37,780
+Ich habe nur das Gefühl, meine Nasen sind zu und ich kriege keine Luft.
+
+101
+00:08:37,780 --> 00:08:40,780
+Ja, das ist klar verstanden.
+
+102
+00:08:40,780 --> 00:08:45,780
+Haben Sie Herzklopfen oder Herzrasen wahrgenommen?
+
+103
+00:08:45,780 --> 00:08:52,460
+Nein, ich bin nicht aufgefallen.
+
+104
+00:08:52,460 --> 00:09:05,460
+Ist Ihnen in Ihrer irgendein Lämpfknoten vergrößert oder aufgefallen?
+
+105
+00:09:05,460 --> 00:09:11,580
+Nein, mehr habe ich jetzt nicht bemerkt.
+
+106
+00:09:11,580 --> 00:09:15,580
+Ist Ihnen schwindelig?
+
+107
+00:09:15,580 --> 00:09:20,600
+Nein, schwindel habe ich auch nicht.
+
+108
+00:09:20,600 --> 00:09:24,600
+Fühlen Sie sich müde?
+
+109
+00:09:24,600 --> 00:09:27,600
+Also in den letzten Wochen zunehmend.
+
+110
+00:09:27,600 --> 00:09:30,600
+Leistungsschwer, ich bin nicht mehr.
+
+111
+00:09:30,600 --> 00:09:32,600
+Also arbeiten kann ich nicht damit.
+
+112
+00:09:35,710 --> 00:09:45,940
+Haben Sie Schwierigkeiten, durchzuschlafen?
+
+113
+00:09:45,940 --> 00:09:49,940
+Klar, ich kriege dann keine Luft.
+
+114
+00:09:49,940 --> 00:09:53,940
+Ich muss dann durch den Mund atmen, dann trocknet mir alles aus.
+
+115
+00:09:53,940 --> 00:09:57,940
+Dann wache ich auf und kann dann nicht mehr weiter schlafen.
+
+116
+00:09:57,940 --> 00:10:04,230
+Okay.
+
+117
+00:10:04,230 --> 00:10:16,340
+Waren Sie in der letzten Zeit beim Hausarzt oder anderen Arzt gewesen außer Uniklinik?
+
+118
+00:10:16,340 --> 00:10:20,590
+Ja, nochmal bei einem HNO-Arzt.
+
+119
+00:10:20,590 --> 00:10:25,590
+Aber auch der hatte gesagt, das sieht aus wie eine Nasennehmendenzündung.
+
+120
+00:10:25,590 --> 00:10:29,590
+Ich wollte mir wieder Antibiotika verschreiben, habe ich abgelehnt.
+
+121
+00:10:29,590 --> 00:10:34,590
+Ansonsten waren Sie noch an der Arzt gewesen?
+
+122
+00:10:34,590 --> 00:10:37,590
+Nein, sonst war ich bei keinem anderen Arzt.
+
+123
+00:10:37,590 --> 00:10:39,590
+Jetzt bin ich hier, weil es nicht mehr geht.
+
+124
+00:10:39,590 --> 00:10:41,590
+Ich schaffe es nicht mehr.
+
+125
+00:10:41,590 --> 00:10:44,590
+Ja, alles klar, Herr Schmidt.
+
+126
+00:10:44,590 --> 00:10:49,590
+Leiden Sie an irgendeinem Zweifel der chronischen Erkrankungen?
+
+127
+00:10:49,590 --> 00:10:56,590
+Wie Bluthochdrück, Zuckerkrankheit, Schilddrösen, dysfunktionen?
+
+128
+00:10:56,590 --> 00:10:58,590
+Nein, habe ich nicht.
+
+129
+00:10:58,590 --> 00:11:01,590
+Sie haben keine Vorerkrankungen?
+
+130
+00:11:02,590 --> 00:11:05,590
+Nein, ich habe keine Vorerkrankungen.
+
+131
+00:11:05,590 --> 00:11:07,590
+Das will ich daraus sagen.
+
+132
+00:11:07,590 --> 00:11:10,590
+Ich bin 38 Jahre alt, ich will ja nicht krank sein.
+
+133
+00:11:10,590 --> 00:11:19,590
+Trost, da muss ich fragen, nehmen Sie regelmäßig oder bei Bedarf Medikamente ein?
+
+134
+00:11:19,590 --> 00:11:23,800
+Nee, gar keine.
+
+135
+00:11:23,800 --> 00:11:30,240
+Ist bei Ihnen irgendwelche Allergien oder Unverträglichkeiten bekannt?
+
+136
+00:11:30,240 --> 00:11:34,240
+Nee, nicht dass ich wüsste.
+
+137
+00:11:34,240 --> 00:11:39,240
+Sind Sie vorstandig geimpft?
+
+138
+00:11:39,240 --> 00:11:43,740
+Sie meinen jetzt gegen Covid?
+
+139
+00:11:43,740 --> 00:11:44,740
+Genau.
+
+140
+00:11:44,740 --> 00:11:48,740
+Ja, gegen Covid, wenn ich geimpft und geboost habe.
+
+141
+00:11:48,740 --> 00:11:50,740
+Super.
+
+142
+00:11:50,740 --> 00:11:54,740
+Waren Sie in der letzten Zeit im Ausland gewesen?
+
+143
+00:11:54,740 --> 00:12:00,740
+Nein, ich bin seit der Pandemie nicht mehr im Ausland gewesen.
+
+144
+00:12:00,740 --> 00:12:02,740
+Alles klar.
+
+145
+00:12:03,740 --> 00:12:07,740
+Herr Schmidt, rauchen Sie?
+
+146
+00:12:07,740 --> 00:12:12,310
+Ich rauche nicht, nein.
+
+147
+00:12:12,310 --> 00:12:14,310
+Trinken Sie Alkohol?
+
+148
+00:12:14,310 --> 00:12:23,260
+Grundsälten, wenn ich mal irgendwo eingeladen bin, vielleicht zum Abendessen oder so, aber sonst nicht.
+
+149
+00:12:23,260 --> 00:12:29,860
+Nehmen Sie sonstige Drogen?
+
+150
+00:12:29,860 --> 00:12:33,860
+Drogen, nein, nein, ich habe nichts mit Drogen am Hut.
+
+151
+00:12:33,860 --> 00:12:36,860
+Alles gut.
+
+152
+00:12:36,860 --> 00:12:40,860
+Was sind Sie von der Ruf Herr Schmidt?
+
+153
+00:12:40,860 --> 00:12:42,860
+Ich bin Ingenieur.
+
+154
+00:12:42,860 --> 00:12:49,200
+Welche Ingenieur sind Sie?
+
+155
+00:12:49,200 --> 00:12:56,580
+Ich bin Maschinenbau-Ingenieur.
+
+156
+00:12:56,580 --> 00:12:58,580
+Okay.
+
+157
+00:12:58,580 --> 00:13:01,580
+Sind Sie verheiratet?
+
+158
+00:13:01,580 --> 00:13:07,450
+Warum nicht verheiratet?
+
+159
+00:13:07,450 --> 00:13:09,450
+Haben Sie Kinder?
+
+160
+00:13:09,450 --> 00:13:11,450
+Ich habe keine Kinder.
+
+161
+00:13:11,450 --> 00:13:15,700
+Wollen Sie alleine?
+
+162
+00:13:15,700 --> 00:13:21,150
+Ja, ich bin alleine.
+
+163
+00:13:21,150 --> 00:13:27,150
+Herr Schmidt, leben Ihre Eltern noch?
+
+164
+00:13:27,150 --> 00:13:31,150
+Ja, die sind noch am Leben.
+
+165
+00:13:31,150 --> 00:13:41,560
+Ja, ist in Ihrer Familie oder Ihre Eltern eine kranische Erkrankung bekannt?
+
+166
+00:13:41,560 --> 00:13:46,560
+Also meine Mutter hat ein bisschen mit Blutdruck zu kämpfen.
+
+167
+00:13:46,560 --> 00:13:51,560
+Und mein Vater hatte mal einen Herzinfarkt gehabt, aber sonst wüsste ich nicht.
+
+168
+00:13:51,560 --> 00:13:55,450
+Alles klar.
+
+169
+00:13:55,450 --> 00:13:57,450
+Haben Sie Geschwister?
+
+170
+00:13:57,450 --> 00:13:59,450
+Nein, ich habe keine Geschwister.
+
+171
+00:13:59,450 --> 00:14:03,850
+Okay.
+
+172
+00:14:03,850 --> 00:14:09,850
+Herr Schmidt, ich würde ein paar Fragen über Ihre aktuellen Wäsche stellen.
+
+173
+00:14:09,850 --> 00:14:17,850
+Leiden Sie unter Selbststörungen oder O-A-Störungen?
+
+174
+00:14:17,850 --> 00:14:19,850
+Nein, habe ich nicht.
+
+175
+00:14:19,850 --> 00:14:34,660
+Hatten Sie einen Unfall?
+
+176
+00:14:35,660 --> 00:14:37,660
+Nein, unfalle ich nicht.
+
+177
+00:14:37,660 --> 00:14:47,110
+Okay.
+
+178
+00:14:47,110 --> 00:14:58,900
+Herr Schmidt, meinerseits habe ich alle wichtige Fragen gestellt.
+
+179
+00:14:58,900 --> 00:15:02,900
+Möchten Sie etwas hinzufügen?
+
+180
+00:15:02,900 --> 00:15:09,900
+Nein, ich möchte nur, dass das aufhört, das mit dem Schwitzen
+
+181
+00:15:09,900 --> 00:15:13,900
+und das Luft wieder durch die Nase bekommen.
+
+182
+00:15:13,900 --> 00:15:17,790
+Okay.
+
+183
+00:15:17,790 --> 00:15:25,790
+Ich möchte Ihnen erklären, was ich machen möchte.
+
+184
+00:15:25,790 --> 00:15:29,790
+Jetzt werde ich Sie körperlich untersuchen,
+
+185
+00:15:29,790 --> 00:15:33,790
+dann ein paar Diagnose-Massnahmen durchführen.
+
+186
+00:15:33,790 --> 00:15:35,790
+Ja.
+
+187
+00:15:35,790 --> 00:15:43,790
+Nach dem Ergebnis der Untersuchung und Laborergebnisse
+
+188
+00:15:43,790 --> 00:15:47,790
+spreche ich mit Ihnen noch einmal.
+
+189
+00:15:47,790 --> 00:15:48,790
+Okay?
+
+190
+00:15:48,790 --> 00:15:50,790
+Ja, gerne.
+
+191
+00:15:50,790 --> 00:15:52,790
+Danke schön.
+
+192
+00:15:52,790 --> 00:15:57,030
+Bitte.
+
+193
+00:15:57,030 --> 00:16:04,150
+Haben Kollegen noch Fragen?
+
+194
+00:16:04,150 --> 00:16:07,150
+Haben Sie Kontakt mit dem Drogen?
+
+195
+00:16:07,150 --> 00:16:10,150
+Vorne habe ich keine.
+
+196
+00:16:11,150 --> 00:16:15,150
+Leiden Sie unter Husten?
+
+197
+00:16:15,150 --> 00:16:19,500
+Nein, nicht.
+
+198
+00:16:19,500 --> 00:16:24,500
+Ist Ihnen dafür einen Auslöser gefallen?
+
+199
+00:16:24,500 --> 00:16:27,500
+Aufgefahren?
+
+200
+00:16:27,500 --> 00:16:30,500
+Nein.
+
+201
+00:16:30,500 --> 00:16:35,500
+Ich habe keine Allergien und einen Auslöser,
+
+202
+00:16:35,500 --> 00:16:38,500
+dafür kenne ich auch nicht.
+
+203
+00:16:38,500 --> 00:16:47,830
+Ich habe noch eine Frage.
+
+204
+00:16:47,830 --> 00:16:56,560
+Haben Sie Partner oder Partnerin?
+
+205
+00:16:56,560 --> 00:17:00,560
+Nein, seit einem Jahr keine Partnerin.
+
+206
+00:17:00,560 --> 00:17:05,860
+Aber vorher ja.
+
+207
+00:17:05,860 --> 00:17:17,820
+Vorher hatte ich eine Freundin, ja.
+
+208
+00:17:17,820 --> 00:17:19,820
+Keine Frage.
+
+209
+00:17:19,820 --> 00:17:22,820
+Haben Arsanski-Sprich anfangen?
+
+210
+00:17:22,820 --> 00:17:25,820
+Ja, können wir gerne bekannten.
+
+211
+00:17:25,820 --> 00:17:28,820
+Ich habe noch eine Frage.
+
+212
+00:17:28,820 --> 00:17:33,820
+Spülen Sie Schleim im Raffen?
+
+213
+00:17:33,820 --> 00:17:36,820
+Nein, Schleimproduktion habe ich nicht.
+
+214
+00:17:36,820 --> 00:17:39,820
+Und Husten habe ich auch nicht.
+
+215
+00:17:39,820 --> 00:17:41,820
+Läuft ihr eine Nase?
+
+216
+00:17:41,820 --> 00:17:44,820
+Oder haben Sie nur Verstoffen?
+
+217
+00:17:44,820 --> 00:17:47,820
+Verstoffen, da läuft nichts.
+
+218
+00:17:47,820 --> 00:18:01,310
+Okay.
+
+219
+00:18:01,310 --> 00:18:04,940
+Danke schön.
+
+220
+00:18:04,940 --> 00:18:07,940
+Guten Tag Herr Oberast.
+
+221
+00:18:07,940 --> 00:18:13,940
+Ich habe heute einen neuen Patient eingenommen.
+
+222
+00:18:13,940 --> 00:18:19,940
+Denn ich möchte den Innenvorstellern.
+
+223
+00:18:19,940 --> 00:18:23,940
+Okay.
+
+224
+00:18:23,940 --> 00:18:27,940
+Der Patient heißt Michael Schmidt.
+
+225
+00:18:27,940 --> 00:18:34,940
+Er ist 38 Jahre alt und ist am 15.6. 1984 geboren.
+
+226
+00:18:34,940 --> 00:18:40,940
+Er ist 72 kg schwer und 1,76 m groß.
+
+227
+00:18:40,940 --> 00:18:48,940
+Der Patient stellte sich bei uns wegen seit acht Wochen bestehender
+
+228
+00:18:48,940 --> 00:18:54,940
+persisterenden Fieber und Gewichtsabnahme.
+
+229
+00:18:54,940 --> 00:19:00,940
+Er hat 8 kg in den acht Wochen.
+
+230
+00:19:00,940 --> 00:19:08,220
+Und Hyperhydrosis und Hyperhydrosis vor.
+
+231
+00:19:08,220 --> 00:19:11,220
+Das ist nicht ganz korrekt.
+
+232
+00:19:11,220 --> 00:19:14,220
+Das ist eine Hyperhydrosis.
+
+233
+00:19:14,220 --> 00:19:17,220
+Nachtschweiß ist nicht Hyperhydrosis.
+
+234
+00:19:17,220 --> 00:19:21,220
+In diesem Falle will man die Besymptomatik in den Vordergrund stellen.
+
+235
+00:19:21,220 --> 00:19:25,220
+Nachtschweiß.
+
+236
+00:19:25,220 --> 00:19:28,220
+Nachtschweiß.
+
+237
+00:19:28,220 --> 00:19:31,220
+Das ist der Fieber.
+
+238
+00:19:31,220 --> 00:19:34,220
+Gewichtsabnahme und Nachtschweiß.
+
+239
+00:19:34,220 --> 00:19:39,760
+Die Netman weiß, zusammen?
+
+240
+00:19:39,760 --> 00:19:42,760
+Besymptomatik.
+
+241
+00:19:42,760 --> 00:19:45,760
+Ja, die Besymptomatik.
+
+242
+00:19:45,760 --> 00:19:48,760
+Besymptomatik.
+
+243
+00:19:48,760 --> 00:20:05,760
+Sie berichtete, dass er vor sechs Wochen wegen Sinusitis
+
+244
+00:20:05,760 --> 00:20:10,760
+mit Antibiotikum behandelt wurde.
+
+245
+00:20:11,760 --> 00:20:25,060
+Aber nach dem Antibiotikum haben wir wieder einiges Probleme gehabt.
+
+246
+00:20:25,060 --> 00:20:29,730
+Die Frage,
+
+247
+00:20:29,730 --> 00:20:35,730
+dass die Hypotomalyspne,
+
+248
+00:20:35,730 --> 00:20:39,730
+Selbststörungen oder Lymphopathie
+
+249
+00:20:39,730 --> 00:20:42,730
+verneint wurden.
+
+250
+00:20:42,730 --> 00:20:48,730
+Die haben auch Müdigkeit und Lastung,
+
+251
+00:20:48,730 --> 00:20:56,170
+mindere, die vegetativ anamnesen.
+
+252
+00:20:56,170 --> 00:20:59,170
+Besymptomatik.
+
+253
+00:20:59,170 --> 00:21:04,170
+Außerdem klagt er in Appetenz und Insomnia.
+
+254
+00:21:04,170 --> 00:21:07,170
+Es ist keine Vorerkrankungen bekannt.
+
+255
+00:21:07,170 --> 00:21:11,170
+Er nehme keine Medikamente.
+
+256
+00:21:11,170 --> 00:21:15,990
+Begülmäßig ein.
+
+257
+00:21:15,990 --> 00:21:18,990
+Es ist eine andere Medikamente.
+
+258
+00:21:18,990 --> 00:21:21,990
+Es ist eine andere Medikamente.
+
+259
+00:21:21,990 --> 00:21:25,990
+Er nehme keine Medikamente.
+
+260
+00:21:25,990 --> 00:21:28,990
+Begülmäßig ein.
+
+261
+00:21:28,990 --> 00:21:32,990
+Er reise anamnesen ist unauffällig.
+
+262
+00:21:32,990 --> 00:21:35,990
+Er ist Machine-Bauer, Engineer.
+
+263
+00:21:35,990 --> 00:21:42,990
+Er ist Single und habe keine Kinder.
+
+264
+00:21:42,990 --> 00:21:46,990
+Er wohnt allein.
+
+265
+00:21:46,990 --> 00:21:50,990
+Er ist Unaufhällig.
+
+266
+00:21:50,990 --> 00:22:04,990
+Er leidet seine Mutter an Hypertonie.
+
+267
+00:22:04,990 --> 00:22:11,170
+Man leidet nicht an Hypertonie.
+
+268
+00:22:11,170 --> 00:22:14,170
+Man leidet nicht an Hypertonie.
+
+269
+00:22:14,170 --> 00:22:17,170
+Man leidet nicht an Hypertonie.
+
+270
+00:22:17,170 --> 00:22:20,170
+Man leidet nicht an Hypertonie.
+
+271
+00:22:20,170 --> 00:22:23,170
+Man leidet nicht an Hypertonie.
+
+272
+00:22:23,170 --> 00:22:26,170
+Man leidet nicht an Hypertonie.
+
+273
+00:22:26,170 --> 00:22:29,170
+Man leidet nicht an Hypertonie.
+
+274
+00:22:29,170 --> 00:22:32,170
+Man leidet nicht an Hypertonie.
+
+275
+00:22:32,170 --> 00:22:35,170
+Man leidet nicht an Hypertonie.
+
+276
+00:22:35,170 --> 00:22:38,170
+Man leidet nicht an Hypertonie.
+
+277
+00:22:38,170 --> 00:22:41,170
+Man leidet nicht an Hypertonie.
+
+278
+00:22:41,170 --> 00:22:46,310
+Man leidet nicht an Hypertonie.
+
+279
+00:22:46,310 --> 00:22:48,310
+Die Anamnese ist so.
+
+280
+00:22:53,310 --> 00:22:56,310
+Nach bisherigen Angaben
+
+281
+00:23:01,420 --> 00:23:05,420
+gehe ich von einem
+
+282
+00:23:09,420 --> 00:23:14,420
+hematologische Malignite aus.
+
+283
+00:23:14,420 --> 00:23:18,420
+Sie vermuten, dass der eine Neoplasie hat.
+
+284
+00:23:22,420 --> 00:23:25,420
+Gehen wir Schritt für Schritt an die Sache ran.
+
+285
+00:23:25,420 --> 00:23:27,420
+Wenn Sie so jemanden bekommen,
+
+286
+00:23:27,420 --> 00:23:29,420
+Sie haben ihn untersucht.
+
+287
+00:23:29,420 --> 00:23:33,420
+Was machen Sie, wenn Sie den körperlichen untersuchen?
+
+288
+00:23:33,420 --> 00:23:37,960
+Wo nachschauen Sie, wenn Sie den untersuchen?
+
+289
+00:23:37,960 --> 00:23:40,960
+Ich inspeziere alle Körper,
+
+290
+00:23:40,960 --> 00:23:44,960
+ob es eine Hematom gibt oder
+
+291
+00:23:44,960 --> 00:23:46,960
+welche.
+
+292
+00:23:46,960 --> 00:23:48,960
+Was noch?
+
+293
+00:23:48,960 --> 00:23:50,960
+Man schaut auf der Hematom,
+
+294
+00:23:50,960 --> 00:23:54,340
+aber wo nachschaut man noch?
+
+295
+00:23:54,340 --> 00:23:57,340
+Bei der Inspektion meinen Sie.
+
+296
+00:23:57,340 --> 00:24:02,000
+Ja, bei den körperlichen Untersuchungen.
+
+297
+00:24:02,000 --> 00:24:05,000
+Zum Beispiel irgendwo Lymphknoten
+
+298
+00:24:05,000 --> 00:24:07,000
+zu tasten.
+
+299
+00:24:07,000 --> 00:24:10,000
+Ja, von Hals bis in die Leisten.
+
+300
+00:24:10,000 --> 00:24:12,000
+Was machen Sie noch?
+
+301
+00:24:12,000 --> 00:24:15,000
+Sie gucken, ob die Milztast bei ist.
+
+302
+00:24:15,000 --> 00:24:17,000
+Sie gucken zum Beispiel,
+
+303
+00:24:17,000 --> 00:24:20,000
+ob irgendwelche Resistenzen im Bauchraum da sind,
+
+304
+00:24:20,000 --> 00:24:22,000
+die Sie spüren.
+
+305
+00:24:22,000 --> 00:24:24,000
+Wir haben ihn aber untersucht
+
+306
+00:24:24,000 --> 00:24:26,000
+und Ihnen ist nichts aufgefallen.
+
+307
+00:24:26,000 --> 00:24:28,000
+Hat keine Lymphknoten
+
+308
+00:24:28,000 --> 00:24:31,250
+und die Milztast aber nicht tastbar.
+
+309
+00:24:31,250 --> 00:24:33,250
+Wenn jemand in die Notaufnahme kommt,
+
+310
+00:24:33,250 --> 00:24:36,250
+dann nehmen Sie ja auch nur Blut auf.
+
+311
+00:24:36,250 --> 00:24:39,250
+Ja, ich nehme Blut ab,
+
+312
+00:24:39,250 --> 00:24:42,250
+bei der Untersuchung besteh' ich die Pferanzielle.
+
+313
+00:24:42,250 --> 00:24:45,250
+Der Blut bietet auch
+
+314
+00:24:45,250 --> 00:24:49,780
+Leberwerte.
+
+315
+00:24:49,780 --> 00:24:52,780
+Leberwerte,
+
+316
+00:24:52,780 --> 00:24:55,780
+Sie gucken dann Nierenwerten,
+
+317
+00:24:55,780 --> 00:24:58,780
+Elektrolyte
+
+318
+00:24:58,780 --> 00:25:01,780
+und Entzündungsparameter
+
+319
+00:25:01,780 --> 00:25:04,780
+und dann schauen Sie mal.
+
+320
+00:25:04,780 --> 00:25:07,780
+Ja, und Knochen mag
+
+321
+00:25:07,780 --> 00:25:10,780
+das.
+
+322
+00:25:10,780 --> 00:25:13,780
+Ja, nur langsam, das mag ja schon sein,
+
+323
+00:25:13,780 --> 00:25:16,780
+aber das ist eine Knochenmachskunktion.
+
+324
+00:25:16,780 --> 00:25:19,780
+Sie sehen im Labor
+
+325
+00:25:19,780 --> 00:25:21,780
+ein völlig normales Blutbild.
+
+326
+00:25:21,780 --> 00:25:29,710
+Machen Sie trotzdem eine Knochenmachskunktion?
+
+327
+00:25:29,710 --> 00:25:32,710
+Ja, kann ich machen,
+
+328
+00:25:32,710 --> 00:25:35,710
+weil der Passierend hat B-Symptomatik.
+
+329
+00:25:35,710 --> 00:25:38,710
+Ja.
+
+330
+00:25:38,710 --> 00:25:41,710
+Ich spiele für eine maligmütze.
+
+331
+00:25:41,710 --> 00:25:44,710
+Ja, nicht ganz richtig.
+
+332
+00:25:44,710 --> 00:25:47,710
+Aber am Ende werden Sie wissen, warum.
+
+333
+00:25:47,710 --> 00:25:50,710
+Nur wenn jetzt jemand kommt
+
+334
+00:25:50,710 --> 00:25:53,710
+mit solchen Symptomen,
+
+335
+00:25:53,710 --> 00:25:56,710
+dann müssen Sie Schritt für Schritt strategisch vorgehen.
+
+336
+00:25:56,710 --> 00:25:59,710
+Sie haben die Information,
+
+337
+00:25:59,710 --> 00:26:02,710
+die HNR-Ärzte haben den Verdacht,
+
+338
+00:26:02,710 --> 00:26:05,710
+auf eine Sinusitis gehabt.
+
+339
+00:26:05,710 --> 00:26:08,710
+Und er hat immer noch Lustnot.
+
+340
+00:26:08,710 --> 00:26:11,710
+Wir haben Labor abgenommen und sehen,
+
+341
+00:26:11,710 --> 00:26:14,710
+dass der Entzündungswert nur leicht erhöht ist,
+
+342
+00:26:14,710 --> 00:26:17,710
+dass die Erkürzungen ein bisschen erhöht sind.
+
+343
+00:26:17,710 --> 00:26:20,710
+Aber Sie sehen keine Knochenmark,
+
+344
+00:26:20,710 --> 00:26:23,710
+fremden oder Knochenmark,
+
+345
+00:26:23,710 --> 00:26:26,710
+die Zellen im herüfferen Blut.
+
+346
+00:26:26,710 --> 00:26:29,710
+Sie haben überhaupt keinen Hinweis
+
+347
+00:26:29,710 --> 00:26:32,710
+für eine hematologische Erkrankung.
+
+348
+00:26:32,710 --> 00:26:35,710
+Was machen Sie dann?
+
+349
+00:26:35,710 --> 00:26:38,710
+Jetzt müssen Sie Schritt für Schritt vorgehen.
+
+350
+00:26:38,710 --> 00:26:41,710
+Er sagt, da kriegt keine Luft, die Nasen sind geschwollen.
+
+351
+00:26:41,710 --> 00:26:46,180
+Was würden Sie also machen?
+
+352
+00:26:46,180 --> 00:26:53,980
+Der nächste Schritt wäre ein CT oder MRT vom Kopf.
+
+353
+00:26:53,980 --> 00:26:56,980
+Die Nasen nehmen und einmal angucken.
+
+354
+00:26:56,980 --> 00:26:59,980
+Warum kriegt dieser Mensch keine Luft?
+
+355
+00:26:59,980 --> 00:27:02,980
+Der Radiologe sagt,
+
+356
+00:27:02,980 --> 00:27:05,980
+auf beiden Seiten die großen Kieferhöhlen,
+
+357
+00:27:05,980 --> 00:27:08,980
+die Sinus maxillaris,
+
+358
+00:27:08,980 --> 00:27:11,980
+sind beide ziemlich schleimhaut verdickt
+
+359
+00:27:11,980 --> 00:27:14,980
+und leicht segret verhalten.
+
+360
+00:27:14,980 --> 00:27:17,980
+Sie sagen, es ist noch merkwürdig.
+
+361
+00:27:17,980 --> 00:27:20,980
+Der hat Antibiotika erhalten und das ist nicht zurückgegangen.
+
+362
+00:27:20,980 --> 00:27:23,980
+Jetzt muss Ihnen sofort die phrenzialdiagnostische
+
+363
+00:27:23,980 --> 00:27:26,980
+etwas in den Kopf kommen.
+
+364
+00:27:26,980 --> 00:27:29,980
+Wenn es auf Antibiotikum nicht anspricht,
+
+365
+00:27:29,980 --> 00:27:32,980
+der hat B-Symptomatik.
+
+366
+00:27:32,980 --> 00:27:35,980
+Woran müssen Sie dann denken in dem Fall?
+
+367
+00:27:35,980 --> 00:27:41,000
+Wirklicherweise an ein Malignis, Lymphom.
+
+368
+00:27:41,000 --> 00:27:44,000
+Lymphom.
+
+369
+00:27:44,000 --> 00:27:47,000
+Wenn jemand den Verdacht auf Lymphom hat,
+
+370
+00:27:47,000 --> 00:27:50,000
+dann muss man etwas machen.
+
+371
+00:27:50,000 --> 00:27:53,000
+CT, Torax und Maptamen.
+
+372
+00:27:53,000 --> 00:27:56,000
+Ja, als Räderin.
+
+373
+00:27:56,000 --> 00:27:59,000
+Man macht einen Staging.
+
+374
+00:27:59,000 --> 00:28:02,000
+Man guckt sich, ob die Lymphknotenstationen
+
+375
+00:28:02,000 --> 00:28:05,000
+irgendetwas bieten oder nicht.
+
+376
+00:28:05,000 --> 00:28:08,000
+Jetzt machen Sie bei dem man einen CT
+
+377
+00:28:08,000 --> 00:28:11,000
+und der Radiologe sagt, es sind keine Lymphknoten.
+
+378
+00:28:11,000 --> 00:28:14,000
+Servikal, Thoracal oder Abdominal.
+
+379
+00:28:14,000 --> 00:28:17,000
+Das Einzige, was dem aufhält,
+
+380
+00:28:17,000 --> 00:28:20,000
+ist, die Milch ist so merkwürdig gepflegt.
+
+381
+00:28:20,000 --> 00:28:23,000
+Ja, in der Milch sind so
+
+382
+00:28:23,000 --> 00:28:26,000
+punktartige Veränderungen.
+
+383
+00:28:26,000 --> 00:28:29,000
+Aber ansonsten sieht er nichts aus, Elix.
+
+384
+00:28:29,000 --> 00:28:33,280
+Keine Splenomegalie?
+
+385
+00:28:33,280 --> 00:28:36,280
+Nein, keine Splenomegalie.
+
+386
+00:28:36,280 --> 00:28:43,280
+In fixios sein?
+
+387
+00:28:43,280 --> 00:28:46,280
+Wir müssen überlegen, was machen wir damit?
+
+388
+00:28:46,280 --> 00:28:49,280
+Ja.
+
+389
+00:28:49,280 --> 00:28:53,690
+Da hat schon jemand eine gute Idee.
+
+390
+00:28:53,690 --> 00:28:56,690
+Eine Biopsy-Mittel für eine Renospopie.
+
+391
+00:28:56,690 --> 00:28:59,690
+Also HNO-ärztliche Vorstellung.
+
+392
+00:28:59,690 --> 00:29:02,690
+Mit der Bitte,
+
+393
+00:29:02,690 --> 00:29:05,690
+dass aus der Nasenschleimhaut eine Probenz
+
+394
+00:29:05,690 --> 00:29:08,690
+genommen werden soll.
+
+395
+00:29:08,690 --> 00:29:11,690
+Das macht der HNO-Arzt, aber das ist nicht so.
+
+396
+00:29:11,690 --> 00:29:14,690
+Das macht der HNO-Arzt, aber der Pathologe sagt,
+
+397
+00:29:14,690 --> 00:29:17,690
+reaktiv nichts Schlimmes, nichts Malignisses.
+
+398
+00:29:17,690 --> 00:29:22,740
+Jetzt stehen wir wieder da, wo wir waren.
+
+399
+00:29:22,740 --> 00:29:25,740
+Was machen wir jetzt?
+
+400
+00:29:25,740 --> 00:29:36,900
+Die Idee mit der Tuverkulose ist nicht schlecht,
+
+401
+00:29:36,900 --> 00:29:39,900
+aber wie gesagt,
+
+402
+00:29:39,900 --> 00:29:42,900
+die Lunge ist frei, hat ja einen CT-Gegart
+
+403
+00:29:42,900 --> 00:29:45,900
+und das sind auch keine Lymphknoten,
+
+404
+00:29:45,900 --> 00:29:48,900
+vergrößert. Natürlich kann man jetzt sagen,
+
+405
+00:29:48,900 --> 00:29:51,900
+man kann ja einen Tuverkulinen-Test machen,
+
+406
+00:29:51,900 --> 00:29:54,900
+gucken, ob da irgendwie Kontakt
+
+407
+00:29:54,900 --> 00:29:57,900
+mit Tuverkulosebakterien stattgefunden hat
+
+408
+00:29:57,900 --> 00:30:00,900
+oder nicht.
+
+409
+00:30:00,900 --> 00:30:07,510
+Die machen den Test, der ist aber unauffällig.
+
+410
+00:30:07,510 --> 00:30:10,510
+Milz.
+
+411
+00:30:10,510 --> 00:30:13,510
+Was?
+
+412
+00:30:13,510 --> 00:30:16,510
+Ich bin Milz-Java.
+
+413
+00:30:16,510 --> 00:30:19,510
+Milz, was machen wir mit der Milz?
+
+414
+00:30:19,510 --> 00:30:24,240
+Die Probeentnahme.
+
+415
+00:30:24,240 --> 00:30:27,240
+Kann man in den Milz einfach so reinstichen?
+
+416
+00:30:27,240 --> 00:30:30,240
+Jetzt frage ich etwas, das ist natürlich gemein.
+
+417
+00:30:30,240 --> 00:30:39,610
+Früher hat man gesagt, aus der Milz kann man keine Probe nehmen.
+
+418
+00:30:39,610 --> 00:30:42,610
+Da hat man wahnsinnige Angst,
+
+419
+00:30:42,610 --> 00:30:45,610
+dass die Milz blutet oder einen Einriss gibt.
+
+420
+00:30:45,610 --> 00:30:48,610
+Aber mittlerweile macht man das,
+
+421
+00:30:48,610 --> 00:30:51,610
+tatsächlich.
+
+422
+00:30:51,610 --> 00:30:54,610
+Und wenn man die Milz nicht mehr hat,
+
+423
+00:30:54,610 --> 00:30:57,610
+dann ist das ein Problem.
+
+424
+00:30:57,610 --> 00:31:05,890
+Wer macht so etwas?
+
+425
+00:31:05,890 --> 00:31:08,890
+Das können der Gastroenterologen
+
+426
+00:31:08,890 --> 00:31:11,890
+sonografisch gesteuert machen.
+
+427
+00:31:11,890 --> 00:31:14,890
+Oder aber der Radiologe CT-gesteuert.
+
+428
+00:31:14,890 --> 00:31:17,890
+Die Gastroenterologen sagen,
+
+429
+00:31:17,890 --> 00:31:20,890
+in dem Fall,
+
+430
+00:31:20,890 --> 00:31:23,890
+dass Milz unter dem Rippenbogen versteckt ist,
+
+431
+00:31:23,890 --> 00:31:26,890
+dann möchten sie nicht dran gehen.
+
+432
+00:31:26,890 --> 00:31:31,260
+Das ist eine große Frage.
+
+433
+00:31:31,260 --> 00:31:34,260
+Der kriegt die Punktions, CT-gesteuerte Punktion.
+
+434
+00:31:34,260 --> 00:31:37,260
+Jetzt sind wir auf die Pathologie gespannt.
+
+435
+00:31:37,260 --> 00:31:40,260
+Was ist da rausgekommen?
+
+436
+00:31:40,260 --> 00:31:43,260
+Der Pathologe sagt,
+
+437
+00:31:43,260 --> 00:31:46,260
+er sieht vermehrt so
+
+438
+00:31:46,260 --> 00:31:49,260
+riesenzellartige Granuloma.
+
+439
+00:31:49,260 --> 00:31:57,480
+Was ist das dann?
+
+440
+00:31:57,480 --> 00:32:02,400
+Eine sogenannte Granulomatosa.
+
+441
+00:32:02,400 --> 00:32:05,400
+Was ist das dann?
+
+442
+00:32:05,400 --> 00:32:09,970
+So epithelitelige Granuloma.
+
+443
+00:32:09,970 --> 00:32:16,780
+Eine Sarkoidosa.
+
+444
+00:32:16,780 --> 00:32:19,780
+Jetzt stimmt nicht die Frage.
+
+445
+00:32:19,780 --> 00:32:22,780
+Sarkoidosa lungefrei.
+
+446
+00:32:22,780 --> 00:32:25,780
+Schleimhäute der Nase.
+
+447
+00:32:25,780 --> 00:32:28,780
+Und irgendwie nur die Milz.
+
+448
+00:32:28,780 --> 00:32:31,780
+Geht das?
+
+449
+00:32:31,780 --> 00:32:34,780
+Ja, das geht.
+
+450
+00:32:34,780 --> 00:32:37,780
+Es gibt verschiedene Formen der Sarkoidosa.
+
+451
+00:32:37,780 --> 00:32:40,780
+Es ist nicht nur eine Lungenkrankheit.
+
+452
+00:32:40,780 --> 00:32:43,780
+Es kann auch eine sogenannte Miljardarkoidosa geben.
+
+453
+00:32:43,780 --> 00:32:46,780
+Wie die Miljardroverkulose.
+
+454
+00:32:46,780 --> 00:32:49,780
+Das heißt, auch Organe können befallen sein.
+
+455
+00:32:49,780 --> 00:32:52,780
+Die Sarkoidosa kann eigentlich alles Mögliche befallen.
+
+456
+00:32:52,780 --> 00:32:55,780
+Die Haut, die Nase-Nebenhöhlen,
+
+457
+00:32:55,780 --> 00:32:58,780
+die Augen, Organe von Leber oder Milz.
+
+458
+00:32:58,780 --> 00:33:01,780
+Oder aber auch die Lungenalarmung.
+
+459
+00:33:01,780 --> 00:33:04,780
+Jetzt hat er keinen Lungenbefall.
+
+460
+00:33:04,780 --> 00:33:07,780
+Und wahrscheinlich einen Nase-Nebenhöhnenbefall,
+
+461
+00:33:07,780 --> 00:33:10,780
+den wir mit der Bio-Psy nicht nachweisen konnten.
+
+462
+00:33:10,780 --> 00:33:13,780
+Und die Milz beweist,
+
+463
+00:33:13,780 --> 00:33:16,780
+dass der eine Sarkoidosa.
+
+464
+00:33:16,780 --> 00:33:19,780
+Passt denn die Basium-Tomatik dazu?
+
+465
+00:33:19,780 --> 00:33:22,780
+Könnte sein.
+
+466
+00:33:22,780 --> 00:33:30,490
+Aber Sarkoidosa, nur Fieber,
+
+467
+00:33:30,490 --> 00:33:33,490
+gewischferlose,
+
+468
+00:33:33,490 --> 00:33:40,490
+nicht und meistens nicht nur
+
+469
+00:33:40,490 --> 00:33:43,490
+größere und hatralge.
+
+470
+00:33:43,490 --> 00:33:47,490
+Aber diese Patiente, keine
+
+471
+00:33:47,490 --> 00:33:50,490
+Symptome, nur Basium-Tomatik.
+
+472
+00:33:50,490 --> 00:33:53,490
+Nur Basium-Tomatik, genau so ist es.
+
+473
+00:33:53,490 --> 00:33:56,490
+Luftnot und Basium-Tomatik.
+
+474
+00:33:56,490 --> 00:33:59,490
+Was ich damit sagen will,
+
+475
+00:33:59,490 --> 00:34:02,490
+man darf nicht einfach nur nicht danach richten,
+
+476
+00:34:02,490 --> 00:34:05,490
+dass es nicht mehr in den Schönern steht,
+
+477
+00:34:05,490 --> 00:34:08,490
+dass das unbedingt diesen Verlauf haben muss.
+
+478
+00:34:08,490 --> 00:34:11,490
+Mit Atralgin, Lymphknotenvergrößerung.
+
+479
+00:34:11,490 --> 00:34:14,490
+Das muss nicht immer dabei sein.
+
+480
+00:34:14,490 --> 00:34:17,490
+Man muss einfach nur seine Theorie,
+
+481
+00:34:17,490 --> 00:34:20,490
+dass da etwas ist, was nicht dahin gehört.
+
+482
+00:34:20,490 --> 00:34:23,490
+Ich wollte von Ihnen auch nicht von Anfang an wissen,
+
+483
+00:34:23,490 --> 00:34:26,490
+dass das eine Sarkoidosa ist.
+
+484
+00:34:26,490 --> 00:34:29,490
+Die Diagnose kommt am Ende durch die Diagnostik heraus.
+
+485
+00:34:29,490 --> 00:34:32,490
+Sie sagen, da ist etwas nicht in Ordnung.
+
+486
+00:34:32,490 --> 00:34:35,490
+Da ist eine Basium-Tomatik.
+
+487
+00:34:35,490 --> 00:34:38,490
+Wenn ich klinisch nicht weiterkomme, mache ich Bildgebung.
+
+488
+00:34:38,490 --> 00:34:41,490
+Wenn ich damit nicht weiterkomme, mache ich eine Biopsie-Entnahme.
+
+489
+00:34:41,490 --> 00:34:44,490
+Hätte ich eine Lymphknoten-Exzipation vorgenommen,
+
+490
+00:34:44,490 --> 00:34:47,490
+aber wenn ich keine Lymphknoten habe,
+
+491
+00:34:47,490 --> 00:34:50,490
+muss ich eine Organpunktion machen.
+
+492
+00:34:50,490 --> 00:34:53,490
+Die Organpunktion ist beweisend.
+
+493
+00:34:53,490 --> 00:34:56,490
+Wenn ich weiß, dass es in der Milch
+
+494
+00:34:56,490 --> 00:34:59,490
+eine epitheliztelige Granulomatose,
+
+495
+00:34:59,490 --> 00:35:02,490
+also Sarkoidosa, nachgewiesen ist,
+
+496
+00:35:02,490 --> 00:35:06,490
+dann sage ich, jetzt kann ich ja auch nach bestimmten Laborparameters schauen.
+
+497
+00:35:06,490 --> 00:35:09,490
+Wissen Sie, nach welchen Werten man im Blut
+
+498
+00:35:09,490 --> 00:35:12,490
+bei Sarkoidosa schaut?
+
+499
+00:35:12,490 --> 00:35:15,490
+Es gibt so zwei Markern.
+
+500
+00:35:15,490 --> 00:35:19,800
+Danach schaut man, wenn das eine Sarkoidosa ist,
+
+501
+00:35:19,800 --> 00:35:22,800
+man guckt einmal nach dem ACE.
+
+502
+00:35:22,800 --> 00:35:25,800
+Dann sieht man, dass es eine Sarkoidosa ist.
+
+503
+00:35:25,800 --> 00:35:30,850
+Das ist im ACE.
+
+504
+00:35:30,850 --> 00:35:33,850
+ACE und, was war das andere?
+
+505
+00:35:33,850 --> 00:35:38,100
+Jetzt ist mir das selber entfallen.
+
+506
+00:35:38,100 --> 00:35:41,100
+Das sind Neopterien.
+
+507
+00:35:41,100 --> 00:35:44,100
+ACE und Neopterien, das sind die zwei Marker,
+
+508
+00:35:44,100 --> 00:35:47,100
+nach denen man schauen kann.
+
+509
+00:35:47,100 --> 00:35:50,100
+Wenn die erhöht sind,
+
+510
+00:35:50,100 --> 00:35:53,100
+dann haben sie Sarkoidosa auch irgendwo laboriechemisch bestätigt.
+
+511
+00:35:53,100 --> 00:35:56,100
+Aber die Histologie ist nicht so,
+
+512
+00:35:56,100 --> 00:35:59,100
+sondern die Sarkoidosa ist nicht so,
+
+513
+00:35:59,100 --> 00:36:03,470
+dass sie sich nicht bestätigt.
+
+514
+00:36:03,470 --> 00:36:06,470
+Aber die Histologie ist führen.
+
+515
+00:36:06,470 --> 00:36:09,470
+Es gibt verschiedene Formen.
+
+516
+00:36:09,470 --> 00:36:14,140
+Die zweite Labor, nochmal bitte.
+
+517
+00:36:14,140 --> 00:36:17,140
+Neopterien.
+
+518
+00:36:17,140 --> 00:36:20,140
+ACE, also Angehöten,
+
+519
+00:36:20,140 --> 00:36:23,140
+Sie convertieren, entzühlen.
+
+520
+00:36:23,140 --> 00:36:26,140
+Und Neopterien, das sind die zwei Parameter,
+
+521
+00:36:26,140 --> 00:36:29,140
+die man dann anhandeln kann.
+
+522
+00:36:29,140 --> 00:36:32,140
+Es gibt verschiedene Formen der Sarkoidosa,
+
+523
+00:36:32,140 --> 00:36:34,140
+die dann auch bestimmte
+
+524
+00:36:34,140 --> 00:36:37,140
+Symptome machen können.
+
+525
+00:36:37,140 --> 00:36:40,140
+Je nachdem, was gefallen ist,
+
+526
+00:36:40,140 --> 00:36:43,140
+was sie gesagt haben, Herr Gündus,
+
+527
+00:36:43,140 --> 00:36:45,140
+mit Atralginen oder aber
+
+528
+00:36:45,140 --> 00:36:47,140
+Uwitis
+
+529
+00:36:47,140 --> 00:36:50,140
+und Lymphknotenvergrößungen,
+
+530
+00:36:50,140 --> 00:36:53,140
+wie nennt man das?
+
+531
+00:36:53,140 --> 00:36:56,140
+Das ist ein Glößkristin.
+
+532
+00:36:56,140 --> 00:36:59,140
+Bestimmte Formen der Sarkoidosa.
+
+533
+00:36:59,140 --> 00:37:02,140
+Das ist aber nicht immer der Fall.
+
+534
+00:37:02,140 --> 00:37:05,140
+Es gibt auch eine Sarkoidosa der Haut.
+
+535
+00:37:05,140 --> 00:37:08,140
+Woher muss man jetzt bei diesem Menschen nochmal schauen,
+
+536
+00:37:08,140 --> 00:37:11,140
+wenn man jetzt den Verdacht hat,
+
+537
+00:37:11,140 --> 00:37:14,140
+oder jetzt den Hinweis hat,
+
+538
+00:37:14,140 --> 00:37:17,140
+dass er eine Sarkoidosa hat.
+
+539
+00:37:17,140 --> 00:37:20,140
+Woher guckt man noch?
+
+540
+00:37:20,140 --> 00:37:23,140
+Was bei der Sarkoidosa meistens immer vorkommt,
+
+541
+00:37:23,140 --> 00:37:26,140
+und zwar auf der Haut.
+
+542
+00:37:26,140 --> 00:37:34,990
+Erütema nodosum.
+
+543
+00:37:34,990 --> 00:37:39,300
+Das sind kleinste Erhabenheiten,
+
+544
+00:37:39,300 --> 00:37:42,300
+die so boilenartig in der Haut
+
+545
+00:37:42,300 --> 00:37:45,300
+hart werden.
+
+546
+00:37:45,300 --> 00:37:48,300
+Dann entsteht da drumherum so ein Vorhof,
+
+547
+00:37:48,300 --> 00:37:51,300
+ein Routervorhof.
+
+548
+00:37:51,300 --> 00:37:54,300
+Und dieses Routerareal, der wandert,
+
+549
+00:37:54,300 --> 00:37:57,300
+und das ist so ein Erütema nodosum.
+
+550
+00:37:57,300 --> 00:38:00,300
+Ein rötlicher Knoten sagt man.
+
+551
+00:38:00,300 --> 00:38:03,300
+Das ist eigentlich typisch für Sarkoidosa.
+
+552
+00:38:03,300 --> 00:38:06,300
+Danach hätte man bei diesem jungen Menschen
+
+553
+00:38:06,300 --> 00:38:09,300
+gucken müssen.
+
+554
+00:38:09,300 --> 00:38:12,300
+Vor allem an den Unterschenkeln,
+
+555
+00:38:12,300 --> 00:38:15,300
+an den Beinen entsteht so etwas.
+
+556
+00:38:15,300 --> 00:38:18,300
+Wenn er das gehabt hat,
+
+557
+00:38:18,300 --> 00:38:21,300
+und dieser junge Mann hat das,
+
+558
+00:38:21,300 --> 00:38:24,300
+man hat ihn aber nicht danach gefragt.
+
+559
+00:38:24,300 --> 00:38:27,300
+Das ist ihm auch gar nicht so aufgefallen.
+
+560
+00:38:27,300 --> 00:38:30,300
+Er hat nur gesehen, an einer Stelle hat es gejuckt,
+
+561
+00:38:30,300 --> 00:38:33,300
+und nach 2-3 Tagen war das Jucken weg,
+
+562
+00:38:33,300 --> 00:38:36,300
+aber das ist ein bisschen rot gewesen.
+
+563
+00:38:36,300 --> 00:38:41,480
+Wie entsteht denn so eine Sarkoidosa?
+
+564
+00:38:41,480 --> 00:38:44,480
+Ja, autoimmun.
+
+565
+00:38:44,480 --> 00:38:49,910
+Wie ist das nochmal?
+
+566
+00:38:49,910 --> 00:38:52,910
+Autoimmun.
+
+567
+00:38:52,910 --> 00:38:55,910
+Die hat das Immunsystem zurück.
+
+568
+00:38:55,910 --> 00:38:58,910
+Wir wissen nicht genau, warum die Sarkoidosa entsteht.
+
+569
+00:38:58,910 --> 00:39:01,910
+Und wie behandelt man die Sarkoidosa?
+
+570
+00:39:01,910 --> 00:39:06,700
+Die muss es bestehlen, oder?
+
+571
+00:39:06,700 --> 00:39:09,700
+Muss man das immer behandeln?
+
+572
+00:39:09,700 --> 00:39:14,020
+Ja, je nach Stadium, oder je nach Klinik.
+
+573
+00:39:14,020 --> 00:39:17,020
+Je nach Klinik, nicht nach Stadium,
+
+574
+00:39:17,020 --> 00:39:20,020
+weil nicht jede Sarkoidosa muss behandelt werden.
+
+575
+00:39:20,020 --> 00:39:23,020
+Nur wenn die Sarkoidosa Probleme macht.
+
+576
+00:39:23,020 --> 00:39:27,020
+Dieser junge Mann mit seiner Luftnot und mit seinem Nachtschweiß,
+
+577
+00:39:27,020 --> 00:39:29,020
+den würde ich behandeln.
+
+578
+00:39:29,020 --> 00:39:32,020
+Wie würde man den als allererstes behandeln?
+
+579
+00:39:32,020 --> 00:39:34,020
+Was ist da die Therapie?
+
+580
+00:39:34,020 --> 00:39:40,470
+Corticoid, Corticoid Therapie?
+
+581
+00:39:40,470 --> 00:39:42,470
+Ja, Steroide gibt.
+
+582
+00:39:42,470 --> 00:39:45,470
+Als allererstes Steroide gibt.
+
+583
+00:39:45,470 --> 00:39:48,470
+Wenn das mit Steroiden nicht stabilisiert werden kann,
+
+584
+00:39:48,470 --> 00:39:51,470
+dann können sie auch mit Immunsofresse rein gehen.
+
+585
+00:39:51,470 --> 00:39:53,470
+Das weiß ich.
+
+586
+00:39:53,470 --> 00:39:56,470
+Das können sie nehmen, als sie wollen.
+
+587
+00:39:56,470 --> 00:39:59,470
+Ob sie jetzt das Azatöprin nehmen,
+
+588
+00:39:59,470 --> 00:40:02,470
+oder vielleicht etwas anderes.
+
+589
+00:40:02,470 --> 00:40:06,470
+Oder die neueren Medikamente mit irgendwelchen Antikörpern.
+
+590
+00:40:06,470 --> 00:40:09,470
+Das können sie auch machen, in Fliximac, oder ähnliches.
+
+591
+00:40:09,470 --> 00:40:11,470
+Das bleibt ihnen überlastet.
+
+592
+00:40:11,470 --> 00:40:14,470
+Aber es ist schon richtig, wie Sie gesagt haben,
+
+593
+00:40:14,470 --> 00:40:16,470
+immunsupressiv behandelt.
+
+594
+00:40:16,470 --> 00:40:19,470
+Und der erste Weg ist immer Steroide.
+
+595
+00:40:19,470 --> 00:40:23,470
+Aber wenn jemand keine Beschwerden hat,
+
+596
+00:40:23,470 --> 00:40:26,470
+es ist einfach nur etwas aufgefallen,
+
+597
+00:40:26,470 --> 00:40:29,470
+man hat diese Acroidosie nur festgestellt,
+
+598
+00:40:29,470 --> 00:40:32,470
+dann wartet man meistens ab.
+
+599
+00:40:32,470 --> 00:40:35,470
+Man sagt, watch and wait, wieso?
+
+600
+00:40:35,470 --> 00:40:38,470
+Weil das manchmal auch schon alleine abheilen kann.
+
+601
+00:40:38,470 --> 00:40:41,470
+Das kann von alleine wieder weggehen.
+
+602
+00:40:41,470 --> 00:40:44,470
+Das muss nicht immer behandelt werden.
+
+603
+00:40:44,470 --> 00:40:48,470
+Nur wenn die Leute Probleme bekommen, klinisch, symptomatisch werden,
+
+604
+00:40:48,470 --> 00:40:50,470
+dann muss man das machen.
+
+605
+00:40:50,470 --> 00:40:54,470
+Tatsächlich habe ich vor 10 Tagen so einen jungen Mann gehabt.
+
+606
+00:40:54,470 --> 00:41:00,470
+Der war nicht nur in der Uniklinik in Frankfurt gewesen,
+
+607
+00:41:00,470 --> 00:41:04,470
+wo die HNO-Ärzte den 10 Tage Antibiotisch behandelt haben.
+
+608
+00:41:04,470 --> 00:41:08,470
+Nach 4 Wochen ist der bei uns in der HNO aufgenommen worden.
+
+609
+00:41:08,470 --> 00:41:12,470
+Die Ärzte haben wieder die Serlopferdachstdiagnose gehabt.
+
+610
+00:41:12,470 --> 00:41:15,470
+Die haben dem Antibiose gegeben.
+
+611
+00:41:15,470 --> 00:41:19,470
+Der Mann hat den Antibiotisch aufgefahren,
+
+612
+00:41:19,470 --> 00:41:22,470
+dass sein Fieber nicht weggeht.
+
+613
+00:41:22,470 --> 00:41:26,470
+Er auffiebert jeden Tag bis über 39 Grad.
+
+614
+00:41:26,470 --> 00:41:29,470
+Der Mann hat einen Nachtschwarzen.
+
+615
+00:41:29,470 --> 00:41:31,470
+Dann hat er gesagt,
+
+616
+00:41:31,470 --> 00:41:34,470
+jetzt müssen die Hermatogenkulogen mal draufgerufen
+
+617
+00:41:34,470 --> 00:41:36,470
+und sagen, was da los ist.
+
+618
+00:41:36,470 --> 00:41:40,850
+Er hat sofort einen CT machen lassen.
+
+619
+00:41:40,850 --> 00:41:43,850
+Die Radiologen haben gesagt, da ist eine Schwellung.
+
+620
+00:41:43,850 --> 00:41:46,850
+Das ist ein Schwellen.
+
+621
+00:41:46,850 --> 00:41:49,850
+Das ist ein Schwellen.
+
+622
+00:41:49,850 --> 00:41:52,850
+Das ist ein Schwellen.
+
+623
+00:41:52,850 --> 00:41:56,850
+Die Probeentnahme aus der Nase-Nähm-Höhle hat nicht gegeben.
+
+624
+00:41:56,850 --> 00:41:59,850
+Wir haben hin und her überlegt, was machen wir?
+
+625
+00:41:59,850 --> 00:42:02,850
+Er hat keine Lumpenoten.
+
+626
+00:42:02,850 --> 00:42:05,850
+Er hat eine Staging bekommen.
+
+627
+00:42:05,850 --> 00:42:08,850
+Er hat eine Knochenmarkspunktion bekommen.
+
+628
+00:42:08,850 --> 00:42:12,850
+Nicht, weil wir den Verdacht auf eine Erkrankung haben,
+
+629
+00:42:12,850 --> 00:42:15,850
+aber die Nase konnte man nicht nachweisen.
+
+630
+00:42:15,850 --> 00:42:17,850
+Da war die Überlegung,
+
+631
+00:42:17,850 --> 00:42:20,850
+ob er vielleicht eine Leukinie hat,
+
+632
+00:42:20,850 --> 00:42:23,850
+aber sein Blut war völlig unauffällig.
+
+633
+00:42:23,850 --> 00:42:26,850
+Sein Knochenmark war völlig unauffällig.
+
+634
+00:42:26,850 --> 00:42:28,850
+Da hat man keine Hinweise
+
+635
+00:42:28,850 --> 00:42:31,850
+für irgendeine hematologische Erkrankung gesehen.
+
+636
+00:42:31,850 --> 00:42:34,850
+Dann haben wir im Tumor-Bord die Gastroenterologen,
+
+637
+00:42:34,850 --> 00:42:38,850
+die Chirurgen und die Radiologen gefragt.
+
+638
+00:42:38,850 --> 00:42:41,850
+Die Frage an die Chirurgen war,
+
+639
+00:42:41,850 --> 00:42:44,850
+ob wir das nicht mehr rausnehmen,
+
+640
+00:42:44,850 --> 00:42:47,850
+damit wir wissen, was da los ist.
+
+641
+00:42:47,850 --> 00:42:50,850
+Die Chirurgen meinte, man kann es machen.
+
+642
+00:42:50,850 --> 00:42:54,850
+Dann hat der Gastroenterologe gesagt, man könnte auch funktionieren,
+
+643
+00:42:54,850 --> 00:42:57,850
+aber die ist zu klein, da wollen wir nicht reingehen.
+
+644
+00:42:57,850 --> 00:43:03,220
+Dann hat der Radiologe gesagt, für ihn ist das kein Problem.
+
+645
+00:43:03,220 --> 00:43:06,220
+Er sticht da rein.
+
+646
+00:43:06,220 --> 00:43:09,220
+Dann haben wir ihn in die Milch reinstichen lassen.
+
+647
+00:43:09,220 --> 00:43:14,050
+Dann kam das Ergebnis mit der Sarkoidos.
+
+648
+00:43:14,050 --> 00:43:18,050
+Fast zwei Monate war es ein Problem.
+
+649
+00:43:18,050 --> 00:43:22,050
+Er hat vom Chef ein bisschen Steroide bekommen
+
+650
+00:43:22,050 --> 00:43:25,050
+und die Symptomatik war Schlagartitekt.
+
+651
+00:43:25,050 --> 00:43:33,520
+Warum hat diese Patient immer Kiva oder B-Symptomatik?
+
+652
+00:43:33,520 --> 00:43:36,520
+Weil das Immunsystem verrückt spielt.
+
+653
+00:43:36,520 --> 00:43:39,520
+Das Immunsystem hat Probleme.
+
+654
+00:43:39,520 --> 00:43:42,520
+Deswegen entstehen auch diese Granulome.
+
+655
+00:43:42,520 --> 00:43:45,520
+Das B-System macht Probleme.
+
+656
+00:43:45,520 --> 00:43:48,520
+Sein Immunsystem kommt durcheinander.
+
+657
+00:43:48,520 --> 00:43:52,520
+So etwas wie eine Autoimmunkrankheit, wie Rheuma oder ähnliches.
+
+658
+00:43:52,520 --> 00:43:58,520
+Das führt dazu, dass irgendwelche, was weiß ich,
+
+659
+00:43:58,520 --> 00:44:02,520
+Mediatorin freigesetzt werden, die zu Fieber führen.
+
+660
+00:44:02,520 --> 00:44:06,520
+Das Immunsystem merkt, dass da etwas nicht stimmt.
+
+661
+00:44:06,520 --> 00:44:08,520
+Dadurch entsteht Fieber.
+
+662
+00:44:08,520 --> 00:44:13,520
+Damit das Fieber weggeht, schritzt man, damit der Körper sich abkühlt.
+
+663
+00:44:13,520 --> 00:44:16,520
+Das ist dann eben Nachtschwarz.
+
+664
+00:44:16,520 --> 00:44:20,520
+Mehr ist es nicht.
+
+665
+00:44:20,520 --> 00:44:23,520
+Das Immunsystem ist das Problem.
+
+666
+00:44:23,520 --> 00:44:28,520
+Da man aber nicht genau weiß, wo das Problem des Immunsystems liegt,
+
+667
+00:44:28,520 --> 00:44:31,520
+kann man auch nicht gezielsterakieren.
+
+668
+00:44:31,520 --> 00:44:34,520
+Man macht eine immunsofresive Therapie,
+
+669
+00:44:34,520 --> 00:44:38,770
+weil das Immunsystem das Problem ist.
+
+670
+00:44:38,770 --> 00:44:42,770
+Das Immunsystem wird mit häufigen Betroffenen?
+
+671
+00:44:42,770 --> 00:44:45,770
+Milch ist nicht immer betroffen.
+
+672
+00:44:45,770 --> 00:44:50,770
+Nein, die häufigste Sarkoidose ist ja auch eine Lungen-Sarkoidose.
+
+673
+00:44:50,770 --> 00:44:54,770
+Nicht Haut, Leber oder Milch.
+
+674
+00:44:54,770 --> 00:44:58,770
+Ich wollte einfach nur ihre Sinne sterben.
+
+675
+00:44:58,770 --> 00:45:01,770
+Nach dem Motto, nicht jede Böse und Tomatik
+
+676
+00:45:01,770 --> 00:45:04,770
+muss gleich mit einem Malignom einhergehen.
+
+677
+00:45:04,770 --> 00:45:07,770
+Nicht mit Begriffen herumwerfen.
+
+678
+00:45:07,770 --> 00:45:10,770
+Seien Sie vorsichtig, weil wenn Sie denen sagen,
+
+679
+00:45:10,770 --> 00:45:13,770
+das ist ein Lymphom, dann sagt er, woher wischen Sie das?
+
+680
+00:45:13,770 --> 00:45:15,770
+Haben Sie röntgen Augen?
+
+681
+00:45:15,770 --> 00:45:18,770
+Können Sie in den Körper reingucken?
+
+682
+00:45:18,770 --> 00:45:20,770
+Was ist da los?
+
+683
+00:45:20,770 --> 00:45:23,770
+Keine Diagnose, einfach nur Verdacht äußern.
+
+684
+00:45:23,770 --> 00:45:26,770
+Sie sagen dann, das kann Sarkoidose sein,
+
+685
+00:45:26,770 --> 00:45:30,770
+das kann Naturbalkulose sein, das kann auch ein Malignom sein.
+
+686
+00:45:30,770 --> 00:45:34,770
+Wir wollen aber jetzt eine warte 400 Diagnostik machen.
+
+687
+00:45:34,770 --> 00:45:38,770
+Eine besondere Sache bei Sarkoidoses ist auch noch,
+
+688
+00:45:38,770 --> 00:45:41,770
+wenn die Niere vor allem befallen ist,
+
+689
+00:45:41,770 --> 00:45:47,770
+dann kann auch eine sogenannte Hyperkalzämie entstehen.
+
+690
+00:45:47,770 --> 00:45:51,770
+Eine Hyperkalzämie kann manchmal auch entstehen.
+
+691
+00:45:51,770 --> 00:45:56,770
+Das ist aber bei ihm alles nicht der Fall gewesen.
+
+692
+00:45:56,770 --> 00:45:59,770
+Das war auch für uns ein bisschen irritierend,
+
+693
+00:45:59,770 --> 00:46:02,770
+weil der keine Lymphknoten hatte,
+
+694
+00:46:02,770 --> 00:46:06,770
+weil die Laborbärte völlig unauffällig waren.
+
+695
+00:46:06,770 --> 00:46:26,380
+Das war so ein bisschen problematisch bei den jungen Mann.
+
+696
+00:46:26,380 --> 00:46:29,380
+Aber am Ende ist man für mich geworden.
+
+697
+00:46:29,380 --> 00:46:31,380
+Das ist auch nicht sehr selten.
+
+698
+00:46:31,380 --> 00:46:35,380
+Mit Patienten müssen Sie immer Schritt für Schritt vorangehen.
+
+699
+00:46:35,380 --> 00:46:39,380
+Sie untersuchen den, sie nehmen Blut ab, sie schreiben EKG.
+
+700
+00:46:39,380 --> 00:46:42,380
+Sie machen gegebenenfalls ein Röntgen.
+
+701
+00:46:42,380 --> 00:46:47,380
+Nachdem, wenn der, wie er jetzt mit Luftnot in den Nasen nehmen und machen,
+
+702
+00:46:47,380 --> 00:46:50,380
+sind CT, dann brauchen Sie keine Röntgen von der Lunge.
+
+703
+00:46:50,380 --> 00:46:52,380
+Machen lokal eine Bildkette.
+
+704
+00:46:52,380 --> 00:46:55,380
+Und dann stellen Sie ihn H1 Uhr erst sich vor.
+
+705
+00:46:55,380 --> 00:46:58,380
+Und wenn Sie dann nicht weiter voran kommen,
+
+706
+00:46:58,380 --> 00:46:59,380
+machen Sie ein Staging.
+
+707
+00:46:59,380 --> 00:47:01,380
+Sie suchen einfach etwas.
+
+708
+00:47:01,380 --> 00:47:04,380
+Aber nicht immer in eine Richtung denken und da festbleiben.
+
+709
+00:47:04,380 --> 00:47:06,380
+Das wollten Sie nicht machen.
+
+710
+00:47:06,380 --> 00:47:10,380
+Das ist nicht gut.
+
+711
+00:47:10,380 --> 00:47:14,380
+Aber nach einer anesthetischen Angabe kann man nicht sofort
+
+712
+00:47:14,380 --> 00:47:16,380
+so fargoidos denken.
+
+713
+00:47:16,380 --> 00:47:18,380
+Nein, sollen wir auch nicht.
+
+714
+00:47:18,380 --> 00:47:22,380
+Sie können auch nicht anhand der Anamnese
+
+715
+00:47:22,380 --> 00:47:25,380
+auch von einem Lymphom sprechen.
+
+716
+00:47:25,380 --> 00:47:27,380
+Das können Sie auch nicht wissen.
+
+717
+00:47:27,380 --> 00:47:30,380
+Die Vistologie ist beweisen für ein Lymphom
+
+718
+00:47:30,380 --> 00:47:36,380
+oder für eine Tuberkulose oder eben für eine Sargoidos.
+
+719
+00:47:36,380 --> 00:47:41,380
+Oder es sollte auch eine andere Erkrankung ein Heilungsmol sein können.
+
+720
+00:47:41,380 --> 00:47:44,380
+Also ein Flachnepidrikationen um den Nasen nehmen können.
+
+721
+00:47:44,380 --> 00:47:46,380
+Es ist ja auch sein können.
+
+722
+00:47:46,380 --> 00:47:49,380
+Aber das hat die Vistologie nicht mehr gegeben.
+
+723
+00:47:49,380 --> 00:47:52,380
+Das war nicht beweisen.
+
+724
+00:47:52,380 --> 00:47:57,420
+War das zu schwer?
+
+725
+00:47:57,420 --> 00:48:01,860
+War das zu problematisch?
+
+726
+00:48:01,860 --> 00:48:04,860
+Das wäre aber nicht problematisch.
+
+727
+00:48:04,860 --> 00:48:06,860
+Nicht problematisch.
+
+728
+00:48:06,860 --> 00:48:08,860
+Ich denke, das wird auch sehr häufig gefragt.
+
+729
+00:48:08,860 --> 00:48:13,860
+Ich persönlich bin in meinem Leben 3-mal über Tuberkulose gefragt worden.
+
+730
+00:48:13,860 --> 00:48:16,860
+Im Studium, in der Abschlussprüfung
+
+731
+00:48:16,860 --> 00:48:19,860
+und auch in der Verratsprüfung.
