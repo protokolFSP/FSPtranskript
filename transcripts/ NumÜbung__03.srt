@@ -1,0 +1,795 @@
+1
+00:00:00,000 --> 00:00:02,560
+Und wie alt sind Sie, Herr Wagner?
+
+2
+00:00:02,560 --> 00:00:04,160
+Ich bin genau 60.
+
+3
+00:00:04,160 --> 00:00:09,310
+Wann wurden Sie genau geboren? Heute ist Ihre Gebissheit.
+
+4
+00:00:09,310 --> 00:00:11,310
+Am 1.7.65.
+
+5
+00:00:11,310 --> 00:00:14,270
+Ein... und...
+
+6
+00:00:14,270 --> 00:00:16,750
+Können Sie bitte noch mal sagen, es wird ein...
+
+7
+00:00:16,750 --> 00:00:20,270
+Am 1.7.65.
+
+8
+00:00:20,270 --> 00:00:24,480
+Und herzlichen Glückwunsch.
+
+9
+00:00:24,480 --> 00:00:28,000
+Wieso erst die Giften? Das ist Juli.
+
+10
+00:00:28,000 --> 00:00:28,960
+Sorry.
+
+11
+00:00:28,960 --> 00:00:30,000
+Juli.
+
+12
+00:00:30,000 --> 00:00:31,360
+Ja, sorry.
+
+13
+00:00:31,360 --> 00:00:34,160
+Und wie groß sind Sie und wie viel wegen Sie so seit?
+
+14
+00:00:34,880 --> 00:00:39,760
+Ich habe noch 74 Kilo und ich bin 1.83 groß.
+
+15
+00:00:39,760 --> 00:00:46,220
+Okay, Herr Wagner, haben Sie sehr stark geschmätzt?
+
+16
+00:00:46,220 --> 00:00:48,780
+Seit wann haben Sie tatsächlich so geschmätzt?
+
+17
+00:00:48,780 --> 00:00:50,300
+Ja, das hat angefangen.
+
+18
+00:00:50,300 --> 00:00:53,180
+Ja, bestimmt schon vor einem Viertel.
+
+19
+00:00:53,180 --> 00:00:54,140
+Ja, so.
+
+20
+00:00:54,140 --> 00:00:58,300
+Aber jetzt wird es in der letzten Zeit, in den letzten 2, 3 Wochen,
+
+21
+00:00:58,300 --> 00:01:00,300
+ist es immer schlimmer geworden.
+
+22
+00:01:00,300 --> 00:01:05,900
+Und also hier oben im Bauch tut das sowieso so unterhalb der Brust,
+
+23
+00:01:05,900 --> 00:01:07,900
+so oberhalb vom Bauchnabel, würde ich sagen.
+
+24
+00:01:07,900 --> 00:01:11,100
+Ja, oh, und das sind solche Schmerzen.
+
+25
+00:01:11,100 --> 00:01:16,460
+Das zieht und ja, ist jetzt also in letzter Zeit richtig schlecht geworden.
+
+26
+00:01:16,460 --> 00:01:19,980
+Okay, wann treten diese Schmerzen auf,
+
+27
+00:01:19,980 --> 00:01:25,900
+nach dem Essen oder nach dem bestimmten Bewegungen?
+
+28
+00:01:25,900 --> 00:01:29,820
+Naja, ich würde sagen, sie sind eigentlich permanent da.
+
+29
+00:01:29,820 --> 00:01:33,420
+Okay, Herr Weber, wie alt sind Sie?
+
+30
+00:01:33,980 --> 00:01:37,420
+Ich bin 59 Jahre.
+
+31
+00:01:37,420 --> 00:01:42,500
+59, wann sind Sie geboren?
+
+32
+00:01:42,500 --> 00:01:45,780
+Am 1.765.
+
+33
+00:01:45,780 --> 00:01:51,090
+75 oder 60?
+
+34
+00:01:51,090 --> 00:01:52,610
+65.
+
+35
+00:01:52,610 --> 00:01:53,490
+60.
+
+36
+00:01:53,490 --> 00:01:55,490
+Also 9965.
+
+37
+00:01:55,490 --> 00:01:57,490
+Wie groß sind Sie?
+
+38
+00:01:57,490 --> 00:01:59,490
+1.83.
+
+39
+00:01:59,490 --> 00:02:03,490
+1.83.
+
+40
+00:02:03,490 --> 00:02:05,490
+Wie viel wiegen Sie zurzeit?
+
+41
+00:02:05,490 --> 00:02:07,490
+Wie viel sind Sie?
+
+42
+00:02:07,490 --> 00:02:11,280
+Wie alt sind Sie?
+
+43
+00:02:11,280 --> 00:02:13,280
+Ich bin 32 Jahre alt.
+
+44
+00:02:13,280 --> 00:02:15,280
+Wann sind Sie genau geboren?
+
+45
+00:02:15,280 --> 00:02:17,280
+Am 23. März, 1900.
+
+46
+00:02:17,280 --> 00:02:19,280
+Was ist das?
+
+47
+00:02:19,280 --> 00:02:21,280
+82?
+
+48
+00:02:21,280 --> 00:02:23,280
+92, wahrscheinlich.
+
+49
+00:02:23,280 --> 00:02:25,280
+92, 92.
+
+50
+00:02:25,280 --> 00:02:28,780
+Okay.
+
+51
+00:02:28,780 --> 00:02:30,780
+Wie groß sind Sie?
+
+52
+00:02:30,780 --> 00:02:32,780
+1,82 Meter.
+
+53
+00:02:32,780 --> 00:02:34,780
+92.
+
+54
+00:02:34,780 --> 00:02:36,780
+Ja, das ist so.
+
+55
+00:02:36,780 --> 00:02:38,780
+Wie groß sind Sie?
+
+56
+00:02:38,780 --> 00:02:40,780
+Wie sind Sie in der aktuellen Gewicht?
+
+57
+00:02:40,780 --> 00:02:42,780
+Ja, ungefähr 85 Kilo.
+
+58
+00:02:42,780 --> 00:02:44,780
+95.
+
+59
+00:02:44,780 --> 00:02:46,780
+Wann sind Sie, Herr Dingerdissen?
+
+60
+00:02:46,780 --> 00:02:48,780
+Ich bin 64.
+
+61
+00:02:48,780 --> 00:02:54,620
+Wann sind Sie genau geboren?
+
+62
+00:02:54,620 --> 00:02:58,620
+Am 12. Januar, 1961.
+
+63
+00:02:58,620 --> 00:03:04,910
+Wie groß sind Sie?
+
+64
+00:03:04,910 --> 00:03:06,910
+1,81 Meter.
+
+65
+00:03:06,910 --> 00:03:13,980
+Wie viel wiegen Sie aktueller, wie sind Sie?
+
+66
+00:03:13,980 --> 00:03:15,980
+82 Kilo.
+
+67
+00:03:15,980 --> 00:03:21,860
+Wie alt sind Sie, Herr Baumann?
+
+68
+00:03:21,860 --> 00:03:23,860
+Ich bin 43 Jahre alt.
+
+69
+00:03:23,860 --> 00:03:25,860
+Okay.
+
+70
+00:03:25,860 --> 00:03:27,860
+Wann sind Sie geboren?
+
+71
+00:03:27,860 --> 00:03:29,860
+Am 4. Juli, 181.
+
+72
+00:03:29,860 --> 00:03:31,860
+81.
+
+73
+00:03:31,860 --> 00:03:35,420
+Wie groß sind Sie?
+
+74
+00:03:35,420 --> 00:03:37,420
+Ich bin 1,78 Meter groß.
+
+75
+00:03:37,420 --> 00:03:39,420
+1,78 Meter?
+
+76
+00:03:39,420 --> 00:03:41,420
+70.
+
+77
+00:03:41,420 --> 00:03:43,420
+Okay.
+
+78
+00:03:43,420 --> 00:03:48,210
+Wie viel wiegen Sie zurzeit?
+
+79
+00:03:48,210 --> 00:03:50,210
+Erzähl mal.
+
+80
+00:03:50,210 --> 00:03:52,210
+Wie viel wiegen Sie zurzeit?
+
+81
+00:03:52,210 --> 00:03:54,210
+Etwa 85 Kilo.
+
+82
+00:03:54,210 --> 00:03:56,210
+85.
+
+83
+00:03:56,210 --> 00:03:58,210
+Okay.
+
+84
+00:03:58,210 --> 00:04:02,210
+Haben Sie Allergien oder Unverträglichkeiten, Herr Baumann?
+
+85
+00:04:02,210 --> 00:04:06,210
+Ne, ich habe keine Allergien oder Unverträglichkeiten.
+
+86
+00:04:06,210 --> 00:04:08,210
+Ja, super.
+
+87
+00:04:08,210 --> 00:04:10,210
+Wie heißt Ihr Hausarzt oder Hausärztin?
+
+88
+00:04:10,210 --> 00:04:12,210
+Mein Hausarzt ist Doktor Raab.
+
+89
+00:04:12,210 --> 00:04:14,210
+Doktor Raab.
+
+90
+00:04:14,210 --> 00:04:16,210
+Raab, R-A-A-B.
+
+91
+00:04:16,210 --> 00:04:18,210
+R-A-B.
+
+92
+00:04:18,210 --> 00:04:20,210
+R-A-A-B.
+
+93
+00:04:20,210 --> 00:04:22,210
+Okay, alles klar.
+
+94
+00:04:22,210 --> 00:04:24,210
+Herr Müller, wie alt sind Sie?
+
+95
+00:04:24,210 --> 00:04:26,210
+Ich bin 69 noch.
+
+96
+00:04:26,210 --> 00:04:28,210
+69.
+
+97
+00:04:28,210 --> 00:04:30,210
+Okay.
+
+98
+00:04:30,210 --> 00:04:32,210
+Wann genau sind Sie geboren?
+
+99
+00:04:32,210 --> 00:04:34,210
+Am 18.
+
+100
+00:04:34,210 --> 00:04:36,210
+19.
+
+101
+00:04:36,210 --> 00:04:38,210
+54.
+
+102
+00:04:38,210 --> 00:04:40,210
+54.
+
+103
+00:04:40,210 --> 00:04:42,210
+Okay.
+
+104
+00:04:42,210 --> 00:04:44,210
+Herr Müller, wie groß sind Sie?
+
+105
+00:04:44,210 --> 00:04:46,210
+Ich bin 1,74 Meter.
+
+106
+00:04:46,210 --> 00:04:48,210
+1,74.
+
+107
+00:04:48,210 --> 00:04:50,210
+Okay.
+
+108
+00:04:50,210 --> 00:04:54,210
+Kennen Sie viel wiegen Sie aktuell?
+
+109
+00:04:54,210 --> 00:04:58,210
+Ja, das ist so immer um die 83 Kilo.
+
+110
+00:04:58,210 --> 00:05:02,210
+Mal ein bisschen weniger, mal ein bisschen mehr, aber 83 Kilo kann man sagen.
+
+111
+00:05:02,210 --> 00:05:04,210
+Okay.
+
+112
+00:05:04,210 --> 00:05:06,210
+Herr Müller, was machen Sie beruflich?
+
+113
+00:05:06,210 --> 00:05:08,210
+Ich bin Rentner zum Glück.
+
+114
+00:05:08,210 --> 00:05:10,210
+Rentner? Ah, okay.
+
+115
+00:05:10,210 --> 00:05:12,210
+Ja, genau.
+
+116
+00:05:12,210 --> 00:05:14,210
+Aber was haben Sie früher beruflich gemacht?
+
+117
+00:05:14,210 --> 00:05:16,210
+Ich war in der Stadtverwaltung angestellt.
+
+118
+00:05:16,210 --> 00:05:18,210
+Können Sie bitte wiederholen?
+
+119
+00:05:18,210 --> 00:05:20,210
+Ich war Angestellter in der Stadtverwaltung.
+
+120
+00:05:20,210 --> 00:05:22,210
+Okay.
+
+121
+00:05:22,210 --> 00:05:24,210
+Und sind Sie verheiratet?
+
+122
+00:05:24,210 --> 00:05:26,210
+Ja, ja, ja, ich bin verheiratet.
+
+123
+00:05:26,210 --> 00:05:33,100
+Haben Sie Kinder?
+
+124
+00:05:33,100 --> 00:05:35,100
+Ja, die sind aber schon Erwachsenen.
+
+125
+00:05:35,100 --> 00:05:37,100
+Ah, okay.
+
+126
+00:05:37,100 --> 00:05:39,100
+Wie viele Kinder haben Sie?
+
+127
+00:05:39,100 --> 00:05:41,100
+Zwei, aber wie gesagt, die sind Erwachsenen.
+
+128
+00:05:41,100 --> 00:05:43,100
+Okay.
+
+129
+00:05:43,100 --> 00:05:45,100
+Ich bin ein sehr junger.
+
+130
+00:05:45,100 --> 00:05:47,100
+Ich bin ein sehr junger.
+
+131
+00:05:47,100 --> 00:05:49,100
+Ja, das sind Erwachsenen.
+
+132
+00:05:49,100 --> 00:05:51,100
+Na, okay.
+
+133
+00:05:51,100 --> 00:05:53,100
+Wie alt sind Sie?
+
+134
+00:05:53,100 --> 00:05:55,100
+Ich bin 54 Jahre alt.
+
+135
+00:05:57,100 --> 00:05:59,100
+Wann sind Sie genau geboren?
+
+136
+00:05:59,100 --> 00:06:01,100
+Am 1.15.1970.
+
+137
+00:06:01,100 --> 00:06:03,100
+Wie groß sind Sie?
+
+138
+00:06:07,860 --> 00:06:09,860
+Das habe ich, ich bin ein bisschen kleiner geworden.
+
+139
+00:06:09,860 --> 00:06:11,860
+Ich war einmal 1.78.
+
+140
+00:06:15,860 --> 00:06:19,140
+Wie schwer sind Sie?
+
+141
+00:06:19,140 --> 00:06:21,140
+Wie schwer ist es jetzt?
+
+142
+00:06:22,020 --> 00:06:24,020
+Wichtig, Frau Doktor.
+
+143
+00:06:24,020 --> 00:06:26,020
+Ich bin etwas schwer.
+
+144
+00:06:26,020 --> 00:06:28,520
+Ich glaube, bei 110 Kilo.
+
+145
+00:06:32,020 --> 00:06:34,020
+Alle Informationen sind wichtig,
+
+146
+00:06:34,020 --> 00:06:39,220
+über ihre allgemeine Gesundheit zu wissen.
+
+147
+00:06:39,220 --> 00:06:41,220
+Danke schön für die Informationen.
+
+148
+00:06:41,220 --> 00:06:45,480
+Wie alt sind Sie und wann wurden Sie geboren?
+
+149
+00:06:45,480 --> 00:06:48,480
+Ich bin 54 Jahre alt.
+
+150
+00:06:48,980 --> 00:06:53,980
+Geboren bin ich am 15. Mai 1971.
+
+151
+00:06:53,980 --> 00:06:58,480
+Und wie groß sind Sie und wie viel wegen Sie jetzt so seid?
+
+152
+00:06:58,480 --> 00:07:06,400
+Ich bin 1,67 m groß und wiege 64 Kilo.
+
+153
+00:07:06,400 --> 00:07:09,400
+Ja, und 60 Kilo.
+
+154
+00:07:09,400 --> 00:07:12,400
+Verstehe, wie alt sind Sie, Herr Eidim?
+
+155
+00:07:12,400 --> 00:07:14,400
+Ich bin 42 Jahre alt.
+
+156
+00:07:14,400 --> 00:07:18,400
+Wann sind Sie genau geboren?
+
+157
+00:07:18,400 --> 00:07:23,400
+Am 28. April 1900.
+
+158
+00:07:23,400 --> 00:07:30,910
+Was ist das, 83?
+
+159
+00:07:30,910 --> 00:07:34,160
+Wie groß sind Sie?
+
+160
+00:07:34,160 --> 00:07:38,160
+Ich glaube, 1,83 m.
+
+161
+00:07:38,160 --> 00:07:41,160
+Und wie viel wegen Sie?
+
+162
+00:07:41,160 --> 00:07:43,160
+Ich mache so circa 75 Kilo.
+
+163
+00:07:43,160 --> 00:07:50,250
+Wie alt sind Sie, Herr Zimmermann?
+
+164
+00:07:50,250 --> 00:07:52,250
+Ich bin 67.
+
+165
+00:07:52,250 --> 00:07:56,250
+67? Wann genau sind Sie geboren?
+
+166
+00:07:56,250 --> 00:08:03,700
+Am 2. Mai 1957.
+
+167
+00:08:03,700 --> 00:08:05,700
+Und wie groß sind Sie?
+
+168
+00:08:05,700 --> 00:08:10,700
+Ja, ich bin so 1,75 m.
+
+169
+00:08:10,700 --> 00:08:14,700
+Wie viel wegen Sie?
+
+170
+00:08:14,700 --> 00:08:16,700
+Ich wiege 78 Kilo.
+
+171
+00:08:16,700 --> 00:08:23,190
+Und wie heißt Ihr Hausarzt oder Hausarzt?
+
+172
+00:08:23,190 --> 00:08:26,190
+Das ist Dr. Schmidt.
+
+173
+00:08:26,190 --> 00:08:31,420
+Mit DET am Ende?
+
+174
+00:08:31,420 --> 00:08:33,420
+Ja, genau.
+
+175
+00:08:33,420 --> 00:08:35,420
+Herr Zimmermann.
+
+176
+00:08:35,420 --> 00:08:37,420
+Wie alt sind Sie, Herr Schmidt?
+
+177
+00:08:37,420 --> 00:08:40,420
+Ich bin 37 Jahre alt.
+
+178
+00:08:40,420 --> 00:08:44,420
+Okay, wann sind Sie genau geboren, Herr Schmidt?
+
+179
+00:08:44,420 --> 00:08:47,420
+Ich bin 1988 geworden.
+
+180
+00:08:47,420 --> 00:08:50,420
+1980?
+
+181
+00:08:50,420 --> 00:08:52,420
+1988.
+
+182
+00:08:52,420 --> 00:08:54,420
+Ach so, genau dort?
+
+183
+00:08:54,420 --> 00:08:58,370
+Ach so, 25. Januar.
+
+184
+00:08:58,370 --> 00:09:00,370
+Danke schön.
+
+185
+00:09:00,370 --> 00:09:03,370
+Wie groß sind Sie, Herr Schmidt?
+
+186
+00:09:03,370 --> 00:09:07,370
+Ich bin ungefähr 1,80 m groß.
+
+187
+00:09:07,370 --> 00:09:11,370
+Und wiege momentan 75 Kilogramm.
+
+188
+00:09:11,370 --> 00:09:14,370
+75. Danke schön, Herr Schmidt.
+
+189
+00:09:14,370 --> 00:09:16,370
+Okay, Frau Hansen.
+
+190
+00:09:16,370 --> 00:09:19,370
+Wie alt sind Sie und wann sind Sie genau geboren?
+
+191
+00:09:19,370 --> 00:09:22,370
+Ich bin 63 Jahre alt.
+
+192
+00:09:22,370 --> 00:09:25,370
+Bin geboren am 1.5. 1961.
+
+193
+00:09:25,370 --> 00:09:27,370
+1961.
+
+194
+00:09:27,370 --> 00:09:30,370
+Frau Hansen, wie groß sind Sie?
+
+195
+00:09:30,370 --> 00:09:34,370
+Ich bin 1968.
+
+196
+00:09:34,370 --> 00:09:38,370
+60. Und kennen Sie Ihr aktuellen Gewicht?
+
+197
+00:09:38,370 --> 00:09:42,370
+Mein aktuelles Gewicht ist so um 74 Kilogramm,
+
+198
+00:09:42,370 --> 00:09:46,370
+immer plus, minus, mal ein bisschen mehr, mal ein bisschen weniger.
+
+199
+00:09:46,370 --> 00:09:49,370
+Okay, 74 Kilogramm.
