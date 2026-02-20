@@ -1,0 +1,611 @@
+1
+00:00:00,300 --> 00:00:04,300
+Okay, danke schön Herr Schmidt. Wie alt sind Sie?
+
+2
+00:00:04,300 --> 00:00:07,300
+Ich bin fünf und ich bin eine Frau.
+
+3
+00:00:07,300 --> 00:00:12,300
+Ah, sorry. Ich bin 54 Jahre alt.
+
+4
+00:00:12,300 --> 00:00:16,300
+Wie alt sind Sie geboren?
+
+5
+00:00:16,300 --> 00:00:23,950
+Ich bin geboren 1970, am dritten Mai.
+
+6
+00:00:23,950 --> 00:00:38,300
+Wie viele wiegen Sie? Wie viele Spiege?
+
+7
+00:00:38,300 --> 00:00:44,300
+Ja. Ungefähr 55 Kilogramm.
+
+8
+00:00:44,300 --> 00:00:47,300
+Wie viele sind Sie?
+
+9
+00:00:47,300 --> 00:00:50,300
+Ca. 1,68 m.
+
+10
+00:00:50,300 --> 00:00:58,300
+Okay, Frau Maga. Maga, wie alt sind Sie und wann sind Sie genau geboren?
+
+11
+00:00:58,300 --> 00:01:05,300
+Ich bin 63 Jahre alt und bin geboren am zweiten, sechsten, 61.
+
+12
+00:01:05,300 --> 00:01:08,300
+61.
+
+13
+00:01:08,300 --> 00:01:15,300
+Okay, Frau Maga, wissen Sie Ihr aktuellen Gewicht?
+
+14
+00:01:15,300 --> 00:01:19,300
+Ja, ja, 78 kg wiege ich.
+
+15
+00:01:19,300 --> 00:01:23,300
+78 kg. Okay, wie groß sind Sie?
+
+16
+00:01:23,300 --> 00:01:26,300
+1,67 m.
+
+17
+00:01:26,300 --> 00:01:31,860
+Wie alt sind Sie, Frau Müller?
+
+18
+00:01:31,860 --> 00:01:41,060
+Ich bin geboren 14.08.1979.
+
+19
+00:01:41,060 --> 00:01:49,260
+Ja, 14 oder 40, ich konnte Sie nicht gut verstehen.
+
+20
+00:01:49,260 --> 00:01:55,260
+14.08.1979, ich bin 46 Jahre alt.
+
+21
+00:01:55,260 --> 00:01:59,260
+46 Jahre alt, okay, okay, danke schön.
+
+22
+00:01:59,260 --> 00:02:02,260
+Wie groß sind Sie, Frau Müller?
+
+23
+00:02:02,260 --> 00:02:07,260
+Ich bin 1,65 m groß und ich wege ungefähr 70 Kilogramm.
+
+24
+00:02:07,260 --> 00:02:12,260
+Wie heißt Ihr Hausärztin oder Ihr Hausarzt?
+
+25
+00:02:12,260 --> 00:02:17,260
+Mein Hausarzt heißt Herr Dr. Schmidt.
+
+26
+00:02:17,260 --> 00:02:21,110
+Herr Dr. Schmidt.
+
+27
+00:02:21,110 --> 00:02:24,110
+W-I-R.
+
+28
+00:02:24,110 --> 00:02:26,110
+B, Wieberta?
+
+29
+00:02:26,110 --> 00:02:28,110
+B, okay.
+
+30
+00:02:28,110 --> 00:02:31,110
+Frau Röber.
+
+31
+00:02:31,110 --> 00:02:34,110
+Wie alt sind Sie?
+
+32
+00:02:34,110 --> 00:02:36,110
+Ich bin 45.
+
+33
+00:02:36,110 --> 00:02:38,110
+45, okay.
+
+34
+00:02:38,110 --> 00:02:40,110
+Wann sind Sie geboren?
+
+35
+00:02:40,110 --> 00:02:42,110
+Am 1.07.80.
+
+36
+00:02:42,110 --> 00:02:47,380
+Alles klar.
+
+37
+00:02:47,380 --> 00:02:53,380
+Okay, wie groß sind Sie und wie können Sie es zurzeit, Frau Röber?
+
+38
+00:02:53,380 --> 00:02:58,380
+Ich bin 1,65 m und wiege 69 Kilogramm.
+
+39
+00:02:58,380 --> 00:03:01,380
+69.
+
+40
+00:03:01,380 --> 00:03:03,380
+Wie alt sind Sie?
+
+41
+00:03:03,380 --> 00:03:05,380
+Ich bin 39 Jahre alt.
+
+42
+00:03:05,380 --> 00:03:08,380
+39, wie wann sind Sie geboren?
+
+43
+00:03:08,380 --> 00:03:12,380
+Am 17.09.85.
+
+44
+00:03:12,380 --> 00:03:17,380
+Wie groß sind Sie, Herr Wieberta?
+
+45
+00:03:17,380 --> 00:03:20,380
+Ich bin 1,84 m.
+
+46
+00:03:20,380 --> 00:03:23,380
+Wie viel wiegen Sie zurzeit?
+
+47
+00:03:23,380 --> 00:03:26,380
+89 Kilogramm.
+
+48
+00:03:26,380 --> 00:03:30,380
+Aber wenn Sie Allergien oder Unverträglichkeiten?
+
+49
+00:03:30,380 --> 00:03:34,380
+Ja, also ich darf keine Nüsse essen
+
+50
+00:03:34,380 --> 00:03:41,380
+und ich habe auch gegen Krässe, also dieses grüne Grau, da habe ich auch
+
+51
+00:03:41,380 --> 00:03:49,380
+eine heftige Allergie, also da habe ich mal richtig Atemnotanfälle bekommen.
+
+52
+00:03:49,380 --> 00:03:54,380
+Wie ursäen sich die Allergien und Gras?
+
+53
+00:03:54,380 --> 00:03:59,380
+Also diese Nüsse, da kriege ich total rote Flecken im Gesicht
+
+54
+00:03:59,380 --> 00:04:06,000
+und das Juckt, also und Gras.
+
+55
+00:04:06,000 --> 00:04:11,000
+Diese Krässe, die Krässe, da habe ich eben so Atemnot bekommen.
+
+56
+00:04:11,000 --> 00:04:16,820
+Was mache ich jetzt mit einem großen Bogen drum herum?
+
+57
+00:04:16,820 --> 00:04:19,820
+Wie heißt Ihr Hausarzt, ob ein Hausarzt?
+
+58
+00:04:19,820 --> 00:04:27,420
+Ja, das ist Dr. Sieger.
+
+59
+00:04:27,420 --> 00:04:29,420
+Wie alt sind Sie?
+
+60
+00:04:29,420 --> 00:04:33,960
+Ich bin jetzt 65 Jahre alt.
+
+61
+00:04:33,960 --> 00:04:36,960
+Wann genau sind Sie geboren?
+
+62
+00:04:36,960 --> 00:04:46,420
+1. April 1964.
+
+63
+00:04:46,420 --> 00:04:49,420
+Wie groß sind Sie?
+
+64
+00:04:49,420 --> 00:04:54,420
+lange nicht mehr gemessen vor Dr. ungefähr 1,75 Mal.
+
+65
+00:04:54,420 --> 00:04:58,420
+Wie schwer sind Sie so weit?
+
+66
+00:04:58,420 --> 00:05:02,420
+Ich habe immer gleich gewählt, ungefähr 70 Kilogramm.
+
+67
+00:05:02,420 --> 00:05:08,420
+Okay, und wer ist Ihr Hausarzt oder Ihre Hauptärztin?
+
+68
+00:05:08,420 --> 00:05:12,420
+Herr Dr. Müller, der hat mich hier überwiesen.
+
+69
+00:05:12,420 --> 00:05:15,420
+Okay, danke für den Einfragen.
+
+70
+00:05:15,420 --> 00:05:18,420
+Frau Schell, wie alt sind Sie?
+
+71
+00:05:18,420 --> 00:05:22,420
+Ich bin 56 Jahre alt.
+
+72
+00:05:22,420 --> 00:05:25,420
+56 Jahre alt.
+
+73
+00:05:25,420 --> 00:05:28,420
+Okay, wann wurden Sie geboren?
+
+74
+00:05:28,420 --> 00:05:35,420
+Das ist der 10. Mai 1966.
+
+75
+00:05:35,420 --> 00:05:40,420
+Und darf ich fragen, wie viel wiegen Sie?
+
+76
+00:05:40,420 --> 00:05:42,420
+Und wie schwer sind Sie?
+
+77
+00:05:42,420 --> 00:05:45,420
+1.168, glaube ich mich vertragen.
+
+78
+00:05:45,420 --> 00:05:47,420
+Kein Schülung.
+
+79
+00:05:47,420 --> 00:05:50,420
+1.168, nicht 1.66.
+
+80
+00:05:50,420 --> 00:05:56,420
+Okay, und wie groß und wie schwer sind Sie?
+
+81
+00:05:56,420 --> 00:06:01,420
+Ich bin ungefähr 1,68 m und wiege momentan 55 Kilogramm.
+
+82
+00:06:01,420 --> 00:06:04,420
+55 Kilogramm?
+
+83
+00:06:04,420 --> 00:06:06,420
+Ja.
+
+84
+00:06:06,420 --> 00:06:09,420
+Okay, bei Belastung.
+
+85
+00:06:09,420 --> 00:06:15,420
+So, haben Sie auch Fieber?
+
+86
+00:06:15,420 --> 00:06:21,420
+Nein, Fieber habe ich jetzt nicht gemessen, aber ich glaube nicht, dass ich heiß bin.
+
+87
+00:06:21,420 --> 00:06:28,420
+Also, haben Sie eine Schmerz?
+
+88
+00:06:28,420 --> 00:06:31,420
+Schmerzen habe ich nicht. Nein, keine Schmerzen.
+
+89
+00:06:31,420 --> 00:06:33,420
+Keine Schmerzen.
+
+90
+00:06:33,420 --> 00:06:35,420
+Wie alt sind Sie?
+
+91
+00:06:35,420 --> 00:06:38,420
+Ich bin schon 76.
+
+92
+00:06:38,420 --> 00:06:40,420
+26.
+
+93
+00:06:40,420 --> 00:06:42,420
+Wie lange sind Sie geboren?
+
+94
+00:06:42,420 --> 00:06:45,420
+Am 25. April 49.
+
+95
+00:06:45,420 --> 00:06:48,420
+25. April 49.
+
+96
+00:06:48,420 --> 00:06:50,420
+49.
+
+97
+00:06:50,420 --> 00:06:56,760
+Wie groß sind Sie und wie schwer sind Sie?
+
+98
+00:06:56,760 --> 00:07:02,760
+Ich bin 1.178, war ich jedenfalls einmal, vielleicht bin ich schon ein bisschen kleiner.
+
+99
+00:07:02,760 --> 00:07:05,760
+Und ich wiege 89 Kilo noch.
+
+100
+00:07:05,760 --> 00:07:11,060
+Okay, alles klar.
+
+101
+00:07:11,060 --> 00:07:14,060
+Wie alt sind Sie, Herr Sacken?
+
+102
+00:07:14,060 --> 00:07:17,060
+Ich bin 30 Jahre alt.
+
+103
+00:07:17,060 --> 00:07:21,060
+30 Jahre alt. Wann sind Sie genau geboren?
+
+104
+00:07:21,060 --> 00:07:26,060
+Am 10. Mai 1994.
+
+105
+00:07:26,060 --> 00:07:28,060
+490.
+
+106
+00:07:28,060 --> 00:07:31,060
+Wie groß sind Sie, Herr Sacken?
+
+107
+00:07:31,060 --> 00:07:35,060
+1,80 m.
+
+108
+00:07:35,060 --> 00:07:38,060
+Wie viele wiegen Sie?
+
+109
+00:07:38,060 --> 00:07:42,060
+Wie viele geht nicht? Wie viel wiegen Sie?
+
+110
+00:07:42,060 --> 00:07:45,060
+Wie viel wiegen Sie, Herr Sacken?
+
+111
+00:07:45,060 --> 00:07:48,060
+Ich wiege 100 Kilo.
+
+112
+00:07:48,060 --> 00:07:51,060
+100 Kilo.
+
+113
+00:07:51,060 --> 00:07:54,060
+Und was sind Sie vom Beruf?
+
+114
+00:07:54,060 --> 00:07:58,340
+Ich bin Notfallsanitäter.
+
+115
+00:07:58,340 --> 00:08:03,340
+Okay, in diesem Fall, wir sind Kollegen, das heißt ja.
+
+116
+00:08:03,340 --> 00:08:06,340
+Sind Sie Notfallsanitäter?
+
+117
+00:08:06,340 --> 00:08:09,340
+Wir sind Arzt.
+
+118
+00:08:09,340 --> 00:08:12,340
+Ich bin Arzt, aber wir arbeiten in den Gesundheitsbereich.
+
+119
+00:08:12,340 --> 00:08:15,340
+Deswegen habe ich das gesagt.
+
+120
+00:08:15,340 --> 00:08:18,340
+Danke, ja, das stimmt.
+
+121
+00:08:18,340 --> 00:08:22,340
+Könnten Sie mir sagen, wie heißt Ihre Hausärztin oder Hausarzt?
+
+122
+00:08:22,340 --> 00:08:25,340
+Ich habe keinen Hausarzt.
+
+123
+00:08:25,340 --> 00:08:29,340
+Das ist ein wichtiges Stress schon.
+
+124
+00:08:29,340 --> 00:08:35,340
+Könnten Sie sobald eine Anmendung an Hausarzt machen?
+
+125
+00:08:35,340 --> 00:08:39,340
+Nein, das geht nicht.
+
+126
+00:08:39,340 --> 00:08:42,340
+Ha, ha, a, a.
+
+127
+00:08:42,340 --> 00:08:45,340
+Okay, Frau Müller.
+
+128
+00:08:45,340 --> 00:08:49,340
+Müller, bitte, mit O, U-umlaut, nicht U-umlaut.
+
+129
+00:08:49,340 --> 00:08:52,340
+U-umlaut, Müller.
+
+130
+00:08:52,340 --> 00:08:54,340
+Frau Müller, wie alt sind Sie?
+
+131
+00:08:54,340 --> 00:08:56,340
+Ich bin 42.
+
+132
+00:08:56,340 --> 00:09:00,340
+Und wann wurden Sie genau geboren?
+
+133
+00:09:00,340 --> 00:09:03,340
+Am 20.07.83.
+
+134
+00:09:03,340 --> 00:09:23,340
+83. Wie groß sind Sie? Ich bin 1,69. 1,69. Und wie viel wiegen Sie?
+
+135
+00:09:23,340 --> 00:09:28,340
+Ich wiege so 68 Kilo. Können Sie wiederholen bitte?
+
+136
+00:09:29,340 --> 00:09:33,340
+Frau Lawrence, wie alt sind Sie und wann genau sind Sie geboren?
+
+137
+00:09:33,340 --> 00:09:44,340
+Ich bin 22 Jahre alt und bin am 14. August 2000 und 2 geboren.
+
+138
+00:09:44,340 --> 00:09:50,660
+Wie viel wiegen Sie und wie groß sind Sie, Frau Lawrence?
+
+139
+00:09:50,660 --> 00:09:59,660
+Ich bin 1,65 und habe circa 73 Kilo.
+
+140
+00:09:59,660 --> 00:10:08,780
+Na rüftig ja. Wie alt sind Sie, bitte?
+
+141
+00:10:08,780 --> 00:10:09,780
+Ich bin 62.
+
+142
+00:10:09,780 --> 00:10:15,210
+Wann sind Sie genug geboren?
+
+143
+00:10:15,210 --> 00:10:17,210
+Am 18. Mai 63.
+
+144
+00:10:17,210 --> 00:10:22,860
+63.
+
+145
+00:10:22,860 --> 00:10:29,280
+Und welcher Tag?
+
+146
+00:10:29,280 --> 00:10:32,280
+Am 18. Mai.
+
+147
+00:10:32,280 --> 00:10:34,280
+Am 10. Mai.
+
+148
+00:10:34,280 --> 00:10:36,280
+Am 18.
+
+149
+00:10:36,280 --> 00:10:40,880
+Und wie groß sind Sie?
+
+150
+00:10:40,880 --> 00:10:44,880
+Ich bin 1,63 in meinem Ausweis.
+
+151
+00:10:44,880 --> 00:10:51,690
+Wie viel wiegen Sie?
+
+152
+00:10:51,690 --> 00:11:02,760
+Na so, 80 Kilo ungefähr.
+
+153
+00:11:02,760 --> 00:11:04,760
+Na ich verstehe, was...
