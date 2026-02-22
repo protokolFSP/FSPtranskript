@@ -1,0 +1,1271 @@
+1
+00:00:00,000 --> 00:00:04,000
+Mein Name ist Käskin, ich bin der zuständige Arzt für Sie. Wie heißen Sie?
+
+2
+00:00:05,000 --> 00:00:07,000
+Mein Name ist Klaus Richter.
+
+3
+00:00:07,000 --> 00:00:15,460
+Klaus, K, L, A, U, S und Richter wie Beruf Richter.
+
+4
+00:00:15,460 --> 00:00:16,460
+Richtig, ganz genau.
+
+5
+00:00:16,460 --> 00:00:18,460
+Wie alt sind Sie, Herr Richter?
+
+6
+00:00:18,460 --> 00:00:20,460
+66 Jahre alt.
+
+7
+00:00:21,460 --> 00:00:22,460
+Wann sind Sie geboren?
+
+8
+00:00:22,460 --> 00:00:26,460
+Ich bin am 17. Oktober 59 geboren.
+
+9
+00:00:30,430 --> 00:00:32,430
+59? Können Sie bitte wieder sagen, es ist 50.
+
+10
+00:00:32,430 --> 00:00:37,740
+Wie groß sind Sie und wie viel wiegen Sie?
+
+11
+00:00:38,740 --> 00:00:42,740
+Ich bin 1,78 m groß und wiege 73 kg.
+
+12
+00:00:47,260 --> 00:00:49,260
+Herr Richter, was wird Sie uns tun?
+
+13
+00:00:49,260 --> 00:00:54,260
+Ich komme heute zu Ihnen, weil ich seit drei Monaten einen zunehmenden Husten habe.
+
+14
+00:00:55,260 --> 00:01:05,930
+Ist der Husten trocken oder mit Auswurf?
+
+15
+00:01:06,930 --> 00:01:11,930
+Er ist ja trocken, aber manchmal ist er auch blutig.
+
+16
+00:01:12,930 --> 00:01:14,930
+Manchmal blutig.
+
+17
+00:01:22,360 --> 00:01:30,360
+Trittler, Husten, Ruhe oder bei Körperleaktiven?
+
+18
+00:01:31,360 --> 00:01:32,360
+Beides.
+
+19
+00:01:33,360 --> 00:01:41,980
+Und Sie haben keinen Auswurf?
+
+20
+00:01:41,980 --> 00:01:43,980
+Hab ich Sie richtig verstanden?
+
+21
+00:01:43,980 --> 00:01:51,700
+Nee, manchmal habe ich glasigen Auswurf, aber selten.
+
+22
+00:01:52,700 --> 00:01:56,700
+Einmal morgens habe ich glasigen Auswurf und danach eigentlich nicht mehr.
+
+23
+00:02:03,750 --> 00:02:05,750
+Haben Sie Atemnot?
+
+24
+00:02:06,750 --> 00:02:08,750
+Manchmal werde ich mich sehr belastet, ja.
+
+25
+00:02:17,020 --> 00:02:19,020
+Haben Sie Brüschsmersen?
+
+26
+00:02:20,020 --> 00:02:21,020
+Wenn ich stark huste, ja.
+
+27
+00:02:27,530 --> 00:02:32,530
+Können Sie bitte die Intensity der Schmerzen von 1 bis 10,
+
+28
+00:02:32,530 --> 00:02:39,530
+einschätzen, wobei 1 leicht werden und 10 unerträglichen Schmerzen entspricht.
+
+29
+00:02:40,530 --> 00:02:41,530
+Und 4?
+
+30
+00:02:42,530 --> 00:02:43,530
+Ja.
+
+31
+00:02:44,530 --> 00:02:57,920
+Herr Richter, möchten Sie noch etwas für uns zufügen, Ihre aktuelle Beschwerden?
+
+32
+00:03:01,030 --> 00:03:03,030
+Dieser Husten stört mich schon sehr, muss man sagen.
+
+33
+00:03:04,030 --> 00:03:08,440
+Können Sie etwas dagegen machen, um mir helfen?
+
+34
+00:03:09,440 --> 00:03:10,440
+Ja, ich...
+
+35
+00:03:13,440 --> 00:03:16,440
+Können Sie die Frage wiederholen, Entschuldigung?
+
+36
+00:03:17,440 --> 00:03:19,440
+Können Sie etwas für meinen Husten tun?
+
+37
+00:03:20,440 --> 00:03:22,440
+Dieser Husten schränkt mich in meinem Leben sehr ein.
+
+38
+00:03:23,440 --> 00:03:27,440
+Ja, ich verstehe Sie, natürlich. Wir helfen Ihnen. Wir machen unser Bestes.
+
+39
+00:03:28,440 --> 00:03:29,440
+Okay.
+
+40
+00:03:31,440 --> 00:03:33,440
+Ich habs aber auch, ne?
+
+41
+00:03:34,440 --> 00:03:35,440
+Ja, angeschön.
+
+42
+00:03:36,440 --> 00:03:37,440
+Wir sind im Mieter.
+
+43
+00:03:38,440 --> 00:03:39,440
+Okay.
+
+44
+00:03:40,440 --> 00:03:42,440
+Hatten Sie in letzter Zeit
+
+45
+00:03:43,440 --> 00:03:46,440
+viele Infektionen oder waren Sie ergerthet?
+
+46
+00:03:47,440 --> 00:03:50,440
+Ich habe immer wieder 2-mal im Jahr eine Atemwegserkrankung.
+
+47
+00:03:51,440 --> 00:03:55,440
+Aber das ist jetzt unabhängig davon, glaube ich.
+
+48
+00:03:56,440 --> 00:04:09,270
+Herr Richter, ich hätte jetzt eine Frage zu Ihrem allgemeinen gesundheitszustand.
+
+49
+00:04:10,270 --> 00:04:15,270
+Haben Sie in letzter Zeit viel bei Stärfrösen und Nachschweiß bemerkt?
+
+50
+00:04:15,270 --> 00:04:21,270
+Also, ich habe tatsächlich seit ungefähr jetzt so einem Monat starken Nachtschweiß.
+
+51
+00:04:22,270 --> 00:04:33,010
+Müssen Sie Ihren Schlafentzug auswechseln?
+
+52
+00:04:34,010 --> 00:04:35,010
+Meinen Was?
+
+53
+00:04:36,010 --> 00:04:42,010
+Müssen Sie Ihren Schlafentzug, Schlafkleidung auswechseln?
+
+54
+00:04:43,010 --> 00:04:47,010
+Ja, also manchmal muss ich mein Nachtentz auswechseln, ja.
+
+55
+00:04:47,010 --> 00:04:49,010
+Sie haben kein Fieber?
+
+56
+00:04:50,010 --> 00:04:52,010
+Fieber habe ich nicht bemerkt, nein.
+
+57
+00:04:53,010 --> 00:04:56,010
+Wie ist Ihr Appetit in letzter Zeit?
+
+58
+00:04:57,010 --> 00:05:01,370
+Es ist ein bisschen weniger geworden.
+
+59
+00:05:02,370 --> 00:05:05,370
+Haben Sie in letzter Zeit ab oder zu genommen?
+
+60
+00:05:06,370 --> 00:05:07,370
+Ich habe abgenommen.
+
+61
+00:05:11,570 --> 00:05:13,570
+Wie viel Kilo und in welchem Zeit?
+
+62
+00:05:14,570 --> 00:05:16,570
+Also, ich habe jetzt ungefähr 8 Kilogramm abgenommen.
+
+63
+00:05:17,570 --> 00:05:20,570
+Seit jetzt circa 2-3 Jahren.
+
+64
+00:05:20,570 --> 00:05:23,570
+Haben Sie Probleme beim Wasserlassen oder mit dem Stuhlgang?
+
+65
+00:05:24,570 --> 00:05:25,570
+Nein, gar nicht.
+
+66
+00:05:26,570 --> 00:05:30,540
+Wie schlafen Sie gut?
+
+67
+00:05:31,540 --> 00:05:46,860
+Ich nehme an, dass Sie Schlafprobleme haben, weil Sie Husteln haben.
+
+68
+00:05:47,860 --> 00:05:48,860
+Richtig, ganz genau.
+
+69
+00:05:49,860 --> 00:05:53,860
+Haben Sie Probleme beim Einschlafen oder mit dem Stuhlgang?
+
+70
+00:05:54,860 --> 00:05:55,860
+Nein, gar nicht.
+
+71
+00:05:55,860 --> 00:06:00,940
+Ich habe keine Einschlafen, aber ich habe Durchschlafenstörungen.
+
+72
+00:06:01,940 --> 00:06:02,940
+Ich verstehe Sie.
+
+73
+00:06:03,940 --> 00:06:07,940
+Herr Witte, leiden Sie an chronischen Erkrankungen wie Bluthochdruck,
+
+74
+00:06:08,940 --> 00:06:10,940
+Zuckerkrankheit, Asthma, Exama oder etwas?
+
+75
+00:06:24,930 --> 00:06:26,930
+Ich habe Bluthochdruck schon seit Jahren.
+
+76
+00:06:27,930 --> 00:06:28,930
+Seit wann?
+
+77
+00:06:29,930 --> 00:06:32,930
+Ich habe das mit 40 Jahren, also ungefähr seit 6 Jahren.
+
+78
+00:06:33,930 --> 00:06:34,930
+Ich habe das seit 4 Jahren.
+
+79
+00:06:34,930 --> 00:06:35,930
+Seit wann?
+
+80
+00:06:36,930 --> 00:06:40,930
+Ich habe das mit 40 Jahren, also ungefähr seit 26 Jahren.
+
+81
+00:06:41,930 --> 00:06:48,850
+Was noch?
+
+82
+00:06:49,850 --> 00:06:50,850
+Und COPD habe ich.
+
+83
+00:06:51,850 --> 00:06:53,850
+Sie haben schon COPD leiden.
+
+84
+00:06:54,850 --> 00:06:55,850
+Sie leiden an COPD.
+
+85
+00:06:56,850 --> 00:06:57,850
+Seit wann?
+
+86
+00:06:58,850 --> 00:07:08,070
+Das habe ich auch seit ungefähr 20 Jahren.
+
+87
+00:07:09,070 --> 00:07:10,070
+Weiterer Erkrankungen?
+
+88
+00:07:11,070 --> 00:07:12,070
+Nein, Gott sei Dank nicht.
+
+89
+00:07:13,070 --> 00:07:14,070
+Sind Sie schon mal operiert worden?
+
+90
+00:07:14,070 --> 00:07:19,070
+Ja, mein Blutdruck ist raus und meine geilen Blase entfernt worden.
+
+91
+00:07:20,070 --> 00:07:22,070
+Wann mal diese Operationen?
+
+92
+00:07:23,070 --> 00:07:27,070
+Also meine geilen Blase ist mit 45 Jahren entfernt worden
+
+93
+00:07:28,070 --> 00:07:30,070
+und meine Blinde mit 25 Jahren.
+
+94
+00:07:31,070 --> 00:07:40,410
+Sind Sie schon mal wegen einer anderen Erkrankung im Krankenhaus behandelt worden?
+
+95
+00:07:41,410 --> 00:07:44,410
+Ja, ich war schon zweimal wegen der COPD, war ich schon krank, ausgewiesen.
+
+96
+00:07:44,410 --> 00:08:03,740
+Herr Richter, nehmen Sie regelmäßig Medikamente ein?
+
+97
+00:08:04,740 --> 00:08:07,740
+Ja, ich nehme für meinen Blutdruck 2 Medikamente ein.
+
+98
+00:08:08,740 --> 00:08:09,740
+2?
+
+99
+00:08:10,740 --> 00:08:12,740
+2 Medikamente, nehme ich für meinen Blutdruck ein.
+
+100
+00:08:13,740 --> 00:08:15,740
+Können wir wieder der Name holen?
+
+101
+00:08:16,740 --> 00:08:17,740
+Ja, Candesatan.
+
+102
+00:08:18,740 --> 00:08:19,740
+2 Milligramm?
+
+103
+00:08:20,740 --> 00:08:22,740
+Nein, 16 Milligramm, morgens und abends.
+
+104
+00:08:23,740 --> 00:08:31,110
+Und ich nehme auch Amlodipine ein, 5 Milligramm morgens und abends.
+
+105
+00:08:32,110 --> 00:08:33,110
+Wie viele Milligramm?
+
+106
+00:08:34,110 --> 00:08:35,110
+5 Milligramm Amlodipine.
+
+107
+00:08:39,580 --> 00:08:42,580
+Was veränden Sie gegen COPD?
+
+108
+00:08:43,580 --> 00:08:46,580
+Ja, ich habe 2 Sprays nicht einnimmt.
+
+109
+00:08:47,580 --> 00:08:50,580
+Den Namen habe ich jetzt vergessen, wie das heißt.
+
+110
+00:08:51,580 --> 00:08:54,580
+Und ich nehme einen Notfall Medikamente, einen Seibuttermol.
+
+111
+00:08:55,580 --> 00:08:59,580
+Außer diesen 2 Spray oder ein Spray ist Seibuttermol?
+
+112
+00:09:00,580 --> 00:09:01,580
+Nein, sonst nichts.
+
+113
+00:09:02,580 --> 00:09:07,580
+Also manchmal schreibt mein Haus aus mir Cortison auch, als Tabletten, wenn es mir sehr schlecht geht.
+
+114
+00:09:08,580 --> 00:09:14,650
+Wie viele Milligramm dieses Cortison?
+
+115
+00:09:15,650 --> 00:09:17,650
+10 Milligramm, aber nur für ein paar Tage.
+
+116
+00:09:18,650 --> 00:09:19,650
+Bei Bedarf?
+
+117
+00:09:20,650 --> 00:09:23,650
+Ja, nicht bei Bedarf, sondern bei ein paar Tagen, dann höre ich auch.
+
+118
+00:09:23,650 --> 00:09:37,480
+Herr Litte, haben Sie Allergie?
+
+119
+00:09:38,480 --> 00:09:39,480
+Ich habe einen Hausstopp.
+
+120
+00:09:40,480 --> 00:09:42,480
+Wie äußert Sie diese Allergie?
+
+121
+00:09:43,480 --> 00:09:44,480
+Nein.
+
+122
+00:09:45,480 --> 00:09:47,480
+Wie äußert Sie die Allergie?
+
+123
+00:09:48,480 --> 00:09:51,480
+Mit Niesen und Schnupfen und Nase laufen, Augen trennen.
+
+124
+00:09:52,480 --> 00:09:53,480
+Verstehe.
+
+125
+00:09:54,480 --> 00:09:59,380
+Herr Litte, rachen Sie?
+
+126
+00:10:00,380 --> 00:10:01,380
+Ich rache ja.
+
+127
+00:10:02,380 --> 00:10:04,380
+Wie viele Segerte rachen Sie?
+
+128
+00:10:04,380 --> 00:10:09,380
+Ich rache ungefähr 18, 19 Segerte am Tag.
+
+129
+00:10:10,380 --> 00:10:11,380
+Seit wann?
+
+130
+00:10:12,380 --> 00:10:14,380
+Seit 45 Jahren.
+
+131
+00:10:15,380 --> 00:10:17,380
+40 Jahre.
+
+132
+00:10:18,380 --> 00:10:29,020
+Herr Litte, haben Sie schon einmal darüber nachgedacht, wie Sie den Segertenkonsum auslösen oder reduzieren?
+
+133
+00:10:29,020 --> 00:10:31,020
+Mehrfach habe ich schon darüber nachgedacht.
+
+134
+00:10:32,020 --> 00:10:36,020
+Ich habe auch schon einmal ein, zwei Jahre aufgehört, aber ich schaffe das nicht.
+
+135
+00:10:37,020 --> 00:10:38,020
+Ja.
+
+136
+00:10:39,020 --> 00:10:48,020
+Und Herr Süho, können wir Ihnen ein Rache Entzündungsprogramm organisieren, wenn Sie möchten?
+
+137
+00:10:49,020 --> 00:10:51,020
+Können wir gerne machen, aber das bringt mir nichts.
+
+138
+00:10:52,020 --> 00:10:53,020
+Ich habe das schon mehrmals gemacht.
+
+139
+00:10:53,020 --> 00:10:54,020
+Okay.
+
+140
+00:10:55,020 --> 00:11:03,020
+Wir beenden dieses Gespräch, dann untersuchen Sie, dann sprechen wir später.
+
+141
+00:11:04,020 --> 00:11:05,020
+Okay.
+
+142
+00:11:06,020 --> 00:11:10,020
+Rachen Sie, Entschuldigung, trinken Sie Alkohol, Herr Litte?
+
+143
+00:11:11,020 --> 00:11:12,020
+Wie bitte?
+
+144
+00:11:13,020 --> 00:11:14,020
+Trücken Sie Alkohol.
+
+145
+00:11:15,020 --> 00:11:17,020
+Es ist ganz, ganz selten, vielleicht einmal im Jahr.
+
+146
+00:11:18,020 --> 00:11:23,500
+Können Sie drücken?
+
+147
+00:11:23,500 --> 00:11:24,500
+Ich drücke.
+
+148
+00:11:25,500 --> 00:11:26,500
+Nein.
+
+149
+00:11:27,500 --> 00:11:38,490
+Herr Litte, neben Ihren Eltern noch?
+
+150
+00:11:39,490 --> 00:11:40,490
+Beide sind verstorben.
+
+151
+00:11:41,490 --> 00:11:42,490
+Beide sind verstorben.
+
+152
+00:11:43,490 --> 00:11:44,490
+Das tut mir leise hören.
+
+153
+00:11:45,490 --> 00:11:49,490
+Gibt es, oder gab es, krönche Erkrankungen bei Ihren Eltern?
+
+154
+00:11:50,490 --> 00:11:53,490
+Also, mein Vater ist in einem Herzinfarkt gestorben.
+
+155
+00:11:53,490 --> 00:11:54,490
+Hat man gesagt.
+
+156
+00:11:55,490 --> 00:11:57,490
+Und meine Mutter hatte Brustkrebs.
+
+157
+00:11:58,490 --> 00:11:59,490
+Brustkrebs.
+
+158
+00:12:00,490 --> 00:12:02,490
+Sind Sie Rentner, Herr Litte, oder arbeiten Sie?
+
+159
+00:12:03,490 --> 00:12:04,490
+Ja, ich bin Rentner.
+
+160
+00:12:05,490 --> 00:12:12,830
+Was haben Sie früher gemacht?
+
+161
+00:12:13,830 --> 00:12:14,830
+Ich war Maurer.
+
+162
+00:12:15,830 --> 00:12:18,240
+Maurer.
+
+163
+00:12:19,240 --> 00:12:21,240
+Ich habe auf dem Bau gearbeitet, auf der Bauarbeit.
+
+164
+00:12:22,240 --> 00:12:23,240
+Sind Sie verreiheitet?
+
+165
+00:12:24,240 --> 00:12:25,240
+Ja.
+
+166
+00:12:25,240 --> 00:12:26,240
+Haben Sie Kinder?
+
+167
+00:12:27,240 --> 00:12:30,380
+Ich habe Kinder.
+
+168
+00:12:31,380 --> 00:12:32,380
+Sind Sie gesund?
+
+169
+00:12:33,380 --> 00:12:34,380
+Ja.
+
+170
+00:12:35,380 --> 00:12:36,380
+Gut.
+
+171
+00:12:37,380 --> 00:12:38,380
+Mit wem leben Sie?
+
+172
+00:12:39,380 --> 00:12:40,380
+Mit meiner Frau natürlich.
+
+173
+00:12:41,380 --> 00:12:42,380
+Mit den Kindern sonst.
+
+174
+00:12:43,380 --> 00:12:47,380
+Herr Litte, ich habe alle meine Fragen, ich habe Ihnen alle meine
+
+175
+00:12:48,380 --> 00:12:50,860
+Fragen schon gestärkt.
+
+176
+00:12:51,860 --> 00:12:52,860
+Möchten Sie Not, oder?
+
+177
+00:12:53,860 --> 00:12:55,860
+Nein, nein, nein, nein.
+
+178
+00:12:55,860 --> 00:12:57,860
+Ich habe auch schon Konklusion genommen.
+
+179
+00:12:58,860 --> 00:13:00,860
+Das bringt aber auch nichts.
+
+180
+00:13:01,860 --> 00:13:03,860
+Und mir macht dieser blutige Brusten sehr Sorgen.
+
+181
+00:13:06,390 --> 00:13:08,390
+Ja, Sie haben Welt.
+
+182
+00:13:09,390 --> 00:13:11,390
+Aber schön, dass Sie zu uns gekommen sind.
+
+183
+00:13:12,390 --> 00:13:14,390
+Zuerst werde ich Sie untersuchen,
+
+184
+00:13:15,390 --> 00:13:16,390
+danach genutachten.
+
+185
+00:13:17,390 --> 00:13:19,390
+Ich habe auch noch etwas zu tun.
+
+186
+00:13:20,390 --> 00:13:22,390
+Ich habe auch noch etwas zu tun.
+
+187
+00:13:23,390 --> 00:13:25,390
+Ich habe auch noch etwas zu tun.
+
+188
+00:13:25,390 --> 00:13:27,390
+Ich habe noch etwas zu tun.
+
+189
+00:13:28,390 --> 00:13:30,390
+Ich habe noch etwas zu tun.
+
+190
+00:13:31,390 --> 00:13:33,390
+Ich habe noch etwas zu tun.
+
+191
+00:13:34,390 --> 00:13:36,570
+MILMA점, den ich geboren habe,
+
+192
+00:13:37,390 --> 00:13:40,390
+dann werde ich von derykann auf veil sec taken.
+
+193
+00:13:41,390 --> 00:13:48,710
+Of course, auf
+
+194
+00:13:48,710 --> 00:13:50,710
+Blut ist immer schlimm.
+
+195
+00:13:50,710 --> 00:13:52,710
+Ja, Blut ist immer schlimm.
+
+196
+00:13:52,710 --> 00:13:54,710
+Ja, Blut ist immer schlimm.
+
+197
+00:13:54,710 --> 00:13:56,710
+Ja, Blut ist immer schlimm.
+
+198
+00:13:56,710 --> 00:13:59,710
+Aber so erst müssen wir das abklingen.
+
+199
+00:13:59,710 --> 00:14:04,660
+Ja, das machen wir nicht.
+
+200
+00:14:04,660 --> 00:14:05,660
+Dankeschön.
+
+201
+00:14:05,660 --> 00:14:11,660
+Ich habe Kollegen noch andere Fragen oder Ergänzungen.
+
+202
+00:14:11,660 --> 00:14:13,660
+Darf ich etwas fragen?
+
+203
+00:14:13,660 --> 00:14:14,660
+Ja.
+
+204
+00:14:14,660 --> 00:14:19,660
+Wir haben erwähnt, dass ich manchmal aufspiel.
+
+205
+00:14:19,660 --> 00:14:24,660
+Ich habe das Gefühl, dass Blut im Auswurf ist.
+
+206
+00:14:24,660 --> 00:14:28,660
+Wie viele Mal haben Sie das gemerkt?
+
+207
+00:14:28,660 --> 00:14:30,660
+Wie war das Blut?
+
+208
+00:14:30,660 --> 00:14:32,660
+War es vermischt mit Auswurf?
+
+209
+00:14:32,660 --> 00:14:34,660
+Können Sie das erklären?
+
+210
+00:14:34,660 --> 00:14:37,660
+Ich habe eher glasigen Auswurf.
+
+211
+00:14:37,660 --> 00:14:40,660
+Aber ich habe seit zwei Wochen immer wieder Blut vermischt.
+
+212
+00:14:40,660 --> 00:14:43,660
+Ein Auswurf mit glasigem Auswurf.
+
+213
+00:14:43,660 --> 00:14:45,660
+Dankeschön.
+
+214
+00:14:45,660 --> 00:14:52,190
+Ein Blut im Auswurf war das erste Mal, nur zwei Wochen?
+
+215
+00:14:52,190 --> 00:14:55,190
+Seit zwei Wochen habe ich es immer wieder.
+
+216
+00:14:55,190 --> 00:14:57,190
+Seit zwei Wochen.
+
+217
+00:14:57,190 --> 00:14:59,190
+Dankeschön.
+
+218
+00:14:59,190 --> 00:15:02,190
+Herr Schülegung, haben Sie in der letzten Zeit,
+
+219
+00:15:02,190 --> 00:15:06,190
+ich meine drei Monate oder sechs Monate
+
+220
+00:15:06,190 --> 00:15:09,190
+Gewichtsverlust?
+
+221
+00:15:09,190 --> 00:15:11,190
+Zwei Mal?
+
+222
+00:15:11,190 --> 00:15:13,190
+Ja, habe ich gesagt.
+
+223
+00:15:13,190 --> 00:15:16,190
+Sie haben gesagt, Herr Schülegung,
+
+224
+00:15:16,190 --> 00:15:26,840
+ich habe sie in der letzten Zeit gewusst.
+
+225
+00:15:26,840 --> 00:15:29,840
+Danke schön.
+
+226
+00:15:29,840 --> 00:15:33,840
+Ich möchte Ihnen einen neuen Patienten vorstellen.
+
+227
+00:15:33,840 --> 00:15:39,840
+Es geht um Herrn Glasrichter, der 6 und 6 Jahre alt ist.
+
+228
+00:15:39,840 --> 00:15:45,840
+Und 178 cm groß ist, er wiegt 73 kg.
+
+229
+00:15:45,840 --> 00:15:48,840
+Der Patient hat eine gute Erwege.
+
+230
+00:15:48,840 --> 00:15:56,840
+Seit drei Monaten, seit der 5.
+
+231
+00:15:56,840 --> 00:15:59,840
+Hand, progredient verlaufenden,
+
+232
+00:15:59,840 --> 00:16:04,840
+ich habe mit einem Schuput,
+
+233
+00:16:04,840 --> 00:16:08,840
+ich habe mit einem Schuput und eine Hemopütose vor.
+
+234
+00:16:08,840 --> 00:16:11,840
+Auserwärts,
+
+235
+00:16:11,840 --> 00:16:16,840
+der Patient über Belastungsdüsten
+
+236
+00:16:16,840 --> 00:16:21,840
+und Torexschmerzen beim Husten.
+
+237
+00:16:21,840 --> 00:16:29,840
+Die Schmerzinsensteit wurde mit 4 von 10 bewertet.
+
+238
+00:16:29,840 --> 00:16:32,840
+Die Bewertung der Schmerzen
+
+239
+00:16:32,840 --> 00:16:35,840
+ist in der ersten Zeit,
+
+240
+00:16:35,840 --> 00:16:39,840
+seit einer Monat,
+
+241
+00:16:39,840 --> 00:16:45,980
+in Appetenz,
+
+242
+00:16:45,980 --> 00:16:49,980
+und eine Gewichtsabnahme von 8 kg
+
+243
+00:16:49,980 --> 00:16:53,980
+in zwei Monaten
+
+244
+00:16:53,980 --> 00:16:57,980
+und in so eine Form von Durchstrafstören.
+
+245
+00:16:57,980 --> 00:17:00,980
+Das ist eine Art,
+
+246
+00:17:00,980 --> 00:17:03,980
+die ich in der ersten Zeit
+
+247
+00:17:03,980 --> 00:17:05,980
+habe,
+
+248
+00:17:05,980 --> 00:17:09,980
+und in so eine Form von Durchstrafstören.
+
+249
+00:17:09,980 --> 00:17:13,980
+Die Fragen nach Fieber, Schütterfroß,
+
+250
+00:17:13,980 --> 00:17:16,980
+wurden verneit.
+
+251
+00:17:16,980 --> 00:17:21,620
+In der Vorgesicht des Patienten
+
+252
+00:17:21,620 --> 00:17:24,620
+finden Sie
+
+253
+00:17:24,620 --> 00:17:30,620
+eine arterielle Hypertonie seit 26 Jahren.
+
+254
+00:17:30,620 --> 00:17:35,620
+Die chronische Obstruktiv-Lungen-Krankheit
+
+255
+00:17:35,620 --> 00:17:41,340
+seit 20 Jahren
+
+256
+00:17:41,340 --> 00:17:47,340
+hat Sie im Alter von 25 Jahren
+
+257
+00:17:47,340 --> 00:17:52,340
+eine Abendoktemie im Alter von 45 Jahren
+
+258
+00:17:52,340 --> 00:17:56,340
+eine Koristomie untersogen.
+
+259
+00:17:56,340 --> 00:18:00,340
+Auserwärts hat unser Patient
+
+260
+00:18:00,340 --> 00:18:07,340
+zweimal wegen COPD-Extreparationsstationen
+
+261
+00:18:07,340 --> 00:18:12,330
+aufgenommen.
+
+262
+00:18:12,330 --> 00:18:15,330
+Der Patient nimmt Kandesarter
+
+263
+00:18:15,330 --> 00:18:19,330
+16 Milligramm morgens und abends
+
+264
+00:18:19,330 --> 00:18:24,330
+1,55 Milligramm morgens und abends
+
+265
+00:18:24,330 --> 00:18:27,330
+erverwendet zwei Spray,
+
+266
+00:18:27,330 --> 00:18:32,330
+aber der Name dieser Spray ist nicht erinnerlich.
+
+267
+00:18:32,330 --> 00:18:38,330
+Außerdem nimmt unser Patient
+
+268
+00:18:38,330 --> 00:18:42,330
+gelegentlich 7 Milligramm
+
+269
+00:18:42,330 --> 00:18:47,760
+Cortison für ein paar Tage.
+
+270
+00:18:47,760 --> 00:18:52,760
+Der Patient hat eine Hausstau-Milbenallergie,
+
+271
+00:18:52,760 --> 00:18:56,760
+die sich mit allergie-Scher
+
+272
+00:18:56,760 --> 00:18:59,760
+reinitis-äußert.
+
+273
+00:18:59,760 --> 00:19:02,760
+Unser Patient
+
+274
+00:19:02,760 --> 00:19:15,100
+rat ungefähr 45 Packungsjahre.
+
+275
+00:19:15,100 --> 00:19:19,100
+Er trinkt gelegentlich Alkohol
+
+276
+00:19:19,100 --> 00:19:24,490
+und konsumiere keine Drogen.
+
+277
+00:19:24,490 --> 00:19:28,490
+Die Familienanamnese zeigte
+
+278
+00:19:28,490 --> 00:19:34,490
+den Tod bei der Eltern des Patienten.
+
+279
+00:19:34,490 --> 00:19:38,490
+Der Vater ist an Miokartinfarkt
+
+280
+00:19:38,490 --> 00:19:41,490
+verstorben, die Mutter ist
+
+281
+00:19:41,490 --> 00:19:44,490
+an Mama-Karstenung verstorben.
+
+282
+00:19:44,490 --> 00:19:47,490
+Unsere Patientin redet,
+
+283
+00:19:47,490 --> 00:19:52,490
+früher hat er als Maurer gearbeitet.
+
+284
+00:19:52,490 --> 00:19:55,490
+Er ist verreiratet und hat zwei
+
+285
+00:19:55,490 --> 00:20:01,490
+gesunde Kinder und lebt mit ihrer Frau.
+
+286
+00:20:01,490 --> 00:20:05,490
+Die Anamnestischen, ja,
+
+287
+00:20:05,490 --> 00:20:08,490
+haben Sie Fragen? Seiner Frau.
+
+288
+00:20:08,490 --> 00:20:10,490
+Ja, seine Frau.
+
+289
+00:20:10,490 --> 00:20:13,490
+Die Anamnestischen angaben deuten
+
+290
+00:20:13,490 --> 00:20:18,490
+am ersten auf Bronscheer Karstenung hin.
+
+291
+00:20:18,490 --> 00:20:22,490
+Die Bronscheer Diagnostik kommen,
+
+292
+00:20:22,490 --> 00:20:37,540
+die sie auf die Kinder sind.
+
+293
+00:20:37,540 --> 00:20:39,540
+Was könnte sein?
+
+294
+00:20:39,540 --> 00:20:43,540
+Ich erinnere mich in der Fernseher Bergnose.
+
+295
+00:20:43,540 --> 00:20:46,540
+Die Fernseher kommen,
+
+296
+00:20:46,540 --> 00:20:52,540
+wer fragrance.
+
+297
+00:20:52,540 --> 00:20:57,540
+Und, was könnte sein?
+
+298
+00:20:57,540 --> 00:21:00,540
+Unser Patient hat schon
+
+299
+00:21:30,540 --> 00:21:37,540
+und eine gewisse Abnahme und in der Patenz. Deshalb habe ich diese Verderstdiagnose.
+
+300
+00:21:37,540 --> 00:21:43,540
+Aber natürlich könnte andere Erkrankungen als Ursachen sein.
+
+301
+00:21:43,540 --> 00:21:49,540
+Soweit abgerüht, zuerst würde ich die Witterparameter bestimmen.
+
+302
+00:21:49,540 --> 00:21:53,540
+Danach würde ich den Patienten und Körper untersuchen.
+
+303
+00:21:53,540 --> 00:22:02,540
+Bei der Untersuchung fokussiere ich natürlich die Lunge.
+
+304
+00:22:02,540 --> 00:22:07,540
+Ich speziere und ausgütze dann Papiere die Lunge.
+
+305
+00:22:07,540 --> 00:22:16,820
+Ich veranlasse den Röntgen Torax.
+
+306
+00:22:16,820 --> 00:22:30,820
+Bei unklaren Befund im Röntgen Torax veranlasse ich eine City Torax.
+
+307
+00:22:30,820 --> 00:22:32,820
+Ja.
+
+308
+00:22:33,820 --> 00:22:40,820
+Ich kann auch veranlasse die Lunge untersuchen.
+
+309
+00:22:40,820 --> 00:22:43,820
+Schön.
+
+310
+00:22:43,820 --> 00:22:46,820
+Welche Lunge untersuchen?
+
+311
+00:22:46,820 --> 00:22:48,820
+Ja.
+
+312
+00:22:48,820 --> 00:22:54,820
+Große Spritbild. CRP als Entzündungsparameter.
+
+313
+00:22:54,820 --> 00:23:09,100
+Und Nenemberte, Leberwerte, Elektrolyte, TSH und für Auszuschließen.
+
+314
+00:23:09,100 --> 00:23:12,100
+Welche Lunge untersuchen?
+
+315
+00:23:12,100 --> 00:23:19,100
+Ich würde erst abwarten, was beim Röntgen rauskommt.
+
+316
+00:23:19,100 --> 00:23:22,100
+Ja, genau.
+
+317
+00:23:22,100 --> 00:23:25,100
+Es gibt uns Fragen.
+
+318
+00:23:25,100 --> 00:23:27,100
+Einfacher Fall.
