@@ -184,7 +184,7 @@ def main() -> int:
     p = argparse.ArgumentParser()
     p.add_argument("--identifier", required=True)
     p.add_argument("--out-dir", default="transcripts")
-    p.add_argument("--model", default="small")
+    p.add_argument("--model", default="medium")  # <-- only change
     p.add_argument("--language", default="de")
     p.add_argument("--device", default="auto", choices=["auto", "cpu", "cuda"])
     p.add_argument("--compute-type", default="auto")
