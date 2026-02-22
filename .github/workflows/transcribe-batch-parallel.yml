@@ -1,3 +1,4 @@
+# file: .github/workflows/transcribe-ia-batch-parallel.yml
 name: Transcribe IA batch (parallel)
 
 on:
@@ -376,7 +377,7 @@ jobs:
           path: |
             ~/.cache/huggingface
             ~/.cache/whisper
-          key: whisper-cache-${{ runner.os }}-small-v1
+          key: whisper-cache-${{ runner.os }}-medium-v1
           restore-keys: |
             whisper-cache-${{ runner.os }}-
 
@@ -393,7 +394,7 @@ jobs:
             --identifier "$IA_IDENTIFIER" \
             --out-dir "transcripts" \
             --file "$FILE" \
-            --model "small" \
+            --model "medium" \
             --language "de" \
             --device "cpu" \
             --compute-type "int8" \
