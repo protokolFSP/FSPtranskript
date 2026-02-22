@@ -1,5 +1,5 @@
 # file: .github/workflows/transcribe-ia-german-small-to-folder.yml
-name: Transcribe IA (DE, small) -> transcripts/<id> (parallel)
+name: Transcribe IA (DE, medium) -> transcripts/<id> (parallel)
 
 on:
   workflow_dispatch:
@@ -32,12 +32,12 @@ permissions:
   contents: write
 
 concurrency:
-  group: ia-transcribe-de-small-${{ github.event_name == 'workflow_dispatch' && github.event.inputs.ia_identifier || vars.TRANSCRIBE_IA_IDENTIFIER || 'default' }}
+  group: ia-transcribe-de-medium-${{ github.event_name == 'workflow_dispatch' && github.event.inputs.ia_identifier || vars.TRANSCRIBE_IA_IDENTIFIER || 'default' }}
   cancel-in-progress: false
 
 env:
   IA_IDENTIFIER: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.ia_identifier || vars.TRANSCRIBE_IA_IDENTIFIER || 'FSP21_23' }}
-  MODEL: small
+  MODEL: medium
   LANGUAGE: de
 
 jobs:
@@ -457,6 +457,6 @@ jobs:
           }
 
           git add "$OUT_DIR"
-          git commit -m "Add DE(small) transcripts ($IA_IDENTIFIER)" || exit 0
+          git commit -m "Add DE(medium) transcripts ($IA_IDENTIFIER)" || exit 0
           retry git pull --rebase
           retry git push
