@@ -1,5 +1,5 @@
-# file: .github/workflows/transcribe-fspneu-to-transkripts-fspab26.yml
-name: Transcribe IA (DE, medium) FSPneu -> transkripts/FSPab26 (parallel)
+# file: .github/workflows/transcribe-fspneu-to-transcripts-fspab26.yml
+name: Transcribe IA (DE, medium) FSPneu -> transcripts/FSPab26 (parallel)
 
 on:
   workflow_dispatch:
@@ -12,7 +12,7 @@ on:
       out_dir:
         description: "Çıktı klasörü (txt+srt buraya yazılır)"
         required: true
-        default: "transkripts/FSPab26"
+        default: "transcripts/FSPab26"
         type: string
       batch_size:
         description: "Bu run'da kaç dosya işlensin (örn 4/10/20)"
@@ -36,12 +36,12 @@ permissions:
   contents: write
 
 concurrency:
-  group: ia-transcribe-fspneu-fspab26-${{ github.event_name == 'workflow_dispatch' && github.event.inputs.ia_identifier || 'FSPneu' }}-${{ github.event_name == 'workflow_dispatch' && github.event.inputs.out_dir || 'transkripts/FSPab26' }}
+  group: ia-transcribe-fspneu-fspab26-${{ github.event_name == 'workflow_dispatch' && github.event.inputs.ia_identifier || 'FSPneu' }}-${{ github.event_name == 'workflow_dispatch' && github.event.inputs.out_dir || 'transcripts/FSPab26' }}
   cancel-in-progress: false
 
 env:
   IA_IDENTIFIER: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.ia_identifier || 'FSPneu' }}
-  OUT_DIR_DEFAULT: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.out_dir || 'transkripts/FSPab26' }}
+  OUT_DIR_DEFAULT: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.out_dir || 'transcripts/FSPab26' }}
   MODEL: medium
   LANGUAGE: de
 
