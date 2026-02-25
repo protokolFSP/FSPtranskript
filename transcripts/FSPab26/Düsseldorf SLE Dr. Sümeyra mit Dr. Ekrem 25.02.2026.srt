@@ -1,0 +1,3023 @@
+1
+00:00:05,710 --> 00:00:17,710
+Hallo, guten Tag. Mein Name ist Ekrem Özübalı. Ich bin heute auf der Station als Assistent Arzt tätig.
+
+2
+00:00:17,710 --> 00:00:25,710
+Ich würde gerne mit Ihnen das Aufnahmegeschäft durchführen. Alles in Ordnung?
+
+3
+00:00:25,710 --> 00:00:40,710
+Ja. Am Anfang benötige ich ein paar persönliche Daten und dann können wir weiterfahren. Wie heißen Sie?
+
+4
+00:00:40,710 --> 00:00:56,220
+Ich heiße Julia Kruger. Julia Kruger. Könnten Sie bitte Vornamen und Nachnamen langsam buchstabieren?
+
+5
+00:00:56,220 --> 00:01:06,220
+Ja. J wie Julius, U wie Ulrich, L wie Ludwig, I wie Ida, A wie Anton.
+
+6
+00:01:06,220 --> 00:01:07,220
+Ja.
+
+7
+00:01:07,220 --> 00:01:18,220
+Mein Nachname buchstabiert sich K wie Kaufmann, R wie Richard, U wie Übamut, G wie Gustav.
+
+8
+00:01:18,220 --> 00:01:21,220
+Ü oder U?
+
+9
+00:01:21,220 --> 00:01:23,220
+Ü. U wie Übamut.
+
+10
+00:01:23,220 --> 00:01:25,220
+Übamut, ja.
+
+11
+00:01:25,220 --> 00:01:29,220
+Ja. Und G wie Gustav, E wie Emil, R wie Richard.
+
+12
+00:01:29,220 --> 00:01:42,420
+Alles gut, danke Ihnen. Frau Kruger, herzlich willkommen. Was für Sie sind Sie? Was kann ich für Sie tun?
+
+13
+00:01:42,420 --> 00:01:45,420
+Vielleicht möchten Sie meine anderen Daten?
+
+14
+00:01:45,420 --> 00:01:47,420
+Ja, ja, ja. Entschuldigung, ich habe das vergessen.
+
+15
+00:01:47,420 --> 00:01:49,420
+Ja, ich bin 45 Jahre alt.
+
+16
+00:01:49,420 --> 00:01:52,420
+Und was genau geboren Sie?
+
+17
+00:01:52,420 --> 00:02:01,420
+Ja, ich bin 45 Jahre alt und ich bin am 18.10.1979 geboren.
+
+18
+00:02:01,420 --> 00:02:04,420
+Können Sie bitte nochmal wiederholen?
+
+19
+00:02:04,420 --> 00:02:16,420
+Ja. Am 18.10.1979 geboren.
+
+20
+00:02:16,420 --> 00:02:27,540
+Am 18.10.1979, ja. Alles gut, vielen Dank. Wie viel wiegen Sie, Frau Kruger?
+
+21
+00:02:27,540 --> 00:02:32,540
+Herr Doktor, ich wiege 75,3 Kilo.
+
+22
+00:02:32,540 --> 00:02:37,540
+75,3 Kilo, wie groß sind Sie?
+
+23
+00:02:37,540 --> 00:02:43,540
+Ja, genau. Ja, ich bin 1 Meter 71 groß.
+
+24
+00:02:43,540 --> 00:02:52,540
+1 Meter 70 groß. Alles gut, danke. Frau Kruger, was für Sie zu uns?
+
+25
+00:02:52,540 --> 00:03:01,540
+Herr Doktor, ich weiß gar nicht, wo ich anpassen soll. Ich habe so viele Beschwerden.
+
+26
+00:03:01,540 --> 00:03:13,040
+Also ich fühle mich total müde und seit gestern habe ich Fieber. Irgendwie bin ich richtig schlapp.
+
+27
+00:03:13,040 --> 00:03:19,620
+Total müde. Seit gestern?
+
+28
+00:03:19,620 --> 00:03:22,620
+Ja, seit gestern habe ich Fieber.
+
+29
+00:03:22,620 --> 00:03:25,620
+Haben Sie Fieber gemessen?
+
+30
+00:03:25,620 --> 00:03:34,620
+Ja, ich habe das gemessen. Es war 38,4.
+
+31
+00:03:34,620 --> 00:03:42,620
+38,4. Wo haben Sie das gemessen? Am Mond oder?
+
+32
+00:03:42,620 --> 00:03:47,620
+Warum ist das denn so wichtig, wo ich die Temperatur messe?
+
+33
+00:03:47,620 --> 00:04:00,620
+Es gibt es positionell unterschiedlich. Vielleicht ein bisschen hoch, Achilla, ein Grad Celsius weniger.
+
+34
+00:04:00,620 --> 00:04:08,620
+Ach so, ja klar. Ich habe im Mund gemessen.
+
+35
+00:04:09,620 --> 00:04:25,010
+Sie haben schon gesagt, seit gestern haben Sie die Beschwerden, Fieber und total Müdigkeit.
+
+36
+00:04:25,010 --> 00:04:34,010
+Eigentlich schon lange habe ich Müdigkeit, aber seit gestern ist es deutlich schlimmer, Herr Doktor.
+
+37
+00:04:34,010 --> 00:04:43,740
+Ja, ich verstehe sehr gut. Und welche Beschwerden haben Sie seit wann?
+
+38
+00:04:43,740 --> 00:04:57,740
+Was meinen Sie? Ja, diese Beschwerden. Wie gesagt, habe ich schon lange Müdigkeit, aber seit gestern Fieber.
+
+39
+00:04:57,740 --> 00:05:03,740
+Ja, ich verstehe sehr gut. Vielleicht haben Sie es gemessen?
+
+40
+00:05:03,740 --> 00:05:05,740
+Ja, Herr Doktor.
+
+41
+00:05:05,740 --> 00:05:07,740
+Und welche Beschwerden haben Sie?
+
+42
+00:05:07,740 --> 00:05:15,740
+Ich habe viele Beschwerden. Meine Gelenke tun seit zwei Wochen weh.
+
+43
+00:05:15,740 --> 00:05:17,740
+Handgelenke oder?
+
+44
+00:05:17,740 --> 00:05:23,740
+Ja, nicht nur Hand, sondern auch meine Kniegelenke, beide Knie.
+
+45
+00:05:23,740 --> 00:05:27,740
+Beide Hände oder?
+
+46
+00:05:27,740 --> 00:05:36,740
+Ja, beidseitig. Alle Schmerzen beiseitig. Und seit ungefähr zwei Wochen, Herr Doktor.
+
+47
+00:05:36,740 --> 00:05:40,740
+Seit zwei Wochen, beidseitig.
+
+48
+00:05:40,740 --> 00:05:42,740
+Ja, voll.
+
+49
+00:05:42,740 --> 00:05:55,480
+Ich verstehe. Okay. Wie stammen die Schmerzen? Würden Sie mir beschreiben?
+
+50
+00:05:55,480 --> 00:06:03,480
+Das ist ein bisschen unterschiedlich. Wenn ich mich bewege, ist es so bei fünf.
+
+51
+00:06:03,480 --> 00:06:14,480
+Bei Bewegung würde ich eine fünf geben und in Ruhe vielleicht vier.
+
+52
+00:06:14,480 --> 00:06:27,590
+Auch eine Schmerzskala. Wo hin wissen Sie? Eine Schmerzskala.
+
+53
+00:06:27,590 --> 00:06:31,590
+Früher war ich ein Westischer.
+
+54
+00:06:31,590 --> 00:06:43,590
+Und Herr Doktor, besonders morgen sind diese Schmerzen... Ich habe Steifigkeit.
+
+55
+00:06:43,590 --> 00:06:53,590
+Es ist sehr schwer zu bewegen. Das dauert bestimmt eine halbe Stunde, bis es besser wird.
+
+56
+00:06:53,590 --> 00:06:56,590
+Steifigkeit und...
+
+57
+00:06:56,590 --> 00:07:05,590
+In meinen Kniegelenken, in meinem ganzen Körper. Wie gesagt, vor allem die Handgelenke und beide Knie.
+
+58
+00:07:05,590 --> 00:07:12,900
+Halbe Stunde. Danke für die Information. Das ist sehr wichtig für uns.
+
+59
+00:07:12,900 --> 00:07:22,900
+Die Steifigkeit ist regelmäßig und wann? Morgen oder?
+
+60
+00:07:22,900 --> 00:07:26,900
+Wie gesagt, morgens. Besonders morgens.
+
+61
+00:07:26,900 --> 00:07:38,900
+Und halbe Stunde. Nach der halben Stunde sind Sie ganz normal oder?
+
+62
+00:07:38,900 --> 00:07:46,900
+Ja, bis es besser wird. Dann wird es besser.
+
+63
+00:07:46,900 --> 00:07:51,900
+Gibt es eine Auslöser für die Schmerzen oder?
+
+64
+00:07:51,900 --> 00:07:59,900
+Das habe ich nie bemerkt. Ich weiß nicht. Aber manchmal sind die Finger leicht geschwollen.
+
+65
+00:07:59,900 --> 00:08:06,080
+Ich weiß nicht, ob es normal ist, aber...
+
+66
+00:08:06,080 --> 00:08:15,080
+Haben Sie im Moment Schwierigkeit oder?
+
+67
+00:08:15,080 --> 00:08:24,080
+Jetzt nicht, aber manchmal. Besonders morgen früh.
+
+68
+00:08:24,080 --> 00:08:32,080
+Wie beschreiben Sie die Schwellung? Gibt es eine Farbeveränderung?
+
+69
+00:08:32,080 --> 00:08:44,310
+Nein, nur Schwellung habe ich bemerkt. Aber diese Schmerzen sind Zähne und manchmal Brennen.
+
+70
+00:08:44,310 --> 00:08:51,390
+Aber meistens Tieren.
+
+71
+00:08:51,390 --> 00:08:56,390
+Wie lange dauert die Schwellung?
+
+72
+00:08:56,390 --> 00:09:05,830
+Ich weiß nicht. Das habe ich nicht bemerkt. Nur Schwellen bemerkt.
+
+73
+00:09:05,830 --> 00:09:12,830
+Alles gut. Ich verstehe. Und dagegen haben Sie ein Medikament eingenommen oder?
+
+74
+00:09:12,830 --> 00:09:23,830
+Herr Doktor, es gab zu Hause Voltaren. Ich nehme das ein. Das hilft wirklich sehr. Geholfen.
+
+75
+00:09:23,830 --> 00:09:32,830
+Dann haben Sie schon Ihren Hausarztbesuch, wenn ich richtig verstanden habe.
+
+76
+00:09:33,830 --> 00:09:47,830
+Für Medikamente gab es zu Hause. Aber unbedingt hat mein Hausarzt verschrieben.
+
+77
+00:09:47,830 --> 00:09:59,830
+Aber wegen dieser Beschwerden habe ich meinen Hausarzt besucht. Er dachte, er hat mich untersucht.
+
+78
+00:09:59,830 --> 00:10:06,830
+Er hat mir die Untersuchungen durchgeführt.
+
+79
+00:10:06,830 --> 00:10:15,830
+Dann dachte er, es sei vielleicht eine Infektion. Er hat mir geraten, in die Uniklinik zu gehen.
+
+80
+00:10:15,830 --> 00:10:18,830
+Deswegen bin ich hier.
+
+81
+00:10:18,830 --> 00:10:23,830
+Sie haben schon Ihren Hausarzt besucht.
+
+82
+00:10:23,830 --> 00:10:34,830
+Seit wann haben Sie Ihren Hausarzt besucht? Haben Sie schon gesagt, ich habe ihn nicht bemerkt?
+
+83
+00:10:34,830 --> 00:10:42,830
+Ja, tatsächlich habe ich diese Beschwerden.
+
+84
+00:10:42,830 --> 00:10:46,830
+Vor zwei Wochen oder?
+
+85
+00:10:46,830 --> 00:10:50,830
+Seit fünf Jahren fühle ich mich nicht gut.
+
+86
+00:10:50,830 --> 00:10:59,830
+Ich habe vor zwei Monaten meinen Hausarzt besucht.
+
+87
+00:10:59,830 --> 00:11:07,830
+Es war sehr schwer, einen Termin zu finden in der Uniklinik.
+
+88
+00:11:07,830 --> 00:11:13,830
+Deswegen ist das der Grund für diese Spätung.
+
+89
+00:11:13,830 --> 00:11:24,210
+Voltaren, Tablet, hilft Ihnen?
+
+90
+00:11:24,210 --> 00:11:28,210
+Ja, wirklich sehr geholfen.
+
+91
+00:11:28,210 --> 00:11:31,210
+Okay, sehr gut.
+
+92
+00:11:31,210 --> 00:11:37,210
+Herr Doktor, wie gesagt habe ich leider zu viel zu erzählen.
+
+93
+00:11:37,210 --> 00:11:46,210
+Ich habe hier über der Nase und auf den Wangen so eine Rötung.
+
+94
+00:11:46,210 --> 00:11:48,210
+Haben Sie bemerkt?
+
+95
+00:11:48,210 --> 00:11:51,210
+Ja, habe ich schon bemerkt.
+
+96
+00:11:51,210 --> 00:11:55,210
+Ich habe keine Ahnung, was das ist.
+
+97
+00:11:55,210 --> 00:12:00,210
+Sie haben eine Rötung im Gesicht.
+
+98
+00:12:00,210 --> 00:12:04,210
+Seit wann haben Sie diese Beschwerden?
+
+99
+00:12:04,210 --> 00:12:08,210
+Seit etwa zwei Monaten.
+
+100
+00:12:08,210 --> 00:12:13,210
+Es wird schlimmer, wenn ich in der Sonne bin.
+
+101
+00:12:13,210 --> 00:12:16,210
+Es wird schlimmer, Herr Doktor.
+
+102
+00:12:16,210 --> 00:12:24,190
+Ihre Hauptveränderung, trocken oder nass?
+
+103
+00:12:24,190 --> 00:12:31,540
+Ja, trocken. Manchmal sind da so kleine Blättchen.
+
+104
+00:12:31,540 --> 00:12:39,050
+So kleine Blättchen.
+
+105
+00:12:39,050 --> 00:12:46,050
+Und gegen etwas Salbe oder andere Medikamente eingenommen?
+
+106
+00:12:46,050 --> 00:12:53,050
+Nein, dagegen habe ich nie gemacht oder etwas probiert.
+
+107
+00:12:53,050 --> 00:12:59,050
+Und was noch andere Beschwerden?
+
+108
+00:12:59,050 --> 00:13:03,050
+Ja, wie gesagt habe ich noch.
+
+109
+00:13:03,050 --> 00:13:11,050
+Manchmal habe ich auch so kleine schmerzhafte Stellen im Mund.
+
+110
+00:13:11,050 --> 00:13:13,050
+Im Mund?
+
+111
+00:13:13,050 --> 00:13:15,050
+Ja, früher.
+
+112
+00:13:15,050 --> 00:13:22,050
+Ja, kleine Schmerzhafte. Aber leider sind sie schmerzhaft.
+
+113
+00:13:22,050 --> 00:13:24,050
+Ich verstehe.
+
+114
+00:13:24,050 --> 00:13:26,050
+Gibt es noch etwas?
+
+115
+00:13:26,050 --> 00:13:35,050
+Ich meine vielleicht eine Atemnot oder Kopfschmerzen oder...
+
+116
+00:13:35,050 --> 00:13:36,050
+Nein.
+
+117
+00:13:36,050 --> 00:13:37,050
+Oder andere?
+
+118
+00:13:37,050 --> 00:13:41,050
+Gott sei Dank habe ich diese Beschwerden nicht.
+
+119
+00:13:41,050 --> 00:13:46,050
+Aber ich habe auch...
+
+120
+00:13:46,050 --> 00:13:50,050
+Ich schwitze besonders nachts.
+
+121
+00:13:50,050 --> 00:13:51,050
+In der Not?
+
+122
+00:13:51,050 --> 00:13:56,050
+Ja, nachts wache ich manchmal...
+
+123
+00:13:56,050 --> 00:13:59,050
+Ja, ich schwitze auch.
+
+124
+00:13:59,050 --> 00:14:07,290
+Okay.
+
+125
+00:14:07,290 --> 00:14:21,140
+Frau Kruger, haben Sie Übergabe erbrannt?
+
+126
+00:14:21,140 --> 00:14:25,510
+Nein, das habe ich nicht.
+
+127
+00:14:25,510 --> 00:14:31,510
+Haben Sie ein Problem beim Stuhlgang?
+
+128
+00:14:31,510 --> 00:14:34,510
+Nein, Gott sei Dank. Kein Problem.
+
+129
+00:14:34,510 --> 00:14:36,510
+Beim Wasserlassen?
+
+130
+00:14:36,510 --> 00:14:42,510
+Ja, entweder Wasserlassen oder Stuhlgang habe ich nicht.
+
+131
+00:14:42,510 --> 00:14:45,510
+Ja, alles gut.
+
+132
+00:14:45,510 --> 00:14:49,510
+Haben Sie Beschwerden beim Wasserlassen?
+
+133
+00:14:49,510 --> 00:14:51,510
+Wie gesagt, keine Beschwerden.
+
+134
+00:14:51,510 --> 00:14:52,510
+Keine Beschwerden.
+
+135
+00:14:52,510 --> 00:14:54,510
+Ja, beim Wasserlassen.
+
+136
+00:14:54,510 --> 00:15:02,820
+Alles gut.
+
+137
+00:15:02,820 --> 00:15:09,820
+Nur haben Sie schon gesagt, dass es gestern ein Fieber sei.
+
+138
+00:15:09,820 --> 00:15:13,820
+Nur Fieber? Nicht nur Fieber. Ich habe viele Beschwerden, Herr Doktor.
+
+139
+00:15:13,820 --> 00:15:17,820
+Ja, habe ich alle notiert.
+
+140
+00:15:17,820 --> 00:15:19,820
+Vielleicht...
+
+141
+00:15:19,820 --> 00:15:21,820
+Ich meine nur Vegetative.
+
+142
+00:15:21,820 --> 00:15:27,820
+Ob es wichtig ist, aber ich habe keinen Appetit, Herr Doktor.
+
+143
+00:15:27,820 --> 00:15:38,820
+Und ich habe in den letzten zwei Monaten abgenommen, ohne es zu wollen. Ist es auch wichtig?
+
+144
+00:15:38,820 --> 00:15:40,820
+Ja, natürlich.
+
+145
+00:15:40,820 --> 00:15:45,820
+Seit wann?
+
+146
+00:15:45,820 --> 00:15:52,820
+Innerhalb zwei Monaten habe ich etwa 4 Kilo.
+
+147
+00:15:52,820 --> 00:15:58,820
+4 Kilo abgenommen. Gewollt oder ungewollt?
+
+148
+00:15:58,820 --> 00:16:02,820
+Wie gesagt, ohne es zu wollen. Ungewollt.
+
+149
+00:16:02,820 --> 00:16:05,820
+Ungewollt.
+
+150
+00:16:05,820 --> 00:16:09,580
+Alles gut.
+
+151
+00:16:09,580 --> 00:16:14,140
+Und?
+
+152
+00:16:14,140 --> 00:16:17,140
+Ja, der Lust auf Vegetative und alles.
+
+153
+00:16:17,140 --> 00:16:23,020
+Haben Sie andere Erkrankungen?
+
+154
+00:16:23,020 --> 00:16:28,020
+Ja, ich habe keine chronische Erkrankungen.
+
+155
+00:16:28,020 --> 00:16:34,020
+Aber meine Mandeln entzündet sich immer wieder.
+
+156
+00:16:34,020 --> 00:16:38,020
+Letztes Mal, vor zwei Monaten.
+
+157
+00:16:38,020 --> 00:16:42,020
+Ich habe viele Antibiotikum eingenommen.
+
+158
+00:16:42,020 --> 00:16:45,300
+Alles gut.
+
+159
+00:16:45,300 --> 00:16:54,300
+Ich habe Angst davor, dass diese Medikamente für meine Niere, für mein Leben schädlich sein können.
+
+160
+00:16:54,300 --> 00:16:56,300
+Ja, natürlich.
+
+161
+00:16:56,300 --> 00:17:09,300
+Es kann sein, Sie sollen immer mit einem ärztlichen Rad, einem Medikament benutzen.
+
+162
+00:17:09,300 --> 00:17:15,300
+Ohne ärztliche Rad. Ich empfehle Ihnen gar nicht.
+
+163
+00:17:15,300 --> 00:17:21,710
+Und, würden Sie mal operieren?
+
+164
+00:17:21,710 --> 00:17:29,710
+Nein, ich würde nicht operieren.
+
+165
+00:17:29,710 --> 00:17:33,710
+Okay.
+
+166
+00:17:33,710 --> 00:17:41,710
+Aber Herr Doktor, ich bin mir nicht sicher, ob es wichtig ist.
+
+167
+00:17:41,710 --> 00:17:48,980
+Ich habe zweimal mein Baby im Bauch verloren.
+
+168
+00:17:48,980 --> 00:17:50,980
+Ja.
+
+169
+00:17:50,980 --> 00:17:56,980
+Und ich verhüte.
+
+170
+00:17:56,980 --> 00:18:06,980
+Aber in der letzten Zeit sind meine Regelblutungen nicht mehr regelmäßig.
+
+171
+00:18:06,980 --> 00:18:12,460
+Seit wann?
+
+172
+00:18:12,460 --> 00:18:15,460
+Vielleicht in den letzten drei Jahren.
+
+173
+00:18:15,460 --> 00:18:21,460
+Haben Sie schon Ihren Frauenarzt besucht?
+
+174
+00:18:21,460 --> 00:18:23,460
+Leider nicht.
+
+175
+00:18:23,460 --> 00:18:25,460
+In der Kälte oder?
+
+176
+00:18:25,460 --> 00:18:29,460
+Ich bin jetzt 45 Jahre alt, Herr Doktor.
+
+177
+00:18:29,460 --> 00:18:30,460
+Ja, ich bin 45.
+
+178
+00:18:30,460 --> 00:18:33,460
+Ja, ich besuche aber nicht regelmäßig.
+
+179
+00:18:33,460 --> 00:18:36,460
+Nicht regelmäßig, okay.
+
+180
+00:18:36,460 --> 00:18:39,460
+Ich nehme Kilen. Minolet.
+
+181
+00:18:39,460 --> 00:18:43,460
+Ja, Minolet.
+
+182
+00:18:43,460 --> 00:18:46,460
+Gibt es noch andere Medikamente?
+
+183
+00:18:46,460 --> 00:18:52,460
+Ja, wie gesagt nehme ich seit Voltaren 75 mg.
+
+184
+00:18:52,460 --> 00:18:54,460
+Voltaren?
+
+185
+00:18:54,460 --> 00:19:03,460
+Ja, um meinen Magen zu schützen, gleichzeitig nehme ich Pantoprazole 20 mg ein.
+
+186
+00:19:03,460 --> 00:19:07,460
+Okay, Pantoprazole 20 mg.
+
+187
+00:19:07,460 --> 00:19:11,460
+Voltaren nur bei Bedarf, nicht regelmäßig.
+
+188
+00:19:11,460 --> 00:19:13,460
+Und Minolet?
+
+189
+00:19:13,460 --> 00:19:18,460
+Minolet nehme ich jeden Tag. Wie gesagt verhüte ich, ja.
+
+190
+00:19:18,460 --> 00:19:20,460
+Verhüten wir.
+
+191
+00:19:20,460 --> 00:19:28,860
+Gut. Frau Krüger, haben Sie Allergien?
+
+192
+00:19:28,860 --> 00:19:33,860
+Herr Doktor, als ich Kind war, hatte ich eine Polenallergie.
+
+193
+00:19:33,860 --> 00:19:38,860
+Damals wurde mir eine eigene Bluttherapie empfohlen.
+
+194
+00:19:38,860 --> 00:19:41,860
+Aber meine Eltern wollten das nicht.
+
+195
+00:19:41,860 --> 00:19:44,860
+Damals war ich allergisch.
+
+196
+00:19:44,860 --> 00:19:47,860
+Ja, das ist aktuell keine Allergie.
+
+197
+00:19:47,860 --> 00:19:49,860
+Ja, ja.
+
+198
+00:19:49,860 --> 00:19:51,860
+Keine Allergien.
+
+199
+00:19:51,860 --> 00:19:55,860
+Keine Allergien. Keine Probleme mit Allergien.
+
+200
+00:19:55,860 --> 00:20:03,860
+Frau Krüger, leben Sie mit Ihrem Familie?
+
+201
+00:20:03,860 --> 00:20:05,860
+Ja, ja, ich bin verheiratet.
+
+202
+00:20:05,860 --> 00:20:12,860
+Ich lebe mit meinem Mann und meinen zwei Töchtern.
+
+203
+00:20:12,860 --> 00:20:16,200
+Meine zwei Töchter.
+
+204
+00:20:16,200 --> 00:20:24,110
+Zwei Töchter, warten Sie. Was machen Sie beruflich?
+
+205
+00:20:24,110 --> 00:20:30,110
+Ich bin Pädagogin, Herr Doktor. Ich arbeite in einer Grundschule als Pädagogin.
+
+206
+00:20:30,110 --> 00:20:32,110
+Alles gut.
+
+207
+00:20:32,110 --> 00:20:37,110
+Leben Ihre Eltern noch?
+
+208
+00:20:37,110 --> 00:20:45,840
+Herr Doktor, mein Vater ist leider an Lungenkrebs verstorben.
+
+209
+00:20:45,840 --> 00:20:50,840
+Aber zum Glück lebt meine Mutter.
+
+210
+00:20:50,840 --> 00:20:54,840
+Aber sie hat Gelenkräume.
+
+211
+00:20:54,840 --> 00:20:56,840
+Gelenkräume.
+
+212
+00:20:56,840 --> 00:20:58,840
+Röme, ja.
+
+213
+00:20:58,840 --> 00:21:00,840
+Röme.
+
+214
+00:21:00,840 --> 00:21:05,500
+Wissen Sie seit wann? Wie viele Jahre?
+
+215
+00:21:05,500 --> 00:21:06,500
+Ich weiß nicht.
+
+216
+00:21:06,500 --> 00:21:07,500
+Ihre Mutter.
+
+217
+00:21:07,500 --> 00:21:10,500
+Ich erinnere mich daran nicht.
+
+218
+00:21:10,500 --> 00:21:13,500
+Haben Sie Geschwister?
+
+219
+00:21:13,500 --> 00:21:20,500
+Ja, ich habe eine Schwester. Sie hat Schuppenflechte, Herr Doktor.
+
+220
+00:21:20,500 --> 00:21:22,500
+Schuppenflechte.
+
+221
+00:21:22,500 --> 00:21:24,500
+Ja, Schuppenflechte.
+
+222
+00:21:24,500 --> 00:21:29,320
+Unter Kontrolle oder?
+
+223
+00:21:29,320 --> 00:21:36,320
+Ja, ja. Sie besucht immer den Hautarzt.
+
+224
+00:21:36,320 --> 00:21:42,320
+Frau Kruger, ich bin nun mit meinen Fragen fertig.
+
+225
+00:21:42,320 --> 00:21:45,600
+Haben Sie noch Fragen?
+
+226
+00:21:45,600 --> 00:21:50,600
+Herr Doktor, was habe ich? Was denken Sie?
+
+227
+00:21:50,600 --> 00:22:01,600
+Ich habe den Verdacht auf Systemik, Lupus, Deltamatos.
+
+228
+00:22:01,600 --> 00:22:14,540
+Wie soll ich sagen? Aber das ist nur eine Vermutung unter uns.
+
+229
+00:22:14,540 --> 00:22:19,540
+Ich würde bei Ihnen ein paar Untersuchungen durchführen.
+
+230
+00:22:19,540 --> 00:22:21,540
+Das klingt romantisch.
+
+231
+00:22:21,540 --> 00:22:23,540
+Ja, so wie ...
+
+232
+00:22:23,540 --> 00:22:25,540
+Wie meine Mutter.
+
+233
+00:22:25,540 --> 00:22:34,540
+Ihre Mutter und Ihre Schwester haben ähnliche Situationen.
+
+234
+00:22:34,540 --> 00:22:39,540
+Aber wir brauchen noch ein paar Untersuchungen.
+
+235
+00:22:39,540 --> 00:22:45,540
+Laboruntersuchungen, erstmal körperliche Untersuchungen, dann Laboruntersuchungen.
+
+236
+00:22:45,540 --> 00:22:50,540
+Und dann vielleicht bildgebende Untersuchungen.
+
+237
+00:22:50,540 --> 00:22:55,540
+Dann können wir wieder besprechen über Ihre Situation.
+
+238
+00:22:55,540 --> 00:22:58,540
+Okay. Danke Herr Doktor.
+
+239
+00:22:58,540 --> 00:23:04,840
+Alles gut. Bitte warten Sie hier.
+
+240
+00:23:04,840 --> 00:23:10,840
+Und dann, nach den 20 Minuten, bin ich wieder da.
+
+241
+00:23:10,840 --> 00:23:12,840
+Okay, ich warte auf Sie.
+
+242
+00:23:12,840 --> 00:23:16,660
+Vielen Dank.
+
+243
+00:23:16,660 --> 00:23:20,740
+Vielen Dank.
+
+244
+00:23:20,740 --> 00:23:28,740
+Ja, wir sind die Systemik, Lupus, Deltamatos, und mein Fall, die Proofung.
+
+245
+00:23:28,740 --> 00:23:37,310
+Herr Doktor, Sie sind so genau vorbereitet, dass ich nicht mehr rauskriegen kann.
+
+246
+00:23:37,310 --> 00:23:44,310
+Ja, also, wenn man anfangs arbeitet, kann man alles verstehen und sich beherrschen.
+
+247
+00:23:44,310 --> 00:23:50,310
+Aber wenn man es tut, dann fragt man die ganzen Fragen oder man fragt sie nicht.
+
+248
+00:23:50,310 --> 00:23:54,310
+Naja, wir werden das am Ende noch sprechen.
+
+249
+00:23:54,310 --> 00:23:56,310
+Herr Özyilmaz, er ist auch ...
+
+250
+00:23:56,310 --> 00:23:58,310
+Ösyuval, Herr Doktor.
+
+251
+00:23:58,310 --> 00:24:00,310
+Ösyuval, okay.
+
+252
+00:24:00,310 --> 00:24:05,310
+Es gibt immer Probleme mit dem Schreiben, mit dem Digitieren usw.
+
+253
+00:24:05,310 --> 00:24:08,310
+Deswegen habe ich ihn selbst kürzer gemacht.
+
+254
+00:24:08,310 --> 00:24:09,310
+Okay.
+
+255
+00:24:09,310 --> 00:24:10,310
+Ösyuval.
+
+256
+00:24:10,310 --> 00:24:15,310
+Herr Özyuval, können Sie jetzt anfangen?
+
+257
+00:24:15,310 --> 00:24:16,310
+Ja.
+
+258
+00:24:16,310 --> 00:24:17,310
+Okay.
+
+259
+00:24:17,310 --> 00:24:19,310
+Ich habe meine Stellung.
+
+260
+00:24:19,310 --> 00:24:20,310
+Bitte schön.
+
+261
+00:24:20,310 --> 00:24:22,310
+Hallo, guten Tag.
+
+262
+00:24:22,310 --> 00:24:23,310
+Guten Tag.
+
+263
+00:24:23,310 --> 00:24:29,310
+Frau Oberstin, ich habe einen neuen Patienten.
+
+264
+00:24:29,310 --> 00:24:32,310
+Wenn Sie Zeit haben, möchte ich Ihnen vorstellen.
+
+265
+00:24:32,310 --> 00:24:34,310
+Ja, natürlich.
+
+266
+00:24:34,310 --> 00:24:44,310
+Es geht um Julia Kruger, 45 Jahre alt geboren, am 18.10.1979.
+
+267
+00:24:44,310 --> 00:24:56,310
+Sie wiegt 75,2 Kilo und sie ist 1,71 Meter groß.
+
+268
+00:24:56,310 --> 00:25:12,310
+Sie stellt sich heute bei uns wegen gestern ein Fieber und eine Totalmütigkeit.
+
+269
+00:25:12,310 --> 00:25:24,310
+Das Fieber 38,4 Grad C wurde im Mund gemessen.
+
+270
+00:25:24,310 --> 00:25:39,310
+Sie beschreibt seit zwei Monaten bei der Handgelenk und beidesseitigen Knie Schmerzen.
+
+271
+00:25:39,310 --> 00:25:56,310
+Die Schmerzintensität liegt bei Bewegung 5 von 10 und in Ruhe 4 von 10.
+
+272
+00:25:56,310 --> 00:26:03,620
+Er erwähnt noch ...
+
+273
+00:26:03,620 --> 00:26:05,620
+... Autosie.
+
+274
+00:26:05,620 --> 00:26:09,620
+Sie, Sie. Entschuldigung.
+
+275
+00:26:09,620 --> 00:26:22,620
+Sie klagt über morgens täglich ca. halbe Stunde dauernde Steifigkeit.
+
+276
+00:26:22,620 --> 00:26:28,620
+Keine bestimmte Auslöser.
+
+277
+00:26:28,620 --> 00:26:44,970
+Beideseitige Handgelenk und Beideseitige Knie haben Schwellung, Sehen und Brennende, Schmerzhaft.
+
+278
+00:26:44,970 --> 00:26:47,970
+Er nimmt ...
+
+279
+00:26:47,970 --> 00:26:52,970
+Er nimmt die Gelenken überwärmt oder gerötet?
+
+280
+00:26:52,970 --> 00:26:57,410
+Ja, ja.
+
+281
+00:26:57,410 --> 00:27:11,410
+Beide Handgelenk und Beideseitige Knie haben Schwellung, aber keine Farbeveränderung.
+
+282
+00:27:11,410 --> 00:27:23,410
+Beideseitige Handgelenk hat sie Sehen und Brennende Schmerzen.
+
+283
+00:27:23,410 --> 00:27:31,410
+Sie nimmt gegen diese Schmerzen Volta-Ran 75 mg.
+
+284
+00:27:31,410 --> 00:27:42,100
+Sie hat im Gesicht eine Rötung.
+
+285
+00:27:42,100 --> 00:27:52,100
+Beideseitige neben dem Mund und Wanken seit 3 Monaten.
+
+286
+00:27:52,100 --> 00:28:05,100
+Er beschreibt noch im Gesicht Püsten, die Püsten waren trocken und Blätchen.
+
+287
+00:28:05,100 --> 00:28:10,760
+Püsten oder Blätchen?
+
+288
+00:28:10,760 --> 00:28:12,760
+Püsten.
+
+289
+00:28:12,760 --> 00:28:21,760
+Ja, die Patienten haben Blätchen gesagt.
+
+290
+00:28:21,760 --> 00:28:30,090
+Und ansonsten die Vegetative-Annamen.
+
+291
+00:28:30,090 --> 00:28:45,090
+Sie haben seit ca. 2 Monaten 4 kg Ungewalt abgenommen und keine Appetit mehr.
+
+292
+00:28:45,090 --> 00:28:50,090
+Die Vegetative-Annamen sind unaufällig.
+
+293
+00:28:50,090 --> 00:29:06,090
+Als Vorerkrankungen leitet sie eine chronische Tonsillit, letztes Mal vor 2 Monaten.
+
+294
+00:29:06,090 --> 00:29:11,090
+Chronische oder seit 2 Monaten.
+
+295
+00:29:11,090 --> 00:29:16,090
+Aber es ist ein Residivierende.
+
+296
+00:29:16,090 --> 00:29:21,090
+Ja, es ist ein Residivierende.
+
+297
+00:29:21,090 --> 00:29:24,090
+Chronische Tonsillit.
+
+298
+00:29:24,090 --> 00:29:28,090
+Sie hat keine Operationen gesucht.
+
+299
+00:29:28,090 --> 00:29:36,090
+Sie nimmt regelmäßig Minulet-Tablet für die Verhautung.
+
+300
+00:29:36,090 --> 00:29:50,090
+Voltaren-Tablet 75 mg bei Bedarf und Pantoprasol 20 mg täglich.
+
+301
+00:29:50,090 --> 00:29:56,090
+Sie hat Polenallergie als Kind.
+
+302
+00:29:56,090 --> 00:30:03,090
+Sie wurde mit eigenem Bruttherapie therapiert.
+
+303
+00:30:03,090 --> 00:30:05,090
+Sind Sie sicher?
+
+304
+00:30:05,090 --> 00:30:06,090
+Sind Sie sicher?
+
+305
+00:30:06,090 --> 00:30:20,090
+Wurde Polenallergie behandelt oder wollten Ihre Eltern die Polenallergie nicht und selbst verschwinden?
+
+306
+00:30:20,090 --> 00:30:26,090
+Ich weiß es nicht, aber die Patienten auch selbst.
+
+307
+00:30:26,090 --> 00:30:34,090
+Sie hatten als Kind eine eigene Bluttherapie.
+
+308
+00:30:34,090 --> 00:30:38,090
+Okay, ich habe gehört, vielleicht habe ich falsch gehört.
+
+309
+00:30:38,090 --> 00:30:48,090
+Die Patienten haben gesagt, der Arzt hat eine eigene Bluttherapie gegen Polenallergie empfohlen.
+
+310
+00:30:48,090 --> 00:30:54,090
+Aber ihre Eltern haben nicht angenommen.
+
+311
+00:30:54,090 --> 00:31:01,090
+Sie sind die Polenallergie selbst verschwunden.
+
+312
+00:31:01,090 --> 00:31:03,090
+Oder?
+
+313
+00:31:03,090 --> 00:31:08,090
+Genau so.
+
+314
+00:31:08,090 --> 00:31:11,090
+Selbst verschwunden.
+
+315
+00:31:11,090 --> 00:31:27,090
+Ich habe geträumt, weil wenn Sie nicht sicher sind, sagen Sie nicht.
+
+316
+00:31:27,090 --> 00:31:32,090
+Aber ich dachte ganz so.
+
+317
+00:31:32,090 --> 00:31:51,090
+Die Patienten haben gesagt, als Kind war ich Polenallergie und die behandelt mit eigenem Bluttherapie.
+
+318
+00:31:51,090 --> 00:31:53,090
+Ich verstehe das so.
+
+319
+00:31:53,090 --> 00:31:58,090
+Okay, wenn Sie das verstanden haben, sagen Sie so.
+
+320
+00:31:58,090 --> 00:32:08,090
+Sie ist verheiratet und hat zwei Töchter.
+
+321
+00:32:08,090 --> 00:32:12,090
+Sie sind Pädagogin.
+
+322
+00:32:12,090 --> 00:32:18,090
+Der Vater ist verstorben durch Lungenkrebs.
+
+323
+00:32:18,090 --> 00:32:23,090
+Die Mutter leidet an Gelenkräumen.
+
+324
+00:32:23,090 --> 00:32:26,090
+Sie hat eine Schwester.
+
+325
+00:32:26,090 --> 00:32:31,090
+Die Schwester leidet an Schuppenflechten.
+
+326
+00:32:31,090 --> 00:32:34,090
+Was ist Schuppenflecht?
+
+327
+00:32:34,090 --> 00:32:39,090
+Auf Latein will ich es als Psoriasis nennen.
+
+328
+00:32:39,090 --> 00:32:47,090
+Ich habe den Verdacht auf ...
+
+329
+00:32:47,090 --> 00:32:57,090
+Vor der Verdachtdiagnose gibt es wichtige Informationen bei der genekologischen Amnese?
+
+330
+00:32:57,090 --> 00:33:01,090
+Ja, gibt es noch eine Weise.
+
+331
+00:33:02,090 --> 00:33:16,090
+Sie hat zweimal Fehlgeburt.
+
+332
+00:33:16,090 --> 00:33:19,090
+Okay, was ist Ihre Verdachtdiagnose?
+
+333
+00:33:19,090 --> 00:33:26,090
+Meine Verdachtdiagnose ist systemische Lupus Eltomatosus.
+
+334
+00:33:26,090 --> 00:33:39,090
+Bei der Psydiagnose kommen Psyriatritis und Rheumatische Arthritis.
+
+335
+00:33:39,090 --> 00:33:41,090
+Okay.
+
+336
+00:33:41,090 --> 00:33:52,090
+Warum denken Sie an die Psydiatris?
+
+337
+00:33:53,090 --> 00:34:00,090
+Die Patientin hat eine typische Befunde im Gesicht.
+
+338
+00:34:00,090 --> 00:34:12,370
+Beide Seiten haben Rötung und Schmetterlinge.
+
+339
+00:34:12,370 --> 00:34:18,370
+Schmetterlinge, ja, diese Symptome sprechen für systemische Lupus Eltomatosus.
+
+340
+00:34:19,370 --> 00:34:27,370
+Aber meine Frage ist, warum Sie an Rheumatitis als Differentialdiagnose denken?
+
+341
+00:34:27,370 --> 00:34:33,370
+Die Mutter hat einen Gelenkräumer.
+
+342
+00:34:33,370 --> 00:34:40,370
+Die Schwester hat eine Psydiasisch Schuppenflecht.
+
+343
+00:34:40,370 --> 00:34:46,370
+Okay, gibt es wichtige Informationen bei der Anamnese?
+
+344
+00:34:46,370 --> 00:34:51,370
+Ja, gibt es viele wichtige Informationen.
+
+345
+00:34:51,370 --> 00:34:57,370
+Bei der Seite Handgelenkenschmerzen, bei der Seite Knie Schmerzen.
+
+346
+00:34:57,370 --> 00:35:07,370
+Und täglich morgen eine halbe Stunde Steifigkeit.
+
+347
+00:35:07,370 --> 00:35:15,370
+Sie haben eine halbe Stunde Steifigkeit und geschwollene Gelenke.
+
+348
+00:35:15,370 --> 00:35:23,370
+Natürlich Hand- und Kniegelenke-Aträge sprechen für Rheumatideatritis.
+
+349
+00:35:23,370 --> 00:35:29,370
+Neben der Schwester haben Sie auch eine halbe Stunde Steifigkeit.
+
+350
+00:35:30,370 --> 00:35:37,370
+Okay, welche Diagnos-Masnahmen würden Sie durchführen?
+
+351
+00:35:37,370 --> 00:35:44,370
+Ich würde gerne als erstes eine körperliche Untersuchung durchführen.
+
+352
+00:35:44,370 --> 00:35:49,370
+Worauf achten Sie bei der körperlichen Untersuchung?
+
+353
+00:35:49,370 --> 00:35:57,370
+Am Anfang der Gezeche gibt es Pistole oder Bleche, Trocken oder Nass.
+
+354
+00:35:57,370 --> 00:36:02,370
+Und Vortungskarakter.
+
+355
+00:36:02,370 --> 00:36:09,370
+Und dann am Handgelenk.
+
+356
+00:36:09,370 --> 00:36:14,370
+Und dann die Schmerzen.
+
+357
+00:36:14,370 --> 00:36:29,370
+Und dann am Kniegelenk eine Hautveränderung, Schmerzintensität, Schwellung.
+
+358
+00:36:29,370 --> 00:36:55,860
+Bei der systemischen Untersuchung, Herzrhythmus, Geräusche und Lungenuntersuchung.
+
+359
+00:36:55,860 --> 00:37:01,860
+Und dann ...
+
+360
+00:37:01,860 --> 00:37:09,860
+Abhören des Herzes und der Lungen sind hier sehr wichtig wegen Komplikationen.
+
+361
+00:37:09,860 --> 00:37:11,860
+Nochmal bitte.
+
+362
+00:37:11,860 --> 00:37:24,860
+Abhören des Herzes und der Lungen sind sehr wichtig wegen Komplikationen des systemischen Stupus eratematodes.
+
+363
+00:37:24,860 --> 00:37:33,100
+Abhören des Herzes und der Lungen wegen Komplikationen.
+
+364
+00:37:33,100 --> 00:37:35,100
+Okay, noch weiter.
+
+365
+00:37:35,100 --> 00:37:38,100
+Und dann die Labo-Untersuchung.
+
+366
+00:37:38,100 --> 00:37:41,100
+Ich würde gerne eine Labo-Untersuchung durchführen.
+
+367
+00:37:41,100 --> 00:37:54,100
+Blutbild und Nierenwerte, Leberwerte, CAP und Blutköpfchen-Senkung, Geschwindigkeit.
+
+368
+00:37:54,100 --> 00:37:57,100
+Sehr wichtig. Und ...
+
+369
+00:37:57,100 --> 00:37:59,100
+Meinen Sie BSG?
+
+370
+00:37:59,100 --> 00:38:01,100
+Ja, BSG.
+
+371
+00:38:01,100 --> 00:38:10,100
+Ich glaube, diese Werte werden nicht sehr oft überprüft.
+
+372
+00:38:10,100 --> 00:38:12,100
+Momentan.
+
+373
+00:38:12,100 --> 00:38:19,100
+Als Entzündung parametern wird CRP kontrolliert oder überprüft.
+
+374
+00:38:20,100 --> 00:38:26,100
+Ich habe ein paar Erfahrungen gelesen.
+
+375
+00:38:26,100 --> 00:38:33,100
+Wenn wir BSG nennen, dann kritisiert der Prüfer oder die Prüferin.
+
+376
+00:38:33,100 --> 00:38:38,100
+In der Aufnahme überprüfen wir keine BSG.
+
+377
+00:38:38,100 --> 00:38:43,100
+Sie können nur CRP nennen.
+
+378
+00:38:43,100 --> 00:38:46,100
+Okay.
+
+379
+00:38:46,100 --> 00:38:52,100
+Jeder Not hat BSG geschrieben.
+
+380
+00:38:52,100 --> 00:38:55,100
+Ja, am Anfang habe ich alle geschrieben.
+
+381
+00:38:55,100 --> 00:39:00,100
+Aber dann habe ich viele verschiedene Erfahrungen gelesen.
+
+382
+00:39:00,100 --> 00:39:03,100
+Und mache ich ein paar Veränderungen.
+
+383
+00:39:03,100 --> 00:39:05,100
+Danke für die Information.
+
+384
+00:39:05,100 --> 00:39:07,100
+Und ...
+
+385
+00:39:11,420 --> 00:39:16,420
+Wegen systemischer Lupus automatosis,
+
+386
+00:39:16,420 --> 00:39:21,420
+Anti-nuklear Antiköpfchen,
+
+387
+00:39:21,420 --> 00:39:26,420
+Anti-DSDNA Antiköpfchen und
+
+388
+00:39:26,420 --> 00:39:32,420
+und spezifisch Antisemit Antiköpfchen.
+
+389
+00:39:32,420 --> 00:39:37,360
+Dann ...
+
+390
+00:39:37,360 --> 00:39:40,360
+Ja, das war mein Ruhm.
+
+391
+00:39:40,360 --> 00:39:43,360
+Kompliment C3, C4?
+
+392
+00:39:43,360 --> 00:39:45,360
+Nein, nein.
+
+393
+00:39:45,360 --> 00:39:52,180
+Noch mehr Kompliment, Test C3, C4.
+
+394
+00:39:52,180 --> 00:39:59,030
+Okay. Welche operativen Methoden würden Sie durchführen?
+
+395
+00:39:59,030 --> 00:40:02,030
+Operativen Methoden ...
+
+396
+00:40:02,030 --> 00:40:05,030
+Erstes Teil ist ...
+
+397
+00:40:05,030 --> 00:40:08,030
+... gluckokortgut.
+
+398
+00:40:08,030 --> 00:40:11,030
+Nein, nein. Als operativen Methoden.
+
+399
+00:40:11,030 --> 00:40:14,030
+Operativen?
+
+400
+00:40:14,030 --> 00:40:20,030
+Zum Beispiel Bildgebende werfen oder andere ...
+
+401
+00:40:20,030 --> 00:40:25,030
+... außer Blutabnahme oder ...
+
+402
+00:40:25,030 --> 00:40:28,030
+... Körperleuntersuchung.
+
+403
+00:40:28,030 --> 00:40:31,030
+Möchten Sie auf andere Methoden?
+
+404
+00:40:31,030 --> 00:40:35,030
+Ja, andere ...
+
+405
+00:40:35,030 --> 00:40:39,030
+... würde ich gerne einen EKG schreiben.
+
+406
+00:40:39,030 --> 00:40:43,030
+Herzunterzuchtung ist sehr wichtig.
+
+407
+00:40:43,030 --> 00:40:51,030
+Und dann ein Rücken, Handgelenk, Hand oder Knie.
+
+408
+00:40:51,030 --> 00:40:55,030
+Oder Hand und Knie.
+
+409
+00:40:55,030 --> 00:40:58,030
+Hand und Kniegelenke.
+
+410
+00:40:59,030 --> 00:41:03,030
+Was noch? Könnten Sie mir bitte helfen?
+
+411
+00:41:03,030 --> 00:41:09,140
+Ja, Sie sind sehr wichtig.
+
+412
+00:41:09,140 --> 00:41:14,140
+Aber wenn die Patientin ...
+
+413
+00:41:14,140 --> 00:41:18,140
+... Mixionbeschwerden hat ...
+
+414
+00:41:18,140 --> 00:41:24,140
+... können Sie Ultraschall des Nierens durchführen?
+
+415
+00:41:24,140 --> 00:41:27,140
+Ja, ja, ja. Natürlich.
+
+416
+00:41:28,140 --> 00:41:34,140
+Visualisatnidae Prüfung SLE oder ...
+
+417
+00:41:34,140 --> 00:41:38,580
+... Systemische Lupusertomatodes.
+
+418
+00:41:38,580 --> 00:41:41,580
+Visualisatnidae Prüfung.
+
+419
+00:41:41,580 --> 00:41:44,580
+Systemische Lupusertomatodes.
+
+420
+00:41:44,580 --> 00:41:47,580
+Keine Abkursung.
+
+421
+00:41:47,580 --> 00:41:50,580
+Systemische Lupusertomatodes.
+
+422
+00:41:50,580 --> 00:41:53,580
+Wenn die Patientin auf ...
+
+423
+00:41:53,580 --> 00:41:57,580
+... Luftnot oder Lungenprobleme genannt hat ...
+
+424
+00:41:57,580 --> 00:42:03,580
+... würden wir auf Röntgen-Torax durchführen.
+
+425
+00:42:03,580 --> 00:42:07,580
+Aber es ist ein Standard.
+
+426
+00:42:07,580 --> 00:42:11,580
+Herzunterzuchtung, ein EKG und ...
+
+427
+00:42:11,580 --> 00:42:14,580
+... EKG, Röntgen.
+
+428
+00:42:14,580 --> 00:42:17,580
+Und ein Nierenultraschall.
+
+429
+00:42:17,580 --> 00:42:21,580
+Nierenfunktionen sind auch sehr wichtig.
+
+430
+00:42:21,580 --> 00:42:25,580
+Die häufigsten Komplikationen sind der Nierenbefall.
+
+431
+00:42:25,580 --> 00:42:30,580
+Deswegen sollen wir einen Nierenultraschall durchführen.
+
+432
+00:42:30,580 --> 00:42:33,580
+Ja, Immunkomplex.
+
+433
+00:42:33,580 --> 00:42:36,580
+Lagerung bei der Glamour.
+
+434
+00:42:36,580 --> 00:42:39,580
+Glamourle Körption oder ...
+
+435
+00:42:39,580 --> 00:42:42,580
+Ja, Ansammlung.
+
+436
+00:42:42,580 --> 00:42:45,580
+Ja, Immunkomplexen.
+
+437
+00:42:45,580 --> 00:42:49,580
+Würden wir auf Kums-Test durchführen?
+
+438
+00:42:49,580 --> 00:42:52,580
+Ja, Kums-Test ist ... habe ich vergessen.
+
+439
+00:42:52,580 --> 00:42:55,580
+Es ist ein Standard.
+
+440
+00:42:55,580 --> 00:42:58,580
+Positiv für die CLE Kums-Test.
+
+441
+00:42:58,580 --> 00:43:01,580
+Nicht immer, aber ...
+
+442
+00:43:01,580 --> 00:43:06,790
+... wenn ...
+
+443
+00:43:06,790 --> 00:43:09,790
+... wenn das Befall der Blut ...
+
+444
+00:43:09,790 --> 00:43:12,790
+... vorhanden ist ...
+
+445
+00:43:12,790 --> 00:43:15,790
+... erwarten wir positive Kums-Tests. Ja.
+
+446
+00:43:15,790 --> 00:43:18,790
+Okay, wie können Sie ...
+
+447
+00:43:18,790 --> 00:43:21,790
+... die Patienten behandeln?
+
+448
+00:43:22,790 --> 00:43:25,790
+Ätzt immer mit einer Kugelgurt.
+
+449
+00:43:25,790 --> 00:43:28,790
+Dann ...
+
+450
+00:43:28,790 --> 00:43:31,790
+... nicht so lange.
+
+451
+00:43:31,790 --> 00:43:34,790
+Anti-Rheumatik ...
+
+452
+00:43:34,790 --> 00:43:37,790
+... dann Hydroxychloroquin.
+
+453
+00:43:37,790 --> 00:43:40,790
+Noch ...
+
+454
+00:43:40,790 --> 00:43:43,790
+... Azatopin oder Methotrexat.
+
+455
+00:43:43,790 --> 00:43:46,790
+Dann ...
+
+456
+00:43:46,790 --> 00:43:49,790
+... sp4.
+
+457
+00:43:49,790 --> 00:43:54,790
+Würden Sie die Patienten stationär aufnehmen oder ambulant behandeln?
+
+458
+00:43:54,790 --> 00:43:59,790
+Ja, auf jeden Fall. Ich würde gerne diese Patienten stationär aufnehmen.
+
+459
+00:43:59,790 --> 00:44:00,790
+Warum?
+
+460
+00:44:01,790 --> 00:44:14,550
+CLR hat seit zwei, drei Monaten endliche Beschwerden, sogenannte Beschwerden.
+
+461
+00:44:14,550 --> 00:44:28,550
+Und dann sollen sie für die Kontrolle auf jeden Fall die Station aufnehmen und dann kontrollieren.
+
+462
+00:44:31,340 --> 00:44:42,340
+Ok. Seit langer Zeit hat sie viele Beschwerden und CLR beeinflusst alle systemischen Organen.
+
+463
+00:44:42,340 --> 00:44:47,340
+Deswegen müssen wir viele Untersuchungen durchführen.
+
+464
+00:44:49,340 --> 00:44:50,340
+Ich habe gedacht...
+
+465
+00:44:50,340 --> 00:44:51,340
+Ich wollte etwas sagen, Herr Prof.
+
+466
+00:44:51,340 --> 00:44:53,340
+Ich habe die Säle geteilt.
+
+467
+00:44:53,340 --> 00:44:56,340
+CLR ist ein System, das alle Organe beeinflusst.
+
+468
+00:44:56,340 --> 00:44:58,340
+Ich verstehe.
+
+469
+00:44:58,340 --> 00:45:01,340
+Aber ich habe es nicht gesagt.
+
+470
+00:45:01,340 --> 00:45:09,340
+Jetzt versuche ich, Sie zu sagen, wie Sie es sagen können.
+
+471
+00:45:10,340 --> 00:45:12,340
+Ich habe dort ein Kartelein.
+
+472
+00:45:12,340 --> 00:45:16,340
+Wenn wir nicht in die Säle gehen, werden wir verbreitet.
+
+473
+00:45:16,340 --> 00:45:17,340
+Herr Prof.
+
+474
+00:45:17,340 --> 00:45:20,340
+CLR beeinflusst alle Organe im Körper.
+
+475
+00:45:20,340 --> 00:45:24,340
+Ich bin ein Schwerpunkt.
+
+476
+00:45:24,340 --> 00:45:28,340
+Ich bin ein Schwerpunkt.
+
+477
+00:45:28,340 --> 00:45:36,440
+Ok. Dann, Herr Prof.
+
+478
+00:45:36,440 --> 00:45:41,520
+Können Sie etwas sagen, Herr Prof.
+
+479
+00:45:41,520 --> 00:45:42,520
+Natürlich.
+
+480
+00:45:42,520 --> 00:45:53,520
+Vielleicht ist es nicht so für die anderen 21 Fakten, aber weil Clut, Zenkung, Eschwind und Schleif ein romantisches Problem sind, ist es wichtig,
+
+481
+00:46:23,520 --> 00:46:25,520
+dass wir das nicht machen.
+
+482
+00:46:25,520 --> 00:46:29,520
+Ich denke, dass es ein romantisches Problem ist.
+
+483
+00:46:29,520 --> 00:46:31,520
+Danke.
+
+484
+00:46:31,520 --> 00:46:33,520
+Ihr könnt es, Herr Prof.
+
+485
+00:46:33,520 --> 00:46:35,520
+Hallo, Herr Prof.
+
+486
+00:46:35,520 --> 00:46:38,520
+Ich kann Ihnen etwas vorstellen.
+
+487
+00:46:38,520 --> 00:46:42,520
+Guten Tag, Frau Oberarztin.
+
+488
+00:46:42,520 --> 00:46:48,520
+Ich habe eine neue Patientin und darf Sie mir etwas vorstellen?
+
+489
+00:46:48,520 --> 00:46:50,520
+Natürlich.
+
+490
+00:46:50,520 --> 00:46:54,520
+Es handelt sich um Julia Krueger.
+
+491
+00:46:54,520 --> 00:47:05,520
+Sie ist 45 Jahre alt und am 18.1979 geboren.
+
+492
+00:47:05,520 --> 00:47:14,520
+Sie ist ungefähr 75,3 Kilo und sie ist 1,71 Meter groß.
+
+493
+00:47:14,520 --> 00:47:22,520
+Frau Krueger kam heute zu uns wegen gestern Fieber.
+
+494
+00:47:22,520 --> 00:47:31,520
+Seit gestern Fieber und seit zwei Wochen Beizeitgehemdkniegelenkel Schmerzen.
+
+495
+00:47:31,520 --> 00:47:51,520
+Schmerzintensität bei der Bewegung von 5 von 10 auf der NRS, aber im Ruhe von 4 von 10 Intensität.
+
+496
+00:47:51,520 --> 00:48:13,220
+Sie hat seit langer Zeit Müdigkeit, aber ihre Beschwerden sind in ungefähr zwei Wochen schlimmer geworden.
+
+497
+00:48:13,220 --> 00:48:28,220
+Außerdem hat sie manchmal geschwollene Gelenken, aber ohne Rötungen.
+
+498
+00:48:28,220 --> 00:48:32,220
+Ich weiß nicht, was sie heißt.
+
+499
+00:48:32,220 --> 00:48:46,220
+Darüber hinaus hat sie Rötungen neben den Wangen und Nasen seit drei Monaten.
+
+500
+00:48:46,220 --> 00:48:54,220
+Diese Beschwerden sind mit Sonnenstrahlung schlimmer geworden.
+
+501
+00:48:54,220 --> 00:49:10,220
+Ihre Körpertemperatur war 38,4 Grad Celsius im Mund.
+
+502
+00:49:10,220 --> 00:49:29,220
+Sie hat in Abhedenz, innerhalb von drei Monaten, ungefähr 4 Kilo abgenommen.
+
+503
+00:49:29,220 --> 00:49:42,220
+Frau Krueger hat unregelmäßig Blut in den letzten drei Jahren und sie hatte zweimal Fällgeburt.
+
+504
+00:49:42,220 --> 00:50:03,720
+Als Vorerkrankungen hat Frau Krueger ein Residivierende, Tom Silitis, und sie wurde manchmal in der Ambulanz vielmals behandelt.
+
+505
+00:50:03,720 --> 00:50:12,720
+Sie hat vielmals Antibiotikatherapie angenommen.
+
+506
+00:50:12,720 --> 00:50:41,960
+Als Medikamenten nehme sie regelmäßig Minuletz, eine Tablette morgens, und Voltaren 75 mg regelmäßig, und Pantoprosol 20 mg morgens, eine Tablette.
+
+507
+00:50:41,960 --> 00:51:00,960
+Sie hat keine Operation und hatte eine Polenallergie.
+
+508
+00:51:00,960 --> 00:51:23,960
+Sie wurde in der Zeit verlaufen selbstgesunden.
+
+509
+00:51:23,960 --> 00:51:38,960
+Soziell anlässlich ist sie Pädagogin und hat zwei gesunde Tochter.
+
+510
+00:51:38,960 --> 00:51:55,960
+Frau Krueger hat erwähnt, dass ihr Vater Lungenkrebs und er ist verstorben.
+
+511
+00:51:55,960 --> 00:52:07,960
+Ihr Mutter hat Arthritis und ihr Schwester hat Psoriasis.
+
+512
+00:52:07,960 --> 00:52:30,350
+Nach den anästischen Angaben habe ich den Verdacht auf eine systemische Lupus-Edytamotode.
+
+513
+00:52:30,350 --> 00:52:45,350
+Die Diagnostik der Pädagogin ist auch eine Arthritis und eine Infektionsarthritis.
+
+514
+00:52:45,350 --> 00:52:57,350
+Ich werde die Patienten körperlich untersuchen und überwachen die Vitalparameter.
+
+515
+00:52:57,350 --> 00:53:14,350
+Als Routine sollte ein EKG geschrieben werden. Im Labor würde ich Blutbildentzündung, Leberparameter, Nierenparameter kontrollieren.
+
+516
+00:53:14,350 --> 00:53:21,350
+Ein Rundengelenk sollte dann verhandelt werden.
+
+517
+00:53:21,350 --> 00:53:29,350
+Ich werde die Patienten aber auch operativ untersuchen.
+
+518
+00:54:29,350 --> 00:54:39,350
+Ich werde ein römantologisches Konsil beantworten. Danke.
+
+519
+00:55:00,980 --> 00:55:05,980
+Ich werde die Patienten beantworten.
+
+520
+00:56:00,980 --> 00:56:08,980
+Ich werde die Patienten beantworten.
+
+521
+00:56:30,980 --> 00:56:38,980
+Ich werde die Patienten beantworten.
+
+522
+00:56:38,980 --> 00:56:46,980
+Ich werde die Patienten beantworten.
+
+523
+00:56:46,980 --> 00:56:54,980
+Ich werde die Patienten beantworten.
+
+524
+00:56:54,980 --> 00:57:02,980
+Ich werde die Patienten beantworten.
+
+525
+00:57:02,980 --> 00:57:10,980
+Ich werde die Patienten beantworten.
+
+526
+00:57:10,980 --> 00:57:18,980
+Ich werde die Patienten beantworten.
+
+527
+00:57:18,980 --> 00:57:26,980
+Ich werde die Patienten beantworten.
+
+528
+00:57:26,980 --> 00:57:34,980
+Ich werde die Patienten beantworten.
+
+529
+00:57:34,980 --> 00:57:42,980
+Ich werde die Patienten beantworten.
+
+530
+00:57:42,980 --> 00:57:50,980
+Ich werde die Patienten beantworten.
+
+531
+00:57:50,980 --> 00:57:58,980
+Ich werde die Patienten beantworten.
+
+532
+00:57:58,980 --> 00:58:06,980
+Ich werde die Patienten beantworten.
+
+533
+00:58:06,980 --> 00:58:14,980
+Ich werde die Patienten beantworten.
+
+534
+00:58:14,980 --> 00:58:22,980
+Ich werde die Patienten beantworten.
+
+535
+00:58:22,980 --> 00:58:30,980
+Ich werde die Patienten beantworten.
+
+536
+00:58:30,980 --> 00:58:38,980
+Ich werde die Patienten beantworten.
+
+537
+00:58:38,980 --> 00:58:46,980
+Ich werde die Patienten beantworten.
+
+538
+00:58:46,980 --> 00:58:54,980
+Ich werde die Patienten beantworten.
+
+539
+00:58:54,980 --> 00:59:02,980
+Ich werde die Patienten beantworten.
+
+540
+00:59:02,980 --> 00:59:10,980
+Ich werde die Patienten beantworten.
+
+541
+00:59:10,980 --> 00:59:18,980
+Ich werde die Patienten beantworten.
+
+542
+00:59:18,980 --> 00:59:26,980
+Ich werde die Patienten beantworten.
+
+543
+00:59:26,980 --> 00:59:34,980
+Ich werde die Patienten beantworten.
+
+544
+00:59:34,980 --> 00:59:42,980
+Ich werde die Patienten beantworten.
+
+545
+00:59:42,980 --> 00:59:50,980
+Ich werde die Patienten beantworten.
+
+546
+00:59:50,980 --> 00:59:58,980
+Ich werde die Patienten beantworten.
+
+547
+00:59:58,980 --> 01:00:06,980
+Ich werde die Patienten beantworten.
+
+548
+01:00:06,980 --> 01:00:14,980
+Ich werde die Patienten beantworten.
+
+549
+01:00:14,980 --> 01:00:22,980
+Ich werde die Patienten beantworten.
+
+550
+01:00:22,980 --> 01:00:30,980
+Ich werde die Patienten beantworten.
+
+551
+01:00:30,980 --> 01:00:38,980
+Ich werde die Patienten beantworten.
+
+552
+01:00:38,980 --> 01:00:46,980
+Ich werde die Patienten beantworten.
+
+553
+01:01:00,980 --> 01:01:08,980
+Ich werde die Patienten beantworten.
+
+554
+01:01:08,980 --> 01:01:16,980
+Ich werde die Patienten beantworten.
+
+555
+01:01:16,980 --> 01:01:24,980
+Ich werde die Patienten beantworten.
+
+556
+01:01:24,980 --> 01:01:32,980
+Ich werde die Patienten beantworten.
+
+557
+01:01:32,980 --> 01:01:40,980
+Ich werde die Patienten beantworten.
+
+558
+01:01:40,980 --> 01:01:48,980
+Ich werde die Patienten beantworten.
+
+559
+01:01:48,980 --> 01:01:56,980
+Ich werde die Patienten beantworten.
+
+560
+01:01:56,980 --> 01:02:04,980
+Ich werde die Patienten beantworten.
+
+561
+01:02:04,980 --> 01:02:12,980
+Ich werde die Patienten beantworten.
+
+562
+01:02:12,980 --> 01:02:20,980
+Ich werde die Patienten beantworten.
+
+563
+01:02:20,980 --> 01:02:28,980
+Ich werde die Patienten beantworten.
+
+564
+01:02:28,980 --> 01:02:36,980
+Ich werde die Patienten beantworten.
+
+565
+01:02:36,980 --> 01:02:44,980
+Ich werde die Patienten beantworten.
+
+566
+01:02:44,980 --> 01:02:52,980
+Ich werde die Patienten beantworten.
+
+567
+01:02:52,980 --> 01:03:00,980
+Ich werde die Patienten beantworten.
+
+568
+01:03:00,980 --> 01:03:08,980
+Ich werde die Patienten beantworten.
+
+569
+01:03:08,980 --> 01:03:16,980
+Ich werde die Patienten beantworten.
+
+570
+01:03:16,980 --> 01:03:24,980
+Ich werde die Patienten beantworten.
+
+571
+01:03:24,980 --> 01:03:32,980
+Ich werde die Patienten beantworten.
+
+572
+01:03:32,980 --> 01:03:40,980
+Ich werde die Patienten beantworten.
+
+573
+01:03:40,980 --> 01:03:48,980
+Ich werde die Patienten beantworten.
+
+574
+01:03:48,980 --> 01:03:56,980
+Ich werde die Patienten beantworten.
+
+575
+01:03:56,980 --> 01:04:04,980
+Ich werde die Patienten beantworten.
+
+576
+01:04:04,980 --> 01:04:12,980
+Ich werde die Patienten beantworten.
+
+577
+01:04:12,980 --> 01:04:20,980
+Ich werde die Patienten beantworten.
+
+578
+01:04:20,980 --> 01:04:28,980
+Ich werde die Patienten beantworten.
+
+579
+01:04:28,980 --> 01:04:36,980
+Ich werde die Patienten beantworten.
+
+580
+01:04:36,980 --> 01:04:44,980
+Ich werde die Patienten beantworten.
+
+581
+01:04:44,980 --> 01:04:52,980
+Ich werde die Patienten beantworten.
+
+582
+01:04:52,980 --> 01:05:00,980
+Ich werde die Patienten beantworten.
+
+583
+01:05:00,980 --> 01:05:08,980
+Ich werde die Patienten beantworten.
+
+584
+01:05:08,980 --> 01:05:16,980
+Ich werde die Patienten beantworten.
+
+585
+01:05:16,980 --> 01:05:24,980
+Ich werde die Patienten beantworten.
+
+586
+01:05:24,980 --> 01:05:32,980
+Ich werde die Patienten beantworten.
+
+587
+01:05:32,980 --> 01:05:40,980
+Ich werde die Patienten beantworten.
+
+588
+01:05:40,980 --> 01:05:48,980
+Ich werde die Patienten beantworten.
+
+589
+01:05:48,980 --> 01:05:56,980
+Ich werde die Patienten beantworten.
+
+590
+01:05:56,980 --> 01:06:04,980
+Ich werde die Patienten beantworten.
+
+591
+01:06:04,980 --> 01:06:12,980
+Ich werde die Patienten beantworten.
+
+592
+01:06:12,980 --> 01:06:20,980
+Ich werde die Patienten beantworten.
+
+593
+01:06:20,980 --> 01:06:28,980
+Ich werde die Patienten beantworten.
+
+594
+01:06:28,980 --> 01:06:36,980
+Ich werde die Patienten beantworten.
+
+595
+01:06:36,980 --> 01:06:44,980
+Ich werde die Patienten beantworten.
+
+596
+01:06:44,980 --> 01:06:52,980
+Ich werde die Patienten beantworten.
+
+597
+01:06:52,980 --> 01:07:00,980
+Ich werde die Patienten beantworten.
+
+598
+01:07:00,980 --> 01:07:08,980
+Ich werde die Patienten beantworten.
+
+599
+01:07:08,980 --> 01:07:16,980
+Ich werde die Patienten beantworten.
+
+600
+01:07:16,980 --> 01:07:24,980
+Ich werde die Patienten beantworten.
+
+601
+01:07:24,980 --> 01:07:32,980
+Ich werde die Patienten beantworten.
+
+602
+01:07:32,980 --> 01:07:40,980
+Ich werde die Patienten beantworten.
+
+603
+01:07:40,980 --> 01:07:48,980
+Ich werde die Patienten beantworten.
+
+604
+01:07:48,980 --> 01:07:56,980
+Ich werde die Patienten beantworten.
+
+605
+01:07:56,980 --> 01:08:04,980
+Ich werde die Patienten beantworten.
+
+606
+01:08:04,980 --> 01:08:12,980
+Ich werde die Patienten beantworten.
+
+607
+01:08:12,980 --> 01:08:20,980
+Ich werde die Patienten beantworten.
+
+608
+01:08:20,980 --> 01:08:28,980
+Ich werde die Patienten beantworten.
+
+609
+01:08:28,980 --> 01:08:36,980
+Ich werde die Patienten beantworten.
+
+610
+01:08:36,980 --> 01:08:44,980
+Ich werde die Patienten beantworten.
+
+611
+01:08:44,980 --> 01:08:52,980
+Ich werde die Patienten beantworten.
+
+612
+01:08:52,980 --> 01:09:00,980
+Ich werde die Patienten beantworten.
+
+613
+01:09:00,980 --> 01:09:08,980
+Ich werde die Patienten beantworten.
+
+614
+01:09:08,980 --> 01:09:16,980
+Ich werde die Patienten beantworten.
+
+615
+01:09:16,980 --> 01:09:24,980
+Ich werde die Patienten beantworten.
+
+616
+01:09:24,980 --> 01:09:32,980
+Ich werde die Patienten beantworten.
+
+617
+01:09:32,980 --> 01:09:40,980
+Ich werde die Patienten beantworten.
+
+618
+01:09:40,980 --> 01:09:48,980
+Ich werde die Patienten beantworten.
+
+619
+01:09:48,980 --> 01:09:56,980
+Ich werde die Patienten beantworten.
+
+620
+01:09:56,980 --> 01:10:04,980
+Ich werde die Patienten beantworten.
+
+621
+01:10:04,980 --> 01:10:12,980
+Ich werde die Patienten beantworten.
+
+622
+01:10:12,980 --> 01:10:20,980
+Ich werde die Patienten beantworten.
+
+623
+01:10:20,980 --> 01:10:28,980
+Ich werde die Patienten beantworten.
+
+624
+01:10:28,980 --> 01:10:36,980
+Ich werde die Patienten beantworten.
+
+625
+01:10:36,980 --> 01:10:44,980
+Ich werde die Patienten beantworten.
+
+626
+01:10:44,980 --> 01:10:52,980
+Ich werde die Patienten beantworten.
+
+627
+01:10:52,980 --> 01:11:00,980
+Ich werde die Patienten beantworten.
+
+628
+01:11:00,980 --> 01:11:08,980
+Ich werde die Patienten beantworten.
+
+629
+01:11:08,980 --> 01:11:16,980
+Ich werde die Patienten beantworten.
+
+630
+01:11:16,980 --> 01:11:24,980
+Ich werde die Patienten beantworten.
+
+631
+01:11:24,980 --> 01:11:32,980
+Ich werde die Patienten beantworten.
+
+632
+01:11:32,980 --> 01:11:40,980
+Ich werde die Patienten beantworten.
+
+633
+01:11:40,980 --> 01:11:48,980
+Ich werde die Patienten beantworten.
+
+634
+01:11:48,980 --> 01:11:56,980
+Ich werde die Patienten beantworten.
+
+635
+01:11:56,980 --> 01:12:04,980
+Ich werde die Patienten beantworten.
+
+636
+01:12:04,980 --> 01:12:12,980
+Ich werde die Patienten beantworten.
+
+637
+01:12:12,980 --> 01:12:20,980
+Ich werde die Patienten beantworten.
+
+638
+01:12:20,980 --> 01:12:28,980
+Ich werde die Patienten beantworten.
+
+639
+01:12:28,980 --> 01:12:36,980
+Ich werde die Patienten beantworten.
+
+640
+01:12:36,980 --> 01:12:44,980
+Ich habe das als Zeichen gesehen.
+
+641
+01:12:44,980 --> 01:12:52,980
+Das kann als Komplikation der Patienten sein.
+
+642
+01:12:52,980 --> 01:13:00,980
+Das kann als Komplikation der Patienten sein.
+
+643
+01:13:00,980 --> 01:13:10,980
+Das kann als Komplikation der Patienten sein.
+
+644
+01:13:10,980 --> 01:13:20,980
+Das kann als Komplikation der Patienten sein.
+
+645
+01:13:20,980 --> 01:13:26,480
+Ich habe eine Frage für Tungu und seine Mutter gefragt, um die Komplikation zu erwerben.
+
+646
+01:13:26,480 --> 01:13:28,740
+Dann geht es weiter, wie ihr wisst.
+
+647
+01:13:28,740 --> 01:13:29,960
+Ich habe diese Fragen gefragt.
+
+648
+01:13:29,960 --> 01:13:35,180
+Seyre ist eine der einfachsten Fakade des Düsseldorfs.
+
+649
+01:13:35,180 --> 01:13:39,060
+Denn er hat nicht viel Reaktion von sich selbst.
+
+650
+01:13:39,060 --> 01:13:42,360
+Er hat nicht extra was zu den Fakaden zu sagen.
+
+651
+01:13:42,360 --> 01:13:45,940
+Er hat mir nur gesagt, dass seine Mutter Arthrose ist.
+
+652
+01:13:45,940 --> 01:13:49,100
+Ich bin mir nicht sicher, ob ich auch Arthrose werde.
+
+653
+01:13:49,100 --> 01:13:52,100
+Meine Mutter hat mir gesagt, dass sie sich damit etwas für mich verabschieden.
+
+654
+01:13:52,100 --> 01:13:58,580
+Ich habe ihr gesagt, dass ich Angst habe.
+
+655
+01:13:58,580 --> 01:14:09,420
+Aber ich gehe nicht davon aus, dass ihre Bewerber nicht zu Arthrose passen.
+
+656
+01:14:09,420 --> 01:14:14,180
+Aber keine Sorge, wir werden alle wichtigen Untersuchungen durchführen.
+
+657
+01:14:14,180 --> 01:14:22,480
+Und die genaue Ursehe und die genaue Diagnose zu erzählen, sind die Ursehe zu finden.
+
+658
+01:14:22,480 --> 01:14:25,220
+So etwas habe ich gesagt.
+
+659
+01:14:27,900 --> 01:14:31,980
+Wenn ich diese Fakade nicht mache, habe ich meine eigenen Reaktionen versucht.
+
+660
+01:14:31,980 --> 01:14:38,940
+Als ich sie zu Beginn der Fakade erwähnt habe, war sie nicht zu betrachten und sie wurden damit verabschieden.
+
+661
+01:15:08,940 --> 01:15:11,940
+Oder was habt ihr über Reaktionen zu fragen?
+
+662
+01:15:13,940 --> 01:15:16,940
+Was haben sie in Arsene gefragt?
+
+663
+01:15:19,350 --> 01:15:25,700
+Ich habe dort alle geschrieben, ich erinnere mich nicht.
+
+664
+01:15:26,700 --> 01:15:28,700
+Ich habe alle Fragen auf Karte geschrieben, die sie mir angetan haben.
+
+665
+01:15:29,700 --> 01:15:30,700
+Aber ich kann sie noch mal ausrechnen.
+
+666
+01:15:30,700 --> 01:15:33,700
+Ich habe es vorhin schon gesagt.
+
+667
+01:15:34,700 --> 01:15:45,700
+Sie stellt sich bei uns wegen der bestehenden Fieber und Atrallgie vor.
+
+668
+01:15:46,700 --> 01:15:55,700
+Laut Auslage der Patienten ist die Atrallgie an Handgelenk und Kniegelenk.
+
+669
+01:15:55,700 --> 01:16:13,300
+Die Schmerzintensität liegt bei 6 von 10 auf der Schmerzskala bei Bewegung und 4 von 10 auf der Schmerzskala in der Ruhe.
+
+670
+01:16:14,300 --> 01:16:24,300
+Sie berichtet, dass die Schmerzen sichern, persistierend und progredient sind.
+
+671
+01:16:24,300 --> 01:16:34,300
+Sie berichtet, dass sie seit 5 Monaten Schubweise diese 5 werden.
+
+672
+01:16:34,300 --> 01:16:39,300
+Ich habe sie in der Ruhe gefragt.
+
+673
+01:16:40,300 --> 01:16:42,300
+Sie hat mich gefragt, was Atrallgie bedeutet.
+
+674
+01:16:43,300 --> 01:16:46,300
+Schmerzende Gelenke.
+
+675
+01:16:47,300 --> 01:16:50,300
+Das ist die Schmerzende Gelenk.
+
+676
+01:16:51,300 --> 01:16:55,300
+Sie hat mich gefragt, ob sie das oder das nicht so genannt sind.
+
+677
+01:17:29,560 --> 01:17:45,560
+Die Schmerzen verschlemmen sich bei Bewegung, während die Einnahme von Diclofenac, 75 mg, und Hochbeinlagerung besser.
+
+678
+01:17:46,560 --> 01:17:57,560
+Ich habe hier die Schmerzverdienung, aber ich sage immer, dass ich die Schmerzen mit dem Auslöser nenne.
+
+679
+01:17:58,560 --> 01:18:18,560
+Ich verbreite die Schmerz, die Schmerzintensität, sie berichtet, dass sie seit 5 Monaten Schubweise diese 5 werden.
+
+680
+01:18:18,560 --> 01:18:23,560
+Ich habe hier die Schmerzverdienung, die ich in der Dokumentation verwendet habe.
+
+681
+01:18:24,560 --> 01:18:26,560
+Das ist sehr hilfreich für die Schmerzverdienung.
+
+682
+01:18:27,560 --> 01:18:46,560
+Ich habe die Schmerzverdienung, die ich in der Dokumentation verwendet habe, verwendet.
+
+683
+01:18:46,560 --> 01:18:49,560
+Habt ihr die Schmerzverdienung in der Dokumentation verwendet?
+
+684
+01:18:50,560 --> 01:18:51,560
+Natürlich.
+
+685
+01:18:52,560 --> 01:18:55,560
+Nicht die Schmerzverdienung, sondern die Schmerzverdienung.
+
+686
+01:18:56,560 --> 01:19:01,560
+Nein, nein, ich habe die Schmerzverdienung als Schmerzverdienung verwendet, weil sie mir selbst gesagt hat.
+
+687
+01:19:02,560 --> 01:19:05,560
+Was hat der Patient mir in der Dokumentation gesagt?
+
+688
+01:19:06,560 --> 01:19:10,560
+Ich habe die Schmerzverdienung verwendet, wenn er mir das schon gesagt hat.
+
+689
+01:19:11,560 --> 01:19:14,560
+Aber wenn er es mir nicht gesagt hat, dann habe ich es in der Dokumentation verwendet.
+
+690
+01:19:14,560 --> 01:19:15,560
+Ich kann es dir sagen.
+
+691
+01:19:16,560 --> 01:19:22,560
+Ich habe versucht, das zu sagen, aber es kann nicht so richtig sein.
+
+692
+01:19:23,560 --> 01:19:39,560
+Ich nenne die Schmerzverdienungen, die ich verwendet habe.
+
+693
+01:19:39,560 --> 01:19:42,560
+Wissen Sie, dass Sie an den Danish-Gespräch teilnehmen?
+
+694
+01:19:43,560 --> 01:19:46,560
+Nein, ich habe noch nicht getroffen. Ich warte, dass ich dort teilnehmen werde.
+
+695
+01:19:47,560 --> 01:19:49,560
+Es gibt eine Gruppe, die auf Danish-Gespräche steht.
+
+696
+01:19:50,560 --> 01:19:59,560
+Da hat der Danish-Gespräch die ganze Art und Weise, die man in einer Sitzung sagt, nicht richtig.
+
+697
+01:20:00,560 --> 01:20:03,560
+Die Prüfer haben auch gesagt, dass sie nicht gefällt.
+
+698
+01:20:33,560 --> 01:20:37,560
+Ich habe drei Sätze aus Ihren Sätzen gemacht.
+
+699
+01:20:38,560 --> 01:20:43,560
+Ich habe das gemacht, weil es mir richtig ist.
+
+700
+01:20:44,560 --> 01:20:45,560
+Was Sie gemacht haben, ist nicht falsch.
+
+701
+01:20:46,560 --> 01:20:51,560
+Aber der Danish-Gespräch hat mir nicht so geholfen, dass ich das nicht so mache.
+
+702
+01:20:52,560 --> 01:20:55,560
+Du hast so viele, sechs, sieben Informationen in einem Moment.
+
+703
+01:20:56,560 --> 01:21:00,560
+Du hast es in einem Moment geschafft.
+
+704
+01:21:00,560 --> 01:21:01,560
+Du hast es in einem Moment geschafft.
+
+705
+01:21:02,560 --> 01:21:05,560
+Du denkst so, aber du hast die Zeit kurz.
+
+706
+01:21:06,560 --> 01:21:08,560
+Du kannst dann noch ein paar Fragen haben.
+
+707
+01:21:09,560 --> 01:21:11,560
+Ich werde es mal evaluieren. Danke.
+
+708
+01:21:12,560 --> 01:21:14,560
+Ja, das ist so.
+
+709
+01:21:15,560 --> 01:21:16,560
+Das ist nicht falsch.
+
+710
+01:21:17,560 --> 01:21:21,560
+Ich habe die Zuhörungen von Schmetterlinge ergriffen.
+
+711
+01:21:22,560 --> 01:21:24,560
+Was haben sie gesagt?
+
+712
+01:21:25,560 --> 01:21:28,560
+Ich habe die Zuhörungen von Schmetterlinge ergriffen.
+
+713
+01:21:29,560 --> 01:21:35,560
+Sie hat erwähnt, dass sie seit zwei Monaten, besonders nach der Sonne,
+
+714
+01:21:36,560 --> 01:21:42,560
+Hautrötung im Gesicht auf dem Wagen und über die Nase hat.
+
+715
+01:22:43,840 --> 01:22:48,840
+Ich habe ihn mir als Kranke beantwortet.
+
+716
+01:22:48,840 --> 01:22:51,840
+Er hat mir die Fahbegriffen gefragt.
+
+717
+01:22:51,840 --> 01:22:53,840
+Dann habe ich ihn zu Schüpunflehte gesagt.
+
+718
+01:22:53,840 --> 01:22:55,840
+Er hat nicht die Fahbegriffen, sondern die Fahbegriffen.
+
+719
+01:22:55,840 --> 01:22:57,840
+Aber ich habe ihn auch gesagt.
+
+720
+01:22:57,840 --> 01:23:01,840
+Dann habe ich den Patienten extra gebeten.
+
+721
+01:23:01,840 --> 01:23:03,840
+Ich bin sehr verabschiedet.
+
+722
+01:23:03,840 --> 01:23:13,470
+Schümeire hat die Operarsel erzielt.
+
+723
+01:23:13,470 --> 01:23:16,470
+Dann hat er mich als Kranke beantwortet.
+
+724
+01:23:16,470 --> 01:23:21,470
+Ich habe gesagt, dass es eine Tonsillitis ist.
+
+725
+01:23:21,470 --> 01:23:23,470
+Warum ist das möglich?
+
+726
+01:23:23,470 --> 01:23:27,470
+Ich habe gesagt, es kann eine Komplikation der Lupus sein.
+
+727
+01:23:27,470 --> 01:23:33,470
+Systemische Lupus-Ertemotodes beeinflussen viele Systemische Organe.
+
+728
+01:23:33,470 --> 01:23:38,470
+Zum Beispiel Blut und kann Panstopen verursachen.
+
+729
+01:23:38,470 --> 01:23:45,470
+Wahrscheinlich hat sie deswegen eine Komplikation,
+
+730
+01:23:45,470 --> 01:23:47,470
+die sie von mir beantworten wollen.
+
+731
+01:23:47,470 --> 01:23:52,470
+Sie haben mir die Frage gefragt, warum sie Panstopen hören.
+
+732
+01:23:52,470 --> 01:23:59,720
+Sie haben mir die Frage gefragt, welche Organe sie beitragen und welche Komplikationen sie verursachen.
+
+733
+01:23:59,720 --> 01:24:01,720
+Dann habe ich sie gefragt, was Schüpunflehte sind.
+
+734
+01:24:01,720 --> 01:24:08,800
+Schüpunflehte sind die Schüpfel, die die Schüpfel in der Hand halten.
+
+735
+01:24:08,800 --> 01:24:14,780
+Ich habe sie jetzt noch erinnert.
+
+736
+01:24:14,780 --> 01:24:18,780
+Ich habe sie in einer Note geschrieben.
+
+737
+01:24:18,780 --> 01:24:20,780
+Ich glaube, es gibt noch weitere Fragen.
+
+738
+01:24:20,780 --> 01:24:22,780
+Ich erinnere mich an diese.
+
+739
+01:24:22,780 --> 01:24:24,780
+Danke, Herr Professor.
+
+740
+01:24:24,780 --> 01:24:26,780
+Vielen Dank für das.
+
+741
+01:24:26,780 --> 01:24:30,780
+Es war eine sehr verheiratende Situation.
+
+742
+01:24:30,780 --> 01:24:32,780
+Vielen Dank.
+
+743
+01:24:32,780 --> 01:24:34,780
+Haben Sie noch weitere Fragen?
+
+744
+01:24:34,780 --> 01:24:38,780
+Es gibt noch viele Fragen, Herr Professor.
+
+745
+01:24:38,780 --> 01:24:44,780
+Die Fragen und Erfahrungen, die Sie in den Noten geteilt haben, sind hier.
+
+746
+01:24:44,780 --> 01:24:48,780
+Sie haben alle eine Anleitung, Herr Professor.
+
+747
+01:24:48,780 --> 01:24:50,780
+Ich möchte sie wieder sagen.
+
+748
+01:24:50,780 --> 01:24:54,780
+Ich habe die Noten in meinem eigenen Übungsprozess geteilt.
+
+749
+01:24:54,780 --> 01:24:56,780
+Sie können sehr genau sein.
+
+750
+01:24:56,780 --> 01:24:58,780
+Ich habe sie zuerst in der Arbeit gemacht,
+
+751
+01:24:58,780 --> 01:25:05,780
+und ich habe sie nicht so genau wie möglich gemacht.
+
+752
+01:25:05,780 --> 01:25:07,780
+Aber ich glaube, das muss man so machen.
+
+753
+01:25:07,780 --> 01:25:11,780
+Wenn man zuerst etwas fehlt, kann man etwas anderes machen.
+
+754
+01:25:41,780 --> 01:25:47,610
+Ich wünsche Ihnen alles Gute.
+
+755
+01:25:47,610 --> 01:25:49,610
+Bis morgen.
+
+756
+01:25:49,610 --> 01:25:51,610
+Tschüss.
