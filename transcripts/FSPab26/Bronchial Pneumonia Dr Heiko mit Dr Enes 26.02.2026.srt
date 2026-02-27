@@ -1,0 +1,1339 @@
+1
+00:00:00,000 --> 00:00:07,760
+Mein Name ist Enes Ucunji und ich bin der diensthabende Arzt. Wie heißen Sie den?
+
+2
+00:00:07,760 --> 00:00:10,720
+Ich heiße Michael Kirchhoff.
+
+3
+00:00:10,720 --> 00:00:18,880
+Können Sie Ihre Vor- und Nachname bitte langsam bestabieren?
+
+4
+00:00:18,880 --> 00:00:30,560
+Ja, Michael schreibt sich M-I-C-H-A-E-L. Michael und der Nachname Kirchhoff.
+
+5
+00:00:30,560 --> 00:00:40,640
+K-I-R-C-H-H-O-F-F. Kirchhoff.
+
+6
+00:00:40,640 --> 00:00:42,800
+Okay, 2-H, oder?
+
+7
+00:00:42,800 --> 00:00:46,520
+Nein, doch Kirchhoff, 2-H.
+
+8
+00:00:47,480 --> 00:00:49,480
+Wie alt sind Sie?
+
+9
+00:00:49,480 --> 00:00:52,200
+Ich bin 45 Jahre alt.
+
+10
+00:00:52,200 --> 00:00:56,520
+Okay, wann genau wurden Sie geboren?
+
+11
+00:00:56,520 --> 00:01:02,440
+Am 25. September 1980.
+
+12
+00:01:02,440 --> 00:01:10,840
+Wie groß sind Sie?
+
+13
+00:01:10,840 --> 00:01:13,560
+1,84 Meter.
+
+14
+00:01:14,120 --> 00:01:18,120
+Okay, kennen Sie Ihr aktuelles Gewicht?
+
+15
+00:01:18,120 --> 00:01:20,920
+Ja, 87 Kilo.
+
+16
+00:01:20,920 --> 00:01:35,180
+Okay, danke für all diese Informationen. Wie kann ich Ihnen helfen?
+
+17
+00:01:36,140 --> 00:01:42,540
+Ja, ungefähr seit einer Woche habe ich eine Erkältung und Husten.
+
+18
+00:01:42,540 --> 00:01:47,980
+Und jetzt seit zwei Tagen geht es mir aber viel schlechter. Ich habe auch Fieber bekommen.
+
+19
+00:01:47,980 --> 00:01:59,260
+Und habe Auswurf und auch jetzt Luftnot. Ich fühle mich schlapp und abgeschlagen.
+
+20
+00:01:59,260 --> 00:02:01,500
+Also es geht mir jetzt nicht gut.
+
+21
+00:02:01,580 --> 00:02:06,700
+Okay, Sie haben seit einer Woche Erkältung, oder?
+
+22
+00:02:06,700 --> 00:02:07,340
+Ja.
+
+23
+00:02:07,340 --> 00:02:11,100
+Okay, haben Sie Fieber gemessen?
+
+24
+00:02:11,100 --> 00:02:17,100
+Ja, ich habe gemessen. Ich habe vor zwei Stunden 38,8 gehabt.
+
+25
+00:02:17,100 --> 00:02:19,820
+Ach, können Sie nochmal?
+
+26
+00:02:19,820 --> 00:02:22,540
+38,8.
+
+27
+00:02:22,620 --> 00:02:25,820
+38,8, okay.
+
+28
+00:02:25,820 --> 00:02:33,100
+Hätten Sie schon einmal ähnliche Beschwerden?
+
+29
+00:02:33,100 --> 00:02:35,100
+Nein, sowas habe ich noch nie gehabt.
+
+30
+00:02:35,100 --> 00:02:44,940
+Okay, gibt es einen Auslöser für diese Beschwerden?
+
+31
+00:02:44,940 --> 00:02:49,660
+Ich weiß es nicht. Im Anfang habe ich gedacht, ich habe nur eine Erkältung.
+
+32
+00:02:50,620 --> 00:02:54,860
+So, was man mal so hat. Aber das ist jetzt eben schlimmer geworden.
+
+33
+00:02:54,860 --> 00:03:07,740
+Okay, wenn Sie einen Auswurf haben, haben Sie bemerkt? Zum Beispiel Blut oder?
+
+34
+00:03:07,740 --> 00:03:11,820
+Also der Auswurf, der sieht so ein bisschen gelb und braun aus.
+
+35
+00:03:11,820 --> 00:03:24,460
+Ja, und braun, okay. Haben Sie etwas angenommen? Meine Medikamente?
+
+36
+00:03:24,540 --> 00:03:34,540
+Ich habe gestern Abend eine Tablette Paracetamol genommen, aber es hat mir nicht viel geholfen.
+
+37
+00:03:34,540 --> 00:03:35,740
+Okay.
+
+38
+00:03:35,740 --> 00:03:36,700
+Hat nicht geholfen.
+
+39
+00:03:36,700 --> 00:03:57,020
+Sie haben gesagt, Sie haben Atemnot. Ist das diesem Atemnot belastungabhängig, oder?
+
+40
+00:03:57,420 --> 00:04:01,740
+Ja, aber ich belaste mich nicht groß. Das ist mir viel zu anstrengend.
+
+41
+00:04:01,740 --> 00:04:06,300
+Selbst wenn ich so in Ruhe und jetzt hier sitze, habe ich auch das Gefühl,
+
+42
+00:04:06,300 --> 00:04:08,780
+dass ich Atemnot habe, in Schlechtluft bekomme.
+
+43
+00:04:08,780 --> 00:04:18,490
+Okay, ganz schnell. Und es tut mir sehr leid, dass Sie solche Beschwerden haben.
+
+44
+00:04:18,490 --> 00:04:27,240
+Wie ist Ihnen Ihr Appetit?
+
+45
+00:04:27,800 --> 00:04:34,600
+Ja, jetzt seit einer Woche, seitdem ich die Erkältung habe und besonders in den letzten Tagen ist der Appetit nicht so gut.
+
+46
+00:04:34,600 --> 00:04:37,080
+Das schmeckt mir nicht so.
+
+47
+00:04:37,080 --> 00:04:43,400
+Okay, haben Sie in der letzten Zeit vielleicht ab- oder zugenommen?
+
+48
+00:04:43,400 --> 00:04:45,720
+Nein, ich habe mein Gewicht gehalten.
+
+49
+00:04:45,720 --> 00:04:50,520
+Schlafen Sie gut oder wegen diesen Beschwerden?
+
+50
+00:04:50,520 --> 00:04:57,160
+Normalerweise schlafe ich ganz gut, aber jetzt in den letzten Tagen mit den Beschwerden und dem Husten nicht so gut.
+
+51
+00:04:58,120 --> 00:05:03,960
+Okay, ganz schnell. Hatte Sie Übelkeit oder Erbrochen?
+
+52
+00:05:03,960 --> 00:05:08,600
+Erbrochen habe ich nicht, aber etwas übel ist mir.
+
+53
+00:05:08,600 --> 00:05:14,440
+Gibt es Probleme beim Wasserlassen oder Stüllgang?
+
+54
+00:05:14,440 --> 00:05:16,440
+Nein, nein.
+
+55
+00:05:16,440 --> 00:05:18,440
+Okay.
+
+56
+00:05:18,760 --> 00:05:30,580
+Haben Sie Atemnot beim Zerpen gestiegen?
+
+57
+00:05:30,580 --> 00:05:37,140
+Ja, aber ich bin in den letzten Tagen wenig Treppen gestiegen, weil ich mich einfach nicht gut gefühlt habe.
+
+58
+00:05:37,140 --> 00:05:40,340
+Aber es strengt mich alles sehr stark an.
+
+59
+00:05:40,340 --> 00:05:44,260
+Okay. Haben Sie Nachschweiß?
+
+60
+00:05:44,260 --> 00:05:48,100
+In den letzten Nächten habe ich stärker geschwitzt, ja.
+
+61
+00:05:48,260 --> 00:05:58,180
+Okay. Herr Klischoff, haben Sie irgendwelche Vorerkrankungen?
+
+62
+00:05:58,180 --> 00:06:04,100
+Nein, eigentlich geht es mir ganz gut. Ich fühle mich eigentlich sonst ganz wohl.
+
+63
+00:06:04,100 --> 00:06:11,780
+Ich nehme auch sonst gar keine Medikamente ein. Aber wie gesagt, jetzt geht es mir nicht gut.
+
+64
+00:06:11,780 --> 00:06:17,220
+Okay, okay, verstehe. Und haben Sie Allergen?
+
+65
+00:06:17,220 --> 00:06:19,700
+Ist mir nicht bekannt.
+
+66
+00:06:20,020 --> 00:06:25,220
+Okay. Herr Klischoff, rauchen Sie?
+
+67
+00:06:25,220 --> 00:06:34,340
+Ja, ich rauche. Ich rauche schon länger, seit vielleicht 20, 22 Jahren. Jeden Tag eine Schachtel.
+
+68
+00:06:34,340 --> 00:06:36,340
+Jeden Tag eine Schachtel, okay.
+
+69
+00:06:36,340 --> 00:06:40,860
+Ja.
+
+70
+00:06:40,860 --> 00:06:42,860
+Trinken Sie auch Alkohol?
+
+71
+00:06:42,860 --> 00:06:46,300
+Ja, aber wenig. Eine Flasche Bier vielleicht pro Woche.
+
+72
+00:06:46,300 --> 00:06:59,830
+Wie geht es Ihren Eltern? Sind Sie auch gesund oder?
+
+73
+00:06:59,830 --> 00:07:12,870
+Der Eltern? Also mein Vater hatte Lungenkrebs. Da ist er verstorben. Da war er 66 Jahre alt.
+
+74
+00:07:12,870 --> 00:07:23,350
+Und die Mutter, die ist 70 Jahre alt. Die lebt noch. Die hat etwas Zucker, Alterszucker.
+
+75
+00:07:23,350 --> 00:07:32,150
+Und hat vor fünf Jahren eine Gallenblasenoperation, Gallenblasenentfernung.
+
+76
+00:07:32,150 --> 00:07:34,870
+Ja.
+
+77
+00:07:34,870 --> 00:07:38,150
+Okay. Haben Sie schon einmal operiert?
+
+78
+00:07:39,110 --> 00:07:46,790
+Ich bin schon einmal operiert worden, ja. Als Kind, da war ich vielleicht neun Jahre alt am Blinddarm.
+
+79
+00:07:46,790 --> 00:07:56,470
+Und dann mit 19 Jahren hatte ich eine Knieverletzung, Meniscusoperation.
+
+80
+00:07:56,470 --> 00:08:03,510
+Hatte ich eine Spiegelung, Kniegelenkspiegelung. Und da wurde der Meniscus operiert.
+
+81
+00:08:03,510 --> 00:08:07,270
+Ist das dieser Operation komplikationlos?
+
+82
+00:08:07,350 --> 00:08:14,790
+Ja, das war ganz gut. Und vor zwei Jahren hatte ich einen Leistenbruch auf der linken Seite.
+
+83
+00:08:14,790 --> 00:08:20,740
+Und wurde am Leistenbruch operiert.
+
+84
+00:08:20,740 --> 00:08:23,380
+Vor zwei Jahren?
+
+85
+00:08:23,380 --> 00:08:25,380
+Vor zwei Jahren.
+
+86
+00:08:25,380 --> 00:08:30,100
+Ich verstehe. Sind Sie verheiratet?
+
+87
+00:08:30,180 --> 00:08:37,620
+Ja, ich bin verheiratet. Wohne mit meiner Frau und unserer Tochter zusammen. Die ist elf Jahre alt.
+
+88
+00:08:41,340 --> 00:08:43,820
+Was machen Sie unbegrüßlich?
+
+89
+00:08:43,820 --> 00:08:45,820
+Ich bin Busfahrer.
+
+90
+00:08:45,820 --> 00:08:51,240
+Busfahrer. Okay.
+
+91
+00:08:52,200 --> 00:09:05,480
+Sie haben diese Zeit eine Woche. Sie haben Erkältung. Aber in den letzten zwei Tagen haben Sie Fieber mit Gelb- und Braunauspuff.
+
+92
+00:09:05,480 --> 00:09:12,440
+Sie haben auch Dyspne. Und Sie haben diese Dyspne auch wenn Sie sitzen.
+
+93
+00:09:12,440 --> 00:09:14,440
+Was ist Dyspne?
+
+94
+00:09:14,440 --> 00:09:16,440
+Oh, was ist das?
+
+95
+00:09:16,440 --> 00:09:19,640
+Entschuldigung. Ich meine für einen Fehler. Dyspne bedeutet Atemnot.
+
+96
+00:09:19,720 --> 00:09:21,720
+Ach so, Atemnot. Ja, Atemnot habe ich.
+
+97
+00:09:21,720 --> 00:09:31,160
+Entschuldigung. Sie haben gestern Pfeilsetzermol genommen. Aber nicht so gut.
+
+98
+00:09:31,160 --> 00:09:35,640
+Das waren alle wichtigen Punkte, oder?
+
+99
+00:09:35,640 --> 00:09:37,640
+Ja.
+
+100
+00:09:37,640 --> 00:09:39,640
+Haben Sie noch etwas?
+
+101
+00:09:39,640 --> 00:09:41,640
+Nein, habe ich nicht.
+
+102
+00:09:41,640 --> 00:09:48,120
+Okay. Vielen Dank.
+
+103
+00:09:48,120 --> 00:09:55,160
+Ich habe jetzt alle notwendigen Informationen. Haben Sie Fragen?
+
+104
+00:09:55,160 --> 00:10:01,160
+Ja, ich hoffe, dass Sie mir bald helfen können. Weil es geht mir nicht gut.
+
+105
+00:10:01,160 --> 00:10:09,560
+Okay. Keine Sorge. Wir sind hier für Sie. Und Sie sind in guten Hand.
+
+106
+00:10:09,560 --> 00:10:11,560
+Okay.
+
+107
+00:10:11,560 --> 00:10:35,080
+Ich denke, Sie haben Lungenentzündung. Und wir werden Ihnen etwas machen, um diese Diagnose zu erklären.
+
+108
+00:10:35,080 --> 00:10:37,080
+Okay.
+
+109
+00:10:37,560 --> 00:10:47,560
+Und dann um diese Sicherheit zu erklären, sind noch einige Untersuchungen notwendig.
+
+110
+00:10:47,560 --> 00:10:49,560
+Okay.
+
+111
+00:10:49,560 --> 00:10:53,560
+Nachdem wir alle Ergebnisse vorliegen haben, werden wir die Diagnose bestätigen.
+
+112
+00:10:53,560 --> 00:10:55,560
+Okay, das können wir so machen.
+
+113
+00:10:55,560 --> 00:11:00,840
+Gut, dann haben Sie jetzt etwas Zeit sich vorzubereiten für die Vorstellung gleich.
+
+114
+00:11:00,840 --> 00:11:08,840
+Dann denken Sie an die Fachbegriffe für Leistendruch oder Blinddarmoperation, Blasenblasen usw.
+
+115
+00:11:08,840 --> 00:11:14,840
+Und die Kollegen, die zugehört haben, haben vielleicht noch Ergänzungsfragen.
+
+116
+00:11:14,840 --> 00:11:27,270
+Oder sind alle Fragen soweit gestellt, die notwendig sind.
+
+117
+00:11:27,270 --> 00:11:40,780
+Man könnte noch fragen, haben Sie Schmerzen?
+
+118
+00:11:40,780 --> 00:11:42,780
+Ja.
+
+119
+00:11:42,780 --> 00:11:48,780
+Haben Sie Schmerzen? Tut es beim Atmen weh oder beim Husten?
+
+120
+00:11:48,780 --> 00:11:56,780
+Ja, etwas tut es weh auf der rechten Seite hinten, wenn ich Luft hole und wenn ich husten muss.
+
+121
+00:11:56,780 --> 00:12:02,780
+Dann ist das etwas schmerzhafter hinten am Rücken, so in Höhe des Schulterblattes.
+
+122
+00:12:02,780 --> 00:12:08,780
+Das ist so. Aber sonst habe ich den Schmerz nicht. Nur beim tiefen Atmen oder beim Husten.
+
+123
+00:12:08,780 --> 00:12:33,750
+Gut, ich lasse Sie dann jetzt etwas in Ruhe, dass Sie sich konzentrieren können.
+
+124
+00:12:33,750 --> 00:12:39,750
+Und einige Minuten und ich melde mich gleich wieder. Bis gleich.
+
+125
+00:12:41,750 --> 00:12:46,750
+Okay, guten Tag Herr Chefarzt. Ich möchte Ihnen einen Patienten vorstellen.
+
+126
+00:12:46,750 --> 00:12:48,750
+Haben Sie Zeit? Ja, habe ich.
+
+127
+00:12:48,750 --> 00:12:57,750
+Okay, danke. Es handelt sich um einen 5- und 4-jährigen Patienten namens Michael Kirchhoff,
+
+128
+00:12:57,750 --> 00:13:04,750
+der sich heute wegen Fieber und Auswurf bei uns vorgestellt hat.
+
+129
+00:13:04,750 --> 00:13:14,750
+Die Beschwerden bestehen seit zwei Tagen und diesem Auswurf sei gelb und braun.
+
+130
+00:13:14,750 --> 00:13:22,750
+Die Beschwerden seien bei Belastungsverstärken.
+
+131
+00:13:22,750 --> 00:13:42,750
+Begleitend berichtete er die Spneu-Auswurf Neusea und Insomnia wegen der Auswurf und Spneu.
+
+132
+00:13:43,750 --> 00:13:50,750
+Okay, darf ich einmal kurz unterbrechen? Sie haben berichtet, dass Herr Kirchhoff 45 Jahre alt ist.
+
+133
+00:13:50,750 --> 00:13:56,750
+Sie haben gesagt, seit zwei Tagen hat er Beschwerden. Hat er nicht seit einer Woche schon Beschwerden?
+
+134
+00:13:56,750 --> 00:14:02,750
+Seit einer Woche ist er erkältet, hat er eine Erkältung. Seit zwei Tagen hat er...
+
+135
+00:14:02,750 --> 00:14:08,750
+Diese Beschwerden. Fieber und Auswurf.
+
+136
+00:14:08,750 --> 00:14:15,750
+Ja, sagen Sie ruhig, seit zwei Tagen bestehen febrile Temperaturen von 38,8.
+
+137
+00:14:15,750 --> 00:14:25,750
+Sagen Sie ruhig die Höhe des Fiebers dazu. Weil Fieber beginnt bei 38, aber es kann ja auch 39,5 sein oder so.
+
+138
+00:14:25,750 --> 00:14:33,750
+Sagen Sie ruhig dann wie hoch? Febrile Temperaturen von 38,8.
+
+139
+00:14:33,750 --> 00:14:39,750
+Man könnte noch fragen, wo haben Sie das gemessen? Oral? Oral gemessen.
+
+140
+00:14:39,750 --> 00:14:53,750
+Und es besteht Tussis produktiver Husten oder produktiver Tussis mit gelblich-braunem Auswurf oder Expectoranz.
+
+141
+00:14:53,750 --> 00:14:58,750
+Expectoranz, um bei den Fachbegriffen zu bleiben.
+
+142
+00:14:58,750 --> 00:15:05,750
+Und Sie haben berichtet, der Patient hat auch eine Belastungsdispneu.
+
+143
+00:15:05,750 --> 00:15:11,420
+Ja. Hat der Patient auch Schmerzen?
+
+144
+00:15:11,420 --> 00:15:24,420
+Ja, er hat auch gesagt, er hat Schmerzen und das Schmerzen ist einseitig.
+
+145
+00:15:24,420 --> 00:15:28,420
+Wo hat er die Schmerzen? Wissen Sie das noch?
+
+146
+00:15:28,420 --> 00:15:30,420
+Rechts hinten.
+
+147
+00:15:30,420 --> 00:15:37,420
+Ja, rechts hinten. Da würden wir sagen rechts dorsal.
+
+148
+00:15:37,420 --> 00:15:42,420
+Und zwar hat er gesagt, der Schmerz ist besonders bei Inspiration.
+
+149
+00:15:42,420 --> 00:15:50,420
+Beim Einatmen und beim Husten. Also der Schmerz ist atem- und hustenabhängig.
+
+150
+00:15:50,420 --> 00:15:54,420
+Der Schmerz. Okay.
+
+151
+00:15:54,420 --> 00:16:03,420
+Gegen diese Beschwerden nehme er gestern Porecetamol, was ja nicht helfen.
+
+152
+00:16:03,420 --> 00:16:14,420
+Bis auf Nachschweiß, Insomni und Nausea ergeben sich keine Auffälligkeiten.
+
+153
+00:16:14,420 --> 00:16:20,420
+Und die Frage nach der Vorerkrankung wurde verneint.
+
+154
+00:16:20,420 --> 00:16:38,420
+Operationen Appendektomie im neun Jahren, Menuskisch-OP im neunzigen Jahre und vor zwei Jahren Leistung Herni-OP.
+
+155
+00:16:38,420 --> 00:16:44,420
+Ja, eine Leistung Inguinal-Herni.
+
+156
+00:16:44,420 --> 00:16:48,420
+Oder vor zwei Jahren eine Herniotomie.
+
+157
+00:16:48,420 --> 00:16:53,420
+Herniotomie ist der Oberbegriff für Hernion-OP.
+
+158
+00:16:53,420 --> 00:16:56,420
+Herniotomie einer Inguinal-Herni links.
+
+159
+00:16:56,420 --> 00:17:02,420
+Und die Meniskus-Operation, können Sie sich noch erinnern?
+
+160
+00:17:02,420 --> 00:17:09,420
+War das eine offene Meniskus-Operation oder eine endoskopische, laproskopische?
+
+161
+00:17:09,420 --> 00:17:15,420
+War das eine Kniegelenk-Spiegelung?
+
+162
+00:17:15,420 --> 00:17:18,420
+Ja. Und?
+
+163
+00:17:18,420 --> 00:17:24,420
+Atroskopisch, also eine atroskopische Meniskus-Teilresektion.
+
+164
+00:17:24,420 --> 00:17:27,420
+Wahrscheinlich war es eine Teilresektion.
+
+165
+00:17:27,420 --> 00:17:32,420
+Gut, das war mit dem Alter von 19 Jahren. Sehr gut.
+
+166
+00:17:32,420 --> 00:17:37,420
+Gibt es Auffälligkeiten in der Familienanamnese?
+
+167
+00:17:37,420 --> 00:17:49,420
+Ja, sein Vater, auch Bronchialkrebs, ist an Bronchialkrebs gestorben.
+
+168
+00:17:49,420 --> 00:17:55,420
+Ja, sagen Sie mir den Fachbegriff, medizinischen Begriff, für Bronchialkrebs.
+
+169
+00:17:55,420 --> 00:17:57,420
+Bronchialkrebs?
+
+170
+00:17:57,420 --> 00:17:59,420
+Bronchialkarzinom.
+
+171
+00:17:59,420 --> 00:18:01,420
+Bronchialkarzinom, ok.
+
+172
+00:18:01,420 --> 00:18:05,420
+Bronchialkarzinom oder Bronchialneoplasma-karzinom.
+
+173
+00:18:05,420 --> 00:18:08,420
+Wie alt war der Vater da, als er verstorben ist?
+
+174
+00:18:08,420 --> 00:18:10,420
+66.
+
+175
+00:18:10,420 --> 00:18:12,420
+66, also relativ jung.
+
+176
+00:18:12,420 --> 00:18:18,420
+Der Vater ist im Alter von 66 Jahren an einem Bronchialkarzinom verstorben.
+
+177
+00:18:18,420 --> 00:18:20,420
+Und die Mutter?
+
+178
+00:18:20,420 --> 00:18:38,100
+Die Mutter hat Diabetes-Meni-Typ 2 und Cholelytiasis und sie ist 70 Jahre alt.
+
+179
+00:18:38,100 --> 00:18:49,100
+Ja, aber die Mutter ist ja an dieser Cholelytiasis operiert worden.
+
+180
+00:18:49,100 --> 00:18:52,100
+Eine Gallenblasenentfernung hatte sie.
+
+181
+00:18:52,100 --> 00:18:54,100
+Ok.
+
+182
+00:18:54,100 --> 00:18:59,100
+Und kennen Sie den Fachbegriff für Gallenblasenentfernung?
+
+183
+00:18:59,100 --> 00:19:01,100
+Gallenblasenoperation?
+
+184
+00:19:01,100 --> 00:19:03,100
+Cholelystisch-Dectami.
+
+185
+00:19:03,100 --> 00:19:05,100
+Genau, Sie kennen die Fachbegriffe alle.
+
+186
+00:19:05,100 --> 00:19:07,100
+Sie müssen sie nur einsetzen.
+
+187
+00:19:07,100 --> 00:19:09,100
+Gebrauchen Sie die.
+
+188
+00:19:09,100 --> 00:19:12,100
+Gibt es Geschwister?
+
+189
+00:19:12,100 --> 00:19:16,100
+Keine Geschwister.
+
+190
+00:19:16,100 --> 00:19:19,100
+Sie haben nicht gefragt.
+
+191
+00:19:19,100 --> 00:19:25,100
+Es gibt einen Bruder, der hat hohen Blutdruck.
+
+192
+00:19:25,100 --> 00:19:27,100
+Den gibt es.
+
+193
+00:19:27,100 --> 00:19:35,100
+Und dieser Bruder hat auch noch eine hohe Harnsäure und einen Gichtanfall gehabt.
+
+194
+00:19:35,100 --> 00:19:40,100
+Also Hyperurichämie und Arthritis urica.
+
+195
+00:19:40,100 --> 00:19:46,100
+Und dann auch noch den Begriff arterielle Hypertonie als Fachbegriff.
+
+196
+00:19:46,100 --> 00:19:48,100
+Gut.
+
+197
+00:19:48,100 --> 00:19:51,100
+Gibt es sonstige Risikofaktoren bei den Patienten?
+
+198
+00:19:51,100 --> 00:20:07,100
+Ja, unsere Patienten haben jeden Tag eine Schachtel seit 35 Jahren.
+
+199
+00:20:07,100 --> 00:20:09,100
+22 Jahre.
+
+200
+00:20:09,100 --> 00:20:12,100
+22 habe ich gesagt.
+
+201
+00:20:12,100 --> 00:20:14,100
+22?
+
+202
+00:20:15,100 --> 00:20:17,100
+Eine Schachtel pro Tag.
+
+203
+00:20:17,100 --> 00:20:19,100
+Was würden Sie sagen?
+
+204
+00:20:19,100 --> 00:20:21,100
+Da gibt es einen Begriff.
+
+205
+00:20:21,100 --> 00:20:25,100
+Wenn man sagt die Dosis und die Dauer.
+
+206
+00:20:25,100 --> 00:20:28,100
+Denken Sie an Packages.
+
+207
+00:20:28,100 --> 00:20:36,100
+Also es besteht, man kann ruhig sagen, es besteht ein erheblicher Nikotinkonsum.
+
+208
+00:20:36,100 --> 00:20:41,100
+Erheblicher Nikotinkonsum von 22 Packages.
+
+209
+00:20:42,100 --> 00:20:45,100
+Das ist schon eine ganze Menge.
+
+210
+00:20:45,100 --> 00:20:47,100
+Ja.
+
+211
+00:20:47,100 --> 00:20:55,100
+Auch eine Flasche Bier pro Heer.
+
+212
+00:20:55,100 --> 00:20:57,100
+Das ist jetzt nicht so.
+
+213
+00:20:57,100 --> 00:21:00,100
+Für deutsche Verhältnisse nicht so viel.
+
+214
+00:21:00,100 --> 00:21:04,100
+Ist der Patient geimpft?
+
+215
+00:21:04,100 --> 00:21:08,100
+Ich habe nicht geimpft.
+
+216
+00:21:08,100 --> 00:21:11,100
+Das wurde nicht gefragt.
+
+217
+00:21:11,100 --> 00:21:16,100
+Wäre vielleicht bei Fieberpatienten mit Husten und so ganz gut zu fragen,
+
+218
+00:21:16,100 --> 00:21:18,100
+sind sie geimpft?
+
+219
+00:21:18,100 --> 00:21:21,100
+Der Patient würde antworten.
+
+220
+00:21:21,100 --> 00:21:25,100
+Normalerweise bin ich regelmäßig beim Betriebsarzt.
+
+221
+00:21:25,100 --> 00:21:28,100
+Auch als Busfahrer werde ich geimpft.
+
+222
+00:21:28,100 --> 00:21:31,100
+Weil da viele kranke Menschen in meinen Bus steigen.
+
+223
+00:21:31,100 --> 00:21:36,100
+Ich habe aber im letzten Herbst, habe ich weder eine Grippeimpfung gemacht,
+
+224
+00:21:36,100 --> 00:21:39,100
+noch eine Impfung gegen Covid.
+
+225
+00:21:39,100 --> 00:21:43,100
+Das hat er im letzten Herbst untervergessen.
+
+226
+00:21:43,100 --> 00:21:47,100
+Sonst lässt er sich immer regelmäßig impfen.
+
+227
+00:21:47,100 --> 00:21:51,100
+Gut, wir haben also einen Patienten, 45 Jahre alt,
+
+228
+00:21:51,100 --> 00:21:55,100
+der seit einer Woche eine Erkältung hat.
+
+229
+00:21:55,100 --> 00:21:58,100
+Sagen wir einen viralen Infekt.
+
+230
+00:21:58,100 --> 00:22:04,100
+Allerdings seit zwei Tagen bestehen febril Temperaturen bis 38,8.
+
+231
+00:22:04,100 --> 00:22:09,100
+Verbunden mit Tussis und Expektoranz.
+
+232
+00:22:09,100 --> 00:22:12,100
+Gelblich-bräunliches Expektoranz.
+
+233
+00:22:12,100 --> 00:22:18,100
+Es besteht ein inspiratorischer und Hustenschmerz rechtsdorsal.
+
+234
+00:22:18,100 --> 00:22:21,100
+Das berichtet der Patient.
+
+235
+00:22:21,100 --> 00:22:25,100
+Er fühlt sich abgeschlagen, matt.
+
+236
+00:22:25,100 --> 00:22:32,100
+Er hat eine Dyspnoe, sogar fast schon eine Ruhedyspnoe.
+
+237
+00:22:32,100 --> 00:22:38,100
+Es besteht ein Nikotin-Abusus von 22 Packages.
+
+238
+00:22:38,100 --> 00:22:42,100
+Er nimmt keine regelmäßigen Medikamente ein.
+
+239
+00:22:42,100 --> 00:22:47,100
+Der Vater ist im Alter von 66 Jahren an einem Bronchialkarzinom verstorben.
+
+240
+00:22:47,100 --> 00:22:54,100
+Das wären für mich die wesentlichen Punkte in dieser Anamnese.
+
+241
+00:22:54,100 --> 00:22:58,100
+Die ich jetzt erstmal zusammenfassen würde.
+
+242
+00:22:58,100 --> 00:23:03,100
+Jetzt frage ich Sie, was ist Ihre Verdachtsdiagnose?
+
+243
+00:23:03,100 --> 00:23:10,100
+Als Verdachtsdiagnose denke ich Pneumonie.
+
+244
+00:23:10,100 --> 00:23:21,100
+Aber als Differenzialdiagnose auch Borupschelkarzinom und M-Boli denke ich.
+
+245
+00:23:21,100 --> 00:23:25,100
+Als erstes Verdachtsdiagnose.
+
+246
+00:23:25,100 --> 00:23:28,100
+Verdacht auf Bronchiopneumonie.
+
+247
+00:23:28,100 --> 00:23:34,100
+Rechts Dorsal, rechtes Unterfeld, rechter Lappen.
+
+248
+00:23:34,100 --> 00:23:41,100
+Differenzialdiagnostisch muss man an einen Bronchialkarzinom denken.
+
+249
+00:23:41,100 --> 00:23:44,100
+Der Patient ist relativ jung.
+
+250
+00:23:44,100 --> 00:23:47,100
+Aber auch das gibt es.
+
+251
+00:23:47,100 --> 00:23:50,100
+Er hat einen langjährigen Nikotinkonsum.
+
+252
+00:23:50,100 --> 00:23:54,100
+Er hat eine sehr vereinten Vorbelastung durch den Vater.
+
+253
+00:23:54,100 --> 00:23:58,100
+Stimme ich Ihnen zu. Danke.
+
+254
+00:23:58,100 --> 00:24:04,100
+Erstmal finde ich, Sie haben das ruhig und gut gemacht.
+
+255
+00:24:04,100 --> 00:24:09,100
+Bestimmte Fragen sollten Sie immer stellen nach Schmerzen.
+
+256
+00:24:09,100 --> 00:24:13,100
+Das sollten Sie in diesem Fall auch stellen, haben Sie Schmerzen.
+
+257
+00:24:13,100 --> 00:24:15,100
+Wenn Sie atmen zum Beispiel.
+
+258
+00:24:15,100 --> 00:24:18,100
+Es gibt ja auch eine Pleuritis zum Beispiel.
+
+259
+00:24:18,100 --> 00:24:22,100
+Es muss schmerzhaft sein, dass das noch mal hinkommt.
+
+260
+00:24:22,100 --> 00:24:26,100
+Er hat etwas Schmerzen und er raucht.
+
+261
+00:24:26,100 --> 00:24:36,100
+Der gelblich-bräunliche Auswurf kann natürlich auch auf eine Pneumonie hinweisen.
+
+262
+00:24:36,100 --> 00:24:38,100
+Es muss ja nicht immer blutig sein.
+
+263
+00:24:38,100 --> 00:24:45,100
+Aber ein bräunlicher, brauner Auswurf kann oft ein Hinweis sein auf eine Bronchiopneumonie.
+
+264
+00:24:45,100 --> 00:24:56,100
+Ich würde vorsichtig sein, dem Patienten gegenüber sehr früh eine Diagnose zu stellen.
+
+265
+00:24:56,100 --> 00:25:00,100
+Der Patient hat schon sehr früh gesagt, was kann ich haben.
+
+266
+00:25:00,100 --> 00:25:06,100
+Da haben Sie sehr früh gesagt, das war klinisch schon, lag das auf der Hand.
+
+267
+00:25:06,100 --> 00:25:10,100
+Ich denke, Sie haben eine Lungenentzündung.
+
+268
+00:25:10,100 --> 00:25:12,100
+Das kann man machen.
+
+269
+00:25:12,100 --> 00:25:15,100
+Aber ich würde damit noch abwarten.
+
+270
+00:25:15,100 --> 00:25:26,100
+Sagen Sie dem Patienten, Sie haben sicherlich eine ernstzunehmende Infektion oder Entzündung in Ihren Atemwegen.
+
+271
+00:25:26,100 --> 00:25:29,100
+Ich würde es ein bisschen offen lassen.
+
+272
+00:25:29,100 --> 00:25:32,100
+Noch nicht gleich sagen Sie haben eine Lungenentzündung.
+
+273
+00:25:32,100 --> 00:25:36,100
+Ich würde sagen, Sie haben wahrscheinlich eine Infektion in den Atemwegen.
+
+274
+00:25:36,100 --> 00:25:40,100
+Das müssen wir noch genau abklären.
+
+275
+00:25:40,100 --> 00:25:43,100
+Dafür müssen wir Sie auch stationär aufnehmen.
+
+276
+00:25:43,100 --> 00:25:45,100
+Wir müssen die Lunge röntgen.
+
+277
+00:25:45,100 --> 00:25:47,100
+Wir müssen Laboruntersuchungen machen.
+
+278
+00:25:47,100 --> 00:25:50,100
+Zuallererst möchte ich Sie körperlich untersuchen.
+
+279
+00:25:50,100 --> 00:25:52,100
+Ganz wichtig.
+
+280
+00:25:52,100 --> 00:25:54,100
+Ganz wichtiger Aspekt auch für die Prüfung.
+
+281
+00:25:54,100 --> 00:25:57,100
+Die körperliche Untersuchung ist der nächste Schritt.
+
+282
+00:25:57,100 --> 00:26:01,100
+Und dann entscheiden Sie, wie es weitergeht.
+
+283
+00:26:01,100 --> 00:26:03,100
+Bildgebung, was auch immer.
+
+284
+00:26:03,100 --> 00:26:06,100
+EKG, Labor und so weiter.
+
+285
+00:26:06,100 --> 00:26:10,100
+Aber ich würde nicht zu früh eine Diagnose gegenüber dem Patienten stellen.
+
+286
+00:26:10,100 --> 00:26:25,100
+Unter dem Kurs hat unsere Lehrerin gesagt, wenn die Patientin fragt, was habe ich, sie müssen sagen, was denken Sie?
+
+287
+00:26:25,100 --> 00:26:27,100
+Ja, was Sie denken.
+
+288
+00:26:27,100 --> 00:26:29,100
+Aber lassen Sie es etwas offen.
+
+289
+00:26:29,100 --> 00:26:35,100
+Wenn Sie sagen, Sie haben eine Infektion in den Atemwegen.
+
+290
+00:26:35,100 --> 00:26:37,100
+Dann haben Sie ja recht.
+
+291
+00:26:37,100 --> 00:26:43,100
+Dann deckt das auch die Bronchiopneumonie oder die Lungenentzündung ab.
+
+292
+00:26:43,100 --> 00:26:47,100
+Aber ich würde weitere Sachen noch nicht sagen.
+
+293
+00:26:47,100 --> 00:26:54,100
+Sie machen ja nichts falsch, wenn Sie sagen, Sie haben eine Entzündung in Ihren Atemwegen.
+
+294
+00:26:54,100 --> 00:26:55,100
+Das glaube ich.
+
+295
+00:26:55,100 --> 00:26:57,100
+Und das müssen wir genau untersuchen.
+
+296
+00:26:57,100 --> 00:27:04,100
+Weil das wäre natürlich, ja, manche Dinge, wenn man sie schildert als Patient,
+
+297
+00:27:04,100 --> 00:27:08,100
+dann ist der Arzt plötzlich ganz schnell und sagt, ja, das ist die Diagnose.
+
+298
+00:27:08,100 --> 00:27:10,100
+Und das kann gefährlich sein.
+
+299
+00:27:10,100 --> 00:27:13,100
+Dass die da wirklich noch offen sind.
+
+300
+00:27:13,100 --> 00:27:15,100
+Ergebnis offen.
+
+301
+00:27:15,100 --> 00:27:18,100
+Und dann lieber sagen, jetzt untersuche ich.
+
+302
+00:27:18,100 --> 00:27:21,100
+Ich auskultiere, ich perkultiere.
+
+303
+00:27:21,100 --> 00:27:27,100
+Und ich höre vielleicht typische Atemgeräusche, die auf eine Pneumonie hinweisen.
+
+304
+00:27:27,100 --> 00:27:30,100
+Aber es gibt auch Pneumonien, die hören wir nicht immer.
+
+305
+00:27:30,100 --> 00:27:33,100
+Wenn sie sehr tief liegen, dann können wir nicht das immer hören.
+
+306
+00:27:33,100 --> 00:27:36,100
+Das kommt dann das Röntgenbild vielleicht dazu.
+
+307
+00:27:36,100 --> 00:27:37,100
+Okay.
+
+308
+00:27:37,100 --> 00:27:39,100
+Das war ein bisschen schief.
+
+309
+00:27:39,100 --> 00:27:42,100
+Ich würde etwas vorsichtig sein.
+
+310
+00:27:42,100 --> 00:27:45,100
+Sie kennen viele Fachbegriffe.
+
+311
+00:27:45,100 --> 00:27:47,100
+Sie müssen sie aber auch einsetzen.
+
+312
+00:27:47,100 --> 00:27:51,100
+Denken Sie dran, Bronchalkrebs.
+
+313
+00:27:51,100 --> 00:27:55,100
+Versuchen Sie das dann zu sagen Bronchalkartinom.
+
+314
+00:27:55,100 --> 00:27:57,100
+Oder so etwas.
+
+315
+00:27:57,100 --> 00:27:59,100
+Aber Sie wissen die Begriffe.
+
+316
+00:27:59,100 --> 00:28:02,100
+Sie müssen sie wie gesagt nur transportieren.
+
+317
+00:28:02,100 --> 00:28:09,100
+In meinen Notizen habe ich Bronchalkartinom geschrieben.
+
+318
+00:28:09,100 --> 00:28:11,100
+Aber wenn ich sage.
+
+319
+00:28:11,100 --> 00:28:17,100
+Ja, das ist natürlich auch die Situation in der Prüfung.
+
+320
+00:28:17,100 --> 00:28:19,100
+Das ist klar.
+
+321
+00:28:19,100 --> 00:28:22,100
+Deswegen versuchen wir das ja auch zu simulieren.
+
+322
+00:28:22,100 --> 00:28:26,100
+Haben Sie denn einen Prüfungstermin?
+
+323
+00:28:26,100 --> 00:28:29,100
+Ja, ich habe 10 Tage.
+
+324
+00:28:29,100 --> 00:28:32,100
+Ja, habe ich ein gutes Gefühl.
+
+325
+00:28:32,100 --> 00:28:34,100
+Machen Sie das ganz systematisch.
+
+326
+00:28:34,100 --> 00:28:38,100
+Versuchen Sie die Fachbegriffe in dieser Vorbereitung zu finden.
+
+327
+00:28:38,100 --> 00:28:41,100
+Und nach wie vor ist meine Meinung.
+
+328
+00:28:41,100 --> 00:28:44,100
+Machen Sie unkomplizierte Sätze.
+
+329
+00:28:44,100 --> 00:28:50,100
+Die deutsche Grammatik ist gemein und riskant.
+
+330
+00:28:50,100 --> 00:28:53,100
+Deswegen bin ich immer dafür.
+
+331
+00:28:53,100 --> 00:28:56,100
+Ich lieber nicht zu lange Sätze machen.
+
+332
+00:28:56,100 --> 00:29:00,100
+Dann lieber stoppen und einen neuen Satz beginnen.
+
+333
+00:29:00,100 --> 00:29:04,100
+Das ist manchmal leichter.
+
+334
+00:29:04,100 --> 00:29:08,100
+Ich gehe davon aus.
+
+335
+00:29:08,100 --> 00:29:11,100
+Der Ramadan dauert ja noch.
