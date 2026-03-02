@@ -1,0 +1,1291 @@
+1
+00:00:00,000 --> 00:00:09,000
+Guten Tag, mein Name ist Keskin. Ich bin der zuständige Arzt für Sie. Ich würde mich gerne mit Ihnen das Analysegespräch führen.
+
+2
+00:00:09,000 --> 00:00:13,000
+Oh, na klar, gerne.
+
+3
+00:00:13,000 --> 00:00:15,000
+Wie heißen Sie?
+
+4
+00:00:15,000 --> 00:00:21,310
+Mein Name ist Sabine Krüger. Ich bin eine Frau.
+
+5
+00:00:22,310 --> 00:00:40,310
+Ich bestabiere S, Ihre Vorname, S, A, B, I wie Ida, N, I wie Emily, Krüger, K, R, Ü, G, I wie Emily und R.
+
+6
+00:00:40,310 --> 00:00:41,310
+Richtig.
+
+7
+00:00:41,310 --> 00:00:44,310
+Frau Krüger, wie alt sind Sie und wann sind Sie geboren?
+
+8
+00:00:44,310 --> 00:00:50,310
+Ich bin 71 Jahre alt. Ich bin geboren am 17. Mai 1954.
+
+9
+00:00:58,700 --> 00:01:04,700
+Ich bin 1,65 Meter groß und wiege 85 Kilogramm.
+
+10
+00:01:04,700 --> 00:01:13,020
+Frau Krüger, was führt Sie zu uns heute?
+
+11
+00:01:13,020 --> 00:01:25,020
+Also ich habe jetzt schon ungefähr seit 6 bis 7 Tagen Herzklopfen und heute habe ich bemerkt, dass auch meine Beine dick geworden sind.
+
+12
+00:01:25,020 --> 00:01:36,780
+Haben Sie Herzrasen?
+
+13
+00:01:36,780 --> 00:01:38,780
+Seit heute Morgen auch.
+
+14
+00:01:38,780 --> 00:01:50,990
+Seit heute Morgen. Haben Sie Brustschmerzen?
+
+15
+00:01:50,990 --> 00:01:54,990
+Brustschmerzen habe ich nicht wirklich.
+
+16
+00:01:57,990 --> 00:01:59,990
+Ich habe eher dieses Herzklopfen.
+
+17
+00:01:59,990 --> 00:02:01,990
+Herzklopfen.
+
+18
+00:02:01,990 --> 00:02:05,990
+Haben Sie ein enger Gefühl in der Brust?
+
+19
+00:02:05,990 --> 00:02:09,990
+Nein, nicht wirklich. Nein.
+
+20
+00:02:09,990 --> 00:02:17,500
+Haben Sie Atemnot?
+
+21
+00:02:17,500 --> 00:02:20,500
+Ja, wenn ich mich belaste.
+
+22
+00:02:21,500 --> 00:02:29,290
+Wie viele Etagen können Sie beschwerdefrei hinaufgehen?
+
+23
+00:02:29,290 --> 00:02:39,990
+Zwei.
+
+24
+00:02:39,990 --> 00:02:45,560
+Brauchen Sie mehrere Kissen um ruhig schlafen zu können?
+
+25
+00:02:45,560 --> 00:02:48,560
+Nein, eigentlich nicht.
+
+26
+00:02:50,560 --> 00:02:56,560
+Müssen Sie wegen der Atemnot nachts aufwachen?
+
+27
+00:02:56,560 --> 00:03:00,900
+Ich stehe immer nachts auf.
+
+28
+00:03:01,900 --> 00:03:04,900
+Ich stehe auch ohne Atemnot nachts immer auf.
+
+29
+00:03:04,900 --> 00:03:06,900
+Warum?
+
+30
+00:03:06,900 --> 00:03:08,900
+Auf Toilette.
+
+31
+00:03:08,900 --> 00:03:10,900
+Auf Toilette.
+
+32
+00:03:10,900 --> 00:03:15,900
+Wie oft gehen Sie in der Toilette in der Nacht?
+
+33
+00:03:15,900 --> 00:03:17,900
+Ein bis zwei Mal.
+
+34
+00:03:17,900 --> 00:03:21,900
+Ein bis zwei Mal. Seit wann?
+
+35
+00:03:21,900 --> 00:03:23,900
+Schon lange.
+
+36
+00:03:23,900 --> 00:03:27,180
+Schon lange.
+
+37
+00:03:33,140 --> 00:03:40,140
+Frau Krüger, Sie haben schon gesagt, dass Ihre Beine dick geworden sind.
+
+38
+00:03:43,140 --> 00:03:48,140
+Haben Sie in der letzten Zeit zugenommen?
+
+39
+00:03:48,140 --> 00:03:51,140
+Ich habe mich nicht gewogen.
+
+40
+00:03:52,140 --> 00:04:03,030
+Hat sich Ihr Bauchumfang in letzter Zeit verändert?
+
+41
+00:04:03,030 --> 00:04:05,030
+Nein.
+
+42
+00:04:06,030 --> 00:04:15,150
+Hat sich Ihr Bauchumfang in letzter Zeit verändert?
+
+43
+00:04:15,150 --> 00:04:17,150
+Ja.
+
+44
+00:04:19,150 --> 00:04:23,150
+Können Sie bitte den Schwindel nachher beschreiben?
+
+45
+00:04:23,150 --> 00:04:31,150
+Ist er eher wie auf einem Boot oder im Karussel sitzen oder wie im Aufzug?
+
+46
+00:04:31,150 --> 00:04:41,150
+Ja, wenn ich mich bewege oder aufstehe, ist er eher wie auf einem Schiff.
+
+47
+00:04:41,150 --> 00:05:02,240
+Haben Sie noch andere Beschwerden?
+
+48
+00:05:02,240 --> 00:05:09,650
+Ja, ich bin in der letzten Zeit so schwach geworden.
+
+49
+00:05:10,650 --> 00:05:23,110
+Ich verstehe Sie.
+
+50
+00:05:26,110 --> 00:05:30,110
+Ist Ihr Bein gerätet oder überwärmt?
+
+51
+00:05:30,110 --> 00:05:32,110
+Nein.
+
+52
+00:05:42,810 --> 00:05:49,810
+Haben Sie einmal Ihre Pouze gemessen?
+
+53
+00:05:49,810 --> 00:06:05,660
+Ich habe ihn gemessen. Gestern war er über 100 und heute war er über 120.
+
+54
+00:06:05,660 --> 00:06:09,660
+Schlägt Ihr Herz regelmäßig oder unregelmäßig?
+
+55
+00:06:09,660 --> 00:06:11,660
+Unregelmäßig.
+
+56
+00:06:24,500 --> 00:06:30,500
+Frau Krüger, ich hätte jetzt einige Fragen zu Ihren Allgemeinen Gezündungszustand stellen.
+
+57
+00:06:30,500 --> 00:06:34,500
+Habt Ihr in letzter Zeit Fieber, Sperrprost oder Nachschweiß?
+
+58
+00:06:34,500 --> 00:06:40,730
+Nein.
+
+59
+00:06:40,730 --> 00:06:43,730
+Wie ist Ihr Appetit in letzter Zeit?
+
+60
+00:06:43,730 --> 00:06:50,730
+Ich halte mich gut. Seit gestern weniger, aber normalerweise habe ich einen guten Appetit.
+
+61
+00:06:51,730 --> 00:07:06,170
+Sie haben schon gesagt, dass Ihr Gewicht nicht kontrolliert.
+
+62
+00:07:06,170 --> 00:07:08,170
+Nein, habe ich nicht.
+
+63
+00:07:08,170 --> 00:07:14,170
+Aber fühlen Sie sich wie in letzter Zeit abgenommen?
+
+64
+00:07:14,170 --> 00:07:18,170
+Nein, abgenommen habe ich nicht. Aber ich bin sicher.
+
+65
+00:07:18,170 --> 00:07:34,700
+Ich habe eine Schlafprobleme wegen der Wasserlage in der Nacht.
+
+66
+00:07:34,700 --> 00:07:35,700
+Ja.
+
+67
+00:07:35,700 --> 00:07:38,700
+Habt ihr Probleme beim Einschlafen?
+
+68
+00:07:38,700 --> 00:07:41,700
+Nein, durchschlafen ist das Problem.
+
+69
+00:07:41,700 --> 00:07:52,900
+Habt ihr Probleme mit dem Stuhlgang?
+
+70
+00:07:52,900 --> 00:07:54,900
+Nein.
+
+71
+00:07:55,900 --> 00:08:07,290
+Frau Krüger, was sind Ihre chronischen Erkrankungen?
+
+72
+00:08:07,290 --> 00:08:13,290
+Bluthochdruck, Zuckerkrankheit, Erhöhung der Lipidfettwerte?
+
+73
+00:08:13,290 --> 00:08:17,290
+Ich hatte vor drei Jahren einen Herzinfarkt.
+
+74
+00:08:17,290 --> 00:08:22,290
+Da habe ich einen Stand bekommen.
+
+75
+00:08:22,290 --> 00:08:27,290
+Ich nehme ASS ein.
+
+76
+00:08:27,290 --> 00:08:30,290
+Ich nehme einen Cholesterinsenker ein.
+
+77
+00:08:30,290 --> 00:08:34,290
+Und ich nehme ein Blutdruckmedikament ein.
+
+78
+00:08:34,290 --> 00:08:38,290
+ASS ist 100 mg?
+
+79
+00:08:38,290 --> 00:08:40,290
+Ja, genau.
+
+80
+00:08:40,290 --> 00:08:44,290
+Einmal mittags nehme ich das ein.
+
+81
+00:08:44,290 --> 00:08:47,290
+Wie viel Milligramm?
+
+82
+00:08:47,290 --> 00:08:50,290
+Ich nehme morgens und abends 5 mg.
+
+83
+00:08:50,290 --> 00:08:56,800
+Und für Cholesterin?
+
+84
+00:08:56,800 --> 00:08:59,800
+Athorvastatin.
+
+85
+00:08:59,800 --> 00:09:01,800
+Wie viel Milligramm?
+
+86
+00:09:01,800 --> 00:09:08,670
+40 mg abends.
+
+87
+00:09:08,670 --> 00:09:13,670
+Gibt es bei Ihnen noch weitere chronische Erkrankungen?
+
+88
+00:09:13,670 --> 00:09:19,100
+Nein.
+
+89
+00:09:19,100 --> 00:09:22,100
+Sind Sie schon mal operiert worden?
+
+90
+00:09:22,100 --> 00:09:26,790
+Ja, meine Gebärmutter ist entfernt worden.
+
+91
+00:09:26,790 --> 00:09:31,790
+Als ich 55 Jahre alt war, also vor ungefähr 15 Jahren.
+
+92
+00:09:31,790 --> 00:09:44,780
+Sind Sie schon mal wegen einer anderen Erkrankung im Krankenhaus behandelt worden?
+
+93
+00:09:44,780 --> 00:09:47,780
+Ja, wegen dem Herzinfarkt.
+
+94
+00:09:47,780 --> 00:09:55,160
+Außer dem Herzinfarkt?
+
+95
+00:09:55,160 --> 00:09:59,730
+Nein, ich denke nicht.
+
+96
+00:09:59,730 --> 00:10:02,730
+Nehmen Sie andere Medikamente ein?
+
+97
+00:10:02,730 --> 00:10:05,730
+Außer ASS, Rami-Brill und Athorvastatin?
+
+98
+00:10:05,730 --> 00:10:08,730
+Selten nehme ich mal etwas gegen Kopfschmerzen ein.
+
+99
+00:10:08,730 --> 00:10:10,730
+Ganz selten.
+
+100
+00:10:10,730 --> 00:10:12,730
+Was nehmen Sie?
+
+101
+00:10:12,730 --> 00:10:17,460
+Etwas gegen Kopfschmerzen ein.
+
+102
+00:10:17,460 --> 00:10:24,840
+Schmerzmedikament.
+
+103
+00:10:24,840 --> 00:10:36,990
+Haben Sie eine Unverträglichkeit?
+
+104
+00:10:36,990 --> 00:10:38,990
+Nein.
+
+105
+00:10:38,990 --> 00:10:45,300
+Haben Sie Milchprodukte oder Obst, Gemüse?
+
+106
+00:10:45,300 --> 00:10:48,300
+Nein, ich vertrage eigentlich alles.
+
+107
+00:10:48,300 --> 00:10:50,300
+Gut.
+
+108
+00:10:50,300 --> 00:10:53,300
+Ich habe nur eine Penicillin-Unverträglichkeit.
+
+109
+00:10:53,300 --> 00:10:57,300
+Wie ausstellt diese Unverträglichkeit?
+
+110
+00:10:57,300 --> 00:11:03,300
+Ich habe damals einen Ausklag bekommen, als ich mal Antibiotikum nehmen musste, wegen einem Infekt.
+
+111
+00:11:03,300 --> 00:11:07,300
+Und da habe ich einen Ganzkörper-Ausklag bekommen.
+
+112
+00:11:07,300 --> 00:11:09,300
+Am ganzen Körper oder?
+
+113
+00:11:09,300 --> 00:11:10,300
+Ja.
+
+114
+00:11:10,300 --> 00:11:14,710
+Nur am Gesicht war nichts.
+
+115
+00:11:14,710 --> 00:11:21,350
+Brauchen Sie Fräuer Krüger?
+
+116
+00:11:21,350 --> 00:11:23,350
+Nein, ich brauche nicht.
+
+117
+00:11:23,350 --> 00:11:25,350
+Haben Sie früher geraucht?
+
+118
+00:11:25,350 --> 00:11:28,350
+Nein, auch nicht.
+
+119
+00:11:28,350 --> 00:11:34,350
+Trinken Sie Alkohol?
+
+120
+00:11:34,350 --> 00:11:40,350
+Nur wenn es eine Feier gibt, dann trinke ich mal etwas.
+
+121
+00:11:40,350 --> 00:11:45,070
+Konsumiert Drogen?
+
+122
+00:11:45,070 --> 00:11:47,070
+Wie bitte?
+
+123
+00:11:47,070 --> 00:11:49,070
+Konsumieren Sie Drogen?
+
+124
+00:11:49,070 --> 00:11:52,070
+Ich bin 72 Jahre alt. Was soll ich mit Drogen machen?
+
+125
+00:11:52,070 --> 00:11:55,070
+Ja, das ist eine wichtige Frage.
+
+126
+00:11:55,070 --> 00:11:58,070
+Waren Sie nicht der, ich nehme Drogen ein?
+
+127
+00:11:58,070 --> 00:12:02,070
+Ja, das ist eine Routinefrage. Bitte nehmen Sie nicht Drogen.
+
+128
+00:12:02,070 --> 00:12:04,070
+Ich nehme natürlich keine Drogen ein.
+
+129
+00:12:04,070 --> 00:12:06,070
+Gut zu hören.
+
+130
+00:12:06,070 --> 00:12:17,050
+Sind bei Ihren Eltern chronische Erkrankungen bekannt?
+
+131
+00:12:17,050 --> 00:12:19,050
+Die sind beide verstorben.
+
+132
+00:12:19,050 --> 00:12:20,050
+Das tut mir leid zu hören.
+
+133
+00:12:20,050 --> 00:12:23,050
+Ich bin 72 Jahre alt. Ich habe Enkelkinder.
+
+134
+00:12:23,050 --> 00:12:28,050
+Dann müssten meine Eltern schon 100 Jahre alt sein.
+
+135
+00:12:28,050 --> 00:12:30,050
+Die beiden sind verstorben.
+
+136
+00:12:30,050 --> 00:12:34,050
+Gab es bei Ihren Eltern chronische Erkrankungen?
+
+137
+00:12:34,050 --> 00:12:38,050
+Meine Mutter ist an Brustkrebs verstorben.
+
+138
+00:12:38,050 --> 00:12:49,060
+Mein Vater ist an Herzinfarkt verstorben.
+
+139
+00:12:49,060 --> 00:12:51,060
+Haben Sie Geschwister?
+
+140
+00:12:51,060 --> 00:12:54,060
+Ich habe eine jüngere Schwester gehabt, die ist gestorben.
+
+141
+00:12:54,060 --> 00:12:58,490
+Woran ist sie gestorben?
+
+142
+00:12:58,490 --> 00:13:02,490
+Sie ist an einem Darmkrebs verstorben.
+
+143
+00:13:02,490 --> 00:13:04,490
+Darmkrebs.
+
+144
+00:13:04,490 --> 00:13:18,680
+Frau Krüger, ich nehme an, dass Sie Redner sind.
+
+145
+00:13:18,680 --> 00:13:21,680
+Was haben Sie früher gemacht?
+
+146
+00:13:21,680 --> 00:13:24,680
+Ich habe früher in einer Bücherei gearbeitet.
+
+147
+00:13:24,680 --> 00:13:27,680
+Was arbeitet?
+
+148
+00:13:27,680 --> 00:13:30,680
+In einer Bücherei, Bibliothek habe ich gearbeitet.
+
+149
+00:13:30,680 --> 00:13:32,680
+Bücherei.
+
+150
+00:13:33,680 --> 00:13:36,680
+Sie waren in einer Bücherei gearbeitet?
+
+151
+00:13:36,680 --> 00:13:38,680
+Genau.
+
+152
+00:13:38,680 --> 00:13:40,680
+Sind Sie verheiratet?
+
+153
+00:13:40,680 --> 00:13:44,680
+Ja, ich habe einen Ehemann.
+
+154
+00:13:44,680 --> 00:13:46,680
+Haben Sie Kinder?
+
+155
+00:13:46,680 --> 00:13:48,680
+Ja, ich habe auch Enkelkinder.
+
+156
+00:13:48,680 --> 00:13:53,500
+Sind Sie gesund?
+
+157
+00:13:53,500 --> 00:13:55,500
+Ja, Gott sei Dank.
+
+158
+00:13:55,500 --> 00:14:00,500
+Sie haben schon einige Kinder gesagt?
+
+159
+00:14:00,500 --> 00:14:02,500
+Ich habe insgesamt drei Kinder.
+
+160
+00:14:02,500 --> 00:14:04,500
+Drei Kinder.
+
+161
+00:14:04,500 --> 00:14:14,540
+Frau Krüger, ich habe Ihnen alle meine Fragen schon gestellt.
+
+162
+00:14:14,540 --> 00:14:20,540
+Haben Sie noch etwas ergänzen oder fehlt Ihnen etwas?
+
+163
+00:14:20,540 --> 00:14:22,540
+Nein.
+
+164
+00:14:22,540 --> 00:14:28,540
+Ja, ich möchte Sie jetzt untersuchen.
+
+165
+00:14:28,540 --> 00:14:32,540
+Dann wird bei Ihnen Blut abgenommen.
+
+166
+00:14:32,540 --> 00:14:38,540
+Dann werde ich einen EKG schreiben.
+
+167
+00:14:38,540 --> 00:14:47,540
+Das EKG heißt, wir messen Ihre elektrische Aktivität Ihres Hersens.
+
+168
+00:14:47,540 --> 00:14:56,540
+Dann werde ich einen Herzutorschall durchführen.
+
+169
+00:14:56,540 --> 00:15:06,540
+Dann werden alle Ergebnisse wieder besprochen.
+
+170
+00:15:06,540 --> 00:15:16,010
+Alles klar. Dann warte ich auf Sie.
+
+171
+00:15:16,010 --> 00:15:23,020
+Gibt es Fragen oder sollen wir direkt als Asgespräch machen?
+
+172
+00:15:23,020 --> 00:15:27,020
+Sie können noch ein bisschen Zeit haben, wenn Sie möchten.
+
+173
+00:15:27,020 --> 00:15:29,020
+Das brauchen Sie.
+
+174
+00:15:29,020 --> 00:15:32,880
+Einige Minuten.
+
+175
+00:15:32,880 --> 00:15:34,880
+Darf ich eine Frage?
+
+176
+00:15:34,880 --> 00:15:36,880
+Welche Beine sind dick geworden?
+
+177
+00:15:36,880 --> 00:15:38,880
+Beide.
+
+178
+00:15:38,880 --> 00:15:43,380
+Darf ich?
+
+179
+00:15:43,380 --> 00:15:45,380
+Ja.
+
+180
+00:15:45,380 --> 00:15:49,380
+Wie viele Kissen benutzen Sie, wenn Sie schlafen?
+
+181
+00:15:49,380 --> 00:15:51,380
+Das wurde schon gefragt.
+
+182
+00:15:51,380 --> 00:15:56,450
+Entschuldigung.
+
+183
+00:15:56,450 --> 00:15:58,450
+Darf ich?
+
+184
+00:15:58,450 --> 00:16:00,450
+Bitte.
+
+185
+00:16:00,450 --> 00:16:04,450
+Seit wann haben Sie schon Schwellungen in den Beinen?
+
+186
+00:16:04,450 --> 00:16:06,450
+Seit ungefähr drei Tagen.
+
+187
+00:16:06,450 --> 00:16:15,450
+Bleibt ein Abdrück, wenn Sie darauf drücken?
+
+188
+00:16:15,450 --> 00:16:17,450
+Ja.
+
+189
+00:16:17,450 --> 00:16:25,430
+Gut.
+
+190
+00:16:25,430 --> 00:16:27,430
+Entschuldigung.
+
+191
+00:16:27,430 --> 00:16:30,430
+Haben Sie auch Druckgefühl im rechten Oberbauch?
+
+192
+00:16:30,430 --> 00:16:52,500
+Nein.
+
+193
+00:16:52,500 --> 00:16:57,500
+Oder ist Ihnen Schwellung im Bauch aufgefallen?
+
+194
+00:16:57,500 --> 00:16:59,500
+Am Bein posten? Nein.
+
+195
+00:16:59,500 --> 00:17:14,100
+Wollen wir anfangen?
+
+196
+00:17:14,100 --> 00:17:16,100
+Bitte schon.
+
+197
+00:17:16,100 --> 00:17:18,100
+Ja.
+
+198
+00:17:18,100 --> 00:17:20,100
+Guten Tag, Herr Oberarzt.
+
+199
+00:17:20,100 --> 00:17:24,100
+Ich möchte Ihnen eine neue Patientin vorstellen.
+
+200
+00:17:24,100 --> 00:17:35,100
+Es geht um Frau Sabina Krüger, die 71 Jahre alt und 1,65 Meter groß ist.
+
+201
+00:17:35,100 --> 00:17:39,100
+Sie wiegt 85 Kilo.
+
+202
+00:17:40,100 --> 00:17:52,100
+Die Patienten stellen sich heute seit 6 bis 7 Tagen bei der Parpitation
+
+203
+00:17:52,100 --> 00:17:57,100
+und seit heute Morgen bei der Tachikardi.
+
+204
+00:17:57,100 --> 00:18:10,100
+Die Herzfrequenz war gestern über 100 Schläge pro Minute,
+
+205
+00:18:10,100 --> 00:18:23,480
+heute über 120 Schläge pro Minute und ungeheimmäßig.
+
+206
+00:18:23,480 --> 00:18:33,480
+Außerdem gibt es einen Patienten, der über die Bilanz des Beins betreut,
+
+207
+00:18:33,480 --> 00:18:44,480
+die Belastungsabhängigkeit und die Nektur.
+
+208
+00:18:44,480 --> 00:18:50,560
+Das ist vertig.
+
+209
+00:18:50,560 --> 00:19:08,480
+Die Dispne ist beim Treppensteigen nach 2. Etage aufgetreten.
+
+210
+00:19:08,480 --> 00:19:25,480
+Die Dispne würde beim Treppensteigen nach 2. Etage aufgetreten.
+
+211
+00:19:25,480 --> 00:19:36,520
+Zudem berichtet die Patientin über Astenie in Nesterseid.
+
+212
+00:19:36,520 --> 00:19:49,380
+Die Fragen nach Thorax-Schmerzen, Arginapektoris und Asylthes würden vermeiden.
+
+213
+00:19:49,380 --> 00:19:59,880
+Die vegetative Ananase zeigt Insomnie in Form von Durchschlafstörungen wegen der Nekturien.
+
+214
+00:19:59,880 --> 00:20:16,730
+Unsere Patientin hat sich vor 3 Jahren der Einsetzung eines Stens infolge eines Herzinfarkts unterzogen.
+
+215
+00:20:16,730 --> 00:20:34,730
+Außerdem wurde bei unseren Patienten in 55 Jahren eine Entfernung des Service durchgeführt.
+
+216
+00:21:06,040 --> 00:21:14,040
+Die Patientin hat Penicillin Allergie, die sich mit Exanthen äußert.
+
+217
+00:21:14,040 --> 00:21:26,040
+Sie sei nicht rauch herin. Sie trinkt Alkohol bei nur Anmessen oder Feiern. Sie konsumiert keine Drogen.
+
+218
+00:21:26,040 --> 00:21:43,290
+Der Vater der Patientin ist ein Myokatinfarkt verstorben. Die Mutter der Patientin ist Mama-Carsinum verstorben.
+
+219
+00:21:43,290 --> 00:21:54,290
+Unsere Patientin hat eine junge Schwester, die Koloncarcinom hatte.
+
+220
+00:21:54,290 --> 00:22:09,290
+Sie ist Rentnerin, früher hat als Bibliothekerin gearbeitet. Sie ist verheiratet, habe drei Jährige.
+
+221
+00:22:09,290 --> 00:22:21,290
+Die geschilderten Beschwerden lassen an eine Herzinfizienz andenken.
+
+222
+00:22:21,290 --> 00:22:33,290
+Die Prensia Diagnostics kommen chronisch. Obstituee Pulmonadies, Lungenkrankheit und Lungenembolie.
+
+223
+00:22:33,290 --> 00:22:38,290
+Wie kommen Sie auf diese Herzinfizienz? Warum?
+
+224
+00:22:38,290 --> 00:22:51,290
+Unsere Patientin hat Dyspne, bilaterale Beinodöme, Herzrhythmusstörungen und Asthenie.
+
+225
+00:22:51,290 --> 00:22:56,290
+Diese Symptomatik schützt für eine Herzinfizienz.
+
+226
+00:22:56,290 --> 00:23:00,290
+Warum hat sie die Herzinfizienz wahrscheinlich?
+
+227
+00:23:00,290 --> 00:23:08,290
+Sie hat vor drei Jahren einen Herzinfarkt erlegten.
+
+228
+00:23:08,290 --> 00:23:14,290
+Das ist nicht der Grund.
+
+229
+00:23:14,290 --> 00:23:20,290
+Es könnte sein, auch wegen der Tachycardie.
+
+230
+00:23:20,290 --> 00:23:25,290
+Es könnte ein Tachycardie in der Kardiomembritie entstehen.
+
+231
+00:23:25,290 --> 00:23:28,290
+Wie nennt man das?
+
+232
+00:23:28,290 --> 00:23:32,290
+Wie nennt man diese Rhythmusstörung?
+
+233
+00:23:32,290 --> 00:23:37,290
+Wegen der Unregelmäßigen.
+
+234
+00:23:37,290 --> 00:23:39,290
+Wie nennt man das?
+
+235
+00:23:39,290 --> 00:23:41,290
+Vorhofflimmern.
+
+236
+00:23:41,290 --> 00:23:43,290
+Richtig, ganz genau.
+
+237
+00:23:43,290 --> 00:23:55,290
+Sie hat vorhofflimmern und dadurch hat sie eine ineffektive Hystolie.
+
+238
+00:23:55,290 --> 00:24:01,290
+Dadurch hat sie eine Unterstärkung in der Herzinfizienz.
+
+239
+00:24:01,290 --> 00:24:04,290
+Eine Linkserzinfizienz.
+
+240
+00:24:04,290 --> 00:24:09,290
+Ja, eine Linkserzinfizienz.
+
+241
+00:24:09,290 --> 00:24:13,290
+Ja, und die Pferde kommen auch in Betracht einer Lungenembolie.
+
+242
+00:24:13,290 --> 00:24:18,290
+Weil die Tachycardie, unser Patient hat Tachycardie.
+
+243
+00:24:18,290 --> 00:24:23,290
+Und diese Symptome spielen für eine Lungenembolie.
+
+244
+00:24:23,290 --> 00:24:31,290
+So weiter aufgeregt würde ich die vitalen Parameter bestimmen.
+
+245
+00:24:31,290 --> 00:24:40,290
+Druck, Herzfrequenz, Atemfrequenz, Körpertemperatur und Sauerstoffsetzung.
+
+246
+00:24:40,290 --> 00:24:46,850
+Danach würde ich die Patienten körperlich untersuchen.
+
+247
+00:24:46,850 --> 00:24:57,130
+Bei der Untersuchung achte ich auf Herz und Lunge insbesondere.
+
+248
+00:24:57,130 --> 00:25:02,130
+Und im EKG? Gucken wir auf was?
+
+249
+00:25:02,130 --> 00:25:08,130
+Im EKG können wir unregelmäßige Ar-Ar-Abstände finden.
+
+250
+00:25:08,130 --> 00:25:11,130
+Und keine Pi-Wellen.
+
+251
+00:25:11,130 --> 00:25:15,130
+Sie können sagen, ich kann im EKG das Vorhoff bestätigen.
+
+252
+00:25:15,130 --> 00:25:17,130
+Das Vorhofflimmern bestätigen.
+
+253
+00:25:17,130 --> 00:25:18,130
+Ja.
+
+254
+00:25:18,130 --> 00:25:25,130
+Weil es kann ja auch ein BG-Minus sein.
+
+255
+00:25:25,130 --> 00:25:29,130
+Es kann ja auch ventrikuläre Exasystolie sein.
+
+256
+00:25:29,130 --> 00:25:30,130
+Richtig?
+
+257
+00:25:30,130 --> 00:25:31,130
+Ja.
+
+258
+00:25:31,130 --> 00:25:39,130
+Und das muss man als Differenzialdiagnose, das muss man im EKG differenzieren.
+
+259
+00:25:39,130 --> 00:25:43,130
+Ja, genau.
+
+260
+00:25:43,130 --> 00:25:50,130
+Dann würde ich einige Laboruntersuchungen verlassen.
+
+261
+00:25:50,130 --> 00:25:53,130
+Blutbild.
+
+262
+00:25:53,130 --> 00:25:59,130
+CRP zum Entzündungen auszuschließen.
+
+263
+00:25:59,130 --> 00:26:01,130
+Np für Herzinfizienz.
+
+264
+00:26:01,130 --> 00:26:02,130
+Sehr gut.
+
+265
+00:26:02,130 --> 00:26:08,130
+Die Di-Di-Mehre um Lungenembolie auszuschließen.
+
+266
+00:26:08,130 --> 00:26:12,130
+Außerdem Nierenwerte, Leberwerte und Elektrolyte.
+
+267
+00:26:12,130 --> 00:26:14,130
+Für uns wichtig.
+
+268
+00:26:14,130 --> 00:26:16,130
+Sehr gut, ja.
+
+269
+00:26:16,130 --> 00:26:22,130
+Dann kann ich eine Eko-Kardiographie durchführen.
+
+270
+00:26:22,130 --> 00:26:28,130
+Mit Hilfe der Eko-Kardiographie können wir die Funktion des Herzens,
+
+271
+00:26:28,130 --> 00:26:34,130
+wie zum Beispiel E-Action-Flexion, Löse und Festklappen beurteilen.
+
+272
+00:26:34,130 --> 00:26:36,130
+Genau.
+
+273
+00:26:36,130 --> 00:26:38,700
+Ja.
+
+274
+00:26:38,700 --> 00:26:47,700
+Und wenn nötig, können wir auch eine Koronära-Angiographie durchführen.
+
+275
+00:26:47,700 --> 00:26:49,700
+Machen Sie auch ein Röntgenbild?
+
+276
+00:26:49,700 --> 00:26:50,700
+Ja, genau.
+
+277
+00:26:50,700 --> 00:26:56,700
+Unsere Patientart Düsner veranlasst sich auf jeden Fall ein Röntgen-Thorax in zwei Ebenen.
+
+278
+00:26:56,700 --> 00:26:58,700
+Warum machen Sie das Röntgenbild?
+
+279
+00:26:58,700 --> 00:27:00,700
+Unsere Patientart Düsner.
+
+280
+00:27:00,700 --> 00:27:01,700
+Ja.
+
+281
+00:27:01,700 --> 00:27:09,700
+Und außerdem können wir mit Hilfe des Röntgens die Größe des Herzens beurteilen.
+
+282
+00:27:09,700 --> 00:27:10,700
+Genau.
+
+283
+00:27:10,700 --> 00:27:11,700
+Und was können Sie noch sehen?
+
+284
+00:27:11,700 --> 00:27:19,700
+Ja, Perschattung, Infiltration in der Lunge.
+
+285
+00:27:19,700 --> 00:27:20,700
+Oder Ergüsse.
+
+286
+00:27:20,700 --> 00:27:26,700
+Man kann sehen, ob es schon eine Links- und Rechtsherzinsuffizienz ist.
+
+287
+00:27:26,700 --> 00:27:33,700
+Wenn die jetzt nur Unterschenkelödemen hat, dann ist es eine Rechtsherzinsuffizienz.
+
+288
+00:27:33,700 --> 00:27:34,700
+Kennen Sie ihn?
+
+289
+00:27:34,700 --> 00:27:35,700
+Ja.
+
+290
+00:27:35,700 --> 00:27:39,700
+Und wenn es aber auch Blutergüsse, wenn es nicht Blutergüsse, Pleuralgüsse gibt,
+
+291
+00:27:39,700 --> 00:27:46,700
+dann ist es auch eine Linksherzinsuffizienz und dann hat man eine Globalinsuffizienz.
+
+292
+00:27:46,700 --> 00:27:47,700
+Richtig?
+
+293
+00:27:47,700 --> 00:27:48,700
+Ja.
+
+294
+00:27:48,700 --> 00:27:49,700
+Richtig.
+
+295
+00:27:49,700 --> 00:27:50,700
+Genau.
+
+296
+00:27:50,700 --> 00:27:52,700
+Also warum sollten wir das immer unterschalten?
+
+297
+00:27:52,700 --> 00:27:54,700
+Rechts- und Linksherzinsuffizienz.
+
+298
+00:27:54,700 --> 00:27:55,700
+Ja.
+
+299
+00:27:55,700 --> 00:28:00,700
+Und was machen wir wegen dem Vorhofflimen?
+
+300
+00:28:00,700 --> 00:28:05,700
+Ja, für Vorhofflimen gibt es zwei Alternativen.
+
+301
+00:28:05,700 --> 00:28:12,700
+Zuerst sollten wir den Herzrhythmus kontrollieren.
+
+302
+00:28:12,700 --> 00:28:22,700
+Zum Kontrolle des Herzrhythmus können wir zwei Alternativen.
+
+303
+00:28:23,700 --> 00:28:34,700
+Eine ist Medikamentöse Herzrhythmus-Kardioversion mit Amiodoron.
+
+304
+00:28:34,700 --> 00:28:40,700
+Aber die zweite Alternative ist Elektrische-Kardioversion.
+
+305
+00:28:40,700 --> 00:28:49,700
+Aber für Herz- und Kardioversion müssen wir auf jeden Fall eine Trans-Ozophage-Eco-Kardio-Gefahrung
+
+306
+00:28:49,700 --> 00:28:54,700
+machen, um einen Gerinn in den Linkhoff auszuschließen.
+
+307
+00:28:54,700 --> 00:29:02,700
+Dann die zweite Therapie bei Vorhofflimen ist eine Antikoagulation.
+
+308
+00:29:02,700 --> 00:29:16,700
+Wir können mit Oralantikoagulation mit Kumarin oder Alternative direkt Oralantikoagulation-Therapie einleiten.
+
+309
+00:29:16,700 --> 00:29:30,700
+Wie können Sie den Patienten jetzt in der Notfallambulanz helfen?
+
+310
+00:29:30,700 --> 00:29:37,700
+Sie kommen ja mit einer erhöhten Herzfrequenz.
+
+311
+00:29:37,700 --> 00:29:46,700
+Wir können einen Beta-Blocker in die Vene langsam spritzen.
+
+312
+00:29:46,700 --> 00:29:52,700
+Genau, intravenöse Beta-Blockergabe unter Monitorbeobachtung.
+
+313
+00:29:52,700 --> 00:29:56,700
+Ja, auf jeden Fall.
+
+314
+00:29:56,700 --> 00:30:05,700
+Sehr gut gemacht. Und das Vorhofflimmern ist wahrscheinlich durch die bekannte KHK bedingt.
+
+315
+00:30:05,700 --> 00:30:07,700
+Ja, das könnte sein.
+
+316
+00:30:07,700 --> 00:30:11,700
+Sie haben hier eine KHK und dann hat sie noch Aträrdehypertonie.
+
+317
+00:30:11,700 --> 00:30:22,700
+Dadurch passt auch das Alter einem Vorhofflimmern und eine letztendlich Tachiarithmia absoluta mit kardialer Dekompensation.
+
+318
+00:30:22,700 --> 00:30:25,700
+Wahrscheinlich mit globalen Insuffizienz.
+
+319
+00:30:25,700 --> 00:30:28,700
+Ja, sehr. Danke.
+
+320
+00:30:28,700 --> 00:30:30,700
+Sind Sie Kardiologe?
+
+321
+00:30:30,700 --> 00:30:38,700
+Ja, ich habe in der Türkei zwei Jahre lang Kardiologie weiter gemacht.
+
+322
+00:30:38,700 --> 00:30:47,700
+Okay. War das ein guter Fall für Sie? Ein guter Beispiel, ein einfacher Fall.
+
+323
+00:30:47,700 --> 00:30:48,700
+Sehr gut.
