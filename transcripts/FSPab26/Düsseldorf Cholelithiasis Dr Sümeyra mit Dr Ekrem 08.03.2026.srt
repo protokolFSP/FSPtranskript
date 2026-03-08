@@ -1,0 +1,3239 @@
+1
+00:00:00,000 --> 00:00:11,340
+Hallo guten Tag, mein Name ist Ekrem Özübalı, ich bin auf dieser Station als Arzt der Arzt tätig.
+
+2
+00:00:11,340 --> 00:00:19,340
+Ich würde gerne mit Ihnen ein Analysegespräch durchführen. Alles in Ordnung für Sie?
+
+3
+00:00:19,340 --> 00:00:28,340
+Am Anfang benötige ich ein paar persönliche Daten, danach können wir weiterführen. Wie heißen Sie?
+
+4
+00:00:28,340 --> 00:00:33,340
+Ich heiße Natalie Schulta.
+
+5
+00:00:33,340 --> 00:00:50,150
+Könnten Sie bitte Vor- und Nachnamen langsam und deutlich buchstabieren?
+
+6
+00:00:50,150 --> 00:01:07,330
+Natalie, N-A-T-H-A-L-I-E.
+
+7
+00:01:07,330 --> 00:01:09,330
+Okay.
+
+8
+00:01:09,330 --> 00:01:22,330
+Und Schulta S-C-H-U-L-T-E. Am Ende E wie Emi.
+
+9
+00:01:22,330 --> 00:01:25,670
+Keine R?
+
+10
+00:01:25,670 --> 00:01:27,670
+Nur E.
+
+11
+00:01:27,670 --> 00:01:29,670
+Nur E.
+
+12
+00:01:29,670 --> 00:01:38,490
+Vielen Dank, Frau Schulta. Frau Schulta, wie alt sind Sie?
+
+13
+00:01:38,490 --> 00:01:41,490
+Ich bin 61 Jahre alt.
+
+14
+00:01:41,490 --> 00:01:49,440
+Wann sind Sie genau geboren, Frau Schulta?
+
+15
+00:01:49,440 --> 00:01:57,440
+Am ersten Tag des ... 65.
+
+16
+00:01:57,440 --> 00:02:10,060
+Ersten Tag, 65. Okay, super. Frau Schulta, wie groß sind Sie?
+
+17
+00:02:11,060 --> 00:02:15,060
+Ich bin 1,65 Meter groß.
+
+18
+00:02:15,060 --> 00:02:21,060
+65, groß. Wie viel wiegen Sie, Frau Schulta?
+
+19
+00:02:21,060 --> 00:02:31,180
+Ich bin 71,3 Kilo schwer.
+
+20
+00:02:31,180 --> 00:02:39,180
+Okay. Ich habe das natürlich. Frau Schulta, was für Sie so uns?
+
+21
+00:02:39,180 --> 00:02:44,180
+Herr Doktor, ich habe starke Bauchschmerzen. Deswegen bin ich hier.
+
+22
+00:02:44,180 --> 00:02:53,220
+Starke Bauchschmerzen. Wo genau sind die Schmerzen, Frau Schulta?
+
+23
+00:02:53,220 --> 00:03:00,220
+Hier oben. Unter, ja.
+
+24
+00:03:00,220 --> 00:03:05,220
+In der rechten Oberbauch.
+
+25
+00:03:05,220 --> 00:03:16,690
+Frau Schulta, seit wann haben Sie die Schmerzen?
+
+26
+00:03:16,690 --> 00:03:24,690
+Herr Doktor, ungefähr zwei Stunden. Seit ungefähr zwei Stunden.
+
+27
+00:03:24,690 --> 00:03:29,690
+Zwei Stunden? Ganz neu.
+
+28
+00:03:29,690 --> 00:03:31,690
+Aber stark?
+
+29
+00:03:31,690 --> 00:03:35,690
+Ja, sehr stark.
+
+30
+00:03:35,690 --> 00:03:40,690
+Wie stark sind die Schmerzen?
+
+31
+00:03:40,690 --> 00:03:53,690
+Können Sie mir bitte beschreiben, zum Beispiel auf einer Schmerzskala, wobei 0 kann Schmerzen, 10 sehr stark Schmerzen.
+
+32
+00:03:53,690 --> 00:04:00,690
+Entspricht? Und was würden Sie mir beschreiben, Ihre Schmerzen?
+
+33
+00:04:00,690 --> 00:04:06,690
+Ich würde 8 jeden, Herr Doktor. 8. Ja, das ist stark.
+
+34
+00:04:06,690 --> 00:04:24,950
+Können Sie mir bitte die Schmerzen, Ihre Schmerzen beschreiben, Frau Schulta? Wie ist Ihre Schmerzen?
+
+35
+00:04:24,950 --> 00:04:30,950
+Dumpf, brennend, stechend, siechend. Wie fühlen Sie sich?
+
+36
+00:04:30,950 --> 00:04:35,950
+Es ist für den Koli-Gard-Chef Herr Doktor.
+
+37
+00:04:35,950 --> 00:04:39,950
+Koli-Gard. Seit zwei Stunden.
+
+38
+00:04:40,950 --> 00:04:43,950
+Kann ich auch sagen, stechend.
+
+39
+00:04:43,950 --> 00:04:47,950
+Stechend, stechend. Okay.
+
+40
+00:04:47,950 --> 00:05:00,060
+Frau Schulta, sind die Schmerzen plötzlich oder langsam aufgetreten?
+
+41
+00:05:00,060 --> 00:05:04,570
+Herr Doktor, eigentlich ganz plötzlich.
+
+42
+00:05:04,570 --> 00:05:11,420
+Ganz, ganz plötzlich. Plötzlich angefangen.
+
+43
+00:05:11,420 --> 00:05:26,420
+Okay. Frau Schulta, ich würde gerne wissen, ob Sie die Schmerzen einigermaßen aushalten können oder zum Beispiel kann ich Ihnen eine Schmerzmittel geben, wenn Sie brauchen.
+
+44
+00:05:26,420 --> 00:05:29,420
+Ja, lieber Schmerzmittel Herr Doktor.
+
+45
+00:05:29,420 --> 00:05:37,420
+Frau Schulta, haben Sie gegen etwas Allergien, zum Beispiel Medikamente oder?
+
+46
+00:05:37,420 --> 00:05:42,420
+Nicht Medikamente, aber ich bin Allergien gegen Nickel.
+
+47
+00:05:42,420 --> 00:05:54,420
+Gegen Nickel? Haben Sie Nickel Allergien? Okay. Ich habe das notiert. Wie reagieren Sie auf Nickel? Wie beschreiben Sie?
+
+48
+00:05:54,420 --> 00:06:03,420
+Ich bekomme die Kreis und die gerötete Haut.
+
+49
+00:06:03,420 --> 00:06:23,190
+Gerötete Haut. Okay. Frau Schulta, ich rufe an die unsere Krankenschwester an und gebe Ihnen sofort ein Schmerzenmittel.
+
+50
+00:06:24,190 --> 00:06:35,190
+Herr Doktor, aber ich habe einen Schmerzenmittel angenommen, bevor ich hier gekommen bin.
+
+51
+00:06:35,190 --> 00:06:41,190
+Ja, okay. Vor einer Stunde vielleicht.
+
+52
+00:06:41,190 --> 00:06:45,190
+Welchen Schmerzenmittel haben Sie angenommen?
+
+53
+00:06:46,190 --> 00:06:52,190
+Paracetamol haben Sie angenommen.
+
+54
+00:06:52,190 --> 00:06:56,190
+Es hat Ihnen geholfen oder?
+
+55
+00:06:56,190 --> 00:07:01,190
+Weil es mir nicht geholfen hat, Herr Doktor.
+
+56
+00:07:01,190 --> 00:07:10,360
+Nicht geholfen, ja. Gar nicht geholfen. Sie haben nachher einen Schmerzmittel.
+
+57
+00:07:10,360 --> 00:07:16,360
+Vielleicht ein bisschen oder nicht konkret.
+
+58
+00:07:16,360 --> 00:07:32,980
+Okay. Frau Schulta, gibt es Schmerzenmittel, die Sie angenommen haben?
+
+59
+00:07:32,980 --> 00:07:43,460
+Herr Doktor, ich habe mit Butter Macrurenrötchen gegessen.
+
+60
+00:07:44,460 --> 00:07:48,460
+Besonders nach fertiges Essen.
+
+61
+00:07:48,460 --> 00:07:50,460
+Macrurenrötchen.
+
+62
+00:07:50,460 --> 00:07:57,060
+Ja, Macrurenrötchen mit Butter.
+
+63
+00:07:57,060 --> 00:08:04,840
+Seit wann haben Sie Macrurenrötchen gegessen?
+
+64
+00:08:04,840 --> 00:08:09,250
+Vor. Ja, ich habe vielleicht...
+
+65
+00:08:09,250 --> 00:08:11,250
+Gestern oder?
+
+66
+00:08:14,230 --> 00:08:21,230
+Gestern nein. Vor fünf Stunden habe ich das gegessen.
+
+67
+00:08:21,230 --> 00:08:25,230
+Vielleicht, oder vor vier Stunden.
+
+68
+00:08:25,230 --> 00:08:29,230
+Im Mittagessen habe ich es gegessen.
+
+69
+00:08:29,230 --> 00:08:32,230
+Gestern Mittagessen oder?
+
+70
+00:08:32,230 --> 00:08:42,230
+Nein, warum heute? Jetzt ist es Abend und ich habe im Mittag Pause gegessen.
+
+71
+00:08:42,230 --> 00:08:44,230
+Mahlzeit.
+
+72
+00:08:44,230 --> 00:08:50,230
+Okay, heute Mittagessen haben Sie Macrurenrötchen gegessen.
+
+73
+00:08:50,230 --> 00:08:57,230
+Gibt es jemanden, der das gleiche Essen gegessen hat mit Ihnen?
+
+74
+00:08:57,230 --> 00:09:07,230
+Ja, wir sind zusammen mit meinen Kollegen gegessen, aber niemand hat eine Beschwerde.
+
+75
+00:09:07,230 --> 00:09:09,230
+Ja, welche Beschwerde hat niemand.
+
+76
+00:09:09,230 --> 00:09:11,230
+Nur ich.
+
+77
+00:09:11,230 --> 00:09:21,830
+Okay, ich habe das notiert. Frau Schurter, sind die Schmerzen dauerhaft oder phasenweise?
+
+78
+00:09:21,830 --> 00:09:24,830
+Ich würde sagen, Sie kommen und gehen, Herr Doktor.
+
+79
+00:09:24,830 --> 00:09:28,830
+Ja, Sie haben schon gesagt, es ist kolikartig.
+
+80
+00:09:28,830 --> 00:09:34,830
+Und Sie haben schon gesagt, es sticht Bauchschmerzen.
+
+81
+00:09:34,830 --> 00:09:39,830
+Sie haben schon gesagt, es sticht kommende und gehende Schmerzen.
+
+82
+00:09:39,830 --> 00:09:49,830
+Okay. Frau Schurter, gibt es etwas, das Schmerzen versteckt oder das lindert?
+
+83
+00:09:49,830 --> 00:09:57,830
+Wie gesagt, wenn ich fettiges Essen gegessen habe, wird es schmerzen, Herr Doktor.
+
+84
+00:09:57,830 --> 00:09:59,830
+Fettiges Essen.
+
+85
+00:09:59,830 --> 00:10:00,830
+Ja.
+
+86
+00:10:00,830 --> 00:10:06,830
+Und gibt es auch bestimmte Linder?
+
+87
+00:10:06,830 --> 00:10:13,830
+Aber als Linderung oder als Linder, Linderdäferkörung habe ich nicht.
+
+88
+00:10:13,830 --> 00:10:32,070
+Okay. Ich habe das notiert. Frau Schurter, momentan haben Sie Fieber oder vor zwei Stunden?
+
+89
+00:10:32,070 --> 00:10:33,070
+Das habe ich nicht.
+
+90
+00:10:33,070 --> 00:10:36,070
+Wie fühlen Sie sich? Kein Fieber?
+
+91
+00:10:36,070 --> 00:10:41,220
+Ich bin nämlich schwach und müde.
+
+92
+00:10:41,220 --> 00:10:47,590
+Schwach und müde. Seit zwei Stunden oder?
+
+93
+00:10:47,590 --> 00:10:50,590
+Ja, besonders seit zwei Stunden.
+
+94
+00:10:50,590 --> 00:10:59,590
+Frau Schurter, vorher haben Sie schon ähnliche Beschwerden oder? Das war erstmals.
+
+95
+00:10:59,590 --> 00:11:05,590
+Eigentlich habe ich seit acht Wochen ähnliche Beschwerden.
+
+96
+00:11:05,590 --> 00:11:06,590
+Acht Wochen.
+
+97
+00:11:06,590 --> 00:11:19,590
+Aber waren Sie leichter als jetzige? Sie sind im Laufe der Zeit stärker geworden, Herr Doktor.
+
+98
+00:11:19,590 --> 00:11:28,590
+Seit acht Wochen habe ich ähnliche Beschwerden, aber das war ein bisschen leicht.
+
+99
+00:11:28,590 --> 00:11:34,590
+Leicht, aber im Laufe der Zeit, die Schmerzen sind schilmer geworden.
+
+100
+00:11:34,590 --> 00:11:35,590
+Schilmer geworden.
+
+101
+00:11:35,590 --> 00:11:41,590
+Ja, ich verstehe. Und ich habe das notiert.
+
+102
+00:11:41,590 --> 00:11:54,590
+Also Frau Schurter, haben Sie wegen dieser Beschwerden einmal schon Ihren Hausarzt besucht oder?
+
+103
+00:11:54,590 --> 00:11:59,540
+Nein, Herr Doktor. Ich habe nicht.
+
+104
+00:11:59,540 --> 00:12:00,540
+Nein.
+
+105
+00:12:00,540 --> 00:12:06,180
+Okay. Das ist erstmals.
+
+106
+00:12:06,180 --> 00:12:07,180
+Ja.
+
+107
+00:12:07,180 --> 00:12:14,970
+Okay. Frau Schurter, haben Sie Schutelfrost?
+
+108
+00:12:14,970 --> 00:12:17,860
+Nein.
+
+109
+00:12:17,860 --> 00:12:22,860
+Okay. Gut, sehr gut. Schilzen Sie.
+
+110
+00:12:22,860 --> 00:12:23,860
+Nein.
+
+111
+00:12:23,860 --> 00:12:28,170
+Ja, es ist Tagshuhr in der Nacht.
+
+112
+00:12:28,170 --> 00:12:30,170
+Herr Doktor, ja.
+
+113
+00:12:30,170 --> 00:12:31,170
+Nein.
+
+114
+00:12:31,170 --> 00:12:49,170
+Okay. Frau Schurter, ist Ihnen aufgefallen, dass Ihre Haut in der Leit in der letzte Zeit zum Beispiel eine Farbeveränderung, haben Sie das bemerkt? Solche Befunde.
+
+115
+00:12:49,170 --> 00:12:52,830
+Nein, das habe ich nicht bemerkt, Herr Doktor.
+
+116
+00:12:52,830 --> 00:12:53,830
+Okay.
+
+117
+00:12:53,830 --> 00:13:07,490
+Aber vielleicht meine Leiterhaut. Meine Leiterhaut sieht ein bisschen komisch aus. Ist das normal? Ein bisschen wie gelb.
+
+118
+00:13:07,490 --> 00:13:21,490
+Wie gelb. Wie gelb. Wie gelb. Ich habe das notiert. Ja, können wir noch mehr weiterführen und dann können wir widersprechen.
+
+119
+00:13:21,490 --> 00:13:34,740
+Ich werde Ihren Körper untersuchen. Frau Schurter, haben Sie Übelkeit oder Erbrüche?
+
+120
+00:13:34,740 --> 00:13:39,740
+Ja, seit einer Woche habe ich Übelkeit, Herr Doktor.
+
+121
+00:13:39,740 --> 00:13:48,450
+Eine Woche Übelkeit. Erbrüche? Gibt es Erbrüche?
+
+122
+00:13:49,450 --> 00:13:56,450
+Heute Morgen musste ich zweimal erbrüchen.
+
+123
+00:13:56,450 --> 00:14:04,450
+Heute Morgen zweimal erbrüchen. Und wie ist das Erbrüchen?
+
+124
+00:14:04,450 --> 00:14:13,450
+Es gab Essensreste, Herr Doktor. Und es war gelblich. Aber es gab kein Blut, Gott sei Dank.
+
+125
+00:14:13,450 --> 00:14:20,590
+Gelblich und kein Blut. Essensreste?
+
+126
+00:14:20,590 --> 00:14:24,380
+Ja.
+
+127
+00:14:24,380 --> 00:14:27,880
+Kein Blut. Okay.
+
+128
+00:14:27,880 --> 00:14:44,350
+Haben Sie schon zweimal erbrüchen? Und dann? Haben Sie ein Problem beim Stuhlgang?
+
+129
+00:14:44,350 --> 00:14:56,350
+Beim Stuhlgang habe ich ein Problem. Aber es sieht auch ein bisschen komisch aus.
+
+130
+00:14:56,350 --> 00:15:00,350
+Wie sieht es aus?
+
+131
+00:15:00,350 --> 00:15:09,350
+Seit acht Wochen sieht es hellbraun aus. Nicht normal.
+
+132
+00:15:09,350 --> 00:15:13,350
+Das sieht hellbraun aus.
+
+133
+00:15:13,350 --> 00:15:17,350
+Ja, und ein bisschen dünner als sonst.
+
+134
+00:15:17,350 --> 00:15:24,100
+In der letzten Zeit noch mehr ein bisschen dünn.
+
+135
+00:15:24,100 --> 00:15:33,800
+Dünner, ja, dünner. Aber Gott sei Dank gab es auch kein Blut drin.
+
+136
+00:15:33,800 --> 00:15:40,530
+Okay, sehr gut. Gott sei Dank.
+
+137
+00:15:40,530 --> 00:15:41,530
+Zum Glück.
+
+138
+00:15:41,530 --> 00:15:47,530
+Blaue Schulter, zum Glück, ja. Gibt es Probleme beim Wasserlassen?
+
+139
+00:15:47,530 --> 00:16:03,030
+Ich habe keine Probleme. Aber auch mein Urin sieht komisch aus. Es ist dunkler als sonst.
+
+140
+00:16:03,030 --> 00:16:09,030
+Dunkler? Was meinen Sie dunkler? Wie Altbeer oder?
+
+141
+00:16:09,030 --> 00:16:11,030
+Kann sein, ja.
+
+142
+00:16:11,030 --> 00:16:12,030
+Tee oder?
+
+143
+00:16:12,030 --> 00:16:14,030
+Wie Tee, ja. Schwarz Tee.
+
+144
+00:16:14,030 --> 00:16:16,030
+Schwarz Tee.
+
+145
+00:16:16,030 --> 00:16:22,030
+Seit wann haben Sie diese Beschwerde? Wann haben Sie das bemerkt?
+
+146
+00:16:22,030 --> 00:16:30,030
+Ja, die Bemerkung habe ich vielleicht seit Langem, aber ich habe gestern bemerkt.
+
+147
+00:16:30,030 --> 00:16:31,030
+Gestern?
+
+148
+00:16:31,030 --> 00:16:33,030
+Ich habe das gestern bemerkt.
+
+149
+00:16:33,030 --> 00:16:39,470
+Und wie viel Wasser trinken Sie täglich?
+
+150
+00:16:39,470 --> 00:16:41,470
+Ein Liter vielleicht.
+
+151
+00:16:41,470 --> 00:16:43,470
+Ein Liter?
+
+152
+00:16:43,470 --> 00:16:44,470
+Ja.
+
+153
+00:16:44,470 --> 00:16:51,470
+Gibt es noch etwas? Vielleicht Getränke oder Wasser?
+
+154
+00:16:51,470 --> 00:17:01,470
+Ja, ich trinke Getränke und auch Champagne und Alkohol nehme ich.
+
+155
+00:17:01,470 --> 00:17:03,470
+Viel Kaffee.
+
+156
+00:17:03,470 --> 00:17:15,470
+Ja, aber es ist sehr wichtig für Ihre Gesundheit, um täglich ca. mindestens 2 Liter Wasser trinken.
+
+157
+00:17:15,470 --> 00:17:23,470
+Sehr sehr wichtig. Ich empfehle Ihnen täglich mindestens 2 Liter Pure Wasser.
+
+158
+00:17:23,470 --> 00:17:29,470
+Ok, aber jetzt achte ich darauf, Herr Doktor. Danke für Ihre Entzündung.
+
+159
+00:17:29,470 --> 00:17:40,470
+Gerne, Frau Schulter. Frau Schulter, haben Sie momentan ein voller Gefühl oder Leerungen im Bauch bemerkt?
+
+160
+00:17:40,470 --> 00:17:45,330
+Schon, dort begonnen.
+
+161
+00:17:45,330 --> 00:18:17,510
+Dort begonnen? Ok. Frau Schulter, haben Sie noch andere Beschwerden, die gleichzeitig aufgetreten?
+
+162
+00:18:17,510 --> 00:18:26,510
+Was für Beschwerden, Herr Doktor? Ich habe viele Beschwerden. Muss das mehr sein?
+
+163
+00:18:26,510 --> 00:18:30,890
+Gibt es mehr?
+
+164
+00:18:30,890 --> 00:18:44,890
+Ich kann nicht gut schlafen, Herr Doktor. Ich habe Kaumatik, Kaffee, ich fühle mich schwach, müde. Mir geht es nicht gut, Herr Doktor.
+
+165
+00:18:44,890 --> 00:18:57,890
+Ja, ich meine zum Beispiel Bluthochdruck, Herzrasen, Herzklopfen, Kopfschmerzen. Ja, auch müde, haben Sie schon gesagt. Und dauernd Schlafstörungen.
+
+166
+00:18:57,890 --> 00:19:02,890
+Ich bin verwirrt, Herr Doktor. Sie haben viele Fragen gestellt.
+
+167
+00:19:02,890 --> 00:19:04,890
+Haben Sie noch Schlafstörungen?
+
+168
+00:19:04,890 --> 00:19:08,890
+Ja, ja. Wie gesagt, kann ich nicht gut schlafen.
+
+169
+00:19:08,890 --> 00:19:11,890
+Durch oder einschlafen?
+
+170
+00:19:11,890 --> 00:19:18,890
+Ich weiß nicht, eins oder zwei. Ich kann nicht gut schlafen. Ich kann nur diesen Punkt wissen.
+
+171
+00:19:18,890 --> 00:19:21,890
+Haben Sie Herzrasen, Herzklopfen?
+
+172
+00:19:21,890 --> 00:19:24,890
+Nein, das habe ich nicht damit.
+
+173
+00:19:24,890 --> 00:19:26,890
+Brustschmerzen oder Engelgefühl?
+
+174
+00:19:26,890 --> 00:19:31,890
+Nein, das habe ich nicht damit.
+
+175
+00:19:31,890 --> 00:19:36,890
+Die Frage ist sehr wichtig. Haben Sie keine Brustschmerzen oder Engelgefühl?
+
+176
+00:19:36,890 --> 00:19:40,550
+Nein, Herr Doktor.
+
+177
+00:19:40,550 --> 00:19:42,550
+Ok, ok. Sehr gut.
+
+178
+00:19:42,550 --> 00:19:55,870
+Frau Schutter, haben Sie noch andere Erkrankungen?
+
+179
+00:19:55,870 --> 00:20:04,760
+Ja, Herr Doktor. Ich leide an Schildrusenunterfunktionen.
+
+180
+00:20:04,760 --> 00:20:07,760
+Schildrusenunterfunktionen?
+
+181
+00:20:07,760 --> 00:20:12,760
+Ja, seit 10 Jahren. Und dagegen nehme ich Ertroxin.
+
+182
+00:20:12,760 --> 00:20:18,760
+Ertroxin, wie viel Milligramm nehmen Sie?
+
+183
+00:20:18,760 --> 00:20:21,760
+Das steht 100.
+
+184
+00:20:21,760 --> 00:20:23,760
+Täglich nur einmal?
+
+185
+00:20:23,760 --> 00:20:28,760
+Ja, ich muss nüchtern einnehmen.
+
+186
+00:20:28,760 --> 00:20:30,760
+Gibt es noch etwas?
+
+187
+00:20:30,760 --> 00:20:38,760
+Ich nehme auch Magnesium und Aspirin 100 Milligramm einmal täglich.
+
+188
+00:20:38,760 --> 00:20:48,760
+Ich nehme auch Venoroton, 30 Milligramm, zweimal pro Tag.
+
+189
+00:20:48,760 --> 00:20:57,760
+Frau Schutter, haben Sie noch weitere Erkrankungen außer Schildrusenunterfunktion?
+
+190
+00:20:57,760 --> 00:20:59,760
+Nein, Herr Doktor.
+
+191
+00:20:59,760 --> 00:21:07,760
+Warum nehmen Sie Magnesium, Aspirin und Venoroton ein?
+
+192
+00:21:07,760 --> 00:21:15,760
+Ich habe manche Nachrichten gelesen.
+
+193
+00:21:15,760 --> 00:21:34,070
+Weil die Berichten, dass Aspirin und Venoroton meine Gefäße nützlich sind. Deswegen nehme ich.
+
+194
+00:21:34,070 --> 00:21:44,070
+Okay, verstehe. Aber gibt es noch eine ärztliche Ratung oder haben Sie zum Beispiel eine Diagnose?
+
+195
+00:21:44,070 --> 00:21:46,070
+Nein, Herr Doktor.
+
+196
+00:21:46,070 --> 00:21:50,070
+Nein.
+
+197
+00:21:50,070 --> 00:21:56,070
+Wer empfiehlt Ihnen Venoroton-Tablet anzunehmen?
+
+198
+00:21:56,070 --> 00:21:58,070
+Mein Nachbar.
+
+199
+00:21:58,070 --> 00:21:59,070
+Nachbar.
+
+200
+00:21:59,070 --> 00:22:02,070
+Ja, hat er empfohlen.
+
+201
+00:22:02,070 --> 00:22:06,070
+Haben Sie keine bekannten Gefäßprobleme?
+
+202
+00:22:06,070 --> 00:22:08,070
+Nein.
+
+203
+00:22:08,070 --> 00:22:15,420
+Damit ich nicht bekomme, nehme ich.
+
+204
+00:22:15,420 --> 00:22:19,420
+Okay. Wie viel nehmen Sie Venoroton?
+
+205
+00:22:19,420 --> 00:22:25,420
+300 Milligramm, zweimal pro Tag.
+
+206
+00:22:25,420 --> 00:22:32,140
+Zweimal? Okay. Und Aspirin?
+
+207
+00:22:32,140 --> 00:22:34,140
+100 Milligramm.
+
+208
+00:22:34,140 --> 00:22:40,350
+Okay.
+
+209
+00:22:40,350 --> 00:22:47,350
+Frau Schurter, haben Sie in der Last im Ausland gereist?
+
+210
+00:22:47,350 --> 00:22:49,350
+Nein, Herr Doktor.
+
+211
+00:22:49,350 --> 00:22:56,350
+Keine Reise? Okay. Sind Sie vollgeimpft, Frau Schurter?
+
+212
+00:22:56,350 --> 00:22:58,350
+Ja, ich bin geimpft.
+
+213
+00:22:58,350 --> 00:23:00,350
+Gegen Corona auch?
+
+214
+00:23:00,350 --> 00:23:02,350
+Ja.
+
+215
+00:23:02,350 --> 00:23:07,600
+Frau Schurter, rauchen Sie?
+
+216
+00:23:07,600 --> 00:23:10,600
+Nein, Herr Doktor. Ich rauche nie.
+
+217
+00:23:10,600 --> 00:23:16,600
+Nicht super. Gut zu hören. Nichts zu rauchen.
+
+218
+00:23:16,600 --> 00:23:20,600
+Trinken Sie Alkohol? Wie oft, wie viel?
+
+219
+00:23:20,600 --> 00:23:29,600
+Ja, ich trinke ein bis zwei Gläser Champagner. Eine Woche.
+
+220
+00:23:29,600 --> 00:23:32,600
+Eine Woche oder am Wochenende?
+
+221
+00:23:32,600 --> 00:23:37,600
+In einer Woche, egal. Am Wochenende oder am Tag.
+
+222
+00:23:37,600 --> 00:23:42,600
+Ich trinke ein bis zwei Gläser.
+
+223
+00:23:42,600 --> 00:23:47,600
+Okay, Frau Schurter. Bitte nehmen Sie diese Frage nicht persönlich.
+
+224
+00:23:47,600 --> 00:23:50,600
+Das ist ganz, ganz routine Frage.
+
+225
+00:23:50,600 --> 00:23:53,600
+Haben Sie einmal Drogen konsumiert?
+
+226
+00:23:53,600 --> 00:24:04,550
+Ich habe ein oder zweimal konsumiert.
+
+227
+00:24:04,550 --> 00:24:13,550
+Nein, ich lüge, Herr Doktor. Ich nehme auch jetzt Kiefer.
+
+228
+00:24:13,550 --> 00:24:15,550
+Cannabis.
+
+229
+00:24:15,550 --> 00:24:23,730
+Cannabis. Nur Cannabis ein oder zweimal?
+
+230
+00:24:23,730 --> 00:24:27,730
+Ein oder zweimal pro Monat.
+
+231
+00:24:27,730 --> 00:24:31,730
+Aber ich möchte nicht darüber sprechen.
+
+232
+00:24:31,730 --> 00:24:44,730
+Ja, natürlich. Aufgrund der Schweigepflicht werde ich Ihre Angaben mit niemandem teilen. Machen Sie sich keine Sorgen.
+
+233
+00:24:44,730 --> 00:24:46,730
+Okay, danke.
+
+234
+00:24:46,730 --> 00:24:50,360
+Eine Angebe.
+
+235
+00:24:50,360 --> 00:24:52,360
+Ich hoffe es, Herr Doktor.
+
+236
+00:24:56,140 --> 00:25:02,550
+Frau Schurter, leben Ihre Eltern noch?
+
+237
+00:25:02,550 --> 00:25:06,550
+Ja, Herr Doktor. Aber sie haben manche Probleme.
+
+238
+00:25:06,550 --> 00:25:08,550
+Ja, natürlich.
+
+239
+00:25:08,550 --> 00:25:16,550
+Sie haben einiges heidliches Problemen. Mein Vater leidet an Bluthochdruck.
+
+240
+00:25:16,550 --> 00:25:18,550
+Ja.
+
+241
+00:25:18,550 --> 00:25:25,550
+Und meine Mutter ist Adipose und hat Zuckerkrankheit. Alterszucker.
+
+242
+00:25:25,550 --> 00:25:35,690
+Alterszucker. Beide sind unter Kontrolle. Ja?
+
+243
+00:25:35,690 --> 00:25:40,690
+Aber ich denke ja.
+
+244
+00:25:40,690 --> 00:25:43,690
+Haben Sie Geschwister?
+
+245
+00:25:43,690 --> 00:25:45,690
+Nein, Herr Doktor. Ich bin ein Kind.
+
+246
+00:25:45,690 --> 00:25:50,690
+Ein Kind, okay. Frau Schurter, was machen Sie beruflich?
+
+247
+00:25:50,690 --> 00:25:56,940
+Ich bin Managierin meines Mannes.
+
+248
+00:25:56,940 --> 00:25:58,940
+Managierin.
+
+249
+00:25:58,940 --> 00:26:01,940
+Er ist Rechtsanwalt.
+
+250
+00:26:01,940 --> 00:26:11,940
+Ja. Okay, sehr gut. Ich habe das notiert. Ja, natürlich. Sind Sie verheiratet? Haben Sie Kinder?
+
+251
+00:26:11,940 --> 00:26:14,940
+Zwei Töchter haben wir.
+
+252
+00:26:14,940 --> 00:26:21,330
+Zwei Töchter. Sind Sie gesund?
+
+253
+00:26:21,330 --> 00:26:23,330
+Zum Glück sind Sie gesund.
+
+254
+00:26:24,330 --> 00:26:45,180
+Letzte Frage. Frau Schurter, ich vermute, dass Sie schon in den Wechseljahren sind. Aber ich würde gerne wissen, wann war das letzte Mal? Jede Periode.
+
+255
+00:26:45,180 --> 00:26:53,250
+Vielleicht vor zwölf Jahren, Herr Doktor. Zehn Jahre.
+
+256
+00:26:53,250 --> 00:26:56,250
+Zehn Jahre. Ja.
+
+257
+00:26:56,250 --> 00:27:06,250
+Besuchen Sie Ihren Frauenarzt oder Besuchlichkeiten, Frauenärztin, Regenmässige?
+
+258
+00:27:06,250 --> 00:27:18,250
+Ja, Herr Doktor, ich muss besuchen. Sie haben nicht gefragt, aber ich habe früher manche Operationen.
+
+259
+00:27:18,250 --> 00:27:23,250
+Ja, ja, Entschuldigung, ich habe das total vergessen.
+
+260
+00:27:23,250 --> 00:27:36,250
+Meine Geber, Mutter und Eileiter, Eierstorben wurden total entfernt.
+
+261
+00:27:36,250 --> 00:27:39,250
+Total entfernt? Ja. Seit wann?
+
+262
+00:27:39,250 --> 00:27:49,020
+Seit wann? Vor zehn Jahren.
+
+263
+00:27:49,020 --> 00:27:53,020
+Vor zehn Jahren. Entschuldigung, vor zwanzig Jahren.
+
+264
+00:27:53,020 --> 00:27:56,020
+Vor zwanzig Jahren. Ja, ein bisschen. Vor zehn Jahren.
+
+265
+00:27:56,020 --> 00:27:59,020
+Okay, okay, okay.
+
+266
+00:27:59,020 --> 00:28:10,020
+Herr Doktor, ich habe Schmerzen und trotz Ihrer Schmerzmittel habe ich noch Schmerzen. Bitte deilen Sie sich.
+
+267
+00:28:10,020 --> 00:28:20,020
+Ja, okay. Alles gut. Ich bin verwirrt. Ich habe keine Ahnung, was ich sagen soll. Bitte.
+
+268
+00:28:20,020 --> 00:28:24,020
+Letzte Frage. Gibt es noch andere Operationen?
+
+269
+00:28:24,020 --> 00:28:29,500
+Nein, nur das.
+
+270
+00:28:29,500 --> 00:28:41,500
+Nur an Gebärmte entfernt. Alles gut. Frau Schrotter, ich habe mich mit meinen Fragen fertig. Haben Sie an mich Fragen?
+
+271
+00:28:41,500 --> 00:28:50,500
+Nein, Herr Doktor. Ich bitte nur eine Behandlung für meine Schmerzen. Eine Linderung für meine Schmerzen.
+
+272
+00:28:50,500 --> 00:28:56,500
+Ihre Schmerzmittel haben mir nicht geholfen wie Paracetamol.
+
+273
+00:28:56,500 --> 00:29:10,500
+Okay, okay. Ich werde Ihnen erstmal eine Köpfe untersuchen, durchführen und dann Blut für das Labor abnehmen.
+
+274
+00:29:10,500 --> 00:29:23,500
+Gegebenenfalls einen Röntgenbauch und einen Bauchutra-Schal durchführen. Ja, so schnell wie möglich. Ich werde Ihnen ...
+
+275
+00:29:23,500 --> 00:29:30,030
+Danke. Ich warte.
+
+276
+00:29:37,030 --> 00:29:50,780
+Das war es, Frau Obersen.
+
+277
+00:29:50,780 --> 00:29:54,060
+Ring, ring.
+
+278
+00:29:54,060 --> 00:29:56,060
+Hallo.
+
+279
+00:29:56,060 --> 00:30:17,060
+Hallo. Ich bin Frau Müller. Ich rufe Ihnen aus dem Labor. Frau Keller. Frau Keller Kalium-Arzt 2,53 Millimol pro Liter.
+
+280
+00:30:17,060 --> 00:30:21,060
+Frau Keller. Doppel L.
+
+281
+00:30:21,060 --> 00:30:27,060
+Können Sie bitte diese Werte Ihren Oberarztin weiterleiten?
+
+282
+00:30:27,060 --> 00:30:31,060
+Ja, natürlich. Vielen Dank für die Information, Frau Müller.
+
+283
+00:30:31,060 --> 00:30:33,060
+Sehr gerne. Schönen Tag.
+
+284
+00:30:33,060 --> 00:30:35,060
+Vielen Dank.
+
+285
+00:30:35,060 --> 00:31:05,740
+Ich wünsche Ihnen einen schönen Tag.
+
+286
+00:31:05,740 --> 00:31:07,740
+Es ist ein Schöner Tag.
+
+287
+00:31:07,740 --> 00:31:15,230
+Ich muss etwas mit dem Kind machen. Okay, bitte schön. Herr Özywala.
+
+288
+00:31:15,230 --> 00:31:17,230
+Hallo, guten Tag.
+
+289
+00:31:17,230 --> 00:31:19,230
+Guten Tag.
+
+290
+00:31:19,230 --> 00:31:29,770
+Mein Name ist Ekrem Özywala. Ich komme aus der Türkei. Seit drei Jahren bin ich in Deutschland.
+
+291
+00:31:29,770 --> 00:31:41,770
+Bis jetzt habe ich B1, B2 und einen Fachschulprüfungskurs gemacht.
+
+292
+00:31:41,770 --> 00:31:48,770
+Ich habe etwa sieben Monate Hospitalisierung gemacht.
+
+293
+00:31:48,770 --> 00:32:00,080
+Ich möchte gerne wieder als Arzt in Deutschland bearbeiten.
+
+294
+00:32:00,080 --> 00:32:04,080
+Welchen Bereich haben Sie Hospitalisierung gemacht?
+
+295
+00:32:04,080 --> 00:32:35,490
+Ich habe drei Monate in der Gastroenterologie, drei Monate in der Urologie und einen Monat in der Allgemeinen
+
+296
+00:32:35,490 --> 00:32:38,490
+und einen Monat in der Allgemeinen.
+
+297
+00:32:38,490 --> 00:32:43,490
+Was ist das für ein System, das Sie in Deutschland haben?
+
+298
+00:32:43,490 --> 00:32:50,490
+Wir haben viele unterschiedliche Dinge gemacht.
+
+299
+00:32:50,490 --> 00:33:00,660
+Bei uns ist es ein bisschen... Wie soll ich sagen?
+
+300
+00:33:00,660 --> 00:33:08,660
+Ich kann es ein bisschen locker sagen.
+
+301
+00:33:08,660 --> 00:33:17,660
+Bei Ihnen ist das Gesundheitssystem sehr stark und begrenzt.
+
+302
+00:33:17,660 --> 00:33:26,660
+Bei uns ist es ein bisschen freier als das Gesundheitssystem.
+
+303
+00:33:26,660 --> 00:33:29,660
+Was meinen Sie freier?
+
+304
+00:33:29,660 --> 00:33:46,660
+Das Krankenkasseverhalten, gesetzliche Krankenversicherung, das Inhalt bei Ihnen ist sehr begrenzt.
+
+305
+00:33:46,660 --> 00:33:56,660
+Bei uns ist es ein bisschen freier als das Krankenversicherung.
+
+306
+00:33:56,660 --> 00:34:04,660
+Bei uns ist das Krankenversicherungssystem eine Stadt.
+
+307
+00:34:04,660 --> 00:34:08,660
+Wir haben ein städtisches Krankenversicherungssystem.
+
+308
+00:34:08,660 --> 00:34:16,660
+Aber bei Ihnen ist das Gesundheitsversicherungssystem privat.
+
+309
+00:34:16,660 --> 00:34:19,660
+In der Türkei gibt es keine private Krankenversicherung?
+
+310
+00:34:19,660 --> 00:34:30,660
+Meistens gehört das gesetzliche Krankenversicherungssystem an die staatliche Behörde.
+
+311
+00:34:30,660 --> 00:34:33,660
+Was haben Sie heute für uns?
+
+312
+00:34:33,660 --> 00:34:42,660
+Bevor ich meine Patienten vorstelle, habe ich etwas Wichtiges mit Ihnen mitgeteilt.
+
+313
+00:34:42,660 --> 00:34:49,660
+Gerade aus dem Labor Frau Müller habe ich mich angerufen.
+
+314
+00:34:49,660 --> 00:35:04,660
+Unsere Patienten, Frau Keller, haben eine Kaliumwerte von 2,53 Millimitern pro Liter.
+
+315
+00:35:04,660 --> 00:35:21,390
+Die Kaliumwerte sind deutlich erniedrigt und entschädigt an Hypokalämie.
+
+316
+00:35:21,390 --> 00:35:32,010
+Was ist die häufigste Ursache für Hypokalämie?
+
+317
+00:35:33,010 --> 00:35:40,010
+Die häufigste Ursache für Hypokalämie ist die Erbrechen und Diarrhea.
+
+318
+00:35:40,010 --> 00:35:47,010
+Die häufigste Ursache ist die Diuretik Einnahme.
+
+319
+00:35:47,010 --> 00:35:54,010
+Ja, ich habe es anders genutzt.
+
+320
+00:35:55,010 --> 00:36:09,010
+Deswegen ist die Diuretik Erbrechen, Diarrhea, Durchfall und Alkalose respiratorisch oder metabolisch.
+
+321
+00:36:09,010 --> 00:36:14,010
+Okay. Welche Symptome erwarten Sie bei Hypokalämie?
+
+322
+00:36:14,010 --> 00:36:26,010
+Am Anfang sind es Muskelschwäche und Krampf, Reflexabschwächung,
+
+323
+00:36:26,010 --> 00:36:32,010
+z.B. Opspation, Blasenlähmung,
+
+324
+00:36:32,010 --> 00:36:42,450
+und auch EKG-V-Filme und Supraventrikulär-Tachikade.
+
+325
+00:36:42,450 --> 00:36:50,450
+Aber die Prüfer möchten Kama-Filme hören.
+
+326
+00:36:50,450 --> 00:36:57,450
+Sie sagen nur Kama-Filme. Herz-Rythme-Störungen wie Kama-Filme.
+
+327
+00:36:57,450 --> 00:37:01,450
+Herz-Rythme-Störungen wie Kama-Filme.
+
+328
+00:37:01,450 --> 00:37:08,340
+Okay. Wie können Sie die Hypokalämie behandeln?
+
+329
+00:37:08,340 --> 00:37:23,340
+Bei der Schwereformen ist Parantheralcalynechlorid.
+
+330
+00:37:23,340 --> 00:37:29,340
+In der EKG gibt es eine neurologische Befundung.
+
+331
+00:37:29,340 --> 00:37:32,340
+Parantheralcalynechlorid.
+
+332
+00:37:32,340 --> 00:37:36,340
+Erbrechen. Zoltumat.
+
+333
+00:37:36,340 --> 00:37:41,340
+Was bedeutet bei Schwereformen?
+
+334
+00:37:41,340 --> 00:37:48,340
+Schwereformen bedeutet, dass der Patient eine neurologische Auffalle hat.
+
+335
+00:37:49,340 --> 00:38:01,740
+Mit Elektrokardiogramm befindet und auch so wie neurologisch befindet.
+
+336
+00:38:01,740 --> 00:38:13,740
+Bei Schwereformen bedeutet, dass der Kaliumwert unter 2,5 mmol pro Liter liegt.
+
+337
+00:38:14,740 --> 00:38:18,740
+Das bedeutet Schwereunfalle.
+
+338
+00:38:18,740 --> 00:38:21,740
+Schwereunfalle. Okay.
+
+339
+00:38:21,740 --> 00:38:34,020
+Entschuldigung bei meiner Note. Lieseweise.
+
+340
+00:38:34,020 --> 00:38:35,020
+Okay.
+
+341
+00:38:35,020 --> 00:38:38,020
+Okay. Was haben Sie noch für uns?
+
+342
+00:38:38,020 --> 00:38:43,020
+Ich habe heute eine neue Patientin.
+
+343
+00:38:45,330 --> 00:38:49,330
+Es geht um Natalie Schulter.
+
+344
+00:38:49,330 --> 00:38:53,330
+61 Jahre alt.
+
+345
+00:38:53,330 --> 00:38:57,330
+Er war ein Jahr lang Patient.
+
+346
+00:38:57,330 --> 00:39:06,330
+Er wurde am 1.1.1965 geboren.
+
+347
+00:39:06,330 --> 00:39:14,330
+1.65 m groß und 71,3 kg.
+
+348
+00:39:14,330 --> 00:39:31,330
+Natalie Schulter stellte sich heute bei uns vor zwei Stunden plötzlich angefangenen.
+
+349
+00:39:31,330 --> 00:39:43,330
+Sie stellte sich vor, dass die Schmerzen kolikartig und stichend waren.
+
+350
+00:39:43,330 --> 00:39:56,330
+Laut Angaben der Patienten, die Schmerzen ganz plötzlich angefangen.
+
+351
+00:39:56,330 --> 00:40:07,330
+Deswegen hatte sie ein Paracetamol angenommen, aber das kann nicht geholfen.
+
+352
+00:40:07,330 --> 00:40:24,330
+Als Auslöser beschreibt sie seit gestern Abend, sie hatte einen Makrilenröhrchen gegessen.
+
+353
+00:40:25,330 --> 00:40:34,330
+Gestern Abend hat sie ein Makrilenröhrchen gegessen.
+
+354
+00:40:34,330 --> 00:40:36,330
+Nicht seit gestern.
+
+355
+00:40:36,330 --> 00:40:38,330
+Gestern.
+
+356
+00:40:38,330 --> 00:40:41,330
+Bedeutet, sie essen schon.
+
+357
+00:40:41,330 --> 00:40:44,330
+Ja, ja, ja. Ich verstehe.
+
+358
+00:40:45,330 --> 00:40:52,330
+Gestern hat sie einen Makrilenröhrchen gegessen mit ihrer Freundin.
+
+359
+00:40:52,330 --> 00:41:03,610
+Und zwei Stunden. Sie hatte eine Verstärkung über Bauchschmerzen.
+
+360
+00:41:03,610 --> 00:41:15,610
+Als Begleitsymptome klagt sie über Schwäche. Seit gestern total müde.
+
+361
+00:41:15,610 --> 00:41:25,610
+Sie hatte seit acht Wochen einiges Beschwerden, aber das war sehr leicht.
+
+362
+00:41:25,610 --> 00:41:32,610
+Und im Laufe der Zeit wurden die Beschwerden schlimmer.
+
+363
+00:41:32,610 --> 00:41:44,070
+Seit heute Morgen hatte sie zweimal einen Erbruschen.
+
+364
+00:41:44,070 --> 00:41:55,070
+Erbruschen sieht kälblich und esseneste aus, ohne Blut.
+
+365
+00:41:55,070 --> 00:42:07,070
+Seit acht Wochen sieht der Stuhlgang hellbraun aus.
+
+366
+00:42:08,070 --> 00:42:16,740
+In der letzten Zeit war der Stuhlgang etwas dunkler.
+
+367
+00:42:16,740 --> 00:42:18,740
+Dunkler?
+
+368
+00:42:18,740 --> 00:42:24,740
+Dunkler oder... Entschuldigung.
+
+369
+00:42:24,740 --> 00:42:30,740
+Der Stuhlgang war in der letzten Zeit etwas dünner.
+
+370
+00:42:30,740 --> 00:42:33,740
+Der Patient war etwas dünner.
+
+371
+00:42:33,740 --> 00:42:40,160
+Der Stuhl ist dünner?
+
+372
+00:42:40,160 --> 00:42:43,160
+Der Stuhl ist dünner.
+
+373
+00:42:43,160 --> 00:42:52,160
+Seit gestern ist der Rhein etwas dunkler als Alpia.
+
+374
+00:42:52,160 --> 00:43:10,160
+Bei der Veketativanamnese ergaben sich dauerhaft Gesortbrinnen und Schlafstörungen bis auf Veketativanamnese unauffällig.
+
+375
+00:43:10,160 --> 00:43:18,160
+Bei der Vorerkrankunganamnese erwähnte sie eine Hypatroide.
+
+376
+00:43:18,160 --> 00:43:29,160
+Seit zehn Jahren nimmt die Patientin regelmäßig Erdroxin, 100 Milligramm.
+
+377
+00:43:29,160 --> 00:43:32,160
+Milligramm oder Mikrogramm?
+
+378
+00:43:32,160 --> 00:43:34,160
+Mikrogramm.
+
+379
+00:43:35,160 --> 00:43:50,160
+Bei der Voroperationsanamnese, die bei ihr wurde, war sie total hysterisch.
+
+380
+00:43:50,160 --> 00:43:54,160
+Durchgeführt sie...
+
+381
+00:43:54,160 --> 00:43:56,160
+Was bedeutet total hysterisch?
+
+382
+00:43:56,160 --> 00:44:10,160
+Total hysterisch bedeutet bilateral adnexial ovarian, ayasthoka, aylaita, gebermuta und vaginale Kopfexzession.
+
+383
+00:44:10,160 --> 00:44:26,500
+Als Medikamentös erwähnte sie, gerade habe ich gesagt, gegen Hypatroide,
+
+384
+00:44:26,500 --> 00:44:43,500
+nimmt sie Erdroxin, 100 Mikrogramm, täglich morgen, Magnesiumtablet, unklare Dosis, nimmt sie,
+
+385
+00:44:43,500 --> 00:44:57,500
+und Aspirin, 100 Milligramm täglich, einmal, und Minurton, 300 Tablet, einmal täglich regelmäßig.
+
+386
+00:44:57,500 --> 00:45:06,840
+Sie nehmen diese Tablete an, aber ohne ertliche Rat.
+
+387
+00:45:06,840 --> 00:45:13,840
+Wie eine Kollege empfehle ich.
+
+388
+00:45:13,840 --> 00:45:21,080
+Eine Empfehlung von einer Kollegin oder Nachbarn.
+
+389
+00:45:21,080 --> 00:45:26,080
+Bei der Allergie anamnese erwähnte sie eine Nickelallergie.
+
+390
+00:45:26,080 --> 00:45:32,080
+Sie reagiert gegen Nickel, Erdem und Pyrrhythus.
+
+391
+00:45:32,080 --> 00:45:39,080
+In der letzten Zeit hatte sie keine Reisegesichten.
+
+392
+00:45:39,080 --> 00:45:44,080
+Sie ist voll geimpft, so wie gegen Corona.
+
+393
+00:45:44,080 --> 00:45:48,080
+Sie ist nicht Raucherin.
+
+394
+00:45:48,080 --> 00:45:52,080
+Sie...
+
+395
+00:45:52,080 --> 00:46:00,080
+Akkoholkonsum ist ein oder zwei Gläser Wein oder Champagner am Wochenende.
+
+396
+00:46:00,080 --> 00:46:09,080
+Drogenkonsum wurde ein oder zwei Mal pro Monat Cannabis, wurde behaft.
+
+397
+00:46:09,080 --> 00:46:15,080
+Wie oft braucht sie Cannabis?
+
+398
+00:46:15,080 --> 00:46:19,080
+Ein oder zwei Mal pro Monat.
+
+399
+00:46:19,080 --> 00:46:21,080
+Okay.
+
+400
+00:46:21,080 --> 00:46:33,080
+Sie ist nach dem Hysterektom in den Wechseljahren.
+
+401
+00:46:33,080 --> 00:46:40,080
+Sie besucht ihre Frau arztregelmäßig.
+
+402
+00:46:40,080 --> 00:46:46,080
+Sie hatte keine Probleme.
+
+403
+00:46:46,080 --> 00:46:51,080
+Sie war ein Arzt.
+
+404
+00:46:51,080 --> 00:46:58,970
+Sie hatte eine Arteriehypotonie.
+
+405
+00:46:58,970 --> 00:47:03,970
+Sie hatte Diabetes mellitus.
+
+406
+00:47:03,970 --> 00:47:07,970
+Sie hatte eine Adipositas.
+
+407
+00:47:07,970 --> 00:47:11,970
+Sie hatte keine Geschwister.
+
+408
+00:47:11,970 --> 00:47:14,970
+Sie gab sich eine Analyse.
+
+409
+00:47:14,970 --> 00:47:20,970
+Sie ist eine Männin bei dem Kanzler.
+
+410
+00:47:20,970 --> 00:47:27,970
+Sie ist verheiratet und hat zwei Töchter.
+
+411
+00:47:27,970 --> 00:47:33,970
+Als differential Diabetes...
+
+412
+00:47:33,970 --> 00:47:37,970
+Aufgrund der Analyse habe ich den Verdacht auf...
+
+413
+00:47:37,970 --> 00:47:42,970
+Entschuldigung, ich konnte nicht gut konzentrieren.
+
+414
+00:47:42,970 --> 00:47:46,970
+Was ist Ihr Verdacht Diagnose?
+
+415
+00:47:46,970 --> 00:47:50,970
+Ja, habe ich noch nicht gesagt.
+
+416
+00:47:50,970 --> 00:47:58,970
+Aufgrund der Analyse habe ich den Verdacht auf Kulidiasis.
+
+417
+00:47:58,970 --> 00:48:05,970
+Wegen rechtseitiger Oberbauchschmerzen, Überkeit, Erbrechen,
+
+418
+00:48:05,970 --> 00:48:15,970
+dunniger Stuhl, brauner Stuhl und dunkler Urin.
+
+419
+00:48:15,970 --> 00:48:21,970
+Was bedeutet, warum hat sie heile Stuhl oder dunkler Urin?
+
+420
+00:48:21,970 --> 00:48:27,570
+Was ist Ihr Ursache?
+
+421
+00:48:27,570 --> 00:48:30,570
+Was bedeutet das?
+
+422
+00:48:30,570 --> 00:48:37,570
+Es gibt eine Obstruktion, die in der Kohle ist gestaut.
+
+423
+00:48:37,570 --> 00:48:46,570
+Deswegen gibt es in der Darm keine Urinogen.
+
+424
+00:48:47,570 --> 00:48:54,570
+Deswegen gibt es keine Urinogen.
+
+425
+00:48:54,570 --> 00:49:00,570
+Der Stuhl steht ganz heil.
+
+426
+00:49:00,570 --> 00:49:06,570
+Warum ist der Urin dunkel?
+
+427
+00:49:06,570 --> 00:49:13,570
+Warum ist der Urin dunkel?
+
+428
+00:49:13,570 --> 00:49:18,570
+Deswegen steht die Irratation an der ersten Stelle.
+
+429
+00:49:18,570 --> 00:49:25,570
+Natürlich ist in Urin keine Urinogen.
+
+430
+00:49:25,570 --> 00:49:38,570
+Aber wegen der Erbrüche, Überkeit und Unappetanz,
+
+431
+00:49:38,570 --> 00:49:43,570
+ist die Erbrüche sehr wenig.
+
+432
+00:49:43,570 --> 00:49:50,570
+Was erwarten wir bei Galenwegstau?
+
+433
+00:49:50,570 --> 00:49:58,570
+Was erhöht in Blut, wenn eine Galenwegstau vorhanden ist?
+
+434
+00:49:58,570 --> 00:50:04,570
+Der Cholesterol ist sehr hoch.
+
+435
+00:50:04,570 --> 00:50:10,980
+Wer hat dunkler Urin verursacht?
+
+436
+00:50:10,980 --> 00:50:13,980
+Normalerweise.
+
+437
+00:50:13,980 --> 00:50:19,610
+Wer hat Cholesterol?
+
+438
+00:50:19,610 --> 00:50:25,980
+Er erhöht Bilirubin.
+
+439
+00:50:25,980 --> 00:50:33,980
+Er erhöht Bilirubin und noch die Hydratation.
+
+440
+00:50:33,980 --> 00:50:39,980
+Sie haben schon gesagt, dass man nicht viel Wasser trinkt.
+
+441
+00:50:39,980 --> 00:50:44,980
+Sie meinen, dass Bilirubin hoch ist.
+
+442
+00:50:44,980 --> 00:50:49,980
+Er erhöht Bilirubin für dunkler Urin.
+
+443
+00:50:49,980 --> 00:50:54,980
+Bilirubin, Direkt-Bilirubin und Indirekt-Bilirubin.
+
+444
+00:50:54,980 --> 00:51:01,980
+Bei der Blut-Akala-Fosforat und Gamma-Glutamint-Transpept.
+
+445
+00:51:01,980 --> 00:51:06,980
+Sehr hoch.
+
+446
+00:51:06,980 --> 00:51:09,980
+Sie sind alle Cholestase wert?
+
+447
+00:51:09,980 --> 00:51:11,980
+Ja.
+
+448
+00:51:11,980 --> 00:51:16,980
+Wer hat eine Differenzialdiagnose in Betracht?
+
+449
+00:51:16,980 --> 00:51:27,980
+Die Differenzialdiagnose kommt in Betracht an Akutpancreatitis und Akutkornelsyndrom.
+
+450
+00:51:27,980 --> 00:51:33,980
+Sie haben als Verdacht-Diagnose Cholelytiasis erwähnt.
+
+451
+00:51:33,980 --> 00:51:35,980
+Hab ich richtig gehört?
+
+452
+00:51:35,980 --> 00:51:39,980
+Was bedeutet Cholelytiasis?
+
+453
+00:51:39,980 --> 00:51:50,980
+Cholelytiasis bedeutet, dass in der Gallenblase oder in der Gallenwege ein Stein entsteht.
+
+454
+00:51:50,980 --> 00:52:02,980
+Wo hat dieser Patient einen Stein? Wo befindet sich der Stein bei diesem Stein?
+
+455
+00:52:02,980 --> 00:52:12,980
+Es gibt Staunensymptome wie dünne Stuhl und dunkler Urin.
+
+456
+00:52:12,980 --> 00:52:17,980
+Deswegen befindet sich der Stein in der Gallenwege.
+
+457
+00:52:17,980 --> 00:52:20,980
+Choledoktus.
+
+458
+00:52:20,980 --> 00:52:33,980
+Wenn der Patient diese Symptome hat, sage ich Cholelytiasis.
+
+459
+00:52:33,980 --> 00:52:37,980
+Cholelytiasis ist auch nicht falsch.
+
+460
+00:52:37,980 --> 00:52:46,980
+Aber Sie können diese Frage bekommen. Sie haben sehr gut antwortet.
+
+461
+00:52:46,980 --> 00:52:56,980
+Was sollen wir zum Beispiel, wenn ich diese Fälle vorbereite?
+
+462
+00:52:56,980 --> 00:53:04,980
+Ich bin ein bisschen verwirrt. Cholelystitis, Cholelytiasis, Choledoktus.
+
+463
+00:53:04,980 --> 00:53:10,980
+Das ist auch kein Fall Cholecystitis.
+
+464
+00:53:10,980 --> 00:53:15,980
+Das ist sehr selten bei Cholecystitis.
+
+465
+00:53:15,980 --> 00:53:18,980
+Hele Chutul oder dunkler Urin.
+
+466
+00:53:18,980 --> 00:53:20,980
+Das ist möglich natürlich.
+
+467
+00:53:20,980 --> 00:53:23,980
+Das ist sehr selten.
+
+468
+00:53:23,980 --> 00:53:33,980
+Cholelytiasis ist eine gemeinsame Diagnose. Sie können Cholelytiasis erwähnen.
+
+469
+00:53:33,980 --> 00:53:45,980
+Aber wenn Hele Chutul oder dunkler Urin vorhanden sind, können Sie Cholelytiasis nennen.
+
+470
+00:53:45,980 --> 00:53:50,650
+Das ist spezifisch.
+
+471
+00:53:50,650 --> 00:54:03,650
+Ich denke, bei der Note am Anfang Cholelytiasis geschrieben.
+
+472
+00:54:03,650 --> 00:54:12,650
+Dann Cholelytiasis korrigieren.
+
+473
+00:54:12,650 --> 00:54:16,250
+Auf der Note.
+
+474
+00:54:17,250 --> 00:54:19,250
+Wer?
+
+475
+00:54:19,250 --> 00:54:21,250
+Ich?
+
+476
+00:54:21,250 --> 00:54:26,250
+Nein, das ist die Situation.
+
+477
+00:54:26,250 --> 00:54:30,250
+Die Situation der Patientin verändert sich auf die Spielzeit.
+
+478
+00:54:30,250 --> 00:54:35,250
+Wenn es keine Hele Chutul oder dunkler Urin gibt, dann Cholelytiasis.
+
+479
+00:54:35,250 --> 00:54:38,250
+Denn Sie können die Erkennung nicht genau beachten.
+
+480
+00:54:38,250 --> 00:54:40,250
+Ich verstehe.
+
+481
+00:54:40,250 --> 00:54:43,250
+Aber wenn es eine Hele Chutul oder dunkler Urin gibt, dann muss man das nicht nennen.
+
+482
+00:54:43,250 --> 00:54:45,250
+Dann gibt es Cholelytiasis.
+
+483
+00:54:45,250 --> 00:54:47,250
+Dann Cholelytiasis.
+
+484
+00:54:47,250 --> 00:54:49,250
+Ich dachte Cholelytiasis.
+
+485
+00:54:49,250 --> 00:54:51,250
+Denn es gibt eine Hele Chutul.
+
+486
+00:54:51,250 --> 00:54:53,250
+Das ist ein Symptom.
+
+487
+00:54:53,250 --> 00:54:58,250
+Aber wenn es keine Hele Chutul gibt, dann ist es nur Rehteobobachsmer.
+
+488
+00:54:58,250 --> 00:55:00,250
+Aber das kann man nicht localisieren.
+
+489
+00:55:00,250 --> 00:55:03,250
+Cholecystit ist hier.
+
+490
+00:55:03,250 --> 00:55:05,250
+Was sagt das?
+
+491
+00:55:05,250 --> 00:55:11,250
+Sie können es nicht typisch spielen, ohne Off-Syriksion.
+
+492
+00:55:11,250 --> 00:55:14,250
+Ich habe das in Erfarung gelesen.
+
+493
+00:55:14,250 --> 00:55:19,250
+In Erfarung kann man Cholelytiasis nennen, wenn es eine Hele Chutul oder dunkler Urin gibt.
+
+494
+00:55:19,250 --> 00:55:23,250
+Wenn es keine Hele Chutul gibt, dann Cholelytiasis.
+
+495
+00:55:23,250 --> 00:55:25,250
+Ich sage das auch.
+
+496
+00:55:25,250 --> 00:55:32,250
+Wenn es eine Hele Chutul oder dunkler Urin gibt, dann muss man das nicht nennen.
+
+497
+00:55:32,250 --> 00:55:34,250
+Dann muss man Cholelytiasis nennen.
+
+498
+00:55:34,250 --> 00:55:39,250
+Oder wenn es eine Hele Chutul gibt, dann kann es nicht Cholecystit sein.
+
+499
+00:55:40,250 --> 00:55:42,250
+Danke, Büyükmü.
+
+500
+00:55:42,250 --> 00:55:50,250
+Büyükmü, ich möchte dich fragen, ob Cholelytiasis oder Cholelytiasis oder Cholelytiasis nennen.
+
+501
+00:55:50,250 --> 00:55:53,250
+Sollte es Cholelytiasis sein.
+
+502
+00:55:53,250 --> 00:55:56,250
+Okay, Cholelytiasis.
+
+503
+00:55:56,250 --> 00:55:58,250
+Es ist keine Cholelytiasis.
+
+504
+00:55:58,250 --> 00:56:00,250
+Okay, danke.
+
+505
+00:56:02,250 --> 00:56:05,250
+Welche Diagnostik müssen wir noch weiter machen?
+
+506
+00:56:05,250 --> 00:56:15,250
+Um die Verdachter-Nase zu bestätigen, werde ich zunächst eine körperliche Untersuchung durchführen.
+
+507
+00:56:15,250 --> 00:56:19,250
+Dann ein Blut für das Labor abnehmen.
+
+508
+00:56:19,250 --> 00:56:30,250
+Bei der Blut-Labor, Cholestas, Enzyme, Akronfosforz, Askaramagul, Tamiltras, Peptas und Bilirubin.
+
+509
+00:56:30,250 --> 00:56:36,250
+Pankratische Enzyme, Lipas, Amylase und Herz-Enzyme.
+
+510
+00:56:36,250 --> 00:56:41,250
+Troponin T.
+
+511
+00:56:41,250 --> 00:56:44,250
+Elektrolytische Nieren und Lebewerte.
+
+512
+00:56:44,250 --> 00:56:55,250
+Gegenbeinfalt, Urinstatus und Stuhldiagnostik kontrollieren lassen.
+
+513
+00:56:56,250 --> 00:57:07,250
+Anschließend werde ich eine Sonographie gegeben, als ein CT veranlassen.
+
+514
+00:57:07,250 --> 00:57:14,250
+Und eine chirurgische Konzil werde ich anfordern.
+
+515
+00:57:14,250 --> 00:57:22,320
+Okay. Wie können Sie behandeln?
+
+516
+00:57:22,320 --> 00:57:30,320
+Ich würde gerne diese Patientstation aufnehmen.
+
+517
+00:57:30,320 --> 00:57:44,320
+Als Initial-Therapie würde ich gerne Physikalsophon, Elektrolytische Substitution, Nahrungskaren,
+
+518
+00:57:44,320 --> 00:57:58,370
+Nahrungskaren durchführen, so wie Analgetikum, Antipirotikum, Antispasmolythik verabreichen.
+
+519
+00:57:58,370 --> 00:58:04,370
+Warum geben Sie Antipirotikum? Hat der Patient Fieber?
+
+520
+00:58:04,370 --> 00:58:09,370
+Nein, der Patient hat kein Fieber.
+
+521
+00:58:09,370 --> 00:58:11,370
+Dann sagen Sie nicht.
+
+522
+00:58:12,370 --> 00:58:19,370
+Analgetikum und Antispasmolythikum verabreichen.
+
+523
+00:58:19,370 --> 00:58:23,370
+Antispasmolythikum oder Spasmolythikum?
+
+524
+00:58:23,370 --> 00:58:27,370
+Spasmolythikum, ja.
+
+525
+00:58:27,370 --> 00:58:34,370
+Antispasmolythik, Spasmolythikum.
+
+526
+00:58:34,370 --> 00:58:42,370
+Bei der Urologie sagen wir immer Antikollinareschik.
+
+527
+00:58:42,370 --> 00:58:52,370
+Zum Beispiel Buskopan. Antikollinareschik, Spasmolythik oder Antikollinareschik.
+
+528
+00:58:52,370 --> 00:59:06,370
+Und gegebenenfalls eine Antibiotikum-Therapie werden sollen.
+
+529
+00:59:06,370 --> 00:59:11,700
+Okay.
+
+530
+00:59:15,700 --> 00:59:33,700
+Haben Sie eine Meinung, wie Gastroenterologie, Gastroenterologie oder Heroic diesen Fallen behandelt?
+
+531
+00:59:33,700 --> 00:59:43,700
+Ja, als erste Masse, die Gastroenterologie, erste Diagnose Methoden ist ERCP.
+
+532
+00:59:43,700 --> 00:59:57,330
+Was steht ERCP?
+
+533
+00:59:57,330 --> 01:00:06,610
+ERCP ist endoskopische Pancreatokollangiografie.
+
+534
+01:00:06,610 --> 01:00:09,610
+Endoskopische Retirograta?
+
+535
+01:00:09,610 --> 01:00:14,610
+Endoskopische Retirograta Pancreatokollangiographie.
+
+536
+01:00:14,610 --> 01:00:28,050
+Bei der ERCP sind es invasive Unterdrückmethode.
+
+537
+01:00:28,050 --> 01:00:42,430
+Bei der ERCP können die Kalmung und Bauchspeicheldunus beurteilen.
+
+538
+01:00:42,430 --> 01:00:56,430
+Dann wird ein dünner Schlauch durch den Mund bis zum dünnen Darm eingeführt.
+
+539
+01:00:56,430 --> 01:01:12,930
+Dann werden die Kalmungen und Bauchspeicheldürschen mit einer Kontrastmittel in die Röntgenbilder gemacht.
+
+540
+01:01:12,930 --> 01:01:36,930
+Dadurch können wir eine Veränderung beurteilen und eine Therapie veranstalten.
+
+541
+01:01:36,930 --> 01:01:46,930
+Er ist also eine Diagnose als Arthroptherapeutisch?
+
+542
+01:01:46,930 --> 01:01:50,930
+Ja, Diagnose als Arthroptherapeutisch.
+
+543
+01:01:50,930 --> 01:01:56,930
+Ich kann es euch empfehlen, Zytvan zu benutzen.
+
+544
+01:03:26,930 --> 01:03:29,930
+Wir machen normalerweise 18-10 Minuten.
+
+545
+01:03:29,930 --> 01:03:34,930
+Deswegen kann man sich etwas aufhören.
+
+546
+01:03:34,930 --> 01:03:36,930
+Man kann es sich aufhören.
+
+547
+01:03:36,930 --> 01:03:39,930
+Wenn man sich aufhört, ist es auch leicht, es zu üben.
+
+548
+01:03:39,930 --> 01:03:42,930
+Jetzt müssen wir das langsam erinnern.
+
+549
+01:03:42,930 --> 01:03:46,930
+Ich bin nicht auf die Zeit, 18 Minuten zu beenden.
+
+550
+01:03:46,930 --> 01:03:52,930
+Es wäre gut, wenn man bis zum Test 20-21 Minuten oder so endet.
+
+551
+01:04:57,180 --> 01:05:01,180
+Ich bin nicht auf die Zeit, um zu beenden.
+
+552
+01:05:01,180 --> 01:05:04,180
+Genau, ich bin auf die Zeit, um es zu beenden.
+
+553
+01:05:04,180 --> 01:05:09,180
+Ich versuche heute, Ekrem abzuhalten, um in 3-4 Minuten zu sein.
+
+554
+01:05:09,180 --> 01:05:12,180
+Aber die Kale ist nicht nötig.
+
+555
+01:05:12,180 --> 01:05:17,180
+Das ist ein Faktor, das vielleicht auch Florian spielen kann.
+
+556
+01:05:17,180 --> 01:05:19,180
+Das ist der Grund.
+
+557
+01:05:19,180 --> 01:05:23,460
+Ekrem kann es nicht mehr.
+
+558
+01:05:24,460 --> 01:05:29,460
+Es gibt viele Fragen, aber ich habe nicht so viele.
+
+559
+01:05:29,460 --> 01:05:31,460
+Ich habe es mir gut erkannt.
+
+560
+01:05:31,460 --> 01:05:33,460
+Es gibt viele Fragen.
+
+561
+01:05:33,460 --> 01:05:36,460
+Du bist jetzt eher der Master bei den Orden.
+
+562
+01:05:36,460 --> 01:05:39,460
+Du fragst die Fragen nicht so viel.
+
+563
+01:05:39,460 --> 01:05:42,460
+Das ist ein guter Anfang.
+
+564
+01:05:42,460 --> 01:05:46,860
+Danke.
+
+565
+01:05:46,860 --> 01:05:49,860
+Ich habe etwas nicht gesagt.
+
+566
+01:05:49,860 --> 01:05:52,860
+Ich habe es mit diesem Grund gesagt.
+
+567
+01:05:52,860 --> 01:05:55,860
+Das melde ich dir.
+
+568
+01:05:56,860 --> 01:05:59,860
+Guten Tag.
+
+569
+01:05:59,860 --> 01:06:03,860
+Heute habe ich eine neue Patientin aufgenommen.
+
+570
+01:06:03,860 --> 01:06:06,860
+Aber bevor ich meine Patientin vorstelle,
+
+571
+01:06:06,860 --> 01:06:09,860
+möchte ich Ihnen etwas Wichtiges erzählen.
+
+572
+01:06:09,860 --> 01:06:12,860
+Ich habe einen Anruf aus dem Labor bekommen.
+
+573
+01:06:12,860 --> 01:06:18,860
+Ich soll Ihnen sagen, dass ...
+
+574
+01:06:18,860 --> 01:06:29,220
+Kalium Spiegel von 2,7 mmol pro Liter hat. Dieser Wert ist deutlich erneuert und entspricht
+
+575
+01:06:29,220 --> 01:06:37,940
+Hypokalämie. Nun möchte ich über meine Patientenberichten, darf ich vorstellen?
+
+576
+01:06:37,940 --> 01:06:39,340
+Ja, bitte schön.
+
+577
+01:07:14,110 --> 01:07:37,870
+Hier ist der Direktor, Natalie Schulter. Sie ist 57 Jahre alt, geboren am 1.1.1963. Sie ist 1,65 m groß und wiegt 71 kg.
+
+578
+01:07:37,870 --> 01:07:47,110
+Sie kam heute zu uns wegen seit zwei Stunden bestehender starker Schmerzen im rechten Oberbauch.
+
+579
+01:07:47,110 --> 01:07:56,110
+Laut Aussage der Patientin sind die Schmerzen plötzlich, nachdem sie von M'Quel und Rölchen
+
+580
+01:07:56,110 --> 01:08:06,270
+aufgetreten. Sie berichtet, dass die Schmerzen in der rechten Schulter aus Strahlen ausreichen.
+
+581
+01:08:06,270 --> 01:08:16,310
+Nach Angaben der Patienten sind die Schmerzen kohligartig und stechen.
+
+582
+01:08:16,510 --> 01:08:32,270
+Schmerzintensität liegt bei 8 von 10 auf der NRS. Außerdem erwähnt sie, dass sie seit acht Wochen
+
+583
+01:08:32,270 --> 01:08:36,750
+ein bisschen Beschwerden hat, aber die Schmerzen im Laufe der Zeit schlimmer geworden sind.
+
+584
+01:08:37,190 --> 01:08:50,380
+Begleitend klagt sie über Übelkeit. Seit einer Woche erwischen sie seit heute Morgen
+
+585
+01:08:50,380 --> 01:09:00,300
+zweimal mit Speiserwüste und Galle. Darüber hinaus hat sie eine Woche wässrigen braunen
+
+586
+01:09:00,300 --> 01:09:23,480
+Stuhlgang sowie dunklen Urin. Vegetative anamnestisch ergaben sich Müdigkeit,
+
+587
+01:09:24,120 --> 01:09:34,120
+schmerzbedingte Insomnie und Inapetens. Ansonsten ist die vegetative Anamnese unauffällig.
+
+588
+01:09:34,120 --> 01:09:43,040
+In der Gynäkologischen Anamnese, oder, ja, in der Gynäkologischen Anamnese,
+
+589
+01:09:43,040 --> 01:09:46,320
+Operation, oder Gynäkologin, Anamnese, da müssen wir das auch sagen?
+
+590
+01:09:46,320 --> 01:09:47,320
+Operation, Operation.
+
+591
+01:09:47,320 --> 01:09:54,160
+Okay, ja, unauffällig. An auf Vorerkrankungen leidet sie seit zehn Jahren. Hypothyreose.
+
+592
+01:09:54,160 --> 01:10:02,480
+An Operationen ist eine transvaginale Hysterotomie vor zehn Jahren bekannt.
+
+593
+01:10:02,480 --> 01:10:12,200
+Der Patient nimmt L2Oc in 100 Mikrogramm, Magnesium, Aspirin 100 Milligramm und
+
+594
+01:10:12,200 --> 01:10:25,240
+Venorutin ein. Sie hat eine Nickelallergie, die sich durch Pyruritis und Eruthemäuse äußert.
+
+595
+01:10:25,240 --> 01:10:35,600
+Sie trinkt zwei Gläser, ein bis zwei Gläser Champagner pro Woche. Die Familienanamnese,
+
+596
+01:11:05,600 --> 01:11:26,100
+die Familienanamnese ergab, Entschuldigung, bei der Vater, ja, ergab eine Bluthochdruck bei
+
+597
+01:11:26,100 --> 01:11:41,540
+der Vater und Arterielle Hypertonie bei der Vater. Adipositas und Typ 2 Diabetes mellitus bei der Mutter bekannt.
+
+598
+01:11:41,540 --> 01:11:53,980
+Sozialanamnistisch ist die Managierin ihres Mannes verheiratet und hat zwei gesunde Töchter,
+
+599
+01:11:54,940 --> 01:12:05,100
+ja, die Familienanamnese ergab, die Familienanamnese ergab, Arterielle Hypertonie bei der Vater,
+
+600
+01:12:05,100 --> 01:12:10,940
+Adipositas, Diabetes mellitus, Typ 2 bei der Mutter. Das ist genug, es ist nicht nötig, Bekannt zu sein.
+
+601
+01:12:10,940 --> 01:12:15,940
+Bekannt demen Sie es, ergebote ihn.
+
+602
+01:12:15,940 --> 01:12:23,940
+Ja, ich habe gehört.
+
+603
+01:12:23,940 --> 01:12:32,940
+Nach dem anamnestischen Angaben habe ich den Verdacht auf eine Koledokolithiasis.
+
+604
+01:12:32,940 --> 01:12:58,890
+Dafür sprechen die kollegartigen rechtseitigen Oberbauchschmerzen mit Ausstrahlung in die rechte Schulter, dunkler Urin und hellbrauner Stuhl Übelkeit erbrechen.
+
+605
+01:12:58,890 --> 01:13:09,420
+Ja, Differenzialdiagnostik kommen akute Pancreatitis Ulcus ventriculii in Betracht.
+
+606
+01:13:09,420 --> 01:13:20,420
+Um meine Verdacht Diagnose zu bestätigen, werde ich zunächst eine körperliche Untersuchung durchführen.
+
+607
+01:13:20,420 --> 01:13:27,420
+Anschließend werde ich die Vitalparameter überwachen und Blut für das Labor abnehmen.
+
+608
+01:13:27,420 --> 01:13:48,420
+Dann werde ich die Blutpil, die Entsündungsparameter, die Labor und Nieren, die Cholestasenparameter, die Lipidprofil, die Amylase, die Lipase und die Herzensüme kontrollieren lassen.
+
+609
+01:13:49,420 --> 01:14:03,420
+Wenn Sie als Differenzialdiagnose Akutkoronarezentrum nicht genannt haben, dann benötigen Sie nicht Herzensüme zu nennen.
+
+610
+01:14:03,420 --> 01:14:13,420
+Aber EKG ist, weil es gut ist, aber Herzensüme kann ich entfernen.
+
+611
+01:14:13,420 --> 01:14:24,420
+Das ist nicht so falsch, aber vielleicht fragen Sie die Prüferinnen und Prüfer, warum sie eine Herzensüme nennen möchten.
+
+612
+01:14:24,420 --> 01:14:42,420
+Sie können einfach antworten. Ich habe nicht Akutkoronarezentrum als Differenzialdiagnose genannt, aber sie hat Oberbauchschmerzen, rechte seitliche Oberbauchschmerzen und Myokartinfarkt kann unter Bauchschmerzen verstecken.
+
+613
+01:14:43,420 --> 01:14:50,420
+Sie können es so erklären. Wenn Sie es erklären können, müssen Sie sich nicht für etwas für sich interessieren.
+
+614
+01:14:50,420 --> 01:14:54,420
+Ob es richtig oder falsch ist, kann man etwas sagen. Es ist nicht wichtig, ob es richtig oder falsch ist.
+
+615
+01:14:54,420 --> 01:14:58,420
+Kann man darüber sprechen? Es ist kein Problem.
+
+616
+01:15:00,420 --> 01:15:12,420
+Man denkt, dass man vor dem Test alles richtig sagen muss, alles richtig machen muss, alles falsch machen muss, das Doktor kann das auch falsch machen.
+
+617
+01:15:12,420 --> 01:15:17,420
+Aber wenn man es richtig sagt, kann man es nicht falsch machen.
+
+618
+01:15:17,420 --> 01:15:20,420
+Es ist nicht wichtig, ob man es richtig sagt oder falsch sagt.
+
+619
+01:15:20,420 --> 01:15:23,420
+Natürlich ist es wichtig, dass man alles falsch sagt.
+
+620
+01:15:23,420 --> 01:15:27,420
+Es kann ein schlechter Begabtrag sein, aber es ist nicht so wichtig.
+
+621
+01:15:27,420 --> 01:15:30,900
+Danke.
+
+622
+01:15:31,900 --> 01:15:45,900
+Des Weiteren werde ich solche Abdomen durchführen und ein chirurgisches Konzil anfordern.
+
+623
+01:15:45,900 --> 01:15:57,900
+Sollte sich die Verdachtdiagnose bestätigen, werde ich die Patienten stationär aufnehmen.
+
+624
+01:15:58,900 --> 01:16:22,900
+Als Initialtherapie empfehle ich Flüssigkeit zuvor, Elektrolytsubstitution, Magenschon in der Ernährung, Nikotinkarenz, Alkoholkarenz sowie symptomatische Analgetik und Antimetik.
+
+625
+01:17:27,310 --> 01:17:34,310
+Ich habe nicht gesagt, dass ich das machen werde, aber das ist ein ErCP-Nahme.
+
+626
+01:17:34,310 --> 01:17:39,310
+In diesem Fall muss man die Reaktion anpassen, ob man es macht oder nicht.
+
+627
+01:17:39,310 --> 01:17:41,310
+Danke.
+
+628
+01:17:41,310 --> 01:17:45,310
+Danke, dass ihr das sehr gut vorgebracht habt.
+
+629
+01:17:45,310 --> 01:17:49,310
+Ich habe ein paar Dinge gesagt, die ich vorgebracht habe, aber es gibt auch Fehler, die möglich sind.
+
+630
+01:17:49,310 --> 01:17:54,310
+Es kann auch im Test sein, aber es ist nicht wichtig, dass es Fehler gibt.
+
+631
+01:17:54,310 --> 01:18:02,310
+Ich habe die Möglichkeit, dass ich mehr zu viel zu den Fehler gemacht habe.
+
+632
+01:18:02,310 --> 01:18:06,310
+Ich habe die Möglichkeit, dass ich mehr zu viel zu Fehler gemacht habe.
+
+633
+01:18:06,310 --> 01:18:09,310
+Aber es ist sehr schön, dass ihr das vorgebracht habt.
+
+634
+01:18:09,310 --> 01:18:10,310
+Danke.
+
+635
+01:18:10,310 --> 01:18:15,310
+Herr Kuhl, kann ich in diesem Patienten eine Schmerzmittel geben?
+
+636
+01:18:15,310 --> 01:18:18,310
+Du machst das in allen Patienten.
+
+637
+01:18:18,310 --> 01:18:20,310
+Du hast das sehr gut gemacht.
+
+638
+01:18:20,310 --> 01:18:23,310
+Wie ist meine Variation?
+
+639
+01:18:23,310 --> 01:18:26,310
+Der Patient hat es vor einer Stunde bekommen.
+
+640
+01:18:26,310 --> 01:18:28,310
+Der Patient hat immer noch Schmerzen.
+
+641
+01:18:28,310 --> 01:18:30,310
+Du musst noch eine Stunde geben.
+
+642
+01:18:30,310 --> 01:18:32,310
+Es ist ein anderer Grupp.
+
+643
+01:18:32,310 --> 01:18:34,310
+Ich habe hier Ibuprofen.
+
+644
+01:18:34,310 --> 01:18:37,310
+Ich habe hier Parasiton.
+
+645
+01:18:37,310 --> 01:18:39,310
+Ich habe hier Parasiton.
+
+646
+01:18:39,310 --> 01:18:43,310
+Ich habe den Patienten gesagt, dass er sehr stark ist.
+
+647
+01:18:43,310 --> 01:18:45,310
+Ich habe keine weiteren Fragen.
+
+648
+01:18:45,310 --> 01:18:48,310
+Ich habe keine weiteren Fragen.
+
+649
+01:19:18,310 --> 01:19:21,310
+Ich habe die Frage, wieso ich das gefragt habe.
+
+650
+01:19:21,310 --> 01:19:23,310
+Welche Medikamente ich bekommen habe,
+
+651
+01:19:23,310 --> 01:19:25,310
+ob sie sich gut oder schlecht verursachen.
+
+652
+01:19:25,310 --> 01:19:28,310
+Ich werde die Frage beantworten, welche Medikamente ich geben kann.
+
+653
+01:19:28,310 --> 01:19:30,310
+Ob es Alergen gibt.
+
+654
+01:19:30,310 --> 01:19:33,310
+Wir haben in unseren Karten Alergen von Novalgin.
+
+655
+01:19:33,310 --> 01:19:36,310
+Ich kann es nicht geben, wenn es Alergen gibt.
+
+656
+01:19:36,310 --> 01:19:40,310
+Ich frage diese Fragen, um zu beantworten, welche Medikamente ich geben kann.
+
+657
+01:19:40,310 --> 01:19:42,310
+Und dann gebe ich Schmerzmittel.
+
+658
+01:19:42,310 --> 01:19:48,310
+Bekomme ich Schmerzen ohne Scherzen?
+
+659
+01:19:48,310 --> 01:19:50,310
+Nein, ich frage.
+
+660
+01:19:50,310 --> 01:19:52,310
+Ich sage, dass es sehr stark ist.
+
+661
+01:19:52,310 --> 01:19:54,310
+Der Patient sagt, dass es sehr stark ist.
+
+662
+01:19:54,310 --> 01:19:58,310
+Ich sage, dass es sehr stark ist.
+
+663
+01:19:58,310 --> 01:20:01,310
+Scherzen ohne Scherzen ist nicht gut.
+
+664
+01:20:01,310 --> 01:20:04,310
+Der Patient hat es schon ein paar Mal gesagt.
+
+665
+01:20:04,310 --> 01:20:06,310
+Er hat zuerst sehr stark gesagt.
+
+666
+01:20:06,310 --> 01:20:09,310
+Dann hat er zuerst gesagt, dass es sehr stark ist.
+
+667
+01:20:09,310 --> 01:20:12,310
+Der Patient hat gesagt, dass es sehr stark ist.
+
+668
+01:20:12,310 --> 01:20:15,310
+Das tut mir so, als ob ich es schwer hätte.
+
+669
+01:20:15,310 --> 01:20:19,310
+Können Sie mir sagen, wie stark Schmerzen auf einer Schmerzskala sind?
+
+670
+01:20:19,310 --> 01:20:21,310
+Wenn es ein leichter Schmerzen ist,
+
+671
+01:20:21,310 --> 01:20:23,310
+ist es sehr stark.
+
+672
+01:20:23,310 --> 01:20:26,310
+Er hat gesagt, dass es sehr stark ist.
+
+673
+01:20:26,310 --> 01:20:31,310
+Kann ich Ihnen sofort ein Schmerzmittel geben, wenn Sie möchten?
+
+674
+01:20:31,310 --> 01:20:33,310
+Dann gibt es Alergen.
+
+675
+01:20:33,310 --> 01:20:35,310
+Wenn ich eine andere Medikamente habe,
+
+676
+01:20:35,310 --> 01:20:38,560
+dann gebe ich Schmerzmittel.
+
+677
+01:21:08,560 --> 01:21:12,560
+Das ist wichtig, um die Schmerzen zu verstehen.
+
+678
+01:21:12,560 --> 01:21:14,560
+Das ist mir logisch.
+
+679
+01:21:14,560 --> 01:21:16,560
+Das ist mir logisch.
+
+680
+01:21:16,560 --> 01:21:21,560
+Schmerzen ist nicht alles.
+
+681
+01:21:21,560 --> 01:21:23,560
+Das ist der Patient.
+
+682
+01:21:23,560 --> 01:21:26,560
+Der Patient kann 10 oder 5 sein.
+
+683
+01:21:26,560 --> 01:21:29,560
+Der Patient kann 10 oder 5 sein.
+
+684
+01:21:29,560 --> 01:21:32,560
+Schmerzen ist nicht alles.
+
+685
+01:21:32,560 --> 01:21:34,560
+Das ist der Patient.
+
+686
+01:21:34,560 --> 01:21:36,560
+Das ist der Patient.
+
+687
+01:21:36,560 --> 01:21:38,560
+Das ist mein Schmerzmittel.
+
+688
+01:21:38,560 --> 01:21:41,560
+Aber das muss man ändern.
+
+689
+01:21:41,560 --> 01:21:44,560
+Das ist etwas, das in der eigenen Zeit ist.
+
+690
+01:21:44,560 --> 01:21:48,560
+Aber der Patient kann es sich an die 4 oder 5 Fragen beantworten.
+
+691
+01:21:48,560 --> 01:21:52,560
+Ich habe Schmerzen, seit gestern Abend Schmerzen,
+
+692
+01:21:52,560 --> 01:21:55,560
+ob ich Schmerzen habe, Rechseitege,
+
+693
+01:21:55,560 --> 01:21:58,560
+und ich habe einen Med-Brötchen gegessen,
+
+694
+01:21:58,560 --> 01:22:02,560
+dann habe ich Schmerzen, plötzlich, angefangen,
+
+695
+01:23:02,560 --> 01:23:04,560
+und dann kann ich es etwas bewegen.
+
+696
+01:23:04,560 --> 01:23:08,060
+So.
+
+697
+01:23:08,060 --> 01:23:10,060
+Jetzt, um es zu beenden,
+
+698
+01:23:10,060 --> 01:23:12,060
+sage ich die Fragen.
+
+699
+01:23:12,060 --> 01:23:14,060
+Die andere Gruppe beginnt mit 11.
+
+700
+01:23:14,060 --> 01:23:18,060
+Schauen Sie, das ist die Situation mit dem Gastrointestinal System.
+
+701
+01:23:18,060 --> 01:23:20,060
+Es gibt keine große Unterschiede,
+
+702
+01:23:20,060 --> 01:23:22,060
+wenn man die Fragen stellt.
+
+703
+01:23:22,060 --> 01:23:24,060
+Was war hier?
+
+704
+01:23:24,060 --> 01:23:26,060
+Die Fragen, die mit Schmerzen zu tun haben,
+
+705
+01:23:26,060 --> 01:23:28,060
+dann Übigkeit, Erbrechen, Stülgang, Vasalasen,
+
+706
+01:23:28,060 --> 01:23:30,060
+wenn es eine Symptome gibt,
+
+707
+01:23:30,060 --> 01:23:32,060
+dann werden wir sie intensiv machen.
+
+708
+01:23:32,060 --> 01:23:36,060
+Dann kommen wir zu der Vagatative Anamnese.
+
+709
+01:23:36,060 --> 01:23:38,060
+Nachschweiß, Kassschweiß, Fieber,
+
+710
+01:23:38,060 --> 01:23:42,060
+dann Apathit, Gewichtveränderung, Schlaf,
+
+711
+01:23:42,060 --> 01:23:44,060
+und Herz und Lungen.
+
+712
+01:23:44,060 --> 01:23:46,060
+Leidense und Brüsschenmerzen,
+
+713
+01:23:46,060 --> 01:23:50,060
+Engelgefühl, Lufnod oder Herzrasen.
+
+714
+01:23:50,060 --> 01:23:52,060
+Diese Fragen sind die selbe.
+
+715
+01:23:52,060 --> 01:23:54,060
+Die anderen sind die selbe.
+
+716
+01:23:54,060 --> 01:23:56,060
+Die Fragen sind immer so.
+
+717
+01:23:56,060 --> 01:23:58,060
+Wenn Sie eine Reaktion haben,
+
+718
+01:23:58,060 --> 01:24:00,060
+die Sie in diesem Patienten-Ausgabe stellen,
+
+719
+01:24:00,060 --> 01:24:02,060
+dann ist die Reaktion schwer.
+
+720
+01:24:02,060 --> 01:24:04,060
+Das ist das Wichtigste.
+
+721
+01:24:04,060 --> 01:24:06,060
+Das ist das Wichtigste in der Gastrointestinal System.
+
+722
+01:24:06,060 --> 01:24:08,060
+Haben Sie noch andere Fragen?
+
+723
+01:24:08,060 --> 01:24:10,060
+Oder was Sie für eine Reaktion haben?
+
+724
+01:24:10,060 --> 01:24:12,060
+Was ist da?
+
+725
+01:24:12,060 --> 01:24:16,060
+Ich denke, das war das Down-Syndrom.
+
+726
+01:24:16,060 --> 01:24:18,060
+Kann es ein Kind haben?
+
+727
+01:24:18,060 --> 01:24:20,060
+Das war heute nicht so.
+
+728
+01:24:20,060 --> 01:24:23,760
+Das ist auch so.
+
+729
+01:24:23,760 --> 01:24:25,760
+Wenn Sie so etwas fragen,
+
+730
+01:24:25,760 --> 01:24:27,760
+kann es ein Kind haben?
+
+731
+01:24:27,760 --> 01:24:29,760
+Ja.
+
+732
+01:24:29,760 --> 01:24:31,760
+Warum fragt sie das?
+
+733
+01:24:31,760 --> 01:24:33,760
+Auf jeden Fall kann es ein Kind haben.
+
+734
+01:24:33,760 --> 01:24:35,760
+Aber ich empfehle Ihnen,
+
+735
+01:24:35,760 --> 01:24:37,760
+dass Ihre Schwester
+
+736
+01:24:37,760 --> 01:24:39,760
+mit einem Frauenarzt sprechen kann.
+
+737
+01:24:39,760 --> 01:24:41,760
+Das ist so.
+
+738
+01:24:41,760 --> 01:24:43,760
+Das ist ein Down-Syndrom.
+
+739
+01:24:43,760 --> 01:24:45,760
+Das ist ein Angriff,
+
+740
+01:24:45,760 --> 01:24:47,760
+dass Sie Kinder haben.
+
+741
+01:24:47,760 --> 01:24:49,760
+Das habe ich schon gesagt.
+
+742
+01:24:49,760 --> 01:24:51,760
+Natürlich gibt es eine Reaktion.
+
+743
+01:24:51,760 --> 01:24:53,760
+Das ist ein Angriff.
+
+744
+01:24:53,760 --> 01:24:55,760
+Das ist ein Angriff.
+
+745
+01:24:55,760 --> 01:24:57,760
+Das ist ein Angriff.
+
+746
+01:24:57,760 --> 01:24:59,760
+Das habe ich schon gesagt.
+
+747
+01:24:59,760 --> 01:25:01,760
+Natürlich kann es ein Baby haben.
+
+748
+01:25:01,760 --> 01:25:03,760
+Aber das muss ein Frauenarzt sprechen.
+
+749
+01:25:03,760 --> 01:25:05,760
+Das ist das.
+
+750
+01:25:05,760 --> 01:25:07,760
+Das kann so gesagt werden.
+
+751
+01:25:07,760 --> 01:25:09,760
+Oder wie mein Bruder
+
+752
+01:25:09,760 --> 01:25:11,760
+das Down-Syndrom
+
+753
+01:25:11,760 --> 01:25:13,760
+von meinen Kindern
+
+754
+01:25:13,760 --> 01:25:15,760
+für sich interessiert.
+
+755
+01:25:15,760 --> 01:25:17,760
+Da kann man auch
+
+756
+01:25:17,760 --> 01:25:19,760
+das Down-Syndrom sagen.
+
+757
+01:25:19,760 --> 01:25:21,760
+Hier kann man auch
+
+758
+01:25:21,760 --> 01:25:23,760
+das Genetik-Standard sagen.
+
+759
+01:25:23,760 --> 01:25:25,760
+Hier kann man auch
+
+760
+01:25:25,760 --> 01:25:27,760
+das Genetik-Standard sagen.
+
+761
+01:25:27,760 --> 01:25:29,760
+Das ist nicht unbedingt,
+
+762
+01:25:29,760 --> 01:25:33,760
+dass Ihre Kinder
+
+763
+01:25:33,760 --> 01:25:35,760
+Down-Syndrom
+
+764
+01:25:35,760 --> 01:25:37,760
+können sein.
+
+765
+01:25:37,760 --> 01:25:39,760
+Down-Syndrom ist eine
+
+766
+01:25:39,760 --> 01:25:41,760
+superlässige
+
+767
+01:25:41,760 --> 01:25:43,760
+Das Down-Syndrom ist eine
+
+768
+01:25:45,760 --> 01:25:47,760
+genetische Veränderung.
+
+769
+01:25:47,760 --> 01:25:49,760
+Das ist eine Superlisse.
+
+770
+01:25:49,760 --> 01:25:51,760
+Das entsteht
+
+771
+01:25:51,760 --> 01:25:53,760
+superlässig.
+
+772
+01:25:53,760 --> 01:25:55,760
+Das ist eine
+
+773
+01:25:55,760 --> 01:25:57,760
+riesige Faktor,
+
+774
+01:25:57,760 --> 01:25:59,760
+die wir haben.
+
+775
+01:25:59,760 --> 01:26:01,760
+Das ist eine
+
+776
+01:26:01,760 --> 01:26:03,760
+gesellschaftliche
+
+777
+01:26:03,760 --> 01:26:05,760
+Faktor.
+
+778
+01:26:05,760 --> 01:26:07,760
+Das ist eine
+
+779
+01:26:07,760 --> 01:26:09,760
+genetische
+
+780
+01:26:09,760 --> 01:26:11,760
+Veränderung.
+
+781
+01:26:11,760 --> 01:26:13,760
+Das ist eine
+
+782
+01:26:13,760 --> 01:26:15,760
+scherze Veränderung.
+
+783
+01:26:15,760 --> 01:26:17,760
+Das ist eine
+
+784
+01:26:17,760 --> 01:26:19,760
+genetische Veränderung.
+
+785
+01:26:19,760 --> 01:26:21,760
+Das ist eine
+
+786
+01:26:21,760 --> 01:26:25,760
+Damm-Syndrom ist eine Genetische Veränderung.
+
+787
+01:26:25,760 --> 01:26:31,760
+Das entstand meistens zu Färben, das ist rastlöserhaft.
+
+788
+01:26:31,760 --> 01:26:38,760
+Das bedeutet, dass ihre Kinder gleiche Risikofaktoren für Damm-Syndrom wie alle,
+
+789
+01:26:38,760 --> 01:26:41,760
+wie alle, eine Risikofaktoren haben.
+
+790
+01:26:41,760 --> 01:26:44,760
+Das war mein Ansatz.
+
+791
+01:27:14,760 --> 01:27:19,760
+Ich empfehle Ihnen, dass Sie im Krankenhaus nicht bleiben möchten.
+
+792
+01:27:19,760 --> 01:27:28,760
+Momentan haben Sie keine Schmerzen, weil wir Ihnen eine sehr starke Schmerzmittel gegeben haben.
+
+793
+01:27:28,760 --> 01:27:36,760
+Aber nach ein paar Stunden haben Sie wieder Schmerzen und Sie müssen wieder im Krankenhaus gehen.
+
+794
+01:27:36,760 --> 01:27:42,760
+Deswegen empfehle ich Ihnen auf jeden Fall im Krankenhaus zu bleiben,
+
+795
+01:27:42,760 --> 01:27:45,760
+um Ihre Krankheit zu verhindern.
+
+796
+01:27:45,760 --> 01:27:47,760
+Das war mein Ansatz.
+
+797
+01:27:47,760 --> 01:27:50,760
+Ich habe es hier gesagt.
+
+798
+01:27:50,760 --> 01:27:54,760
+Ich empfehle Ihnen, dass Sie im Krankenhaus nicht bleiben möchten.
+
+799
+01:27:54,760 --> 01:27:57,760
+Aber wir haben Ihnen einen starken Schmerzmittel gegeben.
+
+800
+01:27:57,760 --> 01:27:59,760
+Deswegen haben Sie weniger Schmerzen.
+
+801
+01:27:59,760 --> 01:28:04,760
+Aber nach ein paar Stunden werden Sie wieder schmerzen und Sie müssen wieder im Krankenhaus gehen.
+
+802
+01:28:04,760 --> 01:28:07,760
+Deswegen empfehle ich Ihnen, dass Sie im Krankenhaus bleiben,
+
+803
+01:28:07,760 --> 01:28:10,760
+um Ihre Krankheit zu verhindern.
+
+804
+01:28:40,760 --> 01:28:42,760
+Das war mein Ansatz.
+
+805
+01:28:42,760 --> 01:28:44,760
+Ich habe mir die Schmerzen vorgelegt.
+
+806
+01:28:44,760 --> 01:28:45,760
+Es ist 11 Uhr.
+
+807
+01:28:45,760 --> 01:28:46,760
+Vielen Dank an alle.
+
+808
+01:28:46,760 --> 01:28:47,760
+Die neue Gruppe beginnt.
+
+809
+01:28:47,760 --> 01:28:49,760
+Wenn Sie etwas mehr fragen wollen,
+
+810
+01:28:49,760 --> 01:28:51,760
+dann können Sie morgen wieder fragen.
