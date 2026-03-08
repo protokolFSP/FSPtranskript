@@ -1,0 +1,2235 @@
+1
+00:00:03,860 --> 00:00:12,860
+Hallo, guten Tag. Mein Name ist Ekrem Özbolo. Ich bin auf dieser Station als Arztdienstarztätik.
+
+2
+00:00:12,860 --> 00:00:19,860
+Ich würde gerne mit Ihnen heute ein Aufnahmegespräch durchführen. Alles in Ordnung für Sie?
+
+3
+00:00:19,860 --> 00:00:21,860
+Gerne, bitte schön.
+
+4
+00:00:21,860 --> 00:00:30,860
+Als erstes benötige ich ein paar persönliche Daten. Dann können wir weiterführen. Wie heißen Sie?
+
+5
+00:00:30,860 --> 00:00:32,860
+Mein Name ist Thomas Weber.
+
+6
+00:00:32,860 --> 00:00:45,330
+Thomas Weber. Könnten Sie bitte Vor- und Nachname langsam und deutlich beschreiben?
+
+7
+00:00:45,330 --> 00:00:58,330
+Vorname ist T-H-U-M-A-S. Nachname ist W-I-B-E-R.
+
+8
+00:00:59,330 --> 00:01:04,330
+Vielen Dank. Herr Weber, wie alt sind Sie?
+
+9
+00:01:04,330 --> 00:01:08,580
+Ich bin 1971 geboren.
+
+10
+00:01:08,580 --> 00:01:16,580
+1971 geboren. Wann sind Sie genau geboren?
+
+11
+00:01:16,580 --> 00:01:18,580
+Am 14. Mai.
+
+12
+00:01:18,580 --> 00:01:29,260
+14. Mai. Okay, vielen Dank. Herr Weber, wie hoch sind Sie?
+
+13
+00:01:29,260 --> 00:01:31,260
+Wie groß?
+
+14
+00:01:31,260 --> 00:01:33,260
+Wie groß sind Sie?
+
+15
+00:01:33,260 --> 00:01:36,260
+Ich bin 1,80 Meter groß.
+
+16
+00:01:36,260 --> 00:01:41,260
+1,80 Meter groß. Und wie viel wiegen Sie?
+
+17
+00:01:41,260 --> 00:01:43,260
+Ungefähr 80 Kilogramm.
+
+18
+00:01:43,260 --> 00:01:54,500
+Ungefähr 80 Kilogramm. Okay, ich habe das nicht. Herr Weber, was für Sie zu uns? Wie kann ich Ihnen helfen?
+
+19
+00:01:55,500 --> 00:02:05,500
+Also ich bin heute hier, weil ich extrem müde bin, Schwindel habe und manchmal auch mittlerweile Luftnot habe, wenn ich mich sehr stark belaste.
+
+20
+00:02:05,500 --> 00:02:13,260
+Schwindel müde und haben Sie Luftnot?
+
+21
+00:02:13,260 --> 00:02:20,260
+Wenn ich mich belaste, habe ich mittlerweile auch Luftnot. Das Ganze hat vor drei Wochen angefangen ungefähr.
+
+22
+00:02:20,260 --> 00:02:40,700
+Ja, vor drei Wochen angefangen. Okay. Haben Sie Brustschmerzen und Engelgefühl momentan?
+
+23
+00:02:40,700 --> 00:02:47,090
+Nein.
+
+24
+00:02:47,090 --> 00:02:56,090
+Sie haben schon gesagt, können Sie bitte wiederholen, seit wann haben Sie diese Beschwerde?
+
+25
+00:02:56,090 --> 00:03:00,090
+Das Ganze hat angefangen vor drei Wochen.
+
+26
+00:03:00,090 --> 00:03:02,090
+Drei Wochen.
+
+27
+00:03:02,090 --> 00:03:04,090
+Aber es wird jetzt immer schlimmer.
+
+28
+00:03:04,090 --> 00:03:07,090
+Schlimmer geworden. Mit der Zeit schlimmer geworden.
+
+29
+00:03:07,090 --> 00:03:11,360
+Ganz genau.
+
+30
+00:03:11,360 --> 00:03:19,360
+Herr Weber, wie beschreiben Sie diese Schmerzen? Sticheln, brennen, dumpf?
+
+31
+00:03:19,360 --> 00:03:21,360
+Ich habe keine Schmerzen.
+
+32
+00:03:21,360 --> 00:03:23,360
+Ja, keine Schmerzen.
+
+33
+00:03:23,360 --> 00:03:25,360
+Ich habe keine Schmerzen.
+
+34
+00:03:25,360 --> 00:03:27,360
+Nur Luftnot.
+
+35
+00:03:27,360 --> 00:03:35,360
+Ich habe Müdigkeit, Schwindel und mittlerweile auch etwas Luftnot, wenn ich mich stark belaste.
+
+36
+00:03:35,360 --> 00:03:58,500
+Herr Weber, gibt es ähnliche Beschwerden, die gleichzeitig sind? Zum Beispiel Herzrasen, Herzklopfen?
+
+37
+00:03:58,500 --> 00:04:13,950
+Mein Puls ist etwas schneller geworden als sonst.
+
+38
+00:04:13,950 --> 00:04:22,950
+Außer vor drei Wochen haben Sie ähnliche Beschwerden erlebt?
+
+39
+00:04:22,950 --> 00:04:25,950
+Das ist das erste Mal, dass ich so etwas habe.
+
+40
+00:04:25,950 --> 00:04:29,230
+Das war das erste Mal.
+
+41
+00:04:29,230 --> 00:04:34,230
+Herr Weber, in der letzten Zeit haben Sie Schlafstörungen oder?
+
+42
+00:04:34,230 --> 00:04:35,230
+Nein.
+
+43
+00:04:35,230 --> 00:04:41,820
+Keine Schlafstörungen.
+
+44
+00:04:41,820 --> 00:04:46,820
+Beim Schlafen, wie viele Kissen benötigen Sie?
+
+45
+00:04:46,820 --> 00:04:48,820
+Ich kann gut schlafen.
+
+46
+00:04:48,820 --> 00:04:49,820
+Gut schlafen?
+
+47
+00:04:49,820 --> 00:04:57,060
+Normal.
+
+48
+00:04:57,060 --> 00:05:09,060
+Gibt es etwas, das Beschwerden versteckt oder das schwindet? Haben Sie etwas bemerkt?
+
+49
+00:05:09,060 --> 00:05:16,060
+Ja, wenn ich mich belaste, habe ich mehr Luftnot und wenn ich mich anstrengen, habe ich etwas Schwindel.
+
+50
+00:05:16,060 --> 00:05:19,060
+Etwas Schwindel.
+
+51
+00:05:19,060 --> 00:05:27,060
+Wie beschreiben Sie diese Schwindel auf Karussel oder?
+
+52
+00:05:27,060 --> 00:05:32,060
+Nein, Schwangschwindel, wie auf einem Schiff.
+
+53
+00:05:32,060 --> 00:05:39,060
+Ja, auf dem Boot. Schwangschwindel.
+
+54
+00:05:39,060 --> 00:05:49,800
+Herr Weber, haben Sie Übelkeit, Erbrächen?
+
+55
+00:05:49,800 --> 00:06:03,130
+Nein, habe ich nicht.
+
+56
+00:06:03,130 --> 00:06:09,130
+Herr Weber, werden diese Beschwerden Ihrem Hausarzt besucht oder?
+
+57
+00:06:09,130 --> 00:06:10,130
+Nein, noch nicht.
+
+58
+00:06:10,130 --> 00:06:13,500
+Das war das erste Mal.
+
+59
+00:06:13,500 --> 00:06:18,500
+Dagegen haben Sie schon etwas, ein Medikament, angenommen?
+
+60
+00:06:18,500 --> 00:06:19,500
+Nein.
+
+61
+00:06:19,500 --> 00:06:30,140
+Herr Weber, haben Sie Fieber?
+
+62
+00:06:30,140 --> 00:06:31,140
+Nein.
+
+63
+00:06:31,140 --> 00:06:36,140
+Nein, kein Fieber.
+
+64
+00:06:36,140 --> 00:06:41,140
+Übelkeit und Erbrächen haben Sie schon getragen?
+
+65
+00:06:41,140 --> 00:06:42,140
+Nein.
+
+66
+00:06:42,140 --> 00:06:47,140
+Und Sie schlafen sehr gut, keine Schlafstörungen?
+
+67
+00:06:47,140 --> 00:06:48,140
+Nein.
+
+68
+00:06:48,140 --> 00:07:00,410
+In der Nacht haben Sie Luftnot und Atemnot bemerkt oder?
+
+69
+00:07:00,410 --> 00:07:02,410
+Ich habe die Luftnot nur, wenn ich mich belaste.
+
+70
+00:07:02,410 --> 00:07:12,630
+Nur belasten.
+
+71
+00:07:12,630 --> 00:07:17,980
+Herr Weber, haben Sie Probleme beim Stuhlgang?
+
+72
+00:07:17,980 --> 00:07:23,980
+Probleme nicht, nein, aber der ist von der Farbe etwas verändert.
+
+73
+00:07:23,980 --> 00:07:27,980
+Farbe verändert. Was haben Sie bemerkt beim Stuhlgang?
+
+74
+00:07:27,980 --> 00:07:29,980
+Er ist sehr dunkel geworden.
+
+75
+00:07:29,980 --> 00:07:36,980
+Dunkel geworden. Seit wann haben Sie das bemerkt?
+
+76
+00:07:36,980 --> 00:07:38,980
+Seit ungefähr zwei Wochen jetzt.
+
+77
+00:07:38,980 --> 00:07:47,360
+Ja, zwei Wochen.
+
+78
+00:07:47,360 --> 00:07:50,360
+Wie sagt der Stuhl?
+
+79
+00:07:50,360 --> 00:07:52,360
+Wie bitte?
+
+80
+00:07:52,360 --> 00:07:59,360
+Wie sagt der Stuhl? Nur dunkel oder gibt es zum Beispiel Blut?
+
+81
+00:07:59,360 --> 00:08:01,360
+Der ist sehr dunkel.
+
+82
+00:08:01,360 --> 00:08:13,070
+Okay, nur dunkel.
+
+83
+00:08:13,070 --> 00:08:17,070
+Haben Sie momentan Verstopfung oder Durchfall?
+
+84
+00:08:17,070 --> 00:08:22,070
+Der Stuhlgang ist eigentlich normal, nur die Farbe ist verändert. Der ist sehr dunkel.
+
+85
+00:08:22,070 --> 00:08:25,070
+Nur die Farbe verändert? Seit zwei Wochen haben Sie schon das bemerkt?
+
+86
+00:08:25,070 --> 00:08:27,070
+Ungefähr, ja.
+
+87
+00:08:27,070 --> 00:08:37,560
+Herr Weber, haben Sie Probleme beim Wasserlassen?
+
+88
+00:08:37,560 --> 00:08:39,560
+Nein, gar nicht.
+
+89
+00:08:39,560 --> 00:09:12,260
+Okay. Herr Weber, bleiben Sie an irgendwelchen chronischen Erkrankungen?
+
+90
+00:09:12,260 --> 00:09:16,260
+Ich habe Bluthochdruck. Ich nehme Bluthochmedikamente auch ein.
+
+91
+00:09:16,260 --> 00:09:20,260
+Bluthochdruck. Seit wann haben Sie Bluthochdruck?
+
+92
+00:09:20,260 --> 00:09:23,260
+Blutdruck habe ich schon seit ungefähr fünf Jahren jetzt.
+
+93
+00:09:23,260 --> 00:09:33,530
+Ungefähr fünf Jahre unter Kontrolle?
+
+94
+00:09:33,530 --> 00:09:35,530
+Genau, ich nehme ein Medikament ein, ja.
+
+95
+00:09:35,530 --> 00:09:37,530
+Okay, welches Medikament haben Sie?
+
+96
+00:09:37,530 --> 00:09:39,530
+RamiPril nehme ich ein.
+
+97
+00:09:39,530 --> 00:09:42,190
+Wie bitte?
+
+98
+00:09:42,190 --> 00:09:44,190
+RamiPril.
+
+99
+00:09:44,190 --> 00:09:47,190
+RamiPril. Wie viel Milligramm?
+
+100
+00:09:47,190 --> 00:09:49,190
+Fünf Milligramm, einmal morgens.
+
+101
+00:09:49,190 --> 00:09:55,600
+Einmal morgens. Gibt es noch etwas?
+
+102
+00:09:55,600 --> 00:09:58,600
+Ja, ich nehme auch Ibuprofen ein momentan.
+
+103
+00:09:58,600 --> 00:10:00,600
+Ibuprofen?
+
+104
+00:10:00,600 --> 00:10:03,070
+Ja.
+
+105
+00:10:03,070 --> 00:10:05,070
+Bei Bedarf oder nehmen Sie Regenmässig?
+
+106
+00:10:05,070 --> 00:10:14,460
+Nein, ich muss regelmäßig nehmen aktuell. Zweimal am Tag.
+
+107
+00:10:14,460 --> 00:10:19,460
+Warum haben Sie Regenmässig?
+
+108
+00:10:19,460 --> 00:10:22,460
+Ich habe momentan sehr starke Rückenschmerzen.
+
+109
+00:10:22,460 --> 00:10:23,460
+Rückenschmerzen.
+
+110
+00:10:23,460 --> 00:10:28,460
+Ich habe einen bekannten Bandscheibenvorfall. Und deswegen muss ich das nehmen.
+
+111
+00:10:28,460 --> 00:10:30,460
+Rückenschmerzen.
+
+112
+00:10:30,460 --> 00:10:38,010
+Ich habe einen Beinscheibenvorfall.
+
+113
+00:10:38,010 --> 00:10:45,010
+Seit wann haben Sie die Ibuprofen regelmäßig angenommen?
+
+114
+00:10:45,010 --> 00:10:50,010
+Ja, ich nehme das jetzt schon ungefähr fünf bis sechs Wochen ein.
+
+115
+00:10:50,010 --> 00:10:57,500
+Fünf oder sechs Wochen. Es hat Ihnen geholfen, oder?
+
+116
+00:10:57,500 --> 00:11:00,500
+Ja, das hilft. Das hilft.
+
+117
+00:11:01,500 --> 00:11:09,760
+Ok. PromiPril, Ibuprofen und haben Sie noch andere mitgenommen?
+
+118
+00:11:09,760 --> 00:11:11,760
+Das war es.
+
+119
+00:11:11,760 --> 00:11:26,760
+Als bekannte Erkrankung seit fünf Jahren haben Sie Bluthochdruck und Rückenschmerzen wegen eines Bandscheibenvorfalls.
+
+120
+00:11:26,760 --> 00:11:31,130
+Genau.
+
+121
+00:11:31,130 --> 00:11:35,130
+Herr Weber, wissen Sie, wo ist Ihr Bandscheibenvorfall?
+
+122
+00:11:35,130 --> 00:11:39,130
+Der ist in der Ländenwirbelsäule.
+
+123
+00:11:39,130 --> 00:11:43,130
+Ländenwirbelsäule.
+
+124
+00:11:43,130 --> 00:12:03,140
+Und Herr Weber, würden Sie schon mal operieren, oder?
+
+125
+00:12:03,140 --> 00:12:05,140
+Nein, ich würde noch nicht operieren.
+
+126
+00:12:05,140 --> 00:12:18,330
+Keine Operation. Geschichte.
+
+127
+00:12:18,330 --> 00:12:29,330
+Herr Weber, haben Sie etwas bemerkt nach der Ibuprofen-Einnahme?
+
+128
+00:12:29,330 --> 00:12:33,330
+Zum Beispiel Zottrennen.
+
+129
+00:12:33,330 --> 00:12:36,330
+Nein, das habe ich nicht bemerkt.
+
+130
+00:12:36,330 --> 00:12:39,330
+Magen schwören oder...
+
+131
+00:12:39,330 --> 00:12:41,330
+Magen was?
+
+132
+00:12:41,330 --> 00:12:43,330
+Magen schwören oder...
+
+133
+00:12:43,330 --> 00:12:44,330
+Was?
+
+134
+00:12:44,330 --> 00:12:48,330
+Magen schwören oder Bauchschmerzen?
+
+135
+00:12:48,330 --> 00:12:51,330
+Schwören? Nein, ich habe keine Schmerzen.
+
+136
+00:12:51,330 --> 00:13:07,540
+Keine Schmerzen. Ok.
+
+137
+00:13:07,540 --> 00:13:15,540
+Herr Weber, wann waren Sie letztes Mal bei Ihrem Hausarzt?
+
+138
+00:13:15,540 --> 00:13:18,540
+Vor ungefähr drei Monaten war ich da.
+
+139
+00:13:18,540 --> 00:13:24,540
+Drei Monate. Da haben Sie etwas Problem?
+
+140
+00:13:24,540 --> 00:13:27,540
+Nein, es ging um meinen Blutdruckdruck.
+
+141
+00:13:27,540 --> 00:13:29,540
+Um die Medikamente.
+
+142
+00:13:29,540 --> 00:13:32,540
+Das war ganz normal.
+
+143
+00:13:32,540 --> 00:13:44,260
+Genau. Mein Blutdruck ist aber jetzt etwas niedriger als sonst.
+
+144
+00:13:44,260 --> 00:13:52,260
+Haben Sie auf Ihrem Haut oder bei den Augen etwas bemerkt?
+
+145
+00:13:52,260 --> 00:13:57,260
+Zum Beispiel Blaspa oder Hautveränderung oder...
+
+146
+00:13:57,260 --> 00:14:00,260
+Etwas blass bin ich geworden, ja.
+
+147
+00:14:00,260 --> 00:14:03,260
+Ein bisschen blass.
+
+148
+00:14:03,260 --> 00:14:05,260
+Nicht blass, blass.
+
+149
+00:14:05,260 --> 00:14:07,260
+Blass, ja.
+
+150
+00:14:07,260 --> 00:14:11,640
+Entschuldigung.
+
+151
+00:14:11,640 --> 00:14:15,640
+Seit wann haben Sie diese Befunde bemerkt?
+
+152
+00:14:15,640 --> 00:14:17,640
+Welche Befunde?
+
+153
+00:14:17,640 --> 00:14:19,640
+Blass, Hautblass.
+
+154
+00:14:19,640 --> 00:14:23,640
+Ja, auch jetzt ungefähr seit einer bis zwei Wochen ungefähr.
+
+155
+00:14:23,640 --> 00:14:26,640
+Eine Woche vielleicht ungefähr, ja.
+
+156
+00:14:26,640 --> 00:14:34,560
+Eine Woche. Ok. Herr Weber, haben Sie Allergie?
+
+157
+00:14:34,560 --> 00:14:37,560
+Ich habe keine Allergie, nein.
+
+158
+00:14:37,560 --> 00:14:40,560
+Noch etwas Unverträglichkeit oder?
+
+159
+00:14:40,560 --> 00:14:45,410
+Nein.
+
+160
+00:14:45,410 --> 00:14:59,410
+Und haben Sie schon mit Ibuprofen noch einen Magenschutz befunden oder?
+
+161
+00:14:59,410 --> 00:15:06,700
+Ich habe keinen Magenschutz.
+
+162
+00:15:06,700 --> 00:15:13,700
+Ok. Haben Sie keine Allergie und keine Unverträglichkeit?
+
+163
+00:15:13,700 --> 00:15:17,700
+Herr Weber, sind Sie vorgeimpft?
+
+164
+00:15:17,700 --> 00:15:19,700
+Ich glaube schon, ja.
+
+165
+00:15:19,700 --> 00:15:21,700
+Gegen Corona auch?
+
+166
+00:15:21,700 --> 00:15:26,930
+Nein.
+
+167
+00:15:26,930 --> 00:15:31,930
+Herr Weber, in der letzten Zeit haben Sie im Ausland gereist oder?
+
+168
+00:15:31,930 --> 00:15:37,040
+Nein, ich war die ganze Zeit hier in Deutschland.
+
+169
+00:15:37,040 --> 00:15:39,040
+Herr Weber, rauchen Sie?
+
+170
+00:15:39,040 --> 00:15:41,040
+Nein.
+
+171
+00:15:41,040 --> 00:15:45,040
+Trinken Sie Alkohol?
+
+172
+00:15:45,040 --> 00:15:49,990
+Einmal, zweimal im Monat, ja.
+
+173
+00:15:49,990 --> 00:15:55,990
+Ein, zweimal im Monat. Was trinken Sie?
+
+174
+00:15:55,990 --> 00:15:58,990
+Meistens Bier.
+
+175
+00:15:58,990 --> 00:16:00,990
+Inwieviel?
+
+176
+00:16:00,990 --> 00:16:06,990
+Kommt drauf an. Also wenn ich mit Freunden unterwegs bin, dann trinken wir gerne.
+
+177
+00:16:06,990 --> 00:16:21,620
+Ok. Herr Weber, bitte nehmen Sie nicht diese Frage persönlich. Haben Sie einmal Drogen konsumiert oder?
+
+178
+00:16:21,620 --> 00:16:25,620
+In meiner Jugend habe ich gemacht, aber jetzt mache ich nichts mehr.
+
+179
+00:16:25,620 --> 00:16:27,620
+Bei jungen Jahren?
+
+180
+00:16:27,620 --> 00:16:28,620
+Genau.
+
+181
+00:16:28,620 --> 00:16:36,710
+Aber schon lange Zeit nicht mehr Kontakt?
+
+182
+00:16:36,710 --> 00:16:43,580
+Nein, nämlich nicht mehr.
+
+183
+00:16:43,580 --> 00:16:54,200
+Herr Weber, leben Ihre Eltern noch?
+
+184
+00:16:54,200 --> 00:16:59,250
+Meine Eltern leben noch, ja.
+
+185
+00:16:59,250 --> 00:17:01,250
+Ihr Vater ist gesund?
+
+186
+00:17:01,250 --> 00:17:08,500
+Ja, der hat auch Bluthochdruck, Diabetes, der hat auch Herzprobleme.
+
+187
+00:17:08,500 --> 00:17:14,060
+Und bei der Mutter?
+
+188
+00:17:14,060 --> 00:17:19,060
+Mama ist eigentlich gesünder. Die nimmt aktuell keine Medikamente ein.
+
+189
+00:17:19,060 --> 00:17:28,410
+Super, super. Gott sei Dank. Gute Hürde. Haben Sie Geschwister?
+
+190
+00:17:28,410 --> 00:17:30,410
+Ich habe eine Schwester, ja.
+
+191
+00:17:30,410 --> 00:17:32,410
+Eine Schwester. Ist sie gesund?
+
+192
+00:17:32,410 --> 00:17:34,410
+Ja, sie ist gesund.
+
+193
+00:17:34,410 --> 00:17:40,410
+Gott sei Dank, sehr gut. Und Herr Weber, sind Sie verheiratet?
+
+194
+00:17:40,410 --> 00:17:42,410
+Ich bin ledig.
+
+195
+00:17:42,410 --> 00:17:46,870
+Ledig. Haben Sie Kinder?
+
+196
+00:17:46,870 --> 00:17:48,870
+Nein.
+
+197
+00:17:48,870 --> 00:17:54,820
+Was machen Sie beruflich, Herr Weber?
+
+198
+00:17:54,820 --> 00:17:56,820
+Ich bin Dachdecker.
+
+199
+00:17:56,820 --> 00:18:12,040
+Dachdecker.
+
+200
+00:18:12,040 --> 00:18:24,040
+Letzte Frage, Herr Weber. In der letzten Zeit, in zwei oder drei Wochen, haben Sie sich schon mal verletzt oder?
+
+201
+00:18:24,040 --> 00:18:27,420
+Nein.
+
+202
+00:18:27,420 --> 00:18:39,420
+Ok, sehr gut. Herr Weber, ich bin nun mit meinen Fragen fertig. Haben Sie noch Fragen an mich, oder?
+
+203
+00:18:39,420 --> 00:18:41,420
+Nein, eigentlich nicht.
+
+204
+00:18:41,420 --> 00:18:50,420
+Ok. Ich habe den Verdacht auf Anämie.
+
+205
+00:18:50,420 --> 00:18:52,420
+Was ist das?
+
+206
+00:18:52,420 --> 00:18:59,750
+Daenblutung.
+
+207
+00:18:59,750 --> 00:19:00,750
+Daenblutung?
+
+208
+00:19:00,750 --> 00:19:02,750
+Ja.
+
+209
+00:19:02,750 --> 00:19:04,750
+Anämie bedeutet Daenblutung?
+
+210
+00:19:04,750 --> 00:19:06,750
+Ja.
+
+211
+00:19:06,750 --> 00:19:08,750
+Anämie bedeutet Daenblutung?
+
+212
+00:19:08,750 --> 00:19:12,750
+Nein, das ist nicht gleich.
+
+213
+00:19:12,750 --> 00:19:16,750
+Ich habe Anämie nicht verstanden. Was bedeutet Anämie?
+
+214
+00:19:16,750 --> 00:19:25,750
+Ja, ok. Ich habe den Verdacht auf Blutahmen.
+
+215
+00:19:25,750 --> 00:19:27,750
+Blutarmut?
+
+216
+00:19:27,750 --> 00:19:29,750
+Ja, Blutarmut, ja.
+
+217
+00:19:29,750 --> 00:19:31,750
+Ok.
+
+218
+00:19:31,750 --> 00:19:38,750
+Aber das bleibt nur eine Vermutung. Sollen wir ein paar Untersuchungen durchführen?
+
+219
+00:19:38,750 --> 00:19:48,750
+Ich werde Ihnen als erstes körperliche Untersuchungen durchführen und dann Blut für das Labor abnehmen.
+
+220
+00:19:48,750 --> 00:19:55,750
+Und dann einen Bauchultraschall möchte ich durchführen.
+
+221
+00:19:55,750 --> 00:20:10,750
+Und dann, sobald die Ergebnisse vorliegen, komme ich Ihnen zurück und dann erzähle ich Ihnen alles.
+
+222
+00:20:10,750 --> 00:20:12,750
+Ok, alles klar.
+
+223
+00:20:12,750 --> 00:20:18,750
+Dann werden Sie hier warten und dann komme ich Ihnen wieder zurück.
+
+224
+00:20:18,750 --> 00:20:25,520
+Ok.
+
+225
+00:20:25,520 --> 00:20:27,520
+Hat jemand noch Fragen?
+
+226
+00:20:27,520 --> 00:20:39,940
+Ich möchte etwas fragen. Ist Ihnen übel oder haben Sie erbrochen?
+
+227
+00:20:39,940 --> 00:20:41,940
+Wurde gefragt, nein.
+
+228
+00:20:41,940 --> 00:20:45,940
+Wie ist Ihr Wasser?
+
+229
+00:20:45,940 --> 00:20:48,940
+Wurde gefragt, normal.
+
+230
+00:20:48,940 --> 00:20:57,010
+Haben Sie ihn in letzter Zeit ab oder zu genommen?
+
+231
+00:20:57,010 --> 00:21:00,010
+Nein, gleich verblieben. Gute Frage.
+
+232
+00:21:00,010 --> 00:21:06,580
+Fertig?
+
+233
+00:21:06,580 --> 00:21:07,580
+Bitte schön.
+
+234
+00:21:07,580 --> 00:21:11,580
+Haben Sie Gerohtete oder Geschwollen dabei?
+
+235
+00:21:11,580 --> 00:21:12,580
+Nein.
+
+236
+00:21:12,580 --> 00:21:20,220
+Darf ich eine Frage stellen?
+
+237
+00:21:20,220 --> 00:21:21,220
+Wie bitte?
+
+238
+00:21:21,220 --> 00:21:24,220
+Darf ich eine Frage stellen?
+
+239
+00:21:24,220 --> 00:21:25,220
+Bitte schön.
+
+240
+00:21:25,220 --> 00:21:29,220
+Ja, wann haben Sie in der Säule Ihren Blutdruck gemessen?
+
+241
+00:21:29,220 --> 00:21:33,220
+Den Blutdruck habe ich heute Morgen gemessen. Der war niedrig.
+
+242
+00:21:33,220 --> 00:21:35,220
+Wie hoch war er?
+
+243
+00:21:35,220 --> 00:21:38,220
+Der war 160.
+
+244
+00:21:41,530 --> 00:21:48,530
+Leiden Sie unter Herzrasen oder Palpitationen?
+
+245
+00:21:48,530 --> 00:21:58,020
+Ich weiß nicht, was Palpitationen sind, aber mein Puls schlägt etwas schneller.
+
+246
+00:21:58,020 --> 00:22:08,220
+Palpitation habe ich nicht verstanden.
+
+247
+00:22:08,220 --> 00:22:10,220
+Herzschlag.
+
+248
+00:22:10,220 --> 00:22:19,410
+Ich habe einen Herzschlag. Oder was meinen Sie?
+
+249
+00:22:19,410 --> 00:22:21,410
+Herzstolpern meinen Palpitationen.
+
+250
+00:22:21,410 --> 00:22:25,410
+Herzstolpern habe ich nicht.
+
+251
+00:22:25,410 --> 00:22:40,560
+Herr Weber, haben Sie in letzter Zeit in Ihrem Hals Schwellung behalten?
+
+252
+00:22:40,560 --> 00:22:41,560
+Nein.
+
+253
+00:22:41,560 --> 00:23:02,600
+Hab ich richtig verstanden?
+
+254
+00:23:02,600 --> 00:23:04,600
+Noch einmal bitte.
+
+255
+00:23:04,600 --> 00:23:12,600
+Die Farbe des Stühls ist schwarz. Wir haben es so gesagt, oder?
+
+256
+00:23:12,600 --> 00:23:15,600
+Genau. Sehr dunkel.
+
+257
+00:23:15,600 --> 00:23:19,600
+Haben Sie häufig Nasenbluten?
+
+258
+00:23:19,600 --> 00:23:21,600
+Nein.
+
+259
+00:23:21,600 --> 00:23:33,600
+Entschuldigung, mit welcher Dosierung nehmen Sie Ibuprofen ein?
+
+260
+00:23:33,600 --> 00:23:36,600
+600 Min. morgens und abends.
+
+261
+00:23:36,600 --> 00:23:44,600
+Wie ernähren Sie sich? Vegetarisch oder normal?
+
+262
+00:23:44,600 --> 00:23:51,140
+Normal.
+
+263
+00:23:51,140 --> 00:23:56,140
+Ich habe eine Frage stellen. Haben Sie Ohrensausen?
+
+264
+00:23:56,140 --> 00:23:59,840
+Nein.
+
+265
+00:23:59,840 --> 00:24:07,840
+Haben Sie ungewöhnliche Gelüste, zum Beispiel auf Eis oder Erde?
+
+266
+00:24:07,840 --> 00:24:12,140
+Nein.
+
+267
+00:24:12,140 --> 00:24:23,140
+Haben Sie bestimmte Auslöse bemerkt für diese Extremmüdigkeit oder Schwindelkeit, für Ihre Beschwerden?
+
+268
+00:24:23,140 --> 00:24:26,140
+Leider nicht. Deswegen bin ich heute hier.
+
+269
+00:24:26,140 --> 00:24:28,140
+Okay, ja.
+
+270
+00:24:28,140 --> 00:24:47,070
+Ist Ihre Bandscheibenvorfall diagnostiziert seit wann?
+
+271
+00:24:47,070 --> 00:24:49,070
+3 Jahren.
+
+272
+00:24:49,070 --> 00:24:56,070
+Seit 3 Jahren. Okay. Seit wann haben Sie Bluthochdruck?
+
+273
+00:24:56,070 --> 00:24:59,070
+Haben wir besprochen. 5 Jahre.
+
+274
+00:24:59,070 --> 00:25:01,070
+5 Jahre, okay.
+
+275
+00:25:01,070 --> 00:25:05,070
+Haben Sie Haarausfall oder berühmte Nägel bemerkt?
+
+276
+00:25:05,070 --> 00:25:06,070
+Nein.
+
+277
+00:25:06,070 --> 00:25:23,900
+Okay, fangen wir an, Arzt-Arztgespräch.
+
+278
+00:25:23,900 --> 00:25:30,620
+Kann ich vorstellen? Meine Frage?
+
+279
+00:25:30,620 --> 00:25:31,620
+Bitte schön.
+
+280
+00:25:31,620 --> 00:25:32,620
+Guten Tag.
+
+281
+00:25:32,620 --> 00:25:37,090
+Müssten Sie mich aufnehmen oder nicht aufnehmen?
+
+282
+00:25:37,090 --> 00:25:41,090
+Ja, möchte ich diese Patientin aufnehmen.
+
+283
+00:25:41,090 --> 00:25:45,090
+Ich meine, auf Video aufnehmen.
+
+284
+00:25:45,090 --> 00:25:46,090
+Ja.
+
+285
+00:25:46,090 --> 00:25:48,090
+Kann ich das aufnehmen?
+
+286
+00:25:48,090 --> 00:25:50,090
+Ich möchte nicht.
+
+287
+00:25:50,090 --> 00:25:52,090
+Sie sind aufgehört.
+
+288
+00:25:52,090 --> 00:25:56,090
+Ja. Wir haben sie aufgehört.
+
+289
+00:25:56,090 --> 00:26:01,360
+Auf dem Weg nach Leuert.
+
+290
+00:26:01,360 --> 00:26:03,360
+Sie können weiter gehen.
+
+291
+00:26:03,360 --> 00:26:04,360
+Okay.
+
+292
+00:26:04,360 --> 00:26:05,360
+Leuert.
+
+293
+00:26:05,360 --> 00:26:06,360
+Okay.
+
+294
+00:26:06,360 --> 00:26:08,360
+Dann kann ich es machen.
+
+295
+00:26:09,360 --> 00:26:11,360
+Hallo, guten Tag.
+
+296
+00:26:11,360 --> 00:26:15,360
+Ich habe einen neuen Patient.
+
+297
+00:26:15,360 --> 00:26:18,360
+Wenn Sie Zeit haben, möchte ich Ihnen vorstellen.
+
+298
+00:26:18,360 --> 00:26:20,360
+Gerne, bitte schön.
+
+299
+00:26:20,360 --> 00:26:24,360
+Es geht um Thomas Weber.
+
+300
+00:26:25,360 --> 00:26:30,990
+Er ist 55 Jahre alt.
+
+301
+00:26:30,990 --> 00:26:33,990
+Er ist ein Jahr alt.
+
+302
+00:26:33,990 --> 00:26:39,990
+Er wurde am 14.05.1971 geboren.
+
+303
+00:26:39,990 --> 00:26:44,990
+Er ist 1,80 Meter groß und 80 Kilo.
+
+304
+00:26:44,990 --> 00:26:49,990
+Er stellt sich heute auf unsere Wege.
+
+305
+00:26:49,990 --> 00:26:53,990
+Er hat seit drei Wochen bestehende Prognosen.
+
+306
+00:26:53,990 --> 00:26:57,990
+Er hat eine Müdigkeit und Schwindel vor.
+
+307
+00:26:57,990 --> 00:27:01,990
+Er erwartete die Beschwerden.
+
+308
+00:27:01,990 --> 00:27:07,990
+Er hat vor drei Wochen langsam aufgetreten.
+
+309
+00:27:07,990 --> 00:27:11,990
+Im Laufe der Zeit wurde er schlimmer.
+
+310
+00:27:11,990 --> 00:27:20,990
+Er hat momentan Müdigkeit und Schwindel ausgeprägt.
+
+311
+00:27:20,990 --> 00:27:30,990
+Die Beschwerden werden sich bei Belastung verstärkt.
+
+312
+00:27:30,990 --> 00:27:48,420
+Laut Angaben der Patienten ist die Schwindel genau wie Schwachschwindel.
+
+313
+00:27:48,420 --> 00:27:57,900
+Er hat die Beschwerden in den letzten drei Wochen schlimmer.
+
+314
+00:27:57,900 --> 00:28:04,900
+Er beschreibt noch bei der Vegetative Anamnese
+
+315
+00:28:04,900 --> 00:28:09,900
+eine belastende Luftnot.
+
+316
+00:28:09,900 --> 00:28:19,590
+Er hat einen schweren Herzklopfen.
+
+317
+00:28:19,590 --> 00:28:23,590
+Er wurde verneint.
+
+318
+00:28:23,590 --> 00:28:37,590
+Die Vegetative Anamnese ist bis auf Schlafstörungen unaufwendig.
+
+319
+00:28:38,590 --> 00:28:44,590
+Bei der Vorerkrankung Anamnese
+
+320
+00:28:44,590 --> 00:28:52,590
+hatte er seit fünf Jahren Hypertonin.
+
+321
+00:28:52,590 --> 00:29:03,590
+Seit acht Wochen hat er einen Rückenschmerz wegen eines Bandscheibes.
+
+322
+00:29:03,590 --> 00:29:09,590
+Er hat keine Voroperationsgesichten.
+
+323
+00:29:09,590 --> 00:29:17,590
+Er nimmt täglich 5 mg Ramibri.
+
+324
+00:29:17,590 --> 00:29:28,590
+Seit acht Wochen nimmt er täglich 600 mg Ibuprofen.
+
+325
+00:29:28,590 --> 00:29:36,590
+Er ist morgens und abends ohne Protonpomphemah.
+
+326
+00:29:36,590 --> 00:29:44,160
+Bei ihm ist keine Allergie bekannt.
+
+327
+00:29:44,160 --> 00:29:48,160
+Er wurde voll geimpft.
+
+328
+00:29:48,160 --> 00:29:52,160
+Er hat in der letzten Zeit keine Reisegerichtssicht.
+
+329
+00:29:52,160 --> 00:29:56,160
+Er ist nicht raucher.
+
+330
+00:29:56,160 --> 00:30:00,160
+Er hat eine hohe Beatmischung.
+
+331
+00:30:00,160 --> 00:30:10,160
+Er hat einen weniger geringen Drogenkonsum.
+
+332
+00:30:10,160 --> 00:30:14,160
+Bei der Familienanamnese
+
+333
+00:30:14,160 --> 00:30:18,160
+hat er eine Erkrankung von Hypertonin,
+
+334
+00:30:18,160 --> 00:30:22,160
+Diabetes mellitus und Herzkrankheit.
+
+335
+00:30:22,160 --> 00:30:27,160
+Bei der Mutter ist er gesund.
+
+336
+00:30:27,160 --> 00:30:30,160
+Sie ist kein Einzelkind.
+
+337
+00:30:30,160 --> 00:30:36,160
+Er ergab sich sozialanamnistisch.
+
+338
+00:30:36,160 --> 00:30:40,160
+Er ist ledig, kein Kind.
+
+339
+00:30:40,160 --> 00:30:44,160
+Er ist Dachdecker.
+
+340
+00:30:44,160 --> 00:30:49,160
+Aufgrund der Anamnese habe ich den Verdacht auf
+
+341
+00:30:49,160 --> 00:30:54,160
+magendere Blutung wegen
+
+342
+00:30:54,160 --> 00:30:59,160
+nonnichtsteroide Antireumatik.
+
+343
+00:30:59,160 --> 00:31:04,820
+Er hat eine Differenzialdiagnostik.
+
+344
+00:31:04,820 --> 00:31:08,820
+Differenzialdiagnostik.
+
+345
+00:31:08,820 --> 00:31:22,070
+Differenzialdiagnostik.
+
+346
+00:31:22,070 --> 00:31:28,180
+Aber Cholestitis.
+
+347
+00:31:28,180 --> 00:31:31,180
+Nein.
+
+348
+00:31:31,180 --> 00:31:34,180
+Differenzialdiagnostik.
+
+349
+00:31:34,180 --> 00:31:37,180
+Er hat Magenkarzinom.
+
+350
+00:31:37,180 --> 00:31:40,180
+Ja.
+
+351
+00:31:40,180 --> 00:31:44,180
+Er hat Magenkarzinom.
+
+352
+00:31:44,180 --> 00:31:48,180
+Er hat auch unentzündliche Darmerkrankungen.
+
+353
+00:31:48,180 --> 00:31:51,180
+Ja.
+
+354
+00:31:51,180 --> 00:31:56,850
+Wo vermuten Sie die Blutung?
+
+355
+00:31:56,850 --> 00:32:01,850
+Ich vermute, dass die Blutung
+
+356
+00:32:01,850 --> 00:32:05,850
+bei dem Magen entsteht.
+
+357
+00:32:06,850 --> 00:32:10,850
+Wegen nichtsteroide Antireumatik.
+
+358
+00:32:10,850 --> 00:32:13,850
+Genau.
+
+359
+00:32:13,850 --> 00:32:18,850
+Der Patient benutzt ohne Proton Opa Hema.
+
+360
+00:32:18,850 --> 00:32:21,850
+Genau.
+
+361
+00:32:21,850 --> 00:32:25,850
+Er beschreibt noch eine
+
+362
+00:32:25,850 --> 00:32:29,850
+Farbveränderung.
+
+363
+00:32:29,850 --> 00:32:32,850
+Wie nennt man das?
+
+364
+00:32:32,850 --> 00:32:35,850
+Wie nennt man das?
+
+365
+00:32:35,850 --> 00:32:38,850
+Melena.
+
+366
+00:32:38,850 --> 00:32:41,850
+Der Stuhl.
+
+367
+00:32:41,850 --> 00:32:44,850
+Melena.
+
+368
+00:32:44,850 --> 00:32:47,850
+Genau.
+
+369
+00:32:47,850 --> 00:32:50,850
+Vielleicht weiß der Patient gar nicht,
+
+370
+00:32:50,850 --> 00:32:53,850
+dass man das der Stuhl nennt.
+
+371
+00:32:53,850 --> 00:32:56,850
+Melena nennt.
+
+372
+00:32:56,850 --> 00:32:59,850
+Müdigkeit seit 3 Wochen.
+
+373
+00:32:59,850 --> 00:33:03,850
+Das entspricht einer Magen-Darm-Bluetung.
+
+374
+00:33:03,850 --> 00:33:06,850
+Eine Anämie.
+
+375
+00:33:06,850 --> 00:33:09,850
+Eine Anämie.
+
+376
+00:33:09,850 --> 00:33:12,850
+Passen Sie die noch mal zusammen.
+
+377
+00:33:12,850 --> 00:33:15,850
+Sie denken, der Patient hat eine Anämie.
+
+378
+00:33:15,850 --> 00:33:18,850
+Eine Anämie.
+
+379
+00:33:18,850 --> 00:33:21,850
+Aufgrund von?
+
+380
+00:33:21,850 --> 00:33:24,850
+Aufgrund von nichtsteroide Antireumatik.
+
+381
+00:33:24,850 --> 00:33:27,850
+Nein.
+
+382
+00:33:27,850 --> 00:33:30,850
+Ein chronischen Blutverlust.
+
+383
+00:33:30,850 --> 00:33:33,850
+Ein chronischen Blutverlust.
+
+384
+00:33:33,850 --> 00:33:36,850
+Bei oberer gastrointestinaler Blutung.
+
+385
+00:33:36,850 --> 00:33:39,850
+Bei oberer gastrointestinaler Blutung.
+
+386
+00:33:39,850 --> 00:33:42,850
+Aufgrund von NSAR-Einnahme.
+
+387
+00:33:42,850 --> 00:33:47,770
+Aufgrund von NSAR-Einnahme.
+
+388
+00:33:47,770 --> 00:33:50,770
+NSAR-Einnahme.
+
+389
+00:33:50,770 --> 00:33:53,770
+Genau.
+
+390
+00:33:53,770 --> 00:33:56,770
+Was machen Sie mit dem Patienten jetzt?
+
+391
+00:33:56,770 --> 00:33:59,770
+Als erstes würde ich
+
+392
+00:33:59,770 --> 00:34:02,770
+diese Patienten körperlich untersuchen.
+
+393
+00:34:02,770 --> 00:34:05,770
+diese Patienten körperlich untersuchen.
+
+394
+00:34:05,770 --> 00:34:08,770
+Und Blut für das Labor abnehmen.
+
+395
+00:34:08,770 --> 00:34:11,770
+Und Blut für das Labor abnehmen.
+
+396
+00:34:11,770 --> 00:34:14,770
+Bei der Labor Blutbild.
+
+397
+00:34:14,770 --> 00:34:17,770
+Leber und Nierenwerte.
+
+398
+00:34:17,770 --> 00:34:20,770
+CAP.
+
+399
+00:34:20,770 --> 00:34:26,620
+Entzündungwerte.
+
+400
+00:34:26,620 --> 00:34:29,620
+Und Cholastasewerte.
+
+401
+00:34:29,620 --> 00:34:32,620
+Ein Übel- und Stuhlstatus.
+
+402
+00:34:32,620 --> 00:34:35,620
+Ein Übel- und Stuhlstatus.
+
+403
+00:34:35,620 --> 00:34:38,620
+Dann einen Bauchultraschall.
+
+404
+00:34:38,620 --> 00:34:43,660
+Dann einen Bauchultraschall.
+
+405
+00:34:43,660 --> 00:34:46,660
+Das möchte ich gerne durchführen.
+
+406
+00:34:46,660 --> 00:34:49,660
+Und gegebenenfalls einen CT.
+
+407
+00:34:49,660 --> 00:34:52,660
+Und gegebenenfalls einen CT.
+
+408
+00:34:52,660 --> 00:34:55,660
+Aber erst mal
+
+409
+00:34:55,660 --> 00:34:58,660
+würde ich einen
+
+410
+00:34:58,660 --> 00:35:01,660
+gastroenthalogeischen
+
+411
+00:35:01,660 --> 00:35:04,660
+Konzil antworten.
+
+412
+00:35:04,660 --> 00:35:07,660
+Ich empfehle für diese Patienten
+
+413
+00:35:07,660 --> 00:35:10,660
+eine Ösafago-Gastrodendoskopie.
+
+414
+00:35:10,660 --> 00:35:13,660
+Richtig. Keine Darmspiegelung.
+
+415
+00:35:13,660 --> 00:35:16,660
+Keine Darmspiegelung.
+
+416
+00:35:16,660 --> 00:35:19,660
+Keine.
+
+417
+00:35:19,660 --> 00:35:22,660
+Keine Darmspiegelung.
+
+418
+00:35:22,660 --> 00:35:25,660
+Und erst ÖGD.
+
+419
+00:35:25,660 --> 00:35:28,660
+Warum? Weil wir vermuten
+
+420
+00:35:28,660 --> 00:35:31,660
+die Blutung im Magen.
+
+421
+00:35:31,660 --> 00:35:34,660
+Nicht im Darm.
+
+422
+00:35:34,660 --> 00:35:37,660
+Deswegen richtig.
+
+423
+00:35:37,660 --> 00:35:40,660
+Wir haben das richtig gesagt. ÖGD.
+
+424
+00:35:40,660 --> 00:35:43,660
+Der erste Massnahme ist ÖGD.
+
+425
+00:35:43,660 --> 00:35:46,660
+Und dann Bauchultraschall.
+
+426
+00:35:46,660 --> 00:35:49,660
+Haben Sie gesagt schon, ja.
+
+427
+00:35:49,660 --> 00:35:52,660
+Was machen Sie mit den Patienten?
+
+428
+00:35:52,660 --> 00:35:55,660
+Medikamente geben Sie ihm was? Oder geben Sie ihm Blut?
+
+429
+00:35:55,660 --> 00:35:58,660
+Als Initialtherapie würde ich gerne
+
+430
+00:35:58,660 --> 00:36:01,660
+als Initialtherapie würde ich gerne
+
+431
+00:36:01,660 --> 00:36:04,660
+für diesen Patienten
+
+432
+00:36:04,660 --> 00:36:07,660
+eine Füßigkeit vor.
+
+433
+00:36:07,660 --> 00:36:10,660
+Und eine Lextrolytik-Substitution.
+
+434
+00:36:10,660 --> 00:36:13,660
+Am Ende eine Nahrungskarenz.
+
+435
+00:36:13,660 --> 00:36:16,660
+Oder einen Füßigkost verabreden.
+
+436
+00:36:16,660 --> 00:36:19,660
+Dann ein PPI-Protonpumper-Hämmer.
+
+437
+00:36:19,660 --> 00:36:22,660
+Weiter einfügen.
+
+438
+00:36:22,660 --> 00:36:25,660
+Oral oder intravenös?
+
+439
+00:36:25,660 --> 00:36:28,660
+Intravenös.
+
+440
+00:36:28,660 --> 00:36:31,660
+Genau.
+
+441
+00:36:31,660 --> 00:36:34,660
+Bei der Station aufnehmen.
+
+442
+00:36:34,660 --> 00:36:37,660
+Intravenös.
+
+443
+00:36:37,660 --> 00:36:40,660
+Protonpumper-Hämmer verabreichen.
+
+444
+00:36:40,660 --> 00:36:43,660
+Dann gegebenfalls
+
+445
+00:36:43,660 --> 00:36:46,660
+eine Spasmole-Zukung verabreichen.
+
+446
+00:36:46,660 --> 00:36:49,660
+Okay.
+
+447
+00:36:49,660 --> 00:36:52,660
+Warum?
+
+448
+00:36:52,660 --> 00:36:55,660
+Wenn die Patientin
+
+449
+00:36:55,660 --> 00:36:58,660
+eine Beschwerden hat,
+
+450
+00:36:58,660 --> 00:37:01,660
+könnte sie...
+
+451
+00:37:01,660 --> 00:37:04,660
+Also sie hat keine Schmerzen.
+
+452
+00:37:04,660 --> 00:37:07,660
+Ja, keine Schmerzen brauchen wir nicht.
+
+453
+00:37:07,660 --> 00:37:10,660
+Dann brauchen wir das nicht, ja?
+
+454
+00:37:10,660 --> 00:37:15,390
+Und als konservative Therapie
+
+455
+00:37:15,390 --> 00:37:18,390
+nach der Regede,
+
+456
+00:37:18,390 --> 00:37:21,390
+wenn es aktive Blutung gibt,
+
+457
+00:37:21,390 --> 00:37:24,390
+könnte bei der Endoskopie
+
+458
+00:37:24,390 --> 00:37:27,390
+ich würde sagen
+
+459
+00:37:27,390 --> 00:37:30,390
+Bandligation oder
+
+460
+00:37:30,390 --> 00:37:35,440
+Sklerogen-Injektion
+
+461
+00:37:35,440 --> 00:37:40,100
+in der Magenzine
+
+462
+00:37:40,100 --> 00:37:43,100
+oder in der Schmerzen
+
+463
+00:37:43,100 --> 00:37:46,100
+oder in der Injektion.
+
+464
+00:37:46,100 --> 00:37:49,100
+Also die Blutung stillen.
+
+465
+00:37:49,100 --> 00:37:52,100
+Man muss die Blutung stillen.
+
+466
+00:37:52,100 --> 00:37:55,100
+Er hat wahrscheinlich eine Blutung
+
+467
+00:37:55,100 --> 00:37:58,100
+im Magen und die muss man stillen.
+
+468
+00:37:58,100 --> 00:38:01,100
+Stillen. Okay, vielen Dank für die Information.
+
+469
+00:38:01,100 --> 00:38:04,100
+Wir haben keine diese Information.
+
+470
+00:38:04,100 --> 00:38:07,100
+Und gegebenfalls, wenn es
+
+471
+00:38:07,100 --> 00:38:10,100
+benötig ist, ja natürlich
+
+472
+00:38:10,100 --> 00:38:13,100
+man kann Bluttransfusion denken.
+
+473
+00:38:13,100 --> 00:38:16,100
+Richtig, ganz genau.
+
+474
+00:38:16,100 --> 00:38:19,100
+Wenn es benötig ist.
+
+475
+00:38:19,100 --> 00:38:22,100
+Aber muss man nicht. Wenn die Anämie noch normal ist,
+
+476
+00:38:22,100 --> 00:38:26,740
+dann muss man das nicht unbedingt machen. Sehr gut.
+
+477
+00:38:26,740 --> 00:38:29,740
+Wie viel PPI geben Sie denn?
+
+478
+00:38:29,740 --> 00:38:32,740
+Protonenpumpen in die Vitoren?
+
+479
+00:38:32,740 --> 00:38:35,740
+Normalerweise Standarddosis ist 40 Milligramm.
+
+480
+00:38:35,740 --> 00:38:38,740
+Ja.
+
+481
+00:38:38,740 --> 00:38:41,740
+Das ist täglich einmal.
+
+482
+00:38:41,740 --> 00:38:44,740
+Jetzt um Krankenhaus?
+
+483
+00:38:44,740 --> 00:38:47,740
+Bei der Intravenues Therapie
+
+484
+00:38:47,740 --> 00:38:50,740
+2x 20 Milligramm könnte sein.
+
+485
+00:38:50,740 --> 00:38:53,740
+Oder 2x 40 Milligramm.
+
+486
+00:38:53,740 --> 00:38:56,740
+Genau.
+
+487
+00:38:56,740 --> 00:38:59,740
+Und was machen Sie noch?
+
+488
+00:38:59,740 --> 00:39:02,740
+Der nimmt ja
+
+489
+00:39:02,740 --> 00:39:05,740
+Ibuprofen ein.
+
+490
+00:39:05,740 --> 00:39:08,740
+Das muss stoppen.
+
+491
+00:39:08,740 --> 00:39:11,740
+Genau. Muss gestoppt werden.
+
+492
+00:39:11,740 --> 00:39:14,740
+Wenn es nötig ist,
+
+493
+00:39:14,740 --> 00:39:17,740
+wegen Rückenschmerzen
+
+494
+00:39:17,740 --> 00:39:20,740
+oder Band-
+
+495
+00:39:20,740 --> 00:39:23,740
+Scheibevorfall.
+
+496
+00:39:23,740 --> 00:39:26,740
+Ohne, außer nicht steroide
+
+497
+00:39:26,740 --> 00:39:29,740
+Anti-Rheumatik.
+
+498
+00:39:29,740 --> 00:39:32,740
+Alternative Schmerztherapie?
+
+499
+00:39:32,740 --> 00:39:35,740
+Oder
+
+500
+00:39:35,740 --> 00:39:38,740
+Paracetamina?
+
+501
+00:39:38,740 --> 00:39:41,740
+Muss man auch eine Darmspiegelung machen?
+
+502
+00:39:41,740 --> 00:39:44,740
+Muss man oder muss man nicht?
+
+503
+00:39:44,740 --> 00:39:47,740
+Am akutem Fall,
+
+504
+00:39:47,740 --> 00:39:50,740
+ich dachte,
+
+505
+00:39:50,740 --> 00:39:53,740
+ÖGD, Gasodeodontoskopie
+
+506
+00:39:53,740 --> 00:39:56,740
+gleichzeitig machen können. Aber?
+
+507
+00:39:56,740 --> 00:39:59,740
+Ja, also man sagt immer,
+
+508
+00:39:59,740 --> 00:40:02,740
+es reicht erst mal ein ÖGD. Wenn Sie wissen,
+
+509
+00:40:02,740 --> 00:40:05,740
+der Patient blutet aus dem Magen,
+
+510
+00:40:05,740 --> 00:40:08,740
+dann müssten Sie keine ÖGD machen.
+
+511
+00:40:08,740 --> 00:40:11,740
+Aber wenn Sie sehen, Sie sehen keine Blutungsquelle,
+
+512
+00:40:11,740 --> 00:40:14,740
+dann müssten Sie eine Darmspiegelung machen.
+
+513
+00:40:14,740 --> 00:40:17,740
+Ja, mit keiner Blutungsquelle
+
+514
+00:40:17,740 --> 00:40:20,740
+sollen wir weiter gucken.
+
+515
+00:40:20,740 --> 00:40:23,740
+Genau. Sehr gut.
+
+516
+00:40:23,740 --> 00:40:26,740
+Ok, vielen Dank. Super. Vielen Dank.
+
+517
+00:40:26,740 --> 00:40:35,780
+Gibt es noch Fragen? Alles verstanden?
+
+518
+00:40:35,780 --> 00:40:40,640
+Gibt es Ergänzungen?
+
+519
+00:40:40,640 --> 00:40:43,640
+Ibuprofen, Einnahme in Selbstmedikation oder
+
+520
+00:40:43,640 --> 00:40:46,640
+arstliche Verbrechen? Ja, wurde nicht gefragt.
+
+521
+00:40:46,640 --> 00:40:51,020
+Wissen wir nicht. Kann sein vom Arzt.
+
+522
+00:40:51,020 --> 00:40:54,020
+Die Orthopäden geben gerne
+
+523
+00:40:54,020 --> 00:40:57,020
+Ibuprofen ohne Magenschutz.
+
+524
+00:40:57,020 --> 00:41:00,020
+Deswegen, es kann sein,
+
+525
+00:41:00,020 --> 00:41:03,020
+dass er auch selber einnimmt, wenn er zu Hause noch Medikamente hat.
+
+526
+00:41:03,020 --> 00:41:10,080
+Wurde nicht gefragt.
+
+527
+00:41:10,080 --> 00:41:15,420
+Wahrscheinlich hat er selber einnommen.
+
+528
+00:41:15,420 --> 00:41:18,420
+Herr Oberhaus, ich habe eine Frage.
+
+529
+00:41:18,420 --> 00:41:21,420
+Wann können wir Magenspiegelung
+
+530
+00:41:21,420 --> 00:41:24,420
+in diesem Fall durchführen?
+
+531
+00:41:24,420 --> 00:41:27,420
+Am besten sofort.
+
+532
+00:41:27,420 --> 00:41:32,430
+Wenn man guckt, dass man den Magen
+
+533
+00:41:32,430 --> 00:41:35,430
+erst mal leer bekommt.
+
+534
+00:41:35,430 --> 00:41:38,430
+Entschuldigung, ich habe falsch gesagt.
+
+535
+00:41:38,430 --> 00:41:41,430
+Daumenpielung muss man nicht machen.
+
+536
+00:41:41,430 --> 00:41:44,430
+Wenn Sie die Blutungsquelle
+
+537
+00:41:44,430 --> 00:41:47,430
+erhaut haben, also wissen, warum er blutet,
+
+538
+00:41:47,430 --> 00:41:50,430
+dann müssen Sie nicht unbedingt eine Darmspielung machen.
+
+539
+00:41:50,430 --> 00:41:53,430
+Aber Sie können ein, zwei Tage später,
+
+540
+00:41:53,430 --> 00:41:56,430
+wenn Sie möchten, können Sie das machen zu weiteren Diagnostik.
+
+541
+00:41:56,430 --> 00:41:59,430
+Muss man aber theoretisch gesehen nicht.
+
+542
+00:41:59,430 --> 00:42:02,430
+Wir müssen nur die Magenblutung stillen.
+
+543
+00:42:02,430 --> 00:42:05,430
+Dann wird der Hemoglobin wieder steigen.
+
+544
+00:42:05,430 --> 00:42:08,430
+Als Vorbeugung, Untersuchung,
+
+545
+00:42:08,430 --> 00:42:11,430
+wann wurde es empfohlen in Deutschland?
+
+546
+00:42:11,430 --> 00:42:14,430
+Nach 50 Jahren,
+
+547
+00:42:14,430 --> 00:42:17,430
+alle 10 Jahre einmal?
+
+548
+00:42:17,430 --> 00:42:20,430
+Oder gibt es andere?
+
+549
+00:42:20,430 --> 00:42:23,430
+Erstmal genau.
+
+550
+00:42:23,430 --> 00:42:26,430
+Also nicht Magenspiegelung, Darmspielung.
+
+551
+00:42:26,430 --> 00:42:29,430
+Magenspiegelung ist keine Vorsorgeuntersuchung.
+
+552
+00:42:29,430 --> 00:42:37,140
+Nur Darmspiegelung ab 50.
+
+553
+00:42:37,140 --> 00:42:43,750
+Nur Darmspiegelung ist keine Vorsorgeuntersuchung.
+
+554
+00:42:43,750 --> 00:42:52,510
+Nur Koloskopie.
+
+555
+00:42:52,510 --> 00:42:55,510
+Okay, alle verstanden.
+
+556
+00:42:55,510 --> 00:42:58,510
+Keine Fragen mehr. Alles einfach.
+
+557
+00:42:58,510 --> 00:43:01,510
+Sehr gut. Vielen Dank.
+
+558
+00:43:01,510 --> 00:43:04,510
+Dann haben Sie gut gemacht, Herr.
+
+559
+00:43:04,510 --> 00:43:07,510
+Das ist klasse. Sehr gut.
