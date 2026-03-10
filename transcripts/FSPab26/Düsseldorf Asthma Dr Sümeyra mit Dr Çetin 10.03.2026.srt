@@ -1,0 +1,2615 @@
+1
+00:00:00,000 --> 00:00:16,000
+Ich bin der Diensthabende Arzt und würde jetzt gerne das Aufnahmegespräch mit Ihnen führen. Sind Sie damit einverstanden?
+
+2
+00:00:16,000 --> 00:00:18,000
+Ja, natürlich.
+
+3
+00:00:18,000 --> 00:00:24,000
+Bitte fragen Sie nach, wenn Sie etwas nicht verstehen. Wie heißen Sie denn?
+
+4
+00:00:24,000 --> 00:00:28,000
+Mein Name ist Popol Bakh.
+
+5
+00:00:28,000 --> 00:00:35,040
+Könnten Sie das langsam und deutlich buchstabieren?
+
+6
+00:00:35,040 --> 00:00:48,120
+Ja, mein Vorname ist P-O-PP-L-E.
+
+7
+00:00:48,120 --> 00:00:57,120
+Und Nachname buchstabiert sich B-A-C-H.
+
+8
+00:00:57,120 --> 00:01:01,120
+Ja, wie alt sind Sie?
+
+9
+00:01:01,120 --> 00:01:03,120
+55 Jahre alt bin ich.
+
+10
+00:01:03,120 --> 00:01:05,120
+Wann genau sind Sie geboren?
+
+11
+00:01:05,120 --> 00:01:11,120
+18.04.1973
+
+12
+00:01:11,120 --> 00:01:17,120
+19...1973...60 oder?
+
+13
+00:01:17,120 --> 00:01:20,750
+70.
+
+14
+00:01:20,750 --> 00:01:22,750
+Danke.
+
+15
+00:01:22,750 --> 00:01:24,750
+Wie groß sind Sie?
+
+16
+00:01:24,750 --> 00:01:28,750
+1,81 Meter.
+
+17
+00:01:28,750 --> 00:01:34,750
+1,81 Meter. Okay. Wissen Sie, wie viel Sie wiegen?
+
+18
+00:01:34,750 --> 00:01:38,750
+Ich denke 74.
+
+19
+00:01:38,750 --> 00:01:48,750
+74. Okay. Was würdest du heute zu uns geben? Wie kann ich Ihnen helfen, Herr Bach?
+
+20
+00:01:48,750 --> 00:01:56,750
+Herr Doktor, seit heute Morgen habe ich Luftnot und eine starke Hust.
+
+21
+00:01:56,750 --> 00:02:01,750
+Luftnot und starke Husten haben Sie?
+
+22
+00:02:01,750 --> 00:02:05,750
+Ja, ich fühle mich nicht so gut.
+
+23
+00:02:05,750 --> 00:02:10,750
+Unter Luftnot leiden Sie jetzt oder?
+
+24
+00:02:10,750 --> 00:02:16,750
+Nein, das ist ganz normal. Momentan ist es gut.
+
+25
+00:02:16,750 --> 00:02:20,750
+Es ist Zeit, aber heute Morgen haben Sie darüber gelitten.
+
+26
+00:02:20,750 --> 00:02:22,750
+Heute Morgen.
+
+27
+00:02:22,750 --> 00:02:24,750
+Okay.
+
+28
+00:02:24,750 --> 00:02:30,750
+Ja, wir gehen zuerst zu Luftnot.
+
+29
+00:02:30,750 --> 00:02:40,750
+Herr Bach, sind Ihre Atemnot oder Luftnot flüssig oder langsam aufgetreten?
+
+30
+00:02:40,750 --> 00:02:48,750
+In der Nacht oder zum Beispiel heute Morgen kommt es ganz flüssig.
+
+31
+00:02:48,750 --> 00:02:50,750
+Flüssig.
+
+32
+00:02:50,750 --> 00:02:56,750
+Und in der Atakanweise dauert es ca. 50 Minuten.
+
+33
+00:02:56,750 --> 00:03:00,750
+Die Atemnot kommt in Anfällen.
+
+34
+00:03:00,750 --> 00:03:04,750
+Wie gesagt, dauert es ca. 50 Minuten.
+
+35
+00:03:04,750 --> 00:03:09,750
+Ca. 50 Minuten dauert die Atakan.
+
+36
+00:03:09,750 --> 00:03:17,750
+Okay. Wie oft hatten Sie Atakan bis jetzt?
+
+37
+00:03:17,750 --> 00:03:28,750
+Ja, ich weiß es nicht ganz genau, aber seit drei Wochen habe ich ähnliche, aber leichte Symptome.
+
+38
+00:03:28,750 --> 00:03:32,750
+Aber seit heute Morgen habe ich ein bisschen schlimmer geworden.
+
+39
+00:03:33,750 --> 00:03:38,750
+Ja, es gibt mir vielleicht, dass Sie das erleben mussten.
+
+40
+00:03:38,750 --> 00:03:43,750
+Aber seit drei Wochen haben Sie ähnliche Beschwerden, aber leichter.
+
+41
+00:03:43,750 --> 00:03:54,670
+Ja, besonders morgens früh oder in der Nacht beim Schlafen.
+
+42
+00:03:54,670 --> 00:03:58,670
+Welches ist stärker, morgens früh oder in der Nacht?
+
+43
+00:03:58,670 --> 00:04:01,670
+Egal, beides gleich.
+
+44
+00:04:01,670 --> 00:04:03,670
+Okay.
+
+45
+00:04:06,670 --> 00:04:09,670
+In welcher Situation sind die Beschwerden aufgetreten?
+
+46
+00:04:09,670 --> 00:04:13,670
+Sind diese Atemnot aufgetreten?
+
+47
+00:04:13,670 --> 00:04:15,670
+Haben Sie bemerkt?
+
+48
+00:04:15,670 --> 00:04:21,670
+Ja, ich weiß es nicht fast genau, aber es ist nicht belastungsabhängig.
+
+49
+00:04:21,670 --> 00:04:23,670
+Nicht belastungsabhängig?
+
+50
+00:04:23,670 --> 00:04:25,670
+Ja, ich bin in Ruhe.
+
+51
+00:04:25,670 --> 00:04:31,670
+Im Bett kommt mir ein Anfall.
+
+52
+00:04:31,670 --> 00:04:36,740
+Gleichzeitig muss ich auch...
+
+53
+00:04:36,740 --> 00:04:39,740
+Ja, ich weiß es nicht, warum kommt es.
+
+54
+00:04:39,740 --> 00:04:49,600
+Zum Beispiel gestern Abend habe ich ähnliche Symptome und heute Morgen, aber jetzt bin ich ganz gut.
+
+55
+00:04:49,600 --> 00:04:57,600
+Okay. Haben Sie während der Atakan Pfeifendatengeräusche, Bema?
+
+56
+00:04:57,600 --> 00:05:08,510
+Oder sind Ihnen Gehmen oder Brümen aufgefallen?
+
+57
+00:05:08,510 --> 00:05:12,510
+Ja, ein bisschen.
+
+58
+00:05:12,510 --> 00:05:20,510
+Okay. Meinen Sie mit ein bisschen? Ja?
+
+59
+00:05:20,510 --> 00:05:24,510
+Ja. Teilweise.
+
+60
+00:05:24,510 --> 00:05:29,510
+Könnten Sie flach liegen oder brauchen Sie zum Schlafen mehrere Kissen?
+
+61
+00:05:29,510 --> 00:05:33,510
+Besonders nach einem Tag zum Beispiel.
+
+62
+00:05:33,510 --> 00:05:38,510
+Ja, ich brauche nie mehrere Kissen beim Schlafen.
+
+63
+00:05:38,510 --> 00:05:44,510
+Ich bin ganz normal. Ich weiß es nicht, warum kommt es, diese Anfälle?
+
+64
+00:05:44,510 --> 00:05:51,510
+Vor drei Wochen habe ich gar nicht ähnliche Beschwerden.
+
+65
+00:05:51,510 --> 00:05:54,510
+Okay. Sie werden das entdecken.
+
+66
+00:05:54,510 --> 00:06:02,510
+Bitte machen Sie sich keine Sorge. Sie sind in guten Händen und wir werden unsere Beste für Sie tun, Herr Bach.
+
+67
+00:06:02,510 --> 00:06:08,510
+Herr Bach, ich komme zu Ihren Hüsten.
+
+68
+00:06:08,510 --> 00:06:10,510
+Sie haben aber schon gesagt, dass Sie Hüsten haben.
+
+69
+00:06:10,510 --> 00:06:16,510
+Könnten Sie mir sagen...
+
+70
+00:06:16,510 --> 00:06:22,510
+Oder könnten Sie den Hüsten genau beschreiben?
+
+71
+00:06:22,510 --> 00:06:28,510
+Zum Beispiel, ist er trocken oder haben Sie einen Auswurf?
+
+72
+00:06:28,510 --> 00:06:35,050
+Ja, Herr Doktor, ganz, ganz stärker Hüsten, aber ohne Auswurf.
+
+73
+00:06:35,050 --> 00:06:40,050
+Ohne Auswurf? Ja, ganz, ganz trocken.
+
+74
+00:06:40,050 --> 00:06:47,050
+Ich habe mir einen Kratzen im Hals oder in meinen Lungen.
+
+75
+00:06:47,050 --> 00:06:48,050
+Wie bitte? Kalt?
+
+76
+00:06:48,050 --> 00:06:52,050
+Ich habe einen Kratzen in meinem Hals.
+
+77
+00:06:52,050 --> 00:07:03,050
+Okay. Ja, Frau Bach, Entschuldigung, Herr Bach, haben Sie Beschimpftauslöser für Ihre Beschwerden bemerkt?
+
+78
+00:07:03,050 --> 00:07:14,260
+Beschimpftauslöser habe ich nicht bemerkt. Aktuell noch nicht. Aber keine Belastung abhängig.
+
+79
+00:07:14,260 --> 00:07:24,260
+Aber ich habe bemerkt, dass es mir sehr gut geht.
+
+80
+00:07:24,260 --> 00:07:29,260
+Tagsüber bei der Arbeit habe ich keine Probleme.
+
+81
+00:07:29,260 --> 00:07:31,260
+Keine Probleme?
+
+82
+00:07:31,260 --> 00:07:34,260
+Bei der Arbeit keine Probleme, nur zu Hause.
+
+83
+00:07:34,260 --> 00:07:40,260
+Okay, das ist auch für mich sehr wichtige Information. Danke für das.
+
+84
+00:07:40,260 --> 00:07:49,920
+Okay. Haben Sie Brustschmerzen, Engelgefühl oder Herzrasen?
+
+85
+00:07:49,920 --> 00:07:53,920
+Während der Attacke habe ich ja.
+
+86
+00:07:53,920 --> 00:08:01,920
+Sobald, entweder während der Attacke oder ohne Attacke?
+
+87
+00:08:01,920 --> 00:08:05,920
+Momentan, im Moment, ich bin ganz, ganz normal.
+
+88
+00:08:05,920 --> 00:08:16,920
+Aber während der Attacke habe ich Herzrasen, ein bisschen Müdigkeit und nicht so stark, aber Brustschmerzen habe ich.
+
+89
+00:08:16,920 --> 00:08:17,920
+Brustschmerzen?
+
+90
+00:08:17,920 --> 00:08:22,920
+Ja, ja. Nicht so stark, nicht so schwer, aber habe ich.
+
+91
+00:08:22,920 --> 00:08:30,920
+Könnten Sie diese Schmerzen genau beschreiben? Streschendurrent, drückend oder dumpf?
+
+92
+00:08:31,920 --> 00:08:37,920
+Ja, ein bisschen dumpf, nicht drückend, aber ich fühle mich nicht so gut.
+
+93
+00:08:37,920 --> 00:08:40,920
+Wie stark?
+
+94
+00:08:40,920 --> 00:08:44,920
+Das ist meine Stärke Schmerzen. Wie ein Gefühl.
+
+95
+00:08:44,920 --> 00:08:46,920
+Wie ein Engelgefühl?
+
+96
+00:08:46,920 --> 00:08:52,900
+Ja, ja. Engelgefühle haben besser.
+
+97
+00:08:52,900 --> 00:09:01,150
+Danke für diese Information. Haben Sie Fieberstelle für Nachtschweiß, Kaltenschweiß?
+
+98
+00:09:01,150 --> 00:09:15,150
+Ja, genau so. Wegen der nächtlichen Attacke habe ich nur ein bisschen Schlafstörungen, aber andere Beschleunigung.
+
+99
+00:09:15,150 --> 00:09:17,150
+Nein, nein. Ich meine Fieberstelle für Nachtschweiß.
+
+100
+00:09:17,150 --> 00:09:19,150
+Nein, habe ich nicht.
+
+101
+00:09:19,150 --> 00:09:24,150
+Aber Sie leiden unter Schlafstörungen wegen dieser Attacke?
+
+102
+00:09:24,150 --> 00:09:27,150
+Ja, ja. Ich habe keine Luft bekommen.
+
+103
+00:09:27,150 --> 00:09:38,150
+Okay. Und haben Sie Übelkeit oder müssen Sie sich übergeben?
+
+104
+00:09:38,150 --> 00:09:44,220
+Nein, sowas habe ich nicht.
+
+105
+00:09:44,220 --> 00:09:47,690
+Wie ist Ihr Appetit?
+
+106
+00:09:47,690 --> 00:09:49,690
+Normalerweise ganz gut.
+
+107
+00:09:49,690 --> 00:09:55,690
+Und haben Sie in der letzten Zeit Ungewollt oder zu genommen, Herr Bauch?
+
+108
+00:09:55,690 --> 00:10:02,340
+Sowas habe ich nicht bemerkt.
+
+109
+00:10:02,340 --> 00:10:13,540
+Okay. Gibt es noch etwas, das Sie hinzufügen möchten oder wollten?
+
+110
+00:10:13,540 --> 00:10:15,540
+Ja, ich habe...
+
+111
+00:10:15,540 --> 00:10:21,540
+Entschuldigung, ich habe noch ein paar Fragen. Entschuldigung, Herr Bauch.
+
+112
+00:10:21,540 --> 00:10:25,540
+Haben Sie Probleme beim Wasserlassen?
+
+113
+00:10:25,540 --> 00:10:29,540
+Nein, habe ich nicht bemerkt. Ja, ganz normal.
+
+114
+00:10:29,540 --> 00:10:33,540
+Okay. Was ist mit dem Stuhlgang?
+
+115
+00:10:33,540 --> 00:10:35,540
+Auch normal, ja.
+
+116
+00:10:35,540 --> 00:10:41,230
+Okay. Entschuldigung.
+
+117
+00:10:41,230 --> 00:10:49,230
+Okay. Herr Bauch, gibt es Ihnen...
+
+118
+00:10:49,230 --> 00:10:56,230
+Gestern haben wir schon mal gegen Stärkefüße. Ich nehme mir einen Pfüstensaft.
+
+119
+00:10:56,230 --> 00:11:02,230
+Ganz glanzlich angenommen, aber das kann nicht...
+
+120
+00:11:02,230 --> 00:11:04,230
+Pfüstensaft.
+
+121
+00:11:04,230 --> 00:11:07,830
+Das kann nicht sein.
+
+122
+00:11:07,830 --> 00:11:13,830
+Könnten Sie den Namen des Pfüstensaftes nennen?
+
+123
+00:11:13,830 --> 00:11:17,830
+Oder erinnern Sie sich daran?
+
+124
+00:11:17,830 --> 00:11:20,830
+Ich denke, Fenchelhörnig-Schub.
+
+125
+00:11:20,830 --> 00:11:22,830
+Wie bitte?
+
+126
+00:11:22,830 --> 00:11:25,830
+Fenchelhörnig. Flaslische.
+
+127
+00:11:25,830 --> 00:11:27,830
+Flaslische. Okay.
+
+128
+00:11:27,830 --> 00:11:31,830
+Okay. Nur gestern oder heute auch.
+
+129
+00:11:31,830 --> 00:11:32,830
+Gestern.
+
+130
+00:11:32,830 --> 00:11:33,830
+Haben Sie eingenommen.
+
+131
+00:11:33,830 --> 00:11:37,830
+Gestern. Aber das hat Ihnen nicht geholfen.
+
+132
+00:11:37,830 --> 00:11:38,830
+Ja.
+
+133
+00:11:38,830 --> 00:11:51,830
+Herr Bauch, gibt es in Ihrer Vollgeschichte Krankheiten, von denen ich wissen sollte, zum Beispiel chronische Erkrankungen wie Bluthochdruck oder erhöhte Blutwertwerte?
+
+134
+00:11:51,830 --> 00:12:03,830
+Seit drei Jahren habe ich eine Reissdarm-Syndrom. Bei mir bekannt. Reissdarm-Syndrom.
+
+135
+00:12:03,830 --> 00:12:13,830
+Wenn ich Stress habe, dann kommt mir eine Magenschmerzen und manchmal Durchfall.
+
+136
+00:12:13,830 --> 00:12:17,830
+Durchfall. Okay. Und Bauchschmerzen.
+
+137
+00:12:17,830 --> 00:12:20,830
+Ja. Aber außer ganz normal.
+
+138
+00:12:20,830 --> 00:12:22,830
+Okay. Noch etwas?
+
+139
+00:12:22,830 --> 00:12:27,830
+Und circa vor zehn Jahren.
+
+140
+00:12:27,830 --> 00:12:31,270
+Ja.
+
+141
+00:12:31,270 --> 00:12:42,270
+Das war bei mir. Ich habe eine Gelbsucht bekannt.
+
+142
+00:12:42,270 --> 00:12:53,160
+Gelbsucht. Nach einer Reise oder?
+
+143
+00:12:53,160 --> 00:13:04,160
+Ja, ja. Wir haben mit allen Freunden und Freundinnen nach Brasilien reist.
+
+144
+00:13:04,160 --> 00:13:07,160
+Und da haben Sie bekommen?
+
+145
+00:13:07,160 --> 00:13:14,160
+Ja, da haben wir alle bekommen. Gelbsucht. Jede circa zwei Personen.
+
+146
+00:13:14,160 --> 00:13:20,160
+Danke für diese Information. Herr Bauch, wurden Sie schon einmal operiert?
+
+147
+00:13:20,160 --> 00:13:24,160
+Operationen? Ja.
+
+148
+00:13:24,160 --> 00:13:27,160
+Welche Operationen hatten Sie?
+
+149
+00:13:27,160 --> 00:13:34,160
+Mit sieben wurden mir Mandeln entfarrt.
+
+150
+00:13:34,160 --> 00:13:37,160
+Ja. Noch etwas?
+
+151
+00:13:37,160 --> 00:13:45,160
+Und mit zwanzig bei mir eine Brindarm entfarrt.
+
+152
+00:13:45,160 --> 00:13:49,160
+Waren die Operationen komplikationslos?
+
+153
+00:13:49,160 --> 00:13:54,160
+Ja, ich denke, das war komplikationslos.
+
+154
+00:13:54,160 --> 00:13:59,160
+Okay. Das ist schön. Außer Hustensaft nehmen Sie regelmäßig oder bei Bedarf Medikamente ein?
+
+155
+00:13:59,160 --> 00:14:07,160
+Ja, ich nehme regelmäßig gegen mein Reissdarm-Syndrom Chimea.
+
+156
+00:14:07,160 --> 00:14:11,160
+Chimea. Ja, ja. Chimea.
+
+157
+00:14:11,160 --> 00:14:13,160
+Bei Bedarf oder regelmäßig?
+
+158
+00:14:13,160 --> 00:14:15,160
+Ich nehme regelmäßig, ja.
+
+159
+00:14:15,160 --> 00:14:29,620
+Aber ich denke, Sie brauchen nicht Chimea einzunehmen, wenn Sie keine Beschwerden haben.
+
+160
+00:14:29,620 --> 00:14:33,620
+Sie können einfach bei Bedarf nutzen oder einnehmen.
+
+161
+00:14:33,620 --> 00:14:39,620
+Aber Chimea ist wie ein Vitamin, ein ganz von anstlichem Produkt.
+
+162
+00:14:39,620 --> 00:14:42,620
+Ah, als Vorbeutung. Okay. Das habe ich verstanden.
+
+163
+00:14:42,620 --> 00:14:43,620
+Das ist gefährlich, ja.
+
+164
+00:14:43,620 --> 00:14:45,620
+Okay. Das habe ich verstanden.
+
+165
+00:14:45,620 --> 00:14:50,620
+Ich habe das meinem Haus geraten und er sagt, kein Problem.
+
+166
+00:14:50,620 --> 00:14:52,620
+Ja, noch etwas?
+
+167
+00:14:52,620 --> 00:14:58,620
+Ähm, noch andere Medikamente habe ich nicht.
+
+168
+00:14:58,620 --> 00:15:05,620
+Okay. Sind Ihnen irgendwelche Allergien oder Unverträglichkeiten bekannt, Herr Bach?
+
+169
+00:15:05,620 --> 00:15:08,620
+Wir haben viele Beispiele.
+
+170
+00:15:08,620 --> 00:15:16,620
+Ja, aber soweit ich weiß, als Kindheit habe ich eine Katzenhaareallergie.
+
+171
+00:15:16,620 --> 00:15:30,860
+Damals hat mein Vater mir eine Katze gegeben und dann war mir das ein bisschen schwieriger.
+
+172
+00:15:30,860 --> 00:15:38,860
+Okay. Wie hat sich Ihre Allergie geäußert?
+
+173
+00:15:38,860 --> 00:15:40,860
+Erinnern Sie sich daran?
+
+174
+00:15:40,860 --> 00:15:53,190
+Ja, soweit ich weiß. Ich reagiere sehr, sehr schlecht mit Atemnot.
+
+175
+00:15:53,190 --> 00:15:59,190
+Ja, Kratzen, Tabakgefühl.
+
+176
+00:15:59,190 --> 00:16:03,190
+Okay. Herr Bach, danke für die Informationen.
+
+177
+00:16:03,190 --> 00:16:09,190
+Herr Bach, darf ich fragen, ob Sie rauchen oder ob Sie früher geraucht haben?
+
+178
+00:16:09,190 --> 00:16:13,190
+Ich habe nicht raucht.
+
+179
+00:16:13,190 --> 00:16:15,190
+Sehr gut.
+
+180
+00:16:15,190 --> 00:16:18,790
+Ich bin nicht raucht, ja.
+
+181
+00:16:18,790 --> 00:16:22,790
+Sehr gut. Ich gratuliere Ihnen. Trinken Sie Salkot?
+
+182
+00:16:22,790 --> 00:16:27,790
+Gerne. Ein oder zwei Gläser Wein am Wochenende.
+
+183
+00:16:27,790 --> 00:16:35,790
+Okay. Also, Herr Bach, routinemäßig muss ich Sie fragen, ob Sie mit irgendwelchen Drogen Kontakt haben.
+
+184
+00:16:35,790 --> 00:16:39,790
+Warum fragen Sie danach?
+
+185
+00:16:39,790 --> 00:16:58,790
+Wie gesagt, ist das eine Routinefrage und wir sollten wissen, dass manche Drogen oder Medikamente nebenwirkungen haben.
+
+186
+00:16:58,790 --> 00:17:00,790
+Deswegen habe ich danach gefragt.
+
+187
+00:17:00,790 --> 00:17:03,790
+Ja, wie gesagt, ich bin nicht Raucher.
+
+188
+00:17:03,790 --> 00:17:07,790
+Ich meine nicht Raucherin. Ich meine Drogen.
+
+189
+00:17:07,790 --> 00:17:09,790
+Niemals.
+
+190
+00:17:09,790 --> 00:17:15,790
+Okay. Sind Sie vollständig geimpft?
+
+191
+00:17:15,790 --> 00:17:19,260
+Ja.
+
+192
+00:17:19,260 --> 00:17:24,260
+Treiben Sie Sport? Regelmässig Sport?
+
+193
+00:17:24,260 --> 00:17:29,260
+Nein, ich habe keine Zeit für den Sport.
+
+194
+00:17:29,260 --> 00:17:36,260
+Haben Sie Haustiere zu Hause oder bei der Arbeit?
+
+195
+00:17:36,260 --> 00:17:40,260
+Ja.
+
+196
+00:17:40,260 --> 00:17:44,260
+Was für ein Tier haben Sie?
+
+197
+00:17:44,260 --> 00:17:49,260
+Wir haben einen Hund, einen kleinen Hund.
+
+198
+00:17:49,260 --> 00:17:56,020
+Okay. Danke für die Informationen.
+
+199
+00:17:56,020 --> 00:18:03,020
+Jetzt würde ich Ihnen gerne einige Fragen zu Ihrer Familie stellen. Sind Ihre Eltern gesund?
+
+200
+00:18:03,020 --> 00:18:14,340
+Meine Vater ist letztes Jahr wegen einer Bronchelkarstnur verstorben.
+
+201
+00:18:14,340 --> 00:18:23,860
+Es tut mir leid, dass Sie hören, Herr Bach.
+
+202
+00:18:23,860 --> 00:18:27,860
+Was ist mit Ihrer Mutter?
+
+203
+00:18:27,860 --> 00:18:34,860
+Meine Mutter hat Asthma. Aber sie ist gesund.
+
+204
+00:18:34,860 --> 00:18:39,860
+Sie nimmt ihre Medikamente regelmäßig.
+
+205
+00:18:39,860 --> 00:18:42,860
+Aufmerksamkeit.
+
+206
+00:18:42,860 --> 00:18:45,860
+Sie hat keine Probleme.
+
+207
+00:18:45,860 --> 00:18:49,860
+Haben Sie Geschwister?
+
+208
+00:18:49,860 --> 00:18:54,860
+Ich habe einen Bruder.
+
+209
+00:18:54,860 --> 00:19:00,860
+Er hat eine Nierenversorgung.
+
+210
+00:19:00,860 --> 00:19:10,860
+Er muss in der Woche mindestens dreimal zum Blutwäsche gehen.
+
+211
+00:19:10,860 --> 00:19:17,300
+Für die Blutwäsche zum Krankenhaus.
+
+212
+00:19:17,300 --> 00:19:22,300
+Ich weiss nicht, was Blutwäsche ist.
+
+213
+00:19:22,300 --> 00:19:29,300
+Warum ist mein Bruder mindestens zwei Mal ins Knochen ausgeht?
+
+214
+00:19:29,300 --> 00:19:36,300
+Blutwäsche, auch Dialys genannt, ist eine Ersatztherapie bei Nierenversorgung.
+
+215
+00:19:36,300 --> 00:19:47,300
+Wenn die Nieren nicht gut funktionieren, ist eine Alternative für uns als eine Therapie Blutwäsche.
+
+216
+00:19:47,300 --> 00:19:54,300
+Höchstwahrscheinlich hat Ihr Bruder Nierenversorgung, Herr Bach.
+
+217
+00:19:54,300 --> 00:19:58,300
+Sind Sie verheiratet?
+
+218
+00:19:58,300 --> 00:20:01,300
+Ja, ich bin verheiratet.
+
+219
+00:20:01,300 --> 00:20:04,300
+Haben Sie Kinder?
+
+220
+00:20:04,300 --> 00:20:10,300
+Leider haben wir keine Kinder. Wir möchten ein Kind bekommen.
+
+221
+00:20:10,300 --> 00:20:15,300
+Aber wir können es bis jetzt nicht bekommen.
+
+222
+00:20:15,300 --> 00:20:22,300
+Meine Tochter hat gesagt, eine IVF.
+
+223
+00:20:22,300 --> 00:20:25,300
+Ich weiss nicht genau, was das ist.
+
+224
+00:20:25,300 --> 00:20:28,300
+Eine künstliche Befristung.
+
+225
+00:20:28,300 --> 00:20:42,300
+Deswegen nehme ich für meine Frau eine Labrador, einen kleinen Hund, für sie als Geschenk.
+
+226
+00:20:42,300 --> 00:20:48,300
+Wann haben Sie den gekauft?
+
+227
+00:20:48,300 --> 00:20:52,300
+Vor einem Monat.
+
+228
+00:20:52,300 --> 00:20:58,300
+Ich hoffe, Herr Bach, Sie können auch ein Baby haben.
+
+229
+00:20:58,300 --> 00:21:08,550
+Manche Leute versuchen diese Therapie viele Male und bekommen dann ein Kind.
+
+230
+00:21:08,550 --> 00:21:12,550
+Was machen Sie beruflich, Herr Bach?
+
+231
+00:21:12,550 --> 00:21:17,550
+Ich bin IT-Techniker.
+
+232
+00:21:17,550 --> 00:21:30,320
+Herr Bach, ich danke Ihnen für Ihre Offenheit und Ihr Geduld.
+
+233
+00:21:30,320 --> 00:21:34,320
+Ich bin nun mit meinen Fragen fertig.
+
+234
+00:21:34,320 --> 00:21:43,320
+Ich habe einen Verdacht auf Asthma, die Ihre Mutter und vielleicht aufgrund Ihres neuen Hunds.
+
+235
+00:21:43,320 --> 00:21:46,320
+Aber das bleibt nur eine Vermutung.
+
+236
+00:21:46,320 --> 00:21:54,320
+Deshalb müssen wir weiter durchführen, um das zu bestätigen.
+
+237
+00:21:54,320 --> 00:21:58,320
+Zunächst werde ich Sie körperlich untersuchen.
+
+238
+00:21:58,320 --> 00:22:03,320
+Ihnen anschließend etwas Blut abnehmen für das Labor.
+
+239
+00:22:03,320 --> 00:22:12,320
+Danach werde ich einen Lungenfunktionstest und einen Prick-Haut-Test durchführen.
+
+240
+00:22:12,320 --> 00:22:16,320
+Dann werde ich einen Lungenrunken veranlassen.
+
+241
+00:22:16,320 --> 00:22:21,320
+Sobald Ihre Befunde vorliegen, bespreche ich alles mit meinem Oberarzt.
+
+242
+00:22:21,320 --> 00:22:29,320
+Danach komme ich zu Ihnen zurück und erkläre Ihnen Schritt für Schritt, wie es weitergeht.
+
+243
+00:22:29,320 --> 00:22:36,320
+Ja, okay. Aber ich möchte nie einen Lungenrunken bekommen.
+
+244
+00:22:36,320 --> 00:22:40,320
+Aber Sie bekommen...
+
+245
+00:22:40,320 --> 00:22:51,320
+Das ist nicht so gefährlich, wie Sie denken oder wie Sie Angst haben, Herr Bach.
+
+246
+00:22:51,320 --> 00:23:03,320
+Es sind halt so niedrige Strälen und so viele Strälen können den Körper nicht schäden.
+
+247
+00:23:03,320 --> 00:23:06,320
+Nicht schädlich, ja?
+
+248
+00:23:06,320 --> 00:23:07,320
+Ja.
+
+249
+00:23:07,320 --> 00:23:12,320
+Okay, vielen Dank. Ich warte auf Sie.
+
+250
+00:23:12,320 --> 00:23:19,320
+Okay. Warten Sie auf mich.
+
+251
+00:23:19,320 --> 00:23:25,870
+Kling-Kling.
+
+252
+00:23:25,870 --> 00:23:29,870
+Dr. Doan Amaparat, bitte.
+
+253
+00:23:29,870 --> 00:23:34,870
+Guten Tag. Ich bin Frau Müller aus dem Labor.
+
+254
+00:23:34,870 --> 00:23:45,870
+Frau Clemens' Thrombocyt-Werte sind 16.550.
+
+255
+00:23:45,870 --> 00:23:49,870
+Wie viel sind das? 16.000?
+
+256
+00:23:49,870 --> 00:23:55,870
+16.550 pro Mikroliter.
+
+257
+00:23:55,870 --> 00:24:00,870
+Könnten Sie bitte diese Werte Ihren Oberarztin weiterleiten?
+
+258
+00:24:00,870 --> 00:24:06,870
+Ja, okay. Ich kann das machen. Aber könnten Sie die Name wiederholen?
+
+259
+00:24:06,870 --> 00:24:20,870
+Frau Clemens mit C L E M E N Z.
+
+260
+00:24:20,870 --> 00:24:24,870
+Okay, danke. Ich mache das.
+
+261
+00:24:24,870 --> 00:24:26,870
+Danke sehr. Tschüss.
+
+262
+00:24:26,870 --> 00:24:33,340
+Tschüss.
+
+263
+00:24:33,340 --> 00:24:43,300
+Okay. Was ist Ihr Nachname?
+
+264
+00:24:43,300 --> 00:24:44,300
+Cetin Abi.
+
+265
+00:24:44,300 --> 00:24:46,300
+Ja, Cetin Doan.
+
+266
+00:24:46,300 --> 00:24:49,300
+Okay. Herzlich willkommen Herr Doan.
+
+267
+00:24:49,300 --> 00:24:50,300
+Danke.
+
+268
+00:24:50,300 --> 00:24:52,300
+Woher kommen Sie?
+
+269
+00:24:52,300 --> 00:24:54,300
+Ich komme aus der Türkei.
+
+270
+00:24:54,300 --> 00:24:57,300
+Seit wann sind Sie in Deutschland?
+
+271
+00:24:57,300 --> 00:25:03,300
+Ich bin seit mehr als 2,5 Jahren in Deutschland.
+
+272
+00:25:03,300 --> 00:25:08,540
+Okay. Warum sind Sie nach Deutschland gekommen?
+
+273
+00:25:08,540 --> 00:25:12,540
+Ja, ich musste nach Deutschland kommen.
+
+274
+00:25:12,540 --> 00:25:26,520
+Ich konnte in der Türkei nicht meinen Beruf ausüben.
+
+275
+00:25:26,520 --> 00:25:31,520
+Deswegen musste ich die Türkei verlassen.
+
+276
+00:25:31,520 --> 00:25:49,210
+Und für mich ist Deutschland die beste Alternative in Schia.
+
+277
+00:25:49,210 --> 00:25:57,210
+Darf ich fragen, warum konnten Sie Ihren Beruf in der Türkei ausüben?
+
+278
+00:25:58,210 --> 00:26:07,210
+Wegen politischen Gründen konnte ich nicht das schaffen.
+
+279
+00:26:07,210 --> 00:26:11,210
+Ja, ich kenne diese Situation. Machen Sie sich gleich fragen.
+
+280
+00:26:11,210 --> 00:26:19,210
+Das ist ein bisschen komplizierter. Ich möchte ausführlich erzählen, aber vielleicht später.
+
+281
+00:26:19,210 --> 00:26:26,210
+Sie müssen nicht ausführlich erklären.
+
+282
+00:26:26,210 --> 00:26:34,210
+Okay. Was haben Sie bisher in Deutschland gemacht?
+
+283
+00:26:34,210 --> 00:26:40,210
+Bisher habe ich intensiv Deutsch gelernt.
+
+284
+00:26:40,210 --> 00:26:56,210
+Parallel dazu bin ich mit manchen ehrenamtlichen Aufgaben beschäftigt.
+
+285
+00:26:56,210 --> 00:27:03,210
+Welche ehrenamtliche Arbeit sind Sie beschäftigt?
+
+286
+00:27:04,210 --> 00:27:16,210
+Es geht um die Integration.
+
+287
+00:27:18,450 --> 00:27:27,450
+Machen Sie sich keine Sorgen? Momentan versuchen wir ein bisschen spontan zu sprechen.
+
+288
+00:27:27,450 --> 00:27:35,450
+Ich bin Mitglied eines Vereins.
+
+289
+00:27:35,450 --> 00:27:42,450
+Dieses Vereins ist beschäftigt mit den Immigrationproblemen.
+
+290
+00:27:42,450 --> 00:27:57,450
+Es geht um die Betroffenen, besonders natürlich für Flüchtlinge und Kinder.
+
+291
+00:27:57,450 --> 00:28:08,450
+Und auch ich.
+
+292
+00:28:08,450 --> 00:28:14,450
+Okay. Was haben Sie heute für uns?
+
+293
+00:28:14,450 --> 00:28:23,450
+Guten Tag, Frau Oberstin. Heute habe ich einen neuen Patienten aufgenommen.
+
+294
+00:28:23,450 --> 00:28:30,450
+Aber bevor ich meinen Patienten vorstellen möchte, möchte ich Ihnen etwas wichtiges mit teilen.
+
+295
+00:28:30,450 --> 00:28:35,450
+Ich habe einen Ruf aus dem Labor bekommen.
+
+296
+00:28:35,450 --> 00:28:52,450
+Ich soll Ihnen sagen, Frau Clemens hat einen Thrombocytin-Werte von 18.550 pro Mikroliter.
+
+297
+00:28:52,450 --> 00:29:00,450
+Dieser Werk ist stark ermieden und entspricht Thrombocytopenie.
+
+298
+00:29:00,450 --> 00:29:12,450
+Weil Sie dafür zuständig und verantwortlich sind, möchte ich Ihnen darüber informieren.
+
+299
+00:29:12,450 --> 00:29:20,450
+Wissen Sie, welche Ursache eine Thrombocytopenie verursachen kann?
+
+300
+00:29:20,450 --> 00:29:30,450
+Ja, die häufigsten Ursachen gehören zu Leukemin,
+
+301
+00:29:30,450 --> 00:29:45,450
+Plastik, Thrombocytopenie, Immunthrombocytopenie und auch Heparin-Induzierte Thrombocytopenie oder Hypersyplenismus.
+
+302
+00:29:45,450 --> 00:29:54,450
+Solche können Thrombocytopenie häufig verursachen.
+
+303
+00:29:54,450 --> 00:29:59,450
+Okay. Welche Symptome erwarten Sie bei Thrombocytopenie?
+
+304
+00:29:59,450 --> 00:30:07,450
+Natürlich ist dieser Wert sehr lebensbedrohlich und gefährlich.
+
+305
+00:30:07,450 --> 00:30:18,450
+Die Patienten mit diesem Wert haben einfach lebensbedrohliche spontanen Blutungen.
+
+306
+00:30:18,450 --> 00:30:29,450
+Weil dieser Wert unter 20.000 pro Mikroliter ist?
+
+307
+00:30:29,450 --> 00:30:47,730
+Ja, unter 20.000 oder 15.000 Mikroliter kann eine spontane Blutung entstehen.
+
+308
+00:30:47,730 --> 00:30:55,730
+Sie haben recht, aber ich habe gefragt, welche Symptome erwarten Sie bei Thrombocytopenie?
+
+309
+00:30:55,730 --> 00:31:03,730
+Okay, unter diesem Wert ist eine Schwere.
+
+310
+00:31:03,730 --> 00:31:09,730
+Deswegen kann ich sagen, dass solche Schwere auch in einer Blutung,
+
+311
+00:31:09,730 --> 00:31:17,730
+beispielsweise in einer Gastrointestinal-Tratak oder im Gehirn, auftreten können.
+
+312
+00:31:17,730 --> 00:31:32,730
+Ich meine allgemein nicht unter diesem Wert, zum Beispiel Nasenblutung, Sandfleischblutung, Hämatom, PtSCHI.
+
+313
+00:31:32,730 --> 00:31:40,730
+Ich möchte alle Symptome hören, aber das ist auch nicht falsch.
+
+314
+00:31:40,730 --> 00:31:48,730
+Ich habe gedacht, dass dieser Wert besonders diese Schwere erwarten.
+
+315
+00:31:48,730 --> 00:31:56,260
+Okay, wie können Sie Thrombocytopenie behandeln?
+
+316
+00:31:56,260 --> 00:32:02,260
+Ich kann Thrombocytophen konstant werden.
+
+317
+00:32:02,260 --> 00:32:07,260
+Bei starken Blutungen oder sehr niedrigen Thrombocytophen werden,
+
+318
+00:32:07,260 --> 00:32:12,260
+muss man Thrombocytophen konstant werden.
+
+319
+00:32:12,260 --> 00:32:18,260
+Aber Hauptsache ist, die Gründe zu behandeln.
+
+320
+00:32:18,260 --> 00:32:28,260
+Es gibt viele Gründe, zum Beispiel Leukämie oder Immuntrombocytopenie oder Heparin-industrieierte Thrombocytopenie.
+
+321
+00:32:28,260 --> 00:32:38,260
+Wenn die Ursache dafür Heparin ist, muss man das Heparin sofort absetzen.
+
+322
+00:32:38,260 --> 00:32:58,260
+Wenn die Ursache Immuntrombocytopenie ist, muss man mit Cortisol oder mit IV Immunoglobulin behandeln.
+
+323
+00:32:58,260 --> 00:33:04,260
+Okay, das ist genug. Was haben Sie noch?
+
+324
+00:33:04,260 --> 00:33:14,260
+Frau Bojarsdyn, wie gesagt, habe ich einen neuen Patienten aufgenommen.
+
+325
+00:33:14,260 --> 00:33:19,260
+Jetzt vorstelle ich diesen Patienten.
+
+326
+00:33:19,260 --> 00:33:24,260
+Ich habe es mir gedacht.
+
+327
+00:33:24,260 --> 00:33:26,260
+Gute Besuchung.
+
+328
+00:33:26,260 --> 00:33:28,260
+Danke.
+
+329
+00:33:28,260 --> 00:33:34,260
+Es geht um Hopplebach.
+
+330
+00:33:34,260 --> 00:33:45,260
+Er ist 55 Jahre alt, geboren am 8.04.1973.
+
+331
+00:33:45,260 --> 00:33:55,410
+Er ist 1,81 Meter und wiegt 74 Kilo.
+
+332
+00:33:55,410 --> 00:34:10,710
+Er kam heute zu uns, weil heute Morgen aufgetretene Düspne und trockenen Husten.
+
+333
+00:34:10,710 --> 00:34:28,710
+Laut Angaben des Patienten sind die Symptome plötzlich und attackenartig aufgetreten und dauern jeweils 10 bis 15 Minuten.
+
+334
+00:34:28,710 --> 00:34:40,710
+Er berichtet, dass die Symptome belastungsabhängig sind und spontan wieder verschwinden.
+
+335
+00:34:40,710 --> 00:34:48,710
+Er gab keinen klaren Auslöser an.
+
+336
+00:34:48,710 --> 00:34:59,710
+Allerdings hat er kurz vorwiegend bestätigt, dass er vor drei Wochen einen Hund für seine Frau gekauft hat.
+
+337
+00:34:59,710 --> 00:35:10,710
+Bei der Allergienanamnese ergab sich eine Allergie gegen Tierhaare oder Katzenhaare in der Kindheit.
+
+338
+00:35:10,710 --> 00:35:26,710
+Die Symptome verschlimmern sich nachts und morgens früh, während sie sich bei der Arbeit oder an der frischen Luft bessern.
+
+339
+00:35:26,710 --> 00:35:42,630
+Außerdem erwähnt er, dass er seit drei Wochen ähnliche Beschwerden hatte.
+
+340
+00:35:42,630 --> 00:35:53,380
+Vegetative anamnestisch war alles unaufwendig bis auf nächtliche Attacken.
+
+341
+00:35:53,380 --> 00:36:08,790
+An Vorerkrankungen erwähnte er Bauchschmerzen und Diarrhobe bei Stressverdacht auf Reisdarm-Syndrom.
+
+342
+00:36:08,790 --> 00:36:17,790
+Er hat so genannt, wie einen Zustand nach Hepatitis A.
+
+343
+00:36:17,790 --> 00:36:24,790
+An Operationen sind eine Tonsillektomie und eine Appendektomie bekannt.
+
+344
+00:36:24,790 --> 00:36:30,790
+Der Patient nimmt Kizimea regelmäßig ein.
+
+345
+00:36:30,790 --> 00:36:42,780
+Er trinkt ein bis zwei Gläser Wein pro Woche.
+
+346
+00:36:42,780 --> 00:36:53,780
+In der Familienanamnese ergab er einen Bronzschallkarzinom bei dem Vater und Asthma bei der Mutter.
+
+347
+00:36:53,780 --> 00:37:03,780
+Und auch einen Verdacht auf Nierenversagen bei dem Bruder.
+
+348
+00:37:03,780 --> 00:37:10,780
+Er ist dialysierlich. Er ist verheiratet.
+
+349
+00:37:10,780 --> 00:37:16,780
+Sozialanamnistisch ist er verheiratet.
+
+350
+00:37:16,780 --> 00:37:22,780
+Und IT-Techniker hat keine Kinder.
+
+351
+00:37:22,780 --> 00:37:25,780
+Okay, was ist Ihr Verdachtdiagnose?
+
+352
+00:37:25,780 --> 00:37:33,780
+Nach anamnistischen Angaben habe ich den Verdacht auf ein allergisches Asthma.
+
+353
+00:37:33,780 --> 00:37:48,780
+Dafür sprechen paroxymale Düstner trockene Hüsten, eine Allergie gegen Katzenhaare
+
+354
+00:37:48,780 --> 00:38:03,140
+und das Auftreten der Beschwerden nach einem Hund bekommen.
+
+355
+00:38:03,140 --> 00:38:09,140
+Diese sprechen dafür.
+
+356
+00:38:09,140 --> 00:38:20,140
+Und differenzial diagnostisch kommen eine Pneumonie und Bronzschallkarzinom in Betracht.
+
+357
+00:38:20,140 --> 00:38:30,140
+Um meine Verdachtsdiagnose zu bestätigen, werde ich zunächst eine körperliche Untersuchung durchführen.
+
+358
+00:38:30,140 --> 00:38:43,140
+Ich achte besonders bei der Oskultation auf pfeifende Atemgeräusche.
+
+359
+00:38:43,140 --> 00:38:51,140
+Anschließend werde ich die Vitalparameter überwachen und Blut für das Labor abnehmen.
+
+360
+00:38:51,140 --> 00:39:01,140
+Es ist wichtig, ein EKG zu schreiben, um mögliche Herzrhythmusstörungen auszuschließen.
+
+361
+00:39:01,140 --> 00:39:14,140
+Der Patient leidet auch unter Herzrasen.
+
+362
+00:39:14,140 --> 00:39:26,140
+Im Labor würde ich Blutbild-, Entzündungsparameter, Elektrolyten, Nierenwerte, Lebenwerte, Blutgasanalyse,
+
+363
+00:39:26,140 --> 00:39:38,140
+und eine ganze Immunglobin A kontrollieren lassen.
+
+364
+00:39:38,140 --> 00:39:53,140
+Darüber hinaus werde ich eine Spirometrie mit Reversibilität testen, einen Prick-out-test und eine Röntgen-Thorax-Aufnahme durchführen.
+
+365
+00:39:53,140 --> 00:40:01,140
+Zudem werde ich natürlich ein pulmonologisches Konzil anfordern.
+
+366
+00:40:01,140 --> 00:40:11,140
+Sollte sich die Verdachtdiagnose bestätigen, würde ich den Patienten ambulant behandeln.
+
+367
+00:40:11,140 --> 00:40:22,140
+Zuerst ist es natürlich sehr wichtig, Allergen zu sorgen.
+
+368
+00:40:22,140 --> 00:40:34,140
+Je nach Stürztherapie sollte er zu den niedrig dosierten inhalativen Corticosteroiden.
+
+369
+00:40:34,140 --> 00:40:46,460
+Mein erster Therapie-Vorschlag ist so.
+
+370
+00:40:47,460 --> 00:40:57,460
+Als Bedürfnissetherapie empfehlen Sie eine kurzwirksame Betamematik?
+
+371
+00:40:57,460 --> 00:41:02,460
+Ja natürlich. Das ist auch sehr wichtig.
+
+372
+00:41:02,460 --> 00:41:14,460
+Kurzwirksame betaswei Symptomimatik.
+
+373
+00:41:15,460 --> 00:41:21,460
+Sie haben gesagt, je nach Stürztherapie. Was meinen Sie Stürztherapie?
+
+374
+00:41:21,460 --> 00:41:29,460
+Die Haupttherapie beim Allergischen Asthma ist Stürztherapie.
+
+375
+00:41:29,460 --> 00:41:41,460
+Je nach Schweregrad müssen die Ärzte die Therapie einstellen.
+
+376
+00:41:41,460 --> 00:42:00,460
+Ja, die Schweregrad. Damit meine ich, dass die Symptome, die Beschwerden und die Objekte nach gewissenen Befunden der Patienten,
+
+377
+00:42:00,460 --> 00:42:12,460
+mit Hilfe von Spirometrien oder anderen Untersuchungsverfahren, auch Bildgebendeverfahren,
+
+378
+00:42:12,460 --> 00:42:27,460
+je nach diesen Befunden und Symptomen kann die Therapie von Ärzten einstellen.
+
+379
+00:42:27,460 --> 00:42:38,460
+Diese wird von Aststestufentherapie genannt.
+
+380
+00:42:38,460 --> 00:42:54,460
+Wie oft, haben Sie schon gefragt, wie oft der Patient Attacke tagsüber oder in der Nacht hat?
+
+381
+00:42:54,460 --> 00:42:59,460
+Aber sie hat nicht erwähnt. Sie weiß eher nicht.
+
+382
+00:42:59,460 --> 00:43:09,460
+Die Häufigkeit der Attacke ist sehr wichtig für die Stürztherapie.
+
+383
+00:43:09,460 --> 00:43:22,460
+Wie viele Attacke pro Woche ist wichtig für uns, um diese Therapie einzustellen.
+
+384
+00:43:22,460 --> 00:43:30,460
+Als operative Therapie würden Sie einen Spirometrie-Reversibility-Test durchführen.
+
+385
+00:43:30,460 --> 00:43:34,460
+Nicht als Therapie, sondern als Maßnahmen.
+
+386
+00:43:34,460 --> 00:43:37,460
+Als operative Diagon.
+
+387
+00:43:37,460 --> 00:43:42,460
+Was ist Spirometrie mit Reversibility-Test?
+
+388
+00:43:42,460 --> 00:43:51,460
+Spirometrie, damit können wir die Lungen-Dynamischen Funktionen beurteilen.
+
+389
+00:43:51,460 --> 00:44:01,460
+Mit dieser Lungenfunktion-Test oder Lungenfunktionüberprüfung können wir einfach sagen.
+
+390
+00:44:01,460 --> 00:44:14,460
+Aber mit Reversibility-Test können wir die Reversibility-Test.
+
+391
+00:44:14,460 --> 00:44:26,460
+Weil Asthm ist eine chronisch-entzündliche Atemweg-Krankheit.
+
+392
+00:44:26,460 --> 00:44:38,970
+Es gibt zwei Kernpunkte in der Pathophysiologie.
+
+393
+00:44:39,970 --> 00:44:46,970
+Die Schleimhaut, die überempfindliche Schleimhaut der Atemwege.
+
+394
+00:44:46,970 --> 00:44:55,970
+Und wegen dieser Empfindlichkeit die Verengung der Atemwege.
+
+395
+00:44:55,970 --> 00:45:12,970
+Mit Reversibility-Test können wir die Atemwege kurzfristig verbreiten.
+
+396
+00:45:12,970 --> 00:45:22,970
+Wir können mit Hilfe von Reversibility-Test die Atemwege kurzfristig verbreiten.
+
+397
+00:45:23,970 --> 00:45:34,970
+Das ist entscheidend und ausgeprägt in der Diagnose des Asthm.
+
+398
+00:45:34,970 --> 00:45:45,950
+Sie meinen, bei Asthm können die Atemwege erweitert werden.
+
+399
+00:45:45,950 --> 00:45:51,950
+Bei einer Werhekrankheit erweitern die Atemwege nicht.
+
+400
+00:45:52,950 --> 00:45:59,950
+Die COPD können die Atemwege erweitern.
+
+401
+00:46:03,680 --> 00:46:06,680
+Sie haben sehr gute Erkenntnisse.
+
+402
+00:46:06,680 --> 00:46:13,680
+Aber Sie versuchen, mit einfachen Satzen Ihre Erkenntnisse zu zeigen.
+
+403
+00:46:13,680 --> 00:46:20,680
+Aber mit komplizierten Satzen konnten Sie auch gut erklären.
+
+404
+00:46:20,680 --> 00:46:22,680
+Das war sehr gut.
+
+405
+00:46:22,680 --> 00:46:28,680
+Ich habe keine Probleme mit der Anamnesse.
+
+406
+00:46:28,680 --> 00:46:30,680
+Ich war sehr gut.
+
+407
+00:46:30,680 --> 00:46:34,680
+Man fragt nur den Patienten aus dem Haus.
+
+408
+00:46:34,680 --> 00:46:37,680
+Der Patient sagt nichts aus dem Haus.
+
+409
+00:46:37,680 --> 00:46:40,680
+Ich habe mir die Analyse vorgestellt.
+
+410
+00:46:40,680 --> 00:46:45,680
+Wenn es um Allergien geht, dann ist es so, dass ich alle Allergien habe.
+
+411
+00:47:15,680 --> 00:47:25,680
+Sie haben seit 3 Wochen diese Beschwerden.
+
+412
+00:47:25,680 --> 00:47:42,680
+Kann es einen Zusammenhang zwischen Ihrem Labrador und Ihren Beschwerden geben?
+
+413
+00:47:42,680 --> 00:47:50,680
+Ich wollte die Analyse in der Diagnose des Asthm.
+
+414
+00:47:50,680 --> 00:47:54,680
+Ich wollte den Patienten ein Weg machen.
+
+415
+00:47:54,680 --> 00:48:01,680
+Ich wollte ihn in der Analyse des Asthm.
+
+416
+00:48:01,680 --> 00:48:07,680
+Vielleicht kann man ihn in der Analyse des Asthm fragen.
+
+417
+00:48:07,680 --> 00:48:11,680
+Wir fragen nicht die Anamnesse.
+
+418
+00:48:11,680 --> 00:48:15,680
+Man muss sich die Anamnesse anregen.
+
+419
+00:48:15,680 --> 00:48:22,680
+Wenn man einen Lungenfunktion-Test machen will,
+
+420
+00:48:22,680 --> 00:48:26,680
+dann einen Prick-out-Test.
+
+421
+00:48:26,680 --> 00:48:30,680
+Prick-out-Test ist ein Allergietest.
+
+422
+00:48:30,680 --> 00:48:34,680
+Das kann ein Allergietest sein.
+
+423
+00:48:34,680 --> 00:48:36,680
+Das war es.
+
+424
+00:48:36,680 --> 00:48:38,680
+Es war sehr gut.
+
+425
+00:48:38,680 --> 00:48:40,680
+Danke.
+
+426
+00:48:40,680 --> 00:48:42,680
+Vielen Dank.
+
+427
+00:48:42,680 --> 00:48:46,680
+Ich möchte Sie fragen,
+
+428
+00:48:46,680 --> 00:48:58,680
+ob man sich die Analyse des Allergies auf den Allergien-Test aufbauen muss.
+
+429
+00:48:58,680 --> 00:49:04,680
+Kann man die Analyse des Allergies auf den Allergien-Test aufbauen?
+
+430
+00:49:04,680 --> 00:49:08,680
+Das ist nicht so.
+
+431
+00:49:08,680 --> 00:49:12,680
+Sie wissen es besser.
+
+432
+00:49:12,680 --> 00:49:17,680
+Die Analyse des Allergies ist ein Analyse des Allergies.
+
+433
+00:49:17,680 --> 00:49:21,680
+Das sieht man in welcher Krankheit.
+
+434
+00:50:22,680 --> 00:50:29,680
+Das kann man vielleicht fragen.
+
+435
+00:50:29,680 --> 00:50:32,680
+Aber wenn der Patient das nicht bemerkt,
+
+436
+00:50:32,680 --> 00:50:35,680
+dann kann man das an der Analyse beantworten.
+
+437
+00:50:35,680 --> 00:50:38,680
+Das wäre mir viel sinnvoller.
+
+438
+00:50:38,680 --> 00:50:42,680
+Man kann nicht sagen, warum man das Analyse des Allergies aufbaut.
+
+439
+00:50:42,680 --> 00:50:47,680
+Ich dachte schon an Allergien.
+
+440
+00:50:47,680 --> 00:50:51,680
+Ich wollte nicht sagen, ob ich mit einem Tier in Kontakt war.
+
+441
+00:50:51,680 --> 00:50:54,680
+Ich wollte das fragen.
+
+442
+00:50:54,680 --> 00:50:58,680
+Dann dachte ich, dass ich das beantworten kann.
+
+443
+00:50:58,680 --> 00:51:03,680
+Im Szenario steht, dass der Patient in einem unbekannten Ort ist.
+
+444
+00:51:03,680 --> 00:51:07,680
+Er sagt, dass er eine Analyse aufbaut.
+
+445
+00:51:07,680 --> 00:51:11,680
+Er sagt, dass er ein Kind hat.
+
+446
+00:51:11,680 --> 00:51:15,680
+Er steht in einem unbekannten Ort.
+
+447
+00:51:16,680 --> 00:51:21,680
+Dann wird er eine Analyse beantworten.
+
+448
+00:51:21,680 --> 00:51:24,680
+Dann wird er die Analyse beantworten.
+
+449
+00:51:24,680 --> 00:51:29,680
+Das kann ich besser fragen.
+
+450
+00:51:29,680 --> 00:51:35,680
+Wenn der Patient das beantworten kann,
+
+451
+00:51:35,680 --> 00:51:39,680
+dann muss er das beantworten.
+
+452
+00:51:39,680 --> 00:51:43,680
+Er hat das nicht beantwortet.
+
+453
+00:52:13,680 --> 00:52:16,680
+Ich habe es in den letzten wenigen Monaten gemacht.
+
+454
+00:52:16,680 --> 00:52:18,680
+Daher war es ein bisschen leer.
+
+455
+00:52:18,680 --> 00:52:21,680
+Ich werde dort nicht Fakarst sein, sondern nur Weita Bildung.
+
+456
+00:52:21,680 --> 00:52:23,680
+Ich habe auch zwei Jahre Katalogie.
+
+457
+00:52:23,680 --> 00:52:27,680
+Ich werde sie sagen, aber ich werde sagen, dass ich nicht Fakarst bin.
+
+458
+00:52:27,680 --> 00:52:29,680
+Ich werde sagen, dass ich allgemein arbeite.
+
+459
+00:52:29,680 --> 00:52:32,680
+Ich werde sagen, dass ich diese Idee haben möchte.
+
+460
+00:52:32,680 --> 00:52:34,680
+Aber Sie können es sagen.
+
+461
+00:52:34,680 --> 00:52:39,680
+Ich habe 3,5 Jahre Weita Bildung gemacht.
+
+462
+00:52:40,680 --> 00:52:45,680
+Ich habe in der Medizin gearbeitet.
+
+463
+00:52:45,680 --> 00:52:48,680
+Aber jetzt werde ich nicht Fakarst sein.
+
+464
+00:52:48,680 --> 00:52:51,680
+Ich werde jetzt nicht Fakarst sein.
+
+465
+00:52:51,680 --> 00:52:54,680
+Sie können es sagen.
+
+466
+00:52:54,680 --> 00:52:58,680
+Sie können es sagen, wie viel Weita Bildung ihr habt.
+
+467
+00:52:58,680 --> 00:53:01,680
+Sie können es nicht Fakarst sein, aber sie können es sagen.
+
+468
+00:53:01,680 --> 00:53:09,680
+Sie können es sagen, wie viel Erfarung ihr habt.
+
+469
+00:53:09,680 --> 00:53:13,680
+Ich habe nicht gearbeitet, deswegen habe ich es heute nicht gemacht.
+
+470
+00:53:13,680 --> 00:53:16,680
+Haben Sie eine CV?
+
+471
+00:53:16,680 --> 00:53:19,680
+Ist es ein Problem, dass ihr Fakarst ist?
+
+472
+00:53:19,680 --> 00:53:25,680
+Sie haben eine CV, aber ich habe nicht so viel auf mich geachtet.
+
+473
+00:53:25,680 --> 00:53:30,680
+Sie haben mir keine Fragen gemacht.
+
+474
+00:53:30,680 --> 00:53:35,680
+Ich habe in der Medizin gearbeitet.
+
+475
+00:53:35,680 --> 00:53:41,680
+Ich habe in der Medizin gearbeitet.
+
+476
+00:53:41,680 --> 00:53:45,680
+Ich habe gesagt, dass ich schon in der Türkei war.
+
+477
+00:53:45,680 --> 00:53:51,680
+Als Fakarstin war ich in der Türkei.
+
+478
+00:53:51,680 --> 00:53:58,680
+Deswegen habe ich in einer Medizin gearbeitet.
+
+479
+00:53:58,680 --> 00:54:01,680
+Sie haben mir keine Fragen gemacht.
+
+480
+00:54:01,680 --> 00:54:13,680
+Sie haben mich in Deutschland gefragt, warum sie in der Psychiatrie gearbeitet haben.
+
+481
+00:54:13,680 --> 00:54:18,680
+Ich habe es in der Medizin gesehen.
+
+482
+00:54:18,680 --> 00:54:20,680
+Wir haben nichts gemacht.
+
+483
+00:54:20,680 --> 00:54:23,680
+Sie hat ein Jahr in der Inere gearbeitet.
+
+484
+00:54:23,680 --> 00:54:26,680
+Sie hat drei Jahre in der Urologie gearbeitet.
+
+485
+00:54:56,680 --> 00:54:59,680
+Sie hat in der Inere gearbeitet.
+
+486
+00:54:59,680 --> 00:55:01,680
+Sie hat verschiedene Gründe.
+
+487
+00:55:01,680 --> 00:55:04,680
+Sie hat nicht die Möglichkeit, die Urologie zu machen.
+
+488
+00:55:04,680 --> 00:55:07,680
+Sie kann sie auch in verschiedenen Orten machen.
+
+489
+00:55:07,680 --> 00:55:13,680
+Sie kann die Lockbucs in den Orten der Menschen in der Medizin verpacken.
+
+490
+00:55:13,680 --> 00:55:18,680
+Es gibt keine Gründe, dass sie in der Türkei beginnen und enden.
+
+491
+00:55:18,680 --> 00:55:21,680
+Sie kann sie auch in der Medizin verpacken.
+
+492
+00:55:51,680 --> 00:55:54,680
+Es ist wichtig, was sie zu Beginn gesagt hat.
+
+493
+00:55:54,680 --> 00:55:57,680
+Sie haben eine Luftnot.
+
+494
+00:55:57,680 --> 00:55:59,680
+Ich habe sie gefragt.
+
+495
+00:55:59,680 --> 00:56:01,680
+Ich habe nichts gesagt.
+
+496
+00:56:01,680 --> 00:56:05,680
+Sie haben eine Luftnot in der Belastung oder in der Ruche.
+
+497
+00:56:05,680 --> 00:56:11,680
+Ich habe gefragt, ob sie eine Luftnot in der Belastung oder in der Ruche haben.
+
+498
+00:56:11,680 --> 00:56:15,680
+Sie haben keine Luftnot.
+
+499
+00:56:15,680 --> 00:56:19,680
+Sie können in der Attacke eine Luftnot haben.
+
+500
+00:56:49,680 --> 00:56:57,680
+Sie können in der Nacht eine Luftnot haben.
+
+501
+00:56:57,680 --> 00:57:01,680
+Sie können in der Nacht oder früh morgens in der Nacht.
+
+502
+00:57:01,680 --> 00:57:04,680
+Ich habe gefragt, wann sie in der Attacke sind.
+
+503
+00:57:04,680 --> 00:57:10,680
+Ich habe gefragt, ob sie in der Nacht oder morgens in der Nacht sind.
+
+504
+00:57:10,680 --> 00:57:17,680
+Ich habe gefragt, ob sie in der Nacht oder morgens in der Nacht sind.
+
+505
+00:57:47,680 --> 00:57:49,680
+Oder ich habe die A Perhaps oder die Ge ложe...
+
+506
+00:57:56,680 --> 00:57:57,680
+Hayır!
+
+507
+00:57:57,680 --> 00:58:00,680
+Wenn sie in der Nacht oder morgens in der Nacht sind
+
+508
+00:58:00,680 --> 00:58:06,680
+können die A Vielleicht oder die Ge lesen.
+
+509
+00:58:06,680 --> 00:58:08,680
+Das ist effizient.
+
+510
+00:59:08,680 --> 00:59:14,680
+Besonderes nach Nechlihi Ataken können Sie flachlegen.
+
+511
+00:59:14,680 --> 00:59:16,680
+Es gibt so etwas im Asma,
+
+512
+00:59:16,680 --> 00:59:18,680
+besonders in Asma-Atakler,
+
+513
+00:59:18,680 --> 00:59:20,680
+in der Nacht zu schlafen,
+
+514
+00:59:20,680 --> 00:59:22,680
+in der Flach-Ligen.
+
+515
+00:59:22,680 --> 00:59:28,680
+Deswegen besonderes nach Nechlihi Ataken können Sie flachlegen.
+
+516
+00:59:28,680 --> 00:59:30,680
+Oder, brakun Sie ein paar Kissen.
+
+517
+00:59:30,680 --> 00:59:32,680
+Das habe ich auch gefragt.
+
+518
+00:59:32,680 --> 00:59:34,680
+Dann zu Hüsten.
+
+519
+00:59:35,180 --> 00:59:37,680
+Dies ist etwas wie,
+
+520
+00:59:37,680 --> 00:59:41,680
+dass man immer mit dem Luftnoten auftaucht.
+
+521
+00:59:41,680 --> 00:59:43,680
+Dann ist es so,
+
+522
+00:59:43,680 --> 00:59:45,680
+dass man sich von der Hüste ausführt.
+
+523
+00:59:45,680 --> 00:59:47,680
+Oder mit dem Auswurf.
+
+524
+00:59:47,680 --> 00:59:51,600
+Ich habe da sagen lassen,
+
+525
+00:59:51,600 --> 00:59:53,600
+dass man von der Hüste ausführt,
+
+526
+00:59:53,600 --> 00:59:55,600
+oder mit dem Auswurf.
+
+527
+00:59:55,600 --> 00:59:57,600
+Dann ist es so,
+
+528
+00:59:57,600 --> 01:00:03,600
+dass man,
+
+529
+01:00:03,600 --> 01:00:08,260
+Sie können sie auch so fragen.
+
+530
+01:00:08,260 --> 01:00:14,980
+Sie können sie so fragen.
+
+531
+01:00:14,980 --> 01:00:19,140
+So kann man sie so fragen.
+
+532
+01:00:19,140 --> 01:00:20,140
+So.
+
+533
+01:00:20,140 --> 01:00:22,940
+Ich habe das auch um sie gefragt.
+
+534
+01:00:22,940 --> 01:00:28,660
+Dann, um meine Einreden zu machen, habe ich Fiba, um Pneumonien einzubinden.
+
+535
+01:00:58,660 --> 01:01:00,660
+Die Erkrankung ist sehr wichtig.
+
+536
+01:01:00,660 --> 01:01:04,660
+Man kann den Lungenembolie auch als eine Anwendung bezeichnen.
+
+537
+01:01:04,660 --> 01:01:06,660
+Das waren die Fragen.
+
+538
+01:01:06,660 --> 01:01:08,660
+Wie gehen wir wieder?
+
+539
+01:01:08,660 --> 01:01:10,660
+Wir untersuchen die Symptome des Patienten.
+
+540
+01:01:10,660 --> 01:01:14,660
+Wir untersuchen Lufnot, Hüste,
+
+541
+01:01:14,660 --> 01:01:19,660
+ob es einen Moment gibt, ob es nicht,
+
+542
+01:01:19,660 --> 01:01:25,660
+ob es in der Ataklage kommt, ob es in der Belastung oder in der Ruhe kommt.
+
+543
+01:01:25,660 --> 01:01:27,660
+Wenn es in der Ataklage kommt,
+
+544
+01:01:27,660 --> 01:01:30,660
+wann ist es, ob es Abend oder Abend ist,
+
+545
+01:01:30,660 --> 01:01:34,660
+ob es das erste Mal ist, ob es es schon mal gibt,
+
+546
+01:01:34,660 --> 01:01:38,660
+wie viele Ataklage es bis jetzt gibt,
+
+547
+01:01:38,660 --> 01:01:40,660
+ob es die Gipäseine 5 Tümpel auslösen,
+
+548
+01:01:40,660 --> 01:01:42,660
+ob es die Anwendung für diese gibt,
+
+549
+01:01:42,660 --> 01:01:44,660
+das sind die Fragen.
+
+550
+01:01:44,660 --> 01:01:47,660
+Nach der Ataklage, Könöse, Flachlage,
+
+551
+01:01:47,660 --> 01:01:49,660
+das sind die Fragen.
+
+552
+01:01:49,660 --> 01:01:51,660
+Wenn Sie das fragen wollen,
+
+553
+01:01:51,660 --> 01:01:53,660
+können Sie die Atemgeröße, Fastoraxe,
+
+554
+01:02:23,660 --> 01:02:27,660
+Vegetative Anamnese, Fibers,
+
+555
+01:02:27,660 --> 01:02:29,660
+Schützelfrohs, Nachschweiz, Kassiweiß,
+
+556
+01:02:29,660 --> 01:02:31,660
+Schweißausbrüche,
+
+557
+01:02:31,660 --> 01:02:35,660
+Apathit, Gewichtveränderung und Schlaf,
+
+558
+01:02:35,660 --> 01:02:40,660
+Hüsten, Lungen und Brust,
+
+559
+01:02:40,660 --> 01:02:42,660
+die Sie zu Beginn gefragt haben,
+
+560
+01:02:42,660 --> 01:02:44,660
+dann das Gasoenothestensystem,
+
+561
+01:02:44,660 --> 01:02:47,660
+Übelkeit, Erbrechen, Stülgang,
+
+562
+01:02:47,660 --> 01:02:49,660
+Vasalasen,
+
+563
+01:02:50,660 --> 01:02:53,660
+und dann, wie ich gesagt habe,
+
+564
+01:02:53,660 --> 01:02:55,660
+das Wichtigste hier ist,
+
+565
+01:02:55,660 --> 01:02:57,660
+wenn es um Allergien geht,
+
+566
+01:02:57,660 --> 01:03:00,660
+die Allergien zu fragen.
+
+567
+01:03:00,660 --> 01:03:09,660
+Hatten Sie in lestes Zeit Kontakt zu einem Tier oder zu einem Katz?
+
+568
+01:03:09,660 --> 01:03:17,660
+Hatten Sie in lestes Zeit Kontakt zu einem Tier oder zu einem Katz?
+
+569
+01:03:49,130 --> 01:03:56,640
+Das war mein erster klassischer Befragung.
+
+570
+01:03:56,640 --> 01:04:02,640
+Das war mein erster klassischer Befragung.
+
+571
+01:04:02,640 --> 01:04:05,640
+Die Reaktionen hier sind,
+
+572
+01:04:05,640 --> 01:04:10,640
+die Reaktionen hier sind,
+
+573
+01:04:10,640 --> 01:04:14,640
+dass es nicht ein Kinderzahler gibt.
+
+574
+01:04:14,640 --> 01:04:24,640
+Ja das tut mir leid.
+
+575
+01:04:24,640 --> 01:04:38,640
+Ja das tut mir leid.
+
+576
+01:04:38,640 --> 01:04:52,640
+Ich habe sie verurteilt, dass sie eine Entscheidung getroffen haben, eine künstliche Befürchtung
+
+577
+01:04:52,640 --> 01:05:01,640
+zu verursachen oder zu probieren.
+
+578
+01:05:01,640 --> 01:05:09,640
+Ich habe viele Menschen kennengelernt, dass sie auf viel mal Künstliche Befürchtung
+
+579
+01:05:09,640 --> 01:05:17,640
+verursacht und dann könnten sie ein Baby haben.
+
+580
+01:05:17,640 --> 01:05:21,640
+Ich hoffe, dass sie auch ein Baby haben.
+
+581
+01:05:21,640 --> 01:05:22,640
+So etwas.
+
+582
+01:05:22,640 --> 01:05:27,640
+Ich bin sehr veräußert, dass ihr keine Kinder haben könntet, aber ihr habt
+
+583
+01:07:03,110 --> 01:07:05,110
+nicht so einen Krebs verpasst.
+
+584
+01:07:05,110 --> 01:07:11,110
+Aber ich bin nicht so, wie sie es nicht wahrgenommen haben, dass sie
+
+585
+01:07:11,110 --> 01:07:15,110
+nicht so einen Krebs verursacht haben.
+
+586
+01:07:15,110 --> 01:07:21,110
+Ich bin sehr veräußert, dass sie keine Kinder haben, aber sie haben
+
+587
+01:07:21,110 --> 01:07:23,110
+eine künstliche Befürchtung.
+
+588
+01:07:23,110 --> 01:07:29,110
+Ich habe viele Menschen kennengelernt, die mit einer künstlichen Befürchtung
+
+589
+01:07:29,110 --> 01:07:31,110
+verursacht haben.
+
+590
+01:07:31,110 --> 01:07:39,110
+Ich habe viele Menschen kennengelernt, die mit einer künstlichen Befürchtung
+
+591
+01:07:39,110 --> 01:07:41,110
+verursacht haben.
+
+592
+01:07:41,110 --> 01:07:49,110
+Ich bin sehr veräußert, dass sie keine Kinder haben, aber sie haben
+
+593
+01:08:20,800 --> 01:08:29,800
+Die beiden sind in der Form von Ronchus, die Beziehung zu Brämen und Gimen.
+
+594
+01:08:29,800 --> 01:08:39,800
+Rassal Geroushe, die beiden sind in der Form von Ronchus, die Beziehung zu Brämen und Gimen.
+
+595
+01:08:39,800 --> 01:08:43,800
+Ich glaube, dass die beiden gleich die gleiche Sache sind. Ich habe es so verstanden.
+
+596
+01:08:43,800 --> 01:08:45,800
+Ich glaube, dass die beiden auch in Asma sind.
+
+597
+01:08:45,800 --> 01:08:47,800
+Also, Chetin-Holger weiß es besser.
+
+598
+01:08:47,800 --> 01:08:54,310
+Die beiden sind in der Form von Ronchus, die beiden sind in der Form von Gimen und Brunnen.
+
+599
+01:08:54,310 --> 01:08:59,310
+Ich habe es so verstanden. Ich dachte, dass ich das so sagen würde.
+
+600
+01:08:59,310 --> 01:09:14,310
+Sümera-Holger, wenn wir Sie umsetzen, können Sie uns diese Weiterdiagnostik und Therapie-Scheine in der Form von Türkisch verbreiten?
+
+601
+01:09:14,310 --> 01:09:15,310
+Okay.
+
+602
+01:09:15,310 --> 01:09:22,750
+Ich werde versuchen, das zu sagen, wie ich es sage.
+
+603
+01:09:22,750 --> 01:09:24,750
+Ich habe die gleiche Stelle gesagt. Ich habe die gleiche Stelle gesagt.
+
+604
+01:09:24,750 --> 01:09:27,750
+Ich habe die gleiche Stelle gesagt.
+
+605
+01:09:27,750 --> 01:09:30,750
+In der Dokumentation habe ich die gleiche Stelle geschrieben.
+
+606
+01:09:30,750 --> 01:09:31,750
+In Teil 2.
+
+607
+01:09:31,750 --> 01:09:32,750
+In Teil 3.
+
+608
+01:09:32,750 --> 01:09:35,750
+Die gleiche Stelle.
+
+609
+01:09:35,750 --> 01:09:40,750
+Ich glaube, es ist sehr schwer, eine Weiterdiagnostik zu machen.
+
+610
+01:09:40,750 --> 01:09:42,750
+Es ist nicht so ähnlich wie etwas.
+
+611
+01:09:42,750 --> 01:09:45,750
+Das ist ein chronisch-obstruktives Pulmener-Siege.
+
+612
+01:09:45,750 --> 01:09:47,750
+Er trinkt nicht mal ein Zigaret.
+
+613
+01:09:47,750 --> 01:09:49,750
+Deswegen ist er sehr nackig.
+
+614
+01:09:49,750 --> 01:09:54,750
+Ich habe mich lange nicht verstanden, was ich als Differential-Tanze sagen würde.
+
+615
+01:10:24,750 --> 01:10:31,750
+Ich kann es nicht erinnern, aber ich glaube, ich kann es als Pinomoni- und Broschalkarsinom-Diagnostik sagen.
+
+616
+01:10:31,750 --> 01:10:34,750
+So.
+
+617
+01:10:34,750 --> 01:10:36,750
+Was habe ich gesagt?
+
+618
+01:10:36,750 --> 01:10:43,750
+Ich werde die weitere Anklage auf die Sperrkörper-Unterzucht, die Vorbereitung, die Digital-Parameter und das Blut-Food abnehmen.
+
+619
+01:10:43,750 --> 01:10:45,750
+Natürlich auch ein EKG schreiben.
+
+620
+01:10:45,750 --> 01:11:07,750
+Ich werde die Blutbild-Anzündung parametern für die Z-Reaktiv-Proteine, Nieren, Leber, Elektrolyte, insgesamt die gesamte Immunglöbelin E, Blutgasanalyse, Bestimmungen.
+
+621
+01:11:07,750 --> 01:11:26,750
+Als Apparativ werde ich Röntgen-Thorax-Aufnahme, Spirometry mit Reversibilität-Test und Prig-Haut-Test durchführen und einen Konsul in der Abteilung für Pulmonologie anfordern.
+
+622
+01:11:26,750 --> 01:11:27,750
+So habe ich gesagt.
+
+623
+01:11:27,750 --> 01:11:30,750
+Ich werde die Körper-Unterzucht-Aufnahme beachten, ich werde das beachten.
+
+624
+01:11:30,750 --> 01:11:31,750
+Hier habe ich es nicht gesagt.
+
+625
+01:11:31,750 --> 01:11:34,750
+Wenn sie fragen, sage ich es.
+
+626
+01:11:35,750 --> 01:11:38,750
+Ich mache das mit allen Patienten so.
+
+627
+01:11:38,750 --> 01:11:46,750
+Ich verändern ein paar Dinge im Labor, ein paar Dinge im Apparativ, und nur den Konsul, den Namen der Stelle.
+
+628
+01:11:46,750 --> 01:11:49,750
+Das wird sehr hilfreich für die Serien.
+
+629
+01:11:49,750 --> 01:11:54,750
+Ich sage das nicht so sehr, aber ich kann das sagen, weil das so ist.
+
+630
+01:11:55,750 --> 01:12:15,750
+Was man bei der Körper-Unterzucht beachten kann, ist, ob es besonders bei Oskiltation, Atemgeräuschen gibt, wie es mit dem Knie und Brüsten vorhanden ist.
+
+631
+01:12:15,750 --> 01:12:23,750
+Ich habe gesagt, dass es vorhanden ist, ob es mit den Knie und Brüsten vorhanden ist.
+
+632
+01:12:23,750 --> 01:12:27,750
+Oder ob es mit Sionoz oder nicht.
+
+633
+01:12:27,750 --> 01:12:30,750
+Ich habe gesagt, dass ich mit diesen Dingen beachten kann.
+
+634
+01:12:45,750 --> 01:12:57,750
+Ich habe die Patienten so gemacht, dass sie eine niedrige Dosis der Inhalation haben.
+
+635
+01:12:57,750 --> 01:13:19,750
+Ich werde eine Konsul in der Abteilung für Pulmonologie anfordern.
+
+636
+01:13:19,750 --> 01:13:37,750
+Wenn sie fragen, was da sein kann, dann habe ich mir selbst festgestellt, was ich sagen soll.
+
+637
+01:13:37,750 --> 01:13:41,750
+Ich habe die Erste Therapie gesagt.
+
+638
+01:13:41,750 --> 01:13:45,750
+Ich habe die Therapie von Schütte, die einig ist, und die die zwei auch.
+
+639
+01:13:45,750 --> 01:13:51,750
+Aber Schütte 3, Schütte 4, Schütte 5, die Therapie wird komplex.
+
+640
+01:13:51,750 --> 01:13:54,750
+Was kann da nötig sein?
+
+641
+01:14:08,750 --> 01:14:18,280
+Das war mein Plan, wenn ich diese Therapie bekomme.
+
+642
+01:14:18,280 --> 01:14:20,280
+Ich wollte es so sagen.
+
+643
+01:14:20,280 --> 01:14:25,280
+Ich habe die Erste Therapie gesagt.
+
+644
+01:14:25,280 --> 01:14:28,280
+Ja, danke.
+
+645
+01:14:28,280 --> 01:14:33,280
+Ich hoffe, dass wir das in den restlichen Fakten auch so machen.
+
+646
+01:14:33,280 --> 01:14:38,280
+Das wird für uns auch schön, wie ein Anerkanal.
+
+647
+01:14:38,280 --> 01:14:43,280
+Und es wird schön, was wir für uns in die Art machen können.
+
+648
+01:14:43,280 --> 01:14:46,280
+Wenn es Zeit bleibt, dann machen wir das.
+
+649
+01:15:19,190 --> 01:15:21,190
+Vielen Dank, Meira.
+
+650
+01:15:21,190 --> 01:15:22,190
+Danke.
+
+651
+01:15:22,190 --> 01:15:23,190
+Danke.
+
+652
+01:15:23,190 --> 01:15:27,190
+Das war's für heute.
+
+653
+01:15:27,190 --> 01:15:29,190
+Ich wünsche euch alles Gute.
+
+654
+01:15:29,190 --> 01:15:31,190
+Bis morgen.
