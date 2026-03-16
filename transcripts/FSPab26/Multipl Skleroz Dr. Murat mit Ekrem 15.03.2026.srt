@@ -1,0 +1,1851 @@
+1
+00:00:00,000 --> 00:00:01,000
+Guten Tag.
+
+2
+00:00:02,280 --> 00:00:03,520
+Mein Name ist Azak.
+
+3
+00:00:03,520 --> 00:00:07,280
+Ich bin auf dieser Station als Assistenz Arsthetik.
+
+4
+00:00:17,180 --> 00:00:18,180
+Aufnahmegespräch.
+
+5
+00:00:18,740 --> 00:00:25,660
+Ja, könnten wir zusammen auf das Aufnahmegespräch hören?
+
+6
+00:00:26,260 --> 00:00:27,260
+Natürlich gerne.
+
+7
+00:00:27,940 --> 00:00:29,180
+Sind Sie damit einverstanden?
+
+8
+00:00:29,700 --> 00:00:30,700
+Na klar.
+
+9
+00:00:30,820 --> 00:00:32,620
+Okay. Wie heißen Sie denn?
+
+10
+00:00:33,860 --> 00:00:35,220
+Mein Name ist Peter Schmidt.
+
+11
+00:00:36,220 --> 00:00:40,220
+Herr Schmidt, könnten Sie Ihren Vornamen bestätigen?
+
+12
+00:00:41,220 --> 00:00:49,220
+Ja, mein Vornamen ist P.V. Paula, E.V. Emil, T.V. Theodor, E.V. Emil, R.V. Richard.
+
+13
+00:00:50,220 --> 00:01:00,220
+Nachname ist Schmitz, S.V. Siegfried, C.V. Cesar, H.V. Heinrich, M.V. Marta, E.V. Ida, D.V. Dora, T.V. Theodor.
+
+14
+00:01:01,220 --> 00:01:05,220
+Herr Schmidt, wie alt sind Sie? Wann sind Sie genau geboren?
+
+15
+00:01:06,220 --> 00:01:07,220
+Ich bin 71 Jahre alt.
+
+16
+00:01:08,220 --> 00:01:12,220
+Ich bin geboren am 11. Januar 1955.
+
+17
+00:01:16,450 --> 00:01:17,450
+Wie groß sind Sie?
+
+18
+00:01:18,450 --> 00:01:19,450
+Ich bin 1,80 Meter groß.
+
+19
+00:01:20,450 --> 00:01:22,450
+Wie viel wiegen Sie so seit?
+
+20
+00:01:23,450 --> 00:01:25,450
+Ich wiege ungefähr 80 Kilogramm.
+
+21
+00:01:26,450 --> 00:01:29,450
+Okay, vielen Dank für diese Informationen. Was kann ich für Sie tun?
+
+22
+00:01:30,450 --> 00:01:35,450
+Ich komme heute zu Ihnen, weil ich ungefähr drei Tage sehr starke Durchfälle habe.
+
+23
+00:01:41,100 --> 00:01:43,100
+Seit drei Tagen haben Sie Durch?
+
+24
+00:01:44,100 --> 00:01:45,100
+Durchfälle.
+
+25
+00:01:47,100 --> 00:01:49,100
+Haben Sie Durchfall?
+
+26
+00:01:50,100 --> 00:01:51,100
+Genau.
+
+27
+00:01:55,020 --> 00:01:57,020
+Zum Beispiel, wie oft gehen Sie auf die Toilette?
+
+28
+00:01:58,020 --> 00:02:00,020
+Ja, ungefähr so sieben bis achtmal.
+
+29
+00:02:00,020 --> 00:02:08,950
+Haben Sie unangenehm etwas bemerkt? Zum Beispiel, ob Rinde oder Haut?
+
+30
+00:02:09,950 --> 00:02:11,950
+Ja, das riecht sehr übel.
+
+31
+00:02:12,950 --> 00:02:15,950
+Haben Sie Farbeveränderungen bemerkt?
+
+32
+00:02:16,950 --> 00:02:17,950
+Nein.
+
+33
+00:02:18,950 --> 00:02:19,950
+Okay.
+
+34
+00:02:20,950 --> 00:02:29,130
+Haben Sie Fieber, Schüttelfluss, Nachtschweiß?
+
+35
+00:02:30,130 --> 00:02:32,130
+Ich habe Übelkeit, ich habe auch etwas Fieber.
+
+36
+00:02:33,130 --> 00:02:35,130
+Ich habe gestern gemessen, das war bei 38 Grad.
+
+37
+00:02:36,130 --> 00:02:37,130
+Okay.
+
+38
+00:02:37,130 --> 00:02:38,130
+Haben Sie Schmerzen?
+
+39
+00:02:39,130 --> 00:02:46,780
+Ja, Bauchkrämpfe habe ich.
+
+40
+00:02:49,830 --> 00:02:50,830
+Wo sind die Schmerzen?
+
+41
+00:02:51,830 --> 00:02:52,830
+Ganz Bauch.
+
+42
+00:02:52,830 --> 00:02:58,630
+Unterbauch.
+
+43
+00:02:59,630 --> 00:03:00,630
+Unterbauch Schmerzen.
+
+44
+00:03:01,630 --> 00:03:09,500
+Rechtsseitig, linksseitig, welche Seite sind Schmerzen?
+
+45
+00:03:10,500 --> 00:03:11,500
+Beidseitig.
+
+46
+00:03:12,500 --> 00:03:13,500
+Schmerzen.
+
+47
+00:03:14,500 --> 00:03:26,290
+Wie stark sind Schmerzen auf einer Skala von eins bis zehn?
+
+48
+00:03:27,290 --> 00:03:29,290
+Vorbei zehn untererträglich ist?
+
+49
+00:03:30,290 --> 00:03:31,290
+Geh bitte.
+
+50
+00:03:31,290 --> 00:03:34,290
+Wie stark sind Bauchschmerzen auf einer Skala von eins bis zehn?
+
+51
+00:03:35,290 --> 00:03:37,290
+Vorbei zehn untererträglich ist?
+
+52
+00:03:38,290 --> 00:03:39,290
+Okay.
+
+53
+00:03:40,290 --> 00:03:42,290
+Ich würde sagen fünf bis sechs.
+
+54
+00:03:43,290 --> 00:03:45,290
+Strahlen diese Schmerzen irgendwo hinaus?
+
+55
+00:03:46,290 --> 00:03:47,290
+Nein.
+
+56
+00:03:48,290 --> 00:03:49,290
+Nein.
+
+57
+00:03:50,290 --> 00:04:03,740
+Seit drei Jahren haben wir es nicht.
+
+58
+00:04:04,740 --> 00:04:06,740
+Das ist ein bisschen ein bisschen ein bisschen ein bisschen.
+
+59
+00:04:07,740 --> 00:04:09,740
+Aber es ist ein bisschen ein bisschen ein bisschen ein bisschen.
+
+60
+00:04:09,740 --> 00:04:13,210
+Nein.
+
+61
+00:04:14,210 --> 00:04:15,210
+Seit drei Jahren haben Sie...
+
+62
+00:04:16,210 --> 00:04:18,210
+Haben Sie Blut im Schutul bemäht?
+
+63
+00:04:19,210 --> 00:04:20,210
+Nein, habe ich nicht bemäht.
+
+64
+00:04:21,210 --> 00:04:39,400
+Sie haben Überkeit?
+
+65
+00:04:40,400 --> 00:04:41,400
+Ja.
+
+66
+00:04:44,800 --> 00:04:47,800
+Wie viel Mal haben Sie oder wie oft?
+
+67
+00:04:48,800 --> 00:04:51,180
+Ich habe Übelkeit.
+
+68
+00:04:52,180 --> 00:04:53,180
+Ich habe aber nicht erbrochen.
+
+69
+00:04:54,180 --> 00:04:55,180
+Entschuldigung.
+
+70
+00:04:56,180 --> 00:04:57,180
+Ja, erbrochen.
+
+71
+00:04:58,180 --> 00:05:00,180
+Leiden Sie unter Blasungen?
+
+72
+00:05:00,180 --> 00:05:01,180
+Ja, auch.
+
+73
+00:05:02,180 --> 00:05:04,180
+Aber der Durchfall ist sehr stark.
+
+74
+00:05:05,180 --> 00:05:19,570
+Gibt es jemanden in Ihrer Ungewohnheit, der eine ähnliche Beschwerde hat?
+
+75
+00:05:20,570 --> 00:05:21,570
+Nein.
+
+76
+00:05:22,570 --> 00:05:23,570
+Okay.
+
+77
+00:05:33,720 --> 00:05:36,720
+Haben Sie in letzter Zeit ungewohnt ab oder zugenommen?
+
+78
+00:05:37,720 --> 00:05:38,720
+Nein.
+
+79
+00:05:39,720 --> 00:05:40,720
+Wie ist Ihr Appetit?
+
+80
+00:05:47,640 --> 00:05:49,640
+Appetit ist weniger geworden jetzt.
+
+81
+00:05:49,640 --> 00:05:51,640
+Appetit ist weniger geworden jetzt.
+
+82
+00:06:02,400 --> 00:06:06,400
+Haben Sie an Ihrer Haut Farbeveränderungen bemäht?
+
+83
+00:06:07,400 --> 00:06:15,440
+Nein.
+
+84
+00:06:16,440 --> 00:06:19,440
+Leiden Sie oder haben Sie Husten, Atemnot?
+
+85
+00:06:20,440 --> 00:06:23,870
+Nein, auch nicht.
+
+86
+00:06:24,870 --> 00:06:26,870
+Leiden Sie unter Herzrasen, Herzgupfen, Herzgupfen?
+
+87
+00:06:27,870 --> 00:06:30,870
+Nein, aber ich habe ein bisschen Schwinde, wenn ich aufstehe und wenn ich mich setze.
+
+88
+00:06:31,870 --> 00:06:33,870
+Ich denke, ich muss mehr trinken.
+
+89
+00:06:43,000 --> 00:06:44,000
+Sie haben Schwitzen?
+
+90
+00:06:45,000 --> 00:06:46,000
+Nein, Schwitzen nicht.
+
+91
+00:06:47,000 --> 00:06:48,000
+Schwinden, Entschuldigung.
+
+92
+00:06:49,000 --> 00:07:02,170
+Haben Sie Probleme bei Wasserlassen?
+
+93
+00:07:03,170 --> 00:07:04,170
+Nein, gar nicht.
+
+94
+00:07:14,060 --> 00:07:17,060
+Haben Sie eine bestimmte Essgewohnheit?
+
+95
+00:07:18,060 --> 00:07:20,060
+Nein, ich esse eigentlich alles.
+
+96
+00:07:21,060 --> 00:07:23,060
+Zum Beispiel Vegetarisch oder?
+
+97
+00:07:24,060 --> 00:07:25,060
+Nein.
+
+98
+00:07:40,400 --> 00:07:41,400
+Schlafen Sie gut?
+
+99
+00:07:42,400 --> 00:07:46,400
+Ich schlafe gut, aber ich muss jetzt ein, zwei Mal aufstehen, weil ich Durchfall habe.
+
+100
+00:07:47,400 --> 00:07:57,540
+Trinken Sie genügend Wasser?
+
+101
+00:07:58,540 --> 00:08:00,540
+Ich denke nicht, ich muss mehr trinken wahrscheinlich.
+
+102
+00:08:02,540 --> 00:08:10,820
+Haben Sie früher ähnliche Beschwerde gehabt?
+
+103
+00:08:11,820 --> 00:08:13,820
+So starken Durchfall habe ich noch nie gehabt.
+
+104
+00:08:14,820 --> 00:08:34,140
+Sind diese Beschwerde nach einem bestimmten Essen aufgetreten?
+
+105
+00:08:35,140 --> 00:08:37,140
+Nein, ich denke nicht.
+
+106
+00:08:37,140 --> 00:08:38,140
+Zum Beispiel Milch?
+
+107
+00:08:39,140 --> 00:08:40,140
+Nein.
+
+108
+00:08:41,140 --> 00:08:42,140
+Oder Brötchen?
+
+109
+00:08:43,140 --> 00:08:46,140
+Nein, ich habe nichts Besonderes gegessen.
+
+110
+00:08:47,140 --> 00:09:03,950
+Haben Sie letzte Zeit einen anderen Arzt aufgesucht?
+
+111
+00:09:04,950 --> 00:09:10,390
+Nein, aber ich war im Krankenhaus vor ungefähr zwei Wochen.
+
+112
+00:09:11,390 --> 00:09:13,860
+Vor zwei Wochen?
+
+113
+00:09:14,860 --> 00:09:15,860
+Da war ich im Krankenhaus, ja.
+
+114
+00:09:16,860 --> 00:09:17,860
+Warum?
+
+115
+00:09:18,860 --> 00:09:19,860
+Ich habe eine Brunn-Schittis gehabt.
+
+116
+00:09:19,860 --> 00:09:27,310
+Vor zwei Wochen war ich im Krankenhaus.
+
+117
+00:09:28,310 --> 00:09:37,310
+Welche Therapie-Massnahmen wurden bei Ihnen durchgeführt?
+
+118
+00:09:38,310 --> 00:09:40,310
+Ich habe Antibiotik bekommen.
+
+119
+00:09:41,310 --> 00:10:07,140
+Hatten Sie Probleme nach der Antibiotik?
+
+120
+00:10:08,140 --> 00:10:10,580
+Hatte ich was?
+
+121
+00:10:10,580 --> 00:10:18,580
+Hatten Sie Probleme nach der Antibiotik?
+
+122
+00:10:19,580 --> 00:10:21,580
+Nein, habe ich nicht gehabt.
+
+123
+00:10:31,310 --> 00:10:36,310
+Herr Schmidt, leiden Sie an irgendwelchen chronischen Erkrankungen?
+
+124
+00:10:37,310 --> 00:10:38,310
+Ja, ich habe Bluthochdruck.
+
+125
+00:10:39,310 --> 00:10:40,310
+Seit wann haben Sie das?
+
+126
+00:10:41,310 --> 00:10:42,310
+Ich habe das schon seit 20 Jahren.
+
+127
+00:10:46,610 --> 00:10:47,610
+Seit 20 Jahren?
+
+128
+00:10:48,610 --> 00:10:49,610
+Okay, noch etwas?
+
+129
+00:10:49,610 --> 00:10:53,610
+Ich habe Knie-Schmerzen, ich habe Arthrose in den Knien.
+
+130
+00:10:54,610 --> 00:10:57,980
+Seit wann haben Sie diese Beschwerden?
+
+131
+00:10:58,980 --> 00:10:59,980
+Ungefähr seit 10 Jahren.
+
+132
+00:11:05,590 --> 00:11:08,590
+Gibt es noch weitere Erkrankungen?
+
+133
+00:11:09,590 --> 00:11:11,590
+Das reicht schon.
+
+134
+00:11:12,590 --> 00:11:13,590
+Was?
+
+135
+00:11:14,590 --> 00:11:15,590
+Das reicht. Das ist schon genug.
+
+136
+00:11:16,590 --> 00:11:24,590
+Ah, ich habe fast verstanden. Wurden Sie schon einmal operiert?
+
+137
+00:11:25,590 --> 00:11:28,590
+Ja, mir wurde einmal der Blinden in meiner Kindheit rausgenommen.
+
+138
+00:11:35,380 --> 00:11:38,380
+Okay, noch etwas?
+
+139
+00:11:41,370 --> 00:11:42,370
+Nein.
+
+140
+00:11:43,370 --> 00:12:00,480
+Okay, wurden bei Ihnen außer Brunnschütz im Krankenhaus bleiben oder die Stationäre behandelt?
+
+141
+00:12:01,480 --> 00:12:04,480
+Ja, ich war stationär. Ich war ungefähr 10 Tage im Krankenhaus.
+
+142
+00:12:05,480 --> 00:12:14,860
+Ja, außerdem wurden bei Ihnen weitere Stationäre behandelt?
+
+143
+00:12:17,870 --> 00:12:20,870
+Also ich war wegen einer Brunnschütz im Krankenhaus.
+
+144
+00:12:21,870 --> 00:12:28,870
+Ah, ja, ich verstehe. Okay. Herr Schmitz, nehmen Sie regelmäßig oder bei Bedarf Medikamente ein?
+
+145
+00:12:29,870 --> 00:12:35,870
+Ja, ich nehme für meinen Blutdruck ein Medikament ein und für meine Schmerzen nehme ich auch ein Medikament ein.
+
+146
+00:12:35,870 --> 00:12:40,870
+Können Sie mir die Namen von Medikamenten sagen?
+
+147
+00:12:41,870 --> 00:12:43,870
+Erst einmal Amnodipin, 5 mg.
+
+148
+00:12:44,870 --> 00:12:49,410
+Okay. Wie oft nehmen Sie diese Medikamente?
+
+149
+00:12:50,410 --> 00:12:51,410
+Morgen und abends.
+
+150
+00:12:52,410 --> 00:12:53,410
+Okay.
+
+151
+00:12:54,410 --> 00:12:57,410
+Dann nehme ich Ibuprofen ein, morgens und abends.
+
+152
+00:13:02,340 --> 00:13:03,340
+Kennen Sie Dosierung von Ibuprofen?
+
+153
+00:13:04,340 --> 00:13:11,510
+Ja, 400 mg und ich nehme Pantoprazolein morgens einmal.
+
+154
+00:13:11,510 --> 00:13:24,860
+Kennen Sie Dosierung von Pantoprazolein?
+
+155
+00:13:25,860 --> 00:13:26,860
+20 mg.
+
+156
+00:13:27,860 --> 00:13:35,650
+20 mg. Okay. Sind bei Ihnen Allergien oder Unverträglichkeiten bekannt?
+
+157
+00:13:36,650 --> 00:13:37,650
+Nein, nicht als Justus.
+
+158
+00:13:38,650 --> 00:13:44,740
+Okay. Rauchen Sie?
+
+159
+00:13:45,740 --> 00:13:46,740
+Nein.
+
+160
+00:13:48,980 --> 00:13:51,980
+Das ist sehr gut für Ihre Gesundheit. Trinken Sie Alkohol?
+
+161
+00:13:52,980 --> 00:13:53,980
+Gar nicht.
+
+162
+00:13:54,980 --> 00:13:55,980
+Okay, super.
+
+163
+00:13:55,980 --> 00:14:00,980
+Bitte nehmen Sie die nächste Frage nicht persönlich. Das ist eine Routinefrage.
+
+164
+00:14:01,980 --> 00:14:02,980
+Konsumieren Sie Drogen?
+
+165
+00:14:03,980 --> 00:14:04,980
+Dafür bin ich zu alt.
+
+166
+00:14:05,980 --> 00:14:11,810
+Wann und wie haben Sie konsumiert?
+
+167
+00:14:12,810 --> 00:14:15,810
+Ich habe nicht konsumiert. Ich bin dafür zu alt.
+
+168
+00:14:16,810 --> 00:14:20,140
+Ah ja, okay.
+
+169
+00:14:21,140 --> 00:14:29,060
+Gibt es in Ihrer Familie relevante Erkrankungen?
+
+170
+00:14:29,060 --> 00:14:32,060
+Ich denke nicht, nein.
+
+171
+00:14:33,060 --> 00:14:37,720
+Okay. Haben Sie Geschwister?
+
+172
+00:14:38,720 --> 00:14:40,720
+Ich bin Einzelkind.
+
+173
+00:14:41,720 --> 00:14:44,720
+Einzelkind, okay. Sind Sie verheiratet?
+
+174
+00:14:45,720 --> 00:14:46,720
+Ich habe eine Frau, ja.
+
+175
+00:14:51,690 --> 00:14:52,690
+Haben Sie Kinder?
+
+176
+00:14:53,690 --> 00:14:54,690
+Ich habe drei Kinder.
+
+177
+00:14:55,690 --> 00:14:56,690
+Sind Sie gesund?
+
+178
+00:14:57,690 --> 00:14:58,690
+Ja.
+
+179
+00:15:01,130 --> 00:15:08,020
+Gott sei Dank. Herr Schmidt, ich glaube, Sie sind nahe.
+
+180
+00:15:09,020 --> 00:15:10,020
+Ich bin Retner, ja.
+
+181
+00:15:11,020 --> 00:15:17,300
+Was haben Sie früher gemacht als Arbeiter?
+
+182
+00:15:18,300 --> 00:15:19,300
+Ich war Altenpfleger.
+
+183
+00:15:26,570 --> 00:15:34,250
+Mit wem leben Sie so seit?
+
+184
+00:15:35,250 --> 00:15:36,250
+Mit meiner Frau.
+
+185
+00:15:43,010 --> 00:15:46,010
+Okay. Sind Sie vollständig geächt?
+
+186
+00:15:47,010 --> 00:15:48,010
+Ja.
+
+187
+00:15:49,010 --> 00:15:52,010
+Gut, super. Tragen Sie regelmäßig Sport?
+
+188
+00:15:53,010 --> 00:15:55,010
+Ich gehe sehr gerne spazieren.
+
+189
+00:16:01,190 --> 00:16:02,190
+Okay.
+
+190
+00:16:05,190 --> 00:16:08,190
+Sind Sie in letzter Zeit im Ausland gewesen?
+
+191
+00:16:09,190 --> 00:16:10,190
+Nein, ich war nicht im Ausland.
+
+192
+00:16:14,460 --> 00:16:17,460
+Haben Sie Stress im Privatleben?
+
+193
+00:16:18,460 --> 00:16:20,460
+Eigentlich nicht. Mir geht es gut normalerweise.
+
+194
+00:16:21,460 --> 00:16:22,460
+Okay, sehr gut.
+
+195
+00:16:34,720 --> 00:16:39,720
+Herr Schmidt, ich habe meine wichtigsten Fragen gestellt.
+
+196
+00:16:40,720 --> 00:16:44,720
+Möchten Sie noch etwas hinzufügen oder haben Sie Fragen an mich?
+
+197
+00:16:45,720 --> 00:16:48,720
+Nein, ich möchte aber, dass Sie mir helfen. Ich bin sehr schwach.
+
+198
+00:16:51,350 --> 00:16:58,350
+Ja, ich werde Ihnen helfen, wenn Sie sich da keine Sorgen machen.
+
+199
+00:17:00,350 --> 00:17:09,060
+Bitte legen Sie sich auf die Liege. Ich werde Sie förderlich untersuchen.
+
+200
+00:17:10,060 --> 00:17:34,650
+Danke schön.
+
+201
+00:17:35,650 --> 00:17:38,410
+Hat jemand andere Fragen?
+
+202
+00:17:39,410 --> 00:17:41,850
+Ja, danke.
+
+203
+00:17:42,850 --> 00:17:43,850
+Bitte schön.
+
+204
+00:17:44,850 --> 00:17:45,850
+Wie sah Ihr Stül aus?
+
+205
+00:17:45,850 --> 00:17:46,850
+Flüssig.
+
+206
+00:17:47,850 --> 00:17:48,850
+Wässrig.
+
+207
+00:17:49,850 --> 00:17:55,180
+Welche Antibiotika haben Sie eingenommen?
+
+208
+00:17:56,180 --> 00:17:59,180
+Ich glaube, das war Klindamidzin.
+
+209
+00:18:00,180 --> 00:18:20,260
+Haben Sie vor oder nach dem Essen Bauchkrämpfe?
+
+210
+00:18:21,260 --> 00:18:24,260
+Ich habe immer Bauchkrämpfe, die ganze Zeit.
+
+211
+00:18:25,260 --> 00:18:26,260
+Die ganze Zeit.
+
+212
+00:18:27,260 --> 00:18:32,260
+Haben Sie noch Auswuchs oder etwas?
+
+213
+00:18:33,260 --> 00:18:34,260
+Nein.
+
+214
+00:18:35,260 --> 00:18:36,260
+Keine Lungen Symptome?
+
+215
+00:18:37,260 --> 00:18:39,260
+Nein. Keine was?
+
+216
+00:18:40,260 --> 00:18:41,260
+Keine Lungenbeschwerden?
+
+217
+00:18:42,260 --> 00:18:43,260
+Keine Lungenbeschwerden, nein.
+
+218
+00:18:47,400 --> 00:18:53,400
+Haben Sie Rohes Fleisch, Mayonnaise, Eier gegessen?
+
+219
+00:18:54,400 --> 00:18:57,400
+Rohes Fleisch nicht, aber Eier, Mayonnaise esse ich gerne.
+
+220
+00:18:57,400 --> 00:19:05,530
+Aber das ist nichts Besonderes, das esse ich immer.
+
+221
+00:19:06,530 --> 00:19:07,530
+Immer, ja okay.
+
+222
+00:19:20,590 --> 00:19:22,590
+Entschuldigung, wie viele Mal haben Sie die Fieber gemessen?
+
+223
+00:19:23,590 --> 00:19:25,590
+Ich habe gestern und vorgestern gemessen.
+
+224
+00:19:26,590 --> 00:19:27,590
+Gestern und vorgestern.
+
+225
+00:19:28,590 --> 00:20:17,020
+Ich bin bereit.
+
+226
+00:20:20,800 --> 00:20:21,800
+Bitte schön.
+
+227
+00:20:22,800 --> 00:20:23,800
+Guten Tag Herr Oberarzt.
+
+228
+00:20:24,800 --> 00:20:25,800
+Guten Tag.
+
+229
+00:20:26,800 --> 00:20:31,800
+Ich habe heute einen neuen Patienten aufgenommen und möchte ihn Ihnen vorstellen.
+
+230
+00:20:31,800 --> 00:20:32,800
+Hatten Sie kurz Zeit für mich?
+
+231
+00:20:33,800 --> 00:20:34,800
+Sehr schön.
+
+232
+00:20:35,800 --> 00:20:36,800
+Danke.
+
+233
+00:20:37,800 --> 00:20:38,800
+Unser Patient heißt Peter Schmid.
+
+234
+00:20:39,800 --> 00:20:45,800
+Er ist 71 Jahre alt, 1,80 Meter groß und wiegt 80 Kilogramm schwer.
+
+235
+00:20:46,800 --> 00:20:54,800
+Herr Schmid stellte sich heute aufgrund seit drei Tagen bestehende, persistierende,
+
+236
+00:20:54,800 --> 00:21:00,800
+progresive, wirkende Tiere vor.
+
+237
+00:21:01,800 --> 00:21:06,800
+Nach Angaben des Patienten sind die Tiere,
+
+238
+00:21:07,800 --> 00:21:19,980
+nach Angaben des Patienten sind die Tiere, nein,
+
+239
+00:21:19,980 --> 00:21:43,310
+nach Angaben des Patienten geht der Patient 7 bis 8 Mal auf die Toilette.
+
+240
+00:21:43,310 --> 00:21:59,310
+Außerdem klagt der Patient über Fieber mit 38 Grad, Vertigo und Nausea.
+
+241
+00:22:00,310 --> 00:22:12,170
+Der Patient teilt mit, dass er unter Bauchschmerzen leidet.
+
+242
+00:22:12,170 --> 00:22:23,510
+Die Schmerzen sind im Ganzunterbauch.
+
+243
+00:22:24,510 --> 00:22:37,820
+Die Schmerzintensität wurde von Patienten 5 bis 6 von 10 auf der Schmerzkala bewertet.
+
+244
+00:22:40,550 --> 00:23:03,190
+Der Patient gab an, dass die Diary wasrig und überwiegend ist.
+
+245
+00:23:03,190 --> 00:23:30,260
+Nach Angaben des Patienten wurde bei den Patienten vor zwei Wochen gegen Bronchitis eine Antibiotische Therapie durchgeführt.
+
+246
+00:23:30,260 --> 00:23:57,950
+Die Fragen nach Hemathemes, Melena und einer bestimmten Auslöser wurden verneint.
+
+247
+00:23:57,950 --> 00:24:07,670
+Die Vegetative Anemnese ist unauffällig bis auf Inapetens.
+
+248
+00:24:11,300 --> 00:24:23,300
+Im Besuch auf Vorerkrankungen leidet der Patient seit 20 Jahren an Arteriellhypertonie, seit 10 Jahren an Gonathros.
+
+249
+00:24:23,300 --> 00:24:41,740
+Bei den Patienten wurde in seiner Kindheit eine Apendektomie durchgeführt.
+
+250
+00:24:41,740 --> 00:25:04,740
+Besuchlichtermedikation nimmt er am Lotipin 5 mg morgens und abends, Ibuprofen 400 mg morgens und abends, sowie Pantoprasol 20 mg morgens ein.
+
+251
+00:25:04,740 --> 00:25:22,060
+Bei den Patienten sind keine Allergien oder Unverträglichkeiten bekannt.
+
+252
+00:25:23,060 --> 00:25:25,060
+Warum nimmt der Patient Pantoprazole ein?
+
+253
+00:25:25,060 --> 00:25:56,190
+Wegen Magenschutz. Der Patient nimmt mehrmals Analgetikum und Ibuprofen ein.
+
+254
+00:25:56,190 --> 00:26:03,190
+Deswegen nimmt der Patient diese Medikamente.
+
+255
+00:26:03,190 --> 00:26:26,310
+Die Niko-Tin-Konsum, Alkoholkonsum und Drogenkonsum wurden verneint. Eltern von Patienten sind gesund. Er ist ein Einzelkind.
+
+256
+00:26:27,310 --> 00:26:29,310
+Die Eltern sind gesund?
+
+257
+00:26:30,310 --> 00:26:32,310
+Beide Eltern sind gesund.
+
+258
+00:26:33,310 --> 00:26:34,310
+Leben die noch?
+
+259
+00:26:34,310 --> 00:26:42,800
+Ich weiß nicht. Ich habe diese Frage nicht gestellt.
+
+260
+00:26:43,800 --> 00:26:47,800
+Wahrscheinlich ist er schon gestorben.
+
+261
+00:26:48,800 --> 00:26:57,800
+Ja, richtig. Ich werde diese Frage bei der Untersuchung nachholen.
+
+262
+00:26:57,800 --> 00:27:06,430
+Herr Schmidt ist verheiratet und hat drei gesunde Kinder.
+
+263
+00:27:09,190 --> 00:27:16,190
+Zurzeit ist er Rentner, aber früher hat er als Altenpfleger gearbeitet.
+
+264
+00:27:17,190 --> 00:27:23,190
+Die Reiseanamnese ist unaufwendig. Er ist vollständig genügt.
+
+265
+00:27:24,190 --> 00:27:30,190
+Er geht spazieren.
+
+266
+00:27:31,190 --> 00:27:34,190
+Herr Oberas, die anamnestischen Angaben...
+
+267
+00:27:35,190 --> 00:27:36,190
+War er schon beim Hausarzt gewesen?
+
+268
+00:27:38,950 --> 00:27:39,950
+Entschuldigung, bitte?
+
+269
+00:27:40,950 --> 00:27:43,950
+War er wegen den Beschwerden schon bei seinem Hausarzt gewesen?
+
+270
+00:27:43,950 --> 00:27:56,490
+Nein, Herr Schmidt hat im Laufe der Zeit nicht andere Hausarzt aufgesucht.
+
+271
+00:27:57,490 --> 00:27:58,490
+Okay.
+
+272
+00:27:59,490 --> 00:28:09,490
+Die anamnestischen Angaben deuten am ehesten auf eine akute Gastroenteritis hin,
+
+273
+00:28:10,490 --> 00:28:35,490
+da der Patient typische Symptome aufweist, zum Beispiel mehrere Diarrhoes und Fieber und ganzes, die Physiopädie, Bauchschmerzen.
+
+274
+00:28:35,490 --> 00:28:50,180
+Als differenziale Diagnosen kommen in chronische entzündliche Darmerkrankung.
+
+275
+00:28:51,180 --> 00:28:56,180
+Ist in ihm alt, aber selten, 71 Jahre alt.
+
+276
+00:28:57,180 --> 00:28:59,180
+Selten.
+
+277
+00:29:00,180 --> 00:29:01,180
+Ja.
+
+278
+00:29:02,180 --> 00:29:03,180
+Gar nicht.
+
+279
+00:29:03,180 --> 00:29:04,180
+Ja, richtig.
+
+280
+00:29:05,180 --> 00:29:08,180
+Und eine Divertikulitis.
+
+281
+00:29:09,180 --> 00:29:15,180
+Ja, kann sein, aber Divertikulitis macht normalerweise nicht diese hohen Durchfälle.
+
+282
+00:29:16,180 --> 00:29:27,490
+Gastroenteritis war richtig oder Enteritis war richtig, denke ich, aber was für ein Enteritis könnte das sein? Ganz typisch.
+
+283
+00:29:33,510 --> 00:29:34,510
+In diesem Fall?
+
+284
+00:29:35,510 --> 00:29:36,510
+Ja, in diesem Fall.
+
+285
+00:29:36,510 --> 00:29:51,510
+Vor zwei Wochen hat der Patient eine antibiotische Antibiotikum verarbeitet oder? Nein.
+
+286
+00:29:52,510 --> 00:29:54,510
+Er hat erhalten, eine antibiotische Therapie erhalten.
+
+287
+00:29:55,510 --> 00:30:07,510
+Ja, erhalten. Deswegen können wir eine antibiotische Nebenwirkung von antibiotischen sagen.
+
+288
+00:30:08,510 --> 00:30:18,510
+Keine Nebenwirkung, nicht eine Nebenwirkung, aber eine sogenannte antibiotika-associierte Enteritis gibt es.
+
+289
+00:30:18,510 --> 00:30:24,510
+In Deutschland sehr oft, muss man sagen, bei älteren Patienten.
+
+290
+00:30:25,510 --> 00:30:30,510
+Welche, wie nennt man diese Enteritis? Sie hat einen bestimmten Namen.
+
+291
+00:30:31,510 --> 00:30:45,260
+Übel riechende Durchfälle, häufiger, hohes Alter nach Antibiotika-Gabe. Wie nennt man diese?
+
+292
+00:30:49,140 --> 00:30:59,140
+Eine Pseudomembranösekulitis bzw. Clostridien-Enteritis, durch Clostridien verursacht. Kennen Sie das?
+
+293
+00:31:00,140 --> 00:31:03,140
+Meinen Sie als Erreger?
+
+294
+00:31:04,140 --> 00:31:05,140
+Richtig.
+
+295
+00:31:05,140 --> 00:31:07,140
+Ja, Clostridium difficile.
+
+296
+00:31:08,140 --> 00:31:13,140
+Clostridium difficile bzw. Clostridium difficile Toxin. Richtig, kennen Sie das?
+
+297
+00:31:14,140 --> 00:31:25,140
+Nein, ganz typisch. Hohes Alter, Krankenhausaufenthalt, Antibiotikum, hat sogar Pantoprazole, Kinder mit Ziehen bekommen.
+
+298
+00:31:26,140 --> 00:31:31,140
+Das sind alles so Faktoren, die für eine Clostridien-Enteritis sprechen.
+
+299
+00:31:31,140 --> 00:31:34,140
+Vielen Dank für diese Informationen.
+
+300
+00:31:35,140 --> 00:31:37,140
+Was machen wir denn mit den Patienten zur Diagnostik?
+
+301
+00:31:38,140 --> 00:31:49,780
+Zunächst würde ich bei den Patienten die Vitalparameter kontrollieren und eine körperliche Untersuchung durchführen.
+
+302
+00:31:50,780 --> 00:32:02,780
+Bei der körperlichen Untersuchung würde ich zunächst die Haut von Patienten inspizieren.
+
+303
+00:32:03,780 --> 00:32:25,570
+Außerdem würde ich bei der körperlichen Untersuchung ob Abwechslpannung, Druckdolenz, Dostlastschmerz oder Organemagalie vorlegen.
+
+304
+00:32:26,570 --> 00:32:27,570
+Richtig.
+
+305
+00:32:27,570 --> 00:32:38,570
+Nach der körperlichen Untersuchung würde ich eine Labountersuchung durchführen.
+
+306
+00:32:38,570 --> 00:32:54,910
+Und Blutbild-Ersundung-Parameter, CRP, Nieren- und Leberwerte und Stullprobe.
+
+307
+00:32:55,910 --> 00:33:01,910
+Elektrolyte nicht vergessen, ganz wichtig. Der Patient hat Durchfall, er verliert viele Salze.
+
+308
+00:33:02,910 --> 00:33:14,910
+Elektrolyte bestimmen lassen. Nach der Labountersuchung würde ich eine Abdomenssonographie durchführen.
+
+309
+00:33:15,910 --> 00:33:16,910
+Richtig.
+
+310
+00:33:17,910 --> 00:33:19,910
+Um die inneren Organe zu beurteilen.
+
+311
+00:33:20,910 --> 00:33:21,910
+Ja, was noch?
+
+312
+00:33:22,910 --> 00:33:23,910
+Zu beurteilen.
+
+313
+00:33:23,910 --> 00:33:35,770
+Natürlich würde ich eine digitale und rechte Untersuchung durchführen.
+
+314
+00:33:39,770 --> 00:33:41,770
+Haben Sie das immer, wenn jemand Durchfall hat?
+
+315
+00:33:46,510 --> 00:33:47,510
+Entschuldigung.
+
+316
+00:33:48,510 --> 00:33:49,510
+Machen Sie das immer, wenn jemand Durchfall hat?
+
+317
+00:33:50,510 --> 00:33:52,510
+Oder warum machen Sie das?
+
+318
+00:33:52,510 --> 00:33:56,510
+Der Patient ist alt.
+
+319
+00:33:57,510 --> 00:34:06,310
+Ja, kann man machen.
+
+320
+00:34:07,310 --> 00:34:17,310
+Wenn man die Differenzialdiagnose stenozierender Tumor hat, der auch Durchfall machen kann, kann man machen.
+
+321
+00:34:18,310 --> 00:34:24,310
+Welche Diagnostik machen Sie noch?
+
+322
+00:34:28,800 --> 00:34:29,800
+Der Durchfall.
+
+323
+00:34:30,800 --> 00:34:40,100
+Ja, ich würde eine Computerisierte Tomographie des Abdomens.
+
+324
+00:34:41,100 --> 00:34:42,100
+Nein, Durchfall.
+
+325
+00:34:43,100 --> 00:34:44,100
+Durchfall?
+
+326
+00:34:45,100 --> 00:34:46,100
+Was machen Sie?
+
+327
+00:34:47,100 --> 00:34:51,100
+Ich habe einen Stullprobetest bestimmen lassen.
+
+328
+00:34:52,100 --> 00:34:53,100
+Genau, eine Stullprobe.
+
+329
+00:34:54,100 --> 00:34:56,100
+Und was lassen Sie kontrollieren?
+
+330
+00:34:57,100 --> 00:34:58,100
+In der Stullprobe?
+
+331
+00:34:58,100 --> 00:35:05,100
+Ja, bei der Stullprobe kontrolliere ich Erreger.
+
+332
+00:35:06,100 --> 00:35:07,100
+Erreger, ganz genau.
+
+333
+00:35:08,100 --> 00:35:09,100
+Und Blut.
+
+334
+00:35:10,100 --> 00:35:11,100
+Auch, was noch?
+
+335
+00:35:12,100 --> 00:35:17,120
+Sie können auch Entzündungsparameter messen.
+
+336
+00:35:18,120 --> 00:35:19,120
+Meinen Sie Lokosythen?
+
+337
+00:35:20,120 --> 00:35:21,120
+Teil Protektin.
+
+338
+00:35:22,120 --> 00:35:24,120
+Teil Protektin gibt es.
+
+339
+00:35:24,120 --> 00:35:25,120
+Teil Protektin gibt es.
+
+340
+00:35:26,120 --> 00:35:30,120
+Das ist ein Marker, der im Darm produziert wird, ob eine Entzündung vorliegt oder nicht.
+
+341
+00:35:33,200 --> 00:35:34,200
+Können Sie nochmal nachlesen.
+
+342
+00:35:35,200 --> 00:35:37,740
+Teil Protektin.
+
+343
+00:35:38,740 --> 00:35:45,740
+Aber Sie lassen natürlich auch Clostridin bestimmen, weil Sie haben den Verdacht, auf eine Clostridin entdeckt zu sein.
+
+344
+00:35:48,050 --> 00:35:58,050
+Ja, bei der Stullprobe können wir die Erreger feststellen.
+
+345
+00:35:59,050 --> 00:36:03,050
+Und was machen Sie therapeutisch bei den Patienten?
+
+346
+00:36:05,390 --> 00:36:13,390
+Herr Oberath, sollte sich meine Verdachtstheramose bestätigen, würde ich den Patienten stationär aufnehmen.
+
+347
+00:36:14,390 --> 00:36:16,390
+Die Stullprobe haben Sie ja noch nicht sofort.
+
+348
+00:36:17,390 --> 00:36:18,390
+Stullprobe dauert zwei Tage.
+
+349
+00:36:23,390 --> 00:36:24,390
+Stullprobe dauert zwei Tage.
+
+350
+00:36:29,300 --> 00:36:31,300
+Nehmen Sie den Patienten stationär auf oder nicht?
+
+351
+00:36:31,300 --> 00:36:39,300
+Ja, ja. Der Patient hat mehr Diäre.
+
+352
+00:36:40,300 --> 00:36:52,700
+Deswegen hat der Patient mehr oder zu viel Flüssigkeit verloren.
+
+353
+00:36:53,700 --> 00:36:54,700
+Genau. Was müssten Sie denn machen?
+
+354
+00:36:55,700 --> 00:37:09,210
+Deswegen würde ich den Patienten ausreichende Flüssigkeit oder massive Flüssigkeit verabreichen.
+
+355
+00:37:10,210 --> 00:37:12,210
+Wie denn? Drinken oder intravenös?
+
+356
+00:37:12,210 --> 00:37:16,210
+Ein Venös an Zugang legen.
+
+357
+00:37:17,210 --> 00:37:29,210
+Dabei würde ich Antibiotikum und Antiemetikum.
+
+358
+00:37:29,210 --> 00:37:47,340
+Und gegen Klebsiala eine Antibiotikum verabreichen.
+
+359
+00:37:48,340 --> 00:37:50,340
+Keine Antibiotikum mehr ein seit zehn Tagen.
+
+360
+00:37:51,340 --> 00:37:57,340
+Aber würden Sie jetzt schon Antibiotikum geben, ohne zu wissen, was er hat?
+
+361
+00:37:57,340 --> 00:38:06,160
+Ja, deswegen würde ich eine Antibiotik-Kultur.
+
+362
+00:38:07,160 --> 00:38:09,160
+Ja genau, haben Sie ja gemacht. Stullprobe.
+
+363
+00:38:10,160 --> 00:38:13,160
+Aber dauert zwei Tage. Sie wissen es noch nicht.
+
+364
+00:38:14,160 --> 00:38:18,160
+Sie wissen noch nicht, ob er Kostriden hat oder etwas anderes.
+
+365
+00:38:19,160 --> 00:38:21,160
+Ein Antibiotikum jetzt schon geben würde ich nicht machen.
+
+366
+00:38:22,160 --> 00:38:27,160
+Ich würde eine Antibiotikum geben, wenn Sie das Ergebnis haben. Also noch zwei Tage.
+
+367
+00:38:27,160 --> 00:38:35,160
+Aber dahin können Sie schon intravenöse Flüssigkeitzugabe geben. Das reicht schon aus.
+
+368
+00:38:36,160 --> 00:38:42,160
+Und natürlich würde ich eine sehr hohe Entzündungswerte haben.
+
+369
+00:38:43,160 --> 00:38:45,160
+Sehr hohe. Da kann man Antibiotikum überlegen.
+
+370
+00:38:46,160 --> 00:38:54,980
+Ja, deswegen würde ich eine symptomatische Therapie behandeln.
+
+371
+00:38:55,980 --> 00:38:58,980
+So, dann nehmen Sie den Patienten stationär auf.
+
+372
+00:38:59,980 --> 00:39:00,980
+Ja, natürlich.
+
+373
+00:39:01,980 --> 00:39:03,980
+Was müssen Sie bei dem Patienten aufpassen, wenn Sie ihn stationär aufnehmen?
+
+374
+00:39:04,980 --> 00:39:08,980
+Er hat Durchfall. Er muss also isoliert werden.
+
+375
+00:39:11,620 --> 00:39:14,620
+Der Patient muss stationär isoliert werden, allein im Zimmer.
+
+376
+00:39:15,620 --> 00:39:16,620
+Ja, ja.
+
+377
+00:39:17,620 --> 00:39:18,620
+Ganz wichtig.
+
+378
+00:39:19,620 --> 00:39:29,020
+Jetzt haben wir zwei Tage das Ergebnis mit Kostriden entterritten.
+
+379
+00:39:30,020 --> 00:39:32,020
+Welches Antibiotikum geben Sie dann?
+
+380
+00:39:33,020 --> 00:39:35,020
+Kostridium.
+
+381
+00:39:36,020 --> 00:39:38,020
+Dann geben Sie Bancomycin.
+
+382
+00:39:39,020 --> 00:39:40,020
+Was?
+
+383
+00:39:41,020 --> 00:39:44,680
+Bancomycin.
+
+384
+00:39:45,680 --> 00:39:47,680
+Ja, wenn wir Erreger feststellen.
+
+385
+00:39:47,680 --> 00:39:54,680
+Wenn wir Kostridium-Verdacht bestätigt haben, dann ja.
+
+386
+00:39:55,680 --> 00:39:57,680
+Dann bekommt er Bancomycin.
+
+387
+00:39:59,680 --> 00:40:02,820
+Okay?
+
+388
+00:40:03,820 --> 00:40:16,820
+Ja, nach der Akutbehandlung empfehlen wir den Patienten personische Hygiene, gesunde Ernährung.
+
+389
+00:40:17,820 --> 00:40:18,820
+Das empfehlen wir sowieso.
+
+390
+00:40:19,820 --> 00:40:21,820
+Das hat nichts mit Ernährung zu tun.
+
+391
+00:40:22,820 --> 00:40:24,820
+Kostridium hat nichts mit Ernährung zu tun.
+
+392
+00:40:25,820 --> 00:40:27,820
+Hat mit Antibiotika zu tun.
+
+393
+00:40:28,820 --> 00:40:29,820
+Ja, ja.
+
+394
+00:40:30,820 --> 00:40:31,820
+Okay?
+
+395
+00:40:32,820 --> 00:40:36,820
+Unsere Händeflüssigkeit trinken.
+
+396
+00:40:39,490 --> 00:40:41,490
+Kostridium wird mit Antibiotika behandelt.
+
+397
+00:40:45,370 --> 00:40:46,370
+Ja, ich verstehe Sie.
+
+398
+00:40:49,740 --> 00:40:55,110
+Okay. Also, Patienten stationär aufnehmen, Flüssigkeit geben,
+
+399
+00:40:55,110 --> 00:41:00,110
+Blutwerte kontrollieren, Stuhlprobe kontrollieren.
+
+400
+00:41:01,110 --> 00:41:04,110
+Wenn die Stuhlprobe positiv auf Kostridium ist, Antibiotikum geben.
+
+401
+00:41:05,110 --> 00:41:12,980
+Ja, als Antibiotikum würden wir Bancomycin...
+
+402
+00:41:13,980 --> 00:41:17,980
+Ganz genau. Wir geben Bancomycin für mindestens 10 Tage.
+
+403
+00:41:18,980 --> 00:41:22,920
+Okay?
+
+404
+00:41:23,920 --> 00:41:24,920
+Okay.
+
+405
+00:41:25,920 --> 00:41:26,920
+Gibt es Fragen?
+
+406
+00:41:27,920 --> 00:41:30,920
+Muss Bancomycin im Krankenhaus weitergeben?
+
+407
+00:41:30,920 --> 00:41:33,920
+Vor- oder seit 3 Tagen?
+
+408
+00:41:34,920 --> 00:41:35,920
+Ja.
+
+409
+00:41:36,920 --> 00:41:38,920
+Oral. Nicht vor- oder vor-hinsichtlich.
+
+410
+00:41:39,920 --> 00:41:40,920
+Ah, oral.
+
+411
+00:41:41,920 --> 00:41:42,920
+Okay.
+
+412
+00:41:43,920 --> 00:41:49,920
+Muss Arzt Leben oder Nierenwerte kontrollieren,
+
+413
+00:41:50,920 --> 00:41:52,920
+gleichzeitig Bancomycin?
+
+414
+00:41:53,920 --> 00:41:54,920
+Natürlich.
+
+415
+00:41:55,920 --> 00:41:56,920
+Welche Werte?
+
+416
+00:41:57,920 --> 00:41:58,920
+Welche Leben oder Nieren?
+
+417
+00:41:58,920 --> 00:41:59,920
+Die beiden.
+
+418
+00:42:00,920 --> 00:42:01,920
+Beide Werte.
+
+419
+00:42:02,920 --> 00:42:08,920
+Und normalerweise, vielleicht falsch weiß ich,
+
+420
+00:42:09,920 --> 00:42:21,920
+normalerweise nach dem Antibiotikum nutzen, warten wir die Arten ungefähr innerhalb 3 Tagen.
+
+421
+00:42:21,920 --> 00:42:22,920
+Ja.
+
+422
+00:42:23,920 --> 00:42:31,920
+Aber dieser Mann, ungefähr vor 2 Wochen Antibiotikum nutzen,
+
+423
+00:42:32,920 --> 00:42:38,920
+aber nicht innerhalb 3 Tagen hat er Durchfall.
+
+424
+00:42:39,920 --> 00:42:44,920
+Ja, normalerweise ist das früher, haben Sie recht, innerhalb von 3-5 Tagen,
+
+425
+00:42:45,920 --> 00:42:48,920
+aber dieser Partie hat man später bekommen. Man muss also dran denken.
+
+426
+00:42:49,920 --> 00:42:50,920
+Ja.
+
+427
+00:42:51,920 --> 00:42:57,920
+Okay. Wie kann man zum Beispiel Vibrio cholera auszuschließen?
+
+428
+00:42:58,920 --> 00:42:59,920
+Können Sie auch Stuhlprobe machen?
+
+429
+00:43:00,920 --> 00:43:01,920
+Nur Stuhlprobe. Okay.
+
+430
+00:43:02,920 --> 00:43:04,920
+Aber Cholera ist sehr selten in Deutschland.
+
+431
+00:43:05,920 --> 00:43:06,920
+Ja.
+
+432
+00:43:07,920 --> 00:43:08,920
+Begleit vielleicht, aber nicht hier.
+
+433
+00:43:09,920 --> 00:43:16,920
+Oder, und vielleicht mehr erhöhte Fieber mit Cholera oder?
+
+434
+00:43:16,920 --> 00:43:20,920
+Cholera ist selten in Deutschland, der war nicht im Ausland gewesen.
+
+435
+00:43:21,920 --> 00:43:23,920
+Vorher soll er Cholera bekommen.
+
+436
+00:43:24,920 --> 00:43:28,920
+Es gibt keine erhöhte Infektionszahlen hier in Deutschland.
+
+437
+00:43:29,920 --> 00:43:30,920
+Okay.
+
+438
+00:43:31,920 --> 00:43:32,920
+Aber es gibt wahrscheinlich Kostridien.
+
+439
+00:43:33,920 --> 00:43:37,920
+Er kann auch Salmonellen haben, Salmonellen zum Beispiel.
+
+440
+00:43:38,920 --> 00:43:39,920
+Ja.
+
+441
+00:43:40,920 --> 00:43:41,920
+Ohne Blut.
+
+442
+00:43:42,920 --> 00:43:43,920
+Aber das macht nicht die Oberdurchfallrate und auch nicht diese Beschwerden.
+
+443
+00:43:44,920 --> 00:43:45,920
+Okay.
+
+444
+00:43:46,920 --> 00:43:56,920
+Ist es hilfreich, dass Probiotikum anfangen oder?
+
+445
+00:43:57,920 --> 00:43:58,920
+Vielleicht.
+
+446
+00:43:59,920 --> 00:44:00,920
+Okay. Danke.
+
+447
+00:44:03,940 --> 00:44:04,940
+Entschuldigung.
+
+448
+00:44:05,940 --> 00:44:07,940
+Die Diagnose ist Kostridien enttäuscht.
+
+449
+00:44:08,940 --> 00:44:10,940
+Oder Pseudomembranose-Kolitis.
+
+450
+00:44:11,940 --> 00:44:12,940
+Wenn man es nicht weiß.
+
+451
+00:44:12,940 --> 00:44:18,940
+Normalerweise erwarten wir die Fieber beim Pseudomembranose-Kolitis.
+
+452
+00:44:19,940 --> 00:44:22,180
+Ich habe sie nicht verstanden.
+
+453
+00:44:23,180 --> 00:44:29,180
+Normalerweise erwarten wir Fieber beim Pseudomembranose-Kolitis.
+
+454
+00:44:30,180 --> 00:44:31,180
+Ist das normal?
+
+455
+00:44:32,180 --> 00:44:33,180
+Ja, ja.
+
+456
+00:44:34,180 --> 00:44:37,180
+Wegen der Hydratation vielleicht.
+
+457
+00:44:38,180 --> 00:44:39,180
+Bitte?
+
+458
+00:44:39,180 --> 00:44:44,180
+Fieber, Fieber, Aufgrundfieber, vielleicht auch die Hydratation.
+
+459
+00:44:45,180 --> 00:44:46,180
+Natürlich, ganz genau.
+
+460
+00:44:47,180 --> 00:44:48,180
+Und wenig trinken.
+
+461
+00:44:49,180 --> 00:44:50,180
+Er ist auch nicht jung.
+
+462
+00:44:51,180 --> 00:44:52,180
+Er ist älter, 71 Jahre alt.
+
+463
+00:44:53,180 --> 00:44:54,180
+Dann vergisst man auch trinken manchmal.
