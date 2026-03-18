@@ -1,0 +1,3243 @@
+1
+00:00:03,280 --> 00:00:13,280
+Schönen guten Tag. Mein Name ist Chetan Doan. Ich bin heute der diensthabende Arzt und würde jetzt gerne das Aufnahmegespräch mit Ihnen führen.
+
+2
+00:00:13,280 --> 00:00:15,280
+Ist das für Sie in Ordnung?
+
+3
+00:00:15,280 --> 00:00:19,280
+Ja, natürlich Doktor.
+
+4
+00:00:19,280 --> 00:00:27,280
+Bitte fragen Sie nach etwas nicht verstehen, wenn Sie etwas nicht verstehen. Wie heißen Sie denn?
+
+5
+00:00:27,280 --> 00:00:33,280
+Warum fragen Sie noch mal? Ich habe schon alles bei der Anmeldung gegeben.
+
+6
+00:00:33,280 --> 00:00:42,780
+Ja, es ist sehr wichtig, die Daten zu bestätigen, damit wir Sie nicht mit anderen Patienten verwechseln.
+
+7
+00:00:42,780 --> 00:00:50,180
+Okay. Mein Name ist Dieter Kasmarek.
+
+8
+00:00:50,180 --> 00:00:58,180
+Dieter Kasmarek. Okay, könnten Sie das langsam und deutlich buchstabieren?
+
+9
+00:00:58,180 --> 00:01:03,180
+D, I, E, T, E, R.
+
+10
+00:01:03,180 --> 00:01:06,180
+Und das A oder E?
+
+11
+00:01:06,180 --> 00:01:09,180
+E wie erge oder A wie antum?
+
+12
+00:01:09,180 --> 00:01:12,180
+E wie Emil.
+
+13
+00:01:12,180 --> 00:01:14,180
+E wie Emil, Dieter. Okay.
+
+14
+00:01:14,180 --> 00:01:18,180
+D wie Ida, E wie Emil.
+
+15
+00:01:18,180 --> 00:01:21,180
+T wie Tedo, E wie Emil.
+
+16
+00:01:21,180 --> 00:01:24,180
+R wie Richard.
+
+17
+00:01:24,180 --> 00:01:27,180
+Okay, bitte Kasmarek.
+
+18
+00:01:27,180 --> 00:01:36,180
+K wie Kasmarek, A wie antum, Z M, A, R, E, K.
+
+19
+00:01:36,180 --> 00:01:39,180
+Okay, ganz nahmlich.
+
+20
+00:01:39,180 --> 00:01:41,180
+Herr Kasmarek, wie alt sind Sie?
+
+21
+00:01:41,180 --> 00:01:45,180
+Ich bin 59 Jahre alt.
+
+22
+00:01:45,180 --> 00:01:48,180
+Und wann genau sind Sie geboren?
+
+23
+00:01:48,180 --> 00:01:54,180
+Am letzten Tag des Jahres 62.
+
+24
+00:01:54,180 --> 00:02:00,180
+62, wie schön. Okay. Wie groß sind Sie?
+
+25
+00:02:00,180 --> 00:02:07,180
+1,83 Meter.
+
+26
+00:02:07,180 --> 00:02:10,180
+Wissen Sie, wie viel Sie wiegen?
+
+27
+00:02:10,180 --> 00:02:17,180
+74,5 oder ich weiß es nicht.
+
+28
+00:02:17,180 --> 00:02:22,180
+Okay. Ja, Herr Kasmarek, was führt Sie heute zu uns? Wie kann ich Ihnen helfen?
+
+29
+00:02:22,180 --> 00:02:27,180
+Meine Kumpels haben mich gezwungen hierher zu kommen.
+
+30
+00:02:27,180 --> 00:02:30,180
+Sie haben gesagt, es geht nicht mehr.
+
+31
+00:02:30,180 --> 00:02:35,180
+Ich habe Magenschmerzen, Herr Doktor, seit drei Wochen.
+
+32
+00:02:35,180 --> 00:02:38,180
+Seit drei Wochen Magenschmerzen.
+
+33
+00:02:38,180 --> 00:02:43,180
+Was meinen Sie mit Magen? Wo genau sind Ihre Schmerzen?
+
+34
+00:02:43,180 --> 00:02:45,180
+Könnten Sie mir zeigen?
+
+35
+00:02:45,180 --> 00:02:50,180
+Im Bauch, Oberbauch und um den Nabel.
+
+36
+00:02:50,180 --> 00:02:53,180
+Bauch und um den Nabel.
+
+37
+00:02:53,180 --> 00:02:55,180
+Ja.
+
+38
+00:02:55,180 --> 00:02:58,180
+Okay. Strahlen Sie Schmerzen irgendwo hinaus?
+
+39
+00:02:58,180 --> 00:03:00,180
+Strahlen, was meinen Sie?
+
+40
+00:03:00,180 --> 00:03:16,180
+Ja, ich meine in anderen Körperregionen zum Beispiel, außer Ihres Baus, Strahlen Sie Schmerzen auf andere Körperregionen, in den Rücken, in die Schulter oder in den Unterbauch?
+
+41
+00:03:16,180 --> 00:03:24,420
+Ja, ja, Schmerzen sind in den Rücken manchmal im ganzen Bauch.
+
+42
+00:03:24,420 --> 00:03:26,420
+Okay.
+
+43
+00:03:26,420 --> 00:03:31,420
+Sind Sie Schmerzen plötzlich oder langsam aufgetreten, Herr Kasmarek?
+
+44
+00:03:31,420 --> 00:03:40,420
+Ja, am Anfang, plötzlich aufgetreten, nach dem Fressen.
+
+45
+00:03:40,420 --> 00:03:46,420
+Sind Sie traurhaft oder verschwinden Sie seitweils?
+
+46
+00:03:46,420 --> 00:04:00,790
+Seit langer Zeit Schmerzen, aber in den letzten Wochen Schmerzen, kolikartig und dauerhaft.
+
+47
+00:04:00,790 --> 00:04:03,790
+Kolikartig und dauerhaft. Okay.
+
+48
+00:04:03,790 --> 00:04:14,790
+Was meinen Sie seit Langem? Seit wann haben Sie ähnliche Beschwerden gehabt? Sie haben am Anfang gesagt seit drei Tagen.
+
+49
+00:04:14,790 --> 00:04:19,790
+Nein, nein, seit drei Wochen.
+
+50
+00:04:19,790 --> 00:04:29,790
+Seit drei Wochen, aber ähnliche Beschwerden, mein Bauchschmerzen dauert ca. drei Monate.
+
+51
+00:04:29,790 --> 00:04:37,790
+Aber das war leichter, die letzten drei Wochen war immer schlimmer geworden.
+
+52
+00:04:37,790 --> 00:04:42,790
+Okay, das habe ich verstanden. Im Laufe der Zeit sind Sie schlimmer geworden. Okay.
+
+53
+00:04:43,790 --> 00:04:52,790
+Entschuldigung. Wie stark sind Ihre Schmerzen auf einer Skala von 0 bis 10? Wobei keine Schmerzen und 10 die stärksten Schmerzen bedeuten?
+
+54
+00:04:52,790 --> 00:05:05,500
+Die Schmerzen ca. ja jetzt 5.
+
+55
+00:05:05,500 --> 00:05:15,500
+5 und 10. Okay, das habe ich notiert. Gibt es einen Auslöser für Ihre Schmerzen? Zum Beispiel nach dem Essen oder ...
+
+56
+00:05:15,500 --> 00:05:23,500
+Nach dem Essen. Gestern Abend habe ich einen Eiersalat mit Brot und Butter gegeben.
+
+57
+00:05:23,500 --> 00:05:32,500
+Aber ich meine Auslöser. Sie haben schon gesagt, seit drei Wochen haben Sie diese Schmerzen. Vielleicht bis vor drei Wochen, meine ich.
+
+58
+00:05:32,500 --> 00:05:50,180
+Nach dem Essen. Ja, kann ich sagen. Deswegen trinke ich viel Alkohol und Bier. Aber das hat mir nicht geholfen.
+
+59
+00:05:50,180 --> 00:06:07,450
+Vorher, wenn ich trinke, geht es ein bisschen gut. Aber jetzt funktioniert es nicht. Herr Kaczmarek, Alkohol ist nicht ein Medikament.
+
+60
+00:06:07,450 --> 00:06:13,450
+Sie brauchen eine echte Lösung für Ihr Problem. Aber das hilft mir.
+
+61
+00:06:13,450 --> 00:06:25,450
+Das kann ich gut nachvollziehen. Aber wir versuchen heute eine echte Lösung für Ihre Schmerzen herauszufinden.
+
+62
+00:06:25,450 --> 00:06:34,450
+Okay, bitte machen Sie keine Sorge. Und ich würde gerne wissen, gibt es etwas, das die Schmerzen verstärkt oder hindert?
+
+63
+00:06:34,450 --> 00:06:48,450
+Zum Beispiel Sie haben gesagt, nach dem Essen, Sie haben Ihre Schmerzen angefangen. Und gibt es etwas, das die Schmerzen verstärkt, außer Essen?
+
+64
+00:06:48,450 --> 00:07:00,450
+Ja, alles, was ich gegessen habe. Immer Essen. Wenn Sie essen, verstärken Sie sich die Schmerzen. Okay.
+
+65
+00:07:00,450 --> 00:07:13,450
+Herr Kaczmarek, haben Sie dagegen außer Alkohol Medikamente eingerommen?
+
+66
+00:07:13,450 --> 00:07:19,450
+Nein, keine Medikamente.
+
+67
+00:07:19,450 --> 00:07:29,450
+Sie haben schon gesagt, dass Sie seit drei Monaten diese Beschwerden haben. Hab ich richtig verstanden?
+
+68
+00:07:29,450 --> 00:07:31,450
+Ja, richtig.
+
+69
+00:07:31,450 --> 00:07:34,450
+Waren Sie deswegen schon einmal beim Arzt?
+
+70
+00:07:34,450 --> 00:07:38,450
+Ich habe keinen Hausarzt.
+
+71
+00:07:38,450 --> 00:07:40,450
+Ist das zum ersten Mal?
+
+72
+00:07:40,450 --> 00:07:51,450
+Ja, das ist das erste Mal. Seit zehn Jahren habe ich keinen Hausarzt. Und das erinnere ich mich nicht an.
+
+73
+00:07:51,450 --> 00:08:03,450
+Herr Kaczmarek, Sie sind 59 Jahre alt. Auch wenn Sie sich gesund fühlen, sollten Sie regelmäßig Ihren Hausarzt besuchen.
+
+74
+00:08:03,450 --> 00:08:16,450
+Dadurch können wir viele gesundheitliche Probleme früh erkennen und eine bestmögliche Behandlung planen und behandeln.
+
+75
+00:08:16,450 --> 00:08:20,450
+Deswegen ist das sehr wichtig, die Regelmäßigkeit.
+
+76
+00:08:20,450 --> 00:08:27,450
+Ich war gesund. Vorher hatte ich keine gesundheitliche Probleme. Deswegen bin ich nicht besucht.
+
+77
+00:08:27,450 --> 00:08:32,450
+Wie gesagt, auch wenn Sie sich gesund fühlen.
+
+78
+00:08:32,450 --> 00:08:42,450
+Haben Sie so drinnen einen sauren Ausstoß oder voller Gefühl?
+
+79
+00:08:42,450 --> 00:08:47,730
+Ja, alles habe ich.
+
+80
+00:08:47,730 --> 00:08:50,730
+Alle diese Beschwerden haben Sie?
+
+81
+00:08:50,730 --> 00:08:52,730
+Ja, ja.
+
+82
+00:08:52,730 --> 00:08:54,730
+So notieren?
+
+83
+00:08:54,730 --> 00:08:56,730
+Ja, Übelkeit, Erbrüche.
+
+84
+00:08:56,730 --> 00:09:01,730
+Ich habe das danach nicht gefragt. Vielleicht auch Übelkeit und Erbrechen.
+
+85
+00:09:01,730 --> 00:09:04,730
+Seit wann haben Sie Übelkeit?
+
+86
+00:09:04,730 --> 00:09:08,730
+Drei Wochen.
+
+87
+00:09:08,730 --> 00:09:10,730
+Drei Wochen.
+
+88
+00:09:10,730 --> 00:09:14,730
+Drei Tage war ein bisschen stark.
+
+89
+00:09:14,730 --> 00:09:20,730
+Das ist stärker geworden. Und wie sah das Erbrochene aus?
+
+90
+00:09:20,730 --> 00:09:24,730
+Ich habe immer ein bisschen gelb-lichtes Essen.
+
+91
+00:09:24,730 --> 00:09:27,730
+Ich habe ein bisschen Schlechtes.
+
+92
+00:09:27,730 --> 00:09:31,730
+Gibt es drin Blut?
+
+93
+00:09:31,730 --> 00:09:35,730
+So etwas habe ich nicht gesehen.
+
+94
+00:09:35,730 --> 00:09:40,730
+Ok, das habe ich auch notiert.
+
+95
+00:09:40,730 --> 00:09:48,730
+Herr Kasmarek, haben Sie Fieber, Stölzfuss, Nachtschweiß oder kalten Schweiß?
+
+96
+00:09:48,730 --> 00:09:56,730
+Manchmal habe ich Schwitzen.
+
+97
+00:09:56,730 --> 00:10:01,730
+Schwitzen Sie mehr als sonst?
+
+98
+00:10:01,730 --> 00:10:04,730
+Ja, natürlich.
+
+99
+00:10:04,730 --> 00:10:14,730
+In der letzten Zeit ist Nachtschweiß sehr stark und meine Kleidung ist durchgenäßt.
+
+100
+00:10:14,730 --> 00:10:17,730
+Durchgenäßt? Ok.
+
+101
+00:10:17,730 --> 00:10:20,730
+Das notiere ich mir.
+
+102
+00:10:20,730 --> 00:10:26,730
+Haben Sie Brustschmerzen oder Atemnot? Herzrasen?
+
+103
+00:10:26,730 --> 00:10:29,730
+Nein, Herzrasen habe ich nicht.
+
+104
+00:10:29,730 --> 00:10:34,730
+Leiden Sie unter Brustschmerzen und Atemnot?
+
+105
+00:10:34,730 --> 00:10:36,730
+Nicht so viel.
+
+106
+00:10:36,730 --> 00:10:39,730
+Weiß meinen Sie nicht so viel? Haben Sie?
+
+107
+00:10:39,730 --> 00:10:44,730
+Manchmal strahlen die Schmerzen ein bisschen aus.
+
+108
+00:10:44,730 --> 00:10:51,730
+Aber Sie sollten meine Fragen immer richtig antworten geben.
+
+109
+00:10:51,730 --> 00:10:56,730
+Das ist sehr wichtig, eine richtige Diagnose festzustellen.
+
+110
+00:10:56,730 --> 00:11:02,730
+Ja, ich verstehe. Meine Schmerzen sind im Bauch.
+
+111
+00:11:02,730 --> 00:11:05,730
+Ok.
+
+112
+00:11:05,730 --> 00:11:14,730
+Wir machen weiter. Die nächste Frage ist über Ihren Stuhlgang.
+
+113
+00:11:14,730 --> 00:11:17,730
+Haben Sie Probleme mit Stuhlgang?
+
+114
+00:11:17,730 --> 00:11:26,730
+Ja, wie gesagt, seit drei Wochen habe ich einen Durchfall.
+
+115
+00:11:26,730 --> 00:11:31,730
+Durchfall? Leiden Sie darunter? Ok.
+
+116
+00:11:31,730 --> 00:11:35,730
+Wie sah der Stuhl aus?
+
+117
+00:11:35,730 --> 00:11:40,730
+Perlbraun.
+
+118
+00:11:40,730 --> 00:11:41,730
+Perlbraun.
+
+119
+00:11:41,730 --> 00:11:43,730
+Ja, glänzend.
+
+120
+00:11:43,730 --> 00:11:46,730
+Ja, wichtig zu wissen.
+
+121
+00:11:46,730 --> 00:11:49,730
+Es riecht sehr schlecht.
+
+122
+00:11:49,730 --> 00:11:52,730
+Das ist auch wichtig für mich.
+
+123
+00:11:52,730 --> 00:11:56,730
+Und ein bisschen glänzt.
+
+124
+00:11:56,730 --> 00:12:01,730
+Ok. Ich würde gerne wissen, ob es Blut gibt.
+
+125
+00:12:01,730 --> 00:12:06,650
+Nicht gesehen.
+
+126
+00:12:06,650 --> 00:12:09,650
+Ok. Richtig zu wissen.
+
+127
+00:12:09,650 --> 00:12:12,650
+Was ist mit dem Wasserlassen?
+
+128
+00:12:12,650 --> 00:12:15,650
+Haben Sie Probleme beim Wasserlassen?
+
+129
+00:12:15,650 --> 00:12:19,650
+Oder haben Sie etwas ungewöhnliches bemerkt?
+
+130
+00:12:19,650 --> 00:12:26,650
+Ja, in der letzten Zeit beim Wasser, wie Altbier.
+
+131
+00:12:26,650 --> 00:12:30,650
+Altbier. Ok. Dunkel. Meinen Sie dunkel?
+
+132
+00:12:30,650 --> 00:12:32,650
+Ja, dunkel.
+
+133
+00:12:32,650 --> 00:12:35,650
+Ok. Dunkel als sonst.
+
+134
+00:12:35,650 --> 00:12:38,650
+Nicht rötlich, aber wie Altbier.
+
+135
+00:12:38,650 --> 00:12:40,650
+Ja.
+
+136
+00:12:40,650 --> 00:12:43,650
+Ok. Das ist auch wichtig zu wissen.
+
+137
+00:12:43,650 --> 00:12:46,650
+Wie ist Ihr Appetit, Herr Kaczmarek?
+
+138
+00:12:46,650 --> 00:12:49,650
+Ich habe keinen Appetit mehr, Herr Doktor.
+
+139
+00:12:49,650 --> 00:12:54,650
+Haben Sie in letzter Zeit ungewollt ab- oder zugenommen?
+
+140
+00:12:54,650 --> 00:12:57,650
+Ja, ca. 10 kg abgenommen.
+
+141
+00:12:57,650 --> 00:13:04,650
+In welchem Zeitraum haben Sie das abgenommen?
+
+142
+00:13:04,650 --> 00:13:08,650
+In der letzten Monate.
+
+143
+00:13:08,650 --> 00:13:10,650
+In einer Monate?
+
+144
+00:13:10,650 --> 00:13:12,650
+Ja, in einer.
+
+145
+00:13:12,650 --> 00:13:15,650
+Das ist wichtig zu wissen.
+
+146
+00:13:15,650 --> 00:13:18,650
+Schlafen Sie gut?
+
+147
+00:13:18,650 --> 00:13:22,650
+Nein, ich habe sehr starke Schmerzen und Durchfall.
+
+148
+00:13:22,650 --> 00:13:26,650
+Deswegen kann ich nicht so gut schlafen.
+
+149
+00:13:26,650 --> 00:13:29,650
+Es tut mir leid zu hören.
+
+150
+00:13:29,650 --> 00:13:32,650
+Es muss sehr schwer sein.
+
+151
+00:13:32,650 --> 00:13:39,960
+Herr Kaczmarek, gibt es in Ihrer Vorgeschichte Krankheiten, von denen ich wissen sollte?
+
+152
+00:13:39,960 --> 00:13:42,960
+Chronische Krankheiten, meine ich.
+
+153
+00:13:42,960 --> 00:13:46,960
+Oder wie Blutdruck oder erhöhte Blutwertwerte?
+
+154
+00:13:46,960 --> 00:13:57,960
+Ja, wie gesagt habe ich in den letzten 10 Jahren nicht meine Pausen besucht.
+
+155
+00:13:57,960 --> 00:14:03,960
+Wir haben darüber gesprochen und deswegen möchte ich nicht wiederholen meine Empfehlungen.
+
+156
+00:14:03,960 --> 00:14:07,960
+Wurden Sie schon einmal operiert?
+
+157
+00:14:07,960 --> 00:14:13,960
+Nein, ich hatte nur Hühneraugen am Fuß.
+
+158
+00:14:13,960 --> 00:14:17,960
+Ja, rechter Puls.
+
+159
+00:14:17,960 --> 00:14:21,960
+Wurden Sie deswegen operiert?
+
+160
+00:14:21,960 --> 00:14:27,960
+Warum haben Sie so viele Fragen?
+
+161
+00:14:27,960 --> 00:14:39,960
+Alle diese Fragen sind sehr wichtig für mich, um die richtige Diagnose festzustellen.
+
+162
+00:14:39,960 --> 00:14:44,960
+Ich bin sehr glücklich, dass Sie die beste Therapie haben.
+
+163
+00:14:44,960 --> 00:14:50,960
+Ich muss danach fragen.
+
+164
+00:14:50,960 --> 00:14:56,960
+Wir waren vor 30 Jahren wegen eines Autounfalls.
+
+165
+00:14:56,960 --> 00:15:00,960
+Warte und Scheinbahn.
+
+166
+00:15:00,960 --> 00:15:05,660
+Fixiert.
+
+167
+00:15:05,660 --> 00:15:08,660
+Okay.
+
+168
+00:15:08,660 --> 00:15:21,660
+Nach dem OP habe ich so viel Blut geblutet und dann 4 Blutkonsernen gegeben.
+
+169
+00:15:21,660 --> 00:15:30,660
+Es tut mir leid, dass Sie das erleben mussten.
+
+170
+00:15:30,660 --> 00:15:38,770
+Nehmen Sie regelmäßig oder bei Bedarf Medikamente ein, Herr Kaczmarek?
+
+171
+00:15:38,770 --> 00:15:46,770
+Ich nehme morgens, mittags und abends in der Nacht Schlafs.
+
+172
+00:15:46,770 --> 00:15:54,770
+Wie gesagt und wiederholt ist Alkohol nicht Medikament.
+
+173
+00:15:54,770 --> 00:16:00,770
+Nehmen Sie echte Medikamente ein?
+
+174
+00:16:00,770 --> 00:16:02,770
+Ich frage.
+
+175
+00:16:02,770 --> 00:16:05,770
+Für mich ein Medikament, Herr Doktor.
+
+176
+00:16:05,770 --> 00:16:08,770
+Aber für uns ist das nicht.
+
+177
+00:16:08,770 --> 00:16:14,770
+Herr Kaczmarek, sind Ihnen Allergien oder Unverträglichkeiten bekannt?
+
+178
+00:16:14,770 --> 00:16:19,770
+Ja, bei mir gibt es eine Wasserallergie.
+
+179
+00:16:19,770 --> 00:16:28,430
+Wenn ich viel trinke, muss ich sehr oft häufig auf die Toilette gehen.
+
+180
+00:16:29,430 --> 00:16:38,430
+Aber es gibt keine bekannte Allergie oder keine bekannte Allergie, kann ich sagen.
+
+181
+00:16:38,430 --> 00:16:52,430
+Vielleicht weil Sie zu viel Alkohol konsumieren, nennen Sie oder nennen andere als Wasserallergie.
+
+182
+00:16:52,430 --> 00:16:56,430
+Meine Frau hat mir gesagt.
+
+183
+00:16:56,430 --> 00:17:04,430
+Haben Sie außer Wasserallergie oder leiden Sie unter anderen Allergien oder Unverträglichkeiten?
+
+184
+00:17:04,430 --> 00:17:08,430
+So weit ich weiß es nicht.
+
+185
+00:17:08,430 --> 00:17:11,430
+Herr Kaczmarek, darf ich fragen, ob Sie rauchen?
+
+186
+00:17:11,430 --> 00:17:20,730
+Ja, eine Schachtelpackung.
+
+187
+00:17:20,730 --> 00:17:25,730
+Seit wann rauchen Sie?
+
+188
+00:17:25,730 --> 00:17:30,730
+Mit dem 17 Jahre, über 40 Jahre.
+
+189
+00:17:30,730 --> 00:17:39,730
+Herr Kaczmarek, ich vermute, dass Sie Alkohol trinken.
+
+190
+00:17:39,730 --> 00:17:41,730
+Wie viel trinken Sie?
+
+191
+00:17:41,730 --> 00:17:46,730
+Sie haben eben schon gesagt, dass Sie ein bisschen viel trinken.
+
+192
+00:17:46,730 --> 00:17:51,730
+Ich würde wissen die genaue Menge von Alkoholkonsum.
+
+193
+00:17:51,730 --> 00:17:59,730
+Nicht so viel, tagsüber vier Flaschen Bier und am Abend zwei Schnaps.
+
+194
+00:17:59,730 --> 00:18:04,730
+Okay, aus medizinischer Sicht ist es zu viel.
+
+195
+00:18:04,730 --> 00:18:10,730
+Aber vielleicht sprechen wir wieder darüber.
+
+196
+00:18:10,730 --> 00:18:20,730
+Wenn Sie mit Alkoholkonsum zu reduzieren oder aufzuhören, können wir dabei unterstützen.
+
+197
+00:18:20,730 --> 00:18:31,730
+Routinemäßig muss ich Sie fragen, ob Sie mit irgendwelchen Drogen Kontakt haben, Herr Kaczmarek?
+
+198
+00:18:31,730 --> 00:18:34,730
+Ja, mit Cannabis.
+
+199
+00:18:34,730 --> 00:18:40,730
+Zwei oder drei Joint alle zwei, drei Wochen mit meinen Freundinnen.
+
+200
+00:18:40,730 --> 00:18:48,730
+Seit einem Jahr habe ich nicht mehr geraucht, weil ich keine Kohle habe.
+
+201
+00:18:48,730 --> 00:18:58,730
+Okay, ja freut mich, dass Sie damit aufzuhören, aufgehört haben.
+
+202
+00:18:58,730 --> 00:19:04,730
+Und ich würde gerne wissen, ob Sie Stress bei der Arbeit oder zu Hause haben.
+
+203
+00:19:04,730 --> 00:19:12,730
+Seit fünf Jahren, ich bin arbeitslos, habe keine Arbeit, Stress, kann ich nicht arbeiten, leider.
+
+204
+00:19:12,730 --> 00:19:20,730
+Stress zu Hause?
+
+205
+00:19:20,730 --> 00:19:26,730
+Ja, ich bin alleine, deswegen habe ich kein Geld.
+
+206
+00:19:26,730 --> 00:19:31,730
+Sind Sie geschieden oder im Trainungsjahr?
+
+207
+00:19:31,730 --> 00:19:34,730
+Getrennt, nicht geschieden.
+
+208
+00:19:34,730 --> 00:19:36,730
+Okay, wichtig zu wissen.
+
+209
+00:19:36,730 --> 00:19:39,730
+Und haben Sie Kinder?
+
+210
+00:19:39,730 --> 00:19:46,730
+Ja, ich habe eine Tochter, aber ich weiß jetzt nicht, wo sie ist.
+
+211
+00:19:46,730 --> 00:19:48,730
+Sie haben keinen Kontakt?
+
+212
+00:19:48,730 --> 00:19:51,730
+Ja.
+
+213
+00:19:51,730 --> 00:20:04,580
+Und sind Ihre Eltern gesund oder leiden Sie an chronischen Erkrankungen?
+
+214
+00:20:04,580 --> 00:20:19,580
+Mein Vater hat einen Diktam Krebs, er ist 86 Jahre alt und wohnt in einem Altenheim.
+
+215
+00:20:19,580 --> 00:20:24,060
+Altenheim, okay.
+
+216
+00:20:24,060 --> 00:20:26,060
+Was ist mit Ihrer Mutter?
+
+217
+00:20:26,060 --> 00:20:29,060
+Meine Mutter ist verstorben.
+
+218
+00:20:29,060 --> 00:20:35,060
+Es tut mir leid für Ihren Verlust. Woran ist sie verstorben?
+
+219
+00:20:35,060 --> 00:20:41,060
+Sie hat Blutsturz, wissen Sie, was das ist?
+
+220
+00:20:41,060 --> 00:20:45,060
+Ja, natürlich.
+
+221
+00:20:45,060 --> 00:21:00,200
+Wahrscheinlich ist sie verstorben an einer betroffenen...
+
+222
+00:21:00,200 --> 00:21:05,200
+Sie hat viel Blut auf den Tests.
+
+223
+00:21:05,200 --> 00:21:09,200
+Blutverspuckt, das habe ich so verstanden.
+
+224
+00:21:09,200 --> 00:21:18,200
+Vielleicht hatte sie eine leberbetroffene Krankheit.
+
+225
+00:21:18,200 --> 00:21:20,200
+Ich kann so sagen.
+
+226
+00:21:20,200 --> 00:21:27,200
+Okay, Herr Kaczmarek, ich danke Ihnen für Ihre Offenheit und für Ihre Geduld.
+
+227
+00:21:27,200 --> 00:21:30,200
+Ich bin nun mit meinen Fragen fertig.
+
+228
+00:21:30,200 --> 00:21:38,200
+Laut Ihrer Beschwerden habe ich den Verdacht auf Bauchspeicheldrüsenentzündung.
+
+229
+00:21:38,200 --> 00:21:45,200
+Nein, aber Herr Doktor wissen Sie, mein Opa hat wegen eines Magenkrebs verstorben.
+
+230
+00:21:45,200 --> 00:21:51,510
+Habe ich Krebs?
+
+231
+00:21:51,510 --> 00:21:58,510
+Ich kann nicht eine genaue Antwort geben.
+
+232
+00:21:58,510 --> 00:22:03,510
+Meine Mutter ist plötzlich gestorben.
+
+233
+00:22:03,510 --> 00:22:05,510
+Wie bitte?
+
+234
+00:22:05,510 --> 00:22:08,510
+Meine Mutter ist plötzlich gestorben.
+
+235
+00:22:08,510 --> 00:22:11,510
+Das habe ich auch notiert.
+
+236
+00:22:11,510 --> 00:22:16,510
+Wie gesagt, ich kann Ihnen keine genaue Antwort geben.
+
+237
+00:22:16,510 --> 00:22:21,510
+Aber wir werden alle notwendigen Untersuchungen durchführen.
+
+238
+00:22:21,510 --> 00:22:26,510
+Dann können wir darüber widersprechen.
+
+239
+00:22:26,510 --> 00:22:29,510
+Und machen Sie sich keine Sorgen.
+
+240
+00:22:29,510 --> 00:22:36,510
+Sie sind in guten Händen und wir werden alle notwendigen Behandlungen machen.
+
+241
+00:22:36,510 --> 00:22:38,510
+Okay.
+
+242
+00:22:38,510 --> 00:22:40,510
+Okay, Doktor, vielen Dank.
+
+243
+00:22:40,510 --> 00:22:42,510
+Muss ich hierbleiben?
+
+244
+00:22:42,510 --> 00:22:44,510
+Ja, Sie sollten hierbleiben.
+
+245
+00:22:44,510 --> 00:22:47,510
+Zuerst bis zu den Ergebnissen.
+
+246
+00:22:47,510 --> 00:22:50,510
+Dann sprechen wir wieder darüber.
+
+247
+00:22:50,510 --> 00:22:56,510
+Okay, ob Sie hier weiterbleiben oder nicht.
+
+248
+00:22:56,510 --> 00:23:00,510
+Okay, Herr Doktor, vielen Dank. Ich warte auf Sie.
+
+249
+00:23:00,510 --> 00:23:06,530
+Ich werde zuerst eine körperliche Untersuchung.
+
+250
+00:23:06,530 --> 00:23:10,530
+Dann Ihnen etwas Blut abnehmen.
+
+251
+00:23:10,530 --> 00:23:18,530
+Danach einen EKG schreiben, um eine Herzursache auszuschließen.
+
+252
+00:23:18,530 --> 00:23:28,530
+Anschließend werde ich einen Bauchultraschall durchführen.
+
+253
+00:23:28,530 --> 00:23:31,530
+Wissen Sie, was das ist?
+
+254
+00:23:31,530 --> 00:23:33,530
+Bauchultraschall?
+
+255
+00:23:33,530 --> 00:23:34,530
+Ja.
+
+256
+00:23:34,530 --> 00:23:36,530
+Ich weiß es nicht.
+
+257
+00:23:36,530 --> 00:23:42,530
+Okay, Herr Krasmarek, ein Ultraschall ist eine schmerzfreie und strahlenfreie Untersuchung.
+
+258
+00:23:42,530 --> 00:23:46,530
+Die etwa 15 Minuten dauert.
+
+259
+00:23:46,530 --> 00:23:55,530
+Damit können wir Ihre inneren Organen und Gefäßen gut beobachten und untersuchen.
+
+260
+00:23:55,530 --> 00:23:58,530
+Ja.
+
+261
+00:23:58,530 --> 00:24:06,530
+Danach, sobald Ihre Befunde vorliegen, besprich ich alles mit meinem Oberarzt.
+
+262
+00:24:06,530 --> 00:24:16,530
+Dann komme ich zu Ihnen zurück und erkläre Ihnen Schritt für Schritt, wie es weitergeht.
+
+263
+00:24:16,530 --> 00:24:23,530
+Ich werde sagen, ob Sie hier bleiben müssen.
+
+264
+00:24:23,530 --> 00:24:28,530
+Okay, kann ich noch einen Beatricken?
+
+265
+00:24:28,530 --> 00:24:36,530
+Natürlich nicht. Die Ursache Ihres Beschwerden ist wahrscheinlich auch Alkoholkonsum.
+
+266
+00:24:36,530 --> 00:24:46,530
+Deswegen sollten Sie mit Alkohol aufhören.
+
+267
+00:24:46,530 --> 00:24:52,530
+Ich rate ab, dass Sie Alkohol trinken.
+
+268
+00:24:52,530 --> 00:24:54,530
+Okay.
+
+269
+00:24:54,530 --> 00:24:59,280
+Trink, trink.
+
+270
+00:24:59,280 --> 00:25:02,280
+Ja, Dr. Dorn am Apparat, bitte.
+
+271
+00:25:02,280 --> 00:25:05,280
+Guten Morgen, ich bin Frau Fischer.
+
+272
+00:25:05,280 --> 00:25:13,280
+Frau Bergheim, Kaliumwert 2,58 Millimol pro Liter.
+
+273
+00:25:13,280 --> 00:25:16,280
+Könnten Sie bitte Ihren Oberarzt beobachten?
+
+274
+00:25:16,280 --> 00:25:20,280
+Entschuldigung, können Sie das wiederholen? 2,8.
+
+275
+00:25:20,280 --> 00:25:23,280
+2,58.
+
+276
+00:25:23,280 --> 00:25:27,280
+5,8, okay. Das habe ich so notiert.
+
+277
+00:25:27,280 --> 00:25:29,280
+Frau Bergheim.
+
+278
+00:25:29,280 --> 00:25:32,280
+Ja, die Name habe ich richtig.
+
+279
+00:25:32,280 --> 00:25:34,280
+Bergheim mit K.
+
+280
+00:25:34,280 --> 00:25:37,280
+Nicht Berg, okay. Wichtig zu wissen.
+
+281
+00:25:37,280 --> 00:25:41,280
+In der Mitte gibt es nicht K.
+
+282
+00:25:41,280 --> 00:25:42,280
+Okay.
+
+283
+00:25:42,280 --> 00:25:44,280
+Schönen Tag.
+
+284
+00:25:44,280 --> 00:25:50,280
+Danke für die Informationen. Ich leite es weiter. Danke.
+
+285
+00:25:50,280 --> 00:25:58,550
+Herzlich willkommen Herr Dr.
+
+286
+00:25:58,550 --> 00:26:02,550
+Hallo Frau Oberarztin.
+
+287
+00:26:02,550 --> 00:26:07,990
+Können Sie sich selbst vorstellen?
+
+288
+00:26:07,990 --> 00:26:16,990
+Ja, ich versuche. Gerne. Ich bin Dr. Dorn. Ich komme aus der Türkei.
+
+289
+00:26:16,990 --> 00:26:19,990
+Benutzen Sie nicht. Ich versuche.
+
+290
+00:26:20,990 --> 00:26:25,990
+Natürlich, ja. Ich mache gerne.
+
+291
+00:26:25,990 --> 00:26:28,990
+Was mache ich gerne?
+
+292
+00:26:28,990 --> 00:26:31,990
+Es ist besser.
+
+293
+00:26:31,990 --> 00:26:39,990
+Mein Name ist Zeytin Dorn. Ich komme aus der Türkei. Ich bin 41 Jahre alt.
+
+294
+00:26:39,990 --> 00:26:45,990
+Ich lebe seit etwas mehr zweieinhalb Jahren in Deutschland.
+
+295
+00:26:45,990 --> 00:26:53,990
+Wir leben mit meinem, wir wohnen, ich wohne mit meiner Familie, ganzen Familien zusammen.
+
+296
+00:26:53,990 --> 00:26:58,990
+Ich bin verheiratet und habe zwei Söhne.
+
+297
+00:26:58,990 --> 00:27:12,990
+Und seitdem ich nach Deutschland gekommen bin, lerne ich intensiv Deutsch.
+
+298
+00:27:12,990 --> 00:27:18,990
+Ja, und jetzt bin ich für die Prüfung hier.
+
+299
+00:27:18,990 --> 00:27:24,990
+Bis ich nach Deutschland gekommen bin, habe ich in der Türkei als Arzt gearbeitet.
+
+300
+00:27:24,990 --> 00:27:31,990
+Seit ich denke zehn Jahre lang oder mehr als zehn Jahre lang als Arzt gearbeitet.
+
+301
+00:27:31,990 --> 00:27:57,990
+Ja, ich habe als Allgemeinarzt, Familienarzt und Assistentarzt zwei Jahre lang in der Pathologie Abteilung und etwa vier Jahre lang in der Innermedizin Abteilung.
+
+302
+00:27:57,990 --> 00:28:03,990
+Ich bin in Deutschland schon Facharzt.
+
+303
+00:28:03,990 --> 00:28:10,990
+Ja, theoretisch. Ich bin nicht Facharzt.
+
+304
+00:28:10,990 --> 00:28:20,990
+Aber ich habe fast sechsjährige Weiterbildungen in verschiedenen Abteilungen gemacht.
+
+305
+00:28:20,990 --> 00:28:25,990
+Ich habe meine Weiterbildung in Innermedizin nicht abgeschlossen.
+
+306
+00:28:25,990 --> 00:28:28,990
+Nicht abgeschlossen, ja.
+
+307
+00:28:28,990 --> 00:28:47,990
+Weil ich im Jahr 2017 meine Stelle an der Universität veranlassen musste, konnte ich nicht schaffen oder meine Weiterbildung abschließen.
+
+308
+00:28:47,990 --> 00:29:00,990
+Dann habe ich als Allgemeinarzt in verschiedenen Privatkrankhäusern gearbeitet.
+
+309
+00:29:00,990 --> 00:29:18,990
+Weil die Lebensbedingungen in der Türkei schwer geworden sind, habe ich eine Entscheidung getroffen, hierher zu kommen.
+
+310
+00:29:18,990 --> 00:29:29,990
+Und jetzt bin ich hier und ich versuche ein neues Leben in Deutschland auszubauen.
+
+311
+00:29:29,990 --> 00:29:44,990
+Natürlich möchte ich in Deutschland als Arzt wieder arbeiten. Dazu bemühe ich mich immer.
+
+312
+00:29:44,990 --> 00:29:47,990
+Was haben Sie noch heute für uns?
+
+313
+00:29:47,990 --> 00:30:03,990
+Was denken Sie? Bemühe ich mich oder versuche ich mich?
+
+314
+00:30:03,990 --> 00:30:08,990
+Bemühe ist besser.
+
+315
+00:30:08,990 --> 00:30:09,990
+Versuche ich mich?
+
+316
+00:30:09,990 --> 00:30:12,990
+Ich denke nicht. Du arbeitest, du arbeitest.
+
+317
+00:30:42,990 --> 00:30:45,990
+Ich habe meinen Patienten aufgenommen.
+
+318
+00:30:45,990 --> 00:30:50,990
+Aber bevor ich meinen Patienten vorstelle, möchte ich Ihnen etwas wichtiges mitteilen.
+
+319
+00:30:50,990 --> 00:30:54,990
+Ich habe einen Anruf aus dem Labor bekommen.
+
+320
+00:30:54,990 --> 00:31:10,990
+Ich soll Ihnen sagen, dass Frau Bergheim einen Kaliumwert von 2,58 Millimol pro Liter hat.
+
+321
+00:31:10,990 --> 00:31:16,990
+Dieser Wert ist stark erniedrigt und entspricht Hypokalämie.
+
+322
+00:31:16,990 --> 00:31:19,990
+Ja, wir mögen Hypokalämie.
+
+323
+00:31:19,990 --> 00:31:22,990
+Ja, immerhin.
+
+324
+00:31:22,990 --> 00:31:26,990
+Und wir mögen auch Bergheim.
+
+325
+00:31:26,990 --> 00:31:27,990
+Bergheim.
+
+326
+00:31:27,990 --> 00:31:32,990
+Okay. Was ist die häufigste Ursache für Hypokalämie?
+
+327
+00:31:32,990 --> 00:31:48,990
+Ja, dazu gehören, ich meine die häufigsten Ursachen gehören, bei Hypokalämie erhöhte Renal Kaliumverlust.
+
+328
+00:31:48,990 --> 00:31:59,990
+Zum Beispiel durch Diuretika oder Hormonale wie Hyperoldestronismus oder Tüvulare Erkrankungen.
+
+329
+00:31:59,990 --> 00:32:14,990
+Außerdem könnten extra renale Verlust wie Durstfall, Erbeleidigung, diese können zu einer Hypokalämie führen.
+
+330
+00:32:14,990 --> 00:32:16,990
+Okay.
+
+331
+00:32:16,990 --> 00:32:19,990
+Die häufigsten Ursachen dazu.
+
+332
+00:32:19,990 --> 00:32:21,990
+Ich bin bei Hypokalämie.
+
+333
+00:32:21,990 --> 00:32:22,990
+Und?
+
+334
+00:32:22,990 --> 00:32:25,990
+Ich habe Symptome, ich bin bei Hypokalämie.
+
+335
+00:32:25,990 --> 00:32:40,990
+Ja, häufig erwarten wir dabei natürlich Muskelschwäche, Muskelkrämpfe, auch Parasithesien, Obstipation oder paralytische Ileus.
+
+336
+00:32:40,990 --> 00:32:49,990
+Und auch die gefährlichsten sind natürlich herzbetroffene Symptome der Hypokalämie.
+
+337
+00:32:49,990 --> 00:32:58,990
+Diese Herzlithmusstörungen, zum Beispiel extra systolen oder ventrikulare Tachycardin, kann ich oder würde ich sagen.
+
+338
+00:32:58,990 --> 00:33:01,990
+Oder die Pürifer, die Püriferin möchten hören.
+
+339
+00:33:01,990 --> 00:33:03,990
+Ja, wieder.
+
+340
+00:33:03,990 --> 00:33:05,990
+Kamma-Filiman.
+
+341
+00:33:05,990 --> 00:33:07,990
+Wir haben das gesagt.
+
+342
+00:33:07,990 --> 00:33:10,990
+Besonders Kamma-Filiman.
+
+343
+00:33:10,990 --> 00:33:16,990
+Wir können durch Defibrillation behandeln.
+
+344
+00:33:16,990 --> 00:33:18,990
+Das behandeln.
+
+345
+00:33:18,990 --> 00:33:20,990
+Ja.
+
+346
+00:33:20,990 --> 00:33:23,990
+Okay, was haben Sie noch heute für uns?
+
+347
+00:33:23,990 --> 00:33:25,990
+Ja, Frau Oberarztin.
+
+348
+00:33:25,990 --> 00:33:29,990
+Wie gesagt, ich habe einen neuen Patienten aufgenommen.
+
+349
+00:33:29,990 --> 00:33:34,990
+Es geht um Herrn Dieter Kaczmarek.
+
+350
+00:33:34,990 --> 00:33:42,990
+Er ist 59 Jahre alt, geboren 1.1.1962.
+
+351
+00:33:42,990 --> 00:33:52,990
+Er ist 1,83 Meter groß, wiegt 74,5 Kilo.
+
+352
+00:33:52,990 --> 00:34:09,990
+Herr Kaczmarek kam heute zu uns wegen seit drei Wochen bestehender Oberbauchschmerzen.
+
+353
+00:34:09,990 --> 00:34:19,990
+Laut Aussage des Patienten sind die Schmerzen plötzlich postprandial nach dem Versehen von...
+
+354
+00:34:19,990 --> 00:34:24,990
+Ich habe nicht gefragt.
+
+355
+00:34:24,990 --> 00:34:30,990
+Vor dem Essen aufgetreten.
+
+356
+00:34:30,990 --> 00:34:35,990
+Er berichtet, dass die Schmerzen in den Rücken ausstrahlen.
+
+357
+00:34:35,990 --> 00:34:40,990
+Nach Angaben des Patienten sind die Schmerzen kolligartig.
+
+358
+00:34:40,990 --> 00:34:47,990
+Schmerzintensität liegt bei 5 von 10 auf der NRS.
+
+359
+00:34:47,990 --> 00:34:55,990
+Außerdem erwähnt er, dass er seit drei Monaten ähnliche Beschwerden hat.
+
+360
+00:34:55,990 --> 00:35:02,990
+Die Schmerzen sind jedoch im Laufe der Zeit schlimmer geworden.
+
+361
+00:35:02,990 --> 00:35:11,990
+Begleitend klagt er über Übelkeit, Durchfall, Erbrüchen.
+
+362
+00:35:11,990 --> 00:35:17,990
+Außerdem hat er dunkle Urin und Nachtschwitzen.
+
+363
+00:35:17,990 --> 00:35:34,990
+Der Durchfall sieht hellbraun und gelernst aus.
+
+364
+00:35:35,990 --> 00:35:42,990
+Und wie gesagt ist der Urin dunkler. Bitte schön.
+
+365
+00:35:42,990 --> 00:36:00,300
+Sie können statt Schwitzen Nachtschweiß, weil der Patient gesagt hat, ich muss in der Nacht meine Kleidung wechseln.
+
+366
+00:36:00,300 --> 00:36:03,300
+Ja, das habe ich mich erinnert.
+
+367
+00:36:03,300 --> 00:36:14,300
+Was bedeutet Schmerz?
+
+368
+00:36:14,300 --> 00:36:27,300
+Das ist ein Befund der Exoklininsuffizienz der Pancreatitis.
+
+369
+00:36:27,300 --> 00:36:30,300
+Meinen Sie das?
+
+370
+00:36:30,300 --> 00:36:52,300
+Ja. Und auch vegetative Anamnese ergaben sich in Appetens eine Gewichtsabnahme von 10 kg innerhalb von ein Monaten.
+
+371
+00:36:52,300 --> 00:37:00,300
+Und die Sonne. Ansonsten ist die vegetative Anamnese unauffällig.
+
+372
+00:37:00,300 --> 00:37:07,300
+Die Allergieanamnese ist unauffällig.
+
+373
+00:37:07,300 --> 00:37:12,300
+Medikamentanamnese ist auch so.
+
+374
+00:37:12,300 --> 00:37:32,300
+Und weil der Patient seit 10 Jahren keinen Arztbesuch hat, können wir eine medizinische Vorgeschichte des Patienten.
+
+375
+00:37:32,300 --> 00:37:39,300
+Er berichtet keine chronischen Erkrankungen.
+
+376
+00:37:39,300 --> 00:38:01,300
+Beim Patienten wurde vor 30 Jahren eine Osteosentäs Operation durchgeführt.
+
+377
+00:38:01,300 --> 00:38:18,840
+Er brauchte eine Bluttransfusion.
+
+378
+00:38:18,840 --> 00:38:28,840
+Warum wurde ihm eine Osteosentäs Operation durchgeführt?
+
+379
+00:38:28,840 --> 00:38:46,840
+Wegen eines Unfalls wurde der Patient operiert.
+
+380
+00:38:46,840 --> 00:38:52,840
+Sie müssen nicht. Ich möchte nur fragen.
+
+381
+00:38:53,840 --> 00:39:00,840
+Ich muss nicht die Vorstellung, aber wenn Sie es genau wissen, dann soll ich sagen.
+
+382
+00:39:00,840 --> 00:39:06,840
+Dann bekommen Sie diese unwichtigen Fragen.
+
+383
+00:39:06,840 --> 00:39:10,840
+Das habe ich verstanden. Danke für die Informationen.
+
+384
+00:39:10,840 --> 00:39:18,840
+Bei der Noxanamnese ist bei diesem Patienten sehr wichtig.
+
+385
+00:39:18,840 --> 00:39:39,840
+Er raucht seit 47 Jahren eine Schachtel Zigaretten und er trinkt viel Alkohol.
+
+386
+00:39:39,840 --> 00:39:48,840
+Er trinkt täglich vier Flaschen Bier und zwei oder drei Schnaps.
+
+387
+00:39:48,840 --> 00:40:04,840
+Bis vor einem Jahr hat er Cannabis zwei oder drei Mal pro Woche als Joint konsumiert.
+
+388
+00:40:04,840 --> 00:40:15,840
+Die Familie Noxanamnese gab einen Kolonkarzinom bei ihrem Vater.
+
+389
+00:40:15,840 --> 00:40:20,840
+Seine Mutter ist an Hermann Temes verstorben.
+
+390
+00:40:20,840 --> 00:40:26,840
+Sozialanamnistisch ist er getrennt und lebt allein.
+
+391
+00:40:27,840 --> 00:40:36,840
+Warum konnte seine Mutter eine Hermann Temes haben?
+
+392
+00:40:36,840 --> 00:40:42,840
+Wahrscheinlich hat sie eine Oesophagusvarytsin.
+
+393
+00:40:42,840 --> 00:40:48,840
+Vielleicht wegen möglicher Leberkrankheit.
+
+394
+00:40:48,840 --> 00:40:56,840
+Leberzirrhosis oder andere Leberbetroffene.
+
+395
+00:40:56,840 --> 00:41:03,840
+Was kann die Ursache sein für diese Krankheit?
+
+396
+00:41:03,840 --> 00:41:08,840
+Die häufigste in entwickelten Ländern ist viel Alkoholkonsum.
+
+397
+00:41:15,840 --> 00:41:21,840
+Der Vater oder die Großmutter hat auch Krebs.
+
+398
+00:41:21,840 --> 00:41:25,840
+Aber das habe ich nicht genau notiert.
+
+399
+00:41:28,380 --> 00:41:37,380
+Sozialanamnistisch ist er arbeitslos getrennt und lebt allein.
+
+400
+00:41:37,380 --> 00:41:48,380
+Er hat eine Tochter, aber keine Information über den Gesundheitszustand ihrer Tochter habe ich.
+
+401
+00:41:48,380 --> 00:41:54,380
+Weil er keinen Kontakt mit ihr hat.
+
+402
+00:41:55,380 --> 00:42:20,620
+Nach dem Anamnistischen Angaben habe ich den Verdacht auf einen akuten Schub einer chronischen Pankreatitis.
+
+403
+00:42:21,620 --> 00:42:32,620
+Warum hat er einen akuten Schub einer chronischen Pankreatitis?
+
+404
+00:42:32,620 --> 00:42:44,620
+Er hat viel Alkoholkonsum und seit zehn Jahren keine Arztbesuche.
+
+405
+00:42:44,620 --> 00:42:56,620
+Er hat eine Gewichtsabnahme und in einer kurzen Zeit viel Gewichtsabnahme.
+
+406
+00:42:56,620 --> 00:43:12,620
+Alle Beschwerden oder alle Angaben sprechen dafür eine chronische Pankreatitis.
+
+407
+00:43:16,620 --> 00:43:20,620
+Seit wann hat er diese Beschwerden?
+
+408
+00:43:20,620 --> 00:43:32,620
+Seit drei Wochen hat er diese Beschwerden.
+
+409
+00:43:32,620 --> 00:43:35,620
+Am wichtigsten ist die Dauer.
+
+410
+00:43:35,620 --> 00:43:43,620
+Seit drei Monaten hat er eine Beschwerden und auch Stereotöre.
+
+411
+00:43:43,620 --> 00:43:53,620
+Wenn er in einer sehr hohen Gewichtsabnahme ist, dann sagen Sie diese Beschwerden.
+
+412
+00:43:53,620 --> 00:43:57,620
+Am wichtigsten ist die Dauer.
+
+413
+00:43:57,620 --> 00:44:03,620
+Welche Differenzialdiagnose kommen im Grunde?
+
+414
+00:44:03,620 --> 00:44:34,380
+Differenzialdiagnose, Pankreatiaskarzinom und eine Kolodekolidiasis.
+
+415
+00:44:35,380 --> 00:44:44,380
+Um meine Verdachtdiagnose zu bestätigen, muss ich natürlich zunächst körperliche Untersuchungen durchführen.
+
+416
+00:44:44,380 --> 00:44:48,380
+Anschließend werde ich Blut für das Labor abnehmen.
+
+417
+00:44:48,380 --> 00:45:01,380
+Außerdem ist es wichtig, eine KG zu schreiben, um eine mögliche Herzursache oder Herzerkrankungen auszuschließen.
+
+418
+00:45:02,380 --> 00:45:09,380
+Bei der körperlichen Untersuchung werde ich Greitörner...
+
+419
+00:45:09,380 --> 00:45:19,380
+Ich möchte diese Zeichen nicht nennen, weil ich danach Fragen bekommen habe.
+
+420
+00:45:19,380 --> 00:45:25,380
+Was erwarten Sie bei der körperlichen Untersuchung?
+
+421
+00:45:25,380 --> 00:45:29,380
+Oder voraufwarten Sie bei der körperlichen Untersuchung?
+
+422
+00:45:29,380 --> 00:45:37,380
+Wenn ich diese Frage nicht bekomme, soll ich nicht daran nennen.
+
+423
+00:45:37,380 --> 00:45:47,380
+Ich kann nicht gut ausführlich erklären, wie diese Zeichen sind oder wie es weitergeht.
+
+424
+00:45:47,380 --> 00:45:51,380
+Deswegen möchte ich sie nicht nennen.
+
+425
+00:45:51,380 --> 00:45:54,380
+Geht es auch in der Prüfung?
+
+426
+00:45:54,380 --> 00:46:08,380
+Natürlich, wenn du sehr gut wirst, musst du bei der Aufklärung nicht die Diagnostik erklären.
+
+427
+00:46:08,380 --> 00:46:14,380
+Wenn der Prüfer die Prüfer möchte, können Sie einfach fragen.
+
+428
+00:46:14,380 --> 00:46:17,380
+Ok, das habe ich verstanden.
+
+429
+00:46:17,380 --> 00:46:33,380
+Ich achte bei der körperlichen Untersuchung auf die Kühnzeichen, die Greitörner-Zeichen und auch eine globale oder eine Ikterus.
+
+430
+00:46:33,380 --> 00:46:40,380
+Ok, was bedeutet Greitörner und Kohlenseichen, Fox-Zeichen?
+
+431
+00:46:40,380 --> 00:46:51,380
+Diese Zeichen können wir besonders bei nekrotisiertem Pankratitis erwarten oder beobachten.
+
+432
+00:46:51,380 --> 00:47:07,380
+Diese Zeichen deuten auf Blutung hin, in Pankratitis.
+
+433
+00:47:07,380 --> 00:47:22,380
+Diese Zeichen sind auf die Farbveränderung.
+
+434
+00:47:22,380 --> 00:47:36,820
+Greitörner erwarten wir, die Lateral-Zeichen, Farbveränderung und andere.
+
+435
+00:47:36,820 --> 00:47:42,820
+Die Kühnzeichen sind im perimblikalen Bereich.
+
+436
+00:47:42,820 --> 00:47:46,820
+Die Fox-Zeichen sind im ingrinalen Bereich.
+
+437
+00:47:46,820 --> 00:47:53,820
+Wir erwarten diese Zeichen meistens bei nekrotisiertem Pankratitis.
+
+438
+00:47:53,820 --> 00:48:03,820
+Sie deuten auf Blutungen im Pankratitis.
+
+439
+00:48:04,820 --> 00:48:22,820
+Im Labor würde ich Blutbild, Entzündungsparameter, Lipase, Amylase und auch Blutzucker, Hemoglobin-1, Elektrolyten, Herz- und Muskel-Enzyme,
+
+440
+00:48:22,820 --> 00:48:35,820
+Nieren- und Leberwerte, Cholestalsparameter und auch Lipidprofil sowie eine Stuhldiagnostik bestimmen lassen.
+
+441
+00:48:35,820 --> 00:48:42,820
+Was kontrollieren Sie im Stuhldiagnostik?
+
+442
+00:48:42,820 --> 00:48:50,820
+Ja, L-Astaseins-Enzyme kontrolliere ich im Stuhl.
+
+443
+00:48:50,820 --> 00:48:59,820
+Als eine Zeichen für Pankratitis oder indirekte Zeichen für den Patienten Pankratitis.
+
+444
+00:48:59,820 --> 00:49:09,820
+Des Weiteren werde ich eine Sonneabdome durchführen gegeben, besonders in diesem Fall.
+
+445
+00:49:09,820 --> 00:49:21,820
+Ich werde eine Sonneabdome durchführen und gegen einen Fall eine Sonneabdome veranlassen.
+
+446
+00:49:21,820 --> 00:49:30,820
+Was zeigt das Ultraschall uns bei chronischer Pankratitis?
+
+447
+00:49:30,820 --> 00:49:31,820
+Wie bitte?
+
+448
+00:49:31,820 --> 00:49:33,820
+Was zeigt?
+
+449
+00:49:33,820 --> 00:49:43,820
+Natürlich können wir in diesem Fall eine freie Flüssigkeit und peripherale,
+
+450
+00:49:43,820 --> 00:49:48,820
+ich meine um Speiseldürse oder um Pankratitis,
+
+451
+00:49:48,820 --> 00:50:03,820
+und können wir den Bauchultraschall beobachten.
+
+452
+00:50:03,820 --> 00:50:17,820
+Wenn es eine geilen Weg betroffenen Probleme gibt, können wir auch mit Ultraschall bestimmen.
+
+453
+00:50:17,820 --> 00:50:21,820
+Ja, Sie können sagen.
+
+454
+00:50:21,820 --> 00:50:23,820
+Verkalkung?
+
+455
+00:50:23,820 --> 00:50:27,820
+Natürlich Verkalkung können wir auch bestimmen.
+
+456
+00:50:27,820 --> 00:50:29,820
+Pseudokisten oder Pseudokisten.
+
+457
+00:50:29,820 --> 00:50:31,820
+Ja, ja, ich habe vergessen.
+
+458
+00:50:31,820 --> 00:50:33,820
+Pseudokisten oder Pseudokisten.
+
+459
+00:50:33,820 --> 00:50:42,820
+Auch wie gesagt ist es sehr wichtig gegebenenfalls einen CT-Abdomen durchzuführen lassen.
+
+460
+00:50:42,820 --> 00:50:54,820
+Und natürlich werde ich zudem ein gastroenterologisches sowie ein chirurgisches Konsil anfordern.
+
+461
+00:50:54,820 --> 00:51:08,820
+Sollte sich die Verdachtsdiagnose bestätigen, würde ich diesen Patienten intensiv stationär aufnehmen.
+
+462
+00:51:08,820 --> 00:51:17,820
+Weil Pankratitis ein lebensbedrohliches Krankheit ist.
+
+463
+00:51:17,820 --> 00:51:21,820
+Besonders die akuten Schuben chronischer Pankratitis.
+
+464
+00:51:21,820 --> 00:51:31,820
+Aber natürlich möchte ich nicht die Intensivstation Kriterien sprechen.
+
+465
+00:51:31,820 --> 00:51:41,820
+Als Initialtherapie empfehle ich Intensivstationär oder Flüssigkeit zuvor.
+
+466
+00:51:41,820 --> 00:51:46,820
+Elektrolytsubstitution meine ich Infusiontherapie.
+
+467
+00:51:47,820 --> 00:51:54,820
+Gegebenenfalls Nahrungskarenz ist in solchen Patienten wichtig.
+
+468
+00:51:54,820 --> 00:52:05,820
+Aber je nachdem die Beteiligungsparameter oder Stabilität des Patienten können wir darüber entscheiden.
+
+469
+00:52:06,820 --> 00:52:14,820
+Aber Nikotin und Alkoholkarenz ist bestimmt wichtig.
+
+470
+00:52:14,820 --> 00:52:16,820
+Ganz wichtig.
+
+471
+00:52:16,820 --> 00:52:30,820
+Als symptomatische Therapie empfehle ich Antimethikum, Analgetikum und Spasmolythikum.
+
+472
+00:52:30,820 --> 00:52:34,820
+Weil gegebenenfalls Spasmolythikum.
+
+473
+00:52:34,820 --> 00:52:43,820
+Und auch aus medizinischer Sicht ist es auch wichtig gegebenenfalls ein Antibiotikum.
+
+474
+00:52:43,820 --> 00:52:49,820
+Besonders bei nekrotisierten Pankratitis.
+
+475
+00:52:49,820 --> 00:53:01,820
+Und der PPI oder Protonpomper Hämmer ist auch wichtig.
+
+476
+00:53:02,820 --> 00:53:18,820
+Darüber hinaus würde ich auch gegebenenfalls Vitaminpräparate und Enzymkonzentrat oder wie kann man sagen.
+
+477
+00:53:18,820 --> 00:53:21,820
+Ich habe vergessen.
+
+478
+00:53:22,820 --> 00:53:32,820
+Enzymkonzentrat oder Ersatzung oder Ersatztherapie können wir auch verordnen.
+
+479
+00:53:38,140 --> 00:53:45,140
+Wenn ein Patient braucht, können wir Enzym-Ersatztherapie und Vitamin.
+
+480
+00:53:45,140 --> 00:53:48,140
+Ersatztherapie, Enzym-Ersatztherapie.
+
+481
+00:53:48,140 --> 00:53:50,140
+Nicht konzentriert.
+
+482
+00:53:50,140 --> 00:53:52,140
+Ok. Vielen Dank.
+
+483
+00:53:55,140 --> 00:53:57,140
+Ich habe eine Frage.
+
+484
+00:53:57,140 --> 00:53:59,140
+Hier.
+
+485
+00:53:59,140 --> 00:54:07,140
+In diesem Fall wird es nach dem Test an der Akutpankratik ausgeführt.
+
+486
+00:54:07,140 --> 00:54:12,140
+Ist das bekannt? Oder muss man das als Akutpankratik bezeichnen?
+
+487
+00:54:13,140 --> 00:54:20,140
+Wenn das Fall so ausgeführt wird, dann muss man das als Akutpankratik bezeichnen.
+
+488
+00:54:20,140 --> 00:54:24,140
+Aber das Fall hat sich seit einem Jahr nicht so ausgeführt.
+
+489
+00:54:24,140 --> 00:54:27,140
+Vor allem seit einem Jahr.
+
+490
+00:54:27,140 --> 00:54:32,140
+Es hat sich seit drei Wochen oder drei Tagen so ausgeführt.
+
+491
+00:54:32,140 --> 00:54:34,140
+Die Zeit ist wichtig.
+
+492
+00:54:34,140 --> 00:54:39,140
+Die Zeit, die die beiden Fakten einander beitragen.
+
+493
+00:54:42,140 --> 00:54:46,140
+Die verschiedenen Spezies verändern sich auch.
+
+494
+00:54:46,140 --> 00:54:50,140
+Die sozialen Anamnestie spielen wie Papaz.
+
+495
+00:54:50,140 --> 00:54:55,140
+Oder ein Mann, der Musik allein spielt, arbeitet in Barren.
+
+496
+00:54:55,140 --> 00:54:58,140
+Das ist ein Risikofaktor.
+
+497
+00:54:58,140 --> 00:55:03,140
+Wir warten nicht auf die Akutpankratik.
+
+498
+00:55:03,140 --> 00:55:05,140
+Das wisst ihr besser.
+
+499
+00:55:05,140 --> 00:55:11,140
+Aber wenn man das als Akutpankratik bezeichnet, sagt man das in Glands.
+
+500
+00:55:11,140 --> 00:55:14,140
+Aber dann muss man das als Akutpankratik bezeichnen.
+
+501
+00:55:14,140 --> 00:55:21,140
+Wenn man die Zeit von Hapensee, Hattensee, Shonfuree bezeichnet, sagt man das als Drei Wochen.
+
+502
+00:55:21,140 --> 00:55:26,140
+Daher muss man das als Akutpankratik bezeichnen.
+
+503
+00:55:26,140 --> 00:55:29,140
+Das habe ich von Erfarung und Danish verstanden.
+
+504
+00:55:29,140 --> 00:55:34,140
+Aber wenn man schon seit drei Monaten, oder mehr, diese Schreie hat,
+
+505
+00:55:34,140 --> 00:55:37,140
+dann muss man das als heute gespielt haben.
+
+506
+00:55:37,140 --> 00:55:40,140
+Wenn ich das als Akutpankratik bezeichnen würde,
+
+507
+00:55:40,140 --> 00:55:43,140
+dann muss man das als Akutpankratik bezeichnen.
+
+508
+00:55:43,140 --> 00:55:49,140
+Was ist das Risikofaktor, dass Papaz ist?
+
+509
+00:55:49,140 --> 00:55:56,140
+Da reden sie von den religiösen Szenen.
+
+510
+00:55:56,140 --> 00:56:03,140
+Wenn man die Zeit von Hapensee, Hattensee, Shonfuree bezeichnet,
+
+511
+00:56:03,140 --> 00:56:07,140
+dann muss man das als Akutpankratik bezeichnen.
+
+512
+00:56:07,140 --> 00:56:11,140
+Das ist das, was ich in der Arbeit mache.
+
+513
+00:56:11,140 --> 00:56:15,140
+Das ist das, was ich in der Arbeit mache.
+
+514
+00:56:15,140 --> 00:56:18,140
+Wenn jemand Musik auf der Strecke spielt,
+
+515
+00:56:18,140 --> 00:56:21,140
+dann ist das das, was ich in der Arbeit mache.
+
+516
+00:56:21,140 --> 00:56:23,140
+Das ist das.
+
+517
+00:56:23,140 --> 00:56:25,140
+Ich habe das nicht gewusst.
+
+518
+00:56:25,140 --> 00:56:27,140
+Ich denke, das ist so.
+
+519
+00:56:27,140 --> 00:56:30,140
+Ich weiß nicht, ob wir das so machen.
+
+520
+00:56:31,140 --> 00:56:36,140
+Die Formen des Spiels sind so, wie es in den Noten steht.
+
+521
+00:56:36,140 --> 00:56:40,140
+Das ist nicht mein Bild, aber das, was ich einmal gesungen habe,
+
+522
+00:56:40,140 --> 00:56:43,140
+die Vakate, die Enden, die Veränderungen,
+
+523
+00:56:43,140 --> 00:56:47,140
+die Vakate sind so, wie es in den Enden gesungen ist.
+
+524
+00:56:47,140 --> 00:56:51,140
+Ich habe das vor einigen Jahren gehört,
+
+525
+00:56:51,140 --> 00:56:56,140
+dass das Akutpankratik nicht so ist,
+
+526
+00:56:56,140 --> 00:57:00,140
+wie es in den Enden gesungen ist.
+
+527
+00:57:00,140 --> 00:57:02,140
+Danke, Herr Hache.
+
+528
+00:57:02,140 --> 00:57:04,140
+Das ist so.
+
+529
+00:57:04,140 --> 00:57:08,140
+Aber es ist nicht so, dass es seit einem Jahr nicht sein wird.
+
+530
+00:57:08,140 --> 00:57:12,140
+Es ist nicht so, dass es seit einem Jahr nicht sein wird.
+
+531
+00:57:12,140 --> 00:57:14,140
+Das ist so.
+
+532
+00:57:14,140 --> 00:57:16,140
+Das ist so.
+
+533
+00:57:16,140 --> 00:57:18,140
+Das ist so.
+
+534
+00:57:18,140 --> 00:57:21,140
+Aber es ist nicht so, dass es nicht sein wird.
+
+535
+00:57:21,140 --> 00:57:23,140
+Das Beste ist die Zeit.
+
+536
+00:57:54,140 --> 00:57:57,140
+Ich kann dir noch eine Frage stellen.
+
+537
+00:57:57,140 --> 00:57:59,140
+Ja, bitte.
+
+538
+00:57:59,140 --> 00:58:01,140
+Ich wollte eine Testkarte.
+
+539
+00:58:01,140 --> 00:58:04,140
+Ich war 26 Jahre alt, aber ich war nicht zurück.
+
+540
+00:58:04,140 --> 00:58:06,140
+Ich wollte noch eine.
+
+541
+00:58:06,140 --> 00:58:08,140
+Ich war noch nicht zurück.
+
+542
+00:58:08,140 --> 00:58:12,140
+Ich wollte eine Testkarte seit 15 Mai.
+
+543
+00:58:12,140 --> 00:58:15,140
+Vielleicht 15, 20 oder 1 Jahr später.
+
+544
+00:58:15,140 --> 00:58:17,140
+Vielleicht 15. Mai.
+
+545
+00:58:17,140 --> 00:58:19,140
+Deswegen bin ich in Mahataya.
+
+546
+00:58:19,140 --> 00:58:23,140
+Ich möchte eine Simulation machen.
+
+547
+00:58:23,140 --> 00:58:25,140
+Oder ich kann noch etwas warten.
+
+548
+00:58:25,140 --> 00:58:27,140
+Ich muss die Anzeige anstecken.
+
+549
+00:58:27,140 --> 00:58:29,140
+Oder ich kann noch eine.
+
+550
+00:58:29,140 --> 00:58:32,140
+Es ist gut, wenn du früh anfängst.
+
+551
+00:58:32,140 --> 00:58:35,140
+Es ist nicht genug, nur eine Simulation zu machen.
+
+552
+00:58:35,140 --> 00:58:37,140
+Du musst eine Simulation-Frau finden.
+
+553
+00:58:37,140 --> 00:58:39,140
+Wir haben es auch mit den Kollegen gesagt.
+
+554
+00:58:39,140 --> 00:58:41,140
+Sie versuchen es auch in sich.
+
+555
+00:58:41,140 --> 00:58:44,140
+Sie machen es hier und dann geht es weiter.
+
+556
+00:58:44,140 --> 00:58:47,140
+Ich bin ein Japaner Freund.
+
+557
+00:58:47,140 --> 00:58:49,140
+Wir arbeiten jetzt.
+
+558
+00:58:49,140 --> 00:58:52,140
+Wir werden die Probe in 10 Tagen machen.
+
+559
+00:58:52,140 --> 00:58:55,140
+Es wird in 10, 15, 16 Stunden fertig.
+
+560
+00:58:55,140 --> 00:58:57,140
+Das ist das Beste.
+
+561
+00:58:57,140 --> 00:58:59,140
+Die Simulationen?
+
+562
+00:58:59,140 --> 00:59:00,140
+Ja.
+
+563
+00:59:00,140 --> 00:59:03,140
+Je früher du anfängst, desto besser.
+
+564
+00:59:03,140 --> 00:59:05,140
+Ja, danke.
+
+565
+00:59:05,140 --> 00:59:07,140
+Du kannst auch früh anfangen.
+
+566
+00:59:07,140 --> 00:59:09,140
+Du kannst dich besser fühlen.
+
+567
+00:59:09,140 --> 00:59:12,140
+Du kannst dich früher wieder erlauben.
+
+568
+00:59:12,140 --> 00:59:14,140
+Das ist gut.
+
+569
+00:59:14,140 --> 00:59:16,140
+Du kannst dich besser fühlen.
+
+570
+00:59:16,140 --> 00:59:18,140
+Das ist gut.
+
+571
+00:59:18,140 --> 00:59:22,140
+Du kannst auch die Simulationen in den Gruppen schreiben.
+
+572
+00:59:22,140 --> 00:59:27,140
+Die Simulationen machen die Anzeige.
+
+573
+00:59:27,140 --> 00:59:29,140
+Danke.
+
+574
+00:59:31,140 --> 00:59:33,140
+Es sieht nicht aus.
+
+575
+00:59:33,140 --> 00:59:37,140
+Ich kann meine Erfahrung über diese Begriffe
+
+576
+00:59:37,140 --> 00:59:39,140
+in meinem eigenen Arbeitsverfahren erzählen.
+
+577
+00:59:39,140 --> 00:59:42,140
+Ich habe gesagt, dass ich in Düsseldorf
+
+578
+00:59:42,140 --> 00:59:45,140
+in der Zeit von 5-6 Jahren eine solche Begriffe hatte.
+
+579
+00:59:45,140 --> 00:59:47,140
+Alle erinnern sich an sich.
+
+580
+00:59:47,140 --> 00:59:49,140
+Es gibt keine Anzeige.
+
+581
+00:59:49,140 --> 00:59:51,140
+Die Begriffe sind alle gleich.
+
+582
+00:59:51,140 --> 00:59:54,140
+Es kommt mit dem Schmerz.
+
+583
+00:59:54,140 --> 00:59:56,140
+Wenn es mit dem Schmerz kommt,
+
+584
+00:59:56,140 --> 00:59:58,140
+dann ist es wie immer.
+
+585
+00:59:58,140 --> 01:00:00,140
+Wir finden die Begriffe.
+
+586
+01:00:00,140 --> 01:00:03,140
+Wir finden die Begriffe.
+
+587
+01:00:03,140 --> 01:00:05,140
+Wir finden die Begriffe.
+
+588
+01:00:05,140 --> 01:00:07,140
+Wir finden die Begriffe.
+
+589
+01:00:07,140 --> 01:00:09,140
+Wir finden die Begriffe.
+
+590
+01:02:09,140 --> 01:02:11,140
+Das Gastrointestinal System.
+
+591
+01:02:11,140 --> 01:02:14,140
+Wir haben schon bestimmte Fragen.
+
+592
+01:02:14,140 --> 01:02:17,140
+Übelkeit, Erbrechen, Stürgank,
+
+593
+01:02:17,140 --> 01:02:19,140
+Wasalasen-Sorgen.
+
+594
+01:02:19,140 --> 01:02:21,140
+Wenn es um diese Fragen geht,
+
+595
+01:02:21,140 --> 01:02:23,140
+dann bezeichnet man sie.
+
+596
+01:02:23,140 --> 01:02:25,140
+Wenn es um Kustum geht,
+
+597
+01:02:25,140 --> 01:02:27,140
+dann bezeichnet man es.
+
+598
+01:02:27,140 --> 01:02:29,140
+Wenn es um Stürgank geht,
+
+599
+01:02:29,140 --> 01:02:31,140
+dann bezeichnet man es.
+
+600
+01:02:31,140 --> 01:02:33,140
+Wenn es um Stürgank geht,
+
+601
+01:02:33,140 --> 01:02:35,140
+dann bezeichnet man es.
+
+602
+01:02:35,140 --> 01:02:37,140
+Wenn es um Stürgank geht,
+
+603
+01:02:37,140 --> 01:02:39,140
+dann bezeichnet man es.
+
+604
+01:02:49,140 --> 01:02:52,140
+Wenn es um Stürgank geht,
+
+605
+01:02:52,140 --> 01:02:54,140
+dann bezeichnet man es.
+
+606
+01:02:57,140 --> 01:02:59,140
+Wenn es umiefen geht,
+
+607
+01:02:59,140 --> 01:03:01,140
+dann bezeichnet man es.
+
+608
+01:03:01,140 --> 01:03:03,140
+Wenn es umcro溉 geht,
+
+609
+01:03:03,140 --> 01:03:05,140
+dann bezeichnet man es.
+
+610
+01:04:05,140 --> 01:04:10,140
+Fibers, Stülpfros, Nahrschweiß, Kaisersweiß, Ausbrühe,
+
+611
+01:04:10,140 --> 01:04:12,140
+wenn wir über die Vakadevenamnese gehen,
+
+612
+01:04:12,140 --> 01:04:16,140
+Inapathens, Gewichtferanderung, Schlagstörungen,
+
+613
+01:04:16,140 --> 01:04:21,140
+Herz- und Lungengel,
+
+614
+01:04:21,140 --> 01:04:24,140
+wir haben die Zygason-Entestnassistin schon gefragt,
+
+615
+01:04:24,140 --> 01:04:26,140
+so ist das alles fertig.
+
+616
+01:04:26,140 --> 01:04:28,140
+Dann,
+
+617
+01:04:28,140 --> 01:04:33,140
+In den weiteren Fragen der Patientin
+
+618
+01:04:33,140 --> 01:04:35,140
+gibt es keine speziellen Fragen,
+
+619
+01:04:35,140 --> 01:04:36,140
+die immer klassisch sind,
+
+620
+01:04:36,140 --> 01:04:38,140
+aber es gibt sehr viele Reaktionen,
+
+621
+01:04:38,140 --> 01:04:40,140
+da können wir darüber sprechen.
+
+622
+01:04:40,140 --> 01:04:44,140
+Ich erinnere mich nicht an andere spezielle Fragen.
+
+623
+01:04:44,140 --> 01:04:47,140
+In den Reaktionen,
+
+624
+01:04:47,140 --> 01:04:50,140
+am Anfang sagt er schon, dass er es gegeben hat,
+
+625
+01:04:50,140 --> 01:04:53,140
+warum du es wieder fragst,
+
+626
+01:04:53,140 --> 01:04:57,140
+wie Ekrem abe so eine Reaktion gemacht hat,
+
+627
+01:04:57,140 --> 01:05:05,140
+diese Fragen sind für mich sehr wichtig,
+
+628
+01:05:05,140 --> 01:05:09,140
+damit sie mit anderen Patienten
+
+629
+01:05:09,140 --> 01:05:12,140
+mit gleichem Namen und gleichem Alter
+
+630
+01:05:12,140 --> 01:05:14,140
+nicht verwechseln,
+
+631
+01:05:14,140 --> 01:05:17,140
+die du sagen kannst,
+
+632
+01:05:17,140 --> 01:05:20,140
+um andere Patienten mit dem selben Alter
+
+633
+01:05:20,140 --> 01:05:22,140
+und dem selben Namen nicht zu verbrechen.
+
+634
+01:05:22,140 --> 01:05:25,140
+Und du sagst, dass diese Fragen wichtig sind für mich.
+
+635
+01:05:25,140 --> 01:05:27,140
+Und dann,
+
+636
+01:05:27,140 --> 01:05:35,140
+ich bin seit Jahren nicht mehr in die Hausarztin
+
+637
+01:05:35,140 --> 01:05:39,140
+und es ist gut zu hören,
+
+638
+01:05:39,140 --> 01:05:42,140
+dass sie gesund sind,
+
+639
+01:05:42,140 --> 01:05:47,140
+aber trotzdem sollen sie regelmäßig
+
+640
+01:05:47,140 --> 01:05:49,140
+ihre Hausarztin besuchen,
+
+641
+01:05:49,140 --> 01:05:52,140
+damit manche Krankheiten
+
+642
+01:05:52,140 --> 01:05:56,140
+und Zufrühe erkannt werden kann.
+
+643
+01:05:56,140 --> 01:06:01,140
+Es ist gut, dass sie gesund sind.
+
+644
+01:06:01,140 --> 01:06:03,140
+Es ist wichtig,
+
+645
+01:06:03,140 --> 01:06:06,140
+dass sie zuerst so empathisch sind.
+
+646
+01:06:06,140 --> 01:06:08,140
+Aber es ist wichtig,
+
+647
+01:06:08,140 --> 01:06:13,140
+dass sie regelmäßig ihre Hausarztin besuchen,
+
+648
+01:06:13,140 --> 01:06:18,140
+damit man sie früh erkennt.
+
+649
+01:06:18,140 --> 01:06:21,140
+Hier habe ich so etwas gesagt.
+
+650
+01:06:21,140 --> 01:06:23,140
+Dann,
+
+651
+01:06:23,140 --> 01:06:26,140
+wenn du die Patienten mit dem selben Alter
+
+652
+01:06:26,140 --> 01:06:29,140
+mit der Krankheit beantwortest,
+
+653
+01:06:29,140 --> 01:06:31,140
+dann ist es nicht so,
+
+654
+01:06:31,140 --> 01:06:34,140
+dass du sie mit dem selben Alter
+
+655
+01:06:34,140 --> 01:06:37,140
+mit der Krankheit besuchen kannst.
+
+656
+01:06:37,140 --> 01:06:39,140
+Das ist nicht so.
+
+657
+01:06:39,140 --> 01:06:42,140
+Ich habe ein bisschen mit dem selben Alter
+
+658
+01:06:42,140 --> 01:06:45,140
+mit der Krankheit verbreitet.
+
+659
+01:06:45,140 --> 01:06:47,140
+Ich habe es dann auch gemerkt,
+
+660
+01:06:47,140 --> 01:06:49,140
+dass ich mit dem selben Alter
+
+661
+01:06:49,140 --> 01:06:51,140
+mit der Krankheit be barbecue.
+
+662
+01:06:51,140 --> 01:06:53,140
+Er Half-Heft- hat mich get progressed,
+
+663
+01:06:53,140 --> 01:06:56,140
+deutي eigentlich wohl aufs Kšt.
+
+664
+01:06:56,140 --> 01:07:01,140
+Wir filmen die Patienten nicht so ist
+
+665
+01:07:01,140 --> 01:07:04,140
+ITEn wir sie mit den Patienten umliegen.
+
+666
+01:07:04,140 --> 01:07:06,140
+Wir sagen dann, sie tilesämten doesnh smiles.
+
+667
+01:07:06,140 --> 01:07:08,140
+Wir sagen, sie tageln rein.
+
+668
+01:07:08,140 --> 01:07:10,140
+Duonten L keine lüge.
+
+669
+01:07:10,140 --> 01:07:12,140
+Ich sage dann, sie tagen veel.
+
+670
+01:07:12,140 --> 01:07:14,140
+Daher diesen Witz learnen,
+
+671
+01:07:14,140 --> 01:07:15,140
+dasnehme ich bei.
+
+672
+01:07:15,140 --> 01:07:17,140
+Dabei gibt es sonst noch immer
+
+673
+01:07:17,140 --> 01:07:19,140
+Es ist nicht so, dass man alles so machen kann.
+
+674
+01:07:19,140 --> 01:07:22,140
+Wenn so ein Arzt kommt, dann sollte man nicht alles so machen.
+
+675
+01:07:22,140 --> 01:07:24,140
+Das ist nicht so schön.
+
+676
+01:07:24,140 --> 01:07:27,140
+Da haben wir schon gesagt,
+
+677
+01:07:27,140 --> 01:07:29,140
+Schnapp ist ein Medikament.
+
+678
+01:07:29,140 --> 01:07:31,140
+Da können wir das hier fragen.
+
+679
+01:07:31,140 --> 01:07:34,140
+Er sagt, dass er Alkohol trinkt und das als Medikament nutzt.
+
+680
+01:07:34,140 --> 01:07:37,140
+Denkt euch mal, dass er viel nutzt.
+
+681
+01:07:37,140 --> 01:07:39,140
+Es ist eine Reaktion, zu fragen.
+
+682
+01:07:39,140 --> 01:07:42,140
+Und dann können wir hier die Alkohol-Anamnesen nehmen.
+
+683
+01:07:42,140 --> 01:07:44,140
+Es ist kein Problem.
+
+684
+01:07:44,140 --> 01:07:46,140
+Ich denke, es ist sehr schön, hier zu machen.
+
+685
+01:07:46,140 --> 01:07:49,140
+Wir können hier fragen, wie viel Schnapp trinkt.
+
+686
+01:07:49,140 --> 01:07:56,140
+Trinken sie auf andere Alkohol-Anhalte,
+
+687
+01:07:56,140 --> 01:07:58,140
+die wir hier haben.
+
+688
+01:07:58,140 --> 01:08:01,140
+Dann können wir sagen,
+
+689
+01:08:01,140 --> 01:08:03,140
+dass es aus Medizin herrscht,
+
+690
+01:08:03,140 --> 01:08:06,140
+dass der Alkohol-Konsum so viel ist.
+
+691
+01:08:06,140 --> 01:08:12,140
+Und dieser Alkohol-Konsum kann die Ursache
+
+692
+01:08:12,140 --> 01:08:14,140
+in der Hand nehmen.
+
+693
+01:08:14,140 --> 01:08:17,140
+Das ist ein Versuch, mit dem Alkohol aufzuhören.
+
+694
+01:08:17,140 --> 01:08:19,140
+Es geht darum, zu sagen,
+
+695
+01:08:19,140 --> 01:08:21,140
+dass das nicht endet, das ist meine Leben,
+
+696
+01:08:21,140 --> 01:08:23,140
+das ich das verletze.
+
+697
+01:08:23,140 --> 01:08:26,140
+Das ist ein Versuch, das nicht endet.
+
+698
+01:08:26,140 --> 01:08:28,140
+Das kann man hier sagen.
+
+699
+01:08:28,140 --> 01:08:30,140
+Das kann man hier sagen.
+
+700
+01:08:30,140 --> 01:08:32,140
+Das kann man hier sagen,
+
+701
+01:08:32,140 --> 01:08:35,140
+wenn man als Medikament sagt.
+
+702
+01:08:35,140 --> 01:08:37,140
+Dann kann man sagen,
+
+703
+01:08:37,140 --> 01:08:39,140
+wenn man eine Allergie fragt,
+
+704
+01:08:39,140 --> 01:08:41,140
+dass man eine Allergie hat,
+
+705
+01:08:41,140 --> 01:08:44,140
+dann muss man nicht so viele Reaktionen
+
+706
+01:08:44,140 --> 01:08:47,140
+vergeben, wie man es hier sieht.
+
+707
+01:08:47,140 --> 01:08:50,140
+Die Ausführungen in der Hand sind eine Reaktion.
+
+708
+01:08:50,140 --> 01:08:52,140
+Die, die man versteht,
+
+709
+01:08:52,140 --> 01:08:55,140
+die die Anleitung der Stimme nicht beachten.
+
+710
+01:08:55,140 --> 01:08:57,140
+Die Anleitung in der Hand,
+
+711
+01:08:57,140 --> 01:08:59,140
+die Gesture, die Mimie.
+
+712
+01:08:59,140 --> 01:09:01,140
+Es gibt keine Allergie.
+
+713
+01:09:01,140 --> 01:09:04,140
+Das ist genug zu sagen.
+
+714
+01:09:04,140 --> 01:09:07,140
+Aber meine Freunde sagen,
+
+715
+01:09:07,140 --> 01:09:09,140
+dass ich so und so bin.
+
+716
+01:09:09,140 --> 01:09:13,140
+Wahrscheinlich bin ich wegen des Alkoholkonsums.
+
+717
+01:09:17,140 --> 01:09:20,140
+Ich trinke nicht so viel.
+
+718
+01:09:20,140 --> 01:09:22,140
+Das ist professionell,
+
+719
+01:09:22,140 --> 01:09:24,140
+so ist es professionell.
+
+720
+01:09:24,140 --> 01:09:26,140
+Wenn man das direkt aus der Stimme sagt,
+
+721
+01:09:26,140 --> 01:09:29,140
+dann ist es besser, das zu beachten.
+
+722
+01:09:29,140 --> 01:09:32,140
+Wie normal es ist,
+
+723
+01:09:32,140 --> 01:09:34,140
+dann ist es gut.
+
+724
+01:09:34,140 --> 01:09:37,140
+Ich kann es mir spontan sagen,
+
+725
+01:09:37,140 --> 01:09:39,140
+dass es mir einfacher ist.
+
+726
+01:09:39,140 --> 01:09:41,140
+Wenn ich mir die Schrift vorstelle,
+
+727
+01:09:41,140 --> 01:09:43,140
+dann ist es langsam.
+
+728
+01:09:43,140 --> 01:09:45,140
+Ich habe es gesagt,
+
+729
+01:09:45,140 --> 01:09:48,140
+dass ich eine andere Medikamente habe.
+
+730
+01:09:48,140 --> 01:09:50,140
+Das ist ein Scherz.
+
+731
+01:09:50,140 --> 01:09:52,140
+Ist das so?
+
+732
+01:09:52,140 --> 01:09:54,140
+Ist das so?
+
+733
+01:09:54,140 --> 01:09:57,140
+Ist es eine andere Medikament, als Schnapps?
+
+734
+01:09:57,140 --> 01:10:00,140
+Ich habe mich ein bisschen gefühlt.
+
+735
+01:10:00,140 --> 01:10:02,140
+Das ist nicht wichtig.
+
+736
+01:10:02,140 --> 01:10:05,140
+Wenn man sieht, dass es eine Schnapps ist,
+
+737
+01:10:05,140 --> 01:10:07,140
+dann ist es kein Problem.
+
+738
+01:10:07,140 --> 01:10:09,140
+Das ist nicht so.
+
+739
+01:10:09,140 --> 01:10:13,140
+Man kann es sich so fragen.
+
+740
+01:10:13,140 --> 01:10:16,140
+Das ist kein Problem.
+
+741
+01:10:16,140 --> 01:10:19,140
+Wenn man sich mit dem Schnapps aus der Stimme
+
+742
+01:10:19,140 --> 01:10:21,140
+verabschiedet,
+
+743
+01:10:21,140 --> 01:10:23,140
+dann kann es so sein.
+
+744
+01:10:23,140 --> 01:10:25,140
+Es kann auch ein Problem sein.
+
+745
+01:10:28,140 --> 01:10:30,140
+So ist es mit der Allergie.
+
+746
+01:10:32,140 --> 01:10:34,140
+Sie haben recht.
+
+747
+01:10:34,140 --> 01:10:37,140
+Ich habe viele Fragen gestellt.
+
+748
+01:10:37,140 --> 01:10:40,140
+Aber das ist nicht wichtig für mich.
+
+749
+01:10:40,140 --> 01:10:43,140
+Ich muss die Patienten verantworten.
+
+750
+01:10:43,140 --> 01:10:46,140
+Wir fragen uns viele Fragen.
+
+751
+01:10:46,140 --> 01:10:49,140
+Man wird immer aufgeregt.
+
+752
+01:10:49,140 --> 01:10:52,140
+Man hat viele Fragen.
+
+753
+01:10:52,140 --> 01:10:55,140
+Man hat viele Fragen.
+
+754
+01:10:55,140 --> 01:10:58,140
+Man hat viele Fragen.
+
+755
+01:10:58,140 --> 01:11:01,140
+Man hat viele Fragen.
+
+756
+01:11:01,140 --> 01:11:05,140
+Too much Simulation.
+
+757
+01:11:05,140 --> 01:11:09,140
+Was ist ein Schnapps?
+
+758
+01:11:09,140 --> 01:11:13,140
+Das ist ein Schnapps.
+
+759
+01:11:13,140 --> 01:11:16,140
+Wir sein nicht Totes zwei,
+
+760
+01:11:16,140 --> 01:11:19,140
+indem wir regeln.
+
+761
+01:11:19,140 --> 01:11:22,140
+Wir machen eineushiable Führung.
+
+762
+01:11:22,140 --> 01:11:25,140
+in der Begegnung.
+
+763
+01:11:25,140 --> 01:11:30,140
+Ich will đi magnesium mit!
+
+764
+01:13:02,380 --> 01:13:06,380
+Das ist nachvollziehend?
+
+765
+01:13:06,380 --> 01:13:10,380
+Ja, ich kann iransch gut nachvollziehend.
+
+766
+01:13:10,380 --> 01:13:14,380
+Okay.
+
+767
+01:13:14,380 --> 01:13:20,380
+Ich fühle mich wirklich von meinem Herzen.
+
+768
+01:13:20,380 --> 01:13:24,380
+Das ist nicht eine sehr nette Bezeichnung.
+
+769
+01:13:24,380 --> 01:13:28,380
+Ich hatte das Gefühl, dass ich das nicht richtig verstehe.
+
+770
+01:13:28,380 --> 01:13:36,380
+Es ist wichtig, dass man die Bezeichnung immer wieder vermittelt.
+
+771
+01:13:36,380 --> 01:13:40,380
+Das ist wichtig.
+
+772
+01:13:40,380 --> 01:13:44,380
+Das ist verständlich.
+
+773
+01:13:44,380 --> 01:13:48,380
+Ich kann sehr gut nachvollziehend.
+
+774
+01:13:48,380 --> 01:13:52,380
+Das ist ein bisschen so.
+
+775
+01:13:52,380 --> 01:13:58,380
+Das ist wichtig, wenn man ein paar verschiedene Bezeichnungen hat.
+
+776
+01:13:58,380 --> 01:14:02,380
+Man muss es vielleicht ein paar Mal sagen.
+
+777
+01:14:02,380 --> 01:14:06,380
+Das kann man gut bezeichnen.
+
+778
+01:14:06,380 --> 01:14:10,380
+Wie mein Herr Cetin sagte.
+
+779
+01:14:10,380 --> 01:14:14,380
+Ich bin hier zu dem Patienten.
+
+780
+01:14:14,380 --> 01:14:20,380
+Ich habe in der Zeitung von Tainz-Zwei eine chronische Pankreatitis.
+
+781
+01:14:20,380 --> 01:14:26,380
+Ich möchte eine Differenz von Pankreatik und Cholidokalitias.
+
+782
+01:14:26,380 --> 01:14:32,380
+Ich werde die Versuchung weiterentwickeln.
+
+783
+01:14:32,380 --> 01:14:36,380
+Ich werde die Körperversuchung vornehmen.
+
+784
+01:14:36,380 --> 01:14:40,380
+Ich werde die Dividalparameter überprüfen und Blutfüder abnehmen.
+
+785
+01:14:40,380 --> 01:14:44,380
+Ich werde die Blutbild- und Tündungparameter überprüfen.
+
+786
+01:14:44,380 --> 01:14:54,380
+Ich werde die Nieren, die Elektronik, die Amylase, die Lipase, die Cholestase.
+
+787
+01:14:54,380 --> 01:15:02,380
+Ich werde die Stülldiagnostik, besonders die Stüll-Elastase 1, überprüfen.
+
+788
+01:15:02,380 --> 01:15:06,380
+Ich werde die Übungsstatus überprüfen.
+
+789
+01:15:06,380 --> 01:15:18,380
+Ich werde die Abdomen-Synographie, die Übungsstatus und die Stülldiagnostik überprüfen.
+
+790
+01:15:18,380 --> 01:15:24,380
+Ich werde die Abdomen-Thomographie überprüfen.
+
+791
+01:15:24,380 --> 01:15:30,380
+Ich werde eine Konsul-Innteilung für Gastroenterologie, gegebenenfalls Chirurgie, anfordern.
+
+792
+01:15:30,380 --> 01:15:34,380
+Sollte sich meine Verdacht-Diagnose bestätigen.
+
+793
+01:15:34,380 --> 01:15:39,380
+Ich werde die Patienten stationär aufnehmen.
+
+794
+01:15:39,380 --> 01:15:56,380
+Die Patienten sollen eine Flüssigkeit zuführen, eine Elektrolitsubstation und als Symptomatik wie Analgetik, Antiemetik, Spasmalität, Protonpompehemma erhalten.
+
+795
+01:15:56,380 --> 01:16:02,380
+Und Leichkosten wird entfohlen.
+
+796
+01:16:02,380 --> 01:16:08,380
+Im Moment ist es immer nur Narungs-Karantäne, wenn man Pankreas-Karantäne hat.
+
+797
+01:16:08,380 --> 01:16:15,380
+Aber wenn man in einer sehr schweren Situation ist, wenn man in eine Situation ist, dass man nicht in die Zürich-Karantäne geht,
+
+798
+01:16:15,380 --> 01:16:18,380
+ist das so, dass man Pankreas-Karantäne aufnehmen kann.
+
+799
+01:16:18,380 --> 01:16:24,380
+Aber in der letzten Zeit war es nur Narungs-Karantäne, um eine leichtere Diät zu machen.
+
+800
+01:16:24,380 --> 01:16:28,380
+Aber es wurde so, dass man nicht auf die Oral-Besetzung geht.
+
+801
+01:16:28,380 --> 01:16:36,380
+Leichtkosten, also ein leichtes Öhen wird entfohlen oder verordnet.
+
+802
+01:16:36,380 --> 01:16:40,380
+Das wird dann ausgeführt.
+
+803
+01:17:17,450 --> 01:17:30,920
+Ich kann nach Folgenden nicht so genannt werden.
+
+804
+01:17:30,920 --> 01:17:38,920
+Ich kann nach Folgenden nicht so genannt werden.
+
+805
+01:17:38,920 --> 01:17:42,920
+Es wird nur für Situationen genannt.
+
+806
+01:17:42,920 --> 01:17:47,920
+Man kann nicht so genannt werden, wie man sich an den Ferschlägen erkennt.
+
+807
+01:17:47,920 --> 01:17:55,920
+Man kann nicht so genannt werden, wie man sich an den Ferschlägen erkennt.
+
+808
+01:17:55,920 --> 01:18:04,920
+Ich kann nicht so genannt werden, wie man sich an den Ferschlägen erkennt.
+
+809
+01:18:04,920 --> 01:18:09,650
+Ich kann nicht so genannt werden, wie man sich an den Ferschlägen erkennt.
+
+810
+01:18:09,650 --> 01:18:11,650
+Ich möchte noch etwas fragen.
+
+811
+01:18:11,650 --> 01:18:15,650
+Wie lange ist Nesiba-Hilfe?

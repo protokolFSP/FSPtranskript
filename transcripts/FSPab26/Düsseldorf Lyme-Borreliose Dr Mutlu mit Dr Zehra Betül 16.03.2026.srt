@@ -1,0 +1,791 @@
+1
+00:00:00,000 --> 00:00:17,000
+Ja. Okay. Hallo, schönen guten Tag. Ich bin Frau Schachin. Ich bin auf dieser Station als Assistenzärztin tätig und ich würde gerne mit Ihnen das Aufnahmegespräch führen.
+
+2
+00:00:17,000 --> 00:00:25,000
+Falls Sie Fragen haben, können Sie mich jederzeit unterbrechen. Sind Sie am Teil verstanden? Ja.
+
+3
+00:00:25,000 --> 00:00:38,250
+Zunächst benötige ich Ihre persönliche Daten. Wie heißen Sie? Ich bin Maya Gork. Okay. Können Sie es kurz buchstabieren?
+
+4
+00:00:38,250 --> 00:01:03,250
+Okay. M-A-I-R. Und mein Name ist G-E-O-R-G. Okay. Herr Gork, denke ich, ist ein Mann. Ja. Wie alt sind Sie? Ich bin 34 Jahre alt.
+
+5
+00:01:03,250 --> 00:01:18,980
+Wie ist Ihre Geburtstatue? Meine Geburtstatue ist 17. April 92. Wie groß sind Sie und wie viel wiegen Sie, Herr Gork?
+
+6
+00:01:18,980 --> 00:01:38,980
+Okay. Ich bin 1 Meter 80 groß und ich wiege 68 Kilo. Wie heißt Ihre Hausarzt bzw. Arztin? Herr Groner.
+
+7
+00:01:39,980 --> 00:01:58,980
+Was führt Sie heute zu uns, Herr Gork? Herr Gork? Okay. Frau Doktor, ich habe seit 4 Tagen einen Flecken in meinem Bein.
+
+8
+00:01:58,980 --> 00:02:24,980
+Was haben Sie? Flecken. Okay. Und jeden Tag ist das ein bisschen vergrößert. Ja. Zudem habe ich Fieberfraudung durch.
+
+9
+00:02:24,980 --> 00:02:44,650
+Seit wann haben Sie Fieber? Seit 4 Tagen? Ja, genau. Seit 4 Tagen. Haben Sie es gemessen? Ja, ich habe es gemessen. Das ist 38 Grad Celsius.
+
+10
+00:02:45,650 --> 00:03:00,650
+38 Grad seit 4 Tagen. Haben Sie schon etwas dagegen eingenommen? Ja, ich habe ein paar Mal Epiprostamol eingenommen. Das hilft mir ein bisschen.
+
+11
+00:03:01,650 --> 00:03:23,640
+Okay. Wann haben Sie am letzten Mal eingenommen? Gestern. Okay. Also haben Sie nur eine Flecken oder viele Flecken bemerkt?
+
+12
+00:03:23,640 --> 00:03:38,640
+Ich habe nur eine gesehen. Wo liegt es? Ganz genau. Sie haben nur Bein gesagt. Aber welche Beine? Unterschenkel? Oberschenkel? Hinten? Vorne?
+
+13
+00:03:38,640 --> 00:03:55,640
+Ja, das liegt an meinem linken Unterschenkel. Am linken Unterschenkel. Okay. Es vergrößert sich seit 4 Tagen.
+
+14
+00:03:55,640 --> 00:04:10,640
+Okay. Haben Sie irgendwelche Hautveränderungen bemerkt? Rötung? Oder Gläserrötung? Glückreiz? Haarauffall?
+
+15
+00:04:10,640 --> 00:04:44,970
+Ich habe keine Glückreiz oder Schmerzen. Aber das ist ein bisschen am Rand rot. Es ist dunkelrot am Rand. Ja, genau. Und in der Mitte? In der Mitte ein heller Rötung.
+
+16
+00:04:44,970 --> 00:05:06,970
+Okay. Am Rand ist es rot und in der Mitte ist es heller. Ja, genau. Heller rot. Okay. Sie haben schon gesagt, dass Sie keine Schmerzen haben. Fühlen Sie an der betroffenen Seite Krippen oder Talpe-Gefühle? Nein, nein.
+
+17
+00:05:06,970 --> 00:05:25,460
+Seit 4 Tagen haben Sie diese Flecke. Gibt es eine bestimmte Auslöser? Also kann es sein, dass Sie von einem Insekt gestochen sind?
+
+18
+00:05:25,460 --> 00:05:49,460
+Ja, Frau Doktor. Allerdings habe ich erst mal vor 2 Wochen bemerkt, damals war ich im Wald. Ich habe eine Wanderung gemacht. Aber damals habe ich nur eine kleine Rötung gesehen.
+
+19
+00:05:49,460 --> 00:06:17,460
+Ich habe nicht gesehen eines Insektes oder anderen Flecken. Okay. Also eigentlich haben Sie diese Flecke als Rötung vor 2 Wochen bemerkt. Aber seit 4 Tagen ist es sehr groß und ist es größer geworden.
+
+20
+00:06:17,460 --> 00:06:51,470
+Ja, und meine Fieber hat angefangen. Okay. Fühlen Sie, dass auch die betroffene Seite überwärmt ist? Nein. Sie haben schon erwähnt, dass Sie seit 4 Tagen Fieber haben. Leiden Sie auch unter Nachschweiß oder Schüttelfrost?
+
+21
+00:06:54,470 --> 00:07:10,470
+Nein, ich habe keine Schüttelfrost. Aber es ist mir aufgefallen, dass ich alle Muskelschmerzen habe. Was haben Sie?
+
+22
+00:07:10,470 --> 00:07:34,850
+Grisschmerzen oder Gelenkschmerzen. An welche Gelenk? An allen Gelenken. Okay. Fühlen Sie auch Muskelkrämpfe, Muskelschwäche oder Muskelschmerzen?
+
+23
+00:07:34,850 --> 00:07:57,700
+Ich habe nur Muskelschmerzen. Ich habe keine Muskelschwäche, aber Muskelschmerzen. Muskelschmerzen, so wie Gelenkschmerzen. Fühlen Sie seit 4 Tagen oder länger? Seit 4 Tagen, ja. Aber ich habe auch Kopfschmerzen, Frau Doktor.
+
+24
+00:07:57,700 --> 00:08:13,700
+Auch seit 4 Tagen? Ja, normalerweise habe ich Migräne, aber diese Schmerzen sind unterschiedlich. Ein bisschen anders.
+
+25
+00:08:13,700 --> 00:08:31,700
+Okay, Sie denken, dass diese Kopfschmerzen mit dem Fieber und mit dem Leck zu tun haben? Zusammen verbunden sind? Ja. Ist nicht eine Migräne Kopfschmerz? Ja.
+
+26
+00:08:31,700 --> 00:08:59,360
+Wie ist es? Schlafen Sie gut? Ja, ich habe gut geschlafen. Wie ist Ihre Appetit? Das normal.
+
+27
+00:08:59,360 --> 00:09:27,560
+Haben Sie Probleme mit Wasserlassen oder Stuhlgang? Nein, ich habe keine Probleme. Haben Sie Atemnot, Husten, Herzrasen, Herzstolpern, solche Beschwerden? Nein, zwei Leute.
+
+28
+00:09:27,560 --> 00:09:43,560
+Haben Sie etwas zusätzliches für die Kopfschmerzen oder die Muskelschmerzen eingenommen? Ja, ich habe nur Palastimel eingenommen. Okay, sonst nichts? Ja, sonst nichts.
+
+29
+00:09:43,560 --> 00:10:05,560
+Okay, Sie haben schon erwähnt, dass Sie an Migränen leiden. Seit wie vielen Jahren? Seit 5 Jahren. Nehmen Sie etwas dagegen regelmäßig ein? Nur bei Bedarf nehme ich Tomatriptin.
+
+30
+00:10:05,560 --> 00:10:29,560
+Leiden Sie noch an anderen chronischen Erkrankungen? Ja, Frau Doktor. Ich habe auch Zürcher Krankheit seit 20 Jahren. Seit 20 Jahren kann man sagen, dass es ein Typ 1 ist? Ja, genau.
+
+31
+00:10:29,560 --> 00:10:54,900
+Deshalb muss ich jeden Tag ins Unheimliche schützen. Okay, Insulin seit 20 Jahren. Und noch etwas? Ja, manchmal nehme ich Aspirin, aber nur bei Bedarf.
+
+32
+00:10:54,900 --> 00:11:14,440
+Also als Schmerzmittel nehmen Sie Aspirin? Ja. Also Sie leiden an Migränen und Zürcher Krankheit, Typ 1. Und leiden Sie sonst noch an chronischen Erkrankungen? Nein.
+
+33
+00:11:14,440 --> 00:11:32,440
+Okay, super. Sind Sie schon mal operiert worden? Nein, ich wurde nicht operiert worden. Okay, nehmen Sie noch andere Medikamente ein, außer die genannten Medikamente? Nein.
+
+34
+00:11:32,440 --> 00:11:47,440
+Ist bei Ihnen Allergien bekannt? Nein, Frau Doktor. Ich habe keine Allergien. Oder irgendwelche Unverträglichkeiten? Nein.
+
+35
+00:11:47,440 --> 00:12:08,300
+Rauchen Sie, Herr Gork? Ja, ich rauche seit 10 Zigaretten jeden Tag. Seit wie vielen Jahren? Ca. 20 Jahre.
+
+36
+00:12:08,300 --> 00:12:32,390
+Trinken Sie auch Alkohol? Manchmal. Am Wochenende vielleicht ein Glas. Okay, also kann man gelegentlich sagen? Ja, kann man sagen. Was trinken Sie meistens? Bier, Wein? Wein.
+
+37
+00:12:32,390 --> 00:12:46,390
+Ich habe noch eine Frage an Sie, Herr Gork. Aber bitte nehmen Sie es nicht persönlich an. Haben Sie Kontakt mit Drogen? Nein, wir haben nicht probiert.
+
+38
+00:12:46,390 --> 00:13:03,390
+Sie haben nicht probiert. Okay. Treiben Sie regelmäßig Sport? Leider, Frau Doktor. Ich mache nicht so viel Sport. Okay, ich kann es verstehen. Man hat ja auch nicht so viel Zeit für Sport.
+
+39
+00:13:03,390 --> 00:13:24,700
+Sind Sie vollständig geimpft? Ja, wir sind in meinem Haus regelmäßig geimpft. Waren Sie in letzter Zeit im Ausland? Nein, Frau Doktor. Ich muss arbeiten.
+
+40
+00:13:24,700 --> 00:13:46,700
+Ich kann es verstehen. Ist in Ihrer Familie irgendwelche chronischen Erkrankungen bekannt? Ja, ich habe eine Schwester und sie hat einen Daumen-Syndrom.
+
+41
+00:13:46,700 --> 00:14:08,700
+Ach so, es tut mir leid zu hören. Und Ihr Vater oder Mutter leiden Sie an chronischen Erkrankungen? Nein, nein, sie sind ganz gesund. Super, toll. Sind Sie verheiratet, Herr Gork? Nein, ich denke nicht.
+
+42
+00:14:09,700 --> 00:14:30,140
+Okay. Leben Sie alleine oder mit Ihrer Familie? Ich lebe mit meiner Familie, mit der Eltern zusammen. Und ich muss auch meine Schwester kümmern.
+
+43
+00:14:30,140 --> 00:14:53,140
+Ich nehme an, dass Sie auch keine Kinder haben. Was machen Sie als beruflich? Ich arbeite im Markt, im Alte. Kann ich sagen Kassierer?
+
+44
+00:14:53,140 --> 00:15:06,140
+Ja, ich arbeite im Kassierer oder im Alte, Trager, Gürtsel, Zahe.
+
+45
+00:15:06,140 --> 00:15:27,190
+Supermarktangestellte. Das ist eine sehr stressige Arbeit. Sie müssen auf Ihres Zähes wohnen.
+
+46
+00:15:27,190 --> 00:15:38,190
+Ich möchte noch etwas fragen. Sie haben schon erwähnt, dass Sie keine Schmerzen haben. Aber können Sie Ihre betroffenen Beine bewegen?
+
+47
+00:15:38,190 --> 00:15:58,190
+Ja, ich kann bewegen. Bei Bewegung haben Sie keine Probleme? Nein. Ich habe Gelenkschmerzen, aber nicht an der Betroffenenstelle. Alle Gelenk, meine alle Gelenkschmerzen.
+
+48
+00:15:58,190 --> 00:16:19,700
+Wie stark sind die Schmerzen auf einer Skala von 0 bis 10? 6, 7. Die Gelenkschmerzen und die Muskelschmerzen.
+
+49
+00:16:19,700 --> 00:16:39,870
+Das waren meine Fragen. Möchten Sie noch etwas hinzufügen? Nein, ich möchte nicht hinzufügen. Aber was kann sein? Ich fühle mich sehr müde.
+
+50
+00:16:39,870 --> 00:16:58,870
+Ja, das kann ich verstehen. Die Angaben deuten am ehesten eine Infektion. Sie haben ja eine rote Fleck bemerkt. Es kann sein, dass Sie von einem Insekt oder einer Zecke gestochen sind.
+
+51
+00:16:58,870 --> 00:17:17,870
+Ja, es kann sein. Aber natürlich werden wir es untersuchen, wenn wir die Erreger feststellen können, ob es geht. Dann werden wir die Therapie schon durchführen.
+
+52
+00:17:17,870 --> 00:17:29,870
+Ja, die Angaben deuten am ehesten eine Infektion. Wir werden tun, was wir machen können. Wir werden unsere Besten machen.
+
+53
+00:17:29,870 --> 00:17:51,870
+Und Frau Doktor, können Sie mir die Schmerzen verschreiben? Ja, natürlich. Das können wir machen. Machen Sie sich keine Sorgen darüber. Wir sehen uns gleich nochmal.
+
+54
+00:17:51,870 --> 00:18:10,860
+Frau Doktor, können Sie mir Wasser bringen? Ja, wir können Sie jetzt ein Glas Wasser bringen. Kein Problem. Die Schmerzen werden wir bringen.
+
+55
+00:18:10,860 --> 00:18:44,400
+Hat jemand andere Fragen? Ja. Herr Georg, können Sie Ihre Glied- und Muskelschmerzen beschreiben? Sie sind ständig dunf.
+
+56
+00:18:44,400 --> 00:19:06,080
+Ja, ich kann die Schmerzen durchdunfen. Jetzt haben Sie das Fieber und Schmerzen? Ja, ich habe auch Schmerzen und Fieber.
+
+57
+00:19:06,080 --> 00:19:30,080
+Wann haben Sie das Fieber gemessen? Ich misse jeden Tag. Mindestens zweimal, dreimal. Wo messen Sie? Im Ohr habe ich gemessen.
+
+58
+00:19:30,080 --> 00:19:57,650
+Okay. Haben Sie Atemnot oder Husten? Ich habe keine Atemnot, aber ich habe auch ein bisschen Schluckbechwerden.
+
+59
+00:19:57,650 --> 00:20:14,650
+Schluckbechwerden? Seit wann haben Sie diese Bechwerden? Wieder sind sie vor vier Tagen aufgetreten.
+
+60
+00:20:14,650 --> 00:20:31,650
+Okay. Gibt es ein besonderes Essen oder Fest oder Wäsche? Ja, Fest und Wäsche kann ich nicht einpassen.
+
+61
+00:20:31,650 --> 00:20:50,650
+Okay. Haben Sie Halsschmerzen? Ja, ich habe auch ein bisschen Halsschmerzen. Seit wann haben Sie auch? Sie sind auch seit vier, fünf Tagen.
+
+62
+00:20:50,650 --> 00:21:13,460
+Okay. Sind Sie müde abgeschlagen? Ja, ja, ja. Müde. Okay. Haben Sie Herzrasen, Herzkloppen? Ja. Wie ist Ihr Appetit? Ich habe meine Kollegin gefragt, aber?
+
+63
+00:21:13,460 --> 00:21:19,460
+Das ist normal. Okay. Ich fühle mich so.
+
+64
+00:21:43,460 --> 00:22:02,240
+Okay.
+
+65
+00:22:02,240 --> 00:22:14,240
+Okay.
+
+66
+00:22:14,240 --> 00:22:24,240
+Okay.
+
+67
+00:22:24,240 --> 00:22:38,240
+Okay.
+
+68
+00:22:38,240 --> 00:22:46,240
+Okay.
+
+69
+00:22:46,240 --> 00:22:54,240
+Okay.
+
+70
+00:22:54,240 --> 00:23:10,240
+Haben Sie eine Beschwerden? Nein. Okay.
+
+71
+00:23:10,240 --> 00:23:22,240
+Okay. Sind Ihre Beschwerden langsam oder akut aufgetreten? Langsam oder plötzlich?
+
+72
+00:23:22,240 --> 00:23:43,650
+Ich habe die Röthung für die erste Mal vor zwei Wochen gesehen, aber andere sind schon mal abgelaufen und langsam begonnen.
+
+73
+00:23:43,650 --> 00:24:06,650
+Sind Ihre Schmerzen auch das Fieber? Wiederkehrend oder immer da? Immer da, aber wenn ich Parasitämien nehme, dann hat sie ein bisschen Nachgelassen.
+
+74
+00:24:06,650 --> 00:24:36,500
+Okay.
+
+75
+00:24:36,500 --> 00:24:44,500
+Okay.
+
+76
+00:24:44,500 --> 00:24:52,500
+Okay.
+
+77
+00:24:52,500 --> 00:24:59,910
+Okay.
+
+78
+00:24:59,910 --> 00:25:07,910
+Okay.
+
+79
+00:25:07,910 --> 00:25:19,320
+Okay.
+
+80
+00:25:19,320 --> 00:25:27,320
+Okay.
+
+81
+00:25:27,320 --> 00:25:33,320
+Okay.
+
+82
+00:25:33,320 --> 00:25:39,320
+Okay.
+
+83
+00:25:39,320 --> 00:25:49,320
+Okay.
+
+84
+00:25:49,320 --> 00:25:59,320
+Okay.
+
+85
+00:25:59,320 --> 00:26:09,320
+Okay.
+
+86
+00:26:09,320 --> 00:26:19,320
+Okay.
+
+87
+00:26:19,320 --> 00:26:31,180
+Okay.
+
+88
+00:26:31,180 --> 00:26:46,200
+Okay.
+
+89
+00:26:46,200 --> 00:26:56,200
+Okay.
+
+90
+00:26:56,200 --> 00:27:06,200
+Okay.
+
+91
+00:27:06,200 --> 00:27:16,200
+Okay.
+
+92
+00:27:16,200 --> 00:27:26,200
+Okay.
+
+93
+00:27:26,200 --> 00:27:36,200
+Okay.
+
+94
+00:27:36,200 --> 00:27:46,200
+Okay.
+
+95
+00:27:46,200 --> 00:27:56,200
+Okay.
+
+96
+00:27:56,200 --> 00:28:06,200
+Okay.
+
+97
+00:28:06,200 --> 00:28:16,200
+Okay.
+
+98
+00:28:16,200 --> 00:28:26,200
+Okay.
+
+99
+00:28:26,200 --> 00:28:36,200
+Okay.
+
+100
+00:28:36,200 --> 00:28:46,200
+Okay.
+
+101
+00:28:46,200 --> 00:28:56,200
+Okay.
+
+102
+00:28:56,200 --> 00:29:06,200
+Okay.
+
+103
+00:29:06,200 --> 00:29:16,200
+Okay.
+
+104
+00:29:16,200 --> 00:29:26,200
+Okay.
+
+105
+00:29:26,200 --> 00:29:36,200
+Okay.
+
+106
+00:29:56,200 --> 00:30:06,200
+Okay.
+
+107
+00:30:06,200 --> 00:30:16,200
+Okay.
+
+108
+00:30:16,200 --> 00:30:26,200
+Okay.
+
+109
+00:30:26,200 --> 00:30:36,200
+Okay.
+
+110
+00:30:36,200 --> 00:30:46,200
+Okay.
+
+111
+00:30:46,200 --> 00:30:57,670
+Okay.
+
+112
+00:30:57,670 --> 00:31:07,670
+Okay.
+
+113
+00:31:07,670 --> 00:31:17,670
+Okay.
+
+114
+00:31:17,670 --> 00:31:27,670
+Okay.
+
+115
+00:31:27,670 --> 00:31:37,670
+Okay.
+
+116
+00:31:37,670 --> 00:31:47,670
+Okay.
+
+117
+00:31:47,670 --> 00:31:57,670
+Okay.
+
+118
+00:31:57,670 --> 00:32:07,670
+Okay.
+
+119
+00:32:07,670 --> 00:32:17,670
+Okay.
+
+120
+00:32:17,670 --> 00:32:27,670
+Okay.
+
+121
+00:32:27,670 --> 00:32:37,670
+Okay.
+
+122
+00:32:37,670 --> 00:32:47,670
+Okay.
+
+123
+00:32:47,670 --> 00:32:57,670
+Okay.
+
+124
+00:32:57,670 --> 00:33:07,670
+Okay.
+
+125
+00:33:07,670 --> 00:33:17,670
+Okay.
+
+126
+00:33:17,670 --> 00:33:27,670
+Okay.
+
+127
+00:33:27,670 --> 00:33:37,670
+Okay.
+
+128
+00:33:37,670 --> 00:33:47,670
+Okay.
+
+129
+00:33:47,670 --> 00:33:57,670
+Okay.
+
+130
+00:33:57,670 --> 00:34:07,670
+Okay.
+
+131
+00:34:07,670 --> 00:34:17,670
+Okay.
+
+132
+00:34:17,670 --> 00:34:27,670
+Okay.
+
+133
+00:34:27,670 --> 00:34:37,670
+Okay.
+
+134
+00:34:37,670 --> 00:34:47,670
+Okay.
+
+135
+00:34:47,670 --> 00:34:59,080
+Okay.
+
+136
+00:34:59,080 --> 00:35:09,080
+Okay.
+
+137
+00:35:29,080 --> 00:35:39,080
+Okay.
+
+138
+00:35:39,080 --> 00:35:49,080
+Okay.
+
+139
+00:35:49,080 --> 00:35:59,080
+Okay.
+
+140
+00:35:59,080 --> 00:36:09,080
+Okay.
+
+141
+00:36:09,080 --> 00:36:19,080
+Okay.
+
+142
+00:36:19,080 --> 00:36:29,080
+Okay.
+
+143
+00:36:29,080 --> 00:36:39,080
+Okay.
+
+144
+00:36:39,080 --> 00:36:49,080
+Okay.
+
+145
+00:36:49,080 --> 00:36:59,080
+Okay.
+
+146
+00:36:59,080 --> 00:37:09,080
+Okay.
+
+147
+00:37:09,080 --> 00:37:19,080
+Okay.
+
+148
+00:37:19,080 --> 00:37:31,420
+Okay.
+
+149
+00:37:31,420 --> 00:37:44,260
+Okay.
+
+150
+00:37:44,260 --> 00:37:54,260
+Okay.
+
+151
+00:37:54,260 --> 00:38:04,260
+Okay.
+
+152
+00:38:04,260 --> 00:38:14,260
+Okay.
+
+153
+00:38:14,260 --> 00:38:24,260
+Okay.
+
+154
+00:38:24,260 --> 00:38:34,260
+Okay.
+
+155
+00:38:34,260 --> 00:38:44,260
+Okay.
+
+156
+00:39:07,400 --> 00:39:17,400
+Okay.
+
+157
+00:39:17,400 --> 00:39:27,400
+Okay.
+
+158
+00:39:27,400 --> 00:39:37,400
+Okay.
+
+159
+00:39:59,480 --> 00:40:09,480
+Okay.
+
+160
+00:40:09,480 --> 00:40:19,480
+Okay.
+
+161
+00:40:19,480 --> 00:40:29,480
+Okay.
+
+162
+00:40:29,480 --> 00:40:39,480
+Okay.
+
+163
+00:40:39,480 --> 00:40:49,480
+Okay.
+
+164
+00:40:49,480 --> 00:40:59,480
+Okay.
+
+165
+00:40:59,480 --> 00:41:11,720
+Okay.
+
+166
+00:41:11,720 --> 00:41:22,970
+Okay.
+
+167
+00:41:22,970 --> 00:41:32,970
+Okay.
+
+168
+00:41:32,970 --> 00:41:42,970
+Okay.
+
+169
+00:41:42,970 --> 00:41:52,970
+Okay.
+
+170
+00:41:52,970 --> 00:42:02,970
+Okay.
+
+171
+00:42:02,970 --> 00:42:15,240
+Okay.
+
+172
+00:42:15,240 --> 00:42:25,240
+Okay.
+
+173
+00:42:25,240 --> 00:42:35,240
+Okay.
+
+174
+00:42:35,240 --> 00:42:45,240
+Okay.
+
+175
+00:42:45,240 --> 00:42:55,240
+Okay.
+
+176
+00:42:55,240 --> 00:43:07,990
+Okay.
+
+177
+00:43:07,990 --> 00:43:17,990
+Okay.
+
+178
+00:43:17,990 --> 00:43:27,990
+Okay.
+
+179
+00:43:27,990 --> 00:43:37,990
+Okay.
+
+180
+00:43:37,990 --> 00:43:49,590
+Okay.
+
+181
+00:43:49,590 --> 00:44:01,860
+Okay.
+
+182
+00:44:01,860 --> 00:44:14,140
+Okay.
+
+183
+00:44:14,140 --> 00:44:26,060
+Okay.
+
+184
+00:44:26,060 --> 00:44:36,060
+Okay.
+
+185
+00:44:36,060 --> 00:44:46,060
+Okay.
+
+186
+00:44:46,060 --> 00:44:56,060
+Okay.
+
+187
+00:44:56,060 --> 00:45:06,060
+Okay.
+
+188
+00:45:06,060 --> 00:45:16,060
+Okay.
+
+189
+00:45:16,060 --> 00:45:26,060
+Okay.
+
+190
+00:45:26,060 --> 00:45:36,060
+Okay.
+
+191
+00:45:36,060 --> 00:45:46,060
+Okay.
+
+192
+00:45:46,060 --> 00:45:56,060
+Okay.
+
+193
+00:45:56,060 --> 00:46:06,060
+Okay.
+
+194
+00:46:06,060 --> 00:46:16,060
+Okay.
+
+195
+00:46:16,060 --> 00:46:26,060
+Okay.
+
+196
+00:46:26,060 --> 00:46:36,060
+Okay.
+
+197
+00:46:36,060 --> 00:46:46,060
+Okay.
+
+198
+00:46:46,060 --> 00:46:56,060
+Okay.
