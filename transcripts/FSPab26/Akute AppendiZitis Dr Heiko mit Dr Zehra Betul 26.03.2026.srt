@@ -1,0 +1,975 @@
+1
+00:00:00,000 --> 00:00:16,450
+Ich bin auf dieser Station als Assistenzärztin tätig und ich würde gerne mit Ihnen das
+
+2
+00:00:16,450 --> 00:00:22,490
+Aufnahmegespräch führen. Falls Sie Fragen haben, können Sie mich jederzeit unterbrechen.
+
+3
+00:00:22,490 --> 00:00:29,130
+Sind Sie damit einverstanden? Zunächst benötige ich Ihre persönliche Daten.
+
+4
+00:00:29,130 --> 00:00:41,340
+Wie heißen Sie? Ich heiße Elena Stückemann. Können Sie kurz Ihre Nachname kurzbuchstabieren?
+
+5
+00:00:41,340 --> 00:00:59,940
+Ja, Stückemann. Wie alt sind Sie Frau Stückemann? Ich bin 36 Jahre alt.
+
+6
+00:00:59,940 --> 00:01:10,620
+Wie ist Ihre Geburtsdatum? 12. März 1990. Wie groß sind Sie und wie viel wiegen Sie?
+
+7
+00:01:10,620 --> 00:01:23,800
+Ich bin 1,68 Meter groß und ich wiege 60 Kilo. Frau Stückemann, was führt Sie heute zu uns?
+
+8
+00:01:23,800 --> 00:01:33,680
+Ja, ich habe seit ungefähr 12 Stunden Bauchschmerzen. Am Anfang waren die Schmerzen
+
+9
+00:01:33,680 --> 00:01:40,880
+so um den Bauchnabel herum und sind dann aber in den letzten Stunden mehr so in den
+
+10
+00:01:40,880 --> 00:01:58,210
+rechten Unterbauch gezogen. Okay, also am Anfang war um den Nabel herum. Ja. Okay.
+
+11
+00:01:58,210 --> 00:02:07,890
+Und jetzt ist es am rechten Unterbauch. Ja. Wie stark sind die Schmerzen auf einer
+
+12
+00:02:07,890 --> 00:02:21,150
+Skala von 0 bis 10? 6. Können Sie die Schmerzen aushalten oder brauchen Sie dringend?
+
+13
+00:02:21,150 --> 00:02:25,910
+Ja, die kann ich noch aushalten. Haben Sie schon etwas dagegen eingenommen? Nein,
+
+14
+00:02:25,910 --> 00:02:35,510
+bis jetzt nicht. Okay. Wie würden Sie die Schmerzen beschreiben Frau Stückemann?
+
+15
+00:02:35,510 --> 00:02:50,070
+Also der Schmerz ist dauerhaft und mehr drückend. Dauerhaft und drückend. Haben
+
+16
+00:02:50,070 --> 00:03:00,860
+Sie schon einmal ähnliche Beschwerden gelitten? Nein, das habe ich noch nie gehabt. Strahlen
+
+17
+00:03:00,860 --> 00:03:19,110
+die Schmerzen irgendwo hinaus? Nein. Haben Sie noch andere Beschwerden wie Übelkeit
+
+18
+00:03:19,110 --> 00:03:27,030
+erbrechen? Also übel ist mir schon, aber bisher habe ich kein Erbrechen. Kein Erbrechen.
+
+19
+00:03:27,030 --> 00:03:32,790
+Fühlen Sie sich fieprig oder haben Sie Fieber? Vielleicht haben Sie es gemessen.
+
+20
+00:03:33,670 --> 00:03:45,820
+Ich habe Fieber gemessen vor zwei Stunden. Da hatte ich so etwas über 38, 38,3. Okay,
+
+21
+00:03:45,820 --> 00:04:00,720
+es war 38,3. Geigen Sie auch unter Schüttelfrost oder Nachschweiß? Nein. Haben Sie Herztrasen
+
+22
+00:04:00,720 --> 00:04:09,440
+oder Herzstolpern? Nein. Haben Sie Schwierigkeiten mit Wasserlassen oder Stuhlgang?
+
+23
+00:04:09,640 --> 00:04:16,640
+Wasserlassen ist in Ordnung. Mein letzter Stuhlgang war, schätze ich so vor einem Tag. Gut vor
+
+24
+00:04:16,640 --> 00:04:21,200
+einem Tag. Ich habe auch sonst immer regelmäßig Stuhlgang. Da habe ich keine Probleme mit.
+
+25
+00:04:21,200 --> 00:04:28,240
+Keine. Also so eine Durchfall oder Verstopfung, eine Schwierigstuhl? Nein. Okay, super.
+
+26
+00:04:28,240 --> 00:04:39,840
+Wie ist Ihre Appetit, Frau Stückermann? Normalerweise ist der Appetit gut,
+
+27
+00:04:39,840 --> 00:04:44,760
+aber seitdem ich jetzt die Bauchschmerzen habe, habe ich nicht viel gegessen, weil mir ist
+
+28
+00:04:44,760 --> 00:04:53,310
+ja auch etwas übel. Da ist mein Appetit jetzt nicht gut. Okay, seit gestern haben Sie
+
+29
+00:04:53,310 --> 00:05:04,430
+kein Appetit. Frau Stückermann, gibt es vielleicht einen bestimmten Auslöser für die Schmerzen?
+
+30
+00:05:04,430 --> 00:05:12,710
+Also haben Sie sowas bemerkt? Vielleicht nach einem bestimmten Nahrungsmittel haben die Schmerzen
+
+31
+00:05:12,710 --> 00:05:18,630
+auch getreten? Nein, ich habe keine Erklärung dafür. Kann ich Ihnen nichts sagen. Okay.
+
+32
+00:05:18,630 --> 00:05:34,930
+Gibt es einen betroffenen Seite Hautveränderungen? Nein. Vielleicht Juckreiz,
+
+33
+00:05:34,930 --> 00:05:45,900
+Hautveränderung, Überwärmung? Nein, habe ich nicht. Ist Ihre Schlaf- Schlafen Sie gut,
+
+34
+00:05:45,900 --> 00:05:51,380
+Frau Stückermann? Normalerweise schlafe ich ganz gut. Ich habe einen stressigen Beruf. Da
+
+35
+00:05:51,380 --> 00:05:55,580
+ist es manchmal etwas wechselhaft, aber letzte Nacht habe ich nicht gut geschlafen, weil ich
+
+36
+00:05:55,580 --> 00:06:00,540
+da die Schmerzen hatte. Wegen die Schmerzen? Ja, ich kann es verstehen. Sie haben auch
+
+37
+00:06:00,540 --> 00:06:05,580
+nichts dagegen eingenommen. Was machen Sie als Beruflich, Frau Stückermann? Ich bin
+
+38
+00:06:05,580 --> 00:06:20,260
+Lehrerin. Okay, es ist stresshaft. Ist bei Ihnen chronische Erkrankungen bekannt? Also ich
+
+39
+00:06:20,260 --> 00:06:29,260
+habe eine Fruchtzuckerunverträglichkeit. Seit einigen Jahren ist das bekannt, aber ich halte eine
+
+40
+00:06:29,260 --> 00:06:36,820
+Diät und vermeide fruchtzuckerhaltige Sachen, Speisen und damit geht es mir ganz gut. Also
+
+41
+00:06:36,820 --> 00:06:48,780
+Fruchtzucker, okay. Fruchtzucker, ja. Und ich hatte als junge Erwachsene, da war ich,
+
+42
+00:06:49,100 --> 00:06:58,860
+23 Jahre alt, da wurde ich häufiger ohnmächtig und habe das Bewusstsein verloren und da hat
+
+43
+00:06:58,860 --> 00:07:05,220
+man festgestellt, dass ich Herzrhythmusstörungen habe und ich habe dann einen Herzschrittmacher
+
+44
+00:07:05,220 --> 00:07:17,170
+bekommen mit 23 und seitdem ich den habe, geht es mir gut. Okay, mit 23, dann haben Sie
+
+45
+00:07:17,170 --> 00:07:31,380
+Herzschrittmacher bekommen. Sonst haben Sie keine Vorerkrankungen. Ist bei Ihnen keine Vorerkrankungen?
+
+46
+00:07:31,380 --> 00:07:36,940
+Sonst habe ich keine Vorerkrankungen. Okay, außer diese Herzrhythmusstörungen. Okay,
+
+47
+00:07:36,940 --> 00:07:43,460
+sind Sie schon mal operiert worden? Ja, als Kind, da war ich 10 Jahre alt, da wurde
+
+48
+00:07:43,460 --> 00:07:54,180
+ich am Leistenbruch operiert. Auf der linken Seite Leistenbruch und mit 20 Jahren hatte ich
+
+49
+00:07:54,180 --> 00:08:01,340
+einen kleinen Fahrradsturz, Fahrradunfall, da habe ich meinen Knöchel gebrochen. Am
+
+50
+00:08:01,340 --> 00:08:07,500
+linken Sprunggelenk ist mein Außenknöchel gebrochen und das musste operiert werden.
+
+51
+00:08:07,500 --> 00:08:18,260
+Außenknöchel, okay, Sprunggelenk. Welche Seite haben Sie gesagt? Links. Links, das auch links?
+
+52
+00:08:18,260 --> 00:08:28,700
+Ja. Okay, Fahrradunfall haben Sie gesagt. Ja. Okay, alle beide Operationen sind
+
+53
+00:08:28,700 --> 00:08:38,780
+komplikationslos verlaufen? Ja. Super, super toll. Fröschtücke, man gibt es Medikamente,
+
+54
+00:08:38,820 --> 00:08:45,060
+besondere Medikamente, die Sie regelmäßig oder bei Bedarf einnehmen? Nein, ich nehme keine
+
+55
+00:08:45,060 --> 00:08:53,820
+Medikamente ein. Auch nicht bei Bedarf, ich nehme selten Schmerzmittel ein oder so. Selten? Ja. Okay,
+
+56
+00:08:53,820 --> 00:09:02,500
+das machen wir ja alle schon. Rauchen Sie, Frau Stückemann? Nein. Super. Trinken Sie
+
+57
+00:09:02,500 --> 00:09:08,940
+Alkohol? Ja, ich trinke mal ein Glas Wein, so am Wochenende vielleicht insgesamt am Wochenende
+
+58
+00:09:08,940 --> 00:09:20,620
+zwei Glas Wein. Wochenende zwei Gläser Wein, okay. Also kann man sagen, gelegentlich. Ja.
+
+59
+00:09:20,620 --> 00:09:27,260
+Ja, ich habe noch eine Frage, Frau Stückemann, aber bitte nehmen Sie es nicht persönlich an,
+
+60
+00:09:27,260 --> 00:09:38,460
+das ist eine Routinfrage. Haben Sie Kontakt mit Drogen? Nein, habe ich nicht. Treiben Sie
+
+61
+00:09:38,460 --> 00:09:45,340
+Sport regelmäßig oder treiben Sie Sport? Ja, ich bin auch in der Schule Sportlehrerin,
+
+62
+00:09:45,340 --> 00:09:52,180
+da habe ich dann auch schon meine Bewegung und manchmal, wenn ich Zeit habe, dann jogge
+
+63
+00:09:52,180 --> 00:09:56,740
+ich auch. Vielleicht einmal pro Woche, aber sonst mache ich eben auch in der Schule viel
+
+64
+00:09:56,740 --> 00:10:07,060
+Schulsport. Okay, also die bewegen sich jeden Tag. Ja. Sind Sie vollständig geimpft?
+
+65
+00:10:07,060 --> 00:10:14,820
+Ja, ich glaube schon, dass ich die ausreichenden Impfungen habe. Wir haben jetzt in letzter Zeit keine
+
+66
+00:10:14,820 --> 00:10:19,620
+Fernreisen gemacht oder so, da braucht man jetzt keine Spezialimpfungen, aber die Impfungen
+
+67
+00:10:19,620 --> 00:10:26,380
+hier für Europa, die habe ich alle, die notwendigen. Okay, also Sie haben schon gesagt,
+
+68
+00:10:26,380 --> 00:10:32,780
+dass Sie in letzter Zeit keine Fernreisen gemacht haben. Also schon in den letzten sechs Monate
+
+69
+00:10:32,780 --> 00:10:40,540
+sind Sie schon verreist? Ja, war ich nur einmal in Spanien und auch einmal in Italien,
+
+70
+00:10:40,540 --> 00:10:51,940
+aber sonst nicht. Okay, also Sie waren innerhalb der Europäischen Union. Ja. Frau Stückermann,
+
+71
+00:10:51,940 --> 00:11:03,260
+ist in Ihrer Familie chronische Erkrankungen bekannt? Also mein Vater, der ist im Alter
+
+72
+00:11:03,260 --> 00:11:12,140
+von 66 Jahren an Herzinfarkt verstorben. Ah, es tut mir leid zu hören. Ja, da war er 66 und
+
+73
+00:11:12,140 --> 00:11:18,980
+der hatte vor zehn Jahren hatte mein Vater Prostata Krebs und das wurde operiert seiner
+
+74
+00:11:18,980 --> 00:11:25,740
+Zeit und bestrahlt, aber davon hat er sich gut erholt. Das war dann ein gutes Ergebnis,
+
+75
+00:11:26,140 --> 00:11:34,380
+aber wie gesagt, der Herzinfarkt ist ja verstorben. Oh, es tut mir leid. Ja, die Mutter ist 63 Jahre
+
+76
+00:11:34,380 --> 00:11:44,140
+alt, die hatte vor drei Jahren Eierstock Krebs. Okay. Das wurde auch operiert und sie bekam
+
+77
+00:11:44,140 --> 00:11:52,220
+anschließend Chemotherapie. Die Nachsorgeuntersuchungen sind bisher, so wie sie mir das berichtet,
+
+78
+00:11:52,220 --> 00:12:02,790
+gut verlaufen. Ja, sie ist jetzt gut. Ja, bisher ist das gut verlaufen. Die Kontrollen
+
+79
+00:12:02,790 --> 00:12:10,310
+waren alle gut bisher. Ich habe noch eine Schwester, die ist 36 Jahre alt, die hat
+
+80
+00:12:10,310 --> 00:12:17,830
+eine Schilddrüsenunterfunktion und muss da ein Medikament nehmen, aber ich kann es
+
+81
+00:12:17,830 --> 00:12:23,830
+ihnen nicht genau sagen, was sie nimmt, weil sie lebt in einer anderen Stadt. Okay,
+
+82
+00:12:23,830 --> 00:12:33,630
+das müssen sie auch nicht wissen. Es gibt ja nicht viele Medikamente, nicht so viele
+
+83
+00:12:33,630 --> 00:12:42,150
+Auswahl bei Schilddrüsenunterfunktionen. Wie alt war ihre Schwester? Meine Schwester
+
+84
+00:12:42,150 --> 00:12:51,950
+ist jetzt 36. Und die Schilddrüsenunterfunktion ist vielleicht bekannt seit fünf Jahren.
+
+85
+00:12:51,950 --> 00:12:59,910
+Und sie sind auch 36 Jahre alt? Also meine Schwester ist ein Jahr älter als ich.
+
+86
+00:12:59,910 --> 00:13:05,550
+Also meine Schwester ist dann 37 Jahre alt und ich bin jetzt gerade 36 geworden im
+
+87
+00:13:06,150 --> 00:13:13,230
+Okay, falls ich noch nicht den Geburtstag dieses Jahr gehabt habe. Ja, kann man sagen,
+
+88
+00:13:13,230 --> 00:13:24,350
+sie ist immer noch 36. Okay, Frau Stueckmann, bekommen Sie Ihre Regelblutungen regelmäßig?
+
+89
+00:13:24,350 --> 00:13:30,550
+Ja, das ist so eine Sache. Also normalerweise bekomme ich die regelmäßig, aber die letzte
+
+90
+00:13:30,550 --> 00:13:37,500
+Periode war vor sieben Wochen. Die ist jetzt etwas überfällig und ich wollte eigentlich
+
+91
+00:13:37,500 --> 00:13:46,650
+jetzt nächste Woche zu meiner Gynäkologin und das abklären lassen. Okay, kann es sein,
+
+92
+00:13:46,650 --> 00:13:53,970
+dass Sie schwanger sind? Das kann theoretisch sein, ja. Das kann theoretisch sein. Nehmen
+
+93
+00:13:53,970 --> 00:14:01,170
+Sie Pille ein für Verhütung oder? Nein, nein, wir verhütten mit Spirale eigentlich.
+
+94
+00:14:01,170 --> 00:14:14,890
+Okay, wie ist Ihre Familienstandfrau? Verheiratet. Stueckmann, ja. Sie sind verheiratet. Haben
+
+95
+00:14:14,890 --> 00:14:25,850
+Sie schon Kinder? Ja, eine Tochter. Eine Tochter, die ist fünf Jahre alt. Okay, sehr schön. Ist
+
+96
+00:14:25,850 --> 00:14:43,010
+sie gesund? Ja. Super. Okay, also wir werden auch natürlich die Schwangerschaft auch
+
+97
+00:14:43,010 --> 00:14:54,280
+kontrollieren. Möchten Sie noch etwas hinzufügen, Frau Stueckmann? Nein, ich glaube,
+
+98
+00:14:54,280 --> 00:15:03,640
+es ist soweit alles besprochen worden. Ja, also ich wollte noch etwas fragen, aber das fällt mir
+
+99
+00:15:03,640 --> 00:15:17,040
+jetzt nicht ein. Das eine Auslöser. Ja, das fällt mir jetzt nicht ein. Wenn es mir einfällt,
+
+100
+00:15:17,040 --> 00:15:22,280
+kann ich während der Kopperlich-Untersuchung noch nachfragen. Ja, okay. Ja, kann man schon so
+
+101
+00:15:22,280 --> 00:15:30,640
+machen. Gut. Ja. Gut. Ja, also Frau Stueckmann, ich muss jetzt meine Oberarzt
+
+102
+00:15:30,640 --> 00:15:37,840
+Bescheid geben. Dann kurz komme ich wieder zurück, um die körperliche Untersuchungen und
+
+103
+00:15:37,840 --> 00:15:46,360
+die anderen Verfahren durchzuführen. Ich komme wieder gleich zurück. Okay, das können wir so
+
+104
+00:15:46,360 --> 00:15:53,120
+machen. Gut, danke. Dann haben Sie jetzt etwas Zeit, sich vorzubereiten, die Patientensprache
+
+105
+00:15:53,120 --> 00:15:58,360
+zu übersetzen. Kolleginnen und Kollegen, heute Abend sind es ja recht viele, haben vielleicht
+
+106
+00:15:58,360 --> 00:16:16,480
+noch eine Frage oder begänzende Fragen. Ja, ich mache das. Also man könnte natürlich jetzt
+
+107
+00:16:16,480 --> 00:16:21,920
+eine kurze Zusammenfassung machen noch am Ende dieser Anamnese und kurz sagen, Frau Stueckmann,
+
+108
+00:16:21,920 --> 00:16:29,000
+ich möchte kurz zusammenfassen und Sie können mich gerne korrigieren, wenn ich etwas nicht
+
+109
+00:16:29,000 --> 00:16:35,280
+richtig sage. Sie sind hier zu uns gekommen, weil Sie seit ungefähr zwölf Stunden Bauchschmerzen
+
+110
+00:16:35,680 --> 00:16:40,400
+haben. Diese Bauchschmerzen haben um den Nabel herum angefangen und sind in den letzten
+
+111
+00:16:40,400 --> 00:16:47,120
+Stunden mehr in den rechten Unterbauch gezogen. Die Schmerzen strahlen nicht aus. Sie haben
+
+112
+00:16:47,120 --> 00:16:57,320
+etwas erhöhte Temperatur bzw. Fieber gemessen mit 38,3. Wo haben Sie gemessen? Oral.
+
+113
+00:16:57,640 --> 00:17:06,760
+Patientin hat oral gemessen. Sie haben etwas Übelkeit, aber kein Erbrechen. Solche Schmerzen
+
+114
+00:17:06,760 --> 00:17:13,200
+haben Sie bisher noch nie gehabt. Und sonst fühlen Sie sich eigentlich ganz gesund. Sie
+
+115
+00:17:13,200 --> 00:17:18,080
+haben berichtet, dass Sie an chronischen Erkrankungen eine Fruchtzuckerunverträglichkeit
+
+116
+00:17:18,080 --> 00:17:26,080
+haben. Und Sie haben seit dem 23. Lebensjahr einen Herzschrittmacher wegen Herzrhythmusstörungen
+
+117
+00:17:26,080 --> 00:17:35,920
+und Ohnmachtsanfällen, die Sie damals hatten. Das wäre so erstmal die wesentlichen Dinge,
+
+118
+00:17:35,920 --> 00:17:40,440
+die man vielleicht zusammenfassend am Ende nochmal sagen kann. Man muss jetzt nicht alles
+
+119
+00:17:40,440 --> 00:17:45,920
+nochmal wiederholen wie die Familienanamnese oder alle Operationen. Und dann kann Frau
+
+120
+00:17:45,920 --> 00:17:50,840
+Stücke mal sagen, ja das stimmt so. Oder dass Sie vielleicht, sonst fällt ihr vielleicht
+
+121
+00:17:50,840 --> 00:17:55,720
+noch etwas ein. Das ist manchmal auch wichtig, dass der Patientin vielleicht noch ein etwas
+
+122
+00:17:55,720 --> 00:18:03,520
+Wichtiges einfällt. Aber die Patientin sagt, nein das ist alles so korrekt und das wäre noch
+
+123
+00:18:03,520 --> 00:18:08,960
+ein Vorschlag, wenn Sie Zeit haben in der Anamnese. Ja das wollte ich jetzt fragen.
+
+124
+00:18:08,960 --> 00:18:16,640
+Die Zeit läuft jetzt erst glaube ich in einer Minute ab. Was ich hier oben in der laufenden Uhr sehe,
+
+125
+00:18:16,640 --> 00:18:23,040
+das ist immer ganz praktisch für mich. Gibt es von den Kolleginnen und Kollegen noch andere,
+
+126
+00:18:23,120 --> 00:18:28,840
+gäbe es noch andere Fragen? Ja sie haben schon auch für mich die Vorstellung gemacht.
+
+127
+00:18:28,840 --> 00:18:40,720
+Ich habe aber noch keine Fachbegriffe benutzt. Ja. Also die Kolleginnen und Kollegen sind
+
+128
+00:18:40,720 --> 00:18:47,440
+offenkundig zufrieden mit Ihnen, mit Ihrer Befragung, sodass jetzt offenkundig keine
+
+129
+00:18:47,440 --> 00:18:54,520
+weiteren Fragen mehr. Ja darf ich? Ja bitte, ja bitte. Haben Sie bemerkt,
+
+130
+00:18:54,520 --> 00:19:02,980
+etwas Ihre Beschwerden verhindert oder versteckt? Also ich darf nicht auf den Bauch
+
+131
+00:19:02,980 --> 00:19:08,260
+drauf drücken. Druck ist nicht gut auf dem Bauch. Oder wenn ich eine, ich habe versucht,
+
+132
+00:19:08,260 --> 00:19:13,220
+eine etwas engere Hose, einen Gürtel zu tragen, das ist nicht gut. Druck ist nicht gut.
+
+133
+00:19:13,220 --> 00:19:19,540
+Am besten, ich habe mich am besten lieber auf das Sofa gelegt, auf den Rücken und habe mich
+
+134
+00:19:19,540 --> 00:19:27,700
+ruhig verhalten. Das ist das Beste. Haben Sie Schmerzen seit zwei Stunden, richtig? Seit
+
+135
+00:19:27,700 --> 00:19:33,860
+zwölf Stunden. Zwölf. Zwölf, verzeihen. Zwölf Stunden, ja. Ja okay. Am Anfang war der
+
+136
+00:19:33,860 --> 00:19:40,620
+Schmerz am Bauchnabel und ist dann in den rechten Bauch, Unterbauch gezogen. Okay,
+
+137
+00:19:40,660 --> 00:19:48,700
+danke. Darf ich fragen, sind die Schmerzen plötzlich oder langsam aufgetreten? Langsam.
+
+138
+00:19:48,700 --> 00:19:57,020
+Langsam, okay. Und leiden Sie unter Virginiae im Ausfluss? Nein, habe ich nicht beobachtet.
+
+139
+00:19:57,020 --> 00:20:05,300
+Okay. Haben Sie Unterbauchschmerzen vor und während der Periode? Nein, eigentlich nicht.
+
+140
+00:20:05,300 --> 00:20:16,660
+Da habe ich eigentlich keine Probleme mit. Okay, danke schön. Darf ich? Ja bitte. Haben
+
+141
+00:20:16,660 --> 00:20:24,520
+Sie in den letzten sechs Monaten Ungewollt ab oder zu genommen? Nein, ich habe mein Gewicht,
+
+142
+00:20:24,520 --> 00:20:40,590
+glaube ich, gehalten. Da ist mir nichts aufgefallen. Danke. Haben Sie Erbrochen? Nein,
+
+143
+00:20:40,590 --> 00:20:57,780
+ich habe nur Übelkeit. Kein Erbrochen. Haben Sie Vollgefühl, Aufstossen bemerkt? Nein,
+
+144
+00:20:57,780 --> 00:21:07,100
+nein. Es ist mir nicht aufgefallen. Ist diese Schmerzen das erste Mal oder haben Sie
+
+145
+00:21:07,100 --> 00:21:13,700
+früher ähnliche Beschwerden? Nein, diese Schmerzen kenne ich nicht. Die habe ich so noch
+
+146
+00:21:13,780 --> 00:21:26,680
+nie gehabt. Gut, ich lasse Sie jetzt mal noch einige Minuten alleine, dann können Sie sich
+
+147
+00:21:26,680 --> 00:21:37,960
+besser konzentrieren. Entschuldigung, ich habe andere Fragen außer diesem Falle. Wollte ich
+
+148
+00:21:37,960 --> 00:21:44,160
+jetzt fragen oder nach der Vorstellung fragen? Machen wir lieber nach der Vorstellung. Ja,
+
+149
+00:21:44,160 --> 00:21:56,380
+gut. Hallo, guten Tag Herr Dr. Oberarzt. Ich habe eine neue Patienten aufgenommen. Ich
+
+150
+00:21:56,380 --> 00:22:04,780
+würde Sie gerne vorstellen, falls Sie Zeit haben. Ja, habe ich. Also die 36-jährige
+
+151
+00:22:04,780 --> 00:22:16,180
+Frau Elena Stueckermann ist 1,68 Meter groß und wiegt 60 Kilogramm. Frau Stueckermann
+
+152
+00:22:16,180 --> 00:22:25,820
+stellte sich heute bei uns wegen seit 12 Stunden bestehenden dauerhaften, langsam
+
+153
+00:22:25,820 --> 00:22:35,860
+aufgetretenen, drückenden rechten Unterbauchschmerzen vor. Sie berichtet,
+
+154
+00:22:35,860 --> 00:22:45,780
+dass die Schmerzen um den Umbilikus angefangen haben und nach sechs Stunden
+
+155
+00:22:45,780 --> 00:22:56,100
+zur rechten Unterbauch gewandert haben. Okay, also haben das sehr gut eingeleitet. Ich würde
+
+156
+00:22:56,100 --> 00:23:03,260
+vielleicht sagen, Frau Stueckermann berichtet seit, dass sie seit 12 Stunden Abdominalschmerzen
+
+157
+00:23:03,260 --> 00:23:12,700
+habe, die um umbilikal begonnen haben, langsam umbilikal begonnen haben und dann im
+
+158
+00:23:12,780 --> 00:23:21,460
+Verlaufe der Zeit in den rechten Unterbauch oder in die rechte Fossa iliaca, also rechte
+
+159
+00:23:21,460 --> 00:23:30,380
+Unterbauch gezogen sind. Der Schmerz wird als dumpf und erdrückend beschrieben und auf der
+
+160
+00:23:30,380 --> 00:23:37,180
+VAE-Skala mit Stärke 6. So kann man das vielleicht auch schreiben. Also umbilikal begonnen
+
+161
+00:23:37,180 --> 00:23:44,020
+und dann in den Unterbauch gezogen, von der Chronologie her. Ja, also das ist auf jeden
+
+162
+00:23:44,020 --> 00:23:52,380
+Fall besser. Ja, aber das erste war auch schon gut. Danke. Also wie Sie schon gesagt
+
+163
+00:23:52,380 --> 00:24:04,140
+haben, die Schmerzen liegen bei 6 von 10 auf eine Schmerzkala und die Schmerzen
+
+164
+00:24:04,140 --> 00:24:14,740
+verschlechtern sind, wenn man drückt, wenn man in den rechten Unterbauch drückt. Zu
+
+165
+00:24:14,740 --> 00:24:27,940
+den Schmerzen begleitet no ser. Ja, die Schmerzen seien ohne Ausstrahlung. Das habe ich vergessen
+
+166
+00:24:27,940 --> 00:24:40,500
+zu hinzufügen. Ja, die Fragen also nach Erbrochen, Herzstörungen wurden verneint.
+
+167
+00:24:40,500 --> 00:24:50,900
+Sagen Sie ruhig, es besteht Nausea ohne Emesis. Nausea ohne Emesis, weil das ist
+
+168
+00:24:50,900 --> 00:24:55,100
+oft immer ein Zusammenhang. Dann wird gefragt, dann fragt der Oberarzt, hat die
+
+169
+00:24:55,100 --> 00:25:01,340
+Patientin erbrochen, weil sie sagen, es besteht Nausea. Dann sagen Sie ruhig, es besteht Nausea
+
+170
+00:25:01,340 --> 00:25:10,580
+ohne Emesis. Dann hat man diesen Komplex abgehandelt. Gut, hat die Patientin Fieber?
+
+171
+00:25:10,580 --> 00:25:24,580
+Ja, sie habe Fieber. Sie habe es vor zwei Stunden oral gemessen und hat es 38,3 Grad
+
+172
+00:25:24,580 --> 00:25:38,860
+festgestellt. Okay. Sie leide seit gestern unter Inapetens und schmerzbedingte Insomnie.
+
+173
+00:25:38,860 --> 00:25:47,100
+Okay. Sonst ist die vegetative Anamnese unauffällig. Sagen Sie ruhig vielleicht
+
+174
+00:25:47,100 --> 00:25:54,460
+nochmal bewusst dazu, unauffällige Miktion und unauffällige Defekation. Oder letzter
+
+175
+00:25:54,460 --> 00:26:02,420
+Stuhlgang vor ungefähr 18 Stunden und unauffällig ist, oder Miktion unauffällig.
+
+176
+00:26:02,420 --> 00:26:12,980
+Das Ausdruck, dass Sie es auch gefragt haben. Das ist gut. Ja, das ist ja spannend. Hat die
+
+177
+00:26:12,980 --> 00:26:22,780
+Patientin chronische Erkrankungen? Ja, die Patientin leide an einer Herzrhythmusstörung.
+
+178
+00:26:22,780 --> 00:26:33,500
+Ja, ich denke, eine Fachbegriff, aber das ist eine Herzrhythmusstörung. Muss man nicht
+
+179
+00:26:33,500 --> 00:26:42,100
+unbedingt sagen. Das kann wer weiß was sein. Es gibt Six-Sinus-Syndrome oder Sinus-Blockierungen
+
+180
+00:26:42,100 --> 00:26:48,660
+oder Wolf-Parkinson-White oder was die Leute haben, die zu einer Syncope führen. Jedenfalls
+
+181
+00:26:48,740 --> 00:26:55,380
+sagen Sie es ruhig, seit wann oder in welchem Alter das war? Also es ist festgestellt,
+
+182
+00:26:55,380 --> 00:27:04,660
+es sei festgestellt, im Alter von 23 Jahren und sie habe deswegen einen Herzschrittmacher
+
+183
+00:27:04,660 --> 00:27:13,220
+bekommen und seitdem ist alles okay bei ihr. Man kann sagen, aufgrund von Herzrhythmusstörungen
+
+184
+00:27:13,220 --> 00:27:22,340
+mit Syncope, sie ist ja Synkopal gewesen, wurde ein Herzschrittmacher implantiert,
+
+185
+00:27:22,340 --> 00:27:28,740
+seitdem ist die Patientin beschwerdefrei. Was hat die Patientin noch für chronische
+
+186
+00:27:28,740 --> 00:27:41,060
+Erkrankungen? Sie leide auch an Fructosintoleranz. Fructosintoleranz und es sei mit Diät behandelt.
+
+187
+00:27:41,060 --> 00:27:58,980
+Okay, gut. Bei Frau Stueckmann wurde im Alter von zehn Jahren eine linkseitige Inguinalhernie-Operation
+
+188
+00:27:58,980 --> 00:28:10,580
+durchgeführt. Ja, man kann auch sagen eine Herniotomie.
+
+189
+00:28:10,900 --> 00:28:18,100
+Eine Herniotomie durchgeführt. Das wäre nochmal das komplette, aber die Operation ist in Ordnung
+
+190
+00:28:18,100 --> 00:28:22,660
+wegen einer linkseitigen Inguinalhernie. Das war wichtig, das haben Sie sehr gut gesagt.
+
+191
+00:28:22,660 --> 00:28:34,500
+Okay, danke. Und im Alter von 20 Jahren sei bei Frau Stueckmann eine linkseitige
+
+192
+00:28:34,740 --> 00:28:42,980
+Sprung wegen einer linkseitigen Sprünkelenkfraktur aufgrund von Fahrradunfall eine Operation
+
+193
+00:28:42,980 --> 00:28:48,900
+durchgeführt worden. Sie hat gesagt der linke Außenknöchel, das wäre wahrscheinlich
+
+194
+00:28:48,900 --> 00:28:56,100
+eine Distale-Fibula-Fraktur in dem Bereich, also Sprünkelenk-OSG. Gut, und das wurde
+
+195
+00:28:56,180 --> 00:29:05,860
+auch mit Osteosynthese versorgt. Ja, Osteosynthese. Okay, gut. Können Sie noch mehr berichten
+
+196
+00:29:05,860 --> 00:29:15,940
+über die Familie? Ja, ich möchte erst über die Noxen berichten. Sie sei nicht Braucherin und
+
+197
+00:29:16,020 --> 00:29:27,940
+sie trinke gelegentlich Alkohol, also ungefähr zwei Gläser am Wochenende. Sie habe keinen
+
+198
+00:29:27,940 --> 00:29:37,060
+Kontakt mit Drogen und sie treibt regelmäßig Sport. Sie ist eine Sportlehrerin und
+
+199
+00:29:37,300 --> 00:29:48,500
+ist körperlich, sie bewegt sich körperlich jeden Tag in der Schule. Okay. Und außerdem joggt
+
+200
+00:29:48,500 --> 00:29:58,100
+sie. Sie sei vollständig geimpft und bis auf eine Spanien- und Italienreise sei die Reise
+
+201
+00:29:58,180 --> 00:30:10,180
+an der Amnese unauffällig. Der Vater von Frau Stöckermann sei im Alter von 66 Jahren an einem
+
+202
+00:30:10,180 --> 00:30:19,780
+Myokadinfaktus gestorben und vorher habe er zehn Jahre lang an Prostatkarzinom gelitten.
+
+203
+00:30:19,780 --> 00:30:36,900
+Die Mutter sei leider an einem Ovariankarzinom seit drei Jahren und es wurde mit Operationen und
+
+204
+00:30:36,900 --> 00:30:48,580
+Chemotherapie behandelt. Okay. Und die Schwester leider an einer Hypothyrose. Okay, gut. Ja.
+
+205
+00:30:49,380 --> 00:30:55,300
+Frau Stöckermann sei verheiratet, sie habe eine gesunde Tochter und wie ich schon gesagt habe,
+
+206
+00:30:55,300 --> 00:31:01,700
+sie arbeitet als Sportlehrerin. Sie bekommt ihre Menstruation regelmäßig,
+
+207
+00:31:01,780 --> 00:31:10,900
+aber sie habe ihre letzte Menstruation vor sieben Wochen bekommen und sie war noch nicht bei
+
+208
+00:31:10,900 --> 00:31:28,860
+ihrem Frauenarzt, bei ihrem Gynäkologe wegen dieser Station. Okay. Aber Frau Stöckermann
+
+209
+00:31:28,940 --> 00:31:35,340
+hat gesagt, ich werde nächste Woche, möchte ich gerne zur Gynäkologin. Ja, okay. Gut. Ja,
+
+210
+00:31:35,340 --> 00:31:43,740
+das habe ich jetzt erstmal viele Informationen bekommen. Was ist denn Ihre Verdachtsdiagnose?
+
+211
+00:31:43,740 --> 00:31:58,730
+Ja, also die anamnistischen Angaben, also sprechen für eine Appendicitis und
+
+212
+00:31:58,730 --> 00:32:07,490
+Differentialdiagnostik kommen, also eine Ovarialtorsion, vielleicht eine Colizistitis,
+
+213
+00:32:07,490 --> 00:32:19,690
+vielleicht Ileus und vielleicht eine Divertikulitis. Okay. Divertikulitis würden
+
+214
+00:32:19,690 --> 00:32:25,730
+wir wahrscheinlich eher im linken Unterbauch erwarten? Ja, höchstwahrscheinlich ist
+
+215
+00:32:25,730 --> 00:32:39,970
+die Appendicitis einverstanden. Und Gynäkologisch? Also Ovarialtorsion kommt in
+
+216
+00:32:39,970 --> 00:32:52,570
+meinen Betracht. Eine Extrauterin-Gravität? Ja, genau, eine Extrauterin-Gravität. Ja,
+
+217
+00:32:52,570 --> 00:32:59,250
+das würde ich eventuell... Das sollte am ersten Blick... Differential an erster Stelle stehen,
+
+218
+00:32:59,250 --> 00:33:06,050
+ausbleibende Periode vor sieben Wochen, letzte Menstruation, zumindest unklar. Eine
+
+219
+00:33:06,050 --> 00:33:11,930
+Kollegin hatte noch nach Fluor gefragt, Fluor genitalis, das liegt wohl nicht vor. Was dann...
+
+220
+00:33:11,930 --> 00:33:17,890
+Manchmal ist ja eine Anexitis vielleicht auch mit im Spiel, dann gibt es vielleicht noch
+
+221
+00:33:17,890 --> 00:33:22,650
+andere Begleitsymptome. Aber zumindest Verdacht auf Appendicitis natürlich,
+
+222
+00:33:22,650 --> 00:33:28,250
+da wird natürlich an einen Gynäkologischen Prozess. Das würde ich sagen, sind die
+
+223
+00:33:28,250 --> 00:33:35,410
+beiden Hauptpunkte, die es jetzt abzuklären gilt. A, durch eine körperliche Untersuchung,
+
+224
+00:33:35,410 --> 00:33:41,690
+vielleicht durch ein gynäkologisches Konzil, je nachdem wie die Klinik ausgestattet ist. Und
+
+225
+00:33:41,690 --> 00:33:49,090
+natürlich letztendlich auch durch dann ergänzende Labouruntersuchung bzw. Abdominalsonographie.
+
+226
+00:33:49,090 --> 00:33:56,610
+Klar. Aber gut. Erstmal vielen Dank. Das haben Sie wieder sehr gut gemacht, finde ich. Sie
+
+227
+00:33:56,610 --> 00:34:02,650
+haben das sehr strukturiert gefragt und ich habe Sie gut verstanden. Und Sie haben auch die
+
+228
+00:34:02,650 --> 00:34:09,730
+Grammatik denke ich gut eingesetzt. Bei der Körpergröße brauchen Sie nicht sagen, sagen Sie
+
+229
+00:34:09,730 --> 00:34:21,730
+ruhig entweder 1,68 Meter. Das ist gängig. Sie können auch sagen 168 Zentimeter groß. Aber
+
+230
+00:34:21,730 --> 00:34:30,850
+in Deutschland wird meist gesagt 1,68 Meter. 1,68 Meter. Dazwischen gibt es keinen Grund.
+
+231
+00:34:31,330 --> 00:34:40,250
+1,68 Meter groß. Aber sonst denke ich haben Sie auch die Fachbegriffe sehr gut gebracht.
+
+232
+00:34:40,250 --> 00:34:50,130
+Da kam es schon mal drauf an. Ob Nausea oder Emesis oder Fructoseintoleranz. Manche sagen
+
+233
+00:34:50,130 --> 00:34:56,450
+Fructoseunverträglichkeit. Das wäre die erworbene Fructose. Die Intoleranz ist ja oft
+
+234
+00:34:56,450 --> 00:35:02,450
+angeboren bei Kindern leider. Da muss man gucken. Aber Fructoseintoleranz ist in Ordnung.
+
+235
+00:35:02,450 --> 00:35:09,330
+Das kann man durchaus sagen. Myokatinfarkt, Prostata-Karzinom, Ovarialkarzinom,
+
+236
+00:35:09,330 --> 00:35:18,050
+Hypothyriose. Diese Dinge haben Sie denke ich alle gut ohne Probleme in Ihrem Repertoire.
+
+237
+00:35:18,050 --> 00:35:24,890
+Das ist gut. Ja. Und wann ist jetzt Ihre Prüfung? Am Montag. Sie haben mir das
+
+238
+00:35:25,210 --> 00:35:30,170
+schon mal gesagt. Ja, das ist die zweite Simulation mit Ihnen. Also die erste war
+
+239
+00:35:30,170 --> 00:35:35,490
+eigentlich nicht so gut. Ich war nicht so konzentriert. Das fand ich schon. Und die ist
+
+240
+00:35:35,490 --> 00:35:40,330
+in Karlsruhe oder wo ist das? Ja, in Karlsruhe. Irgendwes habe ich da noch in Erinnerung.
+
+241
+00:35:40,330 --> 00:35:47,050
+Ja, Karlsruhe. Und am Montag. Ja, da werden Sie ganz, wenn Sie da so schön ruhig bleiben
+
+242
+00:35:47,050 --> 00:35:53,410
+wie jetzt und dann haben Sie das drauf. Sie kriegen das gut hin. Vielen Dank. Mit
+
+243
+00:35:53,490 --> 00:36:01,170
+Ihrer Hilfe. Ich würde jetzt sagen viel Erfolg erst mal für Ihre Prüfung und bedanke mich bei
+
+244
+00:36:01,170 --> 00:36:02,610
+den Teilnehmerinnen.
