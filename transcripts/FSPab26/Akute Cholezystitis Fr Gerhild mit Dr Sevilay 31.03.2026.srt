@@ -1,0 +1,23 @@
+1
+00:00:00,660 --> 00:00:21,340
+Guten Tag, ich bin Assistentärztin Dr. Sevilei und würde mit Ihnen gerne ein Aufnahmegespräch führen.
+
+2
+00:00:21,340 --> 00:00:24,340
+Wenn Sie damit einverstanden sind, können wir anfangen.
+
+3
+00:00:24,340 --> 00:00:27,340
+Ja, gerne natürlich.
+
+4
+00:00:27,340 --> 00:00:31,340
+Und wie heißen Sie?
+
+5
+00:00:31,340 --> 00:00:34,340
+Ich heiße Petra Franke.
+
+6
+00:00:34,340 --> 00:00:38,340
+Können wir irgendwie das Echo loswerden? Das nervt total.
