@@ -1,0 +1,1519 @@
+1
+00:00:04,300 --> 00:00:11,300
+Leiden Sie unter Übelkeit oder haben Sie schon mal erbrochen?
+
+2
+00:00:11,300 --> 00:00:15,300
+Ja, mir ist übel und ich habe einmal erbrochen.
+
+3
+00:00:15,300 --> 00:00:18,300
+Wie sagt das Erbrochenes aus?
+
+4
+00:00:18,300 --> 00:00:22,300
+So gelb, schleimig.
+
+5
+00:00:22,300 --> 00:00:29,820
+Haben Sie Blutspuren bemerkt?
+
+6
+00:00:29,820 --> 00:00:35,860
+Nein, habe ich nicht gesehen.
+
+7
+00:00:35,860 --> 00:00:39,860
+Leiden Sie unter Herzschmerzen oder Brustschmerzen?
+
+8
+00:00:39,860 --> 00:00:41,860
+Nein, habe ich nicht.
+
+9
+00:00:41,860 --> 00:00:46,860
+Haben Sie Herzrasen oder Herzstolpern bemerkt?
+
+10
+00:00:46,860 --> 00:00:51,860
+Mein Puls ist etwas höher, glaube ich. Aber das liegt glaube ich am Fieber.
+
+11
+00:00:51,860 --> 00:01:00,960
+Haben Sie keine Enge gefühlt?
+
+12
+00:01:00,960 --> 00:01:02,960
+Nein.
+
+13
+00:01:02,960 --> 00:01:09,960
+Sind Ihnen die Husten oder Atemnot aufgefallen?
+
+14
+00:01:09,960 --> 00:01:11,960
+Nein.
+
+15
+00:01:11,960 --> 00:01:27,360
+Haben Sie die Fieber gemessen?
+
+16
+00:01:27,360 --> 00:01:30,360
+Ja, ich habe Fieber 38,8.
+
+17
+00:01:30,360 --> 00:01:38,100
+Haben Sie keine Medikamente deswegen?
+
+18
+00:01:38,100 --> 00:01:44,100
+Nein, bis jetzt nicht. Das Fieber habe ich auch erst vor einigen Stunden gemessen.
+
+19
+00:01:44,100 --> 00:01:48,100
+Haben Sie die Engebechwerden früher gehabt?
+
+20
+00:01:48,100 --> 00:01:52,100
+Nein, noch nie.
+
+21
+00:01:52,100 --> 00:01:58,100
+Haben Sie Schluckbechwerden oder Herzschmerzen?
+
+22
+00:01:58,100 --> 00:02:00,100
+Nein, habe ich nicht.
+
+23
+00:02:00,100 --> 00:02:05,400
+Keine Schluckbechwerden.
+
+24
+00:02:05,400 --> 00:02:11,400
+Haben Sie Probleme beim Stuhlgang oder Wasserlassen?
+
+25
+00:02:11,400 --> 00:02:18,400
+Stuhlgang ist in Ordnung. Beim Wasserlassen habe ich bemerkt, dass etwas brennt.
+
+26
+00:02:18,400 --> 00:02:21,400
+Und ich muss oft Wasser lassen.
+
+27
+00:02:21,400 --> 00:02:29,490
+Öfters als sonst.
+
+28
+00:02:29,490 --> 00:02:39,490
+Hat sich der Urin in den letzten Zeiten dunkler?
+
+29
+00:02:39,490 --> 00:02:44,490
+Der Urin ist nicht so klar. Sonst ist der Urin immer sehr klar.
+
+30
+00:02:44,490 --> 00:02:48,490
+Und jetzt ist er etwas trübel.
+
+31
+00:02:48,490 --> 00:02:50,490
+Trübel?
+
+32
+00:02:50,490 --> 00:02:54,500
+Ja.
+
+33
+00:02:54,500 --> 00:02:57,500
+Meinten Sie Eitzig oder?
+
+34
+00:02:57,500 --> 00:03:01,500
+Er ist wie ein Schleier auf dem Urin. Er ist nicht so klar.
+
+35
+00:03:01,500 --> 00:03:09,800
+Sonst ist der Urin sehr klar und jetzt ist er eher so milchig.
+
+36
+00:03:10,800 --> 00:03:16,210
+Haben Sie noch Ländenschmerzen?
+
+37
+00:03:16,210 --> 00:03:19,210
+Hauptsächlich ist der Schmerz hinten im Rücken.
+
+38
+00:03:19,210 --> 00:03:21,210
+Auf der rechten Seite.
+
+39
+00:03:21,210 --> 00:03:23,210
+Und Bauch auch.
+
+40
+00:03:23,210 --> 00:03:29,380
+Bauch auch ein bisschen. Aber mehr im Rücken.
+
+41
+00:03:29,380 --> 00:03:34,380
+Wie schlafen Sie in der letzten Zeit? Haben Sie Schlafprobleme?
+
+42
+00:03:34,380 --> 00:03:39,380
+Normalerweise schlafe ich gut. Aber die letzte Nacht habe ich nicht gut geschlafen.
+
+43
+00:03:39,380 --> 00:03:42,380
+Wegen dieser Beschwerden.
+
+44
+00:03:54,980 --> 00:03:57,980
+Ist Ihnen schwindelig?
+
+45
+00:03:57,980 --> 00:03:59,980
+Nein, ist nicht schwindelig.
+
+46
+00:03:59,980 --> 00:04:01,980
+Wie ist Ihr Appetit?
+
+47
+00:04:01,980 --> 00:04:05,980
+Normalerweise ist er gut. Aber seit zwei Tagen nicht so gut.
+
+48
+00:04:05,980 --> 00:04:09,980
+Mir ist ja übel und ich habe ja auch erbrochen. Da habe ich nicht so guten Appetit.
+
+49
+00:04:09,980 --> 00:04:14,980
+Haben Sie in letzter Zeit ungewohnt ab oder zugenommen?
+
+50
+00:04:14,980 --> 00:04:19,900
+Nein, ich habe mein Gewicht gehalten.
+
+51
+00:04:24,940 --> 00:04:28,940
+Waren Sie deswegen bei einem anderen Arzt?
+
+52
+00:04:28,940 --> 00:04:30,940
+Nein.
+
+53
+00:04:30,940 --> 00:04:35,940
+Sie sind direkt zu uns gekommen.
+
+54
+00:04:35,940 --> 00:04:42,800
+Leiden Sie ein chronischer Kranken?
+
+55
+00:04:43,800 --> 00:04:50,800
+Ja, seit 20 Jahren habe ich eine Schilddrüsenunterfunktion.
+
+56
+00:04:50,800 --> 00:04:59,820
+Da wurde mir gesagt, dass das eine chronische Schilddrüsenentzündung sei.
+
+57
+00:04:59,820 --> 00:05:02,820
+Da muss ich auch ein Medikament nehmen.
+
+58
+00:05:02,820 --> 00:05:06,800
+Welches Medikament nehmen Sie ein?
+
+59
+00:05:06,800 --> 00:05:09,800
+Das Mittel heißt Eutyrox.
+
+60
+00:05:09,800 --> 00:05:20,910
+Erinnern Sie sich die Name Ihrer Krankheit?
+
+61
+00:05:21,910 --> 00:05:27,910
+Man hat gesagt, das sei eine chronische Schilddrüsenentzündung.
+
+62
+00:05:27,910 --> 00:05:32,910
+Man hat ja gesagt, das sei eine Autoimmunerkrankung.
+
+63
+00:05:32,910 --> 00:05:35,910
+Mehr kann ich dazu nicht sagen.
+
+64
+00:05:35,910 --> 00:05:39,910
+Sie haben gesagt, dass Sie Eutyrox einnehmen.
+
+65
+00:05:39,910 --> 00:05:41,910
+Wie viel Milgramm?
+
+66
+00:05:41,910 --> 00:05:44,910
+Dahinter steht 50.
+
+67
+00:05:44,910 --> 00:05:48,910
+Und da nehme ich eine Morgens.
+
+68
+00:05:48,910 --> 00:05:51,910
+Und was steht bei Ihnen?
+
+69
+00:05:51,910 --> 00:05:53,910
+Noch andere Erkrankungen?
+
+70
+00:05:53,910 --> 00:05:58,910
+Ja, ich habe noch eine Allergie auf Hausstaubmilbe.
+
+71
+00:05:58,910 --> 00:06:00,910
+Wie auch ich soll es sich?
+
+72
+00:06:00,910 --> 00:06:05,910
+Und auch Pollenallergie, Gräser und Getreide.
+
+73
+00:06:05,910 --> 00:06:09,910
+Da habe ich schon zweimal eine Spritzenbehandlung gemacht.
+
+74
+00:06:09,910 --> 00:06:13,910
+Eine Desensibilisierung.
+
+75
+00:06:13,910 --> 00:06:17,910
+Das hat etwas geholfen, aber noch nicht so richtig.
+
+76
+00:06:18,910 --> 00:06:24,480
+Wie äußert sich die Allergie?
+
+77
+00:06:24,480 --> 00:06:28,480
+Hauptsächlich an den Schleimhäuten.
+
+78
+00:06:28,480 --> 00:06:32,480
+Nase, Augen, die Augen tränen.
+
+79
+00:06:32,480 --> 00:06:39,480
+Und im Sommer, wenn Getreide und Gräser stark sind, habe ich auch manchmal Asthma.
+
+80
+00:06:39,480 --> 00:06:43,480
+Und dann muss ich auch in dieser Zeit, das sind so 2-3 Wochen,
+
+81
+00:06:43,480 --> 00:06:46,480
+nehme ich dann auch zwei verschiedene Asthmaspres.
+
+82
+00:06:46,480 --> 00:06:52,480
+Wie heisst dieses Medikament?
+
+83
+00:06:52,480 --> 00:06:57,480
+Das eine Asthma-Spray heisst BUDES.
+
+84
+00:06:57,480 --> 00:07:04,460
+Und das andere Salbutamol.
+
+85
+00:07:04,460 --> 00:07:06,460
+Bei Bedarf?
+
+86
+00:07:06,460 --> 00:07:10,460
+Ja, BUDES nehme ich dann in dieser Zeit regelmäßig.
+
+87
+00:07:10,460 --> 00:07:20,020
+Für 2-3 Wochen und Salbutamol bei Bedarf.
+
+88
+00:07:20,020 --> 00:07:26,020
+Gibt es bei Ihnen noch andere Erkrankungen, von denen ich wissen sollte?
+
+89
+00:07:26,020 --> 00:07:32,020
+Nein, sonst geht es mir eigentlich ganz gut.
+
+90
+00:07:32,020 --> 00:07:39,020
+Wurden Sie schon mal operiert?
+
+91
+00:07:39,020 --> 00:07:47,020
+Ja, im Alter von 12 Jahren wurde ich an der rechten Leiste, am Leistenbruch operiert.
+
+92
+00:07:47,020 --> 00:07:51,020
+Da war ich 12 Jahre alt.
+
+93
+00:07:51,020 --> 00:07:55,020
+Die Operation komplikation?
+
+94
+00:07:55,020 --> 00:07:57,020
+Die war in Ordnung, ja.
+
+95
+00:07:57,020 --> 00:08:04,020
+Vor 11 Jahren hatte ich einen Kaiserschnitt bei der Geburt meiner Tochter.
+
+96
+00:08:04,020 --> 00:08:08,430
+Das war vor 11 Jahren.
+
+97
+00:08:08,430 --> 00:08:15,430
+Und vor 5 Jahren hatte ich mir den linken Unterarm, beide Knochen, gebrochen.
+
+98
+00:08:15,430 --> 00:08:18,430
+Beide Knochen am Unterarm.
+
+99
+00:08:18,430 --> 00:08:22,430
+Ich glaube das ist Elle und Speiche.
+
+100
+00:08:22,430 --> 00:08:30,780
+Da habe ich gebrochen gehabt durch einen Sturz mit dem Fahrrad und das musste operiert werden.
+
+101
+00:08:30,780 --> 00:08:34,780
+Und beide Handgelenke haben Sie gesagt, oder?
+
+102
+00:08:34,780 --> 00:08:37,780
+Nein, links. Nur der linke Unterarm.
+
+103
+00:08:37,780 --> 00:08:40,780
+Aber beide Knochen.
+
+104
+00:08:40,780 --> 00:08:56,780
+Und wurde bei Ihnen eine Kaiserschnitt durchgeführt?
+
+105
+00:08:56,780 --> 00:08:59,780
+Kaiserschnitt vor 11 Jahren.
+
+106
+00:08:59,780 --> 00:09:04,780
+Meinten Sie, die Tochter geboren hat?
+
+107
+00:09:04,780 --> 00:09:09,780
+Nein, nur Kaiserschnitt, für die Geburt.
+
+108
+00:09:09,780 --> 00:09:19,340
+Ja, und gibt es in Ihrer Familie wichtige und chronische Erkrankungen?
+
+109
+00:09:19,340 --> 00:09:22,340
+Also mein Vater ist 68 Jahre alt.
+
+110
+00:09:22,340 --> 00:09:29,340
+Und seit 5 Jahren muss er 3 Mal pro Woche zur Blutwäsche.
+
+111
+00:09:29,340 --> 00:09:35,220
+Weil er eine schlechte Nierenfunktion hat.
+
+112
+00:09:35,220 --> 00:09:37,220
+Blut? Was?
+
+113
+00:09:37,220 --> 00:09:44,220
+Wäsche. Das wird das Blut gereinigt, weil die Nieren nicht mehr verarbeitet.
+
+114
+00:09:44,220 --> 00:09:46,220
+Seit 5 Jahren?
+
+115
+00:09:46,220 --> 00:09:48,220
+Ja.
+
+116
+00:09:49,220 --> 00:09:52,220
+Wegen der Niereninsuffizienz, oder?
+
+117
+00:09:52,220 --> 00:10:00,450
+Also schlechte funktionierende Nieren, ja.
+
+118
+00:10:00,450 --> 00:10:03,450
+Und die Mutter ist noch am Leben?
+
+119
+00:10:03,450 --> 00:10:06,450
+Die Mutter ist auch 68 Jahre alt.
+
+120
+00:10:06,450 --> 00:10:13,450
+Und bei der Mutter wurde vor 2 Jahren ein Krebs am Enddarm festgestellt.
+
+121
+00:10:13,450 --> 00:10:16,450
+Also am Enddarm.
+
+122
+00:10:16,450 --> 00:10:19,450
+Ein Krebs, der musste operiert werden.
+
+123
+00:10:19,450 --> 00:10:25,450
+Das war wohl sehr schwierig, aber es ist gut geworden und sie fühlt sich im Augenblick wohl.
+
+124
+00:10:25,450 --> 00:10:27,450
+Das geht.
+
+125
+00:10:27,450 --> 00:10:29,450
+Und haben Sie Geschwister?
+
+126
+00:10:29,450 --> 00:10:31,450
+Ja, einen Bruder.
+
+127
+00:10:31,450 --> 00:10:36,500
+Der hatte als Kind einen Wasserkopf.
+
+128
+00:10:36,500 --> 00:10:41,500
+Und dann bekam er ein kleines Röhrchen, einen Schlauch vom Kopf in den Bauchraum.
+
+129
+00:10:41,500 --> 00:10:46,500
+Und dann wurde das überflüssige Wasser da in den Bauchraum abgeleitet.
+
+130
+00:10:46,500 --> 00:10:48,500
+Und das hat wohl gut funktioniert.
+
+131
+00:10:48,500 --> 00:10:54,500
+Und er hat jetzt seit einigen Jahren eine chronische Darmentzündung.
+
+132
+00:10:54,500 --> 00:10:57,500
+Ich weiß aber nicht genau den Namen.
+
+133
+00:10:57,500 --> 00:11:01,500
+Und manchmal hat er sehr viel Blut im Stuhl.
+
+134
+00:11:01,500 --> 00:11:06,500
+Muss dann auch immer dementsprechende Medikamente nehmen.
+
+135
+00:11:07,500 --> 00:11:09,500
+Wie alt ist er?
+
+136
+00:11:09,500 --> 00:11:12,500
+Der Bruder ist 36.
+
+137
+00:11:12,500 --> 00:11:14,500
+36.
+
+138
+00:11:14,500 --> 00:11:18,500
+Sind Sie verheiratet?
+
+139
+00:11:18,500 --> 00:11:20,500
+Ja.
+
+140
+00:11:20,500 --> 00:11:22,500
+Und was machen Sie für die Pflicht?
+
+141
+00:11:22,500 --> 00:11:25,500
+Wir wohnen zusammen mit meinem Mann und meiner Tochter.
+
+142
+00:11:25,500 --> 00:11:27,500
+Sie haben noch eine Tochter?
+
+143
+00:11:27,500 --> 00:11:30,500
+Eine Tochter, ja. 11 Jahre alt.
+
+144
+00:11:30,500 --> 00:11:32,500
+Ist sie gesund?
+
+145
+00:11:32,500 --> 00:11:35,290
+Ja.
+
+146
+00:11:35,290 --> 00:11:37,290
+Und was machen Sie für die Pflicht?
+
+147
+00:11:37,290 --> 00:11:44,960
+Ich bin Verkäuferin in einem Schuhgeschäft.
+
+148
+00:11:44,960 --> 00:11:46,960
+Schuhgeschäft.
+
+149
+00:11:46,960 --> 00:11:48,960
+Für Schuhe.
+
+150
+00:11:48,960 --> 00:11:53,300
+Schuhe.
+
+151
+00:11:53,300 --> 00:11:55,300
+Haben Sie Haustiere?
+
+152
+00:11:55,300 --> 00:11:57,300
+Nein, keine Haustiere.
+
+153
+00:11:57,300 --> 00:12:01,300
+Waren Sie in der letzten Zeit im Ausland?
+
+154
+00:12:01,300 --> 00:12:05,300
+Ich war in Italien.
+
+155
+00:12:05,300 --> 00:12:11,300
+Im Herbst, im Oktober war ich eine Woche in Italien, in Rom.
+
+156
+00:12:11,300 --> 00:12:13,300
+Aber sonst war ich nicht im Ausland.
+
+157
+00:12:13,300 --> 00:12:16,300
+Haben Sie irgendwelche Beschwerden nach der Reise gehabt?
+
+158
+00:12:16,300 --> 00:12:18,300
+Nein.
+
+159
+00:12:18,300 --> 00:12:28,660
+Und ist Ihre Regelblutung regelmäßig?
+
+160
+00:12:28,660 --> 00:12:39,860
+Ja, zuletzt vor zwei Wochen.
+
+161
+00:12:39,860 --> 00:12:43,860
+Gibt es eine Möglichkeit für Schwänke?
+
+162
+00:12:43,860 --> 00:12:45,860
+Das glaube ich nicht.
+
+163
+00:12:45,860 --> 00:12:52,920
+Nein, das glaube ich nicht.
+
+164
+00:12:52,920 --> 00:13:01,920
+Und Frau Osteman, Sie haben gesagt, dass Sie häufig Wasser lassen müssen.
+
+165
+00:13:01,920 --> 00:13:06,920
+Und wie häufig müssen Sie am Tag Wasser lassen?
+
+166
+00:13:06,920 --> 00:13:09,920
+Also pro Stunde mindestens einmal.
+
+167
+00:13:09,920 --> 00:13:11,920
+Manchmal zweimal.
+
+168
+00:13:11,920 --> 00:13:18,920
+Wann treten diese Beschwerden besonders auf? In der Nacht oder?
+
+169
+00:13:18,920 --> 00:13:20,920
+Nein, auch tagsüber.
+
+170
+00:13:20,920 --> 00:13:23,920
+Das ist jetzt erst seit zwei Tagen.
+
+171
+00:13:23,920 --> 00:13:27,680
+Vorher war das nicht.
+
+172
+00:13:27,680 --> 00:13:34,680
+Vorher war alles in Ordnung.
+
+173
+00:13:34,680 --> 00:13:46,220
+Und Sie haben keine Blutverspuren im Urin bemerkt, oder?
+
+174
+00:13:46,220 --> 00:13:50,220
+Habe ich nicht gesehen. Das bin ich auch nicht gesehen.
+
+175
+00:13:50,220 --> 00:13:53,220
+Und Leidungsunter-Schweißausbrüche, oder?
+
+176
+00:13:53,220 --> 00:13:57,220
+Ja, ich habe in der letzten Nacht sehr stark geschwitzt.
+
+177
+00:13:57,220 --> 00:13:59,220
+Besonders in der Nacht.
+
+178
+00:13:59,220 --> 00:14:09,510
+Ja, ich habe meine alle Tage gestellt.
+
+179
+00:14:09,510 --> 00:14:13,510
+Möchten Sie etwas dazu sagen über Ihre Beschwerden?
+
+180
+00:14:13,510 --> 00:14:16,510
+Ja, was kann ich haben? Was kann das sein?
+
+181
+00:14:16,510 --> 00:14:23,510
+Ja, Frau Osteman, das ist so, um die richtige Diagnose zu stellen.
+
+182
+00:14:23,510 --> 00:14:33,510
+Aber natürlich habe ich, oder vermute, wegen Ihrer Beschwerden eine Diagnose.
+
+183
+00:14:33,510 --> 00:14:44,510
+Aber um die Diagnose zu bestätigen, müssen wir einige Unterzüge durchführen.
+
+184
+00:14:44,510 --> 00:14:46,510
+Und Blut abnehmen.
+
+185
+00:14:47,510 --> 00:14:54,510
+Nach den Ergebnissen können wir nochmal über Ihre Beschwerden und Krankheitserwähren sprechen.
+
+186
+00:14:54,510 --> 00:14:56,510
+Okay, das können wir gut machen.
+
+187
+00:14:56,510 --> 00:15:00,510
+Gut, danke. Dann haben Sie jetzt erst mal einige Minuten Zeit.
+
+188
+00:15:00,510 --> 00:15:05,510
+Denken Sie an die Übersetzung der Patientensprache in Fachsprache.
+
+189
+00:15:05,510 --> 00:15:16,700
+Und Kolleginnen und Kollegen, die zugeschaut zugehört haben, haben vielleicht doch Ergänzungsfragen.
+
+190
+00:15:16,700 --> 00:15:24,700
+Oder sind alle wesentlichen Fragen gestellt worden, die wichtig sind für eine Diagnosefindung?
+
+191
+00:15:34,940 --> 00:15:37,940
+Sie können das fragen.
+
+192
+00:15:37,940 --> 00:15:46,670
+Sie haben gesagt, dass Sie am rechten Bauch leichte Schmerzen haben.
+
+193
+00:15:46,670 --> 00:15:52,670
+Aber wo können Sie Ihre Schmerzen genau localisiert?
+
+194
+00:15:52,670 --> 00:15:54,670
+Am Oberbauch oder?
+
+195
+00:15:54,670 --> 00:15:57,670
+Am Bauch sind sie mehr so in der Mitte.
+
+196
+00:15:57,670 --> 00:16:00,670
+Aber der Hauptschmerz ist am Rücken rechts.
+
+197
+00:16:00,670 --> 00:16:04,670
+Rechts am Rücken, da am Ende, wo die Rippen sind.
+
+198
+00:16:04,670 --> 00:16:07,670
+Wo die Rippen zu Ende sind, da unten.
+
+199
+00:16:09,670 --> 00:16:11,670
+Ja, danke schön.
+
+200
+00:16:15,670 --> 00:16:18,670
+Und noch eine letzte Frage.
+
+201
+00:16:18,670 --> 00:16:28,670
+Haben Sie Veränderungen an Ihrem Gesicht oder Ihren Körper bemerkt?
+
+202
+00:16:28,670 --> 00:16:31,670
+Ich meinte die Farbeveränderungen.
+
+203
+00:16:31,670 --> 00:16:33,670
+Nein, das ist mir nicht aufgefallen.
+
+204
+00:16:33,670 --> 00:16:37,670
+Vielleicht sind Sie gelblich geworden.
+
+205
+00:16:37,670 --> 00:16:38,670
+Nein.
+
+206
+00:16:38,670 --> 00:16:39,670
+Danke schön.
+
+207
+00:16:39,670 --> 00:16:45,780
+Gut, dann lasse ich Sie jetzt zwei, drei Minuten in Ruhe.
+
+208
+00:16:45,780 --> 00:16:47,780
+Dann können Sie sich konzentrieren.
+
+209
+00:16:47,780 --> 00:16:49,780
+Ich komme gleich wieder zu Ihnen.
+
+210
+00:16:49,780 --> 00:16:52,780
+Und dann stellen Sie die Patientin bitte vor.
+
+211
+00:16:52,780 --> 00:16:53,780
+Danke, bis gleich.
+
+212
+00:16:53,780 --> 00:16:54,780
+Danke schön.
+
+213
+00:19:42,610 --> 00:19:48,980
+Ja, vergessen.
+
+214
+00:19:48,980 --> 00:19:51,980
+Ich bin mal einstellen.
+
+215
+00:19:51,980 --> 00:19:57,980
+Ich wollte fragen, dass Ihre Schmerzen schon schlimmer geworden sind.
+
+216
+00:19:57,980 --> 00:20:00,980
+Aber ja, ich kann so weiterführen.
+
+217
+00:20:00,980 --> 00:20:04,980
+Und guten Tag Herr Chefarzt.
+
+218
+00:20:04,980 --> 00:20:09,980
+Ich möchte Ihnen heute unsere neuen Patienten vorstellen.
+
+219
+00:20:09,980 --> 00:20:11,980
+Wenn Sie seit haben, kann ich anfangen.
+
+220
+00:20:11,980 --> 00:20:13,980
+Ja, habe ich.
+
+221
+00:20:13,980 --> 00:20:22,980
+Es handelt sich um Frau Anna Ostermann.
+
+222
+00:20:22,980 --> 00:20:26,980
+Sie ist 38 Jahre alt.
+
+223
+00:20:26,980 --> 00:20:33,980
+26. April 1987 geboren.
+
+224
+00:20:33,980 --> 00:20:37,980
+1987.
+
+225
+00:20:37,980 --> 00:20:43,980
+Ich freue mich gleich auf Ihre Schmerzen.
+
+226
+00:20:43,980 --> 00:20:46,980
+Nein, das ist falsch.
+
+227
+00:20:46,980 --> 00:20:48,980
+Ich habe das nicht bemerkt.
+
+228
+00:20:48,980 --> 00:20:49,980
+Okay.
+
+229
+00:20:49,980 --> 00:20:51,980
+Ich habe mir das gehört.
+
+230
+00:20:51,980 --> 00:20:59,980
+Sie ist 1,70 Meter groß und 64 Kilogramm schwer.
+
+231
+00:20:59,980 --> 00:21:00,980
+Okay.
+
+232
+00:21:00,980 --> 00:21:01,980
+Okay.
+
+233
+00:21:01,980 --> 00:21:24,990
+Und der Patientin stellte sich seit zwei Tagen bestehende, dauerhafte, dumpfartige und langsam aufgetretene Rückenschmerzen am rechten Bereich.
+
+234
+00:21:24,990 --> 00:21:33,570
+Und leichte ...
+
+235
+00:21:33,570 --> 00:21:55,570
+Sie können sagen, dass die Patientin sich seit zwei Tagen bestehende, dumpfer und drückende Dorsalenschmerzen und auch im linken Mittelbauch befindliche Schmerzen vorstellte.
+
+236
+00:21:55,570 --> 00:22:04,570
+Und die Schmerzintensität wurde mit vier von zehn auf der Schmerzskala bewertet.
+
+237
+00:22:04,570 --> 00:22:08,570
+Es gab keine Auslöse für die Schmerzen.
+
+238
+00:22:08,570 --> 00:22:15,570
+Und die Patientin hat keine Medikamente dagegen eingenommen.
+
+239
+00:22:15,570 --> 00:22:30,570
+Die Fragen nach Lysbne und Palpitationsschmerzen wurden verneint.
+
+240
+00:22:30,570 --> 00:22:44,570
+Darüberhin berichtete sie über Insomni und Neuse und Einmaliges.
+
+241
+00:22:44,570 --> 00:22:53,570
+Einmaliges, Gäbliches und Schleimiges erbrochen.
+
+242
+00:22:53,570 --> 00:22:56,570
+Oder Emesis, einmalige Emesis.
+
+243
+00:22:56,570 --> 00:23:01,930
+Emesis.
+
+244
+00:23:01,930 --> 00:23:20,930
+Sie klagt über Inapetans, Dysurie und Polycysturie sowie erhöhte Fieber mit 38,8.
+
+245
+00:23:20,930 --> 00:23:30,930
+Sagen Sie ruhig, dann bestehen es febrile Temperaturen von 38,8.
+
+246
+00:23:30,930 --> 00:23:36,270
+Wissen Sie, wo die Patientin das gemessen hat?
+
+247
+00:23:36,270 --> 00:23:39,270
+Nein, ich habe nicht gefragt.
+
+248
+00:23:39,270 --> 00:23:41,270
+Während der Untersuchung kann ich nachfragen.
+
+249
+00:23:41,270 --> 00:23:49,270
+Sollten Sie möglichst immer fragen, wo, in diesem Falle im Mund, also oral gemessen.
+
+250
+00:23:49,270 --> 00:23:51,270
+38,8, ein wichtiger Hinweis.
+
+251
+00:23:51,270 --> 00:23:53,270
+Fiebrile Temperaturen.
+
+252
+00:23:53,270 --> 00:23:57,270
+Ich versuche kurz zu wiederholen, was Sie mir berichtet haben.
+
+253
+00:23:57,270 --> 00:24:07,270
+Eine 38-jährige Patientin, seit zwei Tagen Beschwerden, Fatigue, rechtsdorsale Schmerzen,
+
+254
+00:24:07,270 --> 00:24:13,270
+die auch im rechten Mittelbauch sind, aber hauptsächlich Dorsal.
+
+255
+00:24:13,270 --> 00:24:15,270
+Schmerzgrad um 4.
+
+256
+00:24:15,270 --> 00:24:18,270
+Der Schmerz ist dumpf und bohrend beschrieben.
+
+257
+00:24:18,270 --> 00:24:22,270
+Es besteht Nausea und einmalige Emesis.
+
+258
+00:24:22,270 --> 00:24:26,270
+Das Erbrochene ist gelblich schleimig, kein Blut.
+
+259
+00:24:26,270 --> 00:24:30,270
+Es besteht eine Dysurie und Polycysturie.
+
+260
+00:24:30,270 --> 00:24:32,270
+Ja, gut.
+
+261
+00:24:32,270 --> 00:24:34,270
+Ja, fahren Sie bitte fort.
+
+262
+00:24:34,270 --> 00:24:49,270
+Anfängerkrankungen sind bei ihr seit 20 Jahren eine Hypothyroise bekannt.
+
+263
+00:24:49,270 --> 00:25:06,280
+Sie leidet an Allergien gegen Hashtabmelben, Greise und Polarallergien.
+
+264
+00:25:06,280 --> 00:25:07,280
+Okay.
+
+265
+00:25:07,280 --> 00:25:14,280
+Ja, und die Hypothyroose, da hat die Patientin noch was zu gesagt, was das sein kann eventuell.
+
+266
+00:25:14,280 --> 00:25:17,280
+Ja, das kann eine Hashimoto-Trioditis sein.
+
+267
+00:25:17,280 --> 00:25:24,280
+Sie hat gesagt, dass diese Erkrankung Oto-Imin ist.
+
+268
+00:25:24,280 --> 00:25:28,280
+Ja, also wahrscheinlich eine Hashimoto-Trioditis.
+
+269
+00:25:28,280 --> 00:25:30,280
+Kann man sagen wahrscheinlich.
+
+270
+00:25:30,280 --> 00:25:31,280
+Wahrscheinlich, ja.
+
+271
+00:25:31,280 --> 00:25:34,280
+Wir wissen es nicht genau, aber wahrscheinlich.
+
+272
+00:25:34,280 --> 00:25:42,280
+Gut, dann gerne wissen, Hashtabmelbenallergien, okay, und Pollen auf Gräser und Getreide.
+
+273
+00:25:42,280 --> 00:25:44,280
+Wird das behandelt?
+
+274
+00:25:44,280 --> 00:25:55,580
+Sie würde mit Hypersensibilierungstherapie behandelt.
+
+275
+00:25:55,580 --> 00:26:02,440
+Sie hat schon dreimal erhalten.
+
+276
+00:26:02,440 --> 00:26:03,440
+Ja, erhalten, ja.
+
+277
+00:26:03,440 --> 00:26:11,440
+Diese Allergie äußern sich mit Renitis und Asthma.
+
+278
+00:26:11,440 --> 00:26:30,440
+In Besuch auf die Medikamente nimmt sie regelmäßig Ötrok, 50 mg morgens und Budes und Salbutamol-Spray bei Bedarf ein.
+
+279
+00:26:30,440 --> 00:26:31,440
+Okay.
+
+280
+00:26:31,440 --> 00:26:37,440
+Denken Sie bitte dran, Schildrösenpräparate werden in Mikrogramm dosiert.
+
+281
+00:26:37,440 --> 00:26:39,440
+Kein Milligramm, ja.
+
+282
+00:26:39,440 --> 00:26:42,440
+Sie nehmen Oto-Rox 50 Mikrogramm.
+
+283
+00:26:42,440 --> 00:26:49,440
+Gut, das sind die Medikamente, die Sie mit den Schildrösenpräparaten ausprobieren.
+
+284
+00:26:49,440 --> 00:26:56,440
+Das ist die Medikament, die Sie mit den Schildrösenpräparaten ausprobieren.
+
+285
+00:26:56,440 --> 00:26:59,440
+Oto-Rox 50 Mikrogramm, ja.
+
+286
+00:26:59,440 --> 00:27:02,440
+Gut, das sind die Medikamente.
+
+287
+00:27:02,440 --> 00:27:11,440
+Ich glaube, sie hat gesagt, Budes nimmt sie, wenn die Gräser sind, 2-3 Wochen lang, 2-mal am Tag und Salbutamol bei Bedarf.
+
+288
+00:27:11,440 --> 00:27:19,280
+Gut, ist die Patientin schon einmal operiert worden?
+
+289
+00:27:19,280 --> 00:27:31,280
+Ja, sie ist im Alter von 12 wegen Leistenhernie rechts operiert worden.
+
+290
+00:27:31,280 --> 00:27:40,280
+Leistenhernie ist teilweise medizinisch und teilweise Patientensprache. Kennen Sie Leistenhernie?
+
+291
+00:27:40,280 --> 00:27:47,010
+Hernie Inguinalis natürlich.
+
+292
+00:27:47,010 --> 00:27:54,010
+Inguinalis, ja. Inguinalhernie. Und die Operation ist dann eine Herniotomie.
+
+293
+00:27:54,010 --> 00:27:55,010
+Herniotomie.
+
+294
+00:27:55,010 --> 00:28:00,010
+Okay, das war im Alter von 12 Jahren. Und was gab es noch für Operationen?
+
+295
+00:28:00,010 --> 00:28:14,010
+Sie hat sich vor 11 Jahren eine Sektio cesaria untersogen.
+
+296
+00:28:14,010 --> 00:28:33,250
+Und sie ist vor 5 Jahren nach einem Fahrradunfall gegen Unterarmfraktur links operiert worden.
+
+297
+00:28:33,250 --> 00:28:38,250
+Was war die Fraktur? Woraus bestand die Fraktur? Welche Knochen?
+
+298
+00:28:38,250 --> 00:28:45,250
+Die beiden Knochen, L und die Radius- und Ulnafraktur.
+
+299
+00:28:45,250 --> 00:28:51,250
+Eine linksseitige Ulna- und Radiusfraktur musste operiert werden.
+
+300
+00:28:51,250 --> 00:28:56,250
+Okay, mehr müssen wir gar nicht wissen und sagen, die Patientin hat das ja nur berichtet.
+
+301
+00:28:56,250 --> 00:29:02,250
+Wir wissen gar nicht, was da für eine Technik oder was gemacht wurde. Aber nur die Angabe erst mal.
+
+302
+00:29:02,250 --> 00:29:07,250
+Gut, das waren die Operationen. Raucht die Patientin?
+
+303
+00:29:07,250 --> 00:29:10,250
+Also ich habe das vergessen.
+
+304
+00:29:10,250 --> 00:29:18,720
+Haben Sie nicht gefragt. Die Patientin ist nicht Raucherin. Und sie trinkt 2 Gläser Wein pro Woche.
+
+305
+00:29:18,720 --> 00:29:20,720
+2 Gläser.
+
+306
+00:29:20,720 --> 00:29:24,720
+Gut, gibt es Auffälligkeiten in der Familie?
+
+307
+00:29:24,720 --> 00:29:34,720
+Ja, Familie an einem Nächsten ist bestätigt bei Vater.
+
+308
+00:29:34,720 --> 00:29:47,090
+Eine, die liest vielleicht seit 5 Jahren.
+
+309
+00:29:47,090 --> 00:29:50,090
+Okay. Und die Mutter...
+
+310
+00:29:50,090 --> 00:29:52,090
+Wie alt ist der Vater? Entschuldigung?
+
+311
+00:29:52,090 --> 00:30:09,090
+68 Jahre alt ist er. Und die Mutter ist noch 68 Jahre alt und leidet an Enddarmkrebs und Kolonkarzinom.
+
+312
+00:30:09,090 --> 00:30:17,090
+Wie ist die anatomische Bezeichnung für den Enddarm? Das letzte Stück des Darmes vor dem Sphincter.
+
+313
+00:30:17,090 --> 00:30:29,900
+Das was man mit einem Finger palpieren kann. Was machen Sie da? Welches Organ palpieren Sie?
+
+314
+00:30:29,900 --> 00:30:36,340
+Das ist das Rektum.
+
+315
+00:30:36,340 --> 00:30:42,340
+Also die Patientin hatte vor 2 Jahren wohl ein Rektumkarzinom.
+
+316
+00:30:42,340 --> 00:30:48,340
+Und er müsste operiert werden.
+
+317
+00:30:48,340 --> 00:30:50,340
+Okay.
+
+318
+00:30:50,340 --> 00:31:06,060
+Und sie hat einen Bruder. Der Bruder hat in der Kindheit Wasser gepustet.
+
+319
+00:31:06,060 --> 00:31:10,060
+Ah, da gibt es einen Fachausdruck. Kennen Sie das?
+
+320
+00:31:10,060 --> 00:31:15,410
+Nein, ich weiß das nicht.
+
+321
+00:31:15,410 --> 00:31:18,410
+Da unten steht es Hydrocephalus.
+
+322
+00:31:18,410 --> 00:31:29,410
+Hydrocephalus ist der Wasserkopf. Und da wird eine Drainage gelegt. Oft dann so getan in den Bauchraum.
+
+323
+00:31:29,410 --> 00:31:36,410
+Und das wird dann ein Schand, ein peritonealer Schand, der wird dann gelegt und dann wird es entlastet.
+
+324
+00:31:36,410 --> 00:31:39,410
+Was hat der Bruder denn noch?
+
+325
+00:31:39,410 --> 00:31:49,780
+Der Bruder leidet noch einen kurzen Darmentzünd.
+
+326
+00:31:49,780 --> 00:31:58,340
+Welche zwei Erkrankungen kommen in Frage?
+
+327
+00:31:58,340 --> 00:32:07,340
+Das kann Crohn und Ulcerativkulid sein.
+
+328
+00:32:07,340 --> 00:32:11,340
+Das können es sein.
+
+329
+00:32:11,340 --> 00:32:15,340
+Entheritis regionalis oder so.
+
+330
+00:32:15,340 --> 00:32:21,340
+Manchmal hat er wohl, wie die Patientin sagte, stark blutige Stühle.
+
+331
+00:32:21,340 --> 00:32:27,340
+Das ist erst mal nur eine Angabe. Wir haben die genauen Diagnosen noch nicht vom Bruder.
+
+332
+00:32:27,340 --> 00:32:30,340
+Im Rahmen der Familienanalyse.
+
+333
+00:32:30,340 --> 00:32:35,340
+Das ist meine Frage. Spannende Frage. Was ist Ihre Verdachtstheatose?
+
+334
+00:32:35,340 --> 00:32:47,340
+Die Anamnitsischen angeben dort am engsten auf eine Nephrolithiasis.
+
+335
+00:32:47,340 --> 00:33:01,190
+Da sie Polakisirui, Disirui und Fieber und ja, Fatigue.
+
+336
+00:33:01,190 --> 00:33:06,190
+In der Nephrolithiasis kann es eher einen Kolikartigen Schmerz geben.
+
+337
+00:33:06,190 --> 00:33:15,190
+Wenn es eine Urethakolik ist oder so etwas. Das macht ja oft Kolikschmerzen, die dann auch stärker sind als vier.
+
+338
+00:33:15,190 --> 00:33:18,190
+Ist das die Angabe?
+
+339
+00:33:18,190 --> 00:33:23,190
+Ja, eher eine Itis, eine Entzündung.
+
+340
+00:33:23,190 --> 00:33:27,190
+Das ist fast wie eine Pyelonephritis.
+
+341
+00:33:27,190 --> 00:33:32,190
+Weil der Hauptstärz ist rechts dorsal im Rücken.
+
+342
+00:33:32,190 --> 00:33:39,190
+Wenn Sie die Patientin untersuchen gleich und Sie machen eine Perkussion und klopfen das Nierenlager,
+
+343
+00:33:39,190 --> 00:33:45,190
+dann wird das sehr schmerzhaft sein. Das ist ein klopfschmerzhaftes Nierenlager.
+
+344
+00:33:45,190 --> 00:33:49,190
+Die Patientin wird sagen, bitte nicht mehr, stopp.
+
+345
+00:33:50,190 --> 00:33:57,190
+Das spricht schon für eine Pyelonephritis. Wir haben die Disirui, wir haben die Polakisirui, wir haben Fieber.
+
+346
+00:33:57,190 --> 00:34:03,190
+Eine Nephrolithiasis macht nicht immer Fieber. Es führt zu einem starken Staunen.
+
+347
+00:34:03,190 --> 00:34:08,190
+Ich bin kein Urologe. Vielleicht gibt es viele Urologen bei den Kollegen.
+
+348
+00:34:08,190 --> 00:34:13,190
+Das weiss eine Entzündung.
+
+349
+00:34:13,190 --> 00:34:18,190
+Fragen Sie bitte noch Differentialdiagnose.
+
+350
+00:34:18,190 --> 00:34:26,190
+Ja, Differentialdiagnose kommen in Nephrolithiasis und Apendicitis.
+
+351
+00:34:26,190 --> 00:34:35,080
+Ich würde immer noch an ein Organ denken, an das man dann oft nicht denkt.
+
+352
+00:34:35,080 --> 00:34:38,080
+Apendicitis.
+
+353
+00:34:38,080 --> 00:34:41,080
+Apendicitis, das würde ich immer noch ins Spiel bringen.
+
+354
+00:34:41,080 --> 00:34:46,080
+Eine Apendicitis, die atypisch ist vielleicht vom Schmerzcharakter.
+
+355
+00:34:46,080 --> 00:34:50,080
+In die Mitte hat sie Schmerzen, leichte Schmerzen.
+
+356
+00:34:50,080 --> 00:34:58,080
+Das kann sein. Aber Sie werden ja allein aufgrund der körperlichen Untersuchung schon sehr viele neue Zusatzinformationen bekommen.
+
+357
+00:34:58,080 --> 00:35:04,080
+Und können dann bestimmte Dinge vielleicht schon eher ausschließen oder nicht.
+
+358
+00:35:04,080 --> 00:35:09,080
+Natürlich auch Laboruntersuchung, Urinuntersuchung und dann wird das den Gegner.
+
+359
+00:35:09,080 --> 00:35:15,080
+Vielen Dank. Ich habe Sie gut verstanden. Sie wissen auch viele Fachbegriffe, sehr viele.
+
+360
+00:35:15,080 --> 00:35:19,080
+Sie setzen sich auch gut ein. Im Anfang, das machen Sie jetzt wieder.
+
+361
+00:35:19,080 --> 00:35:23,080
+Wenn Sie die Vorstellung gemacht haben, haben Sie im Anfang immer so gemacht.
+
+362
+00:35:23,080 --> 00:35:29,080
+Stimmt Sie den Mund oder die Hände, versuchen Sie das möglichst nicht zu tun.
+
+363
+00:35:29,080 --> 00:35:34,080
+Aber ich weiß, das ist der Stress.
+
+364
+00:35:34,080 --> 00:35:38,080
+Aber das ist so. Das ist meine Beobachtung.
+
+365
+00:35:38,080 --> 00:35:46,080
+Normalerweise, wenn ich unter Schützres bin, sage ich immer, das ist meine Aneurätik.
+
+366
+00:35:46,080 --> 00:35:50,080
+Sie haben sehr oft die Finger, aber das ist ein Ausdruck von einem Stress.
+
+367
+00:35:50,080 --> 00:35:54,080
+Es geht mir wahrscheinlich genauso. Aber ich habe es beobachtet.
+
+368
+00:35:54,080 --> 00:36:00,080
+Aber ich finde, Sie haben das sehr gut gemacht. Sie haben das auch sehr systematisch gemacht.
+
+369
+00:36:00,080 --> 00:36:05,080
+Haben Sie dann bald Prüfung?
+
+370
+00:36:05,080 --> 00:36:08,080
+Ja, nächste Woche.
+
+371
+00:36:08,080 --> 00:36:11,080
+Wo? Am 18. April.
+
+372
+00:36:11,080 --> 00:36:14,080
+Und wo ist das? Im München.
+
+373
+00:36:14,080 --> 00:36:17,080
+Ok, dann wünsche ich Ihnen alles Gute für die Prüfung.
+
+374
+00:36:17,080 --> 00:36:19,080
+Vielen Dank.
+
+375
+00:36:19,080 --> 00:36:25,080
+Ich bin nicht so gut. Ich fühle mich nicht gut verbereitet, aber ich möchte probieren.
+
+376
+00:36:25,080 --> 00:36:28,080
+Aber ich habe ein gutes Gefühl. Ich probiere Sie das.
+
+377
+00:36:28,080 --> 00:36:30,080
+Danke schön. Vielen Dank.
+
+378
+00:36:30,080 --> 00:36:35,080
+Ich sage noch mal kurz, wir können gerne nächste Woche Donnerstag wieder machen.
+
+379
+00:36:35,080 --> 00:36:40,080
+Und dann wünsche ich Ihnen jetzt erstmal einen schönen Abend.
+
+380
+00:36:40,080 --> 00:36:43,080
+Schönen Abend. Tschüss.
