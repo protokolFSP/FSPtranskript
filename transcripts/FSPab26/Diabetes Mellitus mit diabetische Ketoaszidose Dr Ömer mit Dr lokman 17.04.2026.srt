@@ -1,0 +1,1807 @@
+1
+00:00:03,860 --> 00:00:04,860
+Jetzt.
+
+2
+00:00:05,860 --> 00:00:08,860
+Guten Tag, mein Name ist Dr. Sackchi.
+
+3
+00:00:08,860 --> 00:00:13,860
+Ich bin der zuständige Arzt für Sie auf dieser Station.
+
+4
+00:00:13,860 --> 00:00:19,860
+Bevor wir Ihre aktuellen Beschwerden besprechen, bräuchte ich ein paar persönliche Daten von Ihnen.
+
+5
+00:00:19,860 --> 00:00:21,860
+Sind Sie damit einverstanden?
+
+6
+00:00:21,860 --> 00:00:23,860
+Guten Abend, ja, natürlich.
+
+7
+00:00:24,860 --> 00:00:26,860
+So, wie heißen Sie?
+
+8
+00:00:26,860 --> 00:00:29,860
+Mein Name ist Volker.
+
+9
+00:00:30,860 --> 00:00:31,860
+Volker?
+
+10
+00:00:32,860 --> 00:00:33,860
+Zerke.
+
+11
+00:00:34,860 --> 00:00:35,860
+Zerke.
+
+12
+00:00:36,860 --> 00:00:39,860
+Können Sie bitte Ihren Vornamen und Namen bestätigen?
+
+13
+00:00:39,860 --> 00:00:42,860
+Aber natürlich. Mein Vornamen ist Volker.
+
+14
+00:00:42,860 --> 00:00:48,860
+Vogelv, Otto, Ludwig, Karl, Emil, Richard, Volker.
+
+15
+00:00:48,860 --> 00:00:49,860
+Ja.
+
+16
+00:00:50,860 --> 00:00:59,860
+Nachname ist Zerke, Zeppelin, Emil, Heinrich, Richard, KW Karl und E wie Emil.
+
+17
+00:00:59,860 --> 00:01:00,860
+Emil, Zerke.
+
+18
+00:01:01,860 --> 00:01:04,860
+Zerke. Ja, Herr Zerke.
+
+19
+00:01:05,860 --> 00:01:06,860
+Jawohl.
+
+20
+00:01:06,860 --> 00:01:08,860
+Herr Zerke, wie alt sind Sie?
+
+21
+00:01:09,860 --> 00:01:11,860
+Ich bin 42 Jahre alt.
+
+22
+00:01:11,860 --> 00:01:16,220
+Und wie groß sind Sie?
+
+23
+00:01:16,220 --> 00:01:18,220
+1,74 Meter.
+
+24
+00:01:18,220 --> 00:01:20,220
+Wie klein wohl.
+
+25
+00:01:21,220 --> 00:01:23,220
+Und zurzeit wie viel wiegen Sie?
+
+26
+00:01:37,860 --> 00:01:41,860
+Also, okay, Sie haben nach meinem Gewicht gefragt. Ich bin 95 Kilo im Moment.
+
+27
+00:01:42,860 --> 00:01:44,860
+95.
+
+28
+00:01:45,860 --> 00:01:46,860
+95, ja.
+
+29
+00:01:47,860 --> 00:01:50,860
+Das ist eine gute Frage. Wie heißt Ihr Hausarzt?
+
+30
+00:01:51,860 --> 00:01:53,860
+Das ist Dr. Heinrich.
+
+31
+00:01:53,860 --> 00:01:54,860
+Heinrich.
+
+32
+00:01:55,860 --> 00:01:59,860
+Heinrich, genau. Der ist in der Bahnhofstraße 12.
+
+33
+00:02:00,860 --> 00:02:02,860
+Straße 12, okay.
+
+34
+00:02:05,860 --> 00:02:10,860
+Wen können wir kontaktieren im Notfall zum Angehörigen?
+
+35
+00:02:11,860 --> 00:02:12,860
+Meine Frau.
+
+36
+00:02:12,860 --> 00:02:13,860
+Frau.
+
+37
+00:02:14,860 --> 00:02:19,860
+Okay. Herr Zerke, was führt Sie heute zu uns? Was kann ich für Sie tun?
+
+38
+00:02:20,860 --> 00:02:24,860
+Also ich sehe seit ein paar Tagen schlecht.
+
+39
+00:02:25,860 --> 00:02:26,860
+Ja.
+
+40
+00:02:26,860 --> 00:02:36,860
+Das hat angefangen, das ist etwas auf beiden Seiten etwas verschwommen und ich merke, dass ich schlechter sehe und woher das kommt.
+
+41
+00:02:37,860 --> 00:02:40,860
+Schlechter sehen.
+
+42
+00:02:40,860 --> 00:02:41,860
+Ja.
+
+43
+00:02:41,860 --> 00:02:44,860
+Und Sie haben gesagt, dass seit ein paar Tage.
+
+44
+00:02:45,860 --> 00:02:47,860
+Zum Beispiel fünf Tage oder zehn Tage. Was meinen Sie?
+
+45
+00:02:47,860 --> 00:02:49,860
+Also ca. seit fünf Tagen.
+
+46
+00:02:50,860 --> 00:02:51,860
+Fünf Tage.
+
+47
+00:02:51,860 --> 00:02:56,860
+Nur verschwommen oder haben Sie noch etwas andere Beschwerden?
+
+48
+00:02:57,860 --> 00:03:00,860
+Also andere Beschwerden, ja, das kam noch hinzu.
+
+49
+00:03:00,860 --> 00:03:08,860
+Also ich dachte, das geht wieder vorbei, aber ich habe so ganz trockenen Mund und ich habe das Gefühl, ich muss viel Wasser trinken.
+
+50
+00:03:08,860 --> 00:03:15,860
+Ich bin müde und ich fühle mich einfach nicht gut, ich schlafe schlecht.
+
+51
+00:03:15,860 --> 00:03:17,860
+Ich weiß nicht, was das ist.
+
+52
+00:03:17,860 --> 00:03:19,860
+Ich mache mir so langsam Sorge.
+
+53
+00:03:20,860 --> 00:03:23,860
+Ja, trinken Sie viel oder?
+
+54
+00:03:23,860 --> 00:03:24,860
+Gar nicht.
+
+55
+00:03:24,860 --> 00:03:34,860
+Ich habe oft einen trockenen Mund und manchmal habe ich das Gefühl, dass meine Zunge im Mund an den Gaumen klebt.
+
+56
+00:03:34,860 --> 00:03:35,860
+Okay.
+
+57
+00:03:35,860 --> 00:03:38,860
+Ich muss immer wieder, ich habe immer eine Flasche Wasser dabei, viel Wasser trinken.
+
+58
+00:03:40,860 --> 00:03:43,860
+Und diese Beschwerden seit ca. fünf Tagen?
+
+59
+00:03:43,860 --> 00:03:45,860
+Ja, ja, genau.
+
+60
+00:03:47,860 --> 00:03:56,860
+Und haben Sie zum Beispiel in letzter Zeit auch zum Beispiel häufige Infekte bekommen oder?
+
+61
+00:03:57,860 --> 00:04:02,860
+Ja, immer wieder Infekte, also kreepale Infekte.
+
+62
+00:04:02,860 --> 00:04:08,860
+Ich dachte, es ist jetzt wieder Zeit, dass es normal ist und habe mir jetzt nichts dabei gedacht.
+
+63
+00:04:12,860 --> 00:04:15,860
+Aber ja, ich dachte, das ist normal.
+
+64
+00:04:15,860 --> 00:04:23,860
+Okay, und auch gehen Sie häufig als Früher zur Toilette?
+
+65
+00:04:23,860 --> 00:04:24,860
+Ja, das stimmt.
+
+66
+00:04:24,860 --> 00:04:27,860
+Das ist auch jetzt seit ungefähr einer Woche.
+
+67
+00:04:27,860 --> 00:04:30,860
+Ich habe das Gefühl, dass ich öfter Wasser lassen muss.
+
+68
+00:04:30,860 --> 00:04:33,860
+Und ja, das ist verstärkt.
+
+69
+00:04:33,860 --> 00:04:34,860
+Das stimmt.
+
+70
+00:04:34,860 --> 00:04:35,860
+Ja, wollte ich auch sagen.
+
+71
+00:04:36,860 --> 00:04:37,860
+Okay.
+
+72
+00:04:37,860 --> 00:04:46,030
+Und in letzter Zeit haben Sie Gewicht mehr verloren oder?
+
+73
+00:04:46,030 --> 00:04:48,030
+Eigentlich nicht.
+
+74
+00:04:48,030 --> 00:04:54,030
+Also ich habe jetzt über die letzten vier, fünf Jahre sehr viel Gewicht zugenommen, ca. 20 Kilo.
+
+75
+00:04:54,030 --> 00:04:55,030
+20 Kilo?
+
+76
+00:04:55,030 --> 00:04:57,030
+Seit fünf Jahren ungefähr.
+
+77
+00:04:58,030 --> 00:05:03,030
+Aber gut, ich nehme auch sehr viele Antidepressiva, weil ich ein bisschen Depressionen habe.
+
+78
+00:05:03,030 --> 00:05:05,030
+Ich würde sagen, das kommt daher.
+
+79
+00:05:05,030 --> 00:05:10,030
+Aber abgenommen habe ich, das wäre schön, wenn ich abnehmen könnte.
+
+80
+00:05:11,030 --> 00:05:15,030
+Diese Depression, wann war das festgestellt?
+
+81
+00:05:16,030 --> 00:05:21,030
+Ach, das ist schon seit ungefähr acht Jahren.
+
+82
+00:05:21,030 --> 00:05:28,100
+Und nehmen Sie dagegen irgendwelche Medikamente?
+
+83
+00:05:28,100 --> 00:05:30,100
+Ja, ja, ich nehme da regelmäßig.
+
+84
+00:05:30,100 --> 00:05:32,100
+Im Moment habe ich zwei Medikamente.
+
+85
+00:05:32,100 --> 00:05:35,100
+Und wissen Sie die Name?
+
+86
+00:05:35,100 --> 00:05:37,100
+Ach Gott, ist mir jetzt entfallen.
+
+87
+00:05:37,100 --> 00:05:40,100
+Aber irgendwas mit Bupropion, glaube ich, war das eine.
+
+88
+00:05:40,100 --> 00:05:41,100
+Bupropion.
+
+89
+00:05:41,100 --> 00:05:42,100
+Genau.
+
+90
+00:05:42,100 --> 00:05:49,100
+Und das andere war, oh je, ich weiß nicht mehr, Venlafaxin.
+
+91
+00:05:49,100 --> 00:05:51,100
+Ich habe so viele geändert, jetzt weiß ich nicht mehr.
+
+92
+00:05:51,100 --> 00:05:52,100
+Venlafaxin.
+
+93
+00:05:52,100 --> 00:05:54,100
+Ja, ich brauche Venlafaxin.
+
+94
+00:05:54,100 --> 00:05:57,100
+Wissen Sie die Dosierung, oder?
+
+95
+00:05:57,100 --> 00:05:59,100
+Nein, habe ich vergessen.
+
+96
+00:05:59,100 --> 00:06:02,100
+Gucken Sie mal, das ändert sich immer wieder bei mir.
+
+97
+00:06:02,100 --> 00:06:04,100
+Okay, kein Problem.
+
+98
+00:06:04,100 --> 00:06:09,100
+Herr Zirke, haben Sie Probleme beim Stuhlgang?
+
+99
+00:06:10,100 --> 00:06:12,100
+Nein, das eigentlich nicht, nein.
+
+100
+00:06:13,100 --> 00:06:17,100
+Okay, und haben Sie Schlafstörungen?
+
+101
+00:06:18,100 --> 00:06:20,100
+Was haben Sie?
+
+102
+00:06:20,100 --> 00:06:22,100
+Schlafstörungen.
+
+103
+00:06:22,100 --> 00:06:24,100
+Schlafstörungen, ja, ja.
+
+104
+00:06:24,100 --> 00:06:28,100
+Das ist einer der Gründe, warum ich Medikamente nehme.
+
+105
+00:06:28,100 --> 00:06:31,100
+Ich kann einschlafen, aber ich kann nicht durchschlafen.
+
+106
+00:06:31,100 --> 00:06:32,100
+Das heißt, ich werde...
+
+107
+00:06:32,100 --> 00:06:33,100
+Durchschlafen.
+
+108
+00:06:33,100 --> 00:06:34,100
+Durchschlafprobleme.
+
+109
+00:06:34,100 --> 00:06:38,100
+Ich werde in der Nacht wach und kann dann schlecht wieder einschlafen.
+
+110
+00:06:40,100 --> 00:06:45,100
+Haben Sie Herzrasen, Brustschmerz, Herzklopfen oder Atemnot?
+
+111
+00:06:46,100 --> 00:06:48,100
+Nein, das habe ich nicht, nein.
+
+112
+00:06:48,100 --> 00:06:50,100
+Und wie ist Ihr Appetit?
+
+113
+00:06:50,100 --> 00:06:52,100
+Essen Sie gut, ja, oder?
+
+114
+00:06:52,100 --> 00:06:54,100
+Ja, also das ist ein Problem, ja.
+
+115
+00:06:54,100 --> 00:06:56,100
+Aber es ist zu gut.
+
+116
+00:06:56,100 --> 00:06:58,100
+Ja, natürlich.
+
+117
+00:06:58,100 --> 00:06:59,100
+Okay.
+
+118
+00:06:59,100 --> 00:07:05,580
+Und haben Sie Schüttelfrost, Schweißausbruch oder Nachtschweiß?
+
+119
+00:07:05,580 --> 00:07:07,580
+Nein, das habe ich nicht, nein.
+
+120
+00:07:07,580 --> 00:07:14,850
+Aber was ein bisschen auffällt, ist, dass ich mich schlecht konzentrieren kann.
+
+121
+00:07:18,850 --> 00:07:21,850
+Und dass ich ein bisschen vergesslich geworden bin, ja.
+
+122
+00:07:35,170 --> 00:07:39,170
+Seit wann haben Sie diese Beschwerden, diese Konzentration, Probleme oder...
+
+123
+00:07:39,170 --> 00:07:43,170
+Das geht schon länger, vielleicht seit zwei, drei Monaten.
+
+124
+00:07:51,940 --> 00:07:53,940
+Haben Sie Verdauungprobleme?
+
+125
+00:07:56,640 --> 00:07:58,640
+Ja, nicht immer, aber manchmal.
+
+126
+00:07:58,640 --> 00:08:07,640
+Also ich bekomme manchmal Blähungen und manchmal so leichten Durchfall, aber nicht so oft.
+
+127
+00:08:17,980 --> 00:08:22,980
+Entschuldigung, gibt es auch Verstopfungen oder nur Durchfall?
+
+128
+00:08:22,980 --> 00:08:24,980
+Sehr selten, ja.
+
+129
+00:08:24,980 --> 00:08:27,980
+Durchfall, aber Verstopfungen habe ich eigentlich nicht so.
+
+130
+00:08:31,320 --> 00:08:34,320
+Haben Sie irgendwelche Grundschmerzerkrankungen?
+
+131
+00:08:35,320 --> 00:08:39,320
+Wie gesagt, Depressionen.
+
+132
+00:08:39,320 --> 00:08:40,320
+Ja, natürlich.
+
+133
+00:08:42,320 --> 00:08:47,320
+Und ansonsten eigentlich nicht, nein.
+
+134
+00:08:47,320 --> 00:08:48,320
+Okay.
+
+135
+00:08:50,320 --> 00:09:01,320
+Und haben Sie irgendwelche, außer diese zwei Medikamente, regelmäßig irgendwelche Medikamente eingenommen, oder?
+
+136
+00:09:01,320 --> 00:09:03,320
+Nein, regelmäßig nicht, nein.
+
+137
+00:09:03,320 --> 00:09:06,320
+Ab und zu wenn ich mal Schmerzen habe, nämlich Ibuprofen, aber sonst nicht.
+
+138
+00:09:07,320 --> 00:09:08,320
+Ibuprofen?
+
+139
+00:09:09,320 --> 00:09:10,320
+Okay.
+
+140
+00:09:12,320 --> 00:09:15,320
+Und sind Sie schon einmal operiert worden?
+
+141
+00:09:15,320 --> 00:09:17,320
+Nein, bisher nicht, nein.
+
+142
+00:09:18,320 --> 00:09:23,010
+Haben Sie irgendwelche Allergie?
+
+143
+00:09:24,010 --> 00:09:28,830
+Also gegen Medikamente jetzt nicht, aber gegen Pollen.
+
+144
+00:09:29,830 --> 00:09:30,830
+Pollenallergien?
+
+145
+00:09:30,830 --> 00:09:31,830
+Ja.
+
+146
+00:09:31,830 --> 00:09:33,830
+Und wie äußert sich?
+
+147
+00:09:33,830 --> 00:09:43,830
+Och, das ist immer ganz schlimm. Meine Augen tränen, meine Nase läuft, ich muss oft niesen und bin müde, die Schlafstörungen werden schlechter.
+
+148
+00:09:44,830 --> 00:09:49,830
+Und da muss ich immer Medikamente nehmen und dann geht es einigermaßen.
+
+149
+00:09:50,830 --> 00:09:53,830
+Okay. Und welche Medikamente?
+
+150
+00:09:54,830 --> 00:09:55,830
+Zetirizin.
+
+151
+00:09:55,830 --> 00:09:57,830
+Bestimmte Medikamente, oder?
+
+152
+00:09:57,830 --> 00:09:58,830
+Zetirizin.
+
+153
+00:09:58,830 --> 00:10:00,830
+Zetirizin.
+
+154
+00:10:05,420 --> 00:10:06,420
+Bei Bedarf?
+
+155
+00:10:07,420 --> 00:10:08,420
+Genau, ja.
+
+156
+00:10:12,910 --> 00:10:15,910
+Und Herr Zelke, rauchen Sie?
+
+157
+00:10:15,910 --> 00:10:17,910
+Nein, nein.
+
+158
+00:10:17,910 --> 00:10:22,660
+Trinken Sie Alkohol?
+
+159
+00:10:23,660 --> 00:10:25,660
+Oh, sehr, sehr selten, eigentlich fast nie.
+
+160
+00:10:33,420 --> 00:10:37,420
+Was meinen Sie zum Beispiel einmal pro Woche oder einmal pro Monat?
+
+161
+00:10:38,420 --> 00:10:46,420
+Wenn ich mal auf eine Einladung bin, auf ein Geburtstag vielleicht, oder wenn man mal abends mal zum Essen weggeht, aber ansonsten nicht.
+
+162
+00:10:47,420 --> 00:10:57,720
+Und ich möchte wieder, ja, am aktuellen Beschwerden zurückkommen.
+
+163
+00:10:57,720 --> 00:11:02,720
+Und haben Sie Kribbeln oder Taubheißgefühl oder Kribbeln?
+
+164
+00:11:06,890 --> 00:11:08,890
+Bisher noch nicht, nein, ist mir nicht aufgefallen, nein.
+
+165
+00:11:17,220 --> 00:11:20,220
+Das ist eine Routinefrage, bitte nehmen Sie nicht persönlich.
+
+166
+00:11:22,220 --> 00:11:26,220
+Hatten Sie oder haben Sie Kontakt mit irgendwelchen Drogen?
+
+167
+00:11:27,220 --> 00:11:29,220
+Oh nein, nein.
+
+168
+00:11:34,450 --> 00:11:40,450
+Sind Sie zuständig gegen Kinder, Kinderheit, Krankheiten und Corona geimpft?
+
+169
+00:11:41,450 --> 00:11:45,450
+Ja, also mein Haushalt schaut sich das immer an, also meine Impfungen sind komplett.
+
+170
+00:11:46,450 --> 00:11:49,450
+Okay. Und waren Sie in letzter Zeit im Ausland?
+
+171
+00:11:49,450 --> 00:11:55,450
+Nein, nein. Ich war zuletzt einmal in Frankreich, kurz beruflich, aber sonst nicht.
+
+172
+00:11:55,450 --> 00:12:05,450
+Und in Ihrer Familie gibt es bekannte chronische Erkrankungen? Wie Bluthoch und Zuckerkrankheit?
+
+173
+00:12:06,450 --> 00:12:11,450
+Ja, meine Mutter hatte Diabetes. Die ist leider vor zwei Jahren verstorben und hatte einen Schlaganfall.
+
+174
+00:12:12,450 --> 00:12:15,450
+Seit? Vor drei Jahren?
+
+175
+00:12:16,450 --> 00:12:20,450
+Vor zwei Jahren, vor zwei Jahren ist meine Mutter gestorben, sie hatte einen Schlaganfall.
+
+176
+00:12:20,450 --> 00:12:27,080
+Aber sie hatte auch Diabetes, lange Jahre, und mein Vater hatte hohen Blutdruck.
+
+177
+00:12:28,080 --> 00:12:42,840
+Ihre Mutter bekam die Tablette gegen diese?
+
+178
+00:12:43,840 --> 00:12:47,840
+Das weiß ich nicht. Und hatte auch Insulin gehabt.
+
+179
+00:12:48,840 --> 00:12:49,840
+Beide, Tablette und Insulin.
+
+180
+00:12:50,840 --> 00:12:51,840
+Ja, ich glaube, sie hat beides gehabt.
+
+181
+00:12:52,840 --> 00:12:57,590
+Und ja, Ihr Vater lebt noch?
+
+182
+00:12:57,590 --> 00:13:03,590
+Mein Vater lebt noch, der hat hohen Blutdruck, und soweit ich weiß, ging er da auch Medikamente.
+
+183
+00:13:04,590 --> 00:13:05,590
+Haben Sie die Schwestern?
+
+184
+00:13:06,590 --> 00:13:07,590
+Nein.
+
+185
+00:13:10,220 --> 00:13:14,220
+Sie haben schon gesagt, Sie sind verheiratet. Haben Sie Kinder?
+
+186
+00:13:15,220 --> 00:13:20,220
+Ich habe zwei Kinder, ja. Die eine ist zehn Jahre alt und die andere sieben.
+
+187
+00:13:21,220 --> 00:13:24,850
+Sind Sie gesund?
+
+188
+00:13:25,850 --> 00:13:28,850
+Ja, ja. Bis hiernächst ist alles gut.
+
+189
+00:13:28,850 --> 00:13:31,850
+Was machen Sie beruflich her, Serge?
+
+190
+00:13:32,850 --> 00:13:41,850
+Ich bin Logistiker. Ich bin bei einer großen Firma, das würde Logistik im Lager zuständig, ich bin Abteilungsleiter.
+
+191
+00:13:42,850 --> 00:13:43,850
+Lagerabteilung?
+
+192
+00:13:44,850 --> 00:13:51,850
+Also genau, Lager. Und bin halt dort für die Koordination und die Logistik zuständig.
+
+193
+00:13:52,850 --> 00:13:57,850
+Okay. Und haben Sie Stress bei der Arbeit?
+
+194
+00:13:58,850 --> 00:14:00,850
+Ja, natürlich Stress, das gibt es immer.
+
+195
+00:14:01,850 --> 00:14:05,850
+Treiben Sie Sport, Herr Zerke?
+
+196
+00:14:06,850 --> 00:14:07,850
+Nein, leider nicht. Das wäre schön.
+
+197
+00:14:08,850 --> 00:14:10,850
+Mirka, kannst du ein bisschen leiser sein?
+
+198
+00:14:11,850 --> 00:14:15,850
+Eine Lumenmärze?
+
+199
+00:14:16,850 --> 00:14:21,850
+Herr Zerke, besuchen Sie regelmäßig Ihre Urologen?
+
+200
+00:14:22,850 --> 00:14:25,850
+Nein. Bisher war ich jetzt nicht beim Urologen, nein.
+
+201
+00:14:25,850 --> 00:14:35,850
+Aber das ist sehr wichtig, nach der 40 Jahre, man muss mindestens einmal pro Jahr.
+
+202
+00:14:36,850 --> 00:14:43,850
+Ja, echt? Aber bisher habe ich jetzt nie das Gefühl gehabt oder das Bedürfnis, zum Urologen zu gehen.
+
+203
+00:14:44,850 --> 00:14:45,850
+Als Vorsorge.
+
+204
+00:14:46,850 --> 00:14:47,850
+Als Vorsorge?
+
+205
+00:14:48,850 --> 00:14:49,850
+Ja, als Vorsorge.
+
+206
+00:14:50,850 --> 00:14:51,850
+Wenn Sie das empfehlen, Herr Doktor, dann können wir.
+
+207
+00:14:52,850 --> 00:14:53,850
+Ja, natürlich, das ist sehr wichtig für Sie.
+
+208
+00:14:53,850 --> 00:14:56,850
+Aber Sie sind halt als Mann sehr ungern zum Urologen, gell?
+
+209
+00:14:57,850 --> 00:15:03,850
+Ja, Herr Zerke, gerade bin ich mit meinen aller Fragen fertig.
+
+210
+00:15:04,850 --> 00:15:11,850
+Und was gibt es noch, das hinzufügen möchten Sie?
+
+211
+00:15:12,850 --> 00:15:15,850
+Vielen Dank. Das macht mir Sorgen natürlich, diese Symptome.
+
+212
+00:15:16,850 --> 00:15:19,850
+Insbesondere, dass eine Sehschwäche da aufgetreten ist plötzlich.
+
+213
+00:15:20,850 --> 00:15:22,850
+Und deswegen bin ich zu Ihnen gekommen.
+
+214
+00:15:23,850 --> 00:15:28,850
+Ja, natürlich, wir machen alle. Gibt es noch zwei Schritte?
+
+215
+00:15:29,850 --> 00:15:33,850
+Zuerst werde ich Sie körperlich untersuchen, danach etwas Blut.
+
+216
+00:15:34,850 --> 00:15:43,850
+Danach nehme ich etwas Blut Ihnen ab und so wie ein paar operative Untersuchungen durchführen.
+
+217
+00:15:44,850 --> 00:15:45,850
+Machen Sie das alles noch heute Abend, oder?
+
+218
+00:15:45,850 --> 00:15:54,850
+Natürlich, ja. Innerhalb, ich glaube, innerhalb von zwei oder drei Stunden können wir es schaffen.
+
+219
+00:15:55,850 --> 00:15:56,850
+Oh, das ist gut. Lass es heute.
+
+220
+00:15:57,850 --> 00:16:04,850
+Wenn alle Befunde vorliegen, dann bespreche ich mit meinem Arzt, Oberarzt.
+
+221
+00:16:05,850 --> 00:16:10,850
+Und dann komme ich Ihnen zurück und wir sprechen für Vortage.
+
+222
+00:16:10,850 --> 00:16:16,850
+Ja, das ist gut. Mein Nachbar hat schon gesagt, dass Sie ein guter Arzt sind und dass das Krankenhaus auch sehr gut ist.
+
+223
+00:16:17,850 --> 00:16:18,850
+Vielen Dank.
+
+224
+00:16:19,850 --> 00:16:20,850
+Dankeschön.
+
+225
+00:16:21,850 --> 00:16:22,850
+Bitte schön.
+
+226
+00:16:23,850 --> 00:16:25,850
+Ein bisschen schade, dass ich hier sein kann.
+
+227
+00:16:36,220 --> 00:16:37,220
+Darf ich eine Frage stellen?
+
+228
+00:16:38,220 --> 00:16:39,220
+Bitte schön, ja, natürlich.
+
+229
+00:16:39,220 --> 00:16:51,220
+Sie haben schon gesagt, dass Sie Depressionen haben, aber ist Ihnen in den letzten Tagen aufgefallen, dass Sie sehr schnell gereis reagieren?
+
+230
+00:16:52,220 --> 00:16:56,660
+Ja, das habe ich immer wieder, aber auch für dich war das jetzt nicht. Nein.
+
+231
+00:16:57,660 --> 00:17:02,660
+Und wann haben Sie zuletzt Blut abnehmen lassen?
+
+232
+00:17:03,660 --> 00:17:06,660
+Oh, das ist schon länger, vor circa einem Jahr.
+
+233
+00:17:07,660 --> 00:17:08,660
+Danke schön.
+
+234
+00:17:08,660 --> 00:17:09,660
+Darf ich?
+
+235
+00:17:10,660 --> 00:17:11,660
+Darf ich?
+
+236
+00:17:12,660 --> 00:17:13,660
+Bitte schön, natürlich.
+
+237
+00:17:14,660 --> 00:17:19,660
+Haben Sie Veränderungen an den Augen bemerkt in letzter Zeit?
+
+238
+00:17:20,660 --> 00:17:22,660
+Im hervorretenden Augenabfeld?
+
+239
+00:17:23,660 --> 00:17:27,660
+Ach so, was jetzt nicht, nein. Nur diese Sehverschlechterung jetzt.
+
+240
+00:17:28,660 --> 00:17:31,660
+Und haben Sie Schwellungen im Hals bemerkt?
+
+241
+00:17:32,660 --> 00:17:33,660
+Schwellungen? Nein.
+
+242
+00:17:36,580 --> 00:17:37,580
+Danke.
+
+243
+00:17:37,580 --> 00:17:52,570
+Mein Hausarzt hat gesagt vor einem Jahr, dass meine Zuckerwerte sehr grenzwertig sind, also dass dieser Langzuckerwert da war, so bei 6,1.
+
+244
+00:17:53,570 --> 00:17:54,570
+Darf ich eine Frage stellen?
+
+245
+00:17:55,570 --> 00:17:56,570
+Aber natürlich, ja.
+
+246
+00:17:57,570 --> 00:18:00,570
+Haben Sie bemerkt die überriegende Urin?
+
+247
+00:18:01,570 --> 00:18:08,570
+Also ja, so ein bisschen. Der riecht jetzt stärker und er ist so ein bisschen dunkler.
+
+248
+00:18:09,570 --> 00:18:10,570
+Dunkler. Danke schön.
+
+249
+00:18:11,570 --> 00:18:18,740
+Darf ich fragen?
+
+250
+00:18:27,140 --> 00:18:29,140
+So, wir können gerne weitermachen.
+
+251
+00:18:30,140 --> 00:18:31,140
+Ja.
+
+252
+00:18:31,140 --> 00:18:32,140
+Darf ich fragen?
+
+253
+00:18:33,140 --> 00:18:34,140
+Ist da noch eine Frage?
+
+254
+00:18:36,580 --> 00:18:37,580
+Ja.
+
+255
+00:18:38,580 --> 00:18:41,580
+Haben Sie Schmerzen in irgendwelchen Körperteilen?
+
+256
+00:18:42,580 --> 00:18:43,580
+Wo Schmerzen?
+
+257
+00:18:43,580 --> 00:18:46,580
+In irgendwelchen Körperteilen. Haben Sie Schmerzen?
+
+258
+00:18:47,580 --> 00:18:50,580
+Also zusätzlich Schmerzen habe ich jetzt nicht, nein.
+
+259
+00:18:51,580 --> 00:18:54,580
+Haben Sie früher ähnliche Beschwerde gehabt?
+
+260
+00:18:55,580 --> 00:19:02,580
+Nein, nein. Deswegen hat mich das jetzt etwas verängstigt, weil ich das erste Mal jetzt so habe, ja.
+
+261
+00:19:03,580 --> 00:19:07,580
+Ich habe nicht gehört. Leiden Sie unter Fieber, Schüttelfrost oder ...
+
+262
+00:19:08,580 --> 00:19:10,580
+Nein, nein, bisher nicht, nein.
+
+263
+00:19:11,580 --> 00:19:21,600
+Ok, danke.
+
+264
+00:19:22,600 --> 00:19:25,040
+Danke schön.
+
+265
+00:19:27,800 --> 00:19:28,800
+So, wollen wir fortfahren?
+
+266
+00:19:29,800 --> 00:19:30,800
+Ja.
+
+267
+00:19:31,800 --> 00:19:32,800
+Entschuldigung, kann ich fragen?
+
+268
+00:19:33,800 --> 00:19:36,140
+Noch eine Frage.
+
+269
+00:19:37,140 --> 00:19:38,140
+Haben Sie Haarausfall?
+
+270
+00:19:39,140 --> 00:19:44,140
+Ja, Sie sehen, ich habe ganz wenige Haare, aber das sind noch länger. Ist nicht gesagt.
+
+271
+00:19:45,140 --> 00:19:47,140
+Entschuldigung, darf ich nochmal eine Frage stellen?
+
+272
+00:19:48,140 --> 00:19:49,140
+Ja, natürlich.
+
+273
+00:19:49,140 --> 00:19:55,140
+Hat Ihre Frau bemerkt, dass Sie einen überriechenden Mund haben?
+
+274
+00:19:57,140 --> 00:20:04,140
+So ein bisschen, ja. Sie hatten vorgestern darauf angesprochen, dass der Atem etwas stärker riecht. Das stimmt, ja.
+
+275
+00:20:05,140 --> 00:20:08,550
+Aber das ist neu, hatte ich früher.
+
+276
+00:20:09,550 --> 00:20:10,550
+Früher hatte ich.
+
+277
+00:20:11,550 --> 00:20:25,430
+Ok, bevor nächste Fragen kommen, soll ich vielleicht ein paar Ergebnisse für den untersuchenden Doktor sagen?
+
+278
+00:20:25,430 --> 00:20:26,430
+Ok.
+
+279
+00:20:27,430 --> 00:20:30,430
+Was die Ergebnisse sind. Sie haben Blut abgenommen.
+
+280
+00:20:31,430 --> 00:20:32,430
+Ja.
+
+281
+00:20:33,430 --> 00:20:35,430
+Nüchtern Blutzucker 430.
+
+282
+00:20:36,430 --> 00:20:37,430
+430, ok.
+
+283
+00:20:38,430 --> 00:20:41,430
+Nieren 1,2.
+
+284
+00:20:42,430 --> 00:20:43,430
+Rear Zinin.
+
+285
+00:20:45,430 --> 00:20:48,430
+Leberwerte ganz leicht angestiegen.
+
+286
+00:20:49,430 --> 00:20:50,430
+GOT, GPT.
+
+287
+00:20:53,430 --> 00:20:56,430
+Der Rest war soweit eigentlich in Ordnung, ja.
+
+288
+00:20:57,430 --> 00:21:02,870
+302 oder? Nüchtern Blutzucker.
+
+289
+00:21:03,870 --> 00:21:04,870
+430.
+
+290
+00:21:05,870 --> 00:21:06,870
+430.
+
+291
+00:21:06,870 --> 00:21:12,870
+Ok, das könnte eine Diabetik Ketoacidos sein.
+
+292
+00:21:13,870 --> 00:21:17,870
+Und dann müssen wir ja sofort an Monitor anschließen.
+
+293
+00:21:18,870 --> 00:21:20,870
+Jetzt die Laborergebnisse.
+
+294
+00:21:21,870 --> 00:21:22,870
+Jetzt Übergabe an den Oberarzt.
+
+295
+00:21:23,870 --> 00:21:26,870
+Sie stellen Ihre Verdachtstheaknote und dann machen Sie einen Therapievorschlag.
+
+296
+00:21:27,870 --> 00:21:28,870
+Ok.
+
+297
+00:21:29,870 --> 00:21:36,760
+Ok.
+
+298
+00:21:37,760 --> 00:21:39,760
+Ich bin bereit, ich bin der Oberarzt.
+
+299
+00:21:39,760 --> 00:21:41,760
+Ja, guten Tag Herr Oberarzt.
+
+300
+00:21:42,760 --> 00:21:50,760
+Ich habe heute einen neuen Patienten aufgenommen und möchte Ihnen ihn gerne vorstellen.
+
+301
+00:21:51,760 --> 00:21:52,760
+Haben Sie kurze Zeit?
+
+302
+00:21:53,760 --> 00:21:57,760
+Ja, Sie haben immer interessante Patienten, das freut mich. Bitte schön.
+
+303
+00:21:58,760 --> 00:22:08,760
+Herr Volkart Zerke, 42 Jahre alt, 1,74 Meter groß, 5,90 Kilo schwer.
+
+304
+00:22:09,760 --> 00:22:11,760
+Ich stelle Sie heute bei uns vor.
+
+305
+00:22:12,760 --> 00:22:23,760
+Der Patient klagte über seit 5 Tagen bestehende langsam aufgetretene Sehstörungen in Form von Verschwungen.
+
+306
+00:22:23,760 --> 00:22:38,760
+Begleitet berichtet er über trockenen Mund, Mülligkeit, Fatigu, Polakissuri, Polydipsie und Infektanfähigkeit.
+
+307
+00:22:39,760 --> 00:22:51,760
+Zusätzlich gab der Patient eine Gewichtszunahme von 20 Kilo innerhalb eines Jahres.
+
+308
+00:22:51,760 --> 00:22:52,760
+Nein.
+
+309
+00:22:53,760 --> 00:22:54,760
+Entschuldigung.
+
+310
+00:22:55,760 --> 00:23:12,680
+In der vegetativen Anamnese besteht ab und zu eine bestehende Diarrhohe und eine Depression bedingter Insomnie.
+
+311
+00:23:12,680 --> 00:23:28,680
+Als Anfallerkrankungen besteht eine Depression, die mit Bupropion und Fenlawaxin behandelt seit acht Jahren.
+
+312
+00:23:29,680 --> 00:23:30,680
+Behandelt wird?
+
+313
+00:23:31,680 --> 00:23:32,680
+Ja, behandelt wird.
+
+314
+00:23:33,680 --> 00:23:34,680
+Okay.
+
+315
+00:23:35,680 --> 00:23:57,680
+Er hat eine Prolenallergie, die sich als Augen, Tränen, Niesen und Renitokonjunktivität äußert.
+
+316
+00:23:58,680 --> 00:23:59,680
+Renokonjunktivität, genau.
+
+317
+00:24:00,680 --> 00:24:01,680
+Ja, Renokonjunktivität äußert.
+
+318
+00:24:01,680 --> 00:24:06,680
+Und dagegen nimmt er Z-Risin ein.
+
+319
+00:24:07,680 --> 00:24:08,680
+Okay.
+
+320
+00:24:09,680 --> 00:24:19,680
+Und er ist nicht Raucher und trinkt sehr selten oder gelegentlich Alkohol.
+
+321
+00:24:20,680 --> 00:24:21,680
+Papa!
+
+322
+00:24:21,680 --> 00:24:26,680
+Er kontaktiert nicht mit Drogen.
+
+323
+00:24:27,680 --> 00:24:42,680
+In der Familienanamnese liegt die Mutter an Diabetes-Melitis Typ 1, aber Insulin.
+
+324
+00:24:43,680 --> 00:24:44,680
+Typ 2.
+
+325
+00:24:44,680 --> 00:24:49,680
+Ja, in der Nesterseite benutzen wir auch manche Patienten in der Nesterseite.
+
+326
+00:24:50,680 --> 00:24:51,680
+Typ 2.
+
+327
+00:24:52,680 --> 00:24:57,680
+Vor zwei Jahren ist sie an Apoplex verstorben.
+
+328
+00:24:58,680 --> 00:25:08,680
+Der Vater leidet an Arteriella-Hypertonie und ich habe vergessen, ob die gut eingestellt sind oder nicht.
+
+329
+00:25:09,680 --> 00:25:10,680
+Aber ...
+
+330
+00:25:11,680 --> 00:25:12,680
+Man mannt.
+
+331
+00:25:12,680 --> 00:25:13,680
+Ja.
+
+332
+00:25:14,680 --> 00:25:16,680
+Und er hat keine Geschwister.
+
+333
+00:25:17,680 --> 00:25:22,680
+Er ist verheiratet und habe zwei gesunde Kinder.
+
+334
+00:25:23,680 --> 00:25:27,680
+Ein im Alter von 10 und andere im Alter von 7.
+
+335
+00:25:28,680 --> 00:25:35,680
+Er arbeitet als Logistiker in einer Firma, in der Lagerabteilung.
+
+336
+00:25:35,680 --> 00:25:43,680
+Und er hat viel Stress bei der Arbeit.
+
+337
+00:25:44,680 --> 00:25:45,680
+Okay.
+
+338
+00:25:46,680 --> 00:25:50,680
+Meine Anamnese ist das.
+
+339
+00:25:50,680 --> 00:25:59,680
+Und aufgrund der Symptomatik habe ich den Verdacht auf eine Diabetes-Melitis.
+
+340
+00:26:00,680 --> 00:26:14,680
+Dafür sprechen ja Polakysurie, Polydipsy, Sechstörungen und Infektanfähigkeit.
+
+341
+00:26:15,680 --> 00:26:16,680
+Haben Sie Laboruntersuchungen gemacht?
+
+342
+00:26:17,680 --> 00:26:18,680
+Nein.
+
+343
+00:26:18,680 --> 00:26:19,680
+Nein.
+
+344
+00:26:20,680 --> 00:26:26,680
+Ja, da muss ich natürlich zuerst das Blut abnehmen.
+
+345
+00:26:27,680 --> 00:26:28,680
+Ich habe in der Laborart.
+
+346
+00:26:29,680 --> 00:26:30,680
+Ah, okay.
+
+347
+00:26:31,680 --> 00:26:32,680
+Dann je nach dieser Befunde.
+
+348
+00:26:33,680 --> 00:26:34,680
+Ich spreche je nach dieser Befunde.
+
+349
+00:26:35,680 --> 00:26:39,680
+Und ich habe schon Laborergebnisse bekommen.
+
+350
+00:26:40,680 --> 00:26:45,680
+Und das Nüchthensucker ist leider 430.
+
+351
+00:26:45,680 --> 00:26:51,680
+Und ja, das ist eine Diabetes-Ketoacidos.
+
+352
+00:26:52,680 --> 00:26:54,680
+Haben Sie Blutgase auch gemacht?
+
+353
+00:26:55,680 --> 00:26:56,680
+Nein, leider nein.
+
+354
+00:26:57,680 --> 00:27:05,680
+Dann führe ich sofort durch, auch diese Blutgasanalyse.
+
+355
+00:27:06,680 --> 00:27:12,680
+Und natürlich, um den Verdacht zu bestätigen,
+
+356
+00:27:13,680 --> 00:27:18,680
+zuerst werde ich die Patientkörperliche Untersuchung.
+
+357
+00:27:19,680 --> 00:27:20,680
+Dann sofort eine Blut.
+
+358
+00:27:21,680 --> 00:27:23,680
+Wir haben schon abgenommen.
+
+359
+00:27:24,680 --> 00:27:25,680
+Und Urin haben Sie auch untersucht?
+
+360
+00:27:26,680 --> 00:27:29,680
+Ja, Urin auf jeden Fall.
+
+361
+00:27:30,680 --> 00:27:33,680
+Was ist im Urin aufgefallen?
+
+362
+00:27:33,680 --> 00:27:34,680
+Kreatinin.
+
+363
+00:27:35,680 --> 00:27:38,680
+Urinkreatinin und Zucker natürlich.
+
+364
+00:27:39,680 --> 00:27:40,680
+Glucose?
+
+365
+00:27:41,680 --> 00:27:42,680
+Glucose.
+
+366
+00:27:43,680 --> 00:27:49,680
+Sie sehen Protein eventuell durch den Diabetes?
+
+367
+00:27:50,680 --> 00:27:55,680
+Ja, auch Ritrosiden, Protein.
+
+368
+00:27:56,680 --> 00:28:02,680
+Vielleicht kann eine Retinopathie entwickelt werden.
+
+369
+00:28:03,680 --> 00:28:04,680
+Oder?
+
+370
+00:28:05,680 --> 00:28:06,680
+Ja.
+
+371
+00:28:07,680 --> 00:28:15,680
+Als bestätigendes Testen führe ich zuerst z.B. Nüchthensucker.
+
+372
+00:28:16,680 --> 00:28:22,680
+Und kann auch einen Oranglucos- Toleranz-Test durchführen.
+
+373
+00:28:23,680 --> 00:28:29,680
+Oder Gelegenheit Zucker messen, wenn z.B. über 200 Symptome kommen.
+
+374
+00:28:29,680 --> 00:28:32,680
+Das ist richtig, aber Sie haben ja schon einen Hund.
+
+375
+00:28:33,680 --> 00:28:36,680
+Für eine normale Diabetesdiagnose.
+
+376
+00:28:37,680 --> 00:28:40,680
+Wir müssen erst mal diese Akuzitulation.
+
+377
+00:28:41,680 --> 00:28:46,680
+Wir müssen natürlich sofort einen Zugang legen.
+
+378
+00:28:47,680 --> 00:28:58,680
+Und eine Flüssigkeit mit Insulin einsetzen.
+
+379
+00:28:59,680 --> 00:29:14,680
+Und z.B. pro Kilo können wir eine Unit hinzufügen.
+
+380
+00:29:15,680 --> 00:29:16,680
+Sehr gut.
+
+381
+00:29:17,680 --> 00:29:20,680
+Also das heißt, Sie haben hier eine hyperglykämische Entgleisung.
+
+382
+00:29:21,680 --> 00:29:25,680
+Erstdiagnose. Sie machen eine ausgiebige Diagnostik.
+
+383
+00:29:25,680 --> 00:29:31,680
+Blutgase messen den Urin. Ultraschall, Leber und Niere machen Sie noch.
+
+384
+00:29:32,680 --> 00:29:38,680
+VG wäre wichtig. Was sind Ihre Differenzialdiagnosen? Woran denken Sie noch?
+
+385
+00:29:39,680 --> 00:29:44,680
+Wenn der Patient jetzt kommt und hat Seestörungen.
+
+386
+00:29:45,680 --> 00:29:48,680
+Eine Hypothyroidin.
+
+387
+00:29:49,680 --> 00:29:52,680
+Eine Hypothyreose.
+
+388
+00:29:53,680 --> 00:29:56,680
+Eine Hypothyreose.
+
+389
+00:29:57,680 --> 00:30:00,680
+Eine Hypothyreose.
+
+390
+00:30:01,680 --> 00:30:06,680
+Eine Hypothyreose. Und ein Metabolisches Syndrom.
+
+391
+00:30:07,680 --> 00:30:12,680
+Und Herzinsuffizienz.
+
+392
+00:30:15,790 --> 00:30:19,790
+Ja gut. Herzinsuffizienz muss man auch mal denken.
+
+393
+00:30:20,790 --> 00:30:22,790
+Ja natürlich.
+
+394
+00:30:23,790 --> 00:30:26,790
+Wenn jemand gute Seestörungen hat, woran denkt man noch?
+
+395
+00:30:27,790 --> 00:30:34,790
+Auf Gehirnprobleme. Z.B. Gehirnzimmern.
+
+396
+00:30:35,790 --> 00:30:36,790
+Z.B. richtig. Ja.
+
+397
+00:30:36,790 --> 00:30:45,790
+Z.B. diese kann eine Drucke über Nerveoptikus machen.
+
+398
+00:30:46,790 --> 00:30:47,790
+Ok.
+
+399
+00:30:48,790 --> 00:30:53,790
+In der Oxpitalbereich. Oder Oxalapentumoren.
+
+400
+00:30:54,790 --> 00:30:56,790
+Ein was für Tumor?
+
+401
+00:30:57,790 --> 00:30:59,790
+Oxipital, Lappen oder...
+
+402
+00:31:00,790 --> 00:31:06,710
+Ok. Also ein Hirntumor. Was noch?
+
+403
+00:31:08,710 --> 00:31:10,710
+Ja das ist alles für mich.
+
+404
+00:31:11,710 --> 00:31:16,710
+Haben die Kollegen vielleicht noch Vorschläge oder andere Ideen, was es sein kann?
+
+405
+00:31:17,710 --> 00:31:19,710
+Entschuldigung. Vielleicht Multiple Sclerosis.
+
+406
+00:31:22,340 --> 00:31:25,340
+Ok. Sehr gut. Also an einer neurologischen Erkrankung?
+
+407
+00:31:26,340 --> 00:31:35,340
+Ja. Eine neurologische. Und ja auch Alter ist nicht sehr alter.
+
+408
+00:31:35,340 --> 00:31:39,340
+Der ist sehr alter und kann ja junger sein.
+
+409
+00:31:40,340 --> 00:31:43,340
+Und deswegen können wir Multiple Sclerosis äußern.
+
+410
+00:31:44,340 --> 00:31:47,340
+Ok. Oder der Vater hat einen hohen Blutdruck.
+
+411
+00:31:48,340 --> 00:31:50,340
+Vielleicht hat der Patient auch einen hohen Blutdruck.
+
+412
+00:31:51,340 --> 00:31:55,340
+In der Arteria muss ich auf jeden Fall denken.
+
+413
+00:31:56,340 --> 00:31:57,340
+Genau. Muss man auch untersuchen. Sehr gut.
+
+414
+00:31:58,340 --> 00:32:01,340
+Ja wunderbar. Vielen Dank Herr Doktor. Das haben Sie gut gemacht.
+
+415
+00:32:02,340 --> 00:32:03,340
+Vielen Dank.
+
+416
+00:32:03,340 --> 00:32:07,340
+Die Vorstellung, die Differentialdiagnosen. Sehr gut.
+
+417
+00:32:08,340 --> 00:32:10,340
+Haben vielleicht die Kollegen noch ein paar Vorschläge oder Ideen?
+
+418
+00:32:11,340 --> 00:32:13,340
+Oder Anmerkungen? Kritiken?
+
+419
+00:32:17,930 --> 00:32:21,930
+Alle sind glücklich. Alle sagen Doktor Lokman hat das super toll gemacht.
+
+420
+00:32:22,930 --> 00:32:23,930
+Vielen Dank.
+
+421
+00:32:24,930 --> 00:32:25,930
+Er hat die Prüfung bestanden.
+
+422
+00:32:26,930 --> 00:32:27,930
+Insha'Allah.
+
+423
+00:32:28,930 --> 00:32:32,930
+Ok. Ja das war sehr gut. Sie waren ruhig. Sie waren langsam.
+
+424
+00:32:33,930 --> 00:32:34,930
+Haben gute Fragen gestellt.
+
+425
+00:32:34,930 --> 00:32:36,930
+Auch die Grammatik fand ich gut.
+
+426
+00:32:37,930 --> 00:32:40,930
+Zu der Mutter haben Sie gesagt, sie litt an Diabetes.
+
+427
+00:32:41,930 --> 00:32:42,930
+Also eine Vergangenheitsform.
+
+428
+00:32:43,930 --> 00:32:45,930
+Leidet. Also sehr gut.
+
+429
+00:32:46,930 --> 00:32:49,930
+Sie haben eine schöne Übersicht gemacht. Gute Fragen gestellt.
+
+430
+00:32:50,930 --> 00:32:52,930
+Ich glaube Ihre Anfangsdiagnose war auch Diabetes.
+
+431
+00:32:53,930 --> 00:32:56,930
+Ja. Genau. Dieser Patient ist wirklich gekommen vor zwei Wochen.
+
+432
+00:32:57,930 --> 00:32:59,930
+Genau. Genauso wie ich es geschildert habe.
+
+433
+00:33:00,930 --> 00:33:01,930
+Er kam mit Seestörungen.
+
+434
+00:33:01,930 --> 00:33:06,930
+Und wir hatten vor einem Jahr, da war der HbA1c noch bei 6,1.
+
+435
+00:33:07,930 --> 00:33:11,930
+Wir hatten keine Therapie. Und jetzt innerhalb von, glaube ich, neun Monaten.
+
+436
+00:33:12,930 --> 00:33:14,930
+Jetzt hatte im Labor ein HbA1c von 11.
+
+437
+00:33:15,930 --> 00:33:19,930
+Und was haben Sie gemacht zum Beispiel bei dieser Ketopositose?
+
+438
+00:33:20,930 --> 00:33:21,930
+Ich habe ihn gleich ins Krankenhaus geschickt.
+
+439
+00:33:22,930 --> 00:33:25,930
+Er ist schon näher behandelt worden als im Krankenhaus.
+
+440
+00:33:26,930 --> 00:33:27,930
+Ungefähr eine Woche dort.
+
+441
+00:33:27,930 --> 00:33:31,930
+Und wir haben ihn jetzt auf Insulin eingestellt.
+
+442
+00:33:32,930 --> 00:33:34,930
+Klar plus Metformin.
+
+443
+00:33:35,930 --> 00:33:41,930
+Aber da er sehr übergewichtig ist, will ich ihn vom Insulin wegbekommen.
+
+444
+00:33:42,930 --> 00:33:43,930
+Ja, eine Tante.
+
+445
+00:33:44,930 --> 00:33:48,930
+Für diese neueren, diese GLP1-Medikamente, dieses Ozenpic oder Ogarum.
+
+446
+00:33:49,930 --> 00:33:55,930
+Also das, was den Diabetes behandelt, aber auch gleichzeitig Gewicht abnehmen lässt.
+
+447
+00:33:55,930 --> 00:33:58,930
+Dass man ihn damit ein bisschen unterstützt.
+
+448
+00:33:59,930 --> 00:34:02,930
+Und klar, Verlaufskontrolle, Laborkontrolle, Zuckerkontrolle.
+
+449
+00:34:03,930 --> 00:34:11,930
+Dass der Zucker sich so um den Bereich 110, 120 oder 130 hält.
+
+450
+00:34:12,930 --> 00:34:16,560
+Jawohl. Ja wunderbar. Vielen Dank.
+
+451
+00:34:17,560 --> 00:34:20,810
+Und immer noch keine Fragen.
+
+452
+00:34:21,810 --> 00:34:24,810
+Immer noch keine Fragen. Masha'Allah. Oder?
