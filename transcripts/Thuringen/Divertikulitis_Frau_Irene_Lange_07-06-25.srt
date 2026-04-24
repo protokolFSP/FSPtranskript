@@ -1,0 +1,1223 @@
+1
+00:00:00,270 --> 00:00:12,270
+Mein Name ist Ucak, ich bin auf dieser Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Anamnese-Gespräch durchführen. Sind Sie damit einverstanden?
+
+2
+00:00:12,270 --> 00:00:14,270
+Ja, natürlich Doktor.
+
+3
+00:00:14,270 --> 00:00:18,270
+Danke, bitte fragen Sie nach, wenn Sie etwas nicht verstehen, okay?
+
+4
+00:00:18,270 --> 00:00:19,270
+Okay.
+
+5
+00:00:19,270 --> 00:00:21,270
+Wie heißen Sie denn?
+
+6
+00:00:21,270 --> 00:00:23,270
+Ich heiße Irene Lange.
+
+7
+00:00:23,270 --> 00:00:31,640
+Könnten Sie bitte Ihren Vor- und Nachnamen langsam buchstabieren?
+
+8
+00:00:31,640 --> 00:00:50,640
+Ida, Richard, Emil, Nordpol, Emil. Mein Name und mein Vorname, Nachname Ludwig Anton Nordpol Gustav Emil Lange.
+
+9
+00:00:50,640 --> 00:00:52,640
+Frau Lange, wie alt sind Sie?
+
+10
+00:00:52,640 --> 00:00:56,640
+Ich bin 76 Jahre alt Doktor.
+
+11
+00:00:57,640 --> 00:01:01,640
+76 Jahre alt, okay. Und wann sind Sie genau geboren?
+
+12
+00:01:01,640 --> 00:01:05,640
+5. Mai 1949.
+
+13
+00:01:05,640 --> 00:01:08,640
+Wie groß sind Sie?
+
+14
+00:01:08,640 --> 00:01:11,640
+Ich bin 1 Meter 76.
+
+15
+00:01:11,640 --> 00:01:15,890
+Und wie viel wiegen Sie zuzeit?
+
+16
+00:01:15,890 --> 00:01:17,890
+71 Kilogramm.
+
+17
+00:01:17,890 --> 00:01:26,900
+Danke für die Informationen Frau Lange. Was kann ich für Sie tun? Was für Beschwerden haben Sie im Moment?
+
+18
+00:01:26,900 --> 00:01:33,900
+Ja Doktor, ich bin heute hier, weil ich Bauchschmerzen habe.
+
+19
+00:01:33,900 --> 00:01:49,900
+Wissen Sie, heute ist Operfest und wir haben unsere Gäste, unsere Hause sitzen und ich hatte plötzlich Bauchschmerzen.
+
+20
+00:01:49,900 --> 00:02:01,900
+Okay, also ich gratuliere Ihnen Frau Lange beim Fest und ich möchte fragen, seit wann haben Sie diese Schmerzen?
+
+21
+00:02:01,900 --> 00:02:05,900
+Seit 3 Tagen Doktor.
+
+22
+00:02:05,900 --> 00:02:13,760
+Okay, wo genau sind diese Schmerzen lokalisiert? Ich meine Oberbauch, Unterbauch?
+
+23
+00:02:13,760 --> 00:02:19,760
+Die Schmerzen sind im linken Unterbauch Doktor.
+
+24
+00:02:19,760 --> 00:02:31,310
+Okay, können Sie bitte diese Schmerzen genau beschreiben? Also sind sie eher drückend, dumpf, stechend?
+
+25
+00:02:31,310 --> 00:02:42,310
+Ja, die Schmerzen sind steckend, drückend und dumpf. Aber ich habe sehr starke Schmerzen Doktor.
+
+26
+00:02:42,310 --> 00:02:46,310
+Können Sie mir eine Schmerzmittel geben oder?
+
+27
+00:02:46,310 --> 00:02:52,310
+Frau Lange darf ich fragen, wie stark sind die Schmerzen auf einer Schmerzstelle von 1 bis 10?
+
+28
+00:02:52,310 --> 00:03:00,310
+Ja, ich denke 8 Doktor. 8, 9, 8, 8.
+
+29
+00:03:00,310 --> 00:03:14,310
+Ja, Sie haben recht, das ist eine starke Schmerzen. Also ich möchte wissen, ob Sie eine Allergie gegen irgendwelche Medikamente haben Frau Lange?
+
+30
+00:03:14,310 --> 00:03:21,310
+Medikamente? Ich keine Allergie gegen Medikamente Doktor.
+
+31
+00:03:21,310 --> 00:03:36,310
+Okay, Schwester Müller, bitte geben Sie den Patienten einen Spasmolythika und einen Magenschutz.
+
+32
+00:03:36,310 --> 00:03:46,310
+Frau Lange, wir haben Ihnen ein paar Medikamente verabreicht. Fühlen Sie sich jetzt besser?
+
+33
+00:03:46,310 --> 00:03:49,310
+Ja, ja Doktor, ich fühle mich jetzt sehr besser, danke schön.
+
+34
+00:03:49,310 --> 00:03:55,310
+Okay, sehr gerne. Bitte sagen Sie mir Bescheid, wenn Sie ein Medikament benötigen, okay?
+
+35
+00:03:55,310 --> 00:03:57,310
+Danke schön.
+
+36
+00:03:57,310 --> 00:04:05,310
+Gerne. Und Frau Lange, strahlen diese Schmerzen irgendwohin aus?
+
+37
+00:04:05,310 --> 00:04:14,310
+Nein, ich habe nicht bemerkt. Ich habe immer linke Seite Bauchschmerzen.
+
+38
+00:04:14,310 --> 00:04:31,310
+Diese Schmerzen sind plötzlich aufgetreten und haben sich diese Schmerzen im Verlauf der Zeit verändert? Ich meine schlimmer geworden, besser geworden?
+
+39
+00:04:31,310 --> 00:04:38,310
+Die Schmerzen sind im Verlauf der Zeit immer schlimmer geworden.
+
+40
+00:04:38,310 --> 00:04:47,180
+Okay, haben Sie früher eine Ähnliches Beschwerden gehabt?
+
+41
+00:04:47,180 --> 00:04:55,180
+Früher? Ja, vor einem halben Jahr hatte ich eine Ähnliches Beschwerden, Doktor.
+
+42
+00:04:55,180 --> 00:04:57,180
+Ein und halb Jahr?
+
+43
+00:04:57,180 --> 00:04:59,180
+Ja, vor einem halben Jahr.
+
+44
+00:04:59,180 --> 00:05:08,310
+Okay, und waren Sie damals beim anderen Arzt gewesen?
+
+45
+00:05:08,310 --> 00:05:29,310
+Ja, ich habe viele Mal bei unserem Arzt gegangen. Er hat mir gesagt, ich habe keine besonderen Krankheiten.
+
+46
+00:05:29,310 --> 00:05:46,310
+Er hat mir ein paar Magenschutz-Tabletten, Tassel und Schmerzmittel gegeben, aber es war nicht geholfen mir, Doktor.
+
+47
+00:05:46,310 --> 00:05:55,310
+Okay, also momentan, ich meine seit drei Tagen, haben Sie gegen diese Schmerzen ein Medikament eingenommen?
+
+48
+00:05:55,310 --> 00:06:11,310
+Ja, ich habe ein Magenschutz-Tablet genommen, aber es war mir nicht geholfen, nicht geholfen gebracht.
+
+49
+00:06:11,310 --> 00:06:15,310
+Okay, also Tassel haben Sie eingenommen? Ja.
+
+50
+00:06:15,310 --> 00:06:20,310
+Okay, alles klar. Aber keine bestimmte Diagnose wurde gestellt?
+
+51
+00:06:20,310 --> 00:06:23,310
+Ja, leider Doktor.
+
+52
+00:06:23,310 --> 00:06:29,310
+Okay, alles klar. Gibt es etwas, das die Schmerzen lindert oder verschlimmert?
+
+53
+00:06:29,310 --> 00:06:36,310
+Ja, ich denke seit drei Tagen immer verschlimmert.
+
+54
+00:06:36,310 --> 00:06:41,310
+Und gibt es etwas Beschützendes, etwas? Körperhaltung oder Essen oder Stress?
+
+55
+00:06:41,310 --> 00:06:51,310
+Ja, ich verstehe Doktor. Wenn ich mich nach vorne beuge, wird es etwas besser.
+
+56
+00:06:51,310 --> 00:07:01,310
+Okay, ich verstehe. Frau Lange, leiden Sie unter Luftnot oder Husten?
+
+57
+00:07:01,310 --> 00:07:10,940
+Luftnot, Husten? Nein. Aber ich habe Fieber, ja.
+
+58
+00:07:10,940 --> 00:07:16,940
+Okay, das war meine nächste Frage. Okay, haben Sie das Fieber gemessen?
+
+59
+00:07:16,940 --> 00:07:29,940
+Ja, ich habe gemessen. Das Fieber ist 38,9.
+
+60
+00:07:29,940 --> 00:07:35,940
+Wo haben Sie das Fieber gemessen? Ich meine im Mund oder in der Achselhöhle?
+
+61
+00:07:35,940 --> 00:07:40,020
+Achselhöhle Doktor, ja.
+
+62
+00:07:40,020 --> 00:07:43,020
+Haben Sie Schüterfrost oder Nachschweiß?
+
+63
+00:07:43,020 --> 00:07:46,020
+Ich habe nicht bemerkt.
+
+64
+00:07:46,020 --> 00:07:49,020
+Okay, ist Ihnen übel oder mussten Sie erbrechen?
+
+65
+00:07:49,020 --> 00:08:01,820
+Ja Doktor, ich habe Übelkeit, ja. Und Doktor sagt heute Morgen Schmerzen bei Wasser lassen, ja.
+
+66
+00:08:01,820 --> 00:08:06,820
+Ich habe Schmerzen bei Wasser lassen, ja.
+
+67
+00:08:06,820 --> 00:08:13,820
+Also wie oft gehen Sie auf die Toilette, ich meine zum Wasser lassen? Frau Lange?
+
+68
+00:08:13,820 --> 00:08:19,820
+Ich habe seit morgen 3 Mal, ja.
+
+69
+00:08:19,820 --> 00:08:25,730
+Kleine Menge oder ganz normal?
+
+70
+00:08:25,730 --> 00:08:27,730
+Ganz normal.
+
+71
+00:08:27,730 --> 00:08:30,730
+Okay, haben Sie Blut im Urin bemerkt?
+
+72
+00:08:30,730 --> 00:08:34,730
+Ich habe nicht bemerkt, nein.
+
+73
+00:08:34,730 --> 00:08:37,730
+Okay, mussten Sie erbrechen Frau Lange?
+
+74
+00:08:37,730 --> 00:08:40,730
+Erbrechen jetzt nicht.
+
+75
+00:08:40,730 --> 00:08:45,730
+Okay, alles klar. Wie ist Ihr Appetit?
+
+76
+00:08:45,730 --> 00:08:53,730
+Wegen dieser Wäsche habe ich kaum Appetit Doktor.
+
+77
+00:08:53,730 --> 00:08:58,730
+Haben Sie in der letzten Zeit unwirklich ab oder zu genommen?
+
+78
+00:08:58,730 --> 00:09:03,730
+Ich habe nicht bemerkt. Ich denke, ich bin immer gleichgewischt.
+
+79
+00:09:03,730 --> 00:09:06,730
+Das freut mich. Schlafen Sie gut?
+
+80
+00:09:06,730 --> 00:09:11,730
+Deswegen diese Wäsche habe ich nicht gut Doktor.
+
+81
+00:09:11,730 --> 00:09:15,730
+Haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+82
+00:09:15,730 --> 00:09:21,000
+Durchzuschlafen, ja.
+
+83
+00:09:21,000 --> 00:09:27,000
+Okay, sind Sie vollständig gegen Kinderkrankheiten und Covid-Infektionen geimpft?
+
+84
+00:09:27,000 --> 00:09:32,000
+Ja, ich bin vollständig. Ich bin gegen alles vollständig geimpft Doktor.
+
+85
+00:09:32,000 --> 00:09:43,000
+Super. Frau Lange, leiden Sie an chronischen Erkrankungen, von denen ich wissen sollte,
+
+86
+00:09:43,000 --> 00:09:46,000
+wie zum Beispiel Bluthochdruck, Zuckerkrankheit?
+
+87
+00:09:46,000 --> 00:09:52,000
+Ja, ich habe seit 10 Jahren Bluthochdruck Doktor.
+
+88
+00:09:52,000 --> 00:09:56,470
+Und nehmen Sie dagegen ein Medikament ein?
+
+89
+00:09:56,470 --> 00:10:04,470
+Ja, ich nehme dagegen NL April und Lersanipidin.
+
+90
+00:10:04,470 --> 00:10:13,470
+Aber ich habe NL April und Lersanipidin.
+
+91
+00:10:13,470 --> 00:10:18,470
+Und wie oft nehmen Sie diese Medikamente ein?
+
+92
+00:10:18,470 --> 00:10:20,470
+Einmal täglich, morgen.
+
+93
+00:10:20,470 --> 00:10:22,470
+NL April oder Lersanipidin?
+
+94
+00:10:22,470 --> 00:10:24,470
+Beide.
+
+95
+00:10:24,470 --> 00:10:29,470
+Okay. Haben Sie eine Medikamentenliste dabei?
+
+96
+00:10:30,470 --> 00:10:39,470
+Ja, aber jetzt nicht dabei. Die Liste ist in meiner Haustür, Doktor.
+
+97
+00:10:39,470 --> 00:10:44,470
+Okay. Frau Lange, wer ist Ihr Hausarzt oder Ihre Hausärztin?
+
+98
+00:10:44,470 --> 00:10:52,780
+Meine Hausärztin heißt Frau Schmid.
+
+99
+00:10:52,780 --> 00:11:00,780
+Okay. Also machen Sie sich bitte keine Sorgen. Ich werde Ihren Frauenärztin kontaktieren über diese Details, ja?
+
+100
+00:11:00,780 --> 00:11:06,780
+Okay, gerne. Sonst noch etwas? Bluthochdruck?
+
+101
+00:11:06,780 --> 00:11:17,780
+Ja, Doktor. Außerdem habe ich seit zwei Jahren Zuckerkrankheit, ja.
+
+102
+00:11:17,780 --> 00:11:20,780
+Was nehmen Sie dagegen ein?
+
+103
+00:11:20,780 --> 00:11:26,780
+Ich nehme dagegen Metformin Tablete ein, ja.
+
+104
+00:11:27,780 --> 00:11:29,780
+Kennen Sie die Dosierung?
+
+105
+00:11:29,780 --> 00:11:35,780
+Ja, 870 mg.
+
+106
+00:11:35,780 --> 00:11:37,780
+870 mg?
+
+107
+00:11:37,780 --> 00:11:46,470
+Ja, 870 mg. Nein, 750 mg. Entschuldigung.
+
+108
+00:11:46,470 --> 00:11:48,470
+Okay, 150 mg?
+
+109
+00:11:48,470 --> 00:11:49,470
+Ja.
+
+110
+00:11:49,470 --> 00:11:50,470
+Und morgens?
+
+111
+00:11:50,470 --> 00:11:53,470
+Ja, morgens. Einmal. Täglich.
+
+112
+00:11:53,470 --> 00:11:55,470
+Okay. Sonst?
+
+113
+00:11:55,470 --> 00:11:57,470
+Das war es.
+
+114
+00:11:57,470 --> 00:11:58,470
+Okay, nehmen Sie...
+
+115
+00:11:58,470 --> 00:12:16,930
+Ja, ja, Entschuldigung. Ich habe seit 1987 Arthrose im rechten Knie und nehme bei Bedarf Ibuprofen, ja.
+
+116
+00:12:16,930 --> 00:12:18,930
+Kennen Sie die Dosierung?
+
+117
+00:12:18,930 --> 00:12:20,930
+Jetzt nicht.
+
+118
+00:12:20,930 --> 00:12:22,930
+Okay.
+
+119
+00:12:23,930 --> 00:12:31,930
+Nehmen Sie regelmäßig mit der bei Bedarf irgendwelche anderen Medikamente außer genannten ein?
+
+120
+00:12:31,930 --> 00:12:33,930
+Nein.
+
+121
+00:12:33,930 --> 00:12:37,930
+Sind Sie schon einmal operiert worden, so lange?
+
+122
+00:12:37,930 --> 00:12:45,930
+Ja, mit 15 Jahren wurde mein Mandel empfangen, Doktor.
+
+123
+00:12:45,930 --> 00:12:48,930
+Okay, sonst etwas?
+
+124
+00:12:48,930 --> 00:13:15,410
+Sonst 1987 wurde mein Kreuzband rechts operiert. Und 1994 hatte ich eine unkomplizierte Entfernung eines Knotens in der Brust, ja.
+
+125
+00:13:15,410 --> 00:13:19,230
+Welche Seite?
+
+126
+00:13:19,230 --> 00:13:21,230
+Rechts.
+
+127
+00:13:21,230 --> 00:13:23,230
+Okay.
+
+128
+00:13:23,230 --> 00:13:29,230
+Sind Sie allergisch gegen irgendwelche Medikamente, Nahrungsmittel, Pflanzen?
+
+129
+00:13:29,230 --> 00:13:37,230
+Ja, ich habe Allergisch gegen Katzehalle.
+
+130
+00:13:37,230 --> 00:13:40,230
+Wie reagieren Sie darauf?
+
+131
+00:13:40,230 --> 00:13:49,230
+Das äußert sich Yukreis und Hautausschlag.
+
+132
+00:13:49,230 --> 00:13:53,860
+Okay. Sonst noch etwas?
+
+133
+00:13:53,860 --> 00:13:57,860
+Ich habe keine anderen Allergien, Doktor.
+
+134
+00:13:57,860 --> 00:13:59,860
+Okay. Frau, geraten Sie?
+
+135
+00:13:59,860 --> 00:14:02,860
+Leider. Aber jetzt nicht.
+
+136
+00:14:02,860 --> 00:14:25,860
+Ich bin seit 6 und 2, 76 Jahren nicht Raucherin. Aber ich habe davor etwa 30 Jahre ungefähr 15 Zigaretten am Tag geraucht.
+
+137
+00:14:26,860 --> 00:14:34,860
+Okay, wenn ich alles richtig verstanden habe, Sie rauchen seit 26 Jahren nicht mehr?
+
+138
+00:14:34,860 --> 00:14:35,860
+Ja, ja.
+
+139
+00:14:35,860 --> 00:14:39,860
+Und Sie haben 15 Zigaretten täglich 30 Jahre lang geraucht?
+
+140
+00:14:39,860 --> 00:14:41,860
+Ja, richtig.
+
+141
+00:14:41,860 --> 00:14:44,860
+Okay. Trinken Sie regelmäßig Alkohol?
+
+142
+00:14:44,860 --> 00:14:52,860
+Ja, Alkohol trinke ich kaum, nur gelegentlich ein Glas Rotwein am Wochenende.
+
+143
+00:14:52,860 --> 00:15:02,060
+Okay. Bitte nehmen Sie die nächste Frage nicht persönlich. Das ist eine Routinefrage.
+
+144
+00:15:02,060 --> 00:15:05,060
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+145
+00:15:05,060 --> 00:15:10,060
+Drogen nehme ich keine, Doktor. Nein.
+
+146
+00:15:10,060 --> 00:15:21,060
+Okay, das freut mich. Frau Lange, Sie sind jetzt 76 Jahre alt, aber ich möchte fragen, ob Ihre Eltern noch leben?
+
+147
+00:15:21,060 --> 00:15:22,060
+Nein.
+
+148
+00:15:22,060 --> 00:15:26,060
+Okay, woran sind Ihre Eltern verstorben?
+
+149
+00:15:26,060 --> 00:15:39,500
+Mein Vater hat einen Schlaganfall und Zuckerkrankheit gestorben. Er war 76 Jahre alt.
+
+150
+00:15:39,500 --> 00:15:41,500
+Und Ihre Mutter?
+
+151
+00:15:41,500 --> 00:15:54,500
+Meine Mutter ist mit 70 Jahren an Herzrhythmstörungen und Darmkrebs gestorben.
+
+152
+00:15:54,500 --> 00:16:06,460
+Okay. Mein Beileid, Frau Lange. Also, haben Sie Geschwister?
+
+153
+00:16:06,460 --> 00:16:09,460
+Ich bin Einzelkind, Doktor.
+
+154
+00:16:09,460 --> 00:16:12,460
+Okay. Wie ist Ihr Familienstand?
+
+155
+00:16:12,460 --> 00:16:19,220
+Ich bin verfüttert und habe vier Kinder.
+
+156
+00:16:19,220 --> 00:16:22,620
+Sind Ihre Kinder gesund?
+
+157
+00:16:22,620 --> 00:16:32,100
+Drei sind gesund. Eines ist leider verstorben, Doktor. Einen Autounfall.
+
+158
+00:16:32,100 --> 00:16:35,100
+Mein Beileid, Frau Lange.
+
+159
+00:16:35,100 --> 00:16:37,100
+Danke schön.
+
+160
+00:16:37,100 --> 00:16:44,100
+Okay, Sie sind jetzt Rentnerin, aber was machen Sie früher als beruflich gemacht?
+
+161
+00:16:44,100 --> 00:17:01,590
+Früher war ich als Kochen in Restaurant tätig.
+
+162
+00:17:01,590 --> 00:17:02,590
+Ja.
+
+163
+00:17:02,590 --> 00:17:16,900
+Alles klar. Okay, ja. Frau Lange, das waren meine Fragen. Möchten Sie etwas hinzufügen?
+
+164
+00:17:16,900 --> 00:17:17,900
+Nein, Doktor.
+
+165
+00:17:17,900 --> 00:17:19,900
+Oder haben Sie Fragen an mich?
+
+166
+00:17:19,900 --> 00:17:22,900
+Ja, was habe ich, Doktor?
+
+167
+00:17:22,900 --> 00:17:34,900
+Frau Lange, es ist zu früh, etwas genau zu sagen, aber ich vermute, dass Sie eine Darmentzündung haben.
+
+168
+00:17:34,900 --> 00:17:44,900
+Deswegen werde ich Sie zuerst körperlich untersuchen. Dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen veranlassen.
+
+169
+00:17:44,900 --> 00:17:48,900
+Wie zum Beispiel die Untersuchung der Unterstärkung.
+
+170
+00:17:48,900 --> 00:17:51,900
+Was ist die Untersuchung, Doktor? Ist es gefährlich?
+
+171
+00:17:51,900 --> 00:18:06,900
+Also, das ist ein bildgebendes Verfahren, Frau Lange. Das ist eine schmerzlose und schrallenfrei.
+
+172
+00:18:06,900 --> 00:18:21,900
+Die Untersuchung. Machen Sie bitte keine Sorgen. Damit können wir die inneren Organe sehen und wir können die Probleme feststellen.
+
+173
+00:18:21,900 --> 00:18:26,900
+Wie lange dauert diese Untersuchung, Doktor? Es ist lange oder?
+
+174
+00:18:26,900 --> 00:18:40,900
+Nein, ca. 20 Minuten brauchen wir. Ganz kurz. Und wie gesagt, das ist eine schmerzfreie und schrallenfreie Untersuchung.
+
+175
+00:18:40,900 --> 00:18:55,900
+Aber ich habe gehört, ich bin nicht schwanger. Meine Nachbarn waren schwanger und Sie haben eine Zonographie durchgeführt, Doktor.
+
+176
+00:18:55,900 --> 00:19:07,900
+Genau. Also, ja. Ultraschalluntersuchung. Die Ultraschalluntersuchung können wir auch bei schwangeren Frauen durchführen.
+
+177
+00:19:07,900 --> 00:19:19,900
+Es gibt keine Komplikation mit dieser Untersuchung. Also, wie gesagt, wir können die inneren Organe auch, das Baby, bei dieser Untersuchung sehen, Frau Lange.
+
+178
+00:19:19,900 --> 00:19:24,900
+Danke schön. Blabla, ich bin kranken, oder?
+
+179
+00:19:24,900 --> 00:19:33,900
+Ein paar Stunden müssen Sie sicherlich bei uns bleiben, damit wir die Diagnose bestätigen können.
+
+180
+00:19:33,900 --> 00:19:45,900
+Aber wenn wir etwas Auffälliges finden, kann es auch passieren, dass Sie ein paar Tage im Krankenhaus bleiben sollen.
+
+181
+00:19:45,900 --> 00:19:49,900
+Ok, danke schön. Ich warte auf Sie, Doktor. Danke schön.
+
+182
+00:19:49,900 --> 00:19:52,900
+Ok, bitte nehmen Sie Platz im Wartezimmer. Ich bin gleich wieder da.
+
+183
+00:19:52,900 --> 00:20:03,270
+Danke schön. Schönen guten Abend, Herr Oberarzt. Ich habe eine neue Patientin aufgenommen und ich würde gerne über Sie berichten.
+
+184
+00:20:03,270 --> 00:20:17,270
+Haben Sie kurz Zeit für mich? Ja, bitte. Danke schön. Frau Irene Lange ist 76 Jahre alt, 1,76 Meter groß, 71 Kilogramm schwer.
+
+185
+00:20:17,270 --> 00:20:28,270
+Frau Lange stellte sich heute bei uns wegen seit drei Tagen bestehender linkseitiger Unterbauchschmerzen vor.
+
+186
+00:20:28,270 --> 00:20:37,270
+Der Patientin zufolge sei die Schmerzen plötzlich aufgetreten und mit der Zeit immer geworden.
+
+187
+00:20:37,270 --> 00:20:49,270
+Die Schmerzen seien stechend, drückend und dumpf und die Schmerzen würden nirgendwo hin austrahlen.
+
+188
+00:20:49,270 --> 00:20:56,270
+Die Schmerzintensität wurde auf einer Schmerzkala mit 8 von 10 bewahrtet.
+
+189
+00:20:56,270 --> 00:21:06,270
+Die Einnahme von Teilzeit-Tabletten hat keine Linderung der Schmerzen gebracht.
+
+190
+00:21:06,270 --> 00:21:21,270
+Die Patientin berichtete, dass sie ähnliche Beschwerden vor 1,5 Jahren gehabt hat, aber keine bestimmte Diagnose wurde festgestellt.
+
+191
+00:21:21,270 --> 00:21:38,270
+Sie erwähnte, dass die Schmerzen sich mit der Inklangation verbessern.
+
+192
+00:21:38,270 --> 00:21:45,270
+Und die Fragen nach Tussis und Dyspnoe wurden verneint.
+
+193
+00:21:45,270 --> 00:21:50,270
+Bei der Vegetative anamnete seien die Folgenden bekannt.
+
+194
+00:21:50,270 --> 00:21:58,270
+Pyrexie bis zu 38,9, Axilla Bereich.
+
+195
+00:21:58,270 --> 00:22:02,270
+Nausea ohne Emesis.
+
+196
+00:22:02,270 --> 00:22:04,270
+Dysurie.
+
+197
+00:22:04,270 --> 00:22:07,270
+Schmerzbedingte Inapetens.
+
+198
+00:22:07,270 --> 00:22:13,270
+Schmerzbedingte Insomnie in Form von Durchschlafstörungen.
+
+199
+00:22:13,270 --> 00:22:20,270
+Sie sei vorstandig gegen Kinderkrankheiten und Covid-Infektionen geimpft.
+
+200
+00:22:20,270 --> 00:22:32,270
+Anvorerkrankungen nannte sie seit 10 Jahren bestehende Artelehypertonie und seit 2 Jahren bestehenden Diabetes mellitus Typ 2.
+
+201
+00:22:32,270 --> 00:22:43,270
+Und 1987 diagnostizierte rechtseitige Gonarthose.
+
+202
+00:22:43,270 --> 00:22:54,270
+Die Patienten nehme im April morgens Lesenidipin auch morgens ein.
+
+203
+00:22:54,270 --> 00:23:01,270
+Und die Dosierung von diesen Medikamenten sollte geklärt werden.
+
+204
+00:23:01,270 --> 00:23:13,270
+Sie nehme Metformin 150 mg morgens und Ibuprofen bei Bedarf ein.
+
+205
+00:23:13,270 --> 00:23:22,270
+Mit 15 Jahren sei bei ihr eine Tonsilektomie durchgeführt worden.
+
+206
+00:23:22,270 --> 00:23:40,270
+1987 sei sie eine Kreuzbande Riptur rechts zugezogen, die operativ behandelt worden sei.
+
+207
+00:23:40,270 --> 00:24:01,710
+1994 sei sie wegen einer Adenoma in der rechten Brust operiert worden.
+
+208
+00:24:01,710 --> 00:24:10,710
+Sie habe Allergie gegen Katzenhaare, die sich durch Phrytus und Exanthem äußert.
+
+209
+00:24:10,710 --> 00:24:20,710
+Sie sei Ex-Raucherin seit 26 Jahren. Davor habe sie 15 Zigaretten täglich 30 Jahre lang geraucht.
+
+210
+00:24:20,710 --> 00:24:27,710
+Sie trinke ein Glas Rotwein am Wochenende, Drogenkonsum wurde verneint.
+
+211
+00:24:27,710 --> 00:24:41,710
+In der Familienanamnese gab sie an, dass der Vater an Apoplex verstorben sei mit 76 Jahren.
+
+212
+00:24:41,710 --> 00:24:47,710
+Davor habe er an Diabetes mellitus gelitten.
+
+213
+00:24:47,710 --> 00:25:03,710
+Die Mutter sei mit 70 Jahren an Kolonkarzinon verstorben und sie habe an Herzrhythmusstörungen gelitten.
+
+214
+00:25:03,710 --> 00:25:12,710
+Sie sei Einzelkind, verwitwet und sie habe vier Kinder.
+
+215
+00:25:12,710 --> 00:25:28,710
+Ein Kind ist beim Autounfall verstorben. Sie sei Rentnerin, früher habe sie als Köchin gearbeitet.
+
+216
+00:25:28,710 --> 00:25:43,710
+Ich gehe von einem Verdacht auf Divertikulitis aus, da die Patientin typische Symptome dafür aufweist.
+
+217
+00:25:43,710 --> 00:25:51,710
+Die Patientin leidet unter linkseitiger Unterbauchschmerzen.
+
+218
+00:25:51,710 --> 00:26:11,090
+Diese Symptome sprechen für eine Pirexie bis 38,9, Nausea und Dysurie.
+
+219
+00:26:11,090 --> 00:26:16,090
+Diese Symptome sprechen für eine Divertikulitis.
+
+220
+00:26:16,090 --> 00:26:37,090
+Als differential Diagnosen kommen Handwerkinfektionen und Adnexitis und Ovariatrosion in Betracht.
+
+221
+00:26:37,090 --> 00:26:49,090
+Um meine Verdacht Diagnose zu bestätigen, würde ich zunächst bei der Patientin die Vitaparameter überwachen und eine körperliche Untersuchung durchführen.
+
+222
+00:26:49,090 --> 00:27:10,090
+Bei der körperlichen Untersuchung achte ich darauf, ob Hautfarbeveränderungen, geschwollene Lymphknoten, Druckschmerzen, Abwehrspannung, Loslassschmerzen vorhanden sind.
+
+223
+00:27:10,090 --> 00:27:17,090
+Zusätzlich ist eine Laborntersuchung sinnvoll, um eine umfassende Diagnose zu gewährleisten.
+
+224
+00:27:17,090 --> 00:27:30,750
+Dabei würde ich Blutbild, CAP, BSG, Leberwerte, Nierenwerte, Elektrolyten bestimmen lassen.
+
+225
+00:27:30,750 --> 00:27:38,750
+Und ich würde auch eine Urinstatus und Urinkultur bestimmen lassen.
+
+226
+00:27:38,750 --> 00:27:47,750
+Danach würde ich eine Röntgen des Abdomens durchführen, um die mögliche Perforation auszuschließen.
+
+227
+00:27:47,750 --> 00:28:02,380
+Darüber hinaus würde ich eine Abdominal Sonographie durchführen, um meine Verdacht Diagnose zu bestätigen und andere mögliche Pathologien auszuschließen.
+
+228
+00:28:03,380 --> 00:28:16,380
+Danach würde ich eine CT des Abdomens durchführen, um die genauen Pathologien zu beurteilen.
+
+229
+00:28:16,380 --> 00:28:29,920
+Und würde ich eine Dopplex Sonographie durchführen, um eine Ovarian Torsion auszuschließen.
+
+230
+00:28:30,920 --> 00:28:38,920
+Sollte sich die Verdacht Diagnose bestätigen, würde ich die Patientin stationär aufnehmen.
+
+231
+00:28:38,920 --> 00:28:46,920
+Und ich würde der Patientin einen venösen Zugang legen.
+
+232
+00:28:46,920 --> 00:28:56,920
+Und ich würde Analgetika, Antiemetika, Spasmolytika, Antibiotika verabreichen.
+
+233
+00:28:56,920 --> 00:29:06,920
+Und danach würde ich ein chirurgisches Konzil anfordern, um die Therapie der Patientin zu optimieren.
+
+234
+00:29:06,920 --> 00:29:20,300
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit der geplanten Untersuchung fortfahren, Herr Oberarzt.
+
+235
+00:29:20,300 --> 00:29:33,300
+Herr Kollegen, Sie haben gesagt, ich würde eine Abdomen Sonographie durchführen. Welche Zeichen erwarten Sie in der Abdomen Sonographie?
+
+236
+00:29:51,580 --> 00:30:05,580
+Was verursacht die Vertikulitis im Darm?
+
+237
+00:30:22,920 --> 00:30:36,920
+Ich würde sagen, dass es eine linksseitige Apendicitis ist. Die Symptome dieser zwei Krankheiten sind sehr ähnlich.
+
+238
+00:30:36,920 --> 00:30:51,920
+Bei der Apendicitis sehen wir eine Entzündung mit dem Blinddarm und sechseitige Unterbauchschmerzen und Fieber und Nausea.
+
+239
+00:30:51,920 --> 00:31:02,920
+Bei der Divertikulitis sehen wir eine entzündliche Divertikel, linksseitige Unterbauchschmerzen, Fieber und Nausea.
+
+240
+00:31:02,920 --> 00:31:11,920
+Sehr ähnliche Symptome, aber sehr andere Seiten der Abdomen Schmerzen, Herr Oberarzt.
+
+241
+00:31:11,920 --> 00:31:15,920
+Was verursacht die Divertikulitis?
+
+242
+00:31:15,920 --> 00:31:28,200
+Also vielleicht eine fremde Körper, aber ich bin mir nicht sicher.
+
+243
+00:31:28,200 --> 00:31:34,200
+Perforation, Abscess, Pistel, Garper Schloss.
+
+244
+00:31:34,200 --> 00:31:37,200
+Meinen Sie Komplikationen?
+
+245
+00:31:38,200 --> 00:31:50,200
+Ja, wir können bei der Divertikulitis eine Perforation, Abscess, Pistel feststellen.
+
+246
+00:31:54,200 --> 00:32:01,200
+Nach der Akutbehandlung empfehlen Sie den Patienten Koloskopie?
+
+247
+00:32:01,200 --> 00:32:11,200
+Nein, Koloskopie ist eine Kontraindikation bei akuter Divertikulitis.
+
+248
+00:32:11,200 --> 00:32:18,200
+Ich meine nach der Akutbehandlung oder Gasenbehandlung.
+
+249
+00:32:18,200 --> 00:32:36,200
+Okay, ja, nach der Behandlung, wenn die Situation der Patienten besser ist, können wir eine Koloskopie machen, um die genaue Pathologie zu beurteilen.
+
+250
+00:32:36,200 --> 00:32:40,200
+Braucht der Patient eine Operation?
+
+251
+00:32:42,610 --> 00:32:56,610
+Wenn es Komplikationen wie zum Beispiel Perforation, Abscess oder Pistel gibt, können wir eine Operation durchführen.
+
+252
+00:32:56,610 --> 00:33:01,610
+Sonst braucht der Patient keine Operation.
+
+253
+00:33:01,610 --> 00:33:06,610
+Welche Operation führen Sie durch?
+
+254
+00:33:06,610 --> 00:33:13,610
+Besonders bei der Perforation sollen wir eine offene Operation durchführen.
+
+255
+00:33:15,610 --> 00:33:20,610
+Empfehlen Sie den Patienten eine Peroskopische Operation?
+
+256
+00:33:20,610 --> 00:33:36,460
+Normalerweise machen wir keine Operation bei dieser Krankheit ohne Komplikationen.
+
+257
+00:33:36,460 --> 00:33:48,460
+Aber bei der Perforation sollen wir sicherlich eine offene Operation durchführen.
+
+258
+00:33:48,460 --> 00:33:56,460
+Aber mit dem Abscess oder Pistel können wir vielleicht auch eine Offene Operation durchführen.
+
+259
+00:33:56,460 --> 00:33:57,460
+Okay.
+
+260
+00:33:57,460 --> 00:34:10,280
+Welche anderen Krankheiten verursacht linksseitige Abdominal Schmerzen?
+
+261
+00:34:11,280 --> 00:34:28,280
+Ja, linksseitige Unterabdominal Schmerzen können wir über Distortion, Adnexitis bei den Frauen.
+
+262
+00:34:28,280 --> 00:34:38,280
+Und wir können auch Milzprobleme mit der linksseitigen Oberbauchschmerzen feststellen.
+
+263
+00:34:38,280 --> 00:34:49,280
+Und wir können auch Koloncarcinomen feststellen mit linksseitigen Unterbauchschmerzen.
+
+264
+00:34:49,280 --> 00:35:08,490
+Kolitis ulcerosa, Morbus Crohn, Urolithiasis und linksseitige Leistenbrüche.
+
+265
+00:35:08,490 --> 00:35:21,080
+Herr Kollegen, empfehlen Sie in diesem Fall eine CT des Abdomens des Patienten?
+
+266
+00:35:21,080 --> 00:35:38,080
+Ja, wir können eine CT des Abdomens durchführen um die Verdachtdiagnose zu bestätigen mit Kontrast mittel.
+
+267
+00:35:38,080 --> 00:35:47,080
+Ja, mit Kontrast mittel ist sehr wichtig. Würden Sie in diesem Fall eine MRT des Abdomens?
+
+268
+00:35:47,080 --> 00:36:05,490
+Also wir können die genaue Pathologie bei der CT-Untersuchung feststellen. Aber ich werde das nicht nötig, Herr Arzt.
+
+269
+00:36:05,490 --> 00:36:12,490
+Normalerweise würden Sie keine MRT des Abdomens in diesem Fall empfehlen.
+
+270
+00:36:12,490 --> 00:36:20,490
+Weil wenn der Patient Komplikation hat, müssen wir schnell die Diagnose stellen.
+
+271
+00:36:20,490 --> 00:36:28,490
+Schnell die Diagnose mit CT des Abdomens.
+
+272
+00:36:28,490 --> 00:36:41,230
+Würden Sie in diesem Fall eine RSP durchführen?
+
+273
+00:36:41,230 --> 00:36:58,230
+Nein, wir sollen RSP für die Pathologien über Gallenblasengänge und Pankreasgangs.
+
+274
+00:36:58,230 --> 00:37:05,230
+Bei diesem Fall sollen wir keine RSP durchführen, Herr Arzt.
+
+275
+00:37:05,230 --> 00:37:12,230
+Was empfehlen Sie den Patienten nach der Behandlung?
+
+276
+00:37:12,230 --> 00:37:34,210
+Ja, ich würde die Patienten Lebensstilveränderungen empfehlen. Sie seien Ex-Rauchhörer.
+
+277
+00:37:34,210 --> 00:37:42,210
+Sie trinken kein Alkohol regelmäßig. Gewichtsprobleme hat sie nicht.
+
+278
+00:37:42,210 --> 00:38:01,210
+Also alles in Ordnung bei diesen Patienten. Aber sie sollen regelmäßig ihren Hausarzt besuchen nach der Behandlung.
+
+279
+00:38:01,210 --> 00:38:07,210
+Sonst habe ich keine Idee.
+
+280
+00:38:07,210 --> 00:38:15,210
+Empfehlen Sie den Patienten Ernährungsumstellung?
+
+281
+00:38:15,210 --> 00:38:27,010
+Ja, die Patienten sollen ...
+
+282
+00:38:27,010 --> 00:38:30,010
+Ich habe den Namen vergessen, Herr Arzt.
+
+283
+00:38:30,010 --> 00:38:32,010
+Ja, ich auch.
+
+284
+00:38:32,010 --> 00:38:37,010
+Stopp, Stopp, Stopp.
+
+285
+00:38:37,010 --> 00:38:40,010
+Stoppweichende Ernährung.
+
+286
+00:38:40,010 --> 00:38:43,010
+Ich bin ja nicht sicher.
+
+287
+00:38:43,010 --> 00:38:44,010
+Also auch die Lieferung?
+
+288
+00:38:44,010 --> 00:38:46,010
+Ja, genau.
+
+289
+00:38:46,010 --> 00:38:51,010
+Aber man muss es auch lernen. Vielleicht werden sie fragen.
+
+290
+00:38:51,010 --> 00:38:54,540
+Das stimmt.
+
+291
+00:38:54,540 --> 00:39:03,530
+Herr Kollegen, empfehlen Sie den Patienten viel Beweglichkeit?
+
+292
+00:39:04,530 --> 00:39:18,530
+Die Patientin ist 76 Jahre alt. Nicht viel Beweglichkeit, aber sie kann regelmäßig bewegen.
+
+293
+00:39:18,530 --> 00:39:24,530
+Sie leidet unter alterlichem Platoni, Diabetes mellitus.
+
+294
+00:39:24,530 --> 00:39:35,530
+Deswegen empfehle ich ihr regelmäßig Bewegung, aber nicht zu viel, glaube ich.
+
+295
+00:39:35,530 --> 00:39:50,780
+Ja, regelmäßig Beweglichkeit ist wichtig in diesem Fall. Würden Sie in diesem Fall Ambulat behandeln?
+
+296
+00:39:50,780 --> 00:40:05,780
+Nein, die Patientin hat Fieber bis zu 38,9. Wir sollen eine IV-Antibiotik verabreichen.
+
+297
+00:40:05,780 --> 00:40:11,780
+Und Sie haben schon vergessen, diese Patientin hat auch Dysurie.
+
+298
+00:40:11,780 --> 00:40:19,780
+Und ich glaube, es gibt auch eine handwerkliche Infektion. Eine komplizierte Infektion.
+
+299
+00:40:19,780 --> 00:40:27,780
+Deswegen sollen wir die Patientin tatsächlich aufnehmen.
+
+300
+00:40:27,780 --> 00:40:36,780
+Und sie ist 76 Jahre alt. Deswegen wäre es besser, im Krankenhaus zu bleiben.
+
+301
+00:40:36,780 --> 00:40:45,780
+Meinen Sie als differential Diagnose auch, denken wir, Pioleonephritis oder Harnweginfektionen?
+
+302
+00:40:45,780 --> 00:40:57,780
+Ja, das stimmt. Wir sollen auch eine Therapie gegen Harnweginfektionen anordnen, Herr Oberst.
+
+303
+00:40:57,780 --> 00:41:06,780
+Also Ciprophyloxacin und Methanidazol wäre eine gute Möglichkeit bei dieser Patientin, glaube ich.
+
+304
+00:41:06,780 --> 00:41:15,780
+Ok, vielen Dank, Herr Kollegen. Bitte gehen Sie in unser Impfadvisor und nehmen Sie Ihre Certificate.
+
+305
+00:41:15,780 --> 00:41:20,780
+Ich wünsche Ihnen viel Erfolg für Ihr Arbeitsweg.
+
+306
+00:41:20,780 --> 00:41:37,100
+Vielen Dank für diese sehr angenehme Art und Sprache, Herr Oberst. Vielen Dank.

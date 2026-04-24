@@ -1,0 +1,1471 @@
+1
+00:00:00,020 --> 00:00:09,020
+Mein Name ist Ujak. Ich bin auf dieser Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Anamnese-Gespräch durchführen.
+
+2
+00:00:09,020 --> 00:00:11,020
+Sind Sie damit einverstanden?
+
+3
+00:00:11,020 --> 00:00:14,020
+Ja, natürlich Doktor.
+
+4
+00:00:14,020 --> 00:00:19,020
+Ok. Bitte fragen Sie nach, wenn Sie etwas nicht verstehen. Ok?
+
+5
+00:00:19,020 --> 00:00:21,020
+Ok.
+
+6
+00:00:21,020 --> 00:00:23,020
+Wie heißen Sie denn?
+
+7
+00:00:23,020 --> 00:00:29,440
+Ich heiße Maria Kaiser.
+
+8
+00:00:29,440 --> 00:00:33,440
+Können Sie bitte Ihren Vor- und Nachnamen langsam bestabeln?
+
+9
+00:00:33,440 --> 00:00:37,440
+M-A-R-I-A. Maria.
+
+10
+00:00:37,440 --> 00:00:39,440
+Ja.
+
+11
+00:00:39,440 --> 00:00:44,440
+A-I-S-E-R. Kaiser.
+
+12
+00:00:44,440 --> 00:00:46,440
+K-A oder E wie E mit?
+
+13
+00:00:46,440 --> 00:00:50,440
+A-A-I-S-I-R.
+
+14
+00:00:50,440 --> 00:00:54,440
+Ok. Frau Kaiser, wie alt sind Sie?
+
+15
+00:00:54,440 --> 00:00:58,440
+Ich bin 54 Jahre alt Doktor.
+
+16
+00:00:58,440 --> 00:01:01,440
+Wann sind Sie genau geboren?
+
+17
+00:01:01,440 --> 00:01:08,440
+23.9.1968
+
+18
+00:01:08,440 --> 00:01:13,870
+Ok. Wie groß sind Sie?
+
+19
+00:01:13,870 --> 00:01:15,870
+1,70 Meter.
+
+20
+00:01:15,870 --> 00:01:20,820
+Wie viel wiegen Sie zuzeit?
+
+21
+00:01:20,820 --> 00:01:22,820
+65 Kilogramm.
+
+22
+00:01:22,820 --> 00:01:31,170
+Danke für die Informationen, Frau Kaiser. Was kann ich für Sie tun? Was für Beschwerden haben Sie zuzeit?
+
+23
+00:01:31,170 --> 00:01:35,170
+Ich habe starke Husten Doktor.
+
+24
+00:01:35,170 --> 00:01:44,940
+Seit wann leiden Sie hinter Husten?
+
+25
+00:01:44,940 --> 00:01:47,940
+Seit zwei Monaten habe ich diese Beschwerden.
+
+26
+00:01:47,940 --> 00:01:54,940
+Frau Kaiser, sind diese Beschwerden plötzlich oder langsam aufgetreten?
+
+27
+00:01:54,940 --> 00:02:01,940
+Diese Beschwerden plötzlich, hat plötzlich aufgetreten Doktor.
+
+28
+00:02:02,940 --> 00:02:10,940
+Und haben sich die Beschwerden mit der Zeit verändert? Ich meine schlimmer geworden, besser geworden?
+
+29
+00:02:10,940 --> 00:02:26,940
+Ja, die Beschwerden sind in der Verlaufszeit immer schlimmer geworden. Aber meine Beschwerden sind immer dauerhaft. Nicht gehen wieder weg Doktor.
+
+30
+00:02:26,940 --> 00:02:32,940
+Ok. Also treten Sie die Husten tagsüber auch in der Nacht?
+
+31
+00:02:32,940 --> 00:02:42,070
+Besonders am Abend, aber tagsüber habe ich sie.
+
+32
+00:02:42,070 --> 00:02:50,070
+Frau Kaiser, ist die Husten trocken oder mit dem Auswurf?
+
+33
+00:02:50,070 --> 00:03:01,070
+Ich meine, dass die Husten mit dem Auswurf, ja Doktor.
+
+34
+00:03:01,070 --> 00:03:13,580
+Und wie sah der Auswurf aus? Ich meine schleimig, grünlich, gelblich?
+
+35
+00:03:13,580 --> 00:03:24,260
+Ja, der Auswurf ist braunisch.
+
+36
+00:03:24,260 --> 00:03:34,260
+Außerdem habe ich gestern Blutfaden im Auswurf bemerkt Doktor.
+
+37
+00:03:34,260 --> 00:03:43,050
+Ok, das war meine nächste Frage. Danke für diese Information Frau Kaiser.
+
+38
+00:03:43,050 --> 00:03:48,050
+Ok, nur einmal haben Sie Blut im Auswurf bemerkt, richtig?
+
+39
+00:03:48,050 --> 00:03:54,300
+Ja, gestern habe ich bemerkt. Früher habe ich nicht bemerkt.
+
+40
+00:03:54,300 --> 00:04:00,300
+Ok. Frau Kaiser, leiden Sie unter Luftnot?
+
+41
+00:04:00,300 --> 00:04:09,300
+Ja Doktor, Sie haben Recht. Seit Kurzem bekomme ich bei Treppen steigen schlechte Luft.
+
+42
+00:04:09,300 --> 00:04:16,300
+Ich merke, dass mir die Husten ausgeht.
+
+43
+00:04:16,300 --> 00:04:24,640
+Ich will nicht Luft bekommen. Verstehen Sie?
+
+44
+00:04:24,640 --> 00:04:32,640
+Ja, meine Internetverbindung ist schlecht, aber ich denke, ich habe richtig verstanden.
+
+45
+00:04:32,640 --> 00:04:40,640
+Frau Kaiser, steht die Luftnot nur bei Belastung oder auch in Ruhe?
+
+46
+00:04:40,640 --> 00:04:46,640
+Bei Belastung, nicht in Ruhe Doktor.
+
+47
+00:04:46,640 --> 00:04:58,510
+Ok, wie viele Treppen können Sie aussteigen ohne Luftnot zu bekommen?
+
+48
+00:04:58,510 --> 00:05:12,510
+Ja Doktor, ich wohne im ersten Stück. Wenn ich in mein Haus gehe, muss ich mindestens zweimal Pause machen.
+
+49
+00:05:12,510 --> 00:05:27,940
+Ok, und Frau Kaiser, leiden Sie unter Luftnot auch in der Nacht?
+
+50
+00:05:27,940 --> 00:05:34,940
+Nein, besonders beim Laufen oder Steigen.
+
+51
+00:05:34,940 --> 00:05:39,940
+Ok, fällt Ihnen das Atmen schwer, wenn Sie flach liegen?
+
+52
+00:05:39,940 --> 00:05:42,940
+Ja Doktor, Sie haben Recht.
+
+53
+00:05:42,940 --> 00:05:50,340
+Wie viele Kissen benutzen Sie beim Schlafen?
+
+54
+00:05:50,340 --> 00:05:54,340
+Ich benutze zwei Kissen.
+
+55
+00:05:54,340 --> 00:06:05,880
+Ok, Frau Kaiser, fühlen Sie sich müde generell?
+
+56
+00:06:05,880 --> 00:06:15,880
+Ja Doktor, ich fühle mich sehr müde. Ich bin total erschrocken.
+
+57
+00:06:15,880 --> 00:06:24,880
+Aber seit ein Wochen, vor zwei Wochen, fühle ich mich gut.
+
+58
+00:06:24,880 --> 00:06:29,880
+Haben Sie viel Ball, Frau Kaiser?
+
+59
+00:06:29,880 --> 00:06:36,880
+Ich habe nicht gegessen, aber ich fühle mich ein bisschen fibrisch.
+
+60
+00:06:36,880 --> 00:06:43,430
+Haben Sie Schüttelfrost oder Nachschweiß?
+
+61
+00:06:43,430 --> 00:06:45,430
+Ich habe nicht bemüht.
+
+62
+00:06:45,430 --> 00:06:51,060
+Ok, wie ist Ihr Appetit?
+
+63
+00:06:51,060 --> 00:06:59,060
+Ja Doktor, ich habe kaum Appetit. Seit einem Monat habe ich keinen Appetit.
+
+64
+00:06:59,060 --> 00:07:04,060
+Ok, haben Sie in der letzten Zeit unwirkürlich abgenommen?
+
+65
+00:07:04,060 --> 00:07:25,060
+Ja, ich habe nicht genau, wie viel, aber mehrere Leute aus meinem Umfeld haben mir da angesprochen, dass ich abgenommen habe.
+
+66
+00:07:25,060 --> 00:07:35,350
+Leiden Sie unter Schmerzen, wenn Sie besonders tief einatmen?
+
+67
+00:07:35,350 --> 00:07:43,130
+Ich habe nicht bemerkt, Doktor.
+
+68
+00:07:43,130 --> 00:07:56,130
+Ok, Frau Kaiser, haben Sie geschworene Lymphknoten besonders in der Achselhöhle oder im Leichtenbereich bemerkt?
+
+69
+00:07:56,130 --> 00:08:07,130
+Ich habe nicht untersucht, aber ich denke, habe ich nicht diese Beschwerden, Doktor.
+
+70
+00:08:07,130 --> 00:08:19,130
+Ok, das freut mich. Leiden Sie unter Sodbrennen oder Sauerausgestoßen?
+
+71
+00:08:19,130 --> 00:08:22,130
+Ich habe keine diese Beschwerden, Doktor.
+
+72
+00:08:22,130 --> 00:08:31,920
+Ok, und ich würde fragen, ob Sie eine Brustschmerzen oder Herzrasen haben, Frau Kaiser?
+
+73
+00:08:31,920 --> 00:08:34,920
+Ich habe nicht bemerkt, Doktor.
+
+74
+00:08:34,920 --> 00:08:38,260
+Ok, super.
+
+75
+00:08:39,260 --> 00:08:42,260
+Ist Ihnen übel oder mussten Sie erbrechen?
+
+76
+00:08:42,260 --> 00:08:44,260
+Nein.
+
+77
+00:08:44,260 --> 00:08:50,390
+Schlafen Sie gut?
+
+78
+00:08:50,390 --> 00:09:07,390
+Nein, Doktor. Ich habe gesagt, ich benutze zwei Kissen und deswegen diese Probleme. Und außerdem habe ich viel Angst über Krebs. Ja, ich schlafe nicht gut, Doktor.
+
+79
+00:09:07,390 --> 00:09:13,390
+Haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+80
+00:09:13,390 --> 00:09:15,390
+Weiter.
+
+81
+00:09:15,390 --> 00:09:22,390
+Ok, Frau Kaiser, Sie haben gesagt, dass Sie Angst vor Krebs haben.
+
+82
+00:09:22,390 --> 00:09:31,390
+Also, ich möchte Sie beruhigen. Es ist zu früh, etwas genau zu sagen, aber machen Sie sich bitte keine Sorgen.
+
+83
+00:09:31,390 --> 00:09:36,390
+Ihre Beschwerden können viele verschiedene Ursachen haben.
+
+84
+00:09:36,390 --> 00:09:38,390
+Ok.
+
+85
+00:09:38,390 --> 00:09:51,390
+Wissen Sie Doktor, mein Vater ist an Brutkrebs gestorben, mit 66 Jahren alt. Ich habe viel Angst über Krebs.
+
+86
+00:09:51,390 --> 00:09:54,390
+Haben Sie Brutkrebs gesagt oder Brust?
+
+87
+00:09:54,390 --> 00:09:56,390
+Brustkrebs, ja.
+
+88
+00:09:56,390 --> 00:09:58,390
+Ihr Vater oder Ihre Mutter?
+
+89
+00:09:58,390 --> 00:10:00,390
+Mein Vater.
+
+90
+00:10:00,390 --> 00:10:17,390
+Ok. Ich verstehe Sie sehr gut, Frau Kaiser. Aber wie gesagt, machen Sie sich bitte keine Sorgen. Ich empfehle Ihnen positiv zu denken, da der Krebs nicht 100% erblich ist. Ja?
+
+91
+00:10:17,390 --> 00:10:19,390
+Ja.
+
+92
+00:10:19,390 --> 00:10:20,390
+Ok.
+
+93
+00:10:20,390 --> 00:10:27,390
+Das hat mir richtig Angst gemacht. Deswegen habe ich sofort einen Termin bei Ihnen ausgemacht, Doktor. Danke schön.
+
+94
+00:10:27,390 --> 00:10:33,390
+Ja, Sie haben eine gute Entscheidung getroffen, hierher zu kommen.
+
+95
+00:10:33,390 --> 00:10:40,390
+Ok. Ist alles in Ordnung beim Wasserlassen oder mit dem Stuhlgang?
+
+96
+00:10:40,390 --> 00:10:43,390
+Ja, ich habe keine Probleme.
+
+97
+00:10:43,390 --> 00:10:58,990
+Ok. Frau Kaiser, sind Sie schon vollständig gegen Kinderkrankheiten und Covid-Infektionen geimpft?
+
+98
+00:10:58,990 --> 00:11:04,990
+Ja, ich bin vollständig gegen die Kronik, Doktor. So wie viermal gegen Covid-19.
+
+99
+00:11:04,990 --> 00:11:23,330
+Ok. Frau Kaiser, leiden Sie an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Bluthochdruck, Zuckerkrankheit?
+
+100
+00:11:23,330 --> 00:11:31,330
+Ja, Doktor. Ich habe Krampfada in beiden Beinen seit drei Jahren.
+
+101
+00:11:31,330 --> 00:11:41,840
+Und Frau Kaiser, leiden Sie unter geschwollene Beinen?
+
+102
+00:11:41,840 --> 00:11:46,840
+Ein bisschen, aber besonders nachts.
+
+103
+00:11:46,840 --> 00:11:51,300
+Geschwollene Beine, meinen Sie?
+
+104
+00:11:51,300 --> 00:11:58,300
+Ja, beide Beine, aber nicht viele. Manchmal, ja.
+
+105
+00:11:58,300 --> 00:12:08,300
+Ok. Und nehmen Sie ein Medikament gegen Krampfada ein oder benutzen Sie eine Strümpfe vielleicht?
+
+106
+00:12:08,300 --> 00:12:16,840
+Ja, ich benutze eine Strümpfe, Doktor. Ich nehme keine Medikamente gegen diese Beschwerden ein.
+
+107
+00:12:16,840 --> 00:12:19,840
+Alles klar. Sonst noch etwas?
+
+108
+00:12:19,840 --> 00:12:21,840
+Das war.
+
+109
+00:12:21,840 --> 00:12:24,840
+Irgendwelche anderen Erkrankungen?
+
+110
+00:12:24,840 --> 00:12:28,840
+Ich habe keine anderen Erkrankungen.
+
+111
+00:12:28,840 --> 00:12:35,840
+Ok. Nehmen Sie regelmäßig oder bei Bedarf ein Medikament ein?
+
+112
+00:12:35,840 --> 00:12:36,840
+Ja, ich nehme ...
+
+113
+00:12:36,840 --> 00:12:41,840
+Mit Kopfschmerzen oder Rückenschmerzen, naja?
+
+114
+00:12:41,840 --> 00:12:56,840
+Ja, ich nehme zurzeit Hüstersaft, das ihr Frau von der Apotheke gebt habt. Und gelegentlich Schlafmittel benutzen.
+
+115
+00:12:56,840 --> 00:13:04,840
+Aber ich habe diese Schlafmittel von EDKG, Doktor.
+
+116
+00:13:04,840 --> 00:13:07,840
+Ist das richtig für mich?
+
+117
+00:13:07,840 --> 00:13:19,090
+Frau Kaiser, also die Einnahme von Medikamenten ohne Ärztekinderheit kann für Sie gefährlich sein.
+
+118
+00:13:19,090 --> 00:13:26,090
+Ich empfehle Ihnen, Ihre Hausarzt oder Ihre Hausärztin regelmäßig zu besuchen für Ihre Beschwerden, ja?
+
+119
+00:13:26,090 --> 00:13:28,090
+Ok, danke schön.
+
+120
+00:13:28,090 --> 00:13:32,090
+Gerne. Sind Sie schon einmal operiert worden?
+
+121
+00:13:32,090 --> 00:13:37,090
+Ja, vor acht Jahren wurde mir ein Kalemblase entfernt.
+
+122
+00:13:37,090 --> 00:13:42,610
+Sonst noch etwas?
+
+123
+00:13:42,610 --> 00:13:44,610
+Das war Doktor.
+
+124
+00:13:44,610 --> 00:13:48,610
+Ok. Ist diese Operation verlaufen oder komplikationslos?
+
+125
+00:13:48,610 --> 00:13:52,610
+Ja, ja. Es war komplikationslos.
+
+126
+00:13:52,610 --> 00:13:53,610
+Super.
+
+127
+00:13:54,610 --> 00:14:00,610
+Sind Sie allergisch gegen irgendwelche Medikamente, Pflanzen oder Nahrungsmittel?
+
+128
+00:14:00,610 --> 00:14:07,610
+Ich reagiere allergisch auf Ayadoktor.
+
+129
+00:14:07,610 --> 00:14:10,610
+Wie reagieren Sie darauf?
+
+130
+00:14:10,610 --> 00:14:18,610
+Das äußert sich mit Durchfall und Bauchschmerzen.
+
+131
+00:14:18,610 --> 00:14:26,420
+Ok. Rauchen Sie?
+
+132
+00:14:26,420 --> 00:14:36,420
+Ja, leider Doktor. Ich rauche seit meinem 18. Lebenjahr täglich eine Packung Zigaretten.
+
+133
+00:14:36,420 --> 00:14:41,520
+Ok.
+
+134
+00:14:41,520 --> 00:14:47,520
+Frau Kaiser, wenn Sie möchten, können wir Sie dabei unterstützen.
+
+135
+00:14:47,520 --> 00:14:56,520
+Wir haben ein gutes Programm im Krankenhaus mit dem Rauchen aufzuhören oder mindestens das Rauchen zu reduzieren. Ok?
+
+136
+00:14:56,520 --> 00:15:08,520
+Ja Doktor. Ich wäre Ihnen dankbar, wenn ich mir helfen könnte, weil ich viele Mal gesagt habe, aber ich habe nicht geschafft.
+
+137
+00:15:08,520 --> 00:15:15,520
+Ja, sehr gerne. Wir können darüber nach dem Anamnesigespräch widersprechen. Ok?
+
+138
+00:15:15,520 --> 00:15:17,520
+Danke schön Doktor.
+
+139
+00:15:17,520 --> 00:15:21,520
+Gerne. Trinken Sie regelmäßig Alkohol?
+
+140
+00:15:21,520 --> 00:15:24,520
+Ja, Alkohol trinke ich nur als Erdnuss.
+
+141
+00:15:24,520 --> 00:15:28,540
+Was meinen Sie damit?
+
+142
+00:15:28,540 --> 00:15:32,540
+Ein Verein oder Treffen mit meinen Freunden oder Freunden.
+
+143
+00:15:32,540 --> 00:15:34,540
+Oder am Wochenende.
+
+144
+00:15:34,540 --> 00:15:36,540
+Ein Gleis Wein.
+
+145
+00:15:36,540 --> 00:15:44,860
+Bitte nehmen Sie die nächste Frage nicht, das ist eine Routinefrage.
+
+146
+00:15:44,860 --> 00:15:48,860
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+147
+00:15:48,860 --> 00:15:53,860
+Ich habe nicht mit Drogen konsumiert.
+
+148
+00:15:53,860 --> 00:15:56,860
+Das freut mich. Sehr gut.
+
+149
+00:15:56,860 --> 00:16:10,860
+Frau Kaiser, Sie haben gesagt, dass Ihr Vater vor 6 Jahren an Brustkrebs verstorben ist.
+
+150
+00:16:10,860 --> 00:16:12,860
+66 Jahre.
+
+151
+00:16:12,860 --> 00:16:19,860
+Ja, Sie haben recht. Mit 66 Jahren. Das tut mir leid, das zu hören.
+
+152
+00:16:19,860 --> 00:16:23,860
+Und wie ist Ihre Mutter? Ist sie gesund?
+
+153
+00:16:23,860 --> 00:16:42,690
+Meine Mutter ist gesund, aber sie hat ein Alzeimer. Sie lebt jetzt in Altenheim.
+
+154
+00:16:42,690 --> 00:16:45,690
+Haben Sie Geschwister?
+
+155
+00:16:45,690 --> 00:16:49,690
+Ja, ich habe eine Schwester.
+
+156
+00:16:49,690 --> 00:16:51,690
+Ist sie gesund?
+
+157
+00:16:51,690 --> 00:16:56,690
+Nein, sie hat Downsindrome.
+
+158
+00:16:56,690 --> 00:17:03,090
+Es tut mir leid, das zu hören.
+
+159
+00:17:03,090 --> 00:17:06,090
+Wie ist Ihr Familienstand?
+
+160
+00:17:06,090 --> 00:17:09,090
+Ich bin geschieden.
+
+161
+00:17:09,090 --> 00:17:11,090
+Haben Sie Kinder?
+
+162
+00:17:11,090 --> 00:17:15,370
+Ich habe zwei Kinder. Sie sind Zivilen.
+
+163
+00:17:15,370 --> 00:17:18,370
+Sind die Kinder gesund?
+
+164
+00:17:18,370 --> 00:17:20,370
+Ja, sie sind gesund.
+
+165
+00:17:20,370 --> 00:17:22,370
+Gott sei Dank.
+
+166
+00:17:22,370 --> 00:17:25,370
+Mit wem wohnen Sie?
+
+167
+00:17:25,370 --> 00:17:32,800
+Ich lebe mit seiner Frau zusammen.
+
+168
+00:17:32,800 --> 00:17:34,800
+Okay, was sind Sie für einen Beruf?
+
+169
+00:17:34,800 --> 00:17:36,800
+Meine Frau, Entschuldigung.
+
+170
+00:17:36,800 --> 00:17:39,800
+Was sind Sie für einen Beruf, Frau Kaiser?
+
+171
+00:17:39,800 --> 00:17:42,800
+Ich arbeite als Postbote.
+
+172
+00:17:42,800 --> 00:17:47,140
+Entschuldigung, können Sie das wiederholen?
+
+173
+00:17:47,140 --> 00:17:50,580
+Postbote.
+
+174
+00:17:50,580 --> 00:17:52,580
+Sind Sie Briefträger?
+
+175
+00:17:52,580 --> 00:17:55,580
+Ja, richtig.
+
+176
+00:17:55,580 --> 00:17:58,580
+Verstanden.
+
+177
+00:17:58,580 --> 00:18:01,580
+Frau Kaiser, das waren meine Fragen.
+
+178
+00:18:01,580 --> 00:18:07,580
+Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+179
+00:18:07,580 --> 00:18:11,580
+Ja, Doktor, ich habe gesagt, was habe ich?
+
+180
+00:18:11,580 --> 00:18:16,580
+Ja, Frau Kaiser, es ist zu früh etwas genau zu sagen.
+
+181
+00:18:16,580 --> 00:18:22,580
+Aber ich vermute, dass Sie ein Problem mit der Atemwege haben.
+
+182
+00:18:22,580 --> 00:18:25,580
+Die Atemwege oder die Lungen.
+
+183
+00:18:25,580 --> 00:18:30,580
+Aber ich möchte zuerst Sie körperlich untersuchen.
+
+184
+00:18:30,580 --> 00:18:36,580
+Dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen veranlassen.
+
+185
+00:18:36,580 --> 00:18:44,580
+Sobald die Ergebnisse da sind, werde ich Ihnen weitere Informationen mitteilen.
+
+186
+00:18:44,580 --> 00:18:45,580
+Okay?
+
+187
+00:18:45,580 --> 00:18:49,580
+Es dauert so lange, Doktor. Ich muss arbeiten.
+
+188
+00:18:49,580 --> 00:18:52,580
+Okay, ich verstehe Sie sehr gut, Frau Kaiser.
+
+189
+00:18:52,580 --> 00:18:56,580
+Ein paar Stunden müssen Sie sicherlich bei uns bleiben.
+
+190
+00:18:56,580 --> 00:19:07,580
+Aber wenn wir etwas Auffälliges finden, kann es auch passieren, dass Sie ein paar Tage im Krankenhaus bleiben sollen.
+
+191
+00:19:07,580 --> 00:19:14,580
+Und machen Sie sich bitte keine Sorgen. Wir werden Ihnen krank schreiben.
+
+192
+00:19:15,580 --> 00:19:24,580
+Okay. Wurden bei mir eine operiert oder?
+
+193
+00:19:24,580 --> 00:19:31,580
+Frau Kaiser, könnte es sein, dass Sie operiert werden müssen.
+
+194
+00:19:31,580 --> 00:19:36,580
+Aber es ist zu früh, das genau zu sagen.
+
+195
+00:19:36,580 --> 00:19:42,580
+Wie gesagt, zuerst müssen wir die Diagnose sichern.
+
+196
+00:19:42,580 --> 00:19:50,580
+Dann können wir über 100% sichere Diagnose und über die Therapiemöglichkeiten widersprechen.
+
+197
+00:19:50,580 --> 00:19:55,580
+Okay, danke schön, Doktor. Ich warte auf Sie.
+
+198
+00:19:55,580 --> 00:20:01,580
+Frau Oberarzt, ich habe einen neuen Patienten aufgenommen.
+
+199
+00:20:01,580 --> 00:20:05,580
+Und ich würde über Sie berichten. Haben Sie kurz Zeit für mich?
+
+200
+00:20:05,580 --> 00:20:06,580
+Ja, bitte.
+
+201
+00:20:06,580 --> 00:20:08,580
+Danke schön.
+
+202
+00:20:08,580 --> 00:20:18,580
+Frau Maria Kaiser ist 54 Jahre alt, 1,70 Meter groß, 65 Kilogramm schwer.
+
+203
+00:20:18,580 --> 00:20:40,580
+Frau Kaiser stellte sich heute bei uns wegen seit zwei Monaten bestehender Prodiktivatosis mit dem bräunlichen Sputum vor.
+
+204
+00:20:40,580 --> 00:20:49,580
+Der Patienten zufolge seien die Beschwerden plötzlich aufgetreten und mit der Zeit schlimmer geworden.
+
+205
+00:20:49,580 --> 00:21:05,700
+Die Patienten berietete, dass sie gestern eine Hämopäthie beobachtet haben.
+
+206
+00:21:05,700 --> 00:21:20,700
+Sie erwähnte die Spur beim Bewegung, besonders beim Treppensteigen.
+
+207
+00:21:20,700 --> 00:21:28,940
+Sie müsse zweimal Pause machen.
+
+208
+00:21:28,940 --> 00:21:38,290
+Die Patienten, normalerweise wohnen sie in der ersten Strecke.
+
+209
+00:21:38,290 --> 00:21:44,290
+Außerdem klagte sie über Urtopneu.
+
+210
+00:21:44,290 --> 00:21:50,290
+Deswegen benutze sie zwei Kissen beim Schlafen.
+
+211
+00:21:50,290 --> 00:22:02,290
+Sie erwähnte Fatigue und Asthenie seit einer Woche.
+
+212
+00:22:02,290 --> 00:22:23,290
+Die Fragen nach nächtlicher Hyperhydrose, Sterfrost, Lymphadenopathie, Pirosis, Angina Pectoris und Tachycardie und Beinodeme wurden verneint.
+
+213
+00:22:23,290 --> 00:22:28,290
+Sie berietete über Gewichtsabnahme.
+
+214
+00:22:28,290 --> 00:22:34,290
+Gewichtsabnahme sollte geklärt werden.
+
+215
+00:22:34,290 --> 00:22:39,290
+Sie berietete auch über Fieber.
+
+216
+00:22:39,290 --> 00:22:44,630
+Sie haben das Fieber nicht gemessen.
+
+217
+00:22:44,630 --> 00:22:56,630
+Die vegetative Anamnese ist bis auf Insomnie in Form von Einschlafstörungen und Durchschlafstörungen unauffällig.
+
+218
+00:22:56,630 --> 00:23:10,140
+Sie sei vollständig gegen Kinderkrankheiten und viermal COVID-19 geimpft.
+
+219
+00:23:10,140 --> 00:23:19,140
+Leider habe ich die Frauenanamnese vergessen zu fragen.
+
+220
+00:23:19,140 --> 00:23:24,140
+Aber nach dem Arztarztgespräch werde ich diese Frage nicht bestellen.
+
+221
+00:23:24,140 --> 00:23:43,140
+Anfroerkrankungen nannte sie seit drei Jahren bestehende beidseitige Varykose an den Beinen, die mit der Kompression Strumpfe behandelt worden sei.
+
+222
+00:23:43,140 --> 00:23:53,140
+Sie nehme Hustensaft und Schlafmittel ein.
+
+223
+00:23:53,140 --> 00:23:58,140
+Die Namen von Medikamenten sollten geklärt werden.
+
+224
+00:23:58,140 --> 00:24:06,140
+Diese Medikamente habe sie ohne ärztlichen Rat eingenommen.
+
+225
+00:24:06,140 --> 00:24:16,140
+Vor acht Jahren wurde bei ihr eine Scholarsystektomie durchgeführt.
+
+226
+00:24:16,140 --> 00:24:27,140
+Sie hatte Allergie gegen Eier, die sich durch Diarrhea und Abdominal Schmerzen äußerte.
+
+227
+00:24:27,140 --> 00:24:37,140
+Sie war Raucherin und rauchte eine Schachter Zigaretten täglich seit 18 Lebensjahren.
+
+228
+00:24:37,140 --> 00:24:44,140
+Sie trinke ein Glas Wein am Wochenende.
+
+229
+00:24:44,140 --> 00:24:47,140
+Drogenkonsum wurde verneint.
+
+230
+00:24:48,140 --> 00:25:00,140
+In der Familienanamnese gab sie an, dass der Vater an Mama Carcinom mit 66 Jahren verstorben sei.
+
+231
+00:25:00,140 --> 00:25:08,140
+Die Mutter leide an Alzheimer und wohne in einem alten Heim.
+
+232
+00:25:08,140 --> 00:25:18,140
+Sie habe eine Schwester, die an Trisomie 21 leidet.
+
+233
+00:25:18,140 --> 00:25:30,140
+Die Patientin sei geschieden, habe gesunde Zwillinge und wohne mit ihrem Partner zusammen.
+
+234
+00:25:30,140 --> 00:25:35,140
+Sie sei Briefträger von Beruf.
+
+235
+00:25:35,140 --> 00:25:45,140
+Ich gehe von einem Verdacht auf eine Bronchiakarcinom aus, da die Patientin typische Symptome dafür aufweist.
+
+236
+00:25:45,140 --> 00:26:00,140
+Die Patientin leidet unter chronischer Husten, Dyspne und Ozebne.
+
+237
+00:26:00,140 --> 00:26:10,140
+Sie leidet unter Fatigue, Asthenie, Fieber und Gewichtsabnahme.
+
+238
+00:26:10,140 --> 00:26:15,140
+Diese Symptome sprechen für eine Bronchiakarcinom.
+
+239
+00:26:15,140 --> 00:26:28,140
+Als die Phalansealdiagnosen kommen Knoimonie, Herzinsuffizienz in Betracht.
+
+240
+00:26:28,140 --> 00:26:40,140
+Um meine Verdachtdiagnose zu bestätigen, würde ich zunächst bei der Patientin die Vitaparameter überwachen und eine körperliche Untersuchung durchführen.
+
+241
+00:26:40,140 --> 00:26:58,700
+Bei der körperlichen Untersuchung achte ich darauf, ob Hautfarbeveränderungen, geschwollene Lymphknoten und mögliche Pathologien bei der Askultation
+
+242
+00:26:58,700 --> 00:27:01,700
+vorhanden sind.
+
+243
+00:27:01,700 --> 00:27:11,700
+Zunächst ist eine Labouruntersuchung sinnvoll, um eine umfassende Diagnose sich zu gewährleisten.
+
+244
+00:27:11,700 --> 00:27:32,700
+Dabei würde ich Blutbild, CAP, BSG, Leberwerte, Nierenwerte, Herzenzime, Geronuxparameter, Tumormarkers, BNP bestimmen lassen.
+
+245
+00:27:32,700 --> 00:27:44,700
+Danach würde ich zwei Ebenen Röntgen des Thorax durchführen, um die möglichen Pathologien zu beurteilen.
+
+246
+00:27:44,700 --> 00:27:59,020
+Darüber hinaus würde ich eine Bronchoscopie durchführen, um meine Verdachtdiagnose zu bestätigen.
+
+247
+00:27:59,020 --> 00:28:15,020
+Zusätzlich würde ich eine CT des Thorax, um die möglichen Pathologien zu überprüfen.
+
+248
+00:28:15,020 --> 00:28:27,020
+Und gegebenenfalls würde ich eine PCT durchführen, um die Metastase genau zu überprüfen.
+
+249
+00:28:27,020 --> 00:28:37,020
+Sollte sich die Verdachtdiagnose bestätigen, würde ich die Patientin Station aufnehmen.
+
+250
+00:28:37,020 --> 00:28:54,020
+Ich würde einen Venosuzugang legen. Wenn nötig, würde ich eine Antibiotika verabreichen, Antithesis verabreichen.
+
+251
+00:28:54,020 --> 00:29:06,020
+Und auch würde ich ein Onkologisches und Pneumonologisches Konzil anfordern, um die Therapie der Patientin zu optimieren.
+
+252
+00:29:06,020 --> 00:29:27,020
+Nach der Behandlung würde ich der Patientin Lebensstilveränderungen empfehlen, wie zum Beispiel Nikotinkarenz, Alkoholkarenz.
+
+253
+00:29:27,020 --> 00:29:41,020
+Wenn Sie mit dieser Eingehensweise einverstanden sind, werde ich mit der geplanten Untersuchung fortfahren, Herr Oberarzt.
+
+254
+00:29:41,020 --> 00:29:44,020
+Vorgehensweise.
+
+255
+00:29:44,020 --> 00:29:54,650
+Herr Kollegen, denken Sie in diesem Fall über Klos und COPD?
+
+256
+00:29:54,650 --> 00:30:11,840
+Ich bin unter der Zeit des Durchbluts. Deswegen sollen wir auf jeden Fall diese Diagnose denken.
+
+257
+00:30:11,840 --> 00:30:24,840
+Aber leider habe ich keine Reiseanamnese gefragt. Nach dem Arzt-Arzt-Gespräch werde ich über Reiseanamnese fragen.
+
+258
+00:30:24,840 --> 00:30:43,700
+Ich bin ein Arzt, der seit 18 Jahren in der Klinik gearbeitet hat. Das ist ein Faktor für COPD.
+
+259
+00:30:43,700 --> 00:30:48,700
+Hat jemand in Ihrer Umgebung eine Beschwerden zu haben?
+
+260
+00:30:48,700 --> 00:30:59,000
+Ich habe auch keine Frage gestellt. Aber werde ich diese Frage nach dem Arzt-Arzt-Gespräch stellen?
+
+261
+00:30:59,000 --> 00:31:12,000
+Ich denke, wenn Sie eine Tuberkulose ausschließen, müssen Sie diese Frage stellen. Warum denken Sie nicht COPD?
+
+262
+00:31:12,000 --> 00:31:21,310
+COPD kommt als Differenzialdiagnose.
+
+263
+00:31:21,310 --> 00:31:28,310
+Sie ist eine starke Raucherin.
+
+264
+00:31:28,310 --> 00:31:48,690
+Aber gibt es auch Hemopetizide, chronische Fatigue und Asthenie?
+
+265
+00:31:48,690 --> 00:31:55,640
+Diese Symptome sind zum Beispiel für eine Kaktik.
+
+266
+00:31:55,640 --> 00:32:17,980
+Wie lange dauert es, wenn wir eine COPD-Diagnose stellen?
+
+267
+00:32:17,980 --> 00:32:38,980
+Seit zwei Monaten leidet sie unter Husten und seit einer Woche unter Dyspnoe.
+
+268
+00:32:38,980 --> 00:32:53,980
+Diese Zeit ist etwas kurz für eine COPD. Normalerweise warten wir lange Zeit für diese Beschwerden bei einer COPD.
+
+269
+00:32:53,980 --> 00:32:58,980
+Wir haben sie mindestens drei Monate gebraucht.
+
+270
+00:32:58,980 --> 00:33:13,980
+Was beachten Sie von der COPD?
+
+271
+00:33:13,980 --> 00:33:37,980
+Bei der COPD können wir eine mediastinale Verschiebung feststellen, vergrößerte Hilum-Lymphknoten feststellen, Tumore-Schatten feststellen.
+
+272
+00:33:37,980 --> 00:33:41,980
+Das war's.
+
+273
+00:33:41,980 --> 00:33:46,980
+Was erwarten Sie von einer Bronchoscopy?
+
+274
+00:33:46,980 --> 00:34:03,980
+Bei der Bronchoscopy-Untersuchung können wir die Tumore auf der Atemwege feststellen und gleichzeitig eine Gewebeprobe entnehmen.
+
+275
+00:34:03,980 --> 00:34:09,980
+Was führen Sie eine PEC-Sekundur?
+
+276
+00:34:09,980 --> 00:34:20,230
+Um die mögliche Metastase festzustellen, können wir eine PCT durchführen, Herr Oberst.
+
+277
+00:34:20,230 --> 00:34:23,230
+Können Sie uns so eine PCT aufklären?
+
+278
+00:34:23,230 --> 00:34:29,230
+Ja, gerne. Ich werde Sie über eine PCT aufklären.
+
+279
+00:34:29,230 --> 00:34:35,230
+PCT gehört zu den bildgebenden Verfahren.
+
+280
+00:34:35,230 --> 00:34:43,230
+Position, Emission, Tomographie gehört zu den bildgebenden Verfahren.
+
+281
+00:34:43,230 --> 00:34:52,230
+Diese Untersuchung hilft uns, die Tumore und die Metastase genauso erkennen.
+
+282
+00:34:52,230 --> 00:35:04,230
+Vor der Untersuchung verabreichen wir dem Patienten eine leichte radioaktives Stoffe.
+
+283
+00:35:04,230 --> 00:35:17,230
+Wir warten auf ungefähr 80 Minuten für die Verteilung in den ganzen Körper.
+
+284
+00:35:17,230 --> 00:35:24,230
+Danach machen wir eine CT-Untersuchung.
+
+285
+00:35:24,230 --> 00:35:30,230
+Der Patient soll etwa 30 Minuten in eine CT-Röhre legen.
+
+286
+00:35:30,230 --> 00:35:39,230
+Wenn der Patient eine Blasangst hat, können wir dem Patienten ein Beruhigungsmittel geben.
+
+287
+00:35:39,230 --> 00:35:54,230
+Diese Untersuchung hat keine Komplikationen, aber es gibt einige Kontraindikationen, wie zum Beispiel Schwangerschaft und Kontrastmittelallergie.
+
+288
+00:35:54,230 --> 00:36:14,230
+Für diese Untersuchung benötigt der Patient etwa sechs Stunden nüchtern sein.
+
+289
+00:36:14,230 --> 00:36:24,230
+Nach der Untersuchung gibt es keine Anstrengungen und der Patient kann den Alltag wie gewohnt fortsetzen.
+
+290
+00:36:24,230 --> 00:36:33,310
+Was hängt die Therapie der Patienten davon ab?
+
+291
+00:36:33,310 --> 00:36:41,310
+Das Stadium des Tumors ist sehr wichtig.
+
+292
+00:36:41,310 --> 00:36:57,310
+Bei deslokalisierten Tumors können wir eine Operation durchführen, wie zum Beispiel Lobectomie.
+
+293
+00:36:57,310 --> 00:37:22,870
+Bei der fortgeschrittenen oder Metastasiatentumor können wir Chemotherapie, Radiotherapie und eine symptomatische Therapie durchführen.
+
+294
+00:37:22,870 --> 00:37:26,870
+Ich habe den Namen wieder vergessen.
+
+295
+00:37:26,870 --> 00:37:38,780
+Wie können wir das Stadium des Tumors stellen?
+
+296
+00:37:38,780 --> 00:37:47,780
+TNM-Klassifikationen können wir benutzen, um das Stadium festzustellen.
+
+297
+00:37:47,780 --> 00:37:57,780
+T-Tumor, N-Leaf-Node-Metastase und M-Fernmetastase.
+
+298
+00:37:57,780 --> 00:38:10,310
+Was beachten wir während der Therapie?
+
+299
+00:38:10,310 --> 00:38:20,670
+Was meinen Sie damit, Herr Oberhaus? Ich habe es nicht verstanden. Als Komplikationen meinen Sie oder?
+
+300
+00:38:20,670 --> 00:38:27,670
+Das gesamte Verfahren als Medikamentostherapie.
+
+301
+00:38:27,670 --> 00:38:43,670
+Die Patienten sollen regelmäßig ihre Ärzte besuchen, um eine vollständige Therapie zu erhalten.
+
+302
+00:38:43,670 --> 00:38:53,670
+Lebensstilveränderung ist sehr wichtig bei den Patienten. Sie ist eine starke Raucherin.
+
+303
+00:38:53,670 --> 00:38:57,670
+Nikotinkarenz ist sehr wichtig bei den Patienten.
+
+304
+00:38:57,670 --> 00:39:04,620
+Empfehlen Sie der Patienten ausreichende Ernährung?
+
+305
+00:39:04,620 --> 00:39:14,620
+Ja, ausreichende Ernährung ist sehr wichtig für das Immunsystem bei den Patienten.
+
+306
+00:39:14,620 --> 00:39:24,620
+Regelmäßige Ernährung, gesunde Ernährung ist sehr wichtig bei den Patienten.
+
+307
+00:39:25,620 --> 00:39:38,620
+Wenn die Patienten eine starke Ernährung haben, welche Medikamentostherapie verabreichen Sie?
+
+308
+00:39:38,620 --> 00:39:47,940
+Das ist eine gute Frage, Herr Oberhaus. Aber ich habe keine Ahnung.
+
+309
+00:39:47,940 --> 00:39:54,940
+Ich bin mir nicht sicher mit einigen Details zu diesem Thema. Ich werde nach der Erpüfung es recherchieren.
+
+310
+00:39:54,940 --> 00:39:57,940
+Und dann Satran.
+
+311
+00:39:57,940 --> 00:39:59,940
+Okay.
+
+312
+00:39:59,940 --> 00:40:02,940
+So ein bisschen ist schon vorhanden, aber ich bin mir nicht sicher.
+
+313
+00:40:02,940 --> 00:40:09,940
+Vielen Dank, Herr Kollegen. Bitte gehen Sie in unser Infodisk und nehmen Sie Ihre Zertifikate.
+
+314
+00:40:09,940 --> 00:40:16,340
+Ich wünsche Ihnen viel Erfolg für Ihr Arbeitsweg.
+
+315
+00:40:16,340 --> 00:40:25,340
+Vielen Dank, Herr Oberhaus. Sie sind sehr nett. Das war ein super angenehmes Gespräch bei mir.
+
+316
+00:40:25,340 --> 00:40:31,660
+Vielen Dank.
+
+317
+00:40:31,660 --> 00:40:38,660
+Eine neue Patientin. Darf ich Ihnen die Patienten vorstellen?
+
+318
+00:40:38,660 --> 00:40:40,660
+Ja, bitte.
+
+319
+00:40:40,660 --> 00:40:55,660
+Frau Kaiser. Es handelt sich um Frau Maria Kaiser. Sie ist 54 Jahre alt.
+
+320
+00:40:55,660 --> 00:41:03,660
+Sie ist 65 Kilogramm schwer. Sie ist 1,70 Meter groß.
+
+321
+00:41:03,660 --> 00:41:21,660
+Sie ist heute bei uns, weil sie seit zwei Monaten starke Tussis hat.
+
+322
+00:41:21,660 --> 00:41:40,660
+Die Patienten sind dadurch, dass die Tussis langsam aufgetreten sind.
+
+323
+00:41:40,660 --> 00:42:09,660
+Die Patienten verstehen, dass die Tussis mit Blut ausgebildet werden.
+
+324
+00:42:09,660 --> 00:42:33,660
+Außerdem teilt sie mit den Patienten eine Atemnote.
+
+325
+00:42:33,660 --> 00:42:38,660
+Sie haben eine Atemnote. Sie haben eine Atemnote.
+
+326
+00:42:38,660 --> 00:43:02,660
+Sie haben eine Atemnote. Sie haben eine Atemnote.
+
+327
+00:43:02,660 --> 00:43:25,660
+Die vegetative Anamnese ist unaufällig bis auf Insomnie und Apathitlosigkeit wegen dieser Beschwerden.
+
+328
+00:43:25,660 --> 00:43:50,660
+Die Frage nach Präxie, Herzrasen und Probleme mit Mission und Sturgang würden verneint.
+
+329
+00:44:20,660 --> 00:44:37,660
+Und bei ihr wurde eine Kalemblaseoperation durchgeführt vor acht Jahren.
+
+330
+00:44:37,660 --> 00:44:41,660
+Bitte wiederholen ihr die Liste.
+
+331
+00:44:41,660 --> 00:44:58,660
+Bei ihr wurde vor acht Jahren eine Kalemblase...
+
+332
+00:44:58,660 --> 00:45:00,660
+...kollessistektomie...
+
+333
+00:45:00,660 --> 00:45:03,660
+...kollessistektomie durchgeführt.
+
+334
+00:45:03,660 --> 00:45:05,660
+Ja, richtig.
+
+335
+00:45:05,660 --> 00:45:07,660
+Danke schön.
+
+336
+00:45:07,660 --> 00:45:24,660
+Im Basuk der Medikation nehmen sie einen Husten-Saft und ein Schlafmittel ein.
+
+337
+00:45:24,660 --> 00:45:48,660
+Aber der Wirkstoff und die Häufigkeit sollten geklagt werden.
+
+338
+00:45:48,660 --> 00:45:50,660
+Medikamente, ja.
+
+339
+00:45:50,660 --> 00:46:04,660
+Sie rauchen seit sechstenteleven Jahren täglich eine Packung Zigaretten.
+
+340
+00:46:04,660 --> 00:46:10,660
+Sie trinken gelegenlich Alkohol.
+
+341
+00:46:10,660 --> 00:46:37,660
+In Besuch auf die Familienanamnese teilt sie mit, dass der Vater mit 66 Jahre alt an Mama Karsinoma gestorben ist.
+
+342
+00:46:37,660 --> 00:46:49,660
+Die Mutter hat eine Alzheimer-Krankheit und lebt in Altenheim.
+
+343
+00:46:49,660 --> 00:47:01,140
+Sie hat eine Schwester, die Down-Syndrome hat.
+
+344
+00:47:01,140 --> 00:47:13,140
+Sie arbeitet als Postpon.
+
+345
+00:47:13,140 --> 00:47:18,140
+Sie hat eine Schwester, eine Schwesterin.
+
+346
+00:47:18,140 --> 00:47:25,140
+Sie lebt mit seinen Frauen zusammen.
+
+347
+00:47:25,140 --> 00:47:45,140
+Ich gehe von Verdacht auf Bronchial Karsinoma aus, da die Patienten typische Symptome dafür ausweisen.
+
+348
+00:47:45,140 --> 00:48:06,140
+Die Patienten leiden seit zwei Wochen bestehende Thesis und starke Dyspne und Gewichtverlust.
+
+349
+00:48:06,140 --> 00:48:22,140
+Die Thesis gehen mit gelegenen Schuputum und Hemoptis.
+
+350
+00:48:22,140 --> 00:48:40,140
+Die Patienten leiden seit zwei Wochen bestehende Thesis und Schuputum und Hemoptis.
+
+351
+00:48:40,140 --> 00:48:45,140
+Die Diagnose ist sehr unterschiedlich.
+
+352
+00:48:45,140 --> 00:48:58,140
+Sie ist ein sehr common COPD, Pneumonia, Tuberculosis, Infrage.
+
+353
+00:48:58,140 --> 00:49:20,140
+Die Patienten leiden seit zwei Wochen bestehende Thesis und Hemoptis.
+
+354
+00:49:20,140 --> 00:49:39,140
+Dann würde ich den Patienten einen Intervenuszugang legen und würde ich eine Laborkontanz durchführen.
+
+355
+00:49:39,140 --> 00:49:59,140
+Dann würde ich einen Blutbild, ein Sunduckparameter, eine CRP, eine Lebewerte, ein Nierenwerte, ein Sunduckparameter bestimmen lassen.
+
+356
+00:49:59,140 --> 00:50:13,140
+Dann würde ich eine Röntgen-Torax durchführen, um mögliche lungen Pathologie zu beurteilen.
+
+357
+00:50:13,140 --> 00:50:28,140
+Dann würde ich eine Spirometer durchführen, um mögliche lungen Pathologie zu beurteilen.
+
+358
+00:50:28,140 --> 00:50:44,140
+Dann würde ich eine Stethatore durchführen, um mögliche lungen Pathologie zu beurteilen.
+
+359
+00:50:44,140 --> 00:50:54,140
+Dann würde ich eine Bronchoskopie durchführen.
+
+360
+00:50:54,140 --> 00:51:09,140
+Dann würde ich eine Bronchoskopie durchführen, um mögliche Leibwerte durchzuführen.
+
+361
+00:51:09,140 --> 00:51:23,140
+Dann würde ich eine Antnehmen durchführen.
+
+362
+00:51:23,140 --> 00:51:39,140
+Wenn ich meine Verdachtdiagnose bestätigen würde, würde ich die Patienten stationär aufnehmen.
+
+363
+00:51:39,140 --> 00:51:53,140
+Dann würde ich einen Intervenussugang legen, um Physik, Antibiotika, Analyse und Therapie zu machen.
+
+364
+00:51:53,140 --> 00:52:20,140
+Dann würde ich eine Pneumologiekonsultation anbieten, um meine Therapie zu optimieren.
+
+365
+00:52:20,140 --> 00:52:35,140
+Dann würde ich eine Pneumologiekonsultation anbieten, um meine Therapie zu optimieren.
+
+366
+00:52:35,140 --> 00:52:51,480
+Dann würde ich eine Pneumologiekonsultation anbieten, um meine Therapie zu optimieren.
+
+367
+00:52:51,480 --> 00:52:55,480
+Ich habe es versucht, aber ich weiß nicht, ob ich etwas schrecklich gemacht habe.
+
+368
+00:52:55,480 --> 00:53:00,480
+Generell ist es sehr gut, es gibt nur kleine grammatische Fehler.

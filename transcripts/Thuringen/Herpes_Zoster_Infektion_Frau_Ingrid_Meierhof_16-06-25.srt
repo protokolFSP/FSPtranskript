@@ -1,0 +1,1763 @@
+1
+00:00:00,000 --> 00:00:12,000
+Schönen guten Tag. Mein Name ist Ujak. Ich bin auf dieser Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Anamnese-Gespräch durchführen. Sind Sie damit einverstanden?
+
+2
+00:00:12,000 --> 00:00:14,000
+Ja, natürlich Doktor.
+
+3
+00:00:14,000 --> 00:00:19,000
+Danke. Bitte fragen Sie nach, wenn Sie etwas nicht verstehen, okay?
+
+4
+00:00:19,000 --> 00:00:20,000
+Okay.
+
+5
+00:00:20,000 --> 00:00:22,000
+Wie heißen Sie denn?
+
+6
+00:00:22,000 --> 00:00:25,000
+Ich heiße Ingrid Meyerhof.
+
+7
+00:00:25,000 --> 00:00:32,390
+Könnten Sie bitte Ihren Vor- und Nachnamen langsam bestabieren?
+
+8
+00:00:32,390 --> 00:00:39,390
+Ja. I, N, G, R, I, D. Ingrid.
+
+9
+00:00:39,390 --> 00:00:40,390
+Ja.
+
+10
+00:00:40,390 --> 00:00:49,390
+M, E, I, E, R, H, O, W, F. Meyerhof.
+
+11
+00:00:49,390 --> 00:00:52,390
+Frau Meyerhof, wie alt sind Sie?
+
+12
+00:00:52,390 --> 00:00:55,390
+Bitte wieder.
+
+13
+00:00:55,390 --> 00:00:56,390
+Wie alt sind Sie?
+
+14
+00:00:56,390 --> 00:01:00,390
+Ja. Ich bin 1 und 51 Jahre alt.
+
+15
+00:01:01,390 --> 00:01:03,390
+Wann sind Sie genau geboren?
+
+16
+00:01:03,390 --> 00:01:08,390
+18. Juni 1974.
+
+17
+00:01:08,390 --> 00:01:12,890
+Wie groß sind Sie?
+
+18
+00:01:12,890 --> 00:01:17,890
+1 Meter 68.
+
+19
+00:01:17,890 --> 00:01:20,890
+Und wie schwer sind Sie zuzeit?
+
+20
+00:01:20,890 --> 00:01:25,230
+73 Kilogramm.
+
+21
+00:01:25,230 --> 00:01:32,230
+Okay. Danke für die Informationen. Frau Meyerhof, was kann ich für Sie tun? Was für Beschwerden haben Sie zuzeit?
+
+22
+00:01:32,230 --> 00:01:43,230
+Ja Doktor, ich bin heute gekommen, weil ich seit zwei Tagen Rückschmerzen habe.
+
+23
+00:01:43,230 --> 00:01:56,630
+Wo genau diese Schmerzen, Frau Meyerhof, am Rücken? Ich meine Unterbereich, Oberbereich, Schulterbereich.
+
+24
+00:01:56,630 --> 00:02:02,630
+Ja Doktor, die Schmerzen sind in der rechten Schulter.
+
+25
+00:02:02,630 --> 00:02:13,920
+Können Sie bitte diese Schmerzen genau beschreiben? Also sind sie eher drückend, stechend, brennend, dumpf?
+
+26
+00:02:13,920 --> 00:02:19,920
+Ja, die Schmerzen sind dumpf und brennend.
+
+27
+00:02:19,920 --> 00:02:27,930
+Okay. Sind diese Schmerzen plötzlich oder langsam aufgetreten?
+
+28
+00:02:27,930 --> 00:02:36,930
+Die Schmerzen sind plötzlich aufgetreten.
+
+29
+00:02:37,930 --> 00:02:43,930
+Und haben sich die Schmerzen mit der Zeit verändert?
+
+30
+00:02:43,930 --> 00:02:54,860
+Ja, die Schmerzen sind in der Zeit immer schlimmer geworden.
+
+31
+00:02:54,860 --> 00:03:00,860
+Okay. Frau Meyerhof, strahlen diese Schmerzen irgendwo hinaus?
+
+32
+00:03:00,860 --> 00:03:07,860
+Die Schmerzen strahlen nicht irgendwo hinaus, Doktor.
+
+33
+00:03:07,860 --> 00:03:16,860
+Okay. Wie stark sind die Schmerzen auf einer Schmerzstelle von 1 bis 10, wobei 1 sehr leichten und 10 sehr starken Schmerzen entspricht?
+
+34
+00:03:16,860 --> 00:03:27,860
+Ja, ich verstehe Doktor. Ich denke, das ist 6.
+
+35
+00:03:27,860 --> 00:03:37,860
+Okay. Frau Meyerhof, soll ich Ihnen eine Schmerzmittei geben oder können Sie die Schmerzen bis Ende des Sprechs aushalten?
+
+36
+00:03:37,860 --> 00:03:40,860
+Ich kann warten, Doktor.
+
+37
+00:03:40,860 --> 00:03:44,860
+Okay. Bitte sagen Sie mir Bescheid, wenn Sie ein Medikament benötigen. Okay?
+
+38
+00:03:44,860 --> 00:03:46,860
+Okay, danke.
+
+39
+00:03:46,860 --> 00:03:52,860
+Gerne. Gibt es etwas, das Schmerzen verschlimmert oder lindert?
+
+40
+00:03:52,860 --> 00:04:16,860
+Ja, Doktor. Ich habe gemerkt, wenn ich im Bett liegen und rücken bin, dass die Schmerzen immer schlimmer geworden sind.
+
+41
+00:04:16,860 --> 00:04:23,860
+Okay. Haben Sie früher eine ähnliche Beschwerde gehabt oder ist das das erste Mal?
+
+42
+00:04:23,860 --> 00:04:29,860
+Ich habe eine ähnliche Beschwerde früher nicht gehabt.
+
+43
+00:04:29,860 --> 00:04:35,860
+Okay. Frau Meyerhof, haben Sie gegen diese Schmerzen ein Medikament eingenommen?
+
+44
+00:04:35,860 --> 00:04:40,860
+Ich habe kein Medikament dagegen eingenommen, Doktor.
+
+45
+00:04:40,860 --> 00:04:47,460
+Oder sind Sie schon beim anderen Arzt gewesen?
+
+46
+00:04:47,460 --> 00:04:52,460
+Ich war nicht beim anderen Arzt gewesen, Doktor.
+
+47
+00:04:52,460 --> 00:04:59,460
+Okay, alles klar. Frau Meyerhof, haben Sie an diesem Bereich die Hautveränderungen gemerkt?
+
+48
+00:04:59,460 --> 00:05:03,460
+Ich meine Rötung, Schwellung?
+
+49
+00:05:03,460 --> 00:05:29,460
+Ja Doktor, Sie haben recht. Bei mir sind die Schwellungen, Rötung und Bläschen im betropanen Bereich auffallen.
+
+50
+00:05:29,460 --> 00:05:42,770
+Okay. Und haben Sie Bewegung, Einschränkung gern? Ich meine, können Sie den Arm einfach anheben oder?
+
+51
+00:05:42,770 --> 00:05:54,770
+Ja Doktor, Sie haben recht. Ich habe auch, ich kann meinen rechten Oberarm wegen der Schmerzen nicht richtig bewegen.
+
+52
+00:05:54,770 --> 00:05:57,770
+Okay, alles klar.
+
+53
+00:05:57,770 --> 00:06:00,770
+Rechts und Oberarm, ja.
+
+54
+00:06:00,770 --> 00:06:09,770
+Okay. Frau Meyerhof, Sie haben gesagt, dass Sie Bläschen, Rötung und Schwellung bemerkt?
+
+55
+00:06:09,770 --> 00:06:11,770
+Ja.
+
+56
+00:06:11,770 --> 00:06:19,770
+Also darf ich fragen, haben Sie diese Probleme nur in diesem Bereich bemerkt oder auch in anderen Körperregionen?
+
+57
+00:06:19,770 --> 00:06:24,770
+Nein, nur im betroffenen Bereich, Doktor.
+
+58
+00:06:24,770 --> 00:06:32,770
+Können wir sagen, ob diese Probleme wie ein Gürtel für mich sind oder?
+
+59
+00:06:32,770 --> 00:06:36,770
+Ja, ein bisschen, Doktor, Sie haben recht.
+
+60
+00:06:36,770 --> 00:06:51,600
+Okay. Frau Meyerhof, haben Sie Probleme, die Ihre Immunsysteme verschlimmern?
+
+61
+00:06:51,600 --> 00:07:03,600
+Ja Doktor, ich hatte vor etwa 10 Jahren Hepatitis B, aber es ging nicht mehr genau.
+
+62
+00:07:03,600 --> 00:07:08,600
+Mein Mann hat es damals diagnosiert.
+
+63
+00:07:08,600 --> 00:07:13,600
+Aber ich habe es nicht mehr genau.
+
+64
+00:07:14,600 --> 00:07:25,600
+Ich habe keine Ahnung. Ich habe eine Immunsystemprobleme. Ich bin nicht Arzt, Doktor.
+
+65
+00:07:25,600 --> 00:07:34,600
+Ja genau, Sie haben recht. Frau Meyerhof, nehmen Sie regelmäßig bei Bedarf ein Medikament ein?
+
+66
+00:07:34,600 --> 00:07:37,600
+Für Hepatis A, oder?
+
+67
+00:07:38,600 --> 00:07:41,600
+Oder gegen irgendwelche anderen Krankheiten?
+
+68
+00:07:41,600 --> 00:07:51,600
+Ich weiß es nicht, Doktor. Ich habe keine Migräne. Deswegen habe ich bei Bedarf ein Schmerzmittel.
+
+69
+00:07:51,600 --> 00:07:57,600
+Ich nehme bei Bedarf ein Schmerzmittel.
+
+70
+00:07:57,600 --> 00:08:02,600
+Aber zur Zeit nehme ich den Namen weiß ich leider nicht, Doktor.
+
+71
+00:08:02,600 --> 00:08:07,600
+Okay, kein Problem. Haben Sie eine Medikamentenliste dabei?
+
+72
+00:08:07,600 --> 00:08:09,600
+Jetzt nicht.
+
+73
+00:08:09,600 --> 00:08:15,600
+Okay, Frau Meyerhof, wer ist Ihr Hausarzt oder Ihre Hausärztin?
+
+74
+00:08:15,600 --> 00:08:17,600
+Ich bin eine Hausärztin.
+
+75
+00:08:17,600 --> 00:08:21,600
+Okay, dann haben Sie eine Medikamentenliste dabei?
+
+76
+00:08:21,600 --> 00:08:23,600
+Jetzt nicht.
+
+77
+00:08:23,600 --> 00:08:27,600
+Okay, Frau Meyerhof, wer ist Ihr Hausarzt oder Ihre Hausärztin?
+
+78
+00:08:27,600 --> 00:08:35,160
+Meine Hausärztin ist Frau Meika.
+
+79
+00:08:35,160 --> 00:08:38,160
+M-E-I-K-E-R, richtig? Meika?
+
+80
+00:08:38,160 --> 00:08:40,160
+Ja, richtig.
+
+81
+00:08:40,160 --> 00:08:45,160
+Okay, ich werde Ihre Hausärztin kontaktieren. Machen Sie sich bitte keine Sorgen.
+
+82
+00:08:45,160 --> 00:08:47,160
+Danke schön.
+
+83
+00:08:47,160 --> 00:08:50,160
+Okay, Frau Meyerhof, fühlen Sie sich friedlich?
+
+84
+00:08:50,160 --> 00:08:53,160
+Haben Sie viel Barstaffrost oder Nachschweiz?
+
+85
+00:08:53,160 --> 00:08:57,160
+Nein, Doktor, ich habe keinen Nachschweiz. Nein.
+
+86
+00:08:57,160 --> 00:09:01,160
+Ist Ihnen übel oder mussten Sie erbrechen?
+
+87
+00:09:01,160 --> 00:09:05,160
+Ich habe keinen Nachschweiz.
+
+88
+00:09:05,160 --> 00:09:07,160
+Okay, das freut mich.
+
+89
+00:09:07,160 --> 00:09:11,160
+Haben Sie Probleme beim Wasserlassen oder mit dem Stuhlgang?
+
+90
+00:09:11,160 --> 00:09:18,160
+Ich habe keine Probleme mit dem Stuhlgang oder beim Wasserlassen.
+
+91
+00:09:18,160 --> 00:09:22,160
+Super. Wie ist Ihr Appetit?
+
+92
+00:09:22,160 --> 00:09:27,160
+Seit zwei Tagen habe ich kaum Appetit.
+
+93
+00:09:27,160 --> 00:09:29,160
+Wegen dieser Schmerzen oder?
+
+94
+00:09:29,160 --> 00:09:33,160
+Ja, ja, ja. Schmerzbedingte Appetit, das sehe ich.
+
+95
+00:09:33,160 --> 00:09:35,160
+Okay, verstehe.
+
+96
+00:09:35,160 --> 00:09:39,160
+Haben Sie in der Lesezeit unwirklich ab- oder zugenommen?
+
+97
+00:09:39,160 --> 00:09:47,160
+Ich habe keine Gewicht verloren, Doktor. Ich denke, ich bin immer gleichgewicht.
+
+98
+00:09:47,160 --> 00:09:49,160
+Super.
+
+99
+00:09:49,160 --> 00:09:53,160
+Frau Meyerhof, schlafen Sie gut?
+
+100
+00:09:53,160 --> 00:10:01,160
+Nein, Doktor. Ich habe starke Rückenschmerzen. Ich schlafe nicht gut.
+
+101
+00:10:01,160 --> 00:10:04,160
+Haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+102
+00:10:04,160 --> 00:10:07,570
+Beide.
+
+103
+00:10:07,570 --> 00:10:09,570
+Okay, ich verstehe.
+
+104
+00:10:09,570 --> 00:10:16,570
+Leiden Sie unter Husten oder Luftnot?
+
+105
+00:10:16,570 --> 00:10:20,570
+Ich habe keine Probleme, Doktor.
+
+106
+00:10:20,570 --> 00:10:22,570
+Okay, alles klar.
+
+107
+00:10:22,570 --> 00:10:29,570
+Frau Meyerhof, sind Sie schon vollständig gegen Kinderkrankheiten und Covid-Infektionen geimpft?
+
+108
+00:10:29,570 --> 00:10:32,570
+Ja, ich bin vollständig gegen die Infektionen, Doktor.
+
+109
+00:10:32,570 --> 00:10:38,070
+Besuchen Sie regelmäßig Ihren Frauenarzt?
+
+110
+00:10:38,070 --> 00:10:42,070
+Ja, ja, ich besuche regelmäßig, ja.
+
+111
+00:10:42,070 --> 00:10:45,070
+Und ist alles in Ordnung?
+
+112
+00:10:45,070 --> 00:10:49,070
+Ja, alles ist in Ordnung, ja.
+
+113
+00:10:49,070 --> 00:10:54,070
+Okay, wann war Ihre letzte Periode?
+
+114
+00:10:54,070 --> 00:10:58,070
+Vor drei Wochen, ja.
+
+115
+00:10:58,070 --> 00:11:10,420
+Okay. Frau Meyerhof, Sie haben gesagt, dass Sie seit wann an Migränen leiden?
+
+116
+00:11:10,420 --> 00:11:20,420
+Ja, es war sehr lange, wahrscheinlich seit 20 Jahren, Doktor.
+
+117
+00:11:20,420 --> 00:11:26,420
+Okay, und Sie nehmen dagegen ein Schmerzmittel ein?
+
+118
+00:11:26,420 --> 00:11:28,420
+Ja, ja.
+
+119
+00:11:28,420 --> 00:11:30,420
+Bei Bedarf?
+
+120
+00:11:30,420 --> 00:11:32,420
+Ja, bei Bedarf.
+
+121
+00:11:32,420 --> 00:11:38,420
+Und Sie haben vor zehn Jahren an Hepatitis B gelitten?
+
+122
+00:11:38,420 --> 00:11:40,420
+Ja, ja, richtig.
+
+123
+00:11:40,420 --> 00:11:46,420
+Wie wurde dieses Problem behandelt? Stationär aufgenommen oder ambulant?
+
+124
+00:11:46,420 --> 00:11:52,420
+Nein, nicht stationär.
+
+125
+00:11:52,420 --> 00:12:04,420
+Ich habe eine Tablette abgenommen, eingenommen, aber jetzt erinnere ich mich nicht, Doktor.
+
+126
+00:12:04,420 --> 00:12:07,420
+Momentan nehmen Sie ein Medikament dagegen ein?
+
+127
+00:12:07,420 --> 00:12:10,420
+Nein, momentan nehme ich keine Medikamente ein.
+
+128
+00:12:10,420 --> 00:12:16,420
+Okay, alles klar. Sonst noch etwas? Irgendwelche anderen Erkrankungen haben Sie?
+
+129
+00:12:16,420 --> 00:12:19,420
+Ich habe keine anderen Erkrankungen, Doktor.
+
+130
+00:12:19,420 --> 00:12:31,420
+Okay, und Sie haben gesagt, dass Sie keine Medikamente außer Schmerzmittel einnehmen, richtig?
+
+131
+00:12:31,420 --> 00:12:33,420
+Ja, ja, richtig.
+
+132
+00:12:33,420 --> 00:12:37,420
+Okay, super. Sind Sie schon einmal operiert worden?
+
+133
+00:12:37,420 --> 00:12:47,420
+Operiert worden? Nein, Doktor. Ja, ja, ich habe erinnert.
+
+134
+00:12:47,420 --> 00:13:00,420
+Als ich sechs Jahre alt war, hatte ich eine Schulteferrletzung auf der linken Seite.
+
+135
+00:13:00,420 --> 00:13:05,420
+Aber damals wurde sie konservativ behalten, nicht operiert.
+
+136
+00:13:05,420 --> 00:13:12,440
+Okay, sonst noch etwas?
+
+137
+00:13:12,440 --> 00:13:14,440
+Das war es.
+
+138
+00:13:14,440 --> 00:13:21,440
+Okay, haben Sie Allergie gegen irgendwelche Medikamente, Pflanzen, Nahrungsmittel?
+
+139
+00:13:21,440 --> 00:13:26,710
+Ja, ich habe eine Aspirinallergie.
+
+140
+00:13:26,710 --> 00:13:28,710
+Wie reagieren Sie darauf?
+
+141
+00:13:28,710 --> 00:13:33,710
+Davon bekomme ich Atemnot.
+
+142
+00:13:33,710 --> 00:13:38,270
+Sonst noch etwas?
+
+143
+00:13:38,270 --> 00:13:48,730
+Außerdem habe ich eine Nikelallergie, die sich mit Juckreis und Ausschlag äußert.
+
+144
+00:13:48,730 --> 00:13:51,730
+Okay, Frau Meyerhoff, rauchen Sie?
+
+145
+00:13:51,730 --> 00:13:57,730
+Ja, ich rauche seit 20 Jahren etwa fünf Zigaretten täglich.
+
+146
+00:13:57,730 --> 00:14:04,060
+Und trinken Sie regelmäßig Alkohol?
+
+147
+00:14:05,060 --> 00:14:12,060
+Ich trinke keinen Alkohol, aber jeden Abend trinke ich ein Glas Bier, Doktor.
+
+148
+00:14:12,060 --> 00:14:22,060
+Ich habe meine Nachbarn gehört. Ist ein Glas Bier gut für mich?
+
+149
+00:14:22,060 --> 00:14:29,060
+Sie haben gesagt, dass Sie ein Glas Bier täglich trinken, ja?
+
+150
+00:14:29,060 --> 00:14:32,060
+Ja, jeden Abend.
+
+151
+00:14:32,060 --> 00:14:46,060
+Okay, also aus ärztlichen Sicht gibt es keinen positiven Einfluss für Ihre Gesundheit.
+
+152
+00:14:46,060 --> 00:14:50,060
+Ich meine über Alkoholkonsum, Frau Meyerhoff.
+
+153
+00:14:50,060 --> 00:14:58,060
+Also ich würde Ihnen empfehlen, das Trinken ein bisschen einschränken.
+
+154
+00:14:58,060 --> 00:15:00,060
+Okay.
+
+155
+00:15:00,060 --> 00:15:05,060
+Okay, bitte nehmen Sie die nächste Frage nicht persönlich. Das ist eine Routinefrage.
+
+156
+00:15:05,060 --> 00:15:09,060
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+157
+00:15:09,060 --> 00:15:12,060
+Ich habe keine Erfahrung mit Drogen, Doktor.
+
+158
+00:15:12,060 --> 00:15:14,060
+Das freut mich. Okay.
+
+159
+00:15:14,060 --> 00:15:22,060
+Frau Meyerhoff, leiden Ihre Eltern an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Bruthochdruck, Zuckerkrankheit?
+
+160
+00:15:22,060 --> 00:15:32,060
+Mein Vater ist mit 76 Jahren an Bauchschweize durch Krebs gestorben.
+
+161
+00:15:32,060 --> 00:15:38,000
+Mein Beileid, Frau Meyerhoff.
+
+162
+00:15:38,000 --> 00:15:39,000
+Danke schön.
+
+163
+00:15:39,000 --> 00:15:40,000
+Und Ihre Mutter?
+
+164
+00:15:40,000 --> 00:15:48,000
+Meine Mutter hat eine Herzschwäche, aber sie lebt jetzt in Altenheim.
+
+165
+00:15:48,000 --> 00:15:53,000
+Okay.
+
+166
+00:15:53,000 --> 00:15:56,000
+Haben Sie Geschwister?
+
+167
+00:15:56,000 --> 00:15:59,000
+Ich bin Einzelkind, Doktor.
+
+168
+00:15:59,000 --> 00:16:02,000
+Okay. Wie ist Ihr Familienstand?
+
+169
+00:16:02,000 --> 00:16:08,000
+Ich arbeite im Kindergarten als Lehrerin.
+
+170
+00:16:08,000 --> 00:16:12,000
+Ich meine, wie ist Ihr Familienstand? Sind Sie verheiratet?
+
+171
+00:16:12,000 --> 00:16:15,000
+Ich bin verheiratet, ja.
+
+172
+00:16:15,000 --> 00:16:17,000
+Okay. Haben Sie Kinder?
+
+173
+00:16:17,000 --> 00:16:23,890
+Ich habe eine Schwester, eine Tochter.
+
+174
+00:16:23,890 --> 00:16:28,890
+Okay. Ist sie gesund?
+
+175
+00:16:28,890 --> 00:16:38,870
+Ja, sie ist gesund, aber sie ist schwanger.
+
+176
+00:16:38,870 --> 00:16:41,870
+Mit wem wohnen Sie?
+
+177
+00:16:41,870 --> 00:16:46,080
+Ich wohne mit meinem Mann.
+
+178
+00:16:46,080 --> 00:16:49,080
+Wohnen Sie auch mit Ihrem Tochter?
+
+179
+00:16:49,080 --> 00:16:51,080
+Ja, nur mit meinem Mann.
+
+180
+00:16:51,080 --> 00:16:55,080
+Okay. Sie haben gesagt, dass Sie Lehrerin von Beruf sind?
+
+181
+00:16:55,080 --> 00:16:56,080
+Ja.
+
+182
+00:16:56,080 --> 00:17:01,080
+Okay. Welche Fachunterrichten Sie?
+
+183
+00:17:01,080 --> 00:17:04,080
+Ich arbeite im Kindergarten, Doktor.
+
+184
+00:17:04,080 --> 00:17:17,070
+Okay. Frau Meyerhoff, nur eine Frage über Ihre aktuellen Beschwerden.
+
+185
+00:17:17,070 --> 00:17:22,070
+Also haben Sie Tauchbeizitel, Gefühle oder Kriben in diesem Bereich?
+
+186
+00:17:22,070 --> 00:17:27,070
+Ja, Doktor, Sie haben recht. Ich fühle mich ein bisschen kribben.
+
+187
+00:17:27,070 --> 00:17:31,070
+Okay. Das waren meine Fragen.
+
+188
+00:17:31,070 --> 00:17:37,070
+Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+189
+00:17:37,070 --> 00:17:45,070
+Ja, Doktor, Sie haben gesagt, es gibt Möglichkeit für ein Immunsystemproblem.
+
+190
+00:17:45,070 --> 00:17:48,070
+Ich habe viel Angst. Was habe ich?
+
+191
+00:17:49,070 --> 00:17:55,070
+Frau Meyerhoff, machen Sie sich bitte keine Sorgen.
+
+192
+00:17:55,070 --> 00:18:00,070
+Das war nur eine Frage. Diese Fragen sind sehr wichtig.
+
+193
+00:18:00,070 --> 00:18:06,070
+Diese Fragen helfen mir, Ihre Beschwerden besser einzuordnen.
+
+194
+00:18:06,070 --> 00:18:11,070
+Deswegen stelle ich diese Fragen.
+
+195
+00:18:11,070 --> 00:18:18,070
+Ich vermute, dass Sie an Gültal Rose leiden.
+
+196
+00:18:18,070 --> 00:18:24,070
+Das ist eine Krankheit, die durch ein Virus kommt.
+
+197
+00:18:24,070 --> 00:18:28,070
+Das gleiche Virus macht auch Windbrocken.
+
+198
+00:18:28,070 --> 00:18:33,070
+Nach dem Windbrocken bleibt das Virus im Körper.
+
+199
+00:18:33,070 --> 00:18:39,070
+Viele Jahre später kann es weiter aktiv werden.
+
+200
+00:18:39,070 --> 00:18:42,070
+Dann bekommt man Gültal Rose.
+
+201
+00:18:42,070 --> 00:18:49,070
+Wir werden sie zuerst körperlich untersuchen.
+
+202
+00:18:49,070 --> 00:18:56,070
+Dann werde ich ihr Brot abnehmen und ein paar Untersuchungen veranlassen.
+
+203
+00:18:56,070 --> 00:19:02,070
+Sobald alle Ergebnisse da sind, werde ich die weiteren Informationen mitteilen.
+
+204
+00:19:02,070 --> 00:19:06,070
+Machen Sie sich bitte keine Sorgen.
+
+205
+00:19:06,070 --> 00:19:16,070
+Ich möchte sagen, dass Sie als Lehrerin arbeiten.
+
+206
+00:19:16,070 --> 00:19:21,070
+Das ist ein Risikofaktor für Ihre Studentinnen.
+
+207
+00:19:21,070 --> 00:19:35,070
+Deswegen sollen Sie zu Hause bleiben, bis alle Lektionen verkrustet sind.
+
+208
+00:19:35,070 --> 00:19:36,070
+Okay.
+
+209
+00:19:36,070 --> 00:19:41,070
+Doktor, darf ich eine Frage stellen?
+
+210
+00:19:41,070 --> 00:19:43,070
+Ja, gerne. Bitte schön.
+
+211
+00:19:43,070 --> 00:19:52,070
+Vor zwei Jahren hatte meine Nachbarin eine Gültalrose.
+
+212
+00:19:52,070 --> 00:19:55,070
+Sie haben recht.
+
+213
+00:19:55,070 --> 00:20:04,070
+Nach dieser Krankheit haben meine Nachbarin viele starke Rückenschmerzen.
+
+214
+00:20:04,070 --> 00:20:07,070
+Ich bin sehr Angst.
+
+215
+00:20:07,070 --> 00:20:14,070
+Frau Meyer, es gibt auch ein Risiko für diese Schmerzen.
+
+216
+00:20:14,070 --> 00:20:19,070
+Aber Sie sind eine junge Frau.
+
+217
+00:20:19,070 --> 00:20:22,070
+Sie sind 51 Jahre alt.
+
+218
+00:20:22,070 --> 00:20:26,070
+Wir warten solche Schmerzen bei Ihnen nicht.
+
+219
+00:20:26,070 --> 00:20:30,070
+Danke schön. Hoffentlich, Doktor.
+
+220
+00:20:30,070 --> 00:20:31,070
+Bitte?
+
+221
+00:20:31,070 --> 00:20:33,070
+Hoffentlich.
+
+222
+00:20:33,070 --> 00:20:34,070
+Ja, genau.
+
+223
+00:20:34,070 --> 00:20:37,070
+Nehmen Sie Platz im Wartezimmer.
+
+224
+00:20:37,070 --> 00:20:39,070
+Ich bin gleich wieder da.
+
+225
+00:20:39,070 --> 00:20:41,070
+Danke schön, Doktor.
+
+226
+00:20:41,070 --> 00:21:02,710
+Gerne.
+
+227
+00:21:02,710 --> 00:21:03,710
+Okay.
+
+228
+00:21:03,710 --> 00:21:08,410
+Schönen guten Abend, Herr Oberarzt.
+
+229
+00:21:08,410 --> 00:21:12,410
+Ich habe eine neue Patientin aufgenommen.
+
+230
+00:21:12,410 --> 00:21:14,410
+Ich würde gerne über Sie berichten.
+
+231
+00:21:14,410 --> 00:21:16,410
+Haben Sie kurz Zeit für mich?
+
+232
+00:21:16,410 --> 00:21:17,410
+Ja, bitte.
+
+233
+00:21:17,410 --> 00:21:18,410
+Danke schön.
+
+234
+00:21:18,410 --> 00:21:24,410
+Frau Ingrid Meyerhof ist 51 Jahre alt.
+
+235
+00:21:24,410 --> 00:21:30,410
+Sie ist 1,68 Meter groß und 73 Kilogramm schwer.
+
+236
+00:21:30,410 --> 00:21:41,410
+Frau Meyerhof stellte sich heute bei uns wegen seit zwei Tagen bestehender Dosa Schmerzen vor.
+
+237
+00:21:41,410 --> 00:21:52,410
+Der Patientin zufolge sahen die Schmerzen plötzlich aufgetreten und mit der Zeit immer schlimmer geworden.
+
+238
+00:21:52,410 --> 00:22:07,410
+Die Schmerzen lokalisieren an der rechten Schulter und seien dumpf und brennend.
+
+239
+00:22:07,410 --> 00:22:12,410
+Diese Schmerzen würden nirgendwo ausstrahlen.
+
+240
+00:22:12,410 --> 00:22:20,410
+Die Schmerzintensität wurde auf eine Schmerzskala mit 6 von 10 bewertet.
+
+241
+00:22:20,410 --> 00:22:26,410
+Die Patienten haben gegen diese Schmerzen keine Medikamente eingenommen.
+
+242
+00:22:26,410 --> 00:22:39,410
+Die Patientin berichtete, dass die Schmerzen sich beim liegen auf dem Rücken verschlimmern.
+
+243
+00:22:39,410 --> 00:22:47,410
+Außerdem klagte sie über Ödem, Erythem und Vesicillin.
+
+244
+00:22:47,410 --> 00:22:59,410
+Sie erwähnte, dass diese Schmerzen güterformig seien.
+
+245
+00:22:59,410 --> 00:23:11,260
+Sie klagte über Bewegungsanschränkungen.
+
+246
+00:23:11,260 --> 00:23:17,260
+Bei der vegetativen Anamnese seien die Folgenden bekannt.
+
+247
+00:23:17,260 --> 00:23:27,260
+Sie hatte Schmerzbedingte Inapetenz und Schmerzbedingte Insomnie in Form von Einschlafstörungen und Durchschlafstörungen.
+
+248
+00:23:27,260 --> 00:23:34,260
+Sie sei vollständig gegen Kinderkrankheiten und Covid-Infektionen geimpft.
+
+249
+00:23:34,260 --> 00:23:45,510
+Sie besuchte ihren Arzt regelmäßig und ihre letzte Periode vor 3 Wochen.
+
+250
+00:23:45,510 --> 00:24:01,510
+An Vorerkrankungen nannte sie seit 20 Jahren bestehende Migräne und vor 10 Jahren diagnostizierte Hepatitis B Infektion.
+
+251
+00:24:01,510 --> 00:24:09,510
+Sie nehme gegen Migräne ein Schmerzmittel bei Bedarf ein.
+
+252
+00:24:09,510 --> 00:24:15,510
+Der Name von Medikament sollte geklärt werden.
+
+253
+00:24:15,510 --> 00:24:31,510
+Mit 16 Jahren hatte sie eine Schulterverletzung, die konservativ behandelt wurde.
+
+254
+00:24:31,510 --> 00:24:38,860
+Sie hatte Allergie gegen Aspirin und Nickel.
+
+255
+00:24:38,860 --> 00:24:49,860
+Aspirin Allergie ist durch Dyspne und Nickel Allergie durch Puritus und Exanthin.
+
+256
+00:24:49,860 --> 00:24:56,860
+Sie war Raucherin und rauchte seit 20 Jahren 50 Grad täglich.
+
+257
+00:24:56,860 --> 00:25:00,860
+Sie trank ein Glas Bier täglich.
+
+258
+00:25:00,860 --> 00:25:03,860
+Drogenkonsum wurde verneint.
+
+259
+00:25:03,860 --> 00:25:14,860
+In der Familie Ananese gab sie an, dass der Vater mit 76 Jahren an Pankreaskarzinom verstorben sei.
+
+260
+00:25:14,860 --> 00:25:24,860
+Die Mutter leide an Herzintensivität und wohne in einem alten Heim.
+
+261
+00:25:24,860 --> 00:25:30,860
+Sie sei Einzelkind, verheiratet und habe eine schwangere Tochter.
+
+262
+00:25:30,860 --> 00:25:35,860
+Sie wohne mit ihrem Mann zusammen.
+
+263
+00:25:35,860 --> 00:25:42,860
+Sie sei Lehrerin von Beruf in einem Kindergarten.
+
+264
+00:25:42,860 --> 00:25:52,860
+Ich gehe von einem Verdacht auf eine Herpes-Soster-Infektion aus, da die Patientin typische Symptome dafür aufweist.
+
+265
+00:25:52,860 --> 00:26:05,860
+Die Patientin leidet unter Rückenschmerzen, Ödem, Erythem und Whysicillin an diesem Bereich.
+
+266
+00:26:05,860 --> 00:26:12,860
+Diese Symptome sprechen für eine Herpes-Soster-Infektion.
+
+267
+00:26:12,860 --> 00:26:19,860
+Als differenzierte Diagnosen kommen Herpes-Simplex-Infektionen.
+
+268
+00:26:19,860 --> 00:26:31,900
+Und die Prolapsus oder Muskelentspannung in Betracht.
+
+269
+00:26:31,900 --> 00:26:49,460
+Um meine Verdachtdiagnose zu bestätigen, würde ich bei der Patientin eine körperliche Untersuchung durchführen und die Etapparameter überwachen.
+
+270
+00:26:49,460 --> 00:27:09,460
+Bei der körperlichen Untersuchung achte ich darauf, ob sie Erythem, Ödem, Whysicillin, Pusten und andere Hartveränderungen hat.
+
+271
+00:27:09,460 --> 00:27:19,460
+Zusätzlich ist eine Laboruntersuchung sinnvoll, um eine umfassende Diagnostik zu gewährleisten.
+
+272
+00:27:19,460 --> 00:27:39,570
+Dabei würde ich Blutbild, CRP, BSG, Valicella-Soster, PCA-Test und Leberwerte, Nierenwerte bestimmen lassen.
+
+273
+00:27:39,570 --> 00:27:57,850
+Danach würde ich eine Röntgenaufnahme durchführen, um eine Verletzung bei den Knochen auszuschließen.
+
+274
+00:27:57,850 --> 00:28:07,850
+Leider habe ich über Verletzung an einem Nase nicht gefragt, aber nach dem Arzt-Arzt-Gespräch werde ich diese Frage stellen.
+
+275
+00:28:07,850 --> 00:28:24,020
+Um die Verdachtdiagnose zu bestätigen, würde ich die Patienten ambulant behandeln.
+
+276
+00:28:24,020 --> 00:28:38,020
+Ich würde Antivirant-Therapie wie Asiklovir, Valacyclovir oder Biovidin verschreiben.
+
+277
+00:28:38,020 --> 00:29:00,020
+Ich würde der Patientin krank schreiben. Ich würde der Patientin empfehlen, zu Hause zu bleiben, nachdem alle Whysicillin und Pusten verkrustet sind.
+
+278
+00:29:00,020 --> 00:29:15,020
+Und die Tochter der Patientin ist schwanger. Deswegen ist ein Kontakt mit der Tochter ein großes Risiko für das Baby.
+
+279
+00:29:15,020 --> 00:29:35,020
+Ich würde auch keinen Kontakt mit der Tochter empfehlen. Danach würde ich ein dermatologisches Konzil anfordern, um die Therapie der Patienten zu optimieren.
+
+280
+00:29:35,020 --> 00:29:45,020
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit der geplanten Untersuchung fortfahren.
+
+281
+00:29:45,020 --> 00:29:52,020
+Herr Kollegen, in welchen Situationen verursacht Herpes-Soster-Infektion?
+
+282
+00:29:52,020 --> 00:30:17,020
+Imunspressive Situationen können Herpes-Soster-Infektionen verursachen, wie zum Beispiel Katsynoma oder imunspressive Medikamente wie zum Beispiel Corticosteroide oder andere imunspressive Medikamente wie zum Beispiel Methotrexat oder
+
+283
+00:30:17,020 --> 00:30:23,020
+Azotopirin. Aber die Patienten geben keine medikamentösen Geschichten über sie.
+
+284
+00:30:23,020 --> 00:30:30,100
+Verursacht Depression diese Krankheit?
+
+285
+00:30:30,100 --> 00:30:43,740
+Eine Major-Depression kann eine Immunspression verursachen. Deswegen kann das auch ein Risikofaktor sein.
+
+286
+00:30:43,740 --> 00:30:58,740
+Ja, das kann sein. Es gibt eine lokale Schmerzen bei den Patienten, besonders am Schwerpunkt der Neuralgie.
+
+287
+00:30:58,740 --> 00:31:09,910
+Das kann sein, aber ich bin mir nicht sicher, ob es eine Details zu diesem Thema gibt.
+
+288
+00:31:09,910 --> 00:31:17,910
+Also ich meine eine interkostal Neurode. Neuralgie.
+
+289
+00:31:17,910 --> 00:31:21,910
+Neuralgie, okay.
+
+290
+00:31:21,910 --> 00:31:25,910
+Meinen Sie eine Einklemmung der Nerven oder?
+
+291
+00:31:25,910 --> 00:31:33,910
+Interkostal Neurode ist eine Neuralgie.
+
+292
+00:31:33,910 --> 00:31:48,910
+Diese Begriffe haben Muskelschwäche, Zoonososter,
+
+293
+00:31:48,910 --> 00:32:07,190
+ist der Oberbegriff. Dieser Begriff enthält Muskelschwerheit, Sonazoster, Muskelschmerzen und andere
+
+294
+00:32:07,190 --> 00:32:21,190
+viele Krankheiten. Es konnte sein, dass es in diesem Fall Myokartinfarkt ist oder Herzkrankleidkrankheiten.
+
+295
+00:32:21,190 --> 00:32:37,590
+Also die Patientin leidet unter einer Schmerzen, die am rechten Schulter lokalisiert sein. Also keine
+
+296
+00:32:37,590 --> 00:32:53,230
+Brutschmerzen. Aber ich habe schon über Luftdispneum nicht gefragt. Aber sie leidet unter keine
+
+297
+00:32:53,230 --> 00:33:03,270
+Brutschmerzen. Also ich denke nicht so. Manchmal verursacht rechte Ventrikelinfarkt, rechte Schulter
+
+298
+00:33:03,270 --> 00:33:22,660
+Schmerzen. Manchmal auch Oberbauchschmerzen. Und in diesem Fall würden sie eine Thoraxonographie
+
+299
+00:33:22,660 --> 00:33:34,940
+durchführen. Eine Thoraxonographie, also wir können eine Thoraxonographie durchführen, um die
+
+300
+00:33:34,940 --> 00:33:45,580
+möglichen mediasinale Pathologien zu beurteilen. Wie zum Beispiel vergrößerte
+
+301
+00:33:45,580 --> 00:33:58,420
+Hilum, vergrößerte Lymphknoten, wie zum Beispiel eine Sarkoidose oder vielleicht eine Typakulose.
+
+302
+00:33:58,420 --> 00:34:11,140
+Das finde ich ein bisschen extrem bei diesem Fall. Aber wir können die mediasinale Pathologien
+
+303
+00:34:11,140 --> 00:34:14,100
+zu beurteilen oder...
+
+304
+00:34:14,100 --> 00:34:23,500
+Wir können nur mit Hilfe der Ultraschall-Untersuchung weichgewebe Probleme ausschließen.
+
+305
+00:34:23,500 --> 00:34:33,260
+Oberfläche Proben nutzen wir und wenn der Patient absetzt oder andere weichgewebe Probleme
+
+306
+00:34:33,300 --> 00:34:43,340
+können wir die Diagnostisierung. Andere Situationen, wenn wir eine Thoraxonographie machen, können wir
+
+307
+00:34:43,340 --> 00:34:55,860
+Intratorakal Pathologien ausschließen. Wie zum Beispiel Abscess in Prolaspalt, Hämatorax oder
+
+308
+00:34:55,860 --> 00:35:04,980
+Apilomotorax. Würden Sie in diesem Fall Thorax, Röntgen des Thorax?
+
+309
+00:35:04,980 --> 00:35:13,660
+Ja, ich würde ein Röntgen des Thorax durchführen, um die möglichen Verletzungen,
+
+310
+00:35:13,660 --> 00:35:24,260
+besonders mit der Rippen, genau zu beurteilen. Die Patienten gab keine Verletzungsschichte,
+
+311
+00:35:24,260 --> 00:35:32,060
+aber wir sollen eine Röntgen-Untersuchung durchführen, um die möglichen Pathologien zu überprüfen.
+
+312
+00:35:32,060 --> 00:35:39,220
+Würden Sie in diesem Fall Asyklopher verabreichen?
+
+313
+00:35:39,220 --> 00:35:58,060
+Ja, können wir Asyklopher anordnen als Therapie. Besonders in 72 Stunden sollen wir eine antivirale
+
+314
+00:35:58,060 --> 00:36:05,380
+Therapie anordnen, wie zum Beispiel Asyklopher oder Valasyklopher.
+
+315
+00:36:05,380 --> 00:36:09,980
+In welchem Dosis verabreichen Sie?
+
+316
+00:36:10,900 --> 00:36:25,940
+Ja, wir sollen 5 mal 800 mg Asyklopher pro Tag oder 3 mal 1000 mg Valasyklopher anordnen.
+
+317
+00:36:25,940 --> 00:36:35,940
+Oder wir können auch 125 mg anordnen, einmal pro Tag für eine Woche.
+
+318
+00:36:36,900 --> 00:36:41,900
+Würden Sie jemandem empfehlen?
+
+319
+00:36:44,620 --> 00:37:00,380
+Also es gibt einen Risikofaktor für die Studentinnen, weil sie eine Lehrerin sind.
+
+320
+00:37:00,380 --> 00:37:11,150
+Also ich würde empfehlen für die Studentinnen, aber ich glaube,
+
+321
+00:37:11,470 --> 00:37:21,470
+eine Varesele-Sost-Tersch-Impfung ist ein Standardimpfung in Deutschland oder?
+
+322
+00:37:21,470 --> 00:37:23,470
+Ich bin mir nicht sicher, Herr Oberst.
+
+323
+00:37:23,470 --> 00:37:32,590
+Ich auch, nicht sicher. Aber empfehlen Sie in diesem Fall kleine Kinder oder
+
+324
+00:37:33,030 --> 00:37:46,030
+Schwangers, oder wenn jemand in Ihrem Umgebung schwanger ist, empfehlen wir auch Impfungen.
+
+325
+00:37:46,030 --> 00:38:04,550
+Ich frage eine Aufklärung. Können Sie uns CT des Thorax aufklären?
+
+326
+00:38:04,990 --> 00:38:09,990
+Ja, gerne. Ich werde Sie über CT des Thorax aufklären.
+
+327
+00:38:09,990 --> 00:38:15,990
+Computer-Tomographie gehört zu den bildgebenden Verfahren.
+
+328
+00:38:15,990 --> 00:38:24,990
+Diese Untersuchung hilft uns, Verletzungen, Erntzündungen, Blutungen, Tumore oder andere Veränderungen
+
+329
+00:38:24,990 --> 00:38:26,990
+genau zu erkennen.
+
+330
+00:38:27,430 --> 00:38:35,430
+Diese Untersuchung benötigt nur noch eine geringe Strahlenbelastung und ist völlig schmerzfrei.
+
+331
+00:38:35,430 --> 00:38:43,430
+Der Patient soll etwa 30 Minuten in einer CT-Röhre liegen und wenn der Patient
+
+332
+00:38:43,430 --> 00:38:50,430
+einen Platzangst hat, können wir dem Patienten eine Beruhigungsmittel geben.
+
+333
+00:38:50,870 --> 00:39:05,870
+Diese Untersuchung hat einige Kontraindikationen, wie Schwangerschaft und Kontrastmittelallergie.
+
+334
+00:39:05,870 --> 00:39:13,870
+Manchmal müssen wir dem Patienten einen Kontrastmittel geben, um die Innerorgane
+
+335
+00:39:14,310 --> 00:39:22,310
+sichtbar zu machen. Es gibt keine Komplikationen und keine Einschränkungen nach der Untersuchung.
+
+336
+00:39:22,310 --> 00:39:30,220
+Der Patient kann den Alltag wie gewohnt fortsetzen.
+
+337
+00:39:41,220 --> 00:39:43,220
+Vielen Dank, Herr Oberhaus. Sie sind sehr nett.
+
+338
+00:40:21,380 --> 00:40:23,380
+Der Patient ist ein Intercostal Neuralgiddyl.
+
+339
+00:40:23,380 --> 00:40:27,380
+Er ist ein bisschen wie ein Üsbegriff, aber es ist ein einziger.
+
+340
+00:40:27,380 --> 00:40:32,730
+Besonders ist es Gürtelformik.
+
+341
+00:40:32,730 --> 00:40:38,730
+Es ist wichtig, dass es nicht Gürtelformik ist und nicht im Mittelpunkt.
+
+342
+00:40:38,730 --> 00:40:42,730
+Ich bin es ein bisschen für einen Dermatologen zu tun.
+
+343
+00:40:42,730 --> 00:40:48,730
+Wir haben sie schon gefragt.
+
+344
+00:40:49,170 --> 00:40:55,170
+Ich weiß nicht, wie ich das Immunschwereinigen beantworten kann.
+
+345
+00:40:55,170 --> 00:40:59,170
+Das ist eine Angelegenheit.
+
+346
+00:40:59,170 --> 00:41:02,170
+Das können sie vielleicht im Test machen.
+
+347
+00:41:02,170 --> 00:41:05,170
+Wenn der Patient zonazoster ist, warum wird er zonazoster?
+
+348
+00:41:05,170 --> 00:41:09,170
+Es gibt keine Grundlage dafür.
+
+349
+00:41:09,170 --> 00:41:12,170
+Im Cancer oder so.
+
+350
+00:41:12,170 --> 00:41:15,170
+Es gibt keine Angelegenheit.
+
+351
+00:43:19,100 --> 00:43:21,100
+Ich denke, es ist eine Angelegenheit.
+
+352
+00:43:21,100 --> 00:43:23,100
+Ich habe es sogar in der Piole Nefflitte gesagt.
+
+353
+00:43:23,100 --> 00:43:28,100
+Der Patient wurde gefragt, ob er sich um Immunschwereinigung bewegen kann.
+
+354
+00:43:28,100 --> 00:43:34,340
+Das sind die Dinge, die du nennen, um zu reden.
+
+355
+00:43:34,340 --> 00:43:36,340
+Nicht um deine Information zu messen.
+
+356
+00:43:36,340 --> 00:43:38,340
+Die Dinge, die du nennen, um zu reden.
+
+357
+00:43:38,340 --> 00:43:40,340
+Nicht um deine Information zu messen.
+
+358
+00:43:40,340 --> 00:43:42,340
+Du kannst sagen, dass du keine Informationen hast.
+
+359
+00:43:42,340 --> 00:43:46,640
+Dann kannst du sagen, ich werde es recherchieren.
+
+360
+00:43:46,640 --> 00:43:48,640
+Okay, ich bin weg.
+
+361
+00:43:48,640 --> 00:43:50,640
+Timo, bist du bereit?
+
+362
+00:43:51,080 --> 00:43:54,080
+Ich weiß nicht, wie bereit wir sind.
+
+363
+00:43:54,080 --> 00:43:56,080
+Wir versuchen es, Hocam.
+
+364
+00:43:56,080 --> 00:43:58,080
+Es ist besser, nicht zu reden.
+
+365
+00:43:58,080 --> 00:44:00,080
+Natürlich.
+
+366
+00:44:00,080 --> 00:44:02,080
+Okay, ich werde es wieder öffnen.
+
+367
+00:44:02,080 --> 00:44:04,080
+Ich werde es wieder öffnen.
+
+368
+00:44:04,080 --> 00:44:08,080
+Ich bin ein bisschen verabredet.
+
+369
+00:44:08,080 --> 00:44:12,080
+Heute haben wir einen neuen Patienten.
+
+370
+00:44:12,080 --> 00:44:16,080
+Darf ich Ihnen einen Patienten vorstellen?
+
+371
+00:44:16,080 --> 00:44:18,080
+Ja, bitte.
+
+372
+00:44:18,520 --> 00:44:22,520
+Wenn Sie aufgenommen würden, wäre es besser.
+
+373
+00:44:22,520 --> 00:44:24,520
+Was habe ich gesagt?
+
+374
+00:44:24,520 --> 00:44:27,520
+Aufgenommen ist nicht der Fall.
+
+375
+00:44:27,520 --> 00:44:30,520
+Sie haben einen neuen Patienten.
+
+376
+00:44:30,520 --> 00:44:33,520
+Einen neuen Patienten aufgenommen, das stimmt.
+
+377
+00:44:33,520 --> 00:44:39,520
+Es geht um Frau Ingrid Meyerhof.
+
+378
+00:44:39,520 --> 00:44:43,520
+Sie ist 51 Jahre alt.
+
+379
+00:44:43,960 --> 00:44:51,960
+Sie ist 1,68 Meter groß und 63 Kilogramm schwer.
+
+380
+00:44:51,960 --> 00:44:59,960
+Sie steht heute bei uns.
+
+381
+00:44:59,960 --> 00:45:03,960
+Sie wegt seit zwei Tagen.
+
+382
+00:45:03,960 --> 00:45:11,960
+Sie hat dünne Rückenschmerzen.
+
+383
+00:45:12,400 --> 00:45:32,400
+Die Schmerzen sind dünn und brennend.
+
+384
+00:45:32,840 --> 00:45:38,840
+Sie hat die Schmerzen plötzlich aufgetreten.
+
+385
+00:45:38,840 --> 00:45:44,840
+Sie ist im Laufe der Zeit schlimmer geworden.
+
+386
+00:45:44,840 --> 00:45:50,840
+Sie hat die Schmerzen plötzlich aufgetreten.
+
+387
+00:45:50,840 --> 00:45:56,840
+Sie ist im Laufe der Zeit schlimmer geworden.
+
+388
+00:45:57,320 --> 00:46:07,320
+Sie hat die Schmerzen androhicationen Ereignisse.
+
+389
+00:46:07,320 --> 00:46:11,320
+Außerdem sch reflexioniere die Schmerzen ständig auf.
+
+390
+00:46:11,320 --> 00:46:19,420
+Aufstandspersonal ori lyingitted Schmerzen und sich
+
+391
+00:46:19,420 --> 00:46:33,420
+Die Betrophenenbereich bemerkt habe.
+
+392
+00:46:33,420 --> 00:46:49,420
+Die Schmerzintensität wurde mit 6 von 9 auf eine Schmerzkala bewertet.
+
+393
+00:46:49,420 --> 00:46:57,420
+Die Schmerzen wurden in anderen Körperregionen nicht ausgestrahlt.
+
+394
+00:46:57,420 --> 00:47:11,420
+Wegen dieser Schmerzen wurden die Patienten nicht unter den Baumen gebracht.
+
+395
+00:47:11,420 --> 00:47:19,420
+Sie haben keine Medikamente genommen.
+
+396
+00:47:19,420 --> 00:47:47,420
+Sie haben die Schmerzen nicht richtig ausgestrahlt.
+
+397
+00:47:47,420 --> 00:48:15,420
+Die Symptome gehen mit Müdigkeit und schlaftbedingter Insomnie und schmerzbedingter Inapetens einher.
+
+398
+00:48:15,420 --> 00:48:25,420
+Einher.
+
+399
+00:48:25,420 --> 00:48:31,420
+Einher.
+
+400
+00:48:31,420 --> 00:48:43,420
+Die Anführerkrankungen sind nicht so gut.
+
+401
+00:48:43,420 --> 00:48:55,420
+Seit etwa 10 Jahren sind die Patienten A oder B nicht gut.
+
+402
+00:48:55,420 --> 00:49:03,420
+Außerdem haben sie gelegentlich Migräne.
+
+403
+00:49:03,420 --> 00:49:13,420
+Sie nehmen bei Bedarf eine Schmerzmittel gegen diese Schmerzen ein,
+
+404
+00:49:13,420 --> 00:49:23,420
+die mit den Wirkstoffen, Dosis und Häufigkeiten noch geklärt werden sollten.
+
+405
+00:49:23,420 --> 00:49:45,420
+Als die 6 Jahre alt sind, hat sie eine Schulte verletzt auf der linken Seite.
+
+406
+00:49:45,420 --> 00:49:53,420
+Sie werden konservativ behandelt.
+
+407
+00:49:53,420 --> 00:50:05,420
+Sie sind allergisch gegen eine Aspirin, die sich mit Atemnot auslöst.
+
+408
+00:50:05,420 --> 00:50:13,420
+Außerdem haben sie eine Nikelallergie, die sich mit Yükreis und Ausschlag auslöst.
+
+409
+00:50:13,420 --> 00:50:21,420
+Sie rauchen seit 20 Jahren etwa 5 Zigaretten täglich.
+
+410
+00:50:21,420 --> 00:50:27,420
+Sie trinken ein Glas Bier jeden Abend.
+
+411
+00:50:27,420 --> 00:50:35,420
+Drogen konsumiert wurde vernannt.
+
+412
+00:50:35,420 --> 00:50:47,420
+Sie teilen mit ihrem Vater mit 6 und 7 Jahren Bauchspeise durch Krebs.
+
+413
+00:50:47,420 --> 00:50:51,420
+Das ist das Schlimmste.
+
+414
+00:50:51,420 --> 00:50:57,420
+Das ist das Schlimmste.
+
+415
+00:50:57,420 --> 00:51:07,420
+Das ist das Schlimmste.
+
+416
+00:51:07,420 --> 00:51:30,420
+Das ist der Vater, der mit 76 Jahren an Pankreaskarcinoma gestorben ist.
+
+417
+00:51:30,420 --> 00:51:53,420
+Die Mutter hat leider eine Krankheit, eine Infusion. Sie lebt jetzt und wohnt in Altenheim.
+
+418
+00:51:53,420 --> 00:52:15,420
+Sie ist Einzelkind. Sie arbeitet in Kindergarten als Lehrerin. Sie ist verheiratet und hat eine Schwester.
+
+419
+00:52:15,420 --> 00:52:36,420
+Ihre Schwester ist schwanger. Ich gehe von Verdacht auf Herpes-Soster aus, da die Patienten typische Symptome dafür ausweisen.
+
+420
+00:52:36,420 --> 00:53:01,420
+Die Patienten leiden unter seit zwei Tagen. Sie sind in der rechten Schulter und der rechten Schulta.
+
+421
+00:53:01,420 --> 00:53:28,420
+Außerdem klagt sie über die exzellente Ödem und Vesikule. Diese Symptome sprechen für Herpes-Soster.
+
+422
+00:53:28,420 --> 00:53:55,420
+Als Differenzdiagnose kommen auch Interkostalneuralgie, Myokartinfarkt, Erisipel, Urolithiasis und Pyronephritis infrage.
+
+423
+00:53:55,420 --> 00:54:11,420
+Um meine Verdacht Diagnose zu bestätigen, überwache ich die vitalen Parameter und mache eine körperliche Untersuchung.
+
+424
+00:54:11,420 --> 00:54:31,420
+Ich mache eine körperliche Untersuchung, um zu beachten, ob es eine Ödem, eine Eritem, eine Vesikule oder andere Veränderungen gibt.
+
+425
+00:54:31,420 --> 00:54:44,420
+Außerdem würde ich Lunge und Herz abhören.
+
+426
+00:54:44,420 --> 00:55:11,420
+Ich würde eine Laborkonzerstörung durchführen. Dabei würde ich Großblutbild, Entzündungsparameter, Lebewerter, Nierenwerter, Herzensime und Serologie antifizieren.
+
+427
+00:55:11,420 --> 00:55:23,420
+Danach würde ich einen Urinatest durchführen, um mögliche Nierenkrankheiten auszuschließen.
+
+428
+00:55:23,420 --> 00:55:38,420
+Ich würde eine EKG schreiben, um mögliche Myokartinfarkt auszuschließen.
+
+429
+00:55:38,420 --> 00:55:47,420
+Und um mögliche Rippen zu beurteilen.
+
+430
+00:55:47,420 --> 00:56:04,490
+Und um mögliche Rippen zu beurteilen.
+
+431
+00:56:04,490 --> 00:56:17,490
+Und um mögliche Nierenkrankheiten auszuschließen.
+
+432
+00:56:17,490 --> 00:56:28,490
+Und um mögliche Rippen zu beurteilen.
+
+433
+00:56:28,490 --> 00:56:40,490
+Sollte ich meine Verdachtstheorose bestätigen, würde ich die Patienten stationär aufnehmen.
+
+434
+00:56:40,490 --> 00:56:57,490
+Ich würde einen Venouszugang legen und eine Flüssigkeit zuvor an der Getüge einleiten.
+
+435
+00:56:57,490 --> 00:57:07,490
+Und dann würde ich die Patienten aufnehmen.
+
+436
+00:57:07,490 --> 00:57:23,490
+Ich würde sie fünfmal täglich für sieben Tage schreiben.
+
+437
+00:57:23,490 --> 00:57:35,490
+Ich würde sie fünfmal täglich für sieben Tage schreiben.
+
+438
+00:57:35,490 --> 00:57:55,490
+Ich würde sie fünfmal täglich für sieben Tage schreiben.
+
+439
+00:57:55,490 --> 00:58:07,490
+Und dann würde ich sie fünfmal täglich für sieben Tage schreiben.
+
+440
+00:58:07,490 --> 00:58:19,490
+Und dann würde ich sie fünfmal täglich für sieben Tage schreiben.
+
+441
+00:58:19,490 --> 00:58:42,850
+Wenn Sie mit dieser Vorgeheimweise einverstanden sind, werde ich mit dem geplanten Untersuchung fortfahren.

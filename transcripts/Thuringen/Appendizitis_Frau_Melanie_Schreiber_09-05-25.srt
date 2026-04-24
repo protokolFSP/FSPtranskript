@@ -1,0 +1,1323 @@
+1
+00:00:00,140 --> 00:00:01,140
+Okay.
+
+2
+00:00:01,140 --> 00:00:05,140
+Schönen guten Abend, mein Name ist Ucak.
+
+3
+00:00:05,140 --> 00:00:10,140
+Ich bin auf der Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das
+
+4
+00:00:10,140 --> 00:00:12,140
+Anamnese-Gespräch durchführen.
+
+5
+00:00:12,140 --> 00:00:14,140
+Sind Sie damit einverstanden?
+
+6
+00:00:14,140 --> 00:00:16,140
+Ja, natürlich.
+
+7
+00:00:16,140 --> 00:00:21,140
+Danke, bitte fragen Sie nach, wenn Sie etwas nicht verstehen, okay?
+
+8
+00:00:21,140 --> 00:00:22,140
+Okay.
+
+9
+00:00:22,140 --> 00:00:23,140
+Wie heißen Sie denn?
+
+10
+00:00:23,140 --> 00:00:26,140
+Ich bin Melanie Schreiber.
+
+11
+00:00:26,140 --> 00:00:33,180
+Können Sie bitte Ihren Vornachnamen langsam buchstabieren?
+
+12
+00:00:33,180 --> 00:00:39,180
+Ja, M-I-R-A-N-I Melanie.
+
+13
+00:00:39,180 --> 00:00:40,180
+Ja.
+
+14
+00:00:40,180 --> 00:00:45,180
+C-H-R-E-I-B-E-R.
+
+15
+00:00:45,180 --> 00:00:47,180
+Okay.
+
+16
+00:00:47,180 --> 00:00:49,180
+Wie schreiben, ja?
+
+17
+00:00:49,180 --> 00:00:51,180
+Ja, Schreiber R.
+
+18
+00:00:51,180 --> 00:00:52,180
+Okay.
+
+19
+00:00:52,180 --> 00:00:55,180
+Frau Schreiber, wie alt sind Sie?
+
+20
+00:00:55,180 --> 00:00:58,180
+47 Jahre alt.
+
+21
+00:00:58,180 --> 00:01:01,180
+Wann sind Sie genau geboren?
+
+22
+00:01:01,180 --> 00:01:07,180
+7. Oktober 1978.
+
+23
+00:01:07,180 --> 00:01:11,100
+Wie groß sind Sie?
+
+24
+00:01:11,100 --> 00:01:15,100
+Ich bin 1 Meter 69.
+
+25
+00:01:15,100 --> 00:01:19,730
+Und wie viel wiegen Sie zuzeit?
+
+26
+00:01:19,730 --> 00:01:22,730
+Ich bin 58 Kilogramm, Doktor.
+
+27
+00:01:22,730 --> 00:01:27,330
+Danke für die Informationen, Frau Schreiber.
+
+28
+00:01:27,330 --> 00:01:29,330
+Was kann ich für Sie tun?
+
+29
+00:01:29,330 --> 00:01:31,330
+Was für Beschwerden haben Sie im Moment?
+
+30
+00:01:31,330 --> 00:01:35,330
+Ja, Doktor, ich habe Bauchschmerzen.
+
+31
+00:01:35,330 --> 00:01:40,020
+Seit wann haben Sie diese Schmerzen?
+
+32
+00:01:40,020 --> 00:01:45,020
+Seit gestern habe ich diese Schmerzen.
+
+33
+00:01:45,020 --> 00:01:49,020
+Wo genau sind diese Schmerzen lokalisiert?
+
+34
+00:01:49,020 --> 00:01:52,020
+Ich meine Oberbauch, Unterbauch.
+
+35
+00:01:52,020 --> 00:02:03,020
+Die Schmerzen haben zunächst um den Nabel herum begonnen
+
+36
+00:02:03,020 --> 00:02:09,020
+und sind heute Morgen in den rechten Unterbauch gewandert.
+
+37
+00:02:09,020 --> 00:02:16,050
+Okay.
+
+38
+00:02:16,050 --> 00:02:19,050
+Frau Schreiber, können Sie diese Schmerzen genau beschreiben?
+
+39
+00:02:19,050 --> 00:02:23,050
+Also sind Sie eher druckend, stechend, dumpf?
+
+40
+00:02:23,050 --> 00:02:28,050
+Ja, die Schmerzen sind dumpf und steckend.
+
+41
+00:02:28,050 --> 00:02:30,050
+Dumpf und steckend.
+
+42
+00:02:30,050 --> 00:02:39,050
+Sind die Schmerzen plötzlich oder langsam aufgetreten?
+
+43
+00:02:39,050 --> 00:02:44,050
+Die Schmerzen sind langsam aufgetreten.
+
+44
+00:02:44,050 --> 00:02:48,620
+Okay.
+
+45
+00:02:48,620 --> 00:02:54,620
+Haben sich die Schmerzen im Verlauf der Zeit verändert?
+
+46
+00:02:54,620 --> 00:02:58,620
+Ich meine, schlimmer geworden oder besser geworden?
+
+47
+00:02:58,620 --> 00:03:07,620
+Die Schmerzen sind immer schlimmer geworden.
+
+48
+00:03:07,620 --> 00:03:14,620
+Am Anfang waren die Schmerzen bei 1.
+
+49
+00:03:14,620 --> 00:03:22,620
+Aber heute liegen sie bei 7 von 10 auf der Schmerzskala.
+
+50
+00:03:22,620 --> 00:03:26,930
+Okay.
+
+51
+00:03:26,930 --> 00:03:31,930
+Frau Schreiber, soll ich Ihnen eine Schmerzmitte geben
+
+52
+00:03:31,930 --> 00:03:39,930
+oder können Sie diese Schmerzen noch ein bisschen bis zum Ende des Gesprächs aushalten?
+
+53
+00:03:39,930 --> 00:03:47,930
+Ein anderes Gespräch dauert ca. 20 Minuten.
+
+54
+00:03:47,930 --> 00:03:50,930
+Ich kann warten, Doktor.
+
+55
+00:03:50,930 --> 00:03:55,930
+Okay, bitte sagen Sie mir Bescheid, wenn Sie ein Medikament benötigen.
+
+56
+00:03:55,930 --> 00:03:57,930
+Okay, danke schön.
+
+57
+00:03:57,930 --> 00:03:59,930
+Ich werde mich beeilen.
+
+58
+00:03:59,930 --> 00:04:00,930
+Okay.
+
+59
+00:04:00,930 --> 00:04:05,930
+Gibt es etwas, das die Schmerzen lindert oder verstärkt?
+
+60
+00:04:05,930 --> 00:04:07,930
+Haben Sie bemerkt?
+
+61
+00:04:07,930 --> 00:04:15,930
+Ja, ich habe bemerkt, dass die Schmerzen im Laufe der Zeit schlimmer geworden sind.
+
+62
+00:04:15,930 --> 00:04:20,930
+Und gibt es eine bestimmte Faktoren?
+
+63
+00:04:20,930 --> 00:04:27,930
+Also ich meine eine bestimmte Körperhaltung oder Besten?
+
+64
+00:04:27,930 --> 00:04:29,930
+Ich habe nicht bemerkt, Doktor. Nein.
+
+65
+00:04:29,930 --> 00:04:31,930
+Okay, alles klar.
+
+66
+00:04:31,930 --> 00:04:35,930
+Haben Sie früher ähnliche Beschwerden gehabt?
+
+67
+00:04:35,930 --> 00:04:43,360
+Das ist zum ersten Mal.
+
+68
+00:04:43,360 --> 00:04:51,360
+Okay. Und nehmen Sie gegen diese Schmerzen ein Medikament eingenommen?
+
+69
+00:04:51,360 --> 00:04:57,360
+Ich habe keine Medikamente eingenommen, Doktor.
+
+70
+00:04:57,360 --> 00:05:04,360
+Okay. Sind Sie schon wegen dieser Schmerzen beim anderen Arzt gewesen?
+
+71
+00:05:04,360 --> 00:05:12,360
+Ich habe nicht beim anderen Arzt gewesen, nein.
+
+72
+00:05:12,360 --> 00:05:18,360
+Okay. Frau Schreiber, haben Sie Fieber, Schüterfrost oder Nachtschwass?
+
+73
+00:05:19,360 --> 00:05:31,360
+Ja, ich habe stark geschwitzt und möglicherweise Fieber, aber ich habe keine Temperatur gemessen.
+
+74
+00:05:31,360 --> 00:05:40,500
+Okay. Schüterfrost, Nachtschwass. Also Sie haben eine Schweißausbrüche, ich glaube.
+
+75
+00:05:40,500 --> 00:05:41,500
+Ja, ja.
+
+76
+00:05:41,500 --> 00:05:44,500
+Aber besonders haben Sie eine Nachtschwass?
+
+77
+00:05:44,500 --> 00:05:46,500
+Ich habe nicht bemerkt.
+
+78
+00:05:46,500 --> 00:05:49,500
+Okay, ich verstehe.
+
+79
+00:05:49,500 --> 00:05:54,500
+Leiden Sie unter Luftnot oder Husten?
+
+80
+00:05:54,500 --> 00:06:00,500
+Ich habe diese Beschwerden nicht bemerkt, Doktor.
+
+81
+00:06:00,500 --> 00:06:09,500
+Okay. Frau Schreiber, sind die Schmerzen dauerhaft da oder gehen Sie auch wieder weg?
+
+82
+00:06:09,500 --> 00:06:13,500
+Die Schmerzen sind dauerhaft.
+
+83
+00:06:13,500 --> 00:06:19,740
+Okay. Ist Ihnen übel oder musst du sie erbrechen?
+
+84
+00:06:19,740 --> 00:06:25,740
+Ich habe keine Übelkeit unter Erbrechen, Doktor.
+
+85
+00:06:25,740 --> 00:06:30,740
+Das freut mich. Wie ist Ihr Appetit?
+
+86
+00:06:30,740 --> 00:06:37,740
+Wegen dieser Schmerzen habe ich Appetitlosigkeit.
+
+87
+00:06:37,740 --> 00:06:42,740
+Haben Sie in der letzten Zeit unwirklich ab oder zugenommen?
+
+88
+00:06:42,740 --> 00:06:47,740
+Ich habe nicht bemerkt. Ich denke, ich bin immer gleichgewischt.
+
+89
+00:06:47,740 --> 00:06:54,740
+Okay, super. Ist alles in Ordnung beim Wasserlassen oder mit dem Stuhlgang?
+
+90
+00:06:54,740 --> 00:07:00,740
+Ich habe keine Probleme mit Wasserlassen oder mit dem Stuhlgang.
+
+91
+00:07:00,740 --> 00:07:06,740
+Okay, das freut mich. Frau Schreiber, schlafen Sie gut?
+
+92
+00:07:06,740 --> 00:07:12,740
+Wegen dieser Schmerzen seit gestern schlafe ich nicht gut, Doktor.
+
+93
+00:07:13,740 --> 00:07:17,740
+Haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+94
+00:07:17,740 --> 00:07:21,150
+Beide.
+
+95
+00:07:21,150 --> 00:07:29,150
+Okay. Sind Sie vollständig gegen Kinderkrankheiten oder Covid-Infektionen geimpft?
+
+96
+00:07:29,150 --> 00:07:35,640
+Ja, ich bin vollständig geimpft.
+
+97
+00:07:35,640 --> 00:07:42,640
+Okay. Frau Schreiber, leiden Sie an chronischen Erkrankungen, von denen ich wissen sollte?
+
+98
+00:07:42,640 --> 00:07:50,640
+Ich habe eine Schilddrüsenfunktion, Unterfunktion.
+
+99
+00:07:53,010 --> 00:07:58,010
+Seit wann leiden Sie unter diesen Problemen?
+
+100
+00:07:58,010 --> 00:08:00,010
+Seit 10 Jahren.
+
+101
+00:08:00,010 --> 00:08:03,010
+Und nehmen Sie dagegen ein Medikament ein?
+
+102
+00:08:03,010 --> 00:08:18,300
+Ja, ich nehme 100 Mikrogramm Ethyroxin ein. Einmal täglich abends.
+
+103
+00:08:18,300 --> 00:08:21,300
+Okay. Sonst noch etwas?
+
+104
+00:08:21,300 --> 00:08:36,780
+Vor 13 Jahren hatte ich einen Skiunfall. Damals wurde nur ein Röntgen mitgemacht.
+
+105
+00:08:36,780 --> 00:08:44,780
+Ich bleibe ein paar Tage im Krankenhaus für Beobachtung.
+
+106
+00:08:44,780 --> 00:08:55,110
+Aber bei mir wurde keine Operation durchgeführt.
+
+107
+00:08:55,110 --> 00:08:58,110
+Okay. Und war alles in Ordnung?
+
+108
+00:08:58,110 --> 00:09:01,110
+Nicht mit Medikation behandelt, ja.
+
+109
+00:09:01,110 --> 00:09:07,110
+Ich weiß welche Medikation. Ich weiß nicht.
+
+110
+00:09:07,110 --> 00:09:18,110
+Gab es eine Verletzung, zum Beispiel einen Bruch oder Torsion?
+
+111
+00:09:18,110 --> 00:09:32,110
+Mein Arzt hat mir nicht gesagt, wie ich habe. Aber ich denke, gibt es eine Möglichkeit für eine Torsion?
+
+112
+00:09:32,110 --> 00:09:37,110
+Okay. Frau Schreiber, wer ist Ihr Hausarzt oder Ihre Hausärztin?
+
+113
+00:09:37,110 --> 00:09:41,110
+Mein Hausarzt ist Herr Schmidt.
+
+114
+00:09:41,110 --> 00:09:50,740
+Okay. Frau Schreiber, ich werde Ihren Hausarzt kontaktieren.
+
+115
+00:09:50,740 --> 00:09:57,740
+Okay. Sonst noch etwas? Irgendwelche anderen Erkrankungen?
+
+116
+00:09:57,740 --> 00:10:05,740
+Vor drei Monaten wurde mir ein Depot im Nackenbereich operiert.
+
+117
+00:10:05,740 --> 00:10:14,230
+Okay. Ja, das war es?
+
+118
+00:10:14,230 --> 00:10:26,230
+Im Jahr 2013 hatte ich Krampaden im Beidenbeinen.
+
+119
+00:10:26,230 --> 00:10:41,230
+Und bei mir wurde eine Laserbehandlungtherapie durchgeführt.
+
+120
+00:10:41,230 --> 00:10:54,280
+Okay. Alles klar. Sonst noch irgendwelche Erkrankungen oder Operationen?
+
+121
+00:10:54,280 --> 00:11:05,280
+Ja, ich leide außerdem unter chronischen Belangen. Wogegen ich Kräuter trinke.
+
+122
+00:11:05,280 --> 00:11:15,860
+Okay. Alles klar.
+
+123
+00:11:15,860 --> 00:11:17,860
+Frau Schreiber?
+
+124
+00:11:17,860 --> 00:11:27,860
+Entschuldigung, Doktor. Ich habe seit sehr langer Zeit nicht mehr Müdigkeit.
+
+125
+00:11:27,860 --> 00:11:38,180
+Dafür nehme ich Eisenpapel, die ich aus der Drogerie gekauft habe.
+
+126
+00:11:38,180 --> 00:11:45,180
+Ohne russische Sprache. Ist das falsch oder richtig, Doktor?
+
+127
+00:11:45,180 --> 00:11:56,180
+Also, Frau Schreiber, die Einnahme von Medikamenten ohne ärztlichen Rat kann für Sie gefährlich sein.
+
+128
+00:11:56,180 --> 00:12:05,180
+Ich empfehle Ihnen, Ihren Hausarzt regelmäßig zu besuchen. Ja, für Ihre Beschwerden. Okay?
+
+129
+00:12:05,180 --> 00:12:06,180
+Okay.
+
+130
+00:12:06,180 --> 00:12:16,160
+Okay. Frau Schreiber, besuchen Sie Ihren Frauenarzt regelmäßig?
+
+131
+00:12:16,160 --> 00:12:27,160
+Ja, natürlich. Ich gehe mindestens drei Monate bei Ihrem Frauenarzt.
+
+132
+00:12:27,160 --> 00:12:28,160
+Ist alles in Ordnung?
+
+133
+00:12:28,160 --> 00:12:31,160
+Ja, ja. Alles ist in Ordnung.
+
+134
+00:12:31,160 --> 00:12:35,160
+Okay. Wann war Ihre letzte Periode?
+
+135
+00:12:35,160 --> 00:12:41,160
+Vor 14 Tagen.
+
+136
+00:12:41,160 --> 00:12:50,160
+Okay. Nehmen Sie regelmäßig oder bei Bedarf irgendwelche anderen Medikamente, außer genannten, ein?
+
+137
+00:12:50,160 --> 00:13:04,160
+Ja, ich habe auch Schlachttrünge sehr lange Zeit. Ich habe fast mit Kraut betrieben.
+
+138
+00:13:04,160 --> 00:13:09,660
+Okay. Alles klar.
+
+139
+00:13:09,660 --> 00:13:14,660
+Sind Sie allergisch gegen irgendwelche Medikamente, Pflanzen, Nahrungsmittel?
+
+140
+00:13:14,660 --> 00:13:22,930
+Ja, ich bin allergisch gegen Nickel und habe eine Sonnenallergie.
+
+141
+00:13:22,930 --> 00:13:25,930
+Okay. Wie reagieren Sie darauf?
+
+142
+00:13:25,930 --> 00:13:36,930
+Das ist, das äußert sich mit Ukrains und Eczem.
+
+143
+00:13:36,930 --> 00:13:41,710
+Meinen Sie Nickel oder?
+
+144
+00:13:41,710 --> 00:13:44,710
+Ja, Nickel und Sonnenallergie.
+
+145
+00:13:44,710 --> 00:13:45,710
+Ähnlich, ja?
+
+146
+00:13:45,710 --> 00:13:47,710
+Ja, ähnlich, ja.
+
+147
+00:13:47,710 --> 00:13:51,710
+Okay. Alles klar. Frau Schreiber, rauchen Sie?
+
+148
+00:13:51,710 --> 00:13:54,710
+Ich rauche, ja.
+
+149
+00:13:54,710 --> 00:13:58,710
+Seit wann und wie viel rauchen Sie?
+
+150
+00:13:58,710 --> 00:14:05,710
+Seit 20 Jahren rauche ich halb Schachtel Zigaretten täglich.
+
+151
+00:14:05,710 --> 00:14:12,940
+Okay. Und trinken Sie regelmäßig Alkohol?
+
+152
+00:14:12,940 --> 00:14:23,940
+Ich trinke gelegentlich ein Glas Wein am Wochenende oder einen Verein oder treffe mit meinen Kolleginnen und Kollegen.
+
+153
+00:14:23,940 --> 00:14:29,940
+Verstehe. Bitte nehmen Sie die nächste Frage nicht persönlich. Das ist eine Routinefrage.
+
+154
+00:14:29,940 --> 00:14:32,940
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+155
+00:14:32,940 --> 00:14:36,940
+Ich probiere nicht Drogen, Doktor, nein.
+
+156
+00:14:36,940 --> 00:14:47,940
+Das freut mich. Frau Schreiber, leiden Ihre Eltern an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Schlaganfall, Bluthochdruck?
+
+157
+00:14:47,940 --> 00:15:06,340
+Ja, mein Vater hatte Bluthochdruck, ja. Meine Mutter ist gynäkologisch gesund und meine Schwester hatte ein Uteresium.
+
+158
+00:15:06,340 --> 00:15:10,340
+Das war drei Monate Uteresium.
+
+159
+00:15:10,340 --> 00:15:21,660
+Okay. Und wenn ich richtig verstanden habe, ist Ihre Mutter gesund, ja?
+
+160
+00:15:21,660 --> 00:15:24,660
+Ja, meine Mutter ist gesund, ja.
+
+161
+00:15:24,660 --> 00:15:28,660
+Okay, Gott sei Dank. Wie ist Ihr Familienstand?
+
+162
+00:15:28,660 --> 00:15:36,660
+Ich bin getrennt. Ich bin verheiratet, aber getrennt.
+
+163
+00:15:36,660 --> 00:15:38,660
+Haben Sie Kinder?
+
+164
+00:15:38,660 --> 00:15:40,660
+Ich habe eine Tochter.
+
+165
+00:15:40,660 --> 00:15:43,910
+Ist Ihre Tochter gesund?
+
+166
+00:15:44,910 --> 00:15:48,910
+Ja, sie ist gesund, ja.
+
+167
+00:15:48,910 --> 00:15:51,910
+Mit wem wohnen Sie?
+
+168
+00:15:51,910 --> 00:15:53,910
+Mit meiner Tochter.
+
+169
+00:15:53,910 --> 00:15:59,310
+Okay. Was sind Sie für einen Beruf?
+
+170
+00:15:59,310 --> 00:16:06,310
+Ich arbeite als Verkäuferin in einem Spielwarengeschäft.
+
+171
+00:16:06,310 --> 00:16:11,670
+Spielzeuggeschäft, ja?
+
+172
+00:16:11,670 --> 00:16:12,670
+Ja, ja.
+
+173
+00:16:12,670 --> 00:16:23,380
+Okay. Frau Schravi, ich möchte eine Frage über Ihre aktuellen Beschwerden stellen.
+
+174
+00:16:23,380 --> 00:16:34,380
+Also, haben Sie eine Hautfarbeveränderung bemerkt? Ich meine Gelbsucht oder ... ja?
+
+175
+00:16:34,380 --> 00:16:37,380
+Ich habe nicht bemerkt, Doktor.
+
+176
+00:16:37,380 --> 00:16:49,820
+Okay. Das waren meine Fragen. Haben Sie etwas hinzufügen?
+
+177
+00:16:50,820 --> 00:17:03,820
+Nein, Doktor. Was habe ich? Ich habe viel Angst. Meine Tochter ist letztes Jahr an Mama-Krebs gestorben.
+
+178
+00:17:03,820 --> 00:17:06,820
+Ich habe Krebs, oder?
+
+179
+00:17:06,820 --> 00:17:12,820
+Es tut mir leid, dass Sie hören, Frau Schreiber. Also machen Sie sich bitte keine Sorgen.
+
+180
+00:17:12,820 --> 00:17:19,820
+Aufgrund Ihren aktuellen Beschwerden ist der Krebs unwahrscheinlich.
+
+181
+00:17:19,820 --> 00:17:25,820
+Aber ich muss zuerst Sie körperlich untersuchen.
+
+182
+00:17:25,820 --> 00:17:30,820
+Dann werde ich Ihren Brut abnehmen und ein paar Untersuchungen veranlassen.
+
+183
+00:17:30,820 --> 00:17:33,820
+Wie zum Beispiel Ultraschall-Untersuchung.
+
+184
+00:17:33,820 --> 00:17:36,820
+Was ist Ultraschall?
+
+185
+00:17:37,820 --> 00:17:48,160
+Ja, das ist eine Untersuchung-Methode, Frau Schreiber. Damit können wir Ihre inneren Organe sehen.
+
+186
+00:17:48,160 --> 00:17:53,160
+Das ist sowohl schmerzfrei als auch schrallenfrei.
+
+187
+00:17:53,160 --> 00:17:55,160
+Okay.
+
+188
+00:17:55,160 --> 00:17:57,160
+Ja.
+
+189
+00:17:57,160 --> 00:18:01,160
+Es ist nicht gefährlich, unsere meine Körper. Richtig?
+
+190
+00:18:01,160 --> 00:18:05,160
+Ja, Sie haben recht. Es gibt kein Risiko.
+
+191
+00:18:05,160 --> 00:18:07,160
+Okay.
+
+192
+00:18:07,160 --> 00:18:09,160
+Sobald die Allergie ...
+
+193
+00:18:09,160 --> 00:18:11,160
+Okay. Dauert es sehr lange, oder?
+
+194
+00:18:11,160 --> 00:18:13,160
+Bitte schön.
+
+195
+00:18:13,160 --> 00:18:15,160
+Dauert es sehr lange, oder?
+
+196
+00:18:15,160 --> 00:18:19,160
+Nein, diese Untersuchung dauert ca. 20 Minuten, Frau Schreiber.
+
+197
+00:18:19,160 --> 00:18:21,160
+Oh, gut.
+
+198
+00:18:21,160 --> 00:18:23,160
+Ja? Okay.
+
+199
+00:18:23,160 --> 00:18:29,160
+Also, Frau Schreiber, ein paar Stunden müssen Sie sicherlich bei uns bleiben.
+
+200
+00:18:29,160 --> 00:18:30,160
+Okay.
+
+201
+00:18:30,160 --> 00:18:34,160
+Damit wir die Diagnose bestätigen können.
+
+202
+00:18:34,160 --> 00:18:42,160
+Aber wenn wir etwas Auffälliges finden, kann es auch passieren, dass Sie ein paar Tage im Krankenhaus bleiben sollen.
+
+203
+00:18:42,160 --> 00:18:48,160
+Ich vermute, dass Sie eine Blutdarmentzündung haben.
+
+204
+00:18:48,160 --> 00:18:50,160
+Ja?
+
+205
+00:18:50,160 --> 00:18:55,160
+Also, könnte es sein, dass Sie operiert werden müssen.
+
+206
+00:18:55,160 --> 00:18:59,160
+Aber wie gesagt, machen Sie sich bitte keine Sorgen.
+
+207
+00:18:59,160 --> 00:19:07,160
+Sie sind jetzt bei uns in guten Händen und wir haben viele Erfahrungen über diese Erkrankung.
+
+208
+00:19:07,160 --> 00:19:13,160
+Okay. Darf ich eine Frage stellen, Doktor?
+
+209
+00:19:13,160 --> 00:19:14,160
+Ja, gerne.
+
+210
+00:19:14,160 --> 00:19:22,160
+Ich habe keine viel Geld. Bescheid ich diese Sonographie? Ich habe gesetzliche Versicherung.
+
+211
+00:19:22,160 --> 00:19:23,160
+Ja?
+
+212
+00:19:23,160 --> 00:19:27,160
+Ja, ich verstehe Sie sehr gut. Aber machen Sie sich bitte keine Sorgen.
+
+213
+00:19:27,160 --> 00:19:33,160
+Also, alle Untersuchungen sind kostenlos, Frau Schreiber.
+
+214
+00:19:33,160 --> 00:19:35,160
+Oh, gut. Danke schön.
+
+215
+00:19:35,160 --> 00:19:41,160
+Ja, gerne. Bitte nehmen Sie Platz und warten Sie mal. Ich bin gleich wieder da. Okay?
+
+216
+00:19:41,160 --> 00:19:44,160
+Okay. Ich warte auf Sie, Doktor. Danke schön.
+
+217
+00:19:44,160 --> 00:19:56,900
+Ja, gerne. Schönen guten Abend, Herr Oberarzt.
+
+218
+00:19:56,900 --> 00:20:02,900
+Ich habe eine neue Patientin aufgenommen und ich würde gerne über Sie berichten.
+
+219
+00:20:02,900 --> 00:20:04,900
+Haben Sie kurz Zeit für mich?
+
+220
+00:20:04,900 --> 00:20:07,470
+Ja, bitte.
+
+221
+00:20:07,470 --> 00:20:18,470
+Danke schön. Frau Melanie Schreiber ist 47 Jahre alt, 1,69 Meter groß und 58 Kilogramm schwer.
+
+222
+00:20:18,470 --> 00:20:32,470
+Frau Schreiber stellte sich heute bei uns wegen seit gestern bestehender Abdominalschmerzen vor.
+
+223
+00:20:32,470 --> 00:20:43,470
+Der Patientin zufolge sah in die Schmerzen am Anfang an periomikale Regionen aufgetreten
+
+224
+00:20:43,470 --> 00:20:55,470
+und mit der Zeit in den rechten Unterbauch gewandert. Die Schmerzen seien dumpf und stechend.
+
+225
+00:20:55,470 --> 00:21:10,470
+Die Schmerzintensität wurde auf einer Schmerzskala am Anfang 1 von 10 und momentan 7 von 10 bewertet.
+
+226
+00:21:10,470 --> 00:21:18,470
+Die Patienten haben keine Medikamente dagegen eingenommen.
+
+227
+00:21:18,470 --> 00:21:28,910
+Die Patienten berichteten über Fieber, Pyrexie und Hyperhidrose.
+
+228
+00:21:28,910 --> 00:21:36,910
+Aber die Patienten haben ihr Fieber nicht gemessen.
+
+229
+00:21:36,910 --> 00:21:50,910
+Die Fragen nach Hautfarbeveränderungen, Dyspnoe, Trussis, Schütterfrost und nächtliche Hyperhidrose wurden verneint.
+
+230
+00:21:50,910 --> 00:21:57,740
+Bei der vegetativen Anamnese seien die Folgenden bekannt.
+
+231
+00:21:57,740 --> 00:22:09,740
+Schmerzbedingte Appetenz, Schmerzbedingte Insomnie in Form von Einschlafstörungen und Durchschlafstörungen.
+
+232
+00:22:09,740 --> 00:22:14,740
+Sie seien vollständig gegen Kinderkrankheiten geimpft.
+
+233
+00:22:14,740 --> 00:22:21,740
+Und die Patienten besuchten ihren Hausarzt regelmäßig alle drei Monate.
+
+234
+00:22:21,740 --> 00:22:29,740
+Ihre letzte Periode war vor zwei Wochen.
+
+235
+00:22:29,740 --> 00:22:37,740
+Anfroerkrankungen nannte sie seit 10 Jahren bestehende Hypothyriose.
+
+236
+00:22:37,740 --> 00:22:45,400
+Sie nehme dagegen L-Tiroxin 100 mg abends ein.
+
+237
+00:22:46,400 --> 00:23:08,400
+Vor 13 Jahren hatte sie einen Skiunfall und sie wurde im Krankenhaus 24 Stunden beobachtet.
+
+238
+00:23:08,400 --> 00:23:18,400
+Sie leide an chronischem Meteorismus und chronischer Fatigue.
+
+239
+00:23:18,400 --> 00:23:40,400
+Die Patienten trinken gegen Meteorismus Kräuter Tee und sie nehmen Eisentabletten ein ohne ärztlichen Rat.
+
+240
+00:23:40,400 --> 00:23:57,400
+Sie haben Allergie gegen Nickel und sie haben auch eine Sonnenallergie, die sich durch Pruritus und Eczem äußern.
+
+241
+00:23:57,400 --> 00:24:04,400
+Sie sind Raucherin und sie rauchen 10 Zigaretten täglich seit 20 Jahren.
+
+242
+00:24:04,400 --> 00:24:13,400
+Sie trinken gelegentlich ein Glas Wein am Wochenende und der Drogenkonsum wurde verneint.
+
+243
+00:24:13,400 --> 00:24:25,400
+In der Familienanamnese gab sie an, dass der Vater an arterieller Hypertonie leide und die Mutter sei gesund.
+
+244
+00:24:25,400 --> 00:24:47,400
+Sie hat eine Schwester und ihre Schwester hatte eine Operation vor drei Monaten wegen einer Uterus-Mioma.
+
+245
+00:24:47,400 --> 00:24:58,400
+Die Patientin sei getrennt, habe eine gesunde Tochter und sie wohne mit ihrer Tochter zusammen.
+
+246
+00:24:58,400 --> 00:25:08,870
+Sie sei Verkäuferin von Beruf in einem Spielzeuggeschäft.
+
+247
+00:25:08,870 --> 00:25:17,870
+Ich gehe von einem Verdacht auf Appendicitis aus, da die Patientin typische Symptome dafür aufweist.
+
+248
+00:25:17,870 --> 00:25:23,870
+Die Patientin leidet unter Abdominal Schmerzen.
+
+249
+00:25:23,870 --> 00:25:39,870
+Die Schmerzen seien am Anfang in der periomikalen Region aufgetreten und mit der Zeit in den rechten Unterbauch gewandert.
+
+250
+00:25:39,870 --> 00:25:46,870
+Sie haben Fieber und Hyperhydrose.
+
+251
+00:25:46,870 --> 00:25:50,870
+Diese Symptome sprechen für eine Appendicitis.
+
+252
+00:25:50,870 --> 00:26:14,540
+Als die Diagnosen kommen, die Urolithiasis, Ovarian Distortion, Extrauterin Graviditerit, Koloncarcinom in Betracht.
+
+253
+00:26:14,540 --> 00:26:28,540
+Um meine Verdachtdiagnose zu bestätigen, würde ich zunächst bei der Patientin die Vitalparameter überwachen und eine körperliche Untersuchung durchführen.
+
+254
+00:26:28,540 --> 00:26:47,540
+Bei der körperlichen Untersuchung achte ich darauf, ob Druckschmerzen, Loslassschmerzen und Abwehrspannung, Hautfarbeveränderungen vorhanden sind.
+
+255
+00:26:47,540 --> 00:26:56,540
+Zusätzlich ist eine Laboruntersuchung sinnvoll, um eine umfassende Diagnostik zu gewährleisten.
+
+256
+00:26:56,540 --> 00:27:16,540
+Dabei würde ich Blutbild, CAP, BSG, Nierenwerte, Leberwerte und Elektrolyten bestimmen lassen.
+
+257
+00:27:16,540 --> 00:27:24,540
+Danach würde ich eine Abdominalsynographie durchführen, um meine Verdachtdiagnose zu bestätigen.
+
+258
+00:27:24,540 --> 00:27:40,540
+Gegebenenfalls würde ich eine CT des Abdomens mit Kontrastmittel durchführen, um die Verdachtdiagnose zu bestätigen.
+
+259
+00:27:40,540 --> 00:27:56,540
+Sollte sich die Verdachtdiagnose bestätigen, würde ich die Patientin stationär aufnehmen und der Patientin einen Venosanzugang legen.
+
+260
+00:27:56,540 --> 00:28:14,540
+Danach würde ich den Patienten, der Patientin, Analytika, Antipyretika, Spasmolytika verabreichen.
+
+261
+00:28:14,540 --> 00:28:34,540
+Nahrungskarenz ist auch sehr wichtig bei den Patienten. Danach würde ich ein chirurgisches Konsil anfordern, um die Therapie der Patienten zu optimieren.
+
+262
+00:28:34,540 --> 00:28:46,540
+Wenn Sie mit dieser Vorgehensweise verstanden sind, werde ich mit den geplanten Untersuchungen fortfahren.
+
+263
+00:28:46,540 --> 00:29:00,340
+Herr Kollege, Sie haben gesagt, ich würde eine Abenduktion durchführen. Welche Operation empfehlen Sie den Patienten?
+
+264
+00:29:00,340 --> 00:29:20,340
+Wenn es eine Komplikation wie z.B. Tertiforation, Abscess oder Fisten gibt, würde ich den Patienten eine offene Operation empfehlen.
+
+265
+00:29:20,340 --> 00:29:26,340
+Ansonsten würde ich eine laparoscopische Operation empfehlen.
+
+266
+00:29:26,340 --> 00:29:31,340
+Können Sie uns die laparoscopische Abenduktion aufklären?
+
+267
+00:29:31,340 --> 00:29:39,340
+Ja, ich werde gerne Sie über die laparoscopische Abenduktion aufklären.
+
+268
+00:29:39,340 --> 00:29:57,340
+Um diese Operation durchzuführen, soll der Patient nüchtern sein.
+
+269
+00:29:57,340 --> 00:30:02,340
+Wie viele Stunden soll der Patient nüchtern sein?
+
+270
+00:30:02,340 --> 00:30:04,340
+Minimal 8 Stunden.
+
+271
+00:30:04,340 --> 00:30:08,340
+Aber diese Operation ist Notfall?
+
+272
+00:30:08,340 --> 00:30:21,340
+Ja, das ist eine Notfallsituation. Deswegen sollen wir die Patienten eine Operation durchführen.
+
+273
+00:30:21,340 --> 00:30:29,340
+So schnell wie möglich. Sollen wir eine Operation durchführen.
+
+274
+00:30:29,340 --> 00:30:42,340
+Ich glaube wir sprechen über diese Patienten. Ich werde über diese Patienten aufklären.
+
+275
+00:30:42,340 --> 00:30:53,340
+Die Patienten erhalten eine Vollnarkose vor der Operation.
+
+276
+00:30:53,340 --> 00:30:59,340
+Zuerst desinfizieren wir die Operationstelle.
+
+277
+00:30:59,340 --> 00:31:16,340
+Dann machen wir eine Hautschneid am Rand des Nabels, um eine optische Instrumente einzuführen.
+
+278
+00:31:16,340 --> 00:31:30,340
+Danach machen wir zwei weitere kleine Hautschneid, um die anderen Operationinstrumente einzuführen.
+
+279
+00:31:30,340 --> 00:31:43,340
+Danach lokalisieren wir den Blinddarm und entfernen ihn mit einem Klammergerät.
+
+280
+00:31:43,340 --> 00:32:00,340
+Danach legen wir eine Drainage um die Wundflüssigkeiten und Nachblutungen einzuleiten und zu kontrollieren.
+
+281
+00:32:00,340 --> 00:32:07,340
+Dann vernehmen wir die Wunde.
+
+282
+00:32:07,340 --> 00:32:12,340
+Diese Operation dauert ca. eine Stunde.
+
+283
+00:32:12,340 --> 00:32:27,340
+Wenn alles gut läuft, sollen die Patienten 3-5 Tage im Krankenhaus bleiben.
+
+284
+00:32:27,340 --> 00:32:42,340
+Nach der Entlassung sollen die Patienten vermeiden von schwierigen Bewegungen.
+
+285
+00:32:42,340 --> 00:32:53,340
+Es gibt einige Komplikationen bei diesen Operationen, wie z.B. Nachblutungen und Infektionen.
+
+286
+00:32:54,340 --> 00:33:07,340
+Nach der Entlassung sollen die Patienten ins Krankenhaus kommen und zu kontrollieren.
+
+287
+00:33:07,340 --> 00:33:20,700
+Welche Erfindung oder Ergebnisse erwarten Sie bei der Obdomanzonographie?
+
+288
+00:33:20,700 --> 00:33:39,700
+Wir können eine Verdickung an der Blinddarm feststellen.
+
+289
+00:33:39,700 --> 00:33:45,700
+Auch freie Flüssigkeit können wir bei der Untersuchung feststellen.
+
+290
+00:33:45,700 --> 00:34:01,700
+Sie haben gesagt, Sie vermuten als Differentialdiagnose ein paar Krankheiten.
+
+291
+00:34:01,700 --> 00:34:08,700
+Wie können wir andere Krankheiten ausschließen?
+
+292
+00:34:08,700 --> 00:34:27,700
+Als Differentialdiagnose kommen Overall Distortionen, können wir eine Doppelultrasonographie durchführen.
+
+293
+00:34:27,700 --> 00:34:39,700
+Um die extrauterin Gravität auszuschließen, können wir BTHCG-Werte bestimmen.
+
+294
+00:34:39,700 --> 00:35:00,700
+Auch Urolithiasis kommt als Differentialdiagnose. Um eine Urolithiasis auszuschließen, können wir eine Bröntgenaufnahme durchführen oder eine Obdomanzonographie.
+
+295
+00:35:00,700 --> 00:35:08,560
+Ist es möglich, Morbus Crohn oder Qualitiv-Syphsereza?
+
+296
+00:35:08,560 --> 00:35:20,560
+Die Patienten leiden unter keine verdammt starken Probleme wie Durchfall oder Obst.
+
+297
+00:35:20,560 --> 00:35:32,560
+Aber Radsdarm-Syndrom ist eine Differentialdiagnose.
+
+298
+00:35:33,560 --> 00:35:38,560
+Deswegen würden Sie in diesem Fall eine Koloskopie durchführen?
+
+299
+00:35:38,560 --> 00:35:45,560
+Momentan können wir keine Koloskopie durchführen.
+
+300
+00:35:45,560 --> 00:36:01,560
+Es gibt eine Kontraindikation bei diesem akuten Fall. Aber nach der Therapie können wir eine Koloskopie durchführen, um die mögliche Pathologie zu beurteilen.
+
+301
+00:36:01,560 --> 00:36:14,220
+Herr Kollegen, können Sie uns auch eine Obdomanzonographie aufklären?
+
+302
+00:36:14,220 --> 00:36:21,220
+Ja, gerne. Ich werde Sie über die Obdomanzonographie aufklären.
+
+303
+00:36:21,220 --> 00:36:27,220
+Die Obdomanzonographie gehört zu den bildgebenden Verfahren.
+
+304
+00:36:27,220 --> 00:36:34,220
+Diese Untersuchung ist sowohl schmerzfrei als auch strahlenfrei.
+
+305
+00:36:34,220 --> 00:36:44,220
+Diese Untersuchung hilft uns, die Verletzungen, Entzündungen, Blutungen, Tumore und andere Veränderungen genau zu erkennen.
+
+306
+00:36:44,220 --> 00:37:01,220
+Wir sollen vorher die zu untersuchenden Körperregionen, hier den Bauch, mit einem Gel einschmieren, damit der Schallkopf fehlerfrei arbeitet.
+
+307
+00:37:01,220 --> 00:37:10,220
+Die Ultraschallwellen machen die inneren Organe sichtbar und wir können die inneren Organe auf einem Monitor sehen.
+
+308
+00:37:10,220 --> 00:37:19,220
+Diese Untersuchung dauert ca. 20 Minuten. Dafür benötigt der Patient keine spezielle Vorbereitung.
+
+309
+00:37:19,220 --> 00:37:24,220
+Es gibt keine Komplikationen oder Kontraindikationen.
+
+310
+00:37:24,220 --> 00:37:32,220
+Es gibt auch keine Einschränkungen nach der Untersuchung.
+
+311
+00:37:32,220 --> 00:37:37,220
+Der Patient kann den Alltag wie gewohnt fortsetzen.
+
+312
+00:37:37,220 --> 00:37:46,020
+Gibt es eine Alternative Methode der Obdomanzonographie?
+
+313
+00:37:46,020 --> 00:37:57,020
+Ja, gegebenenfalls können wir eine CT des Obdomens durchführen mit Kontrastmeter, besonders bei diesem Fall.
+
+314
+00:37:57,020 --> 00:38:09,740
+Wir können diese Untersuchung bei unklaren Ultrasonographiebefunden machen.
+
+315
+00:38:09,740 --> 00:38:17,740
+Was behalten Sie bei der Perspiration?
+
+316
+00:38:17,740 --> 00:38:30,740
+Bei der Perspiration achte ich darauf, ob McBurnie-Zeichen vorhanden ist.
+
+317
+00:38:30,740 --> 00:38:46,740
+Das ist eine Druckschmerzen in dem rechten Unterbauch zwischen Nabel und Spina Iliaca anterior superior.
+
+318
+00:38:46,740 --> 00:39:00,740
+Loslassschmerzen und Abwehrspannung sind sehr wichtig, um eine Peritonitis zu beurteilen.
+
+319
+00:39:00,740 --> 00:39:07,740
+Würden Sie bei der körperlichen Untersuchung den meisten Bereich untersuchen?
+
+320
+00:39:07,740 --> 00:39:12,740
+Ja, das ist auch sehr wichtig.
+
+321
+00:39:12,740 --> 00:39:22,740
+In den rechten Unterbauchschmerzen können wir auch eine Incarcerative Herni feststellen.
+
+322
+00:39:22,740 --> 00:39:28,740
+Deswegen sollen wir diesen Bereich auch untersuchen.
+
+323
+00:39:28,740 --> 00:39:37,750
+Was behalten Sie bei der Leistung?
+
+324
+00:39:37,750 --> 00:39:50,760
+Wir sollen eine Beule im Leistungsbereich untersuchen.
+
+325
+00:39:50,760 --> 00:40:00,760
+Wir können diese Beule untersuchen, ob sie zurückdrückbar ist.
+
+326
+00:40:00,760 --> 00:40:10,300
+Und wir untersuchen während der körperlichen Untersuchung vergrößerte Liefknoten?
+
+327
+00:40:10,300 --> 00:40:16,580
+Ja, das ist auch sehr wichtig.
+
+328
+00:40:16,580 --> 00:40:36,580
+Wir sollen die vergrößerten Liefknoten genau untersuchen, um die möglichen Maligen, Karsinoma oder Metastasen zu beurteilen.
+
+329
+00:40:36,580 --> 00:40:44,580
+Vielen Dank Herr Kollege. Bitte gehen Sie auf unser Info-Desk und nehmen Sie Ihre Zertifikat.
+
+330
+00:40:44,580 --> 00:40:49,580
+Ich wünsche Ihnen viel Erfolg für Ihr Arbeitsweg.
+
+331
+00:40:49,580 --> 00:40:59,580
+Vielen Dank Herr Oberarzt. Sie sind sehr nett. Das war sehr schön und ein angenehmer Gespräch bei mir. Danke.

@@ -1,0 +1,1167 @@
+1
+00:00:00,000 --> 00:00:01,000
+Ok.
+
+2
+00:00:02,100 --> 00:00:04,580
+Schönen guten Tag, mein Name ist Ujak.
+
+3
+00:00:04,580 --> 00:00:07,520
+Ich bin auf dieser Station als Assistenzarzt tätig
+
+4
+00:00:07,520 --> 00:00:11,020
+und ich würde gerne mit Ihnen das Anamnese-Gespräch durchführen.
+
+5
+00:00:11,020 --> 00:00:13,460
+Sind Sie damit einverstanden?
+
+6
+00:00:13,460 --> 00:00:15,720
+Ja, natürlich Doktor.
+
+7
+00:00:15,720 --> 00:00:20,100
+Danke. Bitte fragen Sie nach, wenn Sie etwas nicht verstehen, ok?
+
+8
+00:00:20,100 --> 00:00:21,100
+Ok.
+
+9
+00:00:21,100 --> 00:00:22,100
+Wie heißen Sie denn?
+
+10
+00:00:22,680 --> 00:00:25,600
+Ich bin Gerhard Schuhart.
+
+11
+00:00:28,820 --> 00:00:32,600
+Könnten Sie bitte Ihren Vor- und Nachnamen langsam buchstabieren?
+
+12
+00:00:32,880 --> 00:00:33,880
+Ja.
+
+13
+00:00:33,880 --> 00:00:39,880
+G E R H A R E
+
+14
+00:00:39,880 --> 00:00:40,880
+Gerhard
+
+15
+00:00:40,880 --> 00:00:41,880
+Ja?
+
+16
+00:00:41,880 --> 00:00:49,880
+S H U C H A R D T
+
+17
+00:00:49,880 --> 00:00:51,880
+Schuhart
+
+18
+00:00:51,880 --> 00:00:52,880
+Ok.
+
+19
+00:00:52,880 --> 00:00:56,880
+Wie kann ich Sie ansprechen? Frau oder Herr?
+
+20
+00:00:56,880 --> 00:00:57,880
+Herr.
+
+21
+00:00:57,880 --> 00:01:00,880
+Herr Schuhart. Wie alt sind Sie denn?
+
+22
+00:01:00,880 --> 00:01:03,880
+Ich bin 77 Jahre alt Doktor.
+
+23
+00:01:03,880 --> 00:01:05,880
+Wann sind Sie genau geboren?
+
+24
+00:01:05,880 --> 00:01:10,880
+5. Mai 1948.
+
+25
+00:01:10,880 --> 00:01:13,880
+Und wie groß sind Sie?
+
+26
+00:01:13,880 --> 00:01:16,880
+1 Meter 85.
+
+27
+00:01:16,880 --> 00:01:22,760
+Ok. Und wie schwer sind Sie zuzeit?
+
+28
+00:01:22,760 --> 00:01:24,760
+90 Kilogramm.
+
+29
+00:01:24,760 --> 00:01:27,760
+Danke für die Informationen.
+
+30
+00:01:27,760 --> 00:01:30,760
+Herr Schuhart, was kann ich für Sie tun?
+
+31
+00:01:30,760 --> 00:01:32,760
+Was für Beschwerden haben Sie zuzeit?
+
+32
+00:01:32,760 --> 00:01:45,760
+Ja Doktor. Ich bin hier, weil ich seit etwa zwei Wochen unter Atemnot und Herzrasen leide.
+
+33
+00:01:45,760 --> 00:01:53,020
+Ok. Herr Schuhart,
+
+34
+00:01:53,020 --> 00:02:01,020
+treten Sie diese Atemnot nur bei Belastung oder auch in Ruhe auf?
+
+35
+00:02:01,020 --> 00:02:04,020
+Bei Belastung Doktor.
+
+36
+00:02:04,020 --> 00:02:15,020
+Ich bin Rentnerin, aber ich mache Sport und fahre Fahrrad.
+
+37
+00:02:15,020 --> 00:02:23,020
+Und wenn ich Treppen steige, habe ich Atemnot.
+
+38
+00:02:23,020 --> 00:02:28,020
+Wenn ich viele Sport mache, habe ich Atemnot.
+
+39
+00:02:28,020 --> 00:02:35,020
+Wie viele Treppen können Sie steigen ohne Atemnot zu bekommen?
+
+40
+00:02:35,020 --> 00:02:45,810
+Ich komme noch zwei Tage hoch ohne Stehen bleiben.
+
+41
+00:02:45,810 --> 00:02:47,810
+Ok. Alles klar.
+
+42
+00:02:47,810 --> 00:02:51,810
+Leiden Sie unter Husten?
+
+43
+00:02:51,810 --> 00:02:56,810
+Husten? Nein.
+
+44
+00:02:56,810 --> 00:03:08,180
+Ok. Herr Schuhart, fällt Ihnen das Atmen schwer, wenn Sie flach liegen?
+
+45
+00:03:08,180 --> 00:03:12,180
+Ja Doktor. Sie haben Recht.
+
+46
+00:03:12,180 --> 00:03:20,490
+Ich muss mindestens zwei Kissen, wenn ich schlafe.
+
+47
+00:03:20,490 --> 00:03:29,490
+Ok. Und müssen Sie in der Nacht auf die Toilette gehen? Ich meine zum Wasser lassen?
+
+48
+00:03:29,490 --> 00:03:37,490
+Ja. Ich muss mindestens zwei oder drei Mal auf die Toilette gehen.
+
+49
+00:03:37,490 --> 00:03:44,270
+Ok. Alles klar.
+
+50
+00:03:44,270 --> 00:03:52,270
+Herr Schuhart, leiden Sie unter Brustschmerzen oder einem anderen Gefühl in der Brust?
+
+51
+00:03:52,270 --> 00:04:02,020
+Nein Doktor. Ich habe keine Schmerzen.
+
+52
+00:04:02,020 --> 00:04:03,020
+Ok.
+
+53
+00:04:03,020 --> 00:04:11,270
+Haben Sie früher eine ähnliche Beschwerden gehabt? Ich meine vor zwei Wochen?
+
+54
+00:04:11,270 --> 00:04:20,270
+Ich habe eine ähnliche Beschwerden nicht bemerkt. Nein. Das ist das erste Mal.
+
+55
+00:04:20,270 --> 00:04:26,270
+Und waren Sie wegen dieser Beschwerden beim anderen Arzt gewesen?
+
+56
+00:04:26,270 --> 00:04:43,270
+Nein Doktor. Vor zwei Monaten bei meinem Arzt. Aber diese Probleme seit, ich habe gesagt, etwa zwei Wochen.
+
+57
+00:04:43,270 --> 00:04:44,270
+Ja, seit zwei Wochen.
+
+58
+00:04:44,270 --> 00:04:53,270
+Ja, Sie haben Recht. Ok. Und nehmen Sie gegen diese Beschwerden ein Medikament ein? Oder haben Sie es angenommen?
+
+59
+00:04:53,270 --> 00:05:01,270
+Ja, ja. Ich verstehe. Ich habe keine Medikamente dagegen. Nein Doktor.
+
+60
+00:05:01,270 --> 00:05:07,270
+Ok. Herr Schuhart, also Sie leiden unter Atemnot.
+
+61
+00:05:07,270 --> 00:05:08,270
+Ja.
+
+62
+00:05:08,270 --> 00:05:17,270
+Deswegen möchte ich das Anamnesengespräch hier unterbrechen und ich möchte Ihre Sauerstoffbesättigung messen.
+
+63
+00:05:17,270 --> 00:05:27,270
+Und wenn Sie Sauerstoff benötigen, möchte ich Ihnen Sauerstoff geben. Ok?
+
+64
+00:05:27,270 --> 00:05:28,270
+Herr Oberarzt.
+
+65
+00:05:28,270 --> 00:05:32,270
+Ist das eine notwendige Station Doktor? Oder?
+
+66
+00:05:32,270 --> 00:05:41,270
+Also Sie leiden unter Luftnot. Deswegen möchte ich das Anamnesengespräch hier unterbrechen und Ihre Vitaparameter kontrollieren. Ja?
+
+67
+00:05:41,270 --> 00:05:42,270
+Ok.
+
+68
+00:05:42,270 --> 00:05:54,270
+Herr Oberarzt, ich möchte das Anamnesengespräch unterbrechen. Der Patient leidet unter Luftnot. Ich vermute, dass er an Herzinsuffizienz leidet.
+
+69
+00:05:54,270 --> 00:06:05,270
+Deswegen möchte ich die Vitaparameter überwachen. Aber jetzt bin ich in der Prüfung und ich möchte das Anamnesengespräch weiterführen. Darf ich?
+
+70
+00:06:05,270 --> 00:06:06,270
+Ja, bitte.
+
+71
+00:06:06,270 --> 00:06:18,270
+Danke. Herr Schuhart, haben Sie eine Schwellung an den Beinen bemerkt?
+
+72
+00:06:18,270 --> 00:06:30,270
+Ja, ich habe ein bisschen bemerkt. Besonders morgens.
+
+73
+00:06:30,270 --> 00:06:36,580
+Und haben Sie auch eine Schwellung am Bauch bemerkt?
+
+74
+00:06:36,580 --> 00:06:37,580
+Nein.
+
+75
+00:06:37,580 --> 00:06:47,480
+Ok. Ist Ihnen übel oder mussten Sie erbrechen?
+
+76
+00:06:47,480 --> 00:06:51,480
+Übel, erbrechen. Ich habe keine sehr bessere Schwerden Doktor.
+
+77
+00:06:51,480 --> 00:06:58,480
+Ok, alles klar. Und haben Sie Fieber, Schütterfrohs oder Nachtschweiß?
+
+78
+00:06:58,480 --> 00:07:10,480
+Ich habe keine Fieber. Aber Sie haben recht. Außerdem ist mir in letzter Zeit häufiger Schweiß aufgefallen.
+
+79
+00:07:10,480 --> 00:07:13,480
+Kalter Schweiß aufgefallen.
+
+80
+00:07:13,480 --> 00:07:33,220
+Ok. Herr Schuhart, müssen Sie in der Nacht aufstehen und das Fenster öffnen? Haben Sie ein Gefühl?
+
+81
+00:07:33,220 --> 00:07:35,220
+Nein, ich habe.
+
+82
+00:07:35,220 --> 00:07:39,220
+Um mehr Luft zu schnarchen?
+
+83
+00:07:39,220 --> 00:07:49,220
+Ja, manchmal. Aber ich habe nicht das Fenster geöffnet.
+
+84
+00:07:49,220 --> 00:07:55,220
+Ok, alles klar. Haben Sie Probleme mit dem Stuhlgang?
+
+85
+00:07:55,220 --> 00:07:59,220
+Ich habe keine Probleme mit dem Stuhlgang Doktor.
+
+86
+00:07:59,220 --> 00:08:03,220
+Ok. Und wie ist Ihr Appetit?
+
+87
+00:08:03,220 --> 00:08:09,220
+Mein Appetit ist nicht gut seit zwei Wochen.
+
+88
+00:08:09,220 --> 00:08:14,220
+Ok. Und haben Sie in der letzter Zeit unwirkulich ab- oder zugenommen?
+
+89
+00:08:14,220 --> 00:08:20,220
+Ich habe nicht bemerkt. Ich denke, ich bin gleichgewicht.
+
+90
+00:08:20,220 --> 00:08:22,220
+Schlafen Sie gut?
+
+91
+00:08:22,220 --> 00:08:29,220
+Nein. Seit zwei Wochen schlafe ich schlecht Doktor.
+
+92
+00:08:29,220 --> 00:08:37,220
+Deswegen atme ich noch. Ich muss zwei Kissen benutzen, wenn ich schlafe.
+
+93
+00:08:37,220 --> 00:08:41,220
+Haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+94
+00:08:41,220 --> 00:08:43,220
+Ich denke beide.
+
+95
+00:08:43,220 --> 00:08:58,620
+Ok. Und Herr Schuhart, haben Sie Probleme beim Wasserlassen?
+
+96
+00:08:58,620 --> 00:09:05,620
+Ich meine außer nächtliches Wasserlassen. Brennendes Wasserlassen oder?
+
+97
+00:09:05,620 --> 00:09:12,620
+Nein, ich habe keine Schmerzen beim Wasserlassen.
+
+98
+00:09:12,620 --> 00:09:21,620
+Alles klar. Sind Sie schon vorständig gegen Kinderkrankheiten oder Corona-Infektionen geimpft?
+
+99
+00:09:21,620 --> 00:09:24,620
+Ja, ich bin vorständig geimpft Doktor.
+
+100
+00:09:24,620 --> 00:09:33,620
+Ok. Herr Schuhart, leiten Sie an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Bruthochdruck, Zuckerkrankheit?
+
+101
+00:09:33,620 --> 00:09:49,620
+Ja Doktor. Ich habe Alten- und mehrere Vorrangkrankheiten. Ich habe seit etwa 25 Jahren Bruthochdruck.
+
+102
+00:09:49,620 --> 00:09:52,620
+Was nehmen Sie dagegen ein?
+
+103
+00:09:52,620 --> 00:09:56,620
+Kandesarten, 8 mg morgens.
+
+104
+00:09:56,620 --> 00:10:01,050
+Sonst noch etwas?
+
+105
+00:10:02,050 --> 00:10:09,050
+Mein Röstenhüftgelenk tut seit etwa 10 Jahren weh.
+
+106
+00:10:09,050 --> 00:10:18,050
+Und Rückenschmerzen im unteren Bereich habe ich seit 20 Jahren.
+
+107
+00:10:18,050 --> 00:10:23,050
+Und nehmen Sie gegen diese Schmerzen ein Medikament ein?
+
+108
+00:10:23,050 --> 00:10:30,050
+Ja, ich nehme Voltaren 75 mg bei Bedarf ein.
+
+109
+00:10:30,050 --> 00:10:33,050
+Sonst noch etwas?
+
+110
+00:10:33,050 --> 00:10:44,600
+Ja, außerdem habe ich schon lange erhöhte Blutwerte, Doktor.
+
+111
+00:10:44,600 --> 00:10:47,600
+Und nehmen Sie dagegen ein Medikament ein?
+
+112
+00:10:47,600 --> 00:10:52,600
+Ja, ich nehme Atorvastatin, 50 mg abends ein.
+
+113
+00:10:52,600 --> 00:11:00,090
+Sonst noch etwas?
+
+114
+00:11:00,090 --> 00:11:02,090
+Das war.
+
+115
+00:11:02,090 --> 00:11:05,090
+Ok. Sind Sie schon einmal operiert worden?
+
+116
+00:11:05,090 --> 00:11:17,090
+Ja, vor etwa 30 Jahren wurde mein rechter Unterarm operiert, weil ich ihn gebrochen hatte.
+
+117
+00:11:17,090 --> 00:11:20,090
+Bei einem Unfall oder?
+
+118
+00:11:20,090 --> 00:11:25,040
+Ja, einem Fahrradunfall.
+
+119
+00:11:25,040 --> 00:11:29,040
+Und Sie hatten sonst noch andere Operationen?
+
+120
+00:11:29,040 --> 00:11:32,040
+Ich hatte keine andere Operation.
+
+121
+00:11:32,040 --> 00:11:42,040
+Ok. Nehmen Sie regelmäßig oder bei Bedarf außer genannten Medikamenten noch andere Medikamente ein?
+
+122
+00:11:42,040 --> 00:11:54,040
+Ja, Doktor manchmal habe ich Magenschmerzen und dagegen nehme ich Pantozo 40 mg morgens.
+
+123
+00:11:54,040 --> 00:12:05,570
+Ok. Alles klar. Herr Schuhart, sind Ihnen irgendwelche Allergien bekannt?
+
+124
+00:12:05,570 --> 00:12:11,570
+Ja, ich bin allergisch gegen Katzenhaare, Doktor und Hausstab Milben.
+
+125
+00:12:11,570 --> 00:12:18,280
+Und wie äußert sich diese Allergien?
+
+126
+00:12:18,280 --> 00:12:28,170
+Das äußert sich bei mir durch Hautschlag und Juckreis. Hautausschlag.
+
+127
+00:12:29,170 --> 00:12:33,170
+Meinen Sie beide Katzenhaare und Hausstab Milben?
+
+128
+00:12:33,170 --> 00:12:34,170
+Ja.
+
+129
+00:12:34,170 --> 00:12:42,170
+Ok. Und irgendwelche Allergien oder Unfertigkeiten?
+
+130
+00:12:42,170 --> 00:12:48,170
+Ich habe noch andere Allergien oder Unfertigkeiten, Doktor.
+
+131
+00:12:48,170 --> 00:12:51,170
+Ok. Rauchen Sie?
+
+132
+00:12:51,170 --> 00:12:54,170
+Ja, ich rauche, Doktor leider.
+
+133
+00:12:54,170 --> 00:12:56,170
+Leider wann? Wie viel?
+
+134
+00:12:56,170 --> 00:13:06,170
+Ja, ich rauche etwa eine Schachter Zigaretten am Tag. Ich habe mit 15 Jahren angefangen.
+
+135
+00:13:06,170 --> 00:13:13,590
+Ok. Und trinken Sie regelmäßig Alkohol?
+
+136
+00:13:13,590 --> 00:13:17,590
+Alkohol trinke ich nicht. Ja.
+
+137
+00:13:17,590 --> 00:13:22,590
+Mh. Bitte nehmen Sie die nächste Frage nicht persönlich. Das ist eine gute Frage.
+
+138
+00:13:22,590 --> 00:13:26,590
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+139
+00:13:26,590 --> 00:13:30,590
+Mh. Warum fragen Sie Drogen, Doktor?
+
+140
+00:13:30,590 --> 00:13:38,590
+Also das ist eine gute Frage, Herr Schuchardt. Ich muss diese Frage an alle Patienten stellen.
+
+141
+00:13:38,590 --> 00:13:52,590
+Ich möchte sichergehen, ob diese Drogen mit anderen Medikamenten eine Zusammenwirkung haben.
+
+142
+00:13:52,590 --> 00:13:54,590
+Das ist sehr wichtig bei uns.
+
+143
+00:13:54,590 --> 00:13:57,590
+Ok. Drogen nehme ich auch nicht, Doktor.
+
+144
+00:13:57,590 --> 00:14:00,590
+Ok. Alles klar. Das freut mich.
+
+145
+00:14:00,590 --> 00:14:07,590
+Herr Schuchardt, leben Ihre Eltern noch? Sie sind jetzt 77 Jahre alt?
+
+146
+00:14:07,590 --> 00:14:15,590
+Ja, meine Mutter ist an Diabetes gestorben. 75 Jahre. Ja.
+
+147
+00:14:15,590 --> 00:14:19,220
+Und Ihr Vater?
+
+148
+00:14:19,220 --> 00:14:28,220
+Mein Vater ist an Bluthochdruck gestorben. Mit 75 Jahren. Ja.
+
+149
+00:14:28,220 --> 00:14:34,220
+Ok. Es tut mir leid, dass Sie hören. Also haben Sie Geschwister?
+
+150
+00:14:34,220 --> 00:14:37,220
+Ja, ich habe einen Bruder.
+
+151
+00:14:37,220 --> 00:14:39,220
+Ist Ihr Bruder gesund?
+
+152
+00:14:39,220 --> 00:14:42,220
+Nein. Mein Bruder hat auch Bluthochdruck, Doktor.
+
+153
+00:14:42,220 --> 00:14:48,220
+Mh. Ok. Wie ist Ihr Familienstand?
+
+154
+00:14:48,220 --> 00:14:50,220
+Ich bin verheiratet.
+
+155
+00:14:50,220 --> 00:14:52,220
+Haben Sie Kinder?
+
+156
+00:14:52,220 --> 00:14:58,220
+Ja, ich habe zwei Kinder. Eine Tochter und einen Sohn.
+
+157
+00:14:58,220 --> 00:15:01,220
+Und sind Ihre Kinder gesund?
+
+158
+00:15:01,220 --> 00:15:07,220
+Leider. Meine Tochter leidet an Depression.
+
+159
+00:15:07,220 --> 00:15:18,560
+Es tut mir leid zu hören. Ok. Sie sind jetzt Rentner, aber was haben Sie früher als beruflich gemacht?
+
+160
+00:15:18,560 --> 00:15:22,560
+Früher habe ich bei der LPG.
+
+161
+00:15:22,560 --> 00:15:25,940
+Mh. Ok.
+
+162
+00:15:25,940 --> 00:15:27,940
+Wissen Sie LPG, Doktor?
+
+163
+00:15:27,940 --> 00:15:31,940
+Ja, also das ist eine Genossenschaft in der DDR-Zeiten, richtig?
+
+164
+00:15:31,940 --> 00:15:34,940
+Ja, das ist ein alter Name.
+
+165
+00:15:34,940 --> 00:15:36,940
+Ja, ok.
+
+166
+00:15:36,940 --> 00:15:38,940
+Sie kennen sich nicht.
+
+167
+00:15:38,940 --> 00:15:46,940
+Ja. Also mit wem wohnen Sie? Mit Ihrer Familie, Ihrer Frau oder?
+
+168
+00:15:46,940 --> 00:15:50,940
+Mit der Familie, Doktor. Ich habe nichts zu tun.
+
+169
+00:15:50,940 --> 00:15:52,940
+Mit wem wohnen Sie?
+
+170
+00:15:52,940 --> 00:16:03,940
+Ja, ja. Ich wohne mit meiner Frau. Meine Kinder, Erwachsene.
+
+171
+00:16:03,940 --> 00:16:20,220
+Ja, alles klar. Ok. Herr Schuhhalt, das waren meine Fragen. Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+172
+00:16:20,220 --> 00:16:38,220
+Ja Doktor, was habe ich? Ich habe viel Angst. Sie möchten in unserem Aufnahmegespräch Pause machen. Ich habe viel Angst. Wird ich sterben oder?
+
+173
+00:16:38,220 --> 00:16:55,220
+Also Herr Schuhhalt, machen Sie sich bitte keine Sorgen. Sie haben eine gute Entscheidung betroffen, hierher zu kommen. Sie sind jetzt im Krankenhaus und bei uns in guten Händen. Wir machen für Sie alles tun.
+
+174
+00:16:55,220 --> 00:17:15,220
+Ja, ich vermute, dass Sie ein Problem mit dem Herz haben. Deswegen werde ich Sie zuerst körperlich untersuchen. Dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen wie zum Beispiel EKG, Echokardiographie.
+
+175
+00:17:15,220 --> 00:17:17,220
+Was ist Echokardiographie Doktor?
+
+176
+00:17:17,220 --> 00:17:19,220
+Das ist eine Untersuchung.
+
+177
+00:17:19,220 --> 00:17:21,220
+Verstanden.
+
+178
+00:17:21,220 --> 00:17:43,220
+Das ist eine Untersuchung des Herzens. Und diese Untersuchung ist sowohl schmerzfrei als auch strahlenfrei. Damit wir das Herz sichtbar machen können und wir können die Probleme genau zu beurteilen.
+
+179
+00:17:43,220 --> 00:17:46,220
+Wie lange dauert es? Es ist lange oder nicht?
+
+180
+00:17:46,220 --> 00:17:51,220
+Diese Untersuchung dauert nur etwa 20 Minuten.
+
+181
+00:17:51,220 --> 00:17:52,220
+Herr Schuhhalt.
+
+182
+00:17:52,220 --> 00:17:53,220
+Ja.
+
+183
+00:17:53,220 --> 00:18:11,220
+Ok. Also müssen Sie sicherlich für ein paar Stunden bei uns bleiben. Und wenn wir etwas auffälliges finden, kann es auch passieren, dass Sie ein paar Tage im Krankenhaus bleiben sollen. Ok?
+
+184
+00:18:11,220 --> 00:18:14,220
+Ok.
+
+185
+00:18:14,220 --> 00:18:17,220
+Ok. Ich warte auf Sie Doktor.
+
+186
+00:18:17,220 --> 00:18:23,220
+Ok. Bitte nehmen Sie Platz im Wartezimmer. Ich bin gleich wieder da. Ja?
+
+187
+00:18:23,220 --> 00:18:24,220
+Ok. Danke schön.
+
+188
+00:18:24,220 --> 00:18:36,220
+Sehr gerne. Guten Tag Herr Oberarzt. Ich habe einen neuen Patienten aufgenommen und ich würde gerne über ihn berichten. Haben Sie kurz Zeit für mich?
+
+189
+00:18:36,220 --> 00:18:37,220
+Ja bitte.
+
+190
+00:18:37,220 --> 00:18:47,220
+Danke schön. Herr Gerhard Schuhhart ist 77 Jahre alt, 1,85 Meter groß und 90 Kilogramm schwer.
+
+191
+00:18:47,220 --> 00:19:01,220
+Herr Schuhhart stellte sich heute bei uns wegen seit zwei Wochen bestehender Dyspneu sowie Tachikardie vor.
+
+192
+00:19:01,220 --> 00:19:13,220
+Dem Patienten zufolge seien die Beschwerden bei Belastung aufgetreten.
+
+193
+00:19:13,220 --> 00:19:41,220
+Er berichtete, dass er nur zwei Etage steigen könne und er berichtete über Ortopne. Deswegen muss er zwei Kissen beim Schlafen benutzen.
+
+194
+00:19:41,220 --> 00:19:53,220
+Außerdem klagte er über Nukterie zwei bis drei Mal in der Nacht und Beinödeme und kalten Schweiß.
+
+195
+00:19:53,220 --> 00:20:08,220
+Die Fragen nach Bauchödemen, also Acetes und Tussis wurden verneint.
+
+196
+00:20:08,220 --> 00:20:29,220
+Bei der vegetativen Anamnese seien die Folgenden bekannt. Beschwerden bedingte Insomnie in Form von Schlafstörungen und Durchschlafstörungen in Appetenz.
+
+197
+00:20:29,220 --> 00:20:49,220
+Er sei vollständig gegen Kinderkrankheiten geimpft. An Vorerkrankungen nannte er seit 25 Jahren bestehende Altelehypertonie, seit 20 Jahren bestehende chronische Lumbargie,
+
+198
+00:20:49,220 --> 00:21:16,220
+seit 10 Jahren bestehende rechtseitige Cox-Arthrose und seit langem bestehende Hyperlipidemie. Er nehme Candesalt an 8 mg morgens, Atorvastatin 40 mg abends, Voltren 75 mg bei Bedarf und Pantazol 40 mg morgens ein.
+
+199
+00:21:16,220 --> 00:21:32,220
+Vor 30 Jahren habe er sich eine Unterarmfraktur rechts zu gezogen, bei einem Fahrradunfall zu gezogen, die operativ behandelt worden sei.
+
+200
+00:21:32,220 --> 00:21:53,220
+Er habe Katzenhaare und Hausstab Milbeallergin, die sich durch Exanthen und Pulitis äußern. Er sei Raucher und er rauche eine Schachter Zigaretten täglich seit dem 15. Lebensjahr.
+
+201
+00:21:53,220 --> 00:22:21,220
+Das entspricht 62 Pakis. Alkoholkonsum und Drogenkonsum wurden verneint. In der Familienanamnese gab er an, dass die Mutter an Diabetes mellitus mit 75 Jahren verstorben sei.
+
+202
+00:22:21,220 --> 00:22:43,220
+Der Vater sei mit 75 Jahren an Arteriehypertonie verstorben. Er habe einen Bruder, der an Arteriehypertonie leide. Er sei verheiratet, habe eine Tochter und einen Sohn. Die Tochter leide an Depression.
+
+203
+00:22:43,220 --> 00:22:56,220
+Er sei Rentner und er habe früher als LPG gearbeitet und wohne mit seiner Frau zusammen.
+
+204
+00:22:56,220 --> 00:23:22,220
+Ich gehe von einem Verdacht auf eine Herzinsuffizienz aus, da der Patient typische Symptome dafür aufweist. Der Patient leidet unter Lüftdüstgne, Tachikardie, Nyksturie, Orthopne und Beinodeme.
+
+205
+00:23:22,220 --> 00:23:41,220
+Auch Kalten Schweiß. Diese Symptome sprechen für eine Herzinsuffizienz. Als die Diagnosen kommen, Lungenembolie, COPD, Myokardinfarkt in Betracht.
+
+206
+00:23:41,220 --> 00:23:55,220
+Um meine Verdachtdiagnose zu bestätigen, würde ich zunächst bei den Patienten die Vitalparameter überwachen und eine körperliche Untersuchung durchführen.
+
+207
+00:23:55,220 --> 00:24:07,220
+Bei der körperlichen Untersuchung achte ich darauf, ob Cyanose, Beinodeme, Acides vorhanden sind.
+
+208
+00:24:07,220 --> 00:24:22,220
+Ich achte darauf, ob der Patient Rassergeräusche, Herzhythmusstörungen hat.
+
+209
+00:24:22,220 --> 00:24:50,220
+Zusätzlich eine Labouruntersuchung sinnvoll, um eine umfassende Diagnose zu gewährleisten. Dabei würde ich Blutbild, CAP, BSG, Herzentzime, BNP, Lymere, Leberwerte, Nierenwerte, Elektrolyten und Gernungsparameter bestimmen lassen.
+
+210
+00:24:50,220 --> 00:25:03,220
+Danach würde ich ein EKG schreiben, um einen Myokardinfarkt oder Herzhythmusstörungen auszuschließen.
+
+211
+00:25:03,220 --> 00:25:22,220
+Danach würde ich eine Echokardiographie durchführen, um mögliche Pathologien, wie zum Beispiel Herzwandstörungen, Herzklappenstörungen, genau zu beurteilen.
+
+212
+00:25:22,220 --> 00:25:35,220
+Ich würde auch eine Brutgasanalyse bestimmen lassen, das ist sehr wichtig bei diesen Patienten.
+
+213
+00:25:35,220 --> 00:25:49,220
+Sollte sich die Verdachtdiagnose bestätigen, würde ich den Patienten stationär aufnehmen und ich würde einen Dinosynzug ranlegen.
+
+214
+00:25:49,220 --> 00:26:09,220
+Danach würde ich Akutmaßnahmen, Medikamente geben, besonders Sauerstoffgabe und die Urethika.
+
+215
+00:26:09,220 --> 00:26:22,220
+Danach würde ich ein Kardiologisches und Pneumonologisches Konzil anfordern, um die Therapie des Patienten zu optimieren.
+
+216
+00:26:22,220 --> 00:26:48,220
+Ich würde als langzeitige Therapie die Lebensstilveränderungen, ACR, HEMA, Beta-Blocker, die Urethika empfehlen oder verschreiben.
+
+217
+00:26:48,220 --> 00:27:08,220
+Gewichtsabnahme bei diesen Patienten, Nikotinkarenz und regelmäßige Bewegung sind sehr wichtig.
+
+218
+00:27:08,220 --> 00:27:27,220
+Niedrige Blutdruck erhalten, normale Blutzucker erhalten und niedrige Blutlipidparameter erhalten sind auch sehr wichtig.
+
+219
+00:27:27,220 --> 00:27:40,570
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit der geplanten Untersuchung fortfahren.
+
+220
+00:27:40,570 --> 00:27:45,570
+Herr Oberanzt, würden Sie in diesem Fall eine PTCA durchführen?
+
+221
+00:27:45,570 --> 00:27:59,570
+Wir sollten zuerst eine EKG schreiben und eine Echokardiografie durchführen, um die möglichen Herzkrankheiten auszuschließen.
+
+222
+00:27:59,570 --> 00:28:23,570
+Wenn der Patient leidet, unter keinem Brustschmerzen, ein Engegefühl, wenn ich eine Durchblutstörung denke, würde ich eine PTCA durchführen.
+
+223
+00:28:23,570 --> 00:28:26,570
+Das ist eine Möglichkeit bei diesen Patienten.
+
+224
+00:28:26,570 --> 00:28:32,570
+Können Sie uns eine PTCA aufklären?
+
+225
+00:28:32,570 --> 00:28:37,570
+Ja, gerne. Ich werde Sie über PTCA aufklären.
+
+226
+00:28:37,570 --> 00:28:56,820
+Die PTCA ist die Darstellung des Herzkranzgefäßes mit Hilfe der Strahlen.
+
+227
+00:28:56,820 --> 00:29:13,820
+Diese Untersuchung hilft uns, durch Blutstörungen, Stenose, Thrombose genau zu erkennen.
+
+228
+00:29:13,820 --> 00:29:29,820
+Bei dieser Untersuchung schieben wir einen dünnen flexiblen Katatär durch die leichten Arterien oder Handarterien bis in die verengte Gefäße.
+
+229
+00:29:29,820 --> 00:29:37,820
+Dann verabreichen wir ein Kontrastmittel, um die Gefäße sichtbar zu machen.
+
+230
+00:29:37,820 --> 00:29:45,820
+Wir können bei der Untersuchung gleichzeitig die Behandlung durchführen.
+
+231
+00:29:45,820 --> 00:29:58,820
+Wir können die verengte Gefäße mit einem Ballon erweitern und meistens können wir einen Sten einstellen.
+
+232
+00:29:58,820 --> 00:30:04,820
+Diese Untersuchung dauert ca. 30-60 Minuten.
+
+233
+00:30:04,820 --> 00:30:15,820
+Es gibt einige Kontraindikationen, wie z.B. Nachblutungen oder Blutgerinnsel.
+
+234
+00:30:15,820 --> 00:30:25,820
+Es gibt einige Kontraindikationen, wie z.B. Schwangerschaft oder Kontrastmittelallergie.
+
+235
+00:30:25,820 --> 00:30:44,820
+Nach der Untersuchung soll der Patient im Krankenhaus zu Beobachtung bleiben und ein paar Stunden die betroffene Beine ruhig erhalten.
+
+236
+00:30:44,820 --> 00:30:57,820
+Diese Untersuchung kann sowohl zu diagnostischen als auch therapeutischen Zwecken benutzt werden.
+
+237
+00:30:57,820 --> 00:31:10,330
+Wann entscheiden Sie Herztransplant in dieser Part?
+
+238
+00:31:10,330 --> 00:31:24,440
+Ja, also die Ejektionfraktion ist sehr wichtig bei diesen Patienten.
+
+239
+00:31:24,440 --> 00:31:33,440
+Wenn die medikamentöse Therapie nicht genug für die Ejektionfraktion ist,
+
+240
+00:31:33,440 --> 00:31:42,440
+dann sollen wir eine Herztransplantation durchführen.
+
+241
+00:31:42,440 --> 00:31:49,940
+Herr Kollegen, welcher Laborparameter ist sehr wichtig in diesem Fall?
+
+242
+00:31:49,940 --> 00:31:59,940
+Ich glaube, BNP ist sehr wichtig und spezifisch bei der Herzinfizienz, Herr Oberarzt.
+
+243
+00:31:59,940 --> 00:32:14,310
+Sie haben gesagt, ich würde in diesem Fall Echokardiografie durchführen. Können Sie uns Echokardiografie aufklären?
+
+244
+00:32:14,310 --> 00:32:19,310
+Ja, gerne. Ich werde Sie über Echokardiografie aufklären.
+
+245
+00:32:19,310 --> 00:32:24,310
+Echokardiografie ist die Ultraschalluntersuchung des Herzens.
+
+246
+00:32:24,310 --> 00:32:39,310
+Diese Untersuchung hilft uns, die Verletzungen, Erntzündungen, Tumore und andere Veränderungen genau zu erkennen.
+
+247
+00:32:39,310 --> 00:32:45,310
+Diese Untersuchung ist sowohl schmerzfrei als auch schrallenfrei.
+
+248
+00:32:45,310 --> 00:32:59,310
+Wir sollen vorher den Brust mit einem Gel einschmieren, damit der Schallkopf fehlerfrei arbeitet.
+
+249
+00:32:59,310 --> 00:33:07,310
+Die Ultraschallwellen machen das Herz sichtbar und wir können das Herz auf einem Monitor sehen.
+
+250
+00:33:07,310 --> 00:33:17,310
+Diese Untersuchung dauert ca. 20 Minuten. Dafür benötigt der Patient keine spezielle Vorbereitung.
+
+251
+00:33:17,310 --> 00:33:25,310
+Es gibt keine Komplikationen oder Kontraindikationen. Nach der Untersuchung gibt es keine Anschränkungen.
+
+252
+00:33:25,310 --> 00:33:32,310
+Der Patient kann den Alltag wie der Wohl fortsetzen.
+
+253
+00:33:33,310 --> 00:33:42,310
+Was können wir mit Hilfe Echokardiografie lernen?
+
+254
+00:33:45,390 --> 00:34:06,390
+Wir können Herzklappenstörungen, Herzwandstörungen, wie z.B. Herzwandriss oder Infakten genau zu erkennen.
+
+255
+00:34:07,390 --> 00:34:12,390
+Würden Sie in diesem Fall Laksaith EKG durchführen?
+
+256
+00:34:12,390 --> 00:34:21,390
+Der Patient leidet unter keinem Brustschmerz, keinem Engelgefühl.
+
+257
+00:34:21,390 --> 00:34:36,390
+Es ist sinnvoll, Herzrhythmstörungen zu erkennen.
+
+258
+00:34:36,390 --> 00:34:38,390
+Sie haben recht.
+
+259
+00:34:38,390 --> 00:34:43,390
+Würden Sie in diesem Fall Herzsyntagraphie durchführen?
+
+260
+00:34:43,390 --> 00:35:05,240
+Herzsyntagraphie können wir uns helfen um die Herzwandsituation genau zu erkennen.
+
+261
+00:35:05,240 --> 00:35:16,240
+Normalerweise benutzen wir Syntagraphie in Karsinoma oder Schilddrüsenprobleme.
+
+262
+00:35:16,240 --> 00:35:29,240
+Wenn Sie an die Corona-Herskrankheit denken würden Sie Herzsyntagraphie durchführen.
+
+263
+00:35:29,240 --> 00:35:34,240
+Aber in diesem Fall ist es nicht sinnvoll.
+
+264
+00:35:34,240 --> 00:35:44,680
+Empfehlen Sie diesen Patienten Kardioklikosil?
+
+265
+00:35:44,680 --> 00:35:54,680
+Ja, das ist auch sehr wichtig für die Medikation von Herzinsuffizienz.
+
+266
+00:35:54,680 --> 00:36:01,680
+Empfehlen Sie diesen Patienten viel Laufbewegung?
+
+267
+00:36:01,680 --> 00:36:09,680
+Normalerweise ist die regelmäßige Bewegung sehr wichtig bei den Patienten.
+
+268
+00:36:09,680 --> 00:36:13,680
+Aber dieser Patient ist 77 Jahre alt.
+
+269
+00:36:13,680 --> 00:36:23,680
+Also regelmäßig nicht zu lange laufen.
+
+270
+00:36:23,680 --> 00:36:26,680
+Vielleicht können wir empfehlen aber nicht zu viel.
+
+271
+00:36:26,680 --> 00:36:30,680
+Weniger Beweglichkeit?
+
+272
+00:36:30,680 --> 00:36:31,680
+Ja.
+
+273
+00:36:31,680 --> 00:36:44,460
+Was empfehlen Sie anderen als diese empfehlung?
+
+274
+00:36:44,460 --> 00:36:48,460
+Lebensschwäche sind sehr wichtig.
+
+275
+00:36:48,460 --> 00:36:53,460
+Gewichtsabnahme ist sehr wichtig bei diesem Patienten.
+
+276
+00:36:53,460 --> 00:36:56,460
+Er wiegt 90 kg.
+
+277
+00:36:57,460 --> 00:37:02,460
+Nikotinkarenz ist sehr wichtig.
+
+278
+00:37:02,460 --> 00:37:12,460
+Er raucht eine Schachter-Sigarette seit ungefähr 65 Jahren.
+
+279
+00:37:12,460 --> 00:37:19,460
+Er leidet unter Arthelhypertonie und Hyperlipidemie.
+
+280
+00:37:19,460 --> 00:37:32,460
+Also eine Diät mit niedrigem Blutdruck und Blutfettwerte sind auch sehr wichtig bei diesem Patienten.
+
+281
+00:37:32,460 --> 00:37:38,460
+Empfehlen Sie diesen Patienten hochsalzarme Diät?
+
+282
+00:37:38,460 --> 00:37:41,460
+Ja, das ist auch sehr wichtig.
+
+283
+00:37:41,460 --> 00:37:45,460
+Wegen Herzinsuffizienz und Arthelhypertonie.
+
+284
+00:37:45,460 --> 00:37:47,460
+Sie haben recht.
+
+285
+00:37:47,460 --> 00:37:52,460
+In diesem Fall ist es wichtig Nierenversagen?
+
+286
+00:37:52,460 --> 00:37:55,460
+Ja, Sie haben recht.
+
+287
+00:37:55,460 --> 00:38:01,460
+Der Patient leidet unter Arthelhypertonie.
+
+288
+00:38:01,460 --> 00:38:12,460
+Herzinsuffizienz, Leberversagen, Nierenversagen, Risiko gibt es bei diesem Patienten.
+
+289
+00:38:12,460 --> 00:38:21,740
+Deswegen können wir eine Abdominalsonographie durchführen, um die möglichen Pathologien zu beurteilen.
+
+290
+00:38:21,740 --> 00:38:24,740
+Vielen Dank, Herr Kollegen.
+
+291
+00:38:24,740 --> 00:38:30,740
+Gehen Sie auf unser Infodesk und nehmen Sie Ihre Zertifizierung.
+
+292
+00:38:30,740 --> 00:38:33,740
+Vielen Dank, Herr Oberz. Sie sind sehr nett.

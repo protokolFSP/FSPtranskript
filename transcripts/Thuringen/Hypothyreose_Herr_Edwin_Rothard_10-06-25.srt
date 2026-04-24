@@ -1,0 +1,1103 @@
+1
+00:00:00,000 --> 00:00:12,000
+Mein Name ist Ucak. Ich bin auf dieser Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Anamnesegespräch durchführen. Sind Sie damit einverstanden?
+
+2
+00:00:12,000 --> 00:00:14,000
+Ja, natürlich.
+
+3
+00:00:14,000 --> 00:00:18,000
+Danke. Bitte fragen Sie nach, wenn Sie etwas nicht verstehen, okay?
+
+4
+00:00:18,000 --> 00:00:19,000
+Okay.
+
+5
+00:00:19,000 --> 00:00:21,000
+Wie heißen Sie denn?
+
+6
+00:00:21,000 --> 00:00:24,000
+Edwin Rothardt.
+
+7
+00:00:24,000 --> 00:00:32,220
+Könnten Sie bitte Ihren Vor- und Nachnamen langsam buchtebieren?
+
+8
+00:00:32,220 --> 00:00:50,220
+Ja. R-O-T-H-A-R-D. Meine Nachname, mein Vorname, E-D-W-I-N. Edwin.
+
+9
+00:00:50,220 --> 00:00:53,220
+Wie soll ich Sie ansprechen?
+
+10
+00:00:53,220 --> 00:00:56,220
+Herr Rothardt.
+
+11
+00:00:56,220 --> 00:00:57,220
+Herr Rothardt.
+
+12
+00:00:57,220 --> 00:00:58,220
+Ja.
+
+13
+00:00:58,220 --> 00:00:59,220
+Wie alt sind Sie?
+
+14
+00:01:00,220 --> 00:01:03,220
+Ich bin 48 Jahre alt.
+
+15
+00:01:03,220 --> 00:01:06,220
+Wann sind Sie genau geboren?
+
+16
+00:01:06,220 --> 00:01:11,220
+2. Mai 1977.
+
+17
+00:01:11,220 --> 00:01:14,890
+Wie groß sind Sie?
+
+18
+00:01:14,890 --> 00:01:20,890
+1,78 Meter.
+
+19
+00:01:20,890 --> 00:01:25,710
+Und wie schwer sind Sie zuzeit, Herr Rothardt?
+
+20
+00:01:25,710 --> 00:01:28,710
+70 Kilogramm.
+
+21
+00:01:29,710 --> 00:01:32,710
+Okay. Danke für die Informationen.
+
+22
+00:01:32,710 --> 00:01:36,710
+Herr Rothardt, was kann ich für Sie tun? Was für Beschwerden haben Sie zurzeit?
+
+23
+00:01:36,710 --> 00:01:54,060
+Ja, Doktor. Ich fühle mich ständig müde und antreiblos. Ich bin total erschöpft, Doktor.
+
+24
+00:01:54,060 --> 00:01:59,060
+Herr Rothardt, seit wann leiden Sie unter diesen Beschwerden?
+
+25
+00:01:59,060 --> 00:02:05,060
+Ich habe diese Beschwerden seit drei Monaten.
+
+26
+00:02:05,060 --> 00:02:14,860
+Sind diese Beschwerden langsam oder plötzlich aufgetreten?
+
+27
+00:02:14,860 --> 00:02:21,860
+Diese Beschwerden treten langsam aus, ja.
+
+28
+00:02:21,860 --> 00:02:27,860
+Okay. Also ich meine, gibt es eine bestimmte Auslöser für diese Schmerzen?
+
+29
+00:02:27,860 --> 00:02:36,860
+Herr Rothardt, zum Beispiel, haben Sie einen Anhörigen verloren oder haben Sie Ihre Arbeit verloren?
+
+30
+00:02:36,860 --> 00:02:48,860
+Ja, Doktor. Vor vier Jahren bin ich getrennt.
+
+31
+00:02:48,860 --> 00:02:58,860
+Ich habe drei Kinder, nein, vier Kinder.
+
+32
+00:02:58,860 --> 00:03:09,860
+Zwei sind meine Ex-Frau und zwei sind meine neue Freundin.
+
+33
+00:03:10,860 --> 00:03:22,860
+Es gibt viele Probleme und ich habe Stress über Arbeit. Ich arbeite als Pfleger.
+
+34
+00:03:22,860 --> 00:03:29,770
+Okay. Sind Ihre Kinder gesund, Herr Rothardt?
+
+35
+00:03:29,770 --> 00:03:32,770
+Ja, Entschuldigung.
+
+36
+00:03:32,770 --> 00:03:35,770
+Sind Ihre Kinder gesund?
+
+37
+00:03:35,770 --> 00:03:40,770
+Ja, meine Kinder sind gesund, ja.
+
+38
+00:03:40,770 --> 00:03:46,770
+Okay, das freut mich. Haben sich Ihre Beschwerden mit der Zeit verändert?
+
+39
+00:03:46,770 --> 00:03:53,770
+Also ich meine, sind die Beschwerden schlimmer geworden oder besser geworden?
+
+40
+00:03:53,770 --> 00:04:04,770
+Diese Beschwerden sind in der Zeit schlimmer geworden, Doktor.
+
+41
+00:04:04,770 --> 00:04:07,770
+Okay. Herr Rothardt?
+
+42
+00:04:07,770 --> 00:04:26,770
+Ich habe keine Lust, etwas zu machen. Zum Beispiel, ich möchte nicht mit meinen Freunden treffen oder etwas Gutes machen.
+
+43
+00:04:26,770 --> 00:04:37,770
+Außerdem habe ich in den letzten drei Monaten etwa vier Kilo abgenommen.
+
+44
+00:04:37,770 --> 00:04:49,160
+Ohne dass ich es wollte. Außerdem habe ich kaum Appetit.
+
+45
+00:04:49,160 --> 00:04:57,750
+Ich verstehe. Herr Rothardt, fühlen Sie sich wertlos?
+
+46
+00:04:57,750 --> 00:05:02,750
+Wertlos? Ich verstehe nicht. Was ist wertlos?
+
+47
+00:05:02,750 --> 00:05:12,750
+Wertlosigkeit. Ich bin kein Wert. Ich bin nicht mehr wert.
+
+48
+00:05:12,750 --> 00:05:17,750
+Ich möchte nicht mehr.
+
+49
+00:05:17,750 --> 00:05:21,750
+Ja, Sie haben Recht. Ich habe.
+
+50
+00:05:21,750 --> 00:05:25,750
+Okay. Herr Rothardt, haben Sie?
+
+51
+00:05:25,750 --> 00:05:33,750
+Außerdem möchte ich nicht auf den Bett kommen.
+
+52
+00:05:33,750 --> 00:05:40,180
+Also Sie leiden unter Schlepplichkeit?
+
+53
+00:05:40,180 --> 00:05:45,180
+Ja, ich möchte ganz Tag schlafen.
+
+54
+00:05:45,180 --> 00:05:48,180
+Tagsüber, okay. Alles klar.
+
+55
+00:05:48,180 --> 00:05:52,180
+Und haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+56
+00:05:53,180 --> 00:06:00,180
+Ich habe keine Schlafstörungen. Ich möchte immer schlafen, Doktor.
+
+57
+00:06:00,180 --> 00:06:05,180
+Ich möchte nicht aufwachen.
+
+58
+00:06:05,180 --> 00:06:12,180
+Okay. Herr Rothardt, leiden Sie an chronischen Erkrankungen, von denen ich wissen sollte?
+
+59
+00:06:12,180 --> 00:06:19,180
+Ja, ich habe Kopfschmerzen.
+
+60
+00:06:19,180 --> 00:06:23,360
+Seit wann?
+
+61
+00:06:23,360 --> 00:06:29,360
+Seit sehr lange, ungefähr ein Jahr.
+
+62
+00:06:29,360 --> 00:06:33,360
+Nehmen Sie dagegen ein Medikament ein?
+
+63
+00:06:33,360 --> 00:06:41,360
+Ich habe bei Bedarf Ibuprofen 15 mg eingenommen.
+
+64
+00:06:41,360 --> 00:06:43,360
+500 mg meint er?
+
+65
+00:06:43,360 --> 00:06:49,960
+Aber das ist nicht Verbesserung gebracht.
+
+66
+00:06:49,960 --> 00:06:55,960
+Leiden Sie unter diesen Kopfschmerzen dauerhaft?
+
+67
+00:06:55,960 --> 00:06:58,960
+Nein, fern vor mir.
+
+68
+00:06:58,960 --> 00:07:06,960
+Okay. Wie sind diese Schmerzen am Kopf?
+
+69
+00:07:06,960 --> 00:07:18,960
+Mein Zittern und Hinterkopf. Manchmal ganz Kopf. Ich bin nicht sicher.
+
+70
+00:07:18,960 --> 00:07:21,960
+Okay. Herr Rothardt, ich...
+
+71
+00:07:21,960 --> 00:07:24,960
+Ich habe verschiedene Bereiche Kopfschmerzen.
+
+72
+00:07:24,960 --> 00:07:33,960
+Alles klar. Ich möchte wissen, ob Sie besonders an chronischen Erkrankungen leiden.
+
+73
+00:07:33,960 --> 00:07:38,960
+Wie zum Beispiel Bluthochdruck, Zuckerkrankheit, Schilddrüsenprobleme.
+
+74
+00:07:38,960 --> 00:07:50,960
+Ja. Ich habe seit sechs Jahren eine Schilddrüsenunterfunktion.
+
+75
+00:07:50,960 --> 00:07:55,460
+Was nehmen Sie dagegen ein?
+
+76
+00:07:55,460 --> 00:08:00,160
+Ich nehme L-Troxine.
+
+77
+00:08:00,160 --> 00:08:04,160
+Okay. Und besuchen Sie Ihren Hausarzt regelmäßig?
+
+78
+00:08:04,160 --> 00:08:14,160
+Ja. Ich gehe mindestens zwei Monate bei meinem Hausarzt.
+
+79
+00:08:14,160 --> 00:08:20,160
+Okay. Wann wurden Ihre letzten Schilddrüsenwerte kontrolliert?
+
+80
+00:08:20,160 --> 00:08:23,160
+Vor zwei Monaten?
+
+81
+00:08:23,160 --> 00:08:25,160
+Vor zwei Monaten.
+
+82
+00:08:25,160 --> 00:08:26,160
+War alles in Ordnung?
+
+83
+00:08:26,160 --> 00:08:28,160
+Ja, ja. Alles in Ordnung.
+
+84
+00:08:28,160 --> 00:08:32,160
+Okay. Kennen Sie die Dosierung von L-Troxine?
+
+85
+00:08:32,160 --> 00:08:37,160
+Ich verstehe nicht. Ich kenne nicht den Doktor.
+
+86
+00:08:37,160 --> 00:08:41,160
+Okay. Und nehmen Sie dieses Medikament regelmäßig ein?
+
+87
+00:08:41,160 --> 00:08:47,160
+Ja, ja. Am Abend. Entschuldigung. Morgens.
+
+88
+00:08:47,160 --> 00:08:50,160
+Morgens. Okay. Alles klar.
+
+89
+00:08:50,160 --> 00:08:55,160
+Herr Rothardt, leiden Sie unter Heißigkeit?
+
+90
+00:08:55,160 --> 00:09:00,160
+Ich fühle mich nicht heiß, Doktor. Nein.
+
+91
+00:09:00,160 --> 00:09:01,160
+Nein.
+
+92
+00:09:01,160 --> 00:09:03,160
+Leiden Sie unter Heißigkeit?
+
+93
+00:09:03,160 --> 00:09:07,160
+Ja, ja. Ich verstehe. Ich habe nicht bemerkt.
+
+94
+00:09:07,160 --> 00:09:11,160
+Okay. Haben Sie eine Hautveränderung bemerkt?
+
+95
+00:09:11,160 --> 00:09:16,160
+Zum Beispiel trockene Haut oder trockene Haare?
+
+96
+00:09:16,160 --> 00:09:22,160
+Ich habe nicht bemerkt. Nein. Ich habe nicht diese Bewertung. Ja.
+
+97
+00:09:22,160 --> 00:09:26,160
+Okay. Haben Sie eine Vergrößerung am Hals bemerkt?
+
+98
+00:09:26,160 --> 00:09:31,940
+Ich habe nicht bemerkt.
+
+99
+00:09:31,940 --> 00:09:39,940
+Okay. Spüren Sie, dass Ihr Herz langsam erschlägt?
+
+100
+00:09:39,940 --> 00:09:46,110
+Ich habe nicht bemerkt, Doktor. Nein.
+
+101
+00:09:46,110 --> 00:09:54,160
+Okay. Haben Sie Konzentrationsstörungen, Herr Rothardt?
+
+102
+00:09:54,160 --> 00:10:00,160
+Ja, Sie haben recht. Manchmal habe ich diese Beschwerden. Ja.
+
+103
+00:10:00,160 --> 00:10:05,160
+Okay. Leiden Sie unter Verstopfung?
+
+104
+00:10:05,160 --> 00:10:11,160
+Verstopfung bei mir nicht aufgefallen. Nein.
+
+105
+00:10:11,160 --> 00:10:21,880
+Okay. Okay. Haben Sie Fieber, Schüterfrost oder Nachtschweiß?
+
+106
+00:10:21,880 --> 00:10:28,160
+Ich habe keine dieser Beschwerden.
+
+107
+00:10:28,160 --> 00:10:34,160
+Okay. Ist alles in Ordnung beim Wasserlassen oder mit dem Stuhlgang?
+
+108
+00:10:34,160 --> 00:10:38,160
+Ja, ja. Alles ist in Ordnung, ja.
+
+109
+00:10:38,160 --> 00:10:45,980
+Okay. Sind Sie vollständig gegen Kinderkrankheiten geimpft?
+
+110
+00:10:45,980 --> 00:10:49,980
+Ja, ich bin vollständig geimpft, Doktor.
+
+111
+00:10:49,980 --> 00:10:55,980
+Okay. Leiden Sie Husten oder Luftnot?
+
+112
+00:10:55,980 --> 00:11:03,640
+Bei mir sind diese Beschwerden nicht aufgefallen, Doktor. Nein.
+
+113
+00:11:03,640 --> 00:11:07,640
+Okay. Alles klar.
+
+114
+00:11:07,640 --> 00:11:13,640
+Okay. Herr Rothardt, ist Ihnen übel oder mussten Sie erbrechen?
+
+115
+00:11:13,640 --> 00:11:18,590
+Nein. Das freut mich.
+
+116
+00:11:18,590 --> 00:11:27,590
+Sie haben gesagt, dass Sie an Schildtrüchen unter Funktion leiden und auch Sie haben eine chronische Kopfschmerzen.
+
+117
+00:11:27,590 --> 00:11:33,590
+Ja. Sonst noch etwas? Haben Sie irgendwelche anderen Erkrankungen?
+
+118
+00:11:33,590 --> 00:11:37,590
+Ich habe keine anderen wichtigen Erkrankungen, Doktor.
+
+119
+00:11:37,590 --> 00:11:45,590
+Okay. Nehmen Sie regelmäßig oder bei Bedarf irgendwelche anderen Medikamente, außer genannten?
+
+120
+00:11:45,590 --> 00:11:51,590
+Ich habe keine anderen Medikamente. Ich nehme keine anderen Medikamente ein.
+
+121
+00:11:51,590 --> 00:11:56,590
+Okay. Super. Sind Sie schon einmal operiert worden?
+
+122
+00:11:56,590 --> 00:12:01,840
+Ich hatte keine Operation, Doktor. Nein.
+
+123
+00:12:01,840 --> 00:12:10,840
+Okay. Herr Rothardt, sind Sie allergisch gegen irgendwelche Medikamente, Pflanzen, Nahrungsmittel?
+
+124
+00:12:10,840 --> 00:12:16,440
+Ja. Ich reagiere allergisch auf Pollen.
+
+125
+00:12:16,440 --> 00:12:20,440
+Und wie reagieren Sie darauf?
+
+126
+00:12:20,440 --> 00:12:32,300
+Die äußern sich bei mir mit Blähungen und Verdankstörungen.
+
+127
+00:12:32,300 --> 00:12:35,300
+Das ist eine Pollenallergie? Ja.
+
+128
+00:12:35,300 --> 00:12:40,550
+Okay. Sonst noch etwas?
+
+129
+00:12:40,550 --> 00:12:45,550
+Das war es. Okay. Herr Rothardt, rauchen Sie?
+
+130
+00:12:45,550 --> 00:12:49,550
+Ja. Ich rauche nicht, Doktor.
+
+131
+00:12:49,550 --> 00:12:52,550
+Haben Sie früher geraucht?
+
+132
+00:12:52,550 --> 00:12:54,550
+Ich habe nicht geraucht.
+
+133
+00:12:54,550 --> 00:12:59,550
+Das freut mich. Trinken Sie regelmäßig Alkohol?
+
+134
+00:12:59,550 --> 00:13:04,550
+Ja. Ich trinke hauptsächlich Wein.
+
+135
+00:13:04,550 --> 00:13:09,550
+Letzter Zeit wurde es aber mehr.
+
+136
+00:13:09,550 --> 00:13:16,180
+Zwei bis drei Gläser täglich.
+
+137
+00:13:16,180 --> 00:13:19,180
+Also wegen dieser Beschwerden, oder?
+
+138
+00:13:19,180 --> 00:13:22,180
+Ja, wegen dieser Beschwerden.
+
+139
+00:13:22,180 --> 00:13:29,180
+Ich habe gesagt, ich habe keine Lust.
+
+140
+00:13:29,180 --> 00:13:34,180
+Und ich trinke leider viel Alkohol.
+
+141
+00:13:34,180 --> 00:13:38,180
+Herr Rothardt, nehmen Sie die nächste Frage nicht persönlich.
+
+142
+00:13:38,180 --> 00:13:40,180
+Das ist eine Routinefrage.
+
+143
+00:13:40,180 --> 00:13:44,180
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+144
+00:13:44,180 --> 00:13:49,180
+Ich kontakte nicht Drogen. Nein.
+
+145
+00:13:49,180 --> 00:13:51,180
+Okay, das freut mich.
+
+146
+00:13:51,180 --> 00:13:56,180
+Leiden Ihre Eltern an chronischen Erkrankungen, von denen ich wissen sollte,
+
+147
+00:13:56,180 --> 00:14:00,180
+wie zum Beispiel Schlaganfall, Bluthochdruck?
+
+148
+00:14:00,180 --> 00:14:07,470
+Meine Mutter hatte Brustkrebs.
+
+149
+00:14:07,470 --> 00:14:10,470
+Lebt Ihre Mutter noch?
+
+150
+00:14:10,470 --> 00:14:14,470
+Ja, meine Mutter und mein Vater leben jetzt.
+
+151
+00:14:14,470 --> 00:14:16,470
+Okay.
+
+152
+00:14:16,470 --> 00:14:22,720
+Mein Vater hat Durchblutungsstörungen.
+
+153
+00:14:22,720 --> 00:14:25,720
+Meinen Sie an den Beinen, oder?
+
+154
+00:14:25,720 --> 00:14:28,720
+In den Unterschenkeln, ja.
+
+155
+00:14:28,720 --> 00:14:33,720
+Okay. Und haben Sie Geschwister?
+
+156
+00:14:33,720 --> 00:14:36,720
+Ich habe einen Bruder.
+
+157
+00:14:36,720 --> 00:14:38,720
+Ich habe einen Bruder, Entschuldigung.
+
+158
+00:14:38,720 --> 00:14:41,720
+Ist er gesund?
+
+159
+00:14:41,720 --> 00:14:54,190
+Nein, Bruder ist nach einem Unfall gelähmt.
+
+160
+00:14:54,190 --> 00:14:58,190
+Okay, alles klar. Es tut mir leid, dass Sie hören.
+
+161
+00:14:58,190 --> 00:15:00,190
+Herr Rothardt.
+
+162
+00:15:00,190 --> 00:15:07,190
+Sie haben gesagt, dass Sie getrennt sind.
+
+163
+00:15:07,190 --> 00:15:12,190
+Und Sie leben mit Ihren Freunden.
+
+164
+00:15:12,190 --> 00:15:14,190
+Ja.
+
+165
+00:15:14,190 --> 00:15:16,190
+Okay, alles klar.
+
+166
+00:15:16,190 --> 00:15:20,190
+Herr Rothardt, ich möchte einige Fragen über Ihre aktuellen Beschwerden stellen.
+
+167
+00:15:20,190 --> 00:15:26,190
+Also, haben Sie Selbstmordgedanken? Darf ich fragen?
+
+168
+00:15:26,190 --> 00:15:28,190
+Selbst?
+
+169
+00:15:28,190 --> 00:15:30,190
+Selbstmordgedanken?
+
+170
+00:15:30,190 --> 00:15:32,190
+Nein.
+
+171
+00:15:32,190 --> 00:15:34,190
+Das freut mich.
+
+172
+00:15:34,190 --> 00:15:36,190
+Ja, ich verstehe.
+
+173
+00:15:36,190 --> 00:15:46,190
+Okay. Herr Rothardt, waren Sie, also sind Sie wegen dieser Beschwerden schon beim anderen Arzt gewesen?
+
+174
+00:15:46,190 --> 00:15:56,190
+Ich bin nicht beim anderen Arzt gewesen.
+
+175
+00:15:56,190 --> 00:16:02,190
+Und haben Sie dagegen ein Medikament eingenommen, pflanzliche Mittel oder andere Medikamente?
+
+176
+00:16:02,190 --> 00:16:04,190
+Haben Sie probiert?
+
+177
+00:16:04,190 --> 00:16:06,190
+Nein, ich habe nicht probiert, ja.
+
+178
+00:16:06,190 --> 00:16:08,190
+Okay.
+
+179
+00:16:08,190 --> 00:16:21,190
+Okay. Herr Rothardt, haben Sie Empfindlichkeit gegen besonders Kälte oder Wärme bemerkt?
+
+180
+00:16:21,190 --> 00:16:24,190
+Ich habe nicht bemerkt, nein.
+
+181
+00:16:24,190 --> 00:16:44,080
+Okay. Herr Rothardt, das waren meine Fragen.
+
+182
+00:16:44,080 --> 00:16:50,080
+Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+183
+00:16:50,080 --> 00:16:56,080
+Ja, Doktor, was habe ich? Ich habe gesagt, ich habe Schilddrüsenunterfunktion.
+
+184
+00:16:56,080 --> 00:17:02,080
+Diese Beschwerden dagegen, diese Krankheit oder?
+
+185
+00:17:02,080 --> 00:17:18,080
+Also, Herr Rothardt, es ist zu früh etwas genau zu sagen, aber diese Beschwerden können mit der Schilddrüsenunterfunktion verbunden sein, ja.
+
+186
+00:17:18,080 --> 00:17:27,080
+Aber zuerst werde ich sie körperlich untersuchen, dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen durchführen.
+
+187
+00:17:27,080 --> 00:17:34,080
+Sie haben jetzt einige depressive Verstimmung.
+
+188
+00:17:34,080 --> 00:17:42,080
+Wie gesagt, Schilddrüsenunterfunktion kann diese Probleme verursachen.
+
+189
+00:17:42,080 --> 00:17:54,080
+Und wie gesagt, ich werde diese Probleme zuerst kontrollieren.
+
+190
+00:17:54,080 --> 00:18:04,080
+Dann, sobald die Ergebnisse da sind, werde ich mit Ihnen die weiteren Informationen mitteilen, okay?
+
+191
+00:18:05,080 --> 00:18:15,080
+Ja, Doktor, danke schön. Ich brauche Ihre Hilfe, ja. Ich habe keine Lust um mein Leben, ja.
+
+192
+00:18:15,080 --> 00:18:22,080
+Ja, ich verstehe Sie sehr gut, Herr Rothardt. Aber machen Sie sich bitte keine Sorgen.
+
+193
+00:18:22,080 --> 00:18:33,080
+Sie sind jetzt im Krankenhaus und in guten Händen bei uns. Sie haben eine gute Entscheidung getroffen, hierher zu kommen, okay?
+
+194
+00:18:33,080 --> 00:18:35,080
+Okay.
+
+195
+00:18:35,080 --> 00:18:43,080
+Okay, warten Sie bitte im Wartezimmer, nehmen Sie einen Platz. Ich bin gleich wieder da.
+
+196
+00:18:43,080 --> 00:18:46,080
+Okay, danke schön, Doktor. Ich warte auf Sie.
+
+197
+00:18:46,080 --> 00:19:01,810
+Abend, Herr Oberarzt, ich habe einen neuen Patienten aufgenommen und ich würde gerne über ihn berichten. Haben Sie kurz Zeit für mich?
+
+198
+00:19:01,810 --> 00:19:03,810
+Ja, bitte.
+
+199
+00:19:03,810 --> 00:19:15,810
+Danke schön. Herr Edwin Rothardt ist 48 Jahre alt, 1,78 Meter groß und 70 Kilogramm schwer.
+
+200
+00:19:15,810 --> 00:19:33,810
+Herr Rothardt starrte sich bei uns wegen seit drei Monaten bestehender chronischer Fatigue, Aszenie und depressiver Verstimmung vor.
+
+201
+00:19:33,810 --> 00:19:44,810
+Dem Patienten zufolge seien die Beschwerden langsam aufgetreten und mit der Zeit schlimmer geworden.
+
+202
+00:19:44,810 --> 00:20:03,810
+Er berichtete über Lustlosigkeit, Friedenlosigkeit, Inappetenz und Gewichtsabnahme von 4 Kilogramm innerhalb von vier Monaten.
+
+203
+00:20:03,810 --> 00:20:16,810
+Außerdem klagte er über Wertlosigkeit und Somnolenz tagsüber.
+
+204
+00:20:16,810 --> 00:20:43,810
+Die Fragen nach Dysphonie, Schlafstörungen in der Nacht, trockene Haut, trockene Haare, Halsvergrößerung, Bradycardie, Obstipation, Selbstmordgedanken, Kälteintoleranz wurden verneint.
+
+205
+00:20:43,810 --> 00:21:07,150
+Der Patient klagte über auch Konzentrationsstörungen. Die vegetative Anamnese ist unauffällig und er sei vollständig gegen Kinderkrankheiten geimpft.
+
+206
+00:21:07,150 --> 00:21:24,400
+An Vorerkrankungen nannte er seit einem Jahr bestehenden Cephalgie und seit sechs Jahren bestehende Hypotheriose.
+
+207
+00:21:24,400 --> 00:21:39,400
+Die Cephalgie tritt an den Stirn und den Hinterkopf auf.
+
+208
+00:21:39,400 --> 00:22:06,400
+Der Patient nehme dagegen Ibuprofen 500mg bei Bedarf ein. Der Patient nehme gegen Hypotheriose L-Tiroxin morgens ein und die Dosierung sollte geklärt werden.
+
+209
+00:22:06,400 --> 00:22:32,400
+Der Patient besucht seinen Hausarzt alle zwei Monate regelmäßig. Er sei bisher noch nie operiert worden und er habe Allergie gegen Pollen, die sich durch Meteorismus und Verdauungsstörungen äußert.
+
+210
+00:22:32,400 --> 00:22:51,400
+Mikrotinkonsum und Drogenkonsum wurden verneint und er trinke zwei bis drei Gläser Wein täglich wegen dieser aktuellen Beschwerden.
+
+211
+00:22:51,400 --> 00:23:06,400
+In der Familienanamnese gab er an, dass die Mutter an Mammakarzinom leide und der Vater leide an Pavk.
+
+212
+00:23:06,400 --> 00:23:30,400
+Er hatte einen Unfall und leide an Lehmung.
+
+213
+00:23:30,400 --> 00:23:58,400
+Er sei getrennt seit vier Jahren, lebe mit seiner Freundin und er habe vier Kinder und die Kinder sind gesund.
+
+214
+00:23:58,400 --> 00:24:17,400
+Er lebe mit zwei Kindern zusammen, andere zwei Kinder leben mit ihrer Mutter. Er sei Pfleger von Beruf und habe viel Stress bei der Arbeit.
+
+215
+00:24:17,400 --> 00:24:33,400
+Ich gehe von einem Verdacht auf Hypothriose aus, da der Patient typische Symptome dafür aufweist.
+
+216
+00:24:33,400 --> 00:24:50,400
+Der Patient leidet unter Gewichtsabnahme, Inapetens, chronischer Fatigue, Asthenie, Wertlosigkeit, Somnolens, tagsüber.
+
+217
+00:24:50,400 --> 00:25:08,400
+Diese Symptome sprechen für eine Hypothriose, als Differenzialdiagnose kommen Depression und Anämie in Betracht.
+
+218
+00:25:08,400 --> 00:25:21,400
+Um meine Verdachtdiagnose zu bestätigen, würde ich bei den Patienten zunächst die Vitalparameter überwachen und eine körperliche Untersuchung durchführen.
+
+219
+00:25:21,400 --> 00:25:43,400
+Bei der körperlichen Untersuchung achte ich darauf, ob Hautfarbeveränderungen, also Palo, getrockener Haut, trockener Haare, Nagelveränderungen vorhanden sind.
+
+220
+00:25:43,400 --> 00:25:53,400
+Zusätzlich ist eine Laboruntersuchung sinnvoll, um eine umfassende Diagnostik zu gewährleisten.
+
+221
+00:25:53,400 --> 00:26:19,400
+Dabei würde ich Blutbild CAP, BSG, TSH, Freit 3, Freit 4, TPO, TR und TG Antikörper, Leberwerte, Nierenwerte, Elektrolyten bestimmen lassen.
+
+222
+00:26:19,400 --> 00:26:29,400
+Danach würde ich eine Thyroid-Synchrographie durchführen, um die möglichen Pathologien zu beurteilen.
+
+223
+00:26:29,400 --> 00:26:43,400
+Darüber hinaus würde ich eine Thyroid-Syntagraphie durchführen, um die kalten Knoten oder heißen Knoten genau zu beurteilen.
+
+224
+00:26:43,400 --> 00:26:53,400
+Und gegebenenfalls würde ich eine Fein-Nadel-Biopsie durchführen, um eine Thyroid-Kalzinome auszuschließen.
+
+225
+00:26:53,400 --> 00:27:09,400
+Und ich würde ein endokrinologisches Konsil und ein psychologisches Konsil anfordern, um die Therapie des Patienten zu optimieren.
+
+226
+00:27:09,400 --> 00:27:37,400
+Sollte sich die Verdachtdiagnose bestätigen, würde ich die Patientestation aufnehmen, weil der Patient viele verschiedene depressive Verstimmungen hat.
+
+227
+00:27:37,400 --> 00:27:43,400
+Die Verstimmungen leiden.
+
+228
+00:27:43,400 --> 00:27:55,400
+Und ich würde die Dosierung von L-Tiroxin vielleicht umsetzen.
+
+229
+00:27:55,400 --> 00:28:03,400
+Ich denke die Dosierung von L-Tiroxin ist nicht genug bei den Patienten.
+
+230
+00:28:03,400 --> 00:28:16,400
+Ja, und wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit der geplanten Untersuchung fortfahren.
+
+231
+00:28:16,400 --> 00:28:23,130
+Was empfehlen Sie den Patienten nach der Behandlung?
+
+232
+00:28:23,130 --> 00:28:43,130
+Ich empfehle den Patienten regelmäßig seinen Hausarzt zu besuchen, um die thyroid-schilderischen Werte zu kontrollieren.
+
+233
+00:28:43,130 --> 00:29:03,130
+Und auch eine Psychotherapie würde sinnvoll sein, weil der Patient viel Stress bei der Arbeit hat.
+
+234
+00:29:03,130 --> 00:29:09,950
+Empfehlen Sie den Patienten Medikamente?
+
+235
+00:29:09,950 --> 00:29:26,870
+Als Medikamentostherapie würde ich L-Tiroxin anordnen.
+
+236
+00:29:26,870 --> 00:29:35,870
+Und der Patient leidet unter chronischer welinformiger Kopfschmerzen, Cephalgie.
+
+237
+00:29:35,870 --> 00:29:43,870
+Ich würde auch Ibuprofen anordnen gegen diese Schmerzen.
+
+238
+00:29:43,870 --> 00:29:54,870
+Und auch eine Kontrolle gegen Migräne empfehlen.
+
+239
+00:29:54,870 --> 00:30:02,150
+Empfehlen Sie den Patienten operativ Behandlung?
+
+240
+00:30:02,150 --> 00:30:18,100
+Zuerst sollen wir eine Thyroidsynthographie durchführen, wenn wir eine kalte Knoten feststellen.
+
+241
+00:30:18,100 --> 00:30:23,100
+Dann können wir eine Fein-Nadelbiopsie durchführen.
+
+242
+00:30:23,100 --> 00:30:38,100
+Und wenn wir eine Katsynome feststellen, sollen wir eine Operation teilweise oder totale Thyrodectomie durchführen.
+
+243
+00:30:38,100 --> 00:30:46,380
+Warum der Patient Gewichtsabnehmen?
+
+244
+00:30:46,380 --> 00:30:54,380
+Der Patient leidet unter Appetitlosigkeit.
+
+245
+00:30:54,380 --> 00:31:04,380
+Dieses Symptom kann mit depressiver Verstimmung verbunden sein.
+
+246
+00:31:04,380 --> 00:31:16,380
+Oder eine Thyroid-Katsynome oder andere Katsynome können diese Gewichtsabnahme verursachen.
+
+247
+00:31:16,380 --> 00:31:23,380
+Wir sollen auf jeden Fall eine Katsynome überprüfen.
+
+248
+00:31:23,380 --> 00:31:32,400
+Sie haben gesagt, ich würde eine Thyroidsynthographie durchführen.
+
+249
+00:31:32,400 --> 00:31:35,400
+Können Sie uns Thyroidsynthographie aufklären?
+
+250
+00:31:35,400 --> 00:31:40,400
+Ja, gerne. Ich werde Sie über Thyroidsynthographie aufklären.
+
+251
+00:31:40,400 --> 00:31:45,400
+Thyroidsynthographie ist ein nuklearmidistinisches Verfahren.
+
+252
+00:31:45,400 --> 00:32:05,400
+Dieses Verfahren hilft uns, die Entzündungen und Tumore der Schilddrüse genauso zu erkennen.
+
+253
+00:32:05,400 --> 00:32:25,400
+Um diese Untersuchung zu machen, verabreichen wir den Patienten zuerst eine kleine Menge Nüblierstoffe.
+
+254
+00:32:25,400 --> 00:32:42,400
+Dann warten wir etwa 30 Minuten, als die Nüblierstoffe in die Schilddrüse gekommen sind.
+
+255
+00:32:42,400 --> 00:32:59,400
+Danach machen wir Bilder der Schilddrüse mit einer Gammakamera, um die kalten oder warmen Knoten zu beurteilen.
+
+256
+00:32:59,400 --> 00:33:17,400
+Nach der Untersuchung empfehlen wir den Patienten viel Wasser zu trinken, um die nuklearmidistinischen Stoffe, radioaktiven Stoffe, schneller auszuscheiden.
+
+257
+00:33:17,400 --> 00:33:45,400
+Es gibt nur wenige Komplikationen, wie zum Beispiel Wärme, Gefühl und es gibt einige Kontraindikationen, wie zum Beispiel Schwangerschaft.
+
+258
+00:33:45,400 --> 00:33:58,860
+Sie haben gesagt, ich würde den Patienten radioaktive Stoffe geben. Welche radioaktive Stoffe geben Sie den Patienten?
+
+259
+00:33:58,860 --> 00:34:17,110
+Das war Comodium oder? Ich bin mir nicht sicher.
+
+260
+00:34:17,110 --> 00:34:40,840
+Ich denke, radioaktive Stoffe geben immer troide Stoffe. Was erwarten Sie während der troide Sonographie?
+
+261
+00:34:40,840 --> 00:34:55,840
+Ja, bei der Untersuchung können wir Hypoecoik Schilddrüse feststellen.
+
+262
+00:34:55,840 --> 00:35:23,840
+Das ist eine Hypothriose und die häufigste Ursache von Hypothriose ist Hashimoto-Troide. Deswegen können wir eine kleine, verminderte Schilddrüse feststellen und auch eine hypoecoike Schilddrüse feststellen.
+
+263
+00:35:23,840 --> 00:35:42,280
+Was bedeutet Hypoecoik? Wir können eine verminderte Schilddrüse feststellen. Das ist die hypoecoike Schilddrüse.
+
+264
+00:35:42,280 --> 00:36:02,280
+Welche Knoten wissen Sie? Es gibt zwei Möglichkeiten, kalte Knoten und Wärme Knoten.
+
+265
+00:36:02,280 --> 00:36:22,280
+Es gibt ein großes Risiko für eine Katsinoma bei der kalten Knoten. Wärme Knoten bedeutet, die Durchblutung der Schilddrüse steigert.
+
+266
+00:36:22,280 --> 00:36:36,940
+Wie können wir Knoten-Type lernen?
+
+267
+00:36:36,940 --> 00:36:56,940
+Die Sintigraphie-Untersuchung hilft uns, um die Knoten genau zu erkennen. Die Dopplex-Sonographie zeigt mir nur die vermehrte Durchblutung.
+
+268
+00:36:56,940 --> 00:37:14,940
+Bei der Dopplex-Sonographie können wir keine kalten oder keine Wärme Knoten feststellen. Wir brauchen eine Sintigraphie, um die kalten oder Wärme Knoten zu beurteilen.
+
+269
+00:37:14,940 --> 00:37:26,940
+Können wir mit Hilfe der Sonographie eine retrosterne Quater oder eine vergrößerte Lymphknoten bewerten?
+
+270
+00:37:26,940 --> 00:37:48,940
+Wir können eine Röntgen des Torax durchführen, um die mögliche Vergrößerung der Schilddrüse durchzuführen.
+
+271
+00:37:48,940 --> 00:38:04,940
+Oder wir können eine oesophagische Ultrasonographie durchführen, um die vielleicht nicht vergrößert werden kann.
+
+272
+00:38:04,940 --> 00:38:20,940
+Wir können mit Hilfe der Troidsonographie eine retrosterne, vergrößerte Troidsdürse und vergrößerte Lymphknoten verwerten.
+
+273
+00:38:20,940 --> 00:38:36,940
+Aber machen wir einfach eine normale Troidsonographie?
+
+274
+00:38:36,940 --> 00:38:42,940
+Was beurteilen während der Troidsonographie?
+
+275
+00:38:42,940 --> 00:38:58,940
+Herr Kollegen, unsere Zeit ist um. Gehen Sie auf unseren Infodisc und nehmen Sie Ihre Self-Gate. Ich wünsche Ihnen viel Erfolg für Ihre Arbeitswege.
+
+276
+00:38:58,940 --> 00:39:09,940
+Vielen Dank, Herr Oberst. Sie sind sehr nett. Das war eine sehr genehme Sprechzeit bei mir. Das war schwierig, aber schön. Danke.

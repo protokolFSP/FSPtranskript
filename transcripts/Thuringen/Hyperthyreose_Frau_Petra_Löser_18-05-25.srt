@@ -1,0 +1,1151 @@
+1
+00:00:00,000 --> 00:00:16,630
+Söre ich başlatte, Schönen guten Tag. Mein Name ist Ucak. Ich bin auf dieser Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Anamnese-Gespräch durchführen. Damit sind Sie einverstanden?
+
+2
+00:00:16,630 --> 00:00:19,630
+Ich bin einverstanden Doktor, danke schön.
+
+3
+00:00:19,630 --> 00:00:32,630
+Ja danke. Bitte fragen Sie nach, wenn Sie etwas nicht verstehen. Ich werde Ihnen gerne ein paar allgemeine Fragen stellen bevor Sie über Ihre Beschwerden erzählen. Ist das in Ordnung?
+
+4
+00:00:32,630 --> 00:00:34,630
+Ja ich verstehe.
+
+5
+00:00:34,630 --> 00:00:36,630
+Wie heißen Sie denn?
+
+6
+00:00:36,630 --> 00:00:39,630
+Ich heiße Petra Lösa.
+
+7
+00:00:39,630 --> 00:00:47,890
+Frau Lösa, wie alt sind Sie?
+
+8
+00:00:47,890 --> 00:00:52,890
+Ich bin 5 und 5, 50 Jahre alt Doktor.
+
+9
+00:00:52,890 --> 00:00:54,890
+Wann sind Sie genau geboren?
+
+10
+00:00:54,890 --> 00:01:00,890
+11.2.1970
+
+11
+00:01:00,890 --> 00:01:04,170
+Wie groß sind Sie?
+
+12
+00:01:04,170 --> 00:01:08,170
+1,68 Meter.
+
+13
+00:01:08,170 --> 00:01:11,800
+Und wie viel wiegen Sie zuzeit?
+
+14
+00:01:11,800 --> 00:01:17,370
+74 Kilogramm.
+
+15
+00:01:17,370 --> 00:01:23,370
+Ok, danke für die Informationen. Frau Lösa, was kann ich für Sie tun? Was für Beschwerden haben Sie zuzeit?
+
+16
+00:01:24,370 --> 00:01:27,370
+Doktor, ich fühle mich sehr nervös.
+
+17
+00:01:27,370 --> 00:01:34,430
+Seit wann haben Sie diese Beschwerden Frau Lösa?
+
+18
+00:01:34,430 --> 00:01:42,430
+Seit etwa 3 oder bis 4 Monaten fühle ich mich dieser Beschwerden.
+
+19
+00:01:42,430 --> 00:01:55,000
+Ok, seit 3 bis 4 Monaten fühlen Sie sich nervös. Also meinen Sie unruhig?
+
+20
+00:01:55,000 --> 00:01:58,000
+Ja, ja. Entschuldigung?
+
+21
+00:01:58,000 --> 00:02:00,000
+Unruhig meinen Sie?
+
+22
+00:02:00,000 --> 00:02:13,000
+Ja, ja. Ich bin innerlich unruhig. Fast schon hübelig. Und merke, dass ich öfter Herzrasen habe.
+
+23
+00:02:13,000 --> 00:02:30,040
+Ok. Frau Lösa, also darf ich fragen, leiden Sie an chronischen Erkrankungen? Besonders schiktrischen Erkrankungen?
+
+24
+00:02:30,040 --> 00:02:35,040
+Ich habe nicht bemerkt Doktor. Nein.
+
+25
+00:02:35,040 --> 00:02:42,040
+Ok, alles klar. Frau Lösa, darf ich fragen, wie ist Ihr Appetit?
+
+26
+00:02:42,040 --> 00:02:47,040
+Mein Appetit ist nicht gut.
+
+27
+00:02:47,040 --> 00:02:55,910
+Haben Sie in der letzten Zeit ab oder zugenommen? Ich meine unwillkürlich?
+
+28
+00:02:55,910 --> 00:03:03,910
+Ja, ja. Ich habe in nur einem Monat ungefähr 7 Kilo abgenommen.
+
+29
+00:03:03,910 --> 00:03:22,080
+Alles klar. Frau Lösa, haben Sie bemerkt, dass Sie Hautfarbe oder Haut verändern gerne?
+
+30
+00:03:22,080 --> 00:03:32,080
+Wie zum Beispiel feuchte Haut oder Nägelveränderung oder Haarausfall haben?
+
+31
+00:03:32,080 --> 00:03:47,680
+Ja Doktor. Dazu kommt, dass meine Nägel beruhig geworden sind und mir vermehrt, die Haare ausfallen.
+
+32
+00:03:47,680 --> 00:03:51,990
+Sind Sie einverstanden?
+
+33
+00:03:51,990 --> 00:03:59,990
+Ja, ich verstehe. Und auch haben Sie feuchte Haut bemerkt?
+
+34
+00:03:59,990 --> 00:04:02,990
+Ja, ja. Richtig.
+
+35
+00:04:02,990 --> 00:04:05,990
+Ok. Alles klar.
+
+36
+00:04:05,990 --> 00:04:14,990
+Ich habe gesagt, dass ich ungefähr 7 Kilo abgenommen habe, obwohl ich nicht mehr aus einer Diät gemacht habe.
+
+37
+00:04:14,990 --> 00:04:22,990
+Aber Sie haben gesagt, dass Sie eine Appetitlosigkeit haben. Ist das richtig oder?
+
+38
+00:04:22,990 --> 00:04:35,990
+Ein bisschen. Ich esse gut gegessen. Aber ich habe ungefähr einen Monat ungefähr 7 Kilo abgenommen.
+
+39
+00:04:35,990 --> 00:04:39,990
+Alles klar. Ich habe verstanden.
+
+40
+00:04:39,990 --> 00:04:44,990
+Haben Sie Zittern in den Händen? Haben Sie bemerkt?
+
+41
+00:04:44,990 --> 00:04:47,990
+Ich habe nicht bemerkt, nein.
+
+42
+00:04:47,990 --> 00:05:01,470
+Ok. Frau Lösa, haben Sie eine Vergrößerung am Hals bemerkt?
+
+43
+00:05:01,470 --> 00:05:07,470
+Bei mir sind diese Beschwerden nicht ausgefallen, nein.
+
+44
+00:05:07,470 --> 00:05:11,750
+Es gibt keine Vergrößerung am Hals, ja?
+
+45
+00:05:11,750 --> 00:05:24,750
+Ja, ich habe keine Bemerkungen. Aber keine Ahnung, ob es eine Vergrößerung ist oder nicht.
+
+46
+00:05:24,750 --> 00:05:27,750
+Ich habe keine Bemerkungen.
+
+47
+00:05:27,750 --> 00:05:33,750
+Verstanden. Leiden Sie unter Schweißausbrüchen?
+
+48
+00:05:34,750 --> 00:05:41,750
+Ich schwitze sehr stark, auch wenn es gar nicht heiss ist.
+
+49
+00:05:41,750 --> 00:05:50,020
+Ok. Also Sie haben auch etwas Interessant.
+
+50
+00:05:50,020 --> 00:05:52,020
+Ja, richtig.
+
+51
+00:05:52,020 --> 00:05:55,020
+Also Empfindlichkeit gegen Hitze, ja?
+
+52
+00:05:55,020 --> 00:06:02,140
+Ja, richtig.
+
+53
+00:06:02,140 --> 00:06:16,100
+Außerdem habe ich nach Schweiß gegen diese Beschwerden nicht gut geschlafen.
+
+54
+00:06:16,100 --> 00:06:21,100
+Haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+55
+00:06:21,100 --> 00:06:29,500
+Durchschlafen, ja. Wegen Schwitzen.
+
+56
+00:06:30,500 --> 00:06:35,500
+Frau Lösa, haben Sie Probleme beim Wasserlassen oder mit dem Stürmgang?
+
+57
+00:06:35,500 --> 00:06:39,500
+Ich habe nicht bemerkt, nein.
+
+58
+00:06:39,500 --> 00:06:43,500
+Oder ist Ihnen übel oder mussten Sie erbrechen?
+
+59
+00:06:43,500 --> 00:06:46,500
+Nein, ich habe nicht bemerkt.
+
+60
+00:06:46,500 --> 00:07:01,600
+Fühlen Sie sich fieberig? Also ich meine, ja Sie haben eine Empfindlichkeit gegen Hitze, aber haben Sie Fieber oder Schütterfrost, meine ich?
+
+61
+00:07:01,600 --> 00:07:09,600
+Ich habe das Fieber nicht gemessen, aber ich fühle mich nicht fieberig, nein.
+
+62
+00:07:09,600 --> 00:07:16,600
+Leiden Sie unter Luftnot oder Husten?
+
+63
+00:07:16,600 --> 00:07:25,420
+Bei mir sind diese Beschwerden nicht aufgefallen, nein.
+
+64
+00:07:25,420 --> 00:07:34,420
+Sind Sie vollständig gegen Kinderkrankheiten und Corona-Infektionen geimpft?
+
+65
+00:07:34,420 --> 00:07:45,420
+Ja, ich bin vollständig geimpft gegen 3x Covid.
+
+66
+00:07:45,420 --> 00:07:56,260
+Und haben Sie in der letzten Zeit besonders eine Reise ins Ausland gemacht?
+
+67
+00:07:56,260 --> 00:08:08,260
+Vor zwei Monaten gehe ich mit meiner Familie nach Schweiz.
+
+68
+00:08:08,260 --> 00:08:18,970
+Frau Lösa, leiden Sie an chronischen Erkrankungen, von denen ich wissen sollte?
+
+69
+00:08:18,970 --> 00:08:24,970
+Ja, Doktor, ich habe chronischen Rückschmerzen, ja.
+
+70
+00:08:24,970 --> 00:08:29,950
+Seit wann haben Sie diese Schmerzen?
+
+71
+00:08:29,950 --> 00:08:38,950
+Es ist sehr lange, ungefähr acht oder zehn Jahre.
+
+72
+00:08:38,950 --> 00:08:44,450
+Und was nehmen Sie dagegen ein?
+
+73
+00:08:44,450 --> 00:08:52,450
+Ja, ich nehme eine Tablette Diclofenac gegen diese Beschwerden, bei Bedarf.
+
+74
+00:08:52,450 --> 00:08:55,450
+Kennen Sie die Dosierung?
+
+75
+00:08:55,450 --> 00:09:01,450
+Ich habe nicht erinnern, Doktor, nein.
+
+76
+00:09:01,450 --> 00:09:05,450
+Haben Sie eine Medikamentenliste dabei?
+
+77
+00:09:05,450 --> 00:09:19,450
+Jetzt nicht, aber vielleicht kennen meine Hausarztin meine Wege oder andere Medikamente.
+
+78
+00:09:19,450 --> 00:09:23,450
+Wer ist Ihr Hausarzt oder Hausärztin?
+
+79
+00:09:23,450 --> 00:09:30,920
+Mein Hausarzt ist Frau Schüller.
+
+80
+00:09:30,920 --> 00:09:35,920
+Ok, ich werde Ihren Hausärztin kontaktieren, ja. Machen Sie sich bitte keine Sorgen.
+
+81
+00:09:35,920 --> 00:09:37,920
+Danke schön, Doktor.
+
+82
+00:09:37,920 --> 00:09:43,920
+Frau Lösa, sonst noch haben Sie irgendwelche anderen Erkrankungen?
+
+83
+00:09:43,920 --> 00:09:54,700
+Ja, ich habe auch seit langem eine chronische Nasennebenhochentzündung.
+
+84
+00:09:54,700 --> 00:09:57,700
+Seit wann haben Sie dieses Problem?
+
+85
+00:09:57,700 --> 00:09:59,700
+Seit vier Jahren.
+
+86
+00:09:59,700 --> 00:10:04,980
+Und nehmen Sie ein Medikament dagegen ein?
+
+87
+00:10:04,980 --> 00:10:12,980
+Ja, ich nehme dafür ein Nasenspray ein, aber ich weiß den Namen leider nicht mehr.
+
+88
+00:10:12,980 --> 00:10:14,980
+Ok, kein Problem.
+
+89
+00:10:14,980 --> 00:10:20,980
+Benutzen Sie diese Nasenspray regelmäßig oder bei Bedarf?
+
+90
+00:10:20,980 --> 00:10:31,380
+Bei Bedarf so ein bis zwei Mal pro Woche.
+
+91
+00:10:31,380 --> 00:10:33,380
+Und das war's?
+
+92
+00:10:33,380 --> 00:10:35,380
+Ja, das war's.
+
+93
+00:10:35,380 --> 00:10:42,380
+Frau Lösa, besuchen Sie Ihren Frauenarzt regelmäßig?
+
+94
+00:10:42,380 --> 00:10:54,380
+Ja, Doktor. Ich besuche regelmäßig meinen Frauenarzt jeden zwei Monate.
+
+95
+00:10:54,380 --> 00:11:00,770
+Und alles in Ordnung?
+
+96
+00:11:00,770 --> 00:11:02,770
+Ja, alles in Ordnung.
+
+97
+00:11:02,770 --> 00:11:06,770
+Und wann war Ihre letzte Monatblutung?
+
+98
+00:11:06,770 --> 00:11:20,770
+Es war sehr lange Zeit. Ich habe nicht erinnert, aber ungefähr vor 20 Jahren.
+
+99
+00:11:20,770 --> 00:11:25,770
+Sie sind jetzt 55 Jahre alt, richtig?
+
+100
+00:11:25,770 --> 00:11:28,770
+Nein, nein, vor fünf Jahren.
+
+101
+00:11:28,770 --> 00:11:38,020
+Fünf Jahre, ok, alles klar.
+
+102
+00:11:38,020 --> 00:11:41,020
+Sind Sie schon einmal operiert worden?
+
+103
+00:11:41,020 --> 00:11:50,020
+Ja, vor etwa zehn Jahren hatte ich beim Skifahren einen Unfall.
+
+104
+00:11:50,020 --> 00:12:01,650
+Dabei habe ich mir den rechten Knochen gebrochen.
+
+105
+00:12:01,650 --> 00:12:04,650
+Was meint ihr damit? Knochen oder Knochen?
+
+106
+00:12:04,650 --> 00:12:06,650
+Knochen.
+
+107
+00:12:06,650 --> 00:12:09,650
+Knochen, der rechte Knochen.
+
+108
+00:12:09,650 --> 00:12:13,650
+Ok, außer Knochen oder innen Knochen?
+
+109
+00:12:13,650 --> 00:12:28,900
+Innen Knochen. Bei mir wurde eine Operation gemacht.
+
+110
+00:12:28,900 --> 00:12:32,900
+Ok, und sonst?
+
+111
+00:12:32,900 --> 00:12:39,900
+Vor vier Jahren hatte ich eine Schleimbaute entzündet, am rechten Ellenbogen.
+
+112
+00:12:39,900 --> 00:12:52,240
+Und Sie hatten eine Operation, richtig?
+
+113
+00:12:52,240 --> 00:12:55,550
+Ja, ja.
+
+114
+00:12:55,550 --> 00:13:07,550
+Ok, nehmen Sie regelmäßig oder bei Bedarf außer genannten Medikamenten noch irgendwelche anderen Medikamente ein?
+
+115
+00:13:07,550 --> 00:13:18,550
+Ich habe vergessen, Doktor, ich habe seit etwa vier Jahren eine Fetstoffweichzerstörung.
+
+116
+00:13:18,550 --> 00:13:24,120
+Und nehme dafür Simvostatin.
+
+117
+00:13:24,120 --> 00:13:26,120
+Seit?
+
+118
+00:13:26,120 --> 00:13:28,120
+Entschuldigung bitte.
+
+119
+00:13:28,120 --> 00:13:30,120
+Seit fünf Jahren?
+
+120
+00:13:30,120 --> 00:13:32,120
+Seit etwa vier Jahren.
+
+121
+00:13:32,120 --> 00:13:34,120
+Vier Jahren.
+
+122
+00:13:34,120 --> 00:13:40,120
+Aber ich bin mir bei der genauen Dosierung nicht ganz sicher.
+
+123
+00:13:40,120 --> 00:13:44,120
+Aber ich nehme es abends.
+
+124
+00:13:44,120 --> 00:13:49,120
+Ok, also leiden Sie an erhöhten Blutfettwerte?
+
+125
+00:13:49,120 --> 00:13:56,250
+Ja, ja.
+
+126
+00:13:56,250 --> 00:14:04,250
+Ok, und ich glaube Sie nehmen keine anderen Medikamente ein, außer genannten?
+
+127
+00:14:04,250 --> 00:14:06,250
+Ja, ja.
+
+128
+00:14:06,250 --> 00:14:15,250
+Und haben Sie Allergie gegen irgendwelche Medikamente oder Pflanzen oder Nahrungsmittel?
+
+129
+00:14:15,250 --> 00:14:25,250
+Ich reagiere allergisch auf keine Medikamente oder Pflanzen, nein.
+
+130
+00:14:25,250 --> 00:14:27,250
+Sie haben keine Allergie, richtig?
+
+131
+00:14:27,250 --> 00:14:29,250
+Ja, ja, ich habe keine Allergie.
+
+132
+00:14:29,250 --> 00:14:31,250
+Ok, Frau Löser, rauchen Sie?
+
+133
+00:14:31,250 --> 00:14:34,250
+Ich rauche nicht, nein.
+
+134
+00:14:34,250 --> 00:14:36,250
+Haben Sie früher geraucht?
+
+135
+00:14:36,250 --> 00:14:38,250
+Ich habe nicht geraucht, nein.
+
+136
+00:14:38,250 --> 00:14:42,250
+Das freut mich. Trinken Sie regelmäßig Alkohol?
+
+137
+00:14:42,250 --> 00:14:50,250
+Ich trinke selten Alkohol, aber ich nehme ein Glas Bier.
+
+138
+00:14:50,250 --> 00:14:52,250
+Oder ein Ferain.
+
+139
+00:14:52,250 --> 00:14:58,250
+Ok, bitte nehmen Sie die nächste Frage nicht persönlich, das ist eine Routinefrage.
+
+140
+00:14:58,250 --> 00:15:01,250
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+141
+00:15:01,250 --> 00:15:04,250
+Ich nehme keine Drogen, Doktor.
+
+142
+00:15:04,250 --> 00:15:09,250
+Super. Frau Löser, leiden Ihre Eltern an chronischen Erkrankungen,
+
+143
+00:15:09,250 --> 00:15:14,250
+von denen ich wissen sollte, wie zum Beispiel Bluthochdurung oder Zuckerkrankheit?
+
+144
+00:15:14,250 --> 00:15:19,250
+Ja Doktor, in meiner Familie gibt es schwere Erkrankungen.
+
+145
+00:15:19,250 --> 00:15:24,250
+Mein Vater musste einmal wiederbleiben.
+
+146
+00:15:24,250 --> 00:15:29,250
+Wiederbleiben werden wegen eines Herzstillstands.
+
+147
+00:15:29,250 --> 00:15:36,180
+Er lebt jetzt im Altenheim.
+
+148
+00:15:36,180 --> 00:15:43,950
+Aber es gibt momentan kein Problem, richtig?
+
+149
+00:15:43,950 --> 00:15:45,950
+Ja, momentan kein Problem.
+
+150
+00:15:45,950 --> 00:15:47,950
+Und Ihre Mutter?
+
+151
+00:15:47,950 --> 00:15:55,950
+Meine Mutter ist mit 65 Jahren an einem Herzinfarkt gestorben.
+
+152
+00:15:55,950 --> 00:16:02,980
+Mein Beileid, Frau Löser.
+
+153
+00:16:02,980 --> 00:16:04,980
+Haben Sie Geschwister?
+
+154
+00:16:04,980 --> 00:16:11,980
+Ich habe eine Schwester, aber sie sind gesund.
+
+155
+00:16:11,980 --> 00:16:17,820
+Ihre Familienstand?
+
+156
+00:16:17,820 --> 00:16:19,820
+Ich bin verheiratet.
+
+157
+00:16:19,820 --> 00:16:22,820
+Haben Sie Kinder?
+
+158
+00:16:22,820 --> 00:16:25,820
+Ich habe drei Kinder.
+
+159
+00:16:25,820 --> 00:16:28,820
+Ein Sohn und zwei Töchter.
+
+160
+00:16:28,820 --> 00:16:30,820
+Alle sind gesund.
+
+161
+00:16:30,820 --> 00:16:36,960
+Super. Was sind Sie für einen Beruf?
+
+162
+00:16:36,960 --> 00:16:42,960
+Ich arbeite als Landschaftsgärtnerin.
+
+163
+00:16:42,960 --> 00:16:52,870
+Und leben Sie mit Ihrer Familie?
+
+164
+00:16:52,870 --> 00:16:56,870
+Ja, ich lebe mit meiner Familie.
+
+165
+00:16:56,870 --> 00:16:58,870
+Alles klar.
+
+166
+00:16:58,870 --> 00:17:14,650
+Frau Löser, das war meine Frage.
+
+167
+00:17:14,650 --> 00:17:16,650
+Möchten Sie etwas hinzufügen?
+
+168
+00:17:16,650 --> 00:17:19,650
+Oder haben Sie Fragen an mich?
+
+169
+00:17:19,650 --> 00:17:22,650
+Doktor, was habe ich?
+
+170
+00:17:22,650 --> 00:17:26,650
+Ich bin innerlich unruhig.
+
+171
+00:17:26,650 --> 00:17:29,650
+Ich bin sehr unruhig.
+
+172
+00:17:29,650 --> 00:17:31,650
+Ich verstehe Sie sehr gut.
+
+173
+00:17:31,650 --> 00:17:38,650
+Frau Löser, machen Sie sich bitte um.
+
+174
+00:17:38,650 --> 00:17:42,650
+Sie haben eine gute Entscheidung, hierher zu kommen.
+
+175
+00:17:42,650 --> 00:17:45,650
+Sie sind jetzt im Krankenhaus.
+
+176
+00:17:45,650 --> 00:17:48,650
+Sie sind bei uns in guten Händen.
+
+177
+00:17:48,650 --> 00:17:54,650
+Ich vermute, dass Sie ein Problem mit Schilddrüssen haben.
+
+178
+00:17:54,650 --> 00:17:59,650
+Das ist wahrscheinlich eine Schilddrüssenüberfunktion.
+
+179
+00:17:59,650 --> 00:18:03,650
+Deswegen werde ich Sie körperlich untersuchen.
+
+180
+00:18:03,650 --> 00:18:08,650
+Dann werde ich Ihnen ein paar Untersuchungen veranlassen.
+
+181
+00:18:08,650 --> 00:18:13,650
+Ich habe viel Angst.
+
+182
+00:18:13,650 --> 00:18:17,650
+Es könnte sein, dass ich verrückt bin.
+
+183
+00:18:17,650 --> 00:18:21,650
+Nein, kann jedenfalls.
+
+184
+00:18:21,650 --> 00:18:27,650
+Frau Löser, Sie haben wahrscheinlich ein Problem mit Schilddrüssen.
+
+185
+00:18:27,650 --> 00:18:33,650
+Dieses Problem kann solche Beschwerden verursachen.
+
+186
+00:18:33,650 --> 00:18:40,650
+Mit einer Medikamentösertherapie werden Sie sich wieder gut fühlen.
+
+187
+00:18:40,650 --> 00:18:42,650
+Danke schön, Doktor.
+
+188
+00:18:42,650 --> 00:18:43,650
+Sehr gerne.
+
+189
+00:18:43,650 --> 00:18:45,650
+Ich warte auf Sie.
+
+190
+00:18:45,650 --> 00:18:48,650
+Bitte nehmen Sie Platz.
+
+191
+00:18:48,650 --> 00:18:51,650
+Ich bin gleich wieder da.
+
+192
+00:18:51,650 --> 00:18:53,650
+Danke schön, Doktor.
+
+193
+00:18:53,650 --> 00:18:58,340
+Schönen guten Abend, Herr Oberarzt.
+
+194
+00:18:58,340 --> 00:19:01,340
+Ich habe eine neue Patientin aufgenommen.
+
+195
+00:19:01,340 --> 00:19:04,340
+Ich würde gerne über Sie berichten.
+
+196
+00:19:04,340 --> 00:19:06,340
+Haben Sie kurz Zeit für mich?
+
+197
+00:19:06,340 --> 00:19:07,340
+Ja.
+
+198
+00:19:07,340 --> 00:19:08,340
+Danke.
+
+199
+00:19:08,340 --> 00:19:12,340
+Frau Petra Löser ist 55 Jahre alt.
+
+200
+00:19:12,340 --> 00:19:17,340
+Sie ist 1,68 Meter groß und 7 kg schwer.
+
+201
+00:19:17,340 --> 00:19:29,340
+Frau Löser stellte sich heute bei uns wegen seit 3 bis 4 Monaten bestehender Nervosität vor.
+
+202
+00:19:29,340 --> 00:20:00,090
+Die Patientin berichtete über Trachycardie, Allopäsee, Nägelbruch, Feuchtehaut, Hyperhydrose, nächtliche Hyperhydrose, Hitze in Toiletten, Schmerzen, Schmerzen.
+
+203
+00:20:00,090 --> 00:20:23,380
+Hitze in Toleranz und Gewichtsabnahme von 7 kg innerhalb von einem Monat.
+
+204
+00:20:23,380 --> 00:20:43,380
+Die Fragen nach Inapetens, Dyspne und Tussis und Vergrößerung im Halsbereich und Wärtiger wurden verneint.
+
+205
+00:20:43,380 --> 00:20:52,460
+Bei der vegetativen Anamnese seien die Folgenden bekannt.
+
+206
+00:20:52,460 --> 00:20:56,460
+Insomnie in Form von Durchschlafstörungen.
+
+207
+00:20:56,460 --> 00:21:13,090
+Die Patientin sei vollständig gegen Kinderkrankheiten und 3 mal gegen Covid-19 geimpft.
+
+208
+00:21:13,090 --> 00:21:25,090
+Sie habe mit ihrer Familie vor 2 Monaten eine Reise nach Schweiz gemacht.
+
+209
+00:21:25,090 --> 00:21:37,090
+Sie besuchte ihren Frauenarzt regelmäßig jedes 2 Monate und letzte Monatblutung war vor 5 Jahren.
+
+210
+00:21:37,090 --> 00:21:55,090
+Anvorerkrankungen nannte sie seit 8 bis 10 Jahren bestehende chronische Lumbargie, seit 4 Jahren bestehende Sinusitis und seit 4 Jahren bestehende Hyperlipidemie.
+
+211
+00:21:55,090 --> 00:22:10,090
+Sie nehme Diclofenac bei Bedarf, Nasenspray 1 bis 2 Mal pro Woche bei Bedarf und Simvastatin abends ein.
+
+212
+00:22:10,090 --> 00:22:19,620
+Die Dosierung von Medikamenten sollte geklärt werden.
+
+213
+00:22:19,620 --> 00:22:43,270
+Vor 10 Jahren habe sie sich beim Skifahrenunfall rechtseitige Innenknochenfraktur zugezogen, die operativ behandelt worden sei.
+
+214
+00:22:43,270 --> 00:22:57,270
+Vor 4 Jahren sei sie wegen einer Bursitis am rechten Ellenbogen operiert worden.
+
+215
+00:22:57,270 --> 00:23:11,270
+Allergiegeschichte wurde verneint, Nikotinkonsum und Drogenkonsum wurden verneint und sie trinke ein Glas Bier am Wochenende.
+
+216
+00:23:11,270 --> 00:23:35,000
+In der Familienanamnese gab sie an, dass der Vater an Assistolie gelitten und hatte eine Resuscitation.
+
+217
+00:23:35,000 --> 00:23:49,000
+Die Mutter sei mit 65 Jahren an Herzinfarkt verstorben.
+
+218
+00:23:49,000 --> 00:24:12,000
+Sie habe eine Schwester, die gesund sei. Die Patientin sei verheiratet, habe einen Sohn und zwei Töchter, die gesund seien und die Patientin wohne mit ihrer Familie.
+
+219
+00:24:12,000 --> 00:24:18,000
+Sie sei Landschaftsgärtnerin von Beruf.
+
+220
+00:24:18,000 --> 00:24:30,000
+Ich gehe von einem Verdacht auf eine Hyperarthriose aus, da die Patientin typische Symptome dafür aufweist.
+
+221
+00:24:30,000 --> 00:24:54,000
+Die Patientin leidet unter Nervosität, Tachikardie, Gewichtsabnahme von 7 kg innerhalb von einem Monat, Allopäie, Nägelveränderungen, Hyperhydrose, nächtliche Hyperhydrose.
+
+222
+00:24:54,000 --> 00:24:59,000
+Diese Symptome sprechen für eine Hyperthyriose.
+
+223
+00:24:59,000 --> 00:25:23,410
+Als Differenzia-Diagnosen kommen Zephygus, Carcinom, Morbus Hodgkin, aber es gibt keine Heißvergrößerung.
+
+224
+00:25:27,640 --> 00:25:39,640
+Die Metabolischen Krankheiten wie Diabetes mellitus
+
+225
+00:25:39,640 --> 00:25:53,640
+Zunächst würde ich bei der Patientin eine körperliche Untersuchung durchführen.
+
+226
+00:25:53,640 --> 00:26:17,640
+Bei der körperlichen Untersuchung achte ich darauf, ob Halsvergrößerung, Hautfarbeveränderungen, vergrößerte Lymphknoten, Nägelveränderungen vorhanden sind.
+
+227
+00:26:17,640 --> 00:26:25,640
+Zusätzlich ist eine Laboruntersuchung sinnvoll, um eine umfassende Diagnostik zu gewährleisten.
+
+228
+00:26:25,640 --> 00:26:51,640
+Dabei würde ich Blutbild, CRP, BSK, TSH, T3, T4, Leberwerte, Nierenwerte, Elektrolyten, Blutzucker, Herzenzime bestimmen lassen.
+
+229
+00:26:51,640 --> 00:27:11,260
+Danach würde ich eine Thyroid-Ultra-Sonographie durchführen, um die Verdachtdiagnose zu bestätigen.
+
+230
+00:27:11,260 --> 00:27:26,260
+Danach würde ich eine Feinnadelbiopsie durchführen, um die möglichen Pathologien genau zu beurteilen.
+
+231
+00:27:26,260 --> 00:27:48,260
+Zusätzlich würde ich eine Thyroid-Synthographie verlassen, um die möglichen Knoten zu beurteilen, ob die kalten oder heißen Knoten sind.
+
+232
+00:27:48,260 --> 00:28:01,260
+Sollte sich die Verdachtdiagnose bestätigen, würde ich die Patientinstation aufnehmen.
+
+233
+00:28:01,260 --> 00:28:29,260
+Ich würde die Patientin einen venösen Zugang legen und Flüssigkeitzufuhr, Metamizol, Opilturacil, Beta-Blocker verbreiten.
+
+234
+00:28:29,260 --> 00:28:40,260
+Danach würde ich ein endokrinologisches Konzil anfordern, um die Therapie der Patienten zu optimieren.
+
+235
+00:28:40,260 --> 00:28:59,260
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit der geplanten Untersuchung fortfahren.
+
+236
+00:28:59,260 --> 00:29:15,260
+Herr Kollegen, Sie haben gesagt, ich würde in diesem Fall ein Blutbild bestimmen lassen. Welches Blutbild? Kleines oder großes? Und warum?
+
+237
+00:29:15,260 --> 00:29:34,210
+Ich würde ein kleines Blutbild bestimmen lassen, also besonders ein Lykocytin-Zahl, um die Thyroiditis auszuschließen.
+
+238
+00:29:34,210 --> 00:29:47,580
+Und ich würde kontrollieren, ob die Patientin Anämie hat.
+
+239
+00:29:47,580 --> 00:30:12,380
+Sie haben gesagt, Sie möchten ein Sündungsdiagnostil aussehen, würde ich ein großes Blutbild bestimmen lassen, wenn Sie keine Sündungsdenken, kleines Blutbild bestimmen lassen.
+
+240
+00:30:13,380 --> 00:30:18,380
+In diesem Fall möchten Sie ein chirurgisches Konzil?
+
+241
+00:30:18,380 --> 00:30:42,540
+Ein chirurgisches Konzil würde sinnvoll sein. Bei diesen Patienten können wir eine chirurgische Therapie benutzen.
+
+242
+00:30:42,540 --> 00:31:04,540
+Zuerst können wir die medikamentöse Therapie veranlassen, aber wenn wir keine positiven Ergebnisse haben, dann können wir bei den Patienten eine operative Behandlung veranlassen.
+
+243
+00:31:04,540 --> 00:31:10,540
+In welcher Situation empfehlen Sie den Patienten eine Operation?
+
+244
+00:31:12,430 --> 00:31:36,050
+Wenn wir keine Antworten mit dieser medikamentösen Therapie haben, dann empfehle ich eine operative Therapie.
+
+245
+00:31:36,050 --> 00:31:45,550
+In diesem Fall denken Sie ein Thyroid-Karzinom?
+
+246
+00:31:45,550 --> 00:31:57,550
+Zuerst müssen wir eine Thyroid-Synthographie durchführen, um die möglichen Knoten zu beurteilen.
+
+247
+00:31:57,550 --> 00:32:20,550
+Wenn wir kalte Knoten feststellen können, dann würde ich eine Karzinom denken und würde ich eine Fein-Nadel-Biopsie durchführen, um die genaue Pathologie zu bestätigen.
+
+248
+00:32:20,550 --> 00:32:30,550
+Sie haben gesagt, ich würde in diesem Fall eine Synthographie durchführen. Können Sie uns die Thyroid-Synthographie aufklären?
+
+249
+00:32:30,550 --> 00:32:43,990
+Herr Oberst, ich würde Sie gerne über die Thyroid-Synthographie aufklären.
+
+250
+00:32:43,990 --> 00:33:14,250
+Die Thyroid-Synthographie ist eine Untersuchung, mit der wir die Tumore oder metabolische Veränderungen bei Thyroid zu beurteilen.
+
+251
+00:33:14,250 --> 00:33:33,750
+Diese Untersuchung hilft uns, die maligne Erkrankungen oder andere Knoten genau zu beurteilen.
+
+252
+00:33:33,750 --> 00:33:55,750
+Bei dieser Untersuchung verabreichen wir die Patienten ein leichtes radioaktives Mittel.
+
+253
+00:33:55,750 --> 00:34:28,860
+Dann warten wir für etwa eine Stunde. Dann machen wir mit Hilfe einer Gamakamera die Bilder der Schilddrüse.
+
+254
+00:34:28,860 --> 00:34:36,860
+Dann stellen wir die Bilder.
+
+255
+00:34:36,860 --> 00:34:56,860
+Bei dieser Untersuchung können wir die Knoten genau beurteilen, ob sie kalte oder heiße Knoten sind.
+
+256
+00:34:56,860 --> 00:35:10,030
+Bei der kalten Knoten machen wir eine Feinnadelbiopsik.
+
+257
+00:35:10,030 --> 00:35:20,030
+Herr Kollegen, was bedeutet kalte Knoten oder weiße Knoten?
+
+258
+00:35:20,030 --> 00:35:39,950
+Wenn die Durchblutung von Knoten vermindert ist, sehen wir heiße Knoten.
+
+259
+00:35:39,950 --> 00:36:03,810
+Bei der Synthographie-Methode legen die radioaktiven Mittel in den heißen Knoten mehr als in den kalten Knoten.
+
+260
+00:36:03,810 --> 00:36:22,750
+Was empfehlen Sie den Patienten nach der Untersuchung?
+
+261
+00:36:22,750 --> 00:36:38,770
+Nach der Untersuchung soll die Patientin viel zu viel trinken um die radioaktiven Mittel schnell auszuscheiden.
+
+262
+00:36:38,770 --> 00:36:40,770
+Und?
+
+263
+00:36:40,770 --> 00:36:47,770
+Und häufig auf die Toilette gehen.
+
+264
+00:36:47,770 --> 00:36:49,770
+Und?
+
+265
+00:36:49,770 --> 00:37:05,920
+Ich habe nur eine Grundlegende Kenntnis mit diesem Fall.
+
+266
+00:37:05,920 --> 00:37:17,390
+Was empfehlen Sie?
+
+267
+00:37:17,390 --> 00:37:38,220
+Ich empfehle die Patienten vielleicht für ein paar Tage mit den Verwandten nicht kontaktieren.
+
+268
+00:37:38,220 --> 00:37:48,470
+Wie viele Tage kontaktieren Sie nicht?
+
+269
+00:37:48,470 --> 00:37:52,470
+Ich würde sagen zwei Tage.
+
+270
+00:37:52,470 --> 00:37:54,470
+Oder drei.
+
+271
+00:37:54,470 --> 00:37:56,470
+Oder drei, ok.
+
+272
+00:37:56,470 --> 00:38:08,390
+In diesem Fall würden Sie eine Zonographie?
+
+273
+00:38:08,390 --> 00:38:26,650
+Ja, also Theroid-Zonographie ist sinnvoll um eine umfassende Diagnostik zu gewährleisten.
+
+274
+00:38:26,650 --> 00:38:39,650
+Ok, Herr Kollegen, bitte gehen Sie auf unser Infodisk und nehmen Sie Ihre Zertifikat. Ich weiß nicht ob positiv oder?
+
+275
+00:38:39,650 --> 00:38:46,650
+Ja, danke Herr Oberst. Das ist sehr nett von Ihnen. Danke.
+
+276
+00:38:46,650 --> 00:38:53,410
+Ja, die Zonographie ist ein bisschen schwierig.
+
+277
+00:38:53,410 --> 00:39:00,410
+Wenn man sagt, dass der Knoten-Monoton kalt oder warm ist, muss man das beantworten.
+
+278
+00:39:00,410 --> 00:39:02,410
+Sondern es gibt keine Zerrung.
+
+279
+00:39:02,410 --> 00:39:08,410
+Und weil die Radiostreifen gegeben werden, müssen die Patienten ein paar Tage im Krankenhaus bleiben.
+
+280
+00:39:08,410 --> 00:39:12,410
+Oder sie müssen nicht in der Wohnung im Krankenhaus sein.
+
+281
+00:39:12,410 --> 00:39:15,410
+Um keine Radiostreifen zu vergeben.
+
+282
+00:39:15,410 --> 00:39:22,280
+Oder sie müssen nicht in der Gesellschaft verwendet werden.
+
+283
+00:39:22,280 --> 00:39:27,280
+Ja, es ist ein sehr wichtiger Radiostreifen.
+
+284
+00:39:27,280 --> 00:39:30,280
+Aber sie sagen Radiostreifen.
+
+285
+00:39:30,280 --> 00:39:32,280
+War das auch in der Türkei?
+
+286
+00:39:32,280 --> 00:39:34,280
+War das in Deutschland?
+
+287
+00:39:34,280 --> 00:39:36,280
+Ja, in Deutschland.
+
+288
+00:39:36,280 --> 00:39:38,280
+Woher fliegt das?

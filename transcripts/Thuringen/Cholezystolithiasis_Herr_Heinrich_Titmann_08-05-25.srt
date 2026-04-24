@@ -1,0 +1,1255 @@
+1
+00:00:00,180 --> 00:00:13,180
+Okay. Schönen guten Abend. Mein Name ist Ujak. Ich bin auf dieser Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Anamnese-Gespräch durchführen.
+
+2
+00:00:13,180 --> 00:00:15,180
+Sind Sie damit einverstanden?
+
+3
+00:00:15,180 --> 00:00:17,180
+Ja, natürlich Herr Doktor.
+
+4
+00:00:17,180 --> 00:00:21,180
+Danke. Bitte fragen Sie nach, wenn Sie etwas nicht verstehen, okay?
+
+5
+00:00:21,180 --> 00:00:22,180
+Okay.
+
+6
+00:00:22,180 --> 00:00:24,180
+Wie heißen Sie denn?
+
+7
+00:00:24,180 --> 00:00:27,180
+Ich heiße Heimrich Hiedmar.
+
+8
+00:00:27,180 --> 00:00:36,430
+Könnten Sie bitte Ihren Vor- und Nachnamen langsam beschreiben?
+
+9
+00:00:36,430 --> 00:00:37,430
+Ja.
+
+10
+00:00:37,430 --> 00:00:45,430
+H-I-N-R-I-C-A.
+
+11
+00:00:45,430 --> 00:00:46,430
+Heinrich.
+
+12
+00:00:46,430 --> 00:00:47,430
+Ja.
+
+13
+00:00:47,430 --> 00:00:55,430
+T-H-I-T-M-A-R. Tiedmar.
+
+14
+00:00:55,430 --> 00:00:57,430
+A-R. Richtig?
+
+15
+00:00:57,430 --> 00:00:58,430
+Ja. Ja. Ja.
+
+16
+00:00:58,430 --> 00:01:01,430
+Okay. Herr Tiedmar, wie alt sind Sie?
+
+17
+00:01:01,430 --> 00:01:04,430
+Ich bin 53 Jahre alt, Doktor.
+
+18
+00:01:04,430 --> 00:01:07,430
+Wann sind Sie genau geboren?
+
+19
+00:01:07,430 --> 00:01:12,430
+Ich bin 8. Juni 1972.
+
+20
+00:01:12,430 --> 00:01:16,430
+Wie groß sind Sie?
+
+21
+00:01:16,430 --> 00:01:20,430
+Ich bin 1 Meter 78.
+
+22
+00:01:20,430 --> 00:01:23,940
+Und wie schwer sind Sie zuzeit?
+
+23
+00:01:23,940 --> 00:01:26,940
+73 Kilogramm.
+
+24
+00:01:26,940 --> 00:01:33,820
+Okay. Danke für die Informationen. Herr Tiedmar, was kann ich für Sie tun?
+
+25
+00:01:33,820 --> 00:01:36,820
+Was für Beschwerden haben Sie zuzeit?
+
+26
+00:01:36,820 --> 00:01:41,820
+Ja Doktor, ich habe starke Bauchschmerzen.
+
+27
+00:01:41,820 --> 00:01:48,670
+Seit wann haben Sie diese Schmerzen?
+
+28
+00:01:48,670 --> 00:01:53,670
+Etwa 45 Minuten, ja.
+
+29
+00:01:53,670 --> 00:02:01,500
+Okay. Wo genau sind diese Schmerzen? Ich meine Oberbauch, Unterbauch?
+
+30
+00:02:01,500 --> 00:02:06,500
+Ja, die Schmerzen sind im Oberbauch, ja Doktor.
+
+31
+00:02:06,500 --> 00:02:11,970
+Und im Mittelfen oder rechten Seite, linken Seite?
+
+32
+00:02:11,970 --> 00:02:21,970
+Ich habe ganz Oberbauchschmerzen, aber die Schmerzen strahlen die rechte Oberbauchseite aus, Doktor.
+
+33
+00:02:21,970 --> 00:02:34,870
+Okay. Herr Tiedmar, können Sie diese Schmerzen genau beschreiben? Sind Sie eher drückend, dummstechend?
+
+34
+00:02:34,870 --> 00:02:39,870
+Ja Doktor, die Schmerzen sind krankartig, ja.
+
+35
+00:02:39,870 --> 00:02:51,750
+Okay. Sind diese Schmerzen dauerhaft da oder gehen sie auch wieder weg? Ich meine, ist das wellenförmig?
+
+36
+00:02:51,750 --> 00:02:58,620
+Ja, wellenförmig, ja.
+
+37
+00:02:58,620 --> 00:03:02,620
+Sind diese Schmerzen plötzlich oder langsam aufgetreten?
+
+38
+00:03:02,620 --> 00:03:07,620
+Die Schmerzen treten plötzlich auf, ja.
+
+39
+00:03:07,620 --> 00:03:18,620
+Okay. Wie stark sind die Schmerzen auf einer Schmerzkala von 1 bis 10, wobei 1 sehr leichten und 10 sehr starken Schmerzen entspricht?
+
+40
+00:03:18,620 --> 00:03:26,620
+Ich denke, dass die Schmerzen 9 sind, ja Doktor.
+
+41
+00:03:26,620 --> 00:03:30,620
+Okay. Herr Tiedmar, das sind sehr starke Schmerzen.
+
+42
+00:03:30,620 --> 00:03:40,620
+Soll ich Ihnen ein Schmerzmittel geben oder können Sie diese Schmerzen noch ein bisschen bis Ende des Sprechs aushalten?
+
+43
+00:03:40,620 --> 00:03:49,620
+Nein Doktor, ich habe sehr starke Schmerzen. Es wäre besser, wenn Sie mir ein Schmerzmittel geben können, ja.
+
+44
+00:03:49,620 --> 00:03:57,620
+Ja, gerne. Herr Tiedmar, ich möchte wissen, ob Sie eine Allergie gegen irgendwelche Medikamente haben?
+
+45
+00:03:57,620 --> 00:04:00,620
+Medikamente? Nein.
+
+46
+00:04:00,620 --> 00:04:09,620
+Okay. Frau Müller, bitte geben Sie den Patienten ein Schmerzmittel.
+
+47
+00:04:09,620 --> 00:04:20,620
+Herr Tiedmar, wir haben Ihnen ein Schmerzmittel gegeben, ich meine eine Spasmolytika, ein Krampflöser, gegeben.
+
+48
+00:04:20,620 --> 00:04:22,620
+Wie fühlen Sie sich jetzt besser?
+
+49
+00:04:22,620 --> 00:04:25,620
+Ja, ich fühle mich jetzt besser Doktor, danke schön.
+
+50
+00:04:25,620 --> 00:04:33,620
+Okay, gerne. Bitte sagen Sie mir sofort Bescheid, wenn Sie ein Schmerzmittel benötigen, okay?
+
+51
+00:04:33,620 --> 00:04:35,620
+Ja, danke.
+
+52
+00:04:35,620 --> 00:04:41,620
+Okay. Herr Tiedmar, gibt es etwas, das die Schmerzen lindert oder verschlimmert?
+
+53
+00:04:41,620 --> 00:04:52,620
+Ja Doktor, heute Morgen habe ich gut gegessen und kurz nach dem Essen haben die Beschwerden plötzlich angefangen.
+
+54
+00:04:52,620 --> 00:05:03,620
+Außerdem habe ich in letzter Zeit nicht gut gegessen.
+
+55
+00:05:03,620 --> 00:05:13,980
+Herr Tiedmar, was haben Sie zum Frühstück gegessen? Erinnern Sie sich?
+
+56
+00:05:13,980 --> 00:05:31,980
+Ja, ich habe einen Toast gemacht mit Butter und Tomaten, aber ich habe sehr fettige Toast gegessen.
+
+57
+00:05:31,980 --> 00:05:40,980
+Okay, ich verstehe. Und die Schmerzen sind nach dem Frühstück aufgetreten, richtig?
+
+58
+00:05:40,980 --> 00:05:41,980
+Ja, richtig.
+
+59
+00:05:41,980 --> 00:05:45,980
+Okay, hatten Sie früher ähnliche Beschwerden?
+
+60
+00:05:45,980 --> 00:05:55,980
+Nein, aber ich habe gesagt, in letzter Zeit vertrete ich fettiges Essen, generell nicht gut, Doktor.
+
+61
+00:05:55,980 --> 00:06:02,980
+Okay, waren Sie wegen dieser Schmerzen bei einem anderen Arzt gewesen?
+
+62
+00:06:02,980 --> 00:06:04,980
+Nein, nein.
+
+63
+00:06:04,980 --> 00:06:08,980
+Okay, haben Sie dagegen ein Medikament eingenommen?
+
+64
+00:06:08,980 --> 00:06:17,980
+Nein, ich habe Ihnen gesagt, seit etwa 45 Minuten habe ich diese Schmerzen, Doktor.
+
+65
+00:06:17,980 --> 00:06:25,980
+Genau, Sie haben recht. Herr Tiedmar, haben Sie eine Hautfarbeveränderung bemerkt, wie zum Beispiel Gelbsucht?
+
+66
+00:06:25,980 --> 00:06:28,980
+Nein, ich habe sie nicht bemerkt.
+
+67
+00:06:28,980 --> 00:06:32,980
+Leiden Sie unter Juckreiz?
+
+68
+00:06:32,980 --> 00:06:33,980
+Nein.
+
+69
+00:06:37,900 --> 00:06:47,900
+Okay, Herr Tiedmar, darf ich fragen, also leiden Sie unter Brustschmerzen oder haben Sie ein Engelgefühl in der Brust?
+
+70
+00:06:47,900 --> 00:06:54,900
+Ich habe keine Schmerzen hinter dem Brustbein, Doktor, oder Engelgefühl, nein.
+
+71
+00:06:54,900 --> 00:07:01,900
+Das freut mich, okay. Leiden Sie unter Herzschmerzen, Luftnot oder Husten?
+
+72
+00:07:01,900 --> 00:07:03,900
+Nein, ich habe sie nicht bemerkt.
+
+73
+00:07:03,900 --> 00:07:13,740
+Okay, Herr Tiedmar, haben Sie Fieber, Schüttelfrost oder Nachtschweiß?
+
+74
+00:07:13,740 --> 00:07:22,740
+Schüttelfrost, nein, ich habe sie nicht bemerkt, aber ich fühle mich nicht fieberig, Doktor, nein.
+
+75
+00:07:22,740 --> 00:07:27,740
+Okay. Ist Ihnen übel oder mussten Sie erbrechen?
+
+76
+00:07:27,740 --> 00:07:34,740
+Ja, ja. Zudem habe ich Übelkeit, aber keine Erbrechen.
+
+77
+00:07:34,740 --> 00:07:39,500
+Okay. Wie ist Ihr Appetit?
+
+78
+00:07:39,500 --> 00:07:45,500
+Nachdem diese Beschwerden habe ich nicht guten Appetit.
+
+79
+00:07:45,500 --> 00:07:50,500
+Haben Sie in der letzten Zeit unwirklich ab oder zu genommen?
+
+80
+00:07:50,500 --> 00:07:56,500
+Ich habe keine Ahnung, aber ich denke, ich bin immer gleichgewicht.
+
+81
+00:07:56,500 --> 00:08:02,500
+Das freut mich, okay. Ist alles in Ordnung beim Wasserlassen?
+
+82
+00:08:02,500 --> 00:08:08,500
+Beim Wasserlassen? Ja, ich habe keine Probleme beim Wasserlassen.
+
+83
+00:08:08,500 --> 00:08:12,500
+Aber Sie haben Probleme mit dem Stuhlgang?
+
+84
+00:08:12,500 --> 00:08:25,500
+Ja, Doktor, ich habe häufige Verstopfungen, aber es ist lange. Dafür nehme ich zweimal pro Woche Movicol.
+
+85
+00:08:25,500 --> 00:08:35,450
+Okay. Schlafen Sie gut?
+
+86
+00:08:35,450 --> 00:08:44,450
+Ich habe sehr lange Zeit Schlaflosigkeit, Doktor.
+
+87
+00:08:44,450 --> 00:08:48,450
+Haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+88
+00:08:48,450 --> 00:08:52,450
+Einzuschlafen. Seit langem Jahr?
+
+89
+00:08:52,450 --> 00:08:54,450
+Ja, langem Jahr.
+
+90
+00:08:54,450 --> 00:08:58,450
+Nehmen Sie dagegen ein Medikament ein, oder?
+
+91
+00:08:58,450 --> 00:09:07,450
+Ich habe von DM eine Medikament gekauft, die heißt Valdiran.
+
+92
+00:09:07,450 --> 00:09:17,450
+Ich nehme diese Medikament bei mir.
+
+93
+00:09:17,450 --> 00:09:25,450
+Okay. Alles klar. Sind Sie schon vollständig gegen Kinderkrankheiten und Covid-Infektionen geimpft?
+
+94
+00:09:25,450 --> 00:09:30,450
+Ja, mein Impfungsstatus ist vollständig, Doktor.
+
+95
+00:09:30,450 --> 00:09:42,450
+Okay. Herr Tietmar, leiden Sie an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Bluthochdruck oder Zuckerkrankheit?
+
+96
+00:09:42,450 --> 00:09:47,450
+Ja, ich habe Bluthochdruck, Doktor.
+
+97
+00:09:47,450 --> 00:09:49,450
+Seit wann?
+
+98
+00:09:49,450 --> 00:09:51,450
+Seit vier Jahren.
+
+99
+00:09:52,450 --> 00:09:55,450
+Nehmen Sie ein Medikament dagegen ein?
+
+100
+00:09:55,450 --> 00:10:04,790
+Ja, ich nehme Kandesartan ein. Einmal morgens.
+
+101
+00:10:04,790 --> 00:10:06,790
+Morgen.
+
+102
+00:10:06,790 --> 00:10:08,790
+Kennen Sie die Dosisierung?
+
+103
+00:10:08,790 --> 00:10:12,790
+Ja, nein. Ich kann es nicht.
+
+104
+00:10:12,790 --> 00:10:15,790
+Okay. Haben Sie eine Medikamentliste dabei?
+
+105
+00:10:15,790 --> 00:10:17,790
+Ja, ja. Richtig.
+
+106
+00:10:17,790 --> 00:10:18,790
+Haben Sie?
+
+107
+00:10:18,790 --> 00:10:21,790
+Nein, nicht. Aber in meinen Häusern.
+
+108
+00:10:21,790 --> 00:10:26,790
+Okay. Wer ist Ihr Hausarzt oder Ihre Hausärztin, Herr Tietmar?
+
+109
+00:10:26,790 --> 00:10:33,200
+Meine Hausärztin ist Frau Schmidt.
+
+110
+00:10:33,200 --> 00:10:40,200
+Okay. Also machen Sie sich bitte keine Sorgen. Ich werde Ihre Hausärztin kontaktieren.
+
+111
+00:10:40,200 --> 00:10:41,200
+Danke schön.
+
+112
+00:10:41,200 --> 00:10:45,200
+Okay. Gern. Sonst noch etwas? Irgendwelche anderen Erkrankungen?
+
+113
+00:10:45,200 --> 00:10:50,200
+Ja, ich habe auch schon Cholesterinwerte.
+
+114
+00:10:50,200 --> 00:10:53,200
+Seit wann leiden Sie?
+
+115
+00:10:53,200 --> 00:11:00,200
+Seit fünf Jahren. Nehme ich 20 mg Simulostatin ab und zu ein.
+
+116
+00:11:00,200 --> 00:11:05,580
+Okay. Ja. Sonst noch?
+
+117
+00:11:06,580 --> 00:11:21,570
+Ja, ich hatte früher einen Bandscheibenvorfall, den ich mit Finalgoncalbe behandle.
+
+118
+00:11:21,570 --> 00:11:24,570
+In welchem Bereich? Lendenbereich oder Halsbereich?
+
+119
+00:11:24,570 --> 00:11:28,570
+Linke. Linke Rückenbereich. Ja.
+
+120
+00:11:28,570 --> 00:11:31,570
+Und seit wann haben Sie dieses Problem?
+
+121
+00:11:31,570 --> 00:11:34,570
+Seit acht Jahren.
+
+122
+00:11:34,570 --> 00:11:38,570
+Okay. Und Sie benutzen Finalgoncalbe bei Bedarf oder regelmäßig?
+
+123
+00:11:38,570 --> 00:11:41,570
+Bei Bedarf, ja. Bei Bedarf, ja.
+
+124
+00:11:41,570 --> 00:11:43,570
+Okay. Das war's oder?
+
+125
+00:11:43,570 --> 00:11:44,570
+Das war ja.
+
+126
+00:11:44,570 --> 00:11:53,570
+Okay. Herr Tietmar, nehmen Sie regelmäßig oder bei Bedarf noch andere Medikamente außer genannten ein?
+
+127
+00:11:53,570 --> 00:12:01,570
+Ich habe keine. Ich nehme keine andere Medikamente ein, Doktor.
+
+128
+00:12:01,570 --> 00:12:04,570
+Okay. Sind Sie schon einmal operiert worden?
+
+129
+00:12:04,570 --> 00:12:11,570
+Ja. Ich wurde vor einigen Jahren in einem Nabelbruch operiert, Doktor.
+
+130
+00:12:11,570 --> 00:12:20,240
+Okay. Sonst noch etwas?
+
+131
+00:12:20,240 --> 00:12:28,240
+Ja. Und habe auch eine Fußoperation wegen Arthrose hinter mir.
+
+132
+00:12:28,240 --> 00:12:33,240
+Hüftoperation, haben Sie gesagt?
+
+133
+00:12:33,240 --> 00:12:35,240
+Fußoperation.
+
+134
+00:12:35,240 --> 00:12:37,240
+Okay. Welche sagen Sie?
+
+135
+00:12:37,240 --> 00:12:39,240
+Arthrose. Begenarthrose, ja.
+
+136
+00:12:39,240 --> 00:12:41,240
+Welche Seite?
+
+137
+00:12:41,240 --> 00:12:44,240
+Rechts. Rechts Seite.
+
+138
+00:12:44,240 --> 00:12:51,240
+Okay. Alles klar. Sonst noch etwas oder das war's?
+
+139
+00:12:51,240 --> 00:12:53,240
+Das war's. Das war's.
+
+140
+00:12:53,240 --> 00:12:58,240
+Okay. Herr Tietmar, sind Ihnen irgendwelche Allergien bekannt?
+
+141
+00:12:58,240 --> 00:13:06,130
+Ja. Ich habe eine bekannte Fruchtzuckerunfertiglichkeit, ja.
+
+142
+00:13:06,130 --> 00:13:10,130
+Wie äußert sich diese Unfertiglichkeit?
+
+143
+00:13:10,130 --> 00:13:19,130
+Das äußert sich mit Beläungen und Verdunstproblemen, ja.
+
+144
+00:13:19,130 --> 00:13:24,970
+Durch Schwal meinen Sie?
+
+145
+00:13:24,970 --> 00:13:28,440
+Ja, manchmal ja.
+
+146
+00:13:28,440 --> 00:13:29,440
+Okay.
+
+147
+00:13:29,440 --> 00:13:42,080
+Außerdem habe ich eine Kreuzallergie gegen Äpfel und Birkenpollen, Doktor.
+
+148
+00:13:42,080 --> 00:13:45,080
+Und wie reagieren Sie darauf?
+
+149
+00:13:45,080 --> 00:13:49,080
+Ja, das äußert sich bei mir.
+
+150
+00:13:49,080 --> 00:13:56,080
+Schnupfen, Bauchschmerzen, Hautausschlag und Yukreis.
+
+151
+00:13:56,080 --> 00:14:05,260
+Okay. Herr Tietmar, rauchen Sie?
+
+152
+00:14:05,260 --> 00:14:13,600
+Ja. Ich rauche seit meinem 17. Leben ja, Doktor.
+
+153
+00:14:13,600 --> 00:14:16,600
+Wie viel rauchen Sie?
+
+154
+00:14:16,600 --> 00:14:23,260
+Ja. Etwa 15 Zigaretten pro Tag, ja.
+
+155
+00:14:23,260 --> 00:14:26,260
+Trinken Sie regelmäßig Alkohol?
+
+156
+00:14:26,260 --> 00:14:31,260
+Ja, trinke etwa zwei bis drei Mal pro Woche Wein.
+
+157
+00:14:31,260 --> 00:14:35,260
+Aber ich habe eine Frage stellen.
+
+158
+00:14:35,260 --> 00:14:37,260
+Ja, bitteschön.
+
+159
+00:14:37,260 --> 00:14:48,260
+Ja, ich habe mit meiner Nachbarin gehört, Wein ist gut für mein Herz. Ist das richtig oder falsch?
+
+160
+00:14:48,260 --> 00:14:55,260
+Also die Menge von Wein ist sehr wichtig, Herr Tietmar.
+
+161
+00:14:55,260 --> 00:15:07,260
+Also weniger unregelmäßiger Alkoholkonsum kann ein bisschen gut für Ihre Gesundheit sein.
+
+162
+00:15:07,260 --> 00:15:15,260
+Aber Sie haben gesagt, dass Sie zwei bis drei Mal Wein pro Woche trinken.
+
+163
+00:15:15,260 --> 00:15:16,260
+Ja.
+
+164
+00:15:16,260 --> 00:15:18,260
+Ist das ein Glas oder?
+
+165
+00:15:18,260 --> 00:15:23,260
+Ja, zwei bis drei Glas. Glas ist für mich oder nicht gut.
+
+166
+00:15:23,260 --> 00:15:26,260
+Das ist kein Problem bei uns, ja?
+
+167
+00:15:26,260 --> 00:15:27,260
+Ja.
+
+168
+00:15:27,260 --> 00:15:32,260
+Herr Tietmar, okay. Bitte nehmen Sie die nächste Frage nicht persönlich, das ist eine Routinefrage.
+
+169
+00:15:32,260 --> 00:15:35,260
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+170
+00:15:35,260 --> 00:15:39,260
+Drogen habe ich nicht genommen, Doktor.
+
+171
+00:15:39,260 --> 00:15:41,260
+Okay, das freut mich.
+
+172
+00:15:41,260 --> 00:15:51,260
+Herr Tietmar, leiden Ihre Eltern an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Schlaganfall, Brüthochtruck?
+
+173
+00:15:51,260 --> 00:16:01,260
+Mein Vater ist mit sechs oder sieben Jahren an Bauchspezif-Dürsenkrebs gestorben.
+
+174
+00:16:01,260 --> 00:16:08,750
+Mein Beileid, Herr Tietmar. Und Ihre Mutter?
+
+175
+00:16:08,750 --> 00:16:21,550
+Meine Mutter hat eine Schwäche. Sie lebt in Altenheim.
+
+176
+00:16:21,550 --> 00:16:24,550
+Okay. Haben Sie Geschwister?
+
+177
+00:16:24,550 --> 00:16:26,550
+Ja, ich bin ein Kind, Doktor.
+
+178
+00:16:26,550 --> 00:16:30,550
+Okay. Wie ist Ihr Familienstand?
+
+179
+00:16:30,550 --> 00:16:41,500
+Familienstand? Ich bin verheiratet, aber getrennt.
+
+180
+00:16:41,500 --> 00:16:43,500
+Haben Sie Kinder?
+
+181
+00:16:43,500 --> 00:16:49,130
+Ich habe zwei Erwachsene, gesunde Kinder.
+
+182
+00:16:49,130 --> 00:16:53,130
+Okay. Mit wem wohnen Sie?
+
+183
+00:16:53,130 --> 00:16:59,130
+Ich bin allein. Ich wohne allein, ja.
+
+184
+00:16:59,130 --> 00:17:01,130
+Okay. Was sind Sie für einen Beruf?
+
+185
+00:17:01,130 --> 00:17:04,130
+Ich arbeite als Bürokaufmann.
+
+186
+00:17:04,130 --> 00:17:11,580
+Sind Sie zufrieden bei der Arbeit?
+
+187
+00:17:12,580 --> 00:17:22,620
+Ich habe viel Stress, Doktor. Meine Kollegin oder Kollegen.
+
+188
+00:17:22,620 --> 00:17:25,620
+Oder andere Probleme, ja.
+
+189
+00:17:25,620 --> 00:17:31,620
+Ja, ich verstehe Sie sehr gut. Das kann manchmal schwer sein, ne?
+
+190
+00:17:31,620 --> 00:17:32,620
+Ja, ja.
+
+191
+00:17:32,620 --> 00:17:40,620
+Okay. Herr Tietmar, das waren meine Fragen. Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+192
+00:17:40,620 --> 00:17:45,620
+Ja, Doktor. Was habe ich? Ich habe Schmerzen.
+
+193
+00:17:45,620 --> 00:17:52,620
+Ja, ich verstehe Sie sehr gut, Herr Tietmar. Es ist zu früh, etwas genauer zu sagen.
+
+194
+00:17:52,620 --> 00:18:00,620
+Aber ich vermute, dass Sie eine Gallenblase Steine haben.
+
+195
+00:18:00,620 --> 00:18:05,620
+Aber zuerst muss ich Sie körperlich untersuchen.
+
+196
+00:18:05,620 --> 00:18:10,620
+Dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen veranlassen.
+
+197
+00:18:10,620 --> 00:18:21,620
+Ja, alle, also sobald die alle Ergebnisse da sind, werde ich Ihnen die weiteren Informationen mitteilen, okay?
+
+198
+00:18:21,620 --> 00:18:27,620
+Okay. Bleibe ich in Krankenhaus, Doktor?
+
+199
+00:18:27,620 --> 00:18:42,620
+Ja, ein paar Stunden müssen Sie sicherlich bei uns bleiben, damit wir die Diagnose bestätigen können und eine Therapie einleiten können.
+
+200
+00:18:42,620 --> 00:18:51,620
+Aber wenn wir etwas Auffälliges finden, kann es auch passieren, dass Sie ein paar Tage im Krankenhaus bleiben sollen, ja?
+
+201
+00:18:51,620 --> 00:19:02,620
+Doktor, legen Sie mir einen intravenösen Zugang oder eine Paraphyllans mit Nadal?
+
+202
+00:19:02,620 --> 00:19:16,620
+Okay, Herr Tietmar, das ist eine sehr einfache Untersuchung. Sie werden nur einen kurzen, leichten Stichgefühl.
+
+203
+00:19:16,620 --> 00:19:31,620
+Ja, aber wir müssen diesen Venusenzugang legen. Also wir werden Ihnen Blut abnehmen und wenn nötig andere Medikamente verabreichen, ja?
+
+204
+00:19:31,620 --> 00:19:34,620
+Gibt es keine Alternative, oder?
+
+205
+00:19:34,620 --> 00:19:43,620
+Leider nicht. Aber wir können eine lokale Betäubung geben, wenn Sie benötigen, ja?
+
+206
+00:19:43,620 --> 00:19:47,620
+Das wäre besser, danke schön, Doktor. Ich würde auch gerne.
+
+207
+00:19:47,620 --> 00:19:52,620
+Okay, bitte nehmen Sie Platz im Wartezimmer. Ich bin gleich wieder da, ja?
+
+208
+00:19:52,620 --> 00:19:53,620
+Danke schön.
+
+209
+00:19:53,620 --> 00:20:04,930
+Guten Abend, Herr Oberhausen. Ich habe einen neuen Patienten aufgenommen und ich würde gerne über ihn berichten. Haben Sie kurz Zeit für mich?
+
+210
+00:20:04,930 --> 00:20:06,930
+Ja bitte.
+
+211
+00:20:06,930 --> 00:20:19,930
+Danke schön. Herr Heinrich Tietmar ist 53 Jahre alt, 1,78 Meter groß und 73 Kilogramm schwer.
+
+212
+00:20:19,930 --> 00:20:31,930
+Herr Tietmar stellte sich heute bei uns wegen seit 45 Minuten bestehender Füße- und Oberbauchschmerzen vor.
+
+213
+00:20:31,930 --> 00:20:41,930
+Dem Patienten zufolge seien die Schmerzen plötzlich aufgetreten und mit der Zeit schlimmer geworden.
+
+214
+00:20:41,930 --> 00:20:54,930
+Die Schmerzen seien krampfartig, wellenformig und würden in den rechten Oberbauch ausstrahlen.
+
+215
+00:20:54,930 --> 00:21:10,930
+Die Schmerzintensität wurde auf einer Schmerzskala mit 9 von 10 bewertet und der Patient habe gegen diese Schmerzen keine Medikamente eingenommen.
+
+216
+00:21:10,930 --> 00:21:24,930
+Der Patient erwähnte, dass die Schmerzen nach dem Frühstück aufgetreten seien.
+
+217
+00:21:24,930 --> 00:21:47,930
+Der Patient habe zum Frühstück fettiges Essen gegessen und er habe über eine Empfindlichkeit mit fettigem Essen gegessen.
+
+218
+00:21:47,930 --> 00:22:04,910
+Die Fragen nach Icterus, Pulitus, Angina Pectoris, Trachicardi, Dyspne und Fieber wurden verneint.
+
+219
+00:22:04,910 --> 00:22:08,910
+Bei der vegetativen Anamnese seien die Folgen dem bekannt.
+
+220
+00:22:08,910 --> 00:22:23,910
+Nach der Obstration der Schmerzen wurde die Schmerzbedingte Inapetenz nach der Nausea ohne Emesis enthalten.
+
+221
+00:22:23,910 --> 00:22:38,910
+Der Patient nehme dagegen Movicol zweimal pro Woche ein und seit Langem bestehende Insomnie in Form von Einschlafstörungen.
+
+222
+00:22:38,910 --> 00:22:44,910
+Der Patient nehme dagegen Baldrian bei Bedarf ein.
+
+223
+00:22:44,910 --> 00:23:17,320
+Er sei vollständig gegen Kinderkrankheiten geimpft.
+
+224
+00:23:17,320 --> 00:23:39,320
+Vor Erkrankungen nannte er seit vier Jahren bestehende arterielle Hypertonie, seit fünf Jahren bestehende Hyperkolestrinämie und seit acht Jahren bestehende Discus prolaps im Lendenbereich.
+
+225
+00:23:39,320 --> 00:23:49,320
+Er nehme Kandesatan morgens, Zingva-Statin 20 mg abends ein.
+
+226
+00:23:49,320 --> 00:24:03,950
+Die Dosierung von Kandesatan sollte geklärt werden und der Patient benutze Finalgon Salbe gegen Discus prolaps bei Bedarf.
+
+227
+00:24:03,950 --> 00:24:32,460
+Vor einigen Jahren sei er an einer Hernia umlichalis operiert worden und er sei an einer Arthrose im rechten Fuß operiert worden.
+
+228
+00:24:32,460 --> 00:24:42,460
+Er habe Kreuzallergie gegen Abfall und Birkenpollen.
+
+229
+00:24:42,460 --> 00:24:53,460
+Diese Allergie äußert sich durch Abdominalschmerzen, Puri-Tus und Exanthem.
+
+230
+00:24:53,460 --> 00:25:08,460
+Er habe Fructoseintoleranz, die sich durch Meteorismus und Diarrhea und andere Verdauungsprobleme äußert.
+
+231
+00:25:08,460 --> 00:25:21,460
+Er sei Raucher und er rauchte seit dem 17. Lebensjahr 15 Zigaretten täglich.
+
+232
+00:25:21,460 --> 00:25:29,460
+Er trinke zwei bis drei mal ein Glas Wein pro Woche.
+
+233
+00:25:29,460 --> 00:25:32,460
+Drogenkonsum wurde verneint.
+
+234
+00:25:32,460 --> 00:25:50,460
+In der Familienanamnese gab er an, dass die Mutter an Herzinsuffizienz leide und sie lebe in einem Altenheim.
+
+235
+00:25:50,460 --> 00:25:58,460
+Der Vater sei mit 76 Jahren an Pankreas carcinom verstorben.
+
+236
+00:25:58,460 --> 00:26:05,460
+Der Patient sei Einzelkind verheiratet, aber getrennt.
+
+237
+00:26:05,460 --> 00:26:12,460
+Er habe gesunde zwei Kinder und wohne alleine.
+
+238
+00:26:12,460 --> 00:26:18,460
+Er sei Bürokaufmann von Beruf und habe viel Stress bei der Arbeit.
+
+239
+00:26:18,460 --> 00:26:33,460
+Ich gehe von einem Verdacht auf Scholesistolitis aus, da der Patient typische Symptome dafür aufweist.
+
+240
+00:26:33,460 --> 00:26:47,460
+Der Patient leidet unter rechtsseitige Oberbauchschmerzen, krampfartige, wellenförmige Schmerzen.
+
+241
+00:26:47,460 --> 00:27:00,460
+Diese Symptome sprechen und die Schmerzen seien nach dem fettiges Essen aufgetreten.
+
+242
+00:27:00,460 --> 00:27:05,460
+Die Symptome sprechen für eine Scholesistolitis.
+
+243
+00:27:05,460 --> 00:27:22,460
+Als die Franzisdiagnosen kommen, Scholesistitis, Scholedokalitis, Nepholitis, Urolitis in Betracht.
+
+244
+00:27:22,460 --> 00:27:34,460
+Wir sollen auch Myokatinfakt als Differenzdiagnose ausschließen.
+
+245
+00:27:34,460 --> 00:27:48,460
+Um meine Verdachtdiagnose zu bestätigen, würde ich bei den Patienten die Vitaparameter überwachen und eine körperliche Untersuchung durchführen.
+
+246
+00:27:48,460 --> 00:28:09,460
+Bei der körperlichen Untersuchung achte ich darauf, ob Hautfarbeveränderungen, Murphy-Zeichen, Abwehrspannung, Loslassschmerzen vorhanden sind.
+
+247
+00:28:09,460 --> 00:28:19,460
+Zusätzlich ist eine Laboruntersuchung sinnvoll, um eine umfassende Diagnostik zu gewährleisten.
+
+248
+00:28:19,460 --> 00:28:37,460
+Dabei würde ich Blutbild, CAP, BSG, Leberwerte, Nierenwerte, Bilirubinwerte, Amylase, Lipase, Herzenzyme, Elektrolyten bestimmen lassen.
+
+249
+00:28:37,460 --> 00:28:45,460
+Danach würde ich eine EKG schreiben, um den Myokatinfakt auszuschließen.
+
+250
+00:28:45,460 --> 00:28:59,460
+Danach würde ich eine Röntgen des Abdomens durchführen, um die möglichen Pathologien, wie zum Beispiel gallen Blasensteine, zu beurteilen.
+
+251
+00:29:00,460 --> 00:29:09,460
+Darüber hinaus würde ich eine Abdominalzoonographie veranlassen, um meine Verdachtdiagnose zu bestätigen.
+
+252
+00:29:09,460 --> 00:29:34,460
+Gegebenenfalls würde ich eine CT des Abdomens durchführen und gegebenenfalls würde ich eine RCP durchführen, um meine Verdachtdiagnose zu bestätigen und gleichzeitig die Steine zu entfernen.
+
+253
+00:29:34,460 --> 00:29:50,460
+Sollte sich die Verdachtdiagnose bestätigen, würde ich die Patientestation aufnehmen und ich würde bei den Patienten einen Venüsuzugang legen.
+
+254
+00:29:50,460 --> 00:30:00,460
+Danach würde ich Analgetikum, Antiemetikum, Spasmodetikum verbreiten.
+
+255
+00:30:00,460 --> 00:30:09,460
+Ich würde ein chirurgisches Konzil anfordern, um die Therapie des Patienten zu optimieren.
+
+256
+00:30:09,460 --> 00:30:26,460
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit der geplanten Untersuchung fortfahren, Herr Oberanzt.
+
+257
+00:30:27,460 --> 00:30:39,020
+Herr Kollegen, denken Sie in diesem Fall als Differentialdiagnose Akutkolesistitis?
+
+258
+00:30:39,020 --> 00:31:02,860
+Akutkolesistitis kommt auf jeden Fall als Differentialdiagnose, aber es gibt keine Fieber bei diesen Patienten, deswegen meine Verdachtdiagnose ist Scholesistolythiasis.
+
+259
+00:31:02,860 --> 00:31:21,610
+Haben Sie eine Vermutung, wo der Stein ist? Im Gallenblase? Dr. Sistikus oder Dr. Koledokus?
+
+260
+00:31:38,750 --> 00:31:46,750
+Ich denke, dass der Stein im Gallenblase ist, Herr Oberanzt.
+
+261
+00:31:49,750 --> 00:31:59,750
+Wenn der Stein im Gallenblase ist, welche therapeutische Maßnahme empfehlen Sie den Patienten?
+
+262
+00:32:00,750 --> 00:32:14,750
+Wenn die Menge von Steinen im Gallenblase zu viel ist, können wir eine Cholesistektomie empfehlen.
+
+263
+00:32:14,750 --> 00:32:38,750
+Oder wenn die Zahl der Steine im Gallenblase zu wenig ist, können wir eine ESWL empfehlen, um die Steine in kleine Fragmente zu zerstören.
+
+264
+00:33:16,610 --> 00:33:29,610
+Sollte ich keine Antibiotika verschreiben, aber auf jeden Fall sollen wir Analgetikum, Spasmodetikum und Antimethylamin verabreichen.
+
+265
+00:33:31,610 --> 00:33:34,610
+Ich meine Gegenstein.
+
+266
+00:33:34,610 --> 00:33:58,040
+Jetzt habe ich Sie verstanden. Es gibt einige Medikamente für die Therapie im Gallenblase, aber ich bin mir nicht sicher.
+
+267
+00:33:58,040 --> 00:34:07,040
+Ich werde es nach der Prüfung recherchieren.
+
+268
+00:34:07,040 --> 00:34:19,040
+Wenn der Stein unter 1 cm ist, würden wir Ursodeoxycolyk Säure empfehlen.
+
+269
+00:34:20,040 --> 00:34:34,040
+Wenn der Stein über 1 cm ESWL, RRCP oder Cholesistektomie ist, sind möglich.
+
+270
+00:34:34,040 --> 00:34:51,040
+Herr Kollegen, welche Erfindung erwarten Sie auf die Obdommenzonographie?
+
+271
+00:34:51,040 --> 00:35:10,790
+Wir können eine Gallenblasenwandverdickung in der Ultraschalluntersuchung und wir können auch die Steine schatten.
+
+272
+00:35:10,790 --> 00:35:32,330
+Wenn es eine Obstruktion im Koledokus gibt, können wir eine Erweiterung des Koledokus feststellen.
+
+273
+00:35:32,330 --> 00:35:42,330
+Gibt es bei der körperlichen Untersuchung besondere Zeichen?
+
+274
+00:35:42,330 --> 00:35:52,330
+Murphy-Zeichen ist sehr typisch bei diesem Fall.
+
+275
+00:35:53,330 --> 00:36:08,330
+Wir palpieren den rechtseitigen Oberbauch unterhalb des Rippens und sagen dem Patienten, tief einzuatmen.
+
+276
+00:36:08,330 --> 00:36:18,330
+Es gibt Schmerzen beim Tief einatmen. Das bedeutet, dass der Murphy-Zeichen positiv ist.
+
+277
+00:36:19,330 --> 00:36:26,330
+Welche Komplikationen verursacht Kohle-Lithiasis?
+
+278
+00:36:26,330 --> 00:36:55,090
+Kohle-Lithiasis ist eine Obstruktion. Wir können Hysterus, Generalisipulitis und Pancreatitis sehen.
+
+279
+00:36:55,090 --> 00:36:59,090
+Kohle-Lithiasis?
+
+280
+00:37:00,090 --> 00:37:07,090
+Kohle-Lithiasis, Herr Oberz, ich meine Kohle-Lithiasis. Wir können Prosellen.
+
+281
+00:37:08,090 --> 00:37:12,090
+Kohle-Lithiasis, Herr Oberz sagt Kohle-Lithiasis.
+
+282
+00:37:13,090 --> 00:37:15,090
+Sie meinen das. Okay, richtig.
+
+283
+00:37:16,090 --> 00:37:19,880
+Ist es möglich, Ileus?
+
+284
+00:37:19,880 --> 00:37:31,880
+Ich meine, wenn es eine Perforation gibt, ist das ein großes Problem für uns.
+
+285
+00:37:32,880 --> 00:37:36,880
+Aber Ileus? Keine Ahnung, Herr Oberz.
+
+286
+00:37:37,880 --> 00:37:47,880
+Ist es möglich, viele Gallensteine im Dickdarm bleiben.
+
+287
+00:37:47,880 --> 00:37:49,880
+Es verursacht Ileus.
+
+288
+00:37:50,880 --> 00:37:53,880
+Okay, danke für die Informationen, Herr Oberz.
+
+289
+00:37:54,880 --> 00:38:09,580
+Wenn der Stein im Kolodok ist, welche theoretische Maßnahme empfehlen Sie den Patienten?
+
+290
+00:38:12,430 --> 00:38:18,430
+Ich würde RACP empfehlen, um den Stein zu entfernen.
+
+291
+00:38:18,430 --> 00:38:23,430
+Können Sie uns RACP aufklären?
+
+292
+00:38:24,430 --> 00:38:28,430
+Ja, gerne. Ich werde Sie über RACP aufklären.
+
+293
+00:38:29,430 --> 00:38:34,430
+RACP ist die endoskopische retrograde cholangiopancreatikografie.
+
+294
+00:38:35,430 --> 00:38:44,430
+Das ist die endoskopische Untersuchung der Gallengänge und des Pancreasgangs.
+
+295
+00:38:44,430 --> 00:39:01,430
+Diese Untersuchung hilft uns, die Steine, Entzündungen, Verletzungen, Tore und andere Veränderungen genau zu erkennen.
+
+296
+00:39:02,430 --> 00:39:17,430
+Bei dieser Untersuchung schieben wir einen dünnen flexiblen optischen Schlauch durch den Mund bis in den Zwölfingerdarm vor.
+
+297
+00:39:17,430 --> 00:39:25,430
+Der Magen und Zwölfingerdarm müssen leer sein.
+
+298
+00:39:26,430 --> 00:39:35,430
+Deswegen soll der Patient sechs Stunden vor der Untersuchung nicht mehr essen oder trinken.
+
+299
+00:39:36,430 --> 00:39:53,430
+Dann verabreichen wir ein Kontrastmittel, um die Gallengänge und Pancreasgangs sichtbar zu machen.
+
+300
+00:39:53,430 --> 00:40:05,430
+Gleichzeitig können wir die Probleme feststellen und die Behandlung durchführen.
+
+301
+00:40:06,430 --> 00:40:16,430
+Diese Untersuchung kann sowohl zu diagnostischen als auch zu therapeutischen Zwecken benutzt werden.
+
+302
+00:40:16,430 --> 00:40:24,430
+Die Untersuchung dauert ca. 30-60 Minuten.
+
+303
+00:40:25,430 --> 00:40:35,430
+Es gibt einige Komplikationen wie Nachblutungen oder kleine Verletzungen der Schleimhäute.
+
+304
+00:40:35,430 --> 00:40:44,430
+Es gibt auch Kontrastmittel allergie.
+
+305
+00:40:44,430 --> 00:40:59,430
+Gibt es andere Komplikationen? Wichtige Komplikationen?
+
+306
+00:40:59,430 --> 00:41:17,430
+Wir können auch eine Pancreatitis verursachen während der Untersuchung.
+
+307
+00:41:36,500 --> 00:41:53,040
+Lebensschliffveränderungen sind wichtig, um bei den Patienten fettiges Essen zu vermeiden.
+
+308
+00:41:53,040 --> 00:42:01,040
+Auch Rauchen aufzuhören oder mindestens reduzieren.
+
+309
+00:42:02,040 --> 00:42:09,040
+Vielleicht auch Alkoholkonsum reduzieren.
+
+310
+00:42:19,910 --> 00:42:21,910
+Fettarme essen?
+
+311
+00:42:22,910 --> 00:42:23,910
+Ja.
+
+312
+00:42:23,910 --> 00:42:35,910
+Okay, Herr Kollegen, ich habe alle Fragen gestellt. Bitte gehen Sie auf unser eFodis und nehmen Sie Ihre Zertifikat.
+
+313
+00:42:36,910 --> 00:42:41,910
+Ich wünsche Ihnen viel Erfolg in Ihrem Arbeitsweg.
+
+314
+00:42:42,910 --> 00:42:46,910
+Vielen Dank, Herr Oberarzt, Sie sind sehr nett. Danke schön.

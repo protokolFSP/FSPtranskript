@@ -1,0 +1,1083 @@
+1
+00:00:00,110 --> 00:00:11,110
+Mein Name ist Ucak. Ich bin auf dieser Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Analysegespräch durchführen. Sind Sie damit anverstanden?
+
+2
+00:00:11,110 --> 00:00:13,110
+Ja.
+
+3
+00:00:13,110 --> 00:00:17,110
+Danke. Bitte fragen Sie nach, wenn Sie etwas nicht verstehen. Okay?
+
+4
+00:00:17,110 --> 00:00:18,110
+Okay.
+
+5
+00:00:18,110 --> 00:00:20,110
+Wie heißen Sie denn?
+
+6
+00:00:20,110 --> 00:00:30,130
+Ich bin Frau Kerstin. Analyse Kerstin.
+
+7
+00:00:30,130 --> 00:00:43,300
+Analyse Kerstin. Könnten Sie bitte Ihren Vornamen langsam bestabieren?
+
+8
+00:00:43,300 --> 00:00:49,300
+K-E-R-S-T-I-N. Kerstin.
+
+9
+00:00:49,300 --> 00:00:50,300
+Ja.
+
+10
+00:00:50,300 --> 00:00:56,300
+Hoffmann. H-O-F-M-N. Hoffmann.
+
+11
+00:00:56,300 --> 00:01:02,300
+Okay. Wie darf ich Sie ansprechen? Frau Hoffmann, oder?
+
+12
+00:01:02,300 --> 00:01:04,300
+Frau. Ja. Frau.
+
+13
+00:01:04,300 --> 00:01:06,300
+Frau Hoffmann, wie alt sind Sie?
+
+14
+00:01:06,300 --> 00:01:10,300
+Ich bin 38 Jahre alt.
+
+15
+00:01:10,300 --> 00:01:12,300
+Wann sind Sie genau geboren?
+
+16
+00:01:12,300 --> 00:01:22,300
+Ich bin 3. Mai 1987.
+
+17
+00:01:22,300 --> 00:01:25,300
+Wie groß sind Sie?
+
+18
+00:01:25,300 --> 00:01:29,300
+Ich bin 1,78 Meter.
+
+19
+00:01:29,300 --> 00:01:33,030
+Und wie schwer sind Sie zuzeit?
+
+20
+00:01:33,030 --> 00:01:35,030
+Ich bin 60 Kilogramm.
+
+21
+00:01:35,030 --> 00:01:43,890
+Okay. Danke für die Information. Frau Hoffmann, was kann ich für Sie tun? Was Überschwerden haben Sie zuzeit?
+
+22
+00:01:43,890 --> 00:01:56,890
+Ja, Doktor. Heute bin ich mit meinem Mann hierher gekommen, weil ich vor etwa 3 Stunden plötzlich einen Anfall hatte.
+
+23
+00:01:56,890 --> 00:02:12,680
+Frau Hoffmann, haben Sie früher einige Beschwerden gehabt? Oder ist das das erste Mal?
+
+24
+00:02:12,680 --> 00:02:14,680
+Ja, das erste Mal.
+
+25
+00:02:14,680 --> 00:02:26,180
+Okay. Könnten Sie bitte den Anfall genau beschreiben? Also wann ist er passiert? Wie ist er passiert?
+
+26
+00:02:27,180 --> 00:02:38,180
+Meine Arme und Beine haben stark gezucht. Es waren unkontrollierte Bewegungen im ganzen Körper.
+
+27
+00:02:38,180 --> 00:02:55,730
+Mein Mann sagt, dass ich vorher etwa eine Minute lang ganz erstarrt war. Und der Anfall danach ungefähr eine Minute gedauert hat, Doktor.
+
+28
+00:02:55,730 --> 00:03:04,730
+Okay. Frau Hoffmann, wenn ich alles richtig verstanden habe, hatten Sie einen Unfall vor 3 Stunden?
+
+29
+00:03:04,730 --> 00:03:08,730
+3 Stunden? Ja, oder?
+
+30
+00:03:08,730 --> 00:03:12,730
+Vor 3 Stunden, Doktor. Nicht...
+
+31
+00:03:12,730 --> 00:03:13,730
+Vor 3 Stunden?
+
+32
+00:03:13,730 --> 00:03:21,730
+Vor 3 Stunden. Aber es war eine Minute oder etwas Minute.
+
+33
+00:03:21,730 --> 00:03:27,730
+Okay. Sie waren vor dem Anfall eine Minute erstarrt?
+
+34
+00:03:27,730 --> 00:03:30,730
+Ja, ja, ja. Ganz erstarrt war, ja.
+
+35
+00:03:30,730 --> 00:03:36,730
+Ja, und der Anfall hat eine Minute gedauert, richtig?
+
+36
+00:03:36,730 --> 00:03:41,730
+Mein Mann sagt, dieser Anfall hat eine Minute gedauert, ja.
+
+37
+00:03:41,730 --> 00:03:46,730
+Okay. Also Sie haben Ihr Bewusstsein verloren, richtig?
+
+38
+00:03:46,730 --> 00:03:58,420
+Ja, ja, Doktor. Ich war in den letzten 3 bis 4 Tagen sehr nervös und innerlich unruhig.
+
+39
+00:03:58,420 --> 00:04:08,420
+Gestern Abend war ich auf einer Jubiläumsfeier in meiner Firma und habe ziemlich viel Alkohol getrunken, Doktor.
+
+40
+00:04:08,420 --> 00:04:25,520
+Etwa 30 Minuten vor dem Anfall hatte ich Lichtblitze vor den Augen, starke Kopfschmerzen und Herzrasen, ja.
+
+41
+00:04:25,520 --> 00:04:36,520
+Nach dem Anfall fühle ich mich sehr müde, mir war übel und ich war innerlich weiterhin sehr unruhig, ja.
+
+42
+00:04:36,520 --> 00:04:44,350
+Okay. Ich verstehe Sie sehr gut.
+
+43
+00:04:44,350 --> 00:04:53,350
+Herr Hoffmann, machen Sie sich bitte keine Sorgen. Jetzt sind Sie im Krankenhaus und bei uns in guten Händen.
+
+44
+00:04:53,350 --> 00:04:58,350
+Wir werden alles für Sie tun, okay? Frau Hoffmann.
+
+45
+00:04:58,350 --> 00:05:01,350
+Jetzt habe ich viele Angst, ja.
+
+46
+00:05:01,350 --> 00:05:04,350
+Ja, okay. Machen Sie sich bitte keine Sorgen, okay?
+
+47
+00:05:04,350 --> 00:05:17,350
+Frau Hoffmann, haben Sie während des Anfalls unwirkliche Wasser gelassen oder Stüllabgang?
+
+48
+00:05:17,350 --> 00:05:33,100
+Ja, Doktor, richtig. Ich habe mir nicht auf die Zunge gewissen und habe auch weder Wind noch Stüll verloren.
+
+49
+00:05:33,100 --> 00:05:38,100
+Keine Wasser gelassen, keine Stüllabgang?
+
+50
+00:05:38,100 --> 00:05:53,010
+Ja, ja. Außerdem habe ich keine Kopfverlassung, damit man mich festgehalten hat, als ich gefallen bin, ja.
+
+51
+00:05:53,010 --> 00:06:02,010
+Okay, das freut mich. Das ist eine sehr wichtige Information für uns, Frau Hoffmann. Danke für diese Information.
+
+52
+00:06:02,010 --> 00:06:03,010
+Gerne.
+
+53
+00:06:03,010 --> 00:06:11,010
+Okay. Haben Sie eine Schmerzen am Körper, in irgendwelchen Körperregionen?
+
+54
+00:06:11,010 --> 00:06:19,010
+Ich habe nicht bemerkt, ja. Mein Mann, ich habe gesagt, mein Mann hat mich festgehalten, ja.
+
+55
+00:06:19,010 --> 00:06:23,010
+Okay, super.
+
+56
+00:06:23,010 --> 00:06:28,010
+Frau Hoffmann, ist Ihnen übel oder mussten Sie erbrechen?
+
+57
+00:06:28,010 --> 00:06:32,010
+Ja, nein. Jetzt nicht.
+
+58
+00:06:32,010 --> 00:06:50,140
+Okay. Also gibt es eine bestimmte Auslöser für diesen Anfall, außer Party und viel Alkoholgetröme?
+
+59
+00:06:50,140 --> 00:06:58,140
+Ich mange, haben Sie Schlafmangel oder hatten Sie eine Verletzung vor dem Anfall?
+
+60
+00:06:58,140 --> 00:07:10,140
+Ja, ich habe gelegentlich Schlafstörungen, ich habe Schlafstörungen, ja Doktor, aber sehr lange Zeit.
+
+61
+00:07:10,140 --> 00:07:22,140
+Ich habe gesagt, ich habe viel Stress. Ich war in den letzten drei bis vier Tagen sehr nervös und innerlich unruhig, ja.
+
+62
+00:07:22,140 --> 00:07:30,140
+Außerdem trinke ich gestern Abend viel Alkohol, ja.
+
+63
+00:07:30,140 --> 00:07:40,140
+Okay, ich habe verstanden. Frau Hoffmann, haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+64
+00:07:40,140 --> 00:07:44,140
+Ich habe einzuschlafen, Doktor, ja.
+
+65
+00:07:44,140 --> 00:07:47,140
+Okay, und seit langem?
+
+66
+00:07:47,140 --> 00:08:06,140
+Seit langem, aber in den letzten zwei oder drei Tagen habe ich ungefähr zwei oder drei Stunden geschlafen, ja.
+
+67
+00:08:06,140 --> 00:08:12,140
+Okay, okay. Haben Sie Fieberstaff, Frohs oder Nachtschweiß?
+
+68
+00:08:12,140 --> 00:08:15,140
+Nein, ich habe nicht beim Ecke, Doktor.
+
+69
+00:08:15,140 --> 00:08:20,140
+Ist alles in Ordnung beim Wasserlassen oder mit dem Stuhlgang?
+
+70
+00:08:20,140 --> 00:08:28,140
+Ja, ja, normalerweise habe ich keine Probleme mit dem Wasserlassen oder Stuhlgang, ja.
+
+71
+00:08:28,140 --> 00:08:32,140
+Okay, das freut mich. Wie ist Ihr Appetit?
+
+72
+00:08:32,140 --> 00:08:37,140
+Mein Appetit ist gut, keine Probleme, ja.
+
+73
+00:08:37,140 --> 00:08:41,140
+Haben Sie in der letzten Zeit unwirklig Ab- oder Zugenommen?
+
+74
+00:08:41,140 --> 00:08:45,140
+Ja, ich habe nicht beim Ecke, Doktor.
+
+75
+00:08:45,140 --> 00:08:51,140
+Okay, Frau Hoffmann, leiden Sie unter Husten oder Luftnot?
+
+76
+00:08:51,140 --> 00:08:54,140
+Nein.
+
+77
+00:08:54,140 --> 00:09:02,140
+Okay, sind Sie schon vollständig gegen Kindererkrankheiten und Corona-Infektionen geimpft?
+
+78
+00:09:02,140 --> 00:09:06,140
+Ja, ja, ich bin vollständig geimpft, Doktor.
+
+79
+00:09:06,140 --> 00:09:16,140
+Okay, Frau Hoffmann, leiden Sie an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Bluthochdruck, Zuckerkrankheit?
+
+80
+00:09:16,140 --> 00:09:25,120
+Ja, ich leide seit langem an Reisdarm-Syndrom, ja.
+
+81
+00:09:25,120 --> 00:09:29,120
+Und nehmen Sie dagegen ein Medikament ein?
+
+82
+00:09:29,120 --> 00:09:39,120
+Ich benutze ein Medikament, ich nehme ein Medikament ein, aber jetzt erinnere ich mich nicht, Doktor.
+
+83
+00:09:39,120 --> 00:09:43,120
+Okay, haben Sie eine Medikamenteliste dabei?
+
+84
+00:09:43,120 --> 00:09:52,120
+Ich habe jetzt nicht, aber es gibt eine Liste in meiner Wohnung, ja.
+
+85
+00:09:52,120 --> 00:09:58,120
+Okay, Frau Hoffmann, wer ist Ihr Hausarzt oder Ihre Hausärztin?
+
+86
+00:09:58,120 --> 00:10:05,000
+Mein Hausarzt ist Frau Stipp.
+
+87
+00:10:05,000 --> 00:10:10,000
+Okay, ich werde Ihre Hausärztin kontaktieren, ja?
+
+88
+00:10:10,000 --> 00:10:11,000
+Ja, danke schön.
+
+89
+00:10:11,000 --> 00:10:16,000
+Okay, sonst noch etwas? Haben Sie irgendwelche anderen Erkrankungen?
+
+90
+00:10:16,000 --> 00:10:28,000
+Ja, ich habe chronische Knie Schmerzen und retrorikuläre Dermatitis seit langem, ja.
+
+91
+00:10:28,000 --> 00:10:36,000
+Und mit 18 hatte ich einmal eine Alkoholintoxikation, ja.
+
+92
+00:10:36,000 --> 00:10:39,620
+Okay.
+
+93
+00:10:39,620 --> 00:10:44,620
+Und vor zehn Jahren hatte ich einen Riss in der Hüftpfanne.
+
+94
+00:10:44,620 --> 00:10:52,500
+Als Baby hatte ich mit einem Jahr einen Fieberkrampf.
+
+95
+00:10:52,500 --> 00:11:06,400
+Außerdem habe ich Schittenbandknöchchen, die so Heiserkeit führen, ja.
+
+96
+00:11:06,400 --> 00:11:10,290
+Seit wann?
+
+97
+00:11:10,290 --> 00:11:15,180
+Seit drei Jahren.
+
+98
+00:11:15,180 --> 00:11:20,180
+Okay, und nehmen Sie dagegen eine Medikament ein?
+
+99
+00:11:20,180 --> 00:11:29,180
+Ja, ich nehme eine Medikament ein, aber jetzt erinnere ich mich nicht, Doktor.
+
+100
+00:11:29,180 --> 00:11:31,180
+Vielleicht eine Lutschtabletten oder?
+
+101
+00:11:31,180 --> 00:11:38,180
+Ja, ich fühle mich jetzt nicht gut, Doktor. Ich habe alle vergessen.
+
+102
+00:11:38,180 --> 00:11:44,180
+Okay, kein Problem. Also, wie gesagt, ich werde Ihre Hausärztin kontaktieren.
+
+103
+00:11:44,180 --> 00:11:47,180
+Frag mal, machen Sie sich bitte keine Sorgen, okay?
+
+104
+00:11:47,180 --> 00:11:52,180
+Danke, es wäre besser, wenn Sie meine Hausärztin kontaktieren können, Doktor.
+
+105
+00:11:52,180 --> 00:11:56,180
+Ja, gerne. Sind Sie schon einmal operiert worden?
+
+106
+00:11:56,180 --> 00:11:59,180
+Ich wurde noch nie operiert.
+
+107
+00:11:59,180 --> 00:12:06,180
+Okay, nehmen Sie regelmäßig oder bei Bedarf irgendwelche anderen Medikamente, außer genannten, ein?
+
+108
+00:12:06,180 --> 00:12:17,180
+Ja, ich nehme Ibuprofen bei Bedarf, 50 mg täglich.
+
+109
+00:12:17,180 --> 00:12:23,260
+Bei Bedarf, 100 mg, okay.
+
+110
+00:12:23,260 --> 00:12:27,260
+Okay, Frau Hoffmann, Sie haben ...
+
+111
+00:12:27,260 --> 00:12:41,260
+Ich erinnere mich jetzt, ja. Ich nehme 90 plus 90 Tabletten gegen die Heiserkeit, ja Doktor.
+
+112
+00:12:41,260 --> 00:12:43,260
+Neu angen Tabletten, ja?
+
+113
+00:12:43,260 --> 00:12:45,260
+Ja, ja.
+
+114
+00:12:45,260 --> 00:12:51,260
+Okay, Sie haben gesagt, dass Sie unter Klieschmerzen leiden. Welche Seite?
+
+115
+00:12:51,260 --> 00:12:53,260
+Linke Seite.
+
+116
+00:12:53,260 --> 00:12:55,260
+Und seit wann?
+
+117
+00:12:55,260 --> 00:12:57,260
+Seit 5 Jahren.
+
+118
+00:12:57,260 --> 00:13:02,260
+Okay, und nehmen Sie dagegen ein Medikament ein? Ibuprofen oder?
+
+119
+00:13:02,260 --> 00:13:08,260
+Ja, ja, ja. Bei Bedarf Ibuprofen 500 mg, ja.
+
+120
+00:13:08,260 --> 00:13:20,260
+Okay, und benutzen Sie ein Medikament gegen Hautausschlag, ich meine, wetscheralikulare Probleme?
+
+121
+00:13:20,260 --> 00:13:31,260
+Ja, ich benutze ein Medikament, die Probleme wahrscheinlich, aber ich bin nicht sicher, Doktor.
+
+122
+00:13:31,260 --> 00:13:33,260
+Okay, alles klar.
+
+123
+00:13:33,260 --> 00:13:42,260
+Frau Hoffmann, sind Ihnen irgendwelche Allergien bekannt?
+
+124
+00:13:43,260 --> 00:13:52,260
+Ja, ich reagiere allergisch gegen Aya, ja Doktor.
+
+125
+00:13:52,260 --> 00:13:55,260
+Wie reagieren Sie darauf?
+
+126
+00:13:55,260 --> 00:14:05,260
+Das äußert sich mit Bauchschmerzen und Juckreis.
+
+127
+00:14:05,260 --> 00:14:11,400
+Okay, und rauchen Sie?
+
+128
+00:14:11,400 --> 00:14:13,400
+Ich rauche nicht, Doktor.
+
+129
+00:14:13,400 --> 00:14:15,400
+Haben Sie früher geraucht?
+
+130
+00:14:15,400 --> 00:14:17,400
+Nein.
+
+131
+00:14:17,400 --> 00:14:21,400
+Okay, das freut mich. Trinken Sie regelmäßig Alkohol?
+
+132
+00:14:21,400 --> 00:14:33,400
+Ja, ich trinke zwei oder drei Mal pro Woche ein oder zwei Gläser Wein, ja.
+
+133
+00:14:33,400 --> 00:14:43,140
+Bitte nehmen Sie die nächste Frage nicht persönlich, das ist eine Routinefrage.
+
+134
+00:14:43,140 --> 00:14:46,140
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+135
+00:14:46,140 --> 00:14:51,140
+Ich konsumiere keine Drogen, Doktor.
+
+136
+00:14:51,140 --> 00:15:01,140
+Super. Frau Hoffmann, leiten Ihre Eltern an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Schlaganfall, Bluthochdruck?
+
+137
+00:15:01,140 --> 00:15:03,140
+Meine Familie, oder?
+
+138
+00:15:03,140 --> 00:15:06,140
+Ja, Ihre Eltern.
+
+139
+00:15:06,140 --> 00:15:18,420
+Ja, ich verstehe, Doktor. Mein Vater hatte Theratitis von Hautentzündung, an der Schule.
+
+140
+00:15:18,420 --> 00:15:20,420
+Welche Seite?
+
+141
+00:15:20,420 --> 00:15:37,420
+Rechts. Und sie haben eine Korne-Transplantation, Operation, bei meinem Vater durchgeführt.
+
+142
+00:15:37,420 --> 00:15:40,420
+Ja, Ihre Mutter?
+
+143
+00:15:40,420 --> 00:15:42,420
+Vor vier Monaten.
+
+144
+00:15:42,420 --> 00:15:44,420
+Vor vier Monaten, okay.
+
+145
+00:15:45,420 --> 00:16:01,210
+Ja, meine Mutter hatte eine Handgeländefraktur und bei ihr wurde eine Operation durchgeführt.
+
+146
+00:16:01,210 --> 00:16:07,220
+Okay, haben Sie Geschwister?
+
+147
+00:16:07,220 --> 00:16:11,220
+Ich bin Einzelkind.
+
+148
+00:16:11,220 --> 00:16:15,220
+Wie ist Ihr Familienstand? Aber Sie haben gesagt, dass Sie...
+
+149
+00:16:15,220 --> 00:16:17,220
+Ja, ja, ich bin vererratet, ja, ja, Doktor.
+
+150
+00:16:17,220 --> 00:16:19,220
+Okay, haben Sie Kinder?
+
+151
+00:16:19,220 --> 00:16:21,220
+Ja, habe ich eine Kind, ja.
+
+152
+00:16:21,220 --> 00:16:24,220
+Ist Ihr Kind gesund?
+
+153
+00:16:24,220 --> 00:16:29,220
+Ja, meine Kind habe einen Herzfehler, ja.
+
+154
+00:16:29,220 --> 00:16:41,000
+Okay. Wohnen Sie mit Ihrer Familie zusammen?
+
+155
+00:16:41,000 --> 00:16:45,000
+Ja, ich wohne mit meiner Familie.
+
+156
+00:16:45,000 --> 00:16:48,000
+Was sind Sie für einen Beruf?
+
+157
+00:16:48,000 --> 00:17:00,000
+Ich arbeite als Selbstständiger. Wir haben einen Kopi-Shop. Wir arbeiten hier mit meinem Mann, Doktor.
+
+158
+00:17:00,000 --> 00:17:04,000
+Okay, alles klar.
+
+159
+00:17:04,000 --> 00:17:17,300
+Frau Hofmann, das waren meine Fragen. Also, nein, Entschuldigung, besuchen Sie Ihre Frauen als regelmäßig?
+
+160
+00:17:17,300 --> 00:17:28,300
+Ja, Doktor, ich gehe mindestens drei Monate zu meinen Haushaltszinen.
+
+161
+00:17:28,300 --> 00:17:31,300
+Okay, wann waren Ihre letzte Periode?
+
+162
+00:17:31,300 --> 00:17:37,300
+Letzte Periode, vor zwei Wochen.
+
+163
+00:17:37,300 --> 00:17:43,300
+Okay. Ja, möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+164
+00:17:43,300 --> 00:17:48,300
+Ja, Doktor, ich habe viele Angst. Was habe ich?
+
+165
+00:17:48,300 --> 00:18:05,300
+Ja, also Frau Hofmann, das ist zu früh etwas genau zu sagen, aber ich vermute, dass Sie an einem epileptischen Anfall leiden.
+
+166
+00:18:05,300 --> 00:18:15,300
+Aber zuerst möchte ich Sie körperlich untersuchen, dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen veranlassen.
+
+167
+00:18:15,300 --> 00:18:24,300
+Sobald alle Ergebnisse da sind, werde ich mit Ihnen die weiteren Informationen mitteilen, okay?
+
+168
+00:18:24,300 --> 00:18:27,300
+Bleibe ich im Krankenhaus, Doktor?
+
+169
+00:18:27,300 --> 00:18:37,300
+Ja, ein paar Stunden müssen Sie sicherlich bei uns bleiben, damit wir die Diagnose bestätigen können.
+
+170
+00:18:37,300 --> 00:18:47,300
+Und wenn wir etwas Auffälliges finden, kann es auch passieren, dass Sie ein paar Tage im Krankenhaus bleiben sollen.
+
+171
+00:18:47,300 --> 00:18:48,300
+Okay?
+
+172
+00:18:48,300 --> 00:18:53,300
+Okay, Doktor, ich warte auf Sie, Doktor. Danke schön.
+
+173
+00:18:53,300 --> 00:18:59,300
+Okay, bitte nehmen Sie einen Platz im Wartezimmer, ich bin gleich wieder da.
+
+174
+00:18:59,300 --> 00:19:08,080
+Danke schön. Ich habe die Erfindungen von der Anfalle etwas entdeckt, aber ich habe eine Zigarre.
+
+175
+00:19:09,580 --> 00:19:17,580
+Schönen guten Tag, Herr Oberarzt. Ich habe eine neue Patientin aufgenommen und ich würde gerne über sie berichten.
+
+176
+00:19:17,580 --> 00:19:19,580
+Haben Sie kurz Zeit für mich?
+
+177
+00:19:19,580 --> 00:19:20,580
+Ja, bitte.
+
+178
+00:19:20,580 --> 00:19:31,580
+Danke schön. Frau Kerstin Hoffmann ist 38 Jahre alt, 1,78 Meter groß und 60 Kilogramm schwer.
+
+179
+00:19:31,580 --> 00:19:49,580
+Frau Hoffmann stellte sich heute bei uns vor drei Stunden aufgetretener Krampfanfall vor.
+
+180
+00:19:49,580 --> 00:20:01,580
+Ihr Mann hat sie zu uns gebracht.
+
+181
+00:20:01,580 --> 00:20:13,580
+Der Patienten zufolge seien die Beschwerden heute Morgen aufgetreten.
+
+182
+00:20:13,580 --> 00:20:20,580
+Solche Beschwerden habe sie früher noch nie gehabt.
+
+183
+00:20:20,580 --> 00:20:49,580
+Sie berichtete, dass sie gestern Abend zu viel Alkohol auf einer Party getrunken und laut dem Mann der Patientin war sie eine Minute lang.
+
+184
+00:20:49,580 --> 00:21:02,580
+Sie war eine Minute lang erstarrt vor dem Anfall und der Anfall habe eine Minute lang gedauert.
+
+185
+00:21:02,580 --> 00:21:17,580
+Sie berichtete über Nervosität und Unruhigkeit seit drei bis vier Tagen vor dem Anfall.
+
+186
+00:21:17,580 --> 00:21:36,580
+Außerdem klagte sie über Photophobie vor 30 Minuten vor dem Anfall.
+
+187
+00:21:36,580 --> 00:21:53,580
+Die Fragen nach Sturmgegebissen, Sturinkontinenz, Kopfverletzung und Schmerzen am Körper wurden verneint.
+
+188
+00:21:53,580 --> 00:22:18,580
+Sie erwähnte, dass sie vor dem Anfall Kopfschmerzen, Tachikalie, Somnolenz und Fatigue leider nicht hatten.
+
+189
+00:22:18,580 --> 00:22:31,580
+Die vegetative Anamnese ist bis insomni in Form von einem Schlafsturmgern unaufällig.
+
+190
+00:22:31,580 --> 00:22:36,580
+Sie sei vollständig gegen Kinderkrankheiten geimpft.
+
+191
+00:22:36,580 --> 00:22:43,580
+Sie besuche ihren Frauenarzt regelmäßig alle drei Monate.
+
+192
+00:23:13,580 --> 00:23:33,580
+Sie haben eine Diagnostik mit 18 Jahren Alkoholintoxikation und vor zehn Jahren Acetyl-Bolus-Riss.
+
+193
+00:23:33,580 --> 00:23:49,580
+Sie hat mit einem Jahr Diagnostik Fieberkrampf und seit drei Jahren bestehende Stimmbandknötchen.
+
+194
+00:23:49,580 --> 00:24:00,580
+Sie nimmt Neuangennut-Tabletten gegen Heiserkeit.
+
+195
+00:24:00,580 --> 00:24:15,580
+Sie nimmt Ibuprofen 500 mg bei Bedarf ein und sie benutzt Diprolen Salbe gegen Dermatitis.
+
+196
+00:24:15,580 --> 00:24:30,580
+Sie nimmt ein Medikament gegen Colon irritable, aber der Name von Medikamenten sollte geklärt werden.
+
+197
+00:24:30,580 --> 00:24:36,580
+Sie sei bisher noch nie operiert worden.
+
+198
+00:24:37,580 --> 00:24:48,580
+Sie habe Allergie gegen Eier, die sich durch Abdominalschmerzen und Pyrrhythes äußert.
+
+199
+00:24:48,580 --> 00:24:52,580
+Nikotinkonsum und Drogenkonsum wurden verneint.
+
+200
+00:24:52,580 --> 00:24:59,580
+Sie trinke zwei bis dreimal zwei Gläser Wein pro Woche.
+
+201
+00:24:59,580 --> 00:25:17,580
+In der Familienanamnese gab sie an, dass die Mutter wegen einer Handgelenkfraktur operiert worden sei.
+
+202
+00:25:17,580 --> 00:25:39,580
+Der Vater leide an keratitis rechts und bei ihm sei eine Korniertransplantation vor vier Monaten durchgeführt worden.
+
+203
+00:25:39,580 --> 00:25:46,580
+Sie sei Einzelkind und verheiratet.
+
+204
+00:25:46,580 --> 00:25:59,580
+Sie habe ein Kind, das an Vitium leidet und sie wohnt mit ihrer Familie zusammen.
+
+205
+00:25:59,580 --> 00:26:08,580
+Die Patienten haben eigene Kopyshop und haben viel Stress beim Alltag.
+
+206
+00:26:08,580 --> 00:26:21,580
+Ich gehe von einem Verdacht auf Epideptischer Anfall aus, da die Patienten typische Symptome dafür aufweisen,
+
+207
+00:26:21,580 --> 00:26:42,790
+dass sie unter einem Anfall leiden, Fotopsie, Nervosität, Unruhigkeit als Aura.
+
+208
+00:26:42,790 --> 00:26:54,790
+Sie leidet unter Fatigue, Somnolenz, Cephalgie und Tachikade nach dem Anfall.
+
+209
+00:26:54,790 --> 00:26:58,790
+Diese Symptome sprechen für einen epileptischen Anfall.
+
+210
+00:26:58,790 --> 00:27:15,100
+Die Patienten können als Differentialdiagnosen kommen Gehirntumor, Apoplex, Tier in Betracht.
+
+211
+00:27:15,100 --> 00:27:23,100
+Um meine Verdachtdiagnose zu bestätigen, würde ich bei den Patienten zunächst die Vitalparameter überwachen
+
+212
+00:27:23,100 --> 00:27:28,100
+und eine körperliche Untersuchung und eine neurologische Untersuchung durchführen.
+
+213
+00:27:28,100 --> 00:27:40,100
+Bei der neurologischen Untersuchung achte ich darauf, ob Störungen der Motorik, Sensorik und andere Veränderungen voll liegen.
+
+214
+00:27:40,100 --> 00:27:50,100
+Zusätzlich ist eine Labouruntersuchung sinnvoll, um eine umfassende Diagnose sich zu gewährleisten.
+
+215
+00:27:50,100 --> 00:28:12,100
+Dabei würde ich Blutbild CAP BSG, gegebenenfalls Lumbarpunktion, Status, Leberwerte, Nierenwerte, Elektrolyten bestimmen lassen.
+
+216
+00:28:12,100 --> 00:28:32,100
+Danach würde ich eine CT des Schädels durchführen, um die möglichen organischen Pathologien, wie Gehirnblutungen, Gehirntumor, auszuschließen.
+
+217
+00:28:32,100 --> 00:28:40,100
+Danach würde ich eine EEG durchführen, um meine Verdachtdiagnose zu bestätigen.
+
+218
+00:28:40,100 --> 00:28:57,100
+Wie gesagt würde ich eine Lumbarpunktion durchführen, um die möglichen Pathologien, wie zum Beispiel Meningitis oder Supra-arachnoidal Blutung auszuschließen.
+
+219
+00:28:57,100 --> 00:29:07,100
+Sollte sich die Verdachtdiagnose bestätigen, würde ich die Patienten stationär aufnehmen.
+
+220
+00:29:07,100 --> 00:29:23,100
+Danach würde ich einen Venösezugang legen und gegebenenfalls würde ich Benzodiazepin, Walbrück Acid verabreichen.
+
+221
+00:29:23,100 --> 00:29:38,100
+Und ich würde ein neurologisches Konzil anfordern, um die Therapie der Patienten zu optimieren.
+
+222
+00:29:38,100 --> 00:29:48,100
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit der geplanten Untersuchung fortfahren, Herr Oberarzt.
+
+223
+00:29:49,100 --> 00:29:57,100
+Nach der Akutbehandlung würde ich den Patienten in die Abteilung des neurologischen Klinik einweisen.
+
+224
+00:29:57,100 --> 00:30:14,180
+Herr Kollegen, Sie haben gesagt, ich denke in diesem Fall auch Gehirntumor, Apoptex und ja. Wie können wir diese Diagnose ausschließen?
+
+225
+00:30:14,180 --> 00:30:20,520
+Ja, wir sollen eine CT-Dest
+
+226
+00:30:20,520 --> 00:30:28,180
+Schäden oder gegebenenfalls MRT-Dest Schäden durchführen, um die möglichen Pathologien, wie zum Beispiel Blutungen oder Gehirntumor auszuschließen.
+
+227
+00:30:28,180 --> 00:30:31,180
+Wie können wir Apoplex ausschließen?
+
+228
+00:30:31,180 --> 00:30:44,180
+Ja, die Fission gewichtete MRT können wir durchführen, um eine Apoplex oder Tier ausschließen.
+
+229
+00:30:44,180 --> 00:30:54,180
+Sie haben gesagt, ich würde eine EEG durchführen. Können Sie uns EEG aufklären?
+
+230
+00:30:54,180 --> 00:30:59,180
+Ja, gerne. Ich werde Sie über EEG aufklären.
+
+231
+00:30:59,180 --> 00:31:10,180
+Elektroencephalographie ist eine Untersuchung, mit der wir die elektrische Aktivität des Gehirns aufzeichnen können.
+
+232
+00:31:10,180 --> 00:31:32,180
+Dazu werden mehrere Elektroden auf dem Kopf befestigt und diese Elektroden messen die elektrische Aktivität des Gehirns und zeigen sie als Kurve auf einem Monitor.
+
+233
+00:31:32,180 --> 00:31:52,180
+Diese Untersuchung hilft uns, die Epilepsie oder andere Schlafstörungen oder andere Gehirnkrankheiten zu erkennen.
+
+234
+00:31:52,180 --> 00:32:07,180
+Dafür benötigt der Patient keine spezielle Vorbereitung. Es gibt keine Komplikationen oder Kontaindikationen. Der Patient soll ruhig auf dem Rücken liegen.
+
+235
+00:32:07,180 --> 00:32:17,180
+Nach der Untersuchung gibt es keine Anschränkungen und der Patient kann den Alltag wie gewohnt fortsetzen.
+
+236
+00:32:20,520 --> 00:32:26,520
+In welcher Situation würden Sie eine Lomberfunktion durchführen?
+
+237
+00:32:26,520 --> 00:32:52,930
+Wenn der Patient unter Fieber leidet und wenn die Untersuchungen wie z.B. Kernigzeichen, Brudzinski-Zeichen positiv sind, können wir eine Lomberfunktion durchführen.
+
+238
+00:32:52,930 --> 00:33:01,930
+Oder wenn wir eine Gehirnblutung, z.B. Subarachnoidla-Blutungen, denken, können wir auch eine Lomberfunktion durchführen.
+
+239
+00:33:01,930 --> 00:33:06,930
+Wie können wir eine Lomberfunktion durchführen?
+
+240
+00:33:06,930 --> 00:33:23,930
+Zuerst müssen wir die Funktionsstelle desinfizieren. Wir machen diese Untersuchung auf dem Sitzungsposition.
+
+241
+00:33:23,930 --> 00:33:31,930
+Der Patient soll ein bisschen vorne beugen.
+
+242
+00:33:31,930 --> 00:33:45,930
+Danach führen wir eine dünne Nadel zwischen der vierten und fünften Lumbarwirbelsäule ein.
+
+243
+00:33:45,930 --> 00:34:05,930
+Danach entnehmen wir Nervenwasser in eine Typ. Danach legen wir einen Verband auf die Funktionsstelle.
+
+244
+00:34:05,930 --> 00:34:18,930
+Nach der Untersuchung soll der Patient eine halbe Stunde im Krankenhaus bleiben zur Beobachtung.
+
+245
+00:34:18,930 --> 00:34:28,930
+Wenn es kein Problem wie z.B. Nachblutungen gibt, kann der Patient nach Hause gehen.
+
+246
+00:34:31,620 --> 00:34:42,620
+Welche Schadenkrankheiten verursacht ein epilepsisches Anfall?
+
+247
+00:34:42,620 --> 00:35:07,310
+Metabolische Probleme wie z.B. starke Elektrolyte-Veränderungen können einen epileptischen Anfall verursachen.
+
+248
+00:35:07,310 --> 00:35:21,310
+Gehirntumor, cerebrale Blutungen, ein epileptisches Anfall.
+
+249
+00:35:21,310 --> 00:35:48,350
+Vielleicht andere Dämielinsen, Krankheiten, Traumata, Hypoglykämie.
+
+250
+00:35:48,350 --> 00:35:55,350
+Hat dieser Patient Fieber?
+
+251
+00:35:55,350 --> 00:36:03,350
+Der Patient hat keine Fieber.
+
+252
+00:36:03,350 --> 00:36:15,810
+Wie können wir Gehirntumor ausschließen?
+
+253
+00:36:15,810 --> 00:36:27,810
+Wir sollen zuerst eine CT-Deschädung durchführen um mögliche Pathologien zu beurteilen.
+
+254
+00:36:27,810 --> 00:36:42,810
+Gegebenenfalls sollen wir auch eine M.H.T. des Schädels durchführen um die Katsinom zu beurteilen.
+
+255
+00:36:42,810 --> 00:36:55,810
+Und wir können auch eine P.C.T. durchführen um die Gehirntumor und auch die Metastase genau zu beurteilen.
+
+256
+00:36:55,810 --> 00:37:05,810
+Würden Sie in diesem Fall mit Kontrastmittel CT-Deschädels oder M.H.T. des Schädels durchführen oder ohne Kontrastmittel?
+
+257
+00:37:05,810 --> 00:37:12,810
+Ich würde mit Kontrastmittel eine CT und M.H.T. durchführen.
+
+258
+00:37:12,810 --> 00:37:20,810
+Was beobachten wir während der Akutbehandlung?
+
+259
+00:37:20,810 --> 00:37:36,810
+Zuerst müssen wir die Vitaparameter überwachen und müssen die Atemwege öffnen und erhalten.
+
+260
+00:37:36,810 --> 00:37:51,810
+Danach können wir den Patienten Benzodiazepin verabreichen um den epileptischen Anfall zu kontrollieren.
+
+261
+00:37:51,810 --> 00:38:04,430
+Welche Schnelltests führen Sie durch?
+
+262
+00:38:04,430 --> 00:38:12,430
+Schnelltest? Meinen Sie Blutgasanalyse?
+
+263
+00:38:12,430 --> 00:38:14,430
+Und Omozuka?
+
+264
+00:38:14,430 --> 00:38:18,430
+Ja, Omozuka.
+
+265
+00:38:18,430 --> 00:38:27,430
+Und gibt es Schnelltestmöglichkeiten?
+
+266
+00:38:27,430 --> 00:38:31,430
+Sie haben gesagt, ich würde den Patienten stationärer Akut nehmen.
+
+267
+00:38:31,430 --> 00:38:36,430
+Was erwarten Sie während der Stationäre aufnehmen?
+
+268
+00:38:36,430 --> 00:38:49,430
+Wir können die Patienten kontrollieren, überwachen ob sie einen neuen epileptischen Anfall haben.
+
+269
+00:38:49,430 --> 00:39:01,430
+Deswegen können wir eine kontinuierliche EEG anschließen um die möglichen neuen Anfälle zu kontrollieren.
+
+270
+00:39:01,430 --> 00:39:09,430
+Vielen Dank, Herr Kollegen. Bitte gehen Sie zu unserem Info-Desk und nehmen Sie Ihre Certificate.
+
+271
+00:39:09,430 --> 00:39:14,430
+Ich wünsche Ihnen viel Erfolg für Ihr Arbeitsweg.

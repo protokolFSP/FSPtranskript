@@ -1,0 +1,455 @@
+1
+00:00:03,150 --> 00:00:14,410
+Guten Abend Herr Oberarzt, ich habe einen neuen Patienten aufgenommen. Ich würde gerne über ihn berichten.
+
+2
+00:00:14,410 --> 00:00:20,150
+Haben Sie kurz Zeit für mich? Ja bitte. Danke.
+
+3
+00:00:20,150 --> 00:00:37,150
+Herr Lange ist 66 Jahre alt, 1,76 Meter groß und 71 Kilogramm schwer.
+
+4
+00:00:37,150 --> 00:00:59,150
+Herr Lange ist ein 66 jähriger Patient, der sich heute bei uns wegen seit gestern Abend bestehender, erstmaliger, plötzlich aufgetretener, persistierender, linksseitiger, hypogastischer Abdominal Schmerzen ohne Schallung vorstellte.
+
+5
+00:00:59,150 --> 00:01:11,150
+Dem Patienten zufolge seien die Schmerzen nach dem Abendessen aufgetreten und im Laufe der Zeit schlimmer geworden.
+
+6
+00:01:11,150 --> 00:01:22,150
+Die Schmerzintensität wurde auf einer Schmerzkala am Anfang mit 5 von 10 und momentan mit 7 von 10 bewertet.
+
+7
+00:01:22,150 --> 00:01:37,150
+Außerdem berichtete er über Pyrexie und Schüterfrost. Der Patient habe das Fieber nicht gemessen.
+
+8
+00:01:37,150 --> 00:01:47,150
+Der Patient hat die Schmerzen nach dem Abendessen auf einer Koloskopie mit 3 Jahren durchgeführt.
+
+9
+00:01:47,150 --> 00:02:01,150
+Der Patient hat die Schmerzen nach dem Abendessen auf einer Koloskopie mit 3 Jahren durchgeführt.
+
+10
+00:02:01,150 --> 00:02:22,750
+Der Patient hat die Koloskopie mit 3 Jahren durchgeführt.
+
+11
+00:02:22,750 --> 00:02:39,140
+Die Schmerzen nach dem Abendessen auf einer Koloskopie mit 3 Jahren durchgeführt.
+
+12
+00:02:39,140 --> 00:02:51,140
+Die folgenden Anamnesen bei der vegetativen Anamnese seien bekannt.
+
+13
+00:02:51,140 --> 00:02:56,140
+Die Obstration war seit Langem.
+
+14
+00:02:56,140 --> 00:03:13,140
+Die Schnauze und Atemstillstand bedingte Insomnie und Schmerzen bedingte Inapetens.
+
+15
+00:03:13,140 --> 00:03:30,140
+Vor Erkrankungen gab der Patient Arterielle Hypertonie seit 10 Jahren, Morbus Bechterew seit 15 Jahren,
+
+16
+00:03:30,140 --> 00:03:48,140
+Hypolypidemie seit 10 Jahren, Tier vor 8 Jahren und Obststift Schlafapne-Syndrom an.
+
+17
+00:03:48,140 --> 00:03:56,140
+Der Patient nehme gegen Arterielle Hypertonie eine Tablette.
+
+18
+00:03:56,140 --> 00:04:03,140
+Diese Tablette sollte geklärt werden.
+
+19
+00:04:03,140 --> 00:04:18,140
+Er nehme gegen Morbus Bechterew Methotrexat, 12,5 mg Spritzen pro Woche und Vollsäure ein.
+
+20
+00:04:18,140 --> 00:04:23,140
+Aber man hat es zuerst nicht benutzt.
+
+21
+00:04:24,140 --> 00:04:35,140
+Der Patient nehme eine Medikamente gegen Arterielle Hypertonie ein.
+
+22
+00:04:35,140 --> 00:04:40,140
+Der wird statt und die Dosierung sollte geklärt werden.
+
+23
+00:04:40,140 --> 00:04:43,140
+Die Dosierung sollte geklärt werden.
+
+24
+00:04:43,140 --> 00:04:45,140
+Die Dosierung sollte geklärt werden.
+
+25
+00:04:45,140 --> 00:04:47,140
+Zolten.
+
+26
+00:04:47,140 --> 00:05:10,140
+Der Patient Spritze gegen Morbus Bechterew Methotrexat, 12,5 mg und er nehme Vollsäure ein.
+
+27
+00:05:10,140 --> 00:05:25,140
+Der Patient nehme Arterielle Arterielle Hypertonie ein.
+
+28
+00:05:26,140 --> 00:05:40,140
+Der Patient nehme ein Milogramm Arterielle Arterielle Hypertonie ein.
+
+29
+00:05:40,140 --> 00:05:53,140
+Der Patient nimmt eine Medikamente gegen Arterielle Hypertonie ein.
+
+30
+00:05:53,140 --> 00:06:13,140
+Der Patient nimmt eine Medikamente gegen Arterielle Hypertonie ein.
+
+31
+00:06:13,140 --> 00:06:19,140
+Der Patient nehme Arterielle Arterielle Hypertonie ein.
+
+32
+00:06:19,140 --> 00:06:36,860
+Der Patient hat vor 20 Jahren eine Prostatektomie durchgeführt.
+
+33
+00:06:36,860 --> 00:06:47,860
+Der Patient hat eine Allergie gegen Nickel, die sich exanthem äußert.
+
+34
+00:06:47,860 --> 00:06:58,180
+Er raucht eine Schachtel Zigaretten seit 50 Jahren.
+
+35
+00:06:58,180 --> 00:07:02,180
+Das entspricht 50 Packungsjahr.
+
+36
+00:07:02,180 --> 00:07:09,180
+Der Patient trinkt 1-2 Flaschen Bier täglich.
+
+37
+00:07:09,180 --> 00:07:11,180
+Er trug einen Konsum oder verneint.
+
+38
+00:07:11,180 --> 00:07:14,180
+Er trägt regelmäßig keinen Sport.
+
+39
+00:07:14,180 --> 00:07:28,180
+In der Familienanamnese gab er an, dass der Vater wegen eines Verkehrsunfalls gestorben sei.
+
+40
+00:07:28,180 --> 00:07:38,180
+Die Mutter ist 70 Jahre alt und ist an Kolonkarsinom gestorben.
+
+41
+00:07:38,180 --> 00:07:42,180
+Er hat keine Geschwister.
+
+42
+00:07:42,180 --> 00:07:47,180
+Er ist verheiratet und hat zwei gesunde Kinder.
+
+43
+00:07:47,180 --> 00:07:55,180
+Er ist Taxifahrer und hat viel Stress bei der Arbeit.
+
+44
+00:07:55,180 --> 00:08:08,090
+Ich gehe von einem Verdacht auf eine Diathekritik aus.
+
+45
+00:08:08,090 --> 00:08:19,530
+Der Patient hat typische Symptome.
+
+46
+00:08:19,530 --> 00:08:47,290
+Der Patient hat Pyrexie, linksseitige Unterbauchschmerzen und eine divertikelle Folgeschichte.
+
+47
+00:08:47,290 --> 00:08:52,290
+Diese Symptome entsprechen der Vertikulitis.
+
+48
+00:08:52,290 --> 00:09:15,430
+Als Diagnose kommen Kolonkarsinom, chronische Darmerkrankungen und irritable Colonzentrum in Betracht.
+
+49
+00:09:15,430 --> 00:09:27,430
+Zunächst würde ich bei den Patienten die Vitaparameter überwachen und eine körperliche Untersuchung durchführen.
+
+50
+00:09:27,430 --> 00:09:41,430
+Zusätzlich ist eine Laboruntersuchung sinnvoll, um eine umfassende Diagnostik zu gewährleisten.
+
+51
+00:09:41,430 --> 00:10:11,130
+Bei der körperlichen Untersuchung achte ich darauf, ob Hautfarbeveränderungen, Schwellungen oder Lymphknoten vergrößern.
+
+52
+00:10:11,130 --> 00:10:31,130
+Bei der Palpation achte ich darauf, ob der Patient Druckschmerzen, Abwehrschmerzen und Organomegalie hat.
+
+53
+00:10:31,130 --> 00:10:48,130
+Dann würde ich die Lekusytensal, CAP, BSG, Leberwerte, Nierenwerte, Gerüntungsparameter,
+
+54
+00:11:20,910 --> 00:11:30,910
+eine Abdominalsonographie durchführen, um mögliche Pathologie zu beurteilen.
+
+55
+00:11:30,910 --> 00:11:38,910
+Gegebenenfalls würde ich eine Abdominalsonographie durchführen.
+
+56
+00:11:38,910 --> 00:11:58,910
+Nach der Behandlung würde ich eine Koloskopie anlassen, um meine Verdachtdiagnose zu bestätigen.
+
+57
+00:11:58,910 --> 00:12:23,660
+Darüber hinaus würde ich ein gastroenterologisches und chirurgisches Konsil anfordern, um die Therapie des Patienten zu optimieren.
+
+58
+00:12:23,660 --> 00:12:43,660
+Darüber hinaus würde ich den Patienten stationär aufnehmen und den Patienten eine venusische Zugang legen.
+
+59
+00:12:43,660 --> 00:13:03,660
+Dann würde ich die Flüssigkeit, Antibiotika, Antiemetika verbreichen.
+
+60
+00:13:03,660 --> 00:13:26,960
+Dann würde ich den Patienten die Abteilung des gastroenterologischen Klinik einweisen.
+
+61
+00:13:27,960 --> 00:13:34,960
+Herr Kollege, wie können wir mit der Abdominalsonographie divertikelisiert werden?
+
+62
+00:13:34,960 --> 00:13:54,280
+Bei der Abdominalsonographie können wir die Verdichte divertikel beobachten.
+
+63
+00:13:54,280 --> 00:14:16,300
+Die Verdichtung und die Verdichtung der Differtikel würde ich bei der Untersuchung beobachten.
+
+64
+00:14:54,810 --> 00:15:05,240
+Herr Kollege, können wir mit der Abdominalsonographie beobachten?
+
+65
+00:15:05,240 --> 00:15:16,240
+Ja, also, wir können die Verdichte beobachten.
+
+66
+00:15:16,240 --> 00:15:26,240
+Herr Kollege, Sie werden zuerst die Versuche beobachten.
+
+67
+00:15:26,240 --> 00:15:38,240
+Ich werde Sie über MRT aufklären.
+
+68
+00:15:38,240 --> 00:15:48,240
+MRT gehört zu den bildgebenden Verfahren.
+
+69
+00:15:48,240 --> 00:15:56,240
+Diese Untersuchung beruht mit dem Magnetismus.
+
+70
+00:15:56,240 --> 00:16:10,240
+Deswegen benötigt diese Untersuchung keine Strahlung und Belastung und ist voll schmerzfrei.
+
+71
+00:16:10,240 --> 00:16:24,240
+Diese Untersuchung dauert ca. 30 Minuten und Sie sollen in einem MRT-Röhre ruhig liegen.
+
+72
+00:16:24,240 --> 00:16:32,240
+Wenn Sie Platzangt haben, können wir Ihnen eine leichte Schmerzmittel geben.
+
+73
+00:16:32,240 --> 00:16:42,240
+Bevor die Untersuchung benötigen Sie keine besondere Vorbereitung.
+
+74
+00:16:42,240 --> 00:16:52,240
+Sie sollen ein Klopfen Geräusche hören.
+
+75
+00:16:52,240 --> 00:16:59,240
+Deswegen werden wir Ihnen eine Kopfhörer geben.
+
+76
+00:16:59,240 --> 00:17:13,320
+Es gibt keine Komplikationen bei dieser Untersuchung.
+
+77
+00:17:13,320 --> 00:17:21,320
+Aber es gibt einige Komplikationen bei dieser Untersuchung.
+
+78
+00:17:21,320 --> 00:17:41,320
+Wenn Sie eine Schriftmache haben oder Metallische Körperteile haben,
+
+79
+00:18:11,320 --> 00:18:22,920
+können Sie nach der Untersuchung Ihr Alltag wie gewohnt fortsetzen.
+
+80
+00:18:22,920 --> 00:18:34,260
+Es gibt keine Einschränkungen beim Alltag.
+
+81
+00:18:34,260 --> 00:18:46,260
+Sie sollen Ihre Schmuck und Metallische Körperteile auslegen.
+
+82
+00:19:16,260 --> 00:19:24,260
+Sie sollen eine Schmerzmache haben.
+
+83
+00:19:24,260 --> 00:19:32,260
+Dann werden Sie eine Schmerzmache haben.
+
+84
+00:19:32,260 --> 00:19:40,260
+Sie sollen eine Schmerzmache haben.
+
+85
+00:19:40,260 --> 00:19:48,260
+Sie sollen eine Schmerzmache haben.
+
+86
+00:19:48,260 --> 00:19:56,260
+Sie sollen eine Schmerzmache haben.
+
+87
+00:19:56,260 --> 00:20:04,260
+Sie sollen eine Schmerzmache haben.
+
+88
+00:20:04,260 --> 00:20:14,260
+Sie sollen eine Schmerzmache haben.
+
+89
+00:20:14,260 --> 00:20:24,260
+Sie sollen eine Schmerzmache haben.
+
+90
+00:20:24,260 --> 00:20:36,540
+Sie sollen eine Schmerzmache haben.
+
+91
+00:20:36,540 --> 00:20:49,190
+Sie sollen eine Schmerzmache haben.
+
+92
+00:20:49,190 --> 00:20:59,190
+Sie sollen eine Schmerzmache haben.
+
+93
+00:20:59,190 --> 00:21:09,190
+Sie sollen eine Schmerzmache haben.
+
+94
+00:21:09,190 --> 00:21:21,750
+Sie sollen eine Schmerzmache haben.
+
+95
+00:21:21,750 --> 00:21:31,750
+Sie sollen eine Schmerzmache haben.
+
+96
+00:21:31,750 --> 00:21:44,090
+Sie sollen eine Schmerzmache haben.
+
+97
+00:21:44,090 --> 00:21:58,180
+Sie sollen eine Schmerzmache haben.
+
+98
+00:21:58,180 --> 00:22:08,180
+Sie sollen eine Schmerzmache haben.
+
+99
+00:22:08,180 --> 00:22:19,500
+Sie sollen eine Schmerzmache haben.
+
+100
+00:22:19,500 --> 00:22:29,500
+Sie sollen eine Schmerzmache haben.
+
+101
+00:22:29,500 --> 00:22:39,500
+Sie sollen eine Schmerzmache haben.
+
+102
+00:22:39,500 --> 00:22:47,500
+Sie sollen eine Schmerzmache haben.
+
+103
+00:22:47,500 --> 00:22:59,350
+Sie sollen eine Schmerzmache haben.
+
+104
+00:22:59,350 --> 00:23:09,350
+Sie sollen eine Schmerzmache haben.
+
+105
+00:23:09,350 --> 00:23:19,350
+Sie sollen eine Schmerzmache haben.
+
+106
+00:23:19,350 --> 00:23:31,880
+Sie sollen eine Schmerzmache haben.
+
+107
+00:23:31,880 --> 00:23:41,880
+Sie sollen eine Schmerzmache haben.
+
+108
+00:23:41,880 --> 00:23:51,880
+Sie sollen eine Schmerzmache haben.
+
+109
+00:23:51,880 --> 00:24:01,880
+Sie sollen eine Schmerzmache haben.
+
+110
+00:24:01,880 --> 00:24:14,150
+Sie sollen eine Schmerzmache haben.
+
+111
+00:24:14,150 --> 00:24:20,150
+Sie sollen eine Schmerzmache haben.
+
+112
+00:24:20,150 --> 00:24:30,150
+Sie sollen eine Schmerzmache haben.
+
+113
+00:24:30,150 --> 00:24:42,040
+Sie sollen eine Schmerzmache haben.
+
+114
+00:24:42,040 --> 00:24:52,040
+Sie sollen eine Schmerzmache haben.

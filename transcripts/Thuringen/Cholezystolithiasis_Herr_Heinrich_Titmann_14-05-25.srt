@@ -1,0 +1,855 @@
+1
+00:00:02,510 --> 00:00:06,030
+Könnten Sie bitte Ihren Vornachnamen langsam bestabieren?
+
+2
+00:00:06,030 --> 00:00:08,030
+Okay. Heinrich.
+
+3
+00:00:08,030 --> 00:00:25,870
+Heinrich, Emil, Ida, Nordpol, Richard, Ida, Cesar, Heinrich, Vorname Theodor, Heinrich, Ida, Emil, Theodor, Martha, Anton, Richard.
+
+4
+00:00:25,870 --> 00:00:30,990
+Herr Tietmann, wie anziehen Sie?
+
+5
+00:00:31,390 --> 00:00:32,670
+Entschuldigung?
+
+6
+00:00:32,670 --> 00:00:33,950
+Wie alt sind Sie?
+
+7
+00:00:33,950 --> 00:00:37,150
+Ich bin 53 Jahre alt, Doktor.
+
+8
+00:00:37,150 --> 00:00:41,040
+Wann sind Sie genau geboren?
+
+9
+00:00:41,040 --> 00:00:50,160
+Ich bin 2. Mai 1972.
+
+10
+00:00:50,160 --> 00:00:53,440
+Wie groß sind Sie?
+
+11
+00:00:53,440 --> 00:00:57,040
+Ich bin 1 Meter 80.
+
+12
+00:00:59,250 --> 00:01:01,970
+Und wie schwer sind Sie zuzeit?
+
+13
+00:01:02,050 --> 00:01:05,650
+Ich bin 60 Kilogramm.
+
+14
+00:01:05,650 --> 00:01:15,200
+60 Kilogramm. Danke für die Information. Herr Tietmann, was kann ich für Sie tun?
+
+15
+00:01:15,200 --> 00:01:17,520
+Was für Beschwerden haben Sie zuzeit?
+
+16
+00:01:17,520 --> 00:01:30,000
+Ich bin heute hier, weil ich ungefähr 1 Stunde starke Schmerzen habe.
+
+17
+00:01:30,000 --> 00:01:34,860
+Wo genau sind diese Schmerzen?
+
+18
+00:01:35,180 --> 00:01:40,140
+Meine Schmerzen sind in meinem Oberbauch.
+
+19
+00:01:44,690 --> 00:01:51,570
+Herr Tietmann, können Sie diese Schmerzen genau beschreiben? Sind sie eher drückend oder brennend stechend?
+
+20
+00:01:51,570 --> 00:01:56,690
+Die Schmerzen sind krampfartig, Doktor.
+
+21
+00:01:56,690 --> 00:02:02,270
+Und straten diese Schmerzen irgendwo hinaus?
+
+22
+00:02:02,750 --> 00:02:10,990
+Ja, ein bisschen in meinem Rücken.
+
+23
+00:02:10,990 --> 00:02:16,430
+Sind diese Schmerzen dauerhaft da oder gehen sie auch wieder weg?
+
+24
+00:02:16,430 --> 00:02:19,470
+Die sind dauerhaft.
+
+25
+00:02:19,470 --> 00:02:22,430
+Immer dauerhaft.
+
+26
+00:02:22,430 --> 00:02:23,470
+Ich verstehe.
+
+27
+00:02:23,470 --> 00:02:28,350
+Wie lange dauert diese krampfartige Schmerzen?
+
+28
+00:02:28,830 --> 00:02:32,750
+Ich glaube, Sie leiden unter Atake.
+
+29
+00:02:32,750 --> 00:02:35,870
+Wie lange dauert diese Atake?
+
+30
+00:02:35,870 --> 00:02:44,030
+Doktor, ich habe eine Minute diese Beschwerden.
+
+31
+00:02:44,030 --> 00:02:52,270
+Aber ich denke, 15 Minuten vielleicht.
+
+32
+00:02:52,270 --> 00:02:56,800
+Mit Atake.
+
+33
+00:02:57,760 --> 00:03:08,000
+Wie stark sind Schmerzen auf einer Schmerzkala von SBCN-1 sehr leicht und sehr starke Schmerzen entspricht?
+
+34
+00:03:08,000 --> 00:03:13,520
+Ich würde sagen, Schmerzen sind 9.
+
+35
+00:03:13,520 --> 00:03:17,200
+10 auf der Skala 5.
+
+36
+00:03:17,200 --> 00:03:20,960
+Herr Tietmann, das ist eine sehr starke Schmerzen.
+
+37
+00:03:20,960 --> 00:03:24,160
+Ja, eine sehr starke Schmerzen, Doktor.
+
+38
+00:03:25,120 --> 00:03:35,360
+Soll ich Ihnen eine Schmerzmittel geben oder können Sie diese Schmerzen noch ein bisschen bis Ende des Sprechs aushalten?
+
+39
+00:03:35,360 --> 00:03:43,120
+Es wäre besser, wenn Sie eine Schmerzmittel geben können.
+
+40
+00:03:43,120 --> 00:03:46,640
+Ok, gerne.
+
+41
+00:03:46,640 --> 00:03:52,640
+Haben Sie Allergie gegen irgendwelche Medikamente, besonders Schmerzmittel?
+
+42
+00:03:52,640 --> 00:03:57,040
+Nein, ich habe keine Allergie gegen Schmerzmittel.
+
+43
+00:03:57,040 --> 00:04:01,760
+Leiden Sie an chronischen Nierenerkrankungen?
+
+44
+00:04:01,760 --> 00:04:09,920
+Nein, ich habe keine chronischen Nierenerkrankungen.
+
+45
+00:04:10,000 --> 00:04:24,480
+Ok, Schwester Müller, bitte geben Sie den Patienten ein Spasmolythika und einen Magenschutz.
+
+46
+00:04:24,480 --> 00:04:30,560
+Ok, Herr Tietmann, wie fühlen Sie sich jetzt besser?
+
+47
+00:04:30,560 --> 00:04:34,320
+Ja, ich bin jetzt besser. Danke, Doktor.
+
+48
+00:04:34,320 --> 00:04:36,320
+Sehr gerne.
+
+49
+00:04:36,320 --> 00:04:42,880
+Ok, bitte sagen Sie mir sofort Bescheid, wenn Sie noch Medikamente benötigen.
+
+50
+00:04:42,880 --> 00:04:44,880
+Ok, danke schön.
+
+51
+00:04:44,880 --> 00:04:54,640
+Herr Tietmann, haben Sie gegen diese Schmerzen ein Medikament eingenommen?
+
+52
+00:04:54,640 --> 00:05:04,320
+Ich nehme keine Medikamente, Doktor. Ich habe ungefähr 1 Stunde Schmerzen.
+
+53
+00:05:04,320 --> 00:05:09,600
+Ja, ich verstehe. Haben Sie früher ähnliche Beschwerden gehabt?
+
+54
+00:05:09,600 --> 00:05:18,560
+Nein, ich habe keine ähnliche Beschwerden gehabt.
+
+55
+00:05:18,560 --> 00:05:27,520
+Alles klar. Herr Tietmann, haben Sie eine bestimmte Auslöser für die Schmerzen bemerkt?
+
+56
+00:05:27,520 --> 00:05:29,520
+Ich habe nicht bemerkt.
+
+57
+00:05:30,240 --> 00:05:34,000
+Ich meine nach dem Essen oder der stressigen Situation?
+
+58
+00:05:34,000 --> 00:05:37,120
+Ja, ja Doktor, Sie haben Recht.
+
+59
+00:05:37,120 --> 00:05:51,920
+Heute habe ich meiner Schwester zum Frühstück gegangen.
+
+60
+00:05:52,400 --> 00:06:02,480
+Ich esse viele Fettige essen. Nach dem Frühstück hat die Schmerzen sich bemerkt.
+
+61
+00:06:02,480 --> 00:06:07,920
+Ok, was haben Sie zum Frühstück gegessen, Herr Tietmann?
+
+62
+00:06:07,920 --> 00:06:25,440
+Ich habe Butter und ein bisschen Brot gegessen. Aber ich habe viele Butter mit Brot gegessen.
+
+63
+00:06:25,440 --> 00:06:35,760
+Ok, alles klar. Hat jemand ähnliche Beschwerden gehabt? Ich meine Ihre Schwester zum Beispiel oder nur Sie?
+
+64
+00:06:35,760 --> 00:06:38,800
+Ja, nur ich.
+
+65
+00:06:38,800 --> 00:06:44,400
+Ok, alles klar. Herr Tietmann, ist Ihnen übel?
+
+66
+00:06:44,400 --> 00:06:50,960
+Ja, mir ist auch übel. Aber ich möchte nicht übel geben, Doktor.
+
+67
+00:06:50,960 --> 00:06:56,960
+Ok, alles klar.
+
+68
+00:06:57,680 --> 00:07:04,880
+Haben Sie Probleme mit dem Stuhlgang?
+
+69
+00:07:04,880 --> 00:07:14,480
+Also ich meine, haben Sie Blut oder ungewöhnliche Situationen, Veränderungen im Stuhl bemerkt?
+
+70
+00:07:14,480 --> 00:07:28,080
+Ich habe keinen Apathit jetzt und leider Verstopfung. Aber diese Beschwerden sind nicht jetzt.
+
+71
+00:07:28,080 --> 00:07:44,460
+Diese Beschwerden sind sehr lange seit. Und dagegen nehme ich zweimal pro Woche Movicol.
+
+72
+00:07:44,460 --> 00:07:49,660
+Seit langem haben Sie Verstopfung und Sie nehmen Movicol dagegen?
+
+73
+00:07:49,660 --> 00:07:54,860
+Ja, pro Woche.
+
+74
+00:07:54,860 --> 00:08:11,500
+Herr Tietmann, haben Sie Hautfarbeveränderungen bemerkt? Ich meine Gelbsucht in den Augen oder an der Haut?
+
+75
+00:08:11,500 --> 00:08:19,680
+Ja, ich habe nicht bemerkt, Doktor.
+
+76
+00:08:20,320 --> 00:08:26,240
+Und Sie haben gesagt, dass Sie keine Blutung oder kein Blut im Stuhlgang bemerkt?
+
+77
+00:08:26,240 --> 00:08:28,240
+Ja.
+
+78
+00:08:28,240 --> 00:08:31,600
+Haben Sie Probleme beim Wasserlassen?
+
+79
+00:08:31,600 --> 00:08:34,320
+Ich habe keine Probleme mit Wasserlassen.
+
+80
+00:08:34,320 --> 00:08:39,920
+Das freut mich. Und Sie haben gesagt, dass Sie Apathitlosigkeit haben.
+
+81
+00:08:39,920 --> 00:08:45,280
+Haben Sie in der letzten Zeit ab oder zugenommen? Ich meine unwilkürlich?
+
+82
+00:08:45,360 --> 00:08:49,680
+Ja. Nein, ich habe immer gleichgewischt.
+
+83
+00:08:49,680 --> 00:08:55,040
+Fühlen Sie sich frieblich?
+
+84
+00:08:55,040 --> 00:09:01,760
+Ich habe nicht gemessen, aber ich habe keine Fieber. Nein.
+
+85
+00:09:01,760 --> 00:09:04,480
+Ok. Schüterfrost oder Nachtschweiß?
+
+86
+00:09:04,480 --> 00:09:06,480
+Ich habe nicht bemerkt.
+
+87
+00:09:06,480 --> 00:09:12,560
+Leiden Sie unter Luftnot oder Husten?
+
+88
+00:09:13,040 --> 00:09:16,960
+Nein, Doktor. Ich habe keine diese Schmerzen.
+
+89
+00:09:16,960 --> 00:09:28,080
+Herr Tietmann, ich muss fragen, ob Sie unter Brustschmerzen oder Herzrasen leiden?
+
+90
+00:09:28,080 --> 00:09:33,520
+Nein. Ich habe keine Brustschmerzen oder Herzrasen. Nein.
+
+91
+00:09:33,520 --> 00:09:36,770
+Das freut mich. Ok.
+
+92
+00:09:36,770 --> 00:09:50,180
+Sind Sie schon vollständig gegen Kinderkrankheiten oder Corona-Infektionen geimpft?
+
+93
+00:09:50,180 --> 00:09:54,260
+Ja, ich bin vollständig geimpft.
+
+94
+00:09:54,260 --> 00:10:04,260
+Leiden Sie an chronische Erkrankungen, von denen ich wissen sollte, wie z.B. Zuckerkrankheit oder Bluthochdruck?
+
+95
+00:10:04,740 --> 00:10:17,900
+Ja, seit ein paar Jahren habe ich Bluthochdruck. Damit habe ich Kandesartan behandelt.
+
+96
+00:10:17,900 --> 00:10:19,900
+Kandesartan, 8 mg?
+
+97
+00:10:19,900 --> 00:10:24,780
+Ja, 8 mg am Morgen.
+
+98
+00:10:24,780 --> 00:10:34,620
+Ok. Sie haben gesagt, seit langer Zeit. Was meinen Sie damit? 15 Jahre, 20 Jahre?
+
+99
+00:10:34,620 --> 00:10:38,300
+Ja, ungefähr 12 Jahre.
+
+100
+00:10:38,300 --> 00:10:43,260
+12 Jahre, ok. Noch sonst?
+
+101
+00:10:43,260 --> 00:10:56,930
+Ja, erhöhte Cholesterinwerte habe ich und dafür nehme ich Zimvostatin.
+
+102
+00:10:56,930 --> 00:11:00,290
+Welche Dosierung nehmen Sie ein? Und wie oft?
+
+103
+00:11:00,290 --> 00:11:04,610
+Ich erinnere mich nicht jetzt, Doktor.
+
+104
+00:11:04,610 --> 00:11:06,610
+Wie oft nehmen Sie ein?
+
+105
+00:11:06,610 --> 00:11:11,010
+Einmal täglich morgens.
+
+106
+00:11:11,010 --> 00:11:14,610
+Ok. Haben Sie eine Medikamentenliste dabei?
+
+107
+00:11:14,610 --> 00:11:19,250
+Ich habe keine Medikamente, nein.
+
+108
+00:11:19,250 --> 00:11:23,570
+Ok, kein Problem. Wer ist Ihr Hausarzt oder Hausärztin?
+
+109
+00:11:23,570 --> 00:11:29,410
+Mein Hausarztname ist Yener Kaplan.
+
+110
+00:11:30,370 --> 00:11:45,410
+Ok, Herr Tietmann, ich werde Ihren Hausarzt kontaktieren und werde diese Medikamentenliste wieder kontrollieren.
+
+111
+00:11:45,410 --> 00:11:47,410
+Ok, danke.
+
+112
+00:11:47,410 --> 00:11:51,410
+Seit wann leiden Sie an erhöhte Cholesterinwerte?
+
+113
+00:11:51,410 --> 00:11:55,410
+Seit 5 Jahren.
+
+114
+00:11:55,410 --> 00:11:59,810
+Und sonst noch irgendwelche Erkrankungen haben Sie?
+
+115
+00:11:59,810 --> 00:12:12,340
+Ich habe auch eine Bandschreibung vor Ort, die ich mit Finalgon Salve behandle.
+
+116
+00:12:12,340 --> 00:12:16,340
+Benutzen Sie bei Bedarf oder regelmäßig?
+
+117
+00:12:16,340 --> 00:12:18,340
+Bei Bedarf, bei Bedarf.
+
+118
+00:12:18,340 --> 00:12:20,340
+Ok, in welchem?
+
+119
+00:12:20,340 --> 00:12:25,570
+Zwei Mal pro Woche oder dreimal.
+
+120
+00:12:25,570 --> 00:12:33,570
+In welchem Bereich ist das Problem? Ich meine Lendenbereich oder Halsbereich?
+
+121
+00:12:33,570 --> 00:12:35,570
+Lendenbereich, Doktor.
+
+122
+00:12:35,570 --> 00:12:37,570
+Seit wann haben Sie dieses Problem?
+
+123
+00:12:37,570 --> 00:12:41,570
+Ungefähr acht Jahre.
+
+124
+00:12:41,570 --> 00:12:43,570
+Ok, also.
+
+125
+00:12:43,570 --> 00:12:45,570
+Seit acht Jahren, ja.
+
+126
+00:12:45,570 --> 00:12:47,570
+Das war es, oder Herr Tietmann?
+
+127
+00:12:47,570 --> 00:12:49,570
+Entschuldigung.
+
+128
+00:12:49,570 --> 00:12:53,570
+Das war es oder haben Sie noch irgendwelche anderen Erkrankungen?
+
+129
+00:12:53,570 --> 00:12:59,570
+Ich habe operiert.
+
+130
+00:12:59,570 --> 00:13:14,080
+Ich wurde früher wegen eines Nagelbruchs und wegen Arthrose am Fuß operiert.
+
+131
+00:13:14,080 --> 00:13:16,080
+Haben Sie gesagt Nagelbruch?
+
+132
+00:13:16,080 --> 00:13:18,080
+Ja, Nagelbruch, ja.
+
+133
+00:13:18,080 --> 00:13:20,080
+Nagelbruchoperation meinen Sie?
+
+134
+00:13:20,080 --> 00:13:25,940
+Ja, Nagelbruch, ja.
+
+135
+00:13:25,940 --> 00:13:27,940
+Und Sie haben gesagt Arthrose, ja?
+
+136
+00:13:27,940 --> 00:13:31,940
+Arthrose, ja. Wegen Arthrose am Fuß.
+
+137
+00:13:31,940 --> 00:13:33,940
+Am Fuß.
+
+138
+00:13:33,940 --> 00:13:35,940
+Ja. Operiert.
+
+139
+00:13:35,940 --> 00:13:46,660
+Als ich Kind war, hatte ich einen Unfall und meinen Nagelbruch.
+
+140
+00:13:46,660 --> 00:13:48,660
+Ich hatte Nagelbruch, ja.
+
+141
+00:13:48,660 --> 00:13:52,860
+Ich habe Nagelbruch, Entschuldigung.
+
+142
+00:13:52,860 --> 00:13:54,860
+Nagel, nicht Nagel.
+
+143
+00:13:54,860 --> 00:13:56,860
+Nabelbruch.
+
+144
+00:13:56,860 --> 00:13:58,860
+Ok.
+
+145
+00:13:58,860 --> 00:14:08,860
+Nagelbruch. Herr Tietmann, wenn ich richtig verstanden habe, wenn Sie als Kind waren, hatten Sie einen Nagelbruch?
+
+146
+00:14:08,860 --> 00:14:10,860
+Ja.
+
+147
+00:14:10,860 --> 00:14:18,860
+Und auch Sie hatten eine Operation wegen Arthrose am Fuß, richtig?
+
+148
+00:14:18,860 --> 00:14:22,860
+Ja, am Fuß. Vor zehn Jahren.
+
+149
+00:14:22,860 --> 00:14:24,860
+Vor zehn Jahren, ok.
+
+150
+00:14:24,860 --> 00:14:32,860
+Also ist das wegen einem Unfall oder ich meine diese Arthroseprobleme?
+
+151
+00:14:32,860 --> 00:14:36,860
+Ja, Arthroseprobleme. Kein Unfall, ja.
+
+152
+00:14:36,860 --> 00:14:38,860
+Ok, nur Arthrose.
+
+153
+00:14:38,860 --> 00:14:44,860
+Nehmen Sie regelmäßig oder bei Bedarf Medikamente ein, außer genannten Medikamente?
+
+154
+00:14:44,860 --> 00:14:52,860
+Ja, ich habe alles gesagt Doktor. Ich habe keine anderen Medikamente.
+
+155
+00:14:52,860 --> 00:14:58,860
+Haben Sie eine Allergie gegen irgendwelche Pflanzmittel oder Nahrungsmittel?
+
+156
+00:14:58,860 --> 00:15:06,300
+Ja, ich habe Fruchtzuckerunverträglichkeit.
+
+157
+00:15:06,300 --> 00:15:10,300
+Wie äußert sich diese Fertiglichkeit?
+
+158
+00:15:10,300 --> 00:15:21,060
+Das führt bei mir zu Blähungen und Verdankbeschwerden. Verdankbeschwerden Doktor.
+
+159
+00:15:21,060 --> 00:15:25,060
+Alles klar. Herr Tietmann, rauchen Sie?
+
+160
+00:15:25,060 --> 00:15:33,060
+Entschuldigung. Außerdem habe ich eine Kursallergie wegen Pflanzmittel und Nahrungsmittel.
+
+161
+00:15:33,060 --> 00:15:41,060
+Das führt bei mir zu Schmerzen, Bauchschmerzen, Eczema und Yükreis.
+
+162
+00:15:41,060 --> 00:15:49,730
+Pflanzmittel und Nahrungsmittel.
+
+163
+00:15:49,730 --> 00:15:53,730
+Bauchschmerzen, Yükreis, Eczema haben Sie gesagt?
+
+164
+00:15:53,730 --> 00:15:55,730
+Ja, ja. Und Schmerzen.
+
+165
+00:15:55,730 --> 00:15:57,730
+Und Schmerzen.
+
+166
+00:15:57,730 --> 00:16:01,730
+Alles klar. Rauchen Sie?
+
+167
+00:16:01,730 --> 00:16:11,730
+Ja, ich rauche seit meinem 17. Lebensjahr etwa 15 Zigaretten am Tag.
+
+168
+00:16:11,730 --> 00:16:23,520
+Und trinken 2 und 3 Flaschen Wein pro Woche.
+
+169
+00:16:23,520 --> 00:16:25,520
+Flaschen Wein pro Woche?
+
+170
+00:16:25,520 --> 00:16:27,520
+Ja, pro Woche.
+
+171
+00:16:27,520 --> 00:16:31,520
+Okay. Bitte nehmen Sie die nächste Frage nicht persönlich. Das ist eine Routinefrage.
+
+172
+00:16:31,520 --> 00:16:35,520
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+173
+00:16:35,520 --> 00:16:38,520
+Nein, Drogen nehme ich keine Doktor.
+
+174
+00:16:38,520 --> 00:16:44,520
+Okay, das freut mich. Leiden Ihre Eltern an psychische Erkrankungen?
+
+175
+00:16:44,520 --> 00:17:00,970
+Ja, mein Vater ist mit 76 Jahren an Bauch, Speiser, Drüse, Krebs gestorben.
+
+176
+00:17:00,970 --> 00:17:04,970
+Ja, das freut mich. Und Ihre Mutter?
+
+177
+00:17:04,970 --> 00:17:15,970
+Meine Mutter hat eine Herzschwäche. Aber sie lebt noch.
+
+178
+00:17:15,970 --> 00:17:18,970
+Okay. Haben Sie Geschwister?
+
+179
+00:17:18,970 --> 00:17:21,970
+Ich bin Einzelkind Doktor.
+
+180
+00:17:21,970 --> 00:17:23,970
+Okay. Sind Sie verheiratet?
+
+181
+00:17:23,970 --> 00:17:26,970
+Ja, ich bin verheiratet.
+
+182
+00:17:26,970 --> 00:17:28,970
+Haben Sie Kinder?
+
+183
+00:17:28,970 --> 00:17:31,970
+Ich habe 3 Kinder.
+
+184
+00:17:31,970 --> 00:17:33,970
+Sind die Kinder gesund?
+
+185
+00:17:33,970 --> 00:17:36,970
+Ja, und sind sie gesund.
+
+186
+00:17:36,970 --> 00:17:40,970
+Okay, das freut mich. Was sind Sie von Beruf, Herr Tietmann?
+
+187
+00:17:40,970 --> 00:17:49,460
+Ich bin Bürokaufmann von Beruf.
+
+188
+00:17:49,460 --> 00:17:52,460
+Okay, alles klar. Und wohnen Sie mit Ihrer Familie?
+
+189
+00:17:52,460 --> 00:18:00,460
+Ja, richtig. Ich lebe mit meiner Frau.
+
+190
+00:18:00,460 --> 00:18:06,460
+Okay, das waren meine Fragen. Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+191
+00:18:06,460 --> 00:18:11,460
+Ja, Doktor, ich habe starke Schmerzen. Was habe ich?
+
+192
+00:18:11,460 --> 00:18:15,460
+Ja, also Herr Tietmann, es ist zu früh, eine sichere Diagnose zu stellen.
+
+193
+00:18:15,460 --> 00:18:25,460
+Aber ich vermute, dass Sie ein Problem mit Speichelbauchdüsen, also das kann eine Entzündung sein.
+
+194
+00:18:25,460 --> 00:18:33,460
+Deswegen werde ich Sie körperlich untersuchen und ein paar Untersuchungen veranlassen.
+
+195
+00:18:33,460 --> 00:18:34,460
+Okay.
+
+196
+00:18:34,460 --> 00:18:38,460
+Okay Doktor. Ich warte auf Sie. Danke schön.
+
+197
+00:18:38,460 --> 00:18:40,460
+Ja, sehr gerne.
+
+198
+00:18:40,460 --> 00:18:47,090
+Heute habe ich nicht viel gesprochen, weil ich die Zeit zu spüren habe.
+
+199
+00:18:47,090 --> 00:18:49,090
+Die Zeit ist komplett vorbei.
+
+200
+00:18:49,090 --> 00:18:53,090
+Herr Aydin, Sie haben die Zeit sehr gut genutzt.
+
+201
+00:18:53,090 --> 00:18:56,090
+Ich habe dann Gas gegeben. Ich habe dann gesehen, dass es wieder geht.
+
+202
+00:18:56,090 --> 00:19:00,090
+Ich habe noch ein paar Fragen zu den Anamnesen zu stellen.
+
+203
+00:19:00,090 --> 00:19:04,090
+Aber ich kann nur das hier missen.
+
+204
+00:19:04,090 --> 00:19:08,090
+Wie du die Medikamente nicht angenommen hast.
+
+205
+00:19:08,090 --> 00:19:15,340
+Ich habe die Anamnesen gesagt, aber es gibt noch andere Anwendungen.
+
+206
+00:19:15,340 --> 00:19:18,340
+Er hat es gesagt. Er hat es gefragt.
+
+207
+00:19:18,340 --> 00:19:21,340
+Er hat es gefragt, ob Sie noch eine Medikamentation angenommen haben.
+
+208
+00:19:21,340 --> 00:19:23,340
+Ich erinnere mich an etwas.
+
+209
+00:19:23,340 --> 00:19:25,340
+Ja, ich habe es gefragt.
+
+210
+00:19:25,340 --> 00:19:34,190
+Wo ist unser Editor?
+
+211
+00:19:34,190 --> 00:19:38,440
+Ja, ihr Editor.
+
+212
+00:19:38,440 --> 00:19:41,440
+Er ist ein Pro.
+
+213
+00:19:41,440 --> 00:19:48,930
+Ja, generell ist es gut.
+
+214
+00:19:48,930 --> 00:19:52,930
+Herr Aydin, Sie haben die Zeit.

@@ -1,0 +1,711 @@
+1
+00:00:00,000 --> 00:00:06,000
+Ich würde gerne mit Ihnen das Anamnesigespräch durchführen. Damit sind Sie einverstanden?
+
+2
+00:00:06,000 --> 00:00:10,000
+Ja, ich einverstanden.
+
+3
+00:00:10,000 --> 00:00:15,000
+Okay, also bitte fragen Sie nach, wenn Sie nicht etwas verstehen.
+
+4
+00:00:15,000 --> 00:00:23,000
+Ich werde Ihnen gerne ein paar allgemeine Fragen stellen, bevor Sie über Ihre Beschwerden erzählen. Ist das in Ordnung?
+
+5
+00:00:23,000 --> 00:00:24,000
+Ja, okay.
+
+6
+00:00:24,000 --> 00:00:26,000
+Wie heißen Sie denn?
+
+7
+00:00:26,000 --> 00:00:28,000
+Ich bin Irane Langer.
+
+8
+00:00:28,000 --> 00:00:36,200
+Könnten Sie bitte Ihren Vor- und Nachnamen langsam kusschebbieren?
+
+9
+00:00:36,200 --> 00:00:51,200
+Ja, Ida, Richard, Emil, Nordpol, Emil, Ludwig, Anton, Nordpol, Gustav, Emil. Irane Langer.
+
+10
+00:00:51,200 --> 00:00:54,200
+Frau Langer, wie alt sind Sie?
+
+11
+00:00:54,200 --> 00:00:58,200
+Ich bin 76 Jahre alt.
+
+12
+00:00:58,200 --> 00:01:02,200
+Und wann sind Sie genau geboren?
+
+13
+00:01:02,200 --> 00:01:10,200
+20. Juni 1948.
+
+14
+00:01:10,200 --> 00:01:12,200
+Wie groß sind Sie?
+
+15
+00:01:12,200 --> 00:01:18,670
+Ich bin 71 Kilogramm.
+
+16
+00:01:18,670 --> 00:01:22,670
+Und wie groß sind Sie?
+
+17
+00:01:22,670 --> 00:01:26,670
+1 Meter 76.
+
+18
+00:01:27,670 --> 00:01:35,670
+Okay, danke für die Formation. Frau Langer, was kann ich für Sie tun? Was für Beschwerden haben Sie zurzeit?
+
+19
+00:01:35,670 --> 00:01:44,040
+Ja, Doktor, ich habe starke Bauchschmerzen.
+
+20
+00:01:44,040 --> 00:01:47,040
+Seit wann haben Sie diese Schmerzen?
+
+21
+00:01:47,040 --> 00:01:53,040
+Ich habe seit drei Tagen diese Beschwerden, Doktor.
+
+22
+00:01:53,040 --> 00:01:56,040
+Wo genau sind diese Schmerzen, Frau Langer?
+
+23
+00:01:56,040 --> 00:02:06,460
+Meine Schmerzen sind mein Unterbau.
+
+24
+00:02:06,460 --> 00:02:09,460
+Welche Seite meinen Sie?
+
+25
+00:02:09,460 --> 00:02:15,900
+Linker Unterbau.
+
+26
+00:02:15,900 --> 00:02:22,900
+Können Sie bitte diese Schmerzen genau beschreiben? Sind sie eher drückend oder brennend?
+
+27
+00:02:22,900 --> 00:02:30,900
+Ja, ich verstehe. Die Schmerzen sind steckender, drückender und dunfer.
+
+28
+00:02:36,240 --> 00:02:40,240
+Strahlen diese Schmerzen irgendwo aus?
+
+29
+00:02:40,240 --> 00:02:44,240
+Nein, sie strahlen sie nicht aus.
+
+30
+00:02:44,240 --> 00:02:50,240
+Sind diese Schmerzen plötzlich oder langsam aufgetreten?
+
+31
+00:02:50,240 --> 00:03:00,290
+Die Schmerzen treten plötzlich aus.
+
+32
+00:03:00,290 --> 00:03:05,290
+Frau Langer, haben Sie ähnliche Beschwerden früher gehabt?
+
+33
+00:03:05,290 --> 00:03:12,290
+Ja, Doktor. Vor einem halben Jahr hatte ich ähnliche Beschwerden.
+
+34
+00:03:12,290 --> 00:03:25,900
+Und waren Sie damals bei einem Arzt gewesen? Ich meine wegen dieser Schmerzen, Beschwerden?
+
+35
+00:03:25,900 --> 00:03:32,900
+Nein. Ich habe eine Schmerzmittel gegeben.
+
+36
+00:03:32,900 --> 00:03:43,900
+Das war mir geholfen. Ich habe nicht bei einem anderen Arzt gegangen.
+
+37
+00:03:43,900 --> 00:03:47,900
+Welches Medikament haben Sie genommen?
+
+38
+00:03:47,900 --> 00:04:00,600
+Ibuprofen. 500 mg. Aber früher habe ich es genommen.
+
+39
+00:04:00,600 --> 00:04:06,600
+Und haben Sie heutzutage wegen dieser Schmerzen ein Medikament eingenommen?
+
+40
+00:04:06,600 --> 00:04:12,620
+Ich habe kein Medikament eingenommen. Nein.
+
+41
+00:04:12,620 --> 00:04:22,620
+Wie stark sind Schmerzen auf einer Schmerzkala von 1 bis 10? Wobei 1 sehr leichte und 10 sehr starke Schmerzen entspricht?
+
+42
+00:04:22,620 --> 00:04:32,620
+Ich würde sie mit 8 bis 10 Punkten beschreiben.
+
+43
+00:04:32,620 --> 00:04:36,620
+Frau Langer, das ist eine starke Schmerzen.
+
+44
+00:04:36,620 --> 00:04:46,620
+Soll ich Ihnen eine Schmerzmittel geben oder können Sie noch ein bisschen diese Schmerzen bis Ende des Sprechs aushalten?
+
+45
+00:04:46,620 --> 00:04:48,620
+Ich kann warten, Doktor.
+
+46
+00:04:48,620 --> 00:04:53,620
+Okay. Bitte sagen Sie mir Bescheid, wenn Sie ein Medikament benötigen.
+
+47
+00:04:53,620 --> 00:04:55,620
+Okay. Danke schön.
+
+48
+00:04:55,620 --> 00:05:03,620
+Alles klar. Sehr gerne. Frau Langer, haben Sie einen bestimmten Auslöser für diese Schmerzen bemerkt?
+
+49
+00:05:03,620 --> 00:05:07,620
+Ich meine nach dem Essen oder Stress?
+
+50
+00:05:07,620 --> 00:05:24,170
+Ich habe keinen Auslöser bemerkt. Aber wenn ich mich nach vorne beuge, werden die Schmerzen etwas besser. Verstehen Sie?
+
+51
+00:05:24,170 --> 00:05:43,110
+Ja, ich verstehe sehr gut. Frau Langer. Alles klar. Frau Langer, leiden Sie unter Luftnot oder Husten?
+
+52
+00:05:43,110 --> 00:05:46,110
+Ich habe keine Luft- und Husten-Doktor. Nein.
+
+53
+00:05:46,110 --> 00:05:50,930
+Okay.
+
+54
+00:05:50,930 --> 00:05:53,930
+Aber ich habe auch Fieber, Doktor.
+
+55
+00:05:53,930 --> 00:05:58,930
+Nächstes Mal werde ich diese Frage stellen. Okay.
+
+56
+00:05:58,930 --> 00:06:01,930
+Sie haben gesagt, dass Sie Fieber haben. Ja?
+
+57
+00:06:01,930 --> 00:06:03,930
+Haben Sie das Fieber gemessen?
+
+58
+00:06:03,930 --> 00:06:10,930
+Ich habe 38,9 Fieber gemessen.
+
+59
+00:06:10,930 --> 00:06:16,580
+Okay. Und haben Sie Stress oder Nachtschmerzen?
+
+60
+00:06:16,580 --> 00:06:23,580
+Ich habe ein bisschen Stress, aber keine Nachtschmerzen oder Kaltschmerzen.
+
+61
+00:06:23,580 --> 00:06:32,580
+Okay. Alles klar. Frau Langer, darf ich fragen, ob Sie Probleme mit dem Stuhlgang haben?
+
+62
+00:06:32,580 --> 00:06:39,580
+Ich habe seit drei Tagen Verstopfung.
+
+63
+00:06:39,580 --> 00:06:43,410
+Seit drei Tagen? Ja.
+
+64
+00:06:43,410 --> 00:06:45,410
+Seit drei Tagen Verstopfung. Ja.
+
+65
+00:06:45,410 --> 00:06:52,410
+Verstopfung. Also, wann war Ihr letzter Stuhlgang? Darf ich fragen?
+
+66
+00:06:52,410 --> 00:07:03,410
+Zwei Tage. Gestern habe ich die Toilette für Verstopfung, für Stuhlgang entschuldigt.
+
+67
+00:07:03,410 --> 00:07:05,410
+Gestern, ja? Okay. Ja, gestern, ja.
+
+68
+00:07:05,410 --> 00:07:18,280
+Haben Sie im Stuhl eine Farbeveränderung bemerkt oder Blut zum Beispiel?
+
+69
+00:07:18,280 --> 00:07:27,970
+Nein, ich habe keine Farbeveränderungen oder Blut bemerkt.
+
+70
+00:07:27,970 --> 00:07:33,970
+Okay. Alles klar. Und haben Sie Probleme beim Wasserlassen?
+
+71
+00:07:33,970 --> 00:07:44,480
+Ja, Doktor. Ich habe seit heute Morgen Schmerzen beim Wasserlassen.
+
+72
+00:07:44,480 --> 00:07:52,480
+Okay. Verstehe. Und wie oft müssen Sie auf die Toilette gehen?
+
+73
+00:07:52,480 --> 00:08:00,480
+Ich denke, es ist normal. Aber wenn ich Wasser lasse, habe ich Schmerzen.
+
+74
+00:08:00,480 --> 00:08:03,480
+Schmerzen. Aber nicht häufig. Richtig?
+
+75
+00:08:03,480 --> 00:08:04,480
+Nicht häufig, ja.
+
+76
+00:08:04,480 --> 00:08:07,480
+Okay. Und haben Sie Blut im Urin bemerkt?
+
+77
+00:08:07,480 --> 00:08:09,480
+Nein, ich habe nicht bemerkt.
+
+78
+00:08:09,480 --> 00:08:14,480
+Okay. Alles klar. Wie ist Ihr Appetit?
+
+79
+00:08:14,480 --> 00:08:19,480
+Appetit? Ich habe keinen Appetit.
+
+80
+00:08:19,480 --> 00:08:21,480
+Wegen dieser Schmerzen oder?
+
+81
+00:08:21,480 --> 00:08:25,480
+Ich schlafe wegen dieser Schmerzen. Ich denke.
+
+82
+00:08:25,480 --> 00:08:30,480
+Ja, okay. Und Sie haben auch Schlafstörungen, richtig?
+
+83
+00:08:30,480 --> 00:08:33,480
+Ja, ja. Wegen der Schmerzen. Okay.
+
+84
+00:08:33,480 --> 00:08:37,480
+Für drei Tage habe ich Schlafstörungen.
+
+85
+00:08:37,480 --> 00:08:42,480
+Also diese Probleme sind einzuschlafen oder durchzuschlafen?
+
+86
+00:08:42,480 --> 00:08:50,480
+Ich habe das einschlafen, ja. Oder weiter.
+
+87
+00:08:50,480 --> 00:08:52,480
+Weiter, okay.
+
+88
+00:08:52,480 --> 00:08:54,480
+Ich bin nicht sicher jetzt.
+
+89
+00:08:54,480 --> 00:08:57,480
+Okay, alles klar. Alles klar.
+
+90
+00:08:57,480 --> 00:09:04,480
+Frau Lange, sind Sie schon vollständig geimpft?
+
+91
+00:09:04,480 --> 00:09:11,480
+Ja, ich bin vollständig geimpft und gegen Corona dreimal.
+
+92
+00:09:11,480 --> 00:09:25,970
+Haben Sie in der letzten Zeit, ich meine besonders in den letzten sechs Monaten, eine Reise ins Ausland gemacht?
+
+93
+00:09:25,970 --> 00:09:34,970
+Ja, vor drei Jahren fahre ich mit meiner Familie nach Frankreich.
+
+94
+00:09:34,970 --> 00:09:36,970
+Vor drei Jahren, richtig?
+
+95
+00:09:36,970 --> 00:09:38,970
+Drei Monate, Entschuldigung.
+
+96
+00:09:38,970 --> 00:09:40,970
+Okay. Frankreich, ja.
+
+97
+00:09:40,970 --> 00:09:52,360
+Okay. Frau Lange, leiten Sie an chronischen Erkrankungen, von denen ich wissen sollte?
+
+98
+00:09:52,360 --> 00:09:58,950
+Ja, ja. Ich habe Bluthochdruck seit zehn Jahren.
+
+99
+00:09:58,950 --> 00:10:00,950
+Und was nehmen Sie dagegen ein?
+
+100
+00:10:00,950 --> 00:10:07,950
+Ja, und wir nehmen dagegen einen April 10 mg Tablet täglich morgens.
+
+101
+00:10:07,950 --> 00:10:12,420
+Ein Tablet morgens, ja.
+
+102
+00:10:12,420 --> 00:10:14,420
+Ja, sonst noch?
+
+103
+00:10:14,420 --> 00:10:24,020
+Und 10 mg Tablet täglich, einmal.
+
+104
+00:10:24,020 --> 00:10:26,020
+Auch morgens?
+
+105
+00:10:26,020 --> 00:10:28,020
+Ja, auch morgens, ja.
+
+106
+00:10:28,020 --> 00:10:30,020
+Okay.
+
+107
+00:10:30,020 --> 00:10:38,020
+Außerdem habe ich seit zwei Jahren Zuckerkrankheit.
+
+108
+00:10:38,020 --> 00:10:49,020
+Und nehme mit Formin 850 mg täglich morgens.
+
+109
+00:10:49,020 --> 00:10:57,000
+Okay. Ja, noch irgendwelche anderen Erkrankungen?
+
+110
+00:10:57,000 --> 00:11:06,000
+Ja, wegen einer Arthrose im rechten Knie nehme ich bei Bedarf ibuprofen.
+
+111
+00:11:06,000 --> 00:11:11,000
+500 mg. Aber bei Bedarf nicht regelmäßig.
+
+112
+00:11:11,000 --> 00:11:13,000
+Okay, alles klar.
+
+113
+00:11:13,000 --> 00:11:17,000
+Ja. Das war es, oder?
+
+114
+00:11:17,000 --> 00:11:19,000
+Ja, das war es, ja.
+
+115
+00:11:19,000 --> 00:11:22,000
+Okay. Sind Sie schon einmal operiert worden?
+
+116
+00:11:23,000 --> 00:11:33,690
+Ja, Doktor. Als ich 20 Jahre alt war, hatte ich einen Skiunfall.
+
+117
+00:11:33,690 --> 00:11:45,290
+Und mein Bein ist gebrochen. Deswegen wurde bei mir eine Operation mit einer Platte durchgeführt.
+
+118
+00:11:45,290 --> 00:11:51,290
+Also Unterbein oder Oberbein?
+
+119
+00:11:51,290 --> 00:11:53,290
+Unterbein.
+
+120
+00:11:53,290 --> 00:11:56,290
+Oberbein und Sie haben rechte Seite, richtig?
+
+121
+00:11:56,290 --> 00:11:58,290
+Ja, rechte Seite.
+
+122
+00:11:58,290 --> 00:12:04,290
+Okay. Ja. Irgendwelche andere Operationen hatten Sie?
+
+123
+00:12:04,290 --> 00:12:07,290
+Ja, ich habe keine andere Operation.
+
+124
+00:12:07,290 --> 00:12:08,290
+Okay.
+
+125
+00:12:08,290 --> 00:12:10,290
+Waren Sie Unterschenkel?
+
+126
+00:12:10,290 --> 00:12:11,290
+Entschuldigung?
+
+127
+00:12:11,290 --> 00:12:13,290
+Unterschenkel, ja.
+
+128
+00:12:13,290 --> 00:12:15,290
+Unterschenkel, ja.
+
+129
+00:12:15,290 --> 00:12:26,290
+Frau Lange, nehmen Sie regelmäßig oder bei Bedarf andere Medikamente außer genannten Medikamenten?
+
+130
+00:12:26,290 --> 00:12:33,290
+Nein, ich habe keine anderen Medikamente eingenommen, nein.
+
+131
+00:12:33,290 --> 00:12:35,290
+Alles klar.
+
+132
+00:12:35,290 --> 00:12:42,290
+Sind Sie allergisch gegen irgendwelche Medikamente oder Pflanzen?
+
+133
+00:12:42,290 --> 00:12:47,290
+Ja, ich habe eine Aspirinunverträglichkeit.
+
+134
+00:12:47,290 --> 00:12:53,040
+Wie ersetzt sich diese Allergie?
+
+135
+00:12:53,040 --> 00:12:57,040
+Es äußert mit Atemnoten.
+
+136
+00:12:57,040 --> 00:12:58,040
+Und sonst?
+
+137
+00:12:58,040 --> 00:13:03,470
+Eine andere Allergie oder Unverträglichkeit.
+
+138
+00:13:03,470 --> 00:13:05,470
+Frau Lange, rauchen Sie?
+
+139
+00:13:05,470 --> 00:13:16,740
+Ja, ich habe jetzt nicht rauchen. Rauchen seit 26 Jahren nicht mehr.
+
+140
+00:13:16,740 --> 00:13:25,740
+Aber davor habe ich etwa 30 Jahre lang 15 Zigaretten pro Tag geraucht.
+
+141
+00:13:25,740 --> 00:13:33,730
+Okay. Frau Lange, Sie haben eine sehr gute Entscheidung getroffen für Ihre Gesundheit.
+
+142
+00:13:33,730 --> 00:13:35,730
+Ich gratuliere Ihnen, ja.
+
+143
+00:13:35,730 --> 00:13:39,730
+Es war schwer, aber ich habe es verstanden.
+
+144
+00:13:39,730 --> 00:13:42,730
+Gratuliere Ihnen. Super.
+
+145
+00:13:42,730 --> 00:13:45,730
+Trinken Sie regelmäßig Alkohol?
+
+146
+00:13:45,730 --> 00:13:54,570
+Am Wochenende trinke ich manchmal ein Glas Rotwein.
+
+147
+00:13:54,570 --> 00:13:59,570
+Okay. Bitte nehmen Sie die nächste Frage nicht persönlich. Das ist eine Routinefrage.
+
+148
+00:13:59,570 --> 00:14:03,570
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+149
+00:14:03,570 --> 00:14:06,570
+Ich habe keine Drogen genommen, Doktor.
+
+150
+00:14:06,570 --> 00:14:09,570
+Okay, das freut mich.
+
+151
+00:14:09,570 --> 00:14:18,570
+Frau Lange, Sie sind jetzt 76 Jahre alt. Darf ich fragen, leben Ihre Eltern noch?
+
+152
+00:14:18,570 --> 00:14:32,570
+Leider, Doktor. Meine Mutter hat mit 65 Jahren an Herzrhythmstörungen und Darmkrebs gestorben.
+
+153
+00:14:32,570 --> 00:14:47,980
+Mein Vater ist mit 70 Jahren an Schlaganfall gestorben.
+
+154
+00:14:47,980 --> 00:14:52,740
+Okay. Mein Beileid, Frau Lange.
+
+155
+00:14:52,740 --> 00:14:54,740
+Ja.
+
+156
+00:14:54,740 --> 00:14:56,740
+Haben Sie Geschwister?
+
+157
+00:14:56,740 --> 00:15:04,740
+Ich habe vier Kinder. Drei davon leben, eine ist gestorben.
+
+158
+00:15:04,740 --> 00:15:07,740
+Sie haben drei Kinder?
+
+159
+00:15:07,740 --> 00:15:16,210
+Jetzt drei Kinder. Aber früher hatte ich vier Kinder. Ein Kind ist gestorben.
+
+160
+00:15:16,210 --> 00:15:25,480
+Okay. Mein Beileid. Also woran?
+
+161
+00:15:25,480 --> 00:15:27,480
+Er hatte einen Schlechtumfall.
+
+162
+00:15:27,480 --> 00:15:29,480
+Verkehrsunfall, meinen Sie?
+
+163
+00:15:29,480 --> 00:15:30,480
+Ja, Verkehrsunfall.
+
+164
+00:15:30,480 --> 00:15:36,480
+Okay. Frau Lange, haben Sie Geschwister?
+
+165
+00:15:36,480 --> 00:15:40,480
+Nein, ich bin ein Einzelkind.
+
+166
+00:15:40,480 --> 00:15:43,480
+Okay. Wie ist Ihr Familienstand?
+
+167
+00:15:43,480 --> 00:15:52,330
+Ich bin verwittert.
+
+168
+00:15:52,330 --> 00:16:00,330
+Okay. Frau Lange, Sie sind jetzt Rentnerin. Aber was haben Sie früher als Beruflich gemacht?
+
+169
+00:16:00,330 --> 00:16:09,800
+Ich habe früher als Schülerin gearbeitet.
+
+170
+00:16:09,800 --> 00:16:33,220
+Schülerin, meinen Sie? Ja, okay. Also Entzündung haben, ich meine.
+
+171
+00:16:33,220 --> 00:16:39,220
+Also das ist eine Entzündung des Darms als Ausstürmung.
+
+172
+00:16:39,220 --> 00:16:47,220
+Deswegen werde ich Sie zuerst körperlich untersuchen und dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen durchführen.
+
+173
+00:16:47,220 --> 00:16:58,220
+Okay. Und sobald alle Ergebnisse da sind, werde ich Ihnen die weitere Information mitteilen.
+
+174
+00:16:58,220 --> 00:17:09,220
+Okay, Doktor. Können Sie mir sagen, ob ich in Krankenhaus bleiben muss oder gehe ich mein Haus?
+
+175
+00:17:10,220 --> 00:17:23,220
+Frau Lange, also ein paar Stunden müssen Sie sicherlich bei uns bleiben, damit wir die Diagnose bestätigen können und eine Therapie einstellen können.
+
+176
+00:17:23,220 --> 00:17:29,220
+Aber es kann auch passieren, dass Sie ein paar Tage im Krankenhaus bleiben sollen.
+
+177
+00:17:29,220 --> 00:17:34,220
+Okay, okay Doktor. Ich warte auf Sie. Danke.
+
+178
+00:17:34,220 --> 00:17:42,220
+Okay, bitte nehmen Sie Platz im Wartezimmer. Ich bin gleich wieder da. Danke schön Doktor.

@@ -1,0 +1,1331 @@
+1
+00:00:02,540 --> 00:00:07,740
+Schönen guten Tag, mein Name ist Ujak. Ich bin auf dieser Station als Assistenzarzt tätig.
+
+2
+00:00:07,740 --> 00:00:13,240
+Und ich würde gerne mit Ihnen das Anamnesigespräch durchführen. Sind Sie damit einverstanden?
+
+3
+00:00:13,240 --> 00:00:15,240
+Ja, natürlich Herr Doktor.
+
+4
+00:00:15,240 --> 00:00:19,240
+Danke. Bitte fragen Sie nach, wenn Sie etwas nicht verstehen, okay?
+
+5
+00:00:19,240 --> 00:00:20,240
+Okay.
+
+6
+00:00:20,240 --> 00:00:22,240
+Wie heißen Sie denn?
+
+7
+00:00:22,240 --> 00:00:25,740
+Ich bin Efer Neuhaus.
+
+8
+00:00:25,740 --> 00:00:32,410
+Könnten Sie bitte Ihren Vor- und Nachnamen langsam buchstabieren?
+
+9
+00:00:32,410 --> 00:00:48,410
+Ja. E-V-A-E-F-N-I-U-H-A-U-S. Neuhaus.
+
+10
+00:00:48,410 --> 00:00:52,410
+Okay. Frau Neuhaus, wie alt sind Sie?
+
+11
+00:00:52,410 --> 00:00:55,410
+42 Jahre alt, Herr Doktor.
+
+12
+00:00:55,410 --> 00:00:58,410
+Wann sind Sie genau geboren?
+
+13
+00:00:58,410 --> 00:01:04,690
+18 April 1983.
+
+14
+00:01:04,690 --> 00:01:06,690
+Wie groß sind Sie?
+
+15
+00:01:06,690 --> 00:01:12,680
+1,65 Meter.
+
+16
+00:01:12,680 --> 00:01:14,680
+Und wie schwer sind Sie zuzeit?
+
+17
+00:01:14,680 --> 00:01:17,680
+70 Kilogramm, Doktor.
+
+18
+00:01:17,680 --> 00:01:20,680
+Okay. Danke für die Informationen.
+
+19
+00:01:20,680 --> 00:01:25,680
+Frau Neuhaus, was kann ich für Sie tun? Was für Übungen haben Sie zuzeit?
+
+20
+00:01:25,680 --> 00:01:36,640
+Seit gestern habe ich sehr starke Rücken Schmerzen.
+
+21
+00:01:36,640 --> 00:01:41,640
+Wo genau sind diese Schmerzen? Ich meine im Mittel oder?
+
+22
+00:01:41,640 --> 00:01:46,280
+Ja, im Mittel, Doktor.
+
+23
+00:01:46,280 --> 00:01:52,280
+Könnten Sie diese Schmerzen genau beschreiben? Sind sie eher drückend, stechend, brennend?
+
+24
+00:01:52,280 --> 00:02:01,280
+Ja, ich habe sofort eine steckende Schmerzen in den unteren Rücken, Doktor.
+
+25
+00:02:01,280 --> 00:02:08,280
+Okay. Ich glaube, die Schmerzen sind plötzlich aufgetreten, richtig?
+
+26
+00:02:08,280 --> 00:02:12,280
+Ja, richtig. Sie haben Recht.
+
+27
+00:02:12,280 --> 00:02:17,280
+Okay. Frau Neuhaus, schreien diese Schmerzen irgendwo aus?
+
+28
+00:02:17,280 --> 00:02:26,280
+Ja, die Schmerzen strahlen ins rechte Bein und bis zu den rechten Szenen aus, Doktor.
+
+29
+00:02:26,280 --> 00:02:35,480
+Okay. Frau Neuhaus, wie stark sieht sich diese Schmerzen auf eine Schmerzskala,
+
+30
+00:02:35,480 --> 00:02:40,480
+wobei eins sehr leichten und zehn sehr starken Schmerzen entspricht?
+
+31
+00:02:40,480 --> 00:02:46,480
+Ich würde die Schmerzen mit 10 von 10 der Schmerzskala bewerten, Doktor.
+
+32
+00:02:46,480 --> 00:02:50,480
+Okay. Frau Neuhaus, das ist eine sehr starke Schmerzen.
+
+33
+00:02:50,480 --> 00:02:51,480
+Ja.
+
+34
+00:02:51,480 --> 00:03:01,480
+Also ich möchte Ihnen einen Schmerzmittel geben, aber ich möchte zuerst wissen, ob Sie eine Allergie gegen Medikamente haben.
+
+35
+00:03:01,480 --> 00:03:09,480
+Ich reagiere allergisch auf keine Medikamente, Doktor.
+
+36
+00:03:10,480 --> 00:03:19,480
+Okay. Das freut mich. Schwester Müller, bitte geben Sie der Patientin Schmerzmittel.
+
+37
+00:03:19,480 --> 00:03:23,480
+Frau Neuhaus, wie fühlen Sie sich? Besser?
+
+38
+00:03:23,480 --> 00:03:28,480
+Ja, ich fühle mich jetzt besser, Doktor. Danke schön.
+
+39
+00:03:28,480 --> 00:03:35,480
+Okay. Das freut mich. Frau Neuhaus, haben Sie gegen diese Schmerzen ein Medikament eingenommen?
+
+40
+00:03:35,480 --> 00:03:43,480
+Ich habe noch keine Schmerzmittel eingenommen, Herr Doktor, und möchte derzeit auch keine.
+
+41
+00:03:43,480 --> 00:03:49,480
+Okay. Haben Sie früher ähnliche Beschwerden gehabt?
+
+42
+00:03:49,480 --> 00:03:58,480
+Nein. Ich hatte früher keine anderen Beschwerden. Nein. Ich hatte.
+
+43
+00:03:58,480 --> 00:04:05,480
+Okay. Sind Sie wegen dieser Schmerzen bei einem anderen Arzt gewesen?
+
+44
+00:04:05,480 --> 00:04:09,480
+Ich bin deswegen nicht an dem Arzt gewesen, Doktor.
+
+45
+00:04:09,480 --> 00:04:19,480
+Okay. Alles klar. Frau Neuhaus, leiden Sie unter Taubheitsgefühl oder Kriben am Bein, am Fuß? Ich meine.
+
+46
+00:04:19,480 --> 00:04:31,480
+Ja, Doktor. Sie haben recht. Zusätzlich habe ich ein Taubheitsgefühl und Kriben im rechten Bein bemerkt, Doktor. Ja.
+
+47
+00:04:31,480 --> 00:04:37,480
+Okay. Und haben Sie Bewegungseinschränkungen bemerkt?
+
+48
+00:04:37,480 --> 00:04:54,480
+Nein. Ich habe nicht bemerkt. Nein. Aber wissen Sie Doktor, die Schmerzen haben, ich habe gesagt, plötzlich angefangen, als ich gestern in den Garten einen schweren Stein getragen habe, Doktor.
+
+49
+00:04:54,480 --> 00:05:08,480
+Ja, ich habe sofort einen steckenen Schmerz in meinem Rücken gespürt. Ja. Und musste ich mich gleich hinlegen.
+
+50
+00:05:08,480 --> 00:05:21,480
+Und beim Aufrichten und Drehen werden die Schmerzen schlimmer. Aber im Liegen geht es mir ein bisschen besser.
+
+51
+00:05:21,480 --> 00:05:27,480
+Verstehen Sie Doktor? Ja, Frau Neuhaus. Ich verstehe Sie sehr gut.
+
+52
+00:05:27,480 --> 00:05:43,480
+Okay. Frau Neuhaus, während dieser Situation hatten Sie eine unwillkürliche Wassergelassene oder Stüllabgang?
+
+53
+00:05:43,480 --> 00:05:52,420
+Nein. Nein Doktor. Das freut mich. Okay. Alles klar.
+
+54
+00:05:52,420 --> 00:05:59,420
+Frau Neuhaus, ist Ihnen übel oder mussten Sie erbrechen?
+
+55
+00:05:59,420 --> 00:06:04,420
+Ich habe keine Übel oder Erbrechen Doktor. Nein.
+
+56
+00:06:04,420 --> 00:06:08,420
+Wie ist Ihr Appetit?
+
+57
+00:06:08,420 --> 00:06:14,420
+Deswegen diese Schmerzen habe ich Appetitlosigkeit. Ja.
+
+58
+00:06:14,420 --> 00:06:20,420
+Okay. Haben Sie in der letzten Zeit wirklich Ab- oder Suge genommen?
+
+59
+00:06:20,420 --> 00:06:26,420
+Nein. Ich denke, ich bin immer gleich gewischt.
+
+60
+00:06:26,420 --> 00:06:31,420
+Okay. Haben Sie Fieber, Schüterfrost oder Nachschweiß?
+
+61
+00:06:31,420 --> 00:06:36,420
+Schüterfrost, Nachschweiß. Ich habe nicht bemäht Doktor.
+
+62
+00:06:36,420 --> 00:06:45,420
+Okay. Ist alles in Ordnung beim Wasserlassen oder mit dem Stuhlgang?
+
+63
+00:06:45,420 --> 00:06:51,420
+Ich habe keine Probleme beim Wasserlassen oder mit dem Stuhlgang.
+
+64
+00:06:51,420 --> 00:06:57,420
+Super. Frau Neuhaus, leiden Sie unter Husten oder Luftnot?
+
+65
+00:06:57,420 --> 00:07:01,420
+Nein. Ich habe keine dieser Probleme.
+
+66
+00:07:01,420 --> 00:07:06,150
+Okay. Schlafen Sie gut?
+
+67
+00:07:06,150 --> 00:07:13,150
+Seit gestern kann ich wegen der Schmerzen schlecht schlafen Doktor. Nein.
+
+68
+00:07:13,150 --> 00:07:17,150
+Haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+69
+00:07:17,150 --> 00:07:19,150
+Ich denke, beide.
+
+70
+00:07:19,150 --> 00:07:28,350
+Okay. Sind Sie schon vollständig gegen Kinderkrankheiten und Corona-Infektionen geimpft?
+
+71
+00:07:28,350 --> 00:07:38,350
+Ja, ich bin vollständig gegen die Corona-Infektionen geimpft.
+
+72
+00:07:38,350 --> 00:07:48,840
+Alles klar. Frau Neuhaus, leiden Sie an chronischen Erkrankungen, von denen ich wissen sollte?
+
+73
+00:07:48,840 --> 00:07:50,840
+Ja, ich habe...
+
+74
+00:07:50,840 --> 00:07:53,840
+Wie zum Beispiel Bluthochdruck, Zuckerkrankheit?
+
+75
+00:07:53,840 --> 00:08:06,160
+Ja, ich habe Typ 1 Zuckerkrankheit seit meiner Jugend.
+
+76
+00:08:06,160 --> 00:08:08,160
+Und spritzen Sie dagegen Insulin?
+
+77
+00:08:08,160 --> 00:08:15,160
+Ja, sie haben recht. Ich benutze dagegen Insulinpumpe. Ja.
+
+78
+00:08:15,160 --> 00:08:21,900
+Okay. Sonst noch etwas?
+
+79
+00:08:21,900 --> 00:08:29,900
+Außerdem habe ich eine hohe Blutwerte, Hyperlipidemie.
+
+80
+00:08:29,900 --> 00:08:41,920
+Frau Neuhaus, ich habe die Akustik nicht richtig verstanden.
+
+81
+00:08:41,920 --> 00:08:47,920
+Leiden Sie an erhöhte Blutwertwerte oder Bluthochdruck?
+
+82
+00:08:47,920 --> 00:08:54,920
+Nein, ich habe auch eine hohe Fettige Blutwerte, Hyperlipidemie.
+
+83
+00:08:54,920 --> 00:08:58,520
+Ja, und leiden Sie...
+
+84
+00:08:58,520 --> 00:09:02,520
+Ja, Hyperlipidemie, nicht Bluthochdruck, Doktor.
+
+85
+00:09:02,520 --> 00:09:05,520
+Okay, alles klar. Seit wann leiden Sie?
+
+86
+00:09:05,520 --> 00:09:11,520
+Seit 5 Jahren, Doktor.
+
+87
+00:09:11,520 --> 00:09:14,520
+Okay. Nehmen Sie dagegen ein Medikament ein?
+
+88
+00:09:14,520 --> 00:09:23,520
+Ja, ich nehme dagegen 40 mg Zortis ein.
+
+89
+00:09:23,520 --> 00:09:26,520
+Wie oft nehmen Sie ein?
+
+90
+00:09:26,520 --> 00:09:29,520
+Morgens einmal täglich.
+
+91
+00:09:29,520 --> 00:09:32,520
+Okay. Sonst noch etwas?
+
+92
+00:09:32,520 --> 00:09:42,520
+Ja, ständig nehme ich Pantoprosol und zwei weitere Medikamente bei Bedarf.
+
+93
+00:09:42,520 --> 00:09:47,520
+Aber deren Name weiß ich nicht, Doktor. Leider nicht.
+
+94
+00:09:47,520 --> 00:09:50,520
+Wogegen nehmen Sie diese Medikamente ein?
+
+95
+00:09:50,520 --> 00:09:56,520
+Manchmal habe ich Zortbrennen und Magenschmerzen.
+
+96
+00:09:56,520 --> 00:10:06,000
+Seit wann leiden Sie unter Zortbrennen und Magenschmerzen?
+
+97
+00:10:06,000 --> 00:10:14,000
+Es ist sehr lange, ungefähr 10 oder 12 Jahre.
+
+98
+00:10:14,000 --> 00:10:19,000
+Okay. Und Sie nehmen regelmäßig Pantoprosol ein?
+
+99
+00:10:19,000 --> 00:10:20,000
+Ja.
+
+100
+00:10:20,000 --> 00:10:24,000
+Und auch zwei weitere Medikamente?
+
+101
+00:10:24,000 --> 00:10:26,000
+Bei Bedarf.
+
+102
+00:10:26,000 --> 00:10:28,000
+Sie kennen den Namen nicht?
+
+103
+00:10:28,000 --> 00:10:31,000
+Aber ich weiß gerade nicht, wie es heißt.
+
+104
+00:10:31,000 --> 00:10:34,000
+Okay. Haben Sie eine Medikamentliste dabei?
+
+105
+00:10:34,000 --> 00:10:38,000
+Jetzt nicht, aber in meiner Hausart.
+
+106
+00:10:38,000 --> 00:10:43,000
+Okay. Frau Neuhaus, wer ist Ihr Hausarzt oder Ihre Hausärztin?
+
+107
+00:10:43,000 --> 00:10:49,280
+Meine Hausärztin heißt Frau Fischer.
+
+108
+00:10:49,280 --> 00:10:55,280
+Okay. Machen Sie sich bitte keine Sorgen. Ich werde Ihre Frauin erst kontaktieren.
+
+109
+00:10:55,280 --> 00:10:57,280
+Danke schön, Doktor.
+
+110
+00:10:57,280 --> 00:11:02,280
+Okay. Sehr gerne. Sie haben gesagt, dass Sie Pantoprosol ...
+
+111
+00:11:02,280 --> 00:11:05,280
+... und weitere zwei Medikamente.
+
+112
+00:11:05,280 --> 00:11:09,280
+Kennen Sie die Dosierung von Pantoprosol?
+
+113
+00:11:09,280 --> 00:11:14,280
+Ja. Ich habe vergessen, Doktor. Nein.
+
+114
+00:11:14,280 --> 00:11:17,280
+Alles klar. Kein Problem.
+
+115
+00:11:17,280 --> 00:11:21,280
+Sonst noch etwas? Irgendwelche anderen Erkrankungen?
+
+116
+00:11:21,280 --> 00:11:23,280
+Das war es.
+
+117
+00:11:23,280 --> 00:11:30,280
+Okay. Frau Neuhaus, nehmen Sie regelmäßig oder bei Bedarf außer genannten Medikamenten ...
+
+118
+00:11:30,280 --> 00:11:34,280
+... irgendwelche anderen Medikamente ein?
+
+119
+00:11:34,280 --> 00:11:41,280
+Ja. Nein, Doktor. Ich habe keine Medikamente eingenommen.
+
+120
+00:11:41,280 --> 00:11:45,280
+Okay. Sind Sie schon einmal operiert worden?
+
+121
+00:11:45,280 --> 00:11:48,280
+Ja. Ich wurde noch nie operiert, Doktor.
+
+122
+00:11:48,280 --> 00:11:50,280
+Noch nie operiert.
+
+123
+00:11:50,280 --> 00:11:51,280
+Wie bitte?
+
+124
+00:11:51,280 --> 00:11:53,280
+Ich wurde noch nie operiert.
+
+125
+00:11:53,280 --> 00:11:58,280
+Super. Okay. Ihr habt jetzt gehört.
+
+126
+00:11:58,280 --> 00:12:03,280
+Also manchmal kann ich Sie nicht hören. Okay.
+
+127
+00:12:03,280 --> 00:12:05,280
+Okay.
+
+128
+00:12:05,280 --> 00:12:12,280
+Aber ich hatte zwei Unfalle in der Werkangabe.
+
+129
+00:12:12,280 --> 00:12:25,280
+Eine Prallung des Oberschenkelknochen und eine Fersen bei Infraktur.
+
+130
+00:12:25,280 --> 00:12:29,280
+Aber beide wurden konservativ behandelt, Doktor.
+
+131
+00:12:29,280 --> 00:12:35,590
+Okay. Wann waren diese Unfälle?
+
+132
+00:12:35,590 --> 00:12:42,590
+Eine war vor drei Jahren, die andere war sechs Jahren.
+
+133
+00:12:42,590 --> 00:12:47,590
+Also darf ich fragen, wann war die Prallung?
+
+134
+00:12:47,590 --> 00:12:54,590
+Unter den Oberschenkelknochen, habe ich gesagt.
+
+135
+00:12:54,590 --> 00:12:57,590
+Okay. Wann war das?
+
+136
+00:12:57,590 --> 00:13:00,590
+Vor drei Jahren.
+
+137
+00:13:00,590 --> 00:13:04,590
+Okay. Und Fersen bei ...
+
+138
+00:13:04,590 --> 00:13:09,590
+Fersen bei Infraktur vor sechs Jahren.
+
+139
+00:13:09,590 --> 00:13:20,200
+Okay. Alles klar.
+
+140
+00:13:20,200 --> 00:13:24,200
+Frau Neujahrs, sind Ihnen irgendwelche Allergen bekannt?
+
+141
+00:13:24,200 --> 00:13:30,200
+Ich habe eine Hühnweise Allergie, Doktor.
+
+142
+00:13:30,200 --> 00:13:34,200
+Eine Eierweise Allergie.
+
+143
+00:13:34,200 --> 00:13:42,330
+Okay. Wie reagieren Sie darauf?
+
+144
+00:13:42,330 --> 00:13:48,330
+Das ist mit Durchfall und Atemnot ausgedrückt.
+
+145
+00:13:48,330 --> 00:13:56,170
+Okay. Frau Neujahrs, rauchen Sie?
+
+146
+00:13:56,170 --> 00:14:05,640
+Ich rauche seit meinem 20. Lebensjahr, Doktor.
+
+147
+00:14:05,640 --> 00:14:07,640
+Und wie viel rauchen Sie?
+
+148
+00:14:07,640 --> 00:14:11,640
+Ich rauche halb Schachtel Zigaretten täglich.
+
+149
+00:14:11,640 --> 00:14:21,440
+Okay. Trinken Sie regelmäßig Alkohol?
+
+150
+00:14:21,440 --> 00:14:31,430
+Ja, ich trinke gelegentlich ein Glas Wein, wenn ich Besuch habe oder eine Ferne.
+
+151
+00:14:31,430 --> 00:14:37,430
+Alles klar. Bitte nehmen Sie die nächste Frage nicht persönlich. Das ist eine Routinefrage.
+
+152
+00:14:37,430 --> 00:14:41,430
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+153
+00:14:41,430 --> 00:14:46,430
+Drogen? Drogen habe ich nicht konsumiert, Doktor. Nein.
+
+154
+00:14:46,430 --> 00:14:48,430
+Okay. Das freut mich.
+
+155
+00:14:48,430 --> 00:14:53,430
+Frau Neujahrs, leiden Ihre Eltern an chronischen Erkrankungen, von denen ich wissen sollte?
+
+156
+00:14:53,430 --> 00:14:58,430
+Wie zum Beispiel Schlaganfall, Bluthochdruck, Zuckerkrankheit?
+
+157
+00:14:58,430 --> 00:15:06,430
+Ja. Mein Vater hat eine Milzentfernung operiert.
+
+158
+00:15:06,430 --> 00:15:12,620
+Ihre Mutter?
+
+159
+00:15:12,620 --> 00:15:19,620
+Meine Mutter hat vor etwa drei oder vier Jahren einen Oberschenkelbruch.
+
+160
+00:15:19,620 --> 00:15:28,840
+Okay. Haben Sie eine Schwester?
+
+161
+00:15:28,840 --> 00:15:32,840
+Ja, ich habe eine Schwester.
+
+162
+00:15:32,840 --> 00:15:33,840
+Ist sie gesund?
+
+163
+00:15:33,840 --> 00:15:37,440
+Ja, sie sind gesund.
+
+164
+00:15:37,440 --> 00:15:41,440
+Wie ist Ihr Familienstand, Frau Neujahrs?
+
+165
+00:15:41,440 --> 00:15:46,440
+Ich habe einen Lebensgefährte, Doktor.
+
+166
+00:15:46,440 --> 00:15:53,310
+Haben Sie Kinder?
+
+167
+00:15:53,310 --> 00:15:58,000
+Nein, ich habe keine Kinder.
+
+168
+00:15:58,000 --> 00:16:05,000
+Mit wem wohnen Sie? Mit Ihren Karten?
+
+169
+00:16:05,000 --> 00:16:09,480
+Mit meinem Lebensgefährte.
+
+170
+00:16:09,480 --> 00:16:12,480
+Was sind Sie für einen Beruf?
+
+171
+00:16:12,480 --> 00:16:17,950
+Ich arbeite als Betriebsführer.
+
+172
+00:16:17,950 --> 00:16:18,950
+Betriebs?
+
+173
+00:16:18,950 --> 00:16:21,950
+Betriebsführer.
+
+174
+00:16:21,950 --> 00:16:26,950
+Betriebsleiter in einer Firma.
+
+175
+00:16:26,950 --> 00:16:33,760
+Okay. Sind Sie zufrieden bei der Arbeit?
+
+176
+00:16:33,760 --> 00:16:41,760
+Ich bin zufrieden, aber seitdem habe ich sehr viel Stress durch die Arbeit.
+
+177
+00:16:41,760 --> 00:16:44,760
+Viele Personal, viele Kollegen.
+
+178
+00:16:44,760 --> 00:16:48,760
+Ich bin Leiter. Es gibt viele Probleme. Verstehen Sie?
+
+179
+00:16:48,760 --> 00:16:51,760
+Ja, ich verstehe Sie sehr gut.
+
+180
+00:16:51,760 --> 00:16:55,760
+Wenn Sie möchten, können wir Sie dabei unterstützen, Frau Neujahrs.
+
+181
+00:16:55,760 --> 00:16:58,760
+Das ist ein gutes Programm hier im Krankenhaus.
+
+182
+00:16:58,760 --> 00:17:03,760
+Ich meine, wie eine Psychotherapie, wenn Sie möchten.
+
+183
+00:17:03,760 --> 00:17:09,760
+Ja, Doktor, es wäre Ihnen denkbar, wenn Sie mir helfen können.
+
+184
+00:17:09,760 --> 00:17:17,760
+Ja, gerne. Wir können darüber sprechen, aber nach dem Aufnahmegespräch.
+
+185
+00:17:17,760 --> 00:17:19,760
+Okay, danke schön.
+
+186
+00:17:19,760 --> 00:17:29,760
+Frau Neujahrs, das waren meine Fragen. Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+187
+00:17:29,760 --> 00:17:32,760
+Ja, Doktor, was habe ich?
+
+188
+00:17:32,760 --> 00:17:39,760
+Ich muss arbeiten oder ich habe starke Schmerzen, Krippen. Ja, ich habe viele Angst.
+
+189
+00:17:39,760 --> 00:17:46,760
+Ja, ich verstehe Sie sehr gut, Frau Neujahrs. Aber machen Sie sich bitte keine Sorgen.
+
+190
+00:17:46,760 --> 00:17:51,760
+Sie haben eine gute Entscheidung getroffen, hierher zu kommen.
+
+191
+00:17:51,760 --> 00:17:58,760
+Und ich vermute, dass Sie einen Bandschadenvorfall haben.
+
+192
+00:17:58,760 --> 00:18:02,760
+Deswegen werde ich Sie zuerst körperlich untersuchen.
+
+193
+00:18:02,760 --> 00:18:08,760
+Und dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen veranlassen.
+
+194
+00:18:08,760 --> 00:18:15,760
+Sobald alle Ergebnisse da sind, werde ich Ihnen die weiteren Informationen mitteilen.
+
+195
+00:18:15,760 --> 00:18:23,760
+Bei mir wird eine Operation durchgeführt, Doktor. Ich habe keine Angst.
+
+196
+00:18:23,760 --> 00:18:30,760
+Frau Neujahrs, leider kann es passieren, dass Sie operiert werden müssen.
+
+197
+00:18:30,760 --> 00:18:37,760
+Aber es ist zu früh, um über die Therapiemöglichkeiten zu sprechen.
+
+198
+00:18:38,760 --> 00:18:46,760
+Wie gesagt, muss ich zuerst ein paar Untersuchungen durchführen.
+
+199
+00:18:46,760 --> 00:18:55,760
+Danach können wir eine 100% sichere Diagnose und über Therapiemöglichkeiten widersprechen.
+
+200
+00:18:55,760 --> 00:18:58,760
+Darf ich eine Frage stellen, Doktor?
+
+201
+00:18:58,760 --> 00:19:00,760
+Ja.
+
+202
+00:19:00,760 --> 00:19:05,760
+Bleibe ich im Krankenhaus oder kann ich gehen in mein Haus?
+
+203
+00:19:06,760 --> 00:19:16,760
+Frau Neujahrs, in ein paar Stunden müssen Sie sicherlich bei uns bleiben, damit wir die Diagnose bestätigen können.
+
+204
+00:19:16,760 --> 00:19:25,760
+Aber wenn wir etwas Auffälliges finden, kann es auch passieren, dass Sie ein paar Tage im Krankenhaus bleiben sollen.
+
+205
+00:19:25,760 --> 00:19:28,760
+Ok, Doktor. Ich warte auf Sie. Danke schön.
+
+206
+00:19:28,760 --> 00:19:40,760
+Frau Neujahrs, ich möchte noch eine Frage stellen. Wie sind Sie mit dem Rettungsdienst gekommen?
+
+207
+00:19:40,760 --> 00:19:42,760
+Selbst.
+
+208
+00:19:42,760 --> 00:19:44,760
+Ok, alles klar. Danke.
+
+209
+00:19:44,760 --> 00:19:46,760
+Bitte.
+
+210
+00:19:46,760 --> 00:19:50,760
+Bitte nehmen Sie Platz im Wartezimmer. Ich bin gleich wieder da.
+
+211
+00:19:50,760 --> 00:19:56,640
+Danke schön, Doktor.
+
+212
+00:19:56,640 --> 00:20:04,640
+Herr Oberarzt, ich habe eine neue Patientin aufgenommen und ich würde gerne über Sie berichten. Haben Sie kurz Zeit für mich?
+
+213
+00:20:04,640 --> 00:20:06,640
+Ja, bitte.
+
+214
+00:20:06,640 --> 00:20:08,640
+Danke schön.
+
+215
+00:20:08,640 --> 00:20:17,640
+Frau Eva Neujahrs ist 42 Jahre alt, 1,65 Meter groß und 70 Kilogramm schwer.
+
+216
+00:20:17,640 --> 00:20:43,640
+Frau Neujahrs stellte sich heute bei uns notfallmäßig wegen seit gestern bestehender Lumbargie bei einer Gartenarbeit nach einem Hebe Trauma vor.
+
+217
+00:20:43,640 --> 00:20:54,640
+Der Patient ist zufolge seien die Schmerzen plötzlich aufgetreten und mit der Zeit schlimmer geworden.
+
+218
+00:20:54,640 --> 00:21:11,640
+Die Schmerzen seien stechend und würden in das rechte Bein und in den rechten Sehen ausschalten.
+
+219
+00:21:11,640 --> 00:21:26,640
+Die Schmerzintensität wurde auf einer Schmerzkala von 10 von 10 bewahrt und die Patienten haben gegen diese Schmerzen keine Medikamente eingenommen.
+
+220
+00:21:26,640 --> 00:21:48,080
+Sie berichtete über Parasthesie und Hypesthesie. Die Fragen nach Bewegungseinschränkungen und Urininkontinenz und Stullinkontinenz wurden verneint.
+
+221
+00:21:48,080 --> 00:22:05,370
+Die Schmerzen hatten sich beim Hinlegen verbessern und beim Drehen verschleppen.
+
+222
+00:22:05,370 --> 00:22:23,370
+Bei der vegetativen Anamnese seien die folgenden bekannt. Schmerzbedingte Inapetenz und Schmerzbedingte Insomnie in Form von Einschlafstörungen und Durchschlafstörungen.
+
+223
+00:22:23,370 --> 00:22:32,370
+Sie sei vollständig gegen Kinderkrankheiten und dreimal Covid-19-Infektionen geimpft.
+
+224
+00:22:32,370 --> 00:22:57,370
+Anvor Erkrankungen nannte sie seit Jugend bestehenden Diabetes mellitus Typ 1 und seit fünf Jahren bestehende Hyperlipidemie und seit zwölf Jahren bestehende Pirosis und Magenschmerzen.
+
+225
+00:22:57,370 --> 00:23:18,370
+Die Patienten benutzen eine Insulinpumpe gegen Diabetes mellitus Typ 1 und sie nehmen Sortis 40 mg morgens gegen Hyperlipidemie ein.
+
+226
+00:23:18,370 --> 00:23:30,370
+Außerdem nehmen die Patienten Pantoprazole und noch andere zwei Medikamente ein.
+
+227
+00:23:30,370 --> 00:23:40,370
+Aber die Namen der Medikamente und die Dosierung der Medikamente sollte geklärt werden.
+
+228
+00:23:40,370 --> 00:24:02,370
+Vor drei Jahren erlitten sie an einer Rippenprellung eine Oberschenkelfemurprellung, die konservativ behandelt worden sei.
+
+229
+00:24:02,370 --> 00:24:19,370
+Vor sechs Jahren haben sie an einer Kalkenosefraktur gezogen.
+
+230
+00:24:19,370 --> 00:24:24,370
+Sie sei bisher noch nie operiert worden.
+
+231
+00:24:24,370 --> 00:24:34,370
+Sie habe Allergie gegen Hühnereiweiß, die sich durch Diarrhohe und Dyspne äußert.
+
+232
+00:24:34,370 --> 00:24:46,370
+Sie sei Raucherin und sie rauche eine halbe Schachtel Zigaretten täglich seit 20 Jahren.
+
+233
+00:24:46,370 --> 00:24:51,370
+Sie trinken gelegentlich Alkohol.
+
+234
+00:24:51,370 --> 00:24:55,370
+Der Drogenkonsum wurde verneint.
+
+235
+00:24:55,370 --> 00:25:17,370
+In der Familienanamnese gab sie an, dass der Vater eine Pschyptenektomie hatte.
+
+236
+00:25:17,370 --> 00:25:31,370
+Die Mutter hatte an einer Femurfraktur vor vier Jahren erlitten.
+
+237
+00:25:31,370 --> 00:25:37,370
+Sie hatte eine gesunde Schwester.
+
+238
+00:25:37,370 --> 00:25:41,370
+Sie sei ledig.
+
+239
+00:25:41,370 --> 00:25:49,370
+Sie habe kein Kind und wohne mit ihrem Partner zusammen.
+
+240
+00:25:49,370 --> 00:26:00,370
+Sie sei eine Betriebsleiterin in einer Firma und habe zu viel Stress bei der Arbeit.
+
+241
+00:26:00,370 --> 00:26:14,370
+Ich gehe von einem Verdacht auf eine Diskusprolaps im Lendenbereich aus, da die Patientin typische Symptome dafür aufweist.
+
+242
+00:26:14,370 --> 00:26:20,370
+Die Patientin leidet unter Lumbaralgie.
+
+243
+00:26:20,370 --> 00:26:35,370
+Sie leidet unter eine Plötzlich aufgetretene Lumbaralgie nach dem Hebertrauma und Hypostasie und Parasthesie am Bein und am Fuß.
+
+244
+00:26:35,370 --> 00:26:45,370
+Diese Symptome sprechen für eine Diskusprolaps LWS.
+
+245
+00:26:45,370 --> 00:27:05,550
+Als Differenzdiagnose kommen Muskelspannungen, Wirbelsäure, Fraktur und diabetesche Neuropathie in Betracht.
+
+246
+00:27:05,550 --> 00:27:19,550
+Um meine Verdachtdiagnose zu bestätigen, würde ich bei der Patientin zunächst die Vitaparabete überwachen und eine körperliche und neurologische Untersuchung durchführen.
+
+247
+00:27:19,550 --> 00:27:37,550
+Bei der körperlichen Untersuchung achte ich darauf, ob eine Skoliose, Lordose oder Muskelspannungen vorhanden sind.
+
+248
+00:27:37,550 --> 00:27:47,550
+Ich würde auch die Druckschmerzen bei der Wirbelsäule kontrollieren.
+
+249
+00:27:47,550 --> 00:27:57,550
+Bei der neurologischen Untersuchung achte ich darauf, ob Störungen der Motorik, Sensorik und andere Veränderungen vorliegen.
+
+250
+00:27:57,550 --> 00:28:07,550
+Zusätzlich ist eine Laboruntersuchung sinnvoll, um eine umfassende Diagnostik zu gewährleisten.
+
+251
+00:28:07,550 --> 00:28:21,550
+Dabei würde ich Blutbild, Leberwerte, Nierenwerte, CAP, BSG, Blutgruppe bestimmen lassen.
+
+252
+00:28:21,550 --> 00:28:35,550
+Danach würde ich eine Röntgenuntersuchung durchführen, um mögliche Frakturen zu beurteilen.
+
+253
+00:28:35,550 --> 00:28:47,550
+Normalerweise würde ich eine MRT überprüfen, um die möglichen Pathologien zu überprüfen.
+
+254
+00:28:47,550 --> 00:28:57,550
+Bei dieser Patientin ist eine MRT quanta-indiziert wegen Insulinpumpe.
+
+255
+00:28:57,550 --> 00:29:07,550
+Deswegen würde ich eine CT durchführen, um die möglichen Pathologien genau zu beurteilen.
+
+256
+00:29:07,550 --> 00:29:19,020
+Sollte sich die Verdachtdiagnose bestätigen, würde ich die Patientin stationär aufnehmen.
+
+257
+00:29:19,020 --> 00:29:35,020
+Ich würde einen Venosynzugang legen und Analgetikum und Muskelrelaxanten verabreichen.
+
+258
+00:29:35,020 --> 00:29:43,020
+Danach würde ich ein orthopäisches Konzil anfordern, um die Therapie der Patientin zu optimieren.
+
+259
+00:29:43,020 --> 00:29:56,430
+Wenn Sie mit dieser Vollgeheizweise einverstanden sind, werde ich mit der geplanten Untersuchung vollfahren, Herr Oberarzt.
+
+260
+00:29:56,430 --> 00:30:12,430
+Herr Kollege, Sie haben gesagt, dass die Diagnose nicht finanziell ausführt. Wie können Sie diese Diagnose ausführen?
+
+261
+00:30:12,430 --> 00:30:34,320
+Wir können bei dieser Patientin eine Elektroneuro-Myografie durchführen, um die Diabetische Neuropathie auszuschließen.
+
+262
+00:30:34,320 --> 00:30:40,320
+Können Sie uns die Elektroneuro-Myografie aufklären?
+
+263
+00:30:40,320 --> 00:30:56,320
+Ich bin mir nicht sicher, ob ich einige Details zu diesem Thema habe. Aber ich werde es nach der Erpüffung recherchieren.
+
+264
+00:30:56,320 --> 00:31:09,320
+Herr Kollege, Sie haben auch gesagt, dass die Diagnose nicht finanziell ausführt. Wie können Sie diese Diagnose ausführen?
+
+265
+00:31:09,320 --> 00:31:22,950
+Bei der körperlichen Untersuchung bei der Paltation können wir die Muskelspannungen feststellen.
+
+266
+00:31:22,950 --> 00:31:39,540
+Gegen diese Beschwerden können wir eine Wärmetherapie, Physiotherapie oder eine Krankengymnastik empfehlen.
+
+267
+00:31:39,540 --> 00:31:45,540
+Aber wenn alles in Ordnung ist, dann ist es bei der Nervensysteme.
+
+268
+00:31:45,540 --> 00:31:56,340
+Können Sie uns die CT aufklären?
+
+269
+00:31:56,340 --> 00:32:03,340
+Ich werde Sie gerne über CT aufklären.
+
+270
+00:32:03,340 --> 00:32:09,340
+Computer-Tomographie gehört zu den bildgebenden Verfahren.
+
+271
+00:32:09,340 --> 00:32:21,340
+Diese Untersuchung hilft uns, Verletzungen, Entzündungen, Blutungen, Tumoren oder andere Veränderungen genau zu erkennen.
+
+272
+00:32:22,340 --> 00:32:30,340
+Diese Untersuchung benötigt nur noch eine geringe Strahlenbelastung und völlig schmerzfrei.
+
+273
+00:32:30,340 --> 00:32:39,340
+Der Patient soll etwa 30 Minuten ruhig in einer CT-Röhre liegen.
+
+274
+00:32:39,340 --> 00:32:49,340
+Wenn der Patient eine Glatzangst hat, können wir dem Patienten ein Beruhigungsmittel geben.
+
+275
+00:32:49,340 --> 00:33:00,340
+Manchmal müssen wir ein Kontrastmittel geben, um die Organe sichtbar zu machen.
+
+276
+00:33:00,340 --> 00:33:09,340
+Es gibt einige Kontraindikationen, wie z.B. Schwangerschaft und Kontrastmittelallergie.
+
+277
+00:33:09,340 --> 00:33:14,340
+Es gibt keine Komplikationen bei dieser Untersuchung.
+
+278
+00:33:15,340 --> 00:33:25,340
+Nach der Untersuchung gibt es keine Einschränkungen und der Patient kann den Alltag wie gewohnt fortsetzen.
+
+279
+00:33:25,340 --> 00:33:33,680
+Für diese Untersuchung benötigt der Patient keine spezielle Vorbereitung.
+
+280
+00:33:33,680 --> 00:33:38,680
+Wann entscheiden Sie in diesem Fall eine Operation?
+
+281
+00:33:38,680 --> 00:33:54,680
+Es gibt neurologische Befunde bei diesem Patienten, der unter Hypesthesie und Parastese leidet.
+
+282
+00:33:54,680 --> 00:33:58,680
+Das ist ein Risikofaktor bei diesem Patienten.
+
+283
+00:33:58,680 --> 00:34:07,680
+Deswegen würde ich eine Operation empfehlen.
+
+284
+00:34:07,680 --> 00:34:23,680
+Normalerweise können wir bei diesem Patienten eine Wärmetherapie, Schmerzmitteiltherapie, muskelentspannende Therapie und Krankengymnastik empfehlen.
+
+285
+00:34:23,680 --> 00:34:39,680
+Aber wenn diese symptomatische Therapie keine Antworten bringt, dann können wir eine Operation empfehlen.
+
+286
+00:34:39,680 --> 00:34:55,680
+Oder wenn es neurologische Befunde wie Hypesthesie, Parastese oder Hemiparesie gibt, dann können wir direkt eine Operation empfehlen.
+
+287
+00:34:55,680 --> 00:35:00,680
+Was meinen Sie? Muskelschwäche?
+
+288
+00:35:00,680 --> 00:35:09,680
+Ich meine Muskelschwäche und manchmal Inkontinenz, wie zum Beispiel Urininkontinenz oder Stuhlinkontinenz.
+
+289
+00:35:09,680 --> 00:35:15,680
+Denken Sie in diesem Fall TFT?
+
+290
+00:35:15,680 --> 00:35:30,110
+Also ich habe keine Frage über TFT gestellt.
+
+291
+00:35:30,110 --> 00:35:41,110
+Die Patienten leiden unter keine Beinschwellungen, keine Rötung am Bein.
+
+292
+00:35:41,110 --> 00:35:46,110
+Es gibt nur Hypesthesie und Parastese.
+
+293
+00:35:46,110 --> 00:35:55,110
+Aber ich würde auch diese Fragen stellen, um eine TFT auszuschließen.
+
+294
+00:35:55,110 --> 00:35:57,110
+Sie haben recht.
+
+295
+00:35:57,110 --> 00:36:01,110
+Hat Sie offene Runde im Bein?
+
+296
+00:36:01,110 --> 00:36:06,110
+Leider habe ich diese Frage auch nicht gestellt.
+
+297
+00:36:06,110 --> 00:36:12,110
+Aber nach dem Arzt-Arzt-Gespräch werde ich diese Fragen stellen.
+
+298
+00:36:12,110 --> 00:36:17,110
+Wie können Sie TFT in diesem Fall ausschließen?
+
+299
+00:36:17,110 --> 00:36:28,110
+Wir können eine Doppler-Sonographie durchführen, um eine Thrombose auszuschließen.
+
+300
+00:36:28,110 --> 00:36:34,110
+Und wir können auch eine körperliche Untersuchung durchführen.
+
+301
+00:36:34,110 --> 00:36:44,110
+Und wir können Ödeme, Erytheme und Überwärmung feststellen.
+
+302
+00:36:44,110 --> 00:36:47,110
+Welche Laborwerte möchten Sie?
+
+303
+00:36:47,110 --> 00:36:55,110
+Als Laborwerte würde ich eine Dedimere bestimmen lassen.
+
+304
+00:36:55,110 --> 00:36:58,110
+Das ist sehr wichtig bei einer TFT.
+
+305
+00:36:58,110 --> 00:37:12,590
+Denken Sie in diesem Fall auch P auf HK?
+
+306
+00:37:12,590 --> 00:37:26,060
+Die Patientin leidet unter keine Beinschmerzen.
+
+307
+00:37:26,060 --> 00:37:31,060
+Sie leidet unter nur Hypesthesie und Parastese.
+
+308
+00:37:31,060 --> 00:37:39,060
+Aber wir sollen einige Fragen über dieses Thema stellen.
+
+309
+00:37:40,060 --> 00:37:44,060
+Wie zum Beispiel haben Sie Schmerzen beim Laufen?
+
+310
+00:37:44,060 --> 00:37:49,060
+Oder brauchen Sie eine Pause beim Laufen?
+
+311
+00:37:49,060 --> 00:37:58,060
+Aber aufgrund der aktuellen Beschwerden denke ich keine P auf HK.
+
+312
+00:37:58,060 --> 00:38:04,060
+Wie können Sie P auf HK ausschließen?
+
+313
+00:38:04,060 --> 00:38:07,060
+Bei einer körperlichen Untersuchung?
+
+314
+00:38:07,060 --> 00:38:14,060
+Wir sollen auf jeden Fall die peripheren Pulsen abtasten.
+
+315
+00:38:14,060 --> 00:38:22,060
+Wie zum Beispiel Arterie dorsalis pedis und Arterie tibialis posterior.
+
+316
+00:38:22,060 --> 00:38:26,060
+Das ist sehr wichtig bei einer P auf HK.
+
+317
+00:38:26,060 --> 00:38:29,060
+Welchen Index kontrollieren Sie?
+
+318
+00:38:32,620 --> 00:38:46,620
+Ich habe den Namen schon vergessen, aber wir sollen die Blutdruck zwischen Armen und Beinen vergleichen.
+
+319
+00:38:46,620 --> 00:38:48,620
+Ein Braschendegs?
+
+320
+00:38:48,620 --> 00:38:50,620
+Ja, wir haben recht.
+
+321
+00:38:54,620 --> 00:39:02,370
+Ist es möglich in diesem Fall auch Stimmgabel-Tests?
+
+322
+00:39:02,370 --> 00:39:08,290
+Aber geht es uns falsch?
+
+323
+00:39:08,290 --> 00:39:11,290
+Ich denke nicht so.
+
+324
+00:39:11,290 --> 00:39:27,290
+Die Patientin leidet unter keine Cephalgie oder Vertigo oder Höchstschwierigkeit.
+
+325
+00:39:27,290 --> 00:39:33,290
+Oder eine Zentralnervös-Systemprobleme.
+
+326
+00:39:33,290 --> 00:39:38,290
+Also ich würde keine Test durchführen.
+
+327
+00:39:38,290 --> 00:39:45,290
+Können Sie Stimmgabel-Tests bei Druckgefühl?
+
+328
+00:39:45,290 --> 00:39:49,020
+Nein, leider nicht.
+
+329
+00:39:49,020 --> 00:40:01,020
+Bei einer neuropäischen Neuropathie ausschließen können wir auch Stimmgabel-Tests bei Fuß-Mantreiben.
+
+330
+00:40:01,020 --> 00:40:06,020
+Danke für diese neue Information, Herr Oberarzt.
+
+331
+00:40:06,020 --> 00:40:17,050
+Okay, Herr Kollegen, bitte gehen Sie in unseren Infodisc und nehmen Sie Ihre Zertifikat.
+
+332
+00:40:17,050 --> 00:40:23,780
+Ich wünsche Ihnen viel Erfolg für Ihren Arbeitszweck.
+
+333
+00:40:23,780 --> 00:40:31,780
+Vielen Dank, Herr Oberarzt. Sie sind sehr nett. Das war ein schönes, angenehmes Sprech bei mir. Vielen Dank.

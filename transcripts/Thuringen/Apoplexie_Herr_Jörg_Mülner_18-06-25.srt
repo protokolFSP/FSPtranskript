@@ -1,0 +1,2259 @@
+1
+00:00:00,780 --> 00:00:11,780
+Mein Name ist Ucak, ich bin auf dieser Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Anamese-Gespräch durchführen. Sind Sie damit einverstanden?
+
+2
+00:00:11,780 --> 00:00:14,780
+Ja, natürlich Doktor.
+
+3
+00:00:14,780 --> 00:00:18,780
+Bitte fragen Sie nach, wenn Sie etwas nicht verstehen, okay?
+
+4
+00:00:18,780 --> 00:00:20,780
+Okay.
+
+5
+00:00:20,780 --> 00:00:22,780
+Wie heißen Sie denn?
+
+6
+00:00:22,780 --> 00:00:31,170
+Ich heiße Jok Müsne.
+
+7
+00:00:31,170 --> 00:00:35,170
+Können Sie bitte Ihren Vor- und Nachname langsam beschreiben?
+
+8
+00:00:35,170 --> 00:00:41,170
+J-O-M-R-G. Jok.
+
+9
+00:00:41,170 --> 00:00:43,170
+Ja.
+
+10
+00:00:43,170 --> 00:00:51,170
+M-U-M-L-Z-N-E-R. Müsne.
+
+11
+00:00:51,170 --> 00:00:55,170
+Okay. Herr Müsne, wie alt sind Sie?
+
+12
+00:00:55,170 --> 00:00:59,170
+Ich bin 65 Jahre alt, Doktor.
+
+13
+00:00:59,170 --> 00:01:01,170
+Wann sind Sie genau geboren?
+
+14
+00:01:01,170 --> 00:01:07,340
+6. Juni 1970.
+
+15
+00:01:07,340 --> 00:01:09,340
+Wie groß sind Sie?
+
+16
+00:01:09,340 --> 00:01:15,390
+Ich bin 1,75 Meter.
+
+17
+00:01:15,390 --> 00:01:17,390
+Und wie viel wiegen Sie zuzeit?
+
+18
+00:01:17,390 --> 00:01:21,390
+Ich bin 78 Kilo schwer.
+
+19
+00:01:21,390 --> 00:01:27,390
+Okay. Danke für die Informationen, Herr Müsne. Was kann ich für Sie tun? Was für Beschwerden haben Sie zuzeit?
+
+20
+00:01:27,390 --> 00:01:45,390
+Ja Doktor, heute, früher, als ich aufgestanden bin, habe ich plötzlich gemerkt, dass ich meinen linken Arm und mein linkes Bein nicht richtig bewegen konnte.
+
+21
+00:01:45,390 --> 00:01:47,390
+Könnte.
+
+22
+00:01:47,390 --> 00:01:54,910
+Okay. Sie haben Bewegungsanschränkungen, richtig?
+
+23
+00:01:54,910 --> 00:01:56,910
+Ja, richtig.
+
+24
+00:01:56,910 --> 00:01:58,910
+Linke Seite?
+
+25
+00:01:58,910 --> 00:02:00,910
+Ja, Doktor.
+
+26
+00:02:00,910 --> 00:02:06,910
+Okay. Wann war das eigentlich, Herr Müsne? Vor wie vielen Stunden? Ich meine.
+
+27
+00:02:06,910 --> 00:02:10,910
+Das ist jetzt, ich habe diese Probleme, Doktor.
+
+28
+00:02:10,910 --> 00:02:18,910
+Ja, okay. Heute Morgen sind Sie aufgestanden und Sie haben diese Probleme bemerkt.
+
+29
+00:02:18,910 --> 00:02:20,910
+Ja, ja, richtig.
+
+30
+00:02:20,910 --> 00:02:22,910
+Haben Sie früher eine Beschwerden gehabt?
+
+31
+00:02:22,910 --> 00:02:26,910
+Nein, das ist erstmalig.
+
+32
+00:02:26,910 --> 00:02:30,910
+Sind Sie schon beim anderen Arzt gewesen?
+
+33
+00:02:30,910 --> 00:02:46,910
+Nein, Doktor. Ich habe regelmäßig bei meinen Hausarzt gehen. Aber er hat mir gesagt, alles ist ordentlich.
+
+34
+00:02:46,910 --> 00:02:50,900
+Wann war Ihr letzter Besuch?
+
+35
+00:02:50,900 --> 00:03:02,900
+Ich gehe alle drei Tage und zwei Monate regelmäßig zum Hausarzt. Und es war vor ein Monaten.
+
+36
+00:03:02,900 --> 00:03:10,900
+Okay. Herr Müsne, jetzt möchte ich das Anamnesigespräch unterbrechen. Also ich denke, das ist eine Notfallsituation.
+
+37
+00:03:10,900 --> 00:03:12,900
+Okay.
+
+38
+00:03:12,900 --> 00:03:28,900
+Herr Oberarzt, ich möchte das Anamnesigespräch unterbrechen. Ich vermute, dass der Patient an Apoplexie leidet. Deswegen möchte ich die Vitaparameter überwachen.
+
+39
+00:03:28,900 --> 00:03:48,900
+Dann möchte ich eine CT-Deschäders und gegebenenfalls MAT-Deschäders durchführen. Aber jetzt bin ich in der Prüfung. Deswegen möchte ich das Anamnesigespräch weiterführen. Darf ich?
+
+40
+00:03:48,900 --> 00:03:50,900
+Ja, bitte.
+
+41
+00:03:50,900 --> 00:04:10,900
+Herr Müsne, Sie haben gesagt, dass Sie eine Bewegungsanschränkung in der linken Seite haben. Ansonsten haben Sie begleitende Symptome wie zum Beispiel Sprachstörungen, Sehstörungen, Hörstörungen?
+
+42
+00:04:10,900 --> 00:04:19,900
+Ja, Herr Doktor, Sie haben recht. Meine Partnerin hat sofort gemerkt, dass ich Probleme mit dem Sprechen hatte.
+
+43
+00:04:19,900 --> 00:04:31,720
+Haben Sie Probleme mit der Aussprache oder haben Sie Probleme mit den Wörtern zu finden?
+
+44
+00:04:31,720 --> 00:04:36,480
+Ja, die Wörter zu finden, Herr Doktor.
+
+45
+00:04:36,480 --> 00:04:40,480
+Okay. Sehstörungen und Hörstörungen haben Sie?
+
+46
+00:04:40,480 --> 00:04:55,480
+Ich habe keine Bemerkungen. Aber ich hatte eine Lämung auf der linken Seite. Gleiche Gewichtstörungen und konnte ich mehr richtig sprechen.
+
+47
+00:04:55,480 --> 00:05:00,480
+Okay. Haben Sie Probleme mit Laufen?
+
+48
+00:05:00,480 --> 00:05:07,820
+Ja, ja. Jetzt habe ich Probleme mit Laufen.
+
+49
+00:05:07,820 --> 00:05:15,820
+Herr Müsne, haben Sie auch eine Lämung im Gesicht bemerkt? Können Sie das Lied komplett schließen?
+
+50
+00:05:15,820 --> 00:05:27,840
+Ja, ich habe nicht bemerkt, Doktor. Nein. Ich habe gesagt, beim Laufen hatte ich große Schwierigkeiten.
+
+51
+00:05:27,840 --> 00:05:34,840
+Ich verstehe Sie sehr gut. Herr Müsne, wie sind Sie zu uns gekommen?
+
+52
+00:05:34,840 --> 00:05:46,350
+Meine Partnerin. Sie hat mich hier gefahren.
+
+53
+00:05:46,350 --> 00:05:56,460
+Okay, alles klar. Leiden Sie unter Kopfschmerzen?
+
+54
+00:05:56,460 --> 00:06:00,460
+Kopfschmerzen habe ich nicht, Doktor.
+
+55
+00:06:00,460 --> 00:06:05,460
+Das freut mich. Ist Ihnen übel oder mussten Sie erbrechen?
+
+56
+00:06:05,460 --> 00:06:12,460
+Mir war auch übel, aber ich musste nicht erbrechen.
+
+57
+00:06:12,460 --> 00:06:19,460
+Okay. Haben Sie Brustschmerzen oder ein enges Gefühl in der Brust?
+
+58
+00:06:19,460 --> 00:06:24,700
+Ich habe es nicht bemerkt.
+
+59
+00:06:24,700 --> 00:06:28,700
+Leiden Sie unter Herzrasen, Herzstolpen, Herzklopfen?
+
+60
+00:06:28,700 --> 00:06:35,700
+Herzrasen oder Atemnot oder Herzstolpen hatte ich keine.
+
+61
+00:06:35,700 --> 00:06:47,380
+Okay, das freut mich. Herr Müsne, haben Sie Nackensteifigkeit bemerkt?
+
+62
+00:06:47,380 --> 00:06:57,940
+Nein. Okay. Wie ist Ihr Appetit?
+
+63
+00:06:57,940 --> 00:07:05,940
+Normalerweise gut, aber heute Morgen habe ich kaum Appetit.
+
+64
+00:07:05,940 --> 00:07:11,940
+Haben Sie in der letzten Zeit unwirklich Ab- oder Zugenommen?
+
+65
+00:07:11,940 --> 00:07:16,940
+Ich habe nicht bemerkt, Doktor. Ich habe gleich Gewicht, denke ich.
+
+66
+00:07:16,940 --> 00:07:22,940
+Alles gut. Haben Sie Fieber, Schütterfrost oder Nachtschweiß?
+
+67
+00:07:22,940 --> 00:07:25,940
+Ich habe keine dieser Probleme, Doktor.
+
+68
+00:07:25,940 --> 00:07:34,940
+Okay. Ist alles in Ordnung beim Wasserlassen oder mit dem Stuhlgang?
+
+69
+00:07:34,940 --> 00:07:46,940
+Doktor, ich habe seit 10 Jahren Suche krank. Deswegen muss ich viele Mal auf die Toilette gehen.
+
+70
+00:07:46,940 --> 00:07:51,940
+Besonders in Nacht. Drei oder vier Mal.
+
+71
+00:07:52,940 --> 00:08:06,940
+Aber ich habe nicht Schmerzen bei Wasserlassen oder Färderung, Doktor.
+
+72
+00:08:06,940 --> 00:08:08,940
+Okay, das freut mich.
+
+73
+00:08:08,940 --> 00:08:11,940
+Ich habe häufig Wasserlassen.
+
+74
+00:08:11,940 --> 00:08:16,940
+Okay. Und mit dem Stuhlgang haben Sie ein Problem? Dupal, Verstopfung?
+
+75
+00:08:16,940 --> 00:08:20,940
+Nein, ich habe keine Probleme mit Stuhlgang.
+
+76
+00:08:20,940 --> 00:08:27,940
+Okay. Sind Sie schon vollständig gegen Kinderkrankheiten und Covid-Infektionen geimpft?
+
+77
+00:08:27,940 --> 00:08:34,940
+Ja, ich bin vollständig geimpft sowie viermal gegen Covid-19.
+
+78
+00:08:34,940 --> 00:08:39,410
+Okay. Schlafen Sie gut?
+
+79
+00:08:39,410 --> 00:08:46,900
+Ich schlafe gut normalerweise. Ich habe keine Probleme.
+
+80
+00:08:46,900 --> 00:08:54,900
+Okay. Herr Mützschner, haben Sie geschwollene Beine?
+
+81
+00:08:54,900 --> 00:08:58,900
+Geschwollene Beine? Ich habe keine bemerkt, Doktor. Nein.
+
+82
+00:08:58,900 --> 00:09:02,900
+Okay. Und haben Sie in der letzten Zeit eine lange Reise gemacht?
+
+83
+00:09:02,900 --> 00:09:04,900
+Nein.
+
+84
+00:09:04,900 --> 00:09:07,900
+Ich meine vor dieser Beschwerden.
+
+85
+00:09:07,900 --> 00:09:17,900
+Nein Doktor. Ich habe nicht eine lange Reise gemacht.
+
+86
+00:09:17,900 --> 00:09:24,900
+Okay. Alles klar. Herr Mützschner, Sie haben gesagt, dass Sie an Zuckerkrankheiten seit zehn Jahren leiden.
+
+87
+00:09:24,900 --> 00:09:26,900
+Ja, richtig.
+
+88
+00:09:26,900 --> 00:09:28,900
+Nehmen Sie dagegen ein Medikament ein?
+
+89
+00:09:29,900 --> 00:09:39,900
+Ich nehme dagegen AT-Akt 8 mg morgens.
+
+90
+00:09:39,900 --> 00:09:52,710
+Herr Mützschner, wie oft nehmen Sie dieses Medikament ein?
+
+91
+00:09:52,710 --> 00:09:55,710
+Morgens. Einmal.
+
+92
+00:09:55,710 --> 00:10:02,710
+Okay. Ansonsten haben Sie irgendwelche anderen Erkrankungen, wie zum Beispiel Bluthochdruck?
+
+93
+00:10:02,710 --> 00:10:15,710
+Ja, ich habe Bluthochdruck, Doktor. Entschuldigung, ja. Ich habe diese Tablette gegen Bluthochdruck, ja Doktor. Ich habe Faske.
+
+94
+00:10:15,710 --> 00:10:21,710
+Okay. Alles klar. Ja. Okay. Und was nehmen Sie gegen Zuckerkrankheiten ein?
+
+95
+00:10:22,710 --> 00:10:29,710
+Ich habe mit Formin 650 mg.
+
+96
+00:10:29,710 --> 00:10:33,120
+Wie oft nehmen Sie ein?
+
+97
+00:10:33,120 --> 00:10:36,120
+Einmal täglich morgens.
+
+98
+00:10:36,120 --> 00:10:41,120
+Okay. Und seit wann leiden Sie an Bluthochdruck?
+
+99
+00:10:41,120 --> 00:10:44,120
+Seit 15 Jahren.
+
+100
+00:10:44,120 --> 00:10:50,120
+Okay. Sonst noch etwas? Erfügte Blutverwerte zum Beispiel?
+
+101
+00:10:50,120 --> 00:11:00,120
+Ja, ja. Außerdem habe ich erhöhte Blutfette seit 10 Jahren.
+
+102
+00:11:00,120 --> 00:11:03,880
+Und nehmen Sie dagegen ein Medikament ein?
+
+103
+00:11:03,880 --> 00:11:10,880
+Ja, ich nehme dagegen Statin 40 mg morgens.
+
+104
+00:11:10,880 --> 00:11:14,880
+Okay. Und sonst?
+
+105
+00:11:14,880 --> 00:11:16,880
+Das war...
+
+106
+00:11:16,880 --> 00:11:22,880
+Okay. Herr Mülzner, nehmen Sie diese Medikamente regelmäßig ein oder?
+
+107
+00:11:22,880 --> 00:11:24,880
+Ja, ja. Regelmäßig, ja.
+
+108
+00:11:24,880 --> 00:11:34,880
+Okay. Das freut mich. Und nehmen Sie regelmäßig oder bei Bedarf andere Medikamente, außer genannten, ein?
+
+109
+00:11:34,880 --> 00:11:44,190
+Ja, ich nehme Aspirin 100 mg morgens. Jeden Tag.
+
+110
+00:11:44,190 --> 00:11:47,190
+Wo geben Sie Aspirin ein?
+
+111
+00:11:47,190 --> 00:12:03,190
+Ich habe gesagt, ich habe Bluthochdruck, Zuckerkrankheit. Meine Hausart hat mir gesagt, es wäre besser, wenn sie diese Aspirin einnehmen kann.
+
+112
+00:12:03,190 --> 00:12:10,500
+Okay. Sind Sie schon einmal operiert worden?
+
+113
+00:12:10,500 --> 00:12:17,500
+Vor fünf Jahren hatte ich eine Operation an der Hasada.
+
+114
+00:12:17,500 --> 00:12:22,000
+Hasada? Meinen Sie?
+
+115
+00:12:22,000 --> 00:12:26,080
+Ja, ja.
+
+116
+00:12:26,080 --> 00:12:28,080
+Welche Seite?
+
+117
+00:12:28,080 --> 00:12:30,080
+Rechts.
+
+118
+00:12:30,080 --> 00:12:38,080
+Okay. Also ich denke, Sie nehmen Aspirin gegen diesen Problem ein?
+
+119
+00:12:38,080 --> 00:12:40,080
+Vielleicht, ja.
+
+120
+00:12:40,080 --> 00:12:45,080
+Okay. Und was für eine Operation war das? Wissen Sie?
+
+121
+00:12:45,080 --> 00:12:53,080
+Die Ärzte haben dort etwa entfernt, aber ich weiß nicht genau, was es war.
+
+122
+00:12:53,080 --> 00:12:56,080
+Okay. Eine Blutkeriste vielleicht?
+
+123
+00:12:56,080 --> 00:12:59,080
+Vielleicht, aber ich habe nicht genau.
+
+124
+00:12:59,080 --> 00:13:04,080
+Okay. Alles klar. Herr Mülzner, wer ist Ihr Hausarzt oder Ihre Hausärztin?
+
+125
+00:13:04,080 --> 00:13:08,080
+Meine Hausärztin ist Frau Schimid.
+
+126
+00:13:08,080 --> 00:13:14,080
+Okay. Machen Sie sich bitte keine Sorgen. Ich werde Ihre Hausärztin kontaktieren, okay?
+
+127
+00:13:14,080 --> 00:13:16,330
+Okay.
+
+128
+00:13:16,330 --> 00:13:21,330
+Sind Sie allergisch gegen irgendwelche Medikamente, Pflanzen, Nahrungsmittel?
+
+129
+00:13:21,330 --> 00:13:31,380
+Ja, ich habe eine Polenallergie und vertrage keine Laktose.
+
+130
+00:13:31,380 --> 00:13:39,380
+Okay. Wie reagieren Sie auf diese Polenallergie und Laktose?
+
+131
+00:13:39,380 --> 00:13:51,380
+Ja, Polenallergie außer mit laufender Nase, tränender Augen und Yukreis.
+
+132
+00:13:51,380 --> 00:13:59,380
+Und Laktose ist äußert Bauchschmerzen und Durchfall.
+
+133
+00:13:59,380 --> 00:14:06,570
+Okay. Herr Mülzner, ruchen Sie?
+
+134
+00:14:07,570 --> 00:14:13,570
+Ja, Doktor, ich rauche ja.
+
+135
+00:14:13,570 --> 00:14:16,570
+Seit wann und wie viel rauchen Sie?
+
+136
+00:14:16,570 --> 00:14:26,150
+Seit zehn Jahren rauche ich halb Schachter Zigarette täglich.
+
+137
+00:14:26,150 --> 00:14:30,150
+Okay. Trinken Sie regelmäßig Alkohol?
+
+138
+00:14:30,150 --> 00:14:41,960
+Ja, ich trinke drei oder viermal ein Glas Wein per Woche.
+
+139
+00:14:41,960 --> 00:14:45,960
+Bitte nehmen Sie die nächste Frage nicht persönlich. Das ist eine Routinefrage.
+
+140
+00:14:45,960 --> 00:14:49,960
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+141
+00:14:49,960 --> 00:14:54,960
+Ich habe keine Erfahrung mit Drogen, Doktor.
+
+142
+00:14:54,960 --> 00:15:06,960
+Okay, super. Herr Mülzner, leiden Ihre Eltern an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Schlagader, Bruthochdruck, Zuckerkrankheit?
+
+143
+00:15:06,960 --> 00:15:14,960
+Ja, meine Mutter hatte eine Peripherarterieverschlusskrankheit.
+
+144
+00:15:14,960 --> 00:15:27,680
+Sie ist mit 65 Jahren alt an Mammarkrebs gestorben.
+
+145
+00:15:27,680 --> 00:15:36,680
+Mein Vater ist an einem Hirnsaneurysma gestorben.
+
+146
+00:15:36,680 --> 00:15:52,740
+Er war 75 Jahre alt. Er hatte eine Aussackung im Gehirn, wie ich es verstanden habe.
+
+147
+00:15:52,740 --> 00:15:58,740
+Mein Beileid, Herr Mülzner, haben Sie Geschwister?
+
+148
+00:15:58,740 --> 00:16:05,740
+Ich habe zwei Schwestern.
+
+149
+00:16:05,740 --> 00:16:08,740
+Sind Ihre Schwestern gesund?
+
+150
+00:16:08,740 --> 00:16:12,740
+Meine Schwestern sind gesund.
+
+151
+00:16:12,740 --> 00:16:15,740
+Wie ist Ihr Familienstand?
+
+152
+00:16:15,740 --> 00:16:25,990
+Ich bin gesiedelt. Aber ich lebe mit meinen neuen Partnern zusammen.
+
+153
+00:16:25,990 --> 00:16:28,990
+Haben Sie Kinder?
+
+154
+00:16:28,990 --> 00:16:35,990
+Ich habe zwei Kinder, einen Sohn und eine Tochter. Beide sind gesund.
+
+155
+00:16:35,990 --> 00:16:40,990
+Gott sei Dank. Was sind Sie für einen Beruf?
+
+156
+00:16:40,990 --> 00:16:51,420
+Ich arbeite seit 25 Jahren als Polizist.
+
+157
+00:16:51,420 --> 00:16:54,420
+Sie haben viel Stress bei der Arbeit?
+
+158
+00:16:54,420 --> 00:16:57,420
+Ja, richtig. Ich habe viel Stress.
+
+159
+00:16:57,420 --> 00:17:00,420
+Okay, alles klar.
+
+160
+00:17:00,420 --> 00:17:05,420
+Ich bedanke mich, Herr Mülzner, das waren meine Fragen.
+
+161
+00:17:05,420 --> 00:17:11,420
+Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+162
+00:17:11,420 --> 00:17:22,420
+Ja, Doktor, ich habe viel Angst. Ich kann wieder laufen, wieder sprechen. Was habe ich?
+
+163
+00:17:22,420 --> 00:17:29,420
+Herr Mülzner, ich verstehe Sie sehr gut. Aber machen Sie sich bitte keine Sorgen.
+
+164
+00:17:29,420 --> 00:17:34,420
+Sie haben eine gute Entscheidung getroffen, hierher zu kommen.
+
+165
+00:17:34,420 --> 00:17:38,420
+Wir werden alles für Sie tun.
+
+166
+00:17:38,420 --> 00:17:47,420
+Ich hoffe, dass Sie wieder gesund werden.
+
+167
+00:17:47,420 --> 00:17:51,420
+Es ist zu früh, etwas genauer zu sagen.
+
+168
+00:17:51,420 --> 00:18:00,420
+Ich möchte Sie körperlich untersuchen. Dann nehme ich Ihnen Blut ab und veranleite ein paar Untersuchungen.
+
+169
+00:18:00,420 --> 00:18:07,420
+Sobald alle Ergebnisse da sind, werde ich Ihnen weitere Informationen mitteilen.
+
+170
+00:18:07,420 --> 00:18:18,420
+Ich habe gesagt, mein Vater ist an Anärosis gestorben. Ich habe Hirnblut und Angst.
+
+171
+00:18:18,420 --> 00:18:23,420
+Herr Mülzner, wie gesagt, es ist zu früh, etwas genauer zu sagen.
+
+172
+00:18:23,420 --> 00:18:27,420
+Aber ich vermute, dass Sie ein Problem mit dem Gehirn haben.
+
+173
+00:18:27,420 --> 00:18:32,420
+Das kann eine Blutung sein oder andere Probleme.
+
+174
+00:18:32,420 --> 00:18:42,790
+Zuerst müssen wir die Untersuchungen veranlassen.
+
+175
+00:18:42,790 --> 00:18:50,790
+Dann können wir über eine 100% sichere Diagnose und über Therapiemöglichkeiten sprechen.
+
+176
+00:18:50,790 --> 00:18:53,790
+Wer ist der Therapie-Doktor?
+
+177
+00:18:53,790 --> 00:19:01,790
+Herr Mülzner, bitte machen Sie sich keine Sorgen. Sie sind jetzt hier in guten Händen bei uns.
+
+178
+00:19:01,790 --> 00:19:04,790
+Wir sind ein gutes Team.
+
+179
+00:19:04,790 --> 00:19:09,790
+Wir haben zu viele Erfahrungen über diese Probleme.
+
+180
+00:19:09,790 --> 00:19:14,790
+Wir werden alles für Sie tun. Machen Sie sich keine Sorgen.
+
+181
+00:19:14,790 --> 00:19:17,790
+Danke schön Doktor. Ich warte auf Sie.
+
+182
+00:19:17,790 --> 00:19:24,790
+Warten Sie bitte im Wartezimmer. Ich bin gleich wieder da.
+
+183
+00:19:24,790 --> 00:19:26,790
+Danke schön.
+
+184
+00:19:26,790 --> 00:19:35,980
+Ich würde gerne über Ihnen berichten. Haben Sie kurz Zeit für mich?
+
+185
+00:19:35,980 --> 00:19:37,980
+Ja bitte.
+
+186
+00:19:37,980 --> 00:19:46,980
+Danke schön. Herr Jörg Mülzner ist 65 Jahre alt, 1,75 Meter groß und 78 Kilogramm schwer.
+
+187
+00:19:46,980 --> 00:19:59,980
+Herr Mülzner stellte sich heute bei uns wegen seit heute Morgen bestehender linkseitiger Hemiparesie vor.
+
+188
+00:19:59,980 --> 00:20:12,980
+Den Patienten zufolge hatte er früher ähnliche Beschwerden nicht.
+
+189
+00:20:12,980 --> 00:20:26,980
+Er besuchte seinen Hausarzt regelmäßig alle drei Monate und alles war in Ordnung.
+
+190
+00:20:26,980 --> 00:20:42,980
+Der Patient berichtete über Ophazie, Gleichgewichtsstörungen und Laufprobleme beim Laufen.
+
+191
+00:20:42,980 --> 00:21:12,260
+Außerdem klagte er über Nausea, die Fragen nach Ohneemesis, Seh- und Höchstörungen, Sephagie, Parasite im Gesicht, Tachikardie, Dyspnoe, Angina Pectoris, geschwollene Beine, Nackensteifigkeit wurden verneint.
+
+192
+00:21:12,260 --> 00:21:16,260
+Hatte er Kopfverletzung?
+
+193
+00:21:16,260 --> 00:21:25,510
+Herr Oberst, leider habe ich diese Frage nicht gestellt, aber nach dem Arzt-Arzt-Gespräch werde ich diese Frage stellen.
+
+194
+00:21:25,510 --> 00:21:39,510
+Die vegetative Anamnese ist bis auf Inapetenz und Nukterie unaufällig.
+
+195
+00:21:39,510 --> 00:21:47,510
+Er sei vollständig gegen Kinderkrankheiten und vier Mal Covid-19-Infektionen geimpft.
+
+196
+00:21:47,510 --> 00:21:50,510
+Reiseanamnese wurde verneint.
+
+197
+00:21:50,510 --> 00:22:05,510
+Er nannte die Erkrankungen seit 10 Jahren bestehender Diabetes mellitus, seit 15 Jahren bestehender Arterie hypertonin und seit 10 Jahren bestehender Hyperlipidemie.
+
+198
+00:22:05,510 --> 00:22:18,510
+Er nehme Atakan 8 mg morgens mit Formin 850 mg morgens und Statin 40 mg abends ein.
+
+199
+00:22:18,510 --> 00:22:26,510
+Der Patient nehme auch Aspirin 100 mg morgens ein.
+
+200
+00:22:26,510 --> 00:22:43,650
+Vor fünf Jahren sei bei ihm eine rechtsseitige Karotid-Antarterie durchgeführt worden.
+
+201
+00:22:43,650 --> 00:22:51,650
+Er hat Allergien gegen Pollen, die sich durch Rhinokonjunktivitis und Pruritus äußert.
+
+202
+00:22:51,650 --> 00:22:58,650
+Er hat Laktoseintoleranz, die sich durch Diarrhea und Abdominal Schmerzen äußert.
+
+203
+00:22:58,650 --> 00:23:06,650
+Er sei Raucher und er rauche 10 Zigaretten täglich seit 10 Jahren.
+
+204
+00:23:06,650 --> 00:23:12,650
+Er trinke 3 bis 4 Mal ein Glas Wein pro Woche.
+
+205
+00:23:12,650 --> 00:23:15,650
+Drogenkonsum wurde verneint.
+
+206
+00:23:15,650 --> 00:23:31,650
+In der Familienanamnese gab er an, dass der Vater mit 75 Jahren an Hirnanavisma verstorben sei.
+
+207
+00:23:31,650 --> 00:23:40,650
+Die Mutter sei mit 65 Jahren an Mammakarzinom verstorben.
+
+208
+00:23:40,650 --> 00:23:47,650
+Davor habe sie an P.A.V.K. geritten.
+
+209
+00:23:47,650 --> 00:23:52,650
+Der Patient habe zwei Schwestern, die gesund seien.
+
+210
+00:23:52,650 --> 00:24:00,650
+Der Patient sei geschieden, habe gesunde zwei Kinder.
+
+211
+00:24:00,650 --> 00:24:05,650
+Er wohne mit seiner Partnerin zusammen.
+
+212
+00:24:05,650 --> 00:24:14,650
+Die Partnerin hat den Patienten zu uns gebracht.
+
+213
+00:24:15,650 --> 00:24:34,650
+Er sei Polizist seit 25 Jahren und habe viel Stress bei der Arbeit.
+
+214
+00:24:35,650 --> 00:24:44,650
+Ich gehe von einem Verdacht auf eine Apoplexie aus, da der Patient typische Symptome dafür aufweist.
+
+215
+00:24:44,650 --> 00:24:51,650
+Der Patient leidet unter linksseitiger Hemiparesie,
+
+216
+00:24:51,650 --> 00:25:06,650
+er leidet unter der Apoplexie und hat Probleme beim Laufen.
+
+217
+00:25:06,650 --> 00:25:11,650
+Diese Symptome sprechen für eine Apoplexie.
+
+218
+00:25:11,650 --> 00:25:23,650
+Als Differenzialdiagnosen kommen Tier- oder Gehirntumor oder Gehirnblutungen in Betracht.
+
+219
+00:25:23,650 --> 00:25:27,650
+Um meine Verdacht Diagnose zu bestätigen,
+
+220
+00:25:27,650 --> 00:25:36,650
+würde ich zuerst bei den Patienten die Vitaparameter überwachen,
+
+221
+00:25:36,650 --> 00:25:47,650
+Glasgow Coma Scala beurteilen und Pupillenreaktionen auf Licht überprüfen.
+
+222
+00:25:47,650 --> 00:25:54,650
+Danach würde ich eine körperliche Untersuchung und eine neurologische Untersuchung durchführen.
+
+223
+00:25:54,650 --> 00:25:58,650
+Bei der neurologischen Untersuchung achte ich darauf,
+
+224
+00:25:58,650 --> 00:26:10,570
+ob Störungen der Motorik, Sensorik oder anderen Probleme verliegen.
+
+225
+00:26:10,570 --> 00:26:24,130
+Zusätzlich ist eine Labouruntersuchung sinnvoll, um eine umfassende Diagnose zu gewährleisten.
+
+226
+00:26:24,130 --> 00:26:38,130
+Dabei würde ich Blutbild, CAP, BSG, Leberwerte, Nierenwerte, Dedumia, Gehirnungsparameter, Elektrolyten bestimmen lassen.
+
+227
+00:26:38,130 --> 00:26:47,130
+Danach würde ich auch Herzenzyme bestimmen lassen.
+
+228
+00:26:47,130 --> 00:26:53,130
+Danach würde ich ein CT des Schäders durchführen, um meine Verdachtdiagnose zu bestätigen.
+
+229
+00:26:53,130 --> 00:26:58,130
+Ich würde auch eine EKG und gegebenenfalls eine Echokardiographie durchführen,
+
+230
+00:26:58,130 --> 00:27:07,130
+um die möglichen Pathologien wie zum Beispiel Herzrhythmenstörungen auszuschließen.
+
+231
+00:27:07,130 --> 00:27:12,130
+Ggf. würde ich eine MIT durchführen.
+
+232
+00:27:12,130 --> 00:27:25,130
+Sollte sich die Verdachtdiagnose bestätigen, würde ich die Patientin stationär aufnehmen.
+
+233
+00:27:25,130 --> 00:27:40,130
+Ich würde den Patienten zu einer Strockunit einweisen.
+
+234
+00:27:40,130 --> 00:27:49,130
+Ich würde sofort einen Venosynzugang legen.
+
+235
+00:27:49,130 --> 00:28:06,130
+Wenn der Fall unter zwei Stunden ist, würde ich eine Trombolidotherapie wie z.B. Streptokinase verabreichen.
+
+236
+00:28:06,130 --> 00:28:12,130
+Bettruhe ist sehr wichtig bei den Patienten.
+
+237
+00:28:12,130 --> 00:28:23,130
+Ich würde auch Heparinisation wie z.B. 5000 Einheiten verabreichen.
+
+238
+00:28:23,130 --> 00:28:37,130
+Wenn möglich würde ich eine Trombektomie durchführen, um eine Behandlung durchzuführen.
+
+239
+00:28:37,130 --> 00:28:49,130
+Ich würde ein neurologisches Konzil anfordern, um die Therapie des Patienten zu optimieren.
+
+240
+00:28:49,130 --> 00:28:59,130
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit der geplanten Untersuchung fortfahren.
+
+241
+00:28:59,130 --> 00:29:13,270
+Sie haben gesagt, ich würde eine Martydeschade durchführen. Wann entscheiden Sie diese Röntgenbild?
+
+242
+00:29:13,270 --> 00:29:31,100
+Wenn es keine bestimmten Befunde bei der CT gibt, würde ich eine MRT durchführen, um die möglichen Pathologien zu beurteilen.
+
+243
+00:29:31,100 --> 00:29:34,100
+Welche MRT würden Sie durchführen?
+
+244
+00:29:34,100 --> 00:29:48,100
+Die M-RT würde ich durchführen, um die möglichen Infarkte zu beurteilen.
+
+245
+00:29:48,100 --> 00:29:53,100
+Können Sie uns die M-RT aufklären?
+
+246
+00:29:53,100 --> 00:30:00,100
+Ja, gerne. Ich werde Sie über die fissionsgewichtete M-RT aufklären.
+
+247
+00:30:00,100 --> 00:30:07,100
+Die fissionsgewichtete M-RT gehört zu den bildgebenden Verfahren.
+
+248
+00:30:07,100 --> 00:30:21,380
+Diese Untersuchung hilft uns, die Infarkte, also Tier- und ischämische Situationen, genau zu erkennen.
+
+249
+00:30:21,380 --> 00:30:26,380
+Diese Untersuchung beruht auf dem Magnetismus.
+
+250
+00:30:26,380 --> 00:30:38,380
+Wir können bei dieser Untersuchung die Wassermolekülebewegung genau zu erkennen oder beurteilen.
+
+251
+00:30:38,380 --> 00:30:49,380
+Der Patient soll etwa 30 Minuten in einer M-RT-Röhre ruhig liegen.
+
+252
+00:30:49,380 --> 00:30:57,380
+Wer der Patient eine Platzangst hat, können wir ihm eine Berührungsmittel geben.
+
+253
+00:30:57,380 --> 00:31:14,380
+Diese Untersuchung hat einige Kontraindikationen, wie zum Beispiel Herzschildmacher, Metallimplantate oder andere Metallkörperteile.
+
+254
+00:31:14,380 --> 00:31:19,380
+Es gibt keine Komplikationen bei dieser Untersuchung.
+
+255
+00:31:19,380 --> 00:31:32,380
+Vor der Untersuchung soll der Patient die Schmuck- und Metalldingen belegen.
+
+256
+00:31:32,380 --> 00:31:40,380
+Nach der Untersuchung gibt es keine Einschränkungen und der Patient kann den Alltag wie gewohnt fortsetzen.
+
+257
+00:31:40,380 --> 00:31:46,140
+Wie können wir Hirnblutung ausschließen?
+
+258
+00:31:47,140 --> 00:31:56,140
+Auf jeden Fall sollen wir eine Seite des Schäders durchführen, um die Hirnblutung auszuschließen.
+
+259
+00:31:56,140 --> 00:32:03,140
+Wie können wir trans- torische ischämische Attacke ausschließen?
+
+260
+00:32:03,140 --> 00:32:16,140
+Bei der Anamnese und bei der körperlichen Untersuchung achten wir darauf, ob die Beschwerden noch da sind.
+
+261
+00:32:16,140 --> 00:32:36,140
+Wenn wir diese Situation ausschließen möchten, können wir eine M-RT durchführen, um eine mögliche TA auszuschließen.
+
+262
+00:32:36,140 --> 00:32:41,140
+Wann würden Sie eine Lumbar-Punktion entscheiden?
+
+263
+00:32:41,140 --> 00:32:54,140
+Wir können eine Lumbar-Punktion durchführen, um eine Subtrailblutung auszuschließen.
+
+264
+00:32:54,140 --> 00:33:09,140
+Wenn der Patient eine Fieber- und Nackensteifigkeit, also Beschwerden über Meningitis hat, können wir auch eine Lumbar-Punktion durchführen.
+
+265
+00:33:12,860 --> 00:33:25,560
+Würden Sie in diesem Fall eine digitale Subtraktion an Geografie durchführen?
+
+266
+00:33:25,560 --> 00:33:41,560
+Ja, können wir auch eine digitale Subtraktion an Geografie durchführen, um die mögliche Verstopfung, Durchblutstörungen zu beurteilen.
+
+267
+00:33:41,560 --> 00:33:56,560
+Die Probleme der Patienten können eine Chemie sein, deswegen können wir diese Untersuchung auch durchführen.
+
+268
+00:33:56,560 --> 00:34:01,560
+Würden Sie in diesem Fall stationär aufnehmen?
+
+269
+00:34:01,560 --> 00:34:15,560
+Ich würde den Patienten zu einem Strokeunit einweisen, also Intensivstation.
+
+270
+00:34:15,560 --> 00:34:21,560
+Eine Intensivstation ist sehr wichtig bei diesem Fall.
+
+271
+00:34:21,560 --> 00:34:31,560
+Wenn Sie nach der Körperlösung keine Auffälligkeit finden, was entscheiden Sie?
+
+272
+00:34:31,560 --> 00:34:51,990
+Ja, das kann TIA sein, deswegen sollen wir eine Division MRT durchführen, um die mögliche Chemie auszuschließen.
+
+273
+00:34:51,990 --> 00:34:56,990
+In Ordnung, kein Problem.
+
+274
+00:34:56,990 --> 00:35:10,990
+Wir können auch bei einem metabolicen Problem denken, vielleicht sollen wir eine Hypokalie Chemie machen.
+
+275
+00:35:10,990 --> 00:35:16,990
+Auf jeden Fall sollen wir eine Blutzuckerwerte kontrollieren.
+
+276
+00:35:16,990 --> 00:35:26,300
+Und ich muss den Patienten einen Strokeunit einweisen?
+
+277
+00:35:26,300 --> 00:35:28,300
+Ja, genau.
+
+278
+00:35:28,300 --> 00:35:31,300
+Weil TIA möglich ist?
+
+279
+00:35:31,300 --> 00:35:34,300
+Ja, Sie haben recht.
+
+280
+00:35:34,300 --> 00:35:37,300
+Oder ein metabolices Problem?
+
+281
+00:35:37,300 --> 00:35:45,300
+Wie können wir metabolice Probleme ausschließen?
+
+282
+00:35:45,300 --> 00:35:55,420
+Zuerst sollen wir Blutzuckerwerte kontrollieren.
+
+283
+00:35:55,420 --> 00:36:01,420
+Der Patient leidet an Diabetes mellitus seit 10 Jahren.
+
+284
+00:36:01,420 --> 00:36:07,420
+Das kann Hypokalie Chemie oder Hyperglychemie sein.
+
+285
+00:36:07,420 --> 00:36:19,420
+Deswegen sollen wir auf jeden Fall Blutzuckerwerte und Hemoglobin A1C kontrollieren.
+
+286
+00:36:19,420 --> 00:36:24,420
+Welche anderen Probleme verursachen Gehirnprobleme?
+
+287
+00:36:24,420 --> 00:36:29,020
+Metabolische Probleme, ich meine.
+
+288
+00:36:29,020 --> 00:36:34,020
+Zum Beispiel Elektrolytin. Welche Elektrolytin verursacht?
+
+289
+00:36:35,020 --> 00:36:38,020
+Die Impalanz für Natremie.
+
+290
+00:36:38,020 --> 00:36:40,020
+Hyperkalemie.
+
+291
+00:36:40,020 --> 00:36:43,020
+Hyperkalemie.
+
+292
+00:36:43,020 --> 00:36:46,020
+Hypernatremie.
+
+293
+00:36:46,020 --> 00:36:51,020
+Also alle Elektrolytien im Balance können...
+
+294
+00:36:51,020 --> 00:36:57,020
+Und Leberprobleme verursacht Gehirnprobleme?
+
+295
+00:36:57,020 --> 00:37:01,300
+Das kann sein.
+
+296
+00:37:01,300 --> 00:37:04,300
+Ja, Sie haben recht.
+
+297
+00:37:04,300 --> 00:37:08,830
+Und Hyperglychemie?
+
+298
+00:37:08,830 --> 00:37:18,340
+Auf jeden Fall sollen wir Leberwerte, Nierenwerte, Elektrolytin bestimmen lassen.
+
+299
+00:37:18,340 --> 00:37:20,340
+Sie haben recht.
+
+300
+00:37:20,340 --> 00:37:29,340
+Welche Herzkrankheiten verursacht diese Probleme?
+
+301
+00:37:30,340 --> 00:37:37,340
+Ja, auf jeden Fall sollen wir Herzrhythmusstörungen beurteilen.
+
+302
+00:37:37,340 --> 00:37:44,340
+Zum Beispiel Atrialfibrillation ist ein großes Risiko für eine Tier- oder Apoplexie.
+
+303
+00:37:44,340 --> 00:37:56,340
+Deswegen sollen wir zuerst eine EKG schreiben und dann sollen wir eine Eko-Kardiographie durchführen, um die möglichen Pathologien genau zu beurteilen.
+
+304
+00:37:57,340 --> 00:38:05,340
+Wie würden Sie Herzkranken im Gehirnproblem vermeiden?
+
+305
+00:38:05,340 --> 00:38:15,100
+Ja, also Thromboseprophylaxie sollen wir auf jeden Fall anordnen.
+
+306
+00:38:15,100 --> 00:38:18,100
+Antikoagulanttherapie?
+
+307
+00:38:18,100 --> 00:38:20,100
+Antikoagulanttherapie auch, genau.
+
+308
+00:38:21,100 --> 00:38:34,100
+Der Patient hat unter rechtsseitige Karotidprobleme gelitten.
+
+309
+00:38:34,100 --> 00:38:42,100
+Er hatte eine Karotidendarterektomie und es gibt auch einen Risikofaktor bei diesem Fall.
+
+310
+00:38:42,100 --> 00:38:47,100
+Deswegen nimmt er Aspirin 100 mg morgens.
+
+311
+00:38:47,100 --> 00:38:52,100
+Ja, wir sollen auf jeden Fall diese Situation kontrollieren.
+
+312
+00:38:52,100 --> 00:38:55,100
+Ist es genug Aspirin?
+
+313
+00:38:55,100 --> 00:38:56,100
+Bitte?
+
+314
+00:38:56,100 --> 00:38:58,100
+Ist es genug Aspirin?
+
+315
+00:38:58,100 --> 00:39:00,100
+Nein, das ist nicht genug.
+
+316
+00:39:00,100 --> 00:39:08,100
+Ich denke wir sollen Klexan, Makuma anordnen.
+
+317
+00:39:08,100 --> 00:39:12,100
+Vielen Dank, Herr Kollegen.
+
+318
+00:39:13,100 --> 00:39:17,100
+Bitte nehmen Sie unsere Info-Desk und nehmen Sie Ihre Zertifikate.
+
+319
+00:39:17,100 --> 00:39:21,100
+Ich wünsche Ihnen viel Erfolg für Ihre Arbeit.
+
+320
+00:39:21,100 --> 00:39:27,660
+Danke Herr Ogart. Das war sehr schön.
+
+321
+00:39:27,660 --> 00:39:35,660
+Ein angenehmes Sprechen war eigentlich nicht schwierig bei mir, aber ich habe zu viele neue Informationen gelernt. Danke Ihnen.
+
+322
+00:39:35,660 --> 00:39:44,660
+Wenn du den Patient besucht hast, und es ist alles normal, dann kann es TIA sein.
+
+323
+00:39:44,660 --> 00:39:50,660
+Unsere Falle haben 20 Minuten gedauert, aber du kannst es auch so machen.
+
+324
+00:39:50,660 --> 00:39:54,660
+Wenn du im Test-Saal nachgeschaut hast, hast du nichts gefunden. Dann kannst du es sagen.
+
+325
+00:39:54,660 --> 00:39:57,660
+Du kannst den Patient nach Hause bringen. Das ist eine Tuzakfrage.
+
+326
+00:39:57,660 --> 00:40:04,660
+Wenn der Patient einmal eine Schmerzenkrankheit hat, ein Gesprächsproblem hat, dann muss er auf Stroke-Unit gehen.
+
+327
+00:40:04,660 --> 00:40:09,660
+Wir haben im T-Saal keine Chance, eine Schmerzenkrankheit zu finden.
+
+328
+00:40:09,660 --> 00:40:14,660
+Das ist normal. Wenn alles normal ist, dann sagt man TIA.
+
+329
+00:40:14,660 --> 00:40:18,660
+Wenn es schon mal geht, dann gibt es keine Schmerzenkrankheit.
+
+330
+00:40:18,660 --> 00:40:24,660
+Wenn du eine Schmerzenkrankheit findest, dann gibt es Stroke.
+
+331
+00:40:24,660 --> 00:40:30,660
+Wenn du eine Schmerzenkrankheit findest, dann gibt es eine Stroke.
+
+332
+00:40:30,660 --> 00:40:33,660
+Wie lange folgen wir diese Patienten in solchen Situationen?
+
+333
+00:40:33,660 --> 00:40:35,660
+Diese haben einen Risiko, weil sie dann vielleicht auch noch kommen.
+
+334
+00:40:35,660 --> 00:40:38,660
+Die Tätigkeiten stehen bis sie voll sind.
+
+335
+00:40:38,660 --> 00:40:42,660
+Wenn du TIA findest, dann ist alles normal.
+
+336
+00:40:42,660 --> 00:40:44,660
+Das muss recherchiert werden.
+
+337
+00:40:44,660 --> 00:40:45,660
+Woher kommt es her?
+
+338
+00:40:45,660 --> 00:40:47,660
+Du beginnst mit EKG, du machst Eko.
+
+339
+00:40:47,660 --> 00:40:50,660
+Wenn es notwendig ist, machst du Transfasiofabriole Eko.
+
+340
+00:40:50,660 --> 00:40:57,660
+Wenn es ein Thrombus gibt, dann muss es ein Thrombectom sein.
+
+341
+00:40:57,660 --> 00:40:59,660
+Oder andere Dinge.
+
+342
+00:40:59,660 --> 00:41:04,660
+Dann muss man TSA machen, um ein Marsalproblem zu haben.
+
+343
+00:41:04,660 --> 00:41:10,660
+Wenn es eine Schmerzenkrankheit gibt, dann gibt es eine Schmerzenkrankheit.
+
+344
+00:41:10,660 --> 00:41:12,660
+Du hast alles gemacht.
+
+345
+00:41:12,660 --> 00:41:15,660
+Du hast die Patienten auch fertig gemacht.
+
+346
+00:41:15,660 --> 00:41:17,660
+Du hast die Hyperlization voll.
+
+347
+00:41:17,660 --> 00:41:20,660
+Du bleibst in der Krankenhäuser für 10 Tage.
+
+348
+00:41:20,660 --> 00:41:23,660
+Dann schenke ich Markumarla zu Hause.
+
+349
+00:41:23,660 --> 00:41:26,660
+Du hast die Patienten auf den Ort gestellt.
+
+350
+00:41:26,660 --> 00:41:27,660
+Du hast die Rechte gefunden.
+
+351
+00:41:57,660 --> 00:42:05,660
+Dann schenke ich Markumarla zu Hause.
+
+352
+00:42:05,660 --> 00:42:07,660
+Das ist nicht genug.
+
+353
+00:42:07,660 --> 00:42:09,660
+Das ist ein Kleksan?
+
+354
+00:42:09,660 --> 00:42:11,660
+Das ist ein Kleksan.
+
+355
+00:42:11,660 --> 00:42:13,660
+Okay.
+
+356
+00:42:13,660 --> 00:42:19,330
+Das muss in der Zeit bleiben.
+
+357
+00:42:19,330 --> 00:42:23,330
+Ist das Glaskol-Komaschala?
+
+358
+00:42:23,330 --> 00:42:29,330
+Das ist die Population Reaktion des Lichtübaprüfen.
+
+359
+00:42:29,330 --> 00:42:31,330
+Das ist richtig.
+
+360
+00:42:31,330 --> 00:42:33,330
+Das ist richtig.
+
+361
+00:42:33,330 --> 00:42:35,330
+Ich schaue auf die Patientin Glaskola.
+
+362
+00:42:35,330 --> 00:42:37,330
+Sie spricht schon.
+
+363
+00:42:37,330 --> 00:42:40,330
+Glaskola muss schon 15 sein.
+
+364
+00:42:40,330 --> 00:42:44,330
+Aber ich werde sie noch mal ausdehnen.
+
+365
+00:42:44,330 --> 00:42:47,330
+Denn die ersten Bewertungen sind wichtig.
+
+366
+00:43:49,950 --> 00:43:51,950
+Aber das ist nicht so.
+
+367
+00:43:51,950 --> 00:43:53,950
+Das ist T.
+
+368
+00:43:53,950 --> 00:43:55,950
+Wenn du die Herdblutung oder die Herdblutung sehen,
+
+369
+00:43:55,950 --> 00:43:58,950
+dann ist das nicht so wichtig.
+
+370
+00:43:58,950 --> 00:44:01,950
+Das einzige, was in diesem Fall passiert,
+
+371
+00:44:01,950 --> 00:44:03,950
+ist, wenn du die Patientin umsetzen musst,
+
+372
+00:44:03,950 --> 00:44:06,950
+dann schenke ich sie in die Stork-Unit.
+
+373
+00:44:06,950 --> 00:44:09,950
+Oder schenke ich sie.
+
+374
+00:44:09,950 --> 00:44:11,950
+Denn sie hat eine Ökologie.
+
+375
+00:44:11,950 --> 00:44:13,950
+Das ist wichtig.
+
+376
+00:44:13,950 --> 00:44:15,950
+Wenn du eine Person nicht halten kannst,
+
+377
+00:44:15,950 --> 00:44:17,950
+dann ist das okay.
+
+378
+00:44:17,950 --> 00:44:20,950
+Das ist die Geschichte des Karatüs-Scheiss.
+
+379
+00:44:20,950 --> 00:44:22,950
+Da muss wahrscheinlich eine DS-A gemacht werden.
+
+380
+00:44:22,950 --> 00:44:24,950
+Vielleicht wird ein Stand gelegt.
+
+381
+00:44:24,950 --> 00:44:26,950
+Wenn die Enderart-Aktur-Kröme erledigt wird,
+
+382
+00:44:26,950 --> 00:44:28,950
+dann wird ein Stand gelegt.
+
+383
+00:44:28,950 --> 00:44:30,950
+Oder wenn es gelegt wird,
+
+384
+00:44:30,950 --> 00:44:32,950
+dann muss ein Trombasom auf der Stange gelegt werden.
+
+385
+00:44:32,950 --> 00:44:34,950
+Die Wahrscheinlichkeit, dass die Stand wieder in einem Jahr
+
+386
+00:44:34,950 --> 00:44:36,950
+wieder aufgetan werden, ist sehr hoch.
+
+387
+00:44:36,950 --> 00:44:38,950
+Deswegen können sie die Medikamente mitnehmen.
+
+388
+00:44:38,950 --> 00:44:40,950
+Ob sie medikament sind, können sie auch aufgetan werden.
+
+389
+00:44:40,950 --> 00:44:42,950
+Was heißt DS-A?
+
+390
+00:44:42,950 --> 00:44:44,950
+Digitale Substaktion Angiographie.
+
+391
+00:44:44,950 --> 00:44:46,950
+Das sind zwei bewegte Dinge.
+
+392
+00:44:46,950 --> 00:44:48,950
+Ich kann nicht mit diesen Sachen sprechen.
+
+393
+00:44:48,950 --> 00:44:50,950
+Es gibt einige Worte, die nicht aussehen.
+
+394
+00:44:50,950 --> 00:44:52,950
+Es gibt einige Worte, die nicht aussehen.
+
+395
+00:44:52,950 --> 00:44:54,950
+Was wichtig ist, ist, dass du so etwas bist.
+
+396
+00:44:54,950 --> 00:44:56,950
+Was ist gemacht worden?
+
+397
+00:44:56,950 --> 00:44:58,950
+Was hat DS-A gemacht?
+
+398
+00:44:58,950 --> 00:45:00,950
+Was hat es gemacht?
+
+399
+00:45:00,950 --> 00:45:02,950
+Wir haben es gemacht.
+
+400
+00:45:02,950 --> 00:45:04,950
+Erst einmal hat es einen Röntgen-Test gemacht.
+
+401
+00:45:04,950 --> 00:45:06,950
+Dann hat es die Stork-Unit gesehen.
+
+402
+00:45:06,950 --> 00:45:08,950
+Dann hat es Kontrast-Modell gegeben.
+
+403
+00:45:08,950 --> 00:45:11,950
+Danach hat es die kontraste Bildung
+
+404
+00:45:11,950 --> 00:45:13,950
+und dann bleibt es nur die Darmstahl-Struktur.
+
+405
+00:45:13,950 --> 00:45:15,950
+Das ist die DS-A-Geschichte.
+
+406
+00:45:15,950 --> 00:45:17,950
+Du hast die genannten,
+
+407
+00:45:17,950 --> 00:45:19,950
+leichten Darmstahl-Struktur gesehen.
+
+408
+00:45:19,950 --> 00:45:21,950
+Das ist es.
+
+409
+00:45:21,950 --> 00:45:23,950
+Wenn du in der Handlung
+
+410
+00:45:23,950 --> 00:45:25,950
+eine Schmerz-Bereichung oder so
+
+411
+00:45:25,950 --> 00:45:27,950
+hast, kannst du es in der Handlung
+
+412
+00:45:27,950 --> 00:45:29,950
+mit dem Kopf-Stand machen.
+
+413
+00:45:29,950 --> 00:45:31,950
+Das ist der Vorteil.
+
+414
+00:45:31,950 --> 00:45:33,950
+Das ist auch bei dem Kopf.
+
+415
+00:45:33,950 --> 00:45:35,950
+Das ist auch bei dem Kopf.
+
+416
+00:45:35,950 --> 00:45:37,950
+DS-A-Geschichte.
+
+417
+00:45:37,950 --> 00:45:39,950
+Das ist es.
+
+418
+00:46:12,390 --> 00:46:14,390
+Da gibt es keine Bewegung,
+
+419
+00:46:14,390 --> 00:46:16,390
+aber die Struktur.
+
+420
+00:46:16,390 --> 00:46:18,390
+Und wenn es eine Bewegung gibt,
+
+421
+00:46:18,390 --> 00:46:20,390
+der Struktur, dann ist alles normal.
+
+422
+00:46:20,390 --> 00:46:22,390
+Da gibt es den Punkt,
+
+423
+00:46:22,390 --> 00:46:24,390
+wo D-A ist.
+
+424
+00:46:24,390 --> 00:46:28,180
+Das ist der Bebecue-Pilz-Technologie.
+
+425
+00:46:28,180 --> 00:46:30,180
+Das ist die Zicht-Zoll-Molekule,
+
+426
+00:46:30,180 --> 00:46:32,260
+das ist die D-Zoll-Molekule, das ist die D-Zoll-Molekule,
+
+427
+00:46:32,260 --> 00:46:34,260
+die ist die Zicht-Zeit.
+
+428
+00:46:34,260 --> 00:46:36,260
+Das sieht so aus wie eine Kugel.
+
+429
+00:46:36,260 --> 00:46:38,260
+Okay.
+
+430
+00:46:38,260 --> 00:46:40,260
+Dann kannst du uns «eine Frage» fragen.
+
+431
+00:46:40,260 --> 00:46:42,260
+Natürlich, Herr.
+
+432
+00:46:42,260 --> 00:46:45,260
+Aber dann sagen wir, dass ich den Patienten auf dem Aufnahme-Bereich legen werde.
+
+433
+00:46:45,260 --> 00:46:47,260
+Dann gibt es keine Verabschiedung, wie das passieren wird.
+
+434
+00:46:47,260 --> 00:46:48,260
+Nein, nein.
+
+435
+00:46:48,260 --> 00:46:50,260
+Du sagst, dass du das erst mal nennen willst,
+
+436
+00:46:50,260 --> 00:46:54,260
+aber ich sage das, weil du die Theorie der Sache weißt.
+
+437
+00:46:54,260 --> 00:46:56,260
+Jetzt sagen wir, dass wir ihn im Moment,
+
+438
+00:46:56,260 --> 00:46:58,260
+wenn ich den Patienten den Film machen, senden,
+
+439
+00:46:58,260 --> 00:47:00,260
+oder wenn wir ihn den Oberarzt anbieten,
+
+440
+00:47:00,260 --> 00:47:02,260
+werden wir ihn an den Patienten anbieten,
+
+441
+00:47:02,260 --> 00:47:04,260
+überprüfen, die Tomorafik,
+
+442
+00:47:04,260 --> 00:47:06,260
+das MRT, das und das machen,
+
+443
+00:47:06,260 --> 00:47:08,260
+und dann senden wir ihn.
+
+444
+00:47:08,260 --> 00:47:10,260
+Wir sagen das gleiche.
+
+445
+00:47:10,260 --> 00:47:12,260
+Ich werde es dir noch einmal erzählen.
+
+446
+00:47:12,260 --> 00:47:14,260
+Natürlich, was wir vorher tun,
+
+447
+00:47:14,260 --> 00:47:16,260
+das wird nur in der Details gesagt.
+
+448
+00:47:16,260 --> 00:47:18,260
+Aber im Moment sagen wir es schnell.
+
+449
+00:47:18,260 --> 00:47:20,260
+Ich werde den Patienten anbieten,
+
+450
+00:47:20,260 --> 00:47:22,260
+die Tomorafik,
+
+451
+00:47:22,260 --> 00:47:24,260
+und dann die Stroke-Unterdrückung senden.
+
+452
+00:47:24,260 --> 00:47:26,260
+Du sendest die nicht,
+
+453
+00:47:26,260 --> 00:47:28,260
+sondern die und die?
+
+454
+00:47:28,260 --> 00:47:30,260
+Ja, die und die.
+
+455
+00:47:30,260 --> 00:47:32,260
+Ich habe das schon verpasst.
+
+456
+00:47:32,260 --> 00:47:34,260
+Es ist so, als würde ich den Patienten sehen.
+
+457
+00:47:34,260 --> 00:47:36,260
+Nein, ich habe ihn anbieten,
+
+458
+00:47:36,260 --> 00:47:38,260
+und dann geht es um die Stroke-Unterdrückung.
+
+459
+00:47:38,260 --> 00:47:40,260
+Das muss man auch noch machen.
+
+460
+00:47:40,260 --> 00:47:42,260
+Dann wissen wir, was passiert.
+
+461
+00:47:42,260 --> 00:47:44,260
+Dann senden wir ihn an die Stroke-Unterdrückung.
+
+462
+00:47:44,260 --> 00:47:46,260
+Das ist nicht einfach.
+
+463
+00:47:46,260 --> 00:47:48,260
+CT-Check-Ning,
+
+464
+00:47:48,260 --> 00:47:50,260
+dann muss man MRT-Check-Ning machen.
+
+465
+00:47:50,260 --> 00:47:52,260
+Das ist nicht viel.
+
+466
+00:47:52,260 --> 00:47:54,260
+Dann gibt es die Digitale Splash-Sona-Jugend,
+
+467
+00:47:54,260 --> 00:47:56,260
+und dann das E-Code,
+
+468
+00:47:56,260 --> 00:47:58,260
+das T-Adder,
+
+469
+00:47:58,260 --> 00:48:00,260
+das C-Dir,
+
+470
+00:48:00,260 --> 00:48:02,260
+das ist das, was im Bett ist.
+
+471
+00:48:02,260 --> 00:48:04,260
+Okay.
+
+472
+00:48:04,260 --> 00:48:06,260
+Unserer Ziel hier im CT-Ning ist,
+
+473
+00:48:06,260 --> 00:48:08,260
+dass wir die Körpereine sehen.
+
+474
+00:48:08,260 --> 00:48:10,260
+Ja, das ist das einzige Ziel,
+
+475
+00:48:10,260 --> 00:48:12,260
+um das Körperein
+
+476
+00:48:12,260 --> 00:48:14,260
+oder die Gehirntümer zu sehen.
+
+477
+00:48:14,260 --> 00:48:16,260
+Wenn der Patient
+
+478
+00:48:16,260 --> 00:48:18,260
+über zwei Stunden im CT-Ning
+
+479
+00:48:18,260 --> 00:48:20,260
+im SVO-Ning ist,
+
+480
+00:48:20,260 --> 00:48:23,580
+dann sieht er es auch.
+
+481
+00:48:23,580 --> 00:48:25,580
+Wenn der Patient in MRT-Ning
+
+482
+00:48:25,580 --> 00:48:27,580
+in einer halben Stunde
+
+483
+00:48:27,580 --> 00:48:29,580
+im CT-Ning ist,
+
+484
+00:48:29,580 --> 00:48:31,580
+und du nichts im CT-Ning sehen kannst,
+
+485
+00:48:31,580 --> 00:48:33,580
+dann ist das ein SVO-Ning,
+
+486
+00:48:33,580 --> 00:48:35,580
+wenn du normal in CT-Ning bist,
+
+487
+00:48:35,580 --> 00:48:37,580
+dann schaffst du die Körpereine,
+
+488
+00:48:37,580 --> 00:48:39,580
+und dann schaffst du die Körpereine,
+
+489
+00:48:39,580 --> 00:48:41,580
+und dann schaffst du sie.
+
+490
+00:48:41,580 --> 00:48:43,580
+Wir sehen die Infarkte,
+
+491
+00:48:43,580 --> 00:48:45,580
+die zwei Stunden in CT-Ning haben.
+
+492
+00:48:45,580 --> 00:48:47,580
+Ja, das sieht man.
+
+493
+00:48:47,580 --> 00:48:49,580
+Manchmal sieht man es,
+
+494
+00:48:49,580 --> 00:48:51,580
+wenn du eine Stunde in CT-Ning hast.
+
+495
+00:48:51,580 --> 00:48:53,580
+Wenn du es siehst,
+
+496
+00:48:53,580 --> 00:48:55,580
+dann schaffst du die Körpereine nicht.
+
+497
+00:48:55,580 --> 00:48:57,580
+Denn das ist etwas,
+
+498
+00:48:57,580 --> 00:48:59,580
+das Zeitverlustig ist.
+
+499
+00:48:59,580 --> 00:49:01,580
+Du hast alles normal im CT-Ning gesehen,
+
+500
+00:49:01,580 --> 00:49:03,580
+aber du hast nichts gesehen,
+
+501
+00:49:03,580 --> 00:49:05,580
+und wenn du ein SVO-Ning hast,
+
+502
+00:49:05,580 --> 00:49:07,580
+dann musst du den MRT-Ning schicken.
+
+503
+00:49:07,580 --> 00:49:09,580
+Dann musst du ein SVO-Ning schicken,
+
+504
+00:49:09,580 --> 00:49:11,580
+aber du hast nichts gesehen,
+
+505
+00:49:11,580 --> 00:49:13,580
+denn du hast nichts gesehen,
+
+506
+00:49:13,580 --> 00:49:15,580
+denn du hast nichts gesehen,
+
+507
+00:49:15,580 --> 00:49:17,580
+denn du hast nichts gesehen,
+
+508
+00:49:17,580 --> 00:49:19,580
+dass die Infarkte in einen
+
+509
+00:49:19,580 --> 00:49:21,580
+neuen Schalzkopf herangehören,
+
+510
+00:49:21,580 --> 00:49:23,580
+und wir müssen die Infarkte kennen.
+
+511
+00:49:23,580 --> 00:49:25,580
+Die normale MRT-Ning
+
+512
+00:49:25,580 --> 00:49:27,580
+ist nur für die Graustörungen.
+
+513
+00:49:27,580 --> 00:49:29,580
+Wir haben das auch in der CT-Ning gesehen.
+
+514
+00:49:29,580 --> 00:49:31,580
+Wir haben das auch in der CT-Ning gesehen.
+
+515
+00:49:31,580 --> 00:49:38,580
+Wenn wir es in der CT-Methode sehen, ist es sicherlich wichtig, dass du den Kontrast in der CT-Methode verwendest.
+
+516
+00:49:38,580 --> 00:49:42,580
+Wenn du die CT-Methode aufstehen kannst, hast du die ganze Zeit in 10 Minuten gesehen.
+
+517
+00:49:42,580 --> 00:49:46,580
+Wenn du es in der Tümer oder in der Kanama hast, hast du die ganze Zeit gesehen.
+
+518
+00:49:46,580 --> 00:49:49,580
+Wenn du es nicht finden kannst, dann schiebst du die MRT.
+
+519
+00:49:49,580 --> 00:49:53,580
+In der MRT wird nur die Diffusion-Beschleitung verwendet.
+
+520
+00:50:54,580 --> 00:50:58,580
+Wenn du eine Allergie hast, kannst du dir sagen, dass du ein Schmerzstück hast.
+
+521
+00:50:58,580 --> 00:51:03,580
+Denn wenn du eine Allergie hast, kannst du dir sagen, dass du ein Schmerzstück hast.
+
+522
+00:51:03,580 --> 00:51:06,580
+Obwohl du die Diffusion-Beschleitung verwendest.
+
+523
+00:51:06,580 --> 00:51:10,580
+Denn in einigen Situationen kann auch die Todesstärke verursacht werden.
+
+524
+00:51:10,580 --> 00:51:15,580
+Im Alternativen ist die MRT mit Kontrast-Bital.
+
+525
+00:51:15,580 --> 00:51:18,580
+Die Kontrast-Bital der MRT ist anders.
+
+526
+00:51:19,580 --> 00:51:22,580
+Also ist die Allergie der CT-Methode anders?
+
+527
+00:51:22,580 --> 00:51:26,580
+Die Kontrast-Bital der beiden ist anders.
+
+528
+00:51:26,580 --> 00:51:30,580
+Aber der Patient weiß nicht, was die Allergie ist.
+
+529
+00:51:30,580 --> 00:51:35,580
+Aber die CT-Methode hat eine Allergie und die MRT hat eine Allergie.
+
+530
+00:51:35,580 --> 00:51:37,580
+Die beiden sind anders.
+
+531
+00:51:37,580 --> 00:51:40,580
+Eine hat ein kleines Partikel, die wie ein Schmerzstück ist.
+
+532
+00:51:40,580 --> 00:51:43,580
+Die andere hat eine radioaktive Partikel.
+
+533
+00:51:43,580 --> 00:51:50,580
+Die beiden haben eine andere Kontrast-Bital.
+
+534
+00:51:50,580 --> 00:52:01,460
+Also kann die Kontrast-Bital der CT-Methode die MRT und die CT-Methode der MRT beurteilen.
+
+535
+00:52:01,460 --> 00:52:06,460
+Die Kontrast-Bital der CT-Methode kann nicht beurteilt werden.
+
+536
+00:52:06,460 --> 00:52:12,460
+Die Kontrast-Bital kann besonders die Allergie, die der Herz oder der Solnung aufstehen.
+
+537
+00:52:12,460 --> 00:52:15,460
+Die Allergie ist ein Problem.
+
+538
+00:52:15,460 --> 00:52:20,460
+Die Personel hat eine Allergie, die sich mit der Kontrast-Bital beurteilt.
+
+539
+00:52:20,460 --> 00:52:23,460
+Die Kontrast-Bital wurde in die Maschine gesetzt.
+
+540
+00:52:23,460 --> 00:52:25,460
+Die Kamera war nicht da.
+
+541
+00:52:25,460 --> 00:52:28,460
+Die Person hat dann die Allergie ausgesucht.
+
+542
+00:52:28,460 --> 00:52:31,460
+Die Allergie war 20 Minuten lang.
+
+543
+00:52:31,460 --> 00:52:33,460
+Hat der Patient die Allergie beurteilt?
+
+544
+00:52:33,460 --> 00:52:36,460
+Ja, er hat die Allergie beurteilt.
+
+545
+00:52:36,460 --> 00:52:39,460
+Aber die Person hat die Allergie ausgesucht.
+
+546
+00:53:09,460 --> 00:53:12,460
+Was ist mit der Kontrast-Bital?
+
+547
+00:53:12,460 --> 00:53:15,460
+Ist das eine Kontrast-Bital?
+
+548
+00:53:15,460 --> 00:53:21,460
+Wir haben nicht die Tomografie, sondern den Ultraschall.
+
+549
+00:53:21,460 --> 00:53:23,460
+Wir haben dann den Synthes.
+
+550
+00:53:23,460 --> 00:53:26,460
+Wir geben den Synthes mit radioaktivem Iod.
+
+551
+00:53:26,460 --> 00:53:33,460
+Wir kontrollieren die Kontrast-Bital.
+
+552
+00:53:33,460 --> 00:53:35,460
+Und wir kontrollieren die Kontrast-Bital.
+
+553
+00:53:35,460 --> 00:53:39,460
+Die Kontrast-Bital kann nicht beurteilt werden.
+
+554
+00:53:39,460 --> 00:53:43,460
+Wo gibt es diese Kontrast-Bital?
+
+555
+00:53:43,460 --> 00:53:51,460
+Die Kontrast-Bital wird nur für die Einrichtung der Synthes.
+
+556
+00:53:51,460 --> 00:53:54,460
+Ist das keine Kontrast-Bital?
+
+557
+00:53:54,460 --> 00:53:56,460
+Nein, das ist keine Kontrast-Bital.
+
+558
+00:53:56,460 --> 00:53:59,460
+Kontrast-Bital ist eine Kontrast-Bital.
+
+559
+00:53:59,460 --> 00:54:03,460
+Die Kontrast-Bital ist für die Synthes.
+
+560
+00:54:33,460 --> 00:54:37,460
+dass die Tübel nicht nekroziert werden.
+
+561
+00:54:37,460 --> 00:54:43,190
+Wir trinken nur, damit es den Tübeln nicht verletzt.
+
+562
+00:54:43,190 --> 00:54:46,190
+Aber wenn man es trinken würde,
+
+563
+00:54:46,190 --> 00:54:49,190
+dann kann man es nicht verhindern.
+
+564
+00:54:49,190 --> 00:54:52,190
+Die persönlichen Tatsachen können anders sein.
+
+565
+00:54:52,190 --> 00:54:55,190
+Manchmal trinkt man auch keine Wasser.

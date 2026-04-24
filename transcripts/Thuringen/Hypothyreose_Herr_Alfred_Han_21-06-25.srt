@@ -1,0 +1,1191 @@
+1
+00:00:02,380 --> 00:00:13,380
+Schönen guten Abend, mein Name ist Ucak. Ich bin auf dieser Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Analysegespräch durchführen. Sind Sie damit einverstanden?
+
+2
+00:00:13,380 --> 00:00:15,380
+Ja, natürlich Doktor.
+
+3
+00:00:15,380 --> 00:00:19,380
+Danke. Bitte fragen Sie nach, wenn Sie etwas nicht verstehen, okay?
+
+4
+00:00:19,380 --> 00:00:20,380
+Okay.
+
+5
+00:00:20,380 --> 00:00:22,380
+Wie heißen Sie denn?
+
+6
+00:00:22,380 --> 00:00:27,330
+Ich bin Alfred Han.
+
+7
+00:00:27,330 --> 00:00:31,330
+Können Sie bitte Ihren Vornachnamen langsam mustibieren?
+
+8
+00:00:31,330 --> 00:00:37,960
+H-L-F-R-I-D Alfred
+
+9
+00:00:37,960 --> 00:00:38,960
+Ja?
+
+10
+00:00:38,960 --> 00:00:42,960
+H-A-H-N Han
+
+11
+00:00:42,960 --> 00:00:44,960
+Doppel A, ja?
+
+12
+00:00:44,960 --> 00:00:46,960
+Nein, nein.
+
+13
+00:00:46,960 --> 00:00:47,960
+Doppel N?
+
+14
+00:00:47,960 --> 00:00:51,960
+Nein. H-A-H-N
+
+15
+00:00:51,960 --> 00:00:55,960
+Okay, Han. Herr Han, wie alt sind Sie?
+
+16
+00:00:55,960 --> 00:00:59,960
+Ich bin 46.
+
+17
+00:00:59,960 --> 00:01:02,960
+Wann sind Sie genau geboren?
+
+18
+00:01:02,960 --> 00:01:07,960
+18.09.1979
+
+19
+00:01:07,960 --> 00:01:10,960
+Wie groß sind Sie?
+
+20
+00:01:10,960 --> 00:01:14,960
+Ich bin 1,85 Meter.
+
+21
+00:01:14,960 --> 00:01:17,960
+Und wie schwer sind Sie zuzeit?
+
+22
+00:01:17,960 --> 00:01:20,960
+Ich bin 95 Kilogramm, Doktor.
+
+23
+00:01:20,960 --> 00:01:27,960
+Okay, danke für die Informationen, Herr Han. Was kann ich für Sie tun? Was für Beschwerden haben Sie zuzeit?
+
+24
+00:01:27,960 --> 00:01:39,960
+Doktor, etwa drei Monate fühle ich mich zu einem Atreiblos.
+
+25
+00:01:39,960 --> 00:01:49,450
+Ich bin total erschöpft und habe keine Lust, Doktor.
+
+26
+00:01:49,450 --> 00:01:53,450
+Herr Han, haben Sie ähnliche Beschwerden früher gehabt?
+
+27
+00:01:53,450 --> 00:01:56,450
+Ich habe nicht bemerkt, Doktor.
+
+28
+00:01:56,450 --> 00:02:02,450
+Also gibt es einen bestimmten Auslöser für diese Beschwerden, haben Sie bemerkt?
+
+29
+00:02:02,450 --> 00:02:09,450
+Nein, ich habe weniger Energie als früher.
+
+30
+00:02:09,450 --> 00:02:17,450
+Ich fühle mich und meine Leistungsfähigkeit hat deutlich nachgelassen.
+
+31
+00:02:17,450 --> 00:02:24,480
+Okay.
+
+32
+00:02:25,480 --> 00:02:36,480
+Letzte Woche hat meine Kollegin mich eingeladen.
+
+33
+00:02:36,480 --> 00:02:40,480
+Es war eine Geburtstag-Party.
+
+34
+00:02:40,480 --> 00:02:46,480
+Ich habe gegangen, aber ich hatte keine Lust.
+
+35
+00:02:46,480 --> 00:02:54,480
+Ich habe nicht getanzen oder etwas zu tun.
+
+36
+00:02:54,480 --> 00:03:02,480
+Herr Han, ich glaube Sie fühlen sich ein bisschen deprimiert seit drei Monaten.
+
+37
+00:03:02,480 --> 00:03:09,480
+Also darf ich fragen, haben Sie Selbstmordgedanken?
+
+38
+00:03:09,480 --> 00:03:13,480
+Ja, ich habe keine Ahnung, Doktor.
+
+39
+00:03:13,480 --> 00:03:16,480
+Haben Sie eine Depression oder?
+
+40
+00:03:16,480 --> 00:03:23,480
+Herr Han, es ist zu früh etwas genau zu sagen, aber Sie haben ein bisschen Symptome.
+
+41
+00:03:23,480 --> 00:03:27,480
+Und diese Symptome sind ein bisschen deprimierte Symptome.
+
+42
+00:03:27,480 --> 00:03:31,480
+Deswegen habe ich diese Frage gestellt.
+
+43
+00:03:31,480 --> 00:03:36,480
+Ja Doktor, aber ich habe viele andere Beschwerden, Doktor.
+
+44
+00:03:36,480 --> 00:03:44,480
+Okay. Herr Han, haben Sie noch irgendwelche anderen Beschwerden, Begleitsymptomen bemerkt?
+
+45
+00:03:44,480 --> 00:03:48,480
+Ja, ich habe viele Symptome.
+
+46
+00:03:48,480 --> 00:03:55,480
+Zum Beispiel meine Handflaschen sind oft kalt und trocken.
+
+47
+00:03:55,480 --> 00:03:58,480
+Mein Gesicht wird geschwollen.
+
+48
+00:03:58,480 --> 00:04:05,690
+Ich vertrage kalte Schlechte als früher.
+
+49
+00:04:05,690 --> 00:04:09,690
+Mein Herzschlag ist langsamer geworden.
+
+50
+00:04:09,690 --> 00:04:14,690
+Und ich habe das Gefühl, mich schlechter kontanzieren zu können.
+
+51
+00:04:14,690 --> 00:04:27,640
+Okay. Herr Han, haben Sie irgendwelche andere hart Veränderungen bemerkt?
+
+52
+00:04:27,640 --> 00:04:35,640
+Wie zum Beispiel Haar- oder Nägelveränderungen?
+
+53
+00:04:35,640 --> 00:04:40,640
+Ja Doktor, Sie haben recht.
+
+54
+00:04:40,640 --> 00:04:48,640
+Ich verliere Haare und meine Fingernagel sind brüchig.
+
+55
+00:04:48,640 --> 00:05:01,120
+Okay. Und wie ist Ihr Appetit?
+
+56
+00:05:01,120 --> 00:05:08,120
+Ja, mein Appetit ist gut.
+
+57
+00:05:08,120 --> 00:05:12,120
+Haben Sie in der letzten Zeit unwirkürlich ab- oder zugenommen?
+
+58
+00:05:12,120 --> 00:05:18,120
+Ja, in den letzten drei Monaten habe ich etwa 4 kg Zugenommen, Doktor.
+
+59
+00:05:18,120 --> 00:05:25,830
+Okay. Herr Han, leiden Sie unter Heißigkeit?
+
+60
+00:05:25,830 --> 00:05:27,830
+Ja, ja.
+
+61
+00:05:27,830 --> 00:05:33,720
+Und haben Sie eine Halsvergrößerung bemerkt?
+
+62
+00:05:33,720 --> 00:05:39,720
+Können Sie bitte wiederholen? Ich habe nicht bemerkt.
+
+63
+00:05:39,720 --> 00:05:41,720
+Halsvergrößerung haben Sie bemerkt?
+
+64
+00:05:41,720 --> 00:05:44,720
+Ja, ich habe nicht bemerkt, Doktor. Nein.
+
+65
+00:05:44,720 --> 00:05:58,740
+Okay. Ist alles in Ordnung mit dem Stuhlgang? Haben Sie Probleme mit dem Stuhlgang? Wie zum Beispiel Verstopfung oder Duschfall?
+
+66
+00:05:58,740 --> 00:06:02,740
+Ich habe Verstopfung, ja. Ich habe Verstopfung.
+
+67
+00:06:02,740 --> 00:06:10,740
+Ich möchte immer ganz lang schlafen, Doktor. Ich bin tagsüber oft schläfrig, ja.
+
+68
+00:06:10,740 --> 00:06:22,700
+In der Arbeit möchte ich nicht etwas tun, Doktor.
+
+69
+00:06:22,700 --> 00:06:26,700
+Ich habe Konzentrationprobleme, ja auch.
+
+70
+00:06:26,700 --> 00:06:32,700
+Ich verstehe Sie sehr gut. Herr Han, also machen Sie sich bitte keine Sorgen.
+
+71
+00:06:32,700 --> 00:06:39,700
+Herr Han, aber Sie sind jetzt im Krankenhaus. Sie haben eine gute Entscheidung getroffen, hierher zu kommen.
+
+72
+00:06:39,700 --> 00:06:47,700
+Also wir werden alles für Sie tun, damit Sie wieder gesund werden, okay?
+
+73
+00:06:47,700 --> 00:06:51,700
+Okay, Doktor. Hoffentlich doch. Aber ich habe viel Angst.
+
+74
+00:06:51,700 --> 00:06:59,700
+Ja, ich verstehe sehr gut. Aber wie gesagt, machen Sie sich bitte keine Sorgen. Sie sind bei uns in guten Händen, Herr Han. Ja?
+
+75
+00:06:59,700 --> 00:07:00,700
+Okay, danke.
+
+76
+00:07:00,700 --> 00:07:04,700
+Okay, also ist Ihnen übel oder mussten Sie erbrechen?
+
+77
+00:07:04,700 --> 00:07:07,700
+Ich habe nicht bemerkt, Doktor.
+
+78
+00:07:07,700 --> 00:07:13,390
+Okay, leiden Sie unter Husten oder Luftnot?
+
+79
+00:07:13,390 --> 00:07:17,770
+Husten, Luftnot, nein.
+
+80
+00:07:17,770 --> 00:07:24,060
+Schlafen Sie gut?
+
+81
+00:07:24,060 --> 00:07:30,060
+Ja, ich möchte immer schlafen, Doktor. Ganz schläfrig.
+
+82
+00:07:30,060 --> 00:07:32,060
+Auch in der Nacht, ja?
+
+83
+00:07:32,060 --> 00:07:35,060
+Ja, auch in der Nacht und ganz stark, ja.
+
+84
+00:07:35,060 --> 00:07:40,060
+Okay. Haben Sie Probleme beim Wasserlassen?
+
+85
+00:07:40,060 --> 00:07:45,060
+Ich habe keine Probleme mit Wasserlassen, Doktor.
+
+86
+00:07:45,060 --> 00:07:52,060
+Okay. Sind Sie schon vollständig gegen Kinderkrankheiten und Covid-Infektionen geimpft?
+
+87
+00:07:52,060 --> 00:07:56,060
+Ja, ja. Ich habe vollständig geimpft, ja.
+
+88
+00:07:56,060 --> 00:08:12,460
+Okay. Herr Han, leiden Sie an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Bluthochdruck, Zuckerkrankheit oder Schilddrüsse, Funktionprobleme?
+
+89
+00:08:12,460 --> 00:08:20,460
+Ja, ich leide seit langem unter einem Schlafabnehsindrom, ja, Doktor.
+
+90
+00:08:20,460 --> 00:08:23,460
+Seit wann leiden Sie an Schlafabnehsindrom?
+
+91
+00:08:23,460 --> 00:08:28,460
+Ja, seit 10 Jahren.
+
+92
+00:08:28,460 --> 00:08:36,900
+Und was nehmen Sie da hin? Benützen Sie eine Maske oder nehmen Sie ein Medikament ein?
+
+93
+00:08:36,900 --> 00:08:42,900
+Ja, ich war außerdem in SPAP-Therapie.
+
+94
+00:08:42,900 --> 00:08:48,400
+Okay. Sie benutzen eine Maske regelmäßig, ja?
+
+95
+00:08:48,400 --> 00:08:50,400
+Ja, ja. Richtig.
+
+96
+00:08:50,400 --> 00:08:51,400
+Okay.
+
+97
+00:08:51,400 --> 00:08:54,400
+Vermutlich aufgrund von Nasalpolyphen, Doktor. Ich denke.
+
+98
+00:08:54,400 --> 00:08:59,800
+Sonst noch etwas?
+
+99
+00:08:59,800 --> 00:09:09,800
+Ja, außerdem habe ich etwa ein Jahr beidseitige Spannungskopfschmerzen sowie chronische Nackenschmerzen.
+
+100
+00:09:09,800 --> 00:09:21,870
+Nehmen Sie gegen diese Schmerzen ein Medikament ein?
+
+101
+00:09:21,870 --> 00:09:27,870
+Ja, ich nehme bei Bedarf Aspirin 15 Milligramm.
+
+102
+00:09:27,870 --> 00:09:31,280
+500 Milligramm, ja?
+
+103
+00:09:31,280 --> 00:09:33,280
+Ja, 500 Milligramm.
+
+104
+00:09:33,280 --> 00:09:35,280
+Und wie oft nehmen Sie ein?
+
+105
+00:09:35,280 --> 00:09:39,280
+Bei Bedarf einmal täglich oder zweimal.
+
+106
+00:09:39,280 --> 00:09:54,280
+Okay. Also Herr Hahn, wurde bei Ihnen eine bestimmte Diagnose festgestellt, wie zum Beispiel Migräne oder?
+
+107
+00:09:54,280 --> 00:09:58,280
+Nein, Doktor. Ich habe keine Ahnung.
+
+108
+00:09:58,280 --> 00:10:08,280
+Ich habe meinen Hausarzt gesagt, aber er hat mir gesagt, dass alles in Ordnung ist.
+
+109
+00:10:08,280 --> 00:10:10,280
+Okay, alles klar.
+
+110
+00:10:10,280 --> 00:10:14,280
+Herr Hahn, wer ist Ihr Hausarzt oder Ihre Hausärztin? Darf ich fragen?
+
+111
+00:10:14,280 --> 00:10:18,280
+Mein Hausarzt ist Herr Schimid.
+
+112
+00:10:18,280 --> 00:10:24,040
+Okay, ich werde Ihren Hausarzt kontaktieren, okay?
+
+113
+00:10:24,040 --> 00:10:25,040
+Okay.
+
+114
+00:10:25,040 --> 00:10:26,040
+Mit diesen Details, ich meine.
+
+115
+00:10:26,040 --> 00:10:27,040
+Okay, okay.
+
+116
+00:10:27,040 --> 00:10:31,040
+Sonst noch etwas? Haben Sie irgendwelche anderen Erkrankungen?
+
+117
+00:10:31,040 --> 00:10:45,820
+Ja, seit vier Jahren habe ich ein Exem auf der Kopfhaut, ja, als das als Szeborajs Dermatitis diagnostiziert wurde.
+
+118
+00:10:45,820 --> 00:10:49,820
+In welchem Bereich? Am Kopf?
+
+119
+00:10:49,820 --> 00:10:51,820
+Ja, ganz Kopf.
+
+120
+00:10:51,820 --> 00:10:57,820
+Okay, überall. Und benutzen Sie dagegen ein Medikament?
+
+121
+00:10:57,820 --> 00:11:13,040
+Ja, Doktor. Ich benutze Ketazol in Shampoo. Zwei oder dreimal pro Woche.
+
+122
+00:11:13,040 --> 00:11:17,040
+Okay. Das war es, oder? Herr Hahn?
+
+123
+00:11:17,040 --> 00:11:19,040
+Ja, das war es.
+
+124
+00:11:19,040 --> 00:11:25,040
+Nehmen Sie regelmäßig oder bei Bedarf irgendwelche anderen Medikamente, außer genannten, ein?
+
+125
+00:11:25,040 --> 00:11:31,040
+Ja, ich nehme regelmäßig Laktulose-Schrauben gegen Verstopfung, ja.
+
+126
+00:11:31,040 --> 00:11:45,980
+Okay. Herr Hahn, seit wann leiden Sie unter Verstopfung?
+
+127
+00:11:45,980 --> 00:11:55,980
+Ich verstehe nicht jetzt. Ungefähr zehn oder zwölf Jahre, ja. Ich habe keine Ahnung.
+
+128
+00:11:55,980 --> 00:12:00,980
+Okay, alles klar. Sind Sie schon einmal operiert worden?
+
+129
+00:12:00,980 --> 00:12:10,980
+Ja, 2012 wurde ich wegen einer Skapeut Bruch in der rechten Hand operiert.
+
+130
+00:12:10,980 --> 00:12:19,010
+Hat Sie einen Unfall, oder?
+
+131
+00:12:19,010 --> 00:12:21,010
+Ja, ja, einen Fahrradunfall.
+
+132
+00:12:21,010 --> 00:12:26,280
+Ja, sonst noch etwas?
+
+133
+00:12:26,280 --> 00:12:35,280
+Ja, und 2015 erfolgte ein Eingriff an der Trennensache.
+
+134
+00:12:35,280 --> 00:12:44,330
+Beidseitig, oder? Welche Seite meinen Sie?
+
+135
+00:12:44,330 --> 00:12:53,330
+Ja, ja, beidseitig, ja. Ich habe keine Ahnung, was bei mir passiert ist.
+
+136
+00:12:53,330 --> 00:12:55,330
+Das war eine Operation, richtig?
+
+137
+00:12:55,330 --> 00:13:00,330
+Ja, das war eine Operation, aber ich habe keine Ahnung.
+
+138
+00:13:00,330 --> 00:13:04,330
+Okay, alles klar. Noch? Sonst etwas, oder?
+
+139
+00:13:04,330 --> 00:13:06,330
+Ja, das war es.
+
+140
+00:13:06,330 --> 00:13:14,330
+Okay. Herr Hahn, sind Sie allergisch gegen irgendwelche Medikamente, Pflanzen oder Nahrungsmittel?
+
+141
+00:13:14,330 --> 00:13:18,330
+Ja, ich habe eine Allergie gegen Pferdhaare.
+
+142
+00:13:18,330 --> 00:13:24,210
+Wie reagieren Sie darauf?
+
+143
+00:13:24,210 --> 00:13:33,210
+Das reagiert sich durch Hautausschlag und Yukrease in der Nase.
+
+144
+00:13:33,210 --> 00:13:44,100
+Okay. Und irgendwelche anderen Allergien oder Unfertigkeiten haben Sie?
+
+145
+00:13:44,100 --> 00:13:51,100
+Ja, auch auf die Klofenak reagiere ich mit einem Eczantem.
+
+146
+00:13:51,100 --> 00:13:56,860
+Okay. Herr Hahn, rauchen Sie?
+
+147
+00:13:56,860 --> 00:14:12,860
+Ja, ich rauche seit neun Jahren nicht mehr, aber davor habe ich ca. 20 Zigaretten täglich geraucht.
+
+148
+00:14:12,860 --> 00:14:15,860
+Wie lange haben Sie geraucht?
+
+149
+00:14:15,860 --> 00:14:19,860
+Ich habe zehn Jahre geraucht, ja.
+
+150
+00:14:19,860 --> 00:14:25,860
+Okay, Sie haben eine gute Entscheidung für Ihre Gesundheit getroffen.
+
+151
+00:14:25,860 --> 00:14:31,860
+Herr Hahn, ich gratuliere Ihnen. Trinken Sie regelmäßig Alkohol?
+
+152
+00:14:31,860 --> 00:14:35,860
+Ja, ich trinke täglich ein bis zwei Bier.
+
+153
+00:14:35,860 --> 00:14:44,640
+Okay. Bitte nehmen Sie die nächste Frage nicht persönlich, das ist eine Routinefrage.
+
+154
+00:14:44,640 --> 00:14:48,640
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+155
+00:14:48,640 --> 00:14:51,640
+Ja, Drogen habe ich nicht konsumiert, Doktor.
+
+156
+00:14:51,640 --> 00:15:04,640
+Das freut mich. Herr Hahn, leiden Ihre Eltern an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Schlaganfall, Bluthochdruck, Zuckerkrankheit?
+
+157
+00:15:04,640 --> 00:15:11,640
+Ja, Doktor, mein Vater hatte eine Nebenniereninsuffizienz.
+
+158
+00:15:11,640 --> 00:15:21,720
+Okay. Und Ihre Mutter?
+
+159
+00:15:21,720 --> 00:15:33,720
+Meine Mutter ist vor sechs Monaten an einem plötzlichen Herzstillstand infolge eines Myokardinfarkts verstorben, Doktor.
+
+160
+00:15:33,720 --> 00:15:38,380
+Mein Beileid, Herr Hahn.
+
+161
+00:15:38,380 --> 00:15:39,380
+Danke schön.
+
+162
+00:15:39,380 --> 00:15:41,380
+Haben Sie Geschwister?
+
+163
+00:15:41,380 --> 00:15:45,380
+Ja, ich habe einen Bruder.
+
+164
+00:15:45,380 --> 00:15:47,380
+Ist er gesund?
+
+165
+00:15:47,380 --> 00:16:01,040
+Nein, mein Bruder hat einen Kolonkarzinon. Er wurde mit Strahlentherapie behandelt.
+
+166
+00:16:01,040 --> 00:16:07,630
+Okay. Lebt Ihr Bruder noch?
+
+167
+00:16:07,630 --> 00:16:11,630
+Ja, ja, lebt er. Er lebt jetzt.
+
+168
+00:16:11,630 --> 00:16:20,630
+Okay. Und wie wurde Ihr Vater behandelt? Wissen Sie?
+
+169
+00:16:20,630 --> 00:16:28,630
+Ich habe keine Ahnung, Doktor. Vielleicht vor fünf Jahren, aber ich bin nicht sicher jetzt.
+
+170
+00:16:28,630 --> 00:16:32,630
+Alles klar. Wie ist Ihr Familienstand?
+
+171
+00:16:32,630 --> 00:16:36,630
+Ja, ich bin verheiratet.
+
+172
+00:16:36,630 --> 00:16:38,630
+Haben Sie Kinder?
+
+173
+00:16:38,630 --> 00:16:42,630
+Ja, ich habe einen Sohn.
+
+174
+00:16:42,630 --> 00:16:45,630
+Ist er gesund?
+
+175
+00:16:45,630 --> 00:16:51,630
+Ja, mein Sohn hat eine Gehilfeilbildung und ein Trakostomia.
+
+176
+00:16:51,630 --> 00:17:00,480
+Es tut mir leid, dass Sie hören.
+
+177
+00:17:00,480 --> 00:17:01,480
+Danke schön.
+
+178
+00:17:01,480 --> 00:17:07,480
+Herr Hahn, ja, okay. Was sind Sie von Beruf?
+
+179
+00:17:07,480 --> 00:17:18,480
+Ich arbeite vor Verfaltung in einer Viertelstelle.
+
+180
+00:17:18,480 --> 00:17:23,480
+Sind Sie Angestellter im Verwaltungsamt?
+
+181
+00:17:23,480 --> 00:17:26,480
+Ja, ja.
+
+182
+00:17:26,480 --> 00:17:35,140
+Mit wem wohnen Sie?
+
+183
+00:17:35,140 --> 00:17:44,110
+Ich wohne mit meiner Frau und meinem Sohn.
+
+184
+00:17:44,110 --> 00:17:51,520
+Okay. Ich bedanke mich, Herr Hahn. Das waren meine Fragen.
+
+185
+00:17:51,520 --> 00:17:55,520
+Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+186
+00:17:55,520 --> 00:18:02,520
+Ja, Doktor. Ich habe gesagt, ich habe viele Fragen.
+
+187
+00:18:02,520 --> 00:18:12,520
+Ich habe keine Lust. Ich bin total erschrocken. Ich möchte nicht etwas tun. Was habe ich?
+
+188
+00:18:12,520 --> 00:18:18,520
+Ich bin nicht Altermann.
+
+189
+00:18:18,520 --> 00:18:26,520
+Sie haben recht. Herr Hahn, Sie sind jetzt 46 Jahre alt. Aber manchmal kann es passieren.
+
+190
+00:18:26,520 --> 00:18:32,520
+Aber machen Sie sich bitte keine Sorgen. Es ist zu früh, etwas genau zu sagen.
+
+191
+00:18:32,520 --> 00:18:42,520
+Aber ich vermute, dass Sie an Schilddrüssen Funktionprobleme leiden.
+
+192
+00:18:42,520 --> 00:18:51,520
+Ich möchte Sie zuerst körperlich untersuchen. Dann nehme ich Ihnen Blut ab und veranleite ein paar Untersuchungen.
+
+193
+00:18:51,520 --> 00:18:58,520
+Sobald alle Ergebnisse da sind, werde ich Ihnen die Informationen mitteilen.
+
+194
+00:18:58,520 --> 00:19:07,520
+Okay. Danke schön. Bleibe ich im Krankenhaus oder kann ich nach Hause gehen?
+
+195
+00:19:07,520 --> 00:19:15,520
+Ein paar Stunden müssen Sie sicherlich bei uns bleiben, damit wir die Diagnose bestätigen können.
+
+196
+00:19:15,520 --> 00:19:24,520
+Aber wenn wir etwas Auffälliges finden, kann es auch passieren, dass Sie ein paar Tage im Krankenhaus bleiben sollen.
+
+197
+00:19:24,520 --> 00:19:29,520
+Okay, Doktor. Danke schön. Ich warte auf Sie. Danke schön.
+
+198
+00:19:29,520 --> 00:19:34,520
+Sehr gerne. Bitte nehmen Sie Platz im Wartezimmer. Ich bin gleich wieder da.
+
+199
+00:19:34,520 --> 00:19:47,170
+Danke schön. Schönen guten Abend Herr Oberarzt. Ich habe einen neuen Patienten aufgenommen und ich würde gerne über ihn berichten.
+
+200
+00:19:47,170 --> 00:19:51,170
+Haben Sie kurz Zeit für mich? Ja, bitte. Danke schön.
+
+201
+00:19:51,170 --> 00:20:02,170
+Herr Alfred Hahn ist 46 Jahre alt, 1,85 Meter groß und 95 Kilogramm schwer.
+
+202
+00:20:02,170 --> 00:20:21,480
+Herr Hahn stand sich heute bei uns wegen seit drei Monaten bestehender chronischer Fatigue, Asthenie und depressiver Verstimmung vor.
+
+203
+00:20:21,480 --> 00:20:48,210
+Der Patient berichtete über Leistungverminderung, Energielosigkeit und außerdem klagte er über getrockene Haut,
+
+204
+00:20:48,210 --> 00:21:06,210
+Gesichtodeen, Konzentrationsstörungen, Kälteintoleranz, Radikalie, Olopezie, Onychorexis und Dysphonie.
+
+205
+00:21:06,210 --> 00:21:25,210
+Als Begleitsymptome nannte er seit drei Monaten eine Gewichtsabnahme von vier Kilogramm innerhalb von drei Monaten.
+
+206
+00:21:25,210 --> 00:21:40,210
+Er erwähnte, dass er seit zwölf Jahren unter chronischer Observation leidet.
+
+207
+00:21:40,210 --> 00:21:55,350
+Die regitative Anamnese ist unauffällig. Er sei vollständig gegen Kinderkrankheiten und Covid-Infektionen geimpft.
+
+208
+00:21:55,350 --> 00:22:13,350
+An Vorerkrankungen nannte er seit zehn Jahren bestehender Obstruktiv Schlafapnesyndrom, seit einem Jahr bestehende Cephalgie und Nackenschmerzen,
+
+209
+00:22:13,350 --> 00:22:32,350
+seit vier Jahren bestehender Kopfexem, also seborriche Dermatitis, und der Patient nehme Aspirin 500 mg bei Bedarf gegen Cephalgie ein.
+
+210
+00:22:32,350 --> 00:22:47,350
+Er benutze eine Spapmaske gegen Obststichlafapnesyndrom und er benutze Ketasol-Shampoo zwei bis drei Mal pro Woche.
+
+211
+00:22:47,350 --> 00:22:59,660
+Er benutze Lactulose-Syrup bei Bedarf gegen Obstpation.
+
+212
+00:22:59,660 --> 00:23:17,660
+2012 habe er sich eine volle Fraktur beim Fahrradunfall zugezogen rechts, die operativ behandelt worden sei.
+
+213
+00:23:17,660 --> 00:23:35,260
+2015 wurde bei ihm eine Trennensackenoperation durchgeführt.
+
+214
+00:23:35,260 --> 00:23:47,820
+Er hatte Allergie gegen Pferdehaare, die sich durch Exanthem und Prythus in der Nase äußert.
+
+215
+00:23:47,820 --> 00:23:53,820
+Er hatte auch Diclofenac-Allergie, die sich durch Exanthem äußert.
+
+216
+00:23:53,820 --> 00:24:06,820
+Er sei Ex-Raucher. Davor habe er eine Schachtel Zigaretten täglich zehn Jahre lang geraucht.
+
+217
+00:24:06,820 --> 00:24:15,820
+Er trinke eins bis zwei Flaschen Bier täglich. Drogenkonsum wurde verneint.
+
+218
+00:24:15,820 --> 00:24:29,820
+In der Familienanamnese gab er an, dass die Mutter vor sechs Monaten an Myokatinfakt verstorben sei.
+
+219
+00:24:29,820 --> 00:24:38,820
+Der Vater leide an Adrenalinsuffizienz.
+
+220
+00:24:38,820 --> 00:24:49,140
+Er hatte einen Bruder, der an Kolonkarzinom leide.
+
+221
+00:24:49,140 --> 00:24:57,140
+Bei ihm wurde eine Radiotherapie durchgeführt.
+
+222
+00:24:58,140 --> 00:25:13,140
+Der Patient sei verheiratet, habe einen Sohn und der leide an Gehirnfeldbildung.
+
+223
+00:25:13,140 --> 00:25:30,540
+Er leistet die Fachbegriffe Lys Encephalie und wohnt mit seiner Familie zusammen.
+
+224
+00:25:30,540 --> 00:25:36,540
+Er sei Angestellter im Verwaltungsamt.
+
+225
+00:25:36,540 --> 00:25:48,540
+Ich gehe von einem Verdacht auf eine Hypotheriose aus, da der Patient typische Symptome dafür aufweist.
+
+226
+00:25:48,540 --> 00:26:05,540
+Der Patient leidet unter depressiven Symptomen, trockener Haut, Gesicht oder dem Lammin.
+
+227
+00:26:05,540 --> 00:26:14,540
+Die Symptome sprechen für eine Hypotheriose.
+
+228
+00:26:14,540 --> 00:26:25,540
+Als Differenzia-Diagnosen kommen, werden die Patienten nicht mehr in die Medizin.
+
+229
+00:26:25,540 --> 00:26:33,540
+Die Symptome sprechen für eine Hypotheriose.
+
+230
+00:26:33,540 --> 00:26:43,540
+Als Differenzia-Diagnosen kommen Depression und Anämie in Betracht.
+
+231
+00:26:43,540 --> 00:26:55,540
+Um meine Verdacht-Diagnose zu bestätigen, würde ich zunächst die Vitalparameter überwachen und eine körperliche Untersuchung durchführen.
+
+232
+00:26:55,540 --> 00:27:17,540
+Bei der körperlichen Untersuchung achte ich darauf, ob Haut-Negelveränderungen und Radikale vorhanden sind.
+
+233
+00:27:17,540 --> 00:27:33,540
+Zusätzlich ist eine Labouruntersuchung sinnvoll, um eine umfassende Diagnose zu gewährleisten.
+
+234
+00:27:33,540 --> 00:27:58,540
+Ich würde die Blutbilder von CAP, BSG, TSH, T3, T4, TPO, TG und TSH an die Leberwerte bestimmen lassen.
+
+235
+00:27:58,540 --> 00:28:08,540
+Danach würde ich eine Thyroidsynographie durchführen, um die möglichen Pathologien zu erkennen.
+
+236
+00:28:08,540 --> 00:28:23,540
+Ich würde eine Feinnahdelbiopsie durchführen, um ein Calcinom auszuschließen.
+
+237
+00:28:23,540 --> 00:28:33,540
+Sollte sich die Verdacht-Diagnose bestätigen, würde ich den Patienten stationär aufnehmen.
+
+238
+00:28:33,540 --> 00:28:43,540
+Ich würde einen Venösenzugang legen und eine Anmeldung aufnehmen.
+
+239
+00:28:43,540 --> 00:28:55,540
+Ich würde L-Trioxin verschreiben, um die medikamentäre Therapie des Patienten zu optimieren.
+
+240
+00:28:55,540 --> 00:29:07,540
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mich mit der Medikamentar-Therapie des Patienten ausführen.
+
+241
+00:29:07,540 --> 00:29:15,540
+Was beachten Sie im Körper?
+
+242
+00:29:15,540 --> 00:29:29,540
+Bei der körperlichen Untersuchung achte ich darauf, ob eine Schilddrüsevergrößerung der Medikamentar-Therapie der Patienten ausführt.
+
+243
+00:29:29,540 --> 00:29:39,540
+Ich würde auch die möglichen Knoten in der Schilddrüse beachten.
+
+244
+00:29:39,540 --> 00:29:47,540
+Danach würde ich die Haltveränderungen beobachten.
+
+245
+00:29:47,540 --> 00:29:55,540
+Diese Symptome sind sehr wichtig bei einer Hypothriose.
+
+246
+00:30:25,540 --> 00:30:45,540
+Sie haben recht, Herr Oberarzt. Die Anämie kommt auch als Differenzialdiagnose. Deswegen achte ich darauf, ob die Kalorien vorhanden sind.
+
+247
+00:30:46,540 --> 00:30:50,540
+Was erwarten Sie bei der Laborunterzuchtung?
+
+248
+00:30:50,540 --> 00:31:06,540
+Ja, also verminderte T3 und T4 Werte und erhöhte TSH-Werte.
+
+249
+00:31:06,540 --> 00:31:18,540
+Und wir können auch verminderte Hemoglobinwerte feststellen bei einer Anämie.
+
+250
+00:31:20,540 --> 00:31:27,040
+Wie kann man eine EKG schreiben?
+
+251
+00:31:27,040 --> 00:31:45,540
+Normalerweise leidet der Patient unter Pradiakardi. Deswegen sollen wir eine EKG schreiben, um die möglichen Herzkrankheiten auszuschließen.
+
+252
+00:31:45,540 --> 00:31:51,540
+Was erwarten Sie bei der TROY-Synthographie?
+
+253
+00:31:51,540 --> 00:32:02,010
+Ja, also Kleinerung der Schilddrüse können wir feststellen.
+
+254
+00:32:02,010 --> 00:32:13,320
+Wir können auch die Hormogenisation bei der Schilddrüse und mögliche Knoten feststellen.
+
+255
+00:32:13,320 --> 00:32:17,320
+Kalte Knoten oder heiße Knoten.
+
+256
+00:32:17,320 --> 00:32:22,320
+Können Sie uns die TROY-Synthographie aufklären?
+
+257
+00:32:22,320 --> 00:32:28,320
+Ja, gerne. Ich werde Sie über die TROY-Synthographie aufklären.
+
+258
+00:32:28,320 --> 00:32:37,320
+TROY-Synthographie ist eine radioaktive Untersuchung.
+
+259
+00:32:37,320 --> 00:32:52,320
+Diese Untersuchung hilft uns die Schilddrüsefunktionen oder besonders Knochenmetastasen genau zu erkennen.
+
+260
+00:32:52,320 --> 00:33:12,320
+Bei dieser Untersuchung verabreichen wir eine Schwäche und eine geringe radioaktive Mitteltechnosium 99.
+
+261
+00:33:12,320 --> 00:33:32,320
+Dann warten wir etwa 20 Minuten bis diese radioaktiven Stoffe in die Schilddrüse gekommen sind.
+
+262
+00:33:32,320 --> 00:33:41,320
+Danach machen wir Fotos mit einer Gammekamera.
+
+263
+00:33:41,320 --> 00:33:52,320
+Dabei können wir die kalten oder heißen Knoten genau feststellen.
+
+264
+00:33:52,320 --> 00:34:07,320
+Nach der Untersuchung soll der Patient viel Wasser trinken um die radioaktiven Stoffe schnell auszuscheiden.
+
+265
+00:34:07,320 --> 00:34:17,320
+Dafür benötigt der Patient keine spezielle Vorbereitung.
+
+266
+00:34:17,320 --> 00:34:26,320
+Nur soll der Patient sechs Stunden vor der Untersuchung nüchtern sein.
+
+267
+00:34:26,320 --> 00:34:36,320
+Nach der Untersuchung gibt es keine Anschränkungen und der Patient kann nach Hause gehen.
+
+268
+00:34:36,320 --> 00:34:41,320
+Würden Sie in diesem Fall eine Patsy durchführen?
+
+269
+00:34:41,320 --> 00:34:59,320
+Wenn es eine kalte Knoten gibt und nach einer Fein-Nadel-Biopsie, wenn wir ein Thyroid-Kazinom diagnostizieren,
+
+270
+00:34:59,320 --> 00:35:08,320
+dann können wir eine Patsy durchführen um die mögliche Metastase genau zu beurteilen.
+
+271
+00:35:08,320 --> 00:35:16,200
+Würden Sie in diesem Fall eine Patsy durchführen?
+
+272
+00:35:16,200 --> 00:35:33,200
+Eine Patsy können wir durchführen um die möglichen Befunde im Mediastinum genau zu beurteilen.
+
+273
+00:35:33,200 --> 00:35:36,200
+Welche möglichen Befunde?
+
+274
+00:35:36,200 --> 00:35:52,200
+Das ist ein Hypothriose-Fall. Normalerweise warten wir auf eine vergrößerte Schilddrüse.
+
+275
+00:35:52,200 --> 00:36:00,200
+Normalerweise warten wir auf ein Hypothriose-Fall.
+
+276
+00:36:00,200 --> 00:36:12,980
+Also eine retroshtanale Vergrößerte Schilddrüse. Aber dieser Fall ist ein Hypothriose-Fall.
+
+277
+00:36:12,980 --> 00:36:21,980
+Würden Sie in diesem Fall eine Bein-Untersuchung durchführen?
+
+278
+00:36:21,980 --> 00:36:26,980
+Auf jeden Fall sollen wir eine Bein-Untersuchung durchführen.
+
+279
+00:36:26,980 --> 00:36:36,980
+Ich habe schon diese Frage nicht gestellt, aber das ist sehr wichtig bei einem Hypothriose-Fall.
+
+280
+00:36:36,980 --> 00:36:41,980
+Auf jeden Fall sollen wir diese Frage stellen.
+
+281
+00:36:41,980 --> 00:36:48,100
+Welche Krankheiten verursacht eine Bein-Udeme?
+
+282
+00:36:48,100 --> 00:36:58,100
+Bei der Herzinsuffizienz können wir eine Bein-Udeme feststellen.
+
+283
+00:36:58,100 --> 00:37:04,100
+Bei der TvT können wir auch eine Bein-Udeme verursachen.
+
+284
+00:37:04,100 --> 00:37:09,100
+Auch RZP-L kann eine Bein-Udeme verursachen.
+
+285
+00:37:09,100 --> 00:37:19,210
+Und ein Hypothriose-Fall kann auch eine Bein-Udeme verursachen.
+
+286
+00:37:19,210 --> 00:37:23,210
+Auch Nierenwinseffizienz.
+
+287
+00:37:23,210 --> 00:37:25,210
+Nierenwinseffizienz, ja, Sie haben recht.
+
+288
+00:37:25,210 --> 00:37:32,210
+Würden Sie in diesem Fall eine Eschokardiografie machen?
+
+289
+00:37:32,210 --> 00:37:36,210
+Der Patient leidet unter Bradycardi.
+
+290
+00:37:36,210 --> 00:37:45,210
+Wir können eine Eschokardiografie durchführen, um die möglichen Herzkrankheiten auszuschließen.
+
+291
+00:37:45,210 --> 00:37:51,210
+Das kann sinnvoll sein, um eine Eschokardiografie durchzuführen.
+
+292
+00:37:51,210 --> 00:37:58,210
+Was würden Sie bei dem Patienten verschreiben?
+
+293
+00:37:58,210 --> 00:38:06,210
+Ich würde Ertrioxin als Medikament für die Therapie verschreiben.
+
+294
+00:38:06,210 --> 00:38:13,210
+Der Patient soll dieses Medikament regelmäßig einnehmen.
+
+295
+00:38:13,210 --> 00:38:18,940
+Das ist sehr wichtig bei den Patienten.
+
+296
+00:38:18,940 --> 00:38:24,940
+Okay, Herr Kollege, bitte gehen Sie auf unseren Info-Disc und nehmen Sie Ihr Zertifikat.
+
+297
+00:38:24,940 --> 00:38:28,940
+Ich wünsche Ihnen viel Erfolg und viel Arbeitsweg.
+
+298
+00:38:28,940 --> 00:38:36,940
+Vielen Dank, Herr Oberst, sehr nett. Danke für diese schöne neue Information.
