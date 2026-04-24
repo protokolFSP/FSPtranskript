@@ -10,6 +10,11 @@ on:
         required: true
         default: "sprunggelenk-distorsion-frau-florin-krone-27-05-25_20250726"
         type: string
+      source_name:
+        description: "Kaynak adı (tek-kaynak manuel kullanım için, örn: Thuringen)"
+        required: false
+        default: "Thuringen"
+        type: string
       out_dir:
         description: "Çıktı klasörü (tek-kaynak manuel kullanım için, örn: transcripts/Thuringen)"
         required: true
@@ -41,7 +46,7 @@ on:
         default: "de"
         type: string
       sources_json:
-        description: 'Opsiyonel çoklu kaynak listesi JSON. Örnek: [{"identifier":"FSPneu","out_dir":"transcripts/FSPab26","match":"","model":"medium","language":"de"},{"identifier":"abc","out_dir":"transcripts/X","match":"teil","model":"small","language":"de"}]'
+        description: 'Opsiyonel çoklu kaynak listesi JSON. Örnek: [{"identifier":"FSPneu","source_name":"FSPab26","out_dir":"transcripts/FSPab26","match":"","model":"medium","language":"de"},{"identifier":"abc","source_name":"X","out_dir":"transcripts/X","match":"teil","model":"small","language":"de"}]'
         required: false
         default: ""
         type: string
@@ -64,6 +69,7 @@ env:
     [
       {
         "identifier": "sprunggelenk-distorsion-frau-florin-krone-27-05-25_20250726",
+        "source_name": "Thuringen",
         "out_dir": "transcripts/Thuringen",
         "match": "",
         "model": "medium",
@@ -326,6 +332,7 @@ jobs:
         name: Pick next missing files across all sources
         env:
           INPUT_IA_IDENTIFIER: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.ia_identifier || '' }}
+          INPUT_SOURCE_NAME: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.source_name || '' }}
           INPUT_OUT_DIR: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.out_dir || '' }}
           INPUT_BATCH_SIZE: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.batch_size || '' }}
           INPUT_MAX_PARALLEL: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.max_parallel || '' }}
@@ -358,8 +365,11 @@ jobs:
               batch_size = int(as_str(os.environ.get("INPUT_BATCH_SIZE"), os.environ["DEFAULT_BATCH_SIZE"]))
               max_parallel = int(as_str(os.environ.get("INPUT_MAX_PARALLEL"), os.environ["DEFAULT_MAX_PARALLEL"]))
           elif event_name == "workflow_dispatch":
+              identifier = as_str(os.environ.get("INPUT_IA_IDENTIFIER"))
+              source_name = as_str(os.environ.get("INPUT_SOURCE_NAME"), identifier)
               sources = [{
-                  "identifier": as_str(os.environ.get("INPUT_IA_IDENTIFIER")),
+                  "identifier": identifier,
+                  "source_name": source_name or identifier,
                   "out_dir": as_str(os.environ.get("INPUT_OUT_DIR")),
                   "match": as_str(os.environ.get("INPUT_MATCH")),
                   "model": as_str(os.environ.get("INPUT_MODEL"), default_model),
@@ -375,6 +385,7 @@ jobs:
           normalized_sources = []
           for source in sources:
               identifier = as_str(source.get("identifier"))
+              source_name = as_str(source.get("source_name"), identifier)
               out_dir = as_str(source.get("out_dir"))
               match = as_str(source.get("match"))
               model = as_str(source.get("model"), default_model)
@@ -387,6 +398,7 @@ jobs:
 
               normalized_sources.append({
                   "identifier": identifier,
+                  "source_name": source_name or identifier,
                   "out_dir": out_dir,
                   "match": match,
                   "model": model,
@@ -413,6 +425,7 @@ jobs:
                   matrix.append({
                       "idx": idx,
                       "identifier": source["identifier"],
+                      "source_name": source["source_name"],
                       "out_dir": source["out_dir"],
                       "match": source["match"],
                       "model": source["model"],
@@ -477,6 +490,13 @@ jobs:
           python -m pip install -U pip
           pip install faster-whisper requests tqdm
 
+      - name: Show item
+        run: |
+          echo "Source: ${{ matrix.item.source_name }}"
+          echo "Identifier: ${{ matrix.item.identifier }}"
+          echo "Output: ${{ matrix.item.out_dir }}"
+          echo "File: ${{ matrix.item.file }}"
+
       - name: Transcribe one file
         env:
           IDENTIFIER: ${{ matrix.item.identifier }}
@@ -523,7 +543,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: transcripts-${{ matrix.item.idx }}
-          path: artifact_out/**
+          path: artifact_out
 
   merge_and_push:
     needs: [prepare, transcribe]
@@ -540,12 +560,61 @@ jobs:
 
       - name: Merge outputs into target folders
         run: |
+          set -euo pipefail
+
           find artifacts -type f \( -name "*.txt" -o -name "*.srt" \) | while read -r file; do
-            rel="${file#artifacts/*/artifact_out/}"
+            rel="$file"
+
+            if [[ "$file" == artifacts/*/artifact_out/* ]]; then
+              rel="${file#artifacts/*/artifact_out/}"
+            elif [[ "$file" == artifacts/*/transcripts/* ]]; then
+              rel="${file#artifacts/*/}"
+            else
+              echo "Skip: unexpected artifact path: $file"
+              continue
+            fi
+
             mkdir -p "$(dirname "$rel")"
+
+            if [[ "$(realpath "$file")" == "$(realpath -m "$rel")" ]]; then
+              echo "Skip same file: $file"
+              continue
+            fi
+
             cp -f "$file" "$rel"
             echo "Merged: $rel"
           done
+
+      - name: Build commit metadata
+        id: meta
+        run: |
+          set -euo pipefail
+
+          python - <<'PY' > commit_meta.txt
+          import json
+          import os
+
+          matrix = json.loads("""${{ needs.prepare.outputs.matrix }}""")
+          names = []
+          for item in matrix:
+              name = str(item.get("source_name") or item.get("identifier") or "").strip()
+              if name and name not in names:
+                  names.append(name)
+
+          if not names:
+              title = "flexible IA workflow"
+          elif len(names) == 1:
+              title = names[0]
+          elif len(names) <= 3:
+              title = ", ".join(names)
+          else:
+              title = f"{names[0]} +{len(names)-1} more"
+
+          print(title)
+          PY
+
+          title="$(cat commit_meta.txt)"
+          echo "title=$title" >> "$GITHUB_OUTPUT"
 
       - name: Commit and push
         run: |
@@ -570,6 +639,6 @@ jobs:
           }
 
           git add transcripts/
-          git commit -m "Add transcripts from flexible IA workflow" || exit 0
+          git commit -m "Add transcripts: ${{ steps.meta.outputs.title }}" || exit 0
           retry git pull --rebase
           retry git push
