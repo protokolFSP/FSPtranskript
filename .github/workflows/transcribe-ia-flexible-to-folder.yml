@@ -1,0 +1,575 @@
+# file: .github/workflows/transcribe-ia-flexible-to-folder.yml
+
+name: Transcribe IA flexible -> target folder (parallel)
+
+on:
+  workflow_dispatch:
+    inputs:
+      ia_identifier:
+        description: "Internet Archive identifier (tek-kaynak manuel kullanım için)"
+        required: true
+        default: "sprunggelenk-distorsion-frau-florin-krone-27-05-25_20250726"
+        type: string
+      out_dir:
+        description: "Çıktı klasörü (tek-kaynak manuel kullanım için, örn: transcripts/Thuringen)"
+        required: true
+        default: "transcripts/Thuringen"
+        type: string
+      batch_size:
+        description: "Bu run'da toplam kaç dosya işlensin"
+        required: true
+        default: "20"
+        type: string
+      max_parallel:
+        description: "Aynı anda kaç job koşsun"
+        required: true
+        default: "6"
+        type: string
+      match:
+        description: "Opsiyonel filtre (substring). Boş=hepsi"
+        required: false
+        default: ""
+        type: string
+      model:
+        description: "Whisper modeli (tiny/base/small/medium/large-v3 vb.)"
+        required: true
+        default: "medium"
+        type: string
+      language:
+        description: "Dil kodu (örn: de, tr, en)"
+        required: true
+        default: "de"
+        type: string
+      sources_json:
+        description: 'Opsiyonel çoklu kaynak listesi JSON. Örnek: [{"identifier":"FSPneu","out_dir":"transcripts/FSPab26","match":"","model":"medium","language":"de"},{"identifier":"abc","out_dir":"transcripts/X","match":"teil","model":"small","language":"de"}]'
+        required: false
+        default: ""
+        type: string
+  schedule:
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ia-transcribe-flexible
+  cancel-in-progress: false
+
+env:
+  DEFAULT_MODEL: medium
+  DEFAULT_LANGUAGE: de
+  DEFAULT_BATCH_SIZE: "20"
+  DEFAULT_MAX_PARALLEL: "6"
+  DEFAULT_SOURCES_JSON: >-
+    [
+      {
+        "identifier": "sprunggelenk-distorsion-frau-florin-krone-27-05-25_20250726",
+        "out_dir": "transcripts/Thuringen",
+        "match": "",
+        "model": "medium",
+        "language": "de"
+      }
+    ]
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.pick.outputs.matrix }}
+      count: ${{ steps.pick.outputs.count }}
+      max_parallel: ${{ steps.pick.outputs.max_parallel }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build transcribe tool
+        run: |
+          mkdir -p tooling
+          cat > tooling/transcribe_ia_whisper.py <<'PY'
+          from __future__ import annotations
+
+          import argparse
+          import json
+          import sys
+          import tempfile
+          from dataclasses import dataclass
+          from pathlib import Path
+          from typing import List, Tuple
+          from urllib.parse import quote
+
+          import requests
+          from tqdm import tqdm
+
+          IA_METADATA_URL = "https://archive.org/metadata/{identifier}"
+          IA_DOWNLOAD_URL = "https://archive.org/download/{identifier}/{filename}"
+          AUDIO_EXTENSIONS = {".m4a", ".mp3"}
+
+          @dataclass(frozen=True)
+          class Segment:
+              start: float
+              end: float
+              text: str
+
+          def eprint(*args: object) -> None:
+              print(*args, file=sys.stderr)
+
+          def fetch_item_metadata(identifier: str, timeout_s: int = 30) -> dict:
+              url = IA_METADATA_URL.format(identifier=identifier)
+              response = requests.get(url, timeout=timeout_s)
+              response.raise_for_status()
+              return response.json()
+
+          def extract_audio_filenames(metadata: dict) -> List[str]:
+              files = metadata.get("files", [])
+              if isinstance(files, dict):
+                  files = list(files.values())
+
+              names: List[str] = []
+              for entry in files:
+                  if not isinstance(entry, dict):
+                      continue
+
+                  name = entry.get("name") or entry.get("file") or entry.get("filename")
+                  if not isinstance(name, str):
+                      continue
+
+                  suffix = Path(name).suffix.lower()
+                  if suffix in AUDIO_EXTENSIONS:
+                      names.append(name)
+
+              names.sort(key=lambda value: value.casefold())
+              return names
+
+          def filter_by_match(files: List[str], match: str) -> List[str]:
+              if not match:
+                  return files
+              needle = match.casefold()
+              return [file_name for file_name in files if needle in file_name.casefold()]
+
+          def build_output_paths(out_dir: Path, remote_filename: str) -> Tuple[Path, Path]:
+              base_name = Path(Path(remote_filename).name).with_suffix("").name
+              return out_dir / f"{base_name}.txt", out_dir / f"{base_name}.srt"
+
+          def missing_files(files: List[str], out_dir: Path) -> List[str]:
+              missing: List[str] = []
+              for remote_filename in files:
+                  txt_path, srt_path = build_output_paths(out_dir, remote_filename)
+                  if not (txt_path.exists() and srt_path.exists()):
+                      missing.append(remote_filename)
+              return missing
+
+          def download_one_file(identifier: str, remote_filename: str, dest_path: Path, timeout_s: int = 60) -> None:
+              safe_remote = quote(remote_filename)
+              url = IA_DOWNLOAD_URL.format(identifier=identifier, filename=safe_remote)
+
+              with requests.get(url, stream=True, timeout=timeout_s) as response:
+                  response.raise_for_status()
+                  total = int(response.headers.get("Content-Length", "0") or "0")
+                  dest_path.parent.mkdir(parents=True, exist_ok=True)
+
+                  with open(dest_path, "wb") as file_handle, tqdm(
+                      total=total if total > 0 else None,
+                      unit="B",
+                      unit_scale=True,
+                      desc="Downloading",
+                      leave=False,
+                  ) as progress:
+                      for chunk in response.iter_content(chunk_size=1024 * 1024):
+                          if chunk:
+                              file_handle.write(chunk)
+                              progress.update(len(chunk))
+
+          def format_srt_timestamp(seconds: float) -> str:
+              milliseconds = int(round(seconds * 1000.0))
+              hours, milliseconds = divmod(milliseconds, 3600 * 1000)
+              minutes, milliseconds = divmod(milliseconds, 60 * 1000)
+              secs, milliseconds = divmod(milliseconds, 1000)
+              return f"{hours:02d}:{minutes:02d}:{secs:02d},{milliseconds:03d}"
+
+          def write_txt(out_path: Path, segments: List[Segment]) -> None:
+              out_path.parent.mkdir(parents=True, exist_ok=True)
+              text = "\n".join(segment.text.strip() for segment in segments if segment.text.strip())
+              out_path.write_text(text + ("\n" if text else ""), encoding="utf-8")
+
+          def write_srt(out_path: Path, segments: List[Segment]) -> None:
+              out_path.parent.mkdir(parents=True, exist_ok=True)
+
+              lines: List[str] = []
+              index = 1
+              for segment in segments:
+                  text = segment.text.strip()
+                  if not text:
+                      continue
+
+                  start = segment.start
+                  end = segment.end if segment.end > segment.start else segment.start + 0.001
+
+                  lines.append(str(index))
+                  lines.append(f"{format_srt_timestamp(start)} --> {format_srt_timestamp(end)}")
+                  lines.append(text)
+                  lines.append("")
+                  index += 1
+
+              out_path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+
+          def resolve_device(device_arg: str) -> str:
+              return device_arg if device_arg != "auto" else "cpu"
+
+          def default_compute_type(device: str, compute_type_arg: str) -> str:
+              if compute_type_arg != "auto":
+                  return compute_type_arg
+              return "float16" if device == "cuda" else "int8"
+
+          def transcribe_with_faster_whisper(
+              audio_path: Path,
+              model_name: str,
+              language: str,
+              device: str,
+              compute_type: str,
+              beam_size: int,
+              vad_filter: bool,
+          ) -> List[Segment]:
+              from faster_whisper import WhisperModel
+
+              model = WhisperModel(model_name, device=device, compute_type=compute_type)
+              segment_iter, info = model.transcribe(
+                  str(audio_path),
+                  language=language,
+                  task="transcribe",
+                  beam_size=beam_size,
+                  vad_filter=vad_filter,
+              )
+
+              eprint(
+                  f"Detected language: {getattr(info, 'language', 'unknown')} | "
+                  f"Duration: {getattr(info, 'duration', 'unknown')}"
+              )
+
+              return [Segment(float(segment.start), float(segment.end), str(segment.text)) for segment in segment_iter]
+
+          def main() -> int:
+              parser = argparse.ArgumentParser()
+              parser.add_argument("--identifier", required=True)
+              parser.add_argument("--out-dir", required=True)
+              parser.add_argument("--model", default="medium")
+              parser.add_argument("--language", default="de")
+              parser.add_argument("--device", default="auto", choices=["auto", "cpu", "cuda"])
+              parser.add_argument("--compute-type", default="auto")
+              parser.add_argument("--beam-size", type=int, default=1)
+              parser.add_argument("--vad-filter", action="store_true")
+              parser.add_argument("--file", default=None)
+              parser.add_argument("--match", default="")
+              parser.add_argument("--list-missing-json", action="store_true")
+              args = parser.parse_args()
+
+              out_dir = Path(args.out_dir).resolve()
+              out_dir.mkdir(parents=True, exist_ok=True)
+
+              metadata = fetch_item_metadata(args.identifier)
+              all_audio = filter_by_match(extract_audio_filenames(metadata), args.match)
+
+              if args.list_missing_json:
+                  sys.stdout.write(json.dumps(missing_files(all_audio, out_dir), ensure_ascii=False))
+                  sys.stdout.flush()
+                  return 0
+
+              if not args.file:
+                  eprint("Error: --file is required for transcription runs.")
+                  return 2
+
+              device = resolve_device(args.device)
+              compute_type = default_compute_type(device, args.compute_type)
+
+              remote_filename = args.file
+              txt_path, srt_path = build_output_paths(out_dir, remote_filename)
+
+              with tempfile.TemporaryDirectory(prefix="ia_whisper_") as temp_dir:
+                  local_audio = Path(temp_dir) / Path(remote_filename).name
+                  download_one_file(args.identifier, remote_filename, local_audio)
+
+                  segments = transcribe_with_faster_whisper(
+                      audio_path=local_audio,
+                      model_name=args.model,
+                      language=args.language,
+                      device=device,
+                      compute_type=compute_type,
+                      beam_size=args.beam_size,
+                      vad_filter=args.vad_filter,
+                  )
+
+                  write_txt(txt_path, segments)
+                  write_srt(srt_path, segments)
+
+              return 0
+
+          if __name__ == "__main__":
+              raise SystemExit(main())
+          PY
+
+      - name: Upload tool for matrix jobs
+        uses: actions/upload-artifact@v4
+        with:
+          name: tooling
+          path: tooling/transcribe_ia_whisper.py
+          if-no-files-found: error
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps for listing
+        run: |
+          python -m pip install -U pip
+          pip install requests tqdm
+
+      - id: pick
+        name: Pick next missing files across all sources
+        env:
+          INPUT_IA_IDENTIFIER: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.ia_identifier || '' }}
+          INPUT_OUT_DIR: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.out_dir || '' }}
+          INPUT_BATCH_SIZE: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.batch_size || '' }}
+          INPUT_MAX_PARALLEL: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.max_parallel || '' }}
+          INPUT_MATCH: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.match || '' }}
+          INPUT_MODEL: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.model || '' }}
+          INPUT_LANGUAGE: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.language || '' }}
+          INPUT_SOURCES_JSON: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.sources_json || '' }}
+          DEFAULT_SOURCES_JSON: ${{ env.DEFAULT_SOURCES_JSON }}
+          DEFAULT_BATCH_SIZE: ${{ env.DEFAULT_BATCH_SIZE }}
+          DEFAULT_MAX_PARALLEL: ${{ env.DEFAULT_MAX_PARALLEL }}
+          DEFAULT_MODEL: ${{ env.DEFAULT_MODEL }}
+          DEFAULT_LANGUAGE: ${{ env.DEFAULT_LANGUAGE }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import subprocess
+          import sys
+
+          def as_str(value, default=""):
+              return str(value if value is not None else default).strip()
+
+          event_name = os.environ.get("GITHUB_EVENT_NAME", "")
+          sources_json_input = as_str(os.environ.get("INPUT_SOURCES_JSON"))
+          default_model = as_str(os.environ.get("DEFAULT_MODEL"), "medium")
+          default_language = as_str(os.environ.get("DEFAULT_LANGUAGE"), "de")
+
+          if sources_json_input:
+              sources = json.loads(sources_json_input)
+              batch_size = int(as_str(os.environ.get("INPUT_BATCH_SIZE"), os.environ["DEFAULT_BATCH_SIZE"]))
+              max_parallel = int(as_str(os.environ.get("INPUT_MAX_PARALLEL"), os.environ["DEFAULT_MAX_PARALLEL"]))
+          elif event_name == "workflow_dispatch":
+              sources = [{
+                  "identifier": as_str(os.environ.get("INPUT_IA_IDENTIFIER")),
+                  "out_dir": as_str(os.environ.get("INPUT_OUT_DIR")),
+                  "match": as_str(os.environ.get("INPUT_MATCH")),
+                  "model": as_str(os.environ.get("INPUT_MODEL"), default_model),
+                  "language": as_str(os.environ.get("INPUT_LANGUAGE"), default_language),
+              }]
+              batch_size = int(as_str(os.environ.get("INPUT_BATCH_SIZE"), os.environ["DEFAULT_BATCH_SIZE"]))
+              max_parallel = int(as_str(os.environ.get("INPUT_MAX_PARALLEL"), os.environ["DEFAULT_MAX_PARALLEL"]))
+          else:
+              sources = json.loads(os.environ["DEFAULT_SOURCES_JSON"])
+              batch_size = int(os.environ["DEFAULT_BATCH_SIZE"])
+              max_parallel = int(os.environ["DEFAULT_MAX_PARALLEL"])
+
+          normalized_sources = []
+          for source in sources:
+              identifier = as_str(source.get("identifier"))
+              out_dir = as_str(source.get("out_dir"))
+              match = as_str(source.get("match"))
+              model = as_str(source.get("model"), default_model)
+              language = as_str(source.get("language"), default_language)
+
+              if not identifier:
+                  raise SystemExit("source.identifier boş olamaz")
+              if not out_dir:
+                  raise SystemExit(f"source.out_dir boş olamaz: {identifier}")
+
+              normalized_sources.append({
+                  "identifier": identifier,
+                  "out_dir": out_dir,
+                  "match": match,
+                  "model": model,
+                  "language": language,
+              })
+
+          matrix = []
+          idx = 0
+
+          for source in normalized_sources:
+              cmd = [
+                  sys.executable,
+                  "tooling/transcribe_ia_whisper.py",
+                  "--identifier", source["identifier"],
+                  "--out-dir", source["out_dir"],
+                  "--list-missing-json",
+              ]
+              if source["match"]:
+                  cmd += ["--match", source["match"]]
+
+              missing = json.loads(subprocess.check_output(cmd).decode("utf-8"))
+
+              for remote_file in missing:
+                  matrix.append({
+                      "idx": idx,
+                      "identifier": source["identifier"],
+                      "out_dir": source["out_dir"],
+                      "match": source["match"],
+                      "model": source["model"],
+                      "language": source["language"],
+                      "file": remote_file,
+                  })
+                  idx += 1
+
+          matrix = matrix[:batch_size]
+
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+              output.write(f"matrix={json.dumps(matrix, ensure_ascii=False)}\n")
+              output.write(f"count={len(matrix)}\n")
+              output.write(f"max_parallel={max_parallel}\n")
+
+          print("Sources:", json.dumps(normalized_sources, ensure_ascii=False, indent=2))
+          print("Picked:", json.dumps(matrix, ensure_ascii=False, indent=2))
+          PY
+
+  transcribe:
+    needs: prepare
+    if: ${{ needs.prepare.outputs.count != '0' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+
+    strategy:
+      fail-fast: false
+      max-parallel: ${{ fromJson(needs.prepare.outputs.max_parallel) }}
+      matrix:
+        item: ${{ fromJson(needs.prepare.outputs.matrix) }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download tool
+        uses: actions/download-artifact@v4
+        with:
+          name: tooling
+          path: tooling
+
+      - name: Install system deps
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache model downloads
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+            ~/.cache/whisper
+          key: whisper-cache-${{ runner.os }}-${{ matrix.item.model }}-v1
+          restore-keys: |
+            whisper-cache-${{ runner.os }}-
+
+      - name: Install Python deps
+        run: |
+          python -m pip install -U pip
+          pip install faster-whisper requests tqdm
+
+      - name: Transcribe one file
+        env:
+          IDENTIFIER: ${{ matrix.item.identifier }}
+          OUT_DIR: ${{ matrix.item.out_dir }}
+          MODEL: ${{ matrix.item.model }}
+          LANGUAGE: ${{ matrix.item.language }}
+          FILE: ${{ matrix.item.file }}
+        run: |
+          python tooling/transcribe_ia_whisper.py \
+            --identifier "$IDENTIFIER" \
+            --out-dir "$OUT_DIR" \
+            --file "$FILE" \
+            --model "$MODEL" \
+            --language "$LANGUAGE" \
+            --device "cpu" \
+            --compute-type "int8" \
+            --beam-size 1 \
+            --vad-filter
+
+      - name: Copy outputs to artifact folder
+        env:
+          OUT_DIR: ${{ matrix.item.out_dir }}
+          FILE: ${{ matrix.item.file }}
+        run: |
+          python - <<'PY'
+          import os
+          import shutil
+          from pathlib import Path
+
+          out_dir = Path(os.environ["OUT_DIR"])
+          remote_file = os.environ["FILE"]
+          stem = Path(Path(remote_file).name).with_suffix("").name
+
+          artifact_dir = Path("artifact_out") / out_dir
+          artifact_dir.mkdir(parents=True, exist_ok=True)
+
+          for extension in (".txt", ".srt"):
+              src = out_dir / f"{stem}{extension}"
+              if src.exists():
+                  shutil.copy2(src, artifact_dir / src.name)
+          PY
+
+      - name: Upload outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: transcripts-${{ matrix.item.idx }}
+          path: artifact_out/**
+
+  merge_and_push:
+    needs: [prepare, transcribe]
+    if: ${{ needs.prepare.outputs.count != '0' && always() }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download all transcript artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+
+      - name: Merge outputs into target folders
+        run: |
+          find artifacts -type f \( -name "*.txt" -o -name "*.srt" \) | while read -r file; do
+            rel="${file#artifacts/*/artifact_out/}"
+            mkdir -p "$(dirname "$rel")"
+            cp -f "$file" "$rel"
+            echo "Merged: $rel"
+          done
+
+      - name: Commit and push
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          retry() {
+            local n=0
+            local max=5
+            while true; do
+              if "$@"; then
+                return 0
+              fi
+              n=$((n + 1))
+              if [ "$n" -ge "$max" ]; then
+                return 1
+              fi
+              sleep $((n * 10))
+            done
+          }
+
+          git add transcripts/
+          git commit -m "Add transcripts from flexible IA workflow" || exit 0
+          retry git pull --rebase
+          retry git push
