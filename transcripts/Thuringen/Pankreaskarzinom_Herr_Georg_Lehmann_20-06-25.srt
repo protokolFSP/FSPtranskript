@@ -1,0 +1,751 @@
+1
+00:00:00,000 --> 00:00:11,000
+Schönen guten Tag, mein Name ist Ucak. Ich bin auf der Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Anamnesgespräch durchführen.
+
+2
+00:00:11,000 --> 00:00:25,000
+Sind Sie damit einverstanden? Ja. Danke. Bitte fragen Sie nach, wenn Sie etwas nicht verstehen. Okay? Okay. Wie heißen Sie denn? Ich heiße Georg Lehmann.
+
+3
+00:00:28,530 --> 00:00:47,530
+Könnten Sie bitte Ihren Vornamen langsam bestabieren? Ja. Vornamen G E O R G. Ja. Lehmann mit N der Platte. Lehmann.
+
+4
+00:00:47,530 --> 00:01:17,310
+Okay. Herr Lehmann, wie alt sind Sie? Ich bin 65 Jahre alt. 65, ja? Ja. Wann sind Sie genau geboren? Am 2.7.1960.
+
+5
+00:01:17,310 --> 00:01:46,310
+Okay. Wie groß sind Sie? 1,73 Meter. Können Sie wiederhören? 1,73 Meter. Okay. Und wie schwer sind Sie zuzeit? 8,70 Kilo.
+
+6
+00:01:46,310 --> 00:02:05,310
+Okay. Danke für die Informationen, Herr Lehmann. Was kann ich für Sie tun? Was für Beschwerden haben Sie zuzeit? Ja, Herr Doktor, ich habe seit ca. 6 Monaten Rückenschmerzen. Aber starke Rückenschmerzen.
+
+7
+00:02:05,310 --> 00:02:27,000
+Wo genau sind diese Schmerzen, Herr Lehmann? Also ich meine Mittelunterrücken, Oberrücken? Wie ein Güter unter dem Bauch, Herr Doktor. Güterförmiger Rückenschmerzen, meinen Sie? Ja. Gas korrekt.
+
+8
+00:02:27,000 --> 00:02:36,000
+Okay. Könnten Sie bitte diese Schmerzen genau beschreiben? Also sind Sie eher drückend, stechend, brennend?
+
+9
+00:02:36,000 --> 00:02:52,790
+Ja, Herr Doktor. Die Schmerzen sind krank. Okay. Und strahlen diese Schmerzen irgendwohin aus? Nein, Herr Doktor, nur Güter unter dem Bauch.
+
+10
+00:02:52,790 --> 00:03:08,580
+Okay. Herr Lehmann, sind diese Schmerzen plötzlich oder langsam aufgetreten? Langsam. Ich bemühe sie langsam, Herr Doktor.
+
+11
+00:03:08,580 --> 00:03:18,580
+Und haben sich diese Schmerzen mit der Zeit verändert? Ich meine, es ist schlimmer geworden, besser geworden? Immer schlimmer geworden, Herr Doktor, aber langsam.
+
+12
+00:03:18,580 --> 00:03:40,840
+Okay. Manchmal habe ich Ibuprofen angenommen, aber das hat nicht funktioniert. Kennen Sie die Dosierung? Ja, 800 mg.
+
+13
+00:03:40,840 --> 00:03:54,250
+Mehrmalige haben Sie angenommen, oder? Ja, aber nicht jeden Tag. Manchmal. Bei mir. Okay. Alles klar.
+
+14
+00:03:54,250 --> 00:04:06,250
+Herr Lehmann, haben Sie früher eine Inhebeschwerden gehabt? Ich meine, vor den sechs Monaten? Ja, nein, Herr Doktor, nur seit sechs Monaten.
+
+15
+00:04:06,250 --> 00:04:19,650
+Okay. Und sind Sie schon wegen dieser Schmerzen beim anderen Arzt gewesen? Nein, Herr Doktor. Ich bin ein bisschen angst.
+
+16
+00:04:19,650 --> 00:04:36,650
+Okay. Herr Lehmann, gibt es, dass die Schmerzen lindert oder verschlimmert, haben Sie bemerkt? Ich meine, eine bestimmte Körperhaltung nach dem Essen, eine schwierige Situation und so weiter, oder?
+
+17
+00:04:36,650 --> 00:04:47,650
+Ja, ich bemerke nicht, Herr Doktor. Okay. Und gibt es eine bestimmte Auslöser für diese Schmerzen, haben Sie bemerkt? Nein, ich weiß nicht.
+
+18
+00:04:47,650 --> 00:05:01,650
+Okay. Alles klar. Wie stark sind diese Schmerzen auf einer Schmerzskala von 1 bis 10, wobei 1 sehr leichten und 10 sehr starken Schmerzen entspricht? Ich denke, 800.
+
+19
+00:05:01,650 --> 00:05:13,650
+Okay. Das ist eine starke Schmerzen, Herr Lehmann. Soll ich Ihnen ein Schmerzmittel geben oder können Sie diese Schmerzen bis Ende des Späts aushalten?
+
+20
+00:05:13,650 --> 00:05:26,650
+Ja, ich möchte eine Medikamente nehmen. Okay, gerne. Aber ich möchte zuerst wissen, ob Sie eine Allergie gegen Medikamente haben, Herr Lehmann.
+
+21
+00:05:26,650 --> 00:05:45,650
+Haben Sie eine Allergie gegen Medikamente? Herr Doktor, ja. Medikamente habe ich keine Allergie. Aber ich habe Haustatt und Katzenhaare. Ich habe Allergie.
+
+22
+00:05:45,650 --> 00:06:08,360
+Okay, alles klar. Schwester Müller, bitte geben Sie den Patienten ein Spasmolythekum. Okay, Herr Lehmann, wir haben einen Krampflöser gegeben. Fühlen Sie sich besser?
+
+23
+00:06:08,360 --> 00:06:21,360
+Ja, gut besser. Gerne. Herr Lehmann, haben Sie Schmerzen auch im Bauch oder nur am Rücken? Beide, Herr Doktor.
+
+24
+00:06:21,360 --> 00:06:34,360
+Also Sie haben gesagt, dass diese Schmerzen in dem Bauch ausschreiten, ja? Ja. Okay. Ich habe jetzt richtig verstanden. Okay.
+
+25
+00:06:34,360 --> 00:06:50,560
+Herr Doktor, ich habe jetzt Schmerzen bekommen. Meine Haare und Augen sind jetzt kaputt. Ja, seit wann haben Sie dieses Problem, Herr Lehmann?
+
+26
+00:06:50,560 --> 00:07:07,560
+Seit ich denke, seit ca. 3 Monaten. Aber das erste Mal ein bisschen begonnen und dann seit und seit mehrere gewesen. Okay, ich verstehe.
+
+27
+00:07:07,560 --> 00:07:24,830
+Herr Lehmann, leiden Sie unter Juckreiz? Ja, ein bisschen. Also das ist generell oder ist das generell? Ich denke generell. Okay.
+
+28
+00:07:24,830 --> 00:07:39,830
+Herr Lehmann, haben Sie in der letzten Zeit unwirklich Ab oder Su genommen? Ja, Herr Doktor. Ich habe auch in den letzten 6 Monaten 12 Kilo abgenommen.
+
+29
+00:07:39,830 --> 00:08:01,830
+Ja, Herr Doktor. Ich denke, gute Abhaltung, aber ich habe immer Kilo abgenommen. Okay, ich verstehe Sie sehr gut, Herr Lehmann. Also machen Sie sich bitte keine Sorgen, ja? Ja.
+
+30
+00:08:01,830 --> 00:08:14,830
+Wir werden diese Probleme genau untersuchen. Danach können wir über diese Beschweraden wieder sprechen, ja? Okay, Herr Lehmann, fühlen Sie sich?
+
+31
+00:08:14,830 --> 00:08:28,340
+Entschuldigung, Herr Doktor. Meine Mutter hat aber chronische Bauchspiegelgrüße entzündet. Ich habe in dieser Zustand ein bisschen Angst.
+
+32
+00:08:28,340 --> 00:08:46,340
+Ja, ich verstehe sehr gut. Also Herr Lehmann, es ist zu früh, etwas genau zu sagen. Also ich meine über Ihre Beschwerden, ja? Zuerst möchte ich das Analysegespräch beenden. Danach werde ich Sie körperlich untersuchen und ein paar Untersuchungen veranlassen.
+
+33
+00:08:46,340 --> 00:09:01,060
+Danach können wir über eine sichere Diagnose sprechen, okay? Okay, danke. Herr Lehmann, fühlen Sie sich müde? Ja, aber manchmal. Okay.
+
+34
+00:09:01,060 --> 00:09:16,060
+Haben Sie eine Veränderung mit dem Stuhlgang oder beim Wasserlassen bemerkt? Ich meine Farbeveränderung zum Beispiel oder? Ja, Herr Doktor. Mein Erden ist dunkel und mein Stuhl ist sehr hell.
+
+35
+00:09:16,060 --> 00:09:41,180
+Fast weiß, manchmal fettig und weich. Fettig und weich. Okay, ich verstehe. Fühlen Sie sich fiebrig oder haben Sie Nachtschweiß, Schüterfrost? Ich habe nicht bemerkt.
+
+36
+00:09:41,180 --> 00:09:58,800
+Okay, ist Ihnen übel oder mussten Sie erbrechen? Ja, aber sehr sehr. Aber Sie haben Ebelkeit? Seit sechs Monaten drei und viermal.
+
+37
+00:09:58,800 --> 00:10:09,800
+Meinen Sie Erbrechen oder Übelkeit? Erbrechen. Erbrechen, okay. Aber aktuell haben Sie kein Problem? Ja, ja, jetzt kein Problem.
+
+38
+00:10:09,800 --> 00:10:23,800
+Okay, aber früher? Ja. Drei bis viermal. Und wie sah das Erbrochen aus? Haben Sie Blut im Erbrochen bemerkt? Nein, ich habe nicht bemerkt.
+
+39
+00:10:23,800 --> 00:10:40,230
+Okay, und haben Sie im Stuhl Blut bemerkt? Nein, ich habe nicht. Okay. Herr Lehmann, leiden Sie unter Husten oder Luftnot?
+
+40
+00:10:40,230 --> 00:10:56,070
+Nein, ich habe nicht. Luftnot. Schlafen Sie gut? Haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+41
+00:10:56,070 --> 00:11:06,070
+Ja, ein bisschen Probleme. Ich habe ein bisschen Probleme einzuschlafen, aber ein bisschen.
+
+42
+00:11:06,070 --> 00:11:20,700
+Okay, und Sie haben keine Appetitlosigkeit? Trotzdem haben Sie abgenommen? Seit einem Monat habe ich Appetitlosigkeit.
+
+43
+00:11:20,700 --> 00:11:34,740
+Okay, sind Sie schon vollständig gegen Kinderkrankheiten und Covid-Infektionen geimpft? Ja, alle.
+
+44
+00:11:34,740 --> 00:11:46,740
+Okay, haben Sie in der letzten Zeit eine Reise gemacht, besonders aus dem Ausland? Nein, ich habe immer eine Reise gemacht.
+
+45
+00:11:46,740 --> 00:11:54,740
+Okay, Herr Lehmann, leiden Sie an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Bluthochdruck oder Zuckerkrankheit?
+
+46
+00:11:54,740 --> 00:12:11,120
+Ja, Herr Doktor, ich habe seit ca. 15 Jahren Bluthochdruck. Nehmen Sie dagegen ein Medikament ein? Ja, Athorvastatin 10 mg. Technisch einmal.
+
+47
+00:12:11,120 --> 00:12:35,420
+Morgen oder Abend? Morgen, Herr Doktor. Mein Bluttest ist ein bisschen cholesterinwert, mein Arzt schreibt Athorvastatin.
+
+48
+00:12:35,420 --> 00:12:54,420
+Okay, also Sie leiden an erhöhten Blutwertwerte, ja? Ja, ja. Okay. Sonst noch etwas? Nein, Herr Doktor, aber ich hatte eine Bluthochdruck-Operation mit 16 Jahren.
+
+49
+00:12:54,420 --> 00:13:20,020
+Vor 10 Jahren habe ich eine Schraube in den rechten Oberschenkel bekommen, weil ich einen Fahrradunfall gemacht habe. Aber jetzt ist es gut.
+
+50
+00:13:20,020 --> 00:13:33,020
+Herr Lehmann, hatten Sie früher Beschwerden mit Ihren Bauchspeicheldrüsen, wie Ihre Mutter?
+
+51
+00:13:33,020 --> 00:13:59,780
+Ja, ja. Entschuldigung, Herr Doktor, ich meine, ich habe jetzt einen grauen Stahl, ich habe nächste Woche einen OP-Termin, bis dahin nehme ich Augen-Trophon. Ich habe einen Termin für grauen Stahl-Operation.
+
+52
+00:13:59,780 --> 00:14:10,780
+Okay. Okay. Nehmen Sie regelmäßig oder bei Bedarf außer genannten Medikamenten, irgendwelche Medikamente ein?
+
+53
+00:14:10,780 --> 00:14:28,780
+Nein, nur Athorvastatin, Herr Doktor. Okay. Okay. Herr Bedarf, ja, bei Bedarf, 800 mg Ibuprofen. Und jetzt Augen-Trophon, aber ich erinnere mich nicht mehr.
+
+54
+00:14:28,780 --> 00:14:34,770
+Okay. Benützen Sie diese Augen-Trophon bei Bedarf oder regelmäßig?
+
+55
+00:14:34,770 --> 00:14:51,770
+Ja, regelmäßig für Operation. Wie oft? 3 Mal pro Tag. 2 Tropfen. 2 Tropfen, okay. Haben Sie eine Medikamentenliste dabei? Nein, Herr Doktor.
+
+56
+00:14:51,770 --> 00:15:07,770
+Wer ist Ihr Hausarzt oder Ihre Hausärztin? Yüksel Camiar. Herr Doktor. Okay. Machen Sie sich bitte keine Sorgen, ich werde Ihren Hausarzt kontaktieren, okay?
+
+57
+00:15:07,770 --> 00:15:08,770
+Ja, vielen Dank.
+
+58
+00:15:08,770 --> 00:15:20,770
+Gerne. Sie haben gesagt, dass Sie Allergie gegen Hausstab und Katzenhaare haben. Wie reagieren Sie darauf, auf diese Allergie?
+
+59
+00:15:20,770 --> 00:15:46,670
+Ich habe Birkenpollenallergie, Herr Doktor. Okay. Herr Lehmann, Sie reagieren auf Hausstab und Katzenhaare durch die laufenden Nase und trennende Augen, richtig?
+
+60
+00:15:46,670 --> 00:16:04,780
+Ja, richtig, Herr Doktor. Okay. Und wie reagieren Sie auf Birkenpollen? Ja, Birkenpollen. Ähnlich, ja? Ja, ähnlich. Okay. Herr Lehmann, rauchen Sie?
+
+61
+00:16:04,780 --> 00:16:27,040
+Ja, Herr Doktor. Ich rauche seit 40 Jahren ungefähr 4 bis 5 Zigaretten pro Tag. Trinken Sie regelmäßig Alkohol? Ja, ich trinke jeden Tag 2 bis 3 Flaschen Bier, Herr Doktor. Schade.
+
+62
+00:16:27,040 --> 00:16:38,040
+Okay. Herr Lehmann, bitte nehmen Sie die nächste Frage nicht persönlich, das ist eine Routinefrage. Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+63
+00:16:38,040 --> 00:17:08,830
+Ja, Herr Doktor. Ich meine, ich habe zwischen 18 und 20 Jahren drei oder viermal hessisch probiert. Aber jetzt nicht. Okay, das freut mich. Herr Lehmann, wer Sie möchten, können wir Sie unterstützen, mit dem Rauchen aufzuhören oder mit dem Trinken einzustreiten?
+
+64
+00:17:09,830 --> 00:17:33,830
+Ja, Herr Doktor. Aber nach der Behandlung dieser Schüster. Genau, Sie haben recht. Okay. Herr Lehmann, Sie haben gesagt, dass Ihre Mutter an chronischer Bauch-Spreindrüstenentzündung leidet. Und wie ist Ihr Vater? Ist er gesund?
+
+65
+00:17:33,830 --> 00:17:57,350
+Ja, aber meine Mutter hat Diabetes und Probleme mit den Füßen wegen Diabetes. Und mein Vater hatte ein Magenschwur, Herr Doktor. Meine Schwester hatte Darmkrebs und wurde operiert, Herr Doktor.
+
+66
+00:17:57,350 --> 00:18:06,350
+Okay. Ist Ihr Familienstand? Ich bin geschieden, habe keine Kinder, Herr Doktor.
+
+67
+00:18:06,350 --> 00:18:22,350
+Und mit wem wohnen Sie? Allein, Herr Doktor. Okay. Was sind Sie von Beruf, Herr Lehmann? Ja, Herr Doktor. Ich arbeite als Tiefbauarbeiter.
+
+68
+00:18:22,350 --> 00:18:33,350
+Okay. Ich bedanke mich, Herr Lehmann. Das waren meine Fragen. Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich? Ja, Herr Doktor. Was habe ich?
+
+69
+00:18:34,350 --> 00:18:47,350
+Herr Lehmann, es ist zu früh etwas genau zu sagen, aber ich vermute, dass Sie ein Problem mit der Bauchsprachl-Glüße haben. Vielleicht wie Ihre Mutter.
+
+70
+00:18:47,350 --> 00:19:04,350
+Also zuerst muss ich Sie körperlich untersuchen, dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen veranlassen. Sobald die Ergebnisse da sind, werde ich Ihnen die weitere Information mitteilen. Okay?
+
+71
+00:19:04,350 --> 00:19:09,350
+Okay, Herr Doktor. Hat mein Alkoholkonsum etwas damit zu tun?
+
+72
+00:19:09,350 --> 00:19:35,350
+Ja, das kann sein. Herr Lehmann, also zu viel Alkoholkonsum kann Bauchsprachl-Glüssen Probleme verursachen. Ja, deswegen empfehle ich, mit dem Trinken einzuschränken. Das kann sein. Aber wie gesagt, ich werde Sie zuerst körperlich untersuchen. Ja?
+
+73
+00:19:35,350 --> 00:19:40,350
+Okay, Herr Doktor. Können die Beschwerden von der Leber oder der Galle kommen?
+
+74
+00:19:40,350 --> 00:19:41,350
+Bitte?
+
+75
+00:19:41,350 --> 00:19:48,350
+Können die Beschwerden von der Leber oder der Galle kommen?
+
+76
+00:19:48,350 --> 00:20:10,350
+Ja, also Herr Lehmann, Sie haben eine Bauchschmerzen und Rückenschmerzen. Diese Probleme können auch diese Symptome verursachen. Also diese Probleme sind auch Differentialdiagnosen bei mir. Aber wie gesagt, zuerst muss ich Sie körperlich untersuchen und ein paar Untersuchungen veranlassen. Ja?
+
+77
+00:20:10,350 --> 00:20:14,350
+Okay, Doktor. Ist das vielleicht Krebs?
+
+78
+00:20:14,350 --> 00:20:37,350
+Also ohne weitere Untersuchungen kann ich leider keine Diagnose bezüglich Krebses abgeben. Also wie gesagt, müssen wir ein paar Untersuchungen veranlassen. Danach können wir über 100% sichere Diagnose und Therapie-Möglichkeiten widersprechen. Okay?
+
+79
+00:20:37,350 --> 00:20:41,350
+Welche Untersuchungen sind jetzt wichtig?
+
+80
+00:20:41,350 --> 00:20:50,350
+Also ich werde ein paar Untersuchungen durchführen, wie zum Beispiel Ultraschalluntersuchungen und Tomographie. Ja?
+
+81
+00:20:50,350 --> 00:21:07,300
+Ja, okay, Doktor. Andere Frage. Ist es vererblich, weil meine Mutter auch Pankratik ist?
+
+82
+00:21:08,300 --> 00:21:24,300
+Ja, also Herr Lehmann, manche Probleme können erblich sein, aber ich möchte Sie beruhigen, dass diese Probleme nicht 100% erblich sind. Ja?
+
+83
+00:21:24,300 --> 00:21:29,300
+Okay, Doktor. Was soll ich jetzt nicht essen oder trinken?
+
+84
+00:21:29,300 --> 00:21:32,300
+Sind Sie nüchtern, oder?
+
+85
+00:21:32,300 --> 00:21:34,300
+Ja, nüchtern.
+
+86
+00:21:34,300 --> 00:21:52,300
+Okay, also Herr Lehmann, Sie können nüchtern sein. Vielleicht können wir bei Ihnen eine Endoskopie durchführen. Deswegen ist das besser, wenn Sie nüchtern sein. Okay?
+
+87
+00:21:52,300 --> 00:21:56,300
+Okay. Ist mein Gewicht verblüßt gefährlich?
+
+88
+00:21:56,300 --> 00:22:14,300
+Das kann gefährlich sein, aber diese Probleme können viele verschiedene Ursachen haben. Ja? Jetzt, momentan kann ich es genau nicht sagen, aber nach den Untersuchungen können wir darüber widersprechen. Okay.
+
+89
+00:22:14,300 --> 00:22:17,300
+Ja, muss ich ins Krankenhaus?
+
+90
+00:22:17,300 --> 00:22:37,300
+Also, ein paar Stunden müssen Sie sicherlich bei uns bleiben, damit wir die Diagnose bestätigen können. Aber wenn wir etwas Auffälliges finden, kann es passieren, dass Sie ein paar Tage im Krankenhaus bleiben sollen. Ja?
+
+91
+00:22:37,300 --> 00:22:42,300
+Ja, Doktor. Kann ich weiter arbeiten oder soll ich mich krank schreien lassen?
+
+92
+00:22:42,300 --> 00:23:03,300
+Also, auf jeden Fall werden wir Ihnen krank schreiben. Aber wie gesagt, momentan können wir nicht genau wissen, wie viele Tage müssen Sie im Krankenhaus bleiben. Wir können darüber widersprechen.
+
+93
+00:23:03,300 --> 00:23:09,300
+Okay. Herr Doktor, vielen Dank für alles Information.
+
+94
+00:23:09,300 --> 00:23:15,300
+Ja, sehr gerne. Herr Lehmann, bitte nehmen Sie Platz im Wartezimmer. Ich bin gleich wieder da. Ja, ich warte jetzt.
+
+95
+00:23:15,300 --> 00:23:26,300
+Herr Oberarzt, ich habe einen neuen Patienten aufgenommen und ich würde gerne über ihn berichten. Haben Sie kurz Zeit für mich? Ja, bitte.
+
+96
+00:23:26,300 --> 00:23:38,300
+Danke schön. Herr Georg Lehmann ist 65 Jahre alt, 1,73 Meter groß und 78 Kilogramm schwer.
+
+97
+00:23:38,300 --> 00:24:02,300
+Herr Lehmann, stattdessen heute bei uns wegen seit sechs Monaten bestehender Rückenschmerzen vor dem Patienten zufolge, seien diese Schmerzen langsam aufgetreten und mit der Zeit immer schlimmer geworden.
+
+98
+00:24:02,300 --> 00:24:28,300
+Die Schmerzen seien krampfartig und würden in den Bauch büterformiger ausstrahlen. Die Schmerzintensität wurde auf eine Schmerzkala mit 8 von 10 bewertet und mehrmalige Einnahme von Ibuprofen 800 Milligramm hätte keine Linderung der Schmerzen gebracht.
+
+99
+00:24:28,300 --> 00:24:45,190
+Der Patient berichtete über Ichterus seit drei Monaten, Generales Prolitos, chronische Fatigue.
+
+100
+00:24:45,190 --> 00:24:58,190
+Außerdem klagte er über eine unwirkliche Gewichtsabnahme von 12 Kilogramm innerhalb von sechs Monaten.
+
+101
+00:24:58,190 --> 00:25:18,500
+Und er berichtete über Steathore und dunkler Urin. Die Fragen nach Tussis und Dyspnoe wurden verneint.
+
+102
+00:25:18,500 --> 00:25:28,190
+Bei der vegetativen Anamnese seien die Folienden bekannt.
+
+103
+00:25:28,190 --> 00:25:57,660
+Also in Apetens seit einem Monat und Insomnie in Form von Einschlafstörungen und drei- bis viermalige Emesis
+
+104
+00:25:57,660 --> 00:26:10,660
+vor ein paar Monaten. Er sei vollständig gegen Kinderkrankheiten und Covid-Infektionen geimpft. Reiseanamnese wurde verneint.
+
+105
+00:26:10,660 --> 00:26:28,980
+An Vorerkrankungen nannte er seit 15 Jahren bestehende Dyslipidemie und er nehme dagegen Athovastatin 10 Milligramm morgens ein.
+
+106
+00:26:28,980 --> 00:26:44,980
+Und er leidet an Katarakt und er habe einen Operationtermin nächste Woche.
+
+107
+00:26:44,980 --> 00:26:58,980
+Momentan benutze er zwei verschiedene Augentropfen dreimal am Tag. Die Namen von Medikamenten sollte geklärt werden.
+
+108
+00:26:58,980 --> 00:27:18,980
+Und er nehme überproffene 800 Milligramm gegen Rückenschmerzen bei Bedarf ein. Mit 16 Jahren sei bei ihm eine Appendektomie durchgeführt worden.
+
+109
+00:27:18,980 --> 00:27:38,980
+Vor 10 Jahren habe er sich eine Femurfraktur beim Fahrradunfall zugezogen, die operativ behandelt worden sei mit einer Schraube.
+
+110
+00:27:38,980 --> 00:27:51,980
+Und dieser Problem ist an der rechten Seite. Er hatte Allergien gegen Hausstaub, Katzenhaare und Birkenpollen.
+
+111
+00:27:51,980 --> 00:28:06,980
+Diese Allergien äußern sich durch Rhinokonjunktivitis. Er sei Raucher und er rauche 4 bis 5 Zigaretten täglich seit 40 Jahren.
+
+112
+00:28:06,980 --> 00:28:25,980
+Und er trinke 2 bis 3 Flaschen Bier täglich. Er habe zwischen 18 und 20 Lebensjahren 3 bis 4 Mal Haschisch probiert.
+
+113
+00:28:25,980 --> 00:28:53,220
+Momentan konsumiert der Patient keine Drogen. In der Familienanamnese gab er an, dass der Vater an Ulcus ventriculi leidet und die Mutter leidet an chronischer Pancreatitis, Diabetes mellitus.
+
+114
+00:28:53,220 --> 00:29:16,220
+Er leidet an Diabetische Fußsyndrom. Er hat eine Schwester und seine Schwester leidet an Kolonkarzinom, die operiert behandelt worden sei.
+
+115
+00:29:16,220 --> 00:29:26,220
+Der Patient sei geschieden, habe kein Kind und wohne alleine. Er sei Tiefbauarbeiter von Beruf.
+
+116
+00:29:26,220 --> 00:29:38,220
+Ich gehe von einem Verdacht auf eine Pancreaskarzinom aus, da der Patient typische Symptome dafür aufweist.
+
+117
+00:29:38,220 --> 00:29:55,600
+Der Patient leidet unter bürterformige Rückenschmerzen und Bauchschmerzen, Icterus, Bilirubinurin und Stratore und chronischer Fatigue.
+
+118
+00:29:55,600 --> 00:30:22,600
+Diese Symptome sprechen für eine Pancreaskarzinom. Als die Diagnosen kommen, chronische Pancreatitis, Scholeidokolithiasis und Myokatinfarkt in Betracht.
+
+119
+00:30:22,600 --> 00:30:35,600
+Um meine Verdachtdiagnose zu bestätigen, würde ich zunächst bei den Patienten die Vitaparameter überwachen und eine körperliche Untersuchung durchführen.
+
+120
+00:30:35,600 --> 00:30:59,600
+Bei der körperlichen Untersuchung achte ich darauf, ob Hautfarbeveränderungen wie zum Beispiel Icterus, vergrößerte Lymphknoten, Druckschmerzen, Abwehrspannung, Loslassschmerzen, Murphyzeichen vorhanden sind.
+
+121
+00:30:59,600 --> 00:31:24,600
+Zusätzlich ist eine Laboruntersuchung sinnvoll, um eine umfassende Diagnose zu gewährleisten. Dabei würde ich Blutbild, CAP, BSG, Amylase, Lipase, Herzentzime, Leberwerte, Nierenwerte, Gerinnungsparameter bestimmen lassen.
+
+122
+00:31:24,600 --> 00:31:41,600
+Sie haben recht Herr Oberast, Thürmermarkes sind sinnvoll bei diesen Patienten, wie zum Beispiel CEA und CA199.
+
+123
+00:31:41,600 --> 00:31:58,600
+Danach würde ich eine Abdominal Sonographie durchführen, um die möglichen Pathologien genau zu beurteilen, wie zum Beispiel Pancreatitis oder Scholedokalitis.
+
+124
+00:31:58,600 --> 00:32:18,600
+Und ich würde ein EKG schreiben, um Myokatinfarkt auszuschließen. Danach würde ich eine CT des Abdomens durchführen, um meine Verdachtdiagnose zu bestätigen.
+
+125
+00:32:18,600 --> 00:32:42,600
+Jebenfalls würde ich eine EACP durchführen, um die möglichen Pathologien, wie zum Beispiel Gallengangsteine zu bestätigen oder Pancras Kopftumore zu bestätigen und gleichzeitig eine Gewebeprobe zu entnehmen.
+
+126
+00:32:42,600 --> 00:32:59,600
+Sollte sich die Verdachtdiagnose bestätigen, würde ich den Patienten stationär aufnehmen. Ich würde bei den Patienten einen Venösenzugang legen.
+
+127
+00:32:59,600 --> 00:33:16,600
+Ich würde eine Antiemetika verabreichen und ich würde gerne ein Onkologisches Konzil anfordern, um die Therapie des Patienten zu optimieren.
+
+128
+00:33:16,600 --> 00:33:30,600
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit der geplanten Untersuchung fortfahren.
+
+129
+00:33:30,600 --> 00:33:49,600
+Herr Kollegen, würden Sie eine Flüssigkeit zuvor verabreichen?
+
+130
+00:33:49,600 --> 00:33:58,380
+Würden Sie eine Echokardiografie durchführen?
+
+131
+00:33:58,380 --> 00:34:23,380
+Ja, also als die Französische Diagnose kommt, wird es ein Infarkt. Wir sollen eine Embolikquelle genau feststellen. Deswegen sollen wir eine Echokardiografie durchführen.
+
+132
+00:34:23,380 --> 00:34:36,380
+Diese Situation ist eine akute Fall, aber auf jeden Fall sollen wir eine Echokardiografie durchführen.
+
+133
+00:34:36,380 --> 00:34:52,850
+Eine Echokardiografie durchführen. Würden Sie in diesem Fall eine Petsätigkeit durchführen?
+
+134
+00:34:52,850 --> 00:35:10,850
+Ja, meine Verdacht Diagnose ist ein Pankreaskartzinum. Wir sollen eine Petsätigkeit durchführen, um die möglichen Metastasen genau zu beurteilen.
+
+135
+00:35:10,850 --> 00:35:19,850
+Wie können wir das Stadion des Tumors beurteilen?
+
+136
+00:35:19,850 --> 00:35:39,850
+Ja, wir können TNM-Klassifikation benutzen, um das Stadion des Tumors genau zu beurteilen. T ist Tumor, N ist Lymphknoteninfiltration und M ist Metastase.
+
+137
+00:35:39,850 --> 00:35:46,850
+Würden Sie in diesem Fall eine digitale Substaktion an Geografie durchführen?
+
+138
+00:35:46,850 --> 00:36:02,850
+Also, als die Pernis-Diagnosen kommen keine Durchblutstörungen, aber es gibt eine Bauchschmerzen, eine guterformige Bauchschmerzen.
+
+139
+00:36:02,850 --> 00:36:14,850
+Das ist nicht akute Schmerzen, aber das kann auch eine mesentrische Ischämie sein. Deswegen können wir vielleicht diese Untersuchung durchführen.
+
+140
+00:36:16,850 --> 00:36:24,850
+Würden Sie in diesem Fall eine Esophagogastrodendroskopie durchführen?
+
+141
+00:36:24,850 --> 00:36:34,850
+Ja, auf jeden Fall sollen wir eine Esophagogastrodendroskopie durchführen.
+
+142
+00:36:34,850 --> 00:36:45,850
+Also, es gibt eine guterformige Bauchschmerzen. Der Vater leidet an Ulcosventrikulis.
+
+143
+00:36:45,850 --> 00:37:01,850
+Es gibt einen Risikofaktor bei der Familialanamnese. Deswegen können wir eine Esophagogastrodendroskopie durchführen, um die mögliche Ulcosventrikulis oder Ulcosduodenis aufzuschließen.
+
+144
+00:37:01,850 --> 00:37:10,640
+Können wir während der EACP Pancreascarcinoma entfernen?
+
+145
+00:37:10,640 --> 00:37:28,640
+Leider nicht. Während der Untersuchung können wir eine Gehäbeprobe entnehmen. Aber die Operationenmethode bei der Pancreascarcinoma ist in den meisten Fällen eine Wipeloperation.
+
+146
+00:37:28,640 --> 00:37:36,640
+Wir brauchen eine Wipeloperation durchführen, um eine Therapie zu machen.
+
+147
+00:37:36,640 --> 00:37:45,640
+Können Sie uns die Abdomen CT aufklären?
+
+148
+00:37:45,640 --> 00:37:54,640
+Ja, gerne. Ich werde sie über die Abdomen CT aufklären. Abdominal Computer Tomography gehört zu den bildgebenden Verfahren.
+
+149
+00:37:54,640 --> 00:38:05,640
+Diese Untersuchung hilft uns, Verletzungen, Entzündungen, Blutungen, Tumoren und andere Veränderungen genauso erkennen.
+
+150
+00:38:05,640 --> 00:38:25,640
+Der Patient soll etwa 30 Minuten ruhig in einer CT-Röhre liegen. Und wenn der Patient einen Platzangst hat, können wir bei dem Patienten ein Beruriumsmittel geben.
+
+151
+00:38:25,640 --> 00:38:44,640
+Diese Untersuchung hat einige Kontraindikationen, wie Schwangerschaft und Kontrastmittelallergien. Manchmal müssen wir einen Kontrastmittel geben, um die Organe und inneren Organe sichtbar zu machen.
+
+152
+00:38:44,640 --> 00:39:04,640
+Es gibt keine Komplikationen. Diese Untersuchung benötigt nur noch eine geringe Strahlenbelastung und ist völlig schmerzfrei. Nach der Untersuchung gibt es keine Einschränkungen und der Patient kann den Alltag wie gewohnt fortsetzen.
+
+153
+00:39:04,640 --> 00:39:11,640
+Was würden Sie den Patienten nach der Behandlung empfehlen?
+
+154
+00:39:11,640 --> 00:39:27,640
+Nach der Behandlung würde ich den Patienten empfehlen, dass er regelmäßig Onkologie-Department-Klinik besuchen soll.
+
+155
+00:39:27,640 --> 00:39:36,640
+Nikotinkarenz und Alkoholkarenz sind sehr wichtig bei diesen Patienten.
+
+156
+00:39:36,640 --> 00:39:55,640
+Und regelmäßige Bewegung und eine gute und gesunde Ernährung sind sehr wichtig für ein starkes Immunsystem.
+
+157
+00:39:55,640 --> 00:40:08,880
+Würden Sie den Patienten während der Therapie welche Maßnahmen empfehlen?
+
+158
+00:40:08,880 --> 00:40:24,060
+Während der Therapie sollen wir regelmäßig das Stadium des Krebs noch einmal untersuchen.
+
+159
+00:40:24,060 --> 00:40:38,060
+Wir können weitere PET-CT-Untersuchungen durchführen, um die klinische Situation genau zu beurteilen.
+
+160
+00:40:38,060 --> 00:40:48,060
+Die Therapie hängt von Plastoderm, Destemörs ab.
+
+161
+00:40:48,060 --> 00:40:59,060
+Wir entscheiden, ob es eine richtige Therapie ist, operative Therapie, Chemotherapie oder radioaktive Therapie.
+
+162
+00:40:59,060 --> 00:41:09,060
+Genau, Sie haben recht. Wenn es eine Metastase gibt, können wir auch eine palliative Therapie durchführen.
+
+163
+00:41:09,060 --> 00:41:21,060
+In den meisten Fällen ist die Situation sehr schlecht bei Pankratikakasinom.
+
+164
+00:41:21,060 --> 00:41:31,400
+Welche Abteilung würden Sie den Patienten einweisen?
+
+165
+00:41:31,400 --> 00:41:39,400
+Ich würde den Patienten auf eine Onkologiklinik einweisen.
+
+166
+00:41:39,400 --> 00:41:48,400
+Oder vielleicht eine Chirurgische Klinik, um eine Operation einzuweisen.
+
+167
+00:41:48,400 --> 00:41:52,400
+Welche Abteilung würden Sie anfordern?
+
+168
+00:41:52,400 --> 00:42:06,380
+Ich würde eine Onkologiklinik und eine Chirurgiklinik anfordern, um die Therapie des Patienten zu optimieren.
+
+169
+00:42:06,380 --> 00:42:15,380
+Würden Sie den Patienten eine Lebensstilveränderung und Ernährungsumstellung empfehlen?
+
+170
+00:42:15,380 --> 00:42:23,380
+Ja, auf jeden Fall. Nikotinkarenz und Alkoholkarenz sind sehr wichtig bei den Patienten.
+
+171
+00:42:23,380 --> 00:42:40,370
+Und eine gesunde Ernährung, wie zum Beispiel die mediterranische Nahrungsmethode, können wir den Patienten empfehlen.
+
+172
+00:42:40,370 --> 00:42:50,370
+Und eine ballaststoffreiche Ernährung ist auch sehr wichtig bei diesen Patienten.
+
+173
+00:42:51,370 --> 00:43:02,370
+Okay, Herr Kollegen, bitte gehen Sie auf unser Infodesk und nehmen Sie Ihre Certificate. Ich wünsche Ihnen viel Erfolg für Ihre Arbeit.
+
+174
+00:43:03,370 --> 00:43:10,370
+Vielen Dank Herr Ogas, das war ein sehr schönes und angenehmes Gespräch bei mir. Vielen Dank.
+
+175
+00:43:10,370 --> 00:43:17,370
+Herr Professor, du hast gesagt, dass es ein Karsinom ist. Aber ich habe es nicht erinnert.
+
+176
+00:43:17,370 --> 00:43:21,370
+Das muss das sein.
+
+177
+00:43:51,370 --> 00:43:57,370
+Der Wichtstoff, die Dosierung und die häufigkeit sollte geklärt werden.
+
+178
+00:43:57,370 --> 00:44:06,370
+Wenn der Patient den Karsinom nicht erinnert, dann muss er den Wichtstoff und die Dosierung sollte geklärt werden.
+
+179
+00:44:06,370 --> 00:44:09,370
+Der Wichtstoff, die Dosierung...
+
+180
+00:44:09,370 --> 00:44:16,370
+Wir sagen nicht den Nomen der Medikamente. Wir sagen, dass die Medikamente nicht der Nomen der Medikamente sind.
+
+181
+00:44:16,370 --> 00:44:26,370
+Der Wichtstoff, die Dosierung und die häufigkeit.
+
+182
+00:44:26,370 --> 00:44:31,370
+Wenn der Patient den Karsinom nicht erinnert, dann muss er den Wichtstoff und die Dosierung nicht erinnert werden.
+
+183
+00:44:31,370 --> 00:44:38,370
+Wenn der Patient den Karsinom nicht erinnert, dann muss er den Wichtstoff und die Dosierung und die häufigkeit.
+
+184
+00:44:38,370 --> 00:44:47,620
+Wenn der Patient den Karsinom nicht erinnert, dann muss er den Wichtstoff und die Dosierung und die häufigkeit.
+
+185
+00:44:47,620 --> 00:44:51,620
+Wenn der Patient den Karsinom nicht erinnert, dann muss er den Wichtstoff und die Dosierung und die häufigkeit.
+
+186
+00:44:51,620 --> 00:44:53,620
+Okay.
+
+187
+00:44:53,620 --> 00:44:59,620
+Der Wichtstoff, die Dosierung und die häufigkeit.
+
+188
+00:44:59,620 --> 00:45:03,620
+Das ist das, was ich gemerkt habe.

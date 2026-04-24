@@ -1,0 +1,1015 @@
+1
+00:00:01,780 --> 00:00:13,780
+Guten Tag, mein Name ist Uccak, ich bin auf dieser Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Anamnese-Gespräch durchführen. Sind Sie damit einverstanden?
+
+2
+00:00:13,780 --> 00:00:15,780
+Ja, natürlich.
+
+3
+00:00:15,780 --> 00:00:20,780
+Danke, bitte fragen Sie nach, wenn Sie etwas nicht verstehen, okay?
+
+4
+00:00:20,780 --> 00:00:21,780
+Okay.
+
+5
+00:00:21,780 --> 00:00:23,780
+Wie heißen Sie denn?
+
+6
+00:00:23,780 --> 00:00:26,780
+Ich heiße Herman Hofmeister.
+
+7
+00:00:26,780 --> 00:00:35,290
+Könnten Sie bitte Ihren Vor- und Nachnamen langsam buchstabieren?
+
+8
+00:00:35,290 --> 00:00:53,290
+H-E-R-M-A-N, mein Name, H-O-F-M-E-I-S-T-E-R, Hofmeister.
+
+9
+00:00:53,290 --> 00:00:56,290
+Okay, Herr Hofmeister, wie alt sind Sie?
+
+10
+00:00:56,290 --> 00:00:59,290
+Ich bin 56 Jahre alt.
+
+11
+00:00:59,290 --> 00:01:02,290
+Wann sind Sie genau geboren?
+
+12
+00:01:02,290 --> 00:01:08,290
+3. Oktober 1969.
+
+13
+00:01:08,290 --> 00:01:11,290
+Wie groß sind Sie?
+
+14
+00:01:11,290 --> 00:01:14,290
+1 Meter 78.
+
+15
+00:01:14,290 --> 00:01:17,290
+Und wie schwer sind Sie zuzeit?
+
+16
+00:01:17,290 --> 00:01:21,920
+76.
+
+17
+00:01:21,920 --> 00:01:28,920
+Okay, danke für die Informationen, Herr Hofmeister. Was kann ich für Sie tun? Was Schweres haben Sie im Moment?
+
+18
+00:01:28,920 --> 00:01:32,920
+Ja, Doktor, ich habe Brustbeinschmerzen.
+
+19
+00:01:32,920 --> 00:01:39,280
+Seit wann haben Sie diese Schmerzen?
+
+20
+00:01:39,280 --> 00:01:42,280
+Seit anderthalb Wochen, Doktor.
+
+21
+00:01:42,280 --> 00:01:52,160
+Okay, können Sie bitte diese Schmerzen genau beschreiben? Also sind Sie eher drückend, stechen, dumpf?
+
+22
+00:01:52,160 --> 00:01:56,160
+Ja, die Schmerzen sind drückend und dumpf, ja.
+
+23
+00:01:56,160 --> 00:02:04,330
+Okay. Sind diese Schmerzen plötzlich oder langsam aufgetreten?
+
+24
+00:02:04,330 --> 00:02:10,460
+Plötzlich aufgetreten, Doktor.
+
+25
+00:02:10,460 --> 00:02:14,460
+Okay, strahlen diese Schmerzen irgendwohin aus?
+
+26
+00:02:14,460 --> 00:02:19,460
+Ich habe nicht bemerkt, nein.
+
+27
+00:02:19,460 --> 00:02:26,460
+Aber meine Schmerzen sind hinter dem Brustbein, Doktor.
+
+28
+00:02:26,460 --> 00:02:33,460
+Okay, also fühlen Sie sich ein enger Gefühl in der Brust?
+
+29
+00:02:33,460 --> 00:02:41,460
+Ja, ich fühle mich ein enger Gefühl.
+
+30
+00:02:41,460 --> 00:02:45,460
+Leiden Sie unter Luftnot oder Husten?
+
+31
+00:02:45,460 --> 00:02:49,460
+Ich habe keine Husten unter Luftnot, nein.
+
+32
+00:02:49,460 --> 00:02:54,460
+Okay. Herr Hofmeister, haben Sie früher einige Beschwerden gehabt?
+
+33
+00:02:54,460 --> 00:02:58,710
+Nein.
+
+34
+00:02:58,710 --> 00:03:03,710
+Oder haben Sie dagegen ein Medikament eingenommen?
+
+35
+00:03:03,710 --> 00:03:09,710
+Ich habe keine Medikamente eingenommen, nein.
+
+36
+00:03:09,710 --> 00:03:15,710
+Okay. Waren Sie wegen dieser Beschwerden bei einem anderen Arzt gewesen?
+
+37
+00:03:15,710 --> 00:03:17,710
+Nein.
+
+38
+00:03:17,710 --> 00:03:24,710
+Okay. Darf ich fragen, wie stark sind diese Schmerzen auf einer Schmerzskala von 1 bis 10?
+
+39
+00:03:24,710 --> 00:03:31,710
+Die Schmerzen würde ich als 9 von 10 auf einer Schmerzskala, Doktor.
+
+40
+00:03:31,710 --> 00:03:36,710
+Okay. Herr Hofmeister, das ist eine starke Schmerzen.
+
+41
+00:03:36,710 --> 00:03:38,710
+Ja, ich glaube.
+
+42
+00:03:38,710 --> 00:03:46,710
+Soll ich Ihnen eine Schmerzmittei geben oder können Sie diese Schmerzen noch ein bisschen bis Ende des Gesprächs aushalten?
+
+43
+00:03:46,710 --> 00:03:49,710
+Ja, ich habe Geduld sein, Doktor.
+
+44
+00:03:49,710 --> 00:03:52,710
+Okay. Ich werde mich beeilen, okay?
+
+45
+00:03:52,710 --> 00:03:54,710
+Okay.
+
+46
+00:03:54,710 --> 00:04:01,710
+Also Sie haben eine Hinterbrustschmerzen seit ein und halb Wochen?
+
+47
+00:04:01,710 --> 00:04:03,710
+Ja, ein Wochen.
+
+48
+00:04:03,710 --> 00:04:06,710
+Okay. Alles klar.
+
+49
+00:04:06,710 --> 00:04:12,710
+Haben Sie Herzrasen oder Herzklopfen?
+
+50
+00:04:12,710 --> 00:04:15,710
+Ich habe nicht bemerkt.
+
+51
+00:04:15,710 --> 00:04:24,710
+Okay. Herr Hofmeister, Sie haben eine Brustschmerzen, deswegen möchte ich das Anamnestgespräch unterbrechen.
+
+52
+00:04:24,710 --> 00:04:30,710
+Also ich möchte Ihren Vitalparameter überwachen, okay?
+
+53
+00:04:30,710 --> 00:04:34,710
+Dann können wir das Anamnestgespräch weitermachen.
+
+54
+00:04:34,710 --> 00:04:39,710
+Herr Oberarzt, ich möchte das Anamnestgespräch unterbrechen.
+
+55
+00:04:39,710 --> 00:04:43,710
+Der Patient leidet unter Brustbeinschmerzen.
+
+56
+00:04:43,710 --> 00:04:52,710
+Also das kann ein Myokadinfakt sein, deswegen möchte ich die Vitalparameter überwachen und eine LKG schreiben.
+
+57
+00:04:52,710 --> 00:04:59,710
+Aber jetzt bin ich in der Prüfung und ich möchte das Anamnestgespräch weitermachen. Darf ich?
+
+58
+00:04:59,710 --> 00:05:00,710
+Ja, bitte.
+
+59
+00:05:00,710 --> 00:05:02,710
+Danke.
+
+60
+00:05:02,710 --> 00:05:11,710
+Herr Hofmeister, bleiben Sie unter Sodbrennen oder Sauerstoff?
+
+61
+00:05:11,710 --> 00:05:27,060
+Nein, ich habe nicht bemerkt, Doktor. Aber meine Appetit ist nicht gut, Doktor. Meine Appetit ist sehr schlecht. Und ich fühle mich oft kraftlos.
+
+62
+00:05:27,060 --> 00:05:37,060
+Okay. Herr Hofmeister, haben Sie in der letzten Zeit unwirklich abgenommen?
+
+63
+00:05:37,060 --> 00:05:45,060
+Ja, in den letzten sechs Monaten habe ich ungefähr sechs Kilo abgenommen, Doktor.
+
+64
+00:05:45,060 --> 00:05:57,580
+Okay. Herr Hofmeister, haben Sie Schluckstörungen?
+
+65
+00:05:57,580 --> 00:06:07,580
+Ja, ich kann kaum schlucken, Doktor. Deshalb habe ich in den letzten Tagen nur Suppe gegessen und etwas getrunken.
+
+66
+00:06:07,580 --> 00:06:16,150
+Und können Sie nicht mehr festes Nahrungsmittel schlucken, richtig?
+
+67
+00:06:16,150 --> 00:06:31,300
+Ja, richtig. Und vor etwa einer Woche habe ich ein bis zwei Mal Blut erbrochen, Doktor.
+
+68
+00:06:31,300 --> 00:06:36,300
+Wann war das, Herr Hofmeister? Das letzte Mal?
+
+69
+00:06:36,300 --> 00:06:38,300
+Vor etwa einer Woche.
+
+70
+00:06:38,300 --> 00:06:49,700
+Okay. Und momentan haben Sie kein Problem, richtig?
+
+71
+00:06:49,700 --> 00:06:58,700
+Ja, momentan kein Problem. Aber früher habe ich zwei Mal Blut erbrochen.
+
+72
+00:06:58,700 --> 00:07:08,700
+Okay. Und haben Sie Probleme mit dem Stuhlgang? Also, ich meine, haben Sie einen schwarzen Stuhl bemerkt?
+
+73
+00:07:08,700 --> 00:07:13,650
+Ich habe nicht bemerkt.
+
+74
+00:07:13,650 --> 00:07:17,650
+Oder haben Sie Blut im Stuhl bemerkt?
+
+75
+00:07:17,650 --> 00:07:19,650
+Nein, ich habe nicht bemerkt, Doktor.
+
+76
+00:07:19,650 --> 00:07:37,340
+Okay. Alles klar. Herr Hofmeister, darf ich fragen, haben Sie ein Gefühl, wie Sie eine fremde...
+
+77
+00:07:37,340 --> 00:07:56,360
+Was war das? Ja. Okay. Haben Sie ein Gefühl, ob Sie eine...
+
+78
+00:07:56,360 --> 00:07:58,360
+Was, Doktor? Ich habe nicht verstanden.
+
+79
+00:07:58,360 --> 00:08:07,360
+Ja, also ich möchte sagen, Herr Hofmeister, haben Sie ein Gefühl, dass Sie ein...
+
+80
+00:08:07,360 --> 00:08:22,780
+Hab ich schon vergessen. Ach so, ja. Also, haben Sie ein Gefühl, dass Sie einen fremden Körper am Hals haben? Ich meine.
+
+81
+00:08:22,780 --> 00:08:26,780
+Ja, ich habe nicht bemerkt, Doktor.
+
+82
+00:08:26,780 --> 00:08:28,780
+Okay, alles klar.
+
+83
+00:08:28,780 --> 00:08:36,780
+Ist Ihnen übel? Ja, oder... Ja, ist Ihnen übel? Im Moment meine ich.
+
+84
+00:08:36,780 --> 00:08:46,780
+Jetzt nicht, aber etwa eine Woche hatte ich übel und habe gesagt, erbrochen, ja.
+
+85
+00:08:46,780 --> 00:08:48,780
+Ja, okay.
+
+86
+00:08:48,780 --> 00:08:55,780
+Aber ich habe auch häufiges aufgestochen, dass es ungenem riecht, ja.
+
+87
+00:08:56,780 --> 00:09:03,780
+Meinen Sie, haben Sie ungewöhnlich ein Mundgeruch bemerkt, oder?
+
+88
+00:09:03,780 --> 00:09:10,260
+Ja, ja, ja. Richtig, ja. Und häufig aufgestochen, ja.
+
+89
+00:09:10,260 --> 00:09:13,260
+Aufgestochen haben Sie auch, ja? Ja.
+
+90
+00:09:13,260 --> 00:09:16,260
+Und leiden Sie unter Sodbrennen?
+
+91
+00:09:16,260 --> 00:09:18,260
+Ich habe nicht bemerkt.
+
+92
+00:09:18,260 --> 00:09:23,260
+Okay. Haben Sie Fieberstaffrost oder Nachtschweiß?
+
+93
+00:09:23,260 --> 00:09:25,260
+Nein.
+
+94
+00:09:25,260 --> 00:09:34,580
+Okay. Ist alles in Ordnung bei Ihnen?
+
+95
+00:09:34,580 --> 00:09:48,580
+Ja. Normalerweise muss ich oft auf die Toilette gehen, weil ich so krank bin, Doktor.
+
+96
+00:09:49,580 --> 00:09:59,580
+Aber ich habe keine Schmerzen beim Wasserlassen oder Wasserveränderung oder...
+
+97
+00:09:59,580 --> 00:10:03,580
+Aber ich muss viele mal, besonders nachts, ja.
+
+98
+00:10:03,580 --> 00:10:07,580
+Okay. Wie oft müssen Sie auf die Toilette gehen, in der Nacht besonders?
+
+99
+00:10:07,580 --> 00:10:13,580
+In der Nacht zwei oder viermal, ja.
+
+100
+00:10:13,580 --> 00:10:17,580
+Okay, alles klar. Also, schlafen Sie gut?
+
+101
+00:10:17,580 --> 00:10:27,580
+Nein. Ich fühle mich oft kraftlos und wegen der Schmerzen kann ich auch schlecht schlafen, Doktor, ja.
+
+102
+00:10:27,580 --> 00:10:32,580
+Okay. Haben Sie Probleme einzuschlafen oder durchzuschlafen? Oder beide?
+
+103
+00:10:32,580 --> 00:10:41,580
+Ja, beide. Ja, ich habe gesagt, ich muss viele mal in die Toilette gehen und ich habe starke Schmerzen.
+
+104
+00:10:41,580 --> 00:10:44,580
+Deswegen schlafe ich nicht gut, Doktor, ja.
+
+105
+00:10:44,580 --> 00:10:48,580
+Ja, Sie haben recht. Okay, alles klar.
+
+106
+00:10:48,580 --> 00:10:54,580
+Herr Hofmeister, sind Sie vollständig gegen Kinderkrankheiten geimpft?
+
+107
+00:10:54,580 --> 00:11:03,580
+Ja, ja. Ich bin vollständig geimpft, ja. So wie viermal gegen Covid, ja.
+
+108
+00:11:03,580 --> 00:11:11,580
+Okay. Sie haben gesagt, dass Sie an Zuckerkrankheiten leiden. Seit wann?
+
+109
+00:11:11,580 --> 00:11:16,580
+Seit ungefähr 25 Jahren, ja.
+
+110
+00:11:16,580 --> 00:11:21,580
+Und was nehmen Sie dagegen ein? Ich meine ein Medikament?
+
+111
+00:11:21,580 --> 00:11:38,580
+Ich nehme dagegen mit vor mir 850 mg morgens und abends ein.
+
+112
+00:11:38,580 --> 00:11:46,580
+Okay. Sonst noch etwas? Haben Sie andere Erkrankungen?
+
+113
+00:11:46,580 --> 00:11:52,580
+Ja, außerdem habe ich einen Bluthochdruck, Doktor. Seit wann?
+
+114
+00:11:52,580 --> 00:12:00,580
+Seit 10 Jahren. Und nehmen Sie ein Medikament dagegen ein?
+
+115
+00:12:00,580 --> 00:12:12,580
+Ja, ich nehme morgens, am 1. April, einmal. Aber wie ist die Dosis? Ich habe keine Ahnung.
+
+116
+00:12:12,580 --> 00:12:16,580
+Okay. Wer ist Ihr Hausarzt oder Ihre Hausärztin?
+
+117
+00:12:16,580 --> 00:12:20,580
+Ja, mein Hausarzt ist Herr Fischer.
+
+118
+00:12:20,580 --> 00:12:28,890
+Okay. Herr Hofmeister, ich werde Ihren Hausarzt kontaktieren für diese Details. Okay?
+
+119
+00:12:28,890 --> 00:12:34,890
+Okay. Okay, danke. Okay, sonst? Haben Sie noch irgendwelche anderen Erkrankungen?
+
+120
+00:12:34,890 --> 00:12:39,890
+Nein. Okay. Sind Sie schon einmal operiert worden?
+
+121
+00:12:39,890 --> 00:12:47,890
+Ja, Doktor. Vor einem Jahr wurde mir die Linse am linken Auge ausgetauscht.
+
+122
+00:12:47,890 --> 00:13:00,130
+und vor etwa einem Jahr war ich wegen einem Nervenzusammenbruch in einer
+
+123
+00:13:00,130 --> 00:13:15,060
+Nervenklinik in Behandlung. Okay, alles klar. Herr Hofmeister, nehmen Sie regelmäßig
+
+124
+00:13:15,060 --> 00:13:20,700
+den Bedarf außer genannten Medikamenten, irgendwelche anderen Medikamente ein?
+
+125
+00:13:20,700 --> 00:13:32,260
+Nein, Doktor. Okay. Haben Sie Allergie gegen irgendwelche Nahrungsmittel, Pflanzen, Medikamente?
+
+126
+00:13:32,260 --> 00:13:37,220
+Ja, ich habe Allergien gegen Meere, Früchte und Fisch.
+
+127
+00:13:37,220 --> 00:13:46,910
+Wie ersetzt sich diese Allergien? Das äußerst sich durch Atemnot und
+
+128
+00:13:46,910 --> 00:14:02,460
+Hautausschlag, Doktor. Und Juckreis. Beide Allergien, ja? Ja, ja. Okay. Herr Hofmeister,
+
+129
+00:14:02,460 --> 00:14:11,420
+rauchen Sie? Ich rauche nicht, Doktor. Haben Sie früher geraucht? Nein. Trinken Sie
+
+130
+00:14:11,420 --> 00:14:19,900
+regelmäßig Alkohol? Nicht regelmäßig, aber ich trinke nur selten mal ein Glas Wein am
+
+131
+00:14:19,980 --> 00:14:31,560
+Wochenende oder ein Ferain. Okay. Und bitte nehmen Sie die nächste Frage nicht persönlich,
+
+132
+00:14:31,560 --> 00:14:38,000
+das ist eine rote Frage. Haben Sie oder hatten Sie Kontakt mit Drogen? Ich habe
+
+133
+00:14:38,000 --> 00:14:47,400
+keinen Kontakt mit Drogen, nein. Okay, super. Leiden Ihre Eltern an chronischen Erkrankungen,
+
+134
+00:14:47,400 --> 00:14:53,280
+von denen ich wissen sollte, wie zum Beispiel Schlaganfall oder Bluthochdruck, Zuckerkrankheit?
+
+135
+00:14:53,280 --> 00:15:09,660
+Ja, meine Mutter leidet auch an Zuckerkrankheit, ja. Und mein Vater an Demenz. Bei der Leber
+
+136
+00:15:09,660 --> 00:15:20,620
+in Altenheim, ja. Okay, haben Sie Geschwister? Ja, mein Bruder ist vor sechs Jahren am Magenkrebs
+
+137
+00:15:21,380 --> 00:15:37,560
+gestorben. Okay. Wie ist Ihr Familienstand? Ich bin verheiratet. Haben Sie Kinder? Ich
+
+138
+00:15:37,560 --> 00:15:47,440
+habe fünf Kinder, ja. Sind Ihre Kinder gesund? Nein, mein Onkel hatte... Nein, Entschuldigung.
+
+139
+00:15:47,440 --> 00:16:03,980
+Ja, ja, alle sind gesund, ja. Okay. Wohnen Sie mit Ihrer Familie? Ja. Okay, was ist Sie von Beruf,
+
+140
+00:16:03,980 --> 00:16:18,270
+Herr Hofmeister? Ich bin Hausmann. Okay. Herr Hofmeister, würden Sie etwas über Ihren Onkel
+
+141
+00:16:18,270 --> 00:16:31,440
+sagen? Ja, ja, mein Onkel hatte Nierenkrebs, Doktor, ja. Okay, alles klar. Das waren meine
+
+142
+00:16:31,440 --> 00:16:38,800
+Fragen. Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich? Ja, Doktor,
+
+143
+00:16:38,800 --> 00:16:49,960
+was habe ich? Ich habe viel Angst. Während unserer Aufnahmegespräch sind Sie umgebrechen
+
+144
+00:16:49,960 --> 00:17:00,240
+und Sie haben mir eine EKG geschrieben. Ich habe Herzkrankheit oder... Ja, also Herr Hofmeister,
+
+145
+00:17:00,240 --> 00:17:06,080
+machen Sie sich bitte keine Sorgen. Ich wusste das Anamnesegespräch unterbrechen,
+
+146
+00:17:06,080 --> 00:17:20,040
+weil Sie eine Brustschmerzen haben. Ja, also ich habe eine EKG geschrieben, aber alles gut beim
+
+147
+00:17:20,040 --> 00:17:27,880
+EKG. Also ich vermute, dass Sie ein Problem mit der Speiseröhre haben. Aber es ist zu früh,
+
+148
+00:17:27,880 --> 00:17:35,360
+etwas genau zu sagen. Ich werde Sie zuerst körperlich untersuchen, dann werde ich Ihnen
+
+149
+00:17:35,360 --> 00:17:41,480
+Blut abnehmen und ein paar Untersuchungen veranlassen. Sobald die Ergebnisse da sind,
+
+150
+00:17:41,480 --> 00:17:54,000
+werde ich Ihnen die weitere Information mitteilen. Okay? Okay, ich möchte gerne wissen, ob ich in
+
+151
+00:17:54,000 --> 00:18:03,440
+Krankenhaus bleibe oder kann ich nach Hause gehen? Herr Hofmeister, ein paar Stunden müssen Sie
+
+152
+00:18:03,440 --> 00:18:11,600
+sicherlich bei uns bleiben, damit wir die Diagnose bestätigen können und eine Therapie
+
+153
+00:18:11,600 --> 00:18:21,160
+einleiten können. Aber wenn wir etwas Auffälliges finden, kann es auch passieren,
+
+154
+00:18:21,160 --> 00:18:28,000
+dass Sie ein paar Tage im Krankenhaus bleiben sollen. Ja? Okay, danke schön Doktor. Ich
+
+155
+00:18:28,000 --> 00:18:34,000
+warte auf Sie. Danke. Sehr gerne. Bitte nehmen Sie Platz und warten Sie mal. Ich bin gleich wieder da.
+
+156
+00:18:34,000 --> 00:18:45,720
+Okay? Danke schön. Bis gleich. Bitte. Heute haben wir es geschafft, Haydar. Ja,
+
+157
+00:18:45,720 --> 00:18:49,060
+Herr Doktor. Wenn Sie keine Zigarre oder so trinken, wenn die Kinder nicht sehr
+
+158
+00:18:49,060 --> 00:18:55,160
+gesund sind, dann... Wenn sie nicht gesund sind, dann trinken sie. Ja, ja, ja.
+
+159
+00:19:44,230 --> 00:19:54,550
+Schönen guten Abend, Herr Oberarzt. Ich habe einen neuen Patienten aufgenommen und ich würde
+
+160
+00:19:54,550 --> 00:20:00,630
+gerne über ihn berichten. Haben Sie kurz Zeit für mich? Ja, bitte. Danke schön. Herr
+
+161
+00:20:00,630 --> 00:20:13,990
+Herrmann Hofmeister ist 56 Jahre alt, 1 Meter 78 groß und 76 Kilogramm schwer. Herr Hofmeister
+
+162
+00:20:13,990 --> 00:20:24,710
+stellte sich heute bei uns seit ein und halb Wochen bestehender retrosternale Schmerzen vor.
+
+163
+00:20:24,710 --> 00:20:32,030
+Der Patienten zufolge seien die Schmerzen plötzlich aufgetreten und mit der Zeit schlimmer
+
+164
+00:20:32,030 --> 00:20:41,510
+geworden. Die Schmerzen seien drückend und dumpf und die Schmerzen würden nirgendwo hin
+
+165
+00:20:41,510 --> 00:20:57,950
+ausstrahlen. Der Patient berichtete über Engelgefühl in der Brust und Halitosis
+
+166
+00:20:57,950 --> 00:21:09,990
+und Aufstoßen. Die Schmerzintensität wurde auf eine Schmerzskala mit 9 von 10 bewertet
+
+167
+00:21:09,990 --> 00:21:25,950
+und der Patient habe dagegen kein Medikament eingenommen. Die Fragen nach... Entschuldigung,
+
+168
+00:21:25,950 --> 00:21:40,190
+ja. Und der Patient erwähnte eine Gewichtsabnahme von 6 Kilogramm innerhalb von 6 Monaten und er
+
+169
+00:21:40,190 --> 00:21:53,750
+leidet unter Appetitlosigkeit. Außerdem klagte er über Fatigue und Dysphagie. In der
+
+170
+00:21:53,750 --> 00:22:12,270
+letzter Zeit kann er nur Flüssigkeiten schlucken und er erwähnte, dass er in den
+
+171
+00:22:12,270 --> 00:22:28,510
+letzten Wochen zweimal Hematemesis leide. Die Fragen nach Melena, Hämodekezi und Globus
+
+172
+00:22:28,510 --> 00:22:37,510
+Historicus wurden verneint. Bei der vegetativen Anamnese seien die Folienden bekannt.
+
+173
+00:22:37,510 --> 00:22:51,870
+Nuktyrie 3-4 Mal in der Nacht und schmerzbedingte Insomnie in Form von Einschlafstörungen und
+
+174
+00:22:51,870 --> 00:22:59,350
+Durchschlafstörungen. Er sei vollständig gegen Kinderkrankheiten und 4-mal Covid-Infektion
+
+175
+00:22:59,350 --> 00:23:09,710
+geimpft. An Vorerkrankungen nannte er seit 25 Jahren bestehenden Diabetes Melitus und seit
+
+176
+00:23:09,710 --> 00:23:19,550
+10 Jahren bestehende alte Hypertonie. Er nehme Metformin 850 Milligramm morgens und abends,
+
+177
+00:23:19,550 --> 00:23:32,270
+11 April morgens ein. Die Dosierung von 11 April sollte geklärt werden. Vor einem Jahr
+
+178
+00:23:32,270 --> 00:24:03,980
+sei er eine Lenzimplantation. Vor einem Jahr sei bei ihm eine linkseitige Lenzimplantation
+
+179
+00:24:03,980 --> 00:24:19,660
+durchgeführt worden und vor einem Jahr habe er einen Nervenzusammenbruch gelitten,
+
+180
+00:24:19,660 --> 00:24:31,550
+die in der Klinik behandelt worden sei. Er hatte Allergie gegen mehr Früchte und Fisch,
+
+181
+00:24:31,550 --> 00:24:41,830
+die sich durch Dyspnoe, Exanthin und Puritus äußern. Nikotinkonsum und Drogenkonsum wurden
+
+182
+00:24:41,830 --> 00:24:50,430
+verneint. Er trinke ein Glas Wein am Wochenende. In der Familienanalyse gab er an, dass der
+
+183
+00:24:50,430 --> 00:25:01,110
+Vater an der Lenz leidet und die Mutter leidet an Diabetes Melitus. Seine Eltern wohnen in einem
+
+184
+00:25:01,110 --> 00:25:17,390
+Alteheim. Er habe einen Bruder, der vor sechs Jahren an Magenkarzinum verstorben sei und
+
+185
+00:25:17,390 --> 00:25:37,510
+seine Onkel leiden an Nierenkarzinum. Er sei verheiratet und habe fünf gesunde Kinder und
+
+186
+00:25:37,510 --> 00:25:46,070
+er wohne mit seiner Familie. Er sei Hausmann von Beruf. Ich gehe von einem Verdacht auf
+
+187
+00:25:46,070 --> 00:25:54,070
+eine Esophaguskarzinum aus, da der Patient typische Symptome dafür aufweist. Der
+
+188
+00:25:54,070 --> 00:26:09,950
+Patient leidet unter Dysphagie und retrochternale Schmerzen, Gewichtsabnahme von sechs Kilogramm
+
+189
+00:26:09,950 --> 00:26:18,870
+innerhalb von sechs Monaten, chronischer Fatigue und zweimal Hämathemesis. Diese Symptome
+
+190
+00:26:18,870 --> 00:26:29,430
+sprechen für eine Esophaguskarzinum. Als Differenzdiagnosen kommen Magenkarzinum,
+
+191
+00:26:29,430 --> 00:26:41,310
+Mekadvertikel, Akelazia in Betracht. Um meine Verdachtdiagnose zu bestätigen,
+
+192
+00:26:41,310 --> 00:26:50,470
+würde ich zunächst bei den Patienten die Vitaparameter überwachen und eine körperliche
+
+193
+00:26:50,470 --> 00:26:56,830
+Untersuchung durchführen. Bei der körperlichen Untersuchung achte ich darauf, ob eine
+
+194
+00:26:56,830 --> 00:27:05,110
+Hautfarbeveränderung gern, wie z.B. Palore, vergrößerte Lymphknoten vorhanden sind und
+
+195
+00:27:05,110 --> 00:27:12,350
+zusätzlich ist eine Labouruntersuchung sinnvoll, um eine umfassende Diagnostik zu
+
+196
+00:27:12,350 --> 00:27:23,510
+gewährleisten. Dabei würde ich Blutbild, CAP, BSG, Leberwerte, Nierenwerte, Tumormakels,
+
+197
+00:27:23,510 --> 00:27:37,390
+Elektrolyten bestimmen lassen. Danach würde ich eine Esophagosophage-Gastroskopie
+
+198
+00:27:37,390 --> 00:27:46,790
+durchführen, um die Verdachtdiagnose zu bestätigen und eine Gewebeprobe zu entnehmen.
+
+199
+00:27:46,790 --> 00:27:57,270
+Darüber hinaus würde ich eine Abdominalsonographie fernlassen, um die möglichen Metastasen
+
+200
+00:27:57,270 --> 00:28:05,710
+genau zu beurteilen. Und gegebenenfalls würde ich eine CT des Thorax und CT des Abdomens
+
+201
+00:28:05,710 --> 00:28:17,990
+durchführen, um die möglichen Metastasen genau zu überprüfen. Und gegebenenfalls
+
+202
+00:28:17,990 --> 00:28:28,350
+würde ich auch eine PCT durchführen, um die möglichen Metastasen am ganzen Körper
+
+203
+00:28:28,350 --> 00:28:44,890
+genau zu beurteilen. Und ich würde eine Röntgen-Kontrast-Untersuchung durchführen,
+
+204
+00:28:44,890 --> 00:28:57,690
+um die mögliche Stenose oder Verengung der Speiseröhre des Esophages zu genau
+
+205
+00:28:57,690 --> 00:29:05,650
+beurteilen. Sollte sich die Verdachtdiagnose bestätigen, würde ich den Patienten stationär
+
+206
+00:29:05,650 --> 00:29:14,970
+aufnehmen und ich würde einen Venösenzugang legen und ich würde Flüssigkeitzufuhr,
+
+207
+00:29:14,970 --> 00:29:23,970
+Analgetika verabreichen. Ich würde einen chirurgischen Konsil anfordern, um die
+
+208
+00:29:23,970 --> 00:29:42,770
+Therapie des Patienten zu optimieren. Wenn der Kacidom in lokalisiertes Studium ist,
+
+209
+00:29:42,770 --> 00:29:59,730
+würde ich eine Mukosektomie empfehlen oder ich würde eine Ösophagus-Ösophagektomie
+
+210
+00:29:59,730 --> 00:30:10,370
+und Magenhochzug empfehlen. Wenn es eine Metastasen gibt, würde ich eine Chemotherapie
+
+211
+00:30:10,370 --> 00:30:21,130
+empfehlen. Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit den
+
+212
+00:30:21,130 --> 00:30:35,330
+geplanten Untersuchungen fortfahren. Herr Kollege, Sie haben gesagt, ich habe
+
+213
+00:30:35,330 --> 00:30:47,050
+ein EKG geschrieben. Können Sie uns das EKG aufklären? Ja, gerne. Ich werde Sie über
+
+214
+00:30:47,050 --> 00:30:59,530
+das EKG aufklären. Das EKG ist eine Untersuchung, mit der wir die elektrische Aktivität des
+
+215
+00:30:59,530 --> 00:31:15,450
+Herzens aufzeichnen können. Diese Untersuchung hilft uns, die Durchblutstörungen, Herzrhythmstörungen
+
+216
+00:31:15,450 --> 00:31:35,170
+und andere Herzkrankheiten genau zu erkennen. Dazu werden mehrere Elektroden auf der Brust
+
+217
+00:31:35,170 --> 00:31:45,490
+und auf den Armen und Beinen befestigt. Diese Elektroden messen die elektrische Aktivität
+
+218
+00:31:45,490 --> 00:31:58,770
+des Herzens und zeigen sie wie Kurven auf einem Monitor. Diese Untersuchung ist sowohl
+
+219
+00:31:59,770 --> 00:32:09,770
+als auch schmerzfrei. Diese Untersuchung dauert ca. einige Minuten. Es gibt keine
+
+220
+00:32:09,770 --> 00:32:17,490
+Komplikationen oder Kontraindikationen. Dafür benötigt der Patient keine spezielle
+
+221
+00:32:17,490 --> 00:32:26,970
+Vorbereitung. Der Patient soll ruhig auf dem Rücken liegen. Nach der Untersuchung
+
+222
+00:32:26,970 --> 00:32:34,170
+gibt es keine Anschränkungen und der Patient kann den Alltag wie gewohnt fortsetzen.
+
+223
+00:32:34,170 --> 00:32:43,300
+Würden Sie in diesem Fall eine Echokardiografie durchführen?
+
+224
+00:32:43,300 --> 00:32:58,460
+Ja, wir können eine Echokardiografie durchführen, um die Klappenstörungen
+
+225
+00:32:58,460 --> 00:33:11,050
+und Herzwandstörungen genau zu beurteilen. Der Patient leidet unter Brustschmerzen und
+
+226
+00:33:11,050 --> 00:33:19,050
+bei dieser Situation sollen wir eine EKG schreiben und auch eine Echokardiografie durchführen.
+
+227
+00:33:19,050 --> 00:33:23,770
+Würden Sie in diesem Fall eine PTCA durchführen?
+
+228
+00:33:23,770 --> 00:33:40,000
+Der Patient leidet unter Brustschmerzen, aber ich vermute, dass der Patient an
+
+229
+00:33:40,000 --> 00:33:48,960
+Sophagus carcinum leidet und wir haben eine EKG geschrieben. Wenn es ein Problem mit der
+
+230
+00:33:48,960 --> 00:34:00,600
+EKG gibt, können wir eine PTCA durchführen. Aber wenn es kein Problem mit der EKG gibt,
+
+231
+00:34:00,600 --> 00:34:22,720
+dann sollen wir keine PTCA durchführen. Was können wir mit Hilfe einer PET-CT in diesem Fall
+
+232
+00:34:22,720 --> 00:34:37,480
+erhalten? Wir können mit Hilfe einer PET-CT die Metastasen genau beurteilen.
+
+233
+00:34:37,480 --> 00:34:48,960
+Also diese Untersuchung hilft uns, die Tumore und die Metastase genau zu beurteilen.
+
+234
+00:34:48,960 --> 00:35:04,670
+Ist es möglich, in diesem Fall eine Akalasi zu machen?
+
+235
+00:35:04,670 --> 00:35:14,750
+Ja, Akalasi kommt als eine Differenziadiagnose bei diesem Fall. Deswegen können wir eine
+
+236
+00:35:14,750 --> 00:35:33,110
+Kontrastmitteluntersuchung durchführen, um die mögliche Pathologie wie zum Beispiel
+
+237
+00:35:33,110 --> 00:35:44,030
+Akalasi genau zu beurteilen. Wie behandeln wir diese Patienten?
+
+238
+00:35:44,030 --> 00:35:59,990
+Zuerst sollen wir eine Gewebeprobe entnehmen während der Oesophagoskopie. Dann werden wir
+
+239
+00:35:59,990 --> 00:36:16,110
+diese Gewebeprobe zur histologischen Untersuchung. Dann werden wir das Studium des Patienten
+
+240
+00:36:16,110 --> 00:36:29,310
+genau feststellen. Wenn der Katsynom, ein lokalisiertes Katsynom ist, dann können wir
+
+241
+00:36:29,310 --> 00:36:48,710
+eine Mukosektomie während der Oesophagoskopie durchführen. Aber wenn der Katsynom ein fortschrittener
+
+242
+00:36:48,710 --> 00:37:03,750
+Katsynom ist, dann können wir eine Oesophagektomie und Magenhochzug durchführen und auch
+
+243
+00:37:03,750 --> 00:37:12,110
+Lymphadenektomie durchführen. Und wenn es eine Metastase gibt, sollen wir eine Chemotherapie
+
+244
+00:37:12,110 --> 00:37:23,030
+bei den Patienten anordnen. Was empfehlen Sie nach der Behandlung den Patienten?
+
+245
+00:37:23,030 --> 00:37:44,590
+Ja, regelmäßige Hausarztkontrolle sind sehr wichtig. Der Patient rauchen nicht. Es gibt
+
+246
+00:37:44,590 --> 00:38:01,110
+kein Risikofaktor außer Bruder. Der Bruder hat vor sechs Jahren an Magenkrebs verstorben.
+
+247
+00:38:01,110 --> 00:38:29,800
+Der Patient soll regelmäßig den Hausarzt besuchen und die Tumormarker kontrollieren lassen.
+
+248
+00:38:30,360 --> 00:38:34,880
+Würden Sie in diesem Fall Abdomenzonographie durchführen?
+
+249
+00:38:34,880 --> 00:38:46,840
+Ja, Abdomenzonographie ist eine wichtige Untersuchung bei diesen Patienten, damit wir die Metastase
+
+250
+00:38:46,840 --> 00:38:58,280
+von inneren Bauchorganen feststellen. Wie zum Beispiel Lebermetastase oder Nierenmetastase.
+
+251
+00:38:58,280 --> 00:39:01,080
+Das ist sehr wichtig.
+
+252
+00:39:04,780 --> 00:39:14,220
+Okay, Herr Kollegen, ich gratuliere Sie. Bitte gehen Sie auf unser Infodesk und nehmen Sie Ihre Zertifikat.
+
+253
+00:39:14,220 --> 00:39:20,140
+Ich wünsche Ihnen viel Erfolg für Ihre Arbeitsweg.
+
+254
+00:39:20,140 --> 00:39:24,220
+Vielen Dank Herr Abbas. Sie sind sehr nett. Dankeschön.

@@ -1,0 +1,1591 @@
+1
+00:00:02,580 --> 00:00:08,140
+Schönen guten Tag, mein Name ist Uccak, ich bin auf dieser Station als Assistenzarzt tätig
+
+2
+00:00:08,140 --> 00:00:12,380
+und ich würde gerne mit Ihnen das Anamnesegespräch durchführen.
+
+3
+00:00:12,380 --> 00:00:14,380
+Damit sind Sie einverstanden?
+
+4
+00:00:14,380 --> 00:00:17,380
+Ja, ich bin einverstanden, Doktor.
+
+5
+00:00:17,380 --> 00:00:21,100
+Danke, bitte fragen Sie nach, wenn Sie etwas nicht verstehen.
+
+6
+00:00:21,100 --> 00:00:27,780
+Ich werde Ihnen gerne ein paar allgemeine Fragen stellen, bevor Sie mir über Ihre Beschwerden erzählen.
+
+7
+00:00:27,780 --> 00:00:29,180
+Ist das in Ordnung?
+
+8
+00:00:29,180 --> 00:00:30,780
+Ja, natürlich.
+
+9
+00:00:30,980 --> 00:00:32,980
+Wie heißen Sie denn?
+
+10
+00:00:32,980 --> 00:00:35,980
+Ich bin Martin Steinbach.
+
+11
+00:00:35,980 --> 00:00:45,680
+Können Sie bitte Ihren Nachname langsam buchstabieren?
+
+12
+00:00:45,680 --> 00:00:55,680
+S-T-E-I-N-B-A-C-K
+
+13
+00:00:55,680 --> 00:00:59,680
+Ok, Herr Steinbach, wie alt sind Sie?
+
+14
+00:00:59,680 --> 00:01:03,680
+Ich bin 68 Jahre alt.
+
+15
+00:01:03,880 --> 00:01:06,880
+Wann sind Sie genau geboren?
+
+16
+00:01:06,880 --> 00:01:11,880
+4.06.1957
+
+17
+00:01:11,880 --> 00:01:14,880
+Wie groß sind Sie?
+
+18
+00:01:14,880 --> 00:01:18,880
+Ich bin 78 Kilo.
+
+19
+00:01:18,880 --> 00:01:20,880
+Und wie groß sind Sie?
+
+20
+00:01:20,880 --> 00:01:25,930
+1,76 Meter.
+
+21
+00:01:25,930 --> 00:01:29,930
+Wie ist Ihr Hausarzt oder Hausärztin?
+
+22
+00:01:29,930 --> 00:01:32,930
+Mein Hausarzt ist Herr Schmidt.
+
+23
+00:01:33,130 --> 00:01:40,420
+Ok, danke für die Informationen.
+
+24
+00:01:40,420 --> 00:01:42,420
+Herr Steinbach, was kann ich für Sie tun?
+
+25
+00:01:42,420 --> 00:01:44,420
+Was für Beschwerden haben Sie zurzeit?
+
+26
+00:01:44,420 --> 00:01:52,420
+Ja, Doktor, ich habe sehr starke Schmerzen in beiden Waden.
+
+27
+00:01:52,420 --> 00:02:01,050
+Seit wann haben Sie diese Schmerzen?
+
+28
+00:02:01,050 --> 00:02:06,050
+Seit ungefähr zwei bis drei Tagen habe ich starke Schmerzen.
+
+29
+00:02:06,250 --> 00:02:16,250
+Aber seit ungefähr fünf Wochen habe ich diese Schmerzen.
+
+30
+00:02:16,250 --> 00:02:22,980
+Sind diese Schmerzen im Verlauf der Zeit schlimmer geworden?
+
+31
+00:02:22,980 --> 00:02:25,980
+Ja, immer schlimmer geworden.
+
+32
+00:02:25,980 --> 00:02:32,350
+Sind diese Schmerzen plötzlich oder langsam aufgetreten?
+
+33
+00:02:32,550 --> 00:02:46,550
+Plötzlich aufgetreten, aber in Verlauf der Zeit sind die Schmerzen immer schlimmer geworden.
+
+34
+00:02:46,550 --> 00:02:50,550
+Können Sie bitte diese Schmerzen genau beschreiben?
+
+35
+00:02:50,550 --> 00:02:54,550
+Sind Sie eher drückend oder stechend, brennend?
+
+36
+00:02:54,550 --> 00:02:58,790
+Dumpf, Doktor.
+
+37
+00:02:58,790 --> 00:03:01,790
+Schreiben diese Schmerzen irgendwohin aus?
+
+38
+00:03:01,990 --> 00:03:04,990
+Ich habe nicht bemerkt.
+
+39
+00:03:04,990 --> 00:03:10,990
+Ich habe immer bei den Waden bemerkt.
+
+40
+00:03:10,990 --> 00:03:11,990
+Ok.
+
+41
+00:03:11,990 --> 00:03:18,990
+Herr Steinbach, haben Sie eine bestimmte Auslöser für diese Schmerzen bemerkt?
+
+42
+00:03:18,990 --> 00:03:22,990
+Ich meine Bewegung oder Drucken?
+
+43
+00:03:23,190 --> 00:03:25,190
+Ja, Doktor.
+
+44
+00:03:25,190 --> 00:03:38,730
+Ich habe bemerkt, dass es besser wird, wenn ich die Beine hochlege.
+
+45
+00:03:38,730 --> 00:03:39,730
+Ok.
+
+46
+00:03:39,730 --> 00:03:48,730
+Herr Steinbach, haben Sie an den Waden Hautfarbeveränderung bemerkt?
+
+47
+00:03:48,730 --> 00:03:53,730
+Ich meine Rötung oder Blässehaut?
+
+48
+00:03:53,930 --> 00:03:57,930
+Ja, was mir aufgefallen ist, Doktor.
+
+49
+00:03:57,930 --> 00:04:02,930
+Die Haut an meinen Beinen sieht verändert aus.
+
+50
+00:04:02,930 --> 00:04:14,670
+Sie sind kälter als sonst Blässe und sie wirken irgendwie dünner.
+
+51
+00:04:14,670 --> 00:04:15,670
+Ok.
+
+52
+00:04:15,670 --> 00:04:21,070
+Wie stark sind diese Schmerzen auf einer Schmerzskala von 1 bis 10, wobei 1 sehr
+
+53
+00:04:21,070 --> 00:04:25,070
+leichten und 10 sehr starke Schmerzen entspricht?
+
+54
+00:04:25,670 --> 00:04:35,670
+Ich würde sie auf einer Schkala von 6 oder 9 bemerken.
+
+55
+00:04:35,670 --> 00:04:36,670
+Neun?
+
+56
+00:04:36,670 --> 00:04:37,670
+Nein, fast nicht.
+
+57
+00:04:37,670 --> 00:04:40,670
+8 oder 9.
+
+58
+00:04:40,670 --> 00:04:42,670
+8 bis 9.
+
+59
+00:04:42,670 --> 00:04:48,670
+Herr Steinbach, soll ich Ihnen eine Schmerzmitte geben oder können Sie diese Schmerzen
+
+60
+00:04:48,670 --> 00:04:51,670
+noch ein bisschen bis Ende des Gesprächs aushalten?
+
+61
+00:04:52,270 --> 00:04:55,270
+Doktor, ich habe sehr starke Schmerzen.
+
+62
+00:04:55,270 --> 00:05:00,270
+Es wäre besser, Sie mir eine Schmerzmittel geben.
+
+63
+00:05:00,270 --> 00:05:01,270
+Ja, sehr gerne.
+
+64
+00:05:01,270 --> 00:05:06,270
+Also darf ich fragen, haben Sie eine Allergie gegen Schmerzmittel?
+
+65
+00:05:07,270 --> 00:05:11,270
+Ja, ich bin gegen Penisinalergie, Doktor.
+
+66
+00:05:13,270 --> 00:05:19,270
+Und leiden Sie an chronischen Erkrankungen, wie zum Beispiel Nierenversagen?
+
+67
+00:05:19,870 --> 00:05:23,870
+Ja, nein, ich habe nicht Nierenkrankheit, nein.
+
+68
+00:05:23,870 --> 00:05:24,870
+Alles klar.
+
+69
+00:05:24,870 --> 00:05:31,870
+Schwester Müller, bitte geben Sie den Patienten eine Schmerzmittel.
+
+70
+00:05:32,870 --> 00:05:33,870
+Ok.
+
+71
+00:05:33,870 --> 00:05:38,870
+Herr Steinbach, wie fühlen Sie sich jetzt besser oder?
+
+72
+00:05:38,870 --> 00:05:40,870
+Ich fühle mich sehr gut.
+
+73
+00:05:40,870 --> 00:05:41,870
+Danke schön, Doktor.
+
+74
+00:05:41,870 --> 00:05:43,870
+Ok, das freut mich.
+
+75
+00:05:43,870 --> 00:05:44,870
+Ok.
+
+76
+00:05:45,470 --> 00:05:58,470
+Herr Steinbach, können Sie einfach laufen, ohne diese Schmerzen zu bekommen?
+
+77
+00:05:58,470 --> 00:06:09,470
+Ja, wenn ich bei Bebegünnen laufen, ist die Schmerzen schlechter.
+
+78
+00:06:09,470 --> 00:06:11,870
+Wie weit können Sie laufen?
+
+79
+00:06:11,870 --> 00:06:13,870
+Ich meine, wie viele Meter?
+
+80
+00:06:14,870 --> 00:06:22,870
+Ungefähr 200 Meter oder 300 Meter.
+
+81
+00:06:22,870 --> 00:06:26,910
+Ok.
+
+82
+00:06:26,910 --> 00:06:34,910
+Träten diese Schmerzen auch in Ruhe auf?
+
+83
+00:06:34,910 --> 00:06:37,910
+Ich habe nicht bemüht, nein.
+
+84
+00:06:37,910 --> 00:06:40,540
+Ok.
+
+85
+00:06:40,540 --> 00:06:44,540
+Leiden Sie unter Taubheitsgefühl oder Kribben?
+
+86
+00:06:44,540 --> 00:06:51,450
+Ich habe nicht bemüht.
+
+87
+00:06:51,450 --> 00:06:52,450
+Alles klar.
+
+88
+00:06:52,450 --> 00:06:57,450
+Leiden Sie unter Luftnot oder Husten?
+
+89
+00:06:57,450 --> 00:07:01,450
+Ich habe keine Husten und Luftnot, nein.
+
+90
+00:07:01,450 --> 00:07:07,450
+Oder leiden Sie unter Herzrasen, Brustschmerzen?
+
+91
+00:07:07,450 --> 00:07:10,450
+Ich habe nicht bemüht, Doktor.
+
+92
+00:07:10,450 --> 00:07:16,000
+Das freut mich.
+
+93
+00:07:16,000 --> 00:07:17,000
+Alles klar.
+
+94
+00:07:18,000 --> 00:07:27,000
+Herr Steinbach, haben Sie in diesem Bereich, ich meine Wadenbereich, Haarausfall bemerkt?
+
+95
+00:07:27,000 --> 00:07:29,000
+Oder Nagelveränderungen?
+
+96
+00:07:29,000 --> 00:07:39,000
+Doktor, ich habe bemerkt, ich habe Haarausfall, ja.
+
+97
+00:07:39,000 --> 00:07:46,000
+Aber Nagelveränderungen habe ich nicht bemerkt, nein.
+
+98
+00:07:46,000 --> 00:07:47,000
+Alles klar.
+
+99
+00:07:47,000 --> 00:07:51,000
+Ist Ihnen übel oder mussten Sie erbrechen?
+
+100
+00:07:51,000 --> 00:07:56,000
+Übel, brechen, ja.
+
+101
+00:07:56,000 --> 00:08:00,000
+Mir ist oft übel, ja.
+
+102
+00:08:00,000 --> 00:08:03,000
+Und mussten Sie erbrechen?
+
+103
+00:08:03,000 --> 00:08:08,000
+Ich habe keine erbrechen, aber mir ist oft übel, ja.
+
+104
+00:08:08,000 --> 00:08:10,000
+Ok, verstanden.
+
+105
+00:08:10,000 --> 00:08:14,000
+Haben Sie Fieber, Schüttefrost oder Nachtschweiß?
+
+106
+00:08:14,000 --> 00:08:21,000
+Ich habe nicht bemerkt, aber seit drei Tagen habe ich keinen Apathit, Doktor.
+
+107
+00:08:21,000 --> 00:08:24,000
+Und ich habe Verstopfung.
+
+108
+00:08:24,000 --> 00:08:29,780
+Seit wann haben Sie Verstopfung?
+
+109
+00:08:29,780 --> 00:08:32,780
+Seit einem Woche, ja.
+
+110
+00:08:32,780 --> 00:08:38,620
+Ok.
+
+111
+00:08:38,620 --> 00:08:43,620
+Haben Sie in der letzter Zeit ab- oder zugenommen, ich meine unwillkürlich?
+
+112
+00:08:43,620 --> 00:08:46,620
+Ja, nein, ich habe nicht bemerkt.
+
+113
+00:08:46,620 --> 00:08:48,620
+Ich bin immer gleichgewicht.
+
+114
+00:08:48,620 --> 00:08:50,620
+Ok, das freut mich.
+
+115
+00:08:50,620 --> 00:08:54,620
+Haben Sie Probleme beim Wasserlassen?
+
+116
+00:08:54,620 --> 00:09:00,470
+Wasserlassen? Nein, keine.
+
+117
+00:09:00,470 --> 00:09:02,470
+Ok, schlafen Sie gut?
+
+118
+00:09:02,470 --> 00:09:10,470
+Wegen Übel und Verstopfung.
+
+119
+00:09:10,470 --> 00:09:14,470
+Manchmal habe ich Bauchschmerzen wegen Verstopfung.
+
+120
+00:09:14,470 --> 00:09:16,470
+Und schlafe ich nicht gut.
+
+121
+00:09:16,470 --> 00:09:19,470
+Ich habe Durchschlafstörungen.
+
+122
+00:09:19,470 --> 00:09:22,140
+Ok, alles klar.
+
+123
+00:09:22,140 --> 00:09:25,140
+Nehmen Sie dagegen ein Medikament ein oder?
+
+124
+00:09:25,140 --> 00:09:29,140
+Was gegen?
+
+125
+00:09:29,140 --> 00:09:33,140
+Gegen diese Schlafstörungen, ich meine.
+
+126
+00:09:33,140 --> 00:09:42,140
+Ich habe ein Schlafmittel im Däme gekauft.
+
+127
+00:09:42,140 --> 00:09:46,140
+Aber er nähert mich nicht jetzt, wie es heißt.
+
+128
+00:09:46,140 --> 00:09:53,270
+Ich nehme es bei Bedarf ein.
+
+129
+00:09:53,270 --> 00:09:55,270
+Ok, alles klar.
+
+130
+00:09:55,270 --> 00:10:00,270
+Sind Sie vollständig gegen Kinderkrankheiten geimpft?
+
+131
+00:10:00,270 --> 00:10:04,270
+Ja, ich bin vollständig geimpft, Doktor.
+
+132
+00:10:04,270 --> 00:10:09,270
+Ok, und haben Sie in der letzter Zeit eine lange Reise gemacht?
+
+133
+00:10:09,270 --> 00:10:14,270
+Mit dem Auto oder im Flugzeug?
+
+134
+00:10:14,270 --> 00:10:17,270
+Was bedeutet in letzter Zeit?
+
+135
+00:10:17,270 --> 00:10:20,270
+Ich meine in ein paar Wochen?
+
+136
+00:10:20,270 --> 00:10:22,270
+Ein paar Wochen, nein.
+
+137
+00:10:22,270 --> 00:10:30,270
+Ich habe keine Urlaub oder andere Reise gemacht, nein.
+
+138
+00:10:30,270 --> 00:10:31,270
+Alles klar.
+
+139
+00:10:31,270 --> 00:10:32,270
+Ok.
+
+140
+00:10:32,270 --> 00:10:36,270
+Herr Steinbach, darf ich fragen,
+
+141
+00:10:36,270 --> 00:10:40,270
+haben Sie ein Medikament gegen diese Schmerzen?
+
+142
+00:10:40,270 --> 00:10:46,270
+Waren Sie schon beim anderen Arzt gewesen?
+
+143
+00:10:46,270 --> 00:10:52,270
+Ja Doktor, ich habe zwei Schmerzmittel angeboten bekommen.
+
+144
+00:10:52,270 --> 00:11:06,270
+Aber ich habe abgelenkt, weil ich schon dreimal 600 mg Überprofen genommen habe.
+
+145
+00:11:06,270 --> 00:11:08,270
+Das hat aber nicht gebracht.
+
+146
+00:11:08,270 --> 00:11:10,270
+Ok.
+
+147
+00:11:10,270 --> 00:11:14,270
+Und waren Sie ein anderer Arzt gewesen?
+
+148
+00:11:14,270 --> 00:11:17,270
+Ich meine wegen dieser Beschwerden?
+
+149
+00:11:17,270 --> 00:11:22,270
+Ich gehe nicht an den anderen Arzt, nein.
+
+150
+00:11:22,270 --> 00:11:23,270
+Alles klar.
+
+151
+00:11:23,270 --> 00:11:25,270
+Leiden Sie an chronischen Erkrankungen,
+
+152
+00:11:25,270 --> 00:11:30,270
+von denen ich wissen sollte, wie zum Beispiel Bluthochdruck oder Zuckerkrankheit?
+
+153
+00:11:30,270 --> 00:11:40,760
+Ja Doktor, ich habe seit 20 Jahren chronische Lungenkrankheit.
+
+154
+00:11:40,760 --> 00:11:44,760
+Chronische Obstruktur Lungenkrankheit, ja.
+
+155
+00:11:44,760 --> 00:11:45,760
+Ok.
+
+156
+00:11:45,760 --> 00:11:47,760
+Und was nehmen Sie dagegen ein?
+
+157
+00:11:47,760 --> 00:11:59,760
+Ja, ich benutze eine Spray, aber ich weiß gerade nicht, wie sie heißt.
+
+158
+00:11:59,760 --> 00:12:00,760
+Ok, kein Problem.
+
+159
+00:12:00,760 --> 00:12:05,760
+Also ich werde Ihrem Arzt kontaktieren, ja?
+
+160
+00:12:05,760 --> 00:12:06,760
+Ok, danke schön.
+
+161
+00:12:06,760 --> 00:12:07,760
+Ja, gerne.
+
+162
+00:12:07,760 --> 00:12:08,760
+Und sonst?
+
+163
+00:12:09,760 --> 00:12:20,760
+Ja, außerdem der Arzt hat mir gesagt, dass ich eine chronische Laryngitis habe.
+
+164
+00:12:20,760 --> 00:12:29,820
+Und nehmen Sie dagegen ein Medikament ein?
+
+165
+00:12:29,820 --> 00:12:34,820
+Nein, ich benutze keine Medikamente.
+
+166
+00:12:34,820 --> 00:12:38,820
+Ich nehme keine Medikamente ein Doktor.
+
+167
+00:12:38,820 --> 00:12:43,820
+Ok, seit wann leiden Sie an Laryngitis?
+
+168
+00:12:43,820 --> 00:12:47,300
+Seit zwei Jahren.
+
+169
+00:12:47,300 --> 00:12:48,300
+Alles klar.
+
+170
+00:12:48,300 --> 00:12:50,300
+Das war es, oder?
+
+171
+00:12:50,300 --> 00:12:51,300
+Noch andere Erkrankungen?
+
+172
+00:12:51,300 --> 00:12:53,300
+Ja, das war es.
+
+173
+00:12:53,300 --> 00:12:56,300
+Ok, sind Sie schon einmal operiert worden?
+
+174
+00:12:56,300 --> 00:12:58,300
+Operiert worden?
+
+175
+00:12:58,300 --> 00:13:03,300
+Nein, ich hatte keine Operation.
+
+176
+00:13:03,300 --> 00:13:05,300
+Ok, das freut mich.
+
+177
+00:13:05,300 --> 00:13:11,300
+Also hatten Sie früher einen Unfall gehabt?
+
+178
+00:13:11,300 --> 00:13:14,300
+Unfall? Nein.
+
+179
+00:13:14,300 --> 00:13:15,300
+Ok.
+
+180
+00:13:15,300 --> 00:13:29,300
+Herr Steinbach, nehmen Sie regelmäßig oder bei Bedarf außer genannten Medikamenten noch irgendwelche anderen Medikamente ein?
+
+181
+00:13:29,300 --> 00:13:31,300
+Außer Spray?
+
+182
+00:13:31,300 --> 00:13:34,300
+Ich nehme keine Medikamente ein.
+
+183
+00:13:34,300 --> 00:13:36,300
+Andere.
+
+184
+00:13:36,300 --> 00:13:38,300
+Eine Medikamente ein Doktor.
+
+185
+00:13:38,300 --> 00:13:39,300
+Alles klar.
+
+186
+00:13:39,300 --> 00:13:43,300
+Sie haben gesagt, dass Sie eine Allergie gegen Penicillin haben.
+
+187
+00:13:43,300 --> 00:13:44,300
+Ja.
+
+188
+00:13:44,300 --> 00:13:46,300
+Auslässt sich diese Allergie?
+
+189
+00:13:46,300 --> 00:13:51,300
+Ja, ich habe Katzenharrallergie.
+
+190
+00:13:51,300 --> 00:14:03,220
+Bei Kontakt mit Katzen bekomme ich Rückreis und rote Hautstelle.
+
+191
+00:14:03,220 --> 00:14:07,220
+Ok. Und mit dem Penicillin?
+
+192
+00:14:07,220 --> 00:14:08,220
+Ja.
+
+193
+00:14:08,220 --> 00:14:10,220
+Wie auslässt Sie diese Allergie?
+
+194
+00:14:10,220 --> 00:14:15,550
+Rückreis und Atemnot.
+
+195
+00:14:15,550 --> 00:14:16,550
+Ok.
+
+196
+00:14:16,550 --> 00:14:20,550
+Haben Sie irgendwelche Unfertigkeiten?
+
+197
+00:14:20,550 --> 00:14:22,550
+Nein.
+
+198
+00:14:22,550 --> 00:14:24,550
+Brauchen Sie, Herr Steinbach?
+
+199
+00:14:24,550 --> 00:14:28,550
+Ja, ich rauche seit 50 Jahren, Doktor.
+
+200
+00:14:28,550 --> 00:14:31,550
+Und wie viel rauchen Sie?
+
+201
+00:14:31,550 --> 00:14:36,550
+Ungefähr 40 Zigaretten am Tag.
+
+202
+00:14:36,550 --> 00:14:46,860
+Ok. Also Herr Steinbach, Sie wissen ja, das Rauchen ist schädlich für Ihre Gesundheit.
+
+203
+00:14:46,860 --> 00:14:47,860
+Ja.
+
+204
+00:14:48,860 --> 00:14:56,860
+Ich empfehle Ihnen, mit dem Rauchen aufzuhören oder mindestens das Rauchen zu reduzieren.
+
+205
+00:14:56,860 --> 00:14:59,860
+Also wir haben ein gutes Programm im Krankenhaus.
+
+206
+00:14:59,860 --> 00:15:02,860
+Wenn Sie möchten, können wir Sie dabei unterstützen.
+
+207
+00:15:02,860 --> 00:15:11,860
+Ja, wenn Sie mir helfen können, würde ich sehr glücklich, Doktor.
+
+208
+00:15:11,860 --> 00:15:13,860
+Ja, sehr gerne.
+
+209
+00:15:13,860 --> 00:15:14,860
+Ok.
+
+210
+00:15:14,860 --> 00:15:17,860
+Trinken Sie regelmäßig Alkohol?
+
+211
+00:15:17,860 --> 00:15:28,060
+Ja, ich trinke auch jeden Tag zwei Gläser Schnaps.
+
+212
+00:15:28,060 --> 00:15:32,060
+Ok. Bitte nehmen Sie die nächste Frage nicht persönlich. Das ist eine Routinefrage.
+
+213
+00:15:32,060 --> 00:15:36,060
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+214
+00:15:36,060 --> 00:15:39,060
+Ich habe keinen Kontakt mit Drogen, Doktor.
+
+215
+00:15:39,060 --> 00:15:41,060
+Ok, das freut mich.
+
+216
+00:15:41,060 --> 00:15:45,060
+Herr Steinbach, leiden Ihre Eltern an chronischen Erkrankungen?
+
+217
+00:15:45,060 --> 00:15:50,060
+Von denen ich wissen sollte, wie zum Beispiel Schlaganfall oder Bluthochdruck?
+
+218
+00:15:50,060 --> 00:15:56,060
+Ja, mein Vater hat viele chronische Erkrankungen.
+
+219
+00:15:56,060 --> 00:16:06,060
+Diabetes, Bluthochdruck, eine Schultrüsenüberfunktion und mehrere Herzinfarkte.
+
+220
+00:16:06,060 --> 00:16:17,060
+Er hat einen Bypass bekommen und lebt jetzt in Altenheim.
+
+221
+00:16:17,060 --> 00:16:28,330
+Meine Mutter ist schon gestorben. Sie hatte Diabetes und Gewa-Mutterkrebs.
+
+222
+00:16:28,330 --> 00:16:33,330
+Mein Beileid, Herr Steinbach.
+
+223
+00:16:33,330 --> 00:16:34,330
+Ja.
+
+224
+00:16:34,330 --> 00:16:36,330
+Haben Sie Geschwister?
+
+225
+00:16:36,330 --> 00:16:39,330
+Ich habe keine. Ich bin ein Geschwister.
+
+226
+00:16:39,330 --> 00:16:41,330
+Sind Sie verheiratet?
+
+227
+00:16:41,330 --> 00:16:45,120
+Ich bin geschwistert.
+
+228
+00:16:45,120 --> 00:16:47,120
+Wohnen Sie alleine?
+
+229
+00:16:47,120 --> 00:16:51,820
+Ich lebe mit meinem Hund.
+
+230
+00:16:51,820 --> 00:16:53,820
+Haben Sie Kinder?
+
+231
+00:16:53,820 --> 00:17:02,820
+Ich habe eine Kinder, aber sie sind Erwachsene.
+
+232
+00:17:02,820 --> 00:17:05,820
+Sind Sie Rentner?
+
+233
+00:17:05,820 --> 00:17:13,820
+Ja, ich bin Rentner. Früher habe ich im Büro gearbeitet.
+
+234
+00:17:13,820 --> 00:17:14,820
+Im Büro?
+
+235
+00:17:14,820 --> 00:17:16,820
+Ja, im Büro.
+
+236
+00:17:16,820 --> 00:17:18,820
+Okay, alles klar.
+
+237
+00:17:18,820 --> 00:17:21,820
+Herr Steinbach, das waren meine Fragen.
+
+238
+00:17:21,820 --> 00:17:25,820
+Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+239
+00:17:25,820 --> 00:17:29,820
+Ja, Doktor. Was habe ich?
+
+240
+00:17:29,820 --> 00:17:44,820
+Herr Steinbach, es ist zu früh etwas genau zu sagen, aber ich vermute, dass Sie eine Duschblutstörung in den Beinen haben.
+
+241
+00:17:44,820 --> 00:17:54,820
+Deswegen werde ich Sie zuerst körperlich untersuchen und dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen veranlassen.
+
+242
+00:17:55,820 --> 00:18:02,820
+Sobald alle Ergebnisse da sind, werde ich Ihnen die weiteren Informationen mitteilen.
+
+243
+00:18:02,820 --> 00:18:06,820
+Was machen Sie mit Blut abnehmen?
+
+244
+00:18:06,820 --> 00:18:16,820
+Herr Steinbach, ich werde Ihnen Blut abnehmen und besonders Entzündungsparameter.
+
+245
+00:18:16,820 --> 00:18:20,820
+Und die Parameter über die Duschblut...
+
+246
+00:18:20,820 --> 00:18:23,820
+Ich habe einen Entzündungsparameter.
+
+247
+00:18:23,820 --> 00:18:27,820
+Ja, kann sein. Wie gesagt, das ist nur eine Verdachtdiagnose.
+
+248
+00:18:27,820 --> 00:18:35,820
+Ich möchte nur sichergehen, was Sie haben und was die Ursachen für diese Beschwerden sind.
+
+249
+00:18:35,820 --> 00:18:40,820
+Deswegen möchte ich Ihnen Blut abnehmen. Das ist sehr wichtig.
+
+250
+00:18:40,820 --> 00:18:52,820
+Ich würde gerne wissen, ob ich in Krankenhaus bleibe oder nach Hause gehen kann.
+
+251
+00:18:52,820 --> 00:19:04,820
+Ein paar Stunden müssen Sie sicherlich bei uns bleiben, damit wir die Diagnose bestätigen können und eine Therapie einlassen können.
+
+252
+00:19:04,820 --> 00:19:07,820
+Dauert es sehr lange?
+
+253
+00:19:07,820 --> 00:19:09,820
+Also Herr Steinbach...
+
+254
+00:19:09,820 --> 00:19:13,820
+Wissen Sie, ich habe einen Hund und Sie alleine in meinem Haus.
+
+255
+00:19:13,820 --> 00:19:20,820
+Okay, ich verstehe. Aber machen Sie sich bitte keine Sorgen. Bestimmt können wir eine Lösung dafür finden.
+
+256
+00:19:20,820 --> 00:19:30,820
+Wir haben hier einen Sozialdienst und können Sie dabei unterstützen.
+
+257
+00:19:30,820 --> 00:19:31,820
+Okay.
+
+258
+00:19:31,820 --> 00:19:40,820
+Wenn wir etwas Auffälliges finden, kann es auch passieren, dass Sie ein paar Tage im Krankenhaus bleiben sollen.
+
+259
+00:19:40,820 --> 00:19:50,820
+Ich muss jemanden finden, der um meinen Hund kümmert.
+
+260
+00:19:50,820 --> 00:19:58,820
+Ich verstehe Sie sehr gut. Wie gesagt, ich glaube, wir können Sie dabei unterstützen. Massen Sie sich bitte keine Sorgen.
+
+261
+00:19:58,820 --> 00:20:02,820
+Danke schön, Doktor. Ich freue mich auf Sie. Danke.
+
+262
+00:20:08,490 --> 00:20:20,090
+Guten Abend Herr Oberarzt. Ich habe einen neuen Patienten aufgenommen und ich würde gerne über ihn berichten.
+
+263
+00:20:20,090 --> 00:20:21,090
+Haben Sie kurz Zeit für mich?
+
+264
+00:20:21,090 --> 00:20:22,090
+Ja, bitte.
+
+265
+00:20:22,090 --> 00:20:23,090
+Danke schön.
+
+266
+00:20:23,090 --> 00:20:33,090
+Herr Martin Steinbach ist 68 Jahre alt, 78 Kilogramm schwer und 1,76 Meter groß.
+
+267
+00:20:33,090 --> 00:20:51,090
+Herr Steinbach stellte sich heute bei uns wegen seit zwei bis drei Tagen bestehender, plötzlich aufgetretener, beidseitiger Wadenschmerzen vor.
+
+268
+00:20:51,090 --> 00:21:03,090
+Der Patienten zufolge seien diese Schmerzen vor fünf Wochen aufgetreten und mit der Zeit schlimmer geworden.
+
+269
+00:21:03,090 --> 00:21:19,090
+Der Patient erwähnte, dass die Schmerzen dumpf seien und die Schmerzen würden nirgendwo ausstrahlen.
+
+270
+00:21:19,090 --> 00:21:34,090
+Außerdem berichtete der Patient über kalte, bläste und dünne Haut am Wadenbereich.
+
+271
+00:21:34,090 --> 00:21:51,090
+Die Schmerzintensität wurde 8 bis 9 von 10 bewertet und dreimalige 600 Milligramm Ibuprofen hat keine Linderung der Schmerzen gebracht.
+
+272
+00:21:51,090 --> 00:22:13,090
+Der Patient erwähnte, dass die Schmerzen sich beim Hochlagerung verbessern und beim Bewegung verschlimmern.
+
+273
+00:22:13,090 --> 00:22:29,090
+Außerdem erwähnte der Patient, dass er etwa 300 Meter Gehstrecken ohne Schmerzen hatte.
+
+274
+00:22:29,090 --> 00:22:46,090
+Die Fragen nach Schmerzen in Ruhe, Parastese, Hypestese, Dyspnoe, Tussis, Angina Pectoris und Tachikadi wurden verneint.
+
+275
+00:22:46,090 --> 00:22:57,090
+Der Patient hatte auch Allopathy am Wadenregion.
+
+276
+00:22:57,090 --> 00:23:02,090
+Bei der vegetativen Anamnese seien die Folgen bekannt.
+
+277
+00:23:02,090 --> 00:23:22,090
+Nausea ohne Emesis, Inapetänz seit 3 Tagen, Obsipation seit einer Woche und Insomnie in Form von Durchschlafstörungen.
+
+278
+00:23:22,090 --> 00:23:30,090
+Er sei vollständig gegen Kinderkrankheiten geimpft und Reiseanamnese wurde verneint.
+
+279
+00:23:30,090 --> 00:23:43,090
+An Vorerkrankungen nannte er seit 20 Jahren bestehende COPD und seit 2 Jahren bestehende chronische Laryngitis.
+
+280
+00:23:43,090 --> 00:24:01,560
+Der Patient nahm ein schlaffes Mittel, das er von DM gekauft hatte.
+
+281
+00:24:01,560 --> 00:24:24,560
+Der Patient hatte Allergie gegen Penicillin, die sich durch Puri-Tuss und Dyspnoe äußert.
+
+282
+00:24:24,560 --> 00:24:44,560
+Er rauchte 2 Schachteln Zigaretten täglich seit 50 Jahren.
+
+283
+00:24:44,560 --> 00:24:54,560
+Das entspricht 100 Fakunkirs und er trinke 2 Gläser Schnaps täglich.
+
+284
+00:24:54,560 --> 00:24:57,560
+Drogenkonsum wurde verneint.
+
+285
+00:24:57,560 --> 00:25:15,560
+In der Familienanamnese gab er an, dass die Mutter an Uteruskarzinom verstorben sei und davor habe sie an Diabetes mellitus gelitten.
+
+286
+00:25:15,560 --> 00:25:27,560
+Der Vater leide an Diabetes mellitus, arterieller Hypertonie, Hyperthyriose und mehrere Herzinfarkte.
+
+287
+00:25:27,560 --> 00:25:42,560
+Die Mutter sei an Uteruskarzinom verstorben und davor hat sie an Diabetes mellitus gelitten.
+
+288
+00:25:42,560 --> 00:25:54,560
+Er sei Einzelkind, geschieden, wohne mit seinem Hund und habe ein gesundes Kind.
+
+289
+00:25:54,560 --> 00:25:57,560
+Er sei Rentner und arbeitet im Büro.
+
+290
+00:25:57,560 --> 00:26:09,560
+Ich gehe von einem Verdacht auf eine PVUK aus, da der Patient typische Symptome dafür aufweist.
+
+291
+00:26:09,560 --> 00:26:17,560
+Der Patient leidet von einem Pervolk.
+
+292
+00:26:17,560 --> 00:26:39,220
+Der Patient leidet unter bilateralen Wadenschmerzen, kalte, blasse und dünne Haut am Waden und Schmerzen beim Laufen.
+
+293
+00:26:39,220 --> 00:26:49,220
+Diese Symptome sprechen für eine PVUK.
+
+294
+00:26:49,220 --> 00:27:01,220
+Als Differenzialdiagnosen kommen TvT, Discus prolapsus, Discus prolaps in Betracht, Erisbell in Betracht.
+
+295
+00:27:01,220 --> 00:27:16,570
+Um meine Verdachtdiagnose zu bestätigen, würde ich bei dem Pervolk, der Pervolk,
+
+296
+00:27:16,570 --> 00:27:28,570
+um meine Verdachtdiagnose zu bestätigen, würde ich bei dem Patienten die Vitaparameter überwachen und eine körperliche Untersuchung durchführen.
+
+297
+00:27:28,570 --> 00:27:44,570
+Bei der körperlichen Untersuchung achte ich darauf, ob die peripheralen Pulse tastbar sind und auch Hautfarbeveränderungen,
+
+298
+00:27:44,570 --> 00:27:56,570
+offene Wunde, Allophezie, Nägelveränderungen, Ödeme, Eritheme vorhanden sind.
+
+299
+00:27:56,570 --> 00:28:06,570
+Zusätzlich ist eine Labouruntersuchung sinnvoll, um eine umfassende Diagnose sich zu gewährleisten.
+
+300
+00:28:06,570 --> 00:28:22,570
+Dabei würde ich Leukocytinzal, CAP, BSG, Gerömmungsparameter, Dedumere, Leberwerte, Nierumerte, Elektrolyten bestimmen lassen.
+
+301
+00:28:22,570 --> 00:28:36,570
+Danach würde ich eine Doplex-Sonographie durchführen, um meine Verdachtdiagnose zu bestätigen.
+
+302
+00:28:36,570 --> 00:28:50,570
+Und sollte sich die Verdachtdiagnose bestätigen, würde ich den Patienten stationär aufnehmen und würde ich einen venösen Zugang legen.
+
+303
+00:28:50,570 --> 00:29:00,040
+Dann würde ich den Patienten Analgetika verabreichen.
+
+304
+00:29:00,040 --> 00:29:10,040
+Zusätzlich würde ich ein gefäßt-chirurgisches Konzil anfordern, um die Therapie des Patienten zu optimieren.
+
+305
+00:29:10,040 --> 00:29:26,040
+Bei diesen Patienten würde ich eine Thromboliser-Therapie anordnen.
+
+306
+00:29:26,040 --> 00:29:38,040
+Oder wir können auch eine Thromboktomie während einer Angiografie...
+
+307
+00:29:38,040 --> 00:29:44,040
+Herr Kollegen, Thromboktomie ist eine Behandlungsmethode für die TFT.
+
+308
+00:29:44,040 --> 00:29:52,040
+Ach so, ok. Sie haben recht, Herr Oberarzt.
+
+309
+00:29:52,040 --> 00:30:06,040
+Und wenn Sie mit dieser Vergehungsweise einverstanden sind, werde ich mit der geplanten Untersuchung fortfahren.
+
+310
+00:30:06,040 --> 00:30:16,040
+Herr Kollegen, wie können Sie bei körperlicher Untersuchung P?A?V?K diagnostizieren?
+
+311
+00:30:16,040 --> 00:30:26,040
+Zuerst würde ich die Peripheralpulse abtasten. Das ist sehr wichtig bei diesen Patienten.
+
+312
+00:30:26,040 --> 00:30:54,040
+Ich würde auch die Hautveränderungen beobachten, ob eine Allopäzie oder Nagelveränderungen oder offene Wunde oder Hautdünnung vorhanden sind.
+
+313
+00:30:54,040 --> 00:31:10,040
+Und es gibt auch eine Methode, also wir gleichen den Blutdruck zwischen Oberarm und Unterchenkel.
+
+314
+00:31:10,040 --> 00:31:12,040
+Ja, genau.
+
+315
+00:31:12,040 --> 00:31:16,040
+Zwischen Oberarm und...
+
+316
+00:31:16,040 --> 00:31:18,040
+Was heisst diese Methode?
+
+317
+00:31:18,040 --> 00:31:24,040
+Der Name der Methode habe ich leider vergessen, Herr Oberarzt.
+
+318
+00:31:24,040 --> 00:31:26,040
+Ankel Braschendegs?
+
+319
+00:31:26,040 --> 00:31:28,040
+Ok, ja, Sie haben recht.
+
+320
+00:31:28,040 --> 00:31:46,040
+Herr Kollegen, was machen Sie nach der Dublixonographie positive Diagnose stellen? Welche andere Diagnose führen Sie durch?
+
+321
+00:31:46,040 --> 00:31:56,040
+Ja, wir können bei den Patienten eine Angiographie durchführen.
+
+322
+00:31:56,040 --> 00:32:00,040
+Welche Angiographie?
+
+323
+00:32:00,040 --> 00:32:05,640
+Wie viele Angiographien kennen Sie?
+
+324
+00:32:05,640 --> 00:32:25,640
+Ja, also CT-Angiographie, MOT-Angiographie kenne ich und digitale Substantialangiographie.
+
+325
+00:32:25,640 --> 00:32:27,640
+Genau.
+
+326
+00:32:27,640 --> 00:32:39,640
+Welche positiven Ergebnisse hat digitale Substantialangiographie?
+
+327
+00:32:39,640 --> 00:32:43,640
+Welche Vorteile hat?
+
+328
+00:32:43,640 --> 00:32:47,050
+Welche Vorteile?
+
+329
+00:32:47,050 --> 00:33:06,710
+Also wir können die Gefäße genau beurteilen, ob es eine Verengkung bei der Gefäße gibt.
+
+330
+00:33:06,710 --> 00:33:13,710
+Können wir gleichzeitig eine Therapie durchführen?
+
+331
+00:33:13,710 --> 00:33:28,710
+Wenn die Behandlung nicht möglich ist, welche Therapie empfehlen Sie den Patienten?
+
+332
+00:33:28,710 --> 00:33:45,220
+Wir können eine Trombolise, nein nicht eine Trombolise, wir können, ich habe nur Grundkenntnisse mit diesem Thema, Herr Oberarzt.
+
+333
+00:33:45,220 --> 00:33:47,220
+Bypass?
+
+334
+00:33:47,220 --> 00:33:49,220
+Ach ja, Sie haben recht.
+
+335
+00:33:49,220 --> 00:33:52,220
+Ja, Bypass-Operation empfehlen Sie den Patienten.
+
+336
+00:33:52,220 --> 00:33:57,220
+Nach der Therapie, was empfehlen Sie den Patienten?
+
+337
+00:33:57,220 --> 00:34:12,220
+Ja, also Nikotinkarenz ist sehr wichtig bei diesen Patienten und Lebensstillveränderungen sind auch sehr wichtig.
+
+338
+00:34:12,220 --> 00:34:31,040
+Ja, sehr wichtig, ich empfehle den Patienten Gewichtsabnahme, Nikotinkarenz und Gehschulung.
+
+339
+00:34:31,040 --> 00:34:43,040
+Ja, also der Patient hat keine Erkrankungen wie Diabetes, Melutes oder Hypercholesterolemie.
+
+340
+00:34:43,040 --> 00:34:58,190
+Ok, in diesem Fall möchten Sie ein EKG schreiben und Eschokardiographie durchführen?
+
+341
+00:34:58,190 --> 00:35:17,190
+Der Patient leidet unter keinem Herzproblem, aber ja, wir können eine EKG schreiben und auch eine Eschokardiographie durchführen,
+
+342
+00:35:17,190 --> 00:35:41,190
+weil wir können eine Klappe, Störungen feststellen, das ist ein Risikofaktor für eine Emboli und diese Situation kann eine PVK, akutes PVK verursachen.
+
+343
+00:35:41,190 --> 00:35:46,190
+Deswegen können wir diese Untersuchungen durchführen.
+
+344
+00:35:46,190 --> 00:35:56,210
+Welches Stadium hat der Patient?
+
+345
+00:35:56,210 --> 00:36:18,210
+Ja, der Patient hat Stadium 2a, also er kann über 300 Meter laufen ohne Schmerzen zu bekommen, also die Gehstrecke ist 300 Meter, das bedeutet Stadium 2a.
+
+346
+00:36:18,210 --> 00:36:24,210
+Welche anderen Krankheiten verursacht PVK?
+
+347
+00:36:24,210 --> 00:36:32,020
+Welche anderen Krankheiten?
+
+348
+00:36:32,020 --> 00:36:59,630
+Also wie gesagt, die Herzprobleme wie zum Beispiel Atrialfibulation verursachen eine Emboli und das kann eine akute PVK verursachen, ich glaube, aber ich bin mir nicht sicher.
+
+349
+00:36:59,630 --> 00:37:01,630
+Und?
+
+350
+00:37:01,630 --> 00:37:07,900
+Atmosphäre?
+
+351
+00:37:07,900 --> 00:37:08,900
+Ja.
+
+352
+00:37:08,900 --> 00:37:10,900
+In der Gefäße?
+
+353
+00:37:10,900 --> 00:37:12,900
+Ja, Atmosphäre, genau.
+
+354
+00:37:12,900 --> 00:37:14,900
+Und Rhino-Phänomen?
+
+355
+00:37:14,900 --> 00:37:16,900
+Rhino-Phänomen, ja.
+
+356
+00:37:16,900 --> 00:37:19,900
+Okay, Sie haben recht.
+
+357
+00:37:19,900 --> 00:37:42,510
+Wenn der Patient bei der Körperlosen-Unterzuchtung bei Hochlagerung starke Schmerzen hat, welche Krankheiten denken Sie?
+
+358
+00:37:42,510 --> 00:38:09,510
+Bei der Hochlagerung, also das ist PVK, also Hochlagerung verursacht verstärkte Schmerzen beim PVK und das verursacht eine verlinnte Schmerzen beim TVT.
+
+359
+00:38:09,510 --> 00:38:14,510
+Wie können wir bei der Körperlosen-Unterzuchtung TVT ausschließen?
+
+360
+00:38:14,510 --> 00:38:18,510
+Welche Zeichen überprüfen Sie?
+
+361
+00:38:18,510 --> 00:38:36,080
+Bei der TVT können wir Oedäme, Erytheme, Blausucht feststellen und es gibt auch...
+
+362
+00:38:36,080 --> 00:38:38,080
+Gibt es vier Zeichen?
+
+363
+00:38:38,080 --> 00:38:40,080
+Vier Zeichen.
+
+364
+00:38:40,080 --> 00:38:42,080
+Vier Zeichen.
+
+365
+00:38:42,080 --> 00:38:44,080
+Vier Zeichen.
+
+366
+00:38:44,080 --> 00:38:49,790
+Hab ich schon vergessen.
+
+367
+00:38:49,790 --> 00:38:51,790
+Heier Zeichen.
+
+368
+00:38:51,790 --> 00:39:01,470
+Meier Zeichen.
+
+369
+00:39:01,470 --> 00:39:07,170
+Und Druckschmerzen auch.
+
+370
+00:39:07,170 --> 00:39:13,500
+Und gibt es Lassek Zeichen?
+
+371
+00:39:13,500 --> 00:39:15,500
+Lassek Zeichen.
+
+372
+00:39:15,500 --> 00:39:22,260
+Bei Hochlagerung hat er starke Schmerzen, PVK positiv.
+
+373
+00:39:22,260 --> 00:39:28,260
+Das bedeutet, manche Autoren sagen Lassek Zeichen positiv.
+
+374
+00:39:28,260 --> 00:39:38,820
+Welche Peripheren Arterie überprüfen Sie während der Körperlosen-Unterzuchtung?
+
+375
+00:39:38,820 --> 00:39:48,820
+Arterie Dorsalepidis und Arterie Tibialis Posterior würde ich besonders abtasten.
+
+376
+00:39:48,820 --> 00:39:59,820
+Aber wir können auch Arterie Poplitea Posterior oder Arterie Femeralis auch abtasten.
+
+377
+00:39:59,820 --> 00:40:05,820
+Arterie Tibialis Posterior und Arterie Dorsalis Posterior.
+
+378
+00:40:05,820 --> 00:40:13,900
+Welchen Unterschied hat TVT und PVK?
+
+379
+00:40:13,900 --> 00:40:21,900
+Ja, also bei der körperlichen Unterzuchtung oder Herr Warst?
+
+380
+00:40:21,900 --> 00:40:24,900
+Was ist der Unterschied?
+
+381
+00:40:24,900 --> 00:40:32,900
+Okay, also bei der TVT beobachten wir Erythme, Ödeme.
+
+382
+00:40:32,900 --> 00:40:43,900
+Aber bei der PVK beobachten wir Blässe, Kalte und Dünne Haut.
+
+383
+00:40:43,900 --> 00:40:49,900
+Und bei der TVT auch Überwärme Haut.
+
+384
+00:40:49,900 --> 00:40:52,900
+Also Erythme, Ödem und Überwärmung.
+
+385
+00:40:52,900 --> 00:41:02,900
+Ja, und bei der PVK abtasten wir die Pulse und es gibt Probleme.
+
+386
+00:41:02,900 --> 00:41:12,900
+Bei abtasten die Pulse und es gibt kein Problem bei TVT mit der Pulse.
+
+387
+00:41:12,900 --> 00:41:29,900
+Und die typischen Zeichen, Meier, Hohmann, Lassekzeichen, haben wir bei TVT und Ankel.
+
+388
+00:41:30,900 --> 00:41:49,900
+Branchindex in PVK und eine Reise, lange Reise anamnese bei TVT und keine Reise anamnese bei der PVK.
+
+389
+00:41:49,900 --> 00:42:15,060
+Ja, und auch bei der Duplexonographie oder Angeographie, es gibt eine Thrombose bei TVT und eine Verengung, Arterioschleurose bei PVK.
+
+390
+00:42:15,060 --> 00:42:27,660
+Ist es möglich in diesem Fall Diabetik für Neuropathie?
+
+391
+00:42:27,660 --> 00:42:41,230
+Also es gibt keine Taparstgefühle, keine Parastese, keine Hypestese, es gibt keine Diabetesgeschichte in der Anamnese.
+
+392
+00:42:41,230 --> 00:42:46,230
+Aber der Vater leidet an Diabetes mellitus.
+
+393
+00:42:46,230 --> 00:42:48,230
+Oder Mutter?
+
+394
+00:42:48,230 --> 00:42:56,230
+Ja, genau, Mutter, auch Mutter. Also wir sollen Blutzucker auch bestimmen lassen.
+
+395
+00:42:56,230 --> 00:43:10,230
+Okay, Herr Kollegen, Sie gehen in unser Infodisk und nehmen Ihre Certificate. Ich wünsche Ihnen viel Erfolg in Ihrem Arbeitsweg.
+
+396
+00:43:10,230 --> 00:43:17,230
+Vielen Dank Herr Oberhaus, Sie sind sehr nett. Das war eine sehr lange Prüfung bei mir, wissen Sie.
+
+397
+00:43:17,230 --> 00:43:24,230
+Also das bedeutet, dass ich glaube, es hat etwa 30 Minuten gedauert.
+
+398
+00:43:24,230 --> 00:43:28,110
+Vielen Dank.

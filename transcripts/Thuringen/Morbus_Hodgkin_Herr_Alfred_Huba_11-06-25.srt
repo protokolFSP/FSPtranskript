@@ -1,0 +1,1047 @@
+1
+00:00:00,000 --> 00:00:07,840
+Guten Abend, mein Name ist Ujak. Ich bin auf dieser Station als Assistenzarzt tätig und
+
+2
+00:00:07,840 --> 00:00:13,080
+ich würde gerne mit Ihnen das Anamnese-Gespräch durchführen. Sind Sie damit einverstanden?
+
+3
+00:00:13,080 --> 00:00:17,480
+Ja Doktor, natürlich. Okay, bitte fragen Sie nicht,
+
+4
+00:00:17,480 --> 00:00:25,200
+fragen Sie bitte, wenn Sie nicht etwas verstehen, okay? Okay. Wie heißen Sie denn?
+
+5
+00:00:25,200 --> 00:00:35,630
+Ich heiße Alfred Huber. Könnten Sie bitte Ihren Vor- und Nachnamen langsam
+
+6
+00:00:35,630 --> 00:00:41,870
+buchstabieren? H-L-F-R-E-D.
+
+7
+00:00:41,870 --> 00:00:52,660
+Alfred H-U-B-E-R. Huber. Okay, Herr Huber, wie alt sind Sie?
+
+8
+00:00:52,660 --> 00:00:59,100
+Ich bin 69 Jahre alt. Wann sind Sie genau geboren?
+
+9
+00:00:59,100 --> 00:01:08,060
+2. April 1956. Wie groß sind Sie?
+
+10
+00:01:08,060 --> 00:01:14,560
+1,75 Meter. Und wie schwer sind Sie zuzeit?
+
+11
+00:01:14,560 --> 00:01:24,060
+83. Okay, danke für die Informationen. Herr Huber, was kann ich für Sie tun?
+
+12
+00:01:24,060 --> 00:01:31,180
+Was für Beschwerden haben Sie zuzeit? Ich habe Lymphknotenschwellungen Doktor.
+
+13
+00:01:31,180 --> 00:01:42,770
+Wo genau diese Beschwerden, Herr Huber? In welchem Körper teile ich meine?
+
+14
+00:01:42,770 --> 00:01:53,700
+Ja, dieser Problem ist an meinem Hals. Nur einseitig oder beiseitig?
+
+15
+00:01:53,700 --> 00:02:00,460
+Beiseitig. Seit wann leiden Sie unter dieses Problem?
+
+16
+00:02:00,460 --> 00:02:05,900
+Seit zwei Wochen habe ich dieses Problem, Doktor.
+
+17
+00:02:05,900 --> 00:02:18,500
+Okay. Sie haben gesagt, dass Sie unter geschwollenen Lymphknoten leiden.
+
+18
+00:02:18,500 --> 00:02:25,940
+Ja. Nach wie vielen Fragen? Sind diese geschwollenen Lymphknoten schmerzhaft oder
+
+19
+00:02:25,940 --> 00:02:31,980
+schmerzlos? Schmerzlos. Ich habe keinen Schmerzbemerk, Doktor.
+
+20
+00:02:36,090 --> 00:02:42,490
+Okay. Herr Huber, haben Sie ähnliche Probleme in einem anderen Körperteil bemerkt?
+
+21
+00:02:42,490 --> 00:02:52,290
+Ich meine Leistungbereich, Achselhöhe? Andere Lymphknotenschwellungen, Achsel oder
+
+22
+00:02:52,290 --> 00:02:57,290
+Leisten gegen. Aber ich nicht bemerk, Doktor. Nein.
+
+23
+00:02:57,290 --> 00:03:05,290
+Okay. Leiden Sie unter Schluckstörungen? Ich habe nicht bemerkt, nein.
+
+24
+00:03:10,170 --> 00:03:17,170
+Aber außerdem fühle ich mich gratis, Doktor. Ich bin total müde.
+
+25
+00:03:17,170 --> 00:03:23,890
+Okay. Ich verstehe. Herr Huber, wie ist Ihr Appetit?
+
+26
+00:03:23,890 --> 00:03:29,890
+Seit zwei Wochen habe ich keinen Appetit, Doktor.
+
+27
+00:03:29,890 --> 00:03:35,890
+Okay. Haben Sie in der letzten Zeit unwirkürlich abgenommen?
+
+28
+00:03:35,970 --> 00:03:42,970
+Ja, in den letzten drei Monaten habe ich etwa 10 Kilogramm abgenommen, ja.
+
+29
+00:03:42,970 --> 00:03:54,820
+Okay, ich verstehe. Herr Huber, haben Sie eine Hautfarbeveränderung oder
+
+30
+00:03:54,820 --> 00:04:01,820
+Hautveränderung bemerkt, wie zum Beispiel feuchte Haut, Haarausfall,
+
+31
+00:04:01,820 --> 00:04:08,820
+durch den Nägel? Ja. Ja, nein, Doktor. Ich habe nicht bemerkt.
+
+32
+00:04:08,900 --> 00:04:21,690
+Okay. Leiden Sie unter Herzrasen, Herzklopfen, Herzstorpen?
+
+33
+00:04:21,690 --> 00:04:33,940
+Nein, Doktor. Okay. Herr Huber, fühlen Sie sich fieberig?
+
+34
+00:04:33,940 --> 00:04:36,940
+Haben Sie Fieber, Schüterfrost oder Nachtschweiß?
+
+35
+00:04:36,940 --> 00:04:44,940
+Ja, Sie haben recht. Ich erinnere mich jetzt. Seit etwa einer Woche
+
+36
+00:04:45,020 --> 00:04:52,020
+habe ich auch Fieber, ja. Haben Sie das Fieber gemessen?
+
+37
+00:04:52,020 --> 00:04:59,020
+Ich habe nicht gemessen, aber ich fühle mich fieberig, ja Doktor.
+
+38
+00:04:59,020 --> 00:05:05,020
+Leiden Sie unter Schüterfrost? Nein, aber ich habe starke
+
+39
+00:05:05,020 --> 00:05:12,270
+Schwiezen in der Nacht, ja. Okay. Alles klar.
+
+40
+00:05:12,350 --> 00:05:18,780
+Ist Ihnen übel oder mussten Sie erbrechen?
+
+41
+00:05:18,780 --> 00:05:25,780
+Ich habe keine dieser Probleme, nein. Okay. Ist alles in Ordnung beim
+
+42
+00:05:25,780 --> 00:05:32,780
+Wasserlässt oder mit dem Stuhlgang? Ich habe seit langem
+
+43
+00:05:32,780 --> 00:05:40,780
+seit langem seit, ja, habe ich Verstopfung.
+
+44
+00:05:40,860 --> 00:05:51,250
+Okay. Seit langem haben Sie Verstopfung und nehmen Sie dagegen
+
+45
+00:05:51,250 --> 00:05:59,250
+ein Medikament ein? Ja, ich nehme Movicol bei Bedarf ein, ja.
+
+46
+00:05:59,250 --> 00:06:09,390
+Okay. Alles klar. Schlafen Sie gut? Nein. Ich leide aber schon lange
+
+47
+00:06:09,390 --> 00:06:14,390
+unter Schlafstörungen, Doktor. Haben Sie Probleme einzuschlafen
+
+48
+00:06:14,470 --> 00:06:20,470
+oder durchzuschlafen? Einschlafen, ja. Einschlafen Probleme habe ich, ja.
+
+49
+00:06:20,470 --> 00:06:24,470
+Seit langem haben Sie gesagt? Ja, seit langem, seit langem, ja.
+
+50
+00:06:24,470 --> 00:06:27,470
+Und nehmen Sie dagegen ein Medikament oder ein
+
+51
+00:06:27,470 --> 00:06:36,470
+plastischer Mittel ein? Ja, ich habe beim EDK
+
+52
+00:06:36,550 --> 00:06:44,550
+eine Schlafmittel gekauft, aber jetzt erinnere ich mich, wie heißt Doktor.
+
+53
+00:06:44,550 --> 00:06:55,340
+Okay. Herr Kuba, leiden Sie unter Hürsten oder Luftnot?
+
+54
+00:06:55,340 --> 00:06:59,340
+Ich habe keine dieser Probleme, ich habe nicht bemerkt, Doktor.
+
+55
+00:06:59,340 --> 00:07:07,340
+Okay. Sind Sie schon vollständig gegen Kinderkrankheiten und
+
+56
+00:07:07,420 --> 00:07:12,420
+Corona-Infektionen geimpft? Ja, ja, ich bin vollständig geimpft,
+
+57
+00:07:12,420 --> 00:07:25,420
+sowie viermal gegen Covid-19, ja. Okay. Leiden Sie an chronische Erkrankungen
+
+58
+00:07:25,420 --> 00:07:29,420
+von denen ich wissen sollte, wie zum Beispiel Bluthochdruck,
+
+59
+00:07:29,500 --> 00:07:37,500
+Krankheit? Ja, ich leide an Blut, Hyperlipidemie, ja.
+
+60
+00:07:37,500 --> 00:07:41,500
+Hyperlipidemie. Seit zehn Jahren, Doktor.
+
+61
+00:07:41,500 --> 00:07:53,800
+Nehmen Sie dagegen ein Medikament ein? Ich nehme Zimvostatin 40
+
+62
+00:07:53,880 --> 00:07:59,880
+Milligramm abends ein. Okay. Sonst noch etwas?
+
+63
+00:07:59,880 --> 00:08:09,880
+Ich habe auch einen Bandscheibenvorfall in der Lendenfibersaule
+
+64
+00:08:09,880 --> 00:08:17,880
+seit über zehn Jahren, ja. Nehmen Sie dagegen ein Medikament ein?
+
+65
+00:08:17,960 --> 00:08:27,960
+Ich nehme bei Bedarf Ibuprofen 6 Milligramm, bei Bedarf ein Doktor.
+
+66
+00:08:27,960 --> 00:08:31,960
+600 Milligramm, ja? 600 Milligramm, ja.
+
+67
+00:08:31,960 --> 00:08:39,960
+Okay. Okay. Sonst noch etwas? Ja, auch habe ich eine chronische
+
+68
+00:08:39,960 --> 00:08:46,960
+Konjunktivität seit drei Jahren, ja. Und eine linke
+
+69
+00:08:47,040 --> 00:08:58,080
+Ezeitege, Pielonephritis, die Ambulant behandelt wurde.
+
+70
+00:08:58,080 --> 00:09:07,120
+Wann war das, Herr Huber? Vor zwei Jahren.
+
+71
+00:09:07,120 --> 00:09:18,120
+Der Doktor hat mir eine Antibiotik gegeben, aber ich erinnere mich
+
+72
+00:09:18,200 --> 00:09:24,200
+nicht jetzt, Doktor. Okay. Herr Huber, wer ist Ihr Hausarzt
+
+73
+00:09:24,200 --> 00:09:31,830
+oder Ihre Hausärztin? Mein Hausarzt ist Herr Schmidt.
+
+74
+00:09:31,830 --> 00:09:35,830
+Okay. Ich werde Ihr Hausarzt kontaktieren, okay?
+
+75
+00:09:35,830 --> 00:09:39,830
+Okay, okay, danke schön. Machen Sie sich keine Sorgen.
+
+76
+00:09:39,830 --> 00:09:44,830
+Okay. Sie haben eine chronische Binderhautentzündung seit drei
+
+77
+00:09:44,910 --> 00:09:49,910
+Jahren. Benutzen Sie dagegen etwas? Ja, ich nehme eine
+
+78
+00:09:49,910 --> 00:09:56,910
+Eugentropfen, aber ich erinnere mich nicht jetzt, wie heißt
+
+79
+00:09:56,910 --> 00:10:00,910
+Doktor. Okay. Benutzen Sie regelmäßig oder bei Bedarf?
+
+80
+00:10:00,910 --> 00:10:05,910
+Bei Bedarf, bei Bedarf. Alles klar. Sind Sie schon einmal
+
+81
+00:10:05,910 --> 00:10:12,910
+operiert worden? Ich habe nicht operiert.
+
+82
+00:10:12,990 --> 00:10:20,990
+Ja, Doktor. Ich erinnere mich nicht jetzt, Doktor.
+
+83
+00:10:20,990 --> 00:10:31,990
+Vor zwei Tagen wurde ich für zwei Tage stationär aufgenommen
+
+84
+00:10:31,990 --> 00:10:39,990
+wegen einer Gehirneschütterung nach dem Einfall.
+
+85
+00:10:40,070 --> 00:10:51,410
+Okay, alles klar. Was für ein Unfall ist das?
+
+86
+00:10:51,410 --> 00:10:56,410
+Darf ich fragen? Autounfall? Fahrradunfall?
+
+87
+00:10:56,410 --> 00:11:01,410
+Okay. Okay. Was ist das?
+
+88
+00:11:01,410 --> 00:11:05,410
+Was ist das?
+
+89
+00:11:05,410 --> 00:11:08,410
+Das ist ein Unfall.
+
+90
+00:11:08,410 --> 00:11:11,410
+Das ist ein Unfall.
+
+91
+00:11:11,490 --> 00:11:14,490
+Ein Unfall? Fahrradunfall?
+
+92
+00:11:14,490 --> 00:11:21,680
+Okay. Okay.
+
+93
+00:11:21,680 --> 00:11:26,680
+Außerdem wurde einmal ambulant ein Trunkel am Rücken operiert.
+
+94
+00:11:26,680 --> 00:11:39,740
+Okay. Herr Huber, nehmen Sie regelmäßig oder bei Bedarf
+
+95
+00:11:39,740 --> 00:11:43,740
+außer genannten Medikamenten noch irgendwelche anderen
+
+96
+00:11:43,740 --> 00:11:46,740
+Medikamente ein?
+
+97
+00:11:46,740 --> 00:11:49,740
+Ich nehme keine anderen Medikamente ein, Doktor.
+
+98
+00:11:49,820 --> 00:11:54,820
+Okay. Sind Ihnen irgendwelche Allergen bekannt?
+
+99
+00:11:54,820 --> 00:11:59,820
+Ich habe eine bekannte R.B. Allergie.
+
+100
+00:11:59,820 --> 00:12:02,820
+R.B. Allergie, ja.
+
+101
+00:12:02,820 --> 00:12:05,820
+Wie reagieren Sie darauf?
+
+102
+00:12:05,820 --> 00:12:11,820
+Wenn ich Erdbeeren esse, sprühe ich ein Krippen im Mund
+
+103
+00:12:11,820 --> 00:12:17,820
+und ein Taibheizgefühl auf der Zunge, ja.
+
+104
+00:12:17,900 --> 00:12:27,960
+Okay. Herr Huber, raufen Sie?
+
+105
+00:12:27,960 --> 00:12:35,960
+Ja, leider. Ich habe früher geraut etwa 20 Jahre lang.
+
+106
+00:12:35,960 --> 00:12:38,960
+Entschuldigung, 40 Jahre lang.
+
+107
+00:12:38,960 --> 00:12:41,960
+Wie viel haben Sie geraucht?
+
+108
+00:12:41,960 --> 00:12:46,270
+Täglich 10 Zigaretten, ja.
+
+109
+00:12:46,270 --> 00:12:49,270
+Aber momentan raufen Sie nicht, oder?
+
+110
+00:12:49,350 --> 00:12:54,350
+Ja, ungefähr 10 Jahre habe ich damit aufgehört, ja.
+
+111
+00:13:00,350 --> 00:13:02,350
+Danke schön, Doktor.
+
+112
+00:13:02,350 --> 00:13:06,350
+Es war schwer, aber ich habe bestanden, Doktor, ja.
+
+113
+00:13:12,350 --> 00:13:16,350
+Ja, Alkohol trinke ich nur als Dertel.
+
+114
+00:13:16,430 --> 00:13:25,560
+Vielleicht ein bis zwei Gläser Bier am Wochenende, ja.
+
+115
+00:13:33,560 --> 00:13:38,560
+Ich habe keine Erfahrung mit Drogen, Doktor.
+
+116
+00:13:38,560 --> 00:13:40,560
+Okay, das freut mich.
+
+117
+00:13:40,560 --> 00:13:43,560
+Herr Huber, leiden Ihre Eltern an chronischen Erkrankungen
+
+118
+00:13:43,560 --> 00:13:48,560
+von den, ich wissen sollte, wie zum Beispiel Schlaganfall, Brüthochtdruck?
+
+119
+00:13:48,640 --> 00:13:59,640
+Ja, mein Vater ist 73 Jahre alt, an Kerlkrebs gestorben, ja.
+
+120
+00:14:00,640 --> 00:14:06,460
+Mein Beileid, Herr Huber. Und Ihre Mutter?
+
+121
+00:14:06,460 --> 00:14:10,460
+Zu meiner Mutter habe ich keinen Kontakt, Doktor.
+
+122
+00:14:10,460 --> 00:14:15,140
+Okay, haben Sie Geschwister?
+
+123
+00:14:15,140 --> 00:14:18,140
+Ja, ich habe eine Schwester.
+
+124
+00:14:18,140 --> 00:14:21,680
+Ist sie gesund?
+
+125
+00:14:21,760 --> 00:14:26,760
+Ja, meine Schwester lebt ebenfalls im Altenheim.
+
+126
+00:14:26,760 --> 00:14:33,760
+Sie hatte vor vier Jahren einen hemologischen Schlaganfall, ja.
+
+127
+00:14:33,760 --> 00:14:43,860
+Okay, wie ist Ihr Familienstand?
+
+128
+00:14:45,860 --> 00:14:50,860
+Ich bin allein stand und lebe im Altenheim, Doktor.
+
+129
+00:14:50,860 --> 00:14:53,860
+Habe ich drei gesunde Söhne.
+
+130
+00:14:53,860 --> 00:15:04,810
+Okay, Sie sind ja jetzt recht alt.
+
+131
+00:15:04,890 --> 00:15:07,890
+Sie sind ja jetzt Rentner, ich glaube, ja, Herr Huber.
+
+132
+00:15:07,890 --> 00:15:08,890
+Ja, ich bin Rentner, ja.
+
+133
+00:15:08,890 --> 00:15:11,890
+Was haben Sie früher als beruflich gemacht?
+
+134
+00:15:11,890 --> 00:15:16,890
+Ich habe früher bei einer Baufirma gearbeitet, Doktor.
+
+135
+00:15:16,890 --> 00:15:35,580
+Okay, Herr Huber, das waren meine Fragen.
+
+136
+00:15:35,580 --> 00:15:40,580
+Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+137
+00:15:40,660 --> 00:15:43,660
+Ja, Doktor, was habe ich?
+
+138
+00:15:43,660 --> 00:15:50,660
+Ich habe gesagt, mein Vater hat an Kerkops Krebs gestorben.
+
+139
+00:15:50,660 --> 00:15:52,660
+Und ich habe viele Angst.
+
+140
+00:15:52,660 --> 00:15:54,660
+Habe ich Krebs?
+
+141
+00:15:54,660 --> 00:16:02,660
+Herr Huber, ich möchte Sie beruhigen, weil der Krebs nicht hundertprozentig vererblich ist.
+
+142
+00:16:02,740 --> 00:16:10,740
+Ja, also ohne weitere Untersuchungen kann ich leider keine Diagnose,
+
+143
+00:16:10,740 --> 00:16:14,740
+sicher Diagnose bezüglich des Krebses abgeben.
+
+144
+00:16:14,740 --> 00:16:24,740
+Zuerst müssen wir Sie körperlich untersuchen und dann müssen wir ein paar Untersuchungen veranlassen.
+
+145
+00:16:24,740 --> 00:16:31,740
+Sobald die alle Ergebnisse da sind, werde ich Ihnen die weitere Informationen mitteilen.
+
+146
+00:16:31,820 --> 00:16:38,820
+Wurde bei mir eine Operation durchgeführt, Doktor, oder?
+
+147
+00:16:38,820 --> 00:16:48,820
+Aufgrund Ihren aktuellen Anamnesen denke ich, dass Sie keine Operation brauchen, Herr Huber.
+
+148
+00:16:48,820 --> 00:16:56,820
+Aber wie gesagt, ich vermute, dass Sie ein Problem mit Lymphknoten haben.
+
+149
+00:16:56,900 --> 00:17:09,900
+Wenn Sie sagen, das kann eine Infektion sein oder andere Probleme, müssen wir zuerst die Diagnose bestätigen.
+
+150
+00:17:09,900 --> 00:17:16,900
+Dann können wir über die Therapiemöglichkeiten und die Diagnose 100% widersprechen.
+
+151
+00:17:16,980 --> 00:17:28,980
+Könnte es sein, ob ich im Krankenhaus bleibe oder kann ich in mein Altenheim gehen?
+
+152
+00:17:28,980 --> 00:17:38,980
+Herr Huber, ein paar Stunden müssen Sie sicherlich bei uns bleiben, damit wir die Diagnose bestätigen können.
+
+153
+00:17:39,060 --> 00:17:50,060
+Aber wenn wir etwas auffälliges finden, kann es auch passieren, dass Sie ein paar Tage im Krankenhaus bleiben sollen.
+
+154
+00:17:50,060 --> 00:17:54,060
+Danke schön, Doktor.
+
+155
+00:17:54,060 --> 00:17:57,060
+Ich werde auch.
+
+156
+00:17:57,060 --> 00:18:02,060
+Bitte nehmen Sie Platz im Wartezimmer, ich bin gleich wieder da.
+
+157
+00:18:02,060 --> 00:18:07,220
+Danke schön.
+
+158
+00:18:07,300 --> 00:18:10,300
+Schönen guten Abend, Herr Oberarzt.
+
+159
+00:18:10,300 --> 00:18:15,300
+Ich habe einen neuen Patienten aufgenommen und ich würde gerne über ihn berichten.
+
+160
+00:18:15,300 --> 00:18:17,300
+Haben Sie kurz Zeit für mich?
+
+161
+00:18:17,300 --> 00:18:18,300
+Ja, bitte.
+
+162
+00:18:18,300 --> 00:18:19,300
+Danke schön.
+
+163
+00:18:19,300 --> 00:18:30,300
+Herr Alfred Huber ist 69 Jahre alt, 1,75 Meter groß und 83 Kilogramm schwer.
+
+164
+00:18:30,380 --> 00:18:47,380
+Herr Huber stellte sich heute bei uns wegen seit zwei Wochen bestehender indolenter beiseitiger cervicaler Lymphadenopathie vor.
+
+165
+00:18:49,220 --> 00:19:08,570
+Den Patienten zufolge leidet er unter chronischer Fatigue und sowie Inapetenz.
+
+166
+00:19:08,650 --> 00:19:20,650
+Außerdem klagte er der Patient über Gewichtsabnahme von 10 Kilogramm innerhalb von drei Monaten.
+
+167
+00:19:20,650 --> 00:19:35,650
+Er berichtete über Pyrexie und nächtliche Hyperhydrose, aber der Patient habe das Fieber nicht gemessen.
+
+168
+00:19:35,730 --> 00:19:50,730
+Die Fragen nach feuchter Haut, alle Pz, Nagelveränderungen, Tachikade wurden verneint.
+
+169
+00:19:50,730 --> 00:19:57,460
+Bei der vegetativen Anamnese seien die Folgenden bekannt.
+
+170
+00:19:57,540 --> 00:20:03,540
+Seit Langem bestehende Obstipation.
+
+171
+00:20:03,540 --> 00:20:16,540
+Der Patient nehme dagegen Movicol, Tabletten bei Bedarf ein und Insomni in Form von Einschlafstörungen.
+
+172
+00:20:16,620 --> 00:20:24,620
+Der Patient nehme dagegen ein Schlafmittel ein.
+
+173
+00:20:24,620 --> 00:20:30,620
+Der Name von Medikamenten sollte geklärt werden.
+
+174
+00:20:30,620 --> 00:20:40,620
+Er sei vollständig gegen Kinderkrankheiten und viermal gegen Covid-19 geimpft.
+
+175
+00:20:40,700 --> 00:20:53,700
+An Vorerkrankungen nannte er seit 10 Jahren bestehende Hyperlipidemie, seit 10 Jahren bestehende Discus prolaps im Lendenbereich,
+
+176
+00:20:53,700 --> 00:21:04,700
+seit drei Jahren bestehende chronische Konjunktivitis und vor zwei Jahren diagnostizierte linkseitige Pyronephritis,
+
+177
+00:21:04,780 --> 00:21:10,780
+die mit Antibiotika behandelt worden sei.
+
+178
+00:21:10,780 --> 00:21:26,780
+Der Patient nehme Zymgmastatin 40 mg abends und Ibuprofen 600 mg bei Bedarf ein und er benutze Augentropfen gegen chronische Konjunktivitis bei Bedarf.
+
+179
+00:21:26,860 --> 00:21:44,230
+Vor zwei Tagen erlitt der Patient eine Komodio cerebre nach einem Fahrradunfall,
+
+180
+00:21:44,310 --> 00:22:04,310
+die stationär behandelt worden sei und er sei gegen eine Fronkühe am Rücken operiert worden.
+
+181
+00:22:04,390 --> 00:22:20,120
+Der Patient habe Erdbeereallergien, die sich durch Parasthesie im Mund und Hypostesie auf der Zunge äußert.
+
+182
+00:22:20,120 --> 00:22:30,120
+Er sei Ex-Raucher und davor habe er 10 Sekunden täglich 40 Jahre lang geraucht.
+
+183
+00:22:30,200 --> 00:22:38,200
+Er trinke ein bis zwei Gläser Bier am Wochenende und Drogenkonsum wurde verneint.
+
+184
+00:22:38,200 --> 00:22:54,200
+In der Familienanamnese gab er an, dass der Vater mit 73 Jahren an Larynx-Karzinom verstorben sei
+
+185
+00:22:54,280 --> 00:23:02,280
+und der Patient habe keinen Kontakt mit der Mutter.
+
+186
+00:23:02,360 --> 00:23:14,360
+Er habe eine Schwester und seine Schwester lebe in einem Altenheim.
+
+187
+00:23:14,360 --> 00:23:29,740
+Vor vier Jahren habe sie ein hemorrhagisches Apoplex erlitten.
+
+188
+00:23:29,820 --> 00:23:39,820
+Der Patient lebe alleine in einem Altenheim und habe gesunde drei Söhne.
+
+189
+00:23:39,820 --> 00:23:45,820
+Er sei Rentner, früher habe er in einer Baufirma gearbeitet.
+
+190
+00:23:45,820 --> 00:23:57,820
+Ich gehe von einem Verdacht auf eine Mobus-Hotschkin aus, da der Patient typische Symptome dafür aufweist.
+
+191
+00:23:57,900 --> 00:24:19,900
+Der Patient leidet unter schmerzlose, bilaterale, cervicale Lymphadenopathie, Gewichtsabnahme von 10 kg innerhalb von 3 Monate und nächtliche Hyperhydrose und Pyrexie.
+
+192
+00:24:19,900 --> 00:24:25,900
+Diese Symptome sprechen für eine Mobus-Hotschkin.
+
+193
+00:24:25,980 --> 00:24:37,980
+Die PzF-Diagnosen kommen mit Abstand-Bavirus-Infektion, Thyroid-Karzinom, Hyperthyriose in Betracht.
+
+194
+00:24:37,980 --> 00:24:51,980
+Um meine Verdacht-Diagnose zu bestätigen, würde ich bei den Patienten zunächst die Vitaparameter überwachen und eine körperliche Untersuchung durchführen.
+
+195
+00:24:52,060 --> 00:25:18,060
+Bei der körperlichen Untersuchung achte ich darauf, ob geschwollene Lymphknoten im Achselhöhle, im Leistenbereich, Herpatomegalie, Splenomegalie, Hautfarbeveränderungen vorhanden sind.
+
+196
+00:25:49,740 --> 00:25:57,740
+Ich würde die Leberwerte, Nierenwerte, Elektrolyten und Tumor Marcus bestimmen lassen.
+
+197
+00:25:59,740 --> 00:26:11,740
+Danach würde ich eine Röntgenwestorax durchführen, um die möglichen mediastinalen Lymphknoten zu beurteilen.
+
+198
+00:26:11,820 --> 00:26:21,820
+Darüber hinaus würde ich eine Thyroid-Tomographie durchführen, um die möglichen Pathologien zu überprüfen.
+
+199
+00:26:21,900 --> 00:26:37,820
+Gegebenenfalls würde ich eine Fein-Nadelbiopsie durchführen, um meine Verdacht-Diagnose zu bestätigen.
+
+200
+00:26:37,900 --> 00:26:53,900
+Ich würde auch eine PET-Computer-Tomographie durchführen, um die mögliche Metastase zu beurteilen.
+
+201
+00:26:53,980 --> 00:27:09,980
+Und ich würde auch eine Abdominalsomographie durchführen, um eine Herpatomegalie oder Splenomegalie zu beurteilen.
+
+202
+00:27:09,980 --> 00:27:17,980
+Sollte sich die Verdacht-Diagnose bestätigen, würde ich den Patienten stationär aufnehmen.
+
+203
+00:27:18,060 --> 00:27:31,400
+Und würde ich ein Onkologisches Konzil anfordern, um die Therapie des Patienten zu optimieren.
+
+204
+00:27:31,480 --> 00:27:47,020
+Ich würde eine Chemotherapie und Radiotherapie für die Therapie des Patienten empfehlen.
+
+205
+00:27:47,020 --> 00:27:59,020
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit der geplanten Untersuchung fortfahren.
+
+206
+00:28:06,790 --> 00:28:18,790
+Wie können wir die hochkindleform genau beurteilen oder diagnostizieren?
+
+207
+00:28:20,790 --> 00:28:30,790
+Wir sollen eine Fein-Nadelbiopsie durchführen, um eine histopathologische Untersuchung zu machen.
+
+208
+00:28:30,870 --> 00:28:38,870
+Bei der histologischen Untersuchung können wir Rheid-Sternberg-Zellen feststellen.
+
+209
+00:28:38,950 --> 00:28:52,020
+Würden wir in diesem Fall eine Abdominalsomographie durchführen?
+
+210
+00:28:52,100 --> 00:29:04,100
+Abdominalsomographie ist sinnvoll für diese Patienten, um eine Leber- oder Milz-Patologie zu beurteilen.
+
+211
+00:29:04,100 --> 00:29:08,100
+Wir sollen auf jeden Fall eine Abdominalsomographie durchführen.
+
+212
+00:29:08,100 --> 00:29:14,180
+Würden wir eine Knochenmarkbiopsie durchführen?
+
+213
+00:29:39,560 --> 00:29:47,560
+Würden wir eine Petz-CT durchführen?
+
+214
+00:29:57,560 --> 00:30:03,560
+Können Sie uns eine Petz-CT aufklären?
+
+215
+00:30:09,560 --> 00:30:15,560
+Die Abdominalsomographie gehört zu den bildgebenden Verfahren.
+
+216
+00:30:17,560 --> 00:30:29,560
+Wir sollen vor der Untersuchung eine geringe Menge radioaktiver Stoffe verbreiten.
+
+217
+00:30:29,640 --> 00:30:49,640
+Wir sollen etwa eine Stunde warten, bis die radioaktiven Stoffe in den Körper genau verteilen.
+
+218
+00:30:49,720 --> 00:31:01,720
+Danach sollen wir eine Computer-Tomographie durchführen, um die mögliche Pathologie zu beurteilen.
+
+219
+00:31:01,720 --> 00:31:09,720
+Der Patient soll etwa 30 Minuten ruhig in einer CT-Röhre liegen.
+
+220
+00:31:09,800 --> 00:31:19,800
+Wenn der Patient eine Platzangst hat, können wir ihm ein Beruhigungsmittel geben.
+
+221
+00:31:19,800 --> 00:31:31,800
+Diese Untersuchung benötigt nur noch eine geringe Strahlenbelastung.
+
+222
+00:31:31,880 --> 00:31:41,880
+Es gibt einige Kontraindikationen, wie zum Beispiel Schmangenschaft und Kontrastmittelallergie.
+
+223
+00:31:43,880 --> 00:31:55,880
+Vor der Untersuchung soll der Patient sechs Stunden nicht mehr essen, aber der Patient darf viel trinken.
+
+224
+00:31:55,960 --> 00:32:05,960
+Nach der Untersuchung soll der Patient auch viel trinken, um die radioaktiven Stoffe schnell auszuscheiden.
+
+225
+00:32:13,060 --> 00:32:23,060
+Wie können wir extra-Virus-Infektionen ausschließen?
+
+226
+00:32:23,140 --> 00:32:33,140
+Wir können einen Schnelltest durchführen, um die Diagnose zu bestätigen.
+
+227
+00:32:33,140 --> 00:32:43,140
+Wir können auch die Serologiewerte überprüfen, wie Kapsizantigen oder Nükleantigenwerte.
+
+228
+00:32:43,220 --> 00:32:51,220
+Die klinischen Befunde können wir uns helfen, um die Diagnose zu bestätigen, wie zum Beispiel
+
+229
+00:32:51,300 --> 00:33:13,300
+Exanthem oder schwelende, schmerzhafte, militärale, cervicale Lymphadenopathie, manchmal geschwollene Mandeln und chronische Müdigkeit.
+
+230
+00:33:13,380 --> 00:33:25,380
+Die Beschwerden sind ähnlich, aber bei Möbus-Hotschgen gibt es schmerzlose Lymphadenopathie,
+
+231
+00:33:25,380 --> 00:33:31,380
+bei der Epstein-Bavus gibt es eine schmerzhafte Lymphadenopathie.
+
+232
+00:33:33,380 --> 00:33:37,380
+Wie können wir die Hypothyroidose ausschließen?
+
+233
+00:33:37,460 --> 00:33:45,460
+Auf jeden Fall sollen wir eine Thyroid-Ultrasonographie durchführen.
+
+234
+00:33:45,540 --> 00:34:03,540
+Wenn es Knoten oder einige Befunde für eine Hypothyroidose gibt, können wir eine Thyroid-Ultrasonographie durchführen,
+
+235
+00:34:03,540 --> 00:34:09,540
+um die kalte und heiße Knoten zu beurteilen.
+
+236
+00:34:09,540 --> 00:34:13,540
+Anschließend können wir eine Feinnahtbiopsie.
+
+237
+00:34:15,540 --> 00:34:19,540
+Wie können wir die Hypothyroidose ausüben?
+
+238
+00:34:19,620 --> 00:34:29,620
+Würden Sie die Labyrinthe mit einer Hypothyroidose ausüben?
+
+239
+00:34:29,700 --> 00:34:37,700
+Auf jeden Fall sollen wir die Funktion Werte von der Thyroidose kontrollieren,
+
+240
+00:34:37,700 --> 00:34:51,590
+wie z.B. TSH, T3, T4, TPO, Antikörper, TG, T-R, TG.
+
+241
+00:34:51,590 --> 00:35:01,400
+Was empfehlen Sie den Patienten während der Behandlung und nach der Behandlung?
+
+242
+00:35:23,400 --> 00:35:27,400
+Ich empfehle, die Patienten mit dem Arzt zu besuchen.
+
+243
+00:35:27,400 --> 00:35:35,400
+Ich empfehle, ihm vorsichtig zu sein, besonders gegen Infektionen.
+
+244
+00:35:35,400 --> 00:35:39,400
+Das ist sehr wichtig bei den Patienten.
+
+245
+00:35:39,480 --> 00:35:54,860
+Regelmäßige Lebensstile, regelmäßige Bewegung sind sehr wichtig für das Immunsystem.
+
+246
+00:35:54,860 --> 00:36:00,860
+Er lebt in einem Altenheim.
+
+247
+00:36:00,860 --> 00:36:08,860
+Ein Altenheim ist ein Risikofaktor für die Infektionen.
+
+248
+00:36:08,940 --> 00:36:12,940
+Deswegen muss der Patient vorsichtig sein gegen die Infektionen.
+
+249
+00:36:14,940 --> 00:36:20,940
+Empfehlen Sie den Patienten Physiotherapie und ausreichende Ernährung?
+
+250
+00:36:20,940 --> 00:36:22,940
+Ja, genau.
+
+251
+00:36:22,940 --> 00:36:32,940
+Ausreichende Ernährung ist auch wichtig bei den Patienten für ein starkes Immunsystem
+
+252
+00:36:33,020 --> 00:36:43,020
+und auch eine Physiotherapie können wir auf jeden Fall durchführen.
+
+253
+00:36:49,320 --> 00:36:57,320
+Würden Sie während der Behandlung kontrollierte PZT durchführen?
+
+254
+00:36:57,400 --> 00:37:13,740
+Ja, Chemotherapie und Strahlentherapie werden für mehrere Male dauern.
+
+255
+00:37:13,820 --> 00:37:31,820
+Nach der Behandlung sollen wir auf jeden Fall eine PZT durchführen, um die Therapieantwort zu beurteilen.
+
+256
+00:37:31,900 --> 00:37:35,900
+Vielen Dank, Herr Oberz.
+
+257
+00:37:35,900 --> 00:37:43,900
+Sie haben eine sehr flüssige Antwort.
+
+258
+00:37:43,900 --> 00:37:49,900
+Gehen Sie auf unser Infodesk und nehmen Sie Ihre Zertifikat.
+
+259
+00:37:49,900 --> 00:37:53,900
+Ich wünsche Ihnen viel Erfolg für Ihre Arbeit.
+
+260
+00:37:55,900 --> 00:37:57,900
+Vielen Dank, Herr Oberz.
+
+261
+00:37:57,980 --> 00:38:01,980
+Ich wünsche Ihnen ein angenehmes Sprechen bei mir.
+
+262
+00:38:01,980 --> 00:38:03,980
+Vielen Dank.

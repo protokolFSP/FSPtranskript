@@ -1,0 +1,1063 @@
+1
+00:00:00,000 --> 00:00:10,340
+Schönen guten Tag, mein Name ist Ujjak. Ich bin auf dieser Station als Assistanzarzt tätig und
+
+2
+00:00:10,340 --> 00:00:15,340
+ich würde gerne mit Ihnen das Anamnesigespräch durchführen. Damit sind Sie einverstanden?
+
+3
+00:00:15,340 --> 00:00:18,340
+Ja, ich bin einverstanden, Doktor.
+
+4
+00:00:18,340 --> 00:00:31,340
+Danke. Bitte fragen Sie nach, wenn Sie etwas nicht verstehen. Also ich würde Ihnen gerne ein paar allgemeine Fragen stellen, bevor Sie mir über Ihre Beschwerden erzählen. Ist das in Ordnung?
+
+5
+00:00:31,340 --> 00:00:33,340
+Ja, ich verstehe.
+
+6
+00:00:33,340 --> 00:00:35,340
+Okay. Wie heißen Sie denn?
+
+7
+00:00:35,340 --> 00:00:38,340
+Ich heiße Oliver Hanigga.
+
+8
+00:00:38,340 --> 00:00:47,040
+Können Sie bitte Ihren Vornachnamen langsam bestabieren?
+
+9
+00:00:47,040 --> 00:01:09,040
+Ja. O-L-I-V-E-R. Oliver, mein Nachname ist H-E-N-N-I-N-G-E-R. Hanigga. Doppel N.
+
+10
+00:01:09,040 --> 00:01:14,040
+Okay. Herr Hanigga, wie alt sind Sie?
+
+11
+00:01:14,040 --> 00:01:18,040
+Ich bin 73 Jahre alt.
+
+12
+00:01:18,040 --> 00:01:23,040
+Entschuldigung, 3 und 40 Jahre alt.
+
+13
+00:01:23,040 --> 00:01:26,040
+Okay. Wann sind Sie genau geboren?
+
+14
+00:01:26,040 --> 00:01:33,040
+Ich bin 5.6.1983.
+
+15
+00:01:33,040 --> 00:01:37,040
+Wie groß sind Sie?
+
+16
+00:01:37,040 --> 00:01:42,040
+Ich bin 1 Meter 84.
+
+17
+00:01:43,040 --> 00:01:46,040
+Und wie viel wiegen Sie zuzeit?
+
+18
+00:01:46,040 --> 00:01:49,040
+Ich bin 95 Kilogramm.
+
+19
+00:01:49,040 --> 00:01:54,740
+Okay. Wie ist Ihr Hausarzt oder Hausärztin?
+
+20
+00:01:54,740 --> 00:02:02,140
+Mein Hausarzt ist Herr Ömer Sanaci.
+
+21
+00:02:02,140 --> 00:02:09,140
+Okay. Danke für die Informationen, Herr Hanigga. Was können Sie tun? Was für Beschwerden haben Sie zuzeit?
+
+22
+00:02:09,140 --> 00:02:14,140
+Ja, ich habe Schmerzen in der Leiste, Doktor.
+
+23
+00:02:14,140 --> 00:02:21,460
+Seit wann haben Sie diese Schmerzen?
+
+24
+00:02:21,460 --> 00:02:31,460
+Ich bin heute wegen dieser Schmerzen gekommen.
+
+25
+00:02:31,460 --> 00:02:35,460
+Und welche Seite meinen Sie?
+
+26
+00:02:35,460 --> 00:02:38,460
+Entschuldigung bitte.
+
+27
+00:02:38,460 --> 00:02:40,460
+Rechte Seite oder linke Seite?
+
+28
+00:02:40,460 --> 00:02:41,460
+Rechte Seite.
+
+29
+00:02:41,460 --> 00:02:52,190
+Okay. Herr Hanigga, können Sie bitte diese Schmerzen genau beschreiben? Also sind Sie eher drückend oder stechend?
+
+30
+00:02:52,190 --> 00:02:56,190
+Drückend und stechend, Doktor.
+
+31
+00:02:56,190 --> 00:03:06,150
+Okay. Und strahlen diese Schmerzen irgendwohin aus?
+
+32
+00:03:06,150 --> 00:03:14,150
+Ja, die Schmerzen strahlen meinen Oberbauch und rechte Hoden aus.
+
+33
+00:03:14,150 --> 00:03:29,780
+Ja, Doktor, Schmerzen habe ich zwar schon seit ein paar Monaten, aber heute Morgen sind sie besonders stark geworden.
+
+34
+00:03:29,780 --> 00:03:37,420
+Was meinen Sie mit ein paar Monaten, Herr Hanigga? Also sechs Monate oder mehr?
+
+35
+00:03:37,420 --> 00:03:44,420
+Ungefähr. Ich denke ungefähr vier und drei Monate.
+
+36
+00:03:44,420 --> 00:03:48,420
+Drei bis vier Monate. Okay. Ungefähr.
+
+37
+00:03:48,420 --> 00:04:00,420
+Und haben diese Schmerzen in der Zeit verändert? Ich meine schlimmer geworden oder besser geworden?
+
+38
+00:04:00,420 --> 00:04:07,420
+Immer schlimmer geworden und immer rechte Seite.
+
+39
+00:04:07,420 --> 00:04:15,420
+Okay. Sind diese Schmerzen dauerhaft da oder gehen sie auch wieder weg?
+
+40
+00:04:15,420 --> 00:04:23,420
+Ja, Doktor, manchmal gehen sie nicht dauerhaft wieder weg.
+
+41
+00:04:23,420 --> 00:04:25,420
+Also meinen Sie wellenförmig?
+
+42
+00:04:25,420 --> 00:04:30,790
+Ja, wellenförmig. Ja, richtig. Sie haben Recht.
+
+43
+00:04:30,790 --> 00:04:41,790
+Okay. Herr Hanigga, wie stark sind diese Schmerzen auf einer Schmerzskala von eins bis zehn, wobei eins sehr leichten und zehn sehr starken Schmerzen entspricht?
+
+44
+00:04:41,790 --> 00:04:43,790
+Jetzt oder früher?
+
+45
+00:04:43,790 --> 00:04:45,790
+Jetzt bitte.
+
+46
+00:04:45,790 --> 00:04:51,790
+Jetzt. Ungefähr sechs.
+
+47
+00:04:51,790 --> 00:04:56,790
+Sechs von zehn. Und früher, wie war diese Schmerzen, wie stark?
+
+48
+00:04:56,790 --> 00:05:07,900
+Es wurde wechselt. Manchmal sechs, manchmal acht. Wechselt, ja. Verstehe.
+
+49
+00:05:07,900 --> 00:05:16,900
+Okay. Herr Hanigga, haben Sie in diesem Bereich eine Beugung bemerkt?
+
+50
+00:05:16,900 --> 00:05:22,900
+Ja, manchmal habe ich bemerkt. Sie haben Recht, Doktor.
+
+51
+00:05:22,900 --> 00:05:26,440
+Beugung, meine ich.
+
+52
+00:05:26,440 --> 00:05:27,440
+Ja, ja.
+
+53
+00:05:27,440 --> 00:05:34,650
+Und können Sie diese Beugung zurückziehen?
+
+54
+00:05:34,650 --> 00:05:47,650
+Ja, wenn ich die Beugung bemerkt habe, waren es sehr starke Schmerzen. Aber ich habe sie nicht bemerkt. Das war gut.
+
+55
+00:05:47,650 --> 00:06:00,650
+Okay. Und können Sie diese Beugung zurückziehen? Ich meine, wenn Sie diese Beugung drücken, ist diese Beugung weg oder immer da?
+
+56
+00:06:00,650 --> 00:06:04,650
+Manchmal immer da, manchmal weg, Doktor.
+
+57
+00:06:04,650 --> 00:06:06,650
+Okay, alles klar.
+
+58
+00:06:06,650 --> 00:06:27,960
+Aber heute Morgen musste ich außerdem zweimal erbrechen und hatte einmal Durchfall. Nachdem dieser Beschwerde habe ich meinen leisten Bereich Schmerzen, Doktor.
+
+59
+00:06:27,960 --> 00:06:32,960
+Heute Morgen haben Sie unter Durchfall?
+
+60
+00:06:32,960 --> 00:06:38,960
+Ja, zweimal. Einmal Durchfall und zweimal Erbrechen.
+
+61
+00:06:38,960 --> 00:06:43,960
+Okay, also nach dieser Erbrechen-Attacke hatten Sie diese Schmerzen?
+
+62
+00:06:43,960 --> 00:06:44,960
+Ja, ja.
+
+63
+00:06:44,960 --> 00:06:45,960
+Das Problem, richtig?
+
+64
+00:06:45,960 --> 00:06:47,960
+Ja, richtig. Sie haben Recht, Doktor.
+
+65
+00:06:47,960 --> 00:07:01,960
+Okay. Und ich habe jetzt verstanden, Sie haben eine bestimmte Auslöser für diese Schmerzen. Darf ich fragen, gibt es etwas, das die Schmerzen lindert oder versteckt?
+
+66
+00:07:01,960 --> 00:07:05,960
+Ich meine, Flachliegen oder andere solche Dinge?
+
+67
+00:07:05,960 --> 00:07:18,960
+Ja, ich habe nicht bemerkt. Aber wenn ich Schmerzen habe, nehme ich bei Bedarf Volteren Tabletten. Aber nicht regelmäßig, regelmäßig bei Bedarf.
+
+68
+00:07:18,960 --> 00:07:23,960
+Aber ich habe keine Auslöser bemerkt, Doktor.
+
+69
+00:07:24,960 --> 00:07:31,960
+Okay, alles klar. Und hilft dieses Medikament Volteren Ihnen?
+
+70
+00:07:31,960 --> 00:07:34,960
+Ich habe Hilfe gebracht.
+
+71
+00:07:34,960 --> 00:07:48,180
+Waren Sie schon einmal bei einem Arzt gewesen? Ich meine, wegen dieser Schmerzen, dieser Beschwerden?
+
+72
+00:07:48,180 --> 00:08:14,180
+Ja, Doktor. Ich wollte nach anderen Arzt oder meinen Hausarzt, wegen dieser Schmerzen, gehen. Aber ich bin als Bauarbeiter gearbeitet. Ich habe viel Arbeit. Ich habe keine Zeit. Und es ist schwer, einen Termin zu bekommen, Doktor.
+
+73
+00:08:14,180 --> 00:08:19,180
+Okay, ich verstehe. Alles klar.
+
+74
+00:08:19,180 --> 00:08:32,180
+Herr Hellinger, Sie haben gesagt, dass Sie unter Durchfall leiden. Sonst haben Sie eine Verstopfungprobleme in der letzten Zeit?
+
+75
+00:08:32,180 --> 00:08:38,180
+Nein, ich habe keine Probleme mit Stuhlgang.
+
+76
+00:08:38,180 --> 00:08:46,180
+Okay, Sie haben gesagt, dass Sie zweimal erbrechen müssen. Ja. Und ist Ihnen übel?
+
+77
+00:08:46,180 --> 00:08:51,180
+Ja, ich habe übel Augen.
+
+78
+00:08:51,180 --> 00:08:55,180
+Okay. Haben Sie Fieber, Schüttervrost oder Nachtschweiß?
+
+79
+00:08:55,180 --> 00:09:03,500
+Ich habe nicht bemerkt.
+
+80
+00:09:03,500 --> 00:09:05,500
+Wie ist Ihr Appetit?
+
+81
+00:09:05,500 --> 00:09:16,500
+Normalerweise gut. Aber nach dem Gestern habe ich ein Appetitproblem. Mein Appetit ist nicht gut.
+
+82
+00:09:16,500 --> 00:09:17,500
+Wegen dieser Schmerzen?
+
+83
+00:09:17,500 --> 00:09:19,500
+Ja, ich denke.
+
+84
+00:09:19,500 --> 00:09:26,500
+Ich verstehe. Haben Sie in der letzten Zeit abgenommen?
+
+85
+00:09:26,500 --> 00:09:32,500
+Ich habe nicht bemerkt. Ich bin immer gleich gewischt.
+
+86
+00:09:32,500 --> 00:09:44,500
+Okay. Haben Sie Probleme mit Stuhlgang oder beim Wasserlassen? Außer dieser Durchfallprobleme?
+
+87
+00:09:44,500 --> 00:09:51,500
+Ich habe gesagt, Doktor, ich habe keine Probleme mit Stuhlgang. Nein.
+
+88
+00:09:51,500 --> 00:09:54,500
+Okay, Sie haben recht. Und beim Wasserlassen?
+
+89
+00:09:54,500 --> 00:09:59,500
+Bei Wasserlassen habe ich normalerweise keine Probleme. Nein.
+
+90
+00:09:59,500 --> 00:10:06,870
+Okay. Bleiben Sie unter Husten oder Luftnot?
+
+91
+00:10:06,870 --> 00:10:11,870
+Ja, ich habe keine Husten oder Luftnot. Nein.
+
+92
+00:10:11,870 --> 00:10:18,870
+Sind Sie vollständig gegen Kinderkrankheiten oder Corona-Infektionen geimpft?
+
+93
+00:10:18,870 --> 00:10:27,870
+Ja, ich bin vollständig gegen Corona geimpft.
+
+94
+00:10:27,870 --> 00:10:37,400
+Okay. Haben Sie in der letzten Zeit besonders ins Ausland eine Reise gemacht?
+
+95
+00:10:37,400 --> 00:10:43,400
+Nein. Ich bin Bauarbeiter. Ich habe keine Zeit. Nein.
+
+96
+00:10:43,400 --> 00:10:56,400
+Okay, ich verstehe. Herr Herninger, leiten Sie an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Bluthochdruck oder Zuckerkrankheit?
+
+97
+00:10:56,400 --> 00:11:25,990
+Ja, ich habe einen Bandscheibenvorfall und Arthrose im rechten Knie. Und ich habe zum Rheumatologen gegangen. Aber ich hatte keine Operation. Mit Medikamenten behandelt.
+
+98
+00:11:25,990 --> 00:11:42,370
+Seit wann leiden Sie an Bandscheibenvorfall? Seit 5 Jahren. Und was nehmen Sie dagegen ein?
+
+99
+00:11:42,370 --> 00:11:52,370
+Ich nehme Voltaren Tablet ein. Aber bei Bedarf nicht regelmäßig.
+
+100
+00:11:52,370 --> 00:11:54,370
+Kennen Sie die Dosierung?
+
+101
+00:11:54,370 --> 00:12:02,370
+Ja, 50 mg täglich. Ein oder zwei Mal.
+
+102
+00:12:02,370 --> 00:12:11,280
+Ein oder zwei Mal täglich. Aber nehmen Sie bei Bedarf ein, richtig?
+
+103
+00:12:11,280 --> 00:12:13,280
+Ja, bei Bedarf ein.
+
+104
+00:12:13,280 --> 00:12:21,280
+Okay. Und rechter Knie, Arthrose, haben Sie gesagt. Seit wann haben Sie dieses Problem?
+
+105
+00:12:21,280 --> 00:12:24,280
+Seit 3 Jahren, Doktor.
+
+106
+00:12:24,280 --> 00:12:29,280
+Und nehmen Sie auch Voltaren ein oder andere?
+
+107
+00:12:29,280 --> 00:12:39,280
+Ja, ja, ja. Voltaren. Einmal hatte ich Physiotherapie. Es war gut für mich.
+
+108
+00:12:39,280 --> 00:12:47,280
+Das freut mich. Und ansonsten haben Sie irgendwelche anderen Erkrankungen?
+
+109
+00:12:48,280 --> 00:12:59,700
+Nein, aber vor einigen Jahren hatte ich einen Schlüsselbeinbruch nach einem Motorunfall.
+
+110
+00:12:59,700 --> 00:13:01,700
+Welche Seite?
+
+111
+00:13:01,700 --> 00:13:03,700
+Linke Seite.
+
+112
+00:13:03,700 --> 00:13:08,700
+Und wie wurde dieses Problem behandelt?
+
+113
+00:13:08,700 --> 00:13:15,510
+Mit der Verbankung behandelt, Doktor.
+
+114
+00:13:15,510 --> 00:13:17,510
+Wann war das?
+
+115
+00:13:17,510 --> 00:13:22,510
+Vor 6 Jahren, ja.
+
+116
+00:13:22,510 --> 00:13:27,510
+Vor 6 Jahren. Okay. Sind Sie schon einmal operiert worden?
+
+117
+00:13:27,510 --> 00:13:32,510
+Ja, ich hatte keine Operation, nein.
+
+118
+00:13:32,510 --> 00:13:45,510
+Herr Henninger, nehmen Sie regelmäßig oder bei Bedarf außer den genannten Medikamenten noch andere Medikamente ein?
+
+119
+00:13:45,510 --> 00:13:49,510
+Ich nehme keine anderen Medikamente ein, Doktor.
+
+120
+00:13:49,510 --> 00:13:55,510
+Alles klar. Haben Sie Allergie gegen irgendwelche Medikamente oder Nahrungspitale, Pflanzen?
+
+121
+00:13:55,510 --> 00:13:59,510
+Ja, ich habe Aspirinallergien.
+
+122
+00:13:59,510 --> 00:14:02,510
+Wie ausschätzt Sie?
+
+123
+00:14:02,510 --> 00:14:09,050
+Mit Mundpusten.
+
+124
+00:14:09,050 --> 00:14:11,050
+Okay.
+
+125
+00:14:11,050 --> 00:14:18,050
+Und außerdem habe ich Laptose-Intelligenz.
+
+126
+00:14:18,050 --> 00:14:24,930
+Mit dem Dusch?
+
+127
+00:14:24,930 --> 00:14:28,930
+Ja, mit dem Dusch, ja Doktor. Sie haben recht.
+
+128
+00:14:28,930 --> 00:14:32,930
+Herr Henninger, rauchen Sie?
+
+129
+00:14:32,930 --> 00:14:40,930
+Ja, ich rauche 10 Zigaretten täglich seit 20 Jahren.
+
+130
+00:14:40,930 --> 00:14:46,930
+Okay. Und trinken Sie regelmäßig Alkohol?
+
+131
+00:14:46,930 --> 00:14:55,930
+Ja, seit 20 Jahren täglich zwei Gläser Bier.
+
+132
+00:14:55,930 --> 00:15:05,410
+Okay. Bitte nehmen Sie die nächste Frage nicht persönlich, das ist eine Routinefrage.
+
+133
+00:15:05,410 --> 00:15:08,410
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+134
+00:15:08,410 --> 00:15:13,410
+Ich habe keinen Kontakt mit den Drogen, nein.
+
+135
+00:15:13,410 --> 00:15:15,410
+Okay, super.
+
+136
+00:15:15,410 --> 00:15:26,410
+Herr Henninger, leiden Ihre Eltern an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Schlaganfall oder Brüthdruck?
+
+137
+00:15:26,410 --> 00:15:35,410
+Ja Doktor, leider leidet meine Mutter an Demens.
+
+138
+00:15:35,410 --> 00:15:42,360
+Und mein Vater hatte Alkoholprobleme.
+
+139
+00:15:42,360 --> 00:15:54,710
+Und mein Bruder hat bei einem Unfall drei Finger verloren. Er ist jetzt in Rende.
+
+140
+00:15:54,710 --> 00:15:58,710
+Eine Verletzung oder eine Unfall?
+
+141
+00:15:58,710 --> 00:16:01,710
+Ein Arbeitenfall.
+
+142
+00:16:01,710 --> 00:16:09,590
+Okay. Wie ist Ihr Familienstand?
+
+143
+00:16:09,590 --> 00:16:13,590
+Ich bin verheiratet.
+
+144
+00:16:13,590 --> 00:16:15,590
+Haben Sie Kinder?
+
+145
+00:16:15,590 --> 00:16:21,350
+Ja, ich habe drei Kinder. Eine Sohn und eine Tochter.
+
+146
+00:16:21,350 --> 00:16:23,350
+Eine Sohn, zwei Tochter oder?
+
+147
+00:16:23,350 --> 00:16:28,350
+Eine Sohn, eine Tochter.
+
+148
+00:16:28,350 --> 00:16:29,350
+Zwei Kinder.
+
+149
+00:16:29,350 --> 00:16:30,350
+Ja, zwei Kinder.
+
+150
+00:16:30,350 --> 00:16:32,350
+Sind Ihre Kinder gesund?
+
+151
+00:16:32,350 --> 00:16:35,350
+Ja, ja, alles ist gesund.
+
+152
+00:16:35,350 --> 00:16:39,350
+Gott sei Dank. Wohnen Sie mit Ihrer Familie?
+
+153
+00:16:39,350 --> 00:16:41,350
+Ja, ja, richtig, ja, natürlich.
+
+154
+00:16:41,350 --> 00:16:46,350
+Okay, Sie haben gesagt, dass Sie Bauarbeiter von Beruf sind.
+
+155
+00:16:46,350 --> 00:16:49,350
+Und sind Sie zufrieden bei der Arbeit?
+
+156
+00:16:49,350 --> 00:16:58,350
+Ja, es war sehr schwer für mich. Ich habe ein bisschen Stress im Arbeitsplatz.
+
+157
+00:16:58,350 --> 00:17:01,350
+Aber ich bin zufrieden, ja.
+
+158
+00:17:01,350 --> 00:17:03,350
+Okay, alles klar.
+
+159
+00:17:03,350 --> 00:17:09,350
+Herr Henninger, ich möchte gerne eine Frage stellen über Ihre aktuellen Beschwerden.
+
+160
+00:17:09,350 --> 00:17:14,350
+Also sind diese Schmerzen plötzlich oder langsam aufgetreten?
+
+161
+00:17:14,350 --> 00:17:17,350
+Plötzlich aufgetreten, Doktor.
+
+162
+00:17:17,350 --> 00:17:20,600
+Okay, das waren meine Fragen.
+
+163
+00:17:20,600 --> 00:17:25,600
+Herr Henninger, möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+164
+00:17:25,600 --> 00:17:35,600
+Ja, Doktor, was habe ich? Ich habe starke Schmerzen und ich muss arbeiten. Was habe ich?
+
+165
+00:17:36,600 --> 00:17:42,600
+Ja, also Herr Henninger, es ist zu früh, eine Sicherheitdiagnose zu stellen.
+
+166
+00:17:42,600 --> 00:17:48,600
+Aber ich vermute, dass Sie einen leichten Bruch haben.
+
+167
+00:17:48,600 --> 00:17:56,600
+Also diese Situation kann diese Schmerzen verursachen. Aber machen Sie sich bitte keine Sorgen.
+
+168
+00:17:56,600 --> 00:18:00,600
+Ja, also zuerst werde ich Sie körperlich untersuchen.
+
+169
+00:18:00,600 --> 00:18:06,600
+Dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen veranlassen.
+
+170
+00:18:06,600 --> 00:18:12,600
+Sobald alle Ergebnisse da sind, werde ich Ihnen die weiteren Informationen mitteilen.
+
+171
+00:18:12,600 --> 00:18:17,600
+Ich habe eine Frage, Doktor.
+
+172
+00:18:17,600 --> 00:18:19,600
+Ja, gerne.
+
+173
+00:18:19,600 --> 00:18:29,600
+Ich würde gerne wissen, ob ich im Krankenhaus bleibe oder gehe ich in meine Hausarzt.
+
+174
+00:18:29,600 --> 00:18:36,600
+Herr Henninger, also ein paar Stunden müssen Sie sicherlich bei uns bleiben,
+
+175
+00:18:36,600 --> 00:18:43,600
+damit wir die Diagnose bestätigen können und eine Therapie einstellen können.
+
+176
+00:18:43,600 --> 00:18:53,600
+Wenn wir etwas ausfälliges finden, kann es auch passieren, dass Sie ein paar Tage im Krankenhaus bleiben sollen. Okay?
+
+177
+00:18:54,600 --> 00:19:02,600
+Bei mir würde eine Operation durchgeführt werden oder?
+
+178
+00:19:02,600 --> 00:19:07,600
+Leider könnte es sein, dass Sie operiert werden müssen.
+
+179
+00:19:07,600 --> 00:19:19,600
+Im Moment kann ich leider nichts sagen über 100% eine Sicherheitdiagnose oder Therapiemöglichkeiten.
+
+180
+00:19:19,600 --> 00:19:24,600
+Zuerst müssen wir ein paar Untersuchungen veranlassen.
+
+181
+00:19:24,600 --> 00:19:34,600
+Danach können wir über 100% eine Sicherheitdiagnose und Therapiemöglichkeiten widersprechen.
+
+182
+00:19:34,600 --> 00:19:41,600
+Aber es gibt auch konservative Therapien außer chirurgisches Eingriff.
+
+183
+00:19:41,600 --> 00:19:51,600
+Aber vor zwei Jahren ist meine Nachbarin am Operation verstorben.
+
+184
+00:19:51,600 --> 00:19:55,600
+Ich habe viel Angst. Die Operation ist gefährlich oder?
+
+185
+00:20:05,600 --> 00:20:07,600
+Okay, danke schön. Ich warte auf Sie.
+
+186
+00:20:07,600 --> 00:20:13,220
+Gerne. Okay. Guten Abend, Herr Oberarzt.
+
+187
+00:20:13,220 --> 00:20:19,220
+Ich habe einen neuen Patienten aufgenommen und ich würde gerne über ihn berichten.
+
+188
+00:20:19,220 --> 00:20:20,220
+Haben Sie kurz Zeit für mich?
+
+189
+00:20:20,220 --> 00:20:22,220
+Ja, bitte.
+
+190
+00:20:22,220 --> 00:20:33,220
+Danke. Herr Oliver Henninger ist 43 Jahre alt, 1,84 Meter groß, 95 Kilogramm schwer.
+
+191
+00:20:33,220 --> 00:20:47,660
+Herr Henninger stand heute bei uns wegen seines heute bestehenden, drückenden,
+
+192
+00:20:47,660 --> 00:20:54,660
+stechenden, rechtseitigen, leichten Schmerzen vor.
+
+193
+00:20:54,660 --> 00:21:08,660
+Dem Patienten zufolge seien die Schmerzen vor vier Monaten aufgetreten und mit der Zeit schlimmer geworden.
+
+194
+00:21:08,660 --> 00:21:21,660
+Die Schmerzen würden in den Oberbauch und in den rechten Hoden ausstrahlen.
+
+195
+00:21:21,660 --> 00:21:31,660
+Er berichtet, dass die Schmerzen plötzlich aufgetreten seien.
+
+196
+00:21:31,660 --> 00:21:50,660
+Die Schmerzintensität wurde auf einer Schmerzskala mit 6 von 10 bewertet und die Einnahme von Voltaren 500-Miligramm-Tablet
+
+197
+00:21:50,660 --> 00:21:58,660
+eine wenige Linderung der Schmerzen gebracht.
+
+198
+00:21:58,660 --> 00:22:22,570
+Der Patient berichtete über eine Beule im rechten Leichtsembereich, die zurückziehen können.
+
+199
+00:22:22,570 --> 00:22:38,570
+Der Patient erwähnte, dass diese Schmerzen nach einem Erbrechen Fall aufgetreten seien.
+
+200
+00:22:38,570 --> 00:22:45,570
+Bei der vegetativen Anamnese seien die Folienden bekannt.
+
+201
+00:22:45,570 --> 00:22:53,570
+Er hatte eine nausea, schmerzbedingte Inapetenz.
+
+202
+00:22:53,570 --> 00:23:02,570
+Er sei vollständig gegen Kinderkrankheiten und dreimal Covid-Infektion geimpft.
+
+203
+00:23:02,570 --> 00:23:06,570
+Reiseanamnese wurde verneint.
+
+204
+00:23:06,570 --> 00:23:23,570
+An Vorerkrankungen nannte er seit 5 Jahren bestehende Diskusprolaps und seit 3 Jahren bestehende rechtsseitige Arthrose, Gonarthrose.
+
+205
+00:23:23,570 --> 00:23:43,570
+Er nahm Voltaren 50-Miligramm-Tablet bei Bedarf ein und hatte eine Physiotherapie gegen Gonarthrose.
+
+206
+00:23:43,570 --> 00:24:13,100
+Vor 6 Jahren habe er sich eine Klamykylofraktur beim Motorradunfall zugezogen, die konservativ mit einem Verband behandelt worden sei.
+
+207
+00:24:13,100 --> 00:24:22,100
+Er hatte Allergien gegen Aspirin, die sich durch Mundpusteln äußert.
+
+208
+00:24:22,100 --> 00:24:30,100
+Er hatte Laktoseintoleranz, die sich durch Diarrhoea äußert.
+
+209
+00:24:30,100 --> 00:24:44,100
+Er rauche 10 Zigaretten täglich seit 20 Jahren und er trinke 2 Gläser Bier täglich seit 20 Jahren.
+
+210
+00:24:44,100 --> 00:24:47,100
+Drogenkonsum wurde verneint.
+
+211
+00:24:47,100 --> 00:25:06,100
+In der Familienanamnese gab der Patient an, dass der Vater an Alkoholabusus leide und die Mutter leide an Demenz.
+
+212
+00:25:06,100 --> 00:25:23,100
+Der Patient habe einen Bruder und der Bruder habe wegen einem Arbeitsunfall 3 Finger verloren.
+
+213
+00:25:23,100 --> 00:25:35,100
+Er sei verheiratet, habe 2 Kinder, einen Sohn und eine Tochter, die gesund seien und wohne mit seiner Familie.
+
+214
+00:25:35,100 --> 00:25:40,100
+Er sei Bauarbeiter von Beruf und zufrieden bei der Arbeit.
+
+215
+00:25:40,100 --> 00:25:54,100
+Ich gehe von einem Verdacht auf eine Hernie Inguinalis aus, da der Patient typische Symptome dafür aufweist.
+
+216
+00:25:54,100 --> 00:26:13,100
+Der Patient leidet unter rechtzeitiger Leistungsschmerzen, eine Beule, besonders nachdem er brach eine Attacke aufgetreten sei.
+
+217
+00:26:13,100 --> 00:26:20,100
+Diese Symptome sprechen für eine Hernie Inguinalis.
+
+218
+00:26:20,100 --> 00:26:45,920
+Als Differenzialdiagnosen kommen Akutapandicitis, Akutgasroenteritis, Testiculartorsion und Hydrocell in Betracht.
+
+219
+00:26:45,920 --> 00:26:56,920
+Zunächst würde ich bei den Patienten die mit Taparameter überwachen und eine körperliche Untersuchung durchführen.
+
+220
+00:26:56,920 --> 00:27:18,920
+Bei der körperlichen Untersuchung achte ich darauf, ob eine Beule hautfarbeveränderungen, vergrößerte Lymphknoten vorhanden sind.
+
+221
+00:27:18,920 --> 00:27:26,920
+Zusätzlich ist eine Laboruntersuchung sinnvoll, um eine umfassende Diagnostik zu gewährleisten.
+
+222
+00:27:26,920 --> 00:27:46,650
+Dabei würde ich Lokisotenzahl, CAP, BSG, Leberwerte, Nierenwerte, Elektrolyten bestimmen lassen.
+
+223
+00:27:46,650 --> 00:27:57,650
+Danach würde ich eine Abdomenultrazonographie durchführen, um die möglichen Pathologien genau zu beurteilen.
+
+224
+00:27:57,650 --> 00:28:20,650
+Darüber hinaus würde ich gegebenenfalls eine CT-Abdomen durchführen, um die Verdachtdiagnose zu bestätigen.
+
+225
+00:28:20,650 --> 00:28:39,650
+Sollte sich die Verdachtdiagnose bestätigen, würde ich die Patientestation aufnehmen und einen Venosynzugang legen.
+
+226
+00:28:39,650 --> 00:28:51,650
+Dann würde ich eine Analystik, eine Antimethik, eine Spasmolythetik verabreichen.
+
+227
+00:28:51,650 --> 00:28:59,650
+Ich würde ein chirurgisches Konzil anfordern, um die Therapie des Patienten zu optimieren.
+
+228
+00:28:59,650 --> 00:29:18,630
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit der geplanten Untersuchung fortfahren.
+
+229
+00:29:18,630 --> 00:29:34,960
+Herr Kollegen, was ist der Unterschied zwischen der Strangularhernie und der Herneungenalis?
+
+230
+00:29:34,960 --> 00:29:39,960
+Die Strangularhernie ist eine Notfallsituation.
+
+231
+00:29:39,960 --> 00:29:48,960
+Es gibt eine Perforation, also ein Darmnekroserrisiko bei der Strangularherniation.
+
+232
+00:29:48,960 --> 00:29:59,960
+Deswegen sollen wir sofort eine Operation durchführen bei der Strangularhernie.
+
+233
+00:29:59,960 --> 00:30:12,060
+Es gibt auch eine Ileus-Klinik bei der Strangularhernie.
+
+234
+00:30:12,060 --> 00:30:27,060
+Der Patient hat keine Verstopfungsprobleme. Heute Morgen habe er einen Durchfall, also Diarrhea gelitten.
+
+235
+00:30:27,060 --> 00:30:37,830
+Wie können wir als Testportion ausfüllen?
+
+236
+00:30:37,830 --> 00:30:57,830
+Wir können eine körperliche Untersuchung durchführen, wenn wir den Hoden anheben, die Schmerzen verstärkt bei einer Testilatrosion.
+
+237
+00:30:57,830 --> 00:31:09,830
+Wir können diese Situation bei körperlicher Untersuchung aufklären.
+
+238
+00:31:09,830 --> 00:31:17,830
+Welche Diagnostik und Maßnahmen würden Sie durchführen, um eine Testilatrosion auszuschließen?
+
+239
+00:31:17,830 --> 00:31:26,830
+Ich würde eine doppelte Ultrasonographie durchführen, um die Testilatrosion auszuschließen.
+
+240
+00:31:26,830 --> 00:31:31,830
+Können Sie uns eine doppelte Ultrasonographie aufklären?
+
+241
+00:31:31,830 --> 00:31:39,830
+Ja, gerne. Ich würde Sie über eine doppelte Ultrasonographie aufklären.
+
+242
+00:31:39,830 --> 00:31:45,830
+Die doppelte Ultrasonographie ist eine spezielle Ultraschalluntersuchung.
+
+243
+00:31:45,830 --> 00:31:58,830
+Diese Untersuchung hilft uns, die Durchblutstörungen, Stenose oder Thrombose genau zu beurteilen.
+
+244
+00:31:58,830 --> 00:32:14,830
+Wir sollen vorher die zu untersuchende Körperregion mit einem Gel einschmieren, damit der Schallkopf fehlerfrei arbeitet.
+
+245
+00:32:14,830 --> 00:32:25,830
+Die Ultraschallfälle machen die Gefäße sichtbar und wir können die Gefäße auf einem Monitor sehen.
+
+246
+00:32:25,830 --> 00:32:35,830
+Für diese Untersuchung benötigt der Patient keine spezielle Vorbereitung.
+
+247
+00:32:35,830 --> 00:32:41,830
+Diese Untersuchung dauert ca. 20-30 Minuten.
+
+248
+00:32:41,830 --> 00:32:49,830
+Es gibt keine Komplikationen oder Kontraindikationen bei dieser Untersuchung.
+
+249
+00:32:50,830 --> 00:32:55,830
+Nach der Untersuchung gibt es auch keine Einschränkungen.
+
+250
+00:32:55,830 --> 00:33:03,830
+Der Patient kann seinen Alltag wie gewohnt fortsetzen.
+
+251
+00:33:03,830 --> 00:33:18,200
+Sie haben gesagt, als Differentialdiagnose denke ich auf Akute Appendicitis.
+
+252
+00:33:18,200 --> 00:33:22,200
+Wie können wir Akute Appendicitis ausschließen?
+
+253
+00:33:22,200 --> 00:33:35,200
+Zuerst können wir eine Abdomenultrasonographie durchführen, um die möglichen Pathologien zu beurteilen.
+
+254
+00:33:35,200 --> 00:33:46,200
+Oder gegebenenfalls können wir auch eine Säte des Abdomens durchführen, um die genaue Pathologie zu bestätigen.
+
+255
+00:33:46,200 --> 00:34:01,200
+Zuerst mache ich eine körperliche Untersuchung, ob Abverspannung, Loslassschmerzen, Abdomen und Abdomen sind.
+
+256
+00:34:01,200 --> 00:34:12,200
+Wenn möglich, werde ich während der Untersuchung keine Auffälligkeit finden.
+
+257
+00:34:12,200 --> 00:34:20,200
+Ich würde eine Abdomenultrasonographie durchführen, mit Kontrastmittel.
+
+258
+00:34:20,200 --> 00:34:36,060
+Wenn Sie Akute Appendicitis oder Strangule in Karsere Herni diagnostizieren, welche Operationen empfehlen Sie dem Patienten?
+
+259
+00:34:36,060 --> 00:34:45,060
+Eine offene Operation würde ich empfehlen. Bei der Perforation meine ich.
+
+260
+00:34:45,060 --> 00:34:53,060
+Wenn es keine Perforation gibt, würde ich eine laparoskopische Operation empfehlen.
+
+261
+00:34:53,060 --> 00:35:02,060
+Gibt es Medikamentöstherapie in der Herni?
+
+262
+00:35:02,060 --> 00:35:20,060
+Medikamentöstherapie gibt es nicht, aber wir können eine Unterstützerband gegen Herni in Grinalis benutzen.
+
+263
+00:35:20,060 --> 00:35:33,100
+Aber normalerweise gibt es keine Medikamentöstherapie.
+
+264
+00:35:33,100 --> 00:35:43,510
+Herr Kollegen, Sie haben unsere Prüfung bestanden. Gehen Sie auf unser Infodesk und nehmen Sie Ihre Zertifikat.
+
+265
+00:35:43,510 --> 00:35:48,510
+Ich wünsche Ihnen viel Erfolg in Ihrem Arbeitsweg.
+
+266
+00:35:48,510 --> 00:35:53,510
+Vielen Dank Herr Oberz. Das ist sehr nett von Ihnen. Danke.

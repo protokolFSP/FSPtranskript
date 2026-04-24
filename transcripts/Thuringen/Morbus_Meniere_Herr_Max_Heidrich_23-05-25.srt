@@ -1,0 +1,1183 @@
+1
+00:00:00,020 --> 00:00:09,020
+Mein Name ist Ucak, ich bin aus dieser Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Anamnese-Gespräch durchführen.
+
+2
+00:00:09,020 --> 00:00:11,020
+Damit sind Sie einverstanden?
+
+3
+00:00:11,020 --> 00:00:14,020
+Ja, ich bin einverstanden, Dr.
+
+4
+00:00:14,020 --> 00:00:17,020
+Bitte fragen Sie nach, wenn Sie etwas nicht verstehen.
+
+5
+00:00:17,020 --> 00:00:23,020
+Ich werde Ihnen gerne ein paar allgemeine Fragen stellen, bevor Sie mir über Ihre Beschwerden erzählen.
+
+6
+00:00:23,020 --> 00:00:24,020
+Ist das in Ordnung?
+
+7
+00:00:24,020 --> 00:00:26,020
+Ja, gerne.
+
+8
+00:00:26,020 --> 00:00:28,020
+Wie heißen Sie denn?
+
+9
+00:00:28,020 --> 00:00:34,440
+Ich heiße Max Heydrich.
+
+10
+00:00:34,440 --> 00:00:37,440
+Können Sie bitte Ihren Namen langsam beschreiben?
+
+11
+00:00:37,440 --> 00:00:46,850
+M-A-X, Martha Anton X.
+
+12
+00:00:46,850 --> 00:00:57,850
+Mein Name ist H-I-D-R-I-S-H.
+
+13
+00:00:57,850 --> 00:01:00,850
+Okay. Herr Heydrich, wie alt sind Sie?
+
+14
+00:01:00,850 --> 00:01:03,850
+Ich bin 33 Jahre alt.
+
+15
+00:01:03,850 --> 00:01:06,850
+Und wann sind Sie genau geboren?
+
+16
+00:01:06,850 --> 00:01:14,850
+2.3.1993
+
+17
+00:01:14,850 --> 00:01:17,850
+Wie groß sind Sie?
+
+18
+00:01:17,850 --> 00:01:20,850
+Ich bin 75 Kilo.
+
+19
+00:01:20,850 --> 00:01:25,090
+Und wie groß sind Sie?
+
+20
+00:01:25,090 --> 00:01:31,090
+Ich bin 1 Meter 85.
+
+21
+00:01:31,090 --> 00:01:37,090
+Okay. Wer ist Ihr Hausarzt oder Hausärztin?
+
+22
+00:01:37,090 --> 00:01:40,090
+Mein Hausarzt ist Frau Schmidt.
+
+23
+00:01:40,090 --> 00:01:45,160
+Okay. Danke für die Informationen.
+
+24
+00:01:45,160 --> 00:01:49,160
+Herr Heydrich, was kann ich für Sie tun? Was für Beschwerden haben Sie zuzeit?
+
+25
+00:01:49,160 --> 00:01:59,160
+Ja, Doktor. Ich habe seit zwei Tagen Schwindelig.
+
+26
+00:01:59,160 --> 00:02:09,110
+Okay. Herr Heydrich, haben Sie früher ähnliche Beschwerden gehabt?
+
+27
+00:02:09,110 --> 00:02:22,110
+Ja, Doktor. Ich hatte zwei Monate Schwindelig.
+
+28
+00:02:22,110 --> 00:02:26,110
+Ich erinnere mich jetzt.
+
+29
+00:02:26,110 --> 00:02:33,110
+Und waren Sie wegen dieser Beschwerden bei anderen Arzten gewesen?
+
+30
+00:02:34,110 --> 00:02:41,110
+Nein. Ich denke, das ist nicht plötzlich oder wichtig.
+
+31
+00:02:41,110 --> 00:02:46,110
+Aber ich habe jetzt ähnliche Beschwerden wieder.
+
+32
+00:02:46,110 --> 00:02:53,110
+Ich habe bei ihnen gegangen.
+
+33
+00:02:53,110 --> 00:03:00,110
+Okay. Sie haben eine gute Entscheidung getroffen, hierher zu kommen, Herr Heydrich.
+
+34
+00:03:00,110 --> 00:03:03,110
+Danke schön.
+
+35
+00:03:03,110 --> 00:03:11,110
+Herr Heydrich, darf ich fragen, sind diese Schwindelig plötzlich oder langsam aufgetreten?
+
+36
+00:03:11,110 --> 00:03:16,390
+Es kam plötzlich aufgetreten, Doktor.
+
+37
+00:03:16,390 --> 00:03:22,390
+Und gibt es einen bestimmten Auslöser für diese Schwindel? Haben Sie bemerkt?
+
+38
+00:03:22,390 --> 00:03:28,390
+Bestimmter Auslöser? Nein. Ohne einen bestimmten Auslöser. Nein.
+
+39
+00:03:28,390 --> 00:03:34,390
+Und gibt es etwas, das den Schwindel verschlimmert oder lindert?
+
+40
+00:03:34,390 --> 00:03:37,390
+Verschlimmert, ja.
+
+41
+00:03:37,390 --> 00:03:47,700
+Gibt es etwas, das diesen Schwindel verschlimmert oder eine Position, zum Beispiel legen oder stehen?
+
+42
+00:03:47,700 --> 00:04:02,100
+Ja. Das Licht ist mir zu hell, Doktor. Ich halte das kaum aus.
+
+43
+00:04:02,100 --> 00:04:10,100
+Verstehen Sie? Ja, also Sie haben Lichtempfindlichkeit, richtig? Ja, richtig.
+
+44
+00:04:10,100 --> 00:04:15,100
+Okay. Außerdem halte ich über, Doktor.
+
+45
+00:04:15,100 --> 00:04:23,450
+Und mussten Sie erbrechen? Ja, ja.
+
+46
+00:04:23,450 --> 00:04:27,450
+Wie viel haben Sie erbrochen?
+
+47
+00:04:27,450 --> 00:04:38,850
+Seit zwei Tagen habe ich fünf oder sechsmal erbrochen, ja.
+
+48
+00:04:38,850 --> 00:04:43,850
+Okay. Wie sah das Erbrochen aus? Ich meine, haben Sie Blut bemerkt?
+
+49
+00:04:43,850 --> 00:04:49,850
+Nein, ich habe nicht Blut bemerkt.
+
+50
+00:04:49,850 --> 00:04:56,850
+Okay. Herr Heydrich, haben Sie gegen diese Beschwerden ein Medikament eingenommen?
+
+51
+00:04:56,850 --> 00:05:02,850
+Ja, Doktor. Ich habe eine Tablette Dolalmin genommen, aber das hat leider nicht geholfen.
+
+52
+00:05:02,850 --> 00:05:09,060
+Alles klar. Leiden Sie unter Kopfschmerzen?
+
+53
+00:05:09,060 --> 00:05:12,060
+Ja, ja, ja. Richtig. Sie haben Recht.
+
+54
+00:05:12,060 --> 00:05:20,060
+Außerdem habe ich Kopfschmerzen, so ein Tumfenschmerz auf der rechten Seite, ja.
+
+55
+00:05:20,060 --> 00:05:31,840
+Darf ich fragen, seit wann haben Sie diese Schmerzen?
+
+56
+00:05:31,840 --> 00:05:33,840
+Schwindelig, oder?
+
+57
+00:05:33,840 --> 00:05:41,840
+Kopfschmerzen. Ah, Kopfschmerzen. Seit zwei Tagen, Doktor.
+
+58
+00:05:41,840 --> 00:05:43,840
+Ähnlich, ja? Ja, ja.
+
+59
+00:05:43,840 --> 00:05:56,660
+Außerdem kann ich auch nicht gut schlafen und ich habe keinen Apathet seit zwei Tagen, ja Doktor.
+
+60
+00:05:56,660 --> 00:06:06,340
+Ich denke, wegen dieser Beschwerden schlafe ich nicht gut, ich denke.
+
+61
+00:06:06,340 --> 00:06:10,340
+Haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+62
+00:06:10,340 --> 00:06:12,340
+Beide, ich denke.
+
+63
+00:06:12,340 --> 00:06:27,350
+Okay, alles klar. Herr Heydrich, also leiden Sie unter Sehstörungen oder Hörstörungen?
+
+64
+00:06:27,350 --> 00:06:36,350
+Ja, ich habe nicht bemerkt. Aber wegen dieser Empfindlichkeit,
+
+65
+00:06:36,350 --> 00:06:48,870
+beim Gehen schwanke ich und fühle mich sehr unsicher.
+
+66
+00:06:48,870 --> 00:06:57,870
+Herr Heydrich, darf ich fragen, ist dieses Schwindel wie auf einem Karussell oder auf einem Boot,
+
+67
+00:06:57,870 --> 00:07:01,870
+ich meine, drehen alles um, oder?
+
+68
+00:07:01,870 --> 00:07:12,100
+Ja, alles um, ja, alles um, richtig, ja.
+
+69
+00:07:12,100 --> 00:07:19,100
+Okay, und leiden Sie unter Taubheitsgefühl oder Kribbeln oder Lähmung in Extrapolitik?
+
+70
+00:07:19,100 --> 00:07:21,100
+Ich meine, Beine oder Arme?
+
+71
+00:07:21,100 --> 00:07:25,100
+Kribbeln, ich habe nicht bemerkt, Doktor, nein.
+
+72
+00:07:25,100 --> 00:07:33,820
+Auch Lähmung?
+
+73
+00:07:33,820 --> 00:07:36,820
+Ja, ich habe keine Lähmung, nein.
+
+74
+00:07:36,820 --> 00:07:43,820
+Okay, haben Sie eine Nackensteifigkeit bemerkt?
+
+75
+00:07:43,820 --> 00:07:47,100
+Können Sie wieder...
+
+76
+00:07:47,100 --> 00:07:51,100
+Haben Sie Nackensteifigkeit bemerkt?
+
+77
+00:07:51,100 --> 00:07:58,740
+Ja, nein, ich habe nicht bemerkt, nein.
+
+78
+00:07:58,740 --> 00:08:08,740
+Okay, Herr Heydrich, darf ich fragen, haben Sie eine komische Geräusche im Ohr bemerkt?
+
+79
+00:08:08,740 --> 00:08:15,740
+Ja, ich habe einmal bemerkt, ja, ja, ja, richtig, aber einmal.
+
+80
+00:08:15,740 --> 00:08:18,740
+Aber momentan? Momentan haben Sie nicht, ja?
+
+81
+00:08:18,740 --> 00:08:30,740
+Ja, momentan nicht, aber gestern kurze Zeit ungefähr 3-2 Minuten, ja, ich habe bemerkt, ja.
+
+82
+00:08:30,740 --> 00:08:38,740
+Okay, und darf ich fragen, wie lange dauert diese Schwindelattacke?
+
+83
+00:08:38,740 --> 00:08:44,740
+Ungefähr eine oder zwei Stunden.
+
+84
+00:08:44,740 --> 00:08:46,740
+Okay, alles klar.
+
+85
+00:08:46,740 --> 00:08:54,740
+Und Sie haben gesagt, dass Sie Übelkeit und müssten erbrechen?
+
+86
+00:08:54,740 --> 00:08:59,740
+Ja, haben Sie Fieber oder Schüttelfrost, Nachtschweiß?
+
+87
+00:08:59,740 --> 00:09:07,740
+Ich habe das Fieber nicht gemessen, aber ich fühle mich nicht fieberlich.
+
+88
+00:09:07,740 --> 00:09:09,740
+Ich habe keine Fieber, ich denke.
+
+89
+00:09:09,740 --> 00:09:11,740
+Das freut mich.
+
+90
+00:09:11,740 --> 00:09:15,740
+Haben Sie Probleme beim Wasserlassen oder mit am Stuhlgang?
+
+91
+00:09:15,740 --> 00:09:21,740
+Ich habe keine Probleme beim Wasserlassen oder beim Stuhlgang.
+
+92
+00:09:21,740 --> 00:09:26,740
+Leiden Sie unter Husten oder Luftnot?
+
+93
+00:09:26,740 --> 00:09:29,740
+Nein, ich habe nicht bemerkt, Doktor.
+
+94
+00:09:29,740 --> 00:09:34,080
+Alles klar.
+
+95
+00:09:34,080 --> 00:09:39,080
+Herr Heidlich, sind Sie vollständig gegen Kinderkrankheiten geimpft?
+
+96
+00:09:39,080 --> 00:09:41,080
+Ja, Doktor, richtig.
+
+97
+00:09:41,080 --> 00:09:49,080
+Ich bin vollständig gegen Corona geimpft.
+
+98
+00:09:49,080 --> 00:09:51,080
+Nein, nicht zweimal, viermal nicht.
+
+99
+00:09:51,080 --> 00:09:55,800
+Alles klar.
+
+100
+00:09:55,800 --> 00:10:01,800
+Herr Heidlich, leiten Sie an chronische Erkrankungen von denen,
+
+101
+00:10:01,800 --> 00:10:07,800
+denen ich wissen sollte, wie zum Beispiel Milithochdruck oder Zuckerkrankheit?
+
+102
+00:10:07,800 --> 00:10:12,800
+Ja, Doktor, ich habe keine chronischen Erkrankungen.
+
+103
+00:10:12,800 --> 00:10:18,800
+Aber ich habe seit ungefähr drei Jahren Schulteschmerzen.
+
+104
+00:10:18,800 --> 00:10:24,800
+Da ist, glaube ich, eine Verkalkung drin.
+
+105
+00:10:24,800 --> 00:10:32,800
+Mein Hausarzt hat auch gesagt, dass ich einen Tennis-Ellenbogen habe.
+
+106
+00:10:32,800 --> 00:10:44,030
+Ich habe früher Tennis gespielt, aber jetzt nicht mehr.
+
+107
+00:10:44,030 --> 00:10:50,030
+Okay, haben Sie Probleme am Schulter oder am Ellenbogen?
+
+108
+00:10:50,030 --> 00:10:52,030
+Beide.
+
+109
+00:10:52,030 --> 00:10:54,030
+Beide, okay.
+
+110
+00:10:54,030 --> 00:10:56,030
+Nehmen Sie ein Medikament dagegen eingenommen?
+
+111
+00:10:56,030 --> 00:11:11,030
+Ja, wenn ich Schmerzen habe, nehme ich bei Bedarf Ibuprofen 500 mg ein, Doktor.
+
+112
+00:11:11,030 --> 00:11:15,020
+Aber bei Bedarf.
+
+113
+00:11:15,020 --> 00:11:19,020
+Ich nehme auch zwei Mal pro Woche.
+
+114
+00:11:19,020 --> 00:11:24,020
+Okay. Sind Sie schon einmal operiert worden?
+
+115
+00:11:25,020 --> 00:11:28,020
+Ja, Doktor, ich war einmal operiert.
+
+116
+00:11:28,020 --> 00:11:34,020
+Wir wurden vor vier Jahren Mandeln entfernt.
+
+117
+00:11:34,020 --> 00:11:37,020
+Vor vier Jahren Mandeln entfernt, ja?
+
+118
+00:11:37,020 --> 00:11:39,020
+Ja, ja, ja.
+
+119
+00:11:39,020 --> 00:11:45,020
+Ich hatte auch mal eine Lungenentzündung, aber das ist schon länger.
+
+120
+00:11:45,020 --> 00:11:52,000
+Wie wurde diese Lungenentzündung behandelt?
+
+121
+00:11:52,000 --> 00:11:55,000
+Im Krankenhaus oder mit Antibiotika?
+
+122
+00:11:55,000 --> 00:12:02,000
+Nein, mein Hausarzt hat mir eine Antibiotika gegeben.
+
+123
+00:12:02,000 --> 00:12:09,000
+Ich habe eine Woche genutzt. Das war gut.
+
+124
+00:12:09,000 --> 00:12:18,370
+Alles klar. Okay, und sonst? Haben Sie irgendwelche andere Voroperationen?
+
+125
+00:12:18,370 --> 00:12:21,370
+Nein, ich habe keine andere Operation.
+
+126
+00:12:21,370 --> 00:12:29,370
+Okay, nehmen Sie regelmäßig oder bei Bedarf außer genannten Medikamenten noch irgendwelche anderen Medikamente ein?
+
+127
+00:12:29,370 --> 00:12:44,370
+Ich nehme keine Medikamente regelmäßig, aber ich habe gesagt, ich habe Dolamin angenommen und manchmal einen Nasenspray, Sonarin, wenn es nötig ist.
+
+128
+00:12:44,370 --> 00:12:47,370
+Sonarin, habe ich gesagt, ja?
+
+129
+00:12:47,370 --> 00:12:48,370
+Ja, ja.
+
+130
+00:12:48,370 --> 00:12:53,370
+Und wogegen benutzen Sie diesen Spray?
+
+131
+00:12:53,370 --> 00:12:54,370
+Ja, ja.
+
+132
+00:12:54,370 --> 00:12:56,370
+Wogegen benutzen Sie ihn?
+
+133
+00:12:56,370 --> 00:13:01,370
+Ich habe einen Ritus-Doktor.
+
+134
+00:13:01,370 --> 00:13:11,130
+Okay, sind Sie allergisch gegen irgendwelche Medikamente, Pflanzen oder Nahrungsmittel?
+
+135
+00:13:11,130 --> 00:13:20,130
+Ich denke, ich bin allergisch auf dem Halt.
+
+136
+00:13:20,130 --> 00:13:31,130
+Wenn ich lange Zeit in einem Office bleibe, habe ich Ritus.
+
+137
+00:13:31,130 --> 00:13:36,570
+Aber ich bin nicht sicher.
+
+138
+00:13:36,570 --> 00:13:39,570
+Okay, alles klar. Und sonst?
+
+139
+00:13:39,570 --> 00:13:40,570
+Das war es, oder?
+
+140
+00:13:40,570 --> 00:13:43,570
+Das war es nicht.
+
+141
+00:13:43,570 --> 00:13:45,570
+Gehaltlich rauchen Sie?
+
+142
+00:13:45,570 --> 00:13:48,570
+Ja, Doktor, ich rauche leider.
+
+143
+00:13:48,570 --> 00:13:53,570
+Seit wann und wie oft? Wie viel?
+
+144
+00:13:53,570 --> 00:14:03,300
+Seit 10 Jahren rauche ich halb Schachtel Zigaretten täglich.
+
+145
+00:14:03,300 --> 00:14:07,300
+Okay. Und trinken Sie regelmäßig Alkohol?
+
+146
+00:14:07,300 --> 00:14:11,300
+Ja, Alkohol trinke ich nur am Wochenende.
+
+147
+00:14:11,300 --> 00:14:18,300
+Meistens 3 bis 4 Gläser Wein zusammen mit meiner Frau.
+
+148
+00:14:18,300 --> 00:14:25,910
+Okay, bitte nehmen Sie die nächste Frage nicht persönlich. Das ist eine Routinefrage.
+
+149
+00:14:25,910 --> 00:14:28,910
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+150
+00:14:28,910 --> 00:14:31,910
+Ich nehme keine Drogen, Doktor.
+
+151
+00:14:31,910 --> 00:14:32,910
+Das freut mich.
+
+152
+00:14:32,910 --> 00:14:39,910
+Herr Hajdrich, leiden Ihre Eltern an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Schlaganfall?
+
+153
+00:14:39,910 --> 00:14:42,910
+Schlaganfall, bitte.
+
+154
+00:14:42,910 --> 00:14:48,910
+Ja, meine Familie gibt es Bluthochdruck.
+
+155
+00:14:48,910 --> 00:14:55,910
+Meine Mutter hat das und wurde wegen einer Fremdung an der Haschlackada operiert.
+
+156
+00:14:55,910 --> 00:14:56,910
+Reicht.
+
+157
+00:14:56,910 --> 00:15:08,340
+Außerdem habe ich meine Mutter an Bluthochdruck.
+
+158
+00:15:09,340 --> 00:15:17,340
+Mein Vater hat auch Bluthochdruck und hatte vor 3 Jahren einen Schlaganfall.
+
+159
+00:15:17,340 --> 00:15:25,920
+Okay, alles klar. Und haben Sie Geschwister?
+
+160
+00:15:25,920 --> 00:15:28,920
+Ich bin Einzelkind, Doktor.
+
+161
+00:15:28,920 --> 00:15:32,920
+Okay. Sie sind verheiratet und haben Sie Kinder?
+
+162
+00:15:32,920 --> 00:15:42,620
+Ich habe 2 gesunde Jungs.
+
+163
+00:15:42,620 --> 00:15:47,620
+Herr Hajdrich, wohnen Sie mit Ihrer Familie?
+
+164
+00:15:47,620 --> 00:15:52,150
+Ja, ich lebe mit meiner Frau.
+
+165
+00:15:52,150 --> 00:15:54,150
+Und was sind Sie für einen Beruf?
+
+166
+00:15:54,150 --> 00:15:56,150
+Ich bin Schwimmemaster.
+
+167
+00:15:56,150 --> 00:16:09,280
+Okay, alles klar.
+
+168
+00:16:11,280 --> 00:16:17,280
+Herr Hajdrich, ich möchte eine Frage über Ihre aktuellen Beschwerden stellen.
+
+169
+00:16:17,280 --> 00:16:23,280
+Also, haben Sie eine Verletzung gehabt, besonders am Kopf?
+
+170
+00:16:23,280 --> 00:16:28,280
+Verletzung? Ich erinnere mich.
+
+171
+00:16:28,280 --> 00:16:30,280
+Jetzt, Doktor, nein.
+
+172
+00:16:30,280 --> 00:16:33,280
+Okay, alles klar. Das waren meine Fragen.
+
+173
+00:16:33,280 --> 00:16:38,280
+Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+174
+00:16:38,280 --> 00:16:44,280
+Ja, Doktor, ich denke, meine Situation ist sehr schlecht.
+
+175
+00:16:44,280 --> 00:16:55,280
+Ich kann nicht arbeiten und ich kümmere mich nicht um meine Kinder. Was habe ich?
+
+176
+00:16:55,280 --> 00:16:58,280
+Ich verstehe Sie sehr gut, Herr Hajdrich.
+
+177
+00:16:58,280 --> 00:17:01,280
+Also, machen Sie sich bitte keine Sorgen.
+
+178
+00:17:01,280 --> 00:17:06,280
+Sie sind jetzt im Krankenhaus und bei uns in guten Händen.
+
+179
+00:17:06,280 --> 00:17:11,280
+Es ist zu früh, etwas genau zu sagen.
+
+180
+00:17:11,280 --> 00:17:19,280
+Ich kann Ihnen nicht sagen, dass Sie ein Problem mit den Ohren haben.
+
+181
+00:17:19,280 --> 00:17:28,280
+Aber wie gesagt, werde ich Sie zuerst körperlich untersuchen und ich werde Ihnen Blut abnehmen.
+
+182
+00:17:28,280 --> 00:17:33,280
+Und dann ein paar Untersuchungen veranlassen.
+
+183
+00:17:33,280 --> 00:17:44,280
+Sobald alle Ergebnisse da sind, werde ich Ihnen weitere Informationen mitteilen.
+
+184
+00:17:44,280 --> 00:17:50,280
+Was ist körperliche Untersuchung? Untersuchen Sie mein Ohr, oder?
+
+185
+00:17:50,280 --> 00:17:54,280
+Ja, ich werde Ihren Ohr untersuchen.
+
+186
+00:17:54,280 --> 00:18:01,280
+Ich werde den ganzen Körper untersuchen. Das ist sehr wichtig bei uns.
+
+187
+00:18:02,280 --> 00:18:07,280
+Diese Beschwerden sind gefährlich?
+
+188
+00:18:07,280 --> 00:18:12,280
+Wie gesagt, es ist zu früh, etwas zu sagen, Herr Hajdrich.
+
+189
+00:18:12,280 --> 00:18:16,280
+Nach der Untersuchung können wir darüber widersprechen.
+
+190
+00:18:16,280 --> 00:18:20,280
+Aber wie gesagt, machen Sie sich bitte keine Sorgen.
+
+191
+00:18:20,280 --> 00:18:27,280
+Wir haben zu viele Erfahrungen mit diesen Situationen.
+
+192
+00:18:27,280 --> 00:18:32,280
+Und wie gesagt, wir werden alles für Sie tun.
+
+193
+00:18:32,280 --> 00:18:39,280
+Also ein paar Stunden müssen Sie sicherlich bei uns bleiben.
+
+194
+00:18:39,280 --> 00:18:47,280
+Ich habe gesagt, mein Vater hatte Schlaganfall.
+
+195
+00:18:47,280 --> 00:18:52,280
+Ich habe Angst über Schlaganfall.
+
+196
+00:18:52,280 --> 00:18:58,280
+Es könnte sein, dass ich Schlaganfall werde.
+
+197
+00:18:58,280 --> 00:19:11,010
+Also Herr Hajdrich, Ihre aktuellen Beschwerden sind nicht Schlaganfall.
+
+198
+00:19:11,010 --> 00:19:17,010
+Ich glaube, Sie haben ein Problem mit Ihren Ohren.
+
+199
+00:19:17,010 --> 00:19:29,010
+Und auch wir werden Ihr Gehirn untersuchen mit ein paar Bildgebenden.
+
+200
+00:19:29,010 --> 00:19:34,010
+Danach können wir darüber widersprechen.
+
+201
+00:19:34,010 --> 00:19:37,010
+Danke schön, Doktor. Ich warte auf Sie.
+
+202
+00:19:37,010 --> 00:19:43,010
+Sehr gerne. Bitte nehmen Sie Platz im Wartezimmer. Ich bin gleich wieder da.
+
+203
+00:19:43,010 --> 00:19:45,010
+Danke sehr schön.
+
+204
+00:19:45,010 --> 00:19:57,230
+Schönen guten Abend, Herr Oberarzt.
+
+205
+00:19:57,230 --> 00:20:00,230
+Ich habe einen neuen Patienten aufgenommen.
+
+206
+00:20:00,230 --> 00:20:05,230
+Ich würde gerne über ihn berichten. Haben Sie kurz Zeit für mich?
+
+207
+00:20:05,230 --> 00:20:07,230
+Ja, bitte.
+
+208
+00:20:07,230 --> 00:20:11,230
+Danke schön. Herr Max Hajdrich ist 33 Jahre alt.
+
+209
+00:20:11,230 --> 00:20:17,230
+75 Kilogramm schwer, 1,85 Meter groß.
+
+210
+00:20:17,230 --> 00:20:44,230
+Herr Hajdrich stellte sich heute bei uns wegen seit zwei Tagen bestehender flüssig aufgetretener Vertigo und seit zwei Tagen bestehender rechtsseitiger Dumpfhalcephalgie vor,
+
+211
+00:20:44,230 --> 00:20:54,230
+den Patienten zufolge habe er ähnliche Beschwerden vor zwei Monaten gehabt.
+
+212
+00:20:54,230 --> 00:21:01,230
+Er habe keinen Arzt wegen dieser Beschwerden besucht.
+
+213
+00:21:01,230 --> 00:21:19,230
+Er erwähnte, dass es keine auslöser für diese Beschwerden gibt, aber er berichtete über eine Lichtempfindlichkeit.
+
+214
+00:21:19,230 --> 00:21:27,230
+Diese Beschwerden seien mit der Zeit schlimmer geworden.
+
+215
+00:21:27,230 --> 00:21:38,230
+Außerdem berichtete der Patient über Nausea mit fünf- bis sechsmaliger Emesis.
+
+216
+00:21:38,230 --> 00:22:00,230
+Der Patient habe wegen dieser Beschwerden ein Dolamin-Tablet eingenommen, aber das Tablet hat keine Linderung der Schmerzen gebracht.
+
+217
+00:22:00,230 --> 00:22:28,230
+Er berichtete auch um die Sicherheit und die Fragen nach Kopfverletzung, Sehstörungen, Hörstörungen, Hypesthesie, Parasthesie, Parasie, Nackensteifigkeit.
+
+218
+00:22:28,230 --> 00:22:46,230
+Der Patient erwähnte, dass er gestern einen Tymiditus für drei bis vier Minuten gehabt.
+
+219
+00:22:46,230 --> 00:22:53,230
+Bei der Vegetative Anamnese seien die Folgen bekannt.
+
+220
+00:22:53,230 --> 00:23:08,230
+Insomnie, Inapetens, er sei vollständig gegen Kinderkrankheiten und viermal Covid-19 geimpft.
+
+221
+00:23:08,230 --> 00:23:28,230
+An Vorerkrankungen nannte er seit drei Jahren bestehende Schulterschmerzen und Tendoragenitis im Ellenbogen rechts.
+
+222
+00:23:28,230 --> 00:23:49,900
+Vor einem Monat, früher diagnostizierte Pneumonie, die mit Antibiotika für eine Woche behandelt wurden,
+
+223
+00:23:49,900 --> 00:23:59,900
+er nehme Ibuprofen 500 mg bei Bedarf ein bis zwei Mal pro Woche gegen Schulterschmerzen.
+
+224
+00:23:59,900 --> 00:24:19,900
+Vor vier Jahren sei bei ihm eine Transilektomie durchgeführt worden und er benutze auch eine Nasenspray gegen Renitis.
+
+225
+00:24:19,900 --> 00:24:27,900
+Er habe Allergie gegen Hausstaub, die sich durch Renitis äußert.
+
+226
+00:24:27,900 --> 00:24:35,900
+Er sei Raucher und er rauche seit zehn Jahren zehn Zigaretten täglich.
+
+227
+00:24:35,900 --> 00:24:44,900
+Er trinke drei bis vier Gläser Wein am Wochenende, Drogenkonsum wurde verneint.
+
+228
+00:24:44,900 --> 00:25:02,900
+In der Familienanamnese gab er an, dass der Vater an Arteriella Hypertonii an und er habe vor drei Jahren an Apoplex gelitten.
+
+229
+00:25:02,900 --> 00:25:24,900
+Die Mutter leide an Arteriella Hypertonii und bei ihr sei eine Karotis-Endarterektomie durchgeführt worden.
+
+230
+00:25:24,900 --> 00:25:33,900
+Er sei Einzelkind, verheiratet und er habe zwei gesunde Söhne.
+
+231
+00:25:33,900 --> 00:25:42,900
+Er wohnt mit seiner Frau und er sei Schlimmmeister von Beruf.
+
+232
+00:25:42,900 --> 00:25:57,900
+Ich gehe von einem Verdacht auf eine Morbus miliaire aus, da der Patient typische Symptome dafür aufweist.
+
+233
+00:25:57,900 --> 00:26:19,900
+Der Patient leidet unter Vertigo Cephalgie, einmal Getinitus und diese Beschwerden Nausea und Emesis auch.
+
+234
+00:26:19,900 --> 00:26:26,900
+Diese Beschwerden sind auch Symptome für eine Morbus miliaire.
+
+235
+00:26:26,900 --> 00:26:46,400
+Als Differenzialdiagnosen kommen vestibular Neuritis, Gehirntumor oder Gehirnblutung in Betracht.
+
+236
+00:26:46,400 --> 00:27:03,400
+Um meine Verdachtdiagnose zu bestätigen, würde ich die VITAR-Parameter überwachen und eine körperliche und neurologische Untersuchung durchführen.
+
+237
+00:27:03,400 --> 00:27:18,400
+Bei der neurologischen Untersuchung achte ich darauf, ob Störungen der Motorik, Sensorik oder andere Funktionen vorliegen.
+
+238
+00:27:18,400 --> 00:27:38,960
+Ich achte darauf, ob eine Seh- und Hörstörung, Hautfarbeveränderung vorhanden sind.
+
+239
+00:27:38,960 --> 00:27:47,960
+Zusätzlich ist eine Laborkuntersuchung sinnvoll, um eine umfassende Diagnostik zu gewährleisten.
+
+240
+00:27:47,960 --> 00:28:01,960
+Dabei würde ich Blutbild, CAP, BSG, Nierenwerte, Leberwerte, Elektrolyten bestimmen lassen.
+
+241
+00:28:01,960 --> 00:28:26,960
+Danach würde ich eine CT-Deschedels veranlassen, um die möglichen Pathologien wie Blutengern oder Tumore zu beurteilen.
+
+242
+00:28:26,960 --> 00:28:36,960
+Sollte sich die Verdachtdiagnose bestätigen, würde ich den Patienten mit einer Tumore,
+
+243
+00:29:13,420 --> 00:29:24,420
+und würde den Patienten eine Analyngetika, Antiemetika verabreichen.
+
+244
+00:29:24,420 --> 00:29:39,830
+Darüber hinaus würde ich ein neurologisches Konsil anfordern, um die Therapie des Patienten zu optimieren.
+
+245
+00:29:39,830 --> 00:29:56,850
+Wenn Sie mit dieser Vorgehensweise verstanden sind, werde ich mit der geplanten Untersuchung fortfahren.
+
+246
+00:30:00,120 --> 00:30:08,120
+Herr Kollegen, Sie haben gesagt, Sie würden die CT-Deschedels durchführen.
+
+247
+00:30:08,120 --> 00:30:18,120
+Welche Diagnostik-Pathologien müssen Sie ausschließen?
+
+248
+00:30:18,120 --> 00:30:34,940
+Wir sollen besonders gegen Blut und Tumore ausschließen.
+
+249
+00:30:34,940 --> 00:30:42,940
+Ich meine, Sie sind nur bei der CT-Deschedels, oder Herr Oberarzt?
+
+250
+00:30:42,940 --> 00:30:47,940
+Welche Gehirrtümer denken Sie in diesem Fall?
+
+251
+00:30:48,940 --> 00:30:58,460
+Ich habe keine speziellen Gehirrtümer, Herr Oberarzt.
+
+252
+00:30:58,460 --> 00:31:00,460
+Schwanoma?
+
+253
+00:31:00,460 --> 00:31:01,460
+Bitte?
+
+254
+00:31:01,460 --> 00:31:02,460
+Schwanoma?
+
+255
+00:31:02,460 --> 00:31:06,460
+Schwanoma kann sein, Sie haben recht.
+
+256
+00:31:06,460 --> 00:31:10,460
+Und möchten Sie in diesem Fall Hörtest?
+
+257
+00:31:10,460 --> 00:31:13,460
+Ja, das ist sehr wichtig.
+
+258
+00:31:13,460 --> 00:31:25,460
+Hörtest ist eine wichtige Symptome bei dieser Erkrankung.
+
+259
+00:31:25,460 --> 00:31:30,460
+Wir sollen einen Hörtest durchführen, Sie haben recht.
+
+260
+00:31:30,460 --> 00:31:38,460
+Ist es wichtig, in diesem Fall eine KG-Schreibung und eine Eschokardiographie durchzuführen?
+
+261
+00:31:38,460 --> 00:31:47,860
+Der Patient leidet unter vertigo.
+
+262
+00:31:47,860 --> 00:31:57,860
+Herzdichtungsstörungen können diese Symptome verursachen.
+
+263
+00:31:57,860 --> 00:32:04,860
+Deswegen sollen wir eine EKG-Schreibung und eine Eschokardiographie durchführen.
+
+264
+00:32:04,860 --> 00:32:08,750
+Sie haben recht.
+
+265
+00:32:08,750 --> 00:32:15,750
+Und als Differentialdiagnose denken Sie Serumen?
+
+266
+00:32:15,750 --> 00:32:22,310
+Serumen? Was meinen Sie damit, Herr Oberarzt?
+
+267
+00:32:22,310 --> 00:32:29,690
+Außer Hörgang gibt es Serumen.
+
+268
+00:32:29,690 --> 00:32:44,290
+Bei der Untersuchung sollen wir Hörgang genau untersuchen, ob es ein Problem da gibt.
+
+269
+00:32:44,290 --> 00:32:50,290
+Meinen Sie, in diesem Fall werden Sie eine Autoskopie durchführen?
+
+270
+00:32:50,290 --> 00:32:53,290
+Ja, Autoskopie.
+
+271
+00:32:53,290 --> 00:32:56,290
+Können Sie uns Autoskopie aufklären?
+
+272
+00:32:56,290 --> 00:33:03,590
+Autoskopie. Das ist eine gute Frage, Herr Oberarzt.
+
+273
+00:33:03,590 --> 00:33:16,590
+Ok, zuerst. Autoskopie ist eine Untersuchungmethode für Hörgang, für Hörgänge.
+
+274
+00:33:16,590 --> 00:33:50,380
+Diese Untersuchungmethode hilft mir, die Verletzungen, Fremddinge und Entzündungen und andere Veränderungen der Hörgänge genau zu erkennen.
+
+275
+00:33:50,380 --> 00:34:06,790
+Bei dieser Untersuchung sieht der Patient einfach und machen wir diese Untersuchung mit einem speziellen Gerät.
+
+276
+00:34:06,790 --> 00:34:10,790
+Das ist eine Autoskopie.
+
+277
+00:34:10,790 --> 00:34:24,790
+Wir führen die Autoskopie in den Hörgang ein und dann gucken wir durch die Autoskopie in die Hörgänge,
+
+278
+00:34:24,790 --> 00:34:49,170
+wenn es ein Fremddinge in der Hörgänge oder in der Hörgänge gibt,
+
+279
+00:34:49,170 --> 00:35:10,640
+können wir diese Dinge mit einem Gerät ausnehmen und wir können auch die Probleme mit Timpanischen genau feststellen.
+
+280
+00:35:10,640 --> 00:35:21,640
+Bei dieser Untersuchung dauert einige Minuten und dafür benötigt der Patient keine spezielle Vorbereitung.
+
+281
+00:35:21,640 --> 00:35:28,640
+Es gibt keine Komplikationen oder Kontraindikationen für diese Untersuchung.
+
+282
+00:35:28,640 --> 00:35:38,640
+Nach der Untersuchung gibt es keine Einschränkungen und der Patient kann seinen Alltag wie gewohnt fortsetzen.
+
+283
+00:35:38,640 --> 00:35:48,030
+Machen Sie in diesem Fall einen Stimmgabel-Test?
+
+284
+00:35:48,030 --> 00:35:59,140
+Stimmgabel-Test können wir machen. Wir werden die Hörstörungen genau beurteilen.
+
+285
+00:35:59,140 --> 00:36:07,140
+Deswegen sollen wir einen Stimmgabel-Test durchführen. Sie haben recht.
+
+286
+00:36:07,140 --> 00:36:12,140
+Können Sie uns die Stimmgabel-Untersuchung aufklären?
+
+287
+00:36:12,140 --> 00:36:21,140
+Bei dieser Untersuchung benutzen wir ein spezielles Gerät. Das ist wie ein Gabel.
+
+288
+00:36:21,140 --> 00:36:44,320
+Zuerst vibriertieren wir diese Gabel und legen wir dieses Gerät neben dem Ohr.
+
+289
+00:36:44,320 --> 00:36:57,920
+Das ist ein bisschen kompliziert bei mir. Herr Oberst, ich habe nur Grundkenntnisse mit diesem Thema. Es tut mir leid.
+
+290
+00:36:57,920 --> 00:37:03,920
+Was empfehlen Sie den Patienten nach der Akutbehandlung?
+
+291
+00:37:03,920 --> 00:37:20,710
+Wenn es eine Entzündungssituation gibt, eine Infektion, sollen wir eine Antibiotika verschreiben.
+
+292
+00:37:20,710 --> 00:37:44,500
+Der Patient muss viel trinken, ruhig stehen, besonders in einem dunklen Raum, beruhigen und von stressigen Situationen vermeiden.
+
+293
+00:37:44,500 --> 00:38:04,230
+Ich habe eine Frage. Was sind die Ursachen bei der Morbus Meniere?
+
+294
+00:38:04,230 --> 00:38:16,960
+Es gibt zentrale und peripherale Ursachen bei dieser Erkrankung.
+
+295
+00:38:16,960 --> 00:38:37,960
+Es kann auch Infektionen sein.
+
+296
+00:38:37,960 --> 00:38:53,830
+Ist Morbus Meniere eine Autohymin-Krise oder ist es eine Tumoridinfektion?

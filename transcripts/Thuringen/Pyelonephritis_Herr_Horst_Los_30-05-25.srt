@@ -1,0 +1,1151 @@
+1
+00:00:02,260 --> 00:00:08,260
+Schönen guten Tag, mein Name ist Ucak. Ich bin auf dieser Station als Assistenzarzt tätig.
+
+2
+00:00:08,260 --> 00:00:14,260
+Und ich würde gerne mit Ihnen das Anamnesigespräch durchführen. Sind Sie damit einverstanden?
+
+3
+00:00:14,260 --> 00:00:16,260
+Ja, natürlich, Dr.
+
+4
+00:00:16,260 --> 00:00:20,260
+Danke. Bitte fragen Sie nach, wenn Sie etwas nicht verstehen, okay?
+
+5
+00:00:20,260 --> 00:00:21,260
+Okay.
+
+6
+00:00:21,260 --> 00:00:23,260
+Wie heißen Sie denn?
+
+7
+00:00:23,260 --> 00:00:25,260
+Mein Name ist Horst Los.
+
+8
+00:00:25,260 --> 00:00:32,040
+Könnten Sie bitte Ihren Vor- und Nachnamen langsam mustibieren?
+
+9
+00:00:33,040 --> 00:00:45,040
+Heinrich Otto Richard Samuel Theodor Horst. Mein Nachname Ludwig Otto double Samuel, double S.
+
+10
+00:00:45,040 --> 00:00:48,040
+Okay. Herr Los, wie alt sind Sie?
+
+11
+00:00:48,040 --> 00:00:52,040
+Ich bin 65 Jahre alt.
+
+12
+00:00:52,040 --> 00:00:56,040
+65. Wann sind Sie genau geboren?
+
+13
+00:00:56,040 --> 00:01:04,280
+12. März 1960.
+
+14
+00:01:04,280 --> 00:01:06,280
+Okay. Wie groß sind Sie?
+
+15
+00:01:06,280 --> 00:01:10,280
+1 Meter 60.
+
+16
+00:01:10,280 --> 00:01:14,280
+Und wie schwer sind Sie zu seit?
+
+17
+00:01:14,280 --> 00:01:19,280
+Ich bin 560 Kilo.
+
+18
+00:01:19,280 --> 00:01:26,280
+Okay. Danke für die Informations- und Herr Los. Was kann ich für Sie tun? Was für Beschwerden haben Sie zu seit?
+
+19
+00:01:26,280 --> 00:01:36,280
+Ja, Dr. Ich habe starke Kliniken und Rückenschmerzen.
+
+20
+00:01:36,280 --> 00:01:43,060
+Welche Seite meinen Sie?
+
+21
+00:01:43,060 --> 00:01:49,710
+Das ist die rechte Seite.
+
+22
+00:01:49,710 --> 00:01:53,710
+Okay. Seit wann haben Sie diese Schmerzen, Herr Los?
+
+23
+00:01:53,710 --> 00:01:58,710
+Es ist ungefähr anderthalb Stunden, Dr.
+
+24
+00:01:58,710 --> 00:02:11,780
+Okay. Können Sie bitte diese Schmerzen genau beschreiben? Also sind Sie eher drückend oder kolikartig rennend?
+
+25
+00:02:11,780 --> 00:02:18,900
+Ja. Diese Schmerzen sind krampfartig, Dr.
+
+26
+00:02:18,900 --> 00:02:23,900
+Okay. Sind diese Schmerzen dauerhaft da oder gehen Sie auch wieder weg?
+
+27
+00:02:23,900 --> 00:02:36,900
+Ja, Dr. Es ist verfallen für mich. Manchmal dauerhaft, manchmal gehen wir wieder weg.
+
+28
+00:02:36,900 --> 00:02:41,900
+Okay. Strahlen diese Schmerzen irgendwo hinaus?
+
+29
+00:02:41,900 --> 00:02:53,600
+Ja. Die Schmerzen strahlen bis in die rechte Leiste aus.
+
+30
+00:02:53,600 --> 00:02:59,600
+Okay. Herr Los, haben Sie früher ähnliche Beschwerden gehabt?
+
+31
+00:02:59,600 --> 00:03:02,600
+Nein, Dr.
+
+32
+00:03:02,600 --> 00:03:09,600
+Und haben Sie gegen diese Schmerzen ein Medikament eingenommen?
+
+33
+00:03:09,600 --> 00:03:32,600
+Ja, ich habe 600 Milligramm Überprofen eingenommen, aber das hat nicht geholfen.
+
+34
+00:03:32,600 --> 00:03:37,600
+Okay. Sind diese Schmerzen plötzlich oder langsam aufgetreten?
+
+35
+00:03:37,600 --> 00:03:41,140
+Plötzlich, Dr.
+
+36
+00:03:41,140 --> 00:04:01,140
+Alles klar. Herr Los, haben Sie eine Allergie gegen irgendwelche Medikamente?
+
+37
+00:04:01,140 --> 00:04:04,140
+Nein, ich habe nur eine Allergie, Dr.
+
+38
+00:04:04,140 --> 00:04:10,140
+Okay. Leiden Sie an chronischen Erkrankungen, wie zum Beispiel Nierenversagen?
+
+39
+00:04:10,140 --> 00:04:24,140
+Ich habe keine Ahnung. Aber ich habe außerdem auch jetzt Handdrang und Schmerzen bei Wasserlassen. Ich habe keine Ahnung. Was meinen Sie?
+
+40
+00:04:24,140 --> 00:04:31,140
+Ich meine eine chronische Erkrankung, von der ich wissen sollte, wie zum Beispiel Nierenversagen.
+
+41
+00:04:31,140 --> 00:04:36,140
+Ich habe keine Ahnung, Dr. Ich bin nicht Arzt, Dr.
+
+42
+00:04:36,140 --> 00:04:46,140
+Okay, also ich werde die Schwester Bescheid sagen und sie gibt Ihnen eine Schmerzmitte. Okay?
+
+43
+00:04:46,140 --> 00:04:48,140
+Okay.
+
+44
+00:04:48,140 --> 00:04:53,140
+Wie fühlen Sie sich jetzt? Besser oder?
+
+45
+00:04:53,140 --> 00:04:57,140
+Ja, jetzt fühle ich mich besser, Dr. Danke schön.
+
+46
+00:04:57,140 --> 00:05:08,140
+Okay, darf ich fragen, wie stark waren Ihre Schmerzen, bevor Sie dieses Medikament auf einer Schmerzskala von 1 bis 10?
+
+47
+00:05:08,140 --> 00:05:17,140
+Ich denke 10. Ich hatte sehr, sehr starke Schmerzen. Aber jetzt fühle ich mich besser, Dr. Danke schön.
+
+48
+00:05:17,140 --> 00:05:24,140
+Ja, sehr gerne. Bitte sagen Sie mir sofort Bescheid, wenn Sie ein Medikament benötigen, okay?
+
+49
+00:05:24,140 --> 00:05:26,140
+Okay, okay.
+
+50
+00:05:26,140 --> 00:05:37,140
+Herr Los, Sie haben gesagt, dass Sie Probleme mit dem Wasserlassen haben, also schmerzhaftes Wasserlassen zum Beispiel.
+
+51
+00:05:37,140 --> 00:05:43,140
+Sonst haben Sie irgendwelche anderen Probleme beim Wasserlassen? Ich meine Blut im Urin?
+
+52
+00:05:43,140 --> 00:05:54,140
+Ja, Dr. Ich gestern und heute habe ich Blut in meinem Urin bemerkt, ja, Dr.
+
+53
+00:05:54,140 --> 00:06:03,140
+Okay. Wie oft müssen Sie auf die Toilette gehen, Herr Los?
+
+54
+00:06:03,140 --> 00:06:19,140
+Sehr oft. Ich muss 6 oder 8 oder 10, ich bin nicht sicher jetzt, müssen auf die Toilette gehen, ja.
+
+55
+00:06:19,140 --> 00:06:21,140
+Aber kleine Menge, meinen Sie?
+
+56
+00:06:21,140 --> 00:06:23,140
+Ja, ja, kleine.
+
+57
+00:06:23,140 --> 00:06:31,140
+Okay, alles klar. Herr Los, leiden Sie unter, also haben Sie Fieber oder fühlen Sie sich fiebrig?
+
+58
+00:06:31,140 --> 00:06:45,140
+Ja, ich habe nicht gemessen, Dr. Aber Sie haben Recht, ich fühle mich ein bisschen fiebrig, ja. Ich fühle mich heiß, ja.
+
+59
+00:06:45,140 --> 00:06:48,140
+Okay, haben Sie Schüterfrost oder Nachtschweiß?
+
+60
+00:06:48,140 --> 00:06:52,140
+Ich habe nicht gemessen, nein.
+
+61
+00:06:52,140 --> 00:07:12,570
+Okay, Herr Los, haben Sie gemessen, also gibt es etwas, das die Schmerzen verstärkt oder lindert, eine bestimmte Körperposition oder Wärmfläche vielleicht?
+
+62
+00:07:12,570 --> 00:07:25,570
+Ich habe keine Situation oder andere Bemerkte ausgelöst, nein.
+
+63
+00:07:25,570 --> 00:07:31,360
+Okay, alles klar. Ist Ihnen übel?
+
+64
+00:07:31,360 --> 00:07:35,360
+Ja, Dr. Sattli, ich bin übel, ja.
+
+65
+00:07:35,360 --> 00:07:37,360
+Mussten Sie erbrechen?
+
+66
+00:07:37,360 --> 00:07:42,360
+Ja, ich musste zweimal Grundliche Flüssigkeit erbrechen, ja.
+
+67
+00:07:42,360 --> 00:07:49,670
+Wie sieht das Erbrechen aus? Ich meine, haben Sie Blut im ...?
+
+68
+00:07:49,670 --> 00:07:51,670
+Grundliche, Grundliche.
+
+69
+00:07:51,670 --> 00:07:52,670
+Grundliche, okay.
+
+70
+00:07:52,670 --> 00:07:57,670
+Ja, ich habe nicht Blut bemerkt.
+
+71
+00:07:57,670 --> 00:08:05,670
+Okay, das freut mich. Und wie ist Ihr Appetit?
+
+72
+00:08:05,670 --> 00:08:09,670
+Mein Appetit ist nicht gut, doch.
+
+73
+00:08:09,670 --> 00:08:11,670
+Wegen der Schmerzen, oder?
+
+74
+00:08:11,670 --> 00:08:14,670
+Ja, zwei Schmerzen, ja. Stärke Schmerzen.
+
+75
+00:08:14,670 --> 00:08:15,670
+Ich verstehe.
+
+76
+00:08:15,670 --> 00:08:29,670
+Aber es ist sehr interessant. In den letzten Wochen habe ich etwas Gewicht zugenommen, Doktor. Obwohl ich kaum Appetit habe, ja.
+
+77
+00:08:29,670 --> 00:08:33,670
+Ja, wie viel Kilogramm haben Sie zugenommen?
+
+78
+00:08:33,670 --> 00:08:39,670
+Ich denke zwei oder drei Kilogramm, ja.
+
+79
+00:08:39,670 --> 00:08:43,670
+Drei Kilogramm in einer Woche, ja?
+
+80
+00:08:43,670 --> 00:08:46,530
+Ja.
+
+81
+00:08:46,530 --> 00:08:55,530
+Okay, alles klar. Schlafen Sie gut? Haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+82
+00:08:55,530 --> 00:09:07,530
+Ja, schlafen ist nicht gut, Doktor. Ich habe deswegen diese Schmerzen. Ich schlafe nicht gut, ja.
+
+83
+00:09:07,530 --> 00:09:11,530
+Einzuschlagprobleme oder Durchschlagprobleme oder beides vielleicht?
+
+84
+00:09:11,530 --> 00:09:13,530
+Beides, beides, ja.
+
+85
+00:09:13,530 --> 00:09:23,030
+Okay. Herr Los, ist alles in Ordnung mit dem Stuhlgang?
+
+86
+00:09:23,030 --> 00:09:34,030
+Nein, Doktor. Ich hatte langen chronischen Durchfall. Aber zurzeit habe ich das nicht.
+
+87
+00:09:34,030 --> 00:09:40,030
+Okay, alles klar. Und seit wann leiden Sie an chronischen Durchfall?
+
+88
+00:09:40,030 --> 00:09:45,030
+Es ist sehr lange, ungefähr zehn Jahre.
+
+89
+00:09:45,030 --> 00:09:48,030
+Nehmen Sie dagegen ein Medikament ein?
+
+90
+00:09:48,030 --> 00:09:59,030
+Ja, Doktor. Mein Herz hat auch mir gesagt, dass ich wahrscheinlich ein Reisdarmzentrum habe.
+
+91
+00:09:59,030 --> 00:10:16,030
+Ja, aber ich nehme bei Bedarf, wenn ich wieder Durchfall habe, nehme ich Parenterol.
+
+92
+00:10:16,030 --> 00:10:26,110
+Okay, alles klar. Sind Sie vollständig gegen Kinderkrankheiten oder Corona-Infektionen geimpft?
+
+93
+00:10:26,110 --> 00:10:29,110
+Ja, ich bin vollständig geimpft, Doktor.
+
+94
+00:10:29,110 --> 00:10:35,110
+Okay, haben Sie in der letzten Zeit eine lange Reise gemacht, besonders ins Ausland?
+
+95
+00:10:35,110 --> 00:10:42,110
+Eine Reise gemacht? Ja, nein. Ich bin Renter. Ich bin kein Geld, Doktor.
+
+96
+00:10:42,110 --> 00:10:53,110
+Ja, Sie haben recht. Okay. Herr Los, leiden Sie an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Bluthochdruck oder Zuckerkrankheit?
+
+97
+00:10:53,110 --> 00:10:59,680
+Ich habe seit 15 Jahren Bluthochdruck, ja.
+
+98
+00:10:59,680 --> 00:11:03,680
+Und nehmen Sie regelmäßig dagegen ein Medikament?
+
+99
+00:11:03,680 --> 00:11:07,680
+Ja, ich nehme regelmäßig Rami-Pril, 10 mg, morgens.
+
+100
+00:11:07,680 --> 00:11:12,210
+Sonst noch?
+
+101
+00:11:12,210 --> 00:11:28,210
+Ja, Doktor. Seit 14 Jahren eine Sehnscheideentzündung. Sehnscheideentzündung.
+
+102
+00:11:28,210 --> 00:11:31,210
+In welchen Körperregionen meinen Sie?
+
+103
+00:11:31,210 --> 00:11:32,210
+Rechts.
+
+104
+00:11:32,210 --> 00:11:36,210
+Elbe oder Handgelenk?
+
+105
+00:11:36,210 --> 00:11:42,210
+Handgelenk, ja. Das hat mir mein Arzt damals gesagt, Doktor.
+
+106
+00:11:42,210 --> 00:11:46,210
+Und nehmen Sie dagegen ein Medikament ein?
+
+107
+00:11:46,210 --> 00:11:52,210
+Ja, ich nehme bei Bedarf die Klofenak-Salbe.
+
+108
+00:11:52,210 --> 00:12:01,040
+Okay. Sonst noch? Etwas?
+
+109
+00:12:01,040 --> 00:12:07,040
+Ja, ich habe gesagt Reise-Darm-Syndrom.
+
+110
+00:12:07,040 --> 00:12:15,540
+Und ja, vor zwei Jahren wurde mir ein Ganglion an der rechten Hand festgestellt.
+
+111
+00:12:15,540 --> 00:12:22,540
+So eine Geschuhe am Handgelenk. Aber das wurde nicht operiert.
+
+112
+00:12:22,540 --> 00:12:29,520
+Okay, dieser Ganglion wurde konservativ behandelt. Ja?
+
+113
+00:12:29,520 --> 00:12:34,560
+Ja, ja, ja.
+
+114
+00:12:34,560 --> 00:12:37,560
+Okay, sind Sie schon einmal operiert worden?
+
+115
+00:12:37,560 --> 00:12:44,560
+Operiert worden. Nein, ich war nicht operiert.
+
+116
+00:12:44,560 --> 00:12:58,560
+Okay, das freut mich. Herr Luss, nehmen Sie außer genannten Medikamenten noch andere Medikamente ein?
+
+117
+00:12:58,560 --> 00:13:02,560
+Ich nehme keine Medikamente ein, Doktor.
+
+118
+00:13:02,560 --> 00:13:04,560
+Regenmäßig oder bei Bedarf?
+
+119
+00:13:05,560 --> 00:13:14,560
+Ich habe gesagt, aber ich nehme keine anderen Medikamente ein.
+
+120
+00:13:14,560 --> 00:13:24,560
+Okay, verstehe. Ist Ihnen irgendwelche Allergien bekannt?
+
+121
+00:13:24,560 --> 00:13:30,560
+Ja, ich bin gegen Grazepolen-Allergie, Doktor.
+
+122
+00:13:30,560 --> 00:13:33,560
+Wie auslöst sich diese Allergie?
+
+123
+00:13:33,560 --> 00:13:41,560
+Da bekomme ich Schnupfen und es juckt überall.
+
+124
+00:13:41,560 --> 00:13:42,560
+Juckreiz?
+
+125
+00:13:42,560 --> 00:13:45,560
+Ja, Juckreiz.
+
+126
+00:13:45,560 --> 00:13:47,560
+Sonst noch etwas?
+
+127
+00:13:47,560 --> 00:13:51,560
+Ja, ich habe auch eine Laktosintoleranz, Doktor.
+
+128
+00:13:51,560 --> 00:14:04,340
+Wenn ich etwas mit mir esse, bekomme ich Blähungen, Bauchschmerzen und manchmal Durchfall.
+
+129
+00:14:04,340 --> 00:14:07,340
+Okay. Herr Luss, rauchen Sie?
+
+130
+00:14:07,340 --> 00:14:10,340
+Ja, ich rauche ja, Doktor.
+
+131
+00:14:10,340 --> 00:14:12,340
+Seit wann und wie viel?
+
+132
+00:14:12,340 --> 00:14:22,340
+Seit 30 Jahren rauche ich ein halbes Schachtel Zigaretten-Telefink.
+
+133
+00:14:22,340 --> 00:14:29,740
+Okay. Trinken Sie regelmäßig Alkohol?
+
+134
+00:14:29,740 --> 00:14:41,740
+Ja, jeden Tag ein Glas Wein trinke.
+
+135
+00:14:41,740 --> 00:14:46,740
+Herr Luss, bitte nehmen Sie die nächste Frage nicht persönlich. Das ist eine Routinefrage.
+
+136
+00:14:46,740 --> 00:14:50,740
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+137
+00:14:50,740 --> 00:14:58,740
+Nein, ich habe nicht mit Drogen probiert.
+
+138
+00:14:58,740 --> 00:15:10,740
+Leiden Ihre Eltern an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Schlaganfall oder Zuckerkrankheit, Bruthochdruck?
+
+139
+00:15:10,740 --> 00:15:20,740
+Mein Vater ist mit 70 Jahren an Herzinfarkten gestorben.
+
+140
+00:15:20,740 --> 00:15:37,050
+Meine Mutter ist mit 65 Jahren alt an Mama-Karsinoma gestorben.
+
+141
+00:15:38,050 --> 00:15:44,030
+Es tut mir leid, dass Sie hören.
+
+142
+00:15:44,030 --> 00:15:47,030
+Es war sehr lang, Doktor.
+
+143
+00:15:47,030 --> 00:15:50,030
+Haben Sie Geschwister?
+
+144
+00:15:50,030 --> 00:15:54,030
+Ja, ich habe zwei Geschwister.
+
+145
+00:15:54,030 --> 00:15:56,030
+Bruder oder Schwester?
+
+146
+00:15:56,030 --> 00:16:01,030
+Bruder und Schwester, ja. Aber sie sind gesunden, Doktor.
+
+147
+00:16:01,030 --> 00:16:05,030
+Sie sind gesunden.
+
+148
+00:16:05,030 --> 00:16:08,030
+Wie ist Ihr Familienstand?
+
+149
+00:16:08,030 --> 00:16:16,030
+Ich bin seit fünf Jahren verfitbert und lebe allein.
+
+150
+00:16:16,030 --> 00:16:19,030
+Haben Sie Kinder?
+
+151
+00:16:19,030 --> 00:16:23,030
+Ja, ich habe sieben Kinder.
+
+152
+00:16:23,030 --> 00:16:26,030
+Sind Ihre Kinder gesund?
+
+153
+00:16:26,030 --> 00:16:28,030
+Ja, alle sind gesund.
+
+154
+00:16:28,030 --> 00:16:30,030
+Das freut mich.
+
+155
+00:16:30,030 --> 00:16:32,030
+Sehr gut.
+
+156
+00:16:32,030 --> 00:16:37,030
+Sie sind jetzt 65 Jahre alt.
+
+157
+00:16:37,030 --> 00:16:41,030
+Arbeiten Sie noch oder sind Sie Rentner?
+
+158
+00:16:41,030 --> 00:16:53,350
+Ich bin jetzt Rentner, aber früher hatte ich eine Reiseagentur.
+
+159
+00:16:53,350 --> 00:16:55,350
+Okay.
+
+160
+00:16:55,350 --> 00:17:00,350
+Also haben Sie Stress im Alltag, Herr Los?
+
+161
+00:17:00,350 --> 00:17:03,350
+Ja, Doktor. Ich habe viel Stress.
+
+162
+00:17:03,350 --> 00:17:06,350
+Ich habe sieben Kinder.
+
+163
+00:17:06,350 --> 00:17:11,350
+Alle sind gesund, aber es gibt viele Probleme.
+
+164
+00:17:11,350 --> 00:17:15,350
+Ich lebe allein.
+
+165
+00:17:15,350 --> 00:17:18,350
+Ich verstehe.
+
+166
+00:17:18,350 --> 00:17:21,350
+Herr Los, treiben Sie regelmäßig Sport?
+
+167
+00:17:21,350 --> 00:17:31,350
+Ja, Doktor. Ich gehe schwimmen und Tennis spielen.
+
+168
+00:17:31,350 --> 00:17:36,550
+Okay.
+
+169
+00:17:36,550 --> 00:17:44,550
+Herr Los, das waren meine Fragen. Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+170
+00:17:44,550 --> 00:17:49,550
+Ja, Doktor. Was habe ich? Ich hatte viele Stärkereinheiten.
+
+171
+00:17:49,550 --> 00:17:59,550
+Ich fühle mich besser, aber ich habe Angst nach zwei oder drei Stunden oder Montag.
+
+172
+00:17:59,550 --> 00:18:06,550
+Herr Los, Sie haben eine gute Entscheidung getroffen, hierher zu kommen.
+
+173
+00:18:06,550 --> 00:18:14,550
+Sie sind jetzt im Krankenhaus. Machen Sie sich bitte keine Sorgen. Sie sind bei uns in guten Händen.
+
+174
+00:18:14,550 --> 00:18:28,550
+Ich vermute, dass Sie ein Problem mit der Nieren oder Handleiter haben.
+
+175
+00:18:28,550 --> 00:18:34,550
+Das kann ein Stein sein oder eine Infektion, Entzündung sein.
+
+176
+00:18:34,550 --> 00:18:38,550
+Aber es ist zu früh, etwas genau zu sagen.
+
+177
+00:18:38,550 --> 00:18:47,550
+Deswegen werde ich Sie zuerst körperlich untersuchen und dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen veranlassen.
+
+178
+00:18:47,550 --> 00:18:50,550
+Was ist Blut abnehmen, Doktor?
+
+179
+00:18:50,550 --> 00:19:02,550
+Ich werde Ihnen Blut abnehmen, Herr Los. Wir werden ein paar Werte kontrollieren, ob Sie eine Entzündung haben oder nicht.
+
+180
+00:19:03,550 --> 00:19:14,550
+Es könnte sein, dass ich Nierenkrebs habe. Ich habe gesagt, meine Mutter ist mit Krebs gestorben, Doktor.
+
+181
+00:19:14,550 --> 00:19:22,550
+Aufgrund der aktuellen Anamnese ist der Krebs eher unwahrscheinlich, Herr Los.
+
+182
+00:19:22,550 --> 00:19:37,550
+Herr Los, ich empfehle Ihnen positiv zu bleiben, da der Krebs in jedem Fall nicht die einzige Ursache ist.
+
+183
+00:19:37,550 --> 00:19:44,550
+Der Krebs ist nicht 100% vererblich. Machen Sie sich bitte keine Sorgen.
+
+184
+00:19:44,550 --> 00:19:48,550
+Okay, Doktor. Bleibe ich im Krankenhaus oder?
+
+185
+00:19:48,550 --> 00:19:53,550
+Ein paar Stunden müssen Sie sicherlich bei uns bleiben.
+
+186
+00:19:53,550 --> 00:20:04,550
+Aber wenn wir etwas Auffälliges finden, kann es auch passieren, dass Sie ein paar Tage im Krankenhaus bleiben sollen.
+
+187
+00:20:04,550 --> 00:20:08,550
+Danke, Doktor. Ich warte auf Sie. Danke.
+
+188
+00:20:08,550 --> 00:20:12,550
+Schönen guten Tag, Herr Oberarzt.
+
+189
+00:20:12,550 --> 00:20:19,550
+Ich habe einen neuen Patienten aufgenommen und ich würde gerne über ihn berichten. Haben Sie kurz Zeit für mich?
+
+190
+00:20:19,550 --> 00:20:20,550
+Ja, bitte.
+
+191
+00:20:20,550 --> 00:20:31,550
+Danke schön. Herr Horst Los ist 65 Jahre alt, 1,60 Meter groß und 65 Kilogramm schwer.
+
+192
+00:20:31,550 --> 00:20:45,550
+Herr Los stellte sich heute bei uns seit 1,5 Stunden bestehender rechtseitiger flanken Schmerzen vor.
+
+193
+00:20:45,550 --> 00:20:55,550
+Dem Patienten zufolge seien die Schmerzen plötzlich aufgetreten und mit der Zeit schlimmer geworden.
+
+194
+00:20:55,550 --> 00:21:03,550
+Die Schmerzen seien krampfartig und wellenförmig.
+
+195
+00:21:03,550 --> 00:21:12,550
+Die Schmerzen würden in den rechten, leichten Bereich ausstrahlen.
+
+196
+00:21:12,550 --> 00:21:24,550
+Die Schmerzintensität wurde auf einer Schmerzkala von 1 bis 10 mit 10 von 10 bewertet.
+
+197
+00:21:24,550 --> 00:21:32,550
+Die Einnahme von 600 Milligramm hätte keine Linderung der Schmerzen gebracht.
+
+198
+00:21:32,550 --> 00:21:34,550
+600 Milligramm?
+
+199
+00:21:34,550 --> 00:21:36,550
+Ja.
+
+200
+00:21:36,550 --> 00:21:37,550
+Was?
+
+201
+00:21:37,550 --> 00:21:47,550
+Ibuprofen, Entschuldigung. Die Einnahme von 600 Milligramm Ibuprofen hat keine Linderung der Schmerzen gebracht.
+
+202
+00:21:47,550 --> 00:21:57,550
+Der Patient berichtete über Dysurie, Hematurie und Polakisurie.
+
+203
+00:21:57,550 --> 00:22:07,550
+Außerdem klagte er über Fieber, aber der Patient habe sein Fieber nicht gemessen.
+
+204
+00:22:07,550 --> 00:22:15,550
+Er erwähnte keine bestimmten Auslöser für diese Schmerzen.
+
+205
+00:22:15,550 --> 00:22:22,310
+Bei der vegetativen Anamnese seien die folgenden bekannt.
+
+206
+00:22:22,310 --> 00:22:33,310
+Nausea mit zweimaliger grünlicher Emesis, schmerzbedingte Inappetens,
+
+207
+00:22:33,310 --> 00:22:41,310
+Gewichtszunahme von 2 bis 3 Kilogramm innerhalb von einer Woche,
+
+208
+00:22:41,310 --> 00:22:49,310
+schmerzbedingte Insomnie und chronische Diarrhea seit 10 Jahren.
+
+209
+00:22:49,310 --> 00:22:57,310
+Der Patient nehme dagegen Parenterol ein.
+
+210
+00:22:57,310 --> 00:23:08,310
+Er sei vollständig gegen Kinderkrankheiten und Corona-Infektionen geimpft und Reiseanamnese wurde verneint.
+
+211
+00:23:08,310 --> 00:23:17,310
+An Vorerkrankungen nannte er seit 15 Jahren bestehende Arthelhypertonie,
+
+212
+00:23:17,310 --> 00:23:28,310
+seit 14 Jahren bestehende Tendovaginitis am rechten Handgelenk
+
+213
+00:23:28,310 --> 00:23:40,310
+und vor zwei Jahren diagnostizierte Ganglion am rechten Handgelenk, die konservativ behandelt worden sei.
+
+214
+00:23:40,310 --> 00:23:56,310
+Er nehme Ramiplil 10 mg morgens ein und er benutze Dictophenaxsalbe gegen Tendovaginitis bei Bedarf.
+
+215
+00:23:56,310 --> 00:24:05,310
+Er sei bisher noch nie operiert worden und er habe Allergie gegen Gräserpollen,
+
+216
+00:24:05,310 --> 00:24:14,310
+die sich durch Pruritus und Renitis äußert.
+
+217
+00:24:14,310 --> 00:24:24,310
+Er habe Laktoseintoleranz, die sich durch Meteorismus, Abdominalschmerzen und Diarrhea äußert.
+
+218
+00:24:24,310 --> 00:24:36,310
+Er sei Raucher und er rauchte 10 Zigaretten täglich seit 30 Jahren, das entspricht 15 Pakiers.
+
+219
+00:24:36,310 --> 00:24:45,310
+Er trinke ein Glas Wein täglich und Drogenkonsum wurde verneint.
+
+220
+00:24:46,310 --> 00:24:57,310
+In der Familienanamnese gab er an, dass der Vater mit 70 Jahren an Myokardinfarkt verstorben sei
+
+221
+00:24:57,310 --> 00:25:05,310
+und die Mutter sei mit 65 Jahren an Mammakarzinom verstorben.
+
+222
+00:25:06,310 --> 00:25:17,310
+Er habe zwei Geschwister, die gesund seien und er sei verwitwet seit 5 Jahren.
+
+223
+00:25:17,310 --> 00:25:25,310
+Er habe 7 Kinder, die gesund seien und er wohne alleine.
+
+224
+00:25:25,310 --> 00:25:35,310
+Er sei Rentner, früher habe er in einer Reiseagentur gearbeitet.
+
+225
+00:25:35,310 --> 00:25:46,310
+Er habe Stress im Alltag und er schwimmt und spielt Tennis als Sport.
+
+226
+00:25:47,310 --> 00:26:01,310
+Ich gehe von einem Verdacht auf eine Pieronephritis, da der Patient typische Symptome dafür aufweist.
+
+227
+00:26:01,310 --> 00:26:14,310
+Der Patient leidet unter flanken Schmerzen, krampfartige und wellenförmige Schmerzen.
+
+228
+00:26:14,310 --> 00:26:26,310
+Die Symptome für Pieronephritis sind Dysurie, Hematurie, Polakisurie und Fieber.
+
+229
+00:26:26,310 --> 00:26:37,310
+Als Differentialdiagnosen kommen Nephrolithiasis, Urolithiasis und Scholelithiasis in Betracht.
+
+230
+00:26:37,310 --> 00:26:51,310
+Um meine Verdachtdiagnose zu bestätigen, würde ich zunächst bei den Patienten die Vitaparameter überwachen und eine körperliche Untersuchung durchführen.
+
+231
+00:26:51,310 --> 00:27:14,310
+Bei der körperlichen Untersuchung achte ich darauf, ob eine Hautfarbeveränderung, Druckschmerzen, Abwehrspannung, Klopfschmerzen vorhanden sind.
+
+232
+00:27:14,310 --> 00:27:22,310
+Zusätzlich ist eine Laborntersuchung sinnvoll, um eine umfassende Diagnose sich zu gewährleisten.
+
+233
+00:27:22,310 --> 00:27:43,310
+Dabei würde ich Blutbild, also Lekositin Saal, CAP, BSG, Nierenwerte, Leberwerte, Orientstatus, Elektrolyten bestimmen lassen.
+
+234
+00:27:43,310 --> 00:27:58,310
+Danach würde ich eine Röntgen des Abdomens durchführen, um die möglichen Pathologien, wie zum Beispiel Steine, genau zu beurteilen.
+
+235
+00:27:58,310 --> 00:28:10,310
+Darüber hinaus würde ich eine Abdominal Sonographie veranlassen, um meine Verdachtdiagnose zu bestätigen.
+
+236
+00:28:10,310 --> 00:28:28,310
+Bei der Ultraschalluntersuchung können wir Nierensteine, Schleudek, Gallenblasensteine oder Uretersteine feststellen.
+
+237
+00:28:28,310 --> 00:28:36,310
+Gegebenenfalls würde ich eine CT des Abdomens durchführen.
+
+238
+00:28:36,310 --> 00:28:49,310
+Sollte sich die Verdachtdiagnose bestätigen, würde ich den Patienten stationär aufnehmen und einen Venosynzugang legen.
+
+239
+00:28:49,310 --> 00:29:03,310
+Danach würde ich Analgetika, Spasmodetika, Antiemetika, Flüssigkeitszufuhr verabreichen.
+
+240
+00:29:03,310 --> 00:29:13,310
+Und ich würde danach ein urologisches Konzil anfordern, um die Therapie des Patienten zu optimieren.
+
+241
+00:29:13,310 --> 00:29:39,590
+Wenn der Stein über 6 mm groß wäre, würde ich eine Operation oder andere Eingriffe, wie zum Beispiel Elektroepieken,
+
+242
+00:29:39,590 --> 00:29:50,970
+EVLS,
+
+243
+00:29:50,970 --> 00:30:10,970
+oder Transpercutane Neurolytotomie empfehlen.
+
+244
+00:30:10,970 --> 00:30:23,970
+Wenn die Entzündungssparameter hoch sind, würde ich auch den Patienten sicherlich eine Antibiotika verabreichen.
+
+245
+00:30:23,970 --> 00:30:38,970
+Wenn Sie dieser Vorgehensweise verstanden sind, werde ich mit der geplanten Untersuchung fortfahren, Herr Oberarzt.
+
+246
+00:30:38,970 --> 00:30:44,970
+Würden Sie in diesem Fall ein Urinantibiogramm durchführen?
+
+247
+00:30:44,970 --> 00:31:11,970
+Ja, auf jeden Fall. Wenn der Patient an Pyronephritis leidet, sollen wir ein Urinantibiogramm durchführen, um die Erreger genau zu beurteilen und die effektive Antibiotik zu beurteilen.
+
+248
+00:31:11,970 --> 00:31:16,970
+Herr Kollegen, was sagen Sie? Was verursacht Pyronephritis?
+
+249
+00:31:16,970 --> 00:31:47,870
+Als Erreger sehen wir 80% der Fälle Echerechia coli, aber wir können auch Proteus oder Klebsiella sehen.
+
+250
+00:31:47,870 --> 00:31:58,190
+In diesem Fall führen Sie eine Urethroskopie durch?
+
+251
+00:31:58,190 --> 00:32:27,190
+Wenn wir einen Stein in der Harnwege oder in der Nieren feststellen, sollen wir eine Urethrographie durchführen, um die Diagnose genau zu beurteilen und gleichzeitig den Stein zu entfernen.
+
+252
+00:32:27,190 --> 00:32:39,190
+Denken Sie in diesem Fall eine Asteferanzei Diagnose Pyronephritis und eine Neven Diagnose Urolytiasis?
+
+253
+00:32:39,190 --> 00:32:57,190
+Der Patient leidet unter flanken Schmerzen auch Fieber. Der Patient hat sein Fieber nicht gemessen, aber wenn der Patient ein Fieber hat, ist mein Verdacht Diagnose Pyronephritis.
+
+254
+00:32:57,190 --> 00:33:09,190
+Aber wenn die Asteferanzei Diagnose Pyronephritis und Urolytiasis kommen, ist mein Verdacht Diagnose Pyronephritis.
+
+255
+00:33:09,190 --> 00:33:24,190
+Herr Kollegen, Sie haben gesagt, wenn der Patient Neurolytiasis hat, würde ich eine ESWL durchführen. Können Sie uns eine ESWL aufklären?
+
+256
+00:33:25,190 --> 00:33:36,190
+Ja gerne. Ich werde Sie über ESWL aufklären.
+
+257
+00:33:36,190 --> 00:34:03,790
+ESWL, Exokorporelle Stoßwellenlithotripsie ist eine Therapiemöglichkeit, mit der wir die Nierensteine oder Urethra-Steine behandeln.
+
+258
+00:34:03,790 --> 00:34:20,790
+Bei dieser Methode machen wir zuerst eine Unterscheidung und wir lokalisieren den Stein.
+
+259
+00:34:20,790 --> 00:34:39,790
+Dann geben wir eine starke Stoßwelle aus einem Gerät direkt den Stein von außen.
+
+260
+00:34:39,790 --> 00:34:52,790
+Diese Stoßwelle zerstört den Stein durch kleine Fragmente.
+
+261
+00:34:52,790 --> 00:35:02,790
+Diese Steinfragmente sollen mit dem Urin selbst ausscheiden.
+
+262
+00:35:02,790 --> 00:35:17,790
+Dafür soll der Patient nach der Untersuchung viel trinken, um die Steinfragmente einfach auszuscheiden.
+
+263
+00:35:17,790 --> 00:35:32,790
+Diese Untersuchung dauert ca. 30-60 Minuten. Der Patient kann ein leichtes Druckgefühl spüren.
+
+264
+00:35:32,790 --> 00:35:40,790
+Dafür können wir dem Patienten ein Schmerzmittel bevor der Untersuchung geben.
+
+265
+00:35:40,790 --> 00:35:54,790
+Nach der Untersuchung kann der Patient einige Komplikationen sehen, wie z.B. Nachblutungen oder Infektionen.
+
+266
+00:35:54,790 --> 00:36:04,790
+Aber das ist normalerweise ein risikoarme Untersuchung ohne Operationen oder Eingriff.
+
+267
+00:36:08,960 --> 00:36:16,960
+Können wir es mit der Eingriff mit Kollalithiasis machen?
+
+268
+00:36:16,960 --> 00:36:24,960
+Normalerweise benutzen wir diese Methode bei der Urolithiasis oder Nephrolithiasis.
+
+269
+00:36:24,960 --> 00:36:31,960
+Aber wir können diese Methode auch für Kollalithiasis.
+
+270
+00:36:41,750 --> 00:36:48,750
+In welcher Situation würden Sie eine Antibiotikum-Perepration?
+
+271
+00:36:49,750 --> 00:37:08,750
+Wir werden die Laborwerte kontrollieren, wenn die Entzündungparameter hoch sind, wie z.B. CAP, BSG oder Leukocytose.
+
+272
+00:37:08,750 --> 00:37:24,290
+Wenn wir Leukocyt oder Bakterien im Urin feststellen, dann können wir den Patienten eine Antibiotika anordnen.
+
+273
+00:37:24,290 --> 00:37:30,890
+Und andere Patienten?
+
+274
+00:37:30,890 --> 00:37:33,890
+Entschuldigung, ich habe nicht verstanden.
+
+275
+00:37:33,890 --> 00:37:37,890
+Gibt es andere Patienten mit Antibiotikum behandelt?
+
+276
+00:37:37,890 --> 00:37:59,780
+Wenn wir bei den Patienten eine Pyrenephrithes denken, beginnen wir eine Antibiotika auf jeden Fall.
+
+277
+00:37:59,780 --> 00:38:12,850
+Ist es möglich, in diesem Fall eine Pyrenephrithes zu behandeln?
+
+278
+00:38:13,850 --> 00:38:25,850
+Der Patient wohnt in Deutschland, hat keine Reiseanamnese ins Ausland in der letzter Zeit.
+
+279
+00:38:25,850 --> 00:38:32,850
+Aber das ist eine Möglichkeit.
+
+280
+00:38:32,850 --> 00:38:40,850
+Wir sollen vielleicht die Reiseanamnese wieder fragen für Frühjahre.
+
+281
+00:38:40,850 --> 00:38:47,850
+Besonders in asiatischen Ländern.
+
+282
+00:38:47,850 --> 00:38:57,850
+Gibt es Umgebung, die Ähnlichkeit werden oder von besonderen Orten kommen?
+
+283
+00:38:57,850 --> 00:39:06,380
+Was meine ich damit? Ich habe nicht verstanden.
+
+284
+00:39:06,380 --> 00:39:23,380
+Gibt es jemand, der aus der betroffenen Region oder Land gekommen ist?
+
+285
+00:39:23,380 --> 00:39:37,380
+Er ist ein Reiseagentur. Das ist ein Risikofaktor bei diesem Patienten.
+
+286
+00:39:37,380 --> 00:39:51,030
+Ich habe alle Fragen gestellt. Gehen Sie bitte auf unser Infodesk und nehmen Ihre Zertifikat.
+
+287
+00:39:51,030 --> 00:39:57,030
+Ich wünsche Ihnen viel Erfolg in Ihrem Arbeitsweg.
+
+288
+00:39:57,030 --> 00:40:02,030
+Vielen Dank Herr Oberst, Sie sind sehr nett. Danke schön.

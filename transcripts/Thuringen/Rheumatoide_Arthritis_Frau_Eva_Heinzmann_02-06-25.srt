@@ -1,0 +1,839 @@
+1
+00:00:02,990 --> 00:00:13,990
+Schönen guten Tag, mein Name ist Ujak. Ich bin auf dieser Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Anamnesis Gechirpest durchführen. Sind Sie damit einverstanden?
+
+2
+00:00:13,990 --> 00:00:15,990
+Ja, natürlich.
+
+3
+00:00:15,990 --> 00:00:20,990
+Danke. Bitte fragen Sie nach, wenn Sie etwas nicht verstehen. Okay?
+
+4
+00:00:20,990 --> 00:00:23,990
+Wie heißen Sie denn?
+
+5
+00:00:23,990 --> 00:00:30,660
+Florian Krohn.
+
+6
+00:00:30,660 --> 00:00:34,660
+Können Sie bitte Ihren Vor- und Nachnamen langsam buchstabieren?
+
+7
+00:00:34,660 --> 00:00:47,660
+Ja, natürlich. Florian Krohn.
+
+8
+00:00:47,660 --> 00:00:58,260
+Okay. Wie soll ich Sie sprechen? Also Herr oder Frau Krohn?
+
+9
+00:00:58,260 --> 00:01:04,410
+Herr. Vielleicht.
+
+10
+00:01:04,410 --> 00:01:06,410
+Herr Krohn, wie alt sind Sie?
+
+11
+00:01:06,410 --> 00:01:13,250
+Ja, 540 Jahre alt.
+
+12
+00:01:13,250 --> 00:01:15,250
+Wann sind Sie genau geboren?
+
+13
+00:01:15,250 --> 00:01:22,520
+12.05.1980
+
+14
+00:01:22,520 --> 00:01:23,520
+Wie groß sind Sie?
+
+15
+00:01:23,520 --> 00:01:28,860
+1,87 Meter.
+
+16
+00:01:28,860 --> 00:01:30,860
+Und wie schwer sind Sie zuzeit?
+
+17
+00:01:30,860 --> 00:01:33,860
+750.
+
+18
+00:01:33,860 --> 00:01:43,390
+Okay. Danke für die Informationen. Herr Krohn, was kann ich für Sie tun? Was für Beschwerden haben Sie im Moment?
+
+19
+00:01:43,390 --> 00:01:55,390
+Ja, ich war im Wald gestern Nachmittag mit meinem Hund spazieren, als ich ihm plötzlich hinterher laufen musste.
+
+20
+00:01:55,390 --> 00:02:07,390
+Ich habe einen losen Stein übersehen. Deswegen bin ich gestorben und mit dem linken Fuß nach innen umgeknickt.
+
+21
+00:02:07,390 --> 00:02:12,390
+Seitdem habe ich starke Schmerzen im linken Sprunggelenk.
+
+22
+00:02:12,390 --> 00:02:31,130
+Herr Krohn, können Sie diese Schmerzen genau beschreiben? Sind Sie eher drückend oder dumpf oder stechend?
+
+23
+00:02:31,130 --> 00:02:33,130
+Ja, stechend.
+
+24
+00:02:33,130 --> 00:02:51,630
+Okay. Und sind diese Schmerzen mit der Zeit schlimmer geworden oder besser geworden?
+
+25
+00:02:51,630 --> 00:02:53,630
+Daher schlimmer geworden.
+
+26
+00:02:53,630 --> 00:03:02,060
+Okay. Wie stark sind die Schmerzen auf einer Schmerzskala von 1 bis 10?
+
+27
+00:03:02,060 --> 00:03:07,610
+Ja, 8.
+
+28
+00:03:07,610 --> 00:03:19,610
+Herr Krohn, das ist eine starke Schmerzen. Soll ich Ihnen eine Schmerzmittel geben oder können Sie diese Schmerzen noch ein bisschen bis Ende des Gesprächs aushalten?
+
+29
+00:03:19,610 --> 00:03:23,610
+Ja, unser Gespräch, wie lange dauert?
+
+30
+00:03:23,610 --> 00:03:25,610
+Ca. 15 Minuten.
+
+31
+00:03:25,610 --> 00:03:27,610
+Ja, ja. Ich warte auf.
+
+32
+00:03:27,610 --> 00:03:35,610
+Okay. Ich werde mich beeilen. Danke Ihnen. Bitte sagen Sie mir Bescheid, wenn Sie eine Schmerzmittel benötigen.
+
+33
+00:03:35,610 --> 00:03:37,610
+Okay.
+
+34
+00:03:37,610 --> 00:03:42,610
+Okay. Strahlen diese Schmerzen irgendwo aus?
+
+35
+00:03:42,610 --> 00:03:51,390
+Nein.
+
+36
+00:03:51,390 --> 00:04:02,390
+Herr Krohn, gibt es etwas, das die Schmerzen lindert oder verstärkt? Haben Sie bemerkt? Ich meine Hochlagerung, Tieflagerung?
+
+37
+00:04:02,390 --> 00:04:18,390
+Ja, die Hochlagerung ja, die Schmerzen lindert. Aber wenn ich laufe, die Schmerzen stärken.
+
+38
+00:04:18,390 --> 00:04:22,390
+Okay. Haben Sie dagegen ein Medikament eingenommen?
+
+39
+00:04:22,390 --> 00:04:24,390
+Nein.
+
+40
+00:04:24,390 --> 00:04:30,390
+Okay. Waren Sie wegen dieser Beschwerden beim anderen Arzt gewesen?
+
+41
+00:04:30,390 --> 00:04:31,390
+Nein.
+
+42
+00:04:31,390 --> 00:04:43,280
+Okay. Gibt es eine Bewegungseinschränkung beim Fuß? Ich meine bewegen Sie den Fuß einfach oder?
+
+43
+00:04:43,280 --> 00:04:45,280
+Ja, ja, ja.
+
+44
+00:04:45,280 --> 00:04:48,280
+Gibt es Probleme beim Bewegung?
+
+45
+00:04:48,280 --> 00:04:50,280
+Ja, ja, ja, natürlich.
+
+46
+00:04:50,280 --> 00:05:01,720
+Okay. Leiden Sie unter Traubhaltsgefühl oder Kribbeln bei diesem Arzt?
+
+47
+00:05:01,720 --> 00:05:21,970
+Unter Traubhaltsgefühl und Kribbel auch. Blau hat Verfarbung am linken Fuß und Schwellung.
+
+48
+00:05:21,970 --> 00:05:27,970
+Okay. Herr Krohn, haben Sie eine offene Wunde bemerkt?
+
+49
+00:05:27,970 --> 00:05:29,970
+Wie bitte?
+
+50
+00:05:29,970 --> 00:05:32,970
+Abschürfungen oder offene Wunde, haben Sie bemerkt?
+
+51
+00:05:32,970 --> 00:05:37,850
+Nein, nein.
+
+52
+00:05:37,850 --> 00:05:49,850
+Okay. Herr Krohn, Sie haben gesagt, dass Sie mit dem linken Fuß umgeknickt haben.
+
+53
+00:05:49,850 --> 00:05:59,850
+Darf ich fragen, sind Sie auf dem Boden hintergefallen oder nur umgeknickt?
+
+54
+00:05:59,850 --> 00:06:04,850
+Nein, nur innen umgeknickt.
+
+55
+00:06:04,850 --> 00:06:10,850
+Okay, alles klar. Und haben Sie sich Ihren Kopf nicht verletzt?
+
+56
+00:06:10,850 --> 00:06:18,260
+Nein, nein.
+
+57
+00:06:18,260 --> 00:06:29,260
+Okay. Also, ich möchte fragen, ob Sie eine komische Situation vor der Stolperung bemerkt?
+
+58
+00:06:29,260 --> 00:06:36,260
+Ich meine, schwarz vor den Augen oder Schwindel?
+
+59
+00:06:36,260 --> 00:06:46,030
+Nein, nein.
+
+60
+00:06:46,030 --> 00:06:55,860
+Okay. Ist Ihnen übel oder mussten Sie errechnen?
+
+61
+00:06:55,860 --> 00:06:57,860
+Nein, auch nicht.
+
+62
+00:06:57,860 --> 00:07:05,660
+Und fühlen Sie sich fieberig?
+
+63
+00:07:05,660 --> 00:07:07,660
+Nein.
+
+64
+00:07:07,660 --> 00:07:09,660
+Oder haben Sie einen Schmuckdachweis?
+
+65
+00:07:09,660 --> 00:07:16,200
+Nein.
+
+66
+00:07:16,200 --> 00:07:20,200
+Okay. Ist alles in Ordnung beim Wasserlassen oder mit dem Stürgang?
+
+67
+00:07:20,200 --> 00:07:30,200
+Was soll ich sagen? Ja, das war normal, aber seit fünf Jahren habe ich ein nervöser Daumen-Syndrom.
+
+68
+00:07:30,200 --> 00:07:40,200
+Und manchmal habe ich Durchfall, Bleihungung, manchmal Bauchschmerzen.
+
+69
+00:07:40,200 --> 00:07:45,200
+Aber aktuell habe ich keinen Durchfall.
+
+70
+00:07:45,200 --> 00:07:49,200
+Okay. Nehmen Sie dagegen ein Medikament ein?
+
+71
+00:07:49,200 --> 00:07:52,200
+Nehmen Sie gegen diese Beschwerden?
+
+72
+00:07:52,200 --> 00:07:55,930
+Ja, Chima.
+
+73
+00:07:55,930 --> 00:07:58,930
+Können Sie das bitte wiederholen?
+
+74
+00:07:58,930 --> 00:08:05,930
+Chima. K-I-J-I-M-A.
+
+75
+00:08:05,930 --> 00:08:07,930
+Chima. Okay.
+
+76
+00:08:07,930 --> 00:08:09,930
+Chima.
+
+77
+00:08:09,930 --> 00:08:11,930
+Wie oft nehmen Sie?
+
+78
+00:08:11,930 --> 00:08:18,930
+Bei Bedarf. Wegen Diary oder Beleidigungen.
+
+79
+00:08:18,930 --> 00:08:21,930
+Okay. Wie ist Ihr Appetit?
+
+80
+00:08:21,930 --> 00:08:24,930
+Ja, mein Appetit ist gut.
+
+81
+00:08:24,930 --> 00:08:28,930
+Haben Sie in der letzten Zeit unwirklig ab oder zu genommen?
+
+82
+00:08:28,930 --> 00:08:30,930
+Nein.
+
+83
+00:08:30,930 --> 00:08:32,930
+Das freut mich. Okay.
+
+84
+00:08:32,930 --> 00:08:34,930
+Und schlafen Sie gut?
+
+85
+00:08:34,930 --> 00:08:43,930
+Seit gestern Abend habe ich Schlafstörungen wegen Schmerzen.
+
+86
+00:08:43,930 --> 00:08:47,930
+Haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+87
+00:08:47,930 --> 00:08:52,230
+Ja, beide.
+
+88
+00:08:52,230 --> 00:08:56,230
+Okay. Sind Sie vollständig gegen Kinderkrankheiten?
+
+89
+00:08:56,230 --> 00:08:58,230
+Ja, vollständig.
+
+90
+00:08:58,230 --> 00:09:02,230
+Und Wundstar-Krampf geimpft?
+
+91
+00:09:02,230 --> 00:09:03,230
+Ja, ja.
+
+92
+00:09:03,230 --> 00:09:05,230
+Alles, ich meine, ja?
+
+93
+00:09:05,230 --> 00:09:07,930
+Ja.
+
+94
+00:09:07,930 --> 00:09:12,930
+Wann war Ihre letzte Tetanus-Impfung? Erinnern Sie sich?
+
+95
+00:09:12,930 --> 00:09:20,930
+Ja, ja. Aber ich erinnere mich nicht, wann es genau war.
+
+96
+00:09:20,930 --> 00:09:22,930
+Okay. Alles klar.
+
+97
+00:09:22,930 --> 00:09:28,930
+Wer ist Ihr Hausarzt oder Ihre Hausärztin, Herr Krone?
+
+98
+00:09:28,930 --> 00:09:35,930
+Ja, mein Hausarzt, Frau Schühler.
+
+99
+00:09:35,930 --> 00:09:42,930
+Frau Schühler. Okay. Ich werde Ihren Hausärztin kontaktieren. Okay?
+
+100
+00:09:42,930 --> 00:09:43,930
+Okay.
+
+101
+00:09:43,930 --> 00:09:47,930
+Reiten Sie an chronische Erkrankungen voran, denen ich wissen sollte?
+
+102
+00:09:47,930 --> 00:09:52,930
+Ja, seit drei Jahren habe ich Arthritis vor Rika.
+
+103
+00:09:52,930 --> 00:10:02,930
+Und vor drei Wochen habe ich akute Arthritis.
+
+104
+00:10:02,930 --> 00:10:07,930
+Aber jetzt habe ich keine Schmerzen, keine Schwellung.
+
+105
+00:10:07,930 --> 00:10:15,930
+Vor fünf Jahren, nach einem Motorradunfall,
+
+106
+00:10:15,930 --> 00:10:22,930
+Bandscheibenvorfall im Lendenbereich,
+
+107
+00:10:22,930 --> 00:10:27,930
+wurde bei mir konservativ behandelt.
+
+108
+00:10:27,930 --> 00:10:34,930
+Physiotherapie, Krankengymnastikübungen, Schmerzmittel und so weiter.
+
+109
+00:10:34,930 --> 00:10:39,930
+Seit fünf Jahren habe ich ein nervoses Darm-Syndrom.
+
+110
+00:10:39,930 --> 00:10:46,930
+Manchmal habe ich Durchfall, Blähung und Bauchschmerzen.
+
+111
+00:10:46,930 --> 00:10:51,930
+Ich nehme Kishimea ein.
+
+112
+00:10:51,930 --> 00:11:02,930
+Seit 15 Jahren habe ich Schreiknöcheln mit Dysphonie.
+
+113
+00:11:02,930 --> 00:11:05,930
+Und Behandlung.
+
+114
+00:11:05,930 --> 00:11:15,930
+Ich nehme alle drei, vier Stunden nur ein Luchstablet ein.
+
+115
+00:11:15,930 --> 00:11:22,540
+Alle drei, vier Stunden, haben Sie gesagt.
+
+116
+00:11:22,540 --> 00:11:30,540
+Herr Krone, Sie leiden an Arthritis Rika.
+
+117
+00:11:30,540 --> 00:11:35,540
+Darf ich fragen, in welchem Körperregion hatten Sie Probleme?
+
+118
+00:11:35,540 --> 00:11:37,540
+Vor drei Wochen?
+
+119
+00:11:37,540 --> 00:11:39,540
+Ja, Fuß.
+
+120
+00:11:39,540 --> 00:11:42,540
+Und welche Seite?
+
+121
+00:11:42,540 --> 00:11:44,540
+Rechte Seite.
+
+122
+00:11:44,540 --> 00:11:48,140
+Besonders große See?
+
+123
+00:11:48,140 --> 00:11:50,140
+Ja, große See.
+
+124
+00:11:50,140 --> 00:11:53,740
+Ok.
+
+125
+00:11:53,740 --> 00:11:55,740
+Sind Sie schon einmal operiert worden?
+
+126
+00:11:55,740 --> 00:11:57,740
+Ja, vor fünf Jahren.
+
+127
+00:11:57,740 --> 00:12:03,740
+Wegen einer Bucitis-Schleimentzündung im rechten Kniegelenk.
+
+128
+00:12:03,740 --> 00:12:07,740
+Operation wurde durchgeführt.
+
+129
+00:12:08,740 --> 00:12:10,740
+Sonst noch etwas?
+
+130
+00:12:10,740 --> 00:12:13,740
+Nur eine Operation.
+
+131
+00:12:13,740 --> 00:12:15,740
+Ok.
+
+132
+00:12:15,740 --> 00:12:18,740
+War diese Operation komplikationslos verlaufen?
+
+133
+00:12:18,740 --> 00:12:20,740
+Ja, Gott sei Dank.
+
+134
+00:12:20,740 --> 00:12:29,740
+Nehmen Sie regelmäßig oder bei Bedarf außer genannten Medikamenten noch andere Medikamente ein?
+
+135
+00:12:29,740 --> 00:12:37,740
+Ja, Allopyrinol, Neuangin, Luchstabletten, Ibuprofen und Imodium.
+
+136
+00:12:37,740 --> 00:12:46,990
+Ok. Kennen Sie die Dosierung von Allopyrinol? Und wie oft nehmen Sie an?
+
+137
+00:12:46,990 --> 00:12:50,990
+Ja, drei, 100 mg einmal morgen.
+
+138
+00:12:50,990 --> 00:12:59,990
+Ok. Und wogegen nehmen Sie Ibuprofen ein? Darf ich fragen? Auch gegen Arthritis Rika oder?
+
+139
+00:12:59,990 --> 00:13:00,990
+Ja, ja.
+
+140
+00:13:00,990 --> 00:13:02,990
+Ok. Welche Dosierung?
+
+141
+00:13:02,990 --> 00:13:04,990
+800 mg.
+
+142
+00:13:04,990 --> 00:13:08,990
+Ok. Nehmen Sie regelmäßig ein oder bei Bedarf?
+
+143
+00:13:08,990 --> 00:13:10,990
+Ja, bei Bedarf.
+
+144
+00:13:10,990 --> 00:13:15,990
+Ok. Und Imodium, Tablet nehmen Sie auch bei Bedarf oder?
+
+145
+00:13:15,990 --> 00:13:16,990
+Ja, ja.
+
+146
+00:13:16,990 --> 00:13:20,500
+Ok. Alles klar.
+
+147
+00:13:20,500 --> 00:13:23,500
+Sind Ihnen irgendwelche Allergien bekannt?
+
+148
+00:13:23,500 --> 00:13:31,500
+Ja, ich habe Latexallergien und Frühblutallergien.
+
+149
+00:13:31,500 --> 00:13:45,500
+Ja, ich habe Latexallergien mit Rotung und Hautauschlag.
+
+150
+00:13:45,500 --> 00:13:59,500
+Frühblutallergien mit Juckreis und Nasenlaufen und Nissen, Augenlaufen.
+
+151
+00:13:59,500 --> 00:14:01,500
+Ok. Alles klar.
+
+152
+00:14:01,500 --> 00:14:02,500
+Auch schon.
+
+153
+00:14:02,500 --> 00:14:07,500
+Haben Sie irgendwelche Unfertigkeiten gegen Nahrungsmittel?
+
+154
+00:14:07,500 --> 00:14:08,500
+Nein.
+
+155
+00:14:08,500 --> 00:14:11,500
+Ok. Herr Krone, rauchen Sie?
+
+156
+00:14:11,500 --> 00:14:31,840
+Seit 5 Jahren bin ich nicht Raucherin, aber früher 20 Zigaretten täglich seit 15 Jahren.
+
+157
+00:14:31,840 --> 00:14:38,040
+Ok. Trinken Sie regelmäßig Alkohol?
+
+158
+00:14:38,040 --> 00:14:42,040
+Ja, am Wochenende trinke ich Ibiza.
+
+159
+00:14:45,660 --> 00:14:49,660
+Ibiza. Also, Bier meinen Sie?
+
+160
+00:14:49,660 --> 00:14:50,660
+Ja.
+
+161
+00:14:50,660 --> 00:14:52,660
+Herr Krone, ich habe nicht richtig verstanden.
+
+162
+00:14:52,660 --> 00:14:53,660
+Bier. Ok.
+
+163
+00:14:53,660 --> 00:14:55,660
+Wie viel Bier trinken Sie?
+
+164
+00:14:55,660 --> 00:14:58,660
+Ein oder zwei Flaschen Bier.
+
+165
+00:14:58,660 --> 00:15:04,660
+Ok. Bitte nehmen Sie die nächste Frage nicht persönlich. Das ist eine Routinefrage.
+
+166
+00:15:04,660 --> 00:15:08,660
+Herr Krone, also, nehmen Sie oder hatten Sie Kontakt mit Drogen?
+
+167
+00:15:08,660 --> 00:15:25,660
+Ja, früher als Kind, als Junge mit sechs Jahren habe ich Haschisch und Amphetamin probiert.
+
+168
+00:15:25,660 --> 00:15:28,660
+Ein oder zwei Mal.
+
+169
+00:15:28,660 --> 00:15:35,960
+Ok. Das war's. Sie haben keinen Kontakt mehr, ich glaube?
+
+170
+00:15:35,960 --> 00:15:36,960
+Ja.
+
+171
+00:15:36,960 --> 00:15:38,960
+Ok. Alles klar.
+
+172
+00:15:39,960 --> 00:15:47,960
+Leiden Ihre Eltern an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Bluthochdruck, Zuckerkrankheit?
+
+173
+00:15:47,960 --> 00:15:54,960
+Ja, mein Vater hat Bluthochdruck gerauscht.
+
+174
+00:15:54,960 --> 00:16:17,220
+Und vor zwei Jahren bei meinem Vater wurde Linsentransplantation wegen Linsentrübung durchgeführt.
+
+175
+00:16:17,220 --> 00:16:20,220
+Beide Seiten oder eine Seite wissen Sie?
+
+176
+00:16:20,220 --> 00:16:21,220
+Eine Seite.
+
+177
+00:16:21,220 --> 00:16:23,220
+Welche Seite?
+
+178
+00:16:23,220 --> 00:16:25,220
+Ich erinnere mich nicht.
+
+179
+00:16:25,220 --> 00:16:29,220
+Ok. Alles klar. Herr Krone und Ihre Mutter?
+
+180
+00:16:29,220 --> 00:16:40,220
+Ja, meine Mutter hatte Bluthochdruck vor zwei Monaten.
+
+181
+00:16:40,220 --> 00:16:59,220
+Und aktuell wurde sie eine Operation durchgeführt und nachdem Strahlentherapie wurde durchgeführt, behandelt.
+
+182
+00:16:59,220 --> 00:17:06,220
+Ok. Und haben Sie Geschwister?
+
+183
+00:17:06,220 --> 00:17:26,130
+Eine Brüderin. Aber bei ihr wurde eine Magenverkleinerung durchgeführt wegen Übergewicht.
+
+184
+00:17:26,130 --> 00:17:30,130
+Wie ist Ihr Familienstand?
+
+185
+00:17:30,130 --> 00:17:34,130
+Ja, ich bin geschieden seit drei Jahren.
+
+186
+00:17:34,130 --> 00:17:39,130
+Aber ich wohne mit meinen lebenslosen Partnern.
+
+187
+00:17:39,130 --> 00:17:44,330
+Haben Sie Kinder?
+
+188
+00:17:44,330 --> 00:17:57,330
+Ja, drei Kinder. Aber bei einer Person, die Hypochosis schwer ist, und ein Hörgerät.
+
+189
+00:17:57,330 --> 00:18:03,110
+Ok. Was sind Sie für einen Beruf?
+
+190
+00:18:03,110 --> 00:18:07,110
+Rechtsanwalt. Ich bin Rechtsanwalt.
+
+191
+00:18:07,110 --> 00:18:12,030
+Ihr habt Stress bei der Arbeit?
+
+192
+00:18:12,030 --> 00:18:14,030
+Ja, aber ich bin zufrieden.
+
+193
+00:18:14,030 --> 00:18:21,030
+Alles klar. Das waren meine Fragen, Herr Krone. Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+194
+00:18:21,030 --> 00:18:29,030
+Ja, was habe ich, Herr Doktor? Ist es gefährlich oder nicht?
+
+195
+00:18:29,030 --> 00:18:30,030
+Herr Krone.
+
+196
+00:18:30,030 --> 00:18:32,030
+Kann man operiert werden?
+
+197
+00:18:32,030 --> 00:18:42,030
+Es ist zu früh, etwas genau zu sagen. Aber leider könnte es sein, dass Sie operiert werden müssen.
+
+198
+00:18:42,030 --> 00:18:50,030
+Zuerst werde ich Sie körperlich untersuchen. Dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen veranlassen.
+
+199
+00:18:50,030 --> 00:19:03,030
+Ok. Nach dieser Untersuchung können wir über eine 100% sicher Diagnose und Therapiemöglichkeiten sprechen.
+
+200
+00:19:03,030 --> 00:19:11,030
+Aber es gibt auch konservative Therapiemethoden ohne chirurgisches Eingriff.
+
+201
+00:19:11,030 --> 00:19:20,030
+Ok. Muss ich in die Röhre gehen?
+
+202
+00:19:20,030 --> 00:19:24,030
+Ach so. Sie meinen Tomographie oder ...
+
+203
+00:19:24,030 --> 00:19:26,030
+Ja, LRT.
+
+204
+00:19:26,030 --> 00:19:39,030
+Genau. Also, wie gesagt, es ist zu früh, aber das kann sein, Herr Krone. Aber machen Sie bitte keine Sorge.
+
+205
+00:19:39,030 --> 00:19:41,030
+Also, haben Sie eine Platzangst oder?
+
+206
+00:19:41,030 --> 00:19:43,030
+Ja, ja.
+
+207
+00:19:43,030 --> 00:19:54,030
+Ach so, ok. Kein Problem. Also, wenn Sie eine Platzangst haben, können wir Ihnen eine Beruhigungsmittel geben.
+
+208
+00:19:54,030 --> 00:20:02,030
+Damit können Sie sich ruhig fühlen. Ok?
+
+209
+00:20:02,030 --> 00:20:04,030
+Ja, ok. Danke.
+
+210
+00:20:04,030 --> 00:20:09,780
+Gerne. Danke.

@@ -1,0 +1,447 @@
+1
+00:00:00,000 --> 00:00:07,600
+Herr Oberarzt, ich habe eine neue Patientin aufgenommen und ich würde gerne über sie berichten.
+
+2
+00:00:07,600 --> 00:00:09,200
+Haben Sie kurz Zeit für mich?
+
+3
+00:00:09,200 --> 00:00:10,200
+Ja bitte.
+
+4
+00:00:10,200 --> 00:00:12,200
+Danke schön.
+
+5
+00:00:12,200 --> 00:00:23,400
+Frau Mathilde Altenstuhn ist 58 Jahre alt, 1 Meter, 68 groß und 760 Kilogramm schwer.
+
+6
+00:00:23,400 --> 00:00:36,800
+Frau Altenstuhn starte sich heute bei uns wegen seit 3 bis 4 Wochen bestehender Fatigue sowie
+
+7
+00:00:36,800 --> 00:00:39,800
+Cephalgie vor.
+
+8
+00:00:39,800 --> 00:00:52,000
+Der Patienten zufolge seien die Schmerzen langsam aufgetreten und mit der Zeit schlimmer
+
+9
+00:00:52,000 --> 00:00:53,000
+geworden.
+
+10
+00:00:53,000 --> 00:01:07,200
+Die Schmerzen seien dumpf und würden in den Nacken ausstrahlen.
+
+11
+00:01:07,200 --> 00:01:23,400
+Der Patient berichtete über trockene Mund, Konzentrationsstörungen, nächtliche Hyperhidrosen,
+
+12
+00:01:23,400 --> 00:01:31,400
+Insomnolenz und Schnarchen.
+
+13
+00:01:31,600 --> 00:01:51,780
+Die Fragen nach Tussis, Dyspne, Angina Pectoris, Tachikardi, Hyperthonsillemi wurden
+
+14
+00:01:52,780 --> 00:02:01,500
+bei der vegetativen Anamnese seien die Folgenden bekannt.
+
+15
+00:02:01,500 --> 00:02:14,500
+Inapetenz, Insomnie in Form von Durchschlafstörungen und Nukturi 2 bis 3 Mal in der Nacht.
+
+16
+00:02:15,500 --> 00:02:23,100
+Sie sei vollständig gegen Kinderkrankheiten geimpft und sie besuche ihren Frauenarzt
+
+17
+00:02:23,100 --> 00:02:26,500
+regelmäßig alle 3 Monate.
+
+18
+00:02:26,500 --> 00:02:34,070
+Ihre letzte Monatsblutung war vor 8 Jahren.
+
+19
+00:02:34,070 --> 00:02:43,070
+An Vorerkrankungen nannte sie seit 4 Jahren bestehenden Diabetes mellitus, seit 2 Jahren
+
+20
+00:02:43,070 --> 00:03:00,070
+bestehende arterielle Hypertonie, vor 4 Jahren diagnostizierte rechtsseitige Fußfraktur
+
+21
+00:03:00,070 --> 00:03:12,070
+beim Fußballspiel und vor 2 Jahren diagnostizierte linksseitige Unterarmfraktur beim
+
+22
+00:03:12,070 --> 00:03:16,070
+Fahrradunfall.
+
+23
+00:03:16,070 --> 00:03:26,070
+Die Patienten nehmen Metformin 500 mg morgens und abends ein und die Patienten nehmen
+
+24
+00:03:26,070 --> 00:03:29,070
+ein Medikament gegen arterielle Hypertonie.
+
+25
+00:03:29,070 --> 00:03:33,070
+Der Name von Medikament sollte geklärt werden.
+
+26
+00:03:33,070 --> 00:03:50,070
+Die Frakturen wurden mit Gips behandelt und die Patienten haben einen Verbrannt
+
+27
+00:03:50,070 --> 00:03:56,070
+an rechten Oberarm gelitten, der konservativ behandelt worden sei.
+
+28
+00:03:56,070 --> 00:04:05,070
+Sie haben Allergie, Kreuzallergie gegen Tomaten und Birken, die sich durch Exzellen
+
+29
+00:04:05,070 --> 00:04:17,480
+am Arm und Bein äußern, manchmal am ganzen Körper.
+
+30
+00:04:17,480 --> 00:04:25,480
+Sie sei Raucherin und sie rauche 10 Zigaretten täglich seit 2 Jahren.
+
+31
+00:04:25,480 --> 00:04:45,480
+Sie trinke ein Glas Wein gelegentlich und Drogenkonsum wurde verneint.
+
+32
+00:04:45,480 --> 00:05:04,480
+In der Familienanamnese gab sie an, dass die Mutter 84 Jahre alt sei und leide an
+
+33
+00:05:04,480 --> 00:05:05,480
+die Tochter.
+
+34
+00:05:05,480 --> 00:05:08,480
+Sie ist eine Tochter mit einer hohen Arthrose und der Vater sei gesund.
+
+35
+00:05:08,480 --> 00:05:16,480
+Sie sei ein Einzelkind verheiratet und habe 3 gesunde Kinder und sie wohne mit
+
+36
+00:05:16,480 --> 00:05:18,480
+ihrer Familie zusammen.
+
+37
+00:05:18,480 --> 00:05:22,480
+Sie sei Tierpflegerin von Beruf.
+
+38
+00:05:22,480 --> 00:05:31,480
+Ich gehe von einem Verdacht auf eine obstruktive Schlafapnesyndrom aus, da die
+
+39
+00:05:31,480 --> 00:05:35,480
+Patienten typische Symptome dafür aufweisen.
+
+40
+00:05:35,480 --> 00:05:48,480
+Die Patienten leiden unter chronischer Fatigue, Cephalgie, Schnarchen, diese
+
+41
+00:05:48,480 --> 00:05:57,480
+Symptome und Konzentrationsstörungen und Insomnolenz tagsüber.
+
+42
+00:05:57,480 --> 00:06:02,480
+Diese Symptome sprechen für eine obstruktive Schlafapnesyndrom.
+
+43
+00:06:02,480 --> 00:06:12,480
+Als die Phranzei Diagnosen kommen Migräne, Depression, Gehirntumor in Betracht.
+
+44
+00:06:12,480 --> 00:06:19,480
+Um meine Verdacht Diagnose zu bestätigen, würde ich zunächst bei der Patienten
+
+45
+00:06:19,480 --> 00:06:25,480
+die Vitalparameter überwachen und eine körperliche Untersuchung und eine neurologische
+
+46
+00:06:25,480 --> 00:06:27,480
+Untersuchung durchführen.
+
+47
+00:06:27,480 --> 00:06:36,480
+Bei der neurologischen Untersuchung achte ich darauf, ob die Störungen der Motorik,
+
+48
+00:06:36,480 --> 00:06:44,020
+Sensorik und andere Veränderungen volllegen.
+
+49
+00:06:44,020 --> 00:07:00,020
+Ich würde darauf achten, ob die Patienten Hautfarbeveränderungen haben.
+
+50
+00:07:00,020 --> 00:07:08,020
+Zusätzlich ist eine Laboruntersuchung sinnvoll, um eine umfassende Diagnose zu
+
+51
+00:07:08,020 --> 00:07:21,580
+gewährleisten. Dabei würde ich Brutbild, CAP, BSG, Leberwerte, Nierenwerte,
+
+52
+00:07:21,580 --> 00:07:24,580
+Elektrolyten bestimmen lassen.
+
+53
+00:07:24,580 --> 00:07:34,580
+Danach würde ich eine CT des Schädels durchführen, um die möglichen
+
+54
+00:07:34,580 --> 00:07:41,580
+Pathologien auszuschließen, wie zum Beispiel Gehirntumor.
+
+55
+00:07:41,580 --> 00:07:54,580
+Danach würde ich eine EEG durchführen, um die wirkliche Pathologie genau zu beurteilen.
+
+56
+00:07:54,580 --> 00:08:06,580
+Darüber hinaus würde ich eine Polysomnographie durchführen, um die Obstruktivschlafapnessyndrom
+
+57
+00:08:06,580 --> 00:08:16,580
+genau zu bestätigen. Sollte sich die Verdachtdiagnose bestätigen, würde ich
+
+58
+00:08:16,580 --> 00:08:29,580
+die Patienten stationär aufnehmen und ich würde ein HNO-Konzil anfordern, um die
+
+59
+00:08:29,580 --> 00:08:41,220
+Therapie der Patienten zu optimieren. Wenn Sie mit dieser Vorgehensweise einverstanden
+
+60
+00:08:41,220 --> 00:08:47,220
+sind, werde ich mit der geplanten Untersuchung fortfahren, Herr Oberarzt.
+
+61
+00:08:47,220 --> 00:08:57,590
+Herr Kollegen, Sie haben gesagt, ich würde in diesem Fall eine CT des Schädels
+
+62
+00:08:57,590 --> 00:09:01,590
+durchführen. Können Sie uns die CT des Schädels aufklären?
+
+63
+00:09:01,590 --> 00:09:08,590
+Ja, gerne. Ich werde Sie über CT des Schädels aufklären.
+
+64
+00:09:08,590 --> 00:09:14,590
+Computer-Tomography gehört zu den bildgebenden Verfahren.
+
+65
+00:09:14,590 --> 00:09:24,590
+Diese Untersuchung hilft uns, die Verletzungen, Entzündungen, Blutungen, Tumore und andere
+
+66
+00:09:24,590 --> 00:09:32,590
+Veränderungen genau zu erkennen. Diese Untersuchung benötigt nur noch eine geringe
+
+67
+00:09:32,590 --> 00:09:43,590
+Strahlenbelastung und ist völlig schmerzfrei. Der Patient soll etwa 30 Minuten in eine
+
+68
+00:09:43,590 --> 00:09:53,590
+CT-Röhre ruhig liegen und wenn der Patient eine Platzangst hat, können wir dem Patienten
+
+69
+00:09:53,590 --> 00:10:02,590
+eine Beruhigungsmittel geben. Diese Untersuchung hat keine Komplikationen, aber es gibt einige
+
+70
+00:10:02,590 --> 00:10:09,590
+Kontraindikationen, wie zum Beispiel Schwangerschaft oder Kontrastmittelallergie. Manchmal
+
+71
+00:10:09,590 --> 00:10:16,590
+sollen wir dem Patienten eine Kontrastmittel geben, um die innere Organe sichtbar zu machen.
+
+72
+00:10:16,590 --> 00:10:25,590
+Und es gibt keine Einschränkungen nach der Untersuchung und der Patient kann den Alltag
+
+73
+00:10:25,590 --> 00:10:36,260
+wie gewohnt fortsetzen. Okay, Herr Kollegen, wie würden Sie Migräne
+
+74
+00:10:36,260 --> 00:10:53,740
+in diesem Fall ausschließen? Ja, die Patientin leidet unter einem Kopfschmerzen,
+
+75
+00:10:53,740 --> 00:11:05,740
+die besonders morgens auftreten. Also normalerweise warten wir eine Kopfschmerzen
+
+76
+00:11:05,740 --> 00:11:17,740
+bei der Migraine nur an einer Seite vom Kopf und normalerweise warten wir eine Aura bevor
+
+77
+00:11:17,740 --> 00:11:30,740
+ein Anfall und nach der Migranten-Attacke warten wir auf Schleppigkeit oder Müdigkeit.
+
+78
+00:11:30,740 --> 00:11:43,740
+Diese Schmerzen bei dieser Patientin sind im Stil gelokalisiert und nicht so stark,
+
+79
+00:11:43,740 --> 00:11:54,740
+aber leider habe ich über Schmerzintensität und die Details nicht gefragt. Nach dem
+
+80
+00:11:54,740 --> 00:12:03,740
+Arzt-Arzt-Gespräch werde ich diese Frage wieder stellen, Herr Oberarzt.
+
+81
+00:12:03,740 --> 00:12:11,740
+Was würde in diesem Fall Obststruktur Schlafapne verursachen?
+
+82
+00:12:11,740 --> 00:12:27,150
+Normalerweise ist die Übergewicht die erste Ursache bei der Erwachsenen, aber die
+
+83
+00:12:27,150 --> 00:12:37,150
+Patientin ist nicht übergewicht, sie ist Raucherin. Also Rauchen ist ein Risikofaktor
+
+84
+00:12:37,150 --> 00:12:49,150
+bei dieser Situation, also ich meine Obststruktur Schlafapnesyndrom und sie schnarchen beim
+
+85
+00:12:49,150 --> 00:13:01,150
+Schlafen und wahrscheinlich hat sie Atemstillstand beim Schlafen, deswegen würde ich eine
+
+86
+00:13:01,150 --> 00:13:10,150
+Polysomnographie durchführen, um diese Probleme genau festzustellen. Nach der Behandlung,
+
+87
+00:13:10,150 --> 00:13:22,150
+was würden Sie diesen Patienten empfehlen? Ja, Lebensstillveränderung ist bei diesen
+
+88
+00:13:22,150 --> 00:13:35,150
+Patienten sehr wichtig, also Rauchen aufzuhören ist wichtig und eine körperliche Untersuchung
+
+89
+00:13:35,150 --> 00:13:44,150
+und wenn es eine Mandelvergrößerung oder Uhula-Hypertrophy oder September-Deviation
+
+90
+00:13:44,150 --> 00:13:55,150
+gibt, können wir der Patienten eine Operation empfehlen und Schlafpositionveränderung
+
+91
+00:13:55,150 --> 00:14:03,150
+ist auch sehr wichtig beim Schlafen und als Therapiemöglichkeiten würde ich der
+
+92
+00:14:03,150 --> 00:14:18,150
+Patienten eine SPAP, also Schlafmaske empfehlen, das ist die erste Wahl bei diesen Patienten.
+
+93
+00:14:18,150 --> 00:14:38,730
+Würden Sie in diesem Fall Elektroencephalographie durchführen? Ja, Elektroencephalographie würde
+
+94
+00:14:38,730 --> 00:14:47,730
+ich durchführen, um die elektrische Aktivität des Gehirns genau zu beurteilen, die die
+
+95
+00:14:47,730 --> 00:14:57,730
+Patientin hat, Cephalgie und Schlafstörungen, deswegen würde ich eine EEG durchführen.
+
+96
+00:14:57,730 --> 00:15:05,730
+Wie können wir Elektroencephalographie durchführen? Können Sie uns so aufklären?
+
+97
+00:15:05,730 --> 00:15:18,730
+Ja gerne, ich werde Sie über EEG aufklären. Elektroencephalographie ist eine Untersuchung,
+
+98
+00:15:18,730 --> 00:15:27,730
+mit der wir die elektrische Aktivität des Gehirns aufzeichnen können, dazu mehrere
+
+99
+00:15:27,730 --> 00:15:45,730
+Elektroden am Kopf befestigt und diese Elektroden messen die elektrische Aktivität des Gehirns
+
+100
+00:15:45,730 --> 00:16:01,730
+und zeigen sie als Kurve auf einem Monitor und diese Untersuchung hilft uns, die epileptische
+
+101
+00:16:01,730 --> 00:16:13,730
+Anfälle oder andere Gehirnkrankheiten genau zu erkennen. Diese Untersuchung dauert ca.
+
+102
+00:16:13,730 --> 00:16:23,730
+20 Minuten, dafür benötigt der Patient keine spezielle Vorbereitung, es gibt keine
+
+103
+00:16:23,730 --> 00:16:29,730
+Komplikationen oder Kontraindikationen bei dieser Untersuchung und nach der Untersuchung
+
+104
+00:16:29,730 --> 00:16:35,730
+kann der Patient den Alltag wie gewohnt fortsetzen.
+
+105
+00:16:35,730 --> 00:16:48,010
+In diesem Fall ist es möglich, Kraftanfall?
+
+106
+00:16:48,010 --> 00:17:07,680
+Die Patienten leiden keine chronischen oder kringenden Anfälle, aber es gibt viele verschiedene
+
+107
+00:17:07,680 --> 00:17:17,680
+epileptische Anfälle, auf jeden Fall sollen wir eine EEG durchführen, um die möglichen
+
+108
+00:17:17,680 --> 00:17:29,680
+Pathologien zu beurteilen. Wie gesagt, es gibt keine Befunde für eine epileptische Anfälle,
+
+109
+00:17:29,680 --> 00:17:31,680
+Herr Oberhans.
+
+110
+00:17:31,680 --> 00:17:54,770
+Ich habe alle Fragen gestellt, gehen Sie auf unser Infodesk und nehmen Sie Ihre Zertifizierung.
+
+111
+00:17:54,770 --> 00:18:06,420
+Vielen Dank, Herr Oberhans, Sie sind sehr nett, Sie haben heute weniger Fragen gestellt,
+
+112
+00:18:06,420 --> 00:18:11,420
+ich bedanke mich. Nur zwei Minuten.

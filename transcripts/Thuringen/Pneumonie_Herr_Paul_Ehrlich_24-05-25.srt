@@ -1,0 +1,1111 @@
+1
+00:00:02,220 --> 00:00:12,220
+Schönen guten Tag, mein Name ist Ucak. Ich bin aus dieser Station als Arzt tätig und ich würde gerne mit Ihnen das Anamnese-Gespräch durchführen.
+
+2
+00:00:12,220 --> 00:00:14,220
+Damit sind Sie einverstanden?
+
+3
+00:00:14,220 --> 00:00:17,220
+Ja, ich bin einverstanden, Doktor.
+
+4
+00:00:17,220 --> 00:00:29,220
+Danke. Bitte fragen Sie nach, wenn Sie etwas nicht verstehen. Ich werde Ihnen gerne ein paar allgemeine Fragen stellen, bevor Sie mir über Ihre Beschwerden erzählen. Ist das in Ordnung?
+
+5
+00:00:29,220 --> 00:00:31,220
+Ja, natürlich, bitte.
+
+6
+00:00:31,220 --> 00:00:33,220
+Wie heißen Sie denn?
+
+7
+00:00:33,220 --> 00:00:36,220
+Ich heiße Paul Erlich.
+
+8
+00:00:36,220 --> 00:00:43,170
+Könnten Sie bitte Ihren Nachnamen langsam buchstabieren?
+
+9
+00:00:43,170 --> 00:00:53,170
+Emil, Heinrich, Richard, Ludwig, Ida, Samuel, Cesar, Herr Heinrich.
+
+10
+00:00:53,170 --> 00:00:58,670
+Ok. Herr Erlich. Wie alt sind Sie?
+
+11
+00:00:58,670 --> 00:01:01,670
+Ich bin 68 Jahre alt.
+
+12
+00:01:01,670 --> 00:01:04,670
+Wann sind Sie genau geboren?
+
+13
+00:01:04,670 --> 00:01:09,670
+18.9.1957
+
+14
+00:01:09,670 --> 00:01:13,020
+Wie groß sind Sie?
+
+15
+00:01:13,020 --> 00:01:19,020
+Ich bin 1 Meter und 80.
+
+16
+00:01:19,020 --> 00:01:23,420
+Und wie schwer sind Sie so seit?
+
+17
+00:01:23,420 --> 00:01:26,420
+Ich bin 65 Kilo.
+
+18
+00:01:26,420 --> 00:01:33,020
+Wer ist Ihr Hausarzt oder Hausärztin?
+
+19
+00:01:33,020 --> 00:01:40,410
+Herr Sanatci.
+
+20
+00:01:40,410 --> 00:01:48,410
+Danke für die Informationen. Herr Erlich, was kann ich für Sie tun? Was für Beschwerden haben Sie zurzeit?
+
+21
+00:01:48,410 --> 00:01:52,410
+Ich habe starke Kopfschmerzen.
+
+22
+00:01:52,410 --> 00:01:59,950
+Seit wann haben Sie diese Schmerzen?
+
+23
+00:01:59,950 --> 00:02:04,950
+Seit zwei Tagen habe ich diese Schmerzen, Doktor.
+
+24
+00:02:05,950 --> 00:02:14,950
+Wo genau diese Schmerzen? Könnten Sie diese Schmerzen lokalisieren? Ich meine am ganzen Kopf oder einer Seite?
+
+25
+00:02:14,950 --> 00:02:21,950
+Die Kopfschmerzen sitzen hinter den Augen.
+
+26
+00:02:21,950 --> 00:02:34,040
+Können Sie diese Schmerzen genau beschreiben? Sind Sie eher drückend oder dumpf?
+
+27
+00:02:34,040 --> 00:02:44,260
+Die Schmerzen sind steckend, Doktor.
+
+28
+00:02:44,260 --> 00:02:57,540
+Sind diese Schmerzen plötzlich oder langsam aufgetreten?
+
+29
+00:02:57,540 --> 00:03:03,540
+Langsam aufgetreten, aber ich habe starke Schmerzen jetzt, Doktor.
+
+30
+00:03:03,540 --> 00:03:13,540
+Ich verstehe. Wie stark sind diese Schmerzen auf einer Schmerzskala von 1 bis 10, wobei 1 sehr leichten, 10 sehr starken Schmerzen entspricht?
+
+31
+00:03:13,540 --> 00:03:19,540
+Ich würde die Schmerzen von 8 bis 9 bewerten, Doktor.
+
+32
+00:03:19,540 --> 00:03:32,540
+Herr Erlich, das ist eine sehr starke Schmerzenkala. Soll ich Ihnen eine Schmerzmittel geben oder können Sie noch ein bisschen diese Schmerzen bis Ende des Sprechs aushalten?
+
+33
+00:03:32,540 --> 00:03:36,540
+Es wäre besser, wenn Sie mir eine Schmerzmittel geben.
+
+34
+00:03:37,540 --> 00:03:45,540
+Darf ich fragen, haben Sie eine Allergie gegen irgendwelche Medikamente?
+
+35
+00:03:45,540 --> 00:03:51,540
+Ich habe keine Allergie gegen irgendwelche Medikamente. Nein.
+
+36
+00:03:51,540 --> 00:03:56,540
+Oder leiden Sie an chronischen Erkrankungen wie zum Beispiel Nierenversagen?
+
+37
+00:03:56,540 --> 00:03:59,540
+Nein.
+
+38
+00:03:59,540 --> 00:04:07,540
+Alles klar. Schwester Müller, geben Sie den Patienten eine Schmerzmittel?
+
+39
+00:04:07,540 --> 00:04:12,540
+Herr Erlich, fühlen Sie sich besser oder?
+
+40
+00:04:12,540 --> 00:04:16,540
+Ja, ich fühle mich jetzt sehr gut. Danke schön, Doktor.
+
+41
+00:04:16,540 --> 00:04:25,540
+Sehr gerne, das freut mich. Herr Erlich, haben Sie gegen diese Schmerzen ein Medikament eingenommen?
+
+42
+00:04:25,540 --> 00:04:33,540
+Ja Doktor, ich habe so aus zwei Mal Aspirin 100 mg genommen, aber das hat nichts gebracht.
+
+43
+00:04:33,540 --> 00:04:40,540
+Haben Sie ähnliche Beschwerden, also früher gehabt?
+
+44
+00:04:40,540 --> 00:04:46,540
+Nein, das ist das erste Problem für mich.
+
+45
+00:04:47,540 --> 00:04:57,540
+Ok, und waren Sie schon bei einem anderen Arzt gewesen, ich meine wegen dieser Schmerzen?
+
+46
+00:04:57,540 --> 00:05:09,540
+Ich bin nicht kein Arzt gewesen Doktor, auch habe ich vor zwei Tagen diese Beschwerden.
+
+47
+00:05:09,540 --> 00:05:15,540
+Herr Erlich, leiden Sie unter Schwinden?
+
+48
+00:05:15,540 --> 00:05:18,540
+Ich habe keine Schwinden Doktor.
+
+49
+00:05:18,540 --> 00:05:24,540
+Leiden Sie unter Sehstörungen oder Hörstörungen?
+
+50
+00:05:24,540 --> 00:05:36,540
+Nein, ich habe keine bemerkt, aber dazu kommt ein brennendes Gefühl im Hals, besonders beim Schlucken feste Nahrung Doktor.
+
+51
+00:05:37,540 --> 00:06:00,140
+Ok, also sind diese Beschwerden, ich meine Schluckstörungen, auch seit zwei Tagen da, richtig?
+
+52
+00:06:00,140 --> 00:06:06,140
+Ja, seit zwei Tagen oder drei Tagen.
+
+53
+00:06:06,140 --> 00:06:15,900
+Ok, haben Sie ein Druckgefühl, besonders im Stirn?
+
+54
+00:06:15,900 --> 00:06:27,000
+Ja, ein bisschen.
+
+55
+00:06:27,000 --> 00:06:32,000
+Ok, bleiben Sie unter Nackensteifigkeit?
+
+56
+00:06:32,000 --> 00:06:37,000
+Ich habe keine Nackensteifigkeit Doktor, nein.
+
+57
+00:06:37,000 --> 00:06:43,000
+Das freut mich. Fühlen Sie sich fieberig, Herr Erlich?
+
+58
+00:06:43,000 --> 00:07:09,000
+Ja Doktor, ich habe Fieber, meine Lebenspartnerin hat das Fieber gemessen und gestern hatte ich Fieber 39,2 Grad und ich fühle mich insgesamt schlafen und krasslos Doktor.
+
+59
+00:07:09,000 --> 00:07:26,860
+Ok, Herr Erlich, haben Sie in der letzten Zeit mit irgendjemanden kontaktiert, der erkältet ist?
+
+60
+00:07:26,860 --> 00:07:37,860
+Ich habe nicht erinnert, aber es ist möglich.
+
+61
+00:07:37,860 --> 00:07:44,860
+Ok, also hat Ihre Lebenspartnerin auch diese Beschwerden?
+
+62
+00:07:44,860 --> 00:07:46,860
+Nein.
+
+63
+00:07:46,860 --> 00:07:51,860
+Leiden Sie unter Schterfrost oder Nachtschweiß?
+
+64
+00:07:51,860 --> 00:07:56,860
+Nachtschweiß, nein.
+
+65
+00:07:56,860 --> 00:07:59,860
+Schterfrost haben Sie?
+
+66
+00:07:59,860 --> 00:08:03,860
+Ich habe keine Schterfrost.
+
+67
+00:08:03,860 --> 00:08:09,860
+Ok, Herr Erlich, haben Sie eine Vergrößerung am Hals bemerkt?
+
+68
+00:08:09,860 --> 00:08:22,130
+Ich sehe nicht, aber ich denke, ich habe diese Probleme Doktor.
+
+69
+00:08:22,130 --> 00:08:28,130
+Ok, alles klar. Ist Ihnen übel?
+
+70
+00:08:28,130 --> 00:08:32,130
+Ja, außerdem ist mir übel.
+
+71
+00:08:32,130 --> 00:08:34,130
+Mussten Sie erbrechen?
+
+72
+00:08:34,130 --> 00:08:37,130
+Nein, ich habe keine erbrechen.
+
+73
+00:08:37,130 --> 00:08:40,130
+Wie ist Ihr Appetit?
+
+74
+00:08:40,130 --> 00:08:46,130
+Seit zwei Tagen habe ich keinen Appetit.
+
+75
+00:08:46,130 --> 00:08:49,470
+Wegen dieser Schmerzen, oder?
+
+76
+00:08:49,470 --> 00:08:53,470
+Ja, ich denke, wegen des Fiebers.
+
+77
+00:08:53,470 --> 00:08:59,470
+Verstehe. Haben Sie in der letzten Zeit unwirkulich abgenommen?
+
+78
+00:08:59,470 --> 00:09:06,470
+Nein, ich habe nicht bemerkt. Ich bin immer gleich gewischt.
+
+79
+00:09:06,470 --> 00:09:13,470
+Ok, Herr Erlich, leiden Sie unter Husten oder Luftnot?
+
+80
+00:09:13,470 --> 00:09:17,470
+Ja Doktor, ich habe auch Husten.
+
+81
+00:09:17,470 --> 00:09:22,470
+Ist der Husten trocken oder mit dem Auswurf?
+
+82
+00:09:22,470 --> 00:09:36,050
+Ich habe auch Husten mit gelb-weißem Auswurf Doktor.
+
+83
+00:09:36,050 --> 00:09:39,050
+Leiden Sie unter Luftnot?
+
+84
+00:09:39,050 --> 00:09:44,050
+Luftnot, nein, ich habe keine Luftnot.
+
+85
+00:09:44,050 --> 00:09:49,050
+Ok, Herr Erlich, haben Sie Blut im Ausfluss bemerkt?
+
+86
+00:09:49,050 --> 00:09:55,050
+Ich habe keine Blut im Ausfluss bemerkt Doktor.
+
+87
+00:09:55,050 --> 00:10:01,680
+Ok, ok.
+
+88
+00:10:01,680 --> 00:10:04,680
+Und schlafen Sie gut?
+
+89
+00:10:04,680 --> 00:10:13,680
+Schlafen Sie gut? Nein Doktor, seit zwei Tagen habe ich Fieber und Husten und Kopfschmerzen.
+
+90
+00:10:13,680 --> 00:10:16,680
+Ich habe schlecht geschlafen.
+
+91
+00:10:16,680 --> 00:10:19,680
+Ja, Sie haben recht. Ich verstehe Sie sehr gut.
+
+92
+00:10:19,680 --> 00:10:23,680
+Also haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+93
+00:10:23,680 --> 00:10:25,680
+Beide Doktor.
+
+94
+00:10:25,680 --> 00:10:34,680
+Ok, ok. Ist alles in Ordnung beim Wasserlassen oder mit dem Sturmgang?
+
+95
+00:10:34,680 --> 00:10:42,680
+Ja, ich habe nicht bemerkt Sturmgang- oder Wasserlassprobleme.
+
+96
+00:10:42,680 --> 00:10:51,680
+Ok, sind Sie schon vollständig gegen Kinderkrankheiten oder Corona-Infektionen geimpft?
+
+97
+00:10:51,680 --> 00:11:01,890
+Ja, ich bin vollständig gegen Corona geimpft.
+
+98
+00:11:01,890 --> 00:11:09,890
+Haben Sie in der letzten Zeit besonders ins Ausland eine Reise gemacht?
+
+99
+00:11:09,890 --> 00:11:19,890
+Nein, ich bin nicht ins Ausland gegangen.
+
+100
+00:11:19,890 --> 00:11:27,890
+Leiden Sie an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Bluthochdruck oder Zuckerkrankheit?
+
+101
+00:11:27,890 --> 00:11:46,250
+Ja Doktor, ich habe einige Vorerkrankungen. Seit meiner Kindheit habe ich Asthma. Dann nehme ich eine Zalbutomol-Spray.
+
+102
+00:11:46,250 --> 00:11:48,250
+Bei Bedarf ja?
+
+103
+00:11:48,250 --> 00:11:50,250
+Ja, bei Bedarf ja.
+
+104
+00:11:50,250 --> 00:12:14,250
+Vor 18 Jahren hatte ich eine Zepsis und dabei kam eine Herzmuskelentzündung. Seitdem habe ich eine Schwäche und nehme täglich Lersanidipin und bei Bedarf ein Diagnostikum Doktor.
+
+105
+00:12:14,250 --> 00:12:20,930
+Kennt ihr die Dosierung von Lersanidipin?
+
+106
+00:12:20,930 --> 00:12:25,930
+Keine Ahnung.
+
+107
+00:12:25,930 --> 00:12:34,930
+Keine Sorge. Ich werde Ihren Hausarzt kontaktieren. Wie oft nehmen Sie ein Lersanidipin?
+
+108
+00:12:34,930 --> 00:12:38,930
+Bei Bedarf einmal täglich.
+
+109
+00:12:38,930 --> 00:12:41,930
+Einmal täglich, morgens oder abends?
+
+110
+00:12:41,930 --> 00:12:49,930
+Ja, morgens.
+
+111
+00:12:49,930 --> 00:12:54,930
+Und Sie nehmen Diagnostikum bei Bedarf ein?
+
+112
+00:12:54,930 --> 00:12:55,930
+Ja, bei Bedarf ja.
+
+113
+00:12:55,930 --> 00:12:57,930
+Kennen Sie den Namen?
+
+114
+00:12:57,930 --> 00:13:05,270
+Ich habe keine Ahnung, wie es ist.
+
+115
+00:13:05,270 --> 00:13:09,270
+Alles klar. Sonst haben Sie irgendwelche anderen Erkrankungen?
+
+116
+00:13:09,270 --> 00:13:21,270
+Ja, ich habe Bluthochdruck seit vier Jahren und dagegen nehme ich Romypril 10 mg täglich morgens.
+
+117
+00:13:21,270 --> 00:13:29,060
+Alles klar. Sind Sie schon einmal operiert worden?
+
+118
+00:13:29,060 --> 00:13:45,410
+Ja, ich hatte mit vier Jahren eine Leistungsdruckoperation auf der rechten Seite.
+
+119
+00:13:45,410 --> 00:13:50,410
+Alles klar. Das war es, oder?
+
+120
+00:13:50,410 --> 00:13:57,410
+Nein. Vor 14 Jahren wurde mir die Kalend-Place entführt.
+
+121
+00:13:57,410 --> 00:14:01,410
+Auch ohne Komplikationen.
+
+122
+00:14:01,410 --> 00:14:05,410
+Das freut mich.
+
+123
+00:14:05,410 --> 00:14:15,410
+Nehmen Sie außer genannten Medikamenten noch irgendwelche anderen Medikamente ein?
+
+124
+00:14:15,410 --> 00:14:22,410
+Ich habe jetzt viele Medikamente ein. Ich habe gesagt, Doktor.
+
+125
+00:14:22,410 --> 00:14:26,410
+Außer keine Medikamente.
+
+126
+00:14:26,410 --> 00:14:30,410
+Alles klar. Haben Sie Allergie?
+
+127
+00:14:30,410 --> 00:14:37,410
+Ja, ich bin gegen einige Dinge allergisch. Weil ich Kibbe und Äpfel habe.
+
+128
+00:14:37,410 --> 00:14:46,660
+Wie äußern sich diese Allergien?
+
+129
+00:14:46,660 --> 00:14:53,660
+Davon bekomme ich meistens Halsschnupfen, manchmal aber auch Durchfall.
+
+130
+00:14:53,660 --> 00:14:57,900
+Durchfall und?
+
+131
+00:14:57,900 --> 00:14:59,900
+Halsschnupfen.
+
+132
+00:14:59,900 --> 00:15:00,900
+Halsschnupfen?
+
+133
+00:15:00,900 --> 00:15:01,900
+Ja.
+
+134
+00:15:01,900 --> 00:15:08,570
+Okay. Herr Herrlich, rauchen Sie?
+
+135
+00:15:08,570 --> 00:15:19,570
+Ja, leider Doktor. Ich rauche seit etwa 18 Jahren wieder. Aber nur ein bis drei Zigaretten am Tag.
+
+136
+00:15:19,570 --> 00:15:28,570
+Früher waren es deutlich mehr. Fast 30 Jahre lang eine ganze Schachtel täglich.
+
+137
+00:15:28,570 --> 00:15:39,960
+Aber Sie haben eine gute Entscheidung getroffen, das Traum zu reduzieren. Herr Herrlich. Okay.
+
+138
+00:15:39,960 --> 00:15:41,960
+Trinken Sie regelmäßig?
+
+139
+00:15:41,960 --> 00:15:46,960
+Aber ich denke, es wäre besser, wenn ich den Zigaretten aufhören würde.
+
+140
+00:15:46,960 --> 00:15:51,960
+Ja, also wenn Sie möchten, können wir Sie dabei unterstützen. Okay?
+
+141
+00:15:51,960 --> 00:15:53,960
+Ja, danke schön Doktor.
+
+142
+00:15:53,960 --> 00:15:56,960
+Gerne. Trinken Sie regelmäßig Alkohol?
+
+143
+00:15:56,960 --> 00:16:03,960
+Alkohol trinke ich auch regelmäßig. Bis zwei Glas Wein am Abend.
+
+144
+00:16:03,960 --> 00:16:11,580
+Okay. Bitte nehmen Sie die nächste Frage nicht persönlich. Das ist eine Routinefrage.
+
+145
+00:16:11,580 --> 00:16:14,580
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+146
+00:16:14,580 --> 00:16:17,580
+Nein, Drogen nehme ich keine Doktor.
+
+147
+00:16:17,580 --> 00:16:23,580
+Okay, das freut mich. Herr Herrlich, leiden Ihre Eltern an chronischen Erkrankungen?
+
+148
+00:16:23,580 --> 00:16:26,580
+Wie zum Beispiel Bluthochdruck oder Zuckerkrankheit?
+
+149
+00:16:26,580 --> 00:16:34,580
+Meine Mutter ist mit 88 Jahren an Nierenversagen und nach einem Schlaganfall gestorben.
+
+150
+00:16:34,580 --> 00:16:45,690
+Mein Vater hatte vor acht Jahren einen Herzinfarkt und bekam einen Beifass.
+
+151
+00:16:45,690 --> 00:16:52,600
+Er lebt jetzt in Altenheim, Doktor.
+
+152
+00:16:52,600 --> 00:16:57,600
+Okay, mein Beilag für Ihre Mutter. Ja. Haben Sie Geschwister?
+
+153
+00:16:57,600 --> 00:17:06,600
+Ich habe zwei Geschwister, aber sie sind gesunken.
+
+154
+00:17:06,600 --> 00:17:09,600
+Okay. Sind Sie verheiratet?
+
+155
+00:17:09,600 --> 00:17:21,600
+Ja, Doktor. Ich war zweimal verheiratet und lebe jetzt mit meinen lebernden Partnern zusammen. Ja.
+
+156
+00:17:21,600 --> 00:17:23,600
+Aber wie lange?
+
+157
+00:17:23,600 --> 00:17:26,880
+Ich habe fünf gesunken.
+
+158
+00:17:26,880 --> 00:17:28,880
+Okay. Was sind Sie von Beruf?
+
+159
+00:17:28,880 --> 00:17:35,880
+Früher war ich Schirrur, jetzt bin ich Averranter.
+
+160
+00:17:35,880 --> 00:17:41,880
+Okay. Alles klar. Herrlich, das waren meine Fragen.
+
+161
+00:17:41,880 --> 00:17:45,880
+Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+162
+00:17:45,880 --> 00:17:57,880
+Ja, Doktor. Was habe ich? Ich habe starke Kopfschmerzen, Husten, Hausschmerzen und Müdigkeit. Was habe ich?
+
+163
+00:17:57,880 --> 00:18:10,880
+Herrlich, es ist früh, etwas genau zu sagen, aber ich vermute, dass Sie an einer oberen Atemwegeinfektion leiden.
+
+164
+00:18:10,880 --> 00:18:20,880
+Also das bedeutet, Sie haben eine Lungenentzündung oder nur eine oberen Atemwegeentzündung.
+
+165
+00:18:20,880 --> 00:18:30,880
+Deswegen werde ich Sie zuerst körperlich untersuchen und dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen veranlassen.
+
+166
+00:18:30,880 --> 00:18:40,880
+Okay. Also sobald alle Ergebnisse da sind, werde ich Ihnen die weiteren Informationen mitteilen. Okay?
+
+167
+00:18:40,880 --> 00:18:55,880
+Okay. Ich gerne wissen, Doktor, ob ich in einem Krankenhaus bleibe oder gehe ich nach meinem Haus.
+
+168
+00:18:55,880 --> 00:19:13,880
+Also ein paar Stunden müssen Sie sicherlich bei uns bleiben, damit wir die Diagnose bestätigen können und eine Therapie anordnen können.
+
+169
+00:19:13,880 --> 00:19:23,880
+Aber wenn wir etwas auffälliges finden, kann es auch passieren, dass Sie ein paar Tage im Krankenhaus bleiben sollen. Herrlich.
+
+170
+00:19:23,880 --> 00:19:32,880
+Ist es gefährlich, diese Beschwerden, diese Krankheit oder?
+
+171
+00:19:32,880 --> 00:19:39,880
+Herrlich, ohne Therapie kann diese Beschwerden gefährlich sein, aber machen Sie sich bitte keine Sorgen.
+
+172
+00:19:39,880 --> 00:19:48,880
+Sie sind jetzt im Krankenhaus und Sie sind bei uns in guten Händen. Wir werden alles für Sie tun. Okay?
+
+173
+00:19:48,880 --> 00:19:50,880
+Okay. Danke schön, Doktor.
+
+174
+00:19:50,880 --> 00:19:51,880
+Sehr gerne.
+
+175
+00:19:51,880 --> 00:19:53,880
+Ich warte auf Sie. Danke.
+
+176
+00:19:53,880 --> 00:19:55,880
+Ich bin gleich wieder da. Okay?
+
+177
+00:19:55,880 --> 00:19:57,880
+Okay. Okay, Doktor.
+
+178
+00:19:57,880 --> 00:20:08,960
+Guten Abend, Herr Oberarzt. Ich habe einen neuen Patienten aufgenommen und ich würde gerne über ihn berichten. Haben Sie kurz Zeit für mich?
+
+179
+00:20:08,960 --> 00:20:09,960
+Ja, bitte.
+
+180
+00:20:09,960 --> 00:20:20,960
+Danke schön. Herr Paul Ehrlich ist 68 Jahre alt, 1,80 Meter groß und 65 Kilogramm schwer.
+
+181
+00:20:20,960 --> 00:20:40,960
+Herr Ehrlich, stellte sich heute bei uns wegen seit zwei Tagen bestehender Cephalgie sowie produktiver Zusiss mit dem gelblichen und weißen Schuputum vor.
+
+182
+00:20:40,960 --> 00:21:12,190
+Ja, und der Patient berichtete über den Patienten zufolge, seien die Cephalgie langsam aufgetreten und mit der Zeit schlimmer geworden.
+
+183
+00:21:12,190 --> 00:21:34,190
+Die Schmerzintensität wurde auf eine Schmerzskala 8 bis 9 von 10 bewertet und die Einnahme von zweimaligen Astrien, 100 Milgramm, hätte keine Linderung der Schmerzen gebracht.
+
+184
+00:21:34,190 --> 00:21:52,190
+Der Patient erwähnte, dass die Schmerzen stichend seien. Die Fragen nach ähnlichen Beschwerden, vertigo, Sechsstörungen, Höchstörungen wurden verneint.
+
+185
+00:21:52,190 --> 00:22:21,190
+Der Patient klagte über Pyrexie bis zu 39,2 Grad Celsius und berichtete über auch Fatigue, Asthenie und Halsschmerzen beim Schlucken.
+
+186
+00:22:21,190 --> 00:22:42,290
+Die Fragen nach Nackensteifigkeit und Dyspnoe wurden verneint. Bei der vegetativen Anamnese seien die Folgenden bekannt.
+
+187
+00:22:42,290 --> 00:22:57,290
+Nausea ohne Emesis, Schmerzbedingte Inappetenz, Schmerzbedingte Insomnie in Form von Einschlafstörungen und Durchschlafstörungen.
+
+188
+00:22:57,290 --> 00:23:08,290
+Er sei vollständig gegen Kinderkrankheiten und viermal Covid-19 geimpft und die Reise an Amnese wurde verneint.
+
+189
+00:23:09,290 --> 00:23:27,290
+Anfängerkrankungen nannte er seit Kindheit bestehende Asthma-Bronchialle, seit vier Jahren bestehende Arzellhypertonie und vor 18 Jahren diagnostizierte Sepsis.
+
+190
+00:23:27,290 --> 00:23:52,290
+Der Patient nehme Lersanidipin und die Urethika gegen Myokalpitis, die nach der Sepsis aufgetreten sei und er nehme auch Ramiplil 10 mg morgens ein.
+
+191
+00:23:53,290 --> 00:24:18,290
+Er benutze Salbutamol Spray bei Bedarf. Mit vier Jahren sei er wegen einer Harnia Inguinalis rechts operiert worden und vor 14 Jahren sei bei ihm eine Cholestectomie durchgeführt worden.
+
+192
+00:24:18,290 --> 00:24:35,290
+Er habe Allergie gegen Walnüsse, Kiwi und Apfel, die sich durch Renitis und Diarrhoea äußern.
+
+193
+00:24:35,290 --> 00:24:53,290
+Er sei Raucher und er rauche 1 bis 3 Zigaretten täglich seit 18 Jahren. Davor habe er eine Schachter Zigaretten täglich 30 Jahre lang geraucht.
+
+194
+00:24:53,290 --> 00:25:04,290
+Er trinke 1 bis 2 Gläser Wein abends und Drogenkonsum wurde verneint.
+
+195
+00:25:04,290 --> 00:25:28,290
+In der Familienanamnese gab er an, dass der Vater vor acht Jahren an Myokalpinfarkt gelitten und bei ihm eine Bypassoperation durchgeführt worden sei.
+
+196
+00:25:28,290 --> 00:25:56,290
+Er wohnt im Moment in einem Altenheim. Die Mutter hat mit 88 Jahren an Niereninsuffizienz verstorben und sie habe an Apoplex gelitten.
+
+197
+00:25:56,290 --> 00:26:17,290
+Der Patient hat zwei gesunde Geschwister und er hat zweimal geheiratet und hat fünf gesunde Kinder und wohnt mit seiner Partnerin.
+
+198
+00:26:17,290 --> 00:26:25,290
+Er sei Rentner, aber früher habe er als Chirurg gearbeitet.
+
+199
+00:26:25,290 --> 00:26:39,290
+Ich gehe von einem Verdacht auf eine Pneumonie aus, da der Patient typische Symptome dafür aufweist.
+
+200
+00:26:39,290 --> 00:27:03,050
+Der Patient leidet unter Prodiktivartussis mit gelblichen weißlichen Sputum, Pyrexie bis zu 39,2,
+
+201
+00:27:03,050 --> 00:27:18,050
+Cephalgie, Halsschmerzen, Müdigkeit, also Fatigue. Diese Symptome sprechen für eine Pneumonie.
+
+202
+00:27:18,050 --> 00:27:40,840
+Als Differenzialdiagnosen kommen Covid-19-Infektionen, obere Atemwegeinfektionen, Epstein-Bavirus-Infektionen in Betracht.
+
+203
+00:27:40,840 --> 00:27:56,730
+Um meine Verdachtdiagnose zu bestätigen, würde ich zunächst bei den Patienten die Vitaparameter überwachen und eine körperliche Untersuchung durchführen.
+
+204
+00:27:56,730 --> 00:28:24,730
+Bei der körperlichen Untersuchung achte ich darauf, ob Hautfarbeveränderungen, also Cyanose, vergrößerte Lymphknoten, Infiltration, feuchte Rassergeräusche bei der Asfiltration.
+
+205
+00:28:24,730 --> 00:28:54,360
+Und vermehrte Klopfen.
+
+206
+00:28:54,360 --> 00:29:03,360
+Welche Werte sind wichtig bei der Vitaparameter?
+
+207
+00:29:03,360 --> 00:29:18,360
+Wir sollen Atemfrequenz, Herzfrequenz und Sauerstoffsättigung überwachen.
+
+208
+00:29:18,360 --> 00:29:35,360
+Das Wichtigste ist die Sauerstoffsättigung. Wenn es ein Problem mit der Sauerstoffsättigung gibt, sollen wir den Patienten sobald Sauerstoff geben.
+
+209
+00:29:35,360 --> 00:29:50,360
+Zusätzlich ist eine Laboruntersuchung sinnvoll, um eine umfassende Diagnostik zu gewährleisten.
+
+210
+00:29:50,360 --> 00:30:12,700
+Dabei würde ich Leukocytunsal, CAP, BSG, Leberwerte, Nierenwerte, Elektrolyten, Leid der Dümere bestimmen lassen.
+
+211
+00:30:12,700 --> 00:30:25,700
+Danach würde ich eine zweiebene Röntgenuntersuchung, Röntgen des Thorax durchführen, um die möglichen Pathologien genau zu beurteilen.
+
+212
+00:30:25,700 --> 00:30:38,700
+Bei der Röntgenuntersuchung können wir Infiltration feststellen bei der Pneumonie.
+
+213
+00:30:38,700 --> 00:30:57,700
+Danach würde ich eine gegebenenfalls Ct des Thorax durchführen, um die Gewebepathologie zu überprüfen.
+
+214
+00:30:57,700 --> 00:31:15,700
+Sollte sich die Verdachtdiagnose bestätigen, würde ich den Patienten stationär aufnehmen. Der Patient ist 68 Jahre alt.
+
+215
+00:31:15,700 --> 00:31:24,700
+Würden Sie in diesem Fall Spirometry durchführen?
+
+216
+00:31:24,700 --> 00:31:34,700
+Spirometry können wir bei den Patienten durchführen.
+
+217
+00:31:34,700 --> 00:31:54,700
+Das ist keine Notfallmaßnahme, aber können wir nach der Station eine Spirometry durchführen, um die Lungenfunktionen zu beurteilen.
+
+218
+00:31:54,700 --> 00:32:00,270
+Machen Sie in diesem Fall Brokkoskopie?
+
+219
+00:32:00,270 --> 00:32:29,190
+Normalerweise habe ich eine Verdacht auf Pneumonie. Aber wenn wir als Verdachtdiagnose eine Lungenkarzinom haben, können wir eine Brokkoskopie durchführen.
+
+220
+00:32:29,190 --> 00:32:32,190
+Gehen Sie weiter?
+
+221
+00:32:32,190 --> 00:32:56,190
+Zunächst würde ich den Patienten einen venösen Zugang legen und ich würde den Patienten sofort Antibiotika, Analgetikum verabreichen.
+
+222
+00:32:56,190 --> 00:33:11,190
+Darüber hinaus würde ich einen Pneumonologischen Konsil anfordern, um die Therapie des Patienten zu optimieren.
+
+223
+00:33:11,190 --> 00:33:25,190
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit dieser geplanten Untersuchung fortfahren.
+
+224
+00:33:25,190 --> 00:33:29,190
+In welchem Fall würden Sie stationär aufnehmen?
+
+225
+00:33:29,190 --> 00:33:54,600
+Es gibt einen Scope 65. Wir werden diese Score berechnen. Über 65 ist ein Punkt, ein Score.
+
+226
+00:33:54,600 --> 00:34:04,600
+Blutdruck ist auch wichtig.
+
+227
+00:34:04,600 --> 00:34:17,600
+Wenn der Blutdruck systolischer über 90, diastolischer über 50 bedeutet, ist das auch ein Punkt.
+
+228
+00:34:17,600 --> 00:34:36,290
+Und Urea ist auch wichtig. Über 7 mm. Ich bin mir nicht sicher, Herr Oberst.
+
+229
+00:34:36,290 --> 00:34:50,290
+Aber wir sollen diese Score berechnen und wenn der Patient 1 bis 2 Punkte hat, dann sollen wir den Patienten stationär aufnehmen.
+
+230
+00:34:50,290 --> 00:35:01,290
+Wenn der Patient 3 bis 4 Punkte hat, sollen wir den Patienten intensiv stationär aufnehmen.
+
+231
+00:35:02,290 --> 00:35:09,290
+Herr Kollegen, können Sie uns Bronchoscopy aufklären?
+
+232
+00:35:09,290 --> 00:35:17,290
+Ja, gerne. Ich werde Sie über Bronchoscopy aufklären.
+
+233
+00:35:17,290 --> 00:35:25,290
+Bronchoscopy ist die endoskopische Untersuchung der Atemwege.
+
+234
+00:35:25,290 --> 00:35:38,290
+Diese Untersuchung hilft uns, Verletzungen, Entzündungen, Tumore oder andere Veränderungen der Atemwege genau zu erkennen.
+
+235
+00:35:38,290 --> 00:35:55,290
+Bei dieser Untersuchung schieben wir einen dünnen flexiblen optischen Schlauch durch den Mund oder durch die Nase bis in den Bronchen vor.
+
+236
+00:35:55,290 --> 00:36:08,290
+Diese Untersuchung kann sowohl zu diagnostischen als auch therapeutischen Zwecken benutzt werden.
+
+237
+00:36:08,290 --> 00:36:21,290
+Also während dieser Untersuchung können wir eine Gewebeprobe entnehmen oder kleine Tumoren entfernen.
+
+238
+00:36:21,290 --> 00:36:32,290
+Diese Untersuchung dauert ca. 30 Minuten und dafür benötigt der Patient keine spezielle Vorbereitung.
+
+239
+00:36:32,290 --> 00:36:48,290
+Es gibt keine Kontraindikationen, aber es gibt einige Komplikationen wie z.B. Nachblutungen oder Verletzungen der Schleimhäute.
+
+240
+00:36:48,290 --> 00:36:56,290
+In der Regel geben wir den Patienten ein leichtes Schlafmittel.
+
+241
+00:36:56,290 --> 00:37:15,290
+Nach der Untersuchung darf der Patient keine wichtigen Sachen machen wie z.B. selbst Autofahren oder wichtige Verträge zu unterschreiben.
+
+242
+00:37:15,290 --> 00:37:26,290
+Der Patient soll eine Begleitperson mitbringen, die den Patienten nach Hause bringt.
+
+243
+00:37:26,290 --> 00:37:33,290
+Was machen Sie während der Untersuchung der Patienten übergeben?
+
+244
+00:37:33,290 --> 00:37:42,500
+Wir machen eine lokale Betäubung.
+
+245
+00:37:42,500 --> 00:37:52,500
+Der Patient muss vor der Untersuchung nicht sterben.
+
+246
+00:37:52,500 --> 00:37:59,500
+Der Patient soll ca. 6 Stunden nicht sterben.
+
+247
+00:37:59,500 --> 00:38:06,500
+Weil wir den Patienten Schlafmittel geben.
+
+248
+00:38:06,500 --> 00:38:16,500
+Wozu werden wir die Gewebeprobe schicken?
+
+249
+00:38:16,500 --> 00:38:30,500
+Für histologische Untersuchungen werden wir die Gewebeprobe zur Histologieabteilung schicken.
+
+250
+00:38:30,500 --> 00:38:42,500
+Welche anderen Pathologien können wir gleichzeitig behandeln während der Bronchoscopy?
+
+251
+00:38:42,500 --> 00:38:53,500
+Wenn es ein fremder Körper im Atemweg gibt, können wir diesen fremder Körper entnehmen.
+
+252
+00:38:53,500 --> 00:38:58,500
+Ja, richtig.
+
+253
+00:38:58,500 --> 00:39:01,780
+Unsere Zeit ist um.
+
+254
+00:39:01,780 --> 00:39:06,130
+Ja, Sie haben recht.
+
+255
+00:39:06,130 --> 00:39:13,130
+Aber ich glaube, Herr Dr. Puppil hat für uns extra Zeit gemacht.
+
+256
+00:39:13,130 --> 00:39:19,130
+Herr Kollege, können Sie uns Spirometrie aufklären?
+
+257
+00:39:19,130 --> 00:39:26,130
+Ja, gerne. Ich werde Sie über Spirometrie aufklären.
+
+258
+00:39:26,130 --> 00:39:37,410
+Spirometrie ist eine Untersuchung der Luftfunktionen.
+
+259
+00:39:37,410 --> 00:39:51,410
+Bei dieser Untersuchung hilft uns die Atemwegeprobleme, wie zum Beispiel Asthma, Rundschelle oder COPD,
+
+260
+00:39:51,410 --> 00:39:57,410
+um die Atemwege genau zu erkennen.
+
+261
+00:39:57,410 --> 00:40:17,440
+Bei dieser Untersuchung benutzt der Patient eine Probe einzuatmen.
+
+262
+00:40:17,440 --> 00:40:19,440
+Mundstück?
+
+263
+00:40:19,440 --> 00:40:27,440
+Mundstück, um tief einzuatmen und auszuatmen.
+
+264
+00:40:27,440 --> 00:40:39,440
+Bei dieser Untersuchung prüfen wir die Geschwindigkeit und die ...
+
+265
+00:40:39,440 --> 00:40:50,510
+Erste Sekunde?
+
+266
+00:40:50,510 --> 00:40:58,510
+Erste Sekunde, totale Atmung.
+
+267
+00:40:58,510 --> 00:41:06,510
+Ich konnte die richtige Worte nicht finden, Herr Oberarzt.
+
+268
+00:41:06,510 --> 00:41:16,510
+Mit einer Klammer auf die Nase soll der Patient tief einatmen und ausatmen.
+
+269
+00:41:16,510 --> 00:41:30,510
+Bei der Untersuchung sollen wir die Geschwindigkeit der Atmung und die Menge zu überprüfen.
+
+270
+00:41:30,510 --> 00:41:36,510
+Dafür braucht der Patient keine spezielle Vorbereitung.
+
+271
+00:41:36,510 --> 00:41:42,510
+Es gibt keine Komplikation oder Kontraindikationen bei dieser Untersuchung.
+
+272
+00:41:42,510 --> 00:41:55,100
+Nach der Untersuchung gibt es keine Anverschränkungen und der Patient kann seinen Alltag wie gewohnt fortsetzen.
+
+273
+00:41:55,100 --> 00:42:03,100
+Herr Kollegen, ich denke unsere Prüfung ist beendet.
+
+274
+00:42:03,100 --> 00:42:11,100
+Gehen Sie in die Info-Desk und nehmen Sie Ihre Zertifikat.
+
+275
+00:42:11,100 --> 00:42:21,100
+Ich wünsche Ihnen viel Erfolg in Ihrem Arbeitsweg.
+
+276
+00:42:21,100 --> 00:42:25,100
+Vielen Dank, Herr Oberarzt.
+
+277
+00:42:25,100 --> 00:42:37,090
+Ich habe das Volumen nicht in der Hand.
+
+278
+00:42:37,090 --> 00:42:47,090
+Sie können es in Englisch sagen.

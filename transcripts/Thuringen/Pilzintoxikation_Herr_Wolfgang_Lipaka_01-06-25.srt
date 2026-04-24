@@ -1,0 +1,1135 @@
+1
+00:00:02,190 --> 00:00:14,190
+Schönen guten Tag, mein Name ist Burcu. Ich bin auf dieser Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Anamnese-Gespräch durchführen. Sind Sie damit einverstanden?
+
+2
+00:00:14,190 --> 00:00:16,190
+Ja, natürlich.
+
+3
+00:00:16,190 --> 00:00:22,190
+Danke. Bitte fragen Sie nach, wenn Sie nicht etwas verstehen, okay?
+
+4
+00:00:22,190 --> 00:00:23,190
+Okay.
+
+5
+00:00:23,190 --> 00:00:25,190
+Wie heißen Sie denn?
+
+6
+00:00:25,190 --> 00:00:32,540
+Ich Wolfgang Lipascha.
+
+7
+00:00:32,540 --> 00:00:36,540
+Können Sie bitte Ihren Vor- und Nachnamen langsam beschreiben?
+
+8
+00:00:36,540 --> 00:00:48,540
+Ja, Wilhelm Otto Ludwig Friedrich Gustav Anton Samuel Nordpol Gustav Wolfgang.
+
+9
+00:00:48,540 --> 00:00:52,100
+Ja.
+
+10
+00:00:52,100 --> 00:01:03,100
+Und Ludwig Ida Paula Anton Cesar Heinrich Emil Richard Lipascha.
+
+11
+00:01:03,100 --> 00:01:07,100
+Okay. Herr Lipascha, wie alt sind Sie?
+
+12
+00:01:07,100 --> 00:01:13,100
+Ich bin 4 und 60.
+
+13
+00:01:13,100 --> 00:01:16,100
+Wann sind Sie genau geboren?
+
+14
+00:01:16,100 --> 00:01:23,100
+2. Oktober 1961.
+
+15
+00:01:23,100 --> 00:01:26,100
+Wie groß sind Sie?
+
+16
+00:01:26,100 --> 00:01:29,100
+1 Meter 85.
+
+17
+00:01:29,100 --> 00:01:32,510
+Und wie schwer sind Sie zu sein?
+
+18
+00:01:32,510 --> 00:01:35,510
+Ich bin 90 Kilogramm, Doktor.
+
+19
+00:01:35,510 --> 00:01:42,510
+Okay. Herr Lipascha, was kann ich für Sie tun? Was für Beschwerden haben Sie im Moment?
+
+20
+00:01:42,510 --> 00:01:46,510
+Ja, Doktor, ich habe starke Bauchschmerzen.
+
+21
+00:01:46,510 --> 00:01:53,030
+Seit wann haben Sie diese Schmerzen?
+
+22
+00:01:53,030 --> 00:01:59,030
+Seit gestern Abend habe ich diese Schmerzen, Herr Doktor.
+
+23
+00:02:00,030 --> 00:02:08,030
+Okay. Wo genau diese Schmerzen? Herr Lipascha, also ich meine Oberbauch oder Unterbauch, welche Seite?
+
+24
+00:02:08,030 --> 00:02:13,030
+Ja, ich habe Oberbauchschmerzen.
+
+25
+00:02:13,030 --> 00:02:21,210
+Und Rückenseite.
+
+26
+00:02:21,210 --> 00:02:24,210
+Was hat Ihr gesagt, Herr Doktor?
+
+27
+00:02:24,210 --> 00:02:30,210
+Also ich im Mittel, Oberbauch oder rechte Seite, linke Seite?
+
+28
+00:02:30,210 --> 00:02:32,210
+Oder überall im Oberbauch?
+
+29
+00:02:32,210 --> 00:02:37,160
+Ja, überall im Oberbauch.
+
+30
+00:02:37,160 --> 00:02:45,160
+Könnten Sie bitte diese Schmerzen genau beschreiben? Also sind Sie eher dumpf, drückend, stechend?
+
+31
+00:02:45,160 --> 00:02:52,330
+Die Schmerzen sind krampfartig, Doktor.
+
+32
+00:02:52,330 --> 00:03:00,330
+Krampfartig, okay. Herr Lipascha, sind diese Schmerzen plötzlich oder langsam aufgetreten?
+
+33
+00:03:00,330 --> 00:03:08,760
+Die Schmerzen treten plötzlich aus.
+
+34
+00:03:08,760 --> 00:03:18,760
+Okay. Wie stark sind diese Schmerzen auf eine Schmerzskala von 1 bis 10, wobei 1 sehr leichte 10 sehr starke Schmerzen entspricht?
+
+35
+00:03:18,760 --> 00:03:24,760
+Ja, ich denke 8 bis 9.
+
+36
+00:03:24,760 --> 00:03:29,760
+Okay. Das ist eine starke Schmerzen, Herr Lipascha. Also soll ich Ihnen ein Schmerz?
+
+37
+00:03:30,760 --> 00:03:40,760
+Ich verstehe Sie sehr gut. Soll ich Ihnen ein Schmerzmittel geben oder können Sie diese Schmerzen noch ein bisschen bis zum Ende des Gesprächs aushalten?
+
+38
+00:03:48,760 --> 00:03:52,760
+Okay. Haben Sie Allergie gegen irgendwelche Medikamente?
+
+39
+00:03:52,760 --> 00:03:57,760
+Allergie? Ja, ich habe Novalgenallergie.
+
+40
+00:03:57,760 --> 00:04:07,520
+Okay. Herr Lipascha, jetzt werde ich Ihnen einen Spasmolythika und einen Magenschutz geben, okay?
+
+41
+00:04:07,520 --> 00:04:11,520
+Okay. Und wie fühlen Sie sich jetzt besser, oder?
+
+42
+00:04:11,520 --> 00:04:15,520
+Ja, ich fühle mich besser, Doktor. Danke schön.
+
+43
+00:04:15,520 --> 00:04:22,520
+Okay, sehr gerne. Herr Lipascha, haben Sie diese Schmerzen früher auch gehabt? Ich meine, ähnliche Beschwerden früher?
+
+44
+00:04:22,520 --> 00:04:25,520
+Nein, Doktor. Es ist das erste Mal.
+
+45
+00:04:25,520 --> 00:04:32,520
+Okay. Haben Sie gegen diese Schmerzen ein Medikament eingenommen?
+
+46
+00:04:43,520 --> 00:04:49,520
+Okay. Und waren Sie wegen dieser Schmerzen beim anderen Arzt gewesen?
+
+47
+00:04:55,520 --> 00:05:03,520
+Ja. Das ganze Finkel nachdem ich ein Pilzgericht gegessen habe, Doktor.
+
+48
+00:05:03,520 --> 00:05:08,520
+Haben Sie gestern Abend Pilz gegessen?
+
+49
+00:05:08,520 --> 00:05:11,520
+Ja, ja. Pilz gegessen, ja, ja.
+
+50
+00:05:11,520 --> 00:05:20,520
+Okay. Herr Lipascha, haben Sie diese Pilze vom Supermarkt gekauft oder selbst gesammelt?
+
+51
+00:05:20,520 --> 00:05:37,520
+Nein. Gestern sind ich mit meinen Freunden nach Wald gegangen und die Pilze habe ich selbst gesammelt, ja.
+
+52
+00:05:37,520 --> 00:05:41,520
+Also nicht im Supermarkt gekauft, Doktor.
+
+53
+00:05:41,520 --> 00:05:57,820
+Okay. Herr Lipascha, hat jemand auch diese Pilze gegessen? Also gibt es jemand, das ähnliche Beschwerden hatte?
+
+54
+00:05:57,820 --> 00:06:00,820
+Oder nur Sie?
+
+55
+00:06:00,820 --> 00:06:08,820
+Ja, nein. Mein Freund hatte eine Probleme, ja.
+
+56
+00:06:08,820 --> 00:06:25,610
+Okay. Darf ich fragen, wie sind Sie zu uns gekommen? Also mit dem Rettungsdienst oder mit dem Auto oder Ihre Freunde haben Sie hier gebracht?
+
+57
+00:06:25,610 --> 00:06:32,610
+Ich bin mit meinem Auto gefahren, Doktor.
+
+58
+00:06:32,610 --> 00:06:33,610
+Selbst, ja?
+
+59
+00:06:33,610 --> 00:06:42,060
+Ja, selbst, ja.
+
+60
+00:06:42,060 --> 00:06:54,060
+Okay, alles klar. Herr Lipascha, haben Sie etwas außer Pilze gegessen? Ein Getränk oder andere Nahrungsmittel? Oder nur Pilze?
+
+61
+00:06:54,060 --> 00:06:58,180
+Nur Pilze, Doktor.
+
+62
+00:06:58,180 --> 00:07:01,180
+Okay. Leiden Sie unter Kopfschmerzen?
+
+63
+00:07:01,180 --> 00:07:05,180
+Ich habe keine Kopfschmerzen, nein.
+
+64
+00:07:05,180 --> 00:07:11,180
+Oder leiden Sie unter Sehstörungen oder Hörstörungen?
+
+65
+00:07:11,180 --> 00:07:18,560
+Ich habe keine Kopfschmerzen, nein.
+
+66
+00:07:18,560 --> 00:07:25,560
+Okay. Herr Lipascha, diese Fragen sind sehr wichtig bei uns, deswegen stelle ich diese Fragen, okay?
+
+67
+00:07:25,560 --> 00:07:26,560
+Okay.
+
+68
+00:07:26,560 --> 00:07:31,560
+Also haben Sie eine Hautfarbeveränderung wie Gelbsucht bemerkt?
+
+69
+00:07:31,560 --> 00:07:38,720
+Ich habe keine Kopfschmerzen, Doktor.
+
+70
+00:07:38,720 --> 00:07:44,720
+Okay. Leiden Sie unter Herzrasen oder Brustschmerzen?
+
+71
+00:07:44,720 --> 00:07:45,720
+Nein.
+
+72
+00:07:45,720 --> 00:07:55,280
+Das freut mich. Und leiden Sie unter Luftnot oder Husten?
+
+73
+00:07:55,280 --> 00:07:59,280
+Ich habe keine Husten oder Luftnot, nein, Doktor.
+
+74
+00:07:59,280 --> 00:08:04,280
+Okay, alles klar. Ist Ihnen übel oder mussten Sie erbrechen?
+
+75
+00:08:04,280 --> 00:08:15,460
+Ja, Doktor. Ich habe Übelkeit und ich musste mich mehrmals übergeben, ja.
+
+76
+00:08:15,460 --> 00:08:19,460
+Und wie sah das Erbrochen aus?
+
+77
+00:08:19,460 --> 00:08:25,460
+Es war gelblich und ein halbes Essen, ja.
+
+78
+00:08:25,460 --> 00:08:31,220
+Okay. Haben Sie Blut im Erbrochen bemerkt?
+
+79
+00:08:31,220 --> 00:08:35,220
+Ich habe kein Blut bemerkt, nein.
+
+80
+00:08:35,220 --> 00:08:46,220
+Okay. Herr Lipascha, haben Sie die Reste von Pilze oder mindestens ein Foto von Pilze?
+
+81
+00:08:47,220 --> 00:08:57,220
+Nein. Mein Freund hat mir gesagt, ich kenne alle Pilze und ich habe nicht ein Foto gemacht, nein.
+
+82
+00:08:57,220 --> 00:09:06,220
+Okay, alles klar. Wie ist Ihr Appetit? Also ich denke nicht gut, ja?
+
+83
+00:09:06,220 --> 00:09:11,220
+Ja, natürlich. Ich habe seitdem auch keinen Appetit mehr, Doktor.
+
+84
+00:09:11,220 --> 00:09:17,220
+Okay. Haben Sie in der Lässezeit unwirkulich ab- oder zugenommen?
+
+85
+00:09:17,220 --> 00:09:21,220
+Nein, immer gleichgewicht.
+
+86
+00:09:21,220 --> 00:09:26,220
+Okay. Fühlen Sie sich fieberig oder haben Sie Schüterfrost, Nachtschweiß?
+
+87
+00:09:26,220 --> 00:09:37,220
+Ja, ich fühle mich fieberig. Ich denke, ich habe Fieber, aber ich habe nicht gemessen.
+
+88
+00:09:37,220 --> 00:09:41,220
+Okay. Und Schüterfrost oder Nachtschweiß haben Sie?
+
+89
+00:09:41,220 --> 00:09:46,220
+Nein. Aber ich habe Schwindel, Doktor.
+
+90
+00:09:46,220 --> 00:09:51,220
+Okay. Das ist eine wichtige Information bei uns. Danke schön.
+
+91
+00:09:51,220 --> 00:09:55,480
+Ja.
+
+92
+00:09:55,480 --> 00:10:03,480
+Okay. Haben Sie Probleme mit dem Stuhlgang oder beim Wasserlassen?
+
+93
+00:10:03,480 --> 00:10:20,480
+Doktor, ich habe seit 40 Jahren eine Niereninsuffisiens. Ja, ich habe manchmal mit Wasserlassen Probleme, ja.
+
+94
+00:10:20,480 --> 00:10:30,480
+Also was meinen Sie damit? Gehen Sie sehr selten auf Toilette oder?
+
+95
+00:10:30,480 --> 00:10:33,480
+Ja, sehr selten.
+
+96
+00:10:33,480 --> 00:10:36,480
+Brennen Sie, Wasserlassen?
+
+97
+00:10:36,480 --> 00:10:41,480
+Ich habe keine Schmerzen beim Wasserlassen, nein.
+
+98
+00:10:41,480 --> 00:10:47,480
+Okay. Alles klar. Und haben Sie Probleme mit dem Stuhlgang? Ich meine Durchfall?
+
+99
+00:10:47,480 --> 00:10:50,480
+Nein, ich habe keine Probleme mit dem Stuhlgang.
+
+100
+00:10:50,480 --> 00:10:54,590
+Okay. Schlafen Sie gut?
+
+101
+00:10:54,590 --> 00:11:08,590
+Nach dem gestern schlafe ich nicht gut jetzt, aber normalerweise habe ich keine Schlafstörungen, nein.
+
+102
+00:11:08,590 --> 00:11:12,590
+Okay. Sind Sie vollständig gegen Kinderkrankheiten geimpft?
+
+103
+00:11:12,590 --> 00:11:15,590
+Ja, ich bin vollständig geimpft, Doktor.
+
+104
+00:11:16,590 --> 00:11:26,590
+Okay. Herr Liebhacker, Sie haben gesagt, dass Sie an Nierenversagen leiden seit 40 Jahren.
+
+105
+00:11:26,590 --> 00:11:27,590
+Ja.
+
+106
+00:11:27,590 --> 00:11:29,590
+Nehmen Sie dagegen ein Medikament ein?
+
+107
+00:11:29,590 --> 00:11:39,590
+Ich nehme keine Medikamente ein, aber ich muss meinen Lebensstil ändern.
+
+108
+00:11:39,590 --> 00:11:51,590
+Zum Beispiel kann ich nicht alle essen oder trinken, ja.
+
+109
+00:11:51,590 --> 00:11:55,590
+Okay. Aber keine Medikamente und keine Dialysen, ja?
+
+110
+00:11:56,590 --> 00:11:59,590
+Ja, keine Medikamente und keine Dialysen.
+
+111
+00:11:59,590 --> 00:12:05,590
+Okay. Alles klar. Und sonst noch etwas? Irgendwelche anderen Erkrankungen?
+
+112
+00:12:05,590 --> 00:12:15,590
+Seit 20 Jahren habe ich eine chronische Lungenkrankheit.
+
+113
+00:12:15,590 --> 00:12:20,990
+Meinen Sie COPD? Hab ich gehört?
+
+114
+00:12:20,990 --> 00:12:23,990
+Ja, richtig. Meine Hausarztin hat mir gesagt, ja.
+
+115
+00:12:23,990 --> 00:12:27,990
+Okay. Und nehmen Sie ein Medikament dagegen ein?
+
+116
+00:12:40,990 --> 00:12:43,990
+Haben Sie eine Medikamentliste dabei?
+
+117
+00:12:43,990 --> 00:12:45,990
+Nein.
+
+118
+00:12:45,990 --> 00:12:49,990
+Und wer ist Ihr Hausarzt oder Ihre Hausärztin?
+
+119
+00:12:49,990 --> 00:12:56,530
+Meine Hausarztin heißt Frau Fischer.
+
+120
+00:12:56,530 --> 00:13:00,530
+Okay. Ich werde Ihre Hausärztin kontaktieren für diese Details, okay?
+
+121
+00:13:00,530 --> 00:13:02,530
+Okay. Danke schön.
+
+122
+00:13:02,530 --> 00:13:04,530
+Sehr gerne. Und sonst noch etwas?
+
+123
+00:13:14,530 --> 00:13:19,510
+Und nehmen Sie dagegen ein Medikament ein?
+
+124
+00:13:19,510 --> 00:13:31,510
+Ja, ich nehme regelmäßig Aspirin 15 mg abends bis zum Frühstück morgens und bei Bedarf Ibuprofen gegen Schmerzen, ja.
+
+125
+00:13:31,510 --> 00:13:38,580
+Aspirin 500 mg?
+
+126
+00:13:38,580 --> 00:13:41,580
+Ja, nein, nein, 100 mg.
+
+127
+00:13:41,580 --> 00:13:45,580
+100 mg abends bis zum Frühstück?
+
+128
+00:13:45,580 --> 00:13:48,580
+Bis zum Frühstück morgens 5 mg.
+
+129
+00:13:48,580 --> 00:13:50,580
+5 mg, okay.
+
+130
+00:13:50,580 --> 00:13:55,580
+Und Sie nehmen Ibuprofen bei Bedarf ein?
+
+131
+00:13:55,580 --> 00:13:56,580
+Ja, bei Bedarf, ja.
+
+132
+00:13:56,580 --> 00:13:58,580
+Welche Dosierung kennen Sie?
+
+133
+00:13:58,580 --> 00:14:02,580
+500 mg.
+
+134
+00:14:02,580 --> 00:14:07,580
+Und wogegen nehmen Sie Ibuprofen ein? Darf ich fragen? Kopfschmerzen oder?
+
+135
+00:14:07,580 --> 00:14:12,580
+Ja, manchmal habe ich halbdicht Kopfschmerzen oder Rückenschmerzen, ja.
+
+136
+00:14:12,580 --> 00:14:20,580
+Ich arbeite als Busfahrer, manchmal habe ich Kopfschmerzen oder Nackenschmerzen, ja.
+
+137
+00:14:20,580 --> 00:14:26,580
+Okay, alles klar. Das war es, oder? Für die Erkrankungen?
+
+138
+00:14:26,580 --> 00:14:28,580
+Ja, das war es, ja.
+
+139
+00:14:28,580 --> 00:14:31,580
+Sind Sie schon einmal operiert worden?
+
+140
+00:14:31,580 --> 00:14:49,580
+Ja, operiert wurde ich bisher zweimal. Einmal wegen eines Leistungsbruchs links und einmal nach einem Sportunfall wegen einem Kniefraktur rechts, ja.
+
+141
+00:14:49,580 --> 00:14:54,820
+Und wann waren diese Operationen?
+
+142
+00:14:54,820 --> 00:15:07,820
+Das Leistungsbruch war sehr lange, ungefähr 20 Jahre alt. Kniefraktur vor 10 Jahren.
+
+143
+00:15:07,820 --> 00:15:16,820
+Okay. Nehmen Sie regelmäßig bei Bedarf außer genannten Medikamenten noch andere Medikamente ein?
+
+144
+00:15:16,820 --> 00:15:20,820
+Ja, ich nehme keine anderen Medikamente ein, Doktor.
+
+145
+00:15:20,820 --> 00:15:28,820
+Okay. Herr Lipaka, Sie haben gesagt, dass Sie eine Novalgenallergie haben. Wie umfasst sich diese Allergie?
+
+146
+00:15:28,820 --> 00:15:34,820
+Es äußert mit Ruckreis und Atemnot.
+
+147
+00:15:34,820 --> 00:15:41,380
+Und haben Sie irgendwelche anderen Allergien?
+
+148
+00:15:41,380 --> 00:15:44,380
+Ich habe keine anderen Allergien, Doktor.
+
+149
+00:15:44,380 --> 00:15:46,380
+Okay. Brauchen Sie?
+
+150
+00:15:46,380 --> 00:15:48,380
+Ja, leider.
+
+151
+00:15:48,380 --> 00:15:50,380
+Seit wann und wie viel?
+
+152
+00:15:50,380 --> 00:16:01,380
+Früher habe ich einen Schachtel pro Tag geraucht.
+
+153
+00:16:01,380 --> 00:16:03,380
+Wie lange?
+
+154
+00:16:03,380 --> 00:16:05,380
+Einen Schachtel.
+
+155
+00:16:05,380 --> 00:16:06,380
+Wie lange?
+
+156
+00:16:06,380 --> 00:16:08,380
+20 Jahre.
+
+157
+00:16:08,380 --> 00:16:09,380
+Okay.
+
+158
+00:16:09,380 --> 00:16:28,380
+Aber nach dem meiner, ich habe gesagt Herzinfarkt, ich weiß, ich muss nicht Zigarette rauchen, aber ich rauche 5 oder 6 Zigaretten täglich, leider.
+
+159
+00:16:28,380 --> 00:16:37,080
+Okay. Aber alle wenige Zigaretten sind ein wichtiger Schritt.
+
+160
+00:16:37,080 --> 00:16:43,080
+Herr Lipaka, gratuliere. Okay. Trinken Sie regelmäßig Alkohol?
+
+161
+00:16:43,080 --> 00:17:06,020
+Ja, ich trinke zwei oder drei Mal pro Woche ein Glas Wein abends. Ich muss jeden Tag nicht trinken, weil ich arbeite als Busfahrer, Doktor.
+
+162
+00:17:06,020 --> 00:17:14,020
+Ich verstehe. Okay. Bitte nehmen Sie die nächste Frage nicht persönlich. Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+163
+00:17:14,020 --> 00:17:19,020
+Ich nehme keine Drogen, nein.
+
+164
+00:17:19,020 --> 00:17:25,020
+Das freut mich. Leiden Ihre Eltern an chronischen Erkrankungen? Wie zum Beispiel Todesdurchdruck?
+
+165
+00:17:25,020 --> 00:17:45,900
+Mein Vater ist vor fünf Jahren an einer alten Schwache gestorben. Meine Mutter ist mit 67 Jahren an einer Niereninfusion gestorben.
+
+166
+00:17:45,900 --> 00:17:51,460
+Mein Gott. Haben Sie Kontakt?
+
+167
+00:17:51,460 --> 00:17:53,460
+Ich habe drei Kinder.
+
+168
+00:17:53,460 --> 00:17:55,460
+Ge-Schwister?
+
+169
+00:17:55,460 --> 00:17:59,460
+Nein, ich habe keine Geschwister.
+
+170
+00:17:59,460 --> 00:18:01,460
+Okay. Sind Sie verheiratet?
+
+171
+00:18:01,460 --> 00:18:03,460
+Ich bin geschieden.
+
+172
+00:18:03,460 --> 00:18:08,460
+Geschieden? Sie haben drei Kinder. Sind die Kinder gesund?
+
+173
+00:18:08,460 --> 00:18:18,460
+Mein Sohn ist gesund. Meine ältere Tochter leidet an Niereninfusion und die Jüngere haben das Down-Syndrom.
+
+174
+00:18:18,460 --> 00:18:33,010
+Es tut mir leid, zu hören. Okay. Herr Liebkner, das waren meine Fragen. Haben Sie Fragen an mich oder möchten Sie etwas hinzufügen?
+
+175
+00:18:33,010 --> 00:18:42,010
+Ja, Doktor. Was habe ich? Ich habe starke Bauchschmerzen, Schwindel. Ich bin schlecht.
+
+176
+00:18:42,010 --> 00:18:55,010
+Ich verstehe Sie sehr gut. Herr Liebkner, Sie haben selbst Pilze gesammelt und diese Pilze gegessen. Ich vermute, dass Sie eine Pilzvergiftung haben.
+
+177
+00:18:55,010 --> 00:19:04,010
+Deswegen werde ich Sie zuerst körperlich untersuchen. Dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen veranlassen. Okay?
+
+178
+00:19:05,010 --> 00:19:22,010
+Ich habe viel Angst, Doktor. Ich habe von der Internet- oder Fernseher gehört. Die Pilze sind sehr gefährlich für mich. Oder?
+
+179
+00:19:22,010 --> 00:19:33,010
+Also ja, das kann sein. Ohne Therapie ist Ihre Situation sehr gefährlich. Aber Sie haben eine gute Entscheidung getroffen, hierher zu kommen.
+
+180
+00:19:33,010 --> 00:19:41,010
+Sie sind jetzt im Krankenhaus in guten Händen bei uns. Wir machen alles für Sie tun. Machen Sie sich bitte keine Sorgen.
+
+181
+00:19:41,010 --> 00:19:50,010
+Okay, Doktor. Danke schön. Sehr gerne. Bitte nehmen Sie Platz im Wartezimmer. Ich bin gleich wieder da. Ja? Danke schön.
+
+182
+00:19:50,010 --> 00:20:06,340
+Herr Oberarzt, ich habe einen neuen Patienten aufgenommen und ich würde gerne über ihn berichten. Haben Sie kurz Zeit für mich?
+
+183
+00:20:06,340 --> 00:20:17,340
+Ja, bitte. Danke schön. Herr Wolfgang Liebkner ist 64 Jahre alt, 1,85 Meter groß und 90 Kilogramm schwer.
+
+184
+00:20:17,340 --> 00:20:37,340
+Herr Liebkner startet sich heute bei uns wegen seit gestern Abend bestehender starke Oberbauch oder epigastrischen Schmerzen vor.
+
+185
+00:20:37,340 --> 00:20:52,340
+Der Patient zufolge sei in den Schmerzen plötzlich aufgetreten und mit der Zeit schlimmer geworden.
+
+186
+00:20:52,340 --> 00:21:10,340
+Er berichtete, dass er mit seinen Freunden im Wald selbst Pilze gesammelt habe und er habe diese Pilze gegessen.
+
+187
+00:21:10,340 --> 00:21:27,340
+Die Schmerzen seien nach dem Pilzessen aufgetreten. Die Schmerzintensität wurde auf eine Schmerzskala mit 8 bis 9 von 10 bewertet.
+
+188
+00:21:27,340 --> 00:21:48,340
+Die Fragen nach Sefalgie, Sehstörung, Hörstörung, Ichterus, Angina Pectoris, Tachikardi, Dyspnoe, Trussis wurden verneint.
+
+189
+00:21:48,340 --> 00:22:03,340
+Er berichtete, dass er kein Foto oder keine Reste von Pilze habe.
+
+190
+00:22:03,340 --> 00:22:26,980
+Außerdem klagte er vertigo und der Patient sei selbst mit seinem Auto zu uns gekommen und er berichtete, dass die Schmerzen krampfartig seien.
+
+191
+00:22:26,980 --> 00:22:36,980
+Bei der vegetativen Anamnese seien die folgenden bekannt. Nausea mit mehrmaliger Emesis.
+
+192
+00:22:36,980 --> 00:23:00,980
+Er mit dem Erbruch sah gelblich und mit dem Essen Reste aus. Er habe kein Blut bemerkt. Schmerzbedingte Inapetens, Fieber, aber der Patient habe sein Fieber nicht gemessen.
+
+193
+00:23:00,980 --> 00:23:09,980
+Schmerzbedingte Schlafstörungen. Er sei vorständig gegen Kinderkrankheiten geimpft.
+
+194
+00:23:09,980 --> 00:23:30,640
+Anvorerkrankungen nannte er seit 40 Jahren bestehende Niereninsuffizienz, die mit Lebensstilveränderung behandelt worden sei.
+
+195
+00:23:30,640 --> 00:23:50,640
+Seit 20 Jahren bestehende COPD, vor 3 Jahren Diagnostisierte Myokardinfarkt, die mit einem Stent behandelt worden sei.
+
+196
+00:23:50,640 --> 00:24:02,640
+Er nehme Aspirin 100 mg abends, Visoprolol 5 mg morgens und Ibuprofen 500 mg bei Bedarf ein.
+
+197
+00:24:02,640 --> 00:24:12,640
+Er benutze ein Inhaliert gegen COPD. Der Name von Inhalieren sollte geklärt werden.
+
+198
+00:24:12,640 --> 00:24:28,640
+Vor 20 Jahren sei er an einer Hernia Ingunalis links operiert worden.
+
+199
+00:24:28,640 --> 00:24:50,110
+Vor 10 Jahren hat er sich eine Patellefraktur beim Sportunfall zugezogen, rechts operiert worden sei.
+
+200
+00:24:50,110 --> 00:24:56,110
+Er habe eine Novalgenallergie, die sich durch Prolitis und Dyspne äußert.
+
+201
+00:24:56,110 --> 00:25:06,110
+Er sei Raucher. Er rauche seit 3 Jahren 5-6 Zigaretten täglich.
+
+202
+00:25:06,110 --> 00:25:12,110
+Davor habe er eine Schachtel Zigaretten täglich 20 Jahre lang geraucht.
+
+203
+00:25:12,110 --> 00:25:22,110
+Er trinke 2-3 Mal ein Glas Wein abends. Drogenkonsum wurde verneint.
+
+204
+00:25:22,110 --> 00:25:34,110
+In der Familienanamnese gab er an, dass der Vater vor 5 Jahren an Altersschwäche verstorben sei.
+
+205
+00:25:34,110 --> 00:26:02,110
+Er hat 3 Kinder. Der Sohn sei gesund. Die ältere Tochter leide an Niereninsuffizienz und die jüngere Tochter leide an Trisomie 21.
+
+206
+00:26:02,110 --> 00:26:18,110
+Er sei Busfahrer von Beruf. Ich gehe von einem Verdacht auf eine Pilzintoxikation aus, da der Patient typische Symptome dafür aufweist.
+
+207
+00:26:18,110 --> 00:26:26,110
+Der Patient leidet unter starker Oberbauchschmerzen, krampfartiger Schmerzen.
+
+208
+00:26:26,110 --> 00:26:34,110
+Bei der Anamnese gab er ein Pilzessen.
+
+209
+00:26:34,110 --> 00:26:46,110
+Diese Symptome und auch Nausea, Emesis sprechen für eine Pilzintoxikation.
+
+210
+00:26:46,110 --> 00:27:05,610
+Als die Franzialdiagnosen kommen, Herz-Miochardinfarkt und Pancreatitis in Betracht.
+
+211
+00:27:05,610 --> 00:27:19,610
+Um meine Verdachtdiagnose zu bestätigen, würde ich zunächst bei den Patienten die Vitaparameter überwachen und eine körperliche Untersuchung durchführen.
+
+212
+00:27:19,610 --> 00:27:33,610
+Bei der körperlichen Untersuchung achte ich darauf, ob Icterus vorhanden ist und ich würde auch eine neurologische Untersuchung durchführen.
+
+213
+00:27:33,610 --> 00:27:44,610
+Bei der neurologischen Untersuchung achte ich darauf, ob Störungen der Motorik, Sensorik oder andere Funktionen vorliegen.
+
+214
+00:27:44,610 --> 00:27:54,610
+Zusätzlich ist eine Laboruntersuchung sinnvoll, um eine umfassende Diagnose zu gewährleisten.
+
+215
+00:27:54,610 --> 00:28:14,110
+Dabei würde ich Blutbild, CAP, BSG, Leberwerte, Nierenwerte, Gerümmungsparameter, Elektrolyten, Herz-Enzyme bestimmen lassen.
+
+216
+00:28:14,110 --> 00:28:21,110
+Danach würde ich ein EKG schreiben, um Myokarinfarkt auszuschließen.
+
+217
+00:28:21,110 --> 00:28:37,110
+Und darüber hinaus würde ich eine Röntgen des Abdomens durchführen, um eine Perforation auszuschließen.
+
+218
+00:28:37,110 --> 00:28:54,110
+Danach würde ich eine Abdominalzoonographie veranlassen, um die möglichen Pathologien, wie z.B. akute Pankreatitis oder Scholesistitis, auszuschließen.
+
+219
+00:28:54,110 --> 00:29:10,740
+Sollte sich die Verdachtdiagnose bestätigen, würde ich den Patienten stationär aufnehmen.
+
+220
+00:29:10,740 --> 00:29:20,740
+Dann würde ich einen Benülsenszugang legen und die Flüssigkeit zuvor, Analgetikum, Antimethykum verabreichen.
+
+221
+00:29:20,740 --> 00:29:29,740
+Als Akutmaßnahme würde ich Giftnotruf kontaktieren.
+
+222
+00:29:29,740 --> 00:29:47,940
+Dann würde ich Aktivkohle durchführen, um die Vergiftung zu behandeln.
+
+223
+00:29:47,940 --> 00:29:53,940
+Oder ich würde eine Magenspülung durchführen.
+
+224
+00:29:53,940 --> 00:30:07,940
+Der Patient leidet seit gestern Abend diese Beschwerden, aber wir sollen diese Behandlungskontrolle durchführen.
+
+225
+00:30:07,940 --> 00:30:20,940
+Ich würde ein gastroenterologisches Konsil anfordern, um die Therapie des Patienten zu optimieren.
+
+226
+00:30:20,940 --> 00:30:40,940
+Ich würde den Patienten zu intensiv Station einnehmen, um die Mitaparameter kontinuierlich zu überprüfen.
+
+227
+00:30:40,940 --> 00:30:50,940
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, würde ich mit der geplanten Untersuchung fortfahren.
+
+228
+00:30:50,940 --> 00:30:56,940
+Ist es möglich, in diesem Fall gastroenteritis zu verursachen?
+
+229
+00:30:56,940 --> 00:31:07,940
+Der Patient hat kein Problem mit dem Stuhlgang, aber es gibt eine Bauchschmerzen.
+
+230
+00:31:07,940 --> 00:31:10,940
+Es kann sein, Herr Oberarzt.
+
+231
+00:31:10,940 --> 00:31:18,940
+Er hat Pilze gegessen. Meine Verdachtdiagnose ist Pilzintoxikation.
+
+232
+00:31:18,940 --> 00:31:32,940
+Aber ich habe schon nicht gefragt, ob Sie diese Pilze gekocht oder roh gegessen haben.
+
+233
+00:31:32,940 --> 00:31:46,940
+Wenn der Patient diese Pilze roh gegessen hat, kann es auch eine salmonelle Infektion sein.
+
+234
+00:31:46,940 --> 00:31:56,800
+Ist es möglich, in diesem Fall Ulcosventrikulie zu verursachen?
+
+235
+00:31:56,800 --> 00:32:02,800
+Der Patient hat diese Beschwerden seit gestern Abend.
+
+236
+00:32:02,800 --> 00:32:12,800
+Das ist eine akute Anamnese bei den Patienten. Er hatte keine ähnlichen Beschwerden früher.
+
+237
+00:32:12,800 --> 00:32:23,800
+Bei einer Ulcosventrikulie sehen wir diese Beschwerden früher.
+
+238
+00:32:23,800 --> 00:32:27,800
+Ich denke, nicht so.
+
+239
+00:32:27,800 --> 00:32:35,800
+Aber es ist eine Differentialdiagnose.
+
+240
+00:32:35,800 --> 00:32:47,800
+Wir sollen auch bei diesen Patienten eine Pestofagogastrodendonskopie durchführen, um die möglichen Pathologien zu beurteilen.
+
+241
+00:32:47,800 --> 00:32:53,800
+Wie können wir Pancreatitis ausschließen?
+
+242
+00:32:53,800 --> 00:32:58,800
+Wir sollen zuerst eine Abdominal Sonographie durchführen.
+
+243
+00:32:58,800 --> 00:33:09,800
+Wir können bei der Ultraschalluntersuchung die Flüssigkeit feststellen.
+
+244
+00:33:09,800 --> 00:33:24,800
+Und wir können auch eine CT des Abdomens mit Kontrastmittel durchführen, um die akute Pancreatitis zu beurteilen.
+
+245
+00:33:24,800 --> 00:33:35,800
+Geben wir in diesem Fall Aktivkohlen?
+
+246
+00:33:35,800 --> 00:33:49,800
+Normalerweise geben wir Aktivkohle für die Patienten, die unter zwei Stunden Beschwerden haben.
+
+247
+00:33:49,800 --> 00:33:56,800
+Aber es gibt eine Möglichkeit für Amatoxinpilze.
+
+248
+00:33:56,800 --> 00:34:02,800
+Deswegen sollen wir eine Aktivkohle geben.
+
+249
+00:34:02,800 --> 00:34:13,800
+Nach 12 Stunden hat es keine Wirkung.
+
+250
+00:34:13,800 --> 00:34:21,800
+Sie haben gesagt, in diesem Fall würde ich eine Echokardiographie durchführen.
+
+251
+00:34:21,800 --> 00:34:24,800
+Können Sie uns eine Echokardiographie aufbauen?
+
+252
+00:34:24,800 --> 00:34:28,800
+Ja, habe ich gesagt, Herr Oberst.
+
+253
+00:34:28,800 --> 00:34:34,800
+Ich werde Sie über Echokardiographie aufklären.
+
+254
+00:34:34,800 --> 00:34:42,800
+Echokardiographie ist die Ultraschalluntersuchung des Herzens.
+
+255
+00:34:42,800 --> 00:34:58,800
+Diese Untersuchung hilft uns, die Herzwandstörungen, Herzklappenstörungen und andere Veränderungen genau zu erkennen.
+
+256
+00:34:58,800 --> 00:35:14,800
+Wir sollen vorher den Kopf mit einem Gel einschmieren, damit der Schallkopf fehlerfrei arbeitet.
+
+257
+00:35:14,800 --> 00:35:22,800
+Die Ultraschallwellen machen das Herz sichtbar und wir können das Herz auf einem Monitor sehen.
+
+258
+00:35:22,800 --> 00:35:29,800
+Die Ultraschallwellen sind schmerzfrei und strahlenfrei.
+
+259
+00:35:29,800 --> 00:35:34,800
+Diese Untersuchung dauert ca. 20-30 Minuten.
+
+260
+00:35:34,800 --> 00:35:43,800
+Dafür benötigt der Patient keine spezielle Vorbereitung und es gibt keine Komplikationen oder Kontaindikationen.
+
+261
+00:35:43,800 --> 00:35:54,110
+Nach der Untersuchung gibt es keine Einschränkungen und der Patient kann den Alltag wie gewohnt fortsetzen.
+
+262
+00:35:54,110 --> 00:36:05,820
+In diesem Fall würden Sie einen RSCP durchführen?
+
+263
+00:36:05,820 --> 00:36:13,820
+Es gibt akute Pankreatitis bei Differenzia Diagnosen.
+
+264
+00:36:13,820 --> 00:36:32,820
+Deswegen können wir einen RSCP durchführen, um die möglichen Gallengänge-Patologien oder Pankreas-Gangs-Patologien zu beurteilen.
+
+265
+00:36:34,350 --> 00:36:45,300
+Würden Sie in diesem Fall Flüssigkeitszufuhr?
+
+266
+00:36:45,300 --> 00:36:52,300
+Ja, das ist sehr wichtig. Der Patient leidet unter Nausea und mehrmaliger Emesis.
+
+267
+00:36:52,300 --> 00:37:07,300
+Deswegen sollen wir Flüssigkeitszufuhr und Elektrolyten geben, um die Elektrolyten-Balanz zu erhalten.
+
+268
+00:37:07,300 --> 00:37:12,300
+Okay.
+
+269
+00:37:12,300 --> 00:37:22,300
+Gibt es eine Antitoxin für die Pizzagie?
+
+270
+00:37:22,300 --> 00:37:36,300
+Wir sollen zuerst den Notfall-Vergift-Notruf kontaktieren.
+
+271
+00:37:36,300 --> 00:37:45,300
+Ich denke, es gibt spezielle Antitoxin für diese Intoxikation.
+
+272
+00:37:45,300 --> 00:37:54,300
+Aber ich bin mir nicht sicher mit diesen Details in diesem Thema, Herr Oberarzt.
+
+273
+00:37:54,300 --> 00:38:01,300
+Diese Intoxikation verursacht Leberversagen?
+
+274
+00:38:01,300 --> 00:38:11,300
+Ja, das ist ein großes Risiko für Leberversagen, Leberinsuffizienz.
+
+275
+00:38:11,300 --> 00:38:17,300
+Deswegen sollen wir Leberwerte kontrollieren.
+
+276
+00:38:17,300 --> 00:38:25,300
+Auch wir werden kontrollieren, ob der Patient Ikterus hat.
+
+277
+00:38:25,300 --> 00:38:33,190
+Ja, es gibt ein Risiko.
+
+278
+00:38:33,190 --> 00:38:52,960
+Okay, Herr Kollegen, wenn der Patient schwere Leberinfizienz hat, was empfehlen Sie den Patienten?
+
+279
+00:38:52,960 --> 00:39:18,980
+Also wenn die Leberwerte nicht stabiliert sind und wenn die Situation von Leber nicht irreversibel ist, würde ich eine Transplantation bei dem Patienten empfehlen.
+
+280
+00:39:19,980 --> 00:39:26,980
+Gibt es ein schwerer Punkt? Man braucht eine Lebertransplantation.
+
+281
+00:39:26,980 --> 00:39:34,980
+Heute sage ich, es ist nicht so einfach.
+
+282
+00:39:34,980 --> 00:39:43,980
+Herr Kollegen, bitte gehen Sie auf unser Infodesk und nehmen Sie Ihre Zertifizierung.
+
+283
+00:39:43,980 --> 00:39:49,980
+Okay, ich wünsche Ihnen viel Erfolg für Ihr Arbeitsweg.
+
+284
+00:39:49,980 --> 00:39:53,980
+Vielen Dank, Herr Oberarzt. Sie sind sehr nett. Danke schön.

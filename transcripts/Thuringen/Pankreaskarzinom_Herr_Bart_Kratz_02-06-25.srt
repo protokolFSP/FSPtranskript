@@ -1,0 +1,1019 @@
+1
+00:00:00,000 --> 00:00:04,000
+Okay. Wie heißen Sie denn?
+
+2
+00:00:04,000 --> 00:00:08,000
+Mein Name ist Barto Kratz.
+
+3
+00:00:08,000 --> 00:00:14,000
+Können Sie bitte wieder abholen? Ich habe vielleicht einen Akustik.
+
+4
+00:00:14,000 --> 00:00:24,000
+Ja. B-A-R-T-O-Barto, mein Name.
+
+5
+00:00:24,000 --> 00:00:31,730
+B-A-R-A-T-Z, Kratz.
+
+6
+00:00:31,730 --> 00:00:34,730
+Okay. Herr Kratz, ja?
+
+7
+00:00:34,730 --> 00:00:35,730
+Ja, ja.
+
+8
+00:00:35,730 --> 00:00:38,730
+Okay. Herr Kratz, wie alt sind Sie?
+
+9
+00:00:38,730 --> 00:00:43,900
+Ich bin 54 Jahre alt, Doktor.
+
+10
+00:00:43,900 --> 00:00:46,900
+Wann sind Sie genau geboren?
+
+11
+00:00:46,900 --> 00:00:55,730
+6. Juni 1970.
+
+12
+00:00:55,730 --> 00:00:57,730
+Wie groß sind Sie?
+
+13
+00:00:57,730 --> 00:01:02,730
+Ich bin 1 Meter und 68.
+
+14
+00:01:02,730 --> 00:01:09,330
+68, ja? Okay. Und wie schwer sind Sie zuzeit?
+
+15
+00:01:09,330 --> 00:01:13,330
+Ich bin 70 Kilo.
+
+16
+00:01:13,330 --> 00:01:20,330
+Okay. Danke für die Information, Herr Kratz. Was kann ich für Sie tun? Was für Beschwerden haben Sie im Moment?
+
+17
+00:01:21,330 --> 00:01:35,330
+Ja, Doktor. Ich bin heute zu Ihnen gekommen, weil ich habe sehr starke Rückenschmerzen.
+
+18
+00:01:35,330 --> 00:01:40,120
+Seit wann haben Sie diese Schmerzen?
+
+19
+00:01:40,120 --> 00:01:47,740
+Ich habe seit 6 Monaten.
+
+20
+00:01:47,740 --> 00:01:53,740
+Okay. Herr Kratz, wo genau diese Schmerzen? Ich meine, Mittelrücken oder rechte Seite, linke Seite?
+
+21
+00:01:53,740 --> 00:02:01,740
+Ja, Doktor. Diese Schmerzen sind guterformig.
+
+22
+00:02:01,740 --> 00:02:08,300
+Okay. Und streiten diese Schmerzen irgendwo hin aus?
+
+23
+00:02:08,300 --> 00:02:16,300
+Ja, ich habe nicht bemerkt. Immer ganz guterformig.
+
+24
+00:02:16,300 --> 00:02:22,300
+Okay, ich verstehe. Könnten Sie bitte diese Schmerzen genau beschreiben?
+
+25
+00:02:22,300 --> 00:02:27,300
+Also sind Sie eher drückend, stechend, dumpf?
+
+26
+00:02:27,300 --> 00:02:32,300
+Ja, die Schmerzen sind krampartig, Doktor.
+
+27
+00:02:32,300 --> 00:02:44,380
+Krampartig, okay. Und sind diese Schmerzen dauerhaft oder gehen Sie auch wieder weg? Ich meine, wellenformig zum Beispiel?
+
+28
+00:02:44,380 --> 00:02:57,380
+Ja, immer diese Schmerzen dauerhaft. Aber manchmal verschlimmert, manchmal verbessert.
+
+29
+00:02:57,380 --> 00:03:02,330
+Bisschen verleumt für mich, ja.
+
+30
+00:03:02,330 --> 00:03:05,330
+Okay, ich verstehe.
+
+31
+00:03:05,330 --> 00:03:16,330
+Und Herr Kratz, wie stark sind die Schmerzen auf einer Schmerzskala von 1 bis 10, wobei 1 sehr leicht, 10 sehr starke Schmerzen entspricht?
+
+32
+00:03:16,330 --> 00:03:22,330
+Die Schmerzen sind 8 von 10, Doktor.
+
+33
+00:03:22,330 --> 00:03:34,330
+Okay, das ist eine starke Schmerzen. Herr Kratz, soll ich Ihnen ein Schmerzmittel geben oder können Sie diese Schmerzen noch ein bisschen bis Ende der Sprechen aushalten?
+
+34
+00:03:34,330 --> 00:03:38,330
+Ich bin ein bisschen geduldig, Doktor.
+
+35
+00:03:38,330 --> 00:03:44,330
+Okay, bitte sagen Sie mir sofort Bescheid, wenn Sie ein Schmerzmittel benötigen, okay?
+
+36
+00:03:44,330 --> 00:03:46,330
+Okay, danke schön.
+
+37
+00:03:46,330 --> 00:03:49,330
+Ich werde mich beeilen, ja.
+
+38
+00:03:49,330 --> 00:04:03,330
+Gibt es eine bestimmte Auslöser für diese Schmerzen, haben Sie bemerkt? Wie zum Beispiel eine Körperhaltung oder Essen oder stressige Situation?
+
+39
+00:04:03,330 --> 00:04:09,330
+Nein, ich habe nicht bemerkt, Doktor.
+
+40
+00:04:09,330 --> 00:04:15,330
+Und gibt es etwas, das die Schmerzen verschlimmert oder lindert?
+
+41
+00:04:15,330 --> 00:04:18,330
+Immer verschlimmert.
+
+42
+00:04:18,330 --> 00:04:22,820
+Immer schlimmer geworden, ja?
+
+43
+00:04:22,820 --> 00:04:23,820
+Ja, ja.
+
+44
+00:04:23,820 --> 00:04:28,820
+Ich verstehe. Und sind diese Schmerzen plötzlich oder langsam aufgetreten?
+
+45
+00:04:28,820 --> 00:04:32,170
+Plötzlich, Doktor.
+
+46
+00:04:32,170 --> 00:04:38,170
+Okay. Herr Kratz, haben Sie früher ähnliche Beschwerden gehabt?
+
+47
+00:04:38,170 --> 00:04:42,820
+Nein.
+
+48
+00:04:42,820 --> 00:04:51,820
+Okay, und waren Sie in den letzten sechs Monaten, ich meine, beim anderen Arzt gewesen?
+
+49
+00:04:51,820 --> 00:05:19,820
+Ja, ich bin beim Arzt gegangen, aber er hat mir gesagt, ich habe Magenprobleme und sie hat mir eine Medikamente eingenommen.
+
+50
+00:05:19,820 --> 00:05:21,820
+Aber das ist nicht geholfen, Doktor.
+
+51
+00:05:21,820 --> 00:05:23,820
+Magenschutz, meinen Sie?
+
+52
+00:05:23,820 --> 00:05:24,820
+Ja.
+
+53
+00:05:24,820 --> 00:05:27,820
+Kennen Sie den Namen von diesem Medikament oder?
+
+54
+00:05:27,820 --> 00:05:30,820
+Ich erinnere mich nicht, nein.
+
+55
+00:05:30,820 --> 00:05:35,820
+Okay. Herr Kratz, wer ist Ihr Hausarzt oder Ihre Hausärztin?
+
+56
+00:05:35,820 --> 00:05:39,820
+Mein Hausarzt ist Herr Sanatci.
+
+57
+00:05:39,820 --> 00:05:47,140
+Okay. Ich werde Ihren Hausarzt kontaktieren für diese Details, ja?
+
+58
+00:05:47,140 --> 00:05:49,140
+Okay, danke schön.
+
+59
+00:05:49,140 --> 00:06:03,140
+Okay, und haben Sie in den letzten sechs Monaten außer diesen Magenschutz-Tabletten noch andere Medikamente wie zum Beispiel Schmerzmittel eingenommen?
+
+60
+00:06:03,140 --> 00:06:14,140
+Ja, Doktor. Ich habe viele Mal eine Ibuprofen-Tablette eingenommen, aber das hat mir nicht geholfen.
+
+61
+00:06:14,140 --> 00:06:17,140
+Kennen Sie die Dosierung von Ibuprofen?
+
+62
+00:06:17,140 --> 00:06:21,140
+Ja, 500 mg.
+
+63
+00:06:21,140 --> 00:06:24,140
+Okay, alles klar.
+
+64
+00:06:24,140 --> 00:06:37,270
+Okay. Herr Kratz, haben Sie in der letzten Zeit eine Hautfarbeveränderung, wie zum Beispiel Gelbsucht, bemerkt?
+
+65
+00:06:37,270 --> 00:06:46,270
+Ja, Doktor. Mir ist aufgefallen, dass meine Haut gelb geworden ist.
+
+66
+00:06:46,270 --> 00:06:52,060
+Okay. Leiden Sie unter Bauchschmerzen, Herr Kratz?
+
+67
+00:06:52,060 --> 00:06:57,060
+Bauchschmerzen? Ich habe nicht bemerkt, nein.
+
+68
+00:06:57,060 --> 00:06:59,060
+Nur Hörnukenschmerzen, ja?
+
+69
+00:06:59,060 --> 00:07:00,060
+Ja.
+
+70
+00:07:00,060 --> 00:07:12,060
+Okay. Und haben Sie in der letzten Zeit eine Veränderung mit dem Stuhlgang oder mit dem Urin bemerkt? Ich meine...
+
+71
+00:07:12,060 --> 00:07:30,110
+Ja, Sie haben recht. Ich erinnere, mein Urin ist dunkel und der Stuhlgang ist hell, weiß und fett.
+
+72
+00:07:30,110 --> 00:07:33,110
+Leiden Sie unter Durchfall?
+
+73
+00:07:33,110 --> 00:07:39,110
+Ich habe nicht bemerkt. Aber mein Stuhlgang ist hell.
+
+74
+00:07:39,110 --> 00:07:44,000
+Okay, alles klar.
+
+75
+00:07:44,000 --> 00:07:47,000
+Leiden Sie unter Juckreiz?
+
+76
+00:07:47,000 --> 00:08:00,290
+Ja, seit ein paar Wochen habe ich außerdem starken Juckreiz am Rücken, ja.
+
+77
+00:08:00,290 --> 00:08:15,290
+Okay. Herr Kratz, haben Sie vergrößerte Lymphknoten in der Achselhöhle oder in dem leichten Bereich bemerkt oder am Hals?
+
+78
+00:08:15,290 --> 00:08:21,290
+Ich habe nicht unter suchen, Doktor. Ich bin nicht Arzt. Aber ich habe nicht bemerkt.
+
+79
+00:08:21,290 --> 00:08:29,290
+Okay, alles klar. Leiden Sie unter Brustschmerzen oder Herzrasen?
+
+80
+00:08:29,290 --> 00:08:34,290
+Ich habe keine Desebechwerden, nein.
+
+81
+00:08:34,290 --> 00:08:39,290
+Okay. Und darf ich fragen, leiden Sie unter Husten oder Luftnot?
+
+82
+00:08:39,290 --> 00:08:42,290
+Ich habe nicht bemerkt, nein.
+
+83
+00:08:42,290 --> 00:08:49,290
+Das freut mich. Herr Kratz, ist Ihnen übel oder mussten Sie erbrechen?
+
+84
+00:08:49,290 --> 00:08:56,290
+Übel, erbrechen? Ja, nein Doktor.
+
+85
+00:08:56,290 --> 00:09:03,290
+Okay. Und haben Sie Fieber, Schüttelfrost oder besonders Nachtschweiß?
+
+86
+00:09:03,290 --> 00:09:07,290
+Ich habe nicht bemerkt, nein.
+
+87
+00:09:07,290 --> 00:09:11,950
+Okay. Wie ist Ihr Pech?
+
+88
+00:09:11,950 --> 00:09:18,200
+Nein, ich habe keinen Apathit, Doktor. Ich habe keinen Apathit.
+
+89
+00:09:18,200 --> 00:09:25,200
+Okay. Und haben Sie in der letzten Zeit unwirklich abgenommen?
+
+90
+00:09:25,200 --> 00:09:35,200
+In den letzten sechs Monaten habe ich etwa zwölf Kilogramm abgenommen.
+
+91
+00:09:35,200 --> 00:09:39,540
+Okay.
+
+92
+00:09:39,540 --> 00:09:47,540
+Aber ich denke, deswegen meine Apathitlosigkeit. Aber ich bin nicht sicher, nein.
+
+93
+00:09:47,540 --> 00:09:51,540
+Okay. Wir werden recherchieren. Machen Sie bitte keine Sorgen.
+
+94
+00:09:51,540 --> 00:09:54,540
+Danke schön. Schlafen Sie gut?
+
+95
+00:09:54,540 --> 00:09:59,540
+Wegen dieser Schmerzen schlafe ich nicht gut.
+
+96
+00:09:59,540 --> 00:10:03,540
+Haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+97
+00:10:03,540 --> 00:10:09,540
+Ich denke, dass ich durchschlafen habe.
+
+98
+00:10:09,540 --> 00:10:28,460
+Okay. Herr Kratz, leiden Sie an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Bluthochdruck, Zuckerkrankheit, Bauchspeicheldrüse, Probleme?
+
+99
+00:10:28,460 --> 00:10:43,900
+Ja, ich habe seit etwa 15 Jahren Bluthochdruck. Ich nehme dafür Atorvastatin, allerdings nur einmal täglich 10 Milligramm.
+
+100
+00:10:43,900 --> 00:10:52,560
+Aber ich bin mir nicht sicher, ob ich das richtig mache, Doktor.
+
+101
+00:10:52,560 --> 00:11:02,560
+Okay. Herr Kratz, normalerweise verschreiben wir Atorvastatin gegen erhöhte Blutfettwerte. Haben Sie dieses Problem?
+
+102
+00:11:02,560 --> 00:11:18,560
+Ja, ich habe natürlich Bluthochdruck. Aber diese Medikamente meiner Nachbarin habe ich. Sie hat mir diese Medikamente gegeben.
+
+103
+00:11:18,560 --> 00:11:30,560
+Also Herr Kratz, wenn ich richtig verstanden habe, nehmen Sie Atorvastatin 10 Milligramm ohne ärztlichen Rat ein, richtig?
+
+104
+00:11:30,560 --> 00:11:41,560
+Ja, meine Nachbarin hat mir gesagt, dass ist sehr gut für Bluthochdruck. Ich nehme von meiner Nachbarin ein.
+
+105
+00:11:41,560 --> 00:11:55,560
+Okay. Herr Kratz, die Einnahme von Medikamenten ohne ärztlichen Rat kann für Sie sehr gefährlich sein. Ich empfehle Ihnen Ihren Hausarzt regelmäßig besuchen, okay?
+
+106
+00:11:55,560 --> 00:12:00,560
+Ja Doktor, ich nehme falsche Medikamente in der Oda.
+
+107
+00:12:00,560 --> 00:12:06,560
+Ja, ich denke so. Aber wir werden diese Situation nochmal kontrollieren, okay?
+
+108
+00:12:06,560 --> 00:12:08,560
+Okay, danke schön.
+
+109
+00:12:08,560 --> 00:12:18,560
+Okay, Sie leiden an Bluthochdruck, Sie haben gesagt. Nehmen Sie andere Medikamente dagegen ein oder nur Atorvastatin?
+
+110
+00:12:18,560 --> 00:12:28,560
+Nur Atorvastatin. Aber außerdem wurde bei mir vor einigen Jahren eine Hyperkolesterolämie festgestellt, Doktor.
+
+111
+00:12:28,560 --> 00:12:32,560
+Okay, und nehmen Sie dagegen ein Medikament ein?
+
+112
+00:12:32,560 --> 00:12:43,560
+Ich habe nicht viele Fettige essen, ja. Mit Diät.
+
+113
+00:12:43,560 --> 00:12:51,560
+Sie haben nur Diät, okay. Noch etwas? Andere Erkrankungen haben Sie?
+
+114
+00:12:51,560 --> 00:12:54,560
+Ich habe keine anderen Erkrankungen, nein.
+
+115
+00:12:54,560 --> 00:12:58,560
+Okay, das freut mich. Sind Sie schon einmal operiert worden?
+
+116
+00:12:58,560 --> 00:13:05,560
+Ja, ich wurde mit sechs Jahren am Blutdarm operiert.
+
+117
+00:13:05,560 --> 00:13:15,220
+Und vor etwa zehn Jahren habe ich eine Schraube in der rechten Hand bekommen.
+
+118
+00:13:15,220 --> 00:13:19,220
+Genauso gesagt wegen einem Arbeitsunfall, ja.
+
+119
+00:13:19,220 --> 00:13:23,330
+Okay.
+
+120
+00:13:23,330 --> 00:13:29,330
+In der nächsten Woche habe ich einen Termin für eine Kataraktoperation.
+
+121
+00:13:29,330 --> 00:13:38,940
+Derzeit bin ich dafür auch wieder getroffen, Doktor.
+
+122
+00:13:38,940 --> 00:13:48,940
+Okay, alles klar. Herr Kraz, nehmen Sie regelmäßig oder bei Bedarf außer genannten Medikamenten noch irgendwelche anderen Medikamente ein?
+
+123
+00:13:48,940 --> 00:13:50,940
+Außer Atorvastatin, ich meine.
+
+124
+00:13:50,940 --> 00:13:57,940
+Ich nehme andere Medikamente, nein, keine anderen Medikamente ein, Doktor.
+
+125
+00:13:57,940 --> 00:13:59,940
+Okay, haben Sie Allergie?
+
+126
+00:13:59,940 --> 00:14:03,940
+Ja, ich reagiere allergisch auf Birkenpollen.
+
+127
+00:14:03,940 --> 00:14:07,940
+Wie äußert sich diese Allergie?
+
+128
+00:14:07,940 --> 00:14:15,940
+Die äußert sich mit einer Rhinokonjunktivität und auf Ausstopp und Katzenhaare.
+
+129
+00:14:15,940 --> 00:14:26,940
+Da bekomme ich rote Augen und eine laufende Nase und trennende Augen und Yukreis, ja.
+
+130
+00:14:26,940 --> 00:14:33,570
+Okay. Herr Kraz, rauchen Sie?
+
+131
+00:14:33,570 --> 00:14:40,570
+Rauchen? Ja, Doktor, ich rauche leider.
+
+132
+00:14:40,570 --> 00:14:42,570
+Seit wann und wie viel?
+
+133
+00:14:43,570 --> 00:14:50,570
+Ich rauche 10 Zigaretten täglich seit 20 Jahren.
+
+134
+00:14:50,570 --> 00:14:56,570
+Seit 20 Jahren? Ja.
+
+135
+00:14:56,570 --> 00:14:59,570
+Trinken Sie regelmäßig Alkohol?
+
+136
+00:14:59,570 --> 00:15:06,570
+Ja, ich trinke jeden Tag etwa zwei bis drei Flaschen Bier.
+
+137
+00:15:06,570 --> 00:15:18,830
+Okay, nehmen Sie nicht persönlich, das ist eine Routinefrage.
+
+138
+00:15:18,830 --> 00:15:21,830
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+139
+00:15:21,830 --> 00:15:34,830
+Ja, in meiner Jugend zwischen 18 und 20 Jahren habe ich ein paar Mal Haschisch ausprobiert, Doktor.
+
+140
+00:15:34,830 --> 00:15:46,990
+Okay. Herr Kraz, leiden Ihre Eltern an chronischen Erkrankungen von Birkenpollen?
+
+141
+00:15:46,990 --> 00:16:04,820
+Mein Vater hatte eine Magengeschwür. Meine Mutter leidet an Zuckerkrankenheit.
+
+142
+00:16:04,820 --> 00:16:19,220
+Meine Mutter hat Diabetes und Fusssindrom. Sie leidet im Pflegeheim.
+
+143
+00:16:19,220 --> 00:16:26,250
+Okay. Haben Sie eine Schwester?
+
+144
+00:16:26,250 --> 00:16:28,250
+Ja, ich habe eine Schwester.
+
+145
+00:16:28,250 --> 00:16:32,260
+Ist sie gesund?
+
+146
+00:16:32,260 --> 00:16:38,260
+Leider. Meine Schwester hatte einen Kolonkarzinom, der operiert wurde.
+
+147
+00:16:38,260 --> 00:16:50,080
+Außerdem hat meine Mutter eine chronische Pankreatitis.
+
+148
+00:16:50,080 --> 00:16:58,300
+Okay, Herr Kraz, wie ist Ihr Familienstand?
+
+149
+00:16:58,300 --> 00:17:00,300
+Ich bin geschieden.
+
+150
+00:17:00,300 --> 00:17:02,300
+Haben Sie Kinder?
+
+151
+00:17:02,300 --> 00:17:06,300
+Nein, ich habe keine Kinder.
+
+152
+00:17:06,300 --> 00:17:08,300
+Wohnen Sie alleine?
+
+153
+00:17:08,300 --> 00:17:11,300
+Ja, ich wohne alleine.
+
+154
+00:17:11,300 --> 00:17:14,300
+Was sind Sie für einen Beruf?
+
+155
+00:17:14,300 --> 00:17:21,790
+Ich arbeite als Tiefbauarbeiter.
+
+156
+00:17:21,790 --> 00:17:28,790
+Okay. Herr Kraz, das waren meine Fragen. Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+157
+00:17:28,790 --> 00:17:34,790
+Ja, Doktor, was habe ich? Ich habe starke Rückenschmerzen.
+
+158
+00:17:34,790 --> 00:17:41,790
+Ich verstehe Sie sehr gut, Herr Kraz. Es ist zu früh, etwas genau zu sagen.
+
+159
+00:17:41,790 --> 00:17:50,790
+Aber ich vermute, dass Sie ein Problem mit der Bauchspeicheldrüse haben.
+
+160
+00:17:50,790 --> 00:17:56,790
+Ich werde zuerst Sie körperlich untersuchen.
+
+161
+00:17:56,790 --> 00:18:01,790
+Dann kann ich ein paar Untersuchungen veranlassen.
+
+162
+00:18:01,790 --> 00:18:08,790
+Sobald alle Ergebnisse da sind, werde ich Ihnen weitere Informationen mitteilen.
+
+163
+00:18:08,790 --> 00:18:16,790
+Doktor, ich habe viel Angst. Meine Schwester hatte einen Kolonkarzinom.
+
+164
+00:18:16,790 --> 00:18:19,790
+Ich habe viel Angst über Krebs.
+
+165
+00:18:19,790 --> 00:18:21,790
+Aber ich habe Krebs.
+
+166
+00:18:21,790 --> 00:18:27,790
+Ich verstehe Sie sehr gut, Herr Kraz. Aber machen Sie sich bitte keine Sorgen.
+
+167
+00:18:27,790 --> 00:18:39,790
+Also ohne weitere Untersuchungen kann ich leider keine bestimmte Diagnose bezüglich Krebses abgeben.
+
+168
+00:18:39,790 --> 00:18:46,790
+Zuerst müssen wir diese Untersuchungen veranlassen.
+
+169
+00:18:46,790 --> 00:18:52,790
+Danach können wir über Ihre aktuellen Fragen widersprechen.
+
+170
+00:18:53,790 --> 00:19:00,790
+Aber Sie sind jetzt im Krankenhaus und sind in guten Händen bei uns. Wir werden alles für Sie tun.
+
+171
+00:19:00,790 --> 00:19:11,790
+Aber ich habe viele Kilogramm in der Kurszeit abgenommen. Ich habe viel Angst, Doktor.
+
+172
+00:19:12,790 --> 00:19:21,790
+Sie haben recht. Aber Sie wissen, Herr Kraz, Ihre Beschwerden haben andere Gründe.
+
+173
+00:19:21,790 --> 00:19:26,790
+Sie haben auch Appetitlosigkeit.
+
+174
+00:19:26,790 --> 00:19:32,790
+Das kann für diese Gewichtsabnahme eine Ursache sein.
+
+175
+00:19:32,790 --> 00:19:39,790
+Wie gesagt, machen Sie sich bitte keine Sorgen. Der Krebs ist nicht 100% erblich.
+
+176
+00:19:40,790 --> 00:19:44,790
+Danke schön, Doktor. Ich war sehr froh.
+
+177
+00:19:44,790 --> 00:19:47,790
+Ich bin gleich wieder da, Herr Kraz.
+
+178
+00:19:47,790 --> 00:19:49,790
+Danke schön.
+
+179
+00:19:49,790 --> 00:19:57,500
+Die Basifaler haben sich auf Krebsen befestigt.
+
+180
+00:19:57,500 --> 00:20:02,500
+Du hast eine gute Antwort, aber ich habe die Frage wieder gebeten.
+
+181
+00:20:02,500 --> 00:20:04,500
+Sie sind auf dem Weg.
+
+182
+00:20:04,500 --> 00:20:07,500
+Herr Doktor, so farben Sie die Fragen.
+
+183
+00:20:07,500 --> 00:20:14,500
+Sie haben die Frage, ob ich in der Kurszeit in Krebs sein werde.
+
+184
+00:20:14,500 --> 00:20:19,500
+Die Fragen sind wie klassisch.
+
+185
+00:20:19,500 --> 00:20:22,500
+Ja, ich glaube, die beiden sind klassisch.
+
+186
+00:20:22,500 --> 00:20:30,690
+Ich kümmer mich um.
+
+187
+00:20:30,690 --> 00:20:33,690
+Okay, die Sitzung geht weiter. Ich gehe weiter.
+
+188
+00:20:33,690 --> 00:20:36,690
+Guten Abend, Herr Oberarzt.
+
+189
+00:20:36,690 --> 00:20:40,690
+Ich habe einen neuen Patienten aufgenommen.
+
+190
+00:20:40,690 --> 00:20:42,690
+Ich würde gerne über ihn berichten.
+
+191
+00:20:42,690 --> 00:20:44,690
+Haben Sie kurz Zeit für mich?
+
+192
+00:20:44,690 --> 00:20:45,690
+Ja, bitte.
+
+193
+00:20:45,690 --> 00:20:46,690
+Danke schön.
+
+194
+00:20:46,690 --> 00:20:54,690
+Herr Bartok Kraz ist 54 Jahre alt, 1,68 Meter groß und 70 Kilogramm schwer.
+
+195
+00:20:54,690 --> 00:21:07,690
+Herr Kraz stellte sich heute bei uns wegen seit sechs Monaten bestehender, persistierender Rückenschmerzen vor.
+
+196
+00:21:07,690 --> 00:21:16,690
+Dem Patienten zufolge seien die Schmerzen plötzlich aufgetreten und mit der Zeit schlimmer geworden.
+
+197
+00:21:16,690 --> 00:21:24,690
+Die Schmerzen seien krampfartig und wellensförmig.
+
+198
+00:21:24,690 --> 00:21:31,690
+Und er berichtete, dass die Schmerzen güterformig seien.
+
+199
+00:21:31,690 --> 00:21:38,690
+Die Schmerzintensität wurde auf einer Schmerzskala mit 8 von 10 bewertet.
+
+200
+00:21:38,690 --> 00:21:47,690
+Und die vielmalige Einnahme von Ibuprofen 500 Milligramm hätte keine Linderung der Schmerzen gebracht.
+
+201
+00:21:47,690 --> 00:22:01,690
+Der Patient berichtete, dass er früher wegen dieser Schmerzen bei seinem Hausarzt gewesen war.
+
+202
+00:22:01,690 --> 00:22:09,690
+Und er habe dagegen Antacid-Tabletten eingenommen.
+
+203
+00:22:09,690 --> 00:22:14,690
+Der Name von Tabletten sollte geklärt werden.
+
+204
+00:22:14,690 --> 00:22:31,060
+Der Patient berichtete über Icterus, dunkler Urin, Pulitis seit ein paar Wochen am Rücken.
+
+205
+00:22:31,060 --> 00:22:44,060
+Und Statole, die Fragen nach Lymphadrenopathie, Angina Pectoris, Tachikadi, Trussis und Lispne wurden verneint.
+
+206
+00:22:44,060 --> 00:22:52,730
+Bei der vegetativen Anamnese seien die Folgenden bekannt.
+
+207
+00:22:52,730 --> 00:23:08,730
+Inapetens, Gewichtsabnahme von 12 Kilogramm innerhalb von 6 Monaten und Insomnie in Form von Durchschlafstörungen.
+
+208
+00:23:08,730 --> 00:23:24,040
+Anvorerkrankungen nannte er seit 15 Jahren bestehende Altery hypertonie und seit einem Jahr bestehende Hyperkolesthylamine.
+
+209
+00:23:24,040 --> 00:23:39,040
+Der Patient nehme Otolastatin 10 Milligramm ohne ärztlichen Rat und er mache eine Diät gegen Hyperkolesthylamine.
+
+210
+00:23:39,040 --> 00:23:48,040
+Mit 16 Jahren sei bei ihm eine Apendektomie durchgeführt worden.
+
+211
+00:23:48,040 --> 00:24:12,040
+Vor 10 Jahren habe er sich eine rechten Hand Verletzung bei einem Arbeizunfall zugezogen, die operativ behandelt worden sei.
+
+212
+00:24:12,040 --> 00:24:26,040
+Der Patient hat einen Operationtermin nächste Woche wegen Katarakt.
+
+213
+00:24:26,040 --> 00:24:32,040
+Momentan benutzt er ein Augentropfen dagegen.
+
+214
+00:24:32,040 --> 00:24:40,040
+Er hat Beacon-Pollen-Allergie, die sich durch Rhinoconjunktivitis äußert.
+
+215
+00:24:40,040 --> 00:24:51,040
+Er hat Hausstab-Allergie und Katzenhaare-Allergie, die sich durch Rhinoconjunktivitis und Pulitis äußert.
+
+216
+00:24:51,040 --> 00:25:03,040
+Er ist Raucher. Er raucht seit 20 Jahren 10 Zigaretten täglich.
+
+217
+00:25:03,040 --> 00:25:23,040
+Er trinkt 2-3 Flaschen Bier täglich und im Jugend habe der Patient zwischen 18. und 20. Lebensjahr ein paar Mal Haschisch probiert.
+
+218
+00:25:23,040 --> 00:25:43,040
+In der Familienanamnese gab er an, dass der Vater an Ulcus ventriculi leide und die Mutter leide an Diabetes mellitus, Diabetische Fuß und Chronische Pankreatitis.
+
+219
+00:25:43,040 --> 00:25:51,040
+Die Eltern des Patienten wohnen in einem Pflegeheim.
+
+220
+00:25:51,040 --> 00:26:04,040
+Er habe eine Schwester, die an Kolonkarzinom leide und sie sei wegen Kolonkarzinom operiert worden.
+
+221
+00:26:04,040 --> 00:26:14,040
+Er sei geschieden, habe kein Kind und wohne alleine. Er sei Tiefbauarbeiter von dem Hof.
+
+222
+00:26:14,040 --> 00:26:30,040
+Ich gehe von einem Verdacht auf ein Pankreatkarzinom aus, da der Patient typische Symptome dafür aufweist.
+
+223
+00:26:30,040 --> 00:26:50,040
+Der Patient leidet unter Rückenschmerzen, guterformige Rückenschmerzen, Echterus, Stratore, dunkler Urin, Gewichtsabnahme von 12 kg innerhalb von 6 Monaten.
+
+224
+00:26:50,040 --> 00:26:58,040
+Diese Symptome sprechen für ein Pankreatkarzinom.
+
+225
+00:26:58,040 --> 00:27:14,040
+Als Differenzdiagnosen kommen Chronische Pankreatitis, Schole Lithiasis in Betracht.
+
+226
+00:27:14,040 --> 00:27:24,040
+Um meine Verdachtdiagnose zu bestätigen, würde ich zunächst bei den Patienten die Differenzparameter überwachen und eine körperliche Untersuchung durchführen.
+
+227
+00:27:24,040 --> 00:27:51,040
+Bei der körperlichen Untersuchung achte ich darauf, ob Echterus und andere Hautfarbeveränderungen, Acides, Druckschmerzen am Bauch vorhanden sind oder vergrößerte Lymphknoten vorhanden sind.
+
+228
+00:27:51,040 --> 00:27:59,040
+Zusätzlich ist eine Laboruntersuchung sinnvoll, um eine umfassende Diagnose zu gewährleisten.
+
+229
+00:27:59,040 --> 00:28:17,040
+Dabei würde ich Blutbild, CAP, BSG, Tumormarkers, Leberwerte, Nierenwerte, Amylase, Lipase, Gerinnungsparameter, Elektrolyten bestimmen lassen.
+
+230
+00:28:17,040 --> 00:28:31,040
+Danach würde ich eine Abdominalsonographie durchführen, um die möglichen Pathologien genau zu beurteilen.
+
+231
+00:28:31,040 --> 00:28:47,040
+Darüber hinaus würde ich eine CT des Abdomens mit Kontrastmittel veranlassen, um meine Verdachtdiagnose zu bestätigen.
+
+232
+00:28:47,040 --> 00:29:01,040
+Danach würde ich eine PET-CT durchführen, um die möglichen Metastasen genau zu überprüfen.
+
+233
+00:29:01,040 --> 00:29:18,040
+Sollte sich die Verdachtdiagnose bestätigen, würde ich den Patienten stationär aufnehmen und den Patienten einen venösen Zugang legen.
+
+234
+00:29:18,040 --> 00:29:33,040
+Ich würde Analgetika verbreiten und ein Onkologisches Konzil anfordern, um die Therapie des Patienten zu optimieren.
+
+235
+00:29:33,040 --> 00:29:53,830
+Gegebenenfalls würde ich eine EACP durchführen, um die mögliche Gallengang- oder Pankreatikagangsteine zu überprüfen und gleichzeitig zu entfernen.
+
+236
+00:29:53,830 --> 00:30:04,830
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit der geplanten Untersuchung fortfahren, Herr Oberarzt.
+
+237
+00:30:04,830 --> 00:30:12,830
+Herr Kollegen, Sie haben gesagt, dass Sie eine PET-CT durchführen würden. Können Sie uns die PET-CT aufklären?
+
+238
+00:30:12,830 --> 00:30:24,830
+Ja, gerne. Ich werde sie über PET-CT aufklären.
+
+239
+00:30:24,830 --> 00:30:42,830
+Der PET-CT gehört zu den bildgebenden Verfahren. Diese Untersuchung hilft uns, die Entzündungen, Tumore und Metastasen genau zu erkennen.
+
+240
+00:30:42,830 --> 00:30:53,830
+Diese Untersuchung benötigt nur noch eine geringe Strahlenbelastung und ist völlig chemisch frei.
+
+241
+00:30:53,830 --> 00:31:08,830
+Bei dieser Untersuchung verbreiten wir eine leichte radioaktive Substanz.
+
+242
+00:31:08,830 --> 00:31:28,830
+Dann warten wir ungefähr eine Stunde für die Verteilung der Stoffe regelmäßig in den Körper.
+
+243
+00:31:28,830 --> 00:31:44,830
+Dann machen wir eine CT-Scanning. Der Patient soll etwa 30 Minuten in einer CT-Röhre ruhig liegen.
+
+244
+00:31:44,830 --> 00:31:56,830
+Wenn der Patient eine Platzangst hat, können wir dem Patienten eine Berührungsmittel geben.
+
+245
+00:31:56,830 --> 00:32:15,830
+Vor der Untersuchung soll der Patient sechs Stunden nicht mehr essen oder trinken.
+
+246
+00:32:15,830 --> 00:32:27,830
+Es gibt einige Kontraindikationen, wie z.B. Schwangerschaft.
+
+247
+00:32:27,830 --> 00:32:39,830
+Nach der Untersuchung soll der Patient viel Wasser trinken, um die radioaktiven Stoffe schnell auszuscheiden.
+
+248
+00:32:39,830 --> 00:32:59,830
+Der Patient soll mit den schwangeren Personen oder Kindern kontaktieren, um zu vermeiden.
+
+249
+00:32:59,830 --> 00:33:18,060
+Herr Kollegen, ist es möglich, in diesem Falle gallen Blase zu mögen?
+
+250
+00:33:18,060 --> 00:33:37,840
+Der Patient leidet an Icterus, Piritus, Statura und dunkler Urin.
+
+251
+00:33:37,840 --> 00:34:06,320
+Das bedeutet, es gibt eine Staubung der Gallenblasen.
+
+252
+00:34:36,320 --> 00:34:45,590
+In diesem Fall würden Sie eine RCP durchführen?
+
+253
+00:34:45,590 --> 00:35:10,420
+Eine RCP würde sinnvoll bei diesem Patienten sein. Wir können eine Steine genau beurteilen und wir können gleichzeitig diesen Stein entfernen.
+
+254
+00:35:10,420 --> 00:35:23,580
+Ich habe keine Frage heute.
+
+255
+00:35:23,580 --> 00:35:31,580
+Vielen Dank, Herr Oberhans. Sie sind wirklich sehr nett. Danke.

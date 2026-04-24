@@ -1,0 +1,1491 @@
+1
+00:00:00,000 --> 00:00:12,000
+Guten Abend, mein Name ist Ucak. Ich bin auf dieser Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Analysegeschlecht durchführen. Sind Sie damit einverstanden?
+
+2
+00:00:12,000 --> 00:00:14,000
+Ja, natürlich Doktor.
+
+3
+00:00:14,000 --> 00:00:20,000
+Danke, bitte fragen Sie nach, wenn Sie etwas nicht verstehen, okay?
+
+4
+00:00:20,000 --> 00:00:21,000
+Okay.
+
+5
+00:00:21,000 --> 00:00:22,000
+Wie heißen Sie denn?
+
+6
+00:00:22,000 --> 00:00:25,000
+Ich heiße Peter Neumann.
+
+7
+00:00:25,000 --> 00:00:32,010
+Könnten Sie bitte Ihren Vornachnamen langsam buchstabieren?
+
+8
+00:00:32,010 --> 00:00:37,010
+P E E E R.
+
+9
+00:00:37,010 --> 00:00:38,010
+Peter?
+
+10
+00:00:38,010 --> 00:00:39,010
+Ja?
+
+11
+00:00:39,010 --> 00:00:47,010
+N E U M A Doppel N. Neumann.
+
+12
+00:00:47,010 --> 00:00:49,010
+Herr Neumann, wie alt sind Sie?
+
+13
+00:00:49,010 --> 00:00:52,010
+Ich bin 34 Jahre alt.
+
+14
+00:00:52,010 --> 00:00:55,010
+Wann sind Sie genau geworden?
+
+15
+00:00:55,010 --> 00:01:00,010
+3. Juni 1998.
+
+16
+00:01:00,010 --> 00:01:03,670
+Wie groß sind Sie?
+
+17
+00:01:03,670 --> 00:01:07,670
+Ich bin 75 Kilogramm.
+
+18
+00:01:07,670 --> 00:01:11,430
+Wie groß sind Sie?
+
+19
+00:01:11,430 --> 00:01:17,430
+1 Meter 75.
+
+20
+00:01:17,430 --> 00:01:26,430
+Okay. Danke für die Informationen. Herr Neumann, was kann ich für Sie tun? Was für Beschwerden haben Sie zuzeit?
+
+21
+00:01:26,430 --> 00:01:31,430
+Doktor, ich habe Beinschmerzen. Starke Beinschmerzen.
+
+22
+00:01:31,430 --> 00:01:35,430
+Seit wann haben Sie diese Schmerzen?
+
+23
+00:01:35,430 --> 00:01:37,430
+Seit zwei Tagen.
+
+24
+00:01:37,430 --> 00:01:45,260
+Okay. Wo genau sind die Schmerzen? Herr Neumann, also Oberschenkel, Unterschenkel?
+
+25
+00:01:45,260 --> 00:01:51,260
+Ja, die Schmerzen sind meine rechten Unterschenkel.
+
+26
+00:01:51,260 --> 00:02:01,670
+Können Sie bitte die Schmerzen genau beschreiben? Sind sie eher drückend, stechen, dumpf?
+
+27
+00:02:01,670 --> 00:02:06,670
+Drückend und dumpf, ja, ich denke.
+
+28
+00:02:06,670 --> 00:02:14,300
+Okay. Schreien diese Schmerzen irgendwo aus?
+
+29
+00:02:14,300 --> 00:02:23,300
+Ja, die Schmerzen schreien meine Kniekehle aus.
+
+30
+00:02:23,300 --> 00:02:31,490
+Sind diese Schmerzen plötzlich oder langsam aufgetreten?
+
+31
+00:02:31,490 --> 00:02:35,490
+Langsam aufgetreten, Doktor.
+
+32
+00:02:35,490 --> 00:02:43,800
+Okay. Und haben sich die Schmerzen mit der Zeit verändert? Ich meine, schlimmer geworden oder besser geworden?
+
+33
+00:02:43,800 --> 00:02:49,800
+Die Schmerzen sind in der Verlaufzeit immer schlimmer geworden.
+
+34
+00:02:49,800 --> 00:02:57,800
+Okay. Herr Neumann, wie stark sind die Schmerzen auf einer Schmerzskala von 1 bis 10?
+
+35
+00:02:57,800 --> 00:03:06,800
+Die Schmerzen sind 8 bis 9, Doktor. Ja, sehr starke Schmerzen, ich habe, ja.
+
+36
+00:03:06,800 --> 00:03:11,800
+Okay. Herr Neumann, das ist eine starke Schmerzen, Sie haben Recht.
+
+37
+00:03:11,800 --> 00:03:19,800
+Also soll ich Ihnen eine Schmerzmittel geben oder können Sie diese Schmerzen noch ein bisschen bis Ende des Sprechs aushalten?
+
+38
+00:03:19,800 --> 00:03:26,800
+Ja, Doktor, ich wäre Ihnen dankbar, wenn ich mir eine Schmerzmittel geben könnte, ja.
+
+39
+00:03:26,800 --> 00:03:32,800
+Ja, sehr gerne. Aber ich möchte wissen, ob Sie eine Allergie gegen irgendwelche Medikamente haben?
+
+40
+00:03:32,800 --> 00:03:40,800
+Nein, ich habe keine gegen irgendwelche Medikamente, nein.
+
+41
+00:03:40,800 --> 00:03:47,800
+Okay, super. Schwester Müller, bitte geben Sie den Patienten eine Schmerzmittel.
+
+42
+00:03:47,800 --> 00:03:52,800
+Okay, Herr Neumann, wie fühlen Sie sich jetzt besser?
+
+43
+00:03:52,800 --> 00:03:57,800
+Ja, danke schön, Doktor, ich fühle mich jetzt besser, danke schön.
+
+44
+00:03:57,800 --> 00:04:04,800
+Okay, das freut mich. Herr Neumann, also haben Sie früher ähnliche Beschwerden gehabt?
+
+45
+00:04:04,800 --> 00:04:08,800
+Nein, das ist das erste Mal.
+
+46
+00:04:08,800 --> 00:04:14,800
+Haben Sie gegen diese Schmerzen ein Medikament eingenommen?
+
+47
+00:04:14,800 --> 00:04:21,800
+Ich habe keine Medikamente eingenommen, Doktor.
+
+48
+00:04:21,800 --> 00:04:29,800
+Okay, alles klar. Und sind Sie schon wegen dieser Schmerzen beim anderen Arzt gewesen?
+
+49
+00:04:29,800 --> 00:04:34,800
+Nein, ich bin nicht anderer Arzt gewesen, Doktor.
+
+50
+00:04:34,800 --> 00:04:40,800
+Okay. Herr Neumann, sind diese Schmerzen dauerhaft da oder gehen Sie auch wieder weg?
+
+51
+00:04:40,800 --> 00:04:44,800
+Immer dauerhaft, Doktor, ja.
+
+52
+00:04:44,800 --> 00:04:55,800
+Gibt es etwas, das die Schmerzen lindert oder versteckt? Haben Sie bemerkt? Wie zum Beispiel Hochlagerung, Tieflagerung, Kühlung?
+
+53
+00:04:55,800 --> 00:05:00,800
+Ja, ich habe nicht bemerkt, Doktor, nein.
+
+54
+00:05:00,800 --> 00:05:15,800
+Okay. Haben Sie bestimmt Auflöser bemerkt für diese Schmerzen, also Verletzungen oder irgendwelche anderen Auslöser?
+
+55
+00:05:15,800 --> 00:05:22,800
+Ja, Doktor, ich habe bemerkt, ich war eine Urlaub.
+
+56
+00:05:22,800 --> 00:05:37,800
+Außerdem habe ich drückende Kopfschmerzen im Schittenbereich und eine laufende sowie verschobte Nase.
+
+57
+00:05:37,800 --> 00:05:54,370
+Ich war in Urlaub in Kreuthen, Doktor, und während der Rückfahrt war die Klimaanlage im Auto wegen der Hitze ständig an.
+
+58
+00:05:54,370 --> 00:05:59,370
+Ja, danach haben die Beschwerden angefangen.
+
+59
+00:05:59,370 --> 00:06:07,320
+Okay. Herr Neumann, wie lange hat diese Reise gedauert?
+
+60
+00:06:08,320 --> 00:06:27,320
+Ja, von meiner Urlaub habe ich mein Auto zurückgefahren. Es dauerte ca. 10 Stunden.
+
+61
+00:06:27,320 --> 00:06:34,860
+Okay, und diese Schmerzen sind nach dieser Reise aufgetreten, richtig?
+
+62
+00:06:34,860 --> 00:06:36,860
+Ja, Sie haben Recht, ja.
+
+63
+00:06:36,860 --> 00:06:44,860
+Okay, Herr Neumann, haben Sie am Bein eine Hautfarbeveränderung wie Rötung oder Schwellungen, Überwärmung bemerkt?
+
+64
+00:06:44,860 --> 00:07:00,860
+Ja, Doktor, mir ist auch gefallen, dass mein Unterchenkel geschwollen ist und die Haut ist gerötet und glänzt.
+
+65
+00:07:00,860 --> 00:07:18,590
+Und das Bein fühlt sich sehr heiß, ja, sehr heiß und geschwollen, als würde es brennen. Verstehen Sie, Doktor?
+
+66
+00:07:18,590 --> 00:07:25,590
+Ja, ich verstehe Sie sehr gut, Herr Neumann. Leiden Sie unter Kriben oder Taubarztgefühl am Bein?
+
+67
+00:07:25,590 --> 00:07:38,590
+Ich habe nicht bemerkt. Ich habe das Fieber nicht gemessen, aber ich fühle mich ein bisschen heiß, Doktor.
+
+68
+00:07:38,590 --> 00:07:45,610
+Fieber haben Sie, aber Sie haben das Fieber nicht gemessen?
+
+69
+00:07:45,610 --> 00:07:48,610
+Ja, nicht gemessen, ja. Ich habe es nicht gemessen, ja.
+
+70
+00:07:48,610 --> 00:07:52,610
+Leiden Sie unter Schutafrost oder Nachtschweiß?
+
+71
+00:07:52,610 --> 00:07:56,610
+Ich habe es nicht gemessen, nein.
+
+72
+00:07:56,610 --> 00:08:05,610
+Ok, alles klar. Herr Neumann, ist diese Rötung, ich meine am Bein, ist diese Rötung?
+
+73
+00:08:05,610 --> 00:08:19,610
+Ja, Doktor, aber ich habe erinnert, ja, in der letzten Zeit war ich in der Schweiz, ja, ich habe das Recht.
+
+74
+00:08:20,610 --> 00:08:23,610
+Tagsüber oder besonders in der Nacht?
+
+75
+00:08:23,610 --> 00:08:26,610
+In der Nacht, in der Nacht, Doktor, ja.
+
+76
+00:08:26,610 --> 00:08:27,610
+Ok.
+
+77
+00:08:27,610 --> 00:08:33,610
+Deswegen habe ich diese Probleme kaum Appetit.
+
+78
+00:08:33,610 --> 00:08:44,200
+Ok. Herr Neumann, ist diese Rötung am Bein, ich meine, gegrenzt oder?
+
+79
+00:08:44,200 --> 00:08:46,200
+Nein, nicht gegrenzt.
+
+80
+00:08:46,200 --> 00:08:47,200
+Überall?
+
+81
+00:08:47,200 --> 00:08:53,200
+Ja, ich habe nicht gemerkt, dass Grenze habe.
+
+82
+00:08:53,200 --> 00:08:57,200
+Ok. Haben Sie eine Insektbis oder Säckenbis gemerkt?
+
+83
+00:08:57,200 --> 00:09:04,300
+Nein, ich habe nicht gemerkt.
+
+84
+00:09:04,300 --> 00:09:10,300
+Ok. Sie haben gesagt, dass Sie unter Appetitlosigkeit leiden.
+
+85
+00:09:10,300 --> 00:09:11,300
+Ja.
+
+86
+00:09:11,300 --> 00:09:15,300
+Haben Sie in der letzten Zeit unwirkürlich ab- oder zugenommen?
+
+87
+00:09:15,300 --> 00:09:35,300
+Ich habe nicht gemerkt. Ich denke, ich bin immer, aber vielleicht habe ich zwei Kilo zugenommen, weil ich habe gesagt, ich bin Urlaub und es gibt viele leckere Essen, ja Doktor.
+
+88
+00:09:35,300 --> 00:09:43,300
+Ok. Ich verstehe Sie. Ok. Ist alles in Ordnung beim Wasserlassen und mit dem Stuhlgang?
+
+89
+00:09:43,300 --> 00:09:49,300
+Ich habe keine Probleme beim Wasserlassen und mit dem Stuhlgang, Doktor.
+
+90
+00:09:49,300 --> 00:09:52,300
+Schlafen Sie gut?
+
+91
+00:09:52,300 --> 00:10:05,300
+Normalerweise gut, aber seit zwei Tagen habe ich deswegen diese Probleme, Schlafstörungen, ja.
+
+92
+00:10:05,300 --> 00:10:08,300
+Haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+93
+00:10:08,300 --> 00:10:11,300
+Beide, ich denke.
+
+94
+00:10:11,300 --> 00:10:18,980
+Ok. Ist Ihnen übel oder mussten Sie erbrechen?
+
+95
+00:10:18,980 --> 00:10:22,980
+Nein, ich habe keine dieser Probleme.
+
+96
+00:10:22,980 --> 00:10:31,980
+Das freut mich. Herr Neumann, sind Sie vollständig gegen Kinderkrankheiten geimpft?
+
+97
+00:10:31,980 --> 00:10:38,980
+Ja, ich bin vollständig geimpft, so wie dreimal gegen Covid-19.
+
+98
+00:10:39,980 --> 00:10:46,980
+Ok. Herr Neumann, leiden Sie unter Luftnot oder Husten?
+
+99
+00:10:46,980 --> 00:10:51,480
+Ich habe nicht bemerkt, Doktor.
+
+100
+00:10:51,480 --> 00:10:54,480
+Und haben Sie Brustschmerzen?
+
+101
+00:10:54,480 --> 00:10:57,480
+Ich habe keine Brustschmerzen.
+
+102
+00:10:57,480 --> 00:11:00,480
+Ok, das freut mich. Leiden Sie unter Herzrasen?
+
+103
+00:11:00,480 --> 00:11:04,590
+Nein.
+
+104
+00:11:04,590 --> 00:11:11,590
+Ok, super. Herr Neumann, leiden Sie an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Brütthofdrug,
+
+105
+00:11:11,590 --> 00:11:14,590
+Zuckerkrankheit?
+
+106
+00:11:14,590 --> 00:11:19,590
+Seit drei Jahren habe ich Scholiak.
+
+107
+00:11:19,590 --> 00:11:26,950
+Nehmen Sie ein Medikament dagegen ein oder machen Sie nur Diät?
+
+108
+00:11:26,950 --> 00:11:29,950
+Ja, ich mache nur Diät.
+
+109
+00:11:29,950 --> 00:11:32,950
+Ok. Sonst noch etwas?
+
+110
+00:11:32,950 --> 00:11:38,950
+Seit vier Jahren habe ich Kramp-Adan an beiden Beinen, Doktor.
+
+111
+00:11:38,950 --> 00:11:45,740
+Nehmen Sie ein Medikament dagegen ein?
+
+112
+00:11:45,740 --> 00:11:50,740
+Nein, ich nehme keine Medikamenten ein.
+
+113
+00:11:50,740 --> 00:11:53,740
+Benutzen Sie Kompressionsstrüfe?
+
+114
+00:11:53,740 --> 00:11:56,740
+Ja, Sie haben Recht.
+
+115
+00:11:56,740 --> 00:12:03,050
+Benutzen Sie diese Strüfe regelmäßig?
+
+116
+00:12:03,050 --> 00:12:08,050
+Nicht regelmäßig, aber besser.
+
+117
+00:12:08,050 --> 00:12:11,050
+Ok. Sonst noch etwas?
+
+118
+00:12:11,050 --> 00:12:21,050
+Seit ich schon lange Rücken-Schmerzen habe und unteren Rückenbereich,
+
+119
+00:12:21,050 --> 00:12:29,050
+nehme ich Aspirin oder Ibuprofen 18 mg bei Bedarf.
+
+120
+00:12:29,050 --> 00:12:32,050
+800 mg?
+
+121
+00:12:32,050 --> 00:12:35,050
+Ja, ich habe es nicht verstanden.
+
+122
+00:12:35,050 --> 00:12:38,050
+Ok. Und Aspirin 100 mg oder?
+
+123
+00:12:38,050 --> 00:12:41,050
+Aspirin 500 mg.
+
+124
+00:12:41,050 --> 00:12:45,810
+Ok. Herr Neumann?
+
+125
+00:12:45,810 --> 00:12:48,810
+Ja, ich habe viele Erkrankungen.
+
+126
+00:12:48,810 --> 00:12:59,810
+Seit zwei Jahren habe ich Heishimoto, eine Autoimmunkrankung der Schüttehuse.
+
+127
+00:12:59,810 --> 00:13:02,810
+Ja, und nehmen Sie ein Medikament ein?
+
+128
+00:13:02,810 --> 00:13:12,210
+Ich nehme regelmäßig 100 mg, täglich morgens.
+
+129
+00:13:12,210 --> 00:13:24,760
+Außerdem habe ich seit vier Jahren eine chronische Nasen-Neben-Höhlenentzündung.
+
+130
+00:13:24,760 --> 00:13:30,760
+Und ich nehme auch Gelometrolkapseln.
+
+131
+00:13:30,760 --> 00:13:32,760
+Bitte?
+
+132
+00:13:32,760 --> 00:13:38,610
+Gelometrolkapseln.
+
+133
+00:13:38,610 --> 00:13:43,610
+Ok. Nehmen Sie das Medikament regelmäßig oder bei Bedarf?
+
+134
+00:13:43,610 --> 00:13:46,610
+Bei Bedarf.
+
+135
+00:13:46,610 --> 00:13:47,610
+Ok.
+
+136
+00:13:47,610 --> 00:13:58,610
+Seit vier Jahren habe ich eine Schüsselbeinbruch-Operation behandelt.
+
+137
+00:13:58,610 --> 00:14:00,610
+Welche?
+
+138
+00:14:00,610 --> 00:14:04,020
+Rechts.
+
+139
+00:14:04,020 --> 00:14:07,020
+Ok. Sind Sie schon einmal operiert?
+
+140
+00:14:07,020 --> 00:14:10,020
+Ich bin noch nicht operiert, Doktor.
+
+141
+00:14:10,020 --> 00:14:12,020
+Ok. Gott sei Dank.
+
+142
+00:14:12,020 --> 00:14:19,020
+Nehmen Sie regelmäßig oder bei Bedarf irgendwelche anderen Medikamente außer genannten?
+
+143
+00:14:19,020 --> 00:14:21,020
+Nein.
+
+144
+00:14:21,020 --> 00:14:29,020
+Ok. Sind Sie allergisch gegen irgendwelche Medikamente, Pflanzen oder Nahrungsmittel?
+
+145
+00:14:29,020 --> 00:14:36,020
+Ja, ich bin allergisch gegen Erdbeeren.
+
+146
+00:14:36,020 --> 00:14:38,020
+Wie reagieren Sie darauf?
+
+147
+00:14:38,020 --> 00:14:46,020
+Das äußert Durchfall und Bauchschmerzen.
+
+148
+00:14:46,020 --> 00:14:50,700
+Ok.
+
+149
+00:14:50,700 --> 00:14:52,700
+Herr Neumann, rauchen Sie?
+
+150
+00:14:52,700 --> 00:14:54,700
+Ja, Doktor. Leider. Ich rauche.
+
+151
+00:14:54,700 --> 00:14:57,700
+Seit wann und wie oft? Wie viel?
+
+152
+00:14:57,700 --> 00:15:04,700
+Seit zehn Jahren halb Schachtel Zigaretten täglich.
+
+153
+00:15:04,700 --> 00:15:06,700
+Ja.
+
+154
+00:15:06,700 --> 00:15:10,700
+Trinken Sie regelmäßig Alkohol?
+
+155
+00:15:10,700 --> 00:15:21,830
+Ja, ich trinke vier oder fünfmal pro Woche ein Glas Wein.
+
+156
+00:15:21,830 --> 00:15:26,830
+Ok. Bitte nehmen Sie die nächste Frage nicht persönlich. Das ist eine Routinefrage.
+
+157
+00:15:26,830 --> 00:15:29,830
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+158
+00:15:29,830 --> 00:15:35,830
+Ich habe keine mit den Drogen probiert.
+
+159
+00:15:35,830 --> 00:15:37,830
+Ok. Super.
+
+160
+00:15:37,830 --> 00:15:43,830
+Herr Neumann, leiden Ihre Eltern an chronischen Erkrankungen, wie zum Beispiel Bluthochdruck, Schlaganfall?
+
+161
+00:15:43,830 --> 00:15:59,750
+Ja, mein Vater hat Bluthochdruck und Zuckerkrankheit. Meine Mutter hat Hashimoto-Troiditis.
+
+162
+00:15:59,750 --> 00:16:05,180
+Haben Sie Geschwister?
+
+163
+00:16:05,180 --> 00:16:08,180
+Ich bin Einzelkind, Doktor.
+
+164
+00:16:08,180 --> 00:16:11,180
+Ok. Wie ist Ihr Familienstand?
+
+165
+00:16:11,180 --> 00:16:13,180
+Ich bin verheiratet.
+
+166
+00:16:13,180 --> 00:16:15,180
+Haben Sie Kinder?
+
+167
+00:16:15,180 --> 00:16:17,180
+Ich habe einen Sohn.
+
+168
+00:16:17,180 --> 00:16:19,180
+Ist er gesund?
+
+169
+00:16:19,180 --> 00:16:21,180
+Ja, er ist gesund.
+
+170
+00:16:21,180 --> 00:16:26,180
+Und mit wem wohnen Sie? Mit der Familie zusammen?
+
+171
+00:16:26,180 --> 00:16:30,180
+Ja, ich wohne mit meiner Frau und meinem Sohn.
+
+172
+00:16:30,180 --> 00:16:33,180
+Ok. Was sind Sie für einen Beruf?
+
+173
+00:16:34,180 --> 00:16:41,180
+Ich bin Verkaufsleiter in einer Firma.
+
+174
+00:16:41,180 --> 00:16:50,510
+Ok. Herr Neumann, ich möchte eine Frage über Ihre aktuellen Beschwerden stellen.
+
+175
+00:16:50,510 --> 00:16:57,510
+Sie haben gesagt, dass Sie unter Kopfschmerzen leiden. Das ist eine drückende Kopfschmerzen im Stirn.
+
+176
+00:16:57,510 --> 00:17:02,510
+Also wie stark sind diese Schmerzen von 1 bis 10?
+
+177
+00:17:02,510 --> 00:17:05,510
+5, Doktor.
+
+178
+00:17:05,510 --> 00:17:07,510
+5?
+
+179
+00:17:07,510 --> 00:17:08,510
+Ja.
+
+180
+00:17:08,510 --> 00:17:12,510
+Ok. Und Sie leiden auch unter verstopfenen Nasen?
+
+181
+00:17:12,510 --> 00:17:18,510
+Ja, ja. Verstopfenen Nasen und ein bisschen Schluchbeschwerden.
+
+182
+00:17:18,510 --> 00:17:23,510
+Ok. Und fühlen Sie sich ein Druckgefühl im Gesicht?
+
+183
+00:17:23,510 --> 00:17:27,510
+Ja, ja. Druckgefühl in meinem Stinn.
+
+184
+00:17:27,510 --> 00:17:35,940
+Ok.
+
+185
+00:17:35,940 --> 00:17:39,940
+Ich denke, ich habe ein bisschen Erkaltung, Doktor.
+
+186
+00:17:39,940 --> 00:17:42,940
+Ok. Ich habe verstanden.
+
+187
+00:17:42,940 --> 00:17:49,940
+Herr Neumann, das waren meine Fragen. Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+188
+00:17:49,940 --> 00:17:52,940
+Ja, Doktor. Was habe ich?
+
+189
+00:17:52,940 --> 00:18:04,940
+Ja, Herr Neumann. Es ist zu früh etwas genau zu sagen, aber ich vermute, dass Sie ein Problem mit dem Gefehl am Bein haben.
+
+190
+00:18:04,940 --> 00:18:17,940
+Ja, diese lange Reise kann diese Probleme verursachen. Deswegen möchte ich Sie zuerst körperlich untersuchen.
+
+191
+00:18:17,940 --> 00:18:23,940
+Und dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen veranlassen.
+
+192
+00:18:23,940 --> 00:18:30,940
+Sobald alle Ergebnisse da sind, werde ich mit Ihnen die weiteren Informationen mitteilen. Ok?
+
+193
+00:18:30,940 --> 00:18:46,940
+Ok, Doktor. Ich habe gesagt, ich verkaufe mich und ich muss jeden Tag laufen. Und das ist gefährlich für mich. Ich muss arbeiten.
+
+194
+00:18:46,940 --> 00:18:56,940
+Also Herr Neumann, laufen ist kein Problem bei uns. Also ich meine über diese Beschwerden.
+
+195
+00:18:56,940 --> 00:19:09,940
+Aber immer stehen ist ein Problem bei dieser Erkrankung. Deswegen empfehlen wir Ihnen regelmäßig zu laufen.
+
+196
+00:19:09,940 --> 00:19:18,940
+Aber wie gesagt, das ist nur eine Verdachtdiagnose und wir müssen diese Verdachtdiagnose bestätigen. Ok?
+
+197
+00:19:18,940 --> 00:19:21,940
+Ok, danke schön Doktor.
+
+198
+00:19:21,940 --> 00:19:22,940
+Ok, gerne.
+
+199
+00:19:22,940 --> 00:19:24,940
+Bleibe ich kranken?
+
+200
+00:19:24,940 --> 00:19:25,940
+Bitte?
+
+201
+00:19:25,940 --> 00:19:27,940
+Bleibe ich kranken?
+
+202
+00:19:27,940 --> 00:19:32,940
+Ja, also ein paar Stunden müssen Sie sicherlich bei uns bleiben.
+
+203
+00:19:32,940 --> 00:19:44,940
+Und wenn wir etwas auffälliges finden, kann es auch passieren, dass Sie ein paar Tage im Krankenhaus bleiben sollen. Ja?
+
+204
+00:19:44,940 --> 00:19:47,940
+Ok Doktor. Ich warte auf Sie. Danke schön.
+
+205
+00:19:47,940 --> 00:19:51,940
+Ok, bitte nehmen Sie Platz im Wartezimmer. Ich bin gleich wieder da.
+
+206
+00:19:51,940 --> 00:19:53,940
+Ok, danke schön.
+
+207
+00:19:53,940 --> 00:20:11,140
+Ich habe einen neuen Patienten aufgenommen und ich würde gerne über ihn berichten. Haben Sie kurz Zeit für mich?
+
+208
+00:20:11,140 --> 00:20:12,140
+Ja bitte.
+
+209
+00:20:12,140 --> 00:20:24,140
+Danke schön. Herr Peter Neumann ist 34 Jahre alt, 1,75 Meter groß und 75 Kilogramm schwer.
+
+210
+00:20:24,140 --> 00:20:37,140
+Herr Neumann stellte sich heute bei uns wegen seit zwei Tagen bestehender rechtseitiger Waden Schmerzen vor.
+
+211
+00:20:37,140 --> 00:20:46,140
+Der Patienten zufolge seien die Schmerzen langsam aufgetreten und mit der Zeit schlimmer geworden.
+
+212
+00:20:46,140 --> 00:21:01,140
+Die Schmerzen seien drückend und dumpf und würden in der rechten Kniekehle, also der Populitealregion, ausstrahlen.
+
+213
+00:21:01,140 --> 00:21:10,140
+Die Schmerzintensität wurde auf eine Schmerzskala von 8 bis 9 von 10 bewertet.
+
+214
+00:21:10,140 --> 00:21:18,140
+Der Patient habe gegen diese Schmerzen keine Medikamente eingenommen.
+
+215
+00:21:18,140 --> 00:21:31,140
+Der Patient berichtete, dass er einen Urlaub in Kroatien gemacht hat.
+
+216
+00:21:31,140 --> 00:21:52,140
+Er berichtete, dass diese Schmerzen nach einem 10-stündigen Dauertaus-Rückfahrt aus Kroatien aufgetreten.
+
+217
+00:21:52,140 --> 00:22:07,140
+Außerdem klagte er über Erithem und Kalor am rechten Waden.
+
+218
+00:22:07,140 --> 00:22:23,140
+Die Fragen nach Hypästhesie, Parästhesie, Insektibis, Dyspnoe, Tussis, Angina Pectoris und Tachikardie wurden verneint.
+
+219
+00:22:23,140 --> 00:22:34,140
+Außerdem erwähnte der Patient eine Sefalgie im Stimm.
+
+220
+00:22:34,140 --> 00:22:42,140
+Die Schmerzintensität wurde auf eine Schmerzskala von 5 bis 10 bewertet.
+
+221
+00:22:42,140 --> 00:22:58,650
+Der Patient klagte über Druckgefühl, verstopfene Nase und Schluckstörungen.
+
+222
+00:22:58,650 --> 00:23:02,650
+Bei der vegetativen Anamnese seien die Folgenden bekannt.
+
+223
+00:23:02,650 --> 00:23:07,650
+Pyrexie und nächtliche Hypertendose.
+
+224
+00:23:07,650 --> 00:23:12,650
+Der Patient habe das Fieber nicht gemessen.
+
+225
+00:23:12,650 --> 00:23:16,650
+Schmerzbedingte Inapetens.
+
+226
+00:23:16,650 --> 00:23:27,650
+Gewichtszunahme von 2 kg bei dem Urlaub.
+
+227
+00:23:27,650 --> 00:23:31,650
+Schmerzbedingte Insomnie.
+
+228
+00:23:31,650 --> 00:23:39,650
+Er sei vollständig gegen Kinderkrankheiten und 3 mal Covid 19 geimpft.
+
+229
+00:23:39,650 --> 00:23:47,650
+An Erkrankungen nannte er seit 3 Jahren bestehende Choliake.
+
+230
+00:23:47,650 --> 00:23:52,650
+Seit 4 Jahren bestehende beidseitige Varikose.
+
+231
+00:23:52,650 --> 00:23:55,650
+Seit langem bestehende Lumbargie.
+
+232
+00:23:55,650 --> 00:23:59,650
+Seit 2 Jahren bestehende Hashimoto-Tiroiditis.
+
+233
+00:23:59,650 --> 00:24:03,650
+Seit 4 Jahren bestehende chronische Sinusitis.
+
+234
+00:24:03,650 --> 00:24:10,650
+Und vor 8 Jahren diagnostizierte rechtseitige Klavikula-Fraktur.
+
+235
+00:24:10,650 --> 00:24:14,650
+Die konservativ behandelt wurden sei.
+
+236
+00:24:14,650 --> 00:24:21,650
+Der Patient machte eine Diät gegen Choliake.
+
+237
+00:24:21,650 --> 00:24:26,650
+Er benutze eine Kompressionsstrümpfe gegen Varikose.
+
+238
+00:24:26,650 --> 00:24:29,650
+Aber nicht regelmäßig bei Bedarf.
+
+239
+00:24:29,650 --> 00:24:39,650
+Er nehme Aspirin 500 mg, Ibuprofen 800 mg bei Bedarf gegen Lumbargie ein.
+
+240
+00:24:39,650 --> 00:24:48,650
+Und er nehme Eutrox 100 mg morgens gegen Hashimoto-Tiroiditis ein.
+
+241
+00:24:48,650 --> 00:24:58,650
+Und er nehme Gel mit Wohlkapseln bei Bedarf gegen Sinusitis ein.
+
+242
+00:24:58,650 --> 00:25:02,650
+Er sei bisher noch nicht operiert worden.
+
+243
+00:25:02,650 --> 00:25:10,650
+Er habe Allergie gegen Erdbeere, die sich durch Diarrhea und Abdominal Schmerzen äußert.
+
+244
+00:25:11,650 --> 00:25:18,650
+Er sei Raucher und rauche 10 Zigaretten täglich seit 10 Jahren.
+
+245
+00:25:18,650 --> 00:25:26,650
+Er trinke 4-5 mal 1 Glas Wein pro Woche.
+
+246
+00:25:26,650 --> 00:25:29,650
+Drogenkonsum wurde verneint.
+
+247
+00:25:29,650 --> 00:25:38,650
+In der Familienanamnese gab er an, dass der Vater an alte Hypertonie und Diabetes Melitis leide.
+
+248
+00:25:38,650 --> 00:25:42,650
+Die Mutter leide an Hashimoto-Tiroiditis.
+
+249
+00:25:42,650 --> 00:25:51,650
+Er sei Einzelkind verheiratet, habe einen gesunden Sohn.
+
+250
+00:25:51,650 --> 00:25:56,650
+Und er wohne mit seiner Familie zusammen.
+
+251
+00:25:56,650 --> 00:25:59,650
+Er sei Verkäufer in einer Firma.
+
+252
+00:25:59,650 --> 00:26:06,650
+Ich gehe von einem Verdacht auf eine TV-TV-Tv aus.
+
+253
+00:26:06,650 --> 00:26:10,650
+Da der Patient typische Symptome dafür aufweist.
+
+254
+00:26:10,650 --> 00:26:19,650
+Der Patient leidet unter rechtsseitige, drückende, dummfe Waderschmerzen.
+
+255
+00:26:19,650 --> 00:26:30,650
+Und er leidet unter Erythäme, Ödem, Kalor am Bein.
+
+256
+00:26:30,650 --> 00:26:36,650
+Und er habe eine Reise gemacht, bevor der Schmerzen.
+
+257
+00:26:36,650 --> 00:26:41,650
+Diese Symptome sprechen für eine TV-TV-Tv.
+
+258
+00:26:41,650 --> 00:26:53,650
+Als die Fernseherdiagnosen kommen, Pauvka, Erisipel in Betracht.
+
+259
+00:26:54,650 --> 00:27:02,650
+Um meine Verdacht Diagnose zu bestätigen, würde ich zunächst bei den Patienten die Vitaparameter überwachen.
+
+260
+00:27:02,650 --> 00:27:05,650
+Und eine körperliche Untersuchung durchführen.
+
+261
+00:27:05,650 --> 00:27:22,650
+Bei der körperlichen Untersuchung achte ich darauf, ob Erythäme, Ödem, Kalor, Pfeierzeichen, Meierzeichen, Hohmannzeichen.
+
+262
+00:27:22,650 --> 00:27:35,650
+Eine offene Wunde und andere Haut- und Nagelländerungen vorhanden sind.
+
+263
+00:27:35,650 --> 00:27:47,650
+Zusätzlich ist eine Laborntersuchung sinnvoll, um eine umfassende Diagnose zu gewährleisten.
+
+264
+00:27:47,650 --> 00:28:06,650
+Dabei würde ich Blutbild CAP, BSG, Leberwerte, Nierenwerte, Dedimere, Elektrolyten, Gerinnungsparameter bestimmen lassen.
+
+265
+00:28:06,650 --> 00:28:19,650
+Danach würde ich eine Dopplex Sonographie durchführen, um mögliche Pathologien zu beurteilen.
+
+266
+00:28:19,650 --> 00:28:34,650
+Und gegebenenfalls würde ich eine Phlebographie durchführen, um die Thrombose zu beurteilen und meine Verdacht Diagnose zu bestätigen.
+
+267
+00:28:34,650 --> 00:28:58,650
+Und ich würde auch eine CT-Angeographie durchführen, um eine Lungenembolie auszuschließen.
+
+268
+00:28:58,650 --> 00:29:08,650
+Der Patient leidet unter TvT, deswegen gibt es ein Risiko für eine Lungenembolie.
+
+269
+00:29:08,650 --> 00:29:21,650
+Sollte sich die Verdacht Diagnose bestätigen, würde ich die Patientennation aufnehmen.
+
+270
+00:29:21,650 --> 00:29:38,650
+Ich würde einen Venosynzugang legen und ich würde Antithrombosatherapie, also 5000 Einheiten Heparin verabreichen.
+
+271
+00:29:38,650 --> 00:29:52,650
+Mobilisation ist sehr wichtig bei den Patienten und ich würde eine Kompressionsstrümpfe bei der Therapie empfehlen.
+
+272
+00:29:52,650 --> 00:30:05,650
+Gegebenenfalls würde ich eine Thrombektomie durchführen, um die mögliche Thrombose zu behandeln.
+
+273
+00:30:05,650 --> 00:30:17,650
+Und ich würde auch ein gefäßt-chirurgisches Konzil anfordern, um die Therapie des Patienten zu optimieren.
+
+274
+00:30:17,650 --> 00:30:31,650
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit der geplanten Untersuchung fortfahren.
+
+275
+00:30:31,650 --> 00:30:39,650
+Herr Oberanzt, Sie haben gesagt, dass Sie bei der körperlichen Untersuchung Pfeier- und Meier-Seichen prüfen.
+
+276
+00:30:39,650 --> 00:30:44,650
+Können Sie uns Pfeier- und Meier-Seichen erklären?
+
+277
+00:30:44,650 --> 00:30:52,650
+Ja, also diese Zeichen sind sehr wichtig bei einer TV-UT.
+
+278
+00:30:52,650 --> 00:31:01,650
+Meier-Seichen ist die Schmerzen beim Kompression von Waden.
+
+279
+00:31:01,650 --> 00:31:13,650
+Und die Pfeier-Seichen ist die Schmerzen beim Drücken am Fußsohle.
+
+280
+00:31:13,650 --> 00:31:25,070
+Wie können wir Pfeier- und Meier-Seichen bei der körperlichen Untersuchung ausschließen?
+
+281
+00:31:25,070 --> 00:31:36,070
+Ja, bei der Pfeier- und Meier-Seichen sollen wir zuerst die Pfeil- und Meier-Seichen abtasten.
+
+282
+00:31:36,070 --> 00:31:44,070
+Es gibt so viele verschiedene Unterschiede zwischen TV-UT und Pfeier- und Meier-Seichen.
+
+283
+00:31:44,070 --> 00:31:51,070
+Pfeil- und Meier-Seichen sind eine Pfeil- und Meier-Seichen.
+
+284
+00:31:51,070 --> 00:32:12,070
+Auch wir können kalte Haut und alle Pzeil- und Meier-Seichen feststellen.
+
+285
+00:32:12,070 --> 00:32:23,020
+Wie können wir die Diagnostiksschaffung der Pauka ausschließen?
+
+286
+00:32:23,020 --> 00:32:32,020
+Ja, wir können eine Dopplex Sonographie durchführen, um die möglichen Pathologien zu beurteilen.
+
+287
+00:32:32,020 --> 00:32:45,020
+Außerdem können wir auch eine PTA durchführen, um die mögliche Pathologie genau zu beurteilen und gleichzeitig zu behandeln.
+
+288
+00:32:45,020 --> 00:33:00,020
+Und auch wir können die Knochen-Arm-Index überprüfen, um die Pauka zu diagnostizieren.
+
+289
+00:33:00,020 --> 00:33:07,020
+Okay. Wie können wir einen Zipel ausschließen?
+
+290
+00:33:07,020 --> 00:33:31,020
+Meistens können wir eine Ursache für den Zipel sehen, wie zum Beispiel eine offene Wunde, ein Insektbiss oder ähnliche Situationen.
+
+291
+00:33:31,020 --> 00:33:33,020
+Verletzung.
+
+292
+00:33:33,020 --> 00:33:43,020
+Verletzung. Ja, Verletzung. Also bei den Erisipel gibt es eine erhöhte Fieber.
+
+293
+00:33:43,020 --> 00:33:53,020
+Und auch wir können Lymphadenopathie am Leisten bereich, wegen der Infektion.
+
+294
+00:33:53,020 --> 00:34:02,020
+Erithem, also begrenzte Erithem und Ödem können wir auch feststellen bei den Erisipel.
+
+295
+00:34:02,020 --> 00:34:12,020
+Wie würden Sie TVT bei stationärer Aufnahme behandeln, außer Medikamente?
+
+296
+00:34:12,020 --> 00:34:27,020
+Ja, wenn möglich können wir eine Trombectomie durchführen. Das ist eine Katheterbehandlung.
+
+297
+00:34:27,020 --> 00:34:39,020
+Aber ich habe den Namen vergessen, Herr Oberarzt. Und ja, wir können eine Trombectomie durchführen.
+
+298
+00:34:39,020 --> 00:34:43,020
+Und Hochlagerbein?
+
+299
+00:34:43,020 --> 00:34:51,020
+Ja, also Hochlagerung, Kühlung sind auch sehr wichtig bei der Therapie.
+
+300
+00:34:51,020 --> 00:34:55,020
+Und Sie haben gesagt, Kompressionsschüttrunfe.
+
+301
+00:34:55,020 --> 00:34:57,020
+Ja, das stimmt.
+
+302
+00:34:57,020 --> 00:35:03,780
+Was empfehlen Sie den Patienten nach der Behandlung?
+
+303
+00:35:03,780 --> 00:35:09,780
+Ja, also die medizinische Beweglichkeit ist sehr wichtig.
+
+304
+00:35:09,780 --> 00:35:23,780
+Und mindestens drei Monate lange Kompressionsschüttrunfe behandeln ist sehr wichtig.
+
+305
+00:35:23,780 --> 00:35:27,780
+Mindestens drei Monate.
+
+306
+00:35:27,780 --> 00:35:40,780
+Und wir können auch eine Antitrombosatherapie wie Markumar begonnen nach der Akutmaßnahme.
+
+307
+00:35:40,780 --> 00:35:49,780
+Und mindestens sechs Monate soll der Patient eine Markumartherapie benutzen.
+
+308
+00:35:49,780 --> 00:35:56,780
+Warum würden Sie Markumartherapie empfehlen?
+
+309
+00:35:56,780 --> 00:36:03,780
+Ja, es gibt ein Risiko für Lungenembolie bei dieser Situation.
+
+310
+00:36:03,780 --> 00:36:09,780
+Deswegen sollen wir den Patienten eine Markumartherapie empfehlen.
+
+311
+00:36:09,780 --> 00:36:14,780
+Was empfehlen Sie außer Markumartherapie den Patienten?
+
+312
+00:36:14,780 --> 00:36:17,780
+Als Medikamentösetherapie, oder?
+
+313
+00:36:17,780 --> 00:36:19,780
+Außer Medikamentösetherapie.
+
+314
+00:36:19,780 --> 00:36:28,780
+Ja, wie gesagt, Kompressionsschüttrunfe ist sehr wichtig, aber...
+
+315
+00:36:28,780 --> 00:36:30,780
+Wenne Kawa-Filter?
+
+316
+00:36:30,780 --> 00:36:31,780
+Bitte?
+
+317
+00:36:31,780 --> 00:36:33,780
+Wenne Kawa-Filter?
+
+318
+00:36:33,780 --> 00:36:35,780
+Keine Ahnung, Herr Oberhaus.
+
+319
+00:36:35,780 --> 00:36:42,780
+Also ich habe nur eine grundlegende Kenntnis mit diesem Thema, glaube ich.
+
+320
+00:36:45,150 --> 00:36:56,150
+Wenn der Patient eine offene Wunde hat, was beachten Sie bei der körperlichen Untersuchung?
+
+321
+00:36:56,150 --> 00:37:03,150
+Ja, wir sollen auf jeden Fall die Peripheralpulze abtasten.
+
+322
+00:37:03,150 --> 00:37:08,150
+Das ist sehr wichtig. Das kann ein P-Auf-Ak sein.
+
+323
+00:37:09,150 --> 00:37:14,150
+Und auch L-Sypher sein?
+
+324
+00:37:14,150 --> 00:37:18,150
+L-Sypher, ja. Das ist ein Risiko für L-Sypher.
+
+325
+00:37:18,150 --> 00:37:26,150
+Wir sollen die offene Wunde versorgen mit Verband oder mit solchen lokalen Therapien.
+
+326
+00:37:26,150 --> 00:37:30,150
+Gibt es dritte Situation bei offener Wunde?
+
+327
+00:37:30,150 --> 00:37:38,150
+Ja, es kann auch eine diabetische Dermopathie sein.
+
+328
+00:37:38,150 --> 00:37:40,150
+Wir sollen...
+
+329
+00:37:40,150 --> 00:37:42,150
+Diabetische Fuß-Syndrom?
+
+330
+00:37:42,150 --> 00:37:47,150
+Fuß-Syndrom, ja. Wir sollen die Blutzuckerwerte kontrollieren.
+
+331
+00:37:47,150 --> 00:37:54,150
+Wie können wir die diabetische Neuropathie ausschließen?
+
+332
+00:37:55,150 --> 00:38:01,150
+Wir sollen eine Neuro...
+
+333
+00:38:01,150 --> 00:38:14,150
+Elektroneuro-Mio-Grafie durchführen, um eine diabetische Neuropathie auszuschließen.
+
+334
+00:38:14,150 --> 00:38:22,150
+Aber ich denke, nach der Prüfung werde ich diese Untersuchung recherchieren, Herr Oberarzt.
+
+335
+00:38:23,150 --> 00:38:27,150
+Okay, auch Stimmgabel-Untersuchung.
+
+336
+00:38:27,150 --> 00:38:28,150
+Bitte?
+
+337
+00:38:28,150 --> 00:38:30,150
+Stimmgabel-Untersuchung.
+
+338
+00:38:30,150 --> 00:38:35,150
+Das stimmt. Das ist sehr wichtig. Sie haben recht.
+
+339
+00:38:35,150 --> 00:38:45,150
+Und Sie haben gesagt, wie würden wir die Duplex-Sonographie durchführen?
+
+340
+00:38:45,150 --> 00:38:48,150
+Können Sie uns so aufklären?
+
+341
+00:38:48,150 --> 00:38:53,150
+Ja, gerne. Ich werde Sie über Duplex-Sonographie aufklären.
+
+342
+00:38:53,150 --> 00:39:00,150
+Duplex-Sonographie ist die spezielle Ultraschall-Untersuchung der Gefäße.
+
+343
+00:39:00,150 --> 00:39:13,150
+Diese Untersuchung hilft uns, die Stenose, Thrombose, Durchblutstörungen und andere Gefäßprobleme genau zu erkennen.
+
+344
+00:39:13,150 --> 00:39:19,150
+Diese Untersuchung ist sowohl schmerzfrei als auch schallenfrei.
+
+345
+00:39:19,150 --> 00:39:34,150
+Wir sollen vorher die zu untersuchende Körperregion, also hier den Bein, mit einem Gel einschmieren, damit der Schallkopf fehlerfrei arbeitet.
+
+346
+00:39:34,150 --> 00:39:42,150
+Und die Ultraschallwellen machen die Gefäße sichtbar und wir können die Gefäße auf einem Monitor sehen.
+
+347
+00:39:42,150 --> 00:39:49,150
+Diese Untersuchung dauert ca. 20 Minuten und dafür benötigt der Patient keine spezielle Vorbereitung.
+
+348
+00:39:49,150 --> 00:39:53,150
+Es gibt keine Komplikationen oder Kontraindikationen.
+
+349
+00:39:53,150 --> 00:39:58,150
+Und es gibt auch keine Anschränkungen nach der Untersuchung.
+
+350
+00:39:58,150 --> 00:40:04,150
+Und der Patient kann den Alltag wie gewohnt fortsetzen.
+
+351
+00:40:05,150 --> 00:40:14,430
+Ok, Herr Kollegen, bitte gehen Sie unser Infodesk und nehmen Sie Ihre Zertifikate.
+
+352
+00:40:14,430 --> 00:40:19,430
+Ich wünsche Ihnen viel Erfolg für Ihre Arbeitsweg.
+
+353
+00:40:19,430 --> 00:40:26,430
+Vielen Dank, Herr Oberath. Sie sind sehr nett. Das war ein sehr schönes, angenehmes Sprech bei mir.
+
+354
+00:40:26,430 --> 00:40:34,670
+Vielen Dank, Herr Dr. Gündes, für diesen Applaus.
+
+355
+00:40:35,670 --> 00:40:42,670
+Herr Oberath, bitte beachten Sie, dass unser Arzt eine Dermatologie ist.
+
+356
+00:40:42,670 --> 00:40:52,670
+Er ist keine Kardiologin oder Internistin. Bitte beachten Sie und fragen Sie einfach. Bitte.
+
+357
+00:40:52,670 --> 00:40:55,670
+Nicht so brutal.
+
+358
+00:40:55,670 --> 00:41:03,670
+Herr Oberath, er hat alle Fragen, richtige Antworten gegeben.
+
+359
+00:41:03,670 --> 00:41:09,670
+Außer, außer, eine, eine, was war das?
+
+360
+00:41:09,670 --> 00:41:14,670
+Filter? Was filter?
+
+361
+00:41:14,670 --> 00:41:16,670
+Venakawa.
+
+362
+00:41:16,670 --> 00:41:19,670
+Venakawa Filter, was ist das denn? Ich habe keine Ahnung.
+
+363
+00:41:19,670 --> 00:41:24,670
+Ja, bitte Herr Oberath, bitte erklären Sie bitte.
+
+364
+00:41:24,670 --> 00:41:36,670
+Eine Filter legen wir Venakawa inferior und wegen Pulmonary Embollis vermeiden.
+
+365
+00:41:36,670 --> 00:41:39,670
+Ach so, ok.
+
+366
+00:41:39,670 --> 00:41:43,670
+Ist das eine Notfallbehandlung?
+
+367
+00:41:43,670 --> 00:41:48,670
+Nicht Notfall, nur prophylaktisch.
+
+368
+00:41:49,670 --> 00:41:58,670
+Prophylaktisch und wenn wir eine Gefäßebehandlung machen in unseren Extremiten,
+
+369
+00:41:58,670 --> 00:42:12,670
+wie können wir diese Filter benutzen, um die zukünftige Gehirn- oder Pulmonary Embollis zu vermeiden?
+
+370
+00:42:12,670 --> 00:42:20,670
+Das klingt praktisch. Gibt es einige Komplikationen mit dieser Methode?
+
+371
+00:42:20,670 --> 00:42:24,670
+Nicht praktisch, aber effektiv.
+
+372
+00:42:24,670 --> 00:42:30,010
+Ok, gut.
+
+373
+00:42:30,010 --> 00:42:32,010
+Herr Haydn, ich möchte Sie etwas fragen.

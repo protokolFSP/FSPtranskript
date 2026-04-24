@@ -1,0 +1,1615 @@
+1
+00:00:00,080 --> 00:00:02,080
+Schönen guten Tag.
+
+2
+00:00:02,080 --> 00:00:10,080
+Mein Name ist Ujag. Ich bin auf dieser Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Anamnesegespräch durchführen.
+
+3
+00:00:10,080 --> 00:00:12,080
+Damit sind Sie einverstanden?
+
+4
+00:00:12,080 --> 00:00:14,080
+Ja, ich bin einverstanden, Doktor.
+
+5
+00:00:14,080 --> 00:00:19,080
+Danke. Bitte fragen Sie nach, wenn Sie etwas nicht verstehen. Okay?
+
+6
+00:00:19,080 --> 00:00:20,080
+Okay.
+
+7
+00:00:20,080 --> 00:00:22,080
+Wie heißen Sie denn?
+
+8
+00:00:22,080 --> 00:00:28,600
+Mein Name ist Michael Kaiser.
+
+9
+00:00:28,600 --> 00:00:32,600
+Könnten Sie bitte Ihren Vor- und Nachnamen langsam buchstabieren?
+
+10
+00:00:32,600 --> 00:00:39,600
+M-i-i-a-a-i-l
+
+11
+00:00:39,600 --> 00:00:41,600
+Michael
+
+12
+00:00:41,600 --> 00:00:45,600
+K-a-i-s-i-r
+
+13
+00:00:45,600 --> 00:00:47,600
+Kaiser
+
+14
+00:00:47,600 --> 00:00:50,600
+Okay. Herr Kaiser, wie alt sind Sie?
+
+15
+00:00:50,600 --> 00:00:54,600
+Ich bin 68 Jahre alt, Doktor.
+
+16
+00:00:54,600 --> 00:00:56,600
+Wann sind Sie genau geboren?
+
+17
+00:00:56,600 --> 00:01:04,600
+24.08.1957
+
+18
+00:01:04,600 --> 00:01:06,600
+Wie groß sind Sie?
+
+19
+00:01:06,600 --> 00:01:10,600
+Ich bin 1,83 Meter.
+
+20
+00:01:10,600 --> 00:01:13,600
+Und wie schwer sind Sie zuzeit?
+
+21
+00:01:13,600 --> 00:01:17,600
+Ich bin 85 Kilo schwer.
+
+22
+00:01:17,600 --> 00:01:22,600
+Wer ist Ihr Hausarzt oder Hausärztin?
+
+23
+00:01:22,600 --> 00:01:29,640
+Mein Hausarzt ist Herr Schmid.
+
+24
+00:01:29,640 --> 00:01:36,640
+Okay. Danke für die Informationen. Herr Kaiser, was kann ich Sie tun? Was für Beschwerden haben Sie zuzeit?
+
+25
+00:01:36,640 --> 00:01:47,640
+Ja, Doktor. Heute bin ich hier, weil ich vor etwa einer Stunde plötzlich schlecht Luft bekommen habe.
+
+26
+00:01:47,640 --> 00:01:59,610
+Nachdem ich einen Niesenfall hatte, Doktor.
+
+27
+00:01:59,610 --> 00:02:03,610
+Herr Kaiser, hatten Sie früher noch einiges zu tun?
+
+28
+00:02:03,610 --> 00:02:08,950
+Nein, das war mein erstes Beschwerden.
+
+29
+00:02:08,950 --> 00:02:17,950
+Okay. Haben Sie außer diesem Beschwerden auch eine Brustschmerzen oder ein Engelgefühl in der Brust?
+
+30
+00:02:17,950 --> 00:02:28,860
+Nein, Brustschmerzen habe ich keine.
+
+31
+00:02:28,860 --> 00:02:32,860
+Aber mein Herz ist ras, Doktor.
+
+32
+00:02:32,860 --> 00:02:36,860
+Mein Herz ist ras.
+
+33
+00:02:36,860 --> 00:02:43,450
+Also, Herz ist rasen, okay.
+
+34
+00:02:43,450 --> 00:02:49,450
+Okay. Also Sie haben seit einer Stunde Luftnot.
+
+35
+00:02:49,450 --> 00:02:59,450
+Die Luftnot ist nach einem Niesenfall aufgetreten.
+
+36
+00:02:59,450 --> 00:03:03,450
+Okay.
+
+37
+00:03:03,450 --> 00:03:13,450
+Herr Kaiser, ich möchte das Anamnese-Gespräch unterbrechen.
+
+38
+00:03:13,450 --> 00:03:15,450
+Warum, Doktor?
+
+39
+00:03:15,450 --> 00:03:19,450
+Ich glaube, das ist eine Notfallsituation.
+
+40
+00:03:19,450 --> 00:03:24,500
+Was?
+
+41
+00:03:24,500 --> 00:03:30,500
+Sie haben eine Luftnot-Probleme und das kann für Sie gefährlich sein.
+
+42
+00:03:30,500 --> 00:03:39,500
+Deswegen möchte ich das Anamnese-Gespräch unterbrechen und möchte ich Ihre Lunge abhören.
+
+43
+00:03:39,500 --> 00:03:40,500
+Okay?
+
+44
+00:03:40,500 --> 00:03:41,500
+Okay.
+
+45
+00:03:41,500 --> 00:03:44,500
+Herr Oberarzt, ich möchte das Anamnese-Gespräch unterbrechen.
+
+46
+00:03:44,500 --> 00:03:53,500
+Ich denke, der Patient leidet an einem Pneumothorax.
+
+47
+00:03:53,500 --> 00:04:03,500
+Der Patient leidet unter plötzlich aufgetretener Luftnot nach einem Niesenanfall.
+
+48
+00:04:03,500 --> 00:04:15,500
+Deswegen möchte ich die Lungen des Patienten anhören und die Vitalparameter überwachen.
+
+49
+00:04:15,500 --> 00:04:21,500
+Aber jetzt bin ich in der Prüfung und ich möchte das Anamnese-Gespräch weitermachen.
+
+50
+00:04:21,500 --> 00:04:22,500
+Darf ich?
+
+51
+00:04:22,500 --> 00:04:23,500
+Ja.
+
+52
+00:04:23,500 --> 00:04:24,500
+Danke.
+
+53
+00:04:24,500 --> 00:04:27,500
+Herr Kaiser, husten Sie?
+
+54
+00:04:27,500 --> 00:04:29,500
+Ja, Doktor.
+
+55
+00:04:29,500 --> 00:04:31,500
+Ich habe husten, ja.
+
+56
+00:04:31,500 --> 00:04:36,500
+Ist der Husten getrocknet oder mit einem Auswurf?
+
+57
+00:04:36,500 --> 00:04:37,500
+Getrocknet.
+
+58
+00:04:37,500 --> 00:04:39,500
+Ich habe keinen Auswurf.
+
+59
+00:04:39,500 --> 00:04:40,500
+Okay.
+
+60
+00:04:40,500 --> 00:04:50,100
+Herr Kaiser, haben Sie eine Hautfarbeveränderung im Gesicht, besonders am Lippen?
+
+61
+00:04:50,100 --> 00:04:55,100
+Nein, ich habe keine.
+
+62
+00:04:55,100 --> 00:04:56,100
+Okay.
+
+63
+00:04:56,100 --> 00:05:07,210
+Herr Kaiser, haben Sie Ihre Brustregionen verletzt?
+
+64
+00:05:07,210 --> 00:05:10,210
+Nein, ich habe keine verletzt.
+
+65
+00:05:10,210 --> 00:05:28,220
+Treten diese Luftnot bei Belastung oder in Ruhe?
+
+66
+00:05:28,220 --> 00:05:29,220
+Ja.
+
+67
+00:05:29,220 --> 00:05:41,220
+Ich habe keine Bemerkungen, weil ich etwa eine Stunde diese Schmerzen habe, Doktor.
+
+68
+00:05:41,220 --> 00:05:42,220
+Okay.
+
+69
+00:05:42,220 --> 00:05:49,220
+Aber Sie haben dieses Problem, ich meine Luftnot, auch in Ruhe, ja?
+
+70
+00:05:49,220 --> 00:05:50,220
+Ja, ja.
+
+71
+00:05:50,220 --> 00:05:51,220
+Okay.
+
+72
+00:05:51,220 --> 00:06:01,050
+Herr Kaiser, haben Sie geschwollene Beine, die sich nicht mehr bewegen?
+
+73
+00:06:01,050 --> 00:06:02,050
+Nein.
+
+74
+00:06:02,050 --> 00:06:06,050
+Haben Sie geschwollene Beine bemerkt?
+
+75
+00:06:06,050 --> 00:06:16,960
+Ich habe keine bemerkungen, Doktor.
+
+76
+00:06:16,960 --> 00:06:17,960
+Okay.
+
+77
+00:06:17,960 --> 00:06:19,960
+Fühlen Sie sich fieberig?
+
+78
+00:06:19,960 --> 00:06:23,960
+Ich fühle mich nicht fieberig.
+
+79
+00:06:23,960 --> 00:06:26,960
+Oder haben Sie sich unterfrost, Nachtschweiß?
+
+80
+00:06:26,960 --> 00:06:29,960
+Ja, ich schwitze stark.
+
+81
+00:06:29,960 --> 00:06:36,490
+Auch dann ist es mir schwindlig, Doktor.
+
+82
+00:06:36,490 --> 00:06:43,490
+Ich habe eine Unruhe und mein Herz rastet, Doktor.
+
+83
+00:06:43,490 --> 00:06:46,900
+Alles klar.
+
+84
+00:06:46,900 --> 00:06:49,900
+Ich glaube, Sie leiden unter Kaltschweiß, ja?
+
+85
+00:06:49,900 --> 00:06:50,900
+Ja.
+
+86
+00:06:50,900 --> 00:06:54,970
+Okay.
+
+87
+00:06:54,970 --> 00:06:57,970
+Herr Kaiser, ist Ihnen übel?
+
+88
+00:06:57,970 --> 00:07:01,970
+Ja, ich fühle mich dabei auch übel, Doktor.
+
+89
+00:07:01,970 --> 00:07:02,970
+Mussten Sie erbrechen?
+
+90
+00:07:02,970 --> 00:07:09,850
+Nein, ich habe mich nicht übergeben.
+
+91
+00:07:09,850 --> 00:07:10,850
+Okay.
+
+92
+00:07:10,850 --> 00:07:16,850
+Herr Kaiser, darf ich fragen, wie ist Ihr Appetit?
+
+93
+00:07:16,850 --> 00:07:20,850
+Mein Appetit ist normalerweise gut.
+
+94
+00:07:20,850 --> 00:07:23,320
+Okay.
+
+95
+00:07:23,320 --> 00:07:24,320
+Und schlafen Sie gut?
+
+96
+00:07:24,320 --> 00:07:28,320
+Haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+97
+00:07:28,320 --> 00:07:32,320
+Ich habe keine Schlafstörungen, Doktor.
+
+98
+00:07:32,320 --> 00:07:33,320
+Okay.
+
+99
+00:07:33,320 --> 00:07:40,320
+Haben Sie in der letzten Zeit unwirklich ab- oder zugenommen?
+
+100
+00:07:40,320 --> 00:07:47,320
+Ich habe nicht gewonnen, aber ich denke, ich bin gleich gewischt.
+
+101
+00:07:47,320 --> 00:07:49,320
+Okay, alles klar.
+
+102
+00:07:49,320 --> 00:07:54,320
+Ist alles in Ordnung beim Wasserlassen oder mit dem Stuhlgang?
+
+103
+00:07:54,320 --> 00:07:57,320
+Wasserlassen, Stuhlgang?
+
+104
+00:07:57,320 --> 00:08:06,320
+Ja, ich leide seit etwa fünf bis sechs Jahren an Felsstoppen, Doktor, ja.
+
+105
+00:08:10,190 --> 00:08:13,190
+Nehmen Sie dagegen ein Medikament ein?
+
+106
+00:08:13,190 --> 00:08:21,190
+Ja, ich nehme gelegentlich ein Abfürmeter, aber weiß aber den Namen nicht.
+
+107
+00:08:21,190 --> 00:08:23,190
+Kein Problem.
+
+108
+00:08:23,190 --> 00:08:29,190
+Also ich werde Ihren Hausarzt kontaktieren für diese Details, ja?
+
+109
+00:08:29,190 --> 00:08:30,190
+Danke schön, Doktor.
+
+110
+00:08:30,190 --> 00:08:31,190
+Sehr gerne.
+
+111
+00:08:31,190 --> 00:08:34,190
+Und beim Wasserlassen ist alles ordentlich?
+
+112
+00:08:34,190 --> 00:08:38,190
+Ja, ja, ich habe keine Probleme mit Wasserlassen, ja.
+
+113
+00:08:38,190 --> 00:08:39,190
+Okay.
+
+114
+00:08:40,190 --> 00:08:41,190
+Okay.
+
+115
+00:08:41,190 --> 00:08:47,190
+Sind Sie vollständig gegen Kinderkrankheiten und Corona-Infektionen geimpft?
+
+116
+00:08:47,190 --> 00:08:53,190
+Ja, ich bin gegen alles Wichtige geimpft, Doktor, ja.
+
+117
+00:08:53,190 --> 00:08:55,190
+Okay.
+
+118
+00:08:55,190 --> 00:09:06,190
+Herr Kanzler, leiden Sie an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Bluthochdruck oder Zuckerkrankheit?
+
+119
+00:09:06,190 --> 00:09:12,190
+Ja, ich habe seit meinem 52.
+
+120
+00:09:12,190 --> 00:09:18,140
+Leben ja Bluthochdruck, ja.
+
+121
+00:09:18,140 --> 00:09:21,140
+Nehmen Sie dagegen ein Medikament ein?
+
+122
+00:09:21,140 --> 00:09:28,140
+Ja, nehme regelmäßig ein Abfürmeter, zehn Milligramm morgens und abends, ja.
+
+123
+00:09:28,140 --> 00:09:34,020
+Sonst?
+
+124
+00:09:34,020 --> 00:09:47,020
+Ja, außerdem hatte ich 1997 und 2008 zwei Herzinfarkte, Doktor, ja.
+
+125
+00:09:47,020 --> 00:09:52,020
+Und bei beiden wurde mir Stents eingesetzt.
+
+126
+00:09:52,020 --> 00:10:04,160
+Seitdem nehme ich täglich Acetylsalicylic Acid, 100 Milligramm.
+
+127
+00:10:04,160 --> 00:10:06,160
+Wie oft nehmen Sie ein?
+
+128
+00:10:06,160 --> 00:10:09,160
+Ein morgens.
+
+129
+00:10:09,160 --> 00:10:15,720
+Okay, alles klar. Sonst? Irgendwelche anderen Erkrankungen haben Sie?
+
+130
+00:10:15,720 --> 00:10:23,720
+Ja, ich habe weitseitige Kniearthrose und schon lange Rückenschmerzen, Doktor.
+
+131
+00:10:23,720 --> 00:10:32,140
+Seit wann haben Sie diese Probleme? Also ich meine Rückenschmerzen zum Beispiel?
+
+132
+00:10:32,140 --> 00:10:40,140
+Ja, es war sehr lange. Ungefähr seit 20 Jahren, ja, Doktor.
+
+133
+00:10:40,140 --> 00:10:44,140
+Und nehmen Sie ein Medikament dagegen ein?
+
+134
+00:10:44,140 --> 00:10:49,140
+Ja, früher habe ich dagegen ein Morphinpflaster genommen.
+
+135
+00:10:49,140 --> 00:10:59,140
+Aber wegen der Nebenwirkungen benutze ich seit etwa sechs Jahren alle drei Tage ein Morphinpflaster.
+
+136
+00:10:59,140 --> 00:11:12,240
+Herr Kaiser, was meinen Sie mit Nebenwirkungen? Also haben Sie eine Allergie gegen den Morphinpflaster, oder?
+
+137
+00:11:12,240 --> 00:11:14,240
+Ja, ja, ja, Allergie, ja.
+
+138
+00:11:14,240 --> 00:11:17,240
+Wie aussieht sich diese Allergie?
+
+139
+00:11:17,240 --> 00:11:25,240
+Meine Haut war rot, und Ausschlag und Juckreis.
+
+140
+00:11:25,240 --> 00:11:34,280
+Alles klar. Und Sie haben weitseitige Knie-Schmerzen, Kniearthrose.
+
+141
+00:11:34,280 --> 00:11:38,280
+Kniearthrose, Kniearthrose, ja.
+
+142
+00:11:38,280 --> 00:11:41,280
+Was nehmen Sie dagegen ein, darf ich fragen?
+
+143
+00:11:41,280 --> 00:11:43,280
+Noalkin, Doktor.
+
+144
+00:11:43,280 --> 00:11:45,280
+Also Sie haben...
+
+145
+00:11:45,280 --> 00:11:49,280
+Nein, nicht Noalkin. Ich habe Allergie gegen Noalkin.
+
+146
+00:11:49,280 --> 00:11:59,280
+Ich habe gelegentlich Paraseptamol 500 mg bei Wetter.
+
+147
+00:11:59,280 --> 00:12:05,280
+Und seit wann leiden Sie unter Knie-Schmerzen?
+
+148
+00:12:05,280 --> 00:12:07,280
+Seit fünf Jahren.
+
+149
+00:12:07,280 --> 00:12:12,280
+Seit fünf Jahren, ok. Das war es, oder?
+
+150
+00:12:12,280 --> 00:12:21,280
+Ja, seit zehn Jahren wurde ich wegen einer Vergiftung bei der Arbeit stationär behandelt.
+
+151
+00:12:21,280 --> 00:12:25,280
+Was für eine Vergiftung meinen Sie?
+
+152
+00:12:25,280 --> 00:12:28,280
+Entschuldigung bitte?
+
+153
+00:12:28,280 --> 00:12:34,280
+Was für eine Vergiftung meinen Sie? Also Nahrungsmittelvergiftung oder?
+
+154
+00:12:34,280 --> 00:12:36,280
+Nein, nein. Chemisch.
+
+155
+00:12:36,280 --> 00:12:40,970
+Bei der Arbeit, richtig?
+
+156
+00:12:40,970 --> 00:12:49,110
+Ja, ja, bei der Arbeit, ja.
+
+157
+00:12:49,110 --> 00:12:58,180
+Und vor sechs Jahren wurde ich am Karpaltunnelsyndrom operiert, Doktor.
+
+158
+00:12:58,180 --> 00:13:00,180
+Welche Seite?
+
+159
+00:13:00,180 --> 00:13:02,180
+Rechte Seite.
+
+160
+00:13:02,180 --> 00:13:11,170
+Ok. Und sonst? Irgendwelche andere Voroperationen haben Sie, oder?
+
+161
+00:13:11,170 --> 00:13:22,500
+Ja, außerdem wurde ich vor etwa zehn Jahren wegen einer Zisteste in der Liken Lunge operiert, ja.
+
+162
+00:13:22,500 --> 00:13:24,500
+Eine Ziste, ja.
+
+163
+00:13:24,500 --> 00:13:30,500
+Eine Zisteste in der Linken Lunge operiert, ja.
+
+164
+00:13:30,500 --> 00:13:42,890
+Ok. Herr Kanzler, nehmen Sie regelmäßig oder bei Bedarf außer genannten Medikamenten ein?
+
+165
+00:13:42,890 --> 00:13:46,890
+Ich nehme keine anderen Medikamente ein.
+
+166
+00:13:46,890 --> 00:13:51,890
+Alles klar. Sie haben gesagt, dass Sie eine Allergie gegen Novalgie haben.
+
+167
+00:13:51,890 --> 00:13:52,890
+Ja.
+
+168
+00:13:52,890 --> 00:13:55,890
+Sonst haben Sie irgendwelche anderen Allergien?
+
+169
+00:13:55,890 --> 00:14:01,890
+Ja, ich habe auch Hundtierallergie.
+
+170
+00:14:01,890 --> 00:14:06,300
+Hundhaare meinen Sie?
+
+171
+00:14:06,300 --> 00:14:08,300
+Ja, ja, Hundhaare, ja.
+
+172
+00:14:08,300 --> 00:14:11,300
+Wie ersetzt sich diese Allergie?
+
+173
+00:14:11,300 --> 00:14:17,300
+Rückreiß und Ausschlag.
+
+174
+00:14:17,300 --> 00:14:24,720
+Ok. Herr Kanzler, rauchen Sie?
+
+175
+00:14:24,720 --> 00:14:27,720
+Ja, Doktor, leider rauche ich ja.
+
+176
+00:14:27,720 --> 00:14:31,720
+Seit wann und wie viel rauchen Sie?
+
+177
+00:14:31,720 --> 00:14:38,720
+Ich rauche seit 30 Jahren halb Schachter Zigarette täglich.
+
+178
+00:14:38,720 --> 00:14:48,620
+Ok. Herr Kanzler, wenn Sie möchten, können wir Sie dabei unterstützen?
+
+179
+00:14:48,620 --> 00:14:52,620
+Ich meine, wir haben ein gutes Programm im Krankenhaus mit dem Rauchen aufzuhören, ja?
+
+180
+00:14:52,620 --> 00:14:55,620
+Ja, ich möchte natürlich, Doktor.
+
+181
+00:14:55,620 --> 00:15:01,620
+Ja, gerne. Wir können darüber nach dem Anamnesgespräch widersprechen, ja?
+
+182
+00:15:01,620 --> 00:15:03,620
+Ok, danke.
+
+183
+00:15:03,620 --> 00:15:05,620
+Trinken Sie regelmäßig Alkohol?
+
+184
+00:15:05,620 --> 00:15:15,620
+Ich trinke gelegentlich am Wochenende oder traf meine Kolleginnen und Kollegen oder eine Verein ein Glas Wein.
+
+185
+00:15:15,620 --> 00:15:23,830
+Ok. Bitte nehmen Sie die nächste Frage nicht persönlich, das ist eine Routinefrage.
+
+186
+00:15:23,830 --> 00:15:26,830
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+187
+00:15:26,830 --> 00:15:31,830
+Ich nehme keine Drogen, Doktor.
+
+188
+00:15:31,830 --> 00:15:33,830
+Ok, das freut mich.
+
+189
+00:15:33,830 --> 00:15:42,830
+Herr Kanzler, leiden Ihre Eltern an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Schlaganfall oder Brüthochtruck?
+
+190
+00:15:42,830 --> 00:15:52,830
+Mein Vater ist mit 66 Jahren alt an Herzinfarkt gestorben.
+
+191
+00:15:52,830 --> 00:16:01,830
+Meine Mutter ist 70 Jahre alt an Brustkrebs gestorben, Doktor.
+
+192
+00:16:01,830 --> 00:16:08,000
+Mein Beileid, Herr Kaiser.
+
+193
+00:16:08,000 --> 00:16:10,000
+Haben Sie Geschwister?
+
+194
+00:16:10,000 --> 00:16:13,000
+Ich habe keine Geschwister.
+
+195
+00:16:13,000 --> 00:16:16,000
+Ok, wie ist Ihr Familienstand?
+
+196
+00:16:16,000 --> 00:16:32,000
+Ich wohne alleine. Meine Frau ist vor zehn Jahren an Brustkrebs gestorben, Doktor.
+
+197
+00:16:32,000 --> 00:16:35,000
+Mein Beileid, Herr Kanzler.
+
+198
+00:16:35,000 --> 00:16:37,000
+Ok, haben Sie Kinder?
+
+199
+00:16:37,000 --> 00:16:41,000
+Ich habe zwei Kinder, zwei Sohne.
+
+200
+00:16:41,000 --> 00:16:43,000
+Sind die Sohne gesund?
+
+201
+00:16:43,000 --> 00:16:47,600
+Ja, alles ist gesund.
+
+202
+00:16:47,600 --> 00:16:53,600
+Herr Kanzler, ich glaube Sie sind jetzt Rentner, oder?
+
+203
+00:16:53,600 --> 00:16:54,600
+Ja.
+
+204
+00:16:54,600 --> 00:16:58,600
+Und früher, was haben Sie als Beruflich gemacht?
+
+205
+00:16:58,600 --> 00:17:07,600
+Ich habe Ingenieur gearbeitet.
+
+206
+00:17:07,600 --> 00:17:09,600
+In einer Fabrik?
+
+207
+00:17:09,600 --> 00:17:15,930
+Ja, in einer chemischen Fabrik.
+
+208
+00:17:15,930 --> 00:17:25,930
+Ok. Herr Kaiser, das waren meine Fragen. Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+209
+00:17:25,930 --> 00:17:39,930
+Ja Doktor, ich habe schlecht Luft bekommen. Was habe ich?
+
+210
+00:17:39,930 --> 00:17:50,930
+Herr Kaiser, Sie haben Luftnot, weil Sie ein Problem mit den Lungen haben.
+
+211
+00:17:50,930 --> 00:18:02,930
+Also ich meine, normalerweise gibt es keine Luft zwischen Brustkorb und Lungen.
+
+212
+00:18:02,930 --> 00:18:18,930
+Aber wegen dieser Niesenfälle hatten Sie ein Problem und deswegen leiden Sie unter Luftnot.
+
+213
+00:18:18,930 --> 00:18:24,930
+Sie haben früher eine Sistoperation in der linken Lunge.
+
+214
+00:18:24,930 --> 00:18:33,930
+Diese Situation kann dieses Problem verursachen. Deswegen werde ich Sie zuerst körperlich untersuchen.
+
+215
+00:18:33,930 --> 00:18:39,930
+Dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen veranlassen.
+
+216
+00:18:39,930 --> 00:18:46,930
+Sobald alle Ergebnisse da sind, werde ich Ihnen die weiteren Informationen mitteilen.
+
+217
+00:18:46,930 --> 00:18:51,930
+Ok.
+
+218
+00:18:51,930 --> 00:18:56,930
+Doktor, ich habe eine Frage.
+
+219
+00:18:56,930 --> 00:18:58,930
+Ja gerne.
+
+220
+00:18:58,930 --> 00:19:02,930
+Ich muss im Krankenhaus bleiben?
+
+221
+00:19:02,930 --> 00:19:08,930
+Herr Kaiser, ein paar Stunden müssen Sie sicherlich bei uns bleiben.
+
+222
+00:19:08,930 --> 00:19:19,930
+Wenn wir etwas auffälliges finden, kann es auch passieren, dass Sie ein paar Tage im Krankenhaus bleiben sollen.
+
+223
+00:19:19,930 --> 00:19:28,930
+Wie lange dauert diese Prozedur?
+
+224
+00:19:28,930 --> 00:19:33,930
+Wie gesagt, Sie sollen ein paar Tage im Krankenhaus bleiben.
+
+225
+00:19:33,930 --> 00:19:40,930
+Wir werden Sie hier im Krankenhaus beobachten, ob Ihre Beschwerden weg sind.
+
+226
+00:19:40,930 --> 00:19:46,930
+Dann können wir Sie wieder entlassen. Machen Sie sich bitte keine Sorgen.
+
+227
+00:19:46,930 --> 00:19:50,930
+Danke Doktor. Ich warte auf Sie.
+
+228
+00:19:50,930 --> 00:19:59,400
+Guten Abend Herr Oberarzt. Ich habe einen neuen Patienten aufgenommen.
+
+229
+00:19:59,400 --> 00:20:03,400
+Ich würde gerne über ihn berichten. Haben Sie kurz Zeit für mich?
+
+230
+00:20:03,400 --> 00:20:05,400
+Ja bitte.
+
+231
+00:20:05,400 --> 00:20:15,400
+Danke schön. Herr Michael Kaiser ist 68 Jahre alt, 1,83 Meter groß und 85 Kilogramm schwer.
+
+232
+00:20:15,400 --> 00:20:29,400
+Herr Kaiser, ich dachte sich heute bei uns wegen seit einer Stunde bestehender Duis bleu vor,
+
+233
+00:20:29,400 --> 00:20:41,400
+dem Patienten zufolge seien die Beschwerden nach einem Niesenanfall aufgetreten und mit der Zeit schlimmer geworden.
+
+234
+00:20:41,400 --> 00:21:01,400
+Der Patient berichtete über Trakikardie, innere Unruhe, vertigo, kaltes Schweiß und Nausee ohne Emesis.
+
+235
+00:21:01,400 --> 00:21:15,400
+Die Fragen nach eigener Pektoris, ein Gefühl in der Brustregion, in der Brust, Cyanose,
+
+236
+00:21:15,400 --> 00:21:22,400
+Beinödeme, Verletzung, Fieber wurden verneint.
+
+237
+00:21:22,400 --> 00:21:41,130
+Ich habe das Anamnesigespräch unterbrochen, weil ich eine Pneumonie bei den Patienten dachte.
+
+238
+00:21:41,130 --> 00:22:03,130
+Ich habe die Vitaprimeter bei den Patienten überwacht und sofort habe ich eine Torakadranage durchgeführt.
+
+239
+00:22:03,130 --> 00:22:18,130
+Die vegetative Anamnese ist bis chronische Observation seit 5 bis 6 Jahren unauffällig.
+
+240
+00:22:18,130 --> 00:22:25,130
+Der Patient nehme dagegen ein Abführmittel bei Bedarf ein.
+
+241
+00:22:25,130 --> 00:22:30,130
+Der Name von Medikament sollte geklärt werden.
+
+242
+00:22:30,130 --> 00:22:37,130
+Er sei vollständig gegen Kinderkrankheiten und Corona-Infektionen geimpft.
+
+243
+00:22:37,130 --> 00:22:51,130
+An Vorerkrankungen nannte er seit 52 Jahren lebensjahr bestehende arterielle Hypertonie.
+
+244
+00:22:51,130 --> 00:23:00,130
+Seit 5 Jahren bestehende koksartroge beidseitige Gonarthrose.
+
+245
+00:23:00,130 --> 00:23:06,130
+Seit 20 Jahren bestehende chronische Lumbaralgie.
+
+246
+00:23:06,130 --> 00:23:14,130
+Er hat zweimal Myokatinfarkt in 1997 und 2008.
+
+247
+00:23:14,130 --> 00:23:40,500
+Er sei wegen einer KHK-PTCA durchgeführt und ein Stent eingesetzt worden.
+
+248
+00:23:40,500 --> 00:23:48,500
+Der Patient nehme Ende April 10 mg morgens und abends,
+
+249
+00:23:48,500 --> 00:23:56,500
+100 mg morgens, 500 mg bei Bedarf ein.
+
+250
+00:23:56,500 --> 00:24:06,500
+Der Patient benutze seit 6 Jahren alle 3 Tage Morphin-Filaster.
+
+251
+00:24:06,500 --> 00:24:16,500
+Früher habe er Novalgin-Tabletten eingenommen, aber er habe eine Allergie gegen Novalgin.
+
+252
+00:24:16,500 --> 00:24:21,500
+Deswegen nehme er Novalgin-Tabletten nicht mehr ein.
+
+253
+00:24:21,500 --> 00:24:34,500
+Vor 10 Jahren hatte er eine Vergiftung gegen chemische Stoffe bei der Arbeit,
+
+254
+00:24:34,500 --> 00:24:38,500
+die stationär behandelt worden sei.
+
+255
+00:24:38,500 --> 00:24:48,500
+Vor 6 Jahren sei er wegen einer Carpaltonal-Syndrom operiert worden.
+
+256
+00:24:48,500 --> 00:25:00,500
+Vor 10 Jahren sei er wegen einer Cyst in der linken Lunge operiert worden.
+
+257
+00:25:00,500 --> 00:25:09,500
+Er hat Allergie gegen Novalgin, die sich durch Exanthem und Puri-Tis äußert.
+
+258
+00:25:09,500 --> 00:25:17,500
+Er hat auch Hundehaareallergien, die sich durch Puri-Tis und Exanthem äußert.
+
+259
+00:25:17,500 --> 00:25:31,500
+Er ist Raucher, er rauchte seit 30 Jahren 10 Zigaretten täglich, das entspricht 15 Pakiers.
+
+260
+00:25:31,500 --> 00:25:37,500
+Er trinke ein Glas Wein am Wochenende und Drogenkonsum wurde verneint.
+
+261
+00:25:37,500 --> 00:25:52,500
+In der Familienanamnese gab er an, dass der Vater mit 66 Jahren an Myokadinfarkt verstorben sei
+
+262
+00:25:52,500 --> 00:25:59,500
+und die Mutter sei mit 70 Jahren an Mammakarzinom verstorben.
+
+263
+00:25:59,500 --> 00:26:12,500
+Er sei Einzelkind verwitwet. Vor 10 Jahren sei seine Frau an Magenkarzinom verstorben.
+
+264
+00:26:12,500 --> 00:26:20,500
+Er habe zwei Kinder, zwei Söhne, die gesund seien und er wohne alleine.
+
+265
+00:26:20,500 --> 00:26:28,500
+Er sei Rentner, früher habe er als Ingenieur in einer chemischen Fabrik gearbeitet.
+
+266
+00:26:29,500 --> 00:26:40,500
+Ich gehe von einem Verdacht auf eine Pneumothorax aus, da der Patient typische Symptome dafür aufweist.
+
+267
+00:26:40,500 --> 00:26:50,500
+Der Patient leidet unter flüssig aufgetretener Dyspneu nach einem Niesenanfall.
+
+268
+00:26:51,500 --> 00:27:05,500
+Katschweiß, innere Unruhe, vertigo, Übelkeit, also diese Symptome sprechen für einen Pneumothorax.
+
+269
+00:27:06,500 --> 00:27:20,500
+Als die Phasendiagnosen kommen Myokadinfarkt, Pulmonar Lungenembolie in Betracht.
+
+270
+00:27:20,500 --> 00:27:31,500
+Um meine Verdachtdiagnose zu bestätigen, würde ich bei den Patienten zunächst die Vitalparameter überwachen
+
+271
+00:27:31,500 --> 00:27:37,500
+und eine körperliche Untersuchung durchführen. Bei der körperlichen Untersuchung achte ich darauf,
+
+272
+00:27:37,500 --> 00:27:50,500
+ob Pneumose, Venenstauung am Hals, asymmetrische Thoracal Expansion
+
+273
+00:27:50,500 --> 00:28:04,500
+und verminderte Atemgeräusche an betreffenden Lungen vorhanden sind.
+
+274
+00:28:04,500 --> 00:28:12,500
+Zusätzlich ist eine Laboruntersuchung sinnvoll, um eine umfassende Diagnose sich zu gewährleisten.
+
+275
+00:28:12,500 --> 00:28:24,500
+Dabei würde ich Blutbilds, CAP, BSG, Blutgasanalyse, Dedumere, Leberwerte, Nierenwerte,
+
+276
+00:28:24,500 --> 00:28:32,500
+Gerinnungsparameter, Elektrolyten, Herzinsime bestimmen lassen.
+
+277
+00:28:32,500 --> 00:28:45,500
+Danach würde ich eine Röntgen des Thorax durchführen, um die möglichen Pathologien genau zu beurteilen.
+
+278
+00:28:45,500 --> 00:28:59,500
+Danach würde ich eine Zete des Thorax durchführen, um meine Verdachtdiagnose zu bestätigen.
+
+279
+00:28:59,500 --> 00:29:14,500
+Wenn meine Verdachtdiagnose bestätigt würde, würde ich sofort eine Thorax-Diagnose durchführen.
+
+280
+00:29:14,500 --> 00:29:25,500
+Ich würde auch ein LKG schreiben, um die Möglichkeit der Herzkrankheit, einen Myokatinfakt auszuschließen.
+
+281
+00:29:25,500 --> 00:29:41,500
+Ich würde den Patienten einen venösen Zugang legen und würde eine pneumonologische Skonsil anfordern,
+
+282
+00:29:41,500 --> 00:29:45,500
+um die Therapie des Patienten zu optimieren.
+
+283
+00:29:45,500 --> 00:29:55,500
+Wenn Sie mit dieser Vergehenweise verstanden sind, werde ich die geplanten Untersuchungen fortfahren.
+
+284
+00:29:55,500 --> 00:29:57,500
+Herr Oberarzt.
+
+285
+00:29:57,500 --> 00:30:05,500
+Herr Kollegen, können Sie uns die Zete des Thorax aufklären?
+
+286
+00:30:05,500 --> 00:30:14,500
+Ja, ich werde gerne Sie über Zete des Thorax aufklären.
+
+287
+00:30:14,500 --> 00:30:21,500
+Zete des Thorax gehört zu den bildgebenden Verfahren.
+
+288
+00:30:21,500 --> 00:30:36,500
+Diese Untersuchung hilft uns, die Verletzungen, Entzündungen, Blutungen, Tumore oder andere Veränderungen genau zu erkennen.
+
+289
+00:30:36,500 --> 00:30:47,500
+Diese Untersuchung benötigt nur noch eine geringe Strahlenbelastung und ist völlig schmerzfrei.
+
+290
+00:30:48,500 --> 00:30:56,500
+Der Patient soll etwa 30 Minuten ruhig in einer Zeteröhre liegen.
+
+291
+00:30:56,500 --> 00:31:07,500
+Wenn der Patient eine Platzangst hat, können wir dem Patienten eine Beruhigungsmittel geben.
+
+292
+00:31:07,500 --> 00:31:14,500
+Diese Untersuchung dauert ca. 20 bis 30 Minuten.
+
+293
+00:31:14,500 --> 00:31:29,500
+Es gibt keine Komplikationen und einige Kontraindikationen, wie z.B. Schwangerschaft oder Kontrastmittelallergie.
+
+294
+00:31:29,500 --> 00:31:37,500
+Manchmal sollen wir Kontrastmittel geben, um die Organe sichtbar zu machen.
+
+295
+00:31:38,500 --> 00:31:48,500
+Es gibt keine Anstrengungen nach der Untersuchung und der Patient kann den Alltag wie gewohnt fortsetzen.
+
+296
+00:32:00,710 --> 00:32:02,710
+Ja, gerne.
+
+297
+00:32:03,710 --> 00:32:20,710
+Thoraxdrainage ist die Drainage von Luft oder Flüssigkeit oder Blut aus dem Chlorespalt.
+
+298
+00:32:20,710 --> 00:32:34,710
+Diese Untersuchung hilft uns, um den Pneumothorax oder Hemothorax zu behandeln.
+
+299
+00:32:34,710 --> 00:32:50,710
+Bei dieser Untersuchung desinfizieren wir die Stelle und wir führen eine Nadel in der Chlorespalt ein.
+
+300
+00:32:50,710 --> 00:32:54,710
+Es gibt zwei Möglichkeiten bei dieser Untersuchung.
+
+301
+00:32:54,710 --> 00:32:59,710
+Vor dem Eingriff geben wir den Patienten örtliche Betäubung.
+
+302
+00:32:59,710 --> 00:33:08,710
+Ja, wir geben eine lokale Betäubung vor der Untersuchung.
+
+303
+00:33:08,710 --> 00:33:12,710
+Es gibt zwei Möglichkeiten bei dieser Untersuchung.
+
+304
+00:33:12,710 --> 00:33:16,710
+Monaldi und Blaue Methode.
+
+305
+00:33:16,710 --> 00:33:34,710
+Die Monaldi Methode machen wir in der mittleren Linie und in der zweiten interkostal Region.
+
+306
+00:33:34,710 --> 00:33:46,710
+Oder die Blaue Methode in der mittleren Linie zwischen vierter und fünfter Rippen.
+
+307
+00:33:46,710 --> 00:34:07,420
+Wir führen die Nadel in den Chlorespalt ein und wir saugen den Luft oder den Blut ab.
+
+308
+00:34:07,420 --> 00:34:14,420
+Diese Untersuchung dauert ca. einige Minuten.
+
+309
+00:34:14,420 --> 00:34:27,420
+Nach der Untersuchung soll der Patient im Krankenhaus zur Beobachtung bleiben.
+
+310
+00:34:27,420 --> 00:34:47,660
+Es gibt keine Kontradikationen oder Komplikationen bei der Untersuchung.
+
+311
+00:34:47,660 --> 00:34:53,660
+Herr Kallögen, in diesem Fall geben Sie den Patienten Sauerstoff?
+
+312
+00:34:53,660 --> 00:35:01,660
+Auf jeden Fall. Wir sollen sofort den Patienten Sauerstoff geben.
+
+313
+00:35:01,660 --> 00:35:07,660
+Wir sollen zuerst die Sauerstoffsättigung messen.
+
+314
+00:35:07,660 --> 00:35:20,660
+Wenn die Sauerstoffsättigung unter 93% ist, sollen wir den Patienten Sauerstoff geben.
+
+315
+00:35:20,660 --> 00:35:42,070
+Was macht Pneumothorax den Patienten, wenn Sie keine Thorax-Trainage legen?
+
+316
+00:35:42,070 --> 00:35:51,860
+Das kann lebensbedrohlich sein.
+
+317
+00:35:51,860 --> 00:36:00,860
+Spannungspneumothorax können wir feststellen.
+
+318
+00:36:00,860 --> 00:36:11,860
+Diese Situation ist eine lebensbedrohliche Situation.
+
+319
+00:36:11,860 --> 00:36:16,860
+Wie können wir Spannungspneumothorax diagnostizieren?
+
+320
+00:36:16,860 --> 00:36:20,860
+Wir sollen die Vitaparameter überwachen.
+
+321
+00:36:20,860 --> 00:36:40,860
+Wir können bei den Patienten Hypotonie, Tachikalie, Venen, Stauung am Hals bei der Inspektion feststellen.
+
+322
+00:36:40,860 --> 00:36:44,860
+Und Hypoxie.
+
+323
+00:36:44,860 --> 00:36:53,620
+Was machen Sie, wenn der Patient Spannungspneumothorax hat?
+
+324
+00:36:53,620 --> 00:37:01,870
+Wir sollen sofort die Thorax-Trainage durchführen.
+
+325
+00:37:01,870 --> 00:37:13,720
+Und wir sollen den Patienten in der Intensivstation beobachten.
+
+326
+00:37:13,720 --> 00:37:22,720
+Während der Intensivstation, was führen Sie den Patienten?
+
+327
+00:37:22,720 --> 00:37:28,720
+Ich meine, wenn es mit Ventilator-Tag gibt?
+
+328
+00:37:28,720 --> 00:37:35,720
+Wir sollen die Blutgasanalyse regelmäßig kontrollieren.
+
+329
+00:37:35,720 --> 00:37:57,720
+Wenn der Sauerstoffsättigung sehr niedrig ist, können wir den Patienten ein Ventilator anschließen.
+
+330
+00:37:57,720 --> 00:38:05,470
+Und geben Sie während der Therapie Analgetikum den Patienten?
+
+331
+00:38:05,470 --> 00:38:18,940
+Normalerweise kann der Patient unter atmenbedingter Schmerzen leiden.
+
+332
+00:38:18,940 --> 00:38:25,940
+Wenn es eine Schmerzen beim Atmen gibt, können wir einen Schmerzmittel geben.
+
+333
+00:38:25,940 --> 00:38:30,940
+Das ist sehr wichtig für normale Atmung.
+
+334
+00:38:30,940 --> 00:38:36,940
+Empfehlen Sie in diesem Fall den Patienten eine Operation?
+
+335
+00:38:36,940 --> 00:38:43,380
+Wenn Sie Ja sagen, welche Operation empfehlen Sie?
+
+336
+00:38:43,380 --> 00:38:54,370
+Der Patient hatte eine Operation vor zehn Jahren wegen einer Zucht in der linken Lunge.
+
+337
+00:38:54,370 --> 00:39:13,370
+Wenn es eine resistive Zucht in der linken Lunge gibt, können wir eine Systektomie bei den Patienten durchführen.
+
+338
+00:39:13,370 --> 00:39:23,250
+Oder wenn der Patient viele Züchte hat, was empfehlen Sie?
+
+339
+00:39:23,250 --> 00:39:32,000
+Eine Systektomie bei den Patienten?
+
+340
+00:39:32,000 --> 00:39:41,000
+Nein, eine plurale Adhesion.
+
+341
+00:39:41,000 --> 00:39:53,000
+Während der Operation führen wir die parietal Pleura entfernen.
+
+342
+00:40:56,550 --> 00:40:59,550
+Das ist ein guter Satz.
+
+343
+00:40:59,550 --> 00:41:04,550
+Wenn Sie auf die Plurale adhessen, können Sie die Operation in zehn Minuten beenden.
+
+344
+00:41:04,550 --> 00:41:10,550
+Wenn Sie es ein bisschen langsamer machen, können Sie es in zehn Minuten beenden.
+
+345
+00:41:10,550 --> 00:41:13,550
+Wenn Sie es etwas langsamer machen, können Sie es in zehn Minuten beenden.
+
+346
+00:41:13,550 --> 00:41:16,550
+Das ist normal.
+
+347
+00:41:16,550 --> 00:41:24,550
+Vielleicht können Sie die finanzielle Anlage noch ein bisschen mehr zwingen.
+
+348
+00:41:24,550 --> 00:41:29,550
+Bei der Körperlosenversuchung höre ich die Lungen des Patienten ab.
+
+349
+00:41:29,550 --> 00:41:36,550
+Und welche Teile weniger Lungen geräuchte höre ich.
+
+350
+00:41:36,550 --> 00:41:45,550
+Und welche Teile weniger Lungen geräuchte höre ich.
+
+351
+00:41:45,550 --> 00:41:51,550
+Und welche Teile weniger Lungen geräuchte höre ich.
+
+352
+00:41:51,550 --> 00:41:54,830
+Das kann man so sagen.
+
+353
+00:41:54,830 --> 00:42:03,830
+Mit den einfachen und kurzen Sagen, die man kennt, kann man andere Dinge dazugeben.
+
+354
+00:44:03,830 --> 00:44:06,830
+Das kann man so sagen.
+
+355
+00:44:06,830 --> 00:44:14,830
+Mit den Füßen wird die Kante geschlossen und dann wird die Drainage ausgerichtet.
+
+356
+00:44:14,830 --> 00:44:16,830
+Sie wird nur mit der Füße geschlossen.
+
+357
+00:44:16,830 --> 00:44:21,830
+Danach wird die Kante mit der Dissektion aufgeführt.
+
+358
+00:44:21,830 --> 00:44:24,830
+Wenn Sie mit der Füße direkt mit der Drainage gehen, wissen Sie nicht wo Sie hinkehren.
+
+359
+00:44:24,830 --> 00:44:25,830
+Wenn Sie mit der Füße direkt mit der Drainage gehen, wissen Sie nicht wo Sie hinkehren.
+
+360
+00:44:25,830 --> 00:44:29,830
+Daher gar nicht mehr die ganze Zeit mit der Dissektion.
+
+361
+00:44:29,830 --> 00:44:33,830
+Wenn du den Finger nahe hast, nimmst du ihn mit deinem Finger und wenn du ihn nimmst, dann geht es in die andere Seite.
+
+362
+00:44:37,830 --> 00:44:43,830
+Du nimmst nur den Finger unter die Cilt und dann geht es in die Künfte.
+
+363
+00:44:43,830 --> 00:44:46,830
+Es gibt keine Art, den Finger direkt in die Cilt zu nehmen.
+
+364
+00:44:46,830 --> 00:44:49,830
+Nein, das ist nicht so.
+
+365
+00:44:49,830 --> 00:44:50,830
+Du nimmst schon in die Cilt.
+
+366
+00:44:50,830 --> 00:44:52,830
+Ja, in die Cilt.
+
+367
+00:44:52,830 --> 00:45:00,110
+Du nimmst ihn mit den Finger in die Künfte, um nicht zu verletzen, dass du in der Künfte in der Cilt wirst.
+
+368
+00:45:00,110 --> 00:45:03,110
+Die Künfte ist nicht sehr weit.
+
+369
+00:45:03,110 --> 00:45:09,340
+Du hast sie in ein paar Wochen direkt zu dir.
+
+370
+00:45:09,340 --> 00:45:12,340
+Was hast du auch gefragt?
+
+371
+00:45:12,340 --> 00:45:14,340
+Spannungs?
+
+372
+00:45:14,340 --> 00:45:16,340
+Tansium Pneumatorex.
+
+373
+00:45:16,340 --> 00:45:18,340
+Ich wusste das nicht.
+
+374
+00:45:18,340 --> 00:45:20,340
+Ich wusste es nicht.
+
+375
+00:45:50,340 --> 00:45:54,550
+Okay.
+
+376
+00:45:54,550 --> 00:46:00,550
+Denn die Herz und Mediastanstöße werden auf die Gegend geschlossen.
+
+377
+00:46:00,550 --> 00:46:02,550
+Sie werden in einer Seriöse aufgeteilt.
+
+378
+00:46:02,550 --> 00:46:08,140
+Deswegen.
+
+379
+00:46:08,140 --> 00:46:09,140
+Okay.
+
+380
+00:46:09,140 --> 00:46:12,140
+In der Inspektion gibt es eine unverdankliche Expansion.
+
+381
+00:46:12,140 --> 00:46:16,140
+Wir hören keine Stimme auf der einen Seite.
+
+382
+00:46:16,140 --> 00:46:19,140
+Wir bekommen eine Perkussion.
+
+383
+00:46:19,140 --> 00:46:22,140
+Du hast eine große Höhe.
+
+384
+00:46:22,140 --> 00:46:24,140
+Du hast die Stimme.
+
+385
+00:46:24,140 --> 00:46:27,140
+Aber du musst den Schlafschluss schnell machen.
+
+386
+00:46:27,140 --> 00:46:31,140
+Du musst den Schlafschluss auf den Röntgen schlagen.
+
+387
+00:46:31,140 --> 00:46:35,140
+Wir hatten eine Tennis-Situation.
+
+388
+00:46:35,140 --> 00:46:37,140
+Die Rippen-Kontition.
+
+389
+00:46:37,140 --> 00:46:41,140
+Du musst den Schlafschluss auf den Röntgen-Destorax schlagen.
+
+390
+00:46:41,140 --> 00:46:44,140
+Ich weiß nicht, wie man das hier sagt.
+
+391
+00:46:44,140 --> 00:46:48,140
+Ich muss etwas sagen wie Betkoff Röntgen-Destorax.
+
+392
+00:46:48,140 --> 00:46:51,140
+Hier ist etwas in den Noten.
+
+393
+00:46:51,140 --> 00:46:53,140
+Für diese Begriffe.
+
+394
+00:46:53,140 --> 00:46:57,140
+Röntgen-Geräte.
+
+395
+00:46:57,140 --> 00:46:59,140
+Schienen und Röntgen-Destorax.
+
+396
+00:46:59,140 --> 00:47:01,140
+Du kannst das so sagen.
+
+397
+00:47:01,140 --> 00:47:08,140
+In den Noten steht, dass du direkt auf den Röntgen-Destorax-Training losgehalten hast.
+
+398
+00:47:08,140 --> 00:47:11,140
+Sie haben den Röntgen nicht beantwortet.
+
+399
+00:47:11,140 --> 00:47:13,140
+Ich weiß nicht, wie das hier geht.
+
+400
+00:47:13,140 --> 00:47:20,140
+Man möchte heute auch eine Begegnung geben.
+
+401
+00:47:20,140 --> 00:47:22,140
+Du hast das schon gemacht.
+
+402
+00:47:22,140 --> 00:47:24,140
+Aber du hast es schon gemacht.
+
+403
+00:47:24,140 --> 00:47:26,140
+Vielleicht hat der Mann nichts gemacht.
+
+404
+00:47:26,140 --> 00:47:28,140
+Du bist der Grund.

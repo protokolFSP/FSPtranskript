@@ -1,0 +1,1047 @@
+1
+00:00:01,940 --> 00:00:13,940
+Schönen guten Tag, mein Name ist Ucak. Ich bin auf dieser Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Anamnese-Gespräch durchführen. Sind Sie damit einverstanden?
+
+2
+00:00:13,940 --> 00:00:15,940
+Ja, natürlich.
+
+3
+00:00:15,940 --> 00:00:19,940
+Danke. Bitte fragen Sie nach, wenn Sie etwas nicht verstehen. Okay?
+
+4
+00:00:19,940 --> 00:00:21,940
+Okay.
+
+5
+00:00:21,940 --> 00:00:23,940
+Wie heißen Sie denn?
+
+6
+00:00:23,940 --> 00:00:26,940
+Erdwart Langenfelde.
+
+7
+00:00:26,940 --> 00:00:36,410
+Könnten Sie bitte Ihren Vor- und Nachnamen langsam buchstabieren?
+
+8
+00:00:36,410 --> 00:00:38,410
+Ja, natürlich.
+
+9
+00:00:56,410 --> 00:00:58,410
+Herr Langenfelde, wie alt sind Sie?
+
+10
+00:00:59,410 --> 00:01:01,410
+50 Jahre alt.
+
+11
+00:01:02,410 --> 00:01:04,410
+Wann sind Sie genau geboren?
+
+12
+00:01:04,410 --> 00:01:11,410
+27. März. 3. März 1975.
+
+13
+00:01:12,410 --> 00:01:14,410
+Okay. Wie groß sind Sie?
+
+14
+00:01:14,410 --> 00:01:17,410
+1,84 Meter.
+
+15
+00:01:17,410 --> 00:01:22,300
+Und wie schwer sind Sie zurzeit?
+
+16
+00:01:22,300 --> 00:01:24,300
+Ja, 80 Kilogramm.
+
+17
+00:01:25,300 --> 00:01:27,300
+Okay. Danke für die Informationen.
+
+18
+00:01:27,300 --> 00:01:32,300
+Herr Langenfelde, was kann ich für Sie tun? Was für Überschwerden haben Sie im Moment?
+
+19
+00:01:32,300 --> 00:01:37,300
+Herr Doktor, ich habe Hinterbrustkorbschmerzen.
+
+20
+00:01:38,300 --> 00:01:40,300
+Stärke, starke Schmerzen.
+
+21
+00:01:40,300 --> 00:01:47,300
+Seit wann haben Sie diese Schmerzen?
+
+22
+00:01:47,300 --> 00:01:53,300
+Heute Morgen seit 45 Minuten.
+
+23
+00:01:53,300 --> 00:02:02,580
+Okay. Herr Langenfelde, können Sie diese Schmerzen genau beschreiben?
+
+24
+00:02:02,580 --> 00:02:06,580
+Sind Sie eher drückend, stechend, brennend?
+
+25
+00:02:06,580 --> 00:02:08,580
+Ja, drückend.
+
+26
+00:02:08,580 --> 00:02:13,820
+Okay. Strahlen diese Schmerzen irgendwo hinaus?
+
+27
+00:02:14,820 --> 00:02:21,820
+Ja, strahlen in den linken Arm und in den Unterkiefern aus.
+
+28
+00:02:21,820 --> 00:02:32,070
+Okay. Herr Langenfelde, haben Sie früher Anhebbeschwerden gehabt?
+
+29
+00:02:33,070 --> 00:02:38,070
+Früher? Nein.
+
+30
+00:02:39,070 --> 00:02:43,070
+Haben Sie ein Endegefühl in der Brust?
+
+31
+00:02:43,070 --> 00:02:44,070
+Ja.
+
+32
+00:02:44,070 --> 00:02:48,740
+Okay. Leiden Sie unter Luftnot?
+
+33
+00:02:48,740 --> 00:03:00,740
+Nein. Seit 45 Jahren habe ich Luftnot, Übelkeit und Erbrechen.
+
+34
+00:03:01,740 --> 00:03:07,590
+Kalten Schweiß und ich habe viel Schwitzen.
+
+35
+00:03:07,590 --> 00:03:22,780
+Okay. Herr Langenfelde, ich möchte das Anamnesigespräch hier unterbrechen.
+
+36
+00:03:22,780 --> 00:03:30,780
+Herr Oberarzt, ich möchte das Anamnesigespräch unterbrechen.
+
+37
+00:03:30,780 --> 00:03:39,780
+Also aufgrund der Anamnese des Patienten denke ich einen Myokadinfakt.
+
+38
+00:03:39,780 --> 00:03:46,780
+Deswegen werde ich das Anamnesigespräch unterbrechen und die Vitalparameter überwachen.
+
+39
+00:03:46,780 --> 00:03:57,780
+Dann werde ich Herzinszime kontrollieren und dann gegebenenfalls werde ich eine PCCA durchführen.
+
+40
+00:03:57,780 --> 00:04:04,780
+Aber jetzt bin ich in der Prüfung und ich möchte das Anamnesigespräch durchführen. Darf ich?
+
+41
+00:04:04,780 --> 00:04:06,780
+Ja, bitte.
+
+42
+00:04:06,780 --> 00:04:07,780
+Danke.
+
+43
+00:04:07,780 --> 00:04:18,780
+Danke. Herr Langenfelde, Sie haben gesagt, dass Sie unter Übelkeit leiden und Sie haben Erbrochen.
+
+44
+00:04:18,780 --> 00:04:22,780
+Also wie sah das Erbrochen aus?
+
+45
+00:04:22,780 --> 00:04:32,780
+Ja schaumig, gelblich und Essenreste, aber keine Blut dabei.
+
+46
+00:04:32,780 --> 00:04:34,780
+Okay, das freut mich.
+
+47
+00:04:34,780 --> 00:04:47,140
+Herr Langenfelde, sind diese Schmerzen plötzlich oder langsam aufgetreten?
+
+48
+00:04:47,140 --> 00:05:00,140
+Ja, plötzlich aufgetreten. Als ich meine Blumen heute Morgen im Garten gegossen habe, hat mein Nachbar plötzlich mich angeschrien.
+
+49
+00:05:00,140 --> 00:05:10,140
+Und wir haben zu streiten angefangen. Nach dem Streit mit dem Nachbar sind die Schmerzen plötzlich aufgetreten.
+
+50
+00:05:10,140 --> 00:05:18,140
+Und meine Frau hat mich mit dem Auto in die Notaufnahme gebracht.
+
+51
+00:05:18,140 --> 00:05:33,380
+Okay, alles klar. Sind diese Schmerzen nur bei Belastung oder auch in Ruhe aufgetreten?
+
+52
+00:05:33,380 --> 00:05:41,380
+Ja, natürlich. Ich habe meine Blumen gegossen.
+
+53
+00:05:41,380 --> 00:05:47,380
+Und Sie haben die Schmerzen plötzlich aufgetreten?
+
+54
+00:05:47,380 --> 00:05:55,380
+Ja, natürlich. Ich habe meine Blumen gegossen.
+
+55
+00:05:55,380 --> 00:05:59,380
+Leiden Sie unter Husten, Herr Langenfelde?
+
+56
+00:05:59,380 --> 00:06:00,380
+Nein.
+
+57
+00:06:00,380 --> 00:06:05,380
+Okay, haben Sie geschwollene Beine bemerkt?
+
+58
+00:06:05,380 --> 00:06:06,380
+Nein.
+
+59
+00:06:06,380 --> 00:06:13,380
+Okay, und haben Sie Fieber, Schütterfrost oder Nachtschwache?
+
+60
+00:06:13,380 --> 00:06:14,380
+Nein.
+
+61
+00:06:14,380 --> 00:06:27,810
+Okay, dann haben Sie die Schmerzen plötzlich aufgetreten?
+
+62
+00:06:27,810 --> 00:06:28,810
+Nein.
+
+63
+00:06:28,810 --> 00:06:33,810
+Und haben Sie Fieber, Schütterfrost oder Nachtschwache?
+
+64
+00:06:33,810 --> 00:06:40,810
+Fieber nicht, aber ich habe viel Schwitzen und kalter Schweiß.
+
+65
+00:06:40,810 --> 00:06:49,810
+Okay, haben Sie Probleme beim Wasserlassen oder mit dem Stuhlgang?
+
+66
+00:06:49,810 --> 00:06:54,810
+Nein, das war normal.
+
+67
+00:06:54,810 --> 00:06:55,810
+Alles in Ordnung.
+
+68
+00:06:55,810 --> 00:07:01,810
+Okay, also müssen Sie in der Nacht auf die Toilette gehen, ich meine zum Wasserlassen?
+
+69
+00:07:01,810 --> 00:07:05,810
+Ja, aber das war normal.
+
+70
+00:07:05,810 --> 00:07:10,810
+Okay, alles klar. Wie ist Ihr Appetit, darf ich fragen?
+
+71
+00:07:10,810 --> 00:07:16,810
+Mein Appetit ist nicht gut seit 45 Minuten.
+
+72
+00:07:16,810 --> 00:07:24,700
+Okay, alles klar. Haben Sie in der letzten Zeit unwillkürlich ab oder zugenommen?
+
+73
+00:07:24,700 --> 00:07:25,700
+Nein.
+
+74
+00:07:25,700 --> 00:07:35,800
+Herr Langenfelder, schlafen Sie gut? Haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+75
+00:07:35,800 --> 00:07:40,800
+Mein Schlaf ist gut, ja. Es gibt keine Probleme.
+
+76
+00:07:40,800 --> 00:07:47,800
+Okay, das freut mich. Sind Sie schon vollständig gegen Kinderkrankheiten oder Corona-Infektionen geimpft?
+
+77
+00:07:47,800 --> 00:07:49,800
+Ja, ja, vollständig.
+
+78
+00:07:49,800 --> 00:07:55,800
+Okay, und haben Sie in der letzten Zeit eine lange Reise gemacht?
+
+79
+00:07:55,800 --> 00:07:57,800
+Nein.
+
+80
+00:07:57,800 --> 00:08:09,690
+Okay. Herr Langenfelder, leiden Sie an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Bluthochdruck oder Zuckerkrankheit?
+
+81
+00:08:09,690 --> 00:08:21,690
+Ja, ich habe seit acht Jahren Bluthochdruck und Zuckerkrankheit seit sieben Jahren.
+
+82
+00:08:21,690 --> 00:08:41,690
+Ich hatte vor zwölf Jahren nach einem Autounfall eine Verlust an Brustkorbprelung. Das war eine Komözio thoracis. Ich weiß nicht.
+
+83
+00:08:41,690 --> 00:08:56,690
+Vor neun Monaten hatte ich eine Darmentzündung, vielleicht wegen Salmonella-Infektion, weil ich rohes Fleisch gegessen hatte.
+
+84
+00:08:56,690 --> 00:09:06,720
+Okay, wie wurde diese Darmentzündung behandelt?
+
+85
+00:09:06,720 --> 00:09:09,720
+Ja, ja. Eine Medikamente.
+
+86
+00:09:13,150 --> 00:09:28,150
+Okay, und Sie haben gesagt, dass Sie einen Autounfall und eine Brustkorbprelung hatten. Wurde das mit einer Operation behandelt oder nur konservativ?
+
+87
+00:09:28,150 --> 00:09:37,150
+Nein, ich hatte keine Operation, nur konservativ, ja, mit der Konservativtherapie behandelt.
+
+88
+00:09:37,150 --> 00:09:43,150
+Okay, alles klar. Und nehmen Sie gegen Bluthochdruck ein Medikament ein?
+
+89
+00:09:43,150 --> 00:09:45,150
+Ja, ja, natürlich.
+
+90
+00:09:45,150 --> 00:09:49,150
+Welches Medikament? Wie oft?
+
+91
+00:09:49,150 --> 00:10:10,150
+Drei Medikamente nehme ich ein. Icantra 50 mg, zwei Mal morgens und abends Atakan 8 mg, einmal.
+
+92
+00:10:10,150 --> 00:10:25,150
+Aber bis vor neun Monaten habe ich den Medikament eingenommen. Ich habe mich sehr gut gefühlt, habe die Medikation auf eigene Faust abgesetzt.
+
+93
+00:10:25,150 --> 00:10:35,150
+Ich habe keine Lust. Und manchmal nehme ich Ibuprofen ein.
+
+94
+00:10:35,150 --> 00:10:50,310
+Okay, Herr Langenfelder, wenn ich alles richtig verstanden habe, Sie haben die Medikamente gegen Bluthochdruck selbst abgesetzt, ja?
+
+95
+00:10:50,310 --> 00:10:51,310
+Ja.
+
+96
+00:10:51,310 --> 00:11:09,310
+Also, okay, Herr Langenfelder, das Absetzen von Medikamenten ohne ärztlichen Rat kann für Sie sehr gefährlich. Ich empfehle Ihnen regelmäßig Ihren Hausarzt besuchen, ja?
+
+97
+00:11:09,310 --> 00:11:26,310
+Aber ich habe mich sehr gut gefühlt und mein Blutzucker und Bluthochdruck waren eingestellt, normal. Und so habe ich mich sehr gut gefühlt.
+
+98
+00:11:26,310 --> 00:11:41,310
+Okay, ich verstehe Sie sehr gut, aber ich möchte Ihnen sagen, diese Krankheiten sind chronische Erkrankungen. Also Sie sollen diese Medikamente lebenslang benutzen, ja? Das ist sehr wichtig.
+
+99
+00:11:41,310 --> 00:11:46,310
+Also wir können darüber nach dem Gespräch widersprechen, okay? Herr Langenfelder?
+
+100
+00:11:46,310 --> 00:11:47,310
+Okay.
+
+101
+00:11:47,310 --> 00:12:05,310
+Also Sie haben gesagt, dass Sie Atakan und Ikandra eingenommen haben. Also, okay. Sind Sie schon einmal operiert worden?
+
+102
+00:12:05,310 --> 00:12:21,310
+Ja, ich habe eine Wurstnabe am Tenarbereich, die nach einer Operation entstanden ist. Die Operation wurde wegen einer Verlassung gemacht.
+
+103
+00:12:21,310 --> 00:12:26,310
+Was für eine Verlassung ist das? Darf ich fragen?
+
+104
+00:12:26,310 --> 00:12:29,310
+Ja, ich erinnere mich nicht schon lange mehr.
+
+105
+00:12:29,310 --> 00:12:38,670
+Okay, alles klar. Okay, sonst etwas? Eine Operation?
+
+106
+00:12:38,670 --> 00:12:41,670
+Eine Operation, ja, nur eine Operation.
+
+107
+00:12:41,670 --> 00:12:50,980
+Okay. Herr Langenfelder, sind Ihnen irgendwelche Allergien bekannt?
+
+108
+00:12:50,980 --> 00:12:53,980
+Ja, ich habe Polenallergie.
+
+109
+00:12:53,980 --> 00:12:59,260
+Okay, wie äußert sich diese Allergie?
+
+110
+00:12:59,260 --> 00:13:17,260
+Ja, ich habe eine laufende oder verstopfte Nase und Niesen. Meine Augen sind rot und jucken. Ich habe eine wie in der Hautentzündung. Ich nehme Lorana bei Bedarf dagegen ein.
+
+111
+00:13:17,260 --> 00:13:27,980
+Okay, alles klar. Und haben Sie eine Unfertigkeit gegen irgendwelche Nahrungsmittel?
+
+112
+00:13:27,980 --> 00:13:28,980
+Nein.
+
+113
+00:13:28,980 --> 00:13:32,980
+Okay. Raufen Sie?
+
+114
+00:13:32,980 --> 00:13:33,980
+Ja.
+
+115
+00:13:33,980 --> 00:13:36,980
+Seit wann und wie viel?
+
+116
+00:13:36,980 --> 00:13:50,980
+Ich rauche 12 Zigaretten täglich seit 5 Jahren. Aber früher 30 Zigaretten täglich, 15 Jahre lang.
+
+117
+00:13:51,980 --> 00:14:05,980
+Okay, Sie haben eine gute Entscheidung betroffen, für Ihre Gesundheit das Rauchen zu reduzieren, Herr Langenfelder. Also ich brötele Ihnen. Trinken Sie regelmäßig Alkohol?
+
+118
+00:14:05,980 --> 00:14:10,980
+Ja, ich trinke ein Flasche Bier täglich.
+
+119
+00:14:10,980 --> 00:14:20,580
+Okay, bitte nehmen Sie die nächste Frage nicht persönlich. Das ist eine Routinefrage. Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+120
+00:14:20,580 --> 00:14:26,580
+Aber warum fragen Sie Drogen?
+
+121
+00:14:26,580 --> 00:14:43,580
+Ja, wie gesagt, das ist eine Routinefrage, Herr Langenfelder. Also ich möchte sichergehen, ob Sie ein Drogen benutzen nehmen, wegen Nebenwirkungen oder Mitwirkungen mit anderen Medizin.
+
+122
+00:14:43,580 --> 00:14:45,580
+Okay, nein.
+
+123
+00:14:45,580 --> 00:14:56,580
+Okay, das freut mich. Leiden Ihre Eltern an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Bluthochdruck, Schlaganfall?
+
+124
+00:14:57,580 --> 00:15:14,580
+Ja, mein Vater ist leider an Lungenkrebs gestorben. Er hatte als Bergmann gearbeitet und er hatte Staub-Lunge. Wie kann man Staub-Lunge?
+
+125
+00:15:15,580 --> 00:15:34,580
+Ja, also das ist eine Lungenkrankheit. Wir sagen Pneumokoniose. Also das ist ein Fachbegriff, aber dieser Bergmann Job verursacht diese Probleme, Herr Langenfelder. Es tut mir leid, das zu hören.
+
+126
+00:15:34,580 --> 00:15:36,580
+Ja, danke.
+
+127
+00:15:36,580 --> 00:15:38,580
+Ja, okay. Ihre Mutter?
+
+128
+00:15:38,580 --> 00:15:52,580
+Meine Mutter lebt noch, aber sie hat viele Probleme. Sie hat Hypophise und Bluthochdruck.
+
+129
+00:15:52,580 --> 00:15:58,120
+Okay. Haben Sie Geschwister?
+
+130
+00:15:58,120 --> 00:16:00,120
+Nein.
+
+131
+00:16:00,120 --> 00:16:02,120
+Wie ist Ihr Familienstand?
+
+132
+00:16:02,120 --> 00:16:04,120
+Ja, ich bin verheiratet.
+
+133
+00:16:04,120 --> 00:16:08,120
+Und haben Sie Kinder?
+
+134
+00:16:08,120 --> 00:16:28,120
+Ja, ich habe zwölf Jahre, die 19 Jahre alt sind. Ein Sohn und eine Tochter. Mein Sohn hat Mobelskron, aber meine Tochter ist gesund.
+
+135
+00:16:28,120 --> 00:16:35,120
+Okay, das tut mir leid, das zu hören. Was sind Sie von Beruf?
+
+136
+00:16:35,120 --> 00:16:39,120
+Ich bin Heizungsinstallatür.
+
+137
+00:16:39,120 --> 00:16:46,730
+Okay, wohnen Sie mit Ihrer Familie?
+
+138
+00:16:46,730 --> 00:16:48,730
+Ja, natürlich.
+
+139
+00:16:48,730 --> 00:17:07,580
+Alles klar. Herr Langenfelder, ich möchte sichergehen, dass Sie Ikandra gegen Bluthochdruck eingenommen haben und Attakant auch gegen Bluthochdruck, oder?
+
+140
+00:17:07,580 --> 00:17:08,580
+Ja, ja.
+
+141
+00:17:08,580 --> 00:17:15,580
+Haben Sie gegen Bluthochdruck ein Medikament eingenommen oder nehmen Sie regelmäßig ein?
+
+142
+00:17:15,580 --> 00:17:20,580
+Nein, ich habe zwei Medikamente eingenommen.
+
+143
+00:17:20,580 --> 00:17:23,580
+Okay, alles klar.
+
+144
+00:17:23,580 --> 00:17:30,580
+Das waren meine Fragen, Herr Langenfelder. Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+145
+00:17:30,580 --> 00:17:45,580
+Ja, was habe ich, Herr Doktor? Sie haben mir EKW geschrieben lassen und das ist gefährlich oder nicht?
+
+146
+00:17:45,580 --> 00:17:54,580
+Also Herr Langenfelder, es ist zu früh etwas genau zu sagen, aber ich vermute, dass Sie ein Herzproblem haben.
+
+147
+00:17:54,580 --> 00:18:12,580
+Also ich meine, es kann eine Durchblutstörung sein. Ohne Therapie ist das sehr gefährlich sein, aber machen Sie sich bitte keine Sorgen. Sie sind jetzt hier im Krankenhaus und Sie sind bei uns in guten Händen.
+
+148
+00:18:12,580 --> 00:18:26,580
+Wir haben viele Erfahrungen über dieses Problem. Ich werde Sie zuerst körperlich untersuchen und dann werde ich Ihnen Blut abnehmen und ein paar Untersuchungen veranlassen.
+
+149
+00:18:26,580 --> 00:18:32,580
+Und sobald alle Ergebnisse da sind, werde ich Ihnen die weiteren Informationen mitteilen, okay?
+
+150
+00:18:32,580 --> 00:18:34,580
+Okay.
+
+151
+00:18:34,580 --> 00:18:41,090
+Okay, bitte nehmen Sie Platz im Wartezimmer. Ich bin gleich wieder da.
+
+152
+00:18:41,090 --> 00:18:50,600
+Ich habe zuerst gesagt, dass es keine große Schmerzen gibt.
+
+153
+00:18:50,600 --> 00:18:54,600
+Ich werde mir sicherlich etwas mehr vergessen.
+
+154
+00:18:54,600 --> 00:19:07,600
+Herr Langenfelder, wie stark sind diese Schmerzen auf einer Schmerzkala von 1 bis 10, wobei 1 sehr leicht und 10 sehr starke Schmerzen entspricht?
+
+155
+00:19:07,600 --> 00:19:09,600
+Ja, 9.
+
+156
+00:19:09,600 --> 00:19:20,230
+Okay, das ist eine sehr starke Schmerzen, Herr Langenfelder. Also ich werde Ihnen ein Schmerzmittel geben, okay?
+
+157
+00:19:20,230 --> 00:19:24,600
+Okay.
+
+158
+00:19:24,600 --> 00:19:30,830
+Okay, schönen guten Tag, Herr Oberarzt.
+
+159
+00:19:30,830 --> 00:19:37,830
+Ich habe einen neuen Patienten aufgenommen. Ich würde gerne über ihn berichten. Haben Sie kurz Zeit für mich?
+
+160
+00:19:37,830 --> 00:19:39,830
+Ja, bitte.
+
+161
+00:19:39,830 --> 00:19:50,830
+Danke schön. Herr Erward Langenfelder ist 50 Jahre alt, 1,84 Meter groß und 80 Kilogramm schwer.
+
+162
+00:19:50,830 --> 00:20:05,830
+Herr Langenfelder, ich denke, Sie heute bei uns seit 44 Minuten bestehender Brustschmerzen vor.
+
+163
+00:20:05,830 --> 00:20:15,830
+Dem Patienten zufolge seien die Schmerzen plötzlich aufgetreten und mit der Zeit schlimmer geworden.
+
+164
+00:20:15,830 --> 00:20:25,830
+Die Schmerzen seien drückend und der Patient verspüre ein enges Gefühl in der Brust.
+
+165
+00:20:25,830 --> 00:20:35,830
+Die Schmerzen würden in den linken Arm und in den Unterkiefern ausstrahlen.
+
+166
+00:20:35,830 --> 00:20:52,830
+Er berichtete über Dyspnoe, Nausea und Emesis. Das Erbrochene sah gelblich und mit Essenreste.
+
+167
+00:20:52,830 --> 00:20:59,830
+Der Patient habe kein Blut im Erbrochene bemerkt.
+
+168
+00:20:59,830 --> 00:21:09,830
+Die Schmerzintensität wurde auf einer Schmerzskala mit 9 von 10 bewertet.
+
+169
+00:21:09,830 --> 00:21:29,750
+Außerdem klagte der Patient über Kaltschweiß, Schweißausbrüche und die Fragen nach Beinodeme,
+
+170
+00:21:29,750 --> 00:21:44,750
+die zu sich wurden verneint. Der Patient berichtete, dass diese Schmerzen während einer Arbeit im Garten
+
+171
+00:21:44,750 --> 00:22:03,750
+nach einem Streit mit dem Nachbarn aufgetreten und die Schmerzen seien auch in Ruhe aufgetreten.
+
+172
+00:22:03,750 --> 00:22:17,750
+Die vegetative Anamnese ist bis schmerzbedingte Inappetenz unaufällig.
+
+173
+00:22:17,750 --> 00:22:26,750
+Er sei vollständig gegen Kinderkrankheiten geimpft und Reiseanamnese wurde verneint.
+
+174
+00:22:26,750 --> 00:22:35,750
+Anvor Erkrankungen nannte er seit 7 Jahren bestehende arteriale Hypertonie,
+
+175
+00:22:35,750 --> 00:22:49,260
+seit 8 Jahren bestehenden Diabetes mellitus, vor 12 Jahren diagnostizierte Komotia thoracis
+
+176
+00:22:49,260 --> 00:22:55,260
+bei einem Autounfall, die konservativ behandelt worden sei.
+
+177
+00:22:55,260 --> 00:23:11,260
+Vor 9 Monaten diagnostizierte er Salmonella-Infektion wegen eines Essens rohes Fleisch,
+
+178
+00:23:11,260 --> 00:23:27,500
+die mit Antibiotika behandelt worden sei. Der Patient nehme Atakan 8 mg morgens und
+
+179
+00:23:27,500 --> 00:23:52,500
+Ikandra 50 mg morgens und abends, bis vor 9 Monaten, seit 9 Monaten nehme der Patient diese Medikamente nicht mehr ein.
+
+180
+00:23:52,500 --> 00:24:09,500
+Er habe die Medikamente ohne ärztlichen Rat abgesetzt. Er nehme Ibuprofen und Loranatablette bei Bedarf ein.
+
+181
+00:24:09,500 --> 00:24:33,500
+Er sei wegen einer Verletzung im Tänabereich bei einer Verletzung operiert worden sei
+
+182
+00:24:33,500 --> 00:24:47,170
+und er leide unter einer Narbe in diesem Bereich. Er habe Allergie gegen Pollen,
+
+183
+00:24:47,170 --> 00:25:00,170
+die sich durch Rhinoconjunktivitis und Niesen äußert. Er sei Raucher und er rauche 12 Zigaretten
+
+184
+00:25:00,170 --> 00:25:11,170
+täglich seit 5 Jahren. Davor habe er 30 Zigaretten täglich 50 Jahre lang geraucht.
+
+185
+00:25:11,170 --> 00:25:18,170
+Er trinke eine Flasche Bier täglich und Drogenkonsum wurde verneint.
+
+186
+00:25:18,170 --> 00:25:32,170
+In der Familienanamnese gab er an, dass der Vater an Ebronchiakazinom verstorben sei.
+
+187
+00:25:32,170 --> 00:25:47,170
+Er habe als Bergmann gearbeitet und unter Pneumokoniosis gelitten habe.
+
+188
+00:25:47,170 --> 00:25:56,170
+Die Mutter leider an Hypophysiadenoma und Diabetes mellitus.
+
+189
+00:25:56,170 --> 00:26:04,170
+Er sei Einzelkind verheiratet und habe Zwillinge. Sie sind 19 Jahre alt.
+
+190
+00:26:04,170 --> 00:26:10,170
+Der Sohn leider an Mobus Crohn. Die Tochter sei gesund.
+
+191
+00:26:10,170 --> 00:26:20,170
+Der Patient wohne mit seiner Familie zusammen und er sei Heizung in Stalatoja von Beruf.
+
+192
+00:26:20,170 --> 00:26:31,170
+Ich gehe von einem Verdacht auf ein akutes Coronasyndrom aus, da der Patient typische Symptome dafür aufweist.
+
+193
+00:26:31,170 --> 00:26:43,170
+Der Patient leidet unter retrochiternale Schmerzen, Engelgefühl, Dyspnoe, Kaltschweiß, Schweißausbrüche
+
+194
+00:26:43,170 --> 00:26:50,170
+Diese Symptome sprechen für ein akutes Coronasyndrom.
+
+195
+00:26:50,170 --> 00:27:12,170
+Als differential Diagnosen kommen Retroesophage reflu oder Pneumonie.
+
+196
+00:27:12,170 --> 00:27:20,170
+Ich bin in der Zeit der Pneumonie und habe eine Herzinsuffizienz in Betracht.
+
+197
+00:27:20,170 --> 00:27:32,170
+Um meine Verdachtdiagnose zu bestätigen, würde ich zunächst bei den Patienten die Diabetes überwachen und eine körperliche Untersuchung durchführen.
+
+198
+00:27:32,170 --> 00:27:47,170
+Bei der körperlichen Untersuchung achte ich darauf, ob Hautfarbeveränderungen, Cyanose, Pallur vorhanden sind.
+
+199
+00:27:47,170 --> 00:27:59,170
+Zusätzlich ist eine Laboruntersuchung sinnvoll, um eine umfassende Diagnostik zu gewährleisten.
+
+200
+00:27:59,170 --> 00:28:15,170
+Dabei würde ich Blutbild, CAP, BSG, Herzinzyme, Dedimere, Leberwerte, Nierenwerte, Elektrolyten, BNP bestimmen lassen.
+
+201
+00:28:15,170 --> 00:28:23,170
+Danach würde ich eine EKG schreiben, um meine Verdachtdiagnose zu bestätigen.
+
+202
+00:28:23,170 --> 00:28:40,170
+Darüber hinaus würde ich eine PTCA durchführen, um meine Verdachtdiagnose zu bestätigen und gleichzeitig zu behandeln.
+
+203
+00:28:40,170 --> 00:28:45,170
+Also in diesem Fall, Herr Kollegen, eine Echokardiographie?
+
+204
+00:28:45,170 --> 00:29:01,170
+Eine Echokardiographie würde auch sinnvoll sein, um Herzwand- oder Herzklappenstörungen auszuschließen. Sie haben recht, Herr Oberarzt.
+
+205
+00:29:01,170 --> 00:29:11,170
+Und sollte sich die Verdachtdiagnose bestätigen, würde ich den Patienten stationär aufnehmen.
+
+206
+00:29:11,170 --> 00:29:44,150
+Und ich würde einen Menösenzugang legen und dann würde ich Akutmaßnahmen-Medikamente anordnen, wie zum Beispiel Morphin, Sauerstoffgabe, Nitroglycerin, Heparin und ASS.
+
+207
+00:29:44,150 --> 00:30:00,150
+Und ich würde für langzeitige Therapie, Betaglucke, ACE, HEMA, Lipidsenkungen anordnen.
+
+208
+00:30:00,150 --> 00:30:15,150
+Wenn ich keine Möglichkeit für eine PTCA habe, würde ich eine Thrombolitiktherapie wie Streptokinase verabreichen.
+
+209
+00:30:15,150 --> 00:30:25,150
+Und ich würde ein Kardiologisches Konzil anfordern, um die Therapie des Patienten zu optimieren.
+
+210
+00:30:25,150 --> 00:30:38,150
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit der geplanten Untersuchung fortfahren.
+
+211
+00:30:38,150 --> 00:30:44,150
+Ist das möglich während der PTCA-Behandlung?
+
+212
+00:30:44,150 --> 00:30:50,420
+Meinen Sie eine Behandlung während der PTCA?
+
+213
+00:30:50,420 --> 00:30:51,420
+Ja.
+
+214
+00:30:51,420 --> 00:30:59,420
+Genau. Wir können während der PTCA auch eine Behandlung durchführen.
+
+215
+00:30:59,420 --> 00:31:12,420
+Wir können die verengte Gefäße darstellen und dann können wir mit einem Ballon diese Gefäße erweitern.
+
+216
+00:31:12,420 --> 00:31:19,420
+Und meistens setzen wir einen Stand ein.
+
+217
+00:31:19,420 --> 00:31:28,420
+Wenn Sie Stand legen nicht möglich, was empfehlen Sie den Patienten?
+
+218
+00:31:28,420 --> 00:31:47,580
+Wir können auch eine Bypass-Operation durchführen, wenn es keine Möglichkeit mit der PTCA gibt.
+
+219
+00:31:48,580 --> 00:31:55,580
+Herr Kollegin, können Sie uns eine Bypass-Operation aufklären?
+
+220
+00:31:55,580 --> 00:32:02,580
+Ja, ich werde Sie über eine Bypass-Operation aufklären.
+
+221
+00:32:02,580 --> 00:32:17,580
+Eine Bypass-Operation ist eine Therapiemöglichkeit, mit der wir die Herz-Kranz-Gefäßprobleme behandeln.
+
+222
+00:32:17,580 --> 00:32:29,580
+Um diese Operation zu machen, sollen wir zuerst ein Gefäß schüttern, Herr Oberarzt.
+
+223
+00:32:29,580 --> 00:32:37,580
+Wir werden den Patienten von Narkose geben.
+
+224
+00:32:37,580 --> 00:32:47,580
+Dann werden wir ein Gerät für einen künstlichen Kreislauf erhalten.
+
+225
+00:32:47,580 --> 00:33:02,580
+Dann werden wir ein Gefäß aus der Oberschenkel, meistens von Stefana Magna, benutzen.
+
+226
+00:33:02,580 --> 00:33:10,580
+Dann werden wir ein Gefäß aus der Oberschenkel, meistens von Stefana Magna, benutzen.
+
+227
+00:33:10,580 --> 00:33:17,580
+Aber leider weiß ich die Details nicht, Herr Oberarzt.
+
+228
+00:33:17,580 --> 00:33:24,120
+Können Sie eine PTCA, Herr Kollege?
+
+229
+00:33:24,120 --> 00:33:31,120
+Ich werde Sie gerne über eine PTCA aufklären.
+
+230
+00:33:31,120 --> 00:33:47,120
+Percutane Transdiminale Korona-Angiografie ist eine Behandlungsmethode.
+
+231
+00:33:47,120 --> 00:34:12,120
+Bei dieser Untersuchung schieben wir einen dünnen flexiblen Katheter durch die Leichtenarterie oder Handgelenkarterie bis in die verengte Gefäße vor.
+
+232
+00:34:12,120 --> 00:34:32,120
+Dann verabreichen wir dem Patienten ein Kontrastmittel, um die verengte Gefäße sichtbar zu machen mit Hilfe der Strahlen.
+
+233
+00:34:32,120 --> 00:34:42,120
+Diese Untersuchung dauert ca. 30 bis 60 Minuten.
+
+234
+00:34:42,120 --> 00:34:53,120
+Vor der Untersuchung soll der Patient 6 Stunden nicht mehr essen oder trinken.
+
+235
+00:34:53,120 --> 00:35:08,120
+Diese Untersuchung ist eine risikoarme Untersuchung, aber wir können einige Komplikationen, wie z.B. Nachblutungen oder Blutgerinnsel, sehen.
+
+236
+00:35:08,120 --> 00:35:20,120
+Diese Untersuchung kann sowohl zu diagnostischen als auch zu therapeutischen Zwecken benutzt werden.
+
+237
+00:35:20,120 --> 00:35:32,120
+Wir können während dieser Untersuchung die verengte Gefäße darstellen und auch mit einem Ballon diese Gefäße erweitern.
+
+238
+00:35:32,120 --> 00:35:39,120
+Meistens können wir einen Stent einsetzen.
+
+239
+00:35:39,120 --> 00:36:02,330
+Nach der Untersuchung soll der Patient ein paar Stunden im Krankenhaus zur Beobachtung und das betroffene Bein ruhig halten.
+
+240
+00:36:02,330 --> 00:36:11,250
+Herr Kollegen, wo beachten Sie diese Patienten?
+
+241
+00:36:11,250 --> 00:36:18,990
+Als Behandlung beinahe?
+
+242
+00:36:18,990 --> 00:36:22,990
+Im Krankenhaus, welche Teil?
+
+243
+00:36:22,990 --> 00:36:30,940
+Herz-Katastrophe-Labor.
+
+244
+00:36:30,940 --> 00:36:36,940
+Sollen wir die Patienten aufnehmen?
+
+245
+00:36:36,940 --> 00:36:40,940
+Corona Intensive Clinic oder Normal Intensive Clinic?
+
+246
+00:36:40,940 --> 00:36:44,940
+Corona Intensive Clinic.
+
+247
+00:36:44,940 --> 00:36:52,940
+Nach der Behandlung, was empfehlen Sie den Patienten?
+
+248
+00:36:52,940 --> 00:36:56,940
+Lebensstiftveränderungen sind sehr wichtig.
+
+249
+00:36:56,940 --> 00:37:15,940
+Er ist ein Raucher und wir empfehlen den Patienten mit dem Rauchen aufzuhören und Alkoholkonsum zu reduzieren oder besser aufzuhören.
+
+250
+00:37:15,940 --> 00:37:29,940
+Der Patient hat die Medikamente für Arthrohypertansion und Arthrohypertonie und Diabetes mellitus selbst abgesetzt.
+
+251
+00:37:29,940 --> 00:37:31,940
+Das ist sehr gefährlich.
+
+252
+00:37:31,940 --> 00:37:37,940
+Eine Schulung bei dem Patienten wäre sehr gut.
+
+253
+00:37:37,940 --> 00:37:54,940
+Der Patient muss seinen Hausarzt regelmäßig besuchen, um seine Blutzuckerwerte und Bluthochdruck zu regulieren.
+
+254
+00:37:54,940 --> 00:38:10,940
+Regelmäßige Aktivität ist auch sehr wichtig bei den Patienten.
+
+255
+00:38:10,940 --> 00:38:18,940
+Empfehlen Sie in diesem Fall Ernährungsumstellung?
+
+256
+00:38:18,940 --> 00:38:28,940
+Der Patient leidet an Althohypertonie.
+
+257
+00:38:28,940 --> 00:38:51,760
+Der Arme-Diät ist sehr wichtig bei den Patienten und er soll eine Diät gegen Diabetes mellitus machen.
+
+258
+00:38:51,760 --> 00:39:03,980
+Empfehlen Sie in diesem Fall Beweglichkeit?
+
+259
+00:39:03,980 --> 00:39:22,060
+Regelmäßiges Laufen wäre eine gute Möglichkeit bei diesen Patienten.
+
+260
+00:39:22,060 --> 00:39:32,930
+Und gute Nachbarn.
+
+261
+00:39:32,930 --> 00:39:37,930
+Das ist sehr wichtig. Sie haben recht.
+
+262
+00:39:37,930 --> 00:39:41,930
+Das ist das wichtigste Punkt.
