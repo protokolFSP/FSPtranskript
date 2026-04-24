@@ -1,0 +1,1107 @@
+1
+00:00:02,100 --> 00:00:10,400
+Schönen guten Tag, mein Name ist Ujjak. Ich bin auf dieser Station als Assistenzarzt tätig und ich würde gerne mit Ihnen das Anamnesegespräch durchführen.
+
+2
+00:00:10,400 --> 00:00:12,400
+Damit sind Sie einverstanden?
+
+3
+00:00:12,400 --> 00:00:14,400
+Ja, natürlich.
+
+4
+00:00:14,400 --> 00:00:18,900
+Bitte fragen Sie nach, wenn Sie etwas nicht verstehen, okay?
+
+5
+00:00:18,900 --> 00:00:19,900
+Okay.
+
+6
+00:00:19,900 --> 00:00:21,400
+Wie heißen Sie denn?
+
+7
+00:00:21,400 --> 00:00:23,400
+Anna Maria Poletz.
+
+8
+00:00:23,400 --> 00:00:30,950
+Könnten Sie bitte Ihren Vornachnamen langsam buchstabieren?
+
+9
+00:00:31,250 --> 00:00:55,250
+A, N, N, A, M, A, E, I, E. Anna Maria, meine Vorname. Ich habe zwei Vorname. Meine Nachname ist V, O, L, L, E, T, Z. Poletz.
+
+10
+00:00:55,250 --> 00:00:59,250
+Okay. Frau Poletz, wie alt sind Sie?
+
+11
+00:00:59,550 --> 00:01:02,550
+Ich bin 57 Jahre alt.
+
+12
+00:01:03,550 --> 00:01:06,550
+Wann sind Sie genau geboren?
+
+13
+00:01:06,550 --> 00:01:16,550
+29. Mai 1968.
+
+14
+00:01:16,550 --> 00:01:20,720
+Wie groß sind Sie?
+
+15
+00:01:20,720 --> 00:01:23,720
+1,70 Meter.
+
+16
+00:01:23,720 --> 00:01:26,720
+Und wie schwer sind Sie so seit?
+
+17
+00:01:26,720 --> 00:01:29,720
+68 Kilogramm schwer, ja.
+
+18
+00:01:30,020 --> 00:01:36,020
+Okay. Frau Poletz, was kann ich für Sie tun? Was für Beschwerden haben Sie so seit?
+
+19
+00:01:36,020 --> 00:01:42,020
+Ja, Doktor, ich habe seit drei Wochen Bauchschmerzen.
+
+20
+00:01:42,020 --> 00:01:47,850
+Wo genau sind diese Schmerzen?
+
+21
+00:01:47,850 --> 00:01:53,670
+Meine Schmerzen sind mein Oberbauch.
+
+22
+00:01:53,670 --> 00:01:58,670
+Welche Seite meinen Sie? Also in der Mitte oder in der rechten Seite, in der linken Seite?
+
+23
+00:01:58,970 --> 00:02:07,970
+Ja, ich denke ganz oberbauch, aber vielleicht ein bisschen in der rechten Seite.
+
+24
+00:02:07,970 --> 00:02:10,970
+Nein, nein, linke.
+
+25
+00:02:10,970 --> 00:02:16,480
+Okay. Strahlen diese Schmerzen irgendwo hinaus?
+
+26
+00:02:16,480 --> 00:02:19,480
+Ich habe nicht bemerkt, Doktor, nein.
+
+27
+00:02:19,480 --> 00:02:24,480
+Okay. Sind diese Schmerzen plötzlich oder langsam aufgetreten?
+
+28
+00:02:24,480 --> 00:02:31,540
+Ja, plötzlich, ja.
+
+29
+00:02:31,840 --> 00:02:40,840
+Könnten Sie bitte Ihre Schmerzen genau beschreiben? Also sind Sie eher drückend, stechend, brennend?
+
+30
+00:02:40,840 --> 00:02:51,380
+Die Schmerzen sind drückend und brennend, ja.
+
+31
+00:02:51,380 --> 00:03:01,380
+Okay. Wie haben diese Schmerzen mit der Zeit verändert? Ich meine schlimmer geworden oder besser geworden?
+
+32
+00:03:01,680 --> 00:03:08,680
+Die Schmerzen sind immer stärker geworden, Doktor.
+
+33
+00:03:08,680 --> 00:03:15,680
+Okay. Frau Wollets, wie stark sind die Schmerzen auf einer Schmerzskala von 1 bis 10?
+
+34
+00:03:15,680 --> 00:03:30,680
+Doktor, die Schmerzen sind, ich denke, wellenformig. Manchmal 3, manchmal 6, manchmal 9. Aber jetzt sind es 6.
+
+35
+00:03:32,450 --> 00:03:39,450
+Okay. Haben Sie ähnliche Beschwerden früher gehabt?
+
+36
+00:03:39,450 --> 00:03:42,450
+Nein, Doktor.
+
+37
+00:03:42,450 --> 00:03:51,450
+Und waren Sie schon einmal bei einem anderen Arzt gewesen? Ich meine wegen dieser Schmerzen?
+
+38
+00:03:51,450 --> 00:03:59,450
+Ich habe nicht an einem anderen Arzt gewesen, Doktor.
+
+39
+00:03:59,750 --> 00:04:06,750
+Okay. Und haben Sie gegen diese Schmerzen irgendwelche Medikamente eingenommen?
+
+40
+00:04:06,750 --> 00:04:17,750
+Ja, ich habe Paracetamol, ich nehme Paracetamol, 15 mg abgenommen.
+
+41
+00:04:17,750 --> 00:04:20,750
+Meinst du 500 mg?
+
+42
+00:04:20,750 --> 00:04:26,750
+Ja, 500 mg. Aber es hat mir nicht geholfen, ja.
+
+43
+00:04:27,050 --> 00:04:35,050
+Okay. Frau Wollets, gibt es etwas, das die Schmerzen lindert oder verschlimmert?
+
+44
+00:04:35,050 --> 00:04:40,050
+Ja, Doktor. Die Schmerzen bessern sich meistens nach dem Essen.
+
+45
+00:04:40,050 --> 00:04:53,010
+Okay, alles klar. Leiden Sie unter Sodbrennen oder Sauerstoff?
+
+46
+00:04:53,010 --> 00:04:58,900
+Ja, ich habe auch Sodbrennen, ja.
+
+47
+00:04:59,200 --> 00:05:06,200
+Leiden Sie unter Brustschmerzen oder einem engeren Gefühl in der Brust?
+
+48
+00:05:06,200 --> 00:05:14,440
+Ich habe nicht bemerkt, nein.
+
+49
+00:05:14,440 --> 00:05:19,440
+Okay. Frau Wollets, haben Sie Husten oder Luftnot?
+
+50
+00:05:19,440 --> 00:05:27,820
+Ich habe keine Luftnot oder was?
+
+51
+00:05:27,820 --> 00:05:29,820
+Husten oder Luftnot?
+
+52
+00:05:29,820 --> 00:05:31,820
+Nein.
+
+53
+00:05:32,120 --> 00:05:36,120
+Ist Ihnen übel oder mussten Sie erbrechen?
+
+54
+00:05:36,120 --> 00:05:43,120
+Ja, Doktor. Vor ein paar Tagen hatte ich sogar Blut im Erbrochenen, ja.
+
+55
+00:05:43,120 --> 00:05:46,120
+Ich habe erbrochen, ja.
+
+56
+00:05:46,120 --> 00:05:50,120
+Wie oft mussten Sie erbrechen?
+
+57
+00:05:50,120 --> 00:05:54,120
+Zwei oder dreimal, ja.
+
+58
+00:05:54,120 --> 00:05:56,120
+Und Sie haben Blut bemerkt, ja?
+
+59
+00:05:56,120 --> 00:06:00,120
+Ja, ich habe Blut bemerkt im Erbrochen.
+
+60
+00:06:00,420 --> 00:06:06,420
+Also darf ich fragen, ist dieser Blut hell oder ein schwarzer Blut?
+
+61
+00:06:06,420 --> 00:06:11,530
+Ein schwarzer, ja.
+
+62
+00:06:11,530 --> 00:06:13,530
+Wie ein Kaffeesatz, ja?
+
+63
+00:06:13,530 --> 00:06:15,530
+Ja, ja, richtig.
+
+64
+00:06:15,530 --> 00:06:22,530
+Okay. Alles klar. Momentan haben Sie ähnliche Beschwerden, Frau Wollets?
+
+65
+00:06:22,530 --> 00:06:24,530
+Ich meine Blutung?
+
+66
+00:06:24,530 --> 00:06:27,530
+Ich habe nicht bemerkt, nein.
+
+67
+00:06:27,530 --> 00:06:30,530
+Wann war das letzte Mal?
+
+68
+00:06:30,830 --> 00:06:33,830
+Vor zwei Tagen.
+
+69
+00:06:33,830 --> 00:06:39,830
+Okay. Haben Sie ähnliche Beschwerden auch im Stuhl bemerkt?
+
+70
+00:06:39,830 --> 00:06:47,370
+Ja, ja. Sie haben Recht. Mein Stuhl war schwarz, ja Doktor.
+
+71
+00:06:47,370 --> 00:06:52,370
+Vor ein oder zwei Tagen, ja. Ich habe bemerkt.
+
+72
+00:06:52,370 --> 00:06:57,900
+Okay. Aber momentan haben Sie kein Problem, ja?
+
+73
+00:06:57,900 --> 00:06:59,900
+Ja, ja, richtig, ja.
+
+74
+00:06:59,900 --> 00:07:02,900
+Okay. Alles klar.
+
+75
+00:07:03,200 --> 00:07:12,200
+Frau Wollets, haben Sie eine Hautfarbeveränderung, wie zum Beispiel, blaze Haut bemerkt?
+
+76
+00:07:12,200 --> 00:07:15,200
+Ich habe nicht bemerkt, Doktor.
+
+77
+00:07:15,200 --> 00:07:21,200
+Aber in letzter Zeit fühle ich mich oft kurzatmig.
+
+78
+00:07:21,200 --> 00:07:27,200
+Mein Arzt meinte, das kommt wahrscheinlich von der Blutarmut, ja.
+
+79
+00:07:27,200 --> 00:07:31,800
+Okay. Alles klar.
+
+80
+00:07:32,100 --> 00:07:37,100
+Also wir können sagen, ich glaube Sie haben ein bisschen auch Luftnot, richtig?
+
+81
+00:07:37,100 --> 00:07:40,100
+Ja, ein bisschen, ja. Sie haben Recht, ja.
+
+82
+00:07:40,100 --> 00:07:46,100
+Okay. Haben Sie Probleme mit dem Wasserlassen?
+
+83
+00:07:46,100 --> 00:07:51,100
+Wasserlassen? Ja, ich habe keine Probleme, nein.
+
+84
+00:07:51,100 --> 00:07:54,100
+Okay. Fühlen Sie sich fieberig?
+
+85
+00:07:54,100 --> 00:07:59,100
+Ich habe nicht gemessen, aber ich fühle mich nicht fieberig, nein.
+
+86
+00:07:59,400 --> 00:08:02,400
+Haben Sie Schüterfrost oder Nachtschweiß?
+
+87
+00:08:02,400 --> 00:08:05,810
+Ich habe keine, nein.
+
+88
+00:08:05,810 --> 00:08:09,810
+Alles klar. Wie ist Ihr Appetit?
+
+89
+00:08:09,810 --> 00:08:28,030
+Ich habe auch kaum Appetit. Und in den letzten zwei Wochen etwa drei, vier bis fünf Kilo abgenommen, Doktor.
+
+90
+00:08:28,030 --> 00:08:33,240
+Okay. Und schlafen Sie gut?
+
+91
+00:08:33,540 --> 00:08:39,540
+Ja, nachts kann ich schlecht schlafen, Doktor.
+
+92
+00:08:39,540 --> 00:08:43,540
+Haben Sie Probleme einzuschlafen oder durchzuschlafen?
+
+93
+00:08:43,540 --> 00:08:47,900
+Weiter.
+
+94
+00:08:47,900 --> 00:08:56,900
+Okay. Frau Wollitz, sind Sie vollständig gegen Kinderkrankheiten geimpft?
+
+95
+00:08:57,200 --> 00:09:08,870
+Ja, ich bin vollständig gegen Kinderkrankheiten geimpft, Doktor. So wie gegen Covid-19. Viermal.
+
+96
+00:09:08,870 --> 00:09:17,870
+Okay, alles klar. Leiden Sie an chronischen Erkrankungen, von denen ich wissen sollte, wie zum Beispiel Bluthochdruck oder Zuckerkrankheit?
+
+97
+00:09:17,870 --> 00:09:23,870
+Ja, ich habe seit zehn Jahren Bluthochdruck.
+
+98
+00:09:23,870 --> 00:09:26,870
+Und was nehmen Sie dagegen ein?
+
+99
+00:09:27,170 --> 00:09:37,170
+Ramipril 2,5 mg morgens und Metaprol 15 mg eine halbe Tablette morgens.
+
+100
+00:09:37,170 --> 00:09:46,900
+Sonst noch etwas? Ich meine andere Erkrankungen?
+
+101
+00:09:46,900 --> 00:09:54,660
+Ja, seit zwei Jahren auch Probleme mit dem Cholesterin, Doktor.
+
+102
+00:09:54,660 --> 00:09:57,660
+Und was nehmen Sie dagegen ein?
+
+103
+00:09:57,660 --> 00:10:03,660
+Ich nehme Atobastatin 14 mg abends ein.
+
+104
+00:10:06,360 --> 00:10:09,360
+15 mg? Haben Sie gesagt oder?
+
+105
+00:10:09,360 --> 00:10:10,360
+14 mg.
+
+106
+00:10:10,360 --> 00:10:11,360
+40 mg?
+
+107
+00:10:11,360 --> 00:10:13,360
+Ja, 40 mg. Entschuldigung.
+
+108
+00:10:13,360 --> 00:10:16,360
+Okay. Abends, ja? Okay.
+
+109
+00:10:16,360 --> 00:10:19,360
+Sonst noch?
+
+110
+00:10:19,360 --> 00:10:31,330
+Ja, außerdem habe ich eine Bandscheibung vor Verwurfung. Da gegen nehme ich manchmal Ibuprofen.
+
+111
+00:10:31,330 --> 00:10:34,330
+Welche Dosierung? Und wie oft?
+
+112
+00:10:34,630 --> 00:10:43,350
+Ja, 15 mg. Entschuldigung, 500 mg.
+
+113
+00:10:43,350 --> 00:10:46,350
+500 mg? Okay. Und wie oft nehmen Sie ein?
+
+114
+00:10:46,350 --> 00:10:53,350
+Aber ich nehme zwei Bedarf. Manchmal einmal, manchmal dreimal.
+
+115
+00:10:53,350 --> 00:11:01,350
+Drei Bedarf. Okay. Seit wann leiden Sie Bandscheibung vor Verwurfung? Und in welchem Bereich? Darf ich fragen?
+
+116
+00:11:01,650 --> 00:11:08,120
+Der rechte Bereich seit fünf Jahren, ja.
+
+117
+00:11:08,120 --> 00:11:12,120
+Seit fünf Jahren? Ich meine Lendenbereich oder Halsbereich?
+
+118
+00:11:12,120 --> 00:11:15,500
+Lendenbereich, Doktor.
+
+119
+00:11:15,500 --> 00:11:19,500
+Okay, alles klar. Das war's oder?
+
+120
+00:11:19,500 --> 00:11:32,740
+Nein. Ich leide auch an einem Register mit chronischer Verstopfung.
+
+121
+00:11:32,740 --> 00:11:38,740
+Sie haben chronische Verstopfung und Sie leiden an Reiz-Darm-Syndrom, haben Sie gesagt?
+
+122
+00:11:39,040 --> 00:11:43,040
+Okay, seit wann? Seit zehn Jahren.
+
+123
+00:11:45,040 --> 00:11:55,540
+Und nehmen Sie ein Medikament ein? Ja, ich nehme Laptolos noch bedarf ein Jahr.
+
+124
+00:11:55,540 --> 00:12:00,860
+Okay. Sind Sie schon einmal operiert worden?
+
+125
+00:12:01,160 --> 00:12:21,080
+Operiert worden? Ja, früher hatte ich einmal ein Auto-Unfall mit einer Brustkorb-Frellung.
+
+126
+00:12:21,080 --> 00:12:23,080
+Wann war das?
+
+127
+00:12:23,080 --> 00:12:26,080
+Vor sechs Jahren.
+
+128
+00:12:26,080 --> 00:12:34,080
+Okay. Und Sie hatten eine Operation? Ja?
+
+129
+00:12:34,080 --> 00:12:36,080
+Ja, ja, ja.
+
+130
+00:12:36,380 --> 00:12:41,380
+Sonst noch etwas? Ich meine Operationen?
+
+131
+00:12:41,380 --> 00:12:49,380
+Aber ich hatte andere Krankheiten.
+
+132
+00:12:49,380 --> 00:12:51,380
+Ja, bitte schön.
+
+133
+00:12:51,380 --> 00:12:55,380
+Vor einer Zeit hatte ich eine Lungenentzündung.
+
+134
+00:12:55,380 --> 00:12:59,380
+Seit wann? Ich habe akustisch nicht verstanden.
+
+135
+00:12:59,680 --> 00:13:03,680
+Vor einer Zeit hatte ich eine Lungenentzündung.
+
+136
+00:13:03,680 --> 00:13:07,680
+Seit zwei Monaten.
+
+137
+00:13:07,680 --> 00:13:09,680
+Ja.
+
+138
+00:13:09,680 --> 00:13:13,680
+Ich war 14 Tage im Krankenhaus.
+
+139
+00:13:13,680 --> 00:13:17,680
+Ich wurde mit Pencilen behandelt.
+
+140
+00:13:17,680 --> 00:13:19,680
+Ja.
+
+141
+00:13:19,680 --> 00:13:27,680
+Aber ich habe darauf mit einem Hautassist reagiert.
+
+142
+00:13:27,980 --> 00:13:33,980
+Seitdem weiß ich, dass ich gegen Pencilen allergisch bin.
+
+143
+00:13:33,980 --> 00:13:35,980
+Okay. Alles klar.
+
+144
+00:13:35,980 --> 00:13:44,980
+Frau Wojcicki, Sie haben gedacht, dass Sie Ibuprofen 500 mg bei Bedarf einnehmen.
+
+145
+00:13:44,980 --> 00:13:47,980
+Gegen Bandscherben vor Fall.
+
+146
+00:13:47,980 --> 00:13:51,980
+Nehmen Sie auch einen Magenschutz dabei?
+
+147
+00:13:51,980 --> 00:13:53,980
+Ja, ja, richtig.
+
+148
+00:13:53,980 --> 00:13:56,980
+Welchen Magenschutz nehmen Sie ein?
+
+149
+00:13:57,280 --> 00:14:01,280
+Talsit Tabletten.
+
+150
+00:14:01,280 --> 00:14:03,280
+Talsit. Okay.
+
+151
+00:14:03,280 --> 00:14:05,280
+Alles klar.
+
+152
+00:14:05,280 --> 00:14:15,280
+Also vor Erkrankungen und Operationen haben Sie die genannten Operationen und Erkrankungen.
+
+153
+00:14:15,280 --> 00:14:17,280
+Richtig?
+
+154
+00:14:17,280 --> 00:14:19,280
+Ja, richtig.
+
+155
+00:14:19,280 --> 00:14:22,280
+Sie haben gesagt, dass Sie eine Allergie gegen Pencilen haben.
+
+156
+00:14:22,280 --> 00:14:26,280
+Sonst noch haben Sie irgendwelche anderen Allergien?
+
+157
+00:14:26,580 --> 00:14:28,580
+Ich habe keine anderen Allergien, Doktor.
+
+158
+00:14:28,580 --> 00:14:31,580
+Okay. Frau Wojcicki, rauchen Sie?
+
+159
+00:14:31,580 --> 00:14:39,600
+Ja, ich rauche seit 20 Jahren etwa eine Schachtel Zigaretten am Tag.
+
+160
+00:14:39,600 --> 00:14:43,600
+Und trinken Sie regelmäßig Alkohol?
+
+161
+00:14:43,600 --> 00:14:50,810
+Ja, trinke am Wochenende ein bis zwei Flaschen Bier.
+
+162
+00:14:50,810 --> 00:14:54,810
+Okay. Bitte nehmen Sie die nächste Frage nicht persönlich. Das ist eine Routinefrage.
+
+163
+00:14:54,810 --> 00:14:57,810
+Haben Sie oder hatten Sie Kontakt mit Drogen?
+
+164
+00:14:58,110 --> 00:15:01,110
+Ich habe nicht Drogen probiert.
+
+165
+00:15:01,110 --> 00:15:03,110
+Okay, alles klar.
+
+166
+00:15:03,110 --> 00:15:12,110
+Frau Wojcicki, leiden Ihre Eltern an chronischen Erkrankungen wie zum Beispiel Schlaganfall, Bluthochdruck?
+
+167
+00:15:12,110 --> 00:15:22,520
+Mein Vater hat Bluthochdruck, Diabetes und Herzschwäche.
+
+168
+00:15:22,820 --> 00:15:28,820
+Er hatte schon zwei Herzinfarkte, Doktor.
+
+169
+00:15:28,820 --> 00:15:32,820
+Aber er lebt jetzt.
+
+170
+00:15:32,820 --> 00:15:36,820
+Okay. Und Ihre Mutter?
+
+171
+00:15:36,820 --> 00:15:44,820
+Meine Mutter hat eine Bandscheibenvorfall und ein Magengeschwur und Brustkrebs.
+
+172
+00:15:44,820 --> 00:15:54,600
+Und lebt Ihre Mutter noch?
+
+173
+00:15:54,600 --> 00:15:56,600
+Ja, ja, ja.
+
+174
+00:15:56,900 --> 00:15:59,900
+Okay. Haben Sie Geschwister?
+
+175
+00:15:59,900 --> 00:16:02,900
+Ja, ich habe keine Geschwister.
+
+176
+00:16:02,900 --> 00:16:07,900
+Okay. Wie ist Ihr Familienstand?
+
+177
+00:16:07,900 --> 00:16:12,620
+Ich bin geschieden.
+
+178
+00:16:12,620 --> 00:16:14,620
+Haben Sie Kinder?
+
+179
+00:16:14,620 --> 00:16:20,320
+Ich habe ein Kind, das gesund ist.
+
+180
+00:16:20,320 --> 00:16:27,320
+Okay. Wohnen Sie mit Ihrem Kind?
+
+181
+00:16:27,620 --> 00:16:34,890
+Ja, ich lebe mit meinem Kind.
+
+182
+00:16:34,890 --> 00:16:37,890
+Okay. Was sind Sie von Beruf?
+
+183
+00:16:37,890 --> 00:16:44,150
+Ich arbeite als Busfahrer.
+
+184
+00:16:44,150 --> 00:16:49,150
+Und ich glaube, Sie haben zu viel Stress bei der Arbeit, richtig?
+
+185
+00:16:49,150 --> 00:16:52,150
+Viel Stress bei der Arbeit, oder?
+
+186
+00:16:52,150 --> 00:16:55,150
+Natürlich, ja, natürlich.
+
+187
+00:16:55,150 --> 00:16:57,150
+Okay, alles klar.
+
+188
+00:16:57,150 --> 00:17:02,150
+Frau Wollitz, besuchen Sie Ihren Frauenarzt regelmäßig?
+
+189
+00:17:02,150 --> 00:17:10,150
+Ja, natürlich. Ich gehe mindestens drei Monate mit meinen Frauenarzten.
+
+190
+00:17:10,150 --> 00:17:16,150
+Okay. Und wann war Ihre letzte Monatsblutung?
+
+191
+00:17:16,150 --> 00:17:20,150
+Monatsblutung?
+
+192
+00:17:20,150 --> 00:17:22,150
+Ja.
+
+193
+00:17:22,150 --> 00:17:25,150
+Ich bin 57 Jahre alt.
+
+194
+00:17:25,150 --> 00:17:33,500
+Und meine letzte Monatsblutung war vor fünf Jahren.
+
+195
+00:17:33,500 --> 00:17:37,500
+Okay, alles klar. Aber alles in Ordnung?
+
+196
+00:17:37,500 --> 00:17:43,510
+Ja, alles in Ordnung. Ich habe keine Probleme.
+
+197
+00:17:43,510 --> 00:17:45,510
+Okay.
+
+198
+00:17:45,510 --> 00:17:51,510
+Frau Wollitz, das waren meine Fragen.
+
+199
+00:17:51,510 --> 00:17:56,510
+Möchten Sie etwas hinzufügen? Oder haben Sie Fragen an mich?
+
+200
+00:17:56,510 --> 00:18:01,510
+Ja, Doktor. Ich habe viel Angst vor Krebs.
+
+201
+00:18:01,510 --> 00:18:08,510
+Ich habe gesagt, meine Mutter hat plus Krebs.
+
+202
+00:18:08,510 --> 00:18:10,510
+Ja.
+
+203
+00:18:10,510 --> 00:18:16,510
+Frau Wollitz, ich verstehe Sie sehr gut. Aber machen Sie sich bitte keine Sorgen.
+
+204
+00:18:16,510 --> 00:18:25,510
+Aufgrund Ihrer aktuellen Beschwerden ist ein Krebs unwahrscheinlich.
+
+205
+00:18:25,510 --> 00:18:32,510
+Aber wir werden Sie zuerst körperlich untersuchen.
+
+206
+00:18:32,510 --> 00:18:37,510
+Ich werde Ihnen Blut abnehmen und ein paar Untersuchungen veranlassen.
+
+207
+00:18:37,510 --> 00:18:45,510
+Ich vermute, dass Sie ein Magen geschwür haben.
+
+208
+00:18:45,510 --> 00:18:55,510
+Aber wie gesagt, momentan kann ich keine bestimmte Diagnose sagen.
+
+209
+00:18:55,510 --> 00:19:01,510
+Zuerst müssen wir alle Ergebnisse sehen.
+
+210
+00:19:01,510 --> 00:19:05,510
+Dann können wir darüber widersprechen. Okay?
+
+211
+00:19:05,510 --> 00:19:10,510
+Okay. Aber ich habe viel Angst, Doktor.
+
+212
+00:19:10,510 --> 00:19:19,510
+Ich habe aufgenommen. Ich habe Apatheslosigkeit. Ich denke, ich habe Krebs.
+
+213
+00:19:19,510 --> 00:19:23,510
+Ja, wie gesagt, machen Sie bitte keine Sorgen.
+
+214
+00:19:23,510 --> 00:19:29,510
+Man soll nicht an das Schlimmste denken. Wir sollen positiv bleiben.
+
+215
+00:19:29,510 --> 00:19:35,510
+Ihre Beschwerden können viele andere Ursachen haben.
+
+216
+00:19:35,510 --> 00:19:47,510
+Ich möchte Sie beruhigen, dass der Krebs nicht nur eine einzige Ursache ist. Okay?
+
+217
+00:19:47,510 --> 00:19:50,510
+Danke schön, Doktor. Ich warte auf Sie. Danke.
+
+218
+00:19:50,510 --> 00:19:57,510
+Gerne. Bitte nehmen Sie Platz im Warteschema. Ich bin gleich wieder dran.
+
+219
+00:19:57,510 --> 00:19:59,510
+Okay, danke schön.
+
+220
+00:20:03,330 --> 00:20:09,330
+Der Arzt sagt, dass er sich vor Krebsen für sich selbst fürchtet.
+
+221
+00:20:09,330 --> 00:20:11,330
+Danke schön, Doktor.
+
+222
+00:20:11,330 --> 00:20:19,330
+Mama-Carsino, das ist ein Dodeinom.
+
+223
+00:20:19,330 --> 00:20:26,330
+Das ist ein Dodeinom.
+
+224
+00:20:26,330 --> 00:20:34,330
+Aber Ihre Arten sind sehr entzündet. Sie haben nur ein paar Arten. Sie haben sie alle so wie eine Schale gemacht.
+
+225
+00:20:34,330 --> 00:20:38,330
+Das ist leider nicht gut, Doktor.
+
+226
+00:20:38,330 --> 00:20:43,330
+Aber du bist ein Künstler. Du hast dich sofort an die Arten geschlagen.
+
+227
+00:20:43,330 --> 00:20:48,330
+Das ist so, Doktor. Ich bin zuerst entzündet. Aber dann, wo du gesagt hast,
+
+228
+00:21:18,330 --> 00:21:21,330
+Ich bin zuerst entzündet. Ich habe 20 Minuten. Ich kippe die Arten.
+
+229
+00:21:21,330 --> 00:21:23,330
+Das ist richtig, oder?
+
+230
+00:21:23,330 --> 00:21:24,330
+Wollen wir es nicht machen?
+
+231
+00:21:24,330 --> 00:21:27,330
+Nein, nein. Ich habe 10 Minuten Zeit, Doktor.
+
+232
+00:21:27,330 --> 00:21:33,380
+Okay. Guten Abend, Herr Oberarzt.
+
+233
+00:21:33,380 --> 00:21:40,380
+Ich habe einen neuen Patienten aufgenommen und würde gerne über ihn berichten. Haben Sie kurz Zeit für mich?
+
+234
+00:21:41,380 --> 00:21:52,380
+Anna Marie Wollitz ist 57 Jahre alt, 1,70 Meter groß und 28 Kilogramm schwer.
+
+235
+00:21:52,380 --> 00:22:06,380
+Frau Wollitz starrte sich heute bei uns wegen seit drei Wochen bestehender Oberbauchschmerzen vor.
+
+236
+00:22:06,380 --> 00:22:15,380
+Der Patienten zufolge seien die Schmerzen plötzlich aufgetreten und mit der Zeit schlimmer geworden.
+
+237
+00:22:15,380 --> 00:22:21,380
+Die Schmerzen seien drückend, brennend und wellenformig.
+
+238
+00:22:21,380 --> 00:22:27,380
+Die Schmerzen würden nirgendwo hin ausstrahlen.
+
+239
+00:22:27,380 --> 00:22:38,380
+Die Schmerzintensität wurde auf einer Schmerzkala mit 6 von 10 bewertet.
+
+240
+00:22:38,380 --> 00:22:46,380
+Die Einnahme von 500 mg Paracetamol hätte keine Linderung der Schmerzen gebracht.
+
+241
+00:22:46,380 --> 00:23:04,380
+Sie berichtete über Pyrrhosis, Dyspnoe und sie erwähnte, dass das Essen die Schmerzen verbessert.
+
+242
+00:23:04,380 --> 00:23:09,380
+Bei der legendativen Anamnese seien die Folgen bekannt.
+
+243
+00:23:09,380 --> 00:23:31,380
+Nauzia mit dreimaliger Hematemesis und zweimaliger Melena.
+
+244
+00:23:31,380 --> 00:23:41,380
+Inapetens, Gewichtsabnahme von 4 bis 5 Kilogramm innerhalb von zwei Wochen insomnisch.
+
+245
+00:23:41,380 --> 00:23:47,380
+Sie sei vollständig gegen Kinderkrankheiten und viermal COVID-19 geimpft.
+
+246
+00:23:47,380 --> 00:23:57,380
+An Vorerkrankungen nannte sie seit zehn Jahren bestehende Arteriehypertonie, seit zwei Jahren bestehende Hyperkolesterolemie,
+
+247
+00:23:57,380 --> 00:24:13,380
+seit fünf Jahren bestehende Diskusprolapsus im Lendenbereich, seit zehn Jahren bestehende Heizdarmsyndrom und vor zwei Monaten diagnostizierten Pneumonie,
+
+248
+00:24:13,380 --> 00:24:22,380
+die mit Antibiotika im Krankenhaus für zwei Wochen behandelt worden sei.
+
+249
+00:24:22,380 --> 00:24:45,380
+Sie nehme Ramibril 2,5 Milligramm morgens, Metaprolol 15 Milligramm, eine halbe Tablette morgens, Atolastatins 40 Milligramm abends, Ibuprofen 500 Milligramm bei Bedarf und Tarsid Tabletten bei Bedarf und Lactolus Tabletten bei Bedarf ein.
+
+250
+00:24:45,380 --> 00:25:04,380
+Vor sechs Jahren habe sie sich eine Rippenprellung bei einem Autounfall zugezogen, die operativ behandelt worden sei.
+
+251
+00:25:04,380 --> 00:25:20,380
+Sie hat Allergien gegen Penicillin, die sich durch Exantheme ausführt und sie rauchte eine Schachtel des Gerätes täglich seit 20 Jahren.
+
+252
+00:25:20,380 --> 00:25:26,380
+Sie trinke ein bis zwei Flaschen Bier am Wochenende und Drogenkonsum wurde verneint.
+
+253
+00:25:26,380 --> 00:25:42,380
+In der Familienanamnese gab sie an, dass der Vater an Arteriohypertonie, Diabetes mellitus, und zweimal Myokardinfarkt und Herzinsuffizienz leide.
+
+254
+00:25:42,380 --> 00:26:02,380
+Die Mutter leide an Diskusprolaps, Gastritis und Mammarkarzinom. Sie sei Einzelkind, geschieden und habe ein Kind und sie wohne mit ihrem Kind.
+
+255
+00:26:02,380 --> 00:26:08,380
+Sie sei Busfahrerin von Beruf und habe zu viel Stress bei der Arbeit.
+
+256
+00:26:08,380 --> 00:26:17,380
+Ich gehe von einem Verdacht auf eine Ulcus duodeni aus, da die Patientin typische Symptome dafür aufweist.
+
+257
+00:26:17,380 --> 00:26:36,380
+Die Patientin leidet unter Oberbauchschmerzen und Hematomasis und die Schmerzen verbessern nach dem Essen.
+
+258
+00:26:36,380 --> 00:26:41,380
+Diese Symptome sprechen für eine Ulcus duodeni.
+
+259
+00:26:41,380 --> 00:26:56,380
+Als Differenzdienosen kommen Ulcus ventriculii, Magenkarzinom, Ocupankreatitis in Betracht.
+
+260
+00:26:56,380 --> 00:27:09,380
+Um meine Verdachtdiagnose zu bestätigen, würde ich bei der Patientin die VITAB-Parameter überwachen und eine körperliche Untersuchung durchführen.
+
+261
+00:27:09,380 --> 00:27:19,380
+Bei der körperlichen Untersuchung achte ich darauf, ob Hautfarbeveränderungen, Blimpfknoten, Vergrößerungen vorhanden sind.
+
+262
+00:27:19,380 --> 00:27:29,380
+Zusätzlich ist eine Labouruntersuchung sinnvoll, um eine unverhandelnde Diagnose zu leisten.
+
+263
+00:27:29,380 --> 00:27:45,380
+Dabei würde ich Blutgruppe, Leberwerte, Nierwerte, Elektrolyten, Gerinungsparameter, Helikobakter, Pylori bestimmen lassen.
+
+264
+00:27:45,380 --> 00:28:02,380
+Dann würde ich bei der Patientin eine Röntgenuntersuchung des Abdomens durchführen, um die Perforation auszuschließen.
+
+265
+00:28:02,380 --> 00:28:22,380
+Danach würde ich eine Rösefoko-Gasodendronoskopie veranlassen, um meine Verdachtdiagnose zu bestätigen und eine Gewebeprobe zu entnehmen.
+
+266
+00:28:22,380 --> 00:28:47,380
+Sollte sich die Verdachtdiagnose bestätigen, würde ich die Patientestation aufnehmen, einen Venosanzugang legen und Flüssigkeitzufuhr, Magenschutzmittel,
+
+267
+00:28:47,380 --> 00:29:13,380
+Antispasmolytika, Analgetika, Therapeuten und ich würde ein gastroenterologisches Konzil anfordern, um die Therapie der Patienten zu optimieren.
+
+268
+00:29:13,380 --> 00:29:35,380
+Dann würde ich eine Helikobakter-Pylori-Behandlung anordnen, wie z.B. Kleritromisin, Amoxicillin und Kleritromisin oder Metrolidason.
+
+269
+00:29:35,380 --> 00:29:55,380
+Lebensveränderungen sind sehr wichtig bei diesen Patienten, also Rauchherren, Nikotinkarenz, Alkoholkarenz, Stress vermeiden sind auch sehr wichtig bei diesen Patienten.
+
+270
+00:29:55,380 --> 00:30:12,380
+Wenn Sie mit dieser Vorlesung einverstanden sind, werde ich die geplanten Untersuchungen fortfahren, Herr Oberarzt.
+
+271
+00:30:12,380 --> 00:30:17,380
+Herr Kollegen, würden Sie in diesem Fall eine EKG schreiben?
+
+272
+00:30:17,380 --> 00:30:34,380
+Ja, das ist sehr wichtig. Es gibt Oberbauchschmerzen und bei solchen Schmerzen würden wir eine EKG schreiben, um einen Myokadinfakt auszuschließen.
+
+273
+00:30:34,380 --> 00:30:46,380
+Der Vater hat auch Myokadinfakt-Geschichte, es gibt eine familiäre Geschichte.
+
+274
+00:30:46,380 --> 00:30:55,100
+Würden Sie in diesem Fall eine Abdomensomographie durchführen?
+
+275
+00:30:55,100 --> 00:31:11,100
+Ja, das ist eine Abdominalgie. Wir sollen eine Abdomensomographie durchführen, um die möglichen Pathologien genau zu beurteilen, wie z.B. Scholellithiasis oder akute Pancreatitis.
+
+276
+00:31:11,100 --> 00:31:19,100
+Bei der Untersuchung können wir diese Krankheiten auszuschließen.
+
+277
+00:31:19,100 --> 00:31:36,600
+Herr Kollegen, gehen Sie auf unser Info-Desk und nehmen Sie Ihre Zertifikat. Ich wünsche Ihnen viel Erfolg für Ihre Arbeit.
