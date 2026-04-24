@@ -1,27 +1,27 @@
-# file: .github/workflows/transcribe-fspneu-to-transkripts-fspab26.yml
+# file: .github/workflows/transcribe-fspneu-to-transcripts-fspab26.yml
 
-name: Transcribe IA (DE, medium) FSPneu -> transcripts/FSPab26 (parallel)
+name: Transcribe IA (DE, medium) FSP sources -> transcripts (parallel)
 
 on:
   workflow_dispatch:
     inputs:
       ia_identifier:
-        description: "Internet Archive identifier (örn: FSPneu)"
+        description: "Internet Archive identifier (tek-kaynak manuel kullanım için)"
         required: true
         default: "FSPneu"
         type: string
       out_dir:
-        description: "Çıktı klasörü (txt+srt buraya yazılır)"
+        description: "Çıktı klasörü (tek-kaynak manuel kullanım için)"
         required: true
         default: "transcripts/FSPab26"
         type: string
       batch_size:
-        description: "Bu run'da kaç dosya işlensin (örn 4/10/20)"
+        description: "Bu run'da toplam kaç dosya işlensin"
         required: true
         default: "20"
         type: string
       max_parallel:
-        description: "Aynı anda kaç job koşsun (örn 4/6/8)"
+        description: "Aynı anda kaç job koşsun"
         required: true
         default: "6"
         type: string
@@ -31,7 +31,7 @@ on:
         default: ""
         type: string
       sources_json:
-        description: 'Opsiyonel çoklu kaynak listesi JSON. Boşsa eski tek-kaynak davranışı korunur.'
+        description: "Opsiyonel çoklu kaynak listesi JSON. Boşsa schedule default'u veya tek-kaynak input'ları kullanılır."
         required: false
         default: ""
         type: string
@@ -42,7 +42,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: ia-transcribe-fspab26
+  group: ia-transcribe-fsp-sources
   cancel-in-progress: false
 
 env:
@@ -59,7 +59,7 @@ env:
       },
       {
         "identifier": "sprunggelenk-distorsion-frau-florin-krone-27-05-25_20250726",
-        "out_dir": "transcripts/FSPab26",
+        "out_dir": "transcripts/Thuringen",
         "match": ""
       }
     ]
@@ -75,7 +75,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build transcribe tool (self-contained)
+      - name: Build transcribe tool
         run: |
           mkdir -p tooling
           cat > tooling/transcribe_ia_whisper.py <<'PY'
@@ -103,7 +103,7 @@ jobs:
               end: float
               text: str
 
-          def _eprint(*args: object) -> None:
+          def eprint(*args: object) -> None:
               print(*args, file=sys.stderr)
 
           def fetch_item_metadata(identifier: str, timeout_s: int = 30) -> dict:
@@ -124,7 +124,8 @@ jobs:
                   name = entry.get("name") or entry.get("file") or entry.get("filename")
                   if not isinstance(name, str):
                       continue
-                  if Path(name).suffix.lower() in AUDIO_EXTENSIONS:
+                  suffix = Path(name).suffix.lower()
+                  if suffix in AUDIO_EXTENSIONS:
                       names.append(name)
 
               names.sort(key=lambda s: s.casefold())
@@ -141,32 +142,32 @@ jobs:
               return out_dir / f"{base}.txt", out_dir / f"{base}.srt"
 
           def missing_files(files: List[str], out_dir: Path) -> List[str]:
-              miss: List[str] = []
-              for f in files:
-                  txt_path, srt_path = build_output_paths(out_dir, f)
+              missing: List[str] = []
+              for remote_filename in files:
+                  txt_path, srt_path = build_output_paths(out_dir, remote_filename)
                   if not (txt_path.exists() and srt_path.exists()):
-                      miss.append(f)
-              return miss
+                      missing.append(remote_filename)
+              return missing
 
           def download_one_file(identifier: str, remote_filename: str, dest_path: Path, timeout_s: int = 60) -> None:
               safe_remote = quote(remote_filename)
               url = IA_DOWNLOAD_URL.format(identifier=identifier, filename=safe_remote)
 
-              with requests.get(url, stream=True, timeout=timeout_s) as r:
-                  r.raise_for_status()
-                  total = int(r.headers.get("Content-Length", "0") or "0")
+              with requests.get(url, stream=True, timeout=timeout_s) as resp:
+                  resp.raise_for_status()
+                  total = int(resp.headers.get("Content-Length", "0") or "0")
                   dest_path.parent.mkdir(parents=True, exist_ok=True)
 
-                  with open(dest_path, "wb") as f, tqdm(
+                  with open(dest_path, "wb") as file_handle, tqdm(
                       total=total if total > 0 else None,
                       unit="B",
                       unit_scale=True,
                       desc="Downloading",
                       leave=False,
                   ) as pbar:
-                      for chunk in r.iter_content(chunk_size=1024 * 1024):
+                      for chunk in resp.iter_content(chunk_size=1024 * 1024):
                           if chunk:
-                              f.write(chunk)
+                              file_handle.write(chunk)
                               pbar.update(len(chunk))
 
           def format_srt_timestamp(seconds: float) -> str:
@@ -178,24 +179,28 @@ jobs:
 
           def write_txt(out_path: Path, segments: List[Segment]) -> None:
               out_path.parent.mkdir(parents=True, exist_ok=True)
-              text = "\n".join(s.text.strip() for s in segments if s.text.strip())
+              text = "\n".join(seg.text.strip() for seg in segments if seg.text.strip())
               out_path.write_text(text + ("\n" if text else ""), encoding="utf-8")
 
           def write_srt(out_path: Path, segments: List[Segment]) -> None:
               out_path.parent.mkdir(parents=True, exist_ok=True)
+
               lines: List[str] = []
               idx = 1
               for seg in segments:
                   text = seg.text.strip()
                   if not text:
                       continue
+
                   start = seg.start
                   end = seg.end if seg.end > seg.start else seg.start + 0.001
+
                   lines.append(str(idx))
                   lines.append(f"{format_srt_timestamp(start)} --> {format_srt_timestamp(end)}")
                   lines.append(text)
                   lines.append("")
                   idx += 1
+
               out_path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
           def resolve_device(device_arg: str) -> str:
@@ -226,26 +231,27 @@ jobs:
                   vad_filter=vad_filter,
               )
 
-              _eprint(
+              eprint(
                   f"Detected language: {getattr(info, 'language', 'unknown')} | "
                   f"Duration: {getattr(info, 'duration', 'unknown')}"
               )
-              return [Segment(float(s.start), float(s.end), str(s.text)) for s in seg_iter]
+
+              return [Segment(float(seg.start), float(seg.end), str(seg.text)) for seg in seg_iter]
 
           def main() -> int:
-              p = argparse.ArgumentParser()
-              p.add_argument("--identifier", required=True)
-              p.add_argument("--out-dir", default="transcripts")
-              p.add_argument("--model", default="small")
-              p.add_argument("--language", default="de")
-              p.add_argument("--device", default="auto", choices=["auto", "cpu", "cuda"])
-              p.add_argument("--compute-type", default="auto")
-              p.add_argument("--beam-size", type=int, default=1)
-              p.add_argument("--vad-filter", action="store_true")
-              p.add_argument("--file", default=None)
-              p.add_argument("--match", default="")
-              p.add_argument("--list-missing-json", action="store_true")
-              args = p.parse_args()
+              parser = argparse.ArgumentParser()
+              parser.add_argument("--identifier", required=True)
+              parser.add_argument("--out-dir", required=True)
+              parser.add_argument("--model", default="medium")
+              parser.add_argument("--language", default="de")
+              parser.add_argument("--device", default="auto", choices=["auto", "cpu", "cuda"])
+              parser.add_argument("--compute-type", default="auto")
+              parser.add_argument("--beam-size", type=int, default=1)
+              parser.add_argument("--vad-filter", action="store_true")
+              parser.add_argument("--file", default=None)
+              parser.add_argument("--match", default="")
+              parser.add_argument("--list-missing-json", action="store_true")
+              args = parser.parse_args()
 
               out_dir = Path(args.out_dir).resolve()
               out_dir.mkdir(parents=True, exist_ok=True)
@@ -259,7 +265,7 @@ jobs:
                   return 0
 
               if not args.file:
-                  _eprint("Error: --file is required for transcription runs.")
+                  eprint("Error: --file is required for transcription runs.")
                   return 2
 
               device = resolve_device(args.device)
@@ -308,12 +314,11 @@ jobs:
           pip install requests tqdm
 
       - id: pick
-        name: Pick next missing files
+        name: Pick next missing files across all sources
         env:
           BATCH_SIZE: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.batch_size || '20' }}
           MAX_PARALLEL: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.max_parallel || '6' }}
           MATCH: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.match || '' }}
-          OUT_DIR: ${{ env.OUT_DIR_DEFAULT }}
           SOURCES_JSON_INPUT: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.sources_json || '' }}
           DEFAULT_SOURCES_JSON: ${{ env.DEFAULT_SOURCES_JSON }}
         run: |
@@ -323,19 +328,21 @@ jobs:
           import subprocess
           import sys
 
+          event_name = os.environ.get("GITHUB_EVENT_NAME", "")
           batch_size = int(os.environ["BATCH_SIZE"])
           max_parallel = int(os.environ["MAX_PARALLEL"])
-          sources_raw = (os.environ.get("SOURCES_JSON_INPUT") or "").strip()
+          sources_json_input = (os.environ.get("SOURCES_JSON_INPUT") or "").strip()
+          single_match = (os.environ.get("MATCH") or "").strip()
 
-          if sources_raw:
-              sources = json.loads(sources_raw)
-          elif os.environ.get("GITHUB_EVENT_NAME") == "schedule":
+          if sources_json_input:
+              sources = json.loads(sources_json_input)
+          elif event_name == "schedule":
               sources = json.loads(os.environ["DEFAULT_SOURCES_JSON"])
           else:
               sources = [{
                   "identifier": os.environ["IA_IDENTIFIER"],
-                  "out_dir": os.environ["OUT_DIR"],
-                  "match": (os.environ.get("MATCH") or "").strip(),
+                  "out_dir": os.environ["OUT_DIR_DEFAULT"],
+                  "match": single_match,
               }]
 
           matrix = []
@@ -374,19 +381,20 @@ jobs:
               fh.write(f"count={len(matrix)}\n")
               fh.write(f"max_parallel={max_parallel}\n")
 
-          print("Picked:", json.dumps(matrix, ensure_ascii=False))
+          print("Picked:", json.dumps(matrix, ensure_ascii=False, indent=2))
           PY
 
   transcribe:
     needs: prepare
     if: ${{ needs.prepare.outputs.count != '0' }}
     runs-on: ubuntu-latest
+    timeout-minutes: 360
+
     strategy:
       fail-fast: false
       max-parallel: ${{ fromJson(needs.prepare.outputs.max_parallel) }}
       matrix:
         item: ${{ fromJson(needs.prepare.outputs.matrix) }}
-    timeout-minutes: 360
 
     steps:
       - uses: actions/checkout@v4
@@ -421,15 +429,15 @@ jobs:
           python -m pip install -U pip
           pip install faster-whisper requests tqdm
 
-      - name: Transcribe one file (TXT+SRT into OUT_DIR)
+      - name: Transcribe one file
         env:
+          IDENTIFIER: ${{ matrix.item.identifier }}
+          OUT_DIR: ${{ matrix.item.out_dir }}
           FILE: ${{ matrix.item.file }}
-          ITEM_IDENTIFIER: ${{ matrix.item.identifier }}
-          ITEM_OUT_DIR: ${{ matrix.item.out_dir }}
         run: |
           python tooling/transcribe_ia_whisper.py \
-            --identifier "$ITEM_IDENTIFIER" \
-            --out-dir "$ITEM_OUT_DIR" \
+            --identifier "$IDENTIFIER" \
+            --out-dir "$OUT_DIR" \
             --file "$FILE" \
             --model "$MODEL" \
             --language "$LANGUAGE" \
@@ -438,23 +446,29 @@ jobs:
             --beam-size 1 \
             --vad-filter
 
+      - name: Copy outputs to artifact folder
+        env:
+          OUT_DIR: ${{ matrix.item.out_dir }}
+          FILE: ${{ matrix.item.file }}
+        run: |
           python - <<'PY'
           import os
           import shutil
           from pathlib import Path
 
-          out_dir = Path(os.environ["ITEM_OUT_DIR"])
-          fn = os.environ["FILE"]
-          base = Path(fn).name
+          out_dir = Path(os.environ["OUT_DIR"])
+          remote_file = os.environ["FILE"]
+          base = Path(remote_file).name
           base = Path(base).with_suffix("").name
 
-          artifact_out_dir = Path("artifact_out") / out_dir
-          artifact_out_dir.mkdir(parents=True, exist_ok=True)
+          artifact_dir = Path("artifact_out") / out_dir
+          artifact_dir.mkdir(parents=True, exist_ok=True)
 
           for ext in (".txt", ".srt"):
               src = out_dir / f"{base}{ext}"
               if src.exists():
-                  shutil.copy2(src, artifact_out_dir / src.name)
+                  dst = artifact_dir / src.name
+                  shutil.copy2(src, dst)
           PY
 
       - name: Upload outputs
@@ -476,15 +490,16 @@ jobs:
         with:
           path: artifacts
 
-      - name: Merge outputs
+      - name: Merge transcripts into repo
         run: |
           find artifacts -type f \( -name "*.txt" -o -name "*.srt" \) | while read -r file; do
             rel="${file#artifacts/*/artifact_out/}"
             mkdir -p "$(dirname "$rel")"
             cp -f "$file" "$rel"
+            echo "Merged: $rel"
           done
 
-      - name: Commit & push once (with retry)
+      - name: Commit and push
         run: |
           set -euo pipefail
 
@@ -498,15 +513,15 @@ jobs:
               if "$@"; then
                 return 0
               fi
-              n=$((n+1))
+              n=$((n + 1))
               if [ "$n" -ge "$max" ]; then
                 return 1
               fi
-              sleep $((n*10))
+              sleep $((n * 10))
             done
           }
 
           git add transcripts/
-          git commit -m "Add DE(medium) transcripts for FSPab26 sources" || exit 0
+          git commit -m "Add DE(medium) transcripts for FSP sources" || exit 0
           retry git pull --rebase
           retry git push
