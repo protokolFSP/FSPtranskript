@@ -1,4 +1,5 @@
-# file: .github/workflows/transcribe-fspneu-to-transcripts-fspab26.yml
+# file: .github/workflows/transcribe-fspneu-to-transkripts-fspab26.yml
+
 name: Transcribe IA (DE, medium) FSPneu -> transcripts/FSPab26 (parallel)
 
 on:
@@ -29,14 +30,19 @@ on:
         required: false
         default: ""
         type: string
+      sources_json:
+        description: 'Opsiyonel çoklu kaynak listesi JSON. Boşsa eski tek-kaynak davranışı korunur.'
+        required: false
+        default: ""
+        type: string
   schedule:
-    - cron: "0 * * * *" # her saat başı
+    - cron: "0 * * * *"
 
 permissions:
   contents: write
 
 concurrency:
-  group: ia-transcribe-fspneu-fspab26-${{ github.event_name == 'workflow_dispatch' && github.event.inputs.ia_identifier || 'FSPneu' }}-${{ github.event_name == 'workflow_dispatch' && github.event.inputs.out_dir || 'transcripts/FSPab26' }}
+  group: ia-transcribe-fspab26
   cancel-in-progress: false
 
 env:
@@ -44,6 +50,19 @@ env:
   OUT_DIR_DEFAULT: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.out_dir || 'transcripts/FSPab26' }}
   MODEL: medium
   LANGUAGE: de
+  DEFAULT_SOURCES_JSON: >-
+    [
+      {
+        "identifier": "FSPneu",
+        "out_dir": "transcripts/FSPab26",
+        "match": ""
+      },
+      {
+        "identifier": "sprunggelenk-distorsion-frau-florin-krone-27-05-25_20250726",
+        "out_dir": "transcripts/FSPab26",
+        "match": ""
+      }
+    ]
 
 jobs:
   prepare:
@@ -52,7 +71,7 @@ jobs:
       matrix: ${{ steps.pick.outputs.matrix }}
       count: ${{ steps.pick.outputs.count }}
       max_parallel: ${{ steps.pick.outputs.max_parallel }}
-      out_dir: ${{ steps.pick.outputs.out_dir }}
+
     steps:
       - uses: actions/checkout@v4
 
@@ -76,7 +95,7 @@ jobs:
 
           IA_METADATA_URL = "https://archive.org/metadata/{identifier}"
           IA_DOWNLOAD_URL = "https://archive.org/download/{identifier}/{filename}"
-
+          AUDIO_EXTENSIONS = {".m4a", ".mp3"}
 
           @dataclass(frozen=True)
           class Segment:
@@ -84,10 +103,8 @@ jobs:
               end: float
               text: str
 
-
           def _eprint(*args: object) -> None:
               print(*args, file=sys.stderr)
-
 
           def fetch_item_metadata(identifier: str, timeout_s: int = 30) -> dict:
               url = IA_METADATA_URL.format(identifier=identifier)
@@ -95,8 +112,7 @@ jobs:
               resp.raise_for_status()
               return resp.json()
 
-
-          def extract_m4a_filenames(metadata: dict) -> List[str]:
+          def extract_audio_filenames(metadata: dict) -> List[str]:
               files = metadata.get("files", [])
               if isinstance(files, dict):
                   files = list(files.values())
@@ -106,12 +122,13 @@ jobs:
                   if not isinstance(entry, dict):
                       continue
                   name = entry.get("name") or entry.get("file") or entry.get("filename")
-                  if isinstance(name, str) and name.lower().endswith(".m4a"):
+                  if not isinstance(name, str):
+                      continue
+                  if Path(name).suffix.lower() in AUDIO_EXTENSIONS:
                       names.append(name)
 
               names.sort(key=lambda s: s.casefold())
               return names
-
 
           def filter_by_match(files: List[str], match: str) -> List[str]:
               if not match:
@@ -119,11 +136,9 @@ jobs:
               m = match.casefold()
               return [f for f in files if m in f.casefold()]
 
-
           def build_output_paths(out_dir: Path, remote_filename: str) -> Tuple[Path, Path]:
               base = Path(Path(remote_filename).name).with_suffix("").name
               return out_dir / f"{base}.txt", out_dir / f"{base}.srt"
-
 
           def missing_files(files: List[str], out_dir: Path) -> List[str]:
               miss: List[str] = []
@@ -133,7 +148,6 @@ jobs:
                       miss.append(f)
               return miss
 
-
           def download_one_file(identifier: str, remote_filename: str, dest_path: Path, timeout_s: int = 60) -> None:
               safe_remote = quote(remote_filename)
               url = IA_DOWNLOAD_URL.format(identifier=identifier, filename=safe_remote)
@@ -142,6 +156,7 @@ jobs:
                   r.raise_for_status()
                   total = int(r.headers.get("Content-Length", "0") or "0")
                   dest_path.parent.mkdir(parents=True, exist_ok=True)
+
                   with open(dest_path, "wb") as f, tqdm(
                       total=total if total > 0 else None,
                       unit="B",
@@ -154,7 +169,6 @@ jobs:
                               f.write(chunk)
                               pbar.update(len(chunk))
 
-
           def format_srt_timestamp(seconds: float) -> str:
               ms = int(round(seconds * 1000.0))
               hours, ms = divmod(ms, 3600 * 1000)
@@ -162,12 +176,10 @@ jobs:
               secs, ms = divmod(ms, 1000)
               return f"{hours:02d}:{minutes:02d}:{secs:02d},{ms:03d}"
 
-
           def write_txt(out_path: Path, segments: List[Segment]) -> None:
               out_path.parent.mkdir(parents=True, exist_ok=True)
               text = "\n".join(s.text.strip() for s in segments if s.text.strip())
               out_path.write_text(text + ("\n" if text else ""), encoding="utf-8")
-
 
           def write_srt(out_path: Path, segments: List[Segment]) -> None:
               out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -186,16 +198,13 @@ jobs:
                   idx += 1
               out_path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
-
           def resolve_device(device_arg: str) -> str:
               return device_arg if device_arg != "auto" else "cpu"
-
 
           def default_compute_type(device: str, compute_type_arg: str) -> str:
               if compute_type_arg != "auto":
                   return compute_type_arg
               return "float16" if device == "cuda" else "int8"
-
 
           def transcribe_with_faster_whisper(
               audio_path: Path,
@@ -206,7 +215,7 @@ jobs:
               beam_size: int,
               vad_filter: bool,
           ) -> List[Segment]:
-              from faster_whisper import WhisperModel  # type: ignore
+              from faster_whisper import WhisperModel
 
               model = WhisperModel(model_name, device=device, compute_type=compute_type)
               seg_iter, info = model.transcribe(
@@ -216,12 +225,12 @@ jobs:
                   beam_size=beam_size,
                   vad_filter=vad_filter,
               )
+
               _eprint(
                   f"Detected language: {getattr(info, 'language', 'unknown')} | "
                   f"Duration: {getattr(info, 'duration', 'unknown')}"
               )
               return [Segment(float(s.start), float(s.end), str(s.text)) for s in seg_iter]
-
 
           def main() -> int:
               p = argparse.ArgumentParser()
@@ -242,10 +251,10 @@ jobs:
               out_dir.mkdir(parents=True, exist_ok=True)
 
               metadata = fetch_item_metadata(args.identifier)
-              all_m4a = filter_by_match(extract_m4a_filenames(metadata), args.match)
+              all_audio = filter_by_match(extract_audio_filenames(metadata), args.match)
 
               if args.list_missing_json:
-                  sys.stdout.write(json.dumps(missing_files(all_m4a, out_dir), ensure_ascii=False))
+                  sys.stdout.write(json.dumps(missing_files(all_audio, out_dir), ensure_ascii=False))
                   sys.stdout.flush()
                   return 0
 
@@ -262,6 +271,7 @@ jobs:
               with tempfile.TemporaryDirectory(prefix="ia_whisper_") as tmpdir:
                   local_audio = Path(tmpdir) / Path(remote_filename).name
                   download_one_file(args.identifier, remote_filename, local_audio)
+
                   segments = transcribe_with_faster_whisper(
                       audio_path=local_audio,
                       model_name=args.model,
@@ -272,10 +282,10 @@ jobs:
                       vad_filter=args.vad_filter,
                   )
 
-              write_txt(txt_path, segments)
-              write_srt(srt_path, segments)
-              return 0
+                  write_txt(txt_path, segments)
+                  write_srt(srt_path, segments)
 
+              return 0
 
           if __name__ == "__main__":
               raise SystemExit(main())
@@ -304,39 +314,67 @@ jobs:
           MAX_PARALLEL: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.max_parallel || '6' }}
           MATCH: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.match || '' }}
           OUT_DIR: ${{ env.OUT_DIR_DEFAULT }}
+          SOURCES_JSON_INPUT: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.sources_json || '' }}
+          DEFAULT_SOURCES_JSON: ${{ env.DEFAULT_SOURCES_JSON }}
         run: |
           python - <<'PY'
-          import json, os, subprocess, sys
-
-          identifier = os.environ["IA_IDENTIFIER"]
-          out_dir = os.environ["OUT_DIR"]
+          import json
+          import os
+          import subprocess
+          import sys
 
           batch_size = int(os.environ["BATCH_SIZE"])
           max_parallel = int(os.environ["MAX_PARALLEL"])
-          match = (os.environ.get("MATCH") or "").strip()
+          sources_raw = (os.environ.get("SOURCES_JSON_INPUT") or "").strip()
 
-          cmd = [
-              sys.executable, "tooling/transcribe_ia_whisper.py",
-              "--identifier", identifier,
-              "--out-dir", out_dir,
-              "--list-missing-json",
-          ]
-          if match:
-              cmd += ["--match", match]
+          if sources_raw:
+              sources = json.loads(sources_raw)
+          elif os.environ.get("GITHUB_EVENT_NAME") == "schedule":
+              sources = json.loads(os.environ["DEFAULT_SOURCES_JSON"])
+          else:
+              sources = [{
+                  "identifier": os.environ["IA_IDENTIFIER"],
+                  "out_dir": os.environ["OUT_DIR"],
+                  "match": (os.environ.get("MATCH") or "").strip(),
+              }]
 
-          missing = json.loads(subprocess.check_output(cmd).decode("utf-8"))
-          picked = missing[:batch_size]
-          matrix = [{"idx": i, "file": f} for i, f in enumerate(picked)]
+          matrix = []
+          idx = 0
+
+          for source in sources:
+              identifier = source["identifier"]
+              out_dir = source["out_dir"]
+              match = (source.get("match") or "").strip()
+
+              cmd = [
+                  sys.executable,
+                  "tooling/transcribe_ia_whisper.py",
+                  "--identifier", identifier,
+                  "--out-dir", out_dir,
+                  "--list-missing-json",
+              ]
+              if match:
+                  cmd += ["--match", match]
+
+              missing = json.loads(subprocess.check_output(cmd).decode("utf-8"))
+
+              for remote_file in missing:
+                  matrix.append({
+                      "idx": idx,
+                      "identifier": identifier,
+                      "out_dir": out_dir,
+                      "file": remote_file,
+                  })
+                  idx += 1
+
+          matrix = matrix[:batch_size]
 
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as fh:
               fh.write(f"matrix={json.dumps(matrix, ensure_ascii=False)}\n")
               fh.write(f"count={len(matrix)}\n")
               fh.write(f"max_parallel={max_parallel}\n")
-              fh.write(f"out_dir={out_dir}\n")
 
-          print("IA_IDENTIFIER:", identifier)
-          print("Out dir:", out_dir)
-          print("Picked:", matrix)
+          print("Picked:", json.dumps(matrix, ensure_ascii=False))
           PY
 
   transcribe:
@@ -349,8 +387,7 @@ jobs:
       matrix:
         item: ${{ fromJson(needs.prepare.outputs.matrix) }}
     timeout-minutes: 360
-    env:
-      OUT_DIR: ${{ needs.prepare.outputs.out_dir }}
+
     steps:
       - uses: actions/checkout@v4
 
@@ -387,10 +424,12 @@ jobs:
       - name: Transcribe one file (TXT+SRT into OUT_DIR)
         env:
           FILE: ${{ matrix.item.file }}
+          ITEM_IDENTIFIER: ${{ matrix.item.identifier }}
+          ITEM_OUT_DIR: ${{ matrix.item.out_dir }}
         run: |
           python tooling/transcribe_ia_whisper.py \
-            --identifier "$IA_IDENTIFIER" \
-            --out-dir "$OUT_DIR" \
+            --identifier "$ITEM_IDENTIFIER" \
+            --out-dir "$ITEM_OUT_DIR" \
             --file "$FILE" \
             --model "$MODEL" \
             --language "$LANGUAGE" \
@@ -400,35 +439,35 @@ jobs:
             --vad-filter
 
           python - <<'PY'
-          import os, shutil
+          import os
+          import shutil
           from pathlib import Path
 
-          out_dir = Path(os.environ["OUT_DIR"])
+          out_dir = Path(os.environ["ITEM_OUT_DIR"])
           fn = os.environ["FILE"]
           base = Path(fn).name
           base = Path(base).with_suffix("").name
 
-          out = Path("artifact_out")
-          out.mkdir(parents=True, exist_ok=True)
+          artifact_out_dir = Path("artifact_out") / out_dir
+          artifact_out_dir.mkdir(parents=True, exist_ok=True)
 
           for ext in (".txt", ".srt"):
               src = out_dir / f"{base}{ext}"
               if src.exists():
-                  shutil.copy2(src, out / src.name)
+                  shutil.copy2(src, artifact_out_dir / src.name)
           PY
 
       - name: Upload outputs
         uses: actions/upload-artifact@v4
         with:
           name: transcripts-${{ matrix.item.idx }}
-          path: artifact_out/*
+          path: artifact_out/**
 
   merge_and_push:
     needs: [prepare, transcribe]
     if: ${{ needs.prepare.outputs.count != '0' && always() }}
     runs-on: ubuntu-latest
-    env:
-      OUT_DIR: ${{ needs.prepare.outputs.out_dir }}
+
     steps:
       - uses: actions/checkout@v4
 
@@ -437,14 +476,18 @@ jobs:
         with:
           path: artifacts
 
-      - name: Merge into OUT_DIR
+      - name: Merge outputs
         run: |
-          mkdir -p "$OUT_DIR"
-          find artifacts -type f \( -name "*.txt" -o -name "*.srt" \) -print -exec cp -f {} "$OUT_DIR/" \;
+          find artifacts -type f \( -name "*.txt" -o -name "*.srt" \) | while read -r file; do
+            rel="${file#artifacts/*/artifact_out/}"
+            mkdir -p "$(dirname "$rel")"
+            cp -f "$file" "$rel"
+          done
 
       - name: Commit & push once (with retry)
         run: |
           set -euo pipefail
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
@@ -452,14 +495,18 @@ jobs:
             local n=0
             local max=5
             while true; do
-              if "$@"; then return 0; fi
+              if "$@"; then
+                return 0
+              fi
               n=$((n+1))
-              if [ "$n" -ge "$max" ]; then return 1; fi
+              if [ "$n" -ge "$max" ]; then
+                return 1
+              fi
               sleep $((n*10))
             done
           }
 
-          git add "$OUT_DIR"
-          git commit -m "Add DE(medium) transcripts ($IA_IDENTIFIER -> $OUT_DIR)" || exit 0
+          git add transcripts/
+          git commit -m "Add DE(medium) transcripts for FSPab26 sources" || exit 0
           retry git pull --rebase
           retry git push
