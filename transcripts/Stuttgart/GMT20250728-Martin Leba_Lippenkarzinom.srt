@@ -1,0 +1,1367 @@
+1
+00:00:02,160 --> 00:00:12,720
+Guten Tag, mein Name ist Bulur. Ich bin die Stabende Arztin auf der Station und würde gerne das Erstgespräch mit Ihnen führen.
+
+2
+00:00:12,720 --> 00:00:14,720
+Ist das Ordnung für Sie?
+
+3
+00:00:14,720 --> 00:00:16,720
+Ja, bitte.
+
+4
+00:00:16,720 --> 00:00:28,720
+Ok, so als werde ich ein paar Fragen zu Ihrer Person stellen, dann direkt Ihren aktuellen Beschwerden übergehen. Wie heißen Sie denn?
+
+5
+00:00:28,720 --> 00:00:32,720
+Mein Name ist Martin Leber.
+
+6
+00:00:32,720 --> 00:00:42,060
+Martin Leber. Herr Leber, könntest du Ihren Vornamen bestätigen?
+
+7
+00:00:42,060 --> 00:01:11,540
+Mein Vornamen ist Martin.
+
+8
+00:01:11,540 --> 00:01:15,540
+Ok, danke schön. Und wie alt sind Sie, Herr Leber?
+
+9
+00:01:15,540 --> 00:01:19,540
+Ich bin 62.
+
+10
+00:01:19,540 --> 00:01:25,540
+Und wann sind Sie genau geboren?
+
+11
+00:01:25,540 --> 00:01:37,360
+6. Juni 1972.
+
+12
+00:01:37,360 --> 00:01:41,360
+Ok, wissen Sie, wie groß Sie sind?
+
+13
+00:01:41,360 --> 00:01:49,360
+1 Meter und 77.
+
+14
+00:01:49,360 --> 00:01:51,360
+77?
+
+15
+00:01:51,360 --> 00:01:53,360
+77, ja.
+
+16
+00:01:53,360 --> 00:01:55,360
+Ok, und wie viel wiegen Sie?
+
+17
+00:01:55,360 --> 00:02:00,610
+98.
+
+18
+00:02:00,610 --> 00:02:06,610
+Ok, wie heißt Ihr Hausarzt oder Ihre Hausärztin?
+
+19
+00:02:06,610 --> 00:02:18,610
+Meine Hausarztin heißt Yener Kaplan.
+
+20
+00:02:18,610 --> 00:02:26,080
+Mit S ist Yener.
+
+21
+00:02:26,080 --> 00:02:28,080
+Ja.
+
+22
+00:02:28,080 --> 00:02:32,080
+Mit Y.
+
+23
+00:02:32,080 --> 00:02:34,080
+Ja, erste Bustavie an Y.
+
+24
+00:02:34,080 --> 00:02:38,080
+Yener.
+
+25
+00:02:38,080 --> 00:02:44,080
+Ok. Und was kann ich für Sie tun?
+
+26
+00:02:44,080 --> 00:03:12,080
+Ja, Frau Doktor, ich habe seit zwei Monaten eine juckende und blutende Wunde in meinem Mund.
+
+27
+00:03:12,080 --> 00:03:14,080
+Mund?
+
+28
+00:03:14,080 --> 00:03:16,080
+Ja, Mund.
+
+29
+00:03:16,080 --> 00:03:18,080
+Ok.
+
+30
+00:03:18,080 --> 00:03:23,580
+Seit wann haben Sie diese Beschwerden?
+
+31
+00:03:23,580 --> 00:03:29,580
+Ich habe seit zwei Monaten.
+
+32
+00:03:29,580 --> 00:03:31,580
+Zwei Monate.
+
+33
+00:03:31,580 --> 00:03:43,580
+Wie genau sind diese Beschwerden?
+
+34
+00:03:43,580 --> 00:03:51,580
+In der unteren Lippe.
+
+35
+00:03:51,580 --> 00:03:55,580
+Und keine Schmerzen.
+
+36
+00:03:55,580 --> 00:03:57,580
+Ok.
+
+37
+00:03:57,580 --> 00:04:01,580
+Aber Jücken und manchmal Blut.
+
+38
+00:04:01,580 --> 00:04:07,580
+Haben Sie früher Beschwerden gehabt?
+
+39
+00:04:07,580 --> 00:04:11,580
+Nein, ich habe früher nicht Beschwerden gehabt.
+
+40
+00:04:11,580 --> 00:04:13,580
+Erstmal?
+
+41
+00:04:13,580 --> 00:04:15,580
+Ja.
+
+42
+00:04:15,580 --> 00:04:23,580
+Ok, denken Sie, gibt es eine bestimmte Auslöser?
+
+43
+00:04:23,580 --> 00:04:33,580
+Ja, besonders ist es Zitrone.
+
+44
+00:04:33,580 --> 00:04:39,540
+Zitrone ist unangenehm.
+
+45
+00:04:39,540 --> 00:04:41,540
+Unangenehm.
+
+46
+00:04:41,540 --> 00:04:45,540
+Aber keine Schmerzen?
+
+47
+00:04:45,540 --> 00:04:51,540
+Nein, keine Schmerzen, aber verschiedene Gefühle.
+
+48
+00:04:51,540 --> 00:04:54,820
+Ok.
+
+49
+00:04:54,820 --> 00:05:08,820
+Haben Sie eine Schmerzen oder Überwärmung mit der unteren Lippe?
+
+50
+00:05:08,820 --> 00:05:12,820
+Nein, ich habe keine Schmerzen.
+
+51
+00:05:12,820 --> 00:05:16,820
+Rottenschwerden oder Überwärmungen?
+
+52
+00:05:16,820 --> 00:05:20,820
+Nein, ich habe keine Schmerzen.
+
+53
+00:05:20,820 --> 00:05:22,820
+Ok.
+
+54
+00:05:22,820 --> 00:05:24,820
+Haben Sie Fieber?
+
+55
+00:05:24,820 --> 00:05:28,100
+Nein, keine.
+
+56
+00:05:28,100 --> 00:05:30,100
+Ich habe keine Fieber.
+
+57
+00:05:30,100 --> 00:05:32,100
+Ok.
+
+58
+00:05:32,100 --> 00:05:34,100
+Haben Sie Nachschweiß oder Schutterfroß?
+
+59
+00:05:34,100 --> 00:05:36,100
+Nein, nie.
+
+60
+00:05:36,100 --> 00:05:44,100
+Haben Sie in der letzten Zeit ungewöhnlich ab oder zugenommen?
+
+61
+00:05:44,100 --> 00:05:48,100
+Ja, das ist interessant.
+
+62
+00:05:48,100 --> 00:05:50,100
+Mein Appetit ist gut.
+
+63
+00:05:50,100 --> 00:06:08,100
+Aber seit 10 Monaten habe ich ca. 12 Kilo abgenommen.
+
+64
+00:06:08,100 --> 00:06:10,100
+Entschuldigung.
+
+65
+00:06:10,100 --> 00:06:12,100
+Zugenommen.
+
+66
+00:06:12,100 --> 00:06:14,100
+Zugenommen?
+
+67
+00:06:14,100 --> 00:06:18,100
+Nein, abgenommen.
+
+68
+00:06:18,100 --> 00:06:20,100
+Ok.
+
+69
+00:06:20,100 --> 00:06:30,100
+Haben Sie Probleme mit Wasserlassen oder Stuhlgang?
+
+70
+00:06:30,100 --> 00:06:34,100
+Nein, ich habe keine Schmerzen.
+
+71
+00:06:34,100 --> 00:06:42,100
+Haben Sie andere Begleitsymptome mit diesen Schmerzen?
+
+72
+00:06:42,100 --> 00:06:56,100
+Haben Sie nur eine Wunde im Mund oder haben Sie 50 Wunden in anderen Körperteilen aus?
+
+73
+00:06:56,100 --> 00:07:10,100
+Ich habe seit 10 Monaten Schlafstörungen.
+
+74
+00:07:10,100 --> 00:07:26,100
+Dagegen nehme ich Pflanzenmedikament ein.
+
+75
+00:07:26,100 --> 00:07:32,100
+Wissen Sie die Name des Medikaments?
+
+76
+00:07:32,100 --> 00:07:37,920
+Nein, ich kenne nichts.
+
+77
+00:07:37,920 --> 00:07:48,080
+Haben Sie Probleme beim Durchschlafen oder Einschlafen?
+
+78
+00:07:48,080 --> 00:07:58,980
+Ja, ich habe Einschlafen.
+
+79
+00:07:58,980 --> 00:08:19,310
+Haben Sie Hüsten oder Atemnot?
+
+80
+00:08:19,310 --> 00:08:27,310
+Ja, ich rauche sehr viel.
+
+81
+00:08:27,310 --> 00:08:39,220
+Ich habe Hüsten mit schleimigem Sputum.
+
+82
+00:08:39,220 --> 00:08:43,220
+Seit wann haben Sie Hüsten?
+
+83
+00:08:43,220 --> 00:08:55,660
+Seit 2 Jahren.
+
+84
+00:08:55,660 --> 00:08:59,660
+Ist Ihnen übel oder haben Sie Erbrüche?
+
+85
+00:08:59,660 --> 00:09:10,610
+Nein, ich habe keine Erbrüche.
+
+86
+00:09:10,610 --> 00:09:16,610
+Haben Sie irgendwelche chronischen Erkrankungen?
+
+87
+00:09:16,610 --> 00:09:20,610
+Ja, Frau Doktor, ich habe viele Erkrankungen.
+
+88
+00:09:20,610 --> 00:09:26,610
+Ich habe leider eine Zuckerkrankheit.
+
+89
+00:09:26,610 --> 00:09:32,610
+Seit wann haben Sie das?
+
+90
+00:09:32,610 --> 00:09:40,610
+Seit 20 Jahren.
+
+91
+00:09:40,610 --> 00:09:52,610
+Dagegen nehme ich mit Formen 100-1000 mg pro Tag.
+
+92
+00:09:52,610 --> 00:09:56,610
+Morgens?
+
+93
+00:09:56,610 --> 00:10:00,610
+Ja, morgens.
+
+94
+00:10:00,610 --> 00:10:12,610
+Insulin habe ich täglich 6 Einheiten.
+
+95
+00:10:12,610 --> 00:10:24,740
+Außerdem habe ich Bluthochdruck seit 2 Jahren.
+
+96
+00:10:24,740 --> 00:10:40,800
+Dagegen nehme ich täglich 5 mg Ramipril.
+
+97
+00:10:40,800 --> 00:10:44,800
+Morgens oder abends?
+
+98
+00:10:44,800 --> 00:10:52,800
+Ramipril 2x täglich.
+
+99
+00:10:52,800 --> 00:11:01,120
+Noch etwas?
+
+100
+00:11:01,120 --> 00:11:09,680
+Sie haben Blutsuckerkrankheit und Bluthochdruck?
+
+101
+00:11:09,680 --> 00:11:15,680
+Ja, das ist alles.
+
+102
+00:11:15,680 --> 00:11:27,680
+Nehmen Sie mit Formen Insulin und Ramipril andere Medikamente ein.
+
+103
+00:11:27,680 --> 00:11:31,680
+Nein.
+
+104
+00:11:31,680 --> 00:11:39,680
+Ich habe gesagt, ich nehme flanzliche Medikamente gegen Schlafstörmchen.
+
+105
+00:11:39,680 --> 00:11:45,680
+Ja, ich habe gemerkt.
+
+106
+00:11:45,680 --> 00:11:49,680
+Das ist alles.
+
+107
+00:11:49,680 --> 00:11:59,680
+Sie haben gesagt, Sie raufen. Wie oft raufen Sie? Und seit wann?
+
+108
+00:11:59,680 --> 00:12:03,680
+Seit 2 Jahren raufe ich.
+
+109
+00:12:03,680 --> 00:12:05,680
+2 Jahre?
+
+110
+00:12:05,680 --> 00:12:11,680
+Ja, 10 Jahre.
+
+111
+00:12:11,680 --> 00:12:13,680
+10 Jahre, okay.
+
+112
+00:12:13,680 --> 00:12:19,680
+Ich raufe eine Schachtel Zigaretten pro Tag.
+
+113
+00:12:19,680 --> 00:12:27,580
+Und trinken Sie Alkohol?
+
+114
+00:12:27,580 --> 00:12:35,280
+Ja, ich trinke täglich einen kleinen Glas Schnaps.
+
+115
+00:12:35,280 --> 00:12:42,660
+Okay. Hatten Sie jemals Kontakt mit Drogen?
+
+116
+00:12:42,660 --> 00:12:44,660
+Nein, keine.
+
+117
+00:12:44,660 --> 00:12:48,660
+Treiben Sie regelmäßig Sport?
+
+118
+00:12:48,660 --> 00:12:58,080
+Ja, ich gehe regelmäßig spazieren.
+
+119
+00:12:58,080 --> 00:13:00,080
+Wie oft?
+
+120
+00:13:00,080 --> 00:13:04,080
+Jeden Tag.
+
+121
+00:13:04,080 --> 00:13:08,080
+Jeden Tag morgens.
+
+122
+00:13:08,080 --> 00:13:14,080
+Okay, sehr gut. Und sind Sie etwas allergisch?
+
+123
+00:13:14,080 --> 00:13:18,080
+Nein, ich habe keine Allergie.
+
+124
+00:13:18,080 --> 00:13:25,120
+Sind Sie vorständig geimpft?
+
+125
+00:13:25,120 --> 00:13:27,120
+Ja.
+
+126
+00:13:27,120 --> 00:13:29,120
+Ich habe vorständig geimpft.
+
+127
+00:13:29,120 --> 00:13:33,120
+Waren Sie in letzter Zeit im Ausland?
+
+128
+00:13:33,120 --> 00:13:38,480
+Nein.
+
+129
+00:13:38,480 --> 00:13:44,480
+Nein, okay. Was waren Sie beruflich?
+
+130
+00:13:44,480 --> 00:13:57,740
+Früher habe ich als Bürokaufmann gearbeitet.
+
+131
+00:13:57,740 --> 00:14:02,180
+Bürokaufmann?
+
+132
+00:14:02,180 --> 00:14:05,580
+Ja.
+
+133
+00:14:05,580 --> 00:14:09,580
+Sie arbeiten jetzt?
+
+134
+00:14:09,580 --> 00:14:11,580
+Ja, weiter.
+
+135
+00:14:11,580 --> 00:14:19,580
+Sie sind verheiratet? Wie ist Ihr Familienstatus?
+
+136
+00:14:19,580 --> 00:14:21,580
+Ich bin ledig.
+
+137
+00:14:21,580 --> 00:14:23,580
+Haben Sie Kinder?
+
+138
+00:14:23,580 --> 00:14:27,580
+Nein, ich habe keine Kinder. Ich wohne allein.
+
+139
+00:14:27,580 --> 00:14:51,740
+Okay. Herr Leber, haben Sie einen Ausfluss bei Ihren Liebungen?
+
+140
+00:14:51,740 --> 00:14:58,020
+Ich habe einen Ausfluss.
+
+141
+00:14:58,020 --> 00:15:04,020
+Ist Ihnen ein Ausfluss auf der Wunde?
+
+142
+00:15:04,020 --> 00:15:06,020
+Ausfluss?
+
+143
+00:15:06,020 --> 00:15:14,020
+Nasse. Oder eine geäbliche Flüssigkeit?
+
+144
+00:15:14,020 --> 00:15:18,020
+Nein, keine.
+
+145
+00:15:18,020 --> 00:15:22,020
+Okay.
+
+146
+00:15:22,020 --> 00:15:30,020
+Die Bechwerden sind langsam aufgetreten?
+
+147
+00:15:30,020 --> 00:15:44,450
+Ich habe diese Wunde seit zwei Monaten bemerkt.
+
+148
+00:15:44,450 --> 00:15:52,450
+Waren Sie für diese Beschwerden bei einem anderen Hausarzt?
+
+149
+00:15:52,450 --> 00:16:00,450
+Ja. Ich habe meinen Hausarzt besucht.
+
+150
+00:16:00,450 --> 00:16:16,450
+Er hat mir eine Kortison-Kreme für meine Beschwerden gegeben.
+
+151
+00:16:16,450 --> 00:16:24,450
+Okay. Hat diese Medikamente oder Kreme geholfen?
+
+152
+00:16:24,450 --> 00:16:31,580
+Nein, sie haben mir nicht geholfen.
+
+153
+00:16:31,580 --> 00:16:42,930
+Haben Sie andere Medikamente oder andere Dinge benutzt?
+
+154
+00:16:42,930 --> 00:16:46,940
+Nein.
+
+155
+00:16:46,940 --> 00:16:48,940
+Nur Kortison-Kreme?
+
+156
+00:16:48,940 --> 00:16:50,940
+Ja.
+
+157
+00:16:50,940 --> 00:17:10,940
+Aber in den letzten Tagen habe ich ein bisschen Fieber.
+
+158
+00:17:10,940 --> 00:17:16,940
+Sie haben ein bisschen Fieber? Okay. Sie haben ein Fiebergefühl?
+
+159
+00:17:16,940 --> 00:17:26,730
+Ja. Aber ich habe nicht geholfen.
+
+160
+00:17:26,730 --> 00:17:34,730
+Haben Sie Nachschweiz oder Schweiß?
+
+161
+00:17:34,730 --> 00:17:45,030
+Ja. Ich habe besonders Nachschweiß.
+
+162
+00:17:45,030 --> 00:17:49,030
+Okay.
+
+163
+00:17:49,030 --> 00:17:59,720
+Herr Leber, ich habe keine weiteren Fragen.
+
+164
+00:17:59,720 --> 00:18:09,720
+Möchten Sie etwas hinzufügen, was ich wissen sollte?
+
+165
+00:18:09,720 --> 00:18:13,720
+Oder haben Sie Fragen an mich?
+
+166
+00:18:13,720 --> 00:18:23,210
+Frau Doktor, ich habe Angst.
+
+167
+00:18:23,210 --> 00:18:38,760
+Meine Bruder ist vor zwei Jahren an einem Grundschmerzkarzinom gestorben.
+
+168
+00:18:38,760 --> 00:18:46,760
+Ist das Krebs?
+
+169
+00:18:46,760 --> 00:18:54,760
+Ja, ich verstehe Ihre Angst.
+
+170
+00:18:54,760 --> 00:19:02,760
+Aber es ist noch zu früh, um etwas Geniales zu sagen.
+
+171
+00:19:02,760 --> 00:19:12,760
+Um eine deutliche Diagnose zu stellen, müssen wir ein paar Untersuchungen durchführen.
+
+172
+00:19:12,760 --> 00:19:22,760
+Ich möchte fragen, ob es in Ihrer Familie andere chronische Erkrankungen gibt?
+
+173
+00:19:22,760 --> 00:19:28,760
+Zum Beispiel bei dem Vater oder bei der Mutter.
+
+174
+00:19:28,760 --> 00:19:34,760
+Haben diese Eltern auch chronische Erkrankungen?
+
+175
+00:19:34,760 --> 00:19:41,760
+Meine Mutter ist gesund. Sie lebt im Krankenpflege.
+
+176
+00:19:41,760 --> 00:19:55,760
+Aber mein Vater ist vor zwei Jahren an einem Grundschmerzkarzinfarkt gestorben.
+
+177
+00:19:55,760 --> 00:19:58,760
+Das tut mir leid.
+
+178
+00:19:58,760 --> 00:20:06,760
+Aber meine Bruder ist vor zwei Jahren an einem Grundschmerzkarzinfarkt gestorben.
+
+179
+00:20:06,760 --> 00:20:16,760
+Herr Leber, ich werde zuerst die Körperleute untersuchen, dann Blut abnehmen.
+
+180
+00:20:16,760 --> 00:20:23,760
+Ich werde einige weitere Untersuchungen durchführen.
+
+181
+00:20:23,760 --> 00:20:28,760
+Dann werden wir Ihre Probleme mit meinem Oberarzt besprechen.
+
+182
+00:20:28,760 --> 00:20:34,760
+Sobald die Ergebnisse vorliegen, kann ich Ihnen Geniales sagen.
+
+183
+00:20:35,760 --> 00:20:40,760
+Ich möchte Sie bitten, noch ein wenig Geduld zu haben.
+
+184
+00:20:40,760 --> 00:20:42,760
+Okay?
+
+185
+00:20:42,760 --> 00:20:45,760
+Ich warte Sie.
+
+186
+00:20:45,760 --> 00:20:47,760
+Okay.
+
+187
+00:20:47,760 --> 00:20:49,760
+Danke.
+
+188
+00:20:49,760 --> 00:20:57,760
+Guten Tag, Herr Oberarzt. Ich möchte Ihnen einen neuen Patienten vorstellen.
+
+189
+00:20:57,760 --> 00:20:59,760
+Haben Sie Kursat für mich?
+
+190
+00:20:59,760 --> 00:21:03,760
+Der Patient heißt Martin Leber.
+
+191
+00:21:03,760 --> 00:21:17,760
+Der Leber ist 62 Jahre alt, 1,67 Meter groß und wiegt 98 Kilogramm schwer.
+
+192
+00:21:17,760 --> 00:21:23,760
+Herr Leber steht heute bei uns wegen seit zwei Monaten.
+
+193
+00:21:23,760 --> 00:21:44,760
+Er hat eine Wunde im Mund und im unteren Lippen.
+
+194
+00:21:44,760 --> 00:21:48,760
+Wie groß ist die Wunde?
+
+195
+00:21:48,760 --> 00:21:53,760
+Ich habe diese Frage nicht gesagt.
+
+196
+00:21:53,760 --> 00:22:04,760
+Aber bei den Untersuchungen kann ich diese Frage stellen.
+
+197
+00:22:04,760 --> 00:22:19,760
+Ich habe die Wunde gesehen und ich war ca. 3 cm groß.
+
+198
+00:22:19,760 --> 00:22:21,760
+Wie tief?
+
+199
+00:22:21,760 --> 00:22:36,760
+Wie tief? Ich werde bei den Untersuchungen beobachten.
+
+200
+00:22:36,760 --> 00:22:42,760
+Hat die Wunde eine Ablehnung oder ein Blut?
+
+201
+00:22:42,760 --> 00:22:59,760
+Die Wunde ist ein bisschen trocken.
+
+202
+00:22:59,760 --> 00:23:12,760
+Der Patient hat früher keine Beschwerden.
+
+203
+00:23:12,760 --> 00:23:26,940
+Bei diesen Beschwerden hat der Patient ihren Hausarzt besucht.
+
+204
+00:23:26,940 --> 00:23:36,940
+Er hat eine Kortisonen-Kreme bei ihm verschieben.
+
+205
+00:23:36,940 --> 00:23:50,570
+Aber diese Kortisonen-Kreme hat keine Heilung.
+
+206
+00:23:50,570 --> 00:23:54,570
+Der Wichtstoff sollte geklärt werden.
+
+207
+00:23:54,570 --> 00:24:03,570
+Die Kreme hilft nicht und hat keine Verbesserung gebracht.
+
+208
+00:24:03,570 --> 00:24:11,570
+Diese Mundgeschwühe ist schmerzlos.
+
+209
+00:24:11,570 --> 00:24:23,570
+Aber er hat eine unangenehme Gefühle nach Zitrone zu essen.
+
+210
+00:24:23,570 --> 00:24:31,570
+Er hat eine unangenehme Gefühle nach Zitrone zu essen.
+
+211
+00:24:31,570 --> 00:24:41,570
+Er hat eine unangenehme Gefühle nach Zitrone zu essen.
+
+212
+00:24:41,570 --> 00:24:57,570
+Welche Farbe hat die Wunde? Schwarz oder weiß?
+
+213
+00:24:57,570 --> 00:25:24,940
+Der Patient berichtet, dass diese Wunde keine Rotung, Bewarmung oder Schwierigkeit hatte.
+
+214
+00:25:24,940 --> 00:25:34,770
+Aber ich sehe, dass es eine Blessewunde ist.
+
+215
+00:25:34,770 --> 00:25:50,770
+Der Patient klagt seit zwei Jahren.
+
+216
+00:26:20,770 --> 00:26:30,770
+Der Patient klagt seit zwei Jahren.
+
+217
+00:26:30,770 --> 00:26:40,770
+Der Patient klagt seit zwei Jahren.
+
+218
+00:26:40,770 --> 00:26:54,770
+Der Patient hat einen Gewichtverlust von 12 kg in den letzten sechs Monaten.
+
+219
+00:26:54,770 --> 00:27:02,770
+Der Patient hat eine Unbefugung.
+
+220
+00:27:02,770 --> 00:27:14,770
+Aber er hat seine Körpertemperatur nicht gemessen.
+
+221
+00:27:14,770 --> 00:27:22,770
+Er hat eine Unbefugung.
+
+222
+00:27:22,770 --> 00:27:30,770
+Er hat eine Unbefugung.
+
+223
+00:27:30,770 --> 00:27:38,770
+Er hat eine Unbefugung.
+
+224
+00:27:38,770 --> 00:27:46,770
+Er hat eine Unbefugung.
+
+225
+00:27:46,770 --> 00:27:56,770
+Er hat eine Unbefugung.
+
+226
+00:27:56,770 --> 00:28:04,770
+Er hat eine Unbefugung.
+
+227
+00:28:04,770 --> 00:28:12,770
+Er hat eine Unbefugung.
+
+228
+00:28:12,770 --> 00:28:20,770
+Er hat eine Unbefugung.
+
+229
+00:28:20,770 --> 00:28:50,500
+In der Familienanamnese wurde angegeben, dass sein Vater vor zwei Jahren einen Myokartinfarkt verstorben hat.
+
+230
+00:28:50,500 --> 00:29:06,500
+Seine Mutter ist gesund, aber sie lebt in Altenpflege.
+
+231
+00:29:06,500 --> 00:29:14,500
+Seine Mutter leidet in Altenpflege.
+
+232
+00:29:14,500 --> 00:29:24,500
+Sein Bruder ist vor zwei Jahren an Bronscher Karschnoem verstorben.
+
+233
+00:29:24,500 --> 00:29:42,320
+Er raucht seit zehn Jahren 20 Zigaretten pro Tag.
+
+234
+00:29:42,320 --> 00:29:46,320
+Wie viele Packages haben Sie?
+
+235
+00:29:46,320 --> 00:30:03,570
+Zehn Packages.
+
+236
+00:30:03,570 --> 00:30:23,570
+Er trinkt täglich kleine Glas Schnaps, drückt Konsum und spaziert jeden Tag.
+
+237
+00:30:23,570 --> 00:30:37,570
+Er hat keine bekannte Allergie und ist vollständig geif.
+
+238
+00:30:37,570 --> 00:30:41,570
+Die Reise an Amnese ist unauffällig.
+
+239
+00:30:41,570 --> 00:30:47,570
+Er arbeitet als Brokaufmann.
+
+240
+00:30:47,570 --> 00:30:53,570
+Er ist leidig und lebt alleine.
+
+241
+00:30:53,570 --> 00:30:57,570
+Er hat keine Kinder.
+
+242
+00:30:57,570 --> 00:31:15,570
+Die Anamnistischen Angaben deuten am ehesten auf eine Lippen Karschnoem hin.
+
+243
+00:31:15,570 --> 00:31:36,880
+Die Anamnistischen Angaben deuten am ehesten auf eine Lippen Karschnoem hin.
+
+244
+00:31:36,880 --> 00:31:42,380
+Ist es möglich, Diabetes zu haben?
+
+245
+00:31:42,380 --> 00:31:46,380
+Es ist möglich, Diabetes zu haben.
+
+246
+00:31:46,380 --> 00:31:54,380
+Der Patient hat zwei Zwangsjagd-Diabetes-Malutus.
+
+247
+00:31:54,380 --> 00:31:59,660
+Es ist möglich, das zu machen.
+
+248
+00:31:59,660 --> 00:32:09,550
+Die Beschwerden sollen die folgenden Maßnahmen durchgeführt werden.
+
+249
+00:32:09,550 --> 00:32:13,550
+Zuerst werde ich den Patienten körperlich untersuchen.
+
+250
+00:32:13,550 --> 00:32:19,550
+Bei der körperlichen Untersuchung achte ich darauf,
+
+251
+00:32:19,550 --> 00:32:51,220
+dass der Patient die Farbung des Mundes und die Schwellung und Warmung hat.
+
+252
+00:32:51,220 --> 00:32:57,220
+Bei der körperlichen Untersuchung achte ich darauf,
+
+253
+00:32:57,220 --> 00:33:19,220
+dass die Farbung des Mundes und die Schwellung und die Schwellung hat.
+
+254
+00:33:19,220 --> 00:33:30,900
+Bei der Laboruntersuchung würde ich ein großes Blutbild,
+
+255
+00:33:30,900 --> 00:33:58,900
+Entzündungsparameter, Nieren- und Lebewerte, Elektrolyte und Vitamin B12 und Vitamin D bestimmen lassen.
+
+256
+00:33:58,900 --> 00:34:02,900
+Was ist in diesem Fall die C-Markers?
+
+257
+00:34:02,900 --> 00:34:06,900
+C-Markers? Ich weiss nicht.
+
+258
+00:34:06,900 --> 00:34:11,580
+Und B-Segue?
+
+259
+00:34:11,580 --> 00:34:14,580
+Entzündungsparameter.
+
+260
+00:34:14,580 --> 00:34:32,580
+Natürlich würde ich Entzündungsparameter und Nieren- und Lebewerte und HbA1C bestimmen lassen.
+
+261
+00:34:32,580 --> 00:34:40,580
+Das ist die Tumormarker, aber ich möchte in diesem Fall eine Tumormarker bestimmen lassen.
+
+262
+00:34:40,580 --> 00:34:46,580
+Blut senkung, Geschwindigkeit. Kennen Sie?
+
+263
+00:34:46,580 --> 00:34:53,860
+Blut senkung, Geschwindigkeit. B-Segue.
+
+264
+00:34:53,860 --> 00:34:57,860
+Das ist eine Tumormarker für diesen Fall?
+
+265
+00:34:57,860 --> 00:35:09,860
+Nein. Aber seit uns eine unnormalisierte Station ist.
+
+266
+00:35:09,860 --> 00:35:26,960
+Okay. Und weitere Untersuchungen möchte ich... können Sie schreiben?
+
+267
+00:35:26,960 --> 00:35:38,960
+Und weitere Untersuchungen möchte ich eine Gewebeprobe auf der Wunde entnehmen
+
+268
+00:35:38,960 --> 00:35:52,960
+und eine histologische Untersuchung durchführen.
+
+269
+00:36:28,050 --> 00:36:40,050
+Sollte sich die Verdacht Diagnose bestätigen, schlage ich die folgende Therapie vor.
+
+270
+00:36:40,050 --> 00:37:15,530
+Bei kleineren oder wenn die Tumor keine Methasthen hat, würde ich eine exkiseionale Biopsie durchführen.
+
+271
+00:37:15,530 --> 00:37:42,530
+Aber wenn der Patient Methasthen hat, würde ich eine Chemotherapie beginnen.
+
+272
+00:37:42,530 --> 00:37:50,530
+So erst werde ich den Patienten stationär aufnehmen.
+
+273
+00:37:50,530 --> 00:38:09,950
+Und würde ich einen Zugang legen und eine ausreichende Flüssigkeit verabreichen.
+
+274
+00:38:09,950 --> 00:38:17,950
+Dann eine onkologische Konzentration.
+
+275
+00:38:17,950 --> 00:38:31,950
+Und in einer Wunde ohne Methasthen würde ich eine exkiseionale Biopsie durchführen.
+
+276
+00:38:31,950 --> 00:38:45,950
+Aber wenn der Patient Methasthen hat, würde ich eine exkiseionale Biopsie durchführen.
+
+277
+00:38:45,950 --> 00:39:13,950
+Aber wenn der Patient Methasthen hat, würde ich eine Chemotherapie beginnen.
+
+278
+00:39:13,950 --> 00:39:23,950
+Welche Typen denken Sie in diesem Karzino?
+
+279
+00:39:23,950 --> 00:39:27,950
+Welche Typen Karzino?
+
+280
+00:39:27,950 --> 00:39:31,950
+Ja, Basalselz Karzino.
+
+281
+00:39:31,950 --> 00:39:34,950
+Ich weiße Histologie.
+
+282
+00:39:34,950 --> 00:39:37,950
+Schwarze Karzino, weiße Karzino.
+
+283
+00:39:37,950 --> 00:39:41,950
+Ich habe keine Vermutung.
+
+284
+00:39:41,950 --> 00:39:44,950
+Haben Sie Vermutung?
+
+285
+00:39:44,950 --> 00:39:47,950
+Nein, ich habe keine Vermutung.
+
+286
+00:39:47,950 --> 00:39:51,950
+Ich vermute in diesem Fall Basalselz Karzino.
+
+287
+00:39:51,950 --> 00:39:55,950
+Weiß Karzino, weiße Krebs.
+
+288
+00:39:55,950 --> 00:39:58,950
+Kennen Sie Schwarzkrebs?
+
+289
+00:39:58,950 --> 00:40:00,950
+Nein.
+
+290
+00:40:00,950 --> 00:40:03,950
+Malin Melanum, Schwarzkrebs?
+
+291
+00:40:03,950 --> 00:40:06,950
+Ja.
+
+292
+00:40:06,950 --> 00:40:15,950
+Sie haben gesagt, dass die Arthritisierungen herpesoster sind.
+
+293
+00:40:15,950 --> 00:40:23,570
+Wie können sie herpesoster auslösen?
+
+294
+00:40:23,570 --> 00:40:31,570
+Die Herpesinfektionen können in der Herpeswahl sein.
+
+295
+00:41:01,570 --> 00:41:06,490
+Sie haben eine immunologische Befunde.
+
+296
+00:41:06,490 --> 00:41:09,490
+Anti-IgM, Anti-IgG.
+
+297
+00:41:09,490 --> 00:41:12,490
+Für Herpes?
+
+298
+00:41:12,490 --> 00:41:14,490
+Ja.
+
+299
+00:41:14,490 --> 00:41:21,860
+Ja, wir können beurteilen.
+
+300
+00:41:21,860 --> 00:41:29,860
+Wie können Sie Pilzeinfektionen im Mund auslösen?
+
+301
+00:41:29,860 --> 00:41:40,860
+In der histologischen Untersuchung kann diese Verdachtstheatome ausgeschlossen werden.
+
+302
+00:41:40,860 --> 00:41:46,860
+Können Sie uns Petsiti aufklären?
+
+303
+00:41:46,860 --> 00:42:00,110
+Petsiti ist ein Bildgebungsverfahren, um die Metastasen zu bestätigen.
+
+304
+00:42:00,110 --> 00:42:17,220
+Nur Metastasen oder alle kalten Stoffwechselkrankheiten oder Geschwurz.
+
+305
+00:42:17,220 --> 00:42:20,220
+Gehwurzt.
+
+306
+00:42:20,220 --> 00:42:24,220
+Ja, Metastasen auch.
+
+307
+00:42:24,220 --> 00:42:26,220
+Okay.
+
+308
+00:42:26,220 --> 00:42:45,220
+Der Patient gibt eine spezielle Flüssigkeit.
+
+309
+00:42:45,220 --> 00:42:49,220
+Flüssigkeit oder intravenös.
+
+310
+00:42:49,220 --> 00:42:51,220
+Intravenös, ja.
+
+311
+00:42:52,220 --> 00:42:59,220
+Die radioaktive Marke.
+
+312
+00:42:59,220 --> 00:43:14,340
+Wir warten auf eine Stunde, um die radioaktive Substanz der Körper des Patienten zu verbreiten.
+
+313
+00:43:14,340 --> 00:43:20,020
+Okay.
+
+314
+00:43:20,020 --> 00:43:28,020
+Diese Untersuchung ist schmerzlos.
+
+315
+00:43:28,020 --> 00:43:54,680
+Der Patient hat keine Vorbereitung.
+
+316
+00:43:54,680 --> 00:43:57,680
+Okay.
+
+317
+00:43:57,680 --> 00:44:08,680
+Nach der Untersuchung kann der Patient seine Atak weitergehen.
+
+318
+00:44:08,680 --> 00:44:14,680
+Aber wir gehen nicht auf die radioaktive Substanz.
+
+319
+00:44:14,680 --> 00:44:24,680
+Der Patient sollte allein in einem Zimmer bleiben.
+
+320
+00:44:24,680 --> 00:44:30,680
+Ca. drei Tage.
+
+321
+00:44:30,680 --> 00:44:39,680
+Welche Personen wird der Patient kontaktiert?
+
+322
+00:44:39,680 --> 00:44:54,680
+Kinder oder Schwangerschaft.
+
+323
+00:44:54,680 --> 00:44:56,680
+Schwangerschaft, ja.
+
+324
+00:44:56,680 --> 00:45:03,430
+Muss keinen Kontakt haben.
+
+325
+00:45:03,430 --> 00:45:10,810
+Muss der Patient viele Wasser trinken, um die radioaktive Substanz auszuscheiden?
+
+326
+00:45:10,810 --> 00:45:15,590
+Nach der Untersuchung?
+
+327
+00:45:15,590 --> 00:45:19,590
+Ja, viele trinken.
+
+328
+00:45:19,590 --> 00:45:35,510
+Der Patient muss ca. drei Liter täglich trinken.
+
+329
+00:45:35,510 --> 00:45:39,510
+Hat diese Untersuchung alternative Methoden?
+
+330
+00:45:39,510 --> 00:45:44,530
+Für PET.
+
+331
+00:45:44,530 --> 00:45:45,530
+CT?
+
+332
+00:45:45,530 --> 00:46:00,940
+Ja, wir können auch eine CT-Grafik, aber nein.
+
+333
+00:46:00,940 --> 00:46:12,500
+Die Chemikerin hat etwas gemacht, aber ich habe keine Ahnung.
+
+334
+00:46:12,500 --> 00:46:17,500
+Densitometer.
+
+335
+00:46:21,410 --> 00:46:35,410
+Es gibt keine alternative Methoden, aber wir können die CT-Grafik ausführen.
+
+336
+00:46:35,410 --> 00:46:37,410
+Aber es ist sehr teuer.
+
+337
+00:46:37,410 --> 00:46:46,410
+Ja, sehr teuer. Und der Patient mit CT hat viele Strahlung.
+
+338
+00:46:46,410 --> 00:46:52,410
+Das ist nicht eine gute Wahl.
+
+339
+00:46:52,410 --> 00:46:54,410
+PET-CT?
+
+340
+00:46:54,410 --> 00:46:58,880
+Nein, CT.
+
+341
+00:46:58,880 --> 00:47:03,880
+Okay, vielen Dank für die Kollegen.
+
+342
+00:47:03,880 --> 00:47:05,880
+Vielen Dank.

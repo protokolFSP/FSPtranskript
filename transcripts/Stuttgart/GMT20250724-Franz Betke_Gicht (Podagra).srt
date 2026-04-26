@@ -1,0 +1,1295 @@
+1
+00:00:02,380 --> 00:00:10,380
+Guten Tag.
+
+2
+00:00:10,380 --> 00:00:22,380
+Mein Name ist Bulur, ich bin die Stabender Ärztin auf der Station und ich würde gerne das erste Gespräch mit Ihnen führen. Ist das in Ordnung für Sie?
+
+3
+00:00:22,380 --> 00:00:25,380
+Ja, alles in Ordnung Frau Doktor.
+
+4
+00:00:25,380 --> 00:00:32,640
+Ok, zuerst werde ich ein paar Fragen zu ihrer Person stellen, dann direkt ihren aktuellen
+
+5
+00:00:32,640 --> 00:00:33,640
+Beschwerden übergehen.
+
+6
+00:00:33,640 --> 00:00:36,640
+Wie heißen Sie dann?
+
+7
+00:00:36,640 --> 00:00:41,640
+Ich bin Franz Betke.
+
+8
+00:00:41,640 --> 00:00:42,640
+Franz Betke?
+
+9
+00:00:42,640 --> 00:00:43,640
+Franz?
+
+10
+00:00:43,640 --> 00:00:44,640
+Herr?
+
+11
+00:00:44,640 --> 00:00:45,640
+Herr.
+
+12
+00:00:45,640 --> 00:00:46,640
+Herr.
+
+13
+00:00:46,640 --> 00:00:47,640
+Ich bin Herr.
+
+14
+00:00:47,640 --> 00:00:48,640
+Franz.
+
+15
+00:00:48,640 --> 00:00:49,640
+Ok, Herr Betke.
+
+16
+00:00:49,640 --> 00:00:54,640
+Könnten Sie ihren Fondennachnamen langsam büchen?
+
+17
+00:00:54,640 --> 00:00:59,640
+Ja, Franz, F-R-A-N-Z.
+
+18
+00:00:59,640 --> 00:01:00,640
+Z, ok.
+
+19
+00:01:00,640 --> 00:01:05,640
+Betke B-E-T-H-G-E.
+
+20
+00:01:05,640 --> 00:01:08,640
+Betke, ok.
+
+21
+00:01:08,640 --> 00:01:11,640
+Herr Betke, wie heißen Sie?
+
+22
+00:01:11,640 --> 00:01:14,640
+45, Frau Doktor.
+
+23
+00:01:14,640 --> 00:01:15,640
+45, ok.
+
+24
+00:01:15,640 --> 00:01:18,640
+Wann sind Sie genau geboren?
+
+25
+00:01:18,640 --> 00:01:23,640
+18. März 1980.
+
+26
+00:01:23,640 --> 00:01:24,640
+Ok.
+
+27
+00:01:24,640 --> 00:01:29,640
+Und wissen Sie, wie groß Sie sind?
+
+28
+00:01:29,640 --> 00:01:34,640
+Ja, ich bin 1 Meter 78.
+
+29
+00:01:34,640 --> 00:01:37,640
+1 Meter 78.
+
+30
+00:01:37,640 --> 00:01:40,640
+Ok, und wie viel wiegen Sie?
+
+31
+00:01:40,640 --> 00:01:47,640
+Ja, ich bin über Gewicht, Frau Doktor, 114 Kilo.
+
+32
+00:01:47,640 --> 00:01:50,640
+114.
+
+33
+00:01:50,640 --> 00:01:53,640
+Ok, 114.
+
+34
+00:01:53,640 --> 00:01:59,640
+Und wie heißt Ihr Hausarzt oder Ihre Hausärztin?
+
+35
+00:01:59,640 --> 00:02:05,640
+Frau Graf.
+
+36
+00:02:05,640 --> 00:02:06,640
+Graf?
+
+37
+00:02:06,640 --> 00:02:07,640
+Ja.
+
+38
+00:02:07,640 --> 00:02:09,640
+Mit Ende Doppel F?
+
+39
+00:02:09,640 --> 00:02:11,640
+Doppel F, ja.
+
+40
+00:02:11,640 --> 00:02:16,640
+Ok, vielen Dank für diese Informationen, Herr Betke.
+
+41
+00:02:16,640 --> 00:02:20,640
+Was kann ich Ihnen hervorheben?
+
+42
+00:02:20,640 --> 00:02:25,640
+Was sind Ihre aktuellen Beschwerden?
+
+43
+00:02:25,640 --> 00:02:28,640
+Ja, Frau Doktor, ich habe Fußschmerzen leider.
+
+44
+00:02:28,640 --> 00:02:29,640
+Fußschmerzen?
+
+45
+00:02:29,640 --> 00:02:35,640
+Ja, im linken Fuß habe ich sehr starke Schmerzen.
+
+46
+00:02:35,640 --> 00:02:40,640
+Könnten Sie, wo genau Ihre Schmerzen?
+
+47
+00:02:40,640 --> 00:02:42,640
+Könnten Sie...
+
+48
+00:02:42,640 --> 00:02:48,640
+Ja, besonders im linken Fuß besonders C.
+
+49
+00:02:48,640 --> 00:02:51,640
+In meinem linken C, ja.
+
+50
+00:02:51,640 --> 00:02:54,640
+Linken C. Ok.
+
+51
+00:02:54,640 --> 00:02:58,640
+Seit wann haben Sie diese Beschwerden, diese Schmerzen?
+
+52
+00:02:58,640 --> 00:03:06,640
+Ja, seit drei Tagen habe ich Schmerzen, aber seit gestern ist es sehr schlimm geworden.
+
+53
+00:03:06,640 --> 00:03:21,640
+Gestern Abend habe ich nicht geschlafen und habe zweimal Schmerzmittel eingenommen, aber es hat jedoch nicht geholfen.
+
+54
+00:03:21,640 --> 00:03:25,640
+Ok, welche Medikamente haben Sie eingenommen?
+
+55
+00:03:25,640 --> 00:03:43,640
+Ja, ich habe einmal Paracetamol eingenommen, einmal Ibuprofen 800 Milligramm eingenommen, aber ein bisschen Ibuprofen hat mir geholfen, aber das ist jetzt auch sehr schmerzhaft.
+
+56
+00:03:43,640 --> 00:03:45,640
+Ok.
+
+57
+00:03:45,640 --> 00:04:03,640
+Und wie stark sind Ihre Schmerzen auf einer Schmerzskala bis ein Fonsen, wobei ein sehr leichte Sein sehr stark Schmerzen entspricht?
+
+58
+00:04:03,640 --> 00:04:07,640
+Ja, vielleicht jetzt acht oder neun, Frau Doktor, ich kann nicht...
+
+59
+00:04:07,640 --> 00:04:08,640
+Acht oder neun?
+
+60
+00:04:08,640 --> 00:04:09,640
+Ja, sehr schmerzhaft.
+
+61
+00:04:09,640 --> 00:04:15,640
+Ok. Haben Sie heute Morgen ein Schmerzmittel eingenommen?
+
+62
+00:04:15,640 --> 00:04:18,640
+Ja, habe ich Paracetamol eingenommen.
+
+63
+00:04:18,640 --> 00:04:24,640
+Ok. Aber ich bemerke, haben Sie einen starken Schmerzen?
+
+64
+00:04:24,640 --> 00:04:25,640
+Ja, ja, Frau Doktor.
+
+65
+00:04:25,640 --> 00:04:35,640
+Könnten Sie Ihre Schmerzen bis zum Ende des Gesprächs aushalten oder brauchen Sie ein Schmerzmittel sofort?
+
+66
+00:04:35,640 --> 00:04:39,640
+Ja, ich brauche gerne, Frau Doktor, wenn möglich ist.
+
+67
+00:04:39,640 --> 00:04:55,640
+Ok, Herr Wettke, ich verstehe. Zuerst werde ich Ihnen einen Zugang legen und ein Schmerzmittel verabreichen.
+
+68
+00:04:55,640 --> 00:04:57,640
+Ich würde nicht.
+
+69
+00:04:57,640 --> 00:05:02,640
+Haben Sie irgendwelche Allergien gegen einige Medikamente?
+
+70
+00:05:02,640 --> 00:05:07,640
+Nein, ich habe keine Allergien gegen Medikamente, ich habe Nussallergien.
+
+71
+00:05:07,640 --> 00:05:16,640
+Nussallergien. Ok. Dann gebe ich jetzt einen Schmerzmittel.
+
+72
+00:05:16,640 --> 00:05:18,640
+Ok, Frau Doktor.
+
+73
+00:05:18,640 --> 00:05:21,640
+Fühlen Sie sich besser? Könnten wir...
+
+74
+00:05:21,640 --> 00:05:25,640
+Ja, ja, danke.
+
+75
+00:05:25,640 --> 00:05:41,640
+Herr Wettke, haben Sie einen starken Schmerzen, besonders am Seh? Und haben Sie Fieber auch?
+
+76
+00:05:41,640 --> 00:05:45,640
+Ja, ich fühle mich fieberig, aber ich habe nicht gemessen.
+
+77
+00:05:45,640 --> 00:05:58,640
+Ok. Könnten Sie mir etwas sagen, wann oder wie Sie Ihre Schmerzen begonnen haben?
+
+78
+00:05:58,640 --> 00:06:03,640
+Gibt es einen bestimmten Auslöser für Ihre Schmerzen?
+
+79
+00:06:03,640 --> 00:06:11,640
+Frau Doktor, ich weiß nicht. Letzte Woche hatten wir eine Party. Ich hatte viel Grillparty.
+
+80
+00:06:11,640 --> 00:06:18,640
+Ich habe viel gegessen und natürlich auch Alkohol getrunken.
+
+81
+00:06:18,640 --> 00:06:28,640
+Und auch gestern Abend hatten wir mit meiner Familie auch ein großes Abendessen gegessen.
+
+82
+00:06:28,640 --> 00:06:38,640
+Wir haben Schweinfleisch gegessen und natürlich habe ich drei Fleische Bier getrunken.
+
+83
+00:06:38,640 --> 00:06:52,640
+Und ja, nach dem Abendessen meine Schmerzen langsam angefangen, aber jetzt sehr schlimm geworden.
+
+84
+00:06:52,640 --> 00:06:56,640
+In drei Tagen.
+
+85
+00:06:56,640 --> 00:07:03,640
+Herr Wettke, haben Sie viele Fleische in Ihrem Altar?
+
+86
+00:07:03,640 --> 00:07:06,640
+Ich habe gerne Fleische.
+
+87
+00:07:06,640 --> 00:07:20,640
+Ok. Haben Sie bei Ihnen eine Arthritis oder eine Erkrankung?
+
+88
+00:07:20,640 --> 00:07:25,640
+Vor sieben Jahren hatte ich einige Beschwerden, Frau Doktor.
+
+89
+00:07:25,640 --> 00:07:31,640
+Aber es wurde nicht diagnostiziert.
+
+90
+00:07:31,640 --> 00:07:37,640
+Ich habe gewartet und ein paar Medikamente eingenommen.
+
+91
+00:07:37,640 --> 00:07:42,640
+Ich erinnere mich nicht an welche Medikamente, aber Schmerzmittel hatte ich eingenommen.
+
+92
+00:07:42,640 --> 00:07:47,640
+Dann sind meine Beschwerden weggegangen.
+
+93
+00:07:47,640 --> 00:07:54,640
+Aber jetzt leider ist es immer schlimmer geworden.
+
+94
+00:07:54,640 --> 00:07:58,640
+Ok, ich verstehe Herr Wettke.
+
+95
+00:07:58,640 --> 00:08:08,640
+Haben Sie einige Begleitssymptome mit diesen Schmerzen?
+
+96
+00:08:08,640 --> 00:08:28,640
+Ja, alle sind dabei. Mein Fuß ist rot und geschwollen und überwärmt.
+
+97
+00:08:28,640 --> 00:08:36,640
+Mein Zeh ist besonders. Es ist wie Bohrende Schmerzen.
+
+98
+00:08:36,640 --> 00:08:44,640
+Ich kann es nicht gut beschreiben, aber es ist sehr stark und wie Klopfen.
+
+99
+00:08:44,640 --> 00:08:49,080
+Das ist sehr schlimm.
+
+100
+00:08:49,080 --> 00:08:53,080
+Hammerende oder, ich weiß nicht, aber sehr schlimm.
+
+101
+00:08:53,080 --> 00:08:57,080
+Ok, ich verstehe.
+
+102
+00:08:57,080 --> 00:09:01,080
+Haben Sie Übigkeit oder Erbrechen?
+
+103
+00:09:01,080 --> 00:09:06,080
+Ein bisschen habe ich Übigkeit, aber ich habe nicht Erbrochen.
+
+104
+00:09:06,080 --> 00:09:12,080
+Haben Sie Nachschweiß oder Stahlfrost?
+
+105
+00:09:12,080 --> 00:09:17,080
+Gestern Abend hatte ich Nachschweiß, aber Stahlfrost hatte ich nicht.
+
+106
+00:09:17,080 --> 00:09:22,080
+Aber nur gestern Abend hatte ich.
+
+107
+00:09:22,080 --> 00:09:30,080
+Ok, haben Sie in letzter Zeit ungewöhnlich ab oder so genommen?
+
+108
+00:09:30,080 --> 00:09:36,080
+Nein, Frau Doktor, ich bin immer übergewicht. Ich bin 114.
+
+109
+00:09:36,080 --> 00:09:41,080
+Ich bin nicht gut.
+
+110
+00:09:41,080 --> 00:09:51,080
+Gibt es etwas, das Ihre Schmerzen verschlimmert oder verbessert?
+
+111
+00:09:51,080 --> 00:09:58,080
+Ich kann nicht bewegen, Frau Doktor. Ich kann nicht laufen.
+
+112
+00:09:58,080 --> 00:10:01,080
+Ich kann nicht belasten. Es ist sehr schmerzhaft.
+
+113
+00:10:01,080 --> 00:10:07,080
+Ich lege nur meinen Fuß und muss meinen Leck erholen.
+
+114
+00:10:07,080 --> 00:10:12,330
+Das ist sehr schlimm geworden.
+
+115
+00:10:13,330 --> 00:10:23,330
+Haben Sie Probleme beim Wasserlassen oder beim Stuhlgang?
+
+116
+00:10:23,330 --> 00:10:26,330
+Nein, habe ich nicht.
+
+117
+00:10:26,330 --> 00:10:30,330
+Ist Ihnen schwindelig?
+
+118
+00:10:30,330 --> 00:10:33,330
+Nein.
+
+119
+00:10:33,330 --> 00:10:37,330
+Haben Sie Hüsten oder Atemnot?
+
+120
+00:10:37,330 --> 00:10:40,330
+Nein, habe ich nicht, Frau Doktor.
+
+121
+00:10:40,330 --> 00:10:44,330
+Haben Sie Herzrasen, Herzlagen oder Herzklopfen?
+
+122
+00:10:44,330 --> 00:10:48,330
+Mein Herz schlägt etwas schneller als mein Herz.
+
+123
+00:10:48,330 --> 00:10:55,330
+Aber ich weiß nicht, ob ich andere Herzprobleme habe.
+
+124
+00:10:55,330 --> 00:10:58,330
+Ok.
+
+125
+00:10:58,330 --> 00:11:05,330
+Sie haben keine Stuhlgang oder Stuhlgangprobleme?
+
+126
+00:11:05,330 --> 00:11:16,970
+Ich habe manchmal Stoffe, aber 3-2 Mal pro Jahr.
+
+127
+00:11:16,970 --> 00:11:18,970
+Ok.
+
+128
+00:11:18,970 --> 00:11:34,500
+Herr Bethke, leiden Sie an irgendwelchen chronischen Krankheiten?
+
+129
+00:11:34,500 --> 00:11:39,500
+Meine Blutfettwerte sind sehr hoch, Frau Doktor.
+
+130
+00:11:39,500 --> 00:11:47,500
+Ich bin dick, wie Sie wissen.
+
+131
+00:11:47,500 --> 00:11:53,500
+Mein Blutfett ist sehr hoch. Deswegen nehme ich ein Medikament.
+
+132
+00:11:53,500 --> 00:11:56,500
+Aber ich erinnere mich nicht an den Namen.
+
+133
+00:11:56,500 --> 00:12:04,500
+Ich habe auch Bluthochdruck.
+
+134
+00:12:05,500 --> 00:12:12,500
+Seit wann haben Sie Bluthochdruck?
+
+135
+00:12:12,500 --> 00:12:16,500
+Seit 5 Jahren.
+
+136
+00:12:16,500 --> 00:12:19,500
+Beide.
+
+137
+00:12:19,500 --> 00:12:26,500
+Noch etwas? Haben Sie Bluthochdruck?
+
+138
+00:12:26,500 --> 00:12:34,500
+Ich fühle manchmal Schmerzen im Magen. Deswegen nehme ich manchmal Omeprator.
+
+139
+00:12:34,500 --> 00:12:39,500
+Ich nehme auch Aspirin.
+
+140
+00:12:39,500 --> 00:12:46,500
+Mein Hausarzt hat mir empfohlen, eine Aspirin zu nehmen.
+
+141
+00:12:46,500 --> 00:12:52,500
+Er hat mir gesagt, dass ich Herzkrankungen und Risiken habe.
+
+142
+00:12:52,500 --> 00:12:55,500
+Deswegen nehme ich Aspirin.
+
+143
+00:12:55,500 --> 00:13:01,500
+Gegen Bluthochdruck nehme ich ein Tablett, das heißt Norvask.
+
+144
+00:13:01,500 --> 00:13:04,500
+Welche Dosenkrankungen kennen Sie?
+
+145
+00:13:04,500 --> 00:13:07,500
+10 mg Norvask.
+
+146
+00:13:07,500 --> 00:13:09,500
+Omeprator?
+
+147
+00:13:09,500 --> 00:13:14,500
+Omeprator 20 mg. Aber ab und zu nehme ich.
+
+148
+00:13:14,500 --> 00:13:18,500
+Norvaks morgens?
+
+149
+00:13:18,500 --> 00:13:23,500
+Ja, Norvaks morgens und auch Metaprolol nehme ich.
+
+150
+00:13:23,500 --> 00:13:26,500
+Metaprolol?
+
+151
+00:13:26,500 --> 00:13:32,500
+Ja. Ich nehme viele verschiedene Medikamente, Frau Doktor.
+
+152
+00:13:32,500 --> 00:13:37,500
+Seit wann haben Sie Metaprolol?
+
+153
+00:13:37,500 --> 00:13:41,500
+Seit 10 oder 15 Jahren.
+
+154
+00:13:41,500 --> 00:13:43,500
+15 Jahre?
+
+155
+00:13:43,500 --> 00:13:46,500
+Ja, ich nehme regelmäßig.
+
+156
+00:13:46,500 --> 00:13:53,500
+Mein Hausarzt hat mir empfohlen, eine Aspirin und Norvaks zu nehmen.
+
+157
+00:13:53,500 --> 00:13:56,500
+Ich nehme regelmäßig.
+
+158
+00:13:56,500 --> 00:14:00,500
+Ok. Wissen Sie die Dosierung, Frau Doktor?
+
+159
+00:14:00,500 --> 00:14:03,500
+Ja, ich erinnere mich nicht, Frau Doktor.
+
+160
+00:14:03,500 --> 00:14:08,500
+Würden Sie schon einmal operiert?
+
+161
+00:14:08,500 --> 00:14:13,500
+Vor 20 Jahren hatte ich einen Motorradunfall.
+
+162
+00:14:13,500 --> 00:14:23,500
+Deswegen wurde mein Oberschenkel gebrochen.
+
+163
+00:14:23,500 --> 00:14:28,500
+Dann wurde ich wegen dem Oberschenkelfraktor operiert.
+
+164
+00:14:28,500 --> 00:14:36,500
+Ein Metallinstrument in meinem Oberschenkel.
+
+165
+00:14:36,500 --> 00:14:39,500
+Ok. Noch etwas?
+
+166
+00:14:39,500 --> 00:14:51,640
+Frau Doktor, bitte. Ich habe keine Oberschenkel mehr.
+
+167
+00:14:51,640 --> 00:14:54,640
+Ok. Ich verstehe. Alles klar.
+
+168
+00:14:54,640 --> 00:14:58,640
+Und brauchen Sie Herb?
+
+169
+00:14:58,640 --> 00:15:02,640
+Ja, ich brauche nicht. Ich möchte gesund sein und ich brauche nicht.
+
+170
+00:15:02,640 --> 00:15:10,640
+Ok. Haben Sie jemals geraucht?
+
+171
+00:15:10,640 --> 00:15:13,640
+Nein, ich habe niemals geraucht.
+
+172
+00:15:13,640 --> 00:15:17,640
+Aber Sie trinken schon viel?
+
+173
+00:15:17,640 --> 00:15:24,640
+Nicht viel, Frau Doktor. Jeden Abend trinke ich 2 oder 3 Flaschen Bier.
+
+174
+00:15:24,640 --> 00:15:29,640
+Bier ist nicht Alkohol. Richtig, oder?
+
+175
+00:15:29,640 --> 00:15:39,640
+Ja, aber wie viel trinken Flaschen? 1,5 Liter oder 1 Liter?
+
+176
+00:15:39,640 --> 00:15:46,640
+1,5 Liter, 2 oder 3 Flaschen Bier trinke ich.
+
+177
+00:15:46,640 --> 00:15:51,640
+Seit wann trinken Sie?
+
+178
+00:15:51,640 --> 00:15:57,640
+Seit 25 Jahren trinke ich Alkohol.
+
+179
+00:15:57,640 --> 00:16:00,640
+Aber Bier ist nicht Alkohol, richtig?
+
+180
+00:16:00,640 --> 00:16:03,640
+Nein, Bier ist nicht Alkohol.
+
+181
+00:16:03,640 --> 00:16:12,640
+Ja, ich verstehe Sie. Manchmal brauchen wir Alkohol, aber Sie trinken ein bisschen mehr.
+
+182
+00:16:12,640 --> 00:16:21,640
+Deshalb müssen wir das Gespräch wiederholen.
+
+183
+00:16:21,640 --> 00:16:25,640
+Ok, Frau Doktor.
+
+184
+00:16:25,640 --> 00:16:31,640
+Haben Sie jemals Kontakt mit Drogen?
+
+185
+00:16:31,640 --> 00:16:34,640
+Nein, niemals.
+
+186
+00:16:34,640 --> 00:16:45,640
+Ok. Und gibt es in der Familie irgendwelche chronischen Erkrankungen?
+
+187
+00:16:45,640 --> 00:16:55,640
+Ja, leider ist mein Vater an Darmkrebs gestorben vor 7 Jahren.
+
+188
+00:16:55,640 --> 00:16:58,640
+Darmkrebs, ok.
+
+189
+00:16:58,640 --> 00:17:07,640
+Ja, Darmkrebs. Und meine Mutter hat Bluthochdruck und Zuckerkrankheit.
+
+190
+00:17:07,640 --> 00:17:13,170
+Tipp 1 oder Tipp 2 wissen Sie?
+
+191
+00:17:13,170 --> 00:17:19,170
+Ich weiß nicht. Sie ist sehr alt, 80 und ich weiß nicht.
+
+192
+00:17:19,170 --> 00:17:21,170
+Ok. Haben Sie Geschwister?
+
+193
+00:17:21,170 --> 00:17:27,170
+Ja, ich habe einen Bruder und er hat auch Bluthochdruck.
+
+194
+00:17:27,170 --> 00:17:30,170
+Er leider auch Bluthochdruck.
+
+195
+00:17:30,170 --> 00:17:36,170
+Ok, Herr Wettke. Was machen Sie beruflich?
+
+196
+00:17:36,170 --> 00:17:40,170
+Ich bin Mechaniker, Frau Doktor. Ich habe viel Stress.
+
+197
+00:17:40,170 --> 00:17:45,170
+Die Arbeitsbedingungen sind sehr schwer, ich kann sagen.
+
+198
+00:17:45,170 --> 00:17:49,170
+Deswegen habe ich sehr Stress.
+
+199
+00:17:49,170 --> 00:17:51,170
+Ok. Sind Sie verheiratet?
+
+200
+00:17:51,170 --> 00:17:55,170
+Ja, ja. Ich bin verheiratet.
+
+201
+00:17:55,170 --> 00:17:57,170
+Haben Sie Kinder?
+
+202
+00:17:57,170 --> 00:17:59,170
+Ich habe drei Kinder.
+
+203
+00:17:59,170 --> 00:18:02,170
+Sind Sie gesund?
+
+204
+00:18:02,170 --> 00:18:10,170
+Ja, aber mein Sohn leidet an Down-Syndrom.
+
+205
+00:18:10,170 --> 00:18:13,170
+Ja, es tut mir sehr leid.
+
+206
+00:18:13,170 --> 00:18:18,170
+Haben Sie irgendwelche klinischen Probleme?
+
+207
+00:18:18,170 --> 00:18:28,170
+Nein, aber es gibt manchmal sehr viele Probleme.
+
+208
+00:18:28,170 --> 00:18:33,170
+Aber es ist eine schwierige Sache. Ich denke, es ist gesund.
+
+209
+00:18:33,170 --> 00:18:37,170
+Ok. Sind Sie vollständig geimpft?
+
+210
+00:18:37,170 --> 00:18:40,170
+Ja, ich bin vollständig geimpft.
+
+211
+00:18:40,170 --> 00:18:46,170
+Ok. Waren Sie in letzter Zeit im Ausland?
+
+212
+00:18:46,170 --> 00:18:51,520
+Nein, nein, Frau Doktor.
+
+213
+00:18:51,520 --> 00:18:59,520
+Herr Wettke, ich habe meine allerwichtigen Fragen gestellt.
+
+214
+00:18:59,520 --> 00:19:07,520
+Möchten Sie etwas hinzufügen? Oder haben Sie Fragen an mich?
+
+215
+00:19:07,520 --> 00:19:12,520
+Frau Doktor, ich kann nicht bewegen. Ich bin Mechaniker. Ich muss arbeiten.
+
+216
+00:19:12,520 --> 00:19:18,520
+Was habe ich? Vermuten Sie? Was muss ich jetzt machen?
+
+217
+00:19:18,520 --> 00:19:29,520
+Herr Wettke, ich verstehe, Sie möchten wissen, was Sie haben.
+
+218
+00:19:29,520 --> 00:19:33,520
+Aber Ihre Beschwerden können viele Ursachen haben.
+
+219
+00:19:33,520 --> 00:19:40,520
+Um eine eindeutige Diagnose zu stellen, müssen wir ein paar Untersuchungen durchführen.
+
+220
+00:19:41,520 --> 00:19:47,520
+Dann werde ich Ihre Beschwerden mit meinem Oberarzt besprechen.
+
+221
+00:19:47,520 --> 00:19:52,520
+Sobald die Ergebnisse vorliegen, kann ich Ihnen genauer sagen.
+
+222
+00:19:52,520 --> 00:20:02,520
+Aber sollten Sie jetzt bei uns noch bleiben.
+
+223
+00:20:02,520 --> 00:20:11,520
+Ich werde Sie körperlich untersuchen und Blut abnehmen.
+
+224
+00:20:11,520 --> 00:20:17,520
+Ich werde einige Laboruntersuchungen voranlassen.
+
+225
+00:20:17,520 --> 00:20:27,520
+Dann werde ich zurückkommen und erklären, was Sie haben.
+
+226
+00:20:28,520 --> 00:20:34,520
+Frau Doktor, vermutlich haben Sie keine Verdachtdiagnose.
+
+227
+00:20:34,520 --> 00:20:36,520
+Das kann Krebs sein?
+
+228
+00:20:36,520 --> 00:20:42,520
+Nein. Ich habe eine Verdachtdiagnose.
+
+229
+00:20:42,520 --> 00:20:48,520
+Aber zuerst möchte ich diese Diagnose bestätigen.
+
+230
+00:20:49,520 --> 00:20:56,520
+Dann erkläre ich Ihnen, was Sie haben.
+
+231
+00:20:56,520 --> 00:21:00,520
+Aber machen Sie sich keine Sorgen.
+
+232
+00:21:00,520 --> 00:21:08,520
+Krebs ist nicht Krebs.
+
+233
+00:21:08,520 --> 00:21:18,520
+Bitte denken Sie positiv und ein bisschen Geduld sein.
+
+234
+00:21:18,520 --> 00:21:22,520
+Ich fühle mich jetzt besser, Frau Doktor.
+
+235
+00:21:22,520 --> 00:21:24,520
+Vielen Dank.
+
+236
+00:21:24,520 --> 00:21:30,520
+Frau Doktor, ich glaube, Wichmann ist da.
+
+237
+00:21:30,520 --> 00:21:34,520
+Ja, ich habe es gesehen.
+
+238
+00:21:35,520 --> 00:21:39,520
+Hallo, ich bin da.
+
+239
+00:21:39,520 --> 00:21:42,520
+Ich habe mit Freude zugehört.
+
+240
+00:21:42,520 --> 00:21:46,520
+Es ist schön, andere in der Position zu sehen.
+
+241
+00:21:46,520 --> 00:21:48,520
+Wunderbar.
+
+242
+00:21:48,520 --> 00:21:54,520
+Ich habe eine falsche Zeit, da hast du etwas verpasst.
+
+243
+00:21:54,520 --> 00:21:58,520
+Sie haben eine schöne Simulation gemacht.
+
+244
+00:21:58,520 --> 00:22:00,520
+Sehr gut.
+
+245
+00:22:01,520 --> 00:22:05,520
+Sie waren ein cooler Patient.
+
+246
+00:22:05,520 --> 00:22:08,520
+Frau Doktor, was habe ich denn?
+
+247
+00:22:08,520 --> 00:22:12,520
+Böse Patient.
+
+248
+00:22:12,520 --> 00:22:16,520
+Wir sind höchstens mal ein bisschen doof.
+
+249
+00:22:24,760 --> 00:22:28,760
+Frau Wichmann, können Sie mich hören?
+
+250
+00:22:29,760 --> 00:22:33,760
+Die Internet-Verwindung ist schwach.
+
+251
+00:22:33,760 --> 00:22:36,760
+Jetzt besser.
+
+252
+00:22:36,760 --> 00:22:44,010
+Ihr habt schon Dr. Puppil angerufen, aber ich konnte nicht erreichen.
+
+253
+00:22:44,010 --> 00:22:47,010
+Das heißt, wir haben keinen Host.
+
+254
+00:22:47,010 --> 00:22:50,450
+Ja, genau.
+
+255
+00:22:50,450 --> 00:22:52,450
+Das schadet ja nichts.
+
+256
+00:22:52,450 --> 00:22:54,450
+Aber wir sind noch ein bisschen wenig.
+
+257
+00:22:54,450 --> 00:22:57,450
+Mit neuen Leuten sind wir noch ein bisschen sparsam.
+
+258
+00:22:57,450 --> 00:23:00,450
+Es ist schon 5 Uhr.
+
+259
+00:23:00,450 --> 00:23:03,450
+Ist es ein großes Missverständnis?
+
+260
+00:23:03,450 --> 00:23:06,450
+Ich glaube ja, Frau Wichmann.
+
+261
+00:23:06,450 --> 00:23:10,450
+Es ist ein Missverständnis.
+
+262
+00:23:10,450 --> 00:23:12,450
+Aber wieso?
+
+263
+00:23:12,450 --> 00:23:15,450
+Wir haben doch am Dienstag gesagt, dass wir uns heute wieder sehen.
+
+264
+00:23:15,450 --> 00:23:19,450
+Wir haben eine andere Simulation heute.
+
+265
+00:23:19,450 --> 00:23:21,450
+Eine andere Simulation.
+
+266
+00:23:21,450 --> 00:23:24,450
+Das heißt, Sie wollen weitermachen.
+
+267
+00:23:24,450 --> 00:23:26,450
+Nein.
+
+268
+00:23:26,450 --> 00:23:32,450
+Die anderen Leute wissen.
+
+269
+00:23:32,450 --> 00:23:36,450
+Wann ist die andere Simulation?
+
+270
+00:23:36,450 --> 00:23:38,450
+Gleichzeitig jetzt?
+
+271
+00:23:38,450 --> 00:23:40,450
+Ja.
+
+272
+00:23:40,450 --> 00:23:44,450
+Wir benutzen eine ähnliche Linke.
+
+273
+00:23:44,450 --> 00:23:50,450
+Aber das ist nicht die ähnliche Gruppe.
+
+274
+00:23:50,450 --> 00:23:54,450
+Okay, es sind also zwei Gruppen, die jetzt parallel laufen.
+
+275
+00:23:54,450 --> 00:23:58,450
+Wir haben noch eine dritte Gruppe aufgemacht.
+
+276
+00:23:58,450 --> 00:24:02,450
+Wer war das eben?
+
+277
+00:24:02,450 --> 00:24:04,450
+Dr. Ukac?
+
+278
+00:24:04,450 --> 00:24:08,450
+Der eigentlich heute machen wollte, wenn ich das richtig verstanden habe.
+
+279
+00:24:08,450 --> 00:24:10,450
+Oder?
+
+280
+00:24:10,450 --> 00:24:14,450
+Ich weiß nicht eigentlich.
+
+281
+00:24:14,450 --> 00:24:17,450
+Einer war doch gerade da, der gefragt hat.
+
+282
+00:24:17,450 --> 00:24:19,450
+War das Dr. Ukac?
+
+283
+00:24:19,450 --> 00:24:23,450
+Frau Wichmann, gibt es eine Großgruppe?
+
+284
+00:24:23,450 --> 00:24:25,450
+Das ist eine kleine Gruppe.
+
+285
+00:24:25,450 --> 00:24:27,450
+Wir machen jeden Tag.
+
+286
+00:24:27,450 --> 00:24:31,450
+Aber es gibt ein Problem, denke ich.
+
+287
+00:24:31,450 --> 00:24:34,450
+Sie müssen jetzt sagen, ob Sie machen wollen oder nicht.
+
+288
+00:24:34,450 --> 00:24:40,450
+Wenn Sie nicht machen wollen, es ist ein schöner Abend, kann ich auch was anderes tun.
+
+289
+00:24:40,450 --> 00:24:44,450
+Wenn Sie jetzt Ihre Simulation beenden wollen,
+
+290
+00:24:44,450 --> 00:24:49,450
+wenn Sie noch Ihr Arzt-Arzt-Gespräch simulieren wollen,
+
+291
+00:24:49,450 --> 00:24:51,450
+sollten Sie das machen.
+
+292
+00:24:51,450 --> 00:24:54,450
+Frau Schüle kann das machen, ja.
+
+293
+00:24:54,450 --> 00:24:58,450
+Und da ist Dr. Ukac wieder.
+
+294
+00:24:58,450 --> 00:25:03,450
+Dr. Ukac, waren Sie eingeplant für heute für das Gespräch mit mir?
+
+295
+00:25:03,450 --> 00:25:09,450
+Ich glaube nicht, aber es gibt ein Missverständnis, ich glaube, Frau Wichmann.
+
+296
+00:25:09,450 --> 00:25:13,450
+Aber Frau Schüle, wenn Sie möchten,
+
+297
+00:25:13,450 --> 00:25:16,450
+ich glaube, können Sie das andere Gespräch machen, oder?
+
+298
+00:25:16,450 --> 00:25:20,450
+Dann machen Sie das Arzt-Gespräch und wir können ja überlegen.
+
+299
+00:25:20,450 --> 00:25:24,450
+Ich kann mich ja in einer halben Stunde wieder melden.
+
+300
+00:25:24,450 --> 00:25:32,450
+Wenn dann jemand von Ihnen da ist, der noch eine Simulation machen will.
+
+301
+00:25:32,450 --> 00:25:37,450
+Ich werde die Simulation in der Gruppe schreiben, okay?
+
+302
+00:25:37,450 --> 00:25:39,450
+Für 20.30 Uhr.
+
+303
+00:25:39,450 --> 00:25:45,440
+Ja, eine halbe Stunde reicht Ihnen ja, oder, Frau Dr. Schüle?
+
+304
+00:25:45,440 --> 00:25:49,440
+Ihnen reicht doch eine halbe Stunde jetzt für Ihr Arzt-Arzt-Gespräch.
+
+305
+00:25:49,440 --> 00:25:50,440
+Ja.
+
+306
+00:25:50,440 --> 00:25:52,440
+Gut. Und? Ja?
+
+307
+00:25:53,440 --> 00:25:55,440
+Okay.
+
+308
+00:25:56,440 --> 00:26:01,440
+Frau Wichmann, haben Sie Zeit für 20.30 Uhr?
+
+309
+00:26:01,440 --> 00:26:04,440
+Ja, habe ich ja gerade angeboten, ja. Kann ich machen.
+
+310
+00:26:04,440 --> 00:26:05,440
+Okay, vielen Dank.
+
+311
+00:26:05,440 --> 00:26:13,440
+Ja, um 30 Uhr, ich glaube, wir können die anderen Leute erreichen und wir finden.
+
+312
+00:26:13,440 --> 00:26:15,440
+Dann machen wir das so.
+
+313
+00:26:15,440 --> 00:26:16,440
+Jetzt schreibe ich, ja?
+
+314
+00:26:16,440 --> 00:26:19,440
+Ich höre da nicht weiter zu, ich spiele nicht Mäuschen.
+
+315
+00:26:19,440 --> 00:26:26,440
+Ich gehe raus und esse dann erst mein Abendbrot und gucke Nachrichten und dann komme ich um halb neun wieder.
+
+316
+00:26:26,440 --> 00:26:27,440
+Okay?
+
+317
+00:26:27,440 --> 00:26:28,440
+Alles klar, ja.
+
+318
+00:26:28,440 --> 00:26:29,440
+Bis dann.
+
+319
+00:26:29,440 --> 00:26:33,440
+Okay. Entschuldigung.
+
+320
+00:26:36,770 --> 00:26:41,770
+Alavi, ich habe mich bei Frau Gehildi angeschaut, aber ich habe nicht getroffen.
+
+321
+00:26:41,770 --> 00:26:43,770
+Arif, hast du eine Extra-Nummer?
+
+322
+00:26:44,770 --> 00:26:46,770
+Ich habe auch keine.
+
+323
+00:26:46,770 --> 00:26:48,770
+Dann machen wir das so.
+
+324
+00:26:48,770 --> 00:26:50,770
+Dann machen wir das so.

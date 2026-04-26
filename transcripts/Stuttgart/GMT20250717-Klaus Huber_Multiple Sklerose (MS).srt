@@ -1,0 +1,1759 @@
+1
+00:00:00,000 --> 00:00:08,000
+Ich würde gerne das erste Gespräch mit Ihnen führen. Ist das in Ordnung für Sie?
+
+2
+00:00:08,000 --> 00:00:12,000
+Ja, Frau Durtr.
+
+3
+00:00:12,000 --> 00:00:21,000
+Okay. Zuerst werde ich Ihnen ein paar Fragen zu Ihrer Person stellen.
+
+4
+00:00:21,000 --> 00:00:28,000
+Dann können wir Ihre aktuellen Beschwerden überlegen.
+
+5
+00:00:28,000 --> 00:00:34,000
+Und darf ich Sie um Ihren Namen bitten?
+
+6
+00:00:34,000 --> 00:00:40,000
+Ja, Klaus Huber. Mein Name ist Klaus Huber.
+
+7
+00:00:40,000 --> 00:00:46,000
+Klaus, können Sie Ihren Vornamen beschreiben?
+
+8
+00:00:46,000 --> 00:00:54,000
+Ja, Klaus, K-L-A-U-S, Huber, H-U-B-E-R.
+
+9
+00:00:54,000 --> 00:00:59,000
+Okay. Wie alt sind Sie, Herr Huber?
+
+10
+00:00:59,000 --> 00:01:02,000
+Ich bin 33, Frau Doktor.
+
+11
+00:01:02,000 --> 00:01:06,000
+33. Okay. Wann sind Sie genau geboren?
+
+12
+00:01:06,000 --> 00:01:11,000
+1. April 1992.
+
+13
+00:01:11,000 --> 00:01:17,000
+Okay. Wissen Sie, wie groß Sie sind?
+
+14
+00:01:17,000 --> 00:01:22,000
+Ja, ich bin 1 Meter 79.
+
+15
+00:01:22,000 --> 00:01:26,000
+Und wie viel wiegen Sie?
+
+16
+00:01:26,000 --> 00:01:31,310
+Ich wiege ungefähr 65 Kilogramm.
+
+17
+00:01:31,310 --> 00:01:38,310
+65. Okay. Wie heißt Ihr Hausarzt oder Ihre Hausärztin?
+
+18
+00:01:38,310 --> 00:01:44,310
+Ja, meine Hausärztin heißt Frau Steffi Graf.
+
+19
+00:01:44,310 --> 00:01:47,590
+Steffi Graf?
+
+20
+00:01:47,590 --> 00:01:49,590
+Ja, Graf. Frau Graf.
+
+21
+00:01:49,590 --> 00:01:53,590
+Frau Graf. Okay. Mit Double F oder eine F?
+
+22
+00:01:53,590 --> 00:01:59,590
+Ja, Double F. G-A-M-R-G-R-A-Double F.
+
+23
+00:01:59,590 --> 00:02:06,590
+Okay. Danke schön, Frau Huber, für diese Informationen.
+
+24
+00:02:06,590 --> 00:02:10,590
+Und was für Sie heute so?
+
+25
+00:02:10,590 --> 00:02:15,590
+Frau Doktor, ehrlich zu sagen, habe ich seit drei Monaten Beschwerden.
+
+26
+00:02:15,590 --> 00:02:21,590
+Und meine Beschwerden sind verlafft, seit verschlimmert.
+
+27
+00:02:21,590 --> 00:02:26,590
+Ich fühle meinen linken Bein schwach.
+
+28
+00:02:26,590 --> 00:02:33,590
+Ich kann zur Zeit nicht gut laufen.
+
+29
+00:02:33,590 --> 00:02:38,590
+In der letzten Zeit humpere ich.
+
+30
+00:02:38,590 --> 00:02:46,590
+Und in den zweiten zwei Wochen stolpere ich sehr oft.
+
+31
+00:02:46,590 --> 00:02:52,590
+Und zweimal bin ich gestürzt.
+
+32
+00:02:52,590 --> 00:02:59,970
+Okay. Sie haben seit drei Monaten Bein schwach.
+
+33
+00:02:59,970 --> 00:03:12,970
+Und in den zweiten zwei Wochen stolpert sie sich.
+
+34
+00:03:12,970 --> 00:03:17,970
+Hat sie stolpert haben? Und?
+
+35
+00:03:17,970 --> 00:03:20,970
+Ja, ich humpere auch.
+
+36
+00:03:20,970 --> 00:03:25,970
+Ich stolpere und habe zweimal gestürzt.
+
+37
+00:03:25,970 --> 00:03:27,970
+Gefallen.
+
+38
+00:03:27,970 --> 00:03:29,970
+Gefallen, okay.
+
+39
+00:03:29,970 --> 00:03:34,970
+Das gefällt mir nicht. Ich bin jung und ich bin sehr aktiv normalerweise.
+
+40
+00:03:34,970 --> 00:03:38,970
+Aber ich kann nicht gut laufen. Das stört mir.
+
+41
+00:03:39,970 --> 00:03:47,970
+Okay. Aber Sie haben seit drei Monaten keine Beschwerden.
+
+42
+00:03:47,970 --> 00:03:51,970
+Nein, nein. Ich war sehr sportlich, Frau Doktor.
+
+43
+00:03:51,970 --> 00:03:53,970
+Ich bin sehr jung.
+
+44
+00:03:53,970 --> 00:03:59,970
+Aber in den letzten drei Monaten möchte ich nicht rausgehen.
+
+45
+00:03:59,970 --> 00:04:02,970
+Das ist immer schlimm geworden.
+
+46
+00:04:02,970 --> 00:04:10,970
+Okay. Haben Sie diese Schwache mit beiden Beinen?
+
+47
+00:04:10,970 --> 00:04:13,970
+Nein, linke Seite.
+
+48
+00:04:13,970 --> 00:04:16,970
+Okay, linke Beine.
+
+49
+00:04:16,970 --> 00:04:23,970
+Haben Sie Tapshaltgefühl? Oder fühlen Sie sich kribbeln?
+
+50
+00:04:23,970 --> 00:04:31,970
+Ja, auf dem linken Bein wie eine Ameise laufen.
+
+51
+00:04:31,970 --> 00:04:36,970
+Ich fühle das ist wie komische Gefühl.
+
+52
+00:04:36,970 --> 00:04:42,970
+Taubeizgefühl oder Kribbeln. Ich kann nicht gut beschreiben.
+
+53
+00:04:42,970 --> 00:04:44,970
+Okay.
+
+54
+00:04:45,970 --> 00:04:53,970
+Könnten Sie Ihren linken Bein abholen?
+
+55
+00:04:53,970 --> 00:04:58,970
+Ja, ich kann.
+
+56
+00:04:58,970 --> 00:05:01,970
+Okay.
+
+57
+00:05:07,970 --> 00:05:10,970
+Schmerzen?
+
+58
+00:05:10,970 --> 00:05:18,970
+Schmerzen ist nicht schlimm. Aber manchmal fühle ich Schmerzen im linken Bein.
+
+59
+00:05:18,970 --> 00:05:20,970
+Okay.
+
+60
+00:05:20,970 --> 00:05:35,970
+Haben Sie an den Beinen Gerotet, Schwellung oder Überwärm bemerkt?
+
+61
+00:05:35,970 --> 00:05:38,970
+Nein, das ist ganz normal.
+
+62
+00:05:38,970 --> 00:05:44,970
+Ganz normal, aber ich fühle es dünner als rechte Seite.
+
+63
+00:05:44,970 --> 00:05:49,970
+Ich fühle es ein bisschen dünner als rechte Seite.
+
+64
+00:05:49,970 --> 00:06:01,970
+Ich erinnere mich daran, dass ich vor drei Monaten meine Beschwerden gestiegen habe.
+
+65
+00:06:02,970 --> 00:06:11,970
+Es war schwer, die Treppe zu steigen und meine Beschwerden zu beginnen.
+
+66
+00:06:11,970 --> 00:06:21,970
+Okay, Ihre Beschwerden sind langsam aufgetreten, aber in Verlauf sind sie nicht.
+
+67
+00:06:21,970 --> 00:06:23,970
+Ja, ja.
+
+68
+00:06:23,970 --> 00:06:28,410
+Okay.
+
+69
+00:06:28,410 --> 00:06:36,000
+Haben Sie irgendwelche Grundscher-Krankungen?
+
+70
+00:06:36,000 --> 00:06:42,000
+Nein, Doktor. Ich war ganz gesund.
+
+71
+00:06:42,000 --> 00:06:45,000
+Vor zwei Monaten.
+
+72
+00:06:45,000 --> 00:06:47,000
+Okay.
+
+73
+00:06:47,000 --> 00:06:58,000
+Haben Sie in Ihrer Familie oder Umgebung eine Person mit 50 Beschwerden?
+
+74
+00:06:58,000 --> 00:07:06,000
+Nein, ich erinnere mich nicht. Mein Vater ist ganz gesund jetzt auch.
+
+75
+00:07:06,000 --> 00:07:11,000
+Aber meine Mutter leidet an Mama-Karzinom.
+
+76
+00:07:11,000 --> 00:07:13,000
+Mama-Karzinom.
+
+77
+00:07:13,000 --> 00:07:20,000
+Ich fühle mich sehr müde, Frau Doktor. Ich möchte nichts machen.
+
+78
+00:07:20,000 --> 00:07:27,000
+Ich möchte nicht rausgehen. Es geht immer schlimmer.
+
+79
+00:07:27,000 --> 00:07:33,000
+Sie können das verstehen. Das ist sehr schwer für einen Jungmann.
+
+80
+00:07:33,000 --> 00:07:39,000
+Okay, das ist eine schwierige Situation. Ich verstehe ganz genau.
+
+81
+00:07:39,000 --> 00:07:43,000
+Haben Sie Atemnot?
+
+82
+00:07:43,000 --> 00:07:45,000
+Nein, nein. Ich kann gut atmen.
+
+83
+00:07:45,000 --> 00:07:48,000
+Haben Sie Fieber?
+
+84
+00:07:48,000 --> 00:07:51,000
+Nein, ich habe keine Fieber.
+
+85
+00:07:51,000 --> 00:07:55,000
+Okay. Haben Sie Nachschweiß?
+
+86
+00:07:55,000 --> 00:07:59,000
+Nein, nein. Ich habe keine Nachschweiß.
+
+87
+00:07:59,000 --> 00:08:07,000
+Haben Sie in den letzten sechs Monaten ungewöhnlich ab- oder zugenommen?
+
+88
+00:08:07,000 --> 00:08:12,000
+Nein, ich bin immer für 65 ungefähr.
+
+89
+00:08:12,000 --> 00:08:17,000
+Okay. Ist Ihnen schwindelig?
+
+90
+00:08:17,000 --> 00:08:20,000
+Nein, mir ist nicht schwindelig.
+
+91
+00:08:20,000 --> 00:08:29,500
+Okay. Haben Sie Öbigkeit oder Emesis?
+
+92
+00:08:29,500 --> 00:08:35,500
+Nein, vor einem Monat hatte ich einmal erbrochen.
+
+93
+00:08:35,500 --> 00:08:45,500
+Aber ich habe gedacht, dass ich etwas gegessen habe. Deswegen hatte ich erbrochen.
+
+94
+00:08:45,500 --> 00:08:49,500
+Okay.
+
+95
+00:08:50,500 --> 00:09:08,500
+Wenn Sie gefällt haben, sind Sie auf den fünften Fall gefallen?
+
+96
+00:09:09,500 --> 00:09:17,500
+Nicht gefällt. Ich bin hingefallen, aber ich hatte keine Verletzung.
+
+97
+00:09:17,500 --> 00:09:20,500
+Keine Verletzung.
+
+98
+00:09:20,500 --> 00:09:29,500
+Nur zwei Fallen. Natürlich tut es weh, aber ich habe keine Verletzung.
+
+99
+00:09:29,500 --> 00:09:35,500
+Haben Sie mit Ihren Armen 55 werden?
+
+100
+00:09:35,500 --> 00:09:37,500
+Nein, nein.
+
+101
+00:09:37,500 --> 00:09:41,500
+Nein, nur die linke Fahne habe ich mit.
+
+102
+00:09:41,500 --> 00:09:42,500
+Okay.
+
+103
+00:09:42,500 --> 00:09:54,500
+Aber Frau Doktor, ich hatte vor zwei Monaten einmal 15 Minuten doppel gezergen.
+
+104
+00:09:54,500 --> 00:10:02,500
+Ich habe gewartet, ich könnte nicht einen Termin finden.
+
+105
+00:10:02,500 --> 00:10:07,500
+Ich habe gewartet, dann sei ich ganz normal. Das war nur einmal.
+
+106
+00:10:07,500 --> 00:10:13,750
+Okay. Haben Sie auch Hörschüttungen?
+
+107
+00:10:13,750 --> 00:10:15,750
+Hörschüttungen habe ich nicht.
+
+108
+00:10:15,750 --> 00:10:23,160
+Nicht. Okay. Ja, ich verstehe.
+
+109
+00:10:23,160 --> 00:10:33,160
+Könnten Sie Ihren Surin bis zur Toilette erhalten?
+
+110
+00:10:33,160 --> 00:10:37,160
+Ja, ich habe keine Probleme.
+
+111
+00:10:37,160 --> 00:10:42,160
+Okay. Haben Sie Probleme beim Stuhlgang?
+
+112
+00:10:42,160 --> 00:10:54,160
+Nein, ich habe manchmal Verstopfungen, aber das ist seit ich Kind war. Das ist lange Geschichte.
+
+113
+00:10:54,160 --> 00:11:00,160
+Okay. Wann war Ihr letztes Stuhl?
+
+114
+00:11:00,160 --> 00:11:10,370
+Ich war gestern beim Stuhlgang.
+
+115
+00:11:10,370 --> 00:11:17,370
+Okay. Rachen Sie?
+
+116
+00:11:17,370 --> 00:11:24,970
+Ich rache nicht. Nein. Ich hasse Zigaretten.
+
+117
+00:11:24,970 --> 00:11:27,970
+Okay. Sie rachen nicht?
+
+118
+00:11:27,970 --> 00:11:29,970
+Ja, ich rache nicht.
+
+119
+00:11:29,970 --> 00:11:34,310
+Okay. Trinken Sie Alkohol?
+
+120
+00:11:34,310 --> 00:11:42,310
+Ja, ich trinke gelegentlich. Besonders am Wochenende. Aber in den letzten drei Monaten möchte ich nicht trinken.
+
+121
+00:11:42,310 --> 00:11:47,310
+Und möchte ich nicht mit meinen Freunden treffen.
+
+122
+00:11:47,310 --> 00:11:52,880
+Also trinke ich nicht.
+
+123
+00:11:52,880 --> 00:12:00,880
+Okay. Am Wochenende trinken Sie... Wie trinken Sie?
+
+124
+00:12:00,880 --> 00:12:09,880
+Bier trinke ich. Ich trinke normalerweise gerne Bier, aber in den letzten zwei Monaten trinke ich nicht.
+
+125
+00:12:09,880 --> 00:12:18,880
+Okay. Hatten Sie jemals mit Drogen Kontakt?
+
+126
+00:12:18,880 --> 00:12:22,880
+Nein, nein. Habe ich keinen Kontakt mit Drogen.
+
+127
+00:12:22,880 --> 00:12:26,880
+Okay. Haben Sie Geschwister?
+
+128
+00:12:26,880 --> 00:12:29,880
+Nein, ich bin ein Einzelkind.
+
+129
+00:12:29,880 --> 00:12:34,880
+Okay. Würden Sie schon mal operiert?
+
+130
+00:12:34,880 --> 00:12:44,880
+Ja, als ich Kind war, wurde mein Bildarm entfernt.
+
+131
+00:12:44,880 --> 00:12:53,880
+Okay. War diese Operation komplikationlos?
+
+132
+00:12:53,880 --> 00:12:58,880
+Nein, ich erinnere mich nicht an die Komplikation.
+
+133
+00:12:58,880 --> 00:13:03,880
+Okay. Haben Sie noch andere Operationen?
+
+134
+00:13:03,880 --> 00:13:08,880
+Nein, habe ich keine Operationen.
+
+135
+00:13:08,880 --> 00:13:12,880
+Trinken Sie regelmäßig Medikamente ein?
+
+136
+00:13:12,880 --> 00:13:22,880
+Ja, wenn ich Alergie habe, nehme ich Spray.
+
+137
+00:13:22,880 --> 00:13:27,880
+Manchmal habe ich besonders Alergie im Frühling.
+
+138
+00:13:27,880 --> 00:13:37,880
+Und manchmal trinke ich und dann nehme ich einen Spray.
+
+139
+00:13:37,880 --> 00:13:43,880
+Okay. Ist das eine Alergie?
+
+140
+00:13:43,880 --> 00:13:47,880
+Ja, das ist vielleicht eine Polyallergie.
+
+141
+00:13:47,880 --> 00:13:51,880
+Aber das ist ein Frühling.
+
+142
+00:13:51,880 --> 00:13:55,880
+Okay. Sind Sie vollständig geimpft?
+
+143
+00:13:55,880 --> 00:13:59,880
+Ja, ich bin vollständig geimpft.
+
+144
+00:13:59,880 --> 00:14:01,880
+Trinken Sie regelmäßig Sport?
+
+145
+00:14:01,880 --> 00:14:03,880
+Ja.
+
+146
+00:14:03,880 --> 00:14:05,880
+Seit drei Monaten?
+
+147
+00:14:05,880 --> 00:14:14,880
+Ja, ja. Ich habe sehr oft Fußball gespielt, gelaufen.
+
+148
+00:14:14,880 --> 00:14:20,880
+Aber seit drei Monaten kann ich nicht Sport treiben.
+
+149
+00:14:20,880 --> 00:14:26,880
+Okay. Was machen Sie beruflich?
+
+150
+00:14:26,880 --> 00:14:32,920
+Ich bin Informatiker.
+
+151
+00:14:32,920 --> 00:14:36,920
+Haben Sie viel Stress in der Arbeit?
+
+152
+00:14:36,920 --> 00:14:40,920
+Ja, meine Arbeit ist sehr stressig.
+
+153
+00:14:40,920 --> 00:14:48,360
+Okay. Sind Sie verheiratet?
+
+154
+00:14:48,360 --> 00:14:51,360
+Nein, ich bin leid.
+
+155
+00:14:51,360 --> 00:14:53,360
+Okay. Haben Sie Kinder?
+
+156
+00:14:53,360 --> 00:14:55,360
+Nein, ich habe keine Kinder.
+
+157
+00:14:55,360 --> 00:14:59,360
+Ich fühle mich sehr isoliert und einsam, Frau Doktor.
+
+158
+00:14:59,360 --> 00:15:03,360
+Mein Leben ist sehr langweilig für mich.
+
+159
+00:15:03,360 --> 00:15:07,090
+Besonders seit drei Monaten.
+
+160
+00:15:07,090 --> 00:15:11,090
+Okay. Ich verstehe Sie.
+
+161
+00:15:11,090 --> 00:15:17,090
+Ich werde Ihnen schnell helfen.
+
+162
+00:15:17,090 --> 00:15:21,090
+Bitte machen Sie sich keine Sorgen.
+
+163
+00:15:21,090 --> 00:15:26,090
+Ich glaube, wir können Ihre gut behandeln.
+
+164
+00:15:26,090 --> 00:15:31,090
+Okay. Ich habe alle meine Fragen gestellt.
+
+165
+00:15:31,090 --> 00:15:37,090
+Möchten Sie etwas hinzufügen?
+
+166
+00:15:37,090 --> 00:15:40,090
+Oder haben Sie Fragen an mich?
+
+167
+00:15:40,090 --> 00:15:43,090
+Frau Doktor, ich habe Angst.
+
+168
+00:15:43,090 --> 00:15:47,090
+Ich bin jung und kann nicht gut bewegen.
+
+169
+00:15:47,090 --> 00:15:49,090
+Was kann ich tun?
+
+170
+00:15:49,090 --> 00:15:51,090
+Ich kann nicht bewegen.
+
+171
+00:15:51,090 --> 00:15:59,090
+Frau Huba, Sie können viele Ursachen haben.
+
+172
+00:15:59,090 --> 00:16:03,090
+Um eine deutliche Diagnose zu stellen,
+
+173
+00:16:03,090 --> 00:16:08,090
+möchten wir einige Untersuchungen durchführen.
+
+174
+00:16:08,090 --> 00:16:14,090
+Ich möchte Sie auf die Beispiele des Bundeskanzlers
+
+175
+00:16:14,090 --> 00:16:19,090
+ein Problem haben.
+
+176
+00:16:19,090 --> 00:16:25,090
+Sie haben ein Problem mit Ihrem Nervensystem.
+
+177
+00:16:25,090 --> 00:16:29,090
+Nervensystem.
+
+178
+00:16:29,090 --> 00:16:31,090
+Aber ...
+
+179
+00:16:31,090 --> 00:16:34,090
+Sie können etwas hinzufügen.
+
+180
+00:16:34,090 --> 00:16:36,090
+Ja, ich denke ...
+
+181
+00:16:36,090 --> 00:16:38,090
+Aber warum?
+
+182
+00:16:38,090 --> 00:16:41,090
+Ich habe keine Ahnung.
+
+183
+00:16:41,090 --> 00:16:43,090
+Warum?
+
+184
+00:16:43,090 --> 00:16:45,090
+Ich bin sehr jung.
+
+185
+00:16:45,090 --> 00:16:49,090
+Normalerweise hat ein Mensch eine neurologische Krankheit.
+
+186
+00:16:49,090 --> 00:16:51,090
+Warum habe ich ...
+
+187
+00:16:51,090 --> 00:16:54,530
+Ich verstehe Sie.
+
+188
+00:16:54,530 --> 00:16:59,530
+Warum können wir nicht eine genaue ...
+
+189
+00:16:59,530 --> 00:17:02,530
+... sagen?
+
+190
+00:17:02,530 --> 00:17:04,530
+Aber ...
+
+191
+00:17:04,530 --> 00:17:07,530
+Ich möchte Sie ...
+
+192
+00:17:07,530 --> 00:17:10,530
+Ich möchte Sie ...
+
+193
+00:17:10,530 --> 00:17:14,530
+... eine genaue Diagnose stellen.
+
+194
+00:17:14,530 --> 00:17:17,530
+Eine genaue Diagnose stellen.
+
+195
+00:17:17,530 --> 00:17:23,530
+Ich werde Sie körperlich untersuchen.
+
+196
+00:17:23,530 --> 00:17:26,530
+Dann Blut abnehmen.
+
+197
+00:17:26,530 --> 00:17:31,530
+Und einige weitere Untersuchungen durchführen.
+
+198
+00:17:31,530 --> 00:17:36,530
+Ich werde Ihnen eine Röntgenaufnahme vornehmen.
+
+199
+00:17:36,530 --> 00:17:45,530
+Dann eine MRI oder CT oder gegebenenfalls eine MRI durchführen.
+
+200
+00:17:45,530 --> 00:17:51,530
+Und Ihre Beschwerden werde ich meinen Oberarzt besprechen.
+
+201
+00:17:51,530 --> 00:17:55,530
+Wenn ich alle Ergebnisse halte,
+
+202
+00:17:55,530 --> 00:18:01,530
+werde ich Sie informieren.
+
+203
+00:18:01,530 --> 00:18:05,530
+Was ist MRT, Frau Doktorin? Ich habe nicht gehört.
+
+204
+00:18:05,530 --> 00:18:07,530
+Erstmal.
+
+205
+00:18:07,530 --> 00:18:12,530
+MRT ist eine Abkursung für ...
+
+206
+00:18:12,530 --> 00:18:18,530
+... Magnetikresonanz.
+
+207
+00:18:18,530 --> 00:18:23,530
+Ja, klar.
+
+208
+00:18:23,530 --> 00:18:26,530
+Magnetresonanz-Tomographie.
+
+209
+00:18:26,530 --> 00:18:33,530
+Das ist eine Schmerz-Fri-Untersuchung.
+
+210
+00:18:33,530 --> 00:18:43,530
+Und mit Hilfe dieser Untersuchung beurteilen wir Ihre ganze Körper.
+
+211
+00:18:43,530 --> 00:18:52,530
+Deshalb denke ich, diese Untersuchung ist notwendig für Sie.
+
+212
+00:18:52,530 --> 00:19:00,530
+Sie müssen liegen.
+
+213
+00:19:00,530 --> 00:19:12,530
+Sie liegen rückenlage und einige Maschine.
+
+214
+00:19:12,530 --> 00:19:17,530
+Ihre Körper ...
+
+215
+00:19:17,530 --> 00:19:21,530
+Ihre Körper ...
+
+216
+00:19:21,530 --> 00:19:24,530
+Sie müssen liegen.
+
+217
+00:19:24,530 --> 00:19:41,530
+Und wir geben mit Hilfe von MRT einige Bilder von Ihren Körpern.
+
+218
+00:19:41,530 --> 00:19:49,530
+Diese Untersuchung dauert ca. 15 Minuten.
+
+219
+00:19:49,530 --> 00:19:54,530
+Und ...
+
+220
+00:19:54,530 --> 00:19:58,900
+Okay, Frau Doktorin. Ich bin nicht da.
+
+221
+00:19:58,900 --> 00:20:03,900
+Ich habe diese Aufgaben nicht gearbeitet.
+
+222
+00:20:03,900 --> 00:20:13,980
+Herr Oberarzt, ich möchte Ihnen einen neuen Patienten vorstellen.
+
+223
+00:20:13,980 --> 00:20:15,980
+Haben Sie Zeit für mich?
+
+224
+00:20:15,980 --> 00:20:17,980
+Ja, natürlich. Bitte schön.
+
+225
+00:20:18,980 --> 00:20:21,980
+Der Patient heißt Klaas Huber.
+
+226
+00:20:21,980 --> 00:20:24,980
+Er ist 33 Jahre alt.
+
+227
+00:20:24,980 --> 00:20:32,980
+Er ist 1,79 Meter groß und 65 Kilogramm schwer.
+
+228
+00:20:32,980 --> 00:20:36,980
+Hür Huber stellte sich heute bei uns.
+
+229
+00:20:36,980 --> 00:20:50,980
+Er stellt sich seit drei Monaten mit seiner linken Beine.
+
+230
+00:20:50,980 --> 00:20:54,980
+Seine linkseitigen Beine.
+
+231
+00:20:54,980 --> 00:20:57,980
+Oder ... ja.
+
+232
+00:20:57,980 --> 00:21:05,290
+Der Patient stellt sich heute bei uns wegen seit drei Monaten bestehender,
+
+233
+00:21:05,290 --> 00:21:09,290
+linkseitiger,
+
+234
+00:21:09,290 --> 00:21:15,290
+kraftlos und ...
+
+235
+00:21:15,290 --> 00:21:17,290
+Meinen Sie Parasit?
+
+236
+00:21:17,290 --> 00:21:19,290
+Ja, Parasit.
+
+237
+00:21:19,290 --> 00:21:28,290
+Und der Patient klagt über auf ...
+
+238
+00:21:28,290 --> 00:21:34,290
+Parasit, Hypostasie ...
+
+239
+00:21:34,290 --> 00:21:37,290
+Nein, Hypestasie.
+
+240
+00:21:37,290 --> 00:21:39,290
+Okay, Hypestasie.
+
+241
+00:21:39,290 --> 00:21:44,290
+Hypestasie und Fatigue.
+
+242
+00:21:44,290 --> 00:21:48,290
+Fatigue.
+
+243
+00:21:48,290 --> 00:21:58,270
+Diese Beschwerden sind langsam aufgetreten.
+
+244
+00:21:58,270 --> 00:22:10,270
+Nach der Belastung steigen besonders Treppe auf.
+
+245
+00:22:10,270 --> 00:22:12,270
+Ja.
+
+246
+00:22:12,270 --> 00:22:14,270
+Nein.
+
+247
+00:22:14,270 --> 00:22:19,270
+Okay.
+
+248
+00:22:19,270 --> 00:22:22,270
+Was ist da?
+
+249
+00:22:22,270 --> 00:22:24,270
+Diese Beschwerden ...
+
+250
+00:22:24,270 --> 00:22:26,270
+Okay.
+
+251
+00:22:26,270 --> 00:22:32,270
+Diese Beschwerden sind langsam aufgetreten.
+
+252
+00:22:32,270 --> 00:22:39,270
+Der Patient berichtet ...
+
+253
+00:22:39,270 --> 00:22:48,270
+Der Patient berichtet die Schmerzen.
+
+254
+00:22:48,270 --> 00:22:51,270
+Oder der Patient beschreibt ...
+
+255
+00:22:51,270 --> 00:22:53,270
+Der Patient beschreibt ...
+
+256
+00:22:53,270 --> 00:23:01,270
+Der Patient beschreibt, diese Beschwerden belasten die Schmerzen.
+
+257
+00:23:01,270 --> 00:23:09,270
+Erstmal belasten die Schmerzen.
+
+258
+00:23:09,270 --> 00:23:15,270
+Also meinen Sie Parasit oder?
+
+259
+00:23:15,270 --> 00:23:17,270
+Ja.
+
+260
+00:23:17,270 --> 00:23:19,810
+Okay.
+
+261
+00:23:19,810 --> 00:23:35,810
+Es gibt keine Routinen, keine Farben, Dämonen oder Tumoren am linken Bein.
+
+262
+00:23:35,810 --> 00:23:41,810
+Und die vegetative Anamnese ...
+
+263
+00:23:41,810 --> 00:23:43,810
+Moment mal.
+
+264
+00:23:43,810 --> 00:23:47,810
+Was ist das, dass die Beschwerden blindert oder verschlimmert?
+
+265
+00:23:47,810 --> 00:23:52,810
+Habe ich Sie schon gefragt?
+
+266
+00:23:52,810 --> 00:23:56,810
+Gibt es ... Nein.
+
+267
+00:23:56,810 --> 00:24:07,810
+Ich habe nicht gefragt, aber ich werde bei den Untersuchungen diese Fragen stellen.
+
+268
+00:24:07,810 --> 00:24:11,810
+Aber diese Fragen stellen ...
+
+269
+00:24:11,810 --> 00:24:27,810
+Diese Beschwerden sind langsam aufgetreten, aber im Verlauf sind sie schlimmer geworden.
+
+270
+00:24:27,810 --> 00:24:34,810
+Der Patient hat keine anderen Schmerzen.
+
+271
+00:24:34,810 --> 00:24:37,810
+Gibt es Schmerzen bei diesem Patienten oder?
+
+272
+00:24:37,810 --> 00:24:38,810
+Nein.
+
+273
+00:24:38,810 --> 00:24:39,810
+Keine Schmerzen?
+
+274
+00:24:39,810 --> 00:24:44,810
+Der Patient hat keine Schmerzen.
+
+275
+00:24:44,810 --> 00:24:50,810
+Sie haben nur eine Beschwerde beim linken Bein.
+
+276
+00:24:50,810 --> 00:25:04,810
+Und in drei Monaten haben sie viele Stolperungen.
+
+277
+00:25:04,810 --> 00:25:06,810
+Okay.
+
+278
+00:25:06,810 --> 00:25:18,810
+Leidet der Patient irgendwelche neurologischen Probleme?
+
+279
+00:25:18,810 --> 00:25:28,810
+In drei Monaten hat er eine Zähne-Störung wie eine Doppelzähne.
+
+280
+00:25:28,810 --> 00:25:35,810
+Aber er hat keine anderen neurologischen Symptome.
+
+281
+00:25:35,810 --> 00:25:47,810
+Sie haben keine Zähne-Störung oder Schmerzen oder Schmerzenprobleme.
+
+282
+00:25:47,810 --> 00:25:51,810
+Sie können ihre Übrigen erhalten.
+
+283
+00:25:51,810 --> 00:25:57,810
+Sie haben keine Unkontinenten.
+
+284
+00:25:57,810 --> 00:25:58,810
+Genau.
+
+285
+00:25:58,810 --> 00:26:01,810
+Sie haben keine Unkontinenten.
+
+286
+00:26:01,810 --> 00:26:02,810
+Okay?
+
+287
+00:26:02,810 --> 00:26:03,810
+Okay.
+
+288
+00:26:03,810 --> 00:26:05,810
+Was machen Sie weiter?
+
+289
+00:26:05,810 --> 00:26:13,440
+Sie haben keine Unkontinenten.
+
+290
+00:26:13,440 --> 00:26:14,440
+Okay.
+
+291
+00:26:14,440 --> 00:26:17,440
+Und was haben Sie bei der Vekatativanamnese?
+
+292
+00:26:17,440 --> 00:26:24,440
+In der Vekatativanamnese war es unaufällig.
+
+293
+00:26:24,440 --> 00:26:30,440
+Die Vekatativanamnese war unaufällig bis auf inapathens.
+
+294
+00:26:31,440 --> 00:26:34,440
+Ich habe die Schlafstörung nicht gefragt.
+
+295
+00:26:34,440 --> 00:26:37,440
+Inapathens und Schlafstörung.
+
+296
+00:26:37,440 --> 00:26:49,440
+Aber der Patient berichtet über, dass sie keine Lust haben.
+
+297
+00:26:49,440 --> 00:27:00,440
+Der Patient versucht, zu Hause zu bleiben.
+
+298
+00:27:00,440 --> 00:27:06,440
+Er hat seine Beschwerden.
+
+299
+00:27:06,440 --> 00:27:11,440
+Er kann nicht gut laufen.
+
+300
+00:27:11,440 --> 00:27:18,440
+Er hat seine Bewegung eingeschränkt.
+
+301
+00:27:18,440 --> 00:27:29,440
+Deshalb hat er auch psychologische Störungen.
+
+302
+00:27:29,440 --> 00:27:37,440
+Er fühlt sich langweilig.
+
+303
+00:27:37,440 --> 00:27:48,660
+Können Sie mir sagen, leidet der Patient unter depressiver Verstimmung?
+
+304
+00:27:48,660 --> 00:27:51,660
+Ja, ein bisschen.
+
+305
+00:27:51,660 --> 00:28:04,660
+Er hat einige depressive Symptome.
+
+306
+00:28:04,660 --> 00:28:09,660
+Hat er ein Selbstmordgedanken?
+
+307
+00:28:09,660 --> 00:28:13,660
+Nein, ich habe ihn nicht gefragt.
+
+308
+00:28:13,660 --> 00:28:22,420
+Aber der Patient hat seine Beschwerden nur drei Monate.
+
+309
+00:28:22,420 --> 00:28:30,420
+Er möchte die Behandlung behandeln.
+
+310
+00:28:30,420 --> 00:28:51,140
+Deshalb denke ich, dass er nicht etwas Schöneres denkt.
+
+311
+00:28:51,140 --> 00:29:01,140
+An Erkrankungen.
+
+312
+00:29:01,140 --> 00:29:13,140
+Der Patient hat keine bekannten Erkrankungen.
+
+313
+00:29:13,140 --> 00:29:23,140
+Er nimmt keine regelmäßigen Medikamente.
+
+314
+00:29:23,140 --> 00:29:29,140
+Aber er hat eine Fühlingalergie.
+
+315
+00:29:29,140 --> 00:29:42,140
+Deshalb nimmt er bei Bedarf Spray ein.
+
+316
+00:29:42,140 --> 00:29:47,140
+Er ist ledig und hat keine Kinder.
+
+317
+00:29:47,140 --> 00:29:54,140
+Er arbeitet als Informatiker.
+
+318
+00:29:54,140 --> 00:29:59,160
+Mit wem wohnt er?
+
+319
+00:29:59,160 --> 00:30:08,160
+Er ist ledig und lebt alleine.
+
+320
+00:30:08,160 --> 00:30:12,160
+Alleine, okay.
+
+321
+00:30:12,160 --> 00:30:17,160
+Was haben wir über die Voroperation?
+
+322
+00:30:17,160 --> 00:30:26,160
+Als Kind wurde bei dem Patienten eine Apendoktome durchgeführt.
+
+323
+00:30:26,160 --> 00:30:34,160
+Sie hatte keine anderen Operationen.
+
+324
+00:30:35,160 --> 00:30:42,160
+In der Familienanalyse wird bei der Mutter angegeben,
+
+325
+00:30:42,160 --> 00:30:49,160
+dass Mama Karsinon vorliegt.
+
+326
+00:30:49,160 --> 00:30:55,160
+Sein Vater ist gesund.
+
+327
+00:30:55,160 --> 00:31:00,160
+Er hat keine Geschwister.
+
+328
+00:31:00,160 --> 00:31:08,160
+Er ist nicht rauhier und trinkt gelegentlich Alkohol.
+
+329
+00:31:08,160 --> 00:31:23,160
+Aber seit drei Monaten, wenn seine Beschwerden aufgetreten sind,
+
+330
+00:31:23,160 --> 00:31:28,160
+trinkt er keinen Alkohol.
+
+331
+00:31:28,160 --> 00:31:35,160
+Die Drogenkonsumung wurde verneilt.
+
+332
+00:31:35,160 --> 00:31:38,160
+An anonystischen Angaben
+
+333
+00:31:38,160 --> 00:31:49,160
+wird am ersten Mal eine Multiple Sclerose verwendet.
+
+334
+00:31:49,160 --> 00:31:56,160
+Welche Symptome sprechen für eine Multiple Sclerose?
+
+335
+00:31:56,160 --> 00:32:06,160
+Ich habe einseitige Hypesthesie.
+
+336
+00:32:06,160 --> 00:32:14,160
+Er ist 33 Jahre alt.
+
+337
+00:32:14,160 --> 00:32:18,160
+Er ist ein junger Patient.
+
+338
+00:32:18,160 --> 00:32:26,160
+Ich habe früher keine Beschwerden.
+
+339
+00:32:26,160 --> 00:32:33,160
+Sie haben keine Fieber oder keinen Unfall.
+
+340
+00:32:33,160 --> 00:32:44,160
+Er hat keine Unfall oder andere Erkrankungen.
+
+341
+00:32:44,160 --> 00:32:52,160
+Er hat Multiple Sclerose.
+
+342
+00:32:52,160 --> 00:32:59,160
+Welche Differential Diagnose?
+
+343
+00:32:59,160 --> 00:33:04,160
+Das ist eine Diskushernie.
+
+344
+00:33:04,160 --> 00:33:09,160
+Das ist ein Lendenbereich.
+
+345
+00:33:09,160 --> 00:33:18,390
+Welche Symptome sprechen gegen eine Diskuspolapsus?
+
+346
+00:33:18,390 --> 00:33:32,390
+Der Patient hat keine Ursache für eine Diskushernie.
+
+347
+00:33:32,390 --> 00:33:37,390
+Es gibt keine bestimmten Auslöser?
+
+348
+00:33:37,390 --> 00:33:40,390
+Keine Auslöser.
+
+349
+00:33:40,390 --> 00:33:48,630
+Sonst noch?
+
+350
+00:33:48,630 --> 00:33:51,630
+Also keine Schmerzen?
+
+351
+00:33:51,630 --> 00:33:54,630
+Ja, keine Schmerzen.
+
+352
+00:33:54,630 --> 00:33:58,630
+Sie haben eine Parasthesie und Hypostese,
+
+353
+00:33:58,630 --> 00:34:02,630
+aber keine Inkontinenz.
+
+354
+00:34:02,630 --> 00:34:05,630
+Deshalb denke ich,
+
+355
+00:34:05,630 --> 00:34:17,630
+diese Beschwerden sprechen für einen Lendenbereich oder Lendenwirbelsäule.
+
+356
+00:34:17,630 --> 00:34:20,630
+Okay, sonst noch?
+
+357
+00:34:20,630 --> 00:34:23,630
+Etwas als Differential Diagnose?
+
+358
+00:34:23,630 --> 00:34:29,630
+Ja, als Differential Diagnose, PAVK,
+
+359
+00:34:29,630 --> 00:34:38,630
+kommen in Betracht.
+
+360
+00:34:38,630 --> 00:34:43,630
+Kommt Apoplex bei diesem Patienten als Differential Diagnose?
+
+361
+00:34:43,630 --> 00:34:45,630
+Apoplex, ja.
+
+362
+00:34:45,630 --> 00:34:49,630
+Wir denken, Apoplex.
+
+363
+00:34:49,630 --> 00:34:53,390
+Warum?
+
+364
+00:34:53,390 --> 00:35:05,860
+Wenn man eine Apoplex hat,
+
+365
+00:35:05,860 --> 00:35:18,860
+kann man eine 50-5-Wertige haben.
+
+366
+00:35:18,860 --> 00:35:27,860
+Eine Subarachnoidal-Bolutung oder TA.
+
+367
+00:35:27,860 --> 00:35:29,860
+Nein.
+
+368
+00:35:29,860 --> 00:35:31,860
+Warum nicht? Okay.
+
+369
+00:35:31,860 --> 00:35:33,860
+Nach dem TA.
+
+370
+00:35:33,860 --> 00:35:39,860
+Man kann diese Beschwerden,
+
+371
+00:35:39,860 --> 00:35:49,860
+aber im Verlauf der Beschwerden des Patienten
+
+372
+00:35:49,860 --> 00:35:53,860
+schlimmer geworden sind.
+
+373
+00:35:53,860 --> 00:36:04,860
+Deshalb ist das nicht ein temporäres Thema.
+
+374
+00:36:04,860 --> 00:36:10,860
+Die Patientin hat diese Beschwerden seit drei Monaten.
+
+375
+00:36:10,860 --> 00:36:14,860
+Diese Zeit ist relativ lange.
+
+376
+00:36:14,860 --> 00:36:17,860
+Okay, jetzt haben Sie eine Verdachtdiagnose
+
+377
+00:36:17,860 --> 00:36:22,860
+und Sie haben auch viele verschiedene Differential Diagnose.
+
+378
+00:36:22,860 --> 00:36:25,860
+Was machen Sie jetzt?
+
+379
+00:36:25,860 --> 00:36:28,860
+Zur Abklarung der Beschwerden
+
+380
+00:36:28,860 --> 00:36:33,860
+sollten wir weitere Untersuchungen durchführen.
+
+381
+00:36:33,860 --> 00:36:39,860
+Zuerst würde ich körperliche Untersuchungen.
+
+382
+00:36:39,860 --> 00:36:46,860
+Worauf achten Sie bei der körperlichen Untersuchung?
+
+383
+00:36:46,860 --> 00:36:51,860
+Neurologische Untersuchungen sind notwendig.
+
+384
+00:36:51,860 --> 00:37:01,860
+Ich inspiziere alle Körper.
+
+385
+00:37:01,860 --> 00:37:12,860
+Ich überprüfe die Muskeln.
+
+386
+00:37:12,860 --> 00:37:16,860
+Muskeln? Okay.
+
+387
+00:37:16,860 --> 00:37:19,860
+Muskeln und ...
+
+388
+00:37:19,860 --> 00:37:21,860
+Muskeln, ja.
+
+389
+00:37:21,860 --> 00:37:23,860
+Muskeln.
+
+390
+00:37:23,860 --> 00:37:34,860
+Ich überprüfe Muskeln, Kraft oder Sensibilität.
+
+391
+00:37:34,860 --> 00:37:41,580
+Motorik oder Sensorik?
+
+392
+00:37:41,580 --> 00:37:43,580
+Störungen.
+
+393
+00:37:43,580 --> 00:37:45,580
+Okay.
+
+394
+00:37:45,580 --> 00:37:47,580
+Noch?
+
+395
+00:37:47,580 --> 00:37:51,830
+Bei der körperlichen Untersuchung.
+
+396
+00:37:51,830 --> 00:38:01,180
+Ich abtaste beide Beine.
+
+397
+00:38:01,180 --> 00:38:08,940
+Und ich taste beide Beine ab.
+
+398
+00:38:08,940 --> 00:38:13,940
+Sie haben gesagt, dass Sie eine Differential Diagnose haben.
+
+399
+00:38:13,940 --> 00:38:17,940
+Also PAVK.
+
+400
+00:38:17,940 --> 00:38:19,940
+Was machen Sie?
+
+401
+00:38:19,940 --> 00:38:35,940
+Ich beurteile den linken Bein über Rotung, Schwellung oder Überwärmung.
+
+402
+00:38:35,940 --> 00:38:42,940
+Aber der Patient hat gesagt, dass er keine Differential Diagnose hat.
+
+403
+00:38:42,940 --> 00:38:46,940
+Also P4-Pulse. Das ist sehr wichtig.
+
+404
+00:38:46,940 --> 00:38:48,940
+Genau.
+
+405
+00:38:48,940 --> 00:38:54,940
+Okay. Und was machen Sie als Apparativdiagnostik?
+
+406
+00:38:54,940 --> 00:38:58,940
+Um Ihre Verdacht Diagnose zu bestätigen.
+
+407
+00:38:58,940 --> 00:39:11,940
+Ja, für diesen Fall sollte sich die Verdacht Diagnose zur Abklärung der Beschwerden ...
+
+408
+00:39:11,940 --> 00:39:22,940
+... würde ich ein MRT verlassen.
+
+409
+00:39:22,940 --> 00:39:26,940
+Was erwarten Sie bei dieser Untersuchung?
+
+410
+00:39:26,940 --> 00:39:28,940
+Ich meine MRT.
+
+411
+00:39:28,940 --> 00:39:32,940
+Ein MRT ...
+
+412
+00:39:32,940 --> 00:39:38,730
+Ich weiß nicht, was ich sehe.
+
+413
+00:39:38,730 --> 00:39:43,730
+Ich denke, es ist ein Plak für MRT.
+
+414
+00:39:43,730 --> 00:39:48,730
+Ich bin mir sicher, dass es ein neuer Fall ist.
+
+415
+00:39:48,730 --> 00:39:54,730
+Aber die Plak sind sehr wichtig.
+
+416
+00:39:54,730 --> 00:40:03,730
+Ja, ein MRT. Und ein Schädel-MRT ist wichtig.
+
+417
+00:40:03,730 --> 00:40:13,730
+Nach dem MRT würde ich eine Lumbar-Funktion führen.
+
+418
+00:40:13,730 --> 00:40:36,030
+Bei der Lumbar-Funktion überprüfe ich oder bei der Lumbar-Funktion zeigt uns Antikörper.
+
+419
+00:40:36,030 --> 00:40:40,030
+Aber welche Antikörper? Ich weiß nicht.
+
+420
+00:40:40,030 --> 00:40:42,030
+Okay.
+
+421
+00:40:42,030 --> 00:41:00,030
+Und ein EG könnte die Muskelzustand beurteilen.
+
+422
+00:41:00,030 --> 00:41:02,030
+Zustand meinen Sie?
+
+423
+00:41:02,030 --> 00:41:07,030
+Ja, Muskelzustand.
+
+424
+00:41:07,030 --> 00:41:09,030
+EG meinen Sie, oder?
+
+425
+00:41:09,030 --> 00:41:11,030
+EG.
+
+426
+00:41:11,030 --> 00:41:13,030
+EG.
+
+427
+00:41:13,030 --> 00:41:15,030
+Okay.
+
+428
+00:41:15,030 --> 00:41:23,030
+Sie haben schon Ihre Verdacht Diagnose bestätigt.
+
+429
+00:41:23,030 --> 00:41:25,030
+Was machen Sie jetzt als Therapie?
+
+430
+00:41:25,030 --> 00:41:27,030
+Welche Möglichkeiten haben wir?
+
+431
+00:41:27,030 --> 00:41:36,030
+Sollte sich die Verdacht Diagnose bestätigen, schlage ich die vorgängigen Therapien vor.
+
+432
+00:41:36,030 --> 00:41:52,030
+Zuerst Glykokortikoid und einige Immunsuppressivtherapien.
+
+433
+00:41:52,030 --> 00:42:05,030
+Und diese Patienten oder Multiple Sclerosis sind eine chronische Erkrankung.
+
+434
+00:42:05,030 --> 00:42:20,030
+Und im Verlauf ist diese Krankheit verschlechtert.
+
+435
+00:42:20,030 --> 00:42:41,440
+Deshalb empfehle ich die Patienten regelmäßig zum Arzt gehen.
+
+436
+00:42:41,440 --> 00:42:45,140
+Okay.
+
+437
+00:42:45,140 --> 00:42:47,140
+Okay.
+
+438
+00:42:47,140 --> 00:42:57,140
+Wir würden ein neurologisches Konzept anfordern, um die Therapie des Patienten zu optimieren.
+
+439
+00:42:57,140 --> 00:42:59,140
+Okay, gut.
+
+440
+00:42:59,140 --> 00:43:01,140
+Okay.

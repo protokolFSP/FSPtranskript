@@ -1,0 +1,2139 @@
+1
+00:00:01,170 --> 00:00:09,610
+Ich bin in dieser Bändeerstin auf der Station und würde gerne das erste Gespräch mit Ihnen führen.
+
+2
+00:00:09,610 --> 00:00:12,610
+Ist das in Ordnung für Sie?
+
+3
+00:00:12,610 --> 00:00:15,610
+Ja Frau Doktor, natürlich.
+
+4
+00:00:15,610 --> 00:00:22,610
+So als werde ich ein paar Fragen zu Ihrer Person stellen, dann direkt Ihren aktuellen Beschwerden übergehen.
+
+5
+00:00:22,610 --> 00:00:26,880
+Wie heißen Sie denn?
+
+6
+00:00:27,320 --> 00:00:34,320
+Mein Name ist Hans Brenzle.
+
+7
+00:00:34,320 --> 00:00:37,320
+Hans Brenzle.
+
+8
+00:00:37,320 --> 00:00:42,320
+Könnten Sie Ihren Vornamen und Vornamen bestabieren?
+
+9
+00:00:42,320 --> 00:00:47,320
+Hans, H, A, N, S.
+
+10
+00:00:47,320 --> 00:00:50,320
+Enschuldigung.
+
+11
+00:00:50,320 --> 00:00:54,600
+Enko.
+
+12
+00:00:55,040 --> 00:01:03,190
+Hans Brenzle.
+
+13
+00:01:03,190 --> 00:01:06,190
+Wer ist Hans Brenzle?
+
+14
+00:01:06,190 --> 00:01:15,630
+Ja, Hans Brenzle.
+
+15
+00:01:15,630 --> 00:01:19,630
+Hans mit H, A, N, S.
+
+16
+00:01:19,630 --> 00:01:21,630
+Brenzle.
+
+17
+00:01:21,630 --> 00:01:24,630
+B, R, E, N, Z, L, E, R.
+
+18
+00:01:24,630 --> 00:01:27,630
+Ok, danke schön Herr Brenzle.
+
+19
+00:01:27,630 --> 00:01:29,630
+Wie heißen Sie?
+
+20
+00:01:29,630 --> 00:01:33,630
+Ich bin 82 Frau Doktor.
+
+21
+00:01:34,070 --> 00:01:37,070
+Ja ok.
+
+22
+00:01:37,070 --> 00:01:40,070
+Und wann sind Sie genau geboren?
+
+23
+00:01:40,070 --> 00:01:47,070
+Ja, 8. Februar 1943.
+
+24
+00:01:47,070 --> 00:01:50,070
+43.
+
+25
+00:01:50,070 --> 00:01:53,070
+Ok, ok.
+
+26
+00:01:53,070 --> 00:01:57,380
+43.
+
+27
+00:01:57,380 --> 00:02:00,380
+Wissen Sie, wie groß Sie sind?
+
+28
+00:02:00,380 --> 00:02:04,380
+Ja, ich bin 70 Kilogramm Frau Doktor.
+
+29
+00:02:04,820 --> 00:02:06,820
+Groß?
+
+30
+00:02:06,820 --> 00:02:09,820
+Groß 1 Meter 65.
+
+31
+00:02:09,820 --> 00:02:13,820
+65 und 70 Kilogramm.
+
+32
+00:02:13,820 --> 00:02:16,820
+70 Kilogramm ja.
+
+33
+00:02:16,820 --> 00:02:20,820
+Wie heißen Sie Ihre Hausärztin?
+
+34
+00:02:20,820 --> 00:02:23,820
+Herr Müller.
+
+35
+00:02:23,820 --> 00:02:29,820
+Ok, danke schön für diese Informationen Herr Brenzle.
+
+36
+00:02:29,820 --> 00:02:33,820
+Was für Sie heute zu uns? Wie kann ich Ihnen helfen?
+
+37
+00:02:34,260 --> 00:02:40,260
+Frau Doktor, bitte seien Sie nicht sauer, aber Sie sehen sehr jung aus.
+
+38
+00:02:40,260 --> 00:02:47,260
+Ich würde lieber von einem Chefarzt mit mehr Erfahrung behandelt werden.
+
+39
+00:02:47,260 --> 00:02:49,260
+Ist das möglich?
+
+40
+00:02:49,260 --> 00:02:51,260
+Ja, natürlich.
+
+41
+00:02:51,260 --> 00:02:57,260
+Alle Wünsche sind für uns sehr wichtig.
+
+42
+00:02:57,700 --> 00:03:05,700
+Aber ich möchte sagen, ich bin nicht sehr jung.
+
+43
+00:03:05,700 --> 00:03:10,700
+Ich habe mein Medizinstudium absolviert.
+
+44
+00:03:10,700 --> 00:03:18,700
+Wir arbeiten als Team.
+
+45
+00:03:19,140 --> 00:03:28,140
+Wenn wir eine wichtige Entscheidung treffen,
+
+46
+00:03:28,140 --> 00:03:40,140
+treffen alle andere Arzt zusammen eine Entscheidung.
+
+47
+00:03:40,140 --> 00:03:47,140
+Deshalb machen Sie sich keine Sorgen.
+
+48
+00:03:47,580 --> 00:03:56,580
+Ich möchte sagen, Sie müssen sehr lange warten,
+
+49
+00:03:56,580 --> 00:04:06,580
+wenn Sie mit meinem Oberarzt sprechen.
+
+50
+00:04:06,580 --> 00:04:09,580
+Ok, Frau Doktor.
+
+51
+00:04:09,580 --> 00:04:15,580
+Ich werde alle unsere Gespräche mit meinem Oberarzt besprechen.
+
+52
+00:04:16,020 --> 00:04:22,020
+Wir werden alle notwendige Untersuchungen durchführen.
+
+53
+00:04:22,020 --> 00:04:26,020
+Ok, ich fühle mich jetzt besser.
+
+54
+00:04:26,020 --> 00:04:28,020
+Vielen Dank.
+
+55
+00:04:28,020 --> 00:04:32,020
+Frau Doktor, ich habe viel gelebt.
+
+56
+00:04:32,020 --> 00:04:36,020
+Ich bin 82 Jahre alt.
+
+57
+00:04:36,020 --> 00:04:38,020
+Ich habe viel gelebt.
+
+58
+00:04:38,020 --> 00:04:41,020
+Als zweiter Krieg.
+
+59
+00:04:41,460 --> 00:04:49,460
+Als zweiter Krieg waren wir aus der Czechostavakien ausgewandert.
+
+60
+00:04:49,460 --> 00:04:52,460
+Nach Deutschland, mit meiner Familie.
+
+61
+00:04:52,460 --> 00:04:58,460
+Ich hatte viele müde Zeiten.
+
+62
+00:04:58,460 --> 00:05:02,460
+Ich fühle mich sehr müde.
+
+63
+00:05:02,460 --> 00:05:06,460
+Ich möchte sagen, in letzter Zeit.
+
+64
+00:05:06,460 --> 00:05:10,460
+Ich beginne zu vergessen.
+
+65
+00:05:10,900 --> 00:05:14,900
+Normalerweise war mein Gehirn sehr stark.
+
+66
+00:05:14,900 --> 00:05:21,900
+Aber in den letzten 10 Tagen kann ich nicht weg zu Hause finden.
+
+67
+00:05:21,900 --> 00:05:24,900
+Ich wohne allein.
+
+68
+00:05:24,900 --> 00:05:28,900
+Ich habe vier Kinder.
+
+69
+00:05:28,900 --> 00:05:34,900
+Mein alter Sohn ist Pilot.
+
+70
+00:05:34,900 --> 00:05:37,900
+Er ist sehr erfolgreich.
+
+71
+00:05:38,340 --> 00:05:44,340
+Aber ich vergesse manchmal die Namen des Enkels.
+
+72
+00:05:44,340 --> 00:05:51,340
+Deshalb hat mein Sohn mich mitgebracht.
+
+73
+00:05:51,340 --> 00:05:54,340
+Ok, ich verstehe.
+
+74
+00:05:54,340 --> 00:06:01,340
+Wissen Sie, wo Sie sind und welcher Tag heute?
+
+75
+00:06:01,340 --> 00:06:03,340
+Welcher Tag?
+
+76
+00:06:03,780 --> 00:06:07,780
+Ich denke, Donnerstag oder Freitag.
+
+77
+00:06:07,780 --> 00:06:10,780
+Ok, Freitag.
+
+78
+00:06:10,780 --> 00:06:13,780
+Welche Monate?
+
+79
+00:06:13,780 --> 00:06:18,780
+Welche Monate? Ich erinnere mich nicht genau.
+
+80
+00:06:18,780 --> 00:06:21,780
+Ok, kein Problem.
+
+81
+00:06:21,780 --> 00:06:25,780
+Vergesst Sie Ihren Termin?
+
+82
+00:06:25,780 --> 00:06:28,780
+Ja, Frau Doktor.
+
+83
+00:06:29,220 --> 00:06:33,220
+Ich habe einen Termin beim Hausarzt.
+
+84
+00:06:33,220 --> 00:06:37,220
+Aber ich könnte nicht gehen.
+
+85
+00:06:37,220 --> 00:06:41,220
+Ich habe vergessen zu gehen.
+
+86
+00:06:41,220 --> 00:06:43,220
+Ok, aber ...
+
+87
+00:06:43,220 --> 00:06:46,220
+Manchmal vergesse ich zu essen.
+
+88
+00:06:46,220 --> 00:06:49,220
+Ich habe 5 Kilo abgenommen.
+
+89
+00:06:49,220 --> 00:06:52,220
+In letzter Zeit oder 10 Kilo.
+
+90
+00:06:52,220 --> 00:06:55,220
+Ich erinnere mich nicht mein Gewicht.
+
+91
+00:06:55,660 --> 00:06:59,660
+Ich habe es vor zwei Monaten vergessen.
+
+92
+00:06:59,660 --> 00:07:03,660
+Aber ich vergesse zu essen und zu trinken.
+
+93
+00:07:03,660 --> 00:07:06,660
+Wo ist meine Frau? Haben Sie sie gesehen?
+
+94
+00:07:06,660 --> 00:07:12,350
+Ist sie hier?
+
+95
+00:07:12,350 --> 00:07:15,350
+Sie ist eine Frau.
+
+96
+00:07:15,350 --> 00:07:18,350
+Meine Frau ist hier?
+
+97
+00:07:18,350 --> 00:07:21,350
+Ja, ich glaube.
+
+98
+00:07:21,350 --> 00:07:26,350
+Wie kamen Sie? Wie kamen Sie ins Krankenhaus?
+
+99
+00:07:26,790 --> 00:07:29,790
+Mein Sohn hat mich mitgebracht.
+
+100
+00:07:29,790 --> 00:07:34,790
+Ok, dann ist Ihre Frau zu Hause.
+
+101
+00:07:34,790 --> 00:07:37,790
+Oder?
+
+102
+00:07:37,790 --> 00:07:40,790
+Ja, ich habe meine Frau verloren.
+
+103
+00:07:40,790 --> 00:07:43,790
+Ich erinnere mich jetzt.
+
+104
+00:07:43,790 --> 00:07:46,790
+Ich habe meine Frau leider verloren.
+
+105
+00:07:46,790 --> 00:07:49,790
+Sehr leid.
+
+106
+00:07:49,790 --> 00:07:52,790
+Haben Sie Kopfschmerzen?
+
+107
+00:07:52,790 --> 00:07:55,790
+Oder?
+
+108
+00:07:56,230 --> 00:07:59,230
+Manchmal habe ich Kopfschmerzen.
+
+109
+00:07:59,230 --> 00:08:02,230
+Seit wann haben Sie Kopfschmerzen?
+
+110
+00:08:02,230 --> 00:08:05,230
+Bevor diese ...
+
+111
+00:08:05,230 --> 00:08:08,230
+Ich weiß nicht. Manchmal seit Jahren.
+
+112
+00:08:08,230 --> 00:08:11,230
+Seit langen Jahren habe ich Kopfschmerzen.
+
+113
+00:08:11,230 --> 00:08:14,230
+Jetzt kann ich nicht gut lesen.
+
+114
+00:08:14,230 --> 00:08:18,230
+Normalerweise lese ich gerne Zeitung und Bücher.
+
+115
+00:08:18,230 --> 00:08:22,230
+Aber in letzter Zeit kann ich nicht konzentrieren.
+
+116
+00:08:22,230 --> 00:08:25,230
+Zu lesen.
+
+117
+00:08:25,670 --> 00:08:28,670
+Ich fühle mich müde.
+
+118
+00:08:28,670 --> 00:08:31,670
+Meine Haut ist getrocknet.
+
+119
+00:08:31,670 --> 00:08:35,670
+Ich weiß nicht. Meine Haut ist sehr dünn und getrocknet.
+
+120
+00:08:35,670 --> 00:08:42,450
+Ich vergesse zu essen, trinken.
+
+121
+00:08:42,450 --> 00:08:45,450
+Ok, verstehe.
+
+122
+00:08:45,450 --> 00:08:48,450
+Herr Lubrenzler.
+
+123
+00:08:48,450 --> 00:08:51,450
+Sie haben gesagt, seit zehn Tagen haben Sie diese Probleme.
+
+124
+00:08:51,450 --> 00:08:54,450
+Aber früher haben Sie 50 Hebechwerden?
+
+125
+00:08:54,890 --> 00:08:57,890
+Ja, ich erinnere mich gut an meine Frau.
+
+126
+00:08:57,890 --> 00:09:00,890
+Aber in letzter Zeit vergesse ich alles.
+
+127
+00:09:00,890 --> 00:09:03,890
+Ich habe keine Gedächtnisstörung.
+
+128
+00:09:03,890 --> 00:09:06,890
+Aber in letzter Zeit habe ich leider viel Leid.
+
+129
+00:09:06,890 --> 00:09:09,890
+Seitdem habe ich meine Frau verloren.
+
+130
+00:09:09,890 --> 00:09:14,230
+Ok, verstehe.
+
+131
+00:09:14,230 --> 00:09:17,230
+Ich war sehr traurig. Ich liebe meine Frau.
+
+132
+00:09:17,230 --> 00:09:20,230
+Ich war sehr traurig.
+
+133
+00:09:20,230 --> 00:09:23,230
+Ich habe sie verloren.
+
+134
+00:09:23,670 --> 00:09:26,670
+Ich liebe meine Frau. Ich war sehr traurig.
+
+135
+00:09:26,670 --> 00:09:29,670
+Ich möchte immer weinen.
+
+136
+00:09:29,670 --> 00:09:32,670
+Immer weinen?
+
+137
+00:09:32,670 --> 00:09:35,670
+Ich möchte weinen, ja.
+
+138
+00:09:35,670 --> 00:09:38,670
+Wenn ich meine Frau erinnere, weine ich zu Hause.
+
+139
+00:09:38,670 --> 00:09:41,670
+Gibt es Bilder an der Wand?
+
+140
+00:09:41,670 --> 00:09:44,670
+Wenn ich sehe, weine ich.
+
+141
+00:09:44,670 --> 00:09:47,670
+Denken Sie eine Untersuchung nehmen?
+
+142
+00:09:47,670 --> 00:09:50,670
+Als Therapie?
+
+143
+00:09:51,110 --> 00:09:54,110
+Mein Sohn hilft mir manchmal.
+
+144
+00:09:54,110 --> 00:09:57,110
+Jetzt hat er mich hier mitgebracht.
+
+145
+00:09:57,110 --> 00:10:00,110
+Jetzt hat er mich hier mitgebracht.
+
+146
+00:10:00,110 --> 00:10:03,110
+Lebt er allein?
+
+147
+00:10:03,110 --> 00:10:06,110
+Ja, ich lebe allein, Frau Doktor.
+
+148
+00:10:06,110 --> 00:10:09,110
+Aber haben Sie Kontakt mit seinen Freunden?
+
+149
+00:10:09,110 --> 00:10:12,110
+Aber haben Sie Kontakt mit seinen Freunden?
+
+150
+00:10:12,110 --> 00:10:15,110
+Aber haben Sie Kontakt mit seinen Freunden?
+
+151
+00:10:15,110 --> 00:10:18,110
+In letzter Zeit habe ich keinen Kontakt.
+
+152
+00:10:18,550 --> 00:10:21,550
+Normalerweise gehe ich oft spazieren.
+
+153
+00:10:21,550 --> 00:10:24,550
+Normalerweise gehe ich oft spazieren.
+
+154
+00:10:24,550 --> 00:10:27,550
+Aber in letzter Zeit möchte ich schlafen.
+
+155
+00:10:27,550 --> 00:10:30,550
+Ich fühle mich müde.
+
+156
+00:10:30,550 --> 00:10:34,960
+Manchmal fühle ich mich aggressiv.
+
+157
+00:10:34,960 --> 00:10:37,960
+Manchmal rufe ich.
+
+158
+00:10:37,960 --> 00:10:40,960
+Mein Nachbar hat gesagt, ich rufe.
+
+159
+00:10:40,960 --> 00:10:46,740
+Laut spreche ich zu Hause.
+
+160
+00:10:46,740 --> 00:10:49,740
+Allein spreche ich.
+
+161
+00:10:50,180 --> 00:10:53,180
+Ich spreche zu Hause selbst.
+
+162
+00:10:53,180 --> 00:10:56,180
+Ich weiß nicht, aber ich erinnere mich nicht.
+
+163
+00:10:56,180 --> 00:10:59,180
+Hören Sie gut?
+
+164
+00:10:59,180 --> 00:11:02,180
+Hören Sie gut?
+
+165
+00:11:02,180 --> 00:11:05,180
+Nein, ich höre nicht gut.
+
+166
+00:11:05,180 --> 00:11:08,180
+Sie haben auch Lesen, Sie haben auch See und Hörprobleme.
+
+167
+00:11:08,180 --> 00:11:11,180
+Sie haben auch Lesen, Sie haben auch See und Hörprobleme.
+
+168
+00:11:11,180 --> 00:11:14,180
+Ich kann sehen, aber ich höre nicht gut.
+
+169
+00:11:14,180 --> 00:11:17,180
+Ich kann sehen, aber ich höre nicht gut.
+
+170
+00:11:17,680 --> 00:11:21,180
+Mein Nachbar hat mir gesagt, dass der Fernseher sehr laut ist.
+
+171
+00:11:21,180 --> 00:11:24,180
+Manchmal schaue ich Fernseher.
+
+172
+00:11:24,180 --> 00:11:27,180
+Manchmal schaue ich Fernseher.
+
+173
+00:11:27,180 --> 00:11:30,180
+Aber es ist sehr laut.
+
+174
+00:11:30,180 --> 00:11:33,180
+Mein Nachbar hat Beschwerden und Klärte über mich.
+
+175
+00:11:33,180 --> 00:11:36,180
+Mein Nachbar hat Beschwerden und Klärte über mich.
+
+176
+00:11:36,180 --> 00:11:39,180
+Hatten Sie Schwindel?
+
+177
+00:11:39,180 --> 00:11:42,180
+Ist Ihnen Schwindelig?
+
+178
+00:11:42,180 --> 00:11:45,180
+Nein, nein, ich fühle mich nicht.
+
+179
+00:11:45,180 --> 00:11:56,180
+Haben Sie Taubeausgefühl oder Krimen oder Missempfindlichkeit?
+
+180
+00:11:57,180 --> 00:12:02,180
+Nein, normalerweise bin ich ganz gesund, aber ja.
+
+181
+00:12:04,180 --> 00:12:08,180
+Ok, waren Sie beduscht oder ohnmächtig?
+
+182
+00:12:09,180 --> 00:12:12,180
+Nein, nein, war ich nicht. Ich erinnere mich nicht.
+
+183
+00:12:12,180 --> 00:12:14,180
+Ok, haben Sie Fieber?
+
+184
+00:12:15,180 --> 00:12:17,180
+Nein, habe ich keine Fieber.
+
+185
+00:12:18,180 --> 00:12:22,180
+Ist Ihnen übel oder haben Sie Erbrechen?
+
+186
+00:12:23,180 --> 00:12:25,180
+Nein, nein, habe ich nicht.
+
+187
+00:12:26,180 --> 00:12:31,180
+Ok, haben Sie Probleme beim Nachschweiß?
+
+188
+00:12:32,180 --> 00:12:33,180
+Nein, habe ich nicht.
+
+189
+00:12:34,180 --> 00:12:35,180
+In der Nacht?
+
+190
+00:12:36,180 --> 00:12:37,180
+Nein.
+
+191
+00:12:37,180 --> 00:12:42,180
+Ok, haben Sie Probleme beim Nachschweiß oder Schuhgang?
+
+192
+00:12:43,180 --> 00:12:48,180
+Ja, ich leide an chronischen Verstopfpunkten, aber ja.
+
+193
+00:12:49,180 --> 00:12:55,180
+Nachts gehe ich mindestens 3-mal zum Klo, zum Nachschweiß.
+
+194
+00:12:56,180 --> 00:12:57,180
+Ok.
+
+195
+00:12:59,180 --> 00:13:02,180
+Wann war Ihr letztes Schuh?
+
+196
+00:13:03,180 --> 00:13:04,180
+Ja, vor zwei Tagen.
+
+197
+00:13:04,180 --> 00:13:06,180
+Vor zwei Tagen, ok.
+
+198
+00:13:07,180 --> 00:13:18,590
+Ok, alles klar, Herr Bränsle.
+
+199
+00:13:19,590 --> 00:13:23,590
+Ist Ihnen bei Ihnen irgendwelche chronischen Erkrankungen bekannt?
+
+200
+00:13:24,590 --> 00:13:27,590
+Frau Doktor, ich kann nicht gut schlafen.
+
+201
+00:13:28,590 --> 00:13:29,590
+Ja, gut schlafen, ok.
+
+202
+00:13:29,590 --> 00:13:32,590
+Ja, wegen zu schlafen trinke ich immer einen Tee.
+
+203
+00:13:33,590 --> 00:13:35,590
+Mein Sohn hat mir einen Tee mitgebracht.
+
+204
+00:13:36,590 --> 00:13:37,590
+Ja.
+
+205
+00:13:38,590 --> 00:13:41,590
+Ich trinke einen Tee, aber ich weiß nicht, was der Name ist.
+
+206
+00:13:42,590 --> 00:13:46,590
+Und ja, mein Stuhl ist sehr hart.
+
+207
+00:13:47,590 --> 00:13:48,590
+Und...
+
+208
+00:13:49,590 --> 00:13:51,590
+Wie ist Ihr Appetit?
+
+209
+00:13:53,900 --> 00:13:57,900
+Ja, mein Appetit ist gut, aber manchmal esse ich nur einmal pro Tag.
+
+210
+00:13:58,900 --> 00:13:59,900
+Ich vergesse zu essen.
+
+211
+00:14:00,900 --> 00:14:01,900
+Ok, ja, ok.
+
+212
+00:14:02,900 --> 00:14:03,900
+Ok, ich verstehe.
+
+213
+00:14:04,900 --> 00:14:05,900
+Ja.
+
+214
+00:14:06,900 --> 00:14:09,900
+Und, haben Sie chronische Erkrankungen?
+
+215
+00:14:10,900 --> 00:14:14,900
+Ja, ich leide an Bluthochdruck seit 10 Jahren.
+
+216
+00:14:15,900 --> 00:14:18,900
+Herzschwache seit 5 Jahren.
+
+217
+00:14:19,900 --> 00:14:24,900
+Vorher Drüsenvergrößerung seit 15 Jahren.
+
+218
+00:14:25,900 --> 00:14:26,900
+15?
+
+219
+00:14:26,900 --> 00:14:29,900
+Ja, und ich leide an Hörstörungen.
+
+220
+00:14:30,900 --> 00:14:31,900
+Ich höre nicht gut.
+
+221
+00:14:32,900 --> 00:14:35,900
+Deswegen nutze ich ein Hörgerät.
+
+222
+00:14:36,900 --> 00:14:37,900
+Hörgerät, ok.
+
+223
+00:14:38,900 --> 00:14:40,900
+Seit wann haben Sie Benüsten?
+
+224
+00:14:41,900 --> 00:14:44,540
+Hörstörungen?
+
+225
+00:14:45,540 --> 00:14:46,540
+Ja, Hörstörungen.
+
+226
+00:14:47,540 --> 00:14:48,540
+Seit 15 Jahren.
+
+227
+00:14:49,540 --> 00:14:53,540
+Ok, nehmen Sie regelmäßig Medikamente ein?
+
+228
+00:14:54,540 --> 00:14:55,540
+Oh, viel, Frau Doktor.
+
+229
+00:14:55,540 --> 00:14:56,540
+Ich nehme viel.
+
+230
+00:14:57,540 --> 00:15:04,540
+Ich erinnere mich an Frosemit, Spirolakton und Kandisartan.
+
+231
+00:15:05,540 --> 00:15:11,140
+Und schlafen, zu schlafen.
+
+232
+00:15:12,140 --> 00:15:13,140
+Ich trinke einen Tee.
+
+233
+00:15:14,140 --> 00:15:16,140
+Manchmal nehme ich Schlafmittel.
+
+234
+00:15:17,140 --> 00:15:19,140
+Und, ja.
+
+235
+00:15:19,140 --> 00:15:20,140
+Ja.
+
+236
+00:15:23,140 --> 00:15:28,140
+Kennen Sie die Dosierung dieser Medikamente?
+
+237
+00:15:29,140 --> 00:15:37,140
+Nein, mein Sohn hat diese Medikamente in der Box.
+
+238
+00:15:38,140 --> 00:15:41,140
+Ich nehme von der Box täglich.
+
+239
+00:15:42,140 --> 00:15:43,140
+Ich weiß nicht.
+
+240
+00:15:43,140 --> 00:15:49,140
+Ok, haben Sie Ihre Medikamentenliste dabei?
+
+241
+00:15:50,140 --> 00:15:52,140
+Mein Sohn hat meine Medikamentenliste.
+
+242
+00:15:53,140 --> 00:15:55,140
+Ich möchte von meinem Sohn.
+
+243
+00:15:56,140 --> 00:15:57,140
+Ok, kein Problem.
+
+244
+00:15:58,140 --> 00:16:01,140
+Und wurden Sie schon mal operiert?
+
+245
+00:16:02,140 --> 00:16:06,140
+Nein, niemals wurde ich operiert.
+
+246
+00:16:06,140 --> 00:16:07,140
+Ok.
+
+247
+00:16:08,140 --> 00:16:17,140
+Gibt es in Ihrer Familie chronische Erkrankungen bei dem Vater oder der Mutter?
+
+248
+00:16:18,140 --> 00:16:26,140
+Ja, leider sind meine Vater und Mutter wegen einem Autounfall verstorben.
+
+249
+00:16:27,140 --> 00:16:28,140
+Vor 45 Jahren.
+
+250
+00:16:29,140 --> 00:16:30,140
+45 Jahren.
+
+251
+00:16:31,140 --> 00:16:32,140
+Ja.
+
+252
+00:16:33,140 --> 00:16:49,140
+Wissen Sie, haben Sie oder wissen Sie, hat Ihre Eltern irgendwelche Erkrankungen?
+
+253
+00:16:50,140 --> 00:16:53,140
+Ja, sie sind vor 40 Jahren verstorben, gestorben.
+
+254
+00:16:54,140 --> 00:16:55,140
+Ich erinnere mich nicht daran.
+
+255
+00:16:56,140 --> 00:16:57,140
+Ok.
+
+256
+00:16:57,140 --> 00:17:02,140
+Sind Sie Raucher?
+
+257
+00:17:03,140 --> 00:17:05,140
+Ich rauche nicht, Frau Doktor.
+
+258
+00:17:06,140 --> 00:17:07,140
+Ok.
+
+259
+00:17:08,140 --> 00:17:09,140
+Haben Sie früher geraucht?
+
+260
+00:17:10,140 --> 00:17:11,140
+Nein, niemals.
+
+261
+00:17:12,140 --> 00:17:15,140
+Sehr gut. Aber trinken Sie Alkohol?
+
+262
+00:17:16,140 --> 00:17:17,140
+Ja, sehr selten.
+
+263
+00:17:18,140 --> 00:17:24,140
+Was meinen Sie? Einmal Provohe oder einmal Prozohe?
+
+264
+00:17:24,140 --> 00:17:33,140
+Einmal pro zwei Wochen trinke ich ein oder zwei Gläser Wein.
+
+265
+00:17:34,140 --> 00:17:40,960
+Ok.
+
+266
+00:17:41,960 --> 00:17:43,960
+Hatten Sie jemals Kontakt mit Drogen?
+
+267
+00:17:46,270 --> 00:17:48,270
+Nein, niemals.
+
+268
+00:17:49,270 --> 00:17:50,270
+Ok.
+
+269
+00:17:51,270 --> 00:17:58,270
+Sie haben gesagt, Sie sind gerne spaziergegangen.
+
+270
+00:17:58,270 --> 00:18:05,270
+Ja, aber jetzt treiben Sie regelmäßig Sport?
+
+271
+00:18:06,270 --> 00:18:14,270
+Ja, letzte Woche wollte ich laufen, aber ich konnte nicht zurückgehen.
+
+272
+00:18:15,270 --> 00:18:19,270
+Ich konnte den Weg nicht finden.
+
+273
+00:18:20,270 --> 00:18:26,270
+Mein Nachbar hat mich gefunden und mir mitgebracht.
+
+274
+00:18:26,270 --> 00:18:27,270
+Ok, verstehe.
+
+275
+00:18:28,270 --> 00:18:36,270
+Was machen Sie? Was haben Sie beruflich gemacht?
+
+276
+00:18:37,270 --> 00:18:41,270
+Ich denke, ich bin seit 20 Jahren pensioniert.
+
+277
+00:18:42,270 --> 00:18:47,270
+Ich bin Rentner seit 20 Jahren, aber ich war Lehrer.
+
+278
+00:18:48,270 --> 00:18:50,270
+Französisch Lehrer war ich.
+
+279
+00:18:51,270 --> 00:18:52,270
+Sehr schön.
+
+280
+00:18:52,270 --> 00:18:57,270
+Haben Sie einen Sohn?
+
+281
+00:18:58,270 --> 00:19:03,270
+Ich habe drei Tochter und einen Sohn.
+
+282
+00:19:04,270 --> 00:19:06,270
+Meine Frau war auch Lehrerin.
+
+283
+00:19:07,270 --> 00:19:12,270
+Wir haben uns in der Schule kennengelernt. Ich liebe meine Frau.
+
+284
+00:19:13,270 --> 00:19:16,270
+Sehr schön.
+
+285
+00:19:16,270 --> 00:19:22,270
+Haben Sie irgendwelche Allergien oder Unverträglichkeiten?
+
+286
+00:19:23,270 --> 00:19:25,270
+Ich habe Stauballergie.
+
+287
+00:19:26,270 --> 00:19:31,270
+Wie reagieren Sie darauf?
+
+288
+00:19:32,270 --> 00:19:40,270
+Manchmal frustig, manchmal üblich wegen Staub.
+
+289
+00:19:41,270 --> 00:19:46,270
+Waren Sie in letzter Zeit im Ausland?
+
+290
+00:19:47,270 --> 00:19:49,270
+Nein, ich bin immer in Deutschland.
+
+291
+00:19:50,270 --> 00:19:52,270
+Sind Sie vollständig geimpft?
+
+292
+00:19:55,220 --> 00:19:56,220
+Ja, vermutlich.
+
+293
+00:19:58,630 --> 00:20:04,630
+Haben Sie einen Unfall in letzter Zeit?
+
+294
+00:20:05,630 --> 00:20:10,630
+Haben Sie einen Unfall oder haben Sie eine Kopfverletzung in letzter Zeit?
+
+295
+00:20:10,630 --> 00:20:13,630
+Nein, ich erinnere mich nicht an Frau Doktor.
+
+296
+00:20:14,630 --> 00:20:20,630
+Herr Brinsla, ich habe keine weiteren Fragen.
+
+297
+00:20:21,630 --> 00:20:26,630
+Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+298
+00:20:27,630 --> 00:20:35,630
+Möchten Sie eine Tomographie oder Röntgen von mir?
+
+299
+00:20:35,630 --> 00:20:38,630
+Ich möchte keine Tomographie.
+
+300
+00:20:39,630 --> 00:20:42,630
+Röntgen ist gefährlich für mich.
+
+301
+00:20:43,630 --> 00:20:47,630
+Ich bin sehr gesund. Ich möchte keine Tomographie, Frau Doktor.
+
+302
+00:20:48,630 --> 00:20:50,630
+Ich verstehe Ihre Angst.
+
+303
+00:20:50,630 --> 00:21:04,630
+Herr Brinsla, unsere Untersuchung ist nicht gefährlich für unsere Patienten.
+
+304
+00:21:05,630 --> 00:21:12,630
+Sie haben recht, sie nehmen eine Strahlung.
+
+305
+00:21:13,630 --> 00:21:17,630
+Aber diese Strahlung ist sehr, sehr gering.
+
+306
+00:21:17,630 --> 00:21:25,630
+Okay, Frau Doktor. Was habe ich, Frau Doktor? Ich möchte wissen.
+
+307
+00:21:26,630 --> 00:21:30,630
+Ich habe eine Vermutung, Herr Brinsla.
+
+308
+00:21:31,630 --> 00:21:35,630
+Aber ich möchte zuerst ein paar Untersuchungen durchführen.
+
+309
+00:21:35,630 --> 00:21:49,630
+Sobald die Ergebnisse vorliegen, kann ich Ihnen etwas Geniales sagen.
+
+310
+00:21:49,630 --> 00:22:09,630
+Bitte warten Sie in den Untersuchungsraum. Ich werde gleich kommen.
+
+311
+00:22:10,630 --> 00:22:12,630
+Okay, Frau Doktor.
+
+312
+00:22:12,630 --> 00:22:25,630
+Eine Schwester Silvia kümmert sich um. Ich werde gleich kommen.
+
+313
+00:22:26,630 --> 00:22:28,630
+Vielen Dank, Frau Doktor.
+
+314
+00:22:28,630 --> 00:22:41,770
+Okay, hat jemand irgendwelche Fragen? Bitte schön.
+
+315
+00:22:42,770 --> 00:22:45,770
+Herr Oberarzt, ich möchte Ihnen einen neuen Patienten vorstellen.
+
+316
+00:22:46,770 --> 00:22:48,770
+Haben Sie kurz Zeit für mich?
+
+317
+00:22:49,770 --> 00:22:50,770
+Ja, habe ich. Bitte schön.
+
+318
+00:22:50,770 --> 00:23:02,770
+Der Patient heißt Hans Brinsla. Er ist 82 Jahre alt, 1,65 Meter groß und 70 Kilogramm schwer.
+
+319
+00:23:03,770 --> 00:23:12,770
+Herr Brinsla stellte sich heute bei uns wegen seit 10 Tagen bestehender.
+
+320
+00:23:12,770 --> 00:23:22,770
+Er hatte eine Gedachnisstörung vor.
+
+321
+00:23:22,770 --> 00:23:51,770
+Der Patient berichtete, dass er den Weg seiner Haus- und Terminnamen ausübt.
+
+322
+00:23:52,770 --> 00:24:15,770
+Der Patient berichtete, dass er die Konzentrationsprobleme, Hörstörung und Lesen sehr stört.
+
+323
+00:24:15,770 --> 00:24:31,300
+Er hatte auch eine Faktorung und Fatigue.
+
+324
+00:24:32,300 --> 00:24:42,300
+In der vegetativen Anamnese gibt es irgendwelche neurologische Symptome als Begleitsymptomen.
+
+325
+00:24:42,300 --> 00:25:10,300
+Der Patient hat keine Sefalgie.
+
+326
+00:25:11,300 --> 00:25:15,300
+Welchen Fachbegriff können wir benutzen für Zittern?
+
+327
+00:25:45,300 --> 00:25:55,300
+Zittern ist eine Obstubation.
+
+328
+00:25:55,300 --> 00:26:19,300
+Der Patient hat eine Gewichtsabnahme von 5 bis 10 Kilogramm.
+
+329
+00:26:19,300 --> 00:26:34,300
+Der Patient hat einen guten Appetit, aber er vergesse Essen und Trinken.
+
+330
+00:26:35,300 --> 00:26:42,300
+Deshalb hat er Gewichtsverlust.
+
+331
+00:26:43,300 --> 00:26:44,300
+Lebt der Patient alleine?
+
+332
+00:26:44,300 --> 00:26:48,300
+Ja, der Patient lebt alleine.
+
+333
+00:26:48,300 --> 00:27:03,300
+Die Beschwerden sind nach dem Tod seiner Frau aufgetreten.
+
+334
+00:27:03,300 --> 00:27:11,300
+Die Beschwerden haben sich in der Zeit verschlechtert.
+
+335
+00:27:42,550 --> 00:27:58,550
+Der Patient hat eine Hörstörung und benutzt eine Hörgerät.
+
+336
+00:27:58,550 --> 00:28:13,550
+Er nimmt regelmäßig Phorosamid, Spironolacton, Candizartan und eine Schmerzmittel gegen Insomni.
+
+337
+00:28:13,550 --> 00:28:34,550
+Die Dosis der Medikamente sollte geklagt werden.
+
+338
+00:28:34,550 --> 00:28:49,550
+Der Patient ist nicht rau und trinkt sehr selten Alkohol.
+
+339
+00:28:50,550 --> 00:28:58,550
+Einmal pro Woche oder zweimal pro Woche.
+
+340
+00:28:59,550 --> 00:29:03,550
+Die Dosis der Medikamente sollte geklagt werden.
+
+341
+00:29:04,550 --> 00:29:10,550
+Der Patient trinkt regelmäßig Sport.
+
+342
+00:29:11,550 --> 00:29:16,550
+Seit zehn Tagen habe ich Gedächtnisprobleme.
+
+343
+00:29:17,550 --> 00:29:23,550
+Deshalb möchte er nicht alleine laufen.
+
+344
+00:29:23,550 --> 00:29:33,550
+In der Familienanamnese würde angegeben,
+
+345
+00:29:33,550 --> 00:29:51,550
+dass sein Vater und seine Mutter vor 40 Jahren aufgrund eines Autounfalls verstorben sind.
+
+346
+00:29:51,550 --> 00:30:07,550
+Der Patient hat keine Operation.
+
+347
+00:30:07,550 --> 00:30:17,550
+Er ist Rentner und Zufa.
+
+348
+00:30:18,550 --> 00:30:22,550
+Er hat als Lehrer gearbeitet.
+
+349
+00:30:23,550 --> 00:30:27,550
+Er lebt alleine.
+
+350
+00:30:28,550 --> 00:30:34,550
+Er ist verwitwet und lebt alleine.
+
+351
+00:30:34,550 --> 00:30:38,550
+Er hat einen Sohn und drei Tochter.
+
+352
+00:30:39,550 --> 00:30:42,550
+Er ist vollständig geübt.
+
+353
+00:30:43,550 --> 00:30:52,550
+Er hat eine Halsstaballergie mit Symptomen Thysis und Yukreis.
+
+354
+00:30:53,550 --> 00:30:56,550
+Die Reiseanamnese ist unauffällig.
+
+355
+00:30:57,550 --> 00:31:05,550
+Die Anamnistischen Angaben deuten am ehesten auf Alzheimer hin.
+
+356
+00:31:06,550 --> 00:31:09,550
+Oder Demas hin.
+
+357
+00:31:12,550 --> 00:31:16,550
+Welche Symptome sprechen für eine Alzheimer?
+
+358
+00:31:16,550 --> 00:31:24,550
+Die Symptome sprechen für eine Alzheimer.
+
+359
+00:31:25,550 --> 00:31:28,550
+Vergessen.
+
+360
+00:31:29,550 --> 00:31:33,550
+Names, Becken, Termin.
+
+361
+00:31:34,550 --> 00:31:38,550
+Kannst du mir amnesisch sagen?
+
+362
+00:31:39,550 --> 00:31:44,550
+Amnesisch? Ja.
+
+363
+00:31:45,550 --> 00:31:50,550
+Oder kurzfristig.
+
+364
+00:31:51,550 --> 00:31:52,550
+Kurzzeitige?
+
+365
+00:31:53,550 --> 00:31:56,550
+Kurzzeitige Gedankestörungen.
+
+366
+00:31:57,550 --> 00:31:58,550
+Okay.
+
+367
+00:31:59,550 --> 00:32:04,550
+Sprechen für Alzheimer.
+
+368
+00:32:05,550 --> 00:32:19,550
+Und die anderen organischen Symptomen der Patienten haben keine organischen Symptomen als Kopfschmerzen oder Unfallgeschichte.
+
+369
+00:32:20,550 --> 00:32:28,550
+Deshalb vermute der Patienten Alzheimer ist.
+
+370
+00:32:29,550 --> 00:32:30,550
+Okay.
+
+371
+00:32:31,550 --> 00:32:34,550
+Welche Differenzialdiagnosen kommen?
+
+372
+00:32:35,550 --> 00:32:56,550
+Als Differenzialdiagnosen kommen Demas oder Hypotheroese, Vitaminmangel, Vitamin B12.
+
+373
+00:32:56,550 --> 00:33:02,550
+Und Gehirntmörden oder Betra.
+
+374
+00:33:03,550 --> 00:33:04,550
+Okay.
+
+375
+00:33:05,550 --> 00:33:06,550
+Ja.
+
+376
+00:33:07,550 --> 00:33:13,550
+Zur Abklarung der Beschwerden sollten die folgenden Maßnahmen durchgeführt werden.
+
+377
+00:33:14,550 --> 00:33:19,550
+Zuerst werde ich den Patienten körperlich untersuchen.
+
+378
+00:33:19,550 --> 00:33:22,550
+Dann den Patienten körperlich untersuchen.
+
+379
+00:33:23,550 --> 00:33:42,550
+Dann bei der körperlichen Untersuchung achte ich darauf, ob eine neurologische Symptome vorhanden ist.
+
+380
+00:33:42,550 --> 00:33:52,550
+Wenn die Patienten vorhanden sind, zum Beispiel Hyporreflexe, Hypo- oder Hyperreflexe,
+
+381
+00:33:52,550 --> 00:34:08,550
+ich beurteile alle Reflexe und ich beurteile auch allgemeinen Zustand der Patienten.
+
+382
+00:34:12,550 --> 00:34:17,820
+Und ja.
+
+383
+00:34:18,820 --> 00:34:22,020
+Okay.
+
+384
+00:34:22,020 --> 00:34:26,020
+Sie haben schon die körperliche Untersuchung gemacht.
+
+385
+00:34:27,020 --> 00:34:28,020
+Ja.
+
+386
+00:34:29,020 --> 00:34:36,020
+Ich möchte sagen, bei der körperlichen Untersuchung achte ich darauf, eine neurologische Untersuchung.
+
+387
+00:34:37,020 --> 00:34:40,020
+Dann zur Abklarung.
+
+388
+00:34:41,020 --> 00:34:49,020
+Dann werde ich Blut abnehmen und einige Laborwerte überprüfen.
+
+389
+00:34:49,020 --> 00:35:09,020
+Ich würde ein großes Blutbild, ein Sündungparameter und treue Hormone und Vitamin B12 und Vitamin D bestimmen lassen.
+
+390
+00:35:10,020 --> 00:35:16,020
+Dann einige Elektrolyten auch.
+
+391
+00:35:16,020 --> 00:35:27,020
+Dann würde ich eine Tomographie des Schadens anfangen.
+
+392
+00:35:28,020 --> 00:35:29,020
+Warum?
+
+393
+00:35:30,020 --> 00:35:45,020
+Warum? Um meine Verdachtdiagnose bestätigen und die mögliche Gehirnstörung oder Probleme auszuschließen.
+
+394
+00:35:46,020 --> 00:35:58,500
+Dann würde ich eine CT oder MRT veranlassen.
+
+395
+00:36:00,900 --> 00:36:01,900
+Okay.
+
+396
+00:36:02,900 --> 00:36:09,900
+Würden Sie diesen Patienten stationieren oder Ambulanz behandeln?
+
+397
+00:36:12,790 --> 00:36:14,790
+Das ist eine gute Frage.
+
+398
+00:36:14,790 --> 00:36:24,790
+Der Patient befand sich in gutem Allgemeinen Zustand.
+
+399
+00:36:24,790 --> 00:36:44,790
+Er orientierte sich an Ort, Person und Zeit.
+
+400
+00:36:44,790 --> 00:37:05,790
+Er hat gesagt, dass sein Sohn sich um ihn kümmern kann.
+
+401
+00:37:05,790 --> 00:37:22,790
+Ich empfehle den Patienten eine ambulante Therapie.
+
+402
+00:37:22,790 --> 00:37:34,790
+Was würden Sie als Therapiemöglichkeiten anordnen?
+
+403
+00:37:34,790 --> 00:37:41,790
+Ich habe nicht viel zu tun.
+
+404
+00:37:41,790 --> 00:37:49,790
+Ich würde einen neurologischen Konsul anfordern.
+
+405
+00:37:49,790 --> 00:38:15,530
+Dann würden wir die optimalen Medikamente zusammen verschieben.
+
+406
+00:38:16,530 --> 00:38:17,530
+Verschreiben.
+
+407
+00:38:17,530 --> 00:38:25,530
+Was empfehlen Sie den Patienten nach der Behandlung?
+
+408
+00:38:26,530 --> 00:38:29,530
+Gibt es andere Möglichkeiten für diesen Patienten?
+
+409
+00:38:30,530 --> 00:38:34,530
+Der Patient lebt alleine.
+
+410
+00:38:35,530 --> 00:38:39,530
+Das ist eine schwierige Situation für diesen Patienten.
+
+411
+00:38:39,530 --> 00:39:03,530
+Er kann mit der Zeit ein paar Nahrungsprobleme oder Dehydratationprobleme sein.
+
+412
+00:39:04,530 --> 00:39:15,530
+Deshalb empfehle ich den Patienten, mit seinen Kindern zusammen zu leben.
+
+413
+00:39:16,530 --> 00:39:27,530
+Oder eine Betreuung zu empfehlen.
+
+414
+00:39:27,530 --> 00:39:35,530
+Ich empfehle den Patienten, Betreuung zu nehmen.
+
+415
+00:39:36,530 --> 00:39:47,530
+Kinderheime oder Pflegeheime können auch andere Möglichkeiten sein.
+
+416
+00:39:48,530 --> 00:39:53,530
+Ich würde gerne diesen Patienten stationär aufnehmen.
+
+417
+00:39:53,530 --> 00:39:58,530
+Das ist wichtig.
+
+418
+00:39:59,530 --> 00:40:02,530
+Herr Chefarzt, sind Sie da?
+
+419
+00:40:03,530 --> 00:40:05,530
+Haben Sie noch andere Fragen?
+
+420
+00:40:08,000 --> 00:40:14,000
+Ich möchte nicht abklären.
+
+421
+00:40:15,000 --> 00:40:19,000
+Können Sie uns die Fusion gewünscht haben?
+
+422
+00:40:20,000 --> 00:40:21,000
+Nein.
+
+423
+00:40:22,000 --> 00:40:25,000
+Wir können es nicht abklären.
+
+424
+00:40:26,000 --> 00:40:30,000
+Aber wir können es abklären.
+
+425
+00:40:31,000 --> 00:40:33,000
+Fusion gewünscht haben.
+
+426
+00:40:34,000 --> 00:40:36,000
+Man kann es auf die Stomach-Ausgabe machen.
+
+427
+00:40:37,000 --> 00:40:39,000
+Fusion gewünscht haben.
+
+428
+00:40:40,000 --> 00:40:42,000
+Das ist eine andere Frage.
+
+429
+00:40:42,000 --> 00:40:45,000
+Okay.
+
+430
+00:40:46,000 --> 00:40:54,000
+MRT ist eine Abkursung für Magnet-Rosanance-Tomographie.
+
+431
+00:40:55,000 --> 00:41:05,000
+Es ist eine schmerzfreie und strahlungsfreie Untersuchung.
+
+432
+00:41:05,000 --> 00:41:24,000
+Mit Hilfe der MRT können wir Weichteile und Weichgebäbe beurteilen.
+
+433
+00:41:25,000 --> 00:41:31,000
+Gibt es einen Unterschied zwischen der Fusion-Gewünschtheit und der normalen MRT?
+
+434
+00:41:31,000 --> 00:41:33,000
+Ich weiß nicht.
+
+435
+00:41:34,000 --> 00:41:40,000
+Ich möchte die Fusion-Gewünschtheit MRT aufklären.
+
+436
+00:41:41,000 --> 00:41:57,000
+Mit Hilfe der Fusion-Gewünschtheit MRT können wir die schmerzfreie Situation beurteilen.
+
+437
+00:41:57,000 --> 00:42:02,000
+Wie arbeitet diese Untersuchung?
+
+438
+00:42:03,000 --> 00:42:06,000
+Wie arbeitet diese Untersuchung?
+
+439
+00:42:07,000 --> 00:42:10,540
+Mit Kontrast?
+
+440
+00:42:11,540 --> 00:42:15,540
+Nein, kein Kontrast.
+
+441
+00:42:16,540 --> 00:42:22,540
+Eine Marke mit einer Marke.
+
+442
+00:42:23,540 --> 00:42:25,540
+Eine Diffusion.
+
+443
+00:42:25,540 --> 00:42:39,200
+Eine Diffusion.
+
+444
+00:43:09,200 --> 00:43:27,200
+Sie können die Blutung, die Tumor und den Infarkt in 3-5 Minuten beitragen.
+
+445
+00:43:27,200 --> 00:43:33,200
+Ok, ich kann sagen, dass es gut ist.
+
+446
+00:43:33,200 --> 00:43:35,200
+Danke schön.
+
+447
+00:43:35,200 --> 00:43:56,200
+Die Diffusion Magnet Resonanz Tomographie ist ein spezielles Programm für ein spezielles Programm von MRT.
+
+448
+00:43:56,200 --> 00:44:10,200
+Mit Hilfe der Diffusion-Gebirge MRT können wir Blutung, Apoplex oder Infarkt beurteilen.
+
+449
+00:44:10,200 --> 00:44:17,200
+Das ist eine schmerzfreie und strahlungsfreie Untersuchung.
+
+450
+00:44:17,200 --> 00:44:37,200
+Bevor diese Untersuchung geht, sollte der Patient alle Metallgeräte ablegen.
+
+451
+00:44:37,200 --> 00:44:49,200
+Und in einer Röhre bewegungsstil bleiben.
+
+452
+00:44:49,200 --> 00:44:53,200
+Wir können sagen ruhig einfach.
+
+453
+00:44:53,200 --> 00:45:01,200
+Es dauert ca. 20-30 Minuten.
+
+454
+00:45:01,200 --> 00:45:15,200
+Nach der Untersuchung kann der Patient ganz normal vorwärtsgehen.
+
+455
+00:45:15,200 --> 00:45:20,690
+Ok, gut.
+
+456
+00:46:25,100 --> 00:46:29,100
+Ich würde es besser machen, wenn es noch einmal passiert wäre.
+
+457
+00:46:29,100 --> 00:46:32,100
+Ich hoffe, es wird besser.
+
+458
+00:46:32,100 --> 00:46:35,100
+Ich würde euch ein bisschen mit der Diffusion beitragen.
+
+459
+00:46:35,100 --> 00:46:41,100
+Wir sagen immer, dass es die Diffusion nach ist.
+
+460
+00:46:41,100 --> 00:46:43,100
+Das benutzt ihr sehr selten.
+
+461
+00:46:43,100 --> 00:46:45,100
+Das benutzt ihr, um zu sprechen.
+
+462
+00:46:45,100 --> 00:46:49,100
+Das ist nicht möglich.
+
+463
+00:47:19,100 --> 00:47:21,100
+Ja, ich wollte das auch sagen.
+
+464
+00:47:21,100 --> 00:47:24,100
+Manchmal sagt man die Stimme in der Frageformat.
+
+465
+00:47:24,100 --> 00:47:26,100
+Das ist nicht die Stimme.
+
+466
+00:47:26,100 --> 00:47:29,100
+Manchmal ist es nicht die Stimme.
+
+467
+00:47:29,100 --> 00:47:39,100
+Und heute haben wir immer noch die Stimme der Stimme.
+
+468
+00:47:39,100 --> 00:47:42,100
+Ja, das ist die Stimme von Yavuz.
+
+469
+00:47:42,100 --> 00:47:47,100
+Herr Bränsle ist 82 Jahre alt.
+
+470
+00:47:47,100 --> 00:47:54,100
+70 Kilogramm schwer, 1,65 Meter groß.
+
+471
+00:47:54,100 --> 00:48:11,100
+Herr Bränsle hat sich seit zwei Monaten bei uns gestalten.
+
+472
+00:49:11,100 --> 00:49:20,100
+Er hat sich von Störungen, Verstörungen, depressiv Stimmung eingehört.
+
+473
+00:49:20,100 --> 00:49:35,100
+Die Frage nach Beüßlosigkeit, Tremor und Parasitez, Hypastese,
+
+474
+00:49:35,100 --> 00:49:38,100
+hat er verneint.
+
+475
+00:49:38,100 --> 00:49:40,100
+Hat er Vergeslichkeit?
+
+476
+00:49:40,100 --> 00:49:42,100
+Entschuldigung?
+
+477
+00:49:42,100 --> 00:49:44,100
+Hat er Vergeslichkeit?
+
+478
+00:49:44,100 --> 00:49:46,100
+Ja, Vergeslichkeit.
+
+479
+00:49:46,100 --> 00:49:49,100
+Sie haben recht.
+
+480
+00:49:49,100 --> 00:50:09,100
+Der Patient hat über die Abwechselung der Stimmung und die Müdigkeit.
+
+481
+00:50:09,100 --> 00:50:19,100
+Der Patient hat eine vegetative Anamnese,
+
+482
+00:50:19,100 --> 00:50:24,100
+die folgende Bekanntheit hat.
+
+483
+00:50:24,100 --> 00:50:31,100
+Obst, Obstpatient und Pollaküri, Insomni.
+
+484
+00:50:31,100 --> 00:50:51,100
+Der Patient berichtete über einen Gewichtverlust von 5 Kilogramm innerhalb von 5 Monaten.
+
+485
+00:50:51,100 --> 00:50:55,100
+Innerhalb von 5 Monaten.
+
+486
+00:50:55,100 --> 00:50:59,100
+Innerhalb von 5 Monaten.
+
+487
+00:50:59,100 --> 00:51:11,100
+An der Erkrankung, nannte er seit 10 Jahren 5-10 Arteriellhypertonik.
+
+488
+00:51:11,100 --> 00:51:15,100
+Seit 5 Jahren Hörstörungen.
+
+489
+00:51:15,100 --> 00:51:23,100
+Deswegen hat der Patient ein Hörstgerät benutzt.
+
+490
+00:51:23,100 --> 00:51:32,100
+Die Frage nach Operationen hat er verneint.
+
+491
+00:51:32,100 --> 00:51:54,100
+In der Medikation nimmt er mit Spironolacten, Kandesarten, Schlafmitteln und einem Tee für Schlafstörungen.
+
+492
+00:51:54,100 --> 00:52:08,100
+Aber die Dosis und die Names der Wirkstoffe sollten geklärt werden.
+
+493
+00:52:08,100 --> 00:52:36,100
+Der Wirkstoff, die Dosis und die Names der Wirkstoffe sollten geklärt werden.
+
+494
+00:52:36,100 --> 00:53:04,100
+In der Familienanamnese teilt er mit, dass Vater und Mutter mit 40 Jahren an einem Autounfall gestorben sind.
+
+495
+00:53:04,100 --> 00:53:12,100
+Er ist nicht Rauchherr, er trinkt gelegentlich ein Glas Wein.
+
+496
+00:53:12,100 --> 00:53:19,100
+Er ist verwittert, er wohnt allein.
+
+497
+00:53:19,100 --> 00:53:35,100
+Er hat zwei Kinder. Er ist jetzt renter, aber als Französischer Lehrer für gearbeitet.
+
+498
+00:54:05,100 --> 00:54:29,100
+Er hat eine neue Stimmung und eine Vergeslichkeit.
+
+499
+00:55:29,100 --> 00:55:46,100
+Ich würde den Patienten eine neurologische Unterdrückung durchführen.
+
+500
+00:55:46,100 --> 00:56:06,100
+Nach der Körperliche Unterdrückung würde ich ihn vergeben.
+
+501
+00:56:06,100 --> 00:56:18,100
+Ich würde ihn in einer Unterdrückung durchführen, um die Diagnose zu verbreiten.
+
+502
+00:56:18,100 --> 00:56:47,450
+Dabei würde ich ein kleines Blutbild, ein T-3, T-4, T-S-H und noch mehr.
+
+503
+00:56:47,450 --> 00:57:14,450
+Ich würde den Patienten eine neurologische Unterdrückung durchführen.
+
+504
+00:57:14,450 --> 00:57:22,450
+Ich würde ihn mit der Therapie optimieren.
+
+505
+00:57:22,450 --> 00:57:46,450
+Wenn Sie mit dieser Vorgegenweise einverstanden sind, werde ich mit dieser geplanten Unterdrückung fortfahren.
+
+506
+00:57:46,450 --> 00:57:58,450
+Bei der neurologischen Unterdrückung kann man sagen, dass die Störungen der Motorik, Sensorik oder andere Funktionen vorliegen.
+
+507
+00:57:58,450 --> 00:58:09,200
+Würden Sie diese Diagnose in einen Stationär aufnehmen?
+
+508
+00:58:09,200 --> 00:58:19,200
+Wenn ich meine Verteidigungsdiagnose bestätige, würde ich den Patienten stationär aufnehmen.
+
+509
+00:58:19,200 --> 00:58:31,200
+Ich würde den Patienten die Verteidigungsdiagnose überwachen.
+
+510
+00:58:31,200 --> 00:58:44,200
+Dann würde ich den Patienten einen Venouszugang legen und die Flüssigkeit verabreichen.
+
+511
+00:58:44,200 --> 00:58:52,700
+Was empfehlen Sie den Patienten nach der Behandlung?
+
+512
+00:58:52,700 --> 00:59:11,700
+Nach der Behandlung empfehle ich den Patienten nicht allein zu leben, weil der Patienten nicht gut…
+
+513
+00:59:11,700 --> 00:59:19,700
+Was war das Standard für das Leben?
+
+514
+00:59:19,700 --> 00:59:44,180
+Ich würde den Patienten gut essen und genug Wasser trinken.
+
+515
+00:59:44,180 --> 00:59:48,350
+Was anderes, Herr Professor?
+
+516
+00:59:48,350 --> 00:59:54,350
+Herr Kollegen, können Sie uns das City des Schades aufklären?
+
+517
+00:59:54,350 --> 01:00:04,350
+Ja, ich möchte Ihnen das City des Schades aufklären.
+
+518
+01:00:04,350 --> 01:00:24,350
+Das City des Schades ist eine spezielle Unterdrückung, mit der wir Gehirn, Inere, Organe und Blutgefäße verteilen können.
+
+519
+01:00:24,350 --> 01:00:50,350
+Diese Unterdrückung hilft uns bei Erkrankungen wie Tumoren, Entzündungen, Blutungen, Metastasen oder anderen Fremdungen.
+
+520
+01:00:50,350 --> 01:01:15,350
+Dazu werden die Patienten auf eine Liege legen und die Liege wird eine Ringform mit einer Kamera geführt.
+
+521
+01:01:15,350 --> 01:01:33,350
+Die Unterdrückung dauert ungefähr 15-30 Minuten, abhängig von der Krankheit.
+
+522
+01:01:33,350 --> 01:01:49,350
+In manchen Fällen wird der Patient eine Kontrastmitte verbracht.
+
+523
+01:01:49,350 --> 01:02:09,350
+Für die Unterdrückung müssen die Patienten Metall, Schumuck oder andere Stoffe ablegen.
+
+524
+01:02:09,350 --> 01:02:25,350
+Die Unterdrückung gibt es in der Röntgenstrahlung, aber die Belastung ist nicht gering.
+
+525
+01:02:25,350 --> 01:02:47,350
+Nach der Unterdrückung können die Patienten ihre Alltagwege fortsetzen.
+
+526
+01:02:47,350 --> 01:02:57,350
+Die Unterdrückung ist schmerzfrei und ungefährlich.
+
+527
+01:02:57,350 --> 01:03:15,350
+Nach der Unterdrückung gibt es keine Beschreibung.
+
+528
+01:03:15,350 --> 01:03:18,350
+Ja, das war das.
+
+529
+01:03:18,350 --> 01:03:21,350
+Gibt es alternative Methoden?
+
+530
+01:03:21,350 --> 01:03:34,350
+Ja, natürlich. Wenn es nötig ist, gibt es viele alternative Methoden.
+
+531
+01:03:34,350 --> 01:03:48,350
+Zum Beispiel MRT oder andere Röntgen-Destrade.
+
+532
+01:03:48,350 --> 01:03:53,350
+Gibt es Komplikationen bei der Komplikation der Tomographie?
+
+533
+01:03:53,350 --> 01:04:03,350
+Ja, es gibt eine Komplikation zum Beispiel allergische Reaktionen gegen Kontrastmitte.
+
+534
+01:04:03,350 --> 01:04:06,860
+Ok.
+
+535
+01:04:06,860 --> 01:04:09,860
+Ich weiß nicht, ob du etwas verpasst hast.

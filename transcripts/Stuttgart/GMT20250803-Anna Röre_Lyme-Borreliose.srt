@@ -1,0 +1,2299 @@
+1
+00:00:00,000 --> 00:00:08,000
+Guten Tag, mein Name ist Bulur. Ich bin die Disabender Ärztin auf der Station und würde gerne das Ersgespräch mit Ihnen führen.
+
+2
+00:00:08,000 --> 00:00:10,000
+Ist das in Ordnung für Sie?
+
+3
+00:00:10,000 --> 00:00:12,000
+Ja, alles in Ordnung, Frau Doktor.
+
+4
+00:00:12,000 --> 00:00:23,000
+Ok, so als werde ich ein paar Fragen zu Ihrer Person stellen, dann direkt Ihren aktuellen Beschwerden übergehen. Wie heißt Sie denn?
+
+5
+00:00:23,000 --> 00:00:30,000
+Ja, mein Name ist Anna Röhrä.
+
+6
+00:00:30,000 --> 00:00:35,000
+Frau Röhrä, könnten Sie Ihren Vornamen bestabieren?
+
+7
+00:00:35,000 --> 00:00:43,000
+Ja, A, Doppel N, A und R, O, O, O, A, R, E.
+
+8
+00:00:43,000 --> 00:00:48,000
+Ok, Frau Röhrä, wie alt sind Sie?
+
+9
+00:00:48,000 --> 00:00:52,000
+Ja, ich bin 34, Frau Doktor.
+
+10
+00:00:52,000 --> 00:00:56,000
+Ok, wann ist Sie genau geboren?
+
+11
+00:00:56,000 --> 00:01:08,000
+24.09.1990
+
+12
+00:01:08,000 --> 00:01:11,000
+Und wie groß sind Sie?
+
+13
+00:01:11,000 --> 00:01:21,000
+Ich bin 1,71 Meter groß.
+
+14
+00:01:21,000 --> 00:01:23,000
+Und wie viel wiegen Sie?
+
+15
+00:01:23,000 --> 00:01:26,000
+72 kg.
+
+16
+00:01:26,000 --> 00:01:31,000
+Ok, wie heißt Ihre Hausarztin?
+
+17
+00:01:31,000 --> 00:01:39,200
+Frau Graf.
+
+18
+00:01:40,200 --> 00:01:43,200
+WF Ende oder?
+
+19
+00:01:43,200 --> 00:01:47,200
+Ja, WF. G, R, A, WF.
+
+20
+00:01:47,200 --> 00:01:56,200
+Danke schön. Vielen Dank für diese Information, Frau Röhrä. Und was für Sie heute so uns? Wie kann ich Ihnen helfen?
+
+21
+00:01:56,200 --> 00:02:04,200
+Frau Doktor, ich habe Rötung bemerkt im Bereich des rechten Kniegelenks.
+
+22
+00:02:04,200 --> 00:02:12,200
+Ich habe Rötung und fühle mich müde.
+
+23
+00:02:12,200 --> 00:02:18,200
+Ich fühle mich erschöpft, kann ich sagen.
+
+24
+00:02:18,200 --> 00:02:27,200
+Seit 4 Tagen habe ich Rötung bemerkt.
+
+25
+00:02:27,200 --> 00:02:35,200
+Auf der äußeren Seite im Bereich des rechten Kniegelenks.
+
+26
+00:02:35,200 --> 00:02:39,200
+Ok, haben Sie nur eine Rötung?
+
+27
+00:02:39,200 --> 00:02:42,200
+Ja, eine Rötung habe ich bemerkt.
+
+28
+00:02:42,200 --> 00:02:47,200
+Ok, wie groß ist diese Rötung?
+
+29
+00:02:47,200 --> 00:03:00,200
+Das ist 4 cm groß.
+
+30
+00:03:00,200 --> 00:03:04,200
+Wie runde ist die Rötung.
+
+31
+00:03:04,200 --> 00:03:15,200
+Mitte ist hellrot und Rande dunkelrot.
+
+32
+00:03:16,200 --> 00:03:23,200
+Ok, Rande dunkelrot.
+
+33
+00:03:23,200 --> 00:03:37,200
+Denken Sie, hat sich diese Rötung vergrößert?
+
+34
+00:03:37,200 --> 00:03:43,200
+Nein, seit 4 Tagen das gleiche.
+
+35
+00:03:43,200 --> 00:04:00,200
+Wissen Sie, ob es einen bestimmten Auslöser für diese Rötung gibt?
+
+36
+00:04:00,200 --> 00:04:05,200
+Vor 5 Tagen habe ich im Wald gewandert.
+
+37
+00:04:05,200 --> 00:04:07,200
+Vor 5 Tagen?
+
+38
+00:04:07,200 --> 00:04:09,200
+Ja, vor 5 Tagen.
+
+39
+00:04:09,200 --> 00:04:13,200
+Ich hatte Schmerzen.
+
+40
+00:04:13,200 --> 00:04:20,200
+Mir ist aufgefallen, beim Laufen im rechten Kniegelenks.
+
+41
+00:04:20,200 --> 00:04:28,200
+Aber ich habe kein Insekt bemerkt.
+
+42
+00:04:28,200 --> 00:04:34,200
+Nach dem Schmerzen hatte ich Rötung bemerkt.
+
+43
+00:04:34,200 --> 00:04:40,200
+Ok, aber Sie haben keine Insekten bemerkt?
+
+44
+00:04:40,200 --> 00:04:42,200
+Ja, ich habe nicht gesehen.
+
+45
+00:04:42,200 --> 00:04:44,200
+Nur habe ich Schmerzen.
+
+46
+00:04:44,200 --> 00:04:50,200
+Mir ist aufgefallen, dann Rötung habe ich bemerkt.
+
+47
+00:04:50,200 --> 00:04:54,200
+Ok, haben Sie Schmerzen? Kopfschmerzen?
+
+48
+00:04:54,200 --> 00:04:56,200
+Ja, ich habe Kopfschmerzen.
+
+49
+00:04:56,200 --> 00:05:01,200
+Ich fühle mich abgeschlagen und fieberig.
+
+50
+00:05:01,200 --> 00:05:07,200
+Alle Gelenke sind Schmerzhaft.
+
+51
+00:05:07,200 --> 00:05:12,200
+Ich habe Gelenkschmerzen in allen Gelenken.
+
+52
+00:05:12,200 --> 00:05:16,540
+Ich fühle mich fieberig.
+
+53
+00:05:16,540 --> 00:05:26,540
+Hat Sie Ihre Körpertemperatur gemessen?
+
+54
+00:05:26,540 --> 00:05:35,540
+Ja, heute Morgen. Meine Körpertemperatur war 37,9.
+
+55
+00:05:35,540 --> 00:05:42,540
+Ich habe nur heute gemessen und es war 37,9.
+
+56
+00:05:42,540 --> 00:05:48,540
+Wie stark sind Ihre Kopfschmerzen?
+
+57
+00:05:48,540 --> 00:05:59,540
+Nicht schlimm, aber ich fühle mich seit 3 Tagen Kopfschmerzen.
+
+58
+00:05:59,540 --> 00:06:02,540
+Ich fühle mich nicht gut, Frau Doktor.
+
+59
+00:06:02,540 --> 00:06:07,540
+Strahlen die Schmerzen irgendwo hinaus?
+
+60
+00:06:07,540 --> 00:06:12,540
+Ich habe im Kopf Schmerzen.
+
+61
+00:06:12,540 --> 00:06:16,540
+Ich fühle mich auch im Nacken und Schulter.
+
+62
+00:06:16,540 --> 00:06:21,540
+Ich habe im Kopf Schmerzen.
+
+63
+00:06:21,540 --> 00:06:27,540
+Könnten Sie Ihren Nacken vorbeugen?
+
+64
+00:06:27,540 --> 00:06:32,540
+Ja, ich kann vorbeugen, aber ein bisschen Schmerzhaft.
+
+65
+00:06:33,540 --> 00:06:40,540
+Ich habe im Nacken Schmerzen.
+
+66
+00:06:40,540 --> 00:06:47,540
+Fühlen Sie sich an der Nackenstäffigkeit?
+
+67
+00:06:47,540 --> 00:06:52,540
+Nein, nicht stif, aber Schmerzen.
+
+68
+00:06:52,540 --> 00:06:58,540
+Okay, ich verstehe.
+
+69
+00:06:58,540 --> 00:07:02,540
+Ist Ihnen ein Übel?
+
+70
+00:07:02,540 --> 00:07:05,540
+Ein bisschen, ja.
+
+71
+00:07:05,540 --> 00:07:08,540
+Hatten Sie Erbrechen?
+
+72
+00:07:08,540 --> 00:07:11,540
+Nein, habe ich nicht.
+
+73
+00:07:11,540 --> 00:07:14,540
+Okay.
+
+74
+00:07:14,540 --> 00:07:21,540
+Haben Sie Fieber, aber Schutelfrost oder Nachschweiß?
+
+75
+00:07:21,540 --> 00:07:29,540
+Nachschweiß hatte ich gestern Abend, aber Schutelfrost hatte ich nicht.
+
+76
+00:07:29,540 --> 00:07:32,540
+Okay.
+
+77
+00:07:32,540 --> 00:07:39,820
+Haben Sie in letzter Zeit Ungewöhnlich-Ab- oder Zugenommen?
+
+78
+00:07:39,820 --> 00:07:43,820
+Nein, ich bin immer gleich.
+
+79
+00:07:43,820 --> 00:07:48,820
+Okay. Wie ist Ihr Appetit?
+
+80
+00:07:48,820 --> 00:07:52,820
+Heute ist es nicht gut. Ich möchte heute nicht essen.
+
+81
+00:07:52,820 --> 00:07:55,820
+Schlafen Sie gut?
+
+82
+00:07:55,820 --> 00:08:02,820
+Ja, wegen vieler Schlagenheit oder Abgeschlagenheit gestern Abend.
+
+83
+00:08:02,820 --> 00:08:04,820
+Ich könnte nicht gut schlafen.
+
+84
+00:08:04,820 --> 00:08:07,820
+Okay, ich verstehe.
+
+85
+00:08:07,820 --> 00:08:16,820
+Ist alles in Ordnung beim Wasserlassen und Stuhlgang?
+
+86
+00:08:16,820 --> 00:08:19,820
+Ja, alles in Ordnung.
+
+87
+00:08:19,820 --> 00:08:25,230
+Okay, es freut mich sehr gut.
+
+88
+00:08:25,230 --> 00:08:34,230
+Gibt es in Ihrer Umgebung jemanden mit 50 Hebechwerden?
+
+89
+00:08:34,230 --> 00:08:37,230
+Nein, nur habe ich.
+
+90
+00:08:37,230 --> 00:08:40,230
+Okay, haben Sie Hüsten?
+
+91
+00:08:40,230 --> 00:08:43,230
+Ich habe keine Hüsten.
+
+92
+00:08:43,230 --> 00:08:47,230
+Okay, oder Schnürfen oder Halsschmerzen?
+
+93
+00:08:47,230 --> 00:08:51,230
+Ich habe ganz viel Halsschmerzen.
+
+94
+00:08:51,230 --> 00:08:55,230
+Halsschmerzen habe ich auch, aber nicht genau.
+
+95
+00:08:55,230 --> 00:08:58,230
+Nicht besonders?
+
+96
+00:08:58,230 --> 00:09:05,610
+Okay, ich verstehe.
+
+97
+00:09:05,610 --> 00:09:18,610
+Sind bei Ihnen irgendwelche Erkrankungen bekannt?
+
+98
+00:09:18,610 --> 00:09:26,610
+Seit dem siebten Lebensjahr leide ich an Typ 1 Diabetes.
+
+99
+00:09:26,610 --> 00:09:27,610
+Okay.
+
+100
+00:09:27,610 --> 00:09:33,610
+Deswegen nutze ich Insulinpumpe.
+
+101
+00:09:33,610 --> 00:09:34,610
+Insulinpumpe?
+
+102
+00:09:34,610 --> 00:09:35,610
+Ja.
+
+103
+00:09:35,610 --> 00:09:36,610
+Okay.
+
+104
+00:09:36,610 --> 00:09:48,610
+Ich misse mein Blutszucker regelmäßig mit einem Blutszuckersensor, Glukossensor.
+
+105
+00:09:48,610 --> 00:09:51,610
+Okay, Glukossensor.
+
+106
+00:09:51,610 --> 00:09:55,610
+Meinen Sie eine Glukospumpe?
+
+107
+00:09:55,610 --> 00:09:58,610
+Ja, sie sind zusammen.
+
+108
+00:09:58,610 --> 00:10:04,610
+Wenn meine Glukose hoch ist, habe ich eine Nachricht von der Insulinpumpe.
+
+109
+00:10:04,610 --> 00:10:09,610
+Und das wird regelmäßig kontrolliert.
+
+110
+00:10:09,610 --> 00:10:16,610
+Okay, ist Ihr Blutszucker gut angestellt?
+
+111
+00:10:16,610 --> 00:10:18,610
+Ja, gut angestellt.
+
+112
+00:10:18,610 --> 00:10:19,610
+Okay.
+
+113
+00:10:19,610 --> 00:10:20,610
+Noch etwas?
+
+114
+00:10:20,610 --> 00:10:25,610
+Haben Sie andere Erkrankungen?
+
+115
+00:10:25,610 --> 00:10:31,980
+Nein, leider seit acht Jahren Migräne.
+
+116
+00:10:31,980 --> 00:10:34,980
+Migräne, okay.
+
+117
+00:10:34,980 --> 00:10:41,980
+Nehmen Sie Medikamente gegen Migräne ein?
+
+118
+00:10:41,980 --> 00:10:49,980
+Manchmal nehme ich Ibuprofen, manchmal Aspirin, wenn ich Schmerz habe.
+
+119
+00:10:49,980 --> 00:10:53,980
+Okay, wissen Sie die Dosierung dieser Medikamente?
+
+120
+00:10:53,980 --> 00:10:56,980
+Manchmal nehme ich nicht regelmäßig.
+
+121
+00:10:56,980 --> 00:10:58,980
+Okay, kein Problem.
+
+122
+00:10:58,980 --> 00:11:03,980
+Würden Sie schon einmal operiert?
+
+123
+00:11:03,980 --> 00:11:12,740
+Ja, vor zwölf Jahren wegen Leistenherrli wurde ich operiert.
+
+124
+00:11:12,740 --> 00:11:15,740
+Okay, das war komplikationlos?
+
+125
+00:11:15,740 --> 00:11:20,120
+Ja, ja, das sei dann.
+
+126
+00:11:20,120 --> 00:11:22,120
+Noch etwas?
+
+127
+00:11:22,120 --> 00:11:24,120
+Andere Operationen?
+
+128
+00:11:24,120 --> 00:11:28,120
+Nein, ich wurde operiert.
+
+129
+00:11:28,120 --> 00:11:35,120
+Okay, sind Sie Rafferin, Frau Rohre?
+
+130
+00:11:35,120 --> 00:11:41,120
+Ja, seit zehn Jahren rauche ich 15 Zigarillo.
+
+131
+00:11:41,120 --> 00:11:43,120
+Zigarillo?
+
+132
+00:11:43,120 --> 00:11:44,120
+Ja.
+
+133
+00:11:44,120 --> 00:11:48,120
+Was meinen Sie?
+
+134
+00:11:48,120 --> 00:11:51,120
+Zigarillo ist kleine Zigarette.
+
+135
+00:11:51,120 --> 00:11:53,120
+Kleine Zigarette?
+
+136
+00:11:53,120 --> 00:11:54,120
+Ja.
+
+137
+00:11:54,120 --> 00:11:57,120
+Kleine Zigarette, okay.
+
+138
+00:11:57,120 --> 00:12:00,120
+Ja, das heißt Zigarillo, ja.
+
+139
+00:12:00,120 --> 00:12:06,120
+Ja, ich habe das erste Mal gehört.
+
+140
+00:12:06,120 --> 00:12:10,120
+Und trinken Sie Alkohol?
+
+141
+00:12:10,120 --> 00:12:15,120
+Ja, ich trinke gerne jeden Tag ein oder zwei Gläser Wein.
+
+142
+00:12:15,120 --> 00:12:17,120
+Rotwein.
+
+143
+00:12:17,120 --> 00:12:18,120
+Okay.
+
+144
+00:12:18,120 --> 00:12:24,120
+Mein Freund hat mir empfohlen zu trinken, das war sehr gesund, hat mir er gesagt.
+
+145
+00:12:24,120 --> 00:12:28,120
+Deswegen trinke ich jeden Tag ein oder zwei Gläser Rotwein.
+
+146
+00:12:28,120 --> 00:12:34,120
+Okay, ich habe keine Kommentare über diese Säubchen gemacht.
+
+147
+00:12:34,120 --> 00:12:39,120
+Okay, hatten Sie jemals Kontakt mit Drogen?
+
+148
+00:12:39,120 --> 00:12:41,120
+Nein, nein.
+
+149
+00:12:41,120 --> 00:12:43,120
+Okay, sehr gut, es freut mich.
+
+150
+00:12:43,120 --> 00:12:48,120
+Ja, ehrlich gesagt, ich möchte diese Frage nicht antworten.
+
+151
+00:12:48,120 --> 00:12:50,120
+Über Drogen.
+
+152
+00:12:50,120 --> 00:12:52,120
+Drogen oder Drogen?
+
+153
+00:12:52,120 --> 00:12:54,120
+Drogen, ja, Drogenrauchen.
+
+154
+00:12:54,120 --> 00:12:56,120
+Okay, ja, ich verstehe.
+
+155
+00:12:56,120 --> 00:12:59,120
+Und treibst du regelmäßig Sport?
+
+156
+00:12:59,120 --> 00:13:03,120
+Ja, ich treibe regelmäßig Sport.
+
+157
+00:13:03,120 --> 00:13:05,120
+Ich schwimme gerne.
+
+158
+00:13:05,120 --> 00:13:10,520
+Zweimal pro Woche schwimme ich.
+
+159
+00:13:10,520 --> 00:13:19,520
+Okay, Frau Rohre, wir haben Drogenanamnese-Fragen gestellt,
+
+160
+00:13:19,520 --> 00:13:38,520
+weil Drogen kann ihre Beschwerden verschlichten oder einige Medikamente integrieren.
+
+161
+00:13:38,520 --> 00:13:48,520
+Deshalb fragen wir diese Anamnese-Fragen.
+
+162
+00:13:48,520 --> 00:13:50,520
+Über Drogen oder?
+
+163
+00:13:50,520 --> 00:13:52,520
+Über Drogen alle noch.
+
+164
+00:13:52,520 --> 00:13:57,520
+Das ist eine private Sache für mich, ich möchte nicht mitteilen.
+
+165
+00:13:58,520 --> 00:14:05,520
+Alle Informationen bleiben nur Sie und mir.
+
+166
+00:14:05,520 --> 00:14:13,520
+Ja, das ist sehr wichtig für uns, den Datenschutz, wissen Sie?
+
+167
+00:14:13,520 --> 00:14:25,520
+Deshalb möchte ich diese Informationen geben.
+
+168
+00:14:25,520 --> 00:14:36,520
+Ja, das ist sicher, Sie haben Informationen nur zwischen uns, Sie haben gesagt, richtig?
+
+169
+00:14:36,520 --> 00:14:39,520
+Ja, zwischen uns.
+
+170
+00:14:39,520 --> 00:14:44,520
+Ich kann sagen, aber ...
+
+171
+00:14:44,520 --> 00:14:54,520
+Dann teile ich mit, ehrlich gesagt, brauche ich zweimal Mariana pro Woche.
+
+172
+00:14:54,520 --> 00:15:04,520
+Ich habe viel Stress, Frau Doktor, deswegen brauche ich zweimal Joint pro Woche.
+
+173
+00:15:04,520 --> 00:15:07,520
+Okay, ja, ich verstehe.
+
+174
+00:15:07,520 --> 00:15:09,520
+Danke schön.
+
+175
+00:15:09,520 --> 00:15:15,520
+Aber das ist privat, ich bitte Sie, um mit anderen Menschen nicht zu teilen.
+
+176
+00:15:15,520 --> 00:15:18,520
+Das ist sehr wichtig für mich.
+
+177
+00:15:18,520 --> 00:15:21,520
+Ja, Sie kann sicher sein.
+
+178
+00:15:21,520 --> 00:15:24,520
+Und was machen Sie beruflich?
+
+179
+00:15:24,520 --> 00:15:28,520
+Ich bin Friseurin, Frau Doktor.
+
+180
+00:15:28,520 --> 00:15:35,520
+Aber seit drei Tagen kann ich nicht arbeiten, wegen meiner Schmerzen fühle ich mich nicht gut.
+
+181
+00:15:35,520 --> 00:15:45,520
+Okay, und leben Sie alleine oder mit jemandem?
+
+182
+00:15:45,520 --> 00:15:49,520
+Sind Sie verheiratet oder haben Sie einen Partner?
+
+183
+00:15:49,520 --> 00:15:53,520
+Ich bin ledig und ich wohne alleine.
+
+184
+00:15:53,520 --> 00:15:57,520
+Okay, haben Sie Kinder?
+
+185
+00:15:57,520 --> 00:16:00,520
+Nein, ich bin ledig und habe keine Kinder.
+
+186
+00:16:00,520 --> 00:16:08,520
+Okay, sind Sie allergisch gegen etwas?
+
+187
+00:16:08,520 --> 00:16:11,520
+Nein, ich habe keine Allergie.
+
+188
+00:16:11,520 --> 00:16:15,520
+Okay, sind Sie vollständig geimpft?
+
+189
+00:16:15,520 --> 00:16:19,520
+Ja, ich habe alle Impfungen gehabt.
+
+190
+00:16:19,520 --> 00:16:23,520
+Okay, waren Sie in letzter Zeit im Ausland?
+
+191
+00:16:23,520 --> 00:16:31,520
+Ja, ich war vor fünf Tagen in Frankreich. Wir haben eine Waldlaufwanderung gemacht.
+
+192
+00:16:31,520 --> 00:16:38,520
+Gibt es in Ihrer Familie chronische Erkrankungen?
+
+193
+00:16:38,520 --> 00:16:44,520
+Meine Eltern sind ganz gesund, sie sind nicht alt.
+
+194
+00:16:44,520 --> 00:16:52,520
+Mein Vater ist 55 und meine Mutter ist 53, deswegen sind sie ganz gesund.
+
+195
+00:16:52,520 --> 00:16:55,520
+Okay, haben Sie eine Schwester?
+
+196
+00:16:55,520 --> 00:17:01,520
+Ja, wir sind drei Geschwister. Ich habe zwei Schwestern.
+
+197
+00:17:01,520 --> 00:17:07,520
+Meine kleinste Schwester hat leider Down-Syndrom.
+
+198
+00:17:07,520 --> 00:17:14,520
+Ja, es tut mir sehr leid zu hören. Aber ist sie gesund jetzt?
+
+199
+00:17:14,520 --> 00:17:19,520
+Ja, sie ist nicht körperlich, aber sie ist sehr leid.
+
+200
+00:17:19,520 --> 00:17:25,520
+Sie ist sehr stressig für meine Mutter und für uns auch.
+
+201
+00:17:25,520 --> 00:17:29,520
+Okay, ich verstehe. Das ist eine sehr schwierige Situation.
+
+202
+00:17:29,520 --> 00:17:39,520
+Frau Rohrer, haben Sie regelmäßige Regerblutung?
+
+203
+00:17:39,520 --> 00:17:48,960
+Ja, meine Perioden sind regelmäßig.
+
+204
+00:17:48,960 --> 00:17:55,530
+Okay, wann war Ihre letzte Periode?
+
+205
+00:17:55,530 --> 00:17:58,530
+Vor 15 Tagen.
+
+206
+00:17:58,530 --> 00:18:04,930
+Könnten Sie schwanger sein?
+
+207
+00:18:04,930 --> 00:18:09,930
+Nein, ich habe verhütet.
+
+208
+00:18:09,930 --> 00:18:19,930
+Okay, verhütet. Gehen Sie regelmäßig zu Ihrem Frauenarzt oder Ihrer Frau?
+
+209
+00:18:19,930 --> 00:18:24,930
+Ja, seit letztem Jahr habe ich meine Frau besucht.
+
+210
+00:18:24,930 --> 00:18:28,930
+Alles in Ordnung?
+
+211
+00:18:28,930 --> 00:18:31,930
+Ja, Ordnung hat mir gedrückt.
+
+212
+00:18:31,930 --> 00:18:39,930
+Okay, Frau Rohrer, ich habe keine weiteren Fragen.
+
+213
+00:18:39,930 --> 00:18:45,930
+Möchten Sie etwas hinzufügen? Oder haben Sie eine Frage?
+
+214
+00:18:45,930 --> 00:18:50,930
+Frau Doktor, ich habe Angst natürlich. Ich fühle mich nicht gut.
+
+215
+00:18:50,930 --> 00:18:55,930
+Ich fühle mich fieberig. Ich kann nicht gut schlafen.
+
+216
+00:18:55,930 --> 00:19:03,930
+Haben Sie eine Röthung? Ist das gefährlich?
+
+217
+00:19:03,930 --> 00:19:07,930
+Oder was ist das, Frau Doktor?
+
+218
+00:19:07,930 --> 00:19:12,930
+Ich verstehe Ihre Sorge, Frau Rohrer.
+
+219
+00:19:12,930 --> 00:19:15,930
+Ich weiß, dass es schwer ist.
+
+220
+00:19:15,930 --> 00:19:20,930
+Aber momentan gibt es keinen Grund für Sorge.
+
+221
+00:19:20,930 --> 00:19:26,930
+Es ist noch zu früh, um etwas Geniales zu sagen.
+
+222
+00:19:26,930 --> 00:19:37,930
+Ich habe eine Vermutung. Um meine Vermutung zu bestätigen, muss ich einige Untersuchungen durchführen.
+
+223
+00:19:37,930 --> 00:19:44,930
+Zuerst werde ich sie körperlich untersuchen, dann Blut abnehmen und einige Laboparameter überprüfen.
+
+224
+00:19:44,930 --> 00:19:54,930
+Wenn alle Ergebnisse so weit vorliegen, kann ich etwas Geniales sagen.
+
+225
+00:19:54,930 --> 00:20:02,930
+Ich möchte Sie bitte noch ein wenig geduld haben.
+
+226
+00:20:02,930 --> 00:20:15,930
+Bitte warten Sie in den Untersuchungsraum. Ich werde gleich zu Ihnen kommen.
+
+227
+00:20:15,930 --> 00:20:21,270
+Okay, Frau Doktor. Danke Ihnen.
+
+228
+00:20:21,270 --> 00:20:26,270
+Ist meine Röthung ansteckend? Oder möchte ich fragen?
+
+229
+00:20:26,270 --> 00:20:28,270
+Nein.
+
+230
+00:20:28,270 --> 00:20:31,270
+Ist das gefährlich für andere Personen?
+
+231
+00:20:31,270 --> 00:20:36,270
+Ich denke, es ist nicht gefährlich und ansteckend.
+
+232
+00:20:36,270 --> 00:20:44,270
+Aber ich werde alle notwendigen Untersuchungen und Maßnahmen durchführen.
+
+233
+00:20:44,270 --> 00:20:50,270
+Okay, Frau Doktor. Ich danke Ihnen.
+
+234
+00:20:50,270 --> 00:21:01,150
+Guten Tag, Herr Oberarzt. Ich möchte Ihnen einen neuen Patienten vorstellen.
+
+235
+00:21:01,150 --> 00:21:09,150
+Sie haben eine neue Patientin.
+
+236
+00:21:09,150 --> 00:21:24,150
+Die Patientin ist Anna Röhr. Sie ist 34 Jahre alt, 1,71 Meter groß und 72 Kilogramm schwer.
+
+237
+00:21:24,150 --> 00:21:43,150
+Frau Röhr stellte sich heute bei uns wegen einer Rötung an dem rechten Kniegelenk vor.
+
+238
+00:21:43,150 --> 00:22:01,150
+Der Patient berichtete, dass diese Rötung oder dieser Fleck 4 cm groß und schmerzlos ist.
+
+239
+00:22:01,150 --> 00:22:26,150
+Sie beschreibt den Fleck als Eritermannmigrant mit Hellezentrum und geröteter Rand.
+
+240
+00:22:26,150 --> 00:22:45,150
+Dieser Fleck ist vor vier Tagen nach einer Erwanderung aufgetreten.
+
+241
+00:22:45,150 --> 00:23:05,150
+Der Patient berichtet über Sephalgie, Immialgie und Gelenkschmerzen mit Nackenschmerzen.
+
+242
+00:23:05,150 --> 00:23:34,330
+Aber die Fragen nach Nacken, Polyatriarchie, die Patienten klagten über Sephalgie, Immialgie und Gelenkschmerzen.
+
+243
+00:23:34,330 --> 00:23:59,330
+Der Patient verwandelt die Panthenen selbst für diese Rötung ohne Besserung.
+
+244
+00:23:59,330 --> 00:24:28,330
+Der Patient berichtet über Fieber 37,9 Grad Celsius sowie Neusea und nächtliche Hyperlipidation.
+
+245
+00:24:28,330 --> 00:24:40,330
+Die Viganditivanamnese ist unerfällig bis auf in Apatens und Insomni.
+
+246
+00:24:40,330 --> 00:24:54,330
+Der Patient klagt über Auf und Fatigue.
+
+247
+00:24:54,330 --> 00:24:59,330
+Diese Rötung ist jöchelnd.
+
+248
+00:24:59,330 --> 00:25:24,330
+Die Anfängerkrankungen leiden sie seit 17 Jahren an Diabetes-Melotistips 2 und seit acht Jahren an Migräne.
+
+249
+00:25:24,330 --> 00:25:35,330
+Die Patienten nehmen bei Bedarf gegen Migräne, Ibuprofen oder Acetylsalicylusole.
+
+250
+00:25:35,330 --> 00:25:41,330
+Die Dosierung dieser Medikamente wird geklärt.
+
+251
+00:25:41,330 --> 00:25:58,330
+Der Patient verwandelt Insulin Pompe gegen Diabetes-Melotistips 2.
+
+252
+00:25:58,330 --> 00:26:24,330
+Die Patienten wurden vor zwölf Jahren aufgrund einer Ingenieurherniatomie durchgeführt.
+
+253
+00:26:24,330 --> 00:26:49,330
+Sie ist Racherin und rafft seit zehn Jahren 15 kleine Zigaretten.
+
+254
+00:26:49,330 --> 00:27:01,330
+Sie trinkt jeden Tag 1-2 Gläser Rotwein.
+
+255
+00:27:01,330 --> 00:27:16,330
+Die Patienten rufen 2 Mal pro Woche Marijuana.
+
+256
+00:27:16,330 --> 00:27:34,330
+Sie hat viel Stress in der Arbeit. Sie schwimmt 2 Mal pro Woche regelmäßig.
+
+257
+00:27:34,330 --> 00:27:49,330
+Sie arbeitet als Friseurin. Sie ist ledig und lebt allein. Sie hat keine Kinder.
+
+258
+00:27:49,330 --> 00:28:04,330
+Sie ist vollständig geimpft und hat keine bekannten Allergien. Die Anamnese ist unaufällig.
+
+259
+00:28:04,330 --> 00:28:29,330
+In der Familienanamnese wurde angegeben, dass ihr Vater oder ihr Eltern gesund ist. Sie hat zwei Schwestern und eine Schwester hat Down-Syndrome.
+
+260
+00:28:59,330 --> 00:29:11,330
+Der Patient hat keine Insekten oder Insekten bemerkt.
+
+261
+00:29:11,330 --> 00:29:14,330
+Wie anstecken diese Krankheiten?
+
+262
+00:29:44,330 --> 00:29:58,330
+Die Anamnese kann oder kann nicht sein. Um meine Verdachtdiagnose zu bestätigen, werde ich folgende Maßnahmen durchgeführt.
+
+263
+00:29:58,330 --> 00:30:07,330
+Ich werde die Patienten körperlich untersuchen.
+
+264
+00:30:07,330 --> 00:30:16,330
+Bei der körperlichen Untersuchung achte ich darauf, ob Migranten vorhanden sind.
+
+265
+00:30:16,330 --> 00:30:26,330
+Ich würde die Patienten neurologisch untersuchen.
+
+266
+00:30:26,330 --> 00:30:41,330
+Alle Reflexe und Nackenstiftigkeit kontrollieren.
+
+267
+00:30:41,330 --> 00:30:43,330
+Welche Zeichen kontrollieren Sie?
+
+268
+00:30:43,330 --> 00:30:53,330
+Ich würde Burczewski und Kerninkzeichen kontrollieren.
+
+269
+00:30:53,330 --> 00:31:20,330
+Dann werde ich Blut abnehmen und ein großes Blutbild, Entzündungparameter BSG-CRP, Nieren- und Labo-Werte, Elektrolytös und auch eine Antikörpergegenberyllose bestimmen lassen.
+
+270
+00:31:20,330 --> 00:31:30,330
+Ich würde Blut abnehmen und ein großes Blutbild CRP-BSG bestimmen lassen.
+
+271
+00:31:30,330 --> 00:31:42,330
+Welche Fehler bemerken Sie in diesem Satz?
+
+272
+00:31:42,330 --> 00:31:56,330
+Ich würde ein großes Blutbild und ein Entzündungparameter BSG-CRP bestimmen lassen.
+
+273
+00:31:56,330 --> 00:32:04,330
+Sie haben zuerst nur ein großes Blutbild CRP-BSG-Lukustensal bestimmen lassen.
+
+274
+00:32:04,330 --> 00:32:11,330
+Subjekt, Modalwerb oder andere Werbfeld.
+
+275
+00:32:11,330 --> 00:32:22,330
+Ich würde einige Labo-Parameter bestimmen lassen.
+
+276
+00:32:22,330 --> 00:32:34,330
+Ich würde ein großes Blutbild, ein Entzündungparameter und eine Antikörpergegenberyllose bestimmen lassen.
+
+277
+00:32:34,330 --> 00:33:01,060
+Wenn ich unklar bin über die Berylose oder meine Verdachtstheorose, würde ich eine CT-Bestimmung machen.
+
+278
+00:33:01,060 --> 00:33:16,060
+Ich denke, Sie haben wieder falsche Satze gesagt.
+
+279
+00:33:16,060 --> 00:33:36,060
+Wenn ich meine Verdachtstheorose bestätige.
+
+280
+00:33:36,060 --> 00:34:03,060
+Wenn ich unklar bin, würde ich eine Verstätigung machen.
+
+281
+00:34:03,060 --> 00:34:17,060
+Wenn Sie falsche Verdachtstheorose bestimmen, würde ich eine CT-Bestimmung machen.
+
+282
+00:34:17,060 --> 00:34:21,060
+Welche Verdachtstheorose denken Sie jetzt?
+
+283
+00:34:21,060 --> 00:34:28,060
+Jetzt Berylose. Ich habe keine weiteren Untersuchungen.
+
+284
+00:34:28,060 --> 00:34:34,060
+Ich möchte keine weiteren Untersuchungen als CT oder MRT oder Röntgen durchführen.
+
+285
+00:34:34,060 --> 00:34:39,060
+Ich möchte meine Verdachtstheorose bestätigen.
+
+286
+00:34:39,060 --> 00:34:45,060
+Wenn ich eine weitere Untersuchung durchführen möchte, würde ich eine andere Untersuchung durchführen.
+
+287
+00:34:45,060 --> 00:34:48,060
+Welche andere Untersuchungen?
+
+288
+00:34:48,060 --> 00:34:54,060
+CT. Warum verhandeln Sie CT?
+
+289
+00:34:54,060 --> 00:35:00,060
+Um die Meningitis oder Meningoencephalitis auszuschließen.
+
+290
+00:35:00,060 --> 00:35:04,060
+Natürlich denke ich auch an eine Lomberponktion.
+
+291
+00:35:04,060 --> 00:35:16,060
+Aber das sind nicht meine ersten Untersuchungen.
+
+292
+00:35:16,060 --> 00:35:19,060
+Würden Sie in diesem Fall eine Dublix-Sonographie machen?
+
+293
+00:35:19,060 --> 00:35:23,060
+Nein. Ich habe die Patientin nicht gefragt.
+
+294
+00:35:23,060 --> 00:35:33,060
+Aber der Patient hat keine Taubhausgefühl, Rötung, Überwärmung oder kalte Haut.
+
+295
+00:35:33,060 --> 00:35:37,060
+Sie hat Rötung?
+
+296
+00:35:37,060 --> 00:35:41,060
+Sie hat Rötung, aber keine anderen Beschwerden.
+
+297
+00:35:41,060 --> 00:35:59,060
+Ich denke nicht, dass es eine Stenose oder eine PA-Folka ist.
+
+298
+00:35:59,060 --> 00:36:06,060
+Deshalb ist das nicht meine erste Untersuchung.
+
+299
+00:36:06,060 --> 00:36:09,060
+Aber wenn es eine PA-Folka ist, können wir es durchführen.
+
+300
+00:36:09,060 --> 00:36:13,060
+Aber nicht jetzt oder nicht zuerst.
+
+301
+00:36:13,060 --> 00:36:19,060
+Welche Apparativdiagnose würden Sie zuerst verhandeln?
+
+302
+00:36:19,060 --> 00:36:26,060
+Ich habe keine weiteren Untersuchungen.
+
+303
+00:36:26,060 --> 00:36:35,060
+Ich werde zuerst meine Labo-Untersuchungen warten.
+
+304
+00:36:35,060 --> 00:36:48,060
+Ich möchte Antikörper gegen Berliose sehen.
+
+305
+00:36:48,060 --> 00:36:52,060
+Dann dauert es zwei Tage.
+
+306
+00:36:52,060 --> 00:36:54,060
+Dauert es zwei Tage?
+
+307
+00:36:54,060 --> 00:36:56,060
+Ja.
+
+308
+00:36:56,060 --> 00:36:58,060
+Ja, echt?
+
+309
+00:36:58,060 --> 00:37:01,060
+Der Test dauert ungefähr zwei Tage.
+
+310
+00:37:01,060 --> 00:37:12,400
+Okay. Dann möchte ich eine CT durchführen.
+
+311
+00:37:13,400 --> 00:37:20,400
+Dann würde ich eine CT durchführen.
+
+312
+00:37:20,400 --> 00:37:22,400
+Ja.
+
+313
+00:37:22,400 --> 00:37:27,740
+Oder eine Doublexonographie.
+
+314
+00:37:27,740 --> 00:37:29,740
+Nein.
+
+315
+00:37:29,740 --> 00:37:31,740
+Ja, beide.
+
+316
+00:37:31,740 --> 00:37:39,740
+Welche Therapie würden Sie?
+
+317
+00:37:39,740 --> 00:37:44,740
+Ich werde Antibiotik machen.
+
+318
+00:37:44,740 --> 00:37:56,740
+Ich würde die Patienten ambulant behandeln.
+
+319
+00:37:56,740 --> 00:38:00,740
+Sie haben nicht die Vorhöhung oder die Medikamente.
+
+320
+00:38:00,740 --> 00:38:07,740
+Sie sind in gutem Allgemeinzustand.
+
+321
+00:38:07,740 --> 00:38:15,740
+Ich kann diese Patienten beim Unkollegentrohung bewahren.
+
+322
+00:38:15,740 --> 00:38:21,740
+Deshalb denke ich, dass diese Patienten die ambulanten Therapie machen können.
+
+323
+00:38:21,740 --> 00:38:27,740
+Aber es kann sein, dass die Meningitis gefährlich ist.
+
+324
+00:38:27,740 --> 00:38:32,740
+Ja, es kann sehr schnell gehen.
+
+325
+00:38:32,740 --> 00:38:34,740
+Es kann sehr gefährlich sein.
+
+326
+00:38:34,740 --> 00:38:46,870
+Und es kann eine eingeschränkte Station sein.
+
+327
+00:38:46,870 --> 00:38:50,870
+Ich empfehle Ihnen, Stationäre aufzunehmen.
+
+328
+00:38:50,870 --> 00:38:52,870
+Okay.
+
+329
+00:38:52,870 --> 00:39:06,870
+Ich würde eine Antibiotik-Therapie mit 90 Zyklen beginnen.
+
+330
+00:39:06,870 --> 00:39:16,870
+Nach zwei Tagen möchte ich die Patienten wiederholen.
+
+331
+00:39:16,870 --> 00:39:18,870
+Wiedersehen.
+
+332
+00:39:18,870 --> 00:39:20,870
+Oder wieder kontrollieren.
+
+333
+00:39:20,870 --> 00:39:30,870
+Dann würde ich eine Lomapunktion oder CT des Schadens veranlassen.
+
+334
+00:39:30,870 --> 00:39:39,870
+Aber ich empfehle den Patienten, wenn sie andere Beschwerden,
+
+335
+00:39:39,870 --> 00:39:49,870
+z.B. neurologische Symptome oder andere Symptome haben,
+
+336
+00:39:49,870 --> 00:39:57,870
+sie schnell in das Krankenhaus gehen.
+
+337
+00:39:57,870 --> 00:40:05,040
+Was empfehlen Sie den Patienten?
+
+338
+00:40:05,040 --> 00:40:21,040
+Ich empfehle den Patienten, lange Hose und lange Schuhe zu tragen.
+
+339
+00:40:21,040 --> 00:40:31,040
+Und wenn sie eine Sekte an der Körper bemerken,
+
+340
+00:40:31,040 --> 00:40:36,040
+schnell ins Krankenhaus gehen.
+
+341
+00:40:36,040 --> 00:40:40,040
+Empfehlen Sie bei den Patienten Sekte-Übungen?
+
+342
+00:40:40,040 --> 00:40:44,040
+Ja, der Patient gerne Wanderung.
+
+343
+00:40:44,040 --> 00:40:52,040
+Deshalb kann ich diese Patienten sehr gut empfehlen.
+
+344
+00:40:52,040 --> 00:40:56,040
+Vielen Dank, Herr Kollegen.
+
+345
+00:40:56,040 --> 00:41:01,040
+Bitte warten Sie auf uns.
+
+346
+00:41:01,040 --> 00:41:09,040
+Wir haben heute einen neuen Patienten.
+
+347
+00:41:09,040 --> 00:41:17,040
+Ich möchte Ihnen die Patienten vorstellen.
+
+348
+00:41:17,040 --> 00:41:21,040
+Haben Sie kurz Zeit für mich?
+
+349
+00:41:21,040 --> 00:41:23,040
+Ja, bitte.
+
+350
+00:41:23,040 --> 00:41:27,040
+Es handelt sich um Hanna Rohrer.
+
+351
+00:41:27,040 --> 00:41:37,040
+Sie ist 34 Jahre alt und 72 kg schwer.
+
+352
+00:41:37,040 --> 00:41:43,040
+Sie ist 1,71 Meter groß.
+
+353
+00:41:43,040 --> 00:41:49,040
+Die Patienten stellen sich heute bei uns
+
+354
+00:41:49,040 --> 00:41:55,040
+bestehende Einzelpläken am rechten Kniegelenk vor.
+
+355
+00:41:55,040 --> 00:41:57,040
+Wegen.
+
+356
+00:41:57,040 --> 00:42:02,040
+Stellt sich heute bei uns Wegen.
+
+357
+00:42:02,040 --> 00:42:05,040
+Wegen, ja Wegen. Unnoten.
+
+358
+00:42:05,040 --> 00:42:11,040
+Wegen bestehende Einzelpläken am rechten Kniegelenk vor.
+
+359
+00:42:11,040 --> 00:42:16,040
+Die Patienten bestätigen, dass sie vor fünf Tagen
+
+360
+00:42:16,040 --> 00:42:22,040
+diese Pläken nach einem langen Wandern bemerkt haben.
+
+361
+00:42:22,040 --> 00:42:33,040
+Die Pläne sind dunkelrot am Rund und hell in der Mitte.
+
+362
+00:42:33,040 --> 00:42:37,040
+Wie ein röter Ring.
+
+363
+00:42:37,040 --> 00:42:43,040
+Die Flasche ist 4 cm groß.
+
+364
+00:42:43,040 --> 00:42:48,040
+Die Patienten, die Symptome,
+
+365
+00:42:48,040 --> 00:42:54,040
+die Symptome würden mit Asteni, Mialgie,
+
+366
+00:42:54,040 --> 00:43:06,040
+Sefalgie, Polyarthralgie und Pyrexie einhergehen.
+
+367
+00:43:06,040 --> 00:43:10,040
+Die Frage nach Unfall, Schwerlungen,
+
+368
+00:43:10,040 --> 00:43:19,040
+Ukrains Blutung und Offene wurden nach Steifigkeit
+
+369
+00:43:19,040 --> 00:43:24,040
+und Stülpfrost würden verneint.
+
+370
+00:43:24,040 --> 00:43:34,040
+Die Wege hat anliegende Beschwerden früher nicht gehabt.
+
+371
+00:43:34,040 --> 00:43:53,040
+Die Einmalige von Bepenthenzalve hat keine Verbesserung gebracht.
+
+372
+00:43:53,040 --> 00:44:00,040
+Die Frage nach Säckewissen würde verneint.
+
+373
+00:44:00,040 --> 00:44:08,040
+Die Vegetative Anamnese ist unaufällig bis auf
+
+374
+00:44:08,040 --> 00:44:15,040
+Inappetenz und Insomnie.
+
+375
+00:44:15,040 --> 00:44:28,040
+Anführererkrankungen nannte sie bestehende Typ 1 Diabetes.
+
+376
+00:44:28,040 --> 00:44:37,040
+Sie hat seit acht Jahren bestehende Migräne.
+
+377
+00:44:37,040 --> 00:44:53,040
+Die Typ 1 Diabetes ist mit Insulinpumpe behandelt.
+
+378
+00:44:53,040 --> 00:45:01,040
+Sie nimmt Ibuprofen und Aspirin bei Bedarf ein.
+
+379
+00:45:01,040 --> 00:45:08,040
+Aber die Dosierung sollte geklärt werden.
+
+380
+00:45:08,040 --> 00:45:16,040
+Die Frage nach Allergie wurde verneint.
+
+381
+00:45:16,040 --> 00:45:30,040
+Die Patienten wurden eine Laistenhernie durchgeführt.
+
+382
+00:45:30,040 --> 00:45:39,580
+Die Patienten wurden eine Laistenhernie durchgeführt.
+
+383
+00:45:40,580 --> 00:45:47,580
+Die Patienten wurden eine Laistenhernie durchgeführt.
+
+384
+00:45:47,580 --> 00:45:56,580
+Die Patienten wurden eine Laistenhernie durchgeführt.
+
+385
+00:45:56,580 --> 00:46:08,580
+Sie haben seit 20 Jahren Cigarillo getrunken.
+
+386
+00:46:08,580 --> 00:46:16,580
+Sie trinken einen Tag ein Glas Wein.
+
+387
+00:46:16,580 --> 00:46:28,580
+Sie konsumieren zwei Mal Joint-Provoche.
+
+388
+00:46:28,580 --> 00:46:38,580
+Sie konsumieren zwei Mal Joint-Provoche.
+
+389
+00:46:39,580 --> 00:46:43,580
+Sie konsumieren zwei Mal Joint-Provoche.
+
+390
+00:46:43,580 --> 00:46:50,580
+Sie konsumieren zwei Mal Joint-Provoche.
+
+391
+00:46:50,580 --> 00:47:00,580
+Die Anamnese teilt, dass der Vater und die Mutter gesund sind.
+
+392
+00:47:00,580 --> 00:47:12,580
+Sie haben ein Kind, das Down-Syndrom ist.
+
+393
+00:47:12,580 --> 00:47:20,580
+Sie haben einen Regelblutung.
+
+394
+00:47:20,580 --> 00:47:27,580
+Sie haben einen Regelblutung.
+
+395
+00:47:27,580 --> 00:47:35,780
+Sie trägt regelmäßig zweimal pro Woche.
+
+396
+00:47:35,780 --> 00:47:39,980
+Sie arbeitet als Frisörin.
+
+397
+00:47:39,980 --> 00:47:46,980
+Sie leidet und wohnt alleine.
+
+398
+00:47:46,980 --> 00:47:50,580
+Sie hat keine Kinder.
+
+399
+00:47:50,580 --> 00:48:12,020
+Ich gehe jeden Tag auf Leimborelius aus, da die Patienten typische Symptome dafür ausweisen.
+
+400
+00:48:12,020 --> 00:48:22,020
+Die Patienten leiden über Eritama Migrans.
+
+401
+00:48:22,020 --> 00:48:36,020
+Sie haben Pyrexie, Asthenie, Koppschmerzen, Polyarthralgie und Mealgie.
+
+402
+00:48:36,020 --> 00:48:44,020
+Das ist die Sprit für Leimborelius.
+
+403
+00:48:44,020 --> 00:48:54,020
+Herr Kollegen, Sie haben gesagt, die Frage nach Zekawissen wurde verneint.
+
+404
+00:48:54,020 --> 00:49:01,020
+Ja, aber die Patientin hat nicht Zekawissen bemerkt.
+
+405
+00:49:01,020 --> 00:49:09,020
+Zekawissen ist unklar.
+
+406
+00:49:09,020 --> 00:49:23,020
+Als Differenzialdiagnose kommen auch Erisipel, meningitis und Imbetrach.
+
+407
+00:49:23,020 --> 00:49:36,490
+Um meine Verdachtdiagnose zu bestätigen, würde ich zunächst die Patienten vitalen Parameter überwachen.
+
+408
+00:49:36,490 --> 00:49:48,490
+Dann würde ich die Patienten körperliche und körperliche Unbefugnisse beherrschen.
+
+409
+00:49:48,490 --> 00:49:58,490
+Dann würde ich die Patienten körperliche und körperliche Unbefugnisse beherrschen.
+
+410
+00:49:58,490 --> 00:50:08,490
+Dann würde ich die Patienten körperliche und körperliche Unbefugnisse beherrschen.
+
+411
+00:50:08,490 --> 00:50:18,490
+Dann würde ich die Patienten körperliche und körperliche Unbefugnisse beherrschen.
+
+412
+00:50:19,490 --> 00:50:31,490
+Dann würde ich die Patienten körperliche und körperliche Unbefugnisse beherrschen.
+
+413
+00:50:31,490 --> 00:50:41,490
+Dann würde ich die Patienten körperliche und körperliche Unbefugnisse beherrschen.
+
+414
+00:50:41,490 --> 00:50:45,890
+um die Diagnose zu gewährleisten.
+
+415
+00:50:45,890 --> 00:51:04,490
+Dabei wurde ich kleine Blutbild-Bsg-SRP und Antikörper gegen Borreliose bestimmen lassen.
+
+416
+00:51:04,490 --> 00:51:25,490
+Danach würde ich eine CT-Schadar durchführen und mögliche Hirnblutung oder Ödeme ausschließen.
+
+417
+00:51:26,490 --> 00:51:41,490
+Dann würde ich eine Lumbar-Funktion durchführen und mögliche Meningitis ausschließen.
+
+418
+00:51:41,490 --> 00:51:54,490
+Dann würde ich eine Dermatologie anordnen und meine Therapie optimieren.
+
+419
+00:51:54,490 --> 00:52:10,490
+Sollte sich meine Verdacht-Diagnose bestätigen, würde ich die Patienten stationärer aufnehmen.
+
+420
+00:52:10,490 --> 00:52:16,490
+So würde ich einen Venous-Sugang legen.
+
+421
+00:52:16,490 --> 00:52:28,490
+Dann würde ich Flüssigkeit, Antibiotik und Antipiratik verabreichen.
+
+422
+00:52:28,490 --> 00:52:50,490
+Dann würde ich die Patienten amoxicillin, Hoctozepenicillin und Doxicillin verabreichen.
+
+423
+00:52:50,490 --> 00:53:05,490
+Wenn Sie mit dieser Vorgehenweise einverstanden sind, werde ich mit dieser geplanten Untersuchung fortfahren.
+
+424
+00:53:05,490 --> 00:53:14,490
+Herr Oberarzt, wie können wir Meningitis ausschließen?
+
+425
+00:53:14,490 --> 00:53:31,490
+Ich werde zuerst eine CT-Schadar durchführen und mögliche Hirnblutung ausschließen.
+
+426
+00:53:31,490 --> 00:53:46,490
+Wenn es keine Ausfälligkeit gibt, würde ich eine Lumbar-Funktion durchführen, um Meningitis ausschließen.
+
+427
+00:53:46,490 --> 00:54:00,490
+Dann würde ich die Patienten auf die Körperliche Untersuchung beachten, ob sie ein Kernseh- oder Brunnesseh vorlegen.
+
+428
+00:54:00,490 --> 00:54:05,490
+Herr Oberarzt, wie können Sie die Erisipel ausschließen?
+
+429
+00:54:05,490 --> 00:54:14,490
+Ich würde zuerst die Patienten auf eine kleine Lunge fragen.
+
+430
+00:54:14,490 --> 00:54:30,490
+Der Patient hat eine typische Eritermamigranz. Erisipel ist anders als Eritermamigranz.
+
+431
+00:54:30,490 --> 00:54:38,440
+Wie viel Doxicillin verabschiedet Sie?
+
+432
+00:54:38,440 --> 00:54:52,440
+Das ist 2x100 mg.
+
+433
+00:54:52,440 --> 00:54:55,440
+Ich weiß nicht, aber ich bin nicht sicher.
+
+434
+00:54:55,440 --> 00:54:57,440
+Welches ist das?
+
+435
+00:54:57,440 --> 00:55:02,440
+Das ist 2x100 mg.
+
+436
+00:55:02,440 --> 00:55:05,440
+Ist das richtig, Herr Oberarzt?
+
+437
+00:55:05,440 --> 00:55:08,440
+Ja, ich vermute es.
+
+438
+00:55:08,440 --> 00:55:10,440
+Okay.
+
+439
+00:55:10,440 --> 00:55:13,440
+2x100 mg.
+
+440
+00:55:13,440 --> 00:55:17,440
+7x100 mg.
+
+441
+00:55:17,440 --> 00:55:24,440
+Nach der Prüfung würde ich diese Nachschulagentur anbieten.
+
+442
+00:55:24,440 --> 00:55:28,440
+Okay. Vielen Dank, Herr Kollegen.
+
+443
+00:55:28,440 --> 00:55:31,440
+Meine Frage ist fertig.
+
+444
+00:55:31,440 --> 00:55:34,440
+Danke schön. Danke schön alles.
+
+445
+00:55:34,440 --> 00:55:42,440
+Aber wenn Sie möchten, möchte ich eine Dublexonographie aufklären.
+
+446
+00:55:42,440 --> 00:55:53,440
+Ja, ich würde gerne Ihnen eine Dublexonographie aufklären.
+
+447
+00:55:53,440 --> 00:56:05,440
+Die Dublexonographie ist eine Spezifische Ultraschallunterzuchtung mit der Via Blutgefäße Blutveränderungen.
+
+448
+00:56:05,440 --> 00:56:11,440
+Die Blutprobleme unter der Blut können wir unterhalten.
+
+449
+00:56:11,440 --> 00:56:23,440
+Die Blutprobleme unter der Blutveränderungen.
+
+450
+00:56:23,440 --> 00:56:26,440
+Blutgefäße veränderungen.
+
+451
+00:56:26,440 --> 00:56:29,440
+Blutgefäße veränderungen.
+
+452
+00:56:29,440 --> 00:56:39,440
+Blutgefäße veränderungen.
+
+453
+00:56:39,440 --> 00:56:49,440
+Die Unterzuchtung ist schmerzlos und ungefährlich.
+
+454
+00:56:49,440 --> 00:56:59,440
+Eine bestimmte Vorbereitung ist nicht erforderlich.
+
+455
+00:56:59,440 --> 00:57:11,440
+Dazu würde wir eine Gelbe auf die Haut tragen.
+
+456
+00:57:11,440 --> 00:57:31,440
+Die Bilder von GWB werden auf einem Monitor dargestellt.
+
+457
+00:57:31,440 --> 00:57:46,440
+Nach der Unterzuchtung sollte es keine Einschränkungen geben.
+
+458
+00:57:46,440 --> 00:57:59,440
+Der Patient kann sein Alltag wie gewohnt fortsetzen.
+
+459
+00:57:59,440 --> 00:58:11,440
+Es wird keine Nadel und Kontrastmeter benötigt.
+
+460
+00:58:11,440 --> 00:58:24,440
+In manchen Fällen können andere Unterzuchtungen stattfinden.
+
+461
+00:58:24,440 --> 00:58:44,440
+Wir werden z.B. durch die City oder MRT durchgeführt.
+
+462
+00:58:44,440 --> 00:58:54,440
+Aber das abhängig vom Krankenbilder ab.
+
+463
+00:58:54,440 --> 00:58:57,440
+Ich bin fertig.
+
+464
+00:58:57,440 --> 00:59:00,440
+Hat diese Unterzuchtung Komplikationen?
+
+465
+00:59:00,440 --> 00:59:04,440
+Ja. Duplex-Sonographie oder?
+
+466
+00:59:04,440 --> 00:59:06,440
+Duplex-Sonographie.
+
+467
+00:59:06,440 --> 00:59:14,440
+Es gibt keine Komplikation.
+
+468
+00:59:14,440 --> 00:59:17,440
+Vielen Dank.
+
+469
+00:59:17,440 --> 00:59:23,260
+Ich würde Ihnen gerne eine neue Patientin vorstellen.
+
+470
+00:59:23,260 --> 00:59:26,260
+Die ich eben in der Notaufnahme gesehen habe.
+
+471
+00:59:26,260 --> 00:59:28,260
+Hätten Sie kurz Zeit?
+
+472
+00:59:28,260 --> 00:59:30,260
+Ja bitte.
+
+473
+00:59:30,260 --> 00:59:34,260
+Ich bin Anna Röhr, eine 34-jährige Patientin.
+
+474
+00:59:34,260 --> 00:59:38,260
+Geboren am 24.9.1990.
+
+475
+00:59:38,260 --> 00:59:44,260
+1,71 Meter groß.
+
+476
+00:59:44,260 --> 00:59:48,260
+72 Kilogramm schwer.
+
+477
+00:59:48,260 --> 00:59:56,260
+Sie stellte sich seit 4 Tagen bestehender ringformiger Wirtung.
+
+478
+00:59:56,260 --> 01:00:00,260
+Im Knie links und rechts.
+
+479
+01:00:00,260 --> 01:00:02,260
+Erithema Migrans.
+
+480
+01:00:02,260 --> 01:00:04,260
+Und Fatigue.
+
+481
+01:00:04,260 --> 01:00:15,260
+Als Begleitsymptomen liegen Fibra 37,9°.
+
+482
+01:00:15,260 --> 01:00:24,260
+Sie hat gegen die Wirtung bepannte Salbe.
+
+483
+01:00:24,260 --> 01:00:28,260
+Ich empfehle Sie eine kurze Sätze.
+
+484
+01:00:28,260 --> 01:00:32,260
+Ich habe eine kurze Besa.
+
+485
+01:00:32,260 --> 01:00:40,540
+Die Patientin stellte sich heute bei uns wegen seit 4 Tagen bestehender Wirtung vor.
+
+486
+01:00:40,540 --> 01:00:47,540
+Dann der Patient peristete das die Wirtung.
+
+487
+01:00:47,540 --> 01:00:49,540
+Ich empfehle.
+
+488
+01:00:49,540 --> 01:00:51,540
+Sie stellte sich immer besser.
+
+489
+01:01:21,950 --> 01:01:23,950
+Oder zäcke.
+
+490
+01:01:43,950 --> 01:01:46,950
+Herr Kollegen, ich empfehle Sie auch.
+
+491
+01:01:46,950 --> 01:01:48,950
+Jetzt Vegetative Anamnese.
+
+492
+01:01:48,950 --> 01:01:52,950
+Dann vorerkrankungen, Medikamente, Allergie.
+
+493
+01:01:52,950 --> 01:01:54,950
+Was empfehlen Sie?
+
+494
+01:01:54,950 --> 01:01:56,950
+Vegetative Anamnese.
+
+495
+01:01:56,950 --> 01:02:00,950
+Das ist die aktuelle Anamnese.
+
+496
+01:02:00,950 --> 01:02:02,950
+Dann Vegetative Anamnese.
+
+497
+01:02:02,950 --> 01:02:07,950
+Vorerkrankungen, Voroperationen, Medikamente, Allergen.
+
+498
+01:02:07,950 --> 01:02:10,950
+Was habe ich gesagt?
+
+499
+01:02:10,950 --> 01:02:14,950
+Aktuelle Anamnese nach Familienanamnese.
+
+500
+01:02:15,950 --> 01:02:18,950
+Aktuell ist die Anamnese beendet.
+
+501
+01:02:18,950 --> 01:02:21,950
+Ich fange Vegetative Anamnese.
+
+502
+01:02:21,950 --> 01:02:26,950
+Aber Sie haben gesagt, in der Familienanamnese...
+
+503
+01:02:26,950 --> 01:02:32,330
+Entschuldigung, das ist die Lymphsuche.
+
+504
+01:02:32,330 --> 01:02:42,330
+Die Vegetative Anamnese ist unaufällig bis auf Fieber und Fieber in der Appetite.
+
+505
+01:02:42,330 --> 01:02:50,330
+Sie leidet an Diabetes mellitus Typ 1.
+
+506
+01:02:50,330 --> 01:02:56,330
+Die wurde mit Insulinpumpe behandelt.
+
+507
+01:02:56,330 --> 01:03:04,330
+Seit acht Jahren leidet sie an Migräne.
+
+508
+01:03:04,330 --> 01:03:14,330
+Sie wurde mit gegebenenfalls Ibuprofen und Acetylsalicylic Säure behandelt.
+
+509
+01:03:14,330 --> 01:03:24,330
+Bei ihr wurde wegen Inguinalherni eine Operation durchgeführt.
+
+510
+01:03:24,330 --> 01:03:31,330
+Allergien und Unverträglichkeiten sind keine bekannt.
+
+511
+01:03:31,330 --> 01:03:39,330
+Sie trinken seit zehn Jahren 15 Zigarillos täglich.
+
+512
+01:03:39,330 --> 01:03:41,330
+Trinken oder rauchen?
+
+513
+01:03:41,330 --> 01:03:47,330
+Sie rauchen seit zehn Jahren 15 Zigarillos täglich.
+
+514
+01:03:47,330 --> 01:03:52,330
+Sie trinken ein bis zwei Gläser Rotwein täglich.
+
+515
+01:03:52,330 --> 01:03:58,330
+Sie konsumieren zweimal Marihuana pro Woche.
+
+516
+01:03:58,330 --> 01:04:04,330
+Sie leidet alleine.
+
+517
+01:04:04,330 --> 01:04:14,330
+In der Familienanamnese fand sie sich bei der Schwester.
+
+518
+01:04:14,330 --> 01:04:18,330
+Sie ist vollständig geimpft.
+
+519
+01:04:18,330 --> 01:04:22,330
+Die Weiseanamnese ist unaufällig.
+
+520
+01:04:22,330 --> 01:04:26,330
+Sie war vor fünf Tagen in Frankreich.
+
+521
+01:04:26,330 --> 01:04:30,330
+Sie hat gewandert.
+
+522
+01:04:30,330 --> 01:04:34,330
+Die Frauenanamnese ist unaufällig.
+
+523
+01:04:34,330 --> 01:04:40,330
+Meine Verdachtdiagnose lautet auf Leibboreliose.
+
+524
+01:04:40,330 --> 01:04:50,330
+Dafür schiebt sich Erithemamigrans, Polyarthralgie, Fieber, Fatigue.
+
+525
+01:04:50,330 --> 01:05:05,330
+Meine Differentialdiagnostik kommt aus Erythrozypel, Prometoide, Arthritis, Meningitis.
+
+526
+01:05:05,330 --> 01:05:15,330
+In der Diagnostik würde ich bei der Patientin eine körperliche Untersuchung durchführen.
+
+527
+01:05:15,330 --> 01:05:21,330
+Im Rahmen der Untersuchung würde ich zunächst die vitalen Parameter erfassen.
+
+528
+01:05:21,330 --> 01:05:29,330
+Anschließend würde ich die Patienten inspezieren, palpieren und auskültern.
+
+529
+01:05:29,330 --> 01:05:35,330
+Bei der Inspektion beurteile ich Erithemamigrans.
+
+530
+01:05:35,330 --> 01:05:48,740
+In der weiteren Erklärung würde ich die Blutuntersuchungen oder Laboruntersuchungen durchführen,
+
+531
+01:05:48,740 --> 01:06:00,740
+um Blutbild-CEP-PSG-Antikörper gegen Novolyose zu bestimmen.
+
+532
+01:06:00,740 --> 01:06:19,620
+Um eine Novolyose auszuschließen, würde ich gegebenenfalls ein CT-Shadow durchführen.
+
+533
+01:06:19,620 --> 01:06:30,620
+Wollte sich die Verdachtdiagnose bestätigen, würde ich die Patienten stationär aufnehmen.
+
+534
+01:06:30,620 --> 01:06:44,620
+Zuerst lege ich einen Venösezugang an, um Venösetherapie zu ermöglichen.
+
+535
+01:06:44,620 --> 01:06:56,620
+Die Therapie besteht aus zwei Teilen, der Eregabekämpfung und der symptomatischen Behandlung.
+
+536
+01:06:56,620 --> 01:07:09,620
+Zur Eregabekämpfung würde ich 100 mg Doxycycline zweimal täglich verabreichen.
+
+537
+01:07:09,620 --> 01:07:19,620
+Bei Kontraindikationen würde ich Cephoroxymaxetyl oder Penicillin verabreichen.
+
+538
+01:07:19,620 --> 01:07:44,970
+Bei symptomatischen Behandlungen würde ich die Fieber senken, Antipyretikum und ausreichende Flüssigkeit zuführen.
+
+539
+01:07:44,970 --> 01:08:01,970
+Um einen Meningitis auszuschließen, würde ich eine körperliche Untersuchung durchführen.
+
+540
+01:08:01,970 --> 01:08:11,970
+Bei der körperlichen Untersuchung achte ich auf Brutski und Kennigzeichen.
+
+541
+01:08:11,970 --> 01:08:18,970
+Zu weiteren Abklärungen würde ich Lumbar Funktion durchführen.
+
+542
+01:08:18,970 --> 01:08:23,970
+Können Sie uns die Lumbar Funktion aufklären?
+
+543
+01:08:23,970 --> 01:08:43,970
+Lumbar Funktion ist eine diagnostische Methode, bei der wir mit einer feinen Nadelnadelnadelnadelnadeln
+
+544
+01:08:43,970 --> 01:08:48,970
+die Rückenmarkflüssigkeit entnehmen.
+
+545
+01:08:48,970 --> 01:09:03,970
+Wir beurteilen Zellen, z.B. Lokositwerte, Glukoswerte und Eiweiß.
+
+546
+01:09:03,970 --> 01:09:18,970
+Die Patienten sollten sitzen und ruhig bleiben.
+
+547
+01:09:18,970 --> 01:09:36,970
+Wir können im Bereich der Lindenwerbelsäule zwischen L4 und L5 entnehmen.
+
+548
+01:09:36,970 --> 01:09:52,760
+Das ist eine Schmerzhefte Methode. Wir können Beruhigungsmittel oder Lokalanesthesie buchen.
+
+549
+01:09:52,760 --> 01:09:57,760
+Braucht man Vorbereitung oder empfehlen Sie nach der Untersuchung?
+
+550
+01:09:57,760 --> 01:10:12,760
+Das braucht nicht Vorbereitung. Nach dem Verfahren kann man normales Lindenwerf machen.
+
+551
+01:10:12,760 --> 01:10:16,760
+Der Patient kann sein Alltag wie gewohnt fortsetzen.
+
+552
+01:10:16,760 --> 01:10:24,760
+Ich empfehle bei der Patientin viel Wasser trinken, um Sefalliere zu vermeiden.
+
+553
+01:10:24,760 --> 01:10:27,760
+Danke, Herr Oberarzt.
+
+554
+01:10:27,760 --> 01:10:34,740
+Wie können Sie die Erisipel ausschließen?
+
+555
+01:10:34,740 --> 01:10:40,740
+Bei der Inspektion können wir die Erisipel ausschließen.
+
+556
+01:10:40,740 --> 01:10:49,740
+Erithemamigrans ist eine ringformige Rotung.
+
+557
+01:10:49,740 --> 01:11:08,740
+Wir erwarten, dass es bei der Erisipel überwärmt wird.
+
+558
+01:11:08,740 --> 01:11:17,010
+Was ist der Unterschied zwischen Erisipel und Erithemamigrans?
+
+559
+01:11:17,010 --> 01:11:22,010
+Er ist überwärmt und hat eine rote Art.
+
+560
+01:11:22,010 --> 01:11:25,010
+Eine rote Rote?
+
+561
+01:11:25,010 --> 01:11:33,700
+Ja, bei einer Erisipel könnte es eine offene Rote sein.
+
+562
+01:11:33,700 --> 01:11:42,560
+Was empfehlen Sie bei der Patientin nach der Behandlung?
+
+563
+01:11:42,560 --> 01:12:11,080
+Nach der Behandlung empfehle ich den Patienten, wenn er wieder eine neurologische Symptome oder Arthralgie hat, eine Kontrolluntersuchung.
+
+564
+01:12:11,080 --> 01:12:14,080
+Regelmäßig beim Hausarzt besuchen?
+
+565
+01:12:14,080 --> 01:12:18,080
+Nicht regelmäßig, aber bei der Versorgung.
+
+566
+01:12:18,080 --> 01:12:20,080
+Impfung?
+
+567
+01:12:20,080 --> 01:12:29,080
+Es gibt keine Impfung gegen Leimborgeliose oder FMSE.
+
+568
+01:12:29,080 --> 01:12:40,080
+Aber wenn Sie im endemischen Bereich wohnen, empfehle ich Ihnen eine Impfung.
+
+569
+01:12:40,080 --> 01:12:44,080
+Ist diese Krankheit meldepflicht?
+
+570
+01:12:44,080 --> 01:12:50,080
+Ja, diese Krankheit ist meldepflicht. Wir müssen sie mitteilen.
+
+571
+01:12:50,080 --> 01:12:54,080
+Welche Amte melden Sie?
+
+572
+01:12:54,080 --> 01:12:58,450
+Landrassamt.
+
+573
+01:12:58,450 --> 01:13:00,450
+Gesundheitshamt?
+
+574
+01:13:00,450 --> 01:13:07,450
+Das ist in Landrassamten.
+
+575
+01:13:07,450 --> 01:13:12,450
+Ich habe alle wichtigen Fragen gestellt.

@@ -1,0 +1,1523 @@
+1
+00:00:02,640 --> 00:00:11,140
+Guten Tag, mein Name ist Bulur. Ich bin die Disabler der Ärztin auf der Station und würde gerne das erste Gespräch mit Ihnen führen.
+
+2
+00:00:11,140 --> 00:00:13,140
+Ist das in Ordnung für Sie?
+
+3
+00:00:13,140 --> 00:00:15,140
+Ja, natürlich.
+
+4
+00:00:15,140 --> 00:00:24,640
+Ok. So als würde ich ein paar Fragen zu Ihrer Person stellen, dann direkt zu Ihren aktuellen Beschwerden übergehen.
+
+5
+00:00:24,640 --> 00:00:28,640
+Wie heißen Sie denn?
+
+6
+00:00:28,640 --> 00:00:30,640
+Mein Name ist Müller.
+
+7
+00:00:30,640 --> 00:00:34,640
+Mein Name ist Huba.
+
+8
+00:00:34,640 --> 00:00:36,640
+Huba?
+
+9
+00:00:36,640 --> 00:00:38,640
+Ja.
+
+10
+00:00:38,640 --> 00:00:40,640
+Herr Huba?
+
+11
+00:00:40,640 --> 00:00:42,640
+Ja, wirklich.
+
+12
+00:00:42,640 --> 00:00:45,640
+Könnten Sie Ihren Namen für Ihren Beschwerden nennen?
+
+13
+00:00:45,640 --> 00:00:55,640
+Müller M-U-L-E-R, Huba H-U-B-E-R.
+
+14
+00:00:55,640 --> 00:00:57,640
+Ok, Huba.
+
+15
+00:00:57,640 --> 00:01:01,640
+Herr Huba, wie alt sind Sie?
+
+16
+00:01:01,640 --> 00:01:05,640
+Ich bin 45, Frau Doktor.
+
+17
+00:01:05,640 --> 00:01:07,640
+45?
+
+18
+00:01:07,640 --> 00:01:09,640
+Wann sind Sie geboren?
+
+19
+00:01:09,640 --> 00:01:14,640
+1. März 1980.
+
+20
+00:01:14,640 --> 00:01:22,640
+Ok. Und wissen Sie, wie groß Sie sind?
+
+21
+00:01:23,640 --> 00:01:28,640
+Ja, ich bin 1.69 Meter.
+
+22
+00:01:28,640 --> 00:01:30,640
+60?
+
+23
+00:01:30,640 --> 00:01:31,640
+Ja.
+
+24
+00:01:31,640 --> 00:01:33,640
+Ok. Und wie viel wiegen Sie?
+
+25
+00:01:33,640 --> 00:01:37,640
+Ja, ich wiege 65.
+
+26
+00:01:37,640 --> 00:01:39,640
+65? Ok.
+
+27
+00:01:39,640 --> 00:01:41,640
+Ja.
+
+28
+00:01:41,640 --> 00:01:45,640
+Wie heißt Ihr Hausarzt oder Ihre Hausärztin?
+
+29
+00:01:45,640 --> 00:01:51,640
+Meine Hausärztin heißt Herr Wolfgang.
+
+30
+00:01:51,640 --> 00:01:55,640
+Herr Wolfgang?
+
+31
+00:01:55,640 --> 00:01:59,640
+Könnten Sie diesen Namen durchstellen?
+
+32
+00:01:59,640 --> 00:02:02,640
+W-O-N-F-G-A-N-G.
+
+33
+00:02:02,640 --> 00:02:05,640
+G-A-N-G, ok. Wolfgang.
+
+34
+00:02:05,640 --> 00:02:09,640
+Vielen Dank für diese Informationen Herr Huba.
+
+35
+00:02:09,640 --> 00:02:13,640
+Und was für Sie heute so? Was sind Ihre Beschwerden?
+
+36
+00:02:14,640 --> 00:02:19,640
+Frau Doktor, ich habe Bauchschmerzen. Seit zwei Wochen habe ich Bauchschmerzen.
+
+37
+00:02:19,640 --> 00:02:22,640
+Aber ich habe gewartet.
+
+38
+00:02:22,640 --> 00:02:26,640
+Ich hatte zuerst Durchfall.
+
+39
+00:02:26,640 --> 00:02:33,640
+Dann habe ich etwas Joghurt und Kartoffeln gegessen.
+
+40
+00:02:33,640 --> 00:02:35,640
+Um mich zu verbessern.
+
+41
+00:02:35,640 --> 00:02:41,640
+Aber mein Bauchschmerzen ist leider schlimm geworden.
+
+42
+00:02:41,640 --> 00:02:45,640
+Seit zwei Tagen ist es sehr schlimm.
+
+43
+00:02:45,640 --> 00:02:49,640
+Ich kann es nicht ertragen. Deswegen besuche ich Sie.
+
+44
+00:02:49,640 --> 00:02:56,140
+Ok. Haben Sie Schmerzen jetzt?
+
+45
+00:02:56,140 --> 00:03:00,140
+Ja, ich habe Schmerzen, Frau Doktor. Deswegen komme ich.
+
+46
+00:03:00,140 --> 00:03:05,140
+Ok. Wo genau sind Ihre Schmerzen?
+
+47
+00:03:05,140 --> 00:03:09,140
+Ich fühle mich besonders im Unterbau.
+
+48
+00:03:09,140 --> 00:03:11,140
+Unterbau?
+
+49
+00:03:11,140 --> 00:03:15,140
+Aber ich fühle mich im Ganzbau.
+
+50
+00:03:15,140 --> 00:03:20,140
+Ok. Strahlen Sie diese Schmerzen irgendwo hinaus?
+
+51
+00:03:20,140 --> 00:03:24,140
+Ja, ganzbau. Ich strahle ganzbau auf.
+
+52
+00:03:24,140 --> 00:03:31,140
+Ok. Wie stark sind Ihre Schmerzen auf einer Schmerzskala von 1-10?
+
+53
+00:03:31,140 --> 00:03:35,140
+Jetzt oder am Anfang?
+
+54
+00:03:35,140 --> 00:03:40,140
+Jetzt. Vielleicht 6 oder 7. Das ist nicht sehr schlimm, aber schlimm.
+
+55
+00:03:40,140 --> 00:03:52,140
+Ok. Können Sie Ihre Schmerzen bis zum Ende des Gesprächs heraushalten?
+
+56
+00:03:52,140 --> 00:03:55,140
+Oder brauchen Sie ein Schmerzbett?
+
+57
+00:03:55,140 --> 00:03:59,140
+Ja. Wie viele Minuten dauert das Gespräch?
+
+58
+00:03:59,140 --> 00:04:02,140
+Ja, es dauert ca. 15 Minuten.
+
+59
+00:04:02,140 --> 00:04:06,140
+Ok. 15 Minuten egal. Kann ich warten?
+
+60
+00:04:07,140 --> 00:04:18,140
+Ok. Herr Hüva, sind diese Schmerzen langsam aufgetreten oder plötzlich?
+
+61
+00:04:18,140 --> 00:04:21,140
+Ja, für zwei Wochen habe ich sie.
+
+62
+00:04:21,140 --> 00:04:25,140
+Erst war es nicht schlimm, langsam anzupacken.
+
+63
+00:04:25,140 --> 00:04:32,140
+Dann in der Laufzeit verschlimmert.
+
+64
+00:04:32,140 --> 00:04:38,140
+Ok. Denken Sie, dass es eine bestimmte Auslöser für diese Schmerzen gibt?
+
+65
+00:04:38,140 --> 00:04:41,140
+Ja. Was meinen Sie?
+
+66
+00:04:41,140 --> 00:04:48,140
+Zum Beispiel einige essen Alkohol oder Bewerbung.
+
+67
+00:04:48,140 --> 00:04:52,140
+Ja, ich habe alles gewöhnlich gegessen.
+
+68
+00:04:52,140 --> 00:04:56,140
+Ich bin sehr sportlich, trinke keinen Alkohol, keine Zigarette.
+
+69
+00:04:56,140 --> 00:05:00,140
+Deswegen denke ich, gibt es keinen Auslöser.
+
+70
+00:05:00,140 --> 00:05:13,140
+Ok. Oder kann ich fragen, gibt es eine bestimmte Auslöser für die Schmerzen?
+
+71
+00:05:13,140 --> 00:05:17,140
+Verstärken oder verschlimmert? Bewerbung, Kollegen?
+
+72
+00:05:17,140 --> 00:05:22,140
+Ja, normalerweise treibe ich sehr oft Sport.
+
+73
+00:05:22,140 --> 00:05:25,140
+Aber ich kann nicht jetzt Sport treiben.
+
+74
+00:05:25,140 --> 00:05:31,140
+Wenn ich schlafe, fühle ich die Schmerzen nicht.
+
+75
+00:05:31,140 --> 00:05:44,140
+Ich muss nicht sehr oft laufen oder mit Bewerbung verschlimmert.
+
+76
+00:05:44,140 --> 00:05:51,140
+Ok. Können Sie die Schmerzen beschreiben?
+
+77
+00:05:51,140 --> 00:05:57,140
+Sind die Schmerzen über die Hände oder die Hände dünn?
+
+78
+00:05:57,140 --> 00:06:07,140
+Ja, ich denke, dass es dunn ist. Schmerzen ist dunn und im Ganzen.
+
+79
+00:06:07,140 --> 00:06:20,140
+Fühlen Sie sich voll und aufgebläht? Oder haben Sie Blähungen?
+
+80
+00:06:20,140 --> 00:06:23,140
+Ein bisschen, aber nicht schlimm.
+
+81
+00:06:23,140 --> 00:06:26,140
+Ok.
+
+82
+00:06:26,140 --> 00:06:30,140
+Haben Sie jetzt Durfall?
+
+83
+00:06:30,140 --> 00:06:38,140
+Ja, normalerweise gehe ich zum Klo, wenn ich Stullgang einmal pro zwei Tage mache.
+
+84
+00:06:38,140 --> 00:06:45,140
+Aber am Anfang hatte ich dreimal zum Klo gegangen.
+
+85
+00:06:45,140 --> 00:06:49,140
+Jetzt aber einmal oder zweimal.
+
+86
+00:06:49,140 --> 00:06:55,140
+Mein Stull ist wassrig und cremig.
+
+87
+00:06:55,140 --> 00:07:00,140
+Aber Farbveränderung habe ich nicht bemerkt.
+
+88
+00:07:00,140 --> 00:07:08,140
+Das ist wie Braun. Aber es ist wassrig.
+
+89
+00:07:08,140 --> 00:07:16,140
+Ist Ihnen ein unangenehmer Geruch mit Ihrem Stull?
+
+90
+00:07:16,140 --> 00:07:20,140
+Nein, nicht.
+
+91
+00:07:20,140 --> 00:07:29,680
+Sind die Schmerzen gut für mich?
+
+92
+00:07:29,680 --> 00:07:33,680
+Wie gut für mich?
+
+93
+00:07:33,680 --> 00:07:41,680
+Sind die Schmerzen in Ihren Rücken strahlen?
+
+94
+00:07:41,680 --> 00:07:47,680
+Nein, das ist im Bauch, unter dem Bauch und im Ganzen.
+
+95
+00:07:47,680 --> 00:07:50,680
+Haben Sie Fieber?
+
+96
+00:07:50,680 --> 00:07:55,680
+Ja, ich fühle mich fieberlich, aber ich habe meine Fieber nicht gemessen.
+
+97
+00:07:55,680 --> 00:08:03,540
+Ok. Und haben Sie Nachschweiß oder Schütterfrost?
+
+98
+00:08:03,540 --> 00:08:07,540
+Nein, Frau Doktor, das habe ich nicht.
+
+99
+00:08:07,540 --> 00:08:14,540
+Ok. Haben Sie in letzter Zeit ungewöhnlich abgenommen?
+
+100
+00:08:14,540 --> 00:08:23,540
+Ja, Frau Doktor, ich habe innerhalb von zwei Monaten 5 Kilo abgenommen.
+
+101
+00:08:23,540 --> 00:08:28,540
+Ok, ich bin sportlich, aber ich esse normalerweise gut.
+
+102
+00:08:28,540 --> 00:08:34,540
+Aber ich habe ungewöhnlich abgenommen. Weiß ich nicht warum.
+
+103
+00:08:34,540 --> 00:08:40,540
+Aber Ihr Appetit ist gut?
+
+104
+00:08:40,540 --> 00:08:47,540
+Ja, ich habe kein Problem mit dem Essen. Ich esse alles, Frau Doktor, besonders.
+
+105
+00:08:47,540 --> 00:08:50,540
+Ok. Schlafen Sie gut?
+
+106
+00:08:50,540 --> 00:08:54,540
+Nein, ich kann seit zwei Monaten nicht gut schlafen.
+
+107
+00:08:54,540 --> 00:09:02,540
+Ich habe keine Probleme beim Durchschlafen. In einer Stunde kann ich schlafen.
+
+108
+00:09:02,540 --> 00:09:06,540
+Haben Sie Stress?
+
+109
+00:09:06,540 --> 00:09:16,540
+Ja, ich fühle mich stressig und nervös. Das weiß ich nicht warum.
+
+110
+00:09:16,540 --> 00:09:21,540
+Vielleicht wegen der Arbeit.
+
+111
+00:09:21,540 --> 00:09:28,540
+Haben Sie Hüsten oder Atemnot?
+
+112
+00:09:28,540 --> 00:09:39,150
+Atemnot? Manchmal fühle ich Atemnot, aber Hüsten habe ich nicht.
+
+113
+00:09:39,150 --> 00:09:44,150
+Hüsten nicht, aber manchmal haben Sie Atemnot. Warum?
+
+114
+00:09:44,150 --> 00:09:49,150
+Manchmal fühle ich schlecht zu atmen.
+
+115
+00:09:49,150 --> 00:10:04,150
+Ok. Ist Ihnen ein Vergroßungsgefühl im Bauch aufgefallen?
+
+116
+00:10:04,150 --> 00:10:06,150
+Im Bauch?
+
+117
+00:10:06,150 --> 00:10:17,150
+Ja, im Bauch. Haben Sie ein Vergroßungsgefühl oder Schwellung?
+
+118
+00:10:17,150 --> 00:10:22,150
+Ich habe keine Schwellung, aber ich fühle mich ein wenig mit Druck.
+
+119
+00:10:22,150 --> 00:10:28,150
+Ich habe Schmerzen und kann meinen Bauch nicht berühren.
+
+120
+00:10:28,150 --> 00:10:36,150
+Wenn ich tief berühre, fühle ich Schmerzen. Das ist ein Druckgefühl, oder?
+
+121
+00:10:36,150 --> 00:10:46,150
+Ich meine eine Vollfärbung, besonders links und rechts.
+
+122
+00:10:46,150 --> 00:10:48,150
+Nein, habe ich nicht bemerkt.
+
+123
+00:10:48,150 --> 00:10:55,150
+Ok. Haben Sie Herzrasen, Herzklopfen oder Herzstorfen?
+
+124
+00:10:55,150 --> 00:11:00,150
+Ja, letztes Mal fühle ich mein Herz in meinem Hals.
+
+125
+00:11:00,150 --> 00:11:07,150
+Ich höre immer mein Herz klopfen. Ist das normal?
+
+126
+00:11:07,150 --> 00:11:13,150
+Normalerweise höre ich nicht, aber seit zwei Monaten höre ich mein Herz klopfen.
+
+127
+00:11:13,150 --> 00:11:21,150
+Das ist nicht normal, denke ich. Das stört mich. Ich fühle mich immer.
+
+128
+00:11:21,150 --> 00:11:30,150
+Ok. Ich suche diese Probleme auch.
+
+129
+00:11:30,150 --> 00:11:35,150
+Haben Sie Probleme beim Wasser essen?
+
+130
+00:11:35,150 --> 00:11:39,150
+Nein, habe ich kein Problem beim Wasser essen.
+
+131
+00:11:39,150 --> 00:11:52,150
+Ok. Herr Hüba, ist Ihnen eine irgendwelche kürzere Erkrankung bekannt?
+
+132
+00:11:52,150 --> 00:12:02,150
+Ja, vor zwei Monaten, als ich in meinem Hausarzt war,
+
+133
+00:12:02,150 --> 00:12:07,150
+hat mein Hausarzt mir gesagt, dass ich Bluthochdruck habe,
+
+134
+00:12:07,150 --> 00:12:16,150
+aber er hat mir keine Medikamente gegeben. Er hat mir empfohlen, Sport zu treiben und Diät zu machen.
+
+135
+00:12:16,150 --> 00:12:33,150
+Seit zwei Monaten treibe ich Sport, aber auch Salzarm essen.
+
+136
+00:12:33,150 --> 00:12:42,150
+Aber ich weiß nicht, wie mein Hochdruck ist. Ich habe in Nester seit nicht gemessen.
+
+137
+00:12:42,150 --> 00:12:47,150
+Ok. Noch etwas?
+
+138
+00:12:47,150 --> 00:12:59,150
+Ich habe keine anderen Erkrankungen. Ich bin ganz gesund. Ich trinke nicht, ich rauche nicht, ich treibe Sport, ich bin jung.
+
+139
+00:12:59,150 --> 00:13:12,150
+Aber die Arbeit ist sehr stressig. Ich streite immer mit meinen Kollegen seit drei Monaten.
+
+140
+00:13:12,150 --> 00:13:21,150
+Ich bin Immobilienmakler und die Arbeit ist stressig. Zu Hause habe ich auch Stress.
+
+141
+00:13:21,150 --> 00:13:38,140
+Manchmal streite ich mit meiner Frau und sie hat mir gesagt, dass ich ein bisschen aggressiv bin in letzter Zeit. Aber ich weiß nicht warum.
+
+142
+00:13:38,140 --> 00:13:51,140
+Ok. Ich verstehe. Sie haben Bluthochdruck und eine aggressive Stimmung.
+
+143
+00:13:51,140 --> 00:14:04,140
+Sie haben gesagt, Sie arbeiten in einer Immobilienmakler.
+
+144
+00:14:04,140 --> 00:14:09,140
+Ich miete und kaufe Haus. Verstehe Sie?
+
+145
+00:14:09,140 --> 00:14:19,140
+Ja, ich verstehe. Und sind Sie verheiratet? Haben Sie Kinder?
+
+146
+00:14:19,140 --> 00:14:23,140
+Ja, ich habe eine gesunde Kindheit.
+
+147
+00:14:23,140 --> 00:14:29,140
+Ok. Sehr gut. Haben Sie irgendwelche Allergien?
+
+148
+00:14:29,140 --> 00:14:32,140
+Ich habe keine Allergien.
+
+149
+00:14:32,140 --> 00:14:36,140
+Ok. Sehr gut. Sind Sie vollständig geübt?
+
+150
+00:14:36,140 --> 00:14:41,140
+Ja, Frau Doktor. Das ist wichtig für mich, gesund zu sein.
+
+151
+00:14:41,140 --> 00:14:49,140
+Ok. Das ist eine Routine-Mesik-Frage.
+
+152
+00:14:49,140 --> 00:14:55,140
+Bitte nehmen Sie mit, Parzali. Hatten Sie jemals Kontakt mit Drogen?
+
+153
+00:14:55,140 --> 00:14:58,140
+Nein, Frau Doktor. Niemals.
+
+154
+00:14:58,140 --> 00:15:05,140
+Ok. Und Sie haben gesagt, Sie treiben regelmäßig Sport. Was machen Sie?
+
+155
+00:15:05,140 --> 00:15:12,140
+Ich treibe gerne, ich schwimme gerne. Aber seit zwei Wochen kann ich nicht.
+
+156
+00:15:12,140 --> 00:15:15,140
+Wegen meiner Bauchschmerzen kann ich nicht.
+
+157
+00:15:15,140 --> 00:15:25,140
+Ok. Ja, ich verstehe. Gibt es in Ihrer Familie irgendwelche chronische Erkrankungen?
+
+158
+00:15:25,140 --> 00:15:32,140
+Bei der Mutter oder bei der Mutter?
+
+159
+00:15:32,140 --> 00:15:40,140
+Meine Frau leidet an Brustkrebs und behandelt heutzutage mit Chemotherapie.
+
+160
+00:15:40,140 --> 00:15:43,140
+Ok. Das tut mir sehr leid.
+
+161
+00:15:43,140 --> 00:15:50,140
+Aber mein Vater ist ganz gesund und mein Bruder ist auch ganz gesund.
+
+162
+00:15:50,140 --> 00:15:55,140
+Ok. Mutter? Aber Ihre Mutter oder Ihre Frau?
+
+163
+00:15:55,140 --> 00:16:01,140
+Meine Mutter leidet an Brustkrebs und behandelt Brustkrebs.
+
+164
+00:16:01,140 --> 00:16:05,140
+Und behandelt mit Chemotherapie.
+
+165
+00:16:05,140 --> 00:16:09,140
+Chemotherapie. Ok.
+
+166
+00:16:09,140 --> 00:16:19,140
+Nehmen Sie regelmäßig Medikamente ein? Sie haben keine Medikamente?
+
+167
+00:16:19,140 --> 00:16:24,140
+Nein, ich nehme keine Medikamente.
+
+168
+00:16:24,140 --> 00:16:27,140
+Ok. Wurden Sie schon einmal operiert?
+
+169
+00:16:27,140 --> 00:16:31,140
+Nein, ich wurde nicht operiert.
+
+170
+00:16:31,140 --> 00:16:37,140
+Ok. Ich habe meine ...
+
+171
+00:16:37,140 --> 00:16:46,140
+Haben Sie manchmal rote Gesicht?
+
+172
+00:16:46,140 --> 00:16:54,140
+Ja, meine Frau ist mit rote Gesicht aufgefallen.
+
+173
+00:16:54,140 --> 00:17:01,140
+Sie hat mir gesagt, dass ich gerötet wurde in Nesterzeit.
+
+174
+00:17:01,140 --> 00:17:06,140
+Aber ich fühle mich nicht. Ich fühle mich heiß.
+
+175
+00:17:06,140 --> 00:17:13,140
+Ich habe ein heißes Gefühl. Und ich fühle mich warm und fieberig.
+
+176
+00:17:13,140 --> 00:17:19,140
+Meine Hände, Füße fühlen mich heiß.
+
+177
+00:17:19,140 --> 00:17:24,140
+Aber ich weiß nicht, ob ich Fieber habe.
+
+178
+00:17:24,140 --> 00:17:30,140
+Meine Frau hat mir gesagt, dass ich rote Gesicht habe.
+
+179
+00:17:30,140 --> 00:17:33,140
+Aber weiß ich nicht.
+
+180
+00:17:33,140 --> 00:17:40,140
+Herr Fieber, ich habe keine weitere Frage.
+
+181
+00:17:40,140 --> 00:17:46,140
+Möchten Sie etwas hinzufügen? Oder haben Sie Fragen an mich?
+
+182
+00:17:46,140 --> 00:17:51,140
+Frau Doktor, ich habe Angst.
+
+183
+00:17:51,140 --> 00:17:57,140
+Mein Kollege ist wegen Darmkrebs gestorben.
+
+184
+00:17:57,140 --> 00:18:01,140
+Ich habe auch Bauchschmerzen.
+
+185
+00:18:01,140 --> 00:18:06,140
+Deswegen habe ich Angst, einen Tumor zu haben.
+
+186
+00:18:06,140 --> 00:18:11,140
+Was kann ich haben? Was vermuten Sie? Was soll ich machen?
+
+187
+00:18:12,140 --> 00:18:16,140
+Herr Fieber, bitte machen Sie sich keine Sorgen.
+
+188
+00:18:16,140 --> 00:18:19,140
+Ich denke, das ist keine Kräfte.
+
+189
+00:18:19,140 --> 00:18:24,140
+Aber das ist nur eine Vermutung.
+
+190
+00:18:24,140 --> 00:18:28,140
+Das ist nur eine Vermutung.
+
+191
+00:18:28,140 --> 00:18:35,140
+Um eine Notkedeagnose zu stellen, müssen wir ein paar Untersuchungen durchführen.
+
+192
+00:18:35,140 --> 00:18:43,140
+Deshalb gibt es leider noch keine Antwort.
+
+193
+00:18:43,140 --> 00:18:51,140
+Ich werde die Kontakte untersuchen und einige Laborparameter verlassen.
+
+194
+00:18:51,140 --> 00:18:56,140
+Dann werden wir mit meinem Obersprache sprechen.
+
+195
+00:18:56,140 --> 00:19:04,140
+Ich kann Ihnen alles sagen.
+
+196
+00:19:04,140 --> 00:19:13,140
+Ich möchte Sie bitten, noch ein wenig Geduld zu haben.
+
+197
+00:19:13,140 --> 00:19:21,140
+Führen Sie bei mir Darmspiegelung, Frau Doktor?
+
+198
+00:19:21,140 --> 00:19:29,140
+Ja, Darmspiegelung kann möglich sein.
+
+199
+00:19:29,140 --> 00:19:35,140
+Aber ich möchte eine Sonographie, einen Ultraschall machen.
+
+200
+00:19:35,140 --> 00:19:43,140
+Ich denke, wir können eine CT oder MRT machen.
+
+201
+00:19:43,140 --> 00:19:46,140
+Sind Sie schmerzlos?
+
+202
+00:19:46,140 --> 00:19:54,140
+Nein, alle Schmerzen sind schmerzlos.
+
+203
+00:19:54,140 --> 00:20:01,140
+Das dauert ca. 20 Minuten.
+
+204
+00:20:01,140 --> 00:20:08,140
+Ich werde Sie schrittweise informieren.
+
+205
+00:20:08,140 --> 00:20:12,140
+Vielen Dank, Frau Doktor.
+
+206
+00:20:13,140 --> 00:20:26,350
+Guten Tag, Herr Oberarzt. Ich möchte Ihnen einen neuen Patienten vorstellen.
+
+207
+00:20:26,350 --> 00:20:32,350
+Der Patient heißt Emile Huber.
+
+208
+00:20:32,350 --> 00:20:43,350
+Er ist 45 Jahre alt, 1,69 m groß und wiegt 5,60 kg.
+
+209
+00:20:43,350 --> 00:20:48,350
+Herr Huber steht heute bei uns.
+
+210
+00:20:48,350 --> 00:20:54,350
+Seit zwei Wochen ist er in der Sonne.
+
+211
+00:20:54,350 --> 00:21:05,350
+Er hat die Schmerzen und Strahlung.
+
+212
+00:21:05,350 --> 00:21:12,350
+Die Schmerzen sind langsam aufgetreten.
+
+213
+00:21:12,350 --> 00:21:18,350
+Er hat sich mit der Zeit verschlimmert.
+
+214
+00:21:18,350 --> 00:21:27,350
+Der Patient berichtete keine bestimmten Auslöser.
+
+215
+00:21:27,350 --> 00:21:36,350
+Die Schmerzintensität liegt von 8 bis 10.
+
+216
+00:21:36,350 --> 00:21:42,350
+Bei 6 bis 10.
+
+217
+00:21:42,350 --> 00:21:47,350
+Auf einer Schmerzkala.
+
+218
+00:21:47,350 --> 00:22:01,350
+Die Bewegung verschlechtert die Schmerzen.
+
+219
+00:22:01,350 --> 00:22:16,350
+Der Patient berichtet über eine Stimmung.
+
+220
+00:22:16,350 --> 00:22:26,350
+Der Patient fühlt sich stressig, nervös, aggressiv.
+
+221
+00:22:26,350 --> 00:22:38,350
+Seit zwei Wochen berichtet er über Wasser und Krämer.
+
+222
+00:22:38,350 --> 00:22:44,350
+Und Fleisch am Gesicht.
+
+223
+00:22:44,350 --> 00:22:52,350
+Er fühlt sich aus wie Füße.
+
+224
+00:22:52,350 --> 00:23:04,350
+Er berichtete, dass er ausfüllen und warm ist.
+
+225
+00:23:04,350 --> 00:23:12,350
+Er hat die Temperatur nicht gemessen.
+
+226
+00:23:12,350 --> 00:23:28,350
+In der vegetative Anamnese ergeben sich Schmerzstörungen.
+
+227
+00:23:28,350 --> 00:23:44,350
+Er hat eine Gewichtsuhrabnahme von 5 kg in 2 Monaten.
+
+228
+00:23:44,350 --> 00:23:54,350
+Gewichtverlust von 4 kg innerhalb von 2 Wochen.
+
+229
+00:23:54,350 --> 00:24:06,350
+Der Patient hat eine Gewichtsuhrabnahme von 5 kg in 2 Wochen.
+
+230
+00:24:06,350 --> 00:24:26,350
+Der Patient hat eine Gewichtsuhrabnahme von 5 kg innerhalb von 2 Monaten.
+
+231
+00:24:26,350 --> 00:24:38,350
+Er hat eine Gewichtsuhrabnahme von 5 kg in 2 Wochen.
+
+232
+00:24:38,350 --> 00:24:50,350
+Er hat keine Medikamente gegen Arteriella hypertonik.
+
+233
+00:24:50,350 --> 00:24:58,350
+Er hat keine Medikamente gegen Arteriella hypertonik.
+
+234
+00:24:58,350 --> 00:25:06,350
+Bei dem Patienten wurde keine Operation durchgeführt.
+
+235
+00:25:06,350 --> 00:25:18,300
+Er ist nicht rauh und trinkt keinen Alkohol.
+
+236
+00:25:18,300 --> 00:25:24,300
+Er hat keine Alkohol und Drogenkonsum.
+
+237
+00:25:24,300 --> 00:25:32,300
+Er trinkt keinen Alkohol und Drogenkonsum.
+
+238
+00:25:32,300 --> 00:25:40,300
+Er trinkt keinen Alkohol und Drogenkonsum.
+
+239
+00:25:40,300 --> 00:25:48,300
+Er trinkt keinen Alkohol und Drogenkonsum.
+
+240
+00:25:48,300 --> 00:26:06,320
+Die Familie Anamnese zeigt uns, dass ihr Vater gesund ist.
+
+241
+00:26:06,320 --> 00:26:24,320
+Ich habe ihn bei der Chemotherapie behandelt.
+
+242
+00:26:24,320 --> 00:26:30,320
+Er hat keine Medikamente.
+
+243
+00:26:30,320 --> 00:26:38,320
+Er hat keine bekannten Allergien.
+
+244
+00:26:38,320 --> 00:26:44,320
+Er ist vollständig geübt.
+
+245
+00:26:44,320 --> 00:26:56,320
+Er arbeitet als Mobiliamakler.
+
+246
+00:26:56,320 --> 00:27:04,320
+Er ist verheiratet, dass er Kinder hat.
+
+247
+00:27:04,320 --> 00:27:12,320
+Er hat einen Anamnest, der sich an den Echsten aufreißt.
+
+248
+00:27:12,320 --> 00:27:16,320
+Er hat einen Anamnest, der sich an den Echsten aufreißt.
+
+249
+00:27:16,320 --> 00:27:24,320
+Er ist verheiratet, dass er Kinder hat.
+
+250
+00:27:24,320 --> 00:27:32,320
+Er ist verheiratet, dass er Kinder hat.
+
+251
+00:27:32,320 --> 00:27:38,320
+Er hat einen Anamnest, der sich an den Echsten aufreißt.
+
+252
+00:27:38,320 --> 00:27:49,700
+Um die Abklärung der Beschwerden sollten die folgenden Maßnahmen durchgeführt werden.
+
+253
+00:27:49,700 --> 00:27:58,700
+Zuerst werde ich meinen Patienten körperlich untersuchen.
+
+254
+00:27:58,700 --> 00:28:20,930
+Bei der körperlichen Untersuchung achte ich darauf, ob es eine Hautveränderung gibt.
+
+255
+00:28:20,930 --> 00:28:46,530
+Und ob es eine Herzklopenstörung vorhanden ist.
+
+256
+00:29:16,530 --> 00:29:31,530
+Und ob es eine Herzklopenstörung gibt.
+
+257
+00:29:31,530 --> 00:29:55,620
+Und ob es eine Abklärung vorhanden ist.
+
+258
+00:29:55,620 --> 00:30:15,620
+Und ob es eine Herzklopenstörung vorhanden ist.
+
+259
+00:30:15,620 --> 00:30:25,620
+Und ob es eine Herzklopenstörung vorhanden ist.
+
+260
+00:30:25,620 --> 00:30:53,150
+Und als operativen Untersuchung würde ich eine ultrasonographische Sonographie durchführen.
+
+261
+00:30:53,150 --> 00:31:13,150
+Und um die möglichen Abdommepathologien zu bestätigen.
+
+262
+00:31:13,150 --> 00:31:21,150
+Und um die möglichen Abdommepathologien zu bestätigen.
+
+263
+00:31:21,150 --> 00:31:41,150
+Und um die möglichen Abdommepathologien zu bestätigen.
+
+264
+00:31:41,150 --> 00:32:01,150
+Und um die möglichen Abdommepathologien zu bestätigen.
+
+265
+00:32:01,150 --> 00:32:21,150
+Und um die möglichen Abdommepathologien zu bestätigen.
+
+266
+00:32:21,150 --> 00:32:43,520
+Und um die möglichen Abdommepathologien zu bestätigen.
+
+267
+00:32:43,520 --> 00:33:03,520
+Und um die möglichen Abdommepathologien zu bestätigen.
+
+268
+00:33:03,520 --> 00:33:11,520
+Sie sagen immer, MRT des Abdomens oder MRT des Abdomen, MRT des Beins.
+
+269
+00:33:11,520 --> 00:33:31,520
+Ich würde eine MRT des Abdomens veranlassen um eine andere Karzinom auszuschließen.
+
+270
+00:33:31,520 --> 00:33:42,280
+Würden Sie in diesem Fall PET-City durchführen?
+
+271
+00:33:42,280 --> 00:34:02,280
+Ja, ich würde eine PET-City durchführen um die Metastasen zu beherbergen.
+
+272
+00:34:02,280 --> 00:34:18,280
+Und eine Eko-Kardiographie ist sinnvoll um eine kardiologische Komplikation zu alscheren.
+
+273
+00:34:18,280 --> 00:34:26,280
+In diesem Fall ist die Apparatusdiagnostik sehr wichtig.
+
+274
+00:34:26,280 --> 00:34:31,280
+Und?
+
+275
+00:34:31,280 --> 00:34:34,280
+Und PET-City.
+
+276
+00:34:34,280 --> 00:34:35,280
+Und?
+
+277
+00:34:35,280 --> 00:34:37,280
+KG.
+
+278
+00:34:37,280 --> 00:34:39,280
+Und?
+
+279
+00:34:39,280 --> 00:34:42,280
+Gansendarm von innen untersuchen?
+
+280
+00:34:42,280 --> 00:34:47,680
+Synthographie, meinen Sie?
+
+281
+00:34:47,680 --> 00:34:48,680
+Nein?
+
+282
+00:34:48,680 --> 00:34:50,680
+Von innen.
+
+283
+00:34:50,680 --> 00:34:52,680
+Ultraschall?
+
+284
+00:34:52,680 --> 00:34:54,680
+Von innen.
+
+285
+00:34:55,680 --> 00:34:58,680
+Eine Biopsie? Nein?
+
+286
+00:34:58,680 --> 00:35:02,680
+Von innen untersuchen.
+
+287
+00:35:02,680 --> 00:35:04,680
+Von innen.
+
+288
+00:35:04,680 --> 00:35:06,680
+Innen, wie kann ich das sagen?
+
+289
+00:35:06,680 --> 00:35:08,680
+Gansendarm von innen untersuchen.
+
+290
+00:35:08,680 --> 00:35:11,680
+Ah, Koloskopie. Ja, Sie meinen.
+
+291
+00:35:11,680 --> 00:35:13,680
+Ja, ok.
+
+292
+00:35:15,680 --> 00:35:19,680
+Müssen wir eine Koloskopie durchführen?
+
+293
+00:35:19,680 --> 00:35:22,960
+Ja.
+
+294
+00:35:22,960 --> 00:35:24,960
+Ok.
+
+295
+00:35:25,960 --> 00:35:30,960
+Und können Sie uns eine Koloskopie aufklären?
+
+296
+00:35:30,960 --> 00:35:37,960
+Koloskopie ist eine Darm-Spiegelung.
+
+297
+00:35:37,960 --> 00:35:43,220
+Ja.
+
+298
+00:35:43,220 --> 00:35:49,220
+Koloskopie ist eine Darm-Spiegelung und...
+
+299
+00:35:49,220 --> 00:35:57,780
+Wir können mit Hilfe dieser Untersuchung Gansendarm von innen untersuchen.
+
+300
+00:35:57,780 --> 00:35:59,780
+Ja, ok.
+
+301
+00:35:59,780 --> 00:36:15,780
+Mit Hilfe der Koloskopie können wir Gansendarm beurteilen.
+
+302
+00:36:15,780 --> 00:36:17,780
+Gansendarm von innen?
+
+303
+00:36:17,780 --> 00:36:23,780
+Ja, Gansendarm beurteilen.
+
+304
+00:36:23,780 --> 00:36:35,780
+Für diese Untersuchung müssen die Patienten mindestens acht Stunden nach dem Keren.
+
+305
+00:36:35,780 --> 00:36:41,780
+Die Tätigkeitsbitte empfiehlt uns, der Patient soll vor der Untersuchung acht Stunden nüchtern sein.
+
+306
+00:36:41,780 --> 00:36:43,780
+Soll. Muss.
+
+307
+00:36:43,780 --> 00:36:45,780
+Soll, nicht muss. Ok. Soll.
+
+308
+00:36:45,780 --> 00:36:49,780
+Aber muss soll.
+
+309
+00:36:49,780 --> 00:37:04,780
+Der Patient soll vor der Untersuchung acht Stunden, sechs Stunden nach dem Keren sein.
+
+310
+00:37:04,780 --> 00:37:08,780
+Nach dem Trinken.
+
+311
+00:37:08,780 --> 00:37:10,780
+Nach dem Trinken.
+
+312
+00:37:38,780 --> 00:37:50,780
+Vor der Untersuchung am Morgen zweitmal ein Liter Wasser trinken.
+
+313
+00:37:50,780 --> 00:38:02,780
+Der Patient darf essen nicht, aber Wasser trinken erlaubt.
+
+314
+00:38:02,780 --> 00:38:04,780
+Ok.
+
+315
+00:38:04,780 --> 00:38:09,780
+Das ist kompliziert, aber nicht einfach.
+
+316
+00:38:09,780 --> 00:38:14,780
+Diese Unterrichtung macht den Patienten.
+
+317
+00:38:14,780 --> 00:38:20,780
+Ja, ich möchte fragen, der Patient muss...
+
+318
+00:38:20,780 --> 00:38:24,780
+Der Patient kann heute erst am Morgen nur einen leichten Frühstück machen.
+
+319
+00:38:24,780 --> 00:38:27,780
+Der Patient trinkt abends ein Liter Wasser.
+
+320
+00:38:27,780 --> 00:38:29,780
+Am Morgen trinkt er ein Liter Wasser.
+
+321
+00:38:29,780 --> 00:38:34,780
+Vor dem Versuch wird er vier Stunden vor dem Keren ausgemacht.
+
+322
+00:38:34,780 --> 00:38:42,780
+Der Patient muss sechs Stunden vor dem Keren auf der Endoskopie aufhören, oder etwas trinken.
+
+323
+00:38:42,780 --> 00:38:46,780
+Aber das ist etwas anders als bei Koloskopien.
+
+324
+00:38:47,780 --> 00:38:52,780
+Das ist schwierig zu sagen, aber der Patient kann einen Tag vorher frühessen.
+
+325
+00:38:52,780 --> 00:38:56,780
+Dann kann er nichts essen, aber er trinkt viel Wasser.
+
+326
+00:38:56,780 --> 00:39:00,780
+Er nutzt ein bisschen Nudeln, um die Koloneinheit zu verhindern.
+
+327
+00:39:00,780 --> 00:39:10,780
+Ok. Und der Patient kann diese Untersuchung...
+
+328
+00:39:10,780 --> 00:39:16,780
+Ein bisschen unangenehm sein, schmerzfrei.
+
+329
+00:39:16,780 --> 00:39:23,780
+Nein, diese Untersuchung ist nicht schmerzfrei.
+
+330
+00:39:23,780 --> 00:39:34,780
+Deshalb kann der Patient ein paar Beruhigungsmittel oder Ganzenarkos.
+
+331
+00:39:34,780 --> 00:39:38,780
+Ja, unter Narkos.
+
+332
+00:39:38,780 --> 00:39:45,780
+Diese Untersuchung durchführt unter Narkos oder...
+
+333
+00:39:45,780 --> 00:39:51,780
+Wir sagen einfach, wir geben dem Patienten leichte Schlafmittel.
+
+334
+00:39:51,780 --> 00:39:54,780
+Leichte Schlafmittel, ja.
+
+335
+00:39:54,780 --> 00:39:58,780
+Leichte Schlafmittel.
+
+336
+00:39:58,780 --> 00:40:11,780
+Ok. Nach der Untersuchung empfehle ich nicht alleine bleiben.
+
+337
+00:40:11,780 --> 00:40:19,780
+Nach der Untersuchung darf der Patient keine wichtigen Sachen machen.
+
+338
+00:40:19,780 --> 00:40:27,780
+Nach der Untersuchung darf der Patient keine wichtigen Sachen machen.
+
+339
+00:40:27,780 --> 00:40:32,780
+Habt ihr diese Noten, was ihr habt?
+
+340
+00:40:32,780 --> 00:40:37,780
+Ich habe diese Aufklärung normalerweise in die Gruppe geschickt.
+
+341
+00:40:37,780 --> 00:40:41,780
+Aufklärung ist ein anderes Dossier.
+
+342
+00:40:41,780 --> 00:40:45,780
+Das muss in unserer WhatsApp-Gruppe sein.
+
+343
+00:40:45,780 --> 00:40:48,780
+Es gibt 8 wichtige Fragen.
+
+344
+00:40:48,780 --> 00:40:53,780
+Wenn ihr diese Fragen beantwortet, ist das Ende.
+
+345
+00:40:53,780 --> 00:41:00,780
+Was ist das? Wie ist das? Was ist das für ein Problem?
+
+346
+00:41:00,780 --> 00:41:05,780
+Ich habe etwas verstanden.
+
+347
+00:41:05,780 --> 00:41:09,780
+Es gibt 8 wichtige Fragen.
+
+348
+00:41:09,780 --> 00:41:13,780
+Das ist die Oberar-Summe.
+
+349
+00:41:13,780 --> 00:41:25,780
+Wenn ihr die Summe-Stratege ist, könnt ihr die ersten 2 Sätze erklären.
+
+350
+00:41:25,780 --> 00:41:27,780
+Ok.
+
+351
+00:41:27,780 --> 00:41:31,780
+Ich habe etwas verstanden, aber es gibt noch nicht die Sätze.
+
+352
+00:41:31,780 --> 00:41:35,780
+Die Kuloskopie hat eine schwierige Darstellung.
+
+353
+00:41:35,780 --> 00:41:39,780
+Wenn ihr die erste Sätze der Vorbereitung verbreitet,
+
+354
+00:41:39,780 --> 00:41:41,780
+ist die andere Sätze die gleiche.
+
+355
+00:41:41,780 --> 00:41:45,780
+Aber die Vorbereitung ist etwas anders als die anderen.
+
+356
+00:41:45,780 --> 00:41:49,780
+Wir können ein leichtes Frühstück machen.
+
+357
+00:41:49,780 --> 00:41:54,780
+Der Patient darf Wasser trinken.
+
+358
+00:41:54,780 --> 00:42:00,780
+Am Abend vor dem Unter- suchungstag soll der Patient
+
+359
+00:42:00,780 --> 00:42:05,780
+auf Vermitteln und 1 Liter Wasser trinken.
+
+360
+00:42:05,780 --> 00:42:10,780
+Am Morgen soll der Patient auf Vermitteln
+
+361
+00:42:10,780 --> 00:42:14,780
+und 1 Liter Wasser trinken.
+
+362
+00:42:14,780 --> 00:42:20,420
+Ok.
+
+363
+00:42:20,420 --> 00:42:26,420
+Ich kann euch meine Anleitungen schicken.
+
+364
+00:42:26,420 --> 00:42:31,420
+Ich habe kein Dose für die Gruppe, da ich neu in die Gruppe bin.
+
+365
+00:42:31,420 --> 00:42:34,420
+Ich schicken euch die Anleitungen.
+
+366
+00:42:35,420 --> 00:42:39,420
+Wenn du die ersten Sätze beobachtest,
+
+367
+00:42:39,420 --> 00:42:42,420
+wie ich es gesagt habe,
+
+368
+00:42:42,420 --> 00:42:46,420
+die ersten Sätze,
+
+369
+00:42:46,420 --> 00:42:51,420
+die Grundsatz ist wichtig.
+
+370
+00:42:51,420 --> 00:42:55,420
+Was wir sagen müssen,
+
+371
+00:42:55,420 --> 00:42:58,420
+was wir sagen müssen,
+
+372
+00:42:58,420 --> 00:43:01,420
+wenn du das in deinem Kopf hast, ist es besser.
+
+373
+00:43:01,420 --> 00:43:05,420
+Das ist die erste Sätze.
+
+374
+00:43:05,420 --> 00:43:09,420
+Ich habe auch schon etwas gemacht.
+
+375
+00:43:09,420 --> 00:43:12,420
+Wenn du das aktiv machst,
+
+376
+00:43:12,420 --> 00:43:16,420
+ist es besser.
+
+377
+00:43:16,420 --> 00:43:19,420
+Ja.
+
+378
+00:43:19,420 --> 00:43:23,420
+Ich schaue mal.
+
+379
+00:43:23,420 --> 00:43:26,420
+Ich schaue mal.
+
+380
+00:43:26,420 --> 00:43:29,420
+Ich schaue mal.
+
+381
+00:43:29,420 --> 00:43:32,420
+Ich schaue mal.

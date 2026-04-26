@@ -1,0 +1,1187 @@
+1
+00:00:00,000 --> 00:00:10,000
+Guten Tag, mein Name ist Bulur. Ich bin die Di's Talbende Erstin auf der Station und würde gerne das erste Gespräch mit Ihnen führen. Ist das in Ordnung für Sie?
+
+2
+00:00:10,000 --> 00:00:12,000
+Ja, natürlich Frau Doktor.
+
+3
+00:00:12,000 --> 00:00:26,000
+Ok, zuerst werde ich ein paar Fragen zu Ihrer Person stellen. Dann können wir Ihre aktuellen Beschwerden übergehen. Und wie heißen Sie?
+
+4
+00:00:26,000 --> 00:00:28,000
+Ja, ich bin Helga Schmidt.
+
+5
+00:00:28,000 --> 00:00:30,000
+Helga Schmidt.
+
+6
+00:00:30,000 --> 00:00:32,000
+Ja.
+
+7
+00:00:32,000 --> 00:00:36,000
+Frau Schmidt, könnten Sie Ihren Vornamen und Nachricht bestabieren?
+
+8
+00:00:36,000 --> 00:00:40,000
+Ja, Helga Schmidt mit H-E-L-G-A.
+
+9
+00:00:40,000 --> 00:00:46,000
+F-T-H-M-I-D-T.
+
+10
+00:00:46,000 --> 00:00:50,000
+I-D-T. Ok. Wie alt sind Sie?
+
+11
+00:00:50,000 --> 00:00:54,000
+Ja, ich bin ungefähr 45.
+
+12
+00:00:54,000 --> 00:00:58,000
+Ok. Wann sind Sie genau geboren?
+
+13
+00:00:58,000 --> 00:01:02,000
+5. Mai 1980.
+
+14
+00:01:02,000 --> 00:01:04,000
+Ok.
+
+15
+00:01:04,000 --> 00:01:06,000
+Ich bin geboren.
+
+16
+00:01:06,000 --> 00:01:10,000
+Wissen Sie, wie groß Sie sind?
+
+17
+00:01:10,000 --> 00:01:16,000
+Ja, ungefähr 1 Meter 67.
+
+18
+00:01:16,000 --> 00:01:20,000
+Ok. Und wie viel wiegen Sie?
+
+19
+00:01:20,000 --> 00:01:24,000
+Ja Frau Doktor, zwei und 70 Kilogramm.
+
+20
+00:01:24,000 --> 00:01:32,000
+Ok. Wie heißt Ihre Hausarztin?
+
+21
+00:01:32,000 --> 00:01:42,000
+Ja, meine Hausarztin heißt Föller.
+
+22
+00:01:42,000 --> 00:01:46,000
+Ja, Föller. Herr Föller.
+
+23
+00:01:46,000 --> 00:01:50,000
+Mit double L, mit double L, Föller.
+
+24
+00:01:50,000 --> 00:01:52,000
+Ja, mit Doppel L.
+
+25
+00:01:52,000 --> 00:02:02,000
+Ok. Und sind Sie gesetzlich oder privat gesetzlich?
+
+26
+00:02:02,000 --> 00:02:08,000
+Ja, ich habe AOK Versicherung.
+
+27
+00:02:08,000 --> 00:02:16,000
+Ok. Danke schön für diese Informationen Frau Schmidt.
+
+28
+00:02:16,000 --> 00:02:18,000
+Und was für Sie heute so?
+
+29
+00:02:18,000 --> 00:02:26,000
+Ja Frau Doktor, habe ich jetzt starke Bauchschmerzen.
+
+30
+00:02:26,000 --> 00:02:36,000
+Es ist schlimm geworden seit zwei Tagen, aber seit zwei Wochen habe ich Bauchschmerzen.
+
+31
+00:02:36,000 --> 00:02:44,000
+Aber heute kann ich nicht ertragen.
+
+32
+00:02:44,000 --> 00:02:50,000
+Ok, Sie haben Bauchschmerzen. Wo genau sind Ihre Schmerzen?
+
+33
+00:02:50,000 --> 00:02:56,000
+Vielleicht im Mittel- oder Oberbauch.
+
+34
+00:02:56,000 --> 00:03:01,980
+Oberbauch, linke oder rechte Seite?
+
+35
+00:03:01,980 --> 00:03:07,980
+Mit Mittel- und Oberbauch. Nicht rechts, nicht links.
+
+36
+00:03:07,980 --> 00:03:21,980
+Ok. Mit Oberbauch. Sie haben gesagt, dass Sie seit zwei Wochen diese Schmerzen gehabt haben.
+
+37
+00:03:21,980 --> 00:03:29,980
+Und gibt es eine bestimmte Auslösung für Ihre Schmerzen?
+
+38
+00:03:29,980 --> 00:03:39,980
+Meine Schmerzen haben allmählich angefangen. Langsam.
+
+39
+00:03:39,980 --> 00:03:51,980
+Aber ich habe bemerkt, dass meine Schmerzen nach Alkohol trinken oder Gewürz essen begonnen sind.
+
+40
+00:03:51,980 --> 00:03:57,980
+Und seit dem Verlauf der Zeit verschlimmert.
+
+41
+00:03:57,980 --> 00:04:09,980
+Ok. Haben Sie ähnliche Beschwerden vor zwei Wochen gehabt?
+
+42
+00:04:09,980 --> 00:04:16,100
+Nein, das ist das erste Mal Frau Doktor.
+
+43
+00:04:16,100 --> 00:04:26,100
+Ok. Haben Sie bemerkt, was diese Schmerzen verstärkt oder lindert bis auf Essen oder Alkohol?
+
+44
+00:04:26,100 --> 00:04:32,100
+Zum Beispiel Bewegung oder Lageabhängung?
+
+45
+00:04:32,100 --> 00:04:40,100
+Nein, Lage oder Bewegung abhängig nicht. Aber mit Essen meine Schmerzen verschlimmert.
+
+46
+00:04:40,100 --> 00:04:46,100
+Deswegen esse ich nicht seit zwei Tagen. Ich kann nicht essen.
+
+47
+00:04:46,100 --> 00:04:52,100
+Seit zwei Tagen habe ich sehr schlimme Schmerzen.
+
+48
+00:04:52,100 --> 00:04:58,100
+Ok. Haben Sie auch Übelkeit oder Erbrechen?
+
+49
+00:04:58,100 --> 00:05:08,100
+Ja, ich habe Übelkeit. Seit zwei oder drei Tagen habe ich Übelkeit. Aber ich habe mich nicht übergeben.
+
+50
+00:05:08,100 --> 00:05:14,100
+Ok. Haben Sie Probleme beim Wasserlösen oder Stuhlgang?
+
+51
+00:05:14,100 --> 00:05:24,100
+Ja, beim Wasserlösen ist ganz normal. Aber ich habe Verstopfung Frau Doktor. Aber das ist lange geübt.
+
+52
+00:05:24,100 --> 00:05:30,100
+Lange geübt? Ok. Wann war Ihre Letztes Stuhl?
+
+53
+00:05:30,100 --> 00:05:34,100
+Das war vor zwei Tagen denke ich.
+
+54
+00:05:34,100 --> 00:05:43,700
+Ok. Haben Sie auch Foliegefühl oder Foliegefühl?
+
+55
+00:05:43,700 --> 00:05:51,700
+Ja, ich habe Foliegefühl. Ich fühle Hunger.
+
+56
+00:05:51,700 --> 00:05:57,700
+Foliegefühl habe ich.
+
+57
+00:05:57,700 --> 00:06:05,700
+Sehr selten, aber manchmal fühle ich Sauerkäse im Mund. Aber das ist sehr selten.
+
+58
+00:06:05,700 --> 00:06:17,700
+Ok. Haben Sie ein Druckgefühl im Bauch?
+
+59
+00:06:17,700 --> 00:06:25,700
+Ja, ich habe Blödsinn. Deswegen fühle ich Druckgefühl manchmal.
+
+60
+00:06:25,700 --> 00:06:37,700
+Aber mein Schmerz ist wie krampfartig. Manchmal kommt, manchmal geht weg. Und das ist viel leid.
+
+61
+00:06:37,700 --> 00:06:59,700
+Wie stark sind Ihre Schmerzen auf einer Schmerzskala von 1 bis 10? Wobei ein sehr lafter 10 sehr starkes Schmerzen entspricht?
+
+62
+00:06:59,700 --> 00:07:17,700
+Ja, jetzt oder gestern? Jetzt. Jetzt ist es stark. Ich denke 7. Aber wenn mein Schmerzen angefangen hat, war es vielleicht 2 oder 3. Und jetzt 7.
+
+63
+00:07:17,700 --> 00:07:27,700
+Ok. Könnten Sie Ihre Schmerzen bis zum Ende des Gesprächs aushalten oder brauchen Sie einen Schmerzmittel?
+
+64
+00:07:27,700 --> 00:07:33,700
+Wie viele Minuten oder Stunden dauert unser Gespräch, Frau Doktor?
+
+65
+00:07:33,700 --> 00:07:37,700
+Unser Gespräch dauert ca. 10 Minuten.
+
+66
+00:07:37,700 --> 00:07:43,700
+Ja, ich kann das ertragen. Ich kann warten bis zum Ende.
+
+67
+00:07:43,700 --> 00:07:49,700
+Ok. Haben Sie Goldbrennen auch?
+
+68
+00:07:49,700 --> 00:07:53,700
+Ja, habe ich Goldbrennen auch. Sie haben recht.
+
+69
+00:07:53,700 --> 00:07:57,700
+Ok. Haben Sie Hüsten oder Atemnot?
+
+70
+00:07:57,700 --> 00:08:09,700
+Nein, habe ich keine Hüsten oder keine Atemnot. Aber mein Schmerz ist wie etwas brennendes Schmerz.
+
+71
+00:08:09,700 --> 00:08:15,700
+Ok. Haben Sie Schmerzen im Brust auch?
+
+72
+00:08:15,700 --> 00:08:19,700
+Nein, ich habe keine Schmerzen im Brustkorb.
+
+73
+00:08:19,700 --> 00:08:27,700
+Nicht im Brustkorb, unter dem Oberbauch.
+
+74
+00:08:27,700 --> 00:08:35,700
+Ok. Haben Sie Herzrasen, Herzstorben oder Herzkloven?
+
+75
+00:08:35,700 --> 00:08:39,700
+Nein, habe ich keine.
+
+76
+00:08:39,700 --> 00:08:43,700
+Schmerzen Sie auch an einem anderen Körper?
+
+77
+00:08:43,700 --> 00:08:53,700
+Ja, ich habe ein bisschen Rücken, aber ich habe Oberbauch und Rücken.
+
+78
+00:08:53,700 --> 00:08:55,700
+Ok.
+
+79
+00:08:55,700 --> 00:09:04,940
+Ich habe einen Brustkorb, aber niemand hat meinen Oberbauch.
+
+80
+00:09:04,940 --> 00:09:12,940
+Ok. Ihre Schmerzen sind brennende, bohrende, krampfartige Schmerzen.
+
+81
+00:09:12,940 --> 00:09:14,940
+Ja, Sie haben recht, Frau Doktor.
+
+82
+00:09:14,940 --> 00:09:18,940
+Ok. Schlafen Sie gut?
+
+83
+00:09:18,940 --> 00:09:30,940
+Seit zwei Tagen kann ich nicht schlafen, Frau Doktor. Wegen Magenschmerzen oder Bauchschmerzen kann ich nicht schlafen.
+
+84
+00:09:30,940 --> 00:09:38,940
+Ok. Haben Sie Ihre Ernährung in Lessezeit umgestellt?
+
+85
+00:09:38,940 --> 00:09:50,940
+Ja, ich esse immer gleich Ernährung und trinke ab und zu natürlich Alkohol, aber ich habe nicht geändert.
+
+86
+00:09:50,940 --> 00:09:58,940
+Ok. Könnten Sie etwas vor der Benes gegessen haben?
+
+87
+00:09:58,940 --> 00:10:16,940
+Vor der Benes gegessen? Nein, ich esse immer im Kanton bei der Arbeit und zu Hause koche ich selbst und immer esse ich frisches Essen.
+
+88
+00:10:16,940 --> 00:10:22,940
+Ok. Haben Sie irgendwelche chronischen Erkrankungen?
+
+89
+00:10:22,940 --> 00:10:26,940
+Ja, was meinen Sie mit chronischen Erkrankungen?
+
+90
+00:10:26,940 --> 00:10:32,940
+Ich habe Bluthochdruck, Zuckerkrankung ...
+
+91
+00:10:32,940 --> 00:10:38,940
+Ja, ich habe Bluthochdruck seit 10 Jahren.
+
+92
+00:10:38,940 --> 00:10:40,940
+Ok. Und was?
+
+93
+00:10:40,940 --> 00:10:48,940
+Ich habe Migräne seit 5 Jahren und habe manchmal sehr stark Rückenschmerzen.
+
+94
+00:10:48,940 --> 00:10:58,940
+Und ich habe auch mal eine Art Schatmea gesagt, die ich diskutieren möchte.
+
+95
+00:10:58,940 --> 00:11:02,940
+Seit wann haben Sie Rückenschmerzen?
+
+96
+00:11:02,940 --> 00:11:08,940
+Seit vielleicht 7 Jahren habe ich manchmal Rückenschmerzen.
+
+97
+00:11:08,940 --> 00:11:12,940
+Ok. Was haben Sie regelmäßig mitgekommen?
+
+98
+00:11:12,940 --> 00:11:16,940
+Wenn ich Schmerzen habe, nehme ich Ibuprofen ab und zu.
+
+99
+00:11:16,940 --> 00:11:20,940
+Welche Dose haben Sie?
+
+100
+00:11:20,940 --> 00:11:24,940
+Ja, vielleicht 500 mg.
+
+101
+00:11:24,940 --> 00:11:26,940
+Ok.
+
+102
+00:11:26,940 --> 00:11:38,940
+Und ich nehme Ramiplil regelmäßig morgens 5 mg. Und wenn ich Kopfschmerzen habe, nehme ich Kryptan.
+
+103
+00:11:38,940 --> 00:11:47,500
+Ok. Wurden Sie schon einmal operiert?
+
+104
+00:11:47,500 --> 00:12:05,070
+Ja, einmal wurde ich operiert, weil meine Gebärmutter entfand.
+
+105
+00:12:05,070 --> 00:12:07,070
+Ok.
+
+106
+00:12:07,070 --> 00:12:09,070
+Mit 38 Jahren.
+
+107
+00:12:10,800 --> 00:12:20,800
+Ich hatte unregelmäßige Blutung. Deswegen besuchte ich meine Frau Arztin und sofort hat sie mich operiert.
+
+108
+00:12:20,800 --> 00:12:26,800
+Ich weiß nicht, ob das korrekt war oder falsch, aber meine Gebärmutter ist weg.
+
+109
+00:12:26,800 --> 00:12:30,800
+Ich war sehr traurig.
+
+110
+00:12:30,800 --> 00:12:34,800
+Ja, das war eine schwierige Situation.
+
+111
+00:12:34,800 --> 00:12:38,800
+Und brauchen Sie Frasch mit?
+
+112
+00:12:38,800 --> 00:12:44,800
+Ja, ich rauche gerne, Frau Doktor. 10 Zigaretten pro Tag.
+
+113
+00:12:44,800 --> 00:12:54,800
+10 Zigaretten pro Tag rauche ich. Ich habe viel Stress, Frau Doktor. Rauchen geht mir gut.
+
+114
+00:12:54,800 --> 00:13:00,800
+Ok. Was machen Sie wirklich? Warum haben Sie so viel Stress?
+
+115
+00:13:00,800 --> 00:13:08,800
+Ich arbeite als Stadtbeamter im Landratsamt. Deswegen habe ich sehr viel Stress.
+
+116
+00:13:08,800 --> 00:13:12,800
+Ich trinke sehr oft Kaffee beim Arbeit.
+
+117
+00:13:12,800 --> 00:13:20,720
+3 oder 4 Gläser Kaffee trinke ich.
+
+118
+00:13:20,720 --> 00:13:22,720
+Trinken Sie Alkohol?
+
+119
+00:13:22,720 --> 00:13:28,720
+Ab und zu. Ja, als habe ich gesagt, ab und zu trinke ich.
+
+120
+00:13:28,720 --> 00:13:30,720
+2 Gläser Wein manchmal.
+
+121
+00:13:30,720 --> 00:13:34,720
+2 Gläser Wein, einmal oder zweimal pro Woche.
+
+122
+00:13:34,720 --> 00:13:38,720
+Ein oder zweimal. Ok.
+
+123
+00:13:38,720 --> 00:13:44,930
+Hatten Sie jemals Kontakt mit Drogen?
+
+124
+00:13:44,930 --> 00:13:52,930
+Ja, als ich im Gymnasium war, hatte ich 2 oder 3 Mal Joint geraucht.
+
+125
+00:13:52,930 --> 00:13:57,040
+Joint?
+
+126
+00:13:57,040 --> 00:14:05,040
+Ja, das war Marihuana. Wissen Sie schon?
+
+127
+00:14:05,040 --> 00:14:11,040
+Ich habe keine Erfahrung mit Marihuana.
+
+128
+00:14:11,040 --> 00:14:15,040
+Ich verstehe Sie. Ok.
+
+129
+00:14:15,040 --> 00:14:23,040
+Haben Sie irgendeine Allergie?
+
+130
+00:14:23,040 --> 00:14:33,040
+Ich habe Nusse Allergie. Wenn ich Nusse esse, habe ich Yukreis.
+
+131
+00:14:33,040 --> 00:14:39,040
+Ok. Sind Sie vollständig geimpft?
+
+132
+00:14:39,040 --> 00:14:47,040
+Ja, vollständig. Kinderkrankheit oder Corona?
+
+133
+00:14:47,040 --> 00:14:49,040
+Alle Impfungen bekommen.
+
+134
+00:14:49,040 --> 00:14:51,040
+Ok.
+
+135
+00:14:51,040 --> 00:14:57,040
+Waren Sie in den letzten 6 Monaten im Ausland?
+
+136
+00:14:57,040 --> 00:14:59,040
+Nein, nein, war ich nicht.
+
+137
+00:14:59,040 --> 00:15:03,040
+Ok. Sind Sie verheiratet Frau Schmidt?
+
+138
+00:15:03,040 --> 00:15:05,040
+Ja, ich bin verheiratet.
+
+139
+00:15:05,040 --> 00:15:07,040
+Haben Sie Kinder?
+
+140
+00:15:07,040 --> 00:15:09,040
+Ja, ich habe 2 Kinder.
+
+141
+00:15:09,040 --> 00:15:11,040
+Ok. Sind Sie gesund?
+
+142
+00:15:11,040 --> 00:15:17,040
+Gott sei Dank, sie sind gesund. Aber manchmal streiten wir mit meinem Mann.
+
+143
+00:15:17,040 --> 00:15:21,040
+Deswegen habe ich auch Stress zu Hause.
+
+144
+00:15:21,040 --> 00:15:25,040
+Ok, ich verstehe.
+
+145
+00:15:25,040 --> 00:15:31,040
+Und gibt es in Ihrer Familie chronische Erkrankungen?
+
+146
+00:15:31,040 --> 00:15:35,040
+Mein Vater ist ganz gesund, ich kann sagen.
+
+147
+00:15:35,040 --> 00:15:43,040
+Gesunder Alkohol. Aber meine Mutter hat Zuckerkrankheit.
+
+148
+00:15:43,040 --> 00:15:45,040
+Und?
+
+149
+00:15:45,040 --> 00:15:49,040
+Typ 2 oder Typ 1?
+
+150
+00:15:49,040 --> 00:15:53,040
+Seit 20 Jahren hat sie aber ich weiß nicht ob.
+
+151
+00:15:53,040 --> 00:15:57,040
+Typ 1 oder Typ 2? Ich weiß nicht.
+
+152
+00:15:57,040 --> 00:16:05,040
+Und hat sie einen Hirninfarkt erlitten. Vor 5 Jahren.
+
+153
+00:16:05,040 --> 00:16:07,040
+Vor 5 Jahren?
+
+154
+00:16:07,040 --> 00:16:12,460
+Ja.
+
+155
+00:16:12,460 --> 00:16:14,460
+Ok. Haben Sie Geschwister?
+
+156
+00:16:14,460 --> 00:16:18,460
+Ich habe einen Bruder.
+
+157
+00:16:18,460 --> 00:16:24,460
+Ist er gesund? Oder hat er eine Erkrankung?
+
+158
+00:16:24,460 --> 00:16:28,460
+Er ist gesund, aber hat vielleicht Bluthochdruck.
+
+159
+00:16:28,460 --> 00:16:43,700
+Ok. Frau Schmidt, ich habe meine aller wichtigen Fragen gestellt.
+
+160
+00:16:43,700 --> 00:16:51,700
+Möchten Sie etwas hinzufügen? Oder haben Sie Fragen an mich?
+
+161
+00:16:51,700 --> 00:16:57,700
+Ja, Frau Doktor. Habe ich sehr stark Bauchschmerzen.
+
+162
+00:16:57,700 --> 00:17:03,700
+Kann das Magenkrebs sein? Oder?
+
+163
+00:17:03,700 --> 00:17:11,700
+Ok. Frau Schmidt, ich verstehe Sie wissen was Sie haben.
+
+164
+00:17:11,700 --> 00:17:17,700
+Sie wissen was Sie haben. Aber Ihre Beschwerden können viele Ursachen haben.
+
+165
+00:17:17,700 --> 00:17:27,700
+Und bitte Sie sollten nicht nur an die schlimmsten Fälle denken.
+
+166
+00:17:27,700 --> 00:17:33,700
+Im Moment gibt es keinen Grund für Angst.
+
+167
+00:17:33,700 --> 00:17:43,700
+Auch unser Team ist sehr qualifiziert und hat viel Erfahrung.
+
+168
+00:17:43,700 --> 00:17:53,700
+Wir machen alle nötigen Untersuchungen. Und dann schauen wir weiter.
+
+169
+00:17:53,700 --> 00:17:58,700
+Welche Untersuchungen?
+
+170
+00:17:58,700 --> 00:18:02,700
+Ich möchte die Körperlichung untersuchen.
+
+171
+00:18:02,700 --> 00:18:06,700
+Dann Blutabnehmen.
+
+172
+00:18:06,700 --> 00:18:15,700
+Dann würde ich eine Abdomenultraschall-Ferran lassen.
+
+173
+00:18:15,700 --> 00:18:25,700
+Wenn ich alle Ergebnisse erhalte, informieren Sie mich.
+
+174
+00:18:25,700 --> 00:18:29,700
+Was ist Abdomenultraschall?
+
+175
+00:18:29,700 --> 00:18:37,700
+Abdomenultraschall ist eine Schmerzfüri-Untersuchung.
+
+176
+00:18:37,700 --> 00:18:45,700
+Das ist Schmerzfilial und Röntgenstrahlung.
+
+177
+00:18:45,700 --> 00:19:05,700
+Mit der Hilfe eines Abdomenultraschalls können wir die inneren Organe und Gefäße gut beurteilen.
+
+178
+00:19:05,700 --> 00:19:15,700
+Das ist sehr einfach.
+
+179
+00:19:15,700 --> 00:19:23,700
+Das dauert sehr lange.
+
+180
+00:19:23,700 --> 00:19:27,700
+Muss ich eine Röhre legen? Ich habe Platz an.
+
+181
+00:19:27,700 --> 00:19:29,700
+Nein.
+
+182
+00:19:29,700 --> 00:19:37,700
+Wir haben einen Kopf mit Scherz.
+
+183
+00:19:37,700 --> 00:19:47,700
+Wir beurteilen die inneren Organe auf den Bauch.
+
+184
+00:19:47,700 --> 00:19:49,700
+Okay.
+
+185
+00:19:49,700 --> 00:19:57,700
+Jetzt bitte liegen Sie sich unter der Untersuchung.
+
+186
+00:19:57,700 --> 00:20:03,700
+Ich werde Sie körperlich untersuchen.
+
+187
+00:20:03,700 --> 00:20:07,100
+Danke Frau Doktor.
+
+188
+00:20:07,100 --> 00:20:17,100
+Herr Oberarzt, ich möchte Ihnen einen neuen Patienten vorstellen.
+
+189
+00:20:17,100 --> 00:20:19,100
+Haben Sie eine Zeit für mich?
+
+190
+00:20:19,100 --> 00:20:21,100
+Ja, bitte.
+
+191
+00:20:21,100 --> 00:20:25,100
+Der Patient ist Helga Schmidt.
+
+192
+00:20:25,100 --> 00:20:27,100
+Er ist 43 Jahre alt.
+
+193
+00:20:27,100 --> 00:20:35,100
+Er ist mit 760 Kilo groß und mit 72 Kilo schwer.
+
+194
+00:20:35,100 --> 00:20:41,100
+Frau Schmidt ist heute bei uns.
+
+195
+00:20:41,100 --> 00:21:03,100
+Seit zwei Tagen sind wir mit dem Schmerzen langsam aufgetreten.
+
+196
+00:21:03,100 --> 00:21:11,100
+Im Verlauf wurde es schlimmer.
+
+197
+00:21:11,100 --> 00:21:27,100
+Alkohol zu konsumieren und zu essen ist ein Schmerz.
+
+198
+00:21:27,100 --> 00:21:31,100
+Verstärken sich die Schmerzen.
+
+199
+00:21:31,100 --> 00:21:39,100
+Die Schmerzen sind krampfartig, brennende und bohrende Schmerzen.
+
+200
+00:21:39,100 --> 00:21:47,100
+Die Schmerzen strahlen den Rücken aus.
+
+201
+00:21:47,100 --> 00:21:55,100
+Die Schmerzen liegen bei 7 von 10 auf einer Schmerzkala.
+
+202
+00:21:55,100 --> 00:21:59,100
+Die Schmerzen sind sehr schwer.
+
+203
+00:21:59,100 --> 00:22:03,100
+Die Schmerzen sind sehr schwer.
+
+204
+00:22:03,100 --> 00:22:07,100
+Die Schmerzen sind sehr schwer.
+
+205
+00:22:07,100 --> 00:22:13,100
+Die Schmerzen liegen bei 7 von 10 auf einer Schmerzkala.
+
+206
+00:22:13,100 --> 00:22:25,100
+Der Patient klagt über ein Hebeischwerden seit zwei Wochen.
+
+207
+00:22:25,100 --> 00:22:35,100
+Seit zwei Tagen ist sein Schmerzen schlimmer geworden.
+
+208
+00:22:35,100 --> 00:22:47,100
+Die vegetative Anamnese ist unaufhängig bis auf Schmerzbedingte im Somnium und in der Appatens.
+
+209
+00:22:47,100 --> 00:23:12,900
+Der Patient klagt über auch Pirosis, Blechungen und volle Gefühle.
+
+210
+00:23:12,900 --> 00:23:40,900
+In allen Erkrankungen leidet sie seit zehn Jahren Arteriellehypertonie, seit fünf Jahren Migräne und seit sieben Jahren habe die Patienten Rücken Schmerzen.
+
+211
+00:23:40,900 --> 00:24:00,900
+Sie nehmen regelmäßig Romypryl 5 mg morgens und auch aus Erdamm nehmen die Patienten Triptan gegen Migräne und Ibuprofen gegen Rücken Schmerzen.
+
+212
+00:24:00,900 --> 00:24:28,900
+Bei den Patienten würde im Alter von 36 Jahren eine Hysteroktomie aufgrund Blutung durchgeführt werden.
+
+213
+00:24:28,900 --> 00:24:48,900
+Sie riechen seit zehn Zigaretten pro Tag und trinken gelegentlich Alkohol.
+
+214
+00:24:48,900 --> 00:25:04,900
+Die Patienten haben gesagt, sie benutzen Marihuana in der Nahrung.
+
+215
+00:25:04,900 --> 00:25:22,270
+Sie haben gesagt, sie benutzen Marihuana in der Nahrung.
+
+216
+00:25:22,270 --> 00:25:42,270
+Sie haben Marihuana in der Nahrung geräuchert.
+
+217
+00:25:42,270 --> 00:25:58,270
+Sie ist verheiratet, hat zwei gesunde Kinder und arbeitet als Stadtbeamter.
+
+218
+00:25:58,270 --> 00:26:20,270
+Sie hat viel Stress in der Arbeit. Sie hat Allergien gegen Nüsse, was sich ausübt.
+
+219
+00:26:20,270 --> 00:26:28,270
+Sie ist vollständig geübt und Reiseanamnese war unauffällig.
+
+220
+00:26:28,270 --> 00:26:46,270
+In der Familie Anamnese werden angegeben, ihr Vater sei gesund und ihre Mutter leidet an Diabetes-Militär-Typ 2.
+
+221
+00:26:46,270 --> 00:27:04,270
+Sie hat vor fünf Jahren eine Apoplexerlitze. Sie leidet an Arteriellehypertonie.
+
+222
+00:27:04,270 --> 00:27:21,550
+In der Familie Anamnese werden die Kinder in der Familie geübt.
+
+223
+00:27:51,550 --> 00:28:03,550
+Sie haben eine Apoplexerlitze. Sie haben eine Apoplexerlitze.
+
+224
+00:28:03,550 --> 00:28:19,550
+Sie haben eine Apoplexerlitze. Sie haben eine Apoplexerlitze.
+
+225
+00:28:19,550 --> 00:28:35,550
+Sie haben eine Apoplexerlitze. Sie haben eine Apoplexerlitze.
+
+226
+00:28:35,550 --> 00:28:51,550
+Ich würde eine Öservago-Gasrodiodynoskopie wie schnell es möglich ist planen.
+
+227
+00:28:51,550 --> 00:29:04,180
+Sollte sich die Verdachtdiagnose bestätigen, schlage ich die Volgendentherapie vor.
+
+228
+00:29:04,180 --> 00:29:24,180
+Ich empfehle die Patienten, die Ambulanten zu behandeln.
+
+229
+00:29:24,180 --> 00:29:41,490
+Ich schreibe und verschiebe die Patienten eine Schmerzverschiebung.
+
+230
+00:29:41,490 --> 00:30:01,490
+Ich schreibe und verschiebe die Patienten eine Schmerzverschiebung.
+
+231
+00:30:01,490 --> 00:30:15,150
+Ich schreibe und verschiebe die Patienten eine Schmerzverschiebung.
+
+232
+00:30:15,150 --> 00:30:40,800
+Während ÖGD haben wir eine Hekobakterplurie zu bestätigen.
+
+233
+00:30:40,800 --> 00:30:52,800
+Während ÖGD haben wir eine Hekobakterplurie zu bestätigen.
+
+234
+00:30:52,800 --> 00:31:12,800
+Ich empfehle die Patienten, die Antibiotik zu beginnen.
+
+235
+00:31:12,800 --> 00:31:21,330
+Welche Antibiotik verschreiben Sie?
+
+236
+00:31:21,330 --> 00:31:45,600
+Für die Erleidikation der Hekobakterplurie verschreibe ich Chlorotromisin und Doxacycline mit Protonpomphahema.
+
+237
+00:31:45,600 --> 00:31:49,600
+Wie lange dauert diese Therapie?
+
+238
+00:31:49,600 --> 00:31:59,600
+Ca. 14 Tage dauert sie.
+
+239
+00:31:59,600 --> 00:32:16,910
+Herr Kollegen, Sie haben gesagt, als differential Diagnose denke ich, Kolangitis. Können Sie uns die Kolangitis ausschließen?
+
+240
+00:32:16,910 --> 00:32:20,910
+Okay.
+
+241
+00:32:20,910 --> 00:32:34,910
+Als Kolangitis ausschließen würde ich Abdominal Sonographie durchführen.
+
+242
+00:32:34,910 --> 00:32:48,910
+In der Laborkontersehung überprüfe ich einige Labowerte.
+
+243
+00:32:48,910 --> 00:33:04,910
+Ich erwarte diese Werte.
+
+244
+00:33:04,910 --> 00:33:14,910
+Ich erwarte auch eine Ablase, Lippase oder LDH.
+
+245
+00:33:14,910 --> 00:33:28,910
+Aber in einem Unkusteptikus erwarte ich keine.
+
+246
+00:33:28,910 --> 00:33:34,910
+Welche Laborparameter würden Sie bestimmen lassen?
+
+247
+00:33:34,910 --> 00:33:36,910
+Für den Unkusteptikus?
+
+248
+00:33:36,910 --> 00:33:42,910
+Ja, für den Unkusteptikus.
+
+249
+00:33:42,910 --> 00:33:58,910
+Bei der Laboruntersuchung würde ich ein großes Blut mit Entzündung parametern.
+
+250
+00:33:58,910 --> 00:34:14,910
+Ich möchte auch Nierenwerte oder Lebewerte beurteilen.
+
+251
+00:34:14,910 --> 00:34:26,380
+Ich würde Lebewerte und Nierenwerte beurteilen.
+
+252
+00:34:26,380 --> 00:34:47,870
+In diesem Fall würde ich einen Hemokultest machen.
+
+253
+00:34:47,870 --> 00:34:51,870
+Würden Sie in diesem Fall EKG schreiben?
+
+254
+00:34:51,870 --> 00:34:53,870
+Ja, natürlich.
+
+255
+00:34:53,870 --> 00:34:55,870
+Warum?
+
+256
+00:34:55,870 --> 00:35:23,870
+Der Patient kann eine Herzstörung haben.
+
+257
+00:35:23,870 --> 00:35:31,870
+Deshalb möchte ich einen EKG schreiben und auch die Herzentzüge überprüfen.
+
+258
+00:35:31,870 --> 00:35:49,470
+Die Herzinfarkt ausüben.
+
+259
+00:35:49,470 --> 00:35:57,470
+Sie haben gesagt, dass Sie eine Össefagogasrodionoscopy haben.
+
+260
+00:35:57,470 --> 00:36:01,470
+Können Sie uns die Össefagogasrodionoscopy erklären?
+
+261
+00:36:01,470 --> 00:36:10,780
+Ja, ich möchte erklären.
+
+262
+00:36:10,780 --> 00:36:20,780
+Wir beurteilen die Össefagogasrodionoscopy.
+
+263
+00:36:20,780 --> 00:36:42,780
+Wir benutzen einen flexiblen Schlauch für diese Untersuchungen.
+
+264
+00:36:42,780 --> 00:36:50,780
+Der flexible Schlauch hat vorne eine Kamera.
+
+265
+00:36:50,780 --> 00:37:12,780
+Wir beurteilen diesen Schlauch bis 12 Uhr.
+
+266
+00:37:12,780 --> 00:37:28,780
+Während der Untersuchungen nehmen wir eine Gewebeprobe.
+
+267
+00:37:28,780 --> 00:37:36,780
+Wir machen diese Untersuchungen ohne Betäubung.
+
+268
+00:37:36,780 --> 00:37:54,780
+Wenn der Patient möchte, können wir ein Beruhigensmittel verabreichen.
+
+269
+00:37:54,780 --> 00:38:08,780
+Wir machen eine lokale Betäubung mit einem Spray in der Maut.
+
+270
+00:38:08,780 --> 00:38:22,780
+Die Untersuchungen dauern ca. 30 Minuten.
+
+271
+00:38:22,780 --> 00:38:37,980
+Das ist eine Schmerzfüßung.
+
+272
+00:38:37,980 --> 00:38:41,980
+Braucht man eine Vorbereitung?
+
+273
+00:38:41,980 --> 00:39:05,980
+Ja, natürlich. Der Patient muss 12 Stunden vor dem Essen und Trinken.
+
+274
+00:39:05,980 --> 00:39:11,980
+Ja, 6 Stunden. Aber ich möchte 12 Stunden.
+
+275
+00:39:11,980 --> 00:39:17,980
+Darf der Patient nach der Untersuchung alle Sachen machen?
+
+276
+00:39:17,980 --> 00:39:28,320
+Ja, einige Stunden.
+
+277
+00:39:28,320 --> 00:39:42,320
+Ich empfehle den Patienten nur etwas trinken.
+
+278
+00:39:42,320 --> 00:39:54,320
+Aber etwa 4 Stunden kann der Patient etwas essen.
+
+279
+00:39:54,320 --> 00:40:00,320
+Nach der Untersuchung darf der Patient keine wichtigen Sachen machen.
+
+280
+00:40:00,320 --> 00:40:08,320
+Zum Beispiel darf der Patient keine selbst autofahren oder wichtige Verträge unterschreiben.
+
+281
+00:40:08,320 --> 00:40:14,320
+Ja, ich habe das verstanden.
+
+282
+00:40:14,320 --> 00:40:37,700
+Ich empfehle den Patienten nicht autofahren oder einige Stunden allein bleiben.
+
+283
+00:40:37,700 --> 00:40:45,700
+Unser Betäubungsmittel wird ganz am Tag.
+
+284
+00:40:45,700 --> 00:40:51,700
+Aber ich möchte nicht eine Betäubung machen.
+
+285
+00:40:51,700 --> 00:41:03,700
+Mindestens braucht man örtische Betäubung und auch leichte Schlafmittel.
+
+286
+00:41:03,700 --> 00:41:13,700
+Was beachten Sie bei der körperlichen Untersuchung?
+
+287
+00:41:13,700 --> 00:41:23,700
+Ich beurteile den Allgemeinen und Ernährungszustand der Patienten.
+
+288
+00:41:23,700 --> 00:41:29,700
+Ich werde den Allgemeinen und Ernährungszustand der Patienten beurteilen.
+
+289
+00:41:29,700 --> 00:41:41,700
+Ich werde die Abdomen untersuchen.
+
+290
+00:41:41,700 --> 00:41:53,700
+Zuerst werde ich alle Bauch- und Abdomen inspektieren.
+
+291
+00:41:53,700 --> 00:42:07,140
+Ich werde die Abdomen für eine Vergrößerte oder eine Hautveränderung untersuchen.
+
+292
+00:42:07,140 --> 00:42:17,140
+Dann werde ich alle Abdomen untersuchen.
+
+293
+00:42:17,140 --> 00:42:37,140
+Ich werde schmerzhaft und drück- schmerzhaft und loslassen Schmerz und abgeschwannhaft.
+
+294
+00:42:37,140 --> 00:42:57,140
+Dann werde ich die Abdomen hören und die Darmgeräusche beurteilen.
+
+295
+00:42:57,140 --> 00:43:05,140
+Der Patient kann eine Herzstörung haben.
+
+296
+00:43:05,140 --> 00:43:17,680
+Deshalb höre ich das Herz ab.
+
+297
+00:43:17,680 --> 00:43:21,680
+Vielen Dank, Herr Kollegen. Unsere Zeit ist um.

@@ -1,0 +1,1351 @@
+1
+00:00:00,050 --> 00:00:10,050
+Guten Tag, mein Name ist Bulur. Ich bin der Dienstherber, der Arztin auf der Station und würde gerne das erste Gespräch mit Ihnen führen. Ist das in Ordnung für Sie?
+
+2
+00:00:10,050 --> 00:00:12,050
+Ja, ja, Frau Dr.
+
+3
+00:00:12,050 --> 00:00:23,050
+So als werde ich ein paar Fragen zu Ihrer Person stellen, dann können wir Ihre aktuellen Beschwerden übergehen. Dann, wie heißen Sie?
+
+4
+00:00:23,050 --> 00:00:26,050
+Mein Name ist Ella Krast.
+
+5
+00:00:26,050 --> 00:00:34,050
+Frau Krast, können Sie Ihre Vor- und Nachnamen beschreiben?
+
+6
+00:00:34,050 --> 00:00:44,050
+Ella mit E, doppel L, A, Krast mit K, R, A, T, Z.
+
+7
+00:00:44,050 --> 00:00:47,050
+A, S, Z.
+
+8
+00:00:47,050 --> 00:00:52,050
+K, R, A, T, Z.
+
+9
+00:00:52,050 --> 00:00:54,050
+T, Z, okay. Krast.
+
+10
+00:00:54,050 --> 00:01:00,050
+Krast, okay. Danke schön. Wie alt sind Sie, Frau Krast?
+
+11
+00:01:00,050 --> 00:01:03,050
+Ja, ich bin 39, Frau Dr.
+
+12
+00:01:03,050 --> 00:01:07,050
+39, okay. Wann sind Sie genau geboren?
+
+13
+00:01:07,050 --> 00:01:17,050
+1986.
+
+14
+00:01:17,050 --> 00:01:22,050
+5.8.1986
+
+15
+00:01:22,050 --> 00:01:24,050
+5.8.
+
+16
+00:01:24,050 --> 00:01:26,050
+Ja
+
+17
+00:01:26,050 --> 00:01:29,050
+Okay, 5.8.
+
+18
+00:01:29,050 --> 00:01:35,050
+Okay, danke schön. Und wissen Sie, wie groß Sie sind?
+
+19
+00:01:35,050 --> 00:01:41,050
+Ich bin 1,71 Meter.
+
+20
+00:01:41,050 --> 00:01:45,050
+Und wie viel wiegen Sie?
+
+21
+00:01:45,050 --> 00:01:48,050
+Ich bin 61 Kilo.
+
+22
+00:01:48,050 --> 00:01:56,050
+61, okay. Wie heißt Ihr Hausarzt?
+
+23
+00:01:56,050 --> 00:02:02,710
+Ja, Herr Föller.
+
+24
+00:02:02,710 --> 00:02:07,710
+Herr Föller mit doppel L, E, A?
+
+25
+00:02:07,710 --> 00:02:11,710
+Ja, doppel L, E, A.
+
+26
+00:02:11,710 --> 00:02:19,710
+Okay, und wie sind Sie versichert?
+
+27
+00:02:19,710 --> 00:02:23,710
+Ja, AOK. Mein Versichertes ist AOK.
+
+28
+00:02:23,710 --> 00:02:27,710
+Okay, danke schön für diese Informationen, Frau Krast.
+
+29
+00:02:27,710 --> 00:02:31,710
+Und was führt Sie heute zu uns?
+
+30
+00:02:31,710 --> 00:02:39,710
+Frau Dr., ehrlich zu sagen, habe ich sehr starke Kopfschmerzen.
+
+31
+00:02:39,710 --> 00:02:45,710
+Das kann ich nicht ertragen. Das ist sehr schlimm.
+
+32
+00:02:45,710 --> 00:02:49,710
+Okay, haben Sie jetzt Kopfschmerzen auch?
+
+33
+00:02:49,710 --> 00:02:52,710
+Ja, habe ich jetzt auch.
+
+34
+00:02:52,710 --> 00:02:55,710
+Seit wann haben Sie diese Schmerzen?
+
+35
+00:02:55,710 --> 00:02:59,710
+Ja, besonders seit zwei Tagen habe ich Kopfschmerzen.
+
+36
+00:02:59,710 --> 00:03:06,710
+Und manchmal kommt es und geht wieder.
+
+37
+00:03:06,710 --> 00:03:14,710
+Aber heute Morgen beginnt es und ich muss sofort eine Notaufnahme besuchen.
+
+38
+00:03:14,710 --> 00:03:22,710
+Okay, früher war es wellenformig, aber jetzt dauert es.
+
+39
+00:03:22,710 --> 00:03:31,710
+Ja, seit zwei Tagen habe ich eine Anfalldauer von 1-2 Stunden.
+
+40
+00:03:31,710 --> 00:03:37,710
+Seit zwei Tagen habe ich sehr starke Kopfschmerzen.
+
+41
+00:03:37,710 --> 00:03:43,710
+Okay, könnten Sie beschreiben, wo genau Ihre Schmerzen sind?
+
+42
+00:03:43,710 --> 00:03:48,710
+Ja, das ist im linken Seite.
+
+43
+00:03:48,710 --> 00:03:53,710
+Im Gesicht fühle ich auch Schmerzen.
+
+44
+00:03:53,710 --> 00:04:09,710
+Und manchmal fühle ich den Hinterkopf sehr stark.
+
+45
+00:04:09,710 --> 00:04:11,710
+Okay, wie stark?
+
+46
+00:04:11,710 --> 00:04:14,710
+Im linken Seite kann ich sagen.
+
+47
+00:04:14,710 --> 00:04:18,710
+Okay, wie stark sind Ihre Schmerzen?
+
+48
+00:04:18,710 --> 00:04:29,710
+Ja, manchmal fühle ich in meinem Hinterkopf auch linke Augen.
+
+49
+00:04:29,710 --> 00:04:34,710
+Besonders vorne, links und vorne.
+
+50
+00:04:34,710 --> 00:04:38,710
+Aber auch in den Augen.
+
+51
+00:04:38,710 --> 00:04:47,710
+Wie stark sind Ihre Schmerzen auf einer Schmerzkala von 1.000 Sehen,
+
+52
+00:04:47,710 --> 00:04:53,710
+wobei eine sehr lafte Sehne sehr starke Schmerzen entspricht?
+
+53
+00:04:53,710 --> 00:05:00,710
+Ja, das kann ich jetzt sagen, 7 oder 8. Das ist schlimm.
+
+54
+00:05:00,710 --> 00:05:08,710
+Könnten Sie das Gespräch bis zum Ende erhalten oder brauchen Sie jetzt einen Schmerzmittel?
+
+55
+00:05:08,710 --> 00:05:12,710
+Ja, wie viele Minuten dauert das Gespräch, Frau Doktor?
+
+56
+00:05:12,710 --> 00:05:16,710
+Ja, es dauert ca. 20 Minuten oder 15 Minuten.
+
+57
+00:05:16,710 --> 00:05:20,710
+Ja, ich kann warten, Frau Doktor. Ich kann warten jetzt.
+
+58
+00:05:20,710 --> 00:05:28,710
+Okay, ich werde Ihnen einen Schmerzmittel geben, wenn wir das Gespräch fertig.
+
+59
+00:05:28,710 --> 00:05:30,710
+Okay.
+
+60
+00:05:30,710 --> 00:05:35,710
+Haben Sie früher Schmerzen gehabt oder...
+
+61
+00:05:35,710 --> 00:05:38,710
+Ja, ich hatte es drei Mal.
+
+62
+00:05:38,710 --> 00:05:48,710
+In den letzten drei Jahren hatte ich drei Mal Kopfschmerzen.
+
+63
+00:05:48,710 --> 00:05:54,710
+Aber diese Anfallung ist sehr schlimm.
+
+64
+00:05:54,710 --> 00:06:04,710
+Okay, haben Sie einen Arzt oder andere Arzt für diese Schmerzen besucht?
+
+65
+00:06:04,710 --> 00:06:10,710
+Ja, ich habe regelmäßig meinen Hausarzt besucht.
+
+66
+00:06:10,710 --> 00:06:21,710
+Aber seit zwei Tagen habe ich viele Schmerzmittel angenommen, aber es hat nicht geholfen.
+
+67
+00:06:21,710 --> 00:06:25,710
+Okay, welche Schmerzmittel haben Sie angenommen?
+
+68
+00:06:25,710 --> 00:06:39,710
+Ich habe die Prophangenomen, Aspirin, Paracetamol, Trieptan haben angenommen, aber es hat nicht gut geholfen.
+
+69
+00:06:39,710 --> 00:06:50,710
+Okay, ich verstehe. Das kann nicht sehr gut sein, aber ich werde Ihnen so schnell wie möglich helfen.
+
+70
+00:06:50,710 --> 00:06:59,710
+Okay, gibt es eine bestimmte Auslöse für Ihre Schmerzen?
+
+71
+00:06:59,710 --> 00:07:03,710
+Ja, Frau Doktor, meine Arbeit ist sehr stressig.
+
+72
+00:07:03,710 --> 00:07:11,710
+Ich habe mit meinen Kollegen in der Arbeit gestritten.
+
+73
+00:07:11,710 --> 00:07:35,710
+Okay, ich verstehe. Sie haben eine stressige Arbeit.
+
+74
+00:07:35,710 --> 00:07:45,710
+Haben Sie Übelkeit oder Erbrechen mit Ihrem Kopfschmerzen?
+
+75
+00:07:45,710 --> 00:07:52,710
+Ja, ich habe Übelkeit und heute Morgen habe ich dreimal Erbruch.
+
+76
+00:07:52,710 --> 00:07:57,710
+Dreimal Erbruch. Wie sah Ihr Erbruch aus?
+
+77
+00:07:57,710 --> 00:08:00,710
+Ja, das war Frühstückrest.
+
+78
+00:08:00,710 --> 00:08:05,220
+Okay. Haben Sie Fieber?
+
+79
+00:08:05,220 --> 00:08:06,220
+Nein.
+
+80
+00:08:06,220 --> 00:08:08,220
+Oder Schütterfrust?
+
+81
+00:08:08,220 --> 00:08:11,220
+Nein, ich habe nicht gefühlt.
+
+82
+00:08:11,220 --> 00:08:14,220
+Okay. Haben Sie Nachschweiß?
+
+83
+00:08:14,220 --> 00:08:20,220
+Nein, nein habe ich nicht. Aber ich konnte gestern Abend nicht schlafen.
+
+84
+00:08:20,220 --> 00:08:23,220
+Vielleicht wegen Schmerzen.
+
+85
+00:08:23,220 --> 00:08:25,220
+Okay.
+
+86
+00:08:25,220 --> 00:08:27,220
+Ja, kein...
+
+87
+00:08:27,220 --> 00:08:32,220
+Okay, ich verstehe. Und wie ist Ihr Appetit?
+
+88
+00:08:33,220 --> 00:08:48,530
+Ja, seit gestern mein Appetit ist auch nicht gut. Heute Morgen habe ich ein bisschen gefrühstückt, aber habe ich alle zurückgegeben.
+
+89
+00:08:48,530 --> 00:08:58,530
+Okay. Leiden Sie unter Müdigkeit oder Abgeschlagenheit?
+
+90
+00:08:58,530 --> 00:09:00,530
+Ja, ich fühle mich müde, Frau Doktor.
+
+91
+00:09:00,530 --> 00:09:03,530
+Seit drei Tagen oder früher haben Sie...
+
+92
+00:09:03,530 --> 00:09:08,530
+Seit drei Tagen, vielleicht wegen Schmerzen, aber ich fühle mich nicht gut.
+
+93
+00:09:08,530 --> 00:09:16,530
+Okay. Haben Sie in letzter Zeit Ungewöhnlichkeit abgenommen?
+
+94
+00:09:16,530 --> 00:09:24,530
+Nein, nein. Ich bin immer gleich sechs oder sechs und 62.
+
+95
+00:09:24,530 --> 00:09:27,530
+Ist Ihnen schwindelig?
+
+96
+00:09:27,530 --> 00:09:28,530
+Nein.
+
+97
+00:09:28,530 --> 00:09:35,530
+Haben Sie Tapsgefühl oder Kribben mit Ihren Fingern?
+
+98
+00:09:35,530 --> 00:09:44,530
+Ja, während Schmerzen und Anfall, ich fühle ein komisches Gefühl.
+
+99
+00:09:44,530 --> 00:09:52,530
+Besonders bei den Händen und Füßen fühle ich ein bisschen komisches Gefühl.
+
+100
+00:09:52,530 --> 00:10:00,530
+Ich kann es nicht gut beschreiben, aber ich fühle mich nicht gut. Das ist wie ein Taubeisgefühl.
+
+101
+00:10:00,530 --> 00:10:05,530
+Okay. Haben Sie Probleme?
+
+102
+00:10:05,530 --> 00:10:21,530
+Ja, ich kann es gut sehen, aber bevor Schmerzen hatte ich Lichtblitz gesehen. Das war wie Blitz.
+
+103
+00:10:21,530 --> 00:10:28,120
+Okay, ja, ich verstehe.
+
+104
+00:10:28,120 --> 00:10:38,120
+Haben Sie ein Gefühl, ein bisschen Geräusch?
+
+105
+00:10:38,120 --> 00:10:49,120
+Ja, während Schmerzen und Anfall habe ich ein bisschen Lichtblitz und ein bisschen Geräusch.
+
+106
+00:10:49,120 --> 00:11:01,070
+Ja, wissen Sie schon Frau Doktor, wie ein Mann meinen Kopf bohren. Das ist ein Schmerzen wie bohren.
+
+107
+00:11:01,070 --> 00:11:05,070
+Das ist komisch, aber bohrende Schmerzen habe ich.
+
+108
+00:11:05,070 --> 00:11:13,700
+Okay, bohrende Schmerzen. Ja, ich verstehe.
+
+109
+00:11:13,700 --> 00:11:18,700
+Haben Sie Probleme beim Masalasen oder Schutubgang?
+
+110
+00:11:18,700 --> 00:11:22,700
+Nein, nein, alles in Ordnung.
+
+111
+00:11:22,700 --> 00:11:26,700
+Haben Sie Atemnot oder Hüschdung?
+
+112
+00:11:26,700 --> 00:11:30,700
+Nein, nein, habe ich nicht.
+
+113
+00:11:30,700 --> 00:11:36,700
+Okay. Haben Sie Herzrasen, Herzstorben oder Herzklopfen?
+
+114
+00:11:36,700 --> 00:11:42,750
+Nein, nein, habe ich nicht.
+
+115
+00:11:42,750 --> 00:11:50,750
+Okay. Haben Sie irgendwelche chronischen Erkrankungen?
+
+116
+00:11:50,750 --> 00:12:02,750
+Ja, vor zwei Jahren hatte ich eine Blutgerinnungsstörung.
+
+117
+00:12:02,750 --> 00:12:10,750
+Deswegen hatte ich eine Sprit genutzt und mit Sprit behandelt.
+
+118
+00:12:10,750 --> 00:12:19,750
+Und zweimal hatte ich Kaiserschnitt. Ist Kaiserschnitt Operation oder?
+
+119
+00:12:19,750 --> 00:12:21,750
+Das ist Entbindung.
+
+120
+00:12:21,750 --> 00:12:29,700
+Okay, haben Sie nur zwei Kinder?
+
+121
+00:12:29,700 --> 00:12:31,700
+Nein, ich habe vier Kinder.
+
+122
+00:12:32,700 --> 00:12:36,700
+Zwei natürlich geburt, zwei Kaiserschnitt.
+
+123
+00:12:36,700 --> 00:12:46,700
+Okay. Und noch andere Erkrankungen?
+
+124
+00:12:46,700 --> 00:12:52,700
+Nein, nein, habe ich keine anderen Erkrankungen.
+
+125
+00:12:52,700 --> 00:13:03,700
+Okay, aber jetzt nehmen Sie keine Sprit für Ihre Blutgerinnungsstörung?
+
+126
+00:13:03,700 --> 00:13:06,700
+Nein, nein, das war vor zwei Jahren.
+
+127
+00:13:06,700 --> 00:13:12,700
+Ich habe drei Monate Sprit genutzt und jetzt nehme ich nicht.
+
+128
+00:13:12,700 --> 00:13:14,700
+Okay.
+
+129
+00:13:14,700 --> 00:13:22,700
+Nehmen Sie regelmäßig Medikamente ein? Bis auf Ibuprofen oder Aspirin oder Paracetamol?
+
+130
+00:13:22,700 --> 00:13:24,700
+Nein, nehme ich nicht.
+
+131
+00:13:24,700 --> 00:13:29,700
+Okay. Würden Sie schon einmal operieren?
+
+132
+00:13:29,700 --> 00:13:35,700
+Ja, bis auf Kaiserschnitt.
+
+133
+00:13:35,700 --> 00:13:41,700
+Ja, nur Kaiserschnitt hatte ich zweimal.
+
+134
+00:13:41,700 --> 00:13:49,700
+Okay. Waren diese Operationen komplikationlos?
+
+135
+00:13:49,700 --> 00:13:51,700
+Ja, ich hatte kein Problem.
+
+136
+00:13:51,700 --> 00:13:54,700
+Okay, wann war diese Operation?
+
+137
+00:13:54,700 --> 00:14:04,700
+Ja, meine letzten zwei Kinder, das war eins vor drei Jahren, eins vor sieben Jahren.
+
+138
+00:14:04,700 --> 00:14:10,700
+Vor drei und vor sieben Jahren. Okay. Ja, sehr gut.
+
+139
+00:14:10,700 --> 00:14:19,700
+Und gibt es in der Familie chronische Erkrankungen, zum Beispiel Zuckerkrankheit oder Bluthoffdruck?
+
+140
+00:14:19,700 --> 00:14:27,700
+Ja, leider. Mein Vater ist an Demenz gestorben vor fünf Jahren.
+
+141
+00:14:27,700 --> 00:14:38,980
+Und meine Mutter ist an Hirntumor gestorben vor drei Jahren.
+
+142
+00:14:38,980 --> 00:14:49,980
+Ich habe Angst vor dem Doktor. Meine Mutter ist an Hirntumor gestorben. Kann ich eine Hirntumor haben? Oder habe ich sehr schlecht Kopfschmerzen?
+
+143
+00:14:49,980 --> 00:15:01,980
+Ja, ich weiß ganz genau. Sie wissen, was sie haben. Aber ich habe mir gedacht, dass sie viele Sachen haben.
+
+144
+00:15:01,980 --> 00:15:22,980
+Zuerst müssen wir ein paar Untersuchungen durchführen. Aber ich habe die Diagnose bis zum Ende unserer Gespräche und alle Ergebnisse erhalten.
+
+145
+00:15:22,980 --> 00:15:34,980
+Ich halte sie. Ich gebe sie alle wichtigen Informationen.
+
+146
+00:15:34,980 --> 00:15:36,980
+Okay, Frau Doktor.
+
+147
+00:15:36,980 --> 00:15:42,980
+Okay, rufen Sie Kratz?
+
+148
+00:15:42,980 --> 00:15:45,980
+Nein, ich raufe nicht, Frau Doktor.
+
+149
+00:15:45,980 --> 00:15:49,980
+Okay, sehr gut. Und trinken Sie Alkohol?
+
+150
+00:15:49,980 --> 00:16:00,980
+Ja, ich trinke ab und zu. Aber am Wochenende besonders trinke ich gerne Bier und Wein mit meinen Freunden und Freundinnen.
+
+151
+00:16:00,980 --> 00:16:04,980
+Ein Bier oder ein Glas Wein?
+
+152
+00:16:04,980 --> 00:16:10,980
+Ja, manchmal ein Glas, manchmal zwei Glas. Manchmal ein Flasche Bier.
+
+153
+00:16:10,980 --> 00:16:19,980
+Okay. Hatten Sie jemals Kontakt mit Drogen? Das ist eine rätumästliche Frage.
+
+154
+00:16:19,980 --> 00:16:22,980
+Nein, nein. Ich habe niemals.
+
+155
+00:16:22,980 --> 00:16:26,980
+Okay. Treiben Sie regelmäßig Sport?
+
+156
+00:16:26,980 --> 00:16:32,980
+Ja, ich laufe gerne. Drei Mal pro Woche laufe ich.
+
+157
+00:16:32,980 --> 00:16:44,410
+Ja, sehr gut. Haben Sie in letzter Zeit im Ausland gewesen?
+
+158
+00:16:44,410 --> 00:16:48,410
+Ja, vor sechs Monaten war ich in Mallorca.
+
+159
+00:16:48,410 --> 00:16:49,410
+Mallorca.
+
+160
+00:16:49,410 --> 00:16:55,960
+Bei meinem Urlaub in Mallorca, in Spanien.
+
+161
+00:16:55,960 --> 00:16:58,960
+Sechs Monate? Vor sechs Monaten?
+
+162
+00:16:58,960 --> 00:17:00,960
+Ja, vor sechs Monaten.
+
+163
+00:17:00,960 --> 00:17:06,340
+Okay. Sind Sie vollständig geimpft?
+
+164
+00:17:06,340 --> 00:17:09,340
+Ja, ja. Ich bin vollständig geimpft.
+
+165
+00:17:09,340 --> 00:17:14,340
+Haben Sie Allergie? Haben Sie gegen Allergie etwas?
+
+166
+00:17:14,340 --> 00:17:17,340
+Ich habe keine Allergie, Frau Doktor.
+
+167
+00:17:17,340 --> 00:17:24,340
+Okay. Was sind Sie für einen Beruf?
+
+168
+00:17:24,340 --> 00:17:26,340
+Ich bin Maklerin.
+
+169
+00:17:26,340 --> 00:17:27,340
+Maklerin?
+
+170
+00:17:27,340 --> 00:17:29,340
+Maklerin, ja.
+
+171
+00:17:29,340 --> 00:17:34,340
+Maklerin. Könnten Sie ein bisschen erklären?
+
+172
+00:17:34,340 --> 00:17:41,340
+Ja, ich arbeite, Wohnung zu mieten und Wohnung zu kaufen.
+
+173
+00:17:41,340 --> 00:17:46,340
+Ich helfe Menschen, Wohnung zu kaufen oder mieten. Maklerin.
+
+174
+00:17:46,340 --> 00:17:53,340
+Okay. Und Sie sind verheiratet?
+
+175
+00:17:53,340 --> 00:17:55,340
+Nein, ich bin geschieden.
+
+176
+00:17:55,340 --> 00:17:59,340
+Geschieden. Das tut mir Entschuldigung.
+
+177
+00:17:59,340 --> 00:18:03,340
+Geschieden und Sie haben vier Kinder.
+
+178
+00:18:03,340 --> 00:18:08,340
+Ja, Frau Doktor. Es ist sehr schwer für Kinder, die sich allein kümmern.
+
+179
+00:18:08,340 --> 00:18:09,340
+Allein.
+
+180
+00:18:09,340 --> 00:18:12,340
+Das ist sehr schwer. Ich bin immer unter Druck im Arbeit.
+
+181
+00:18:12,340 --> 00:18:14,340
+Ich bin unter Druck zu Hause.
+
+182
+00:18:14,340 --> 00:18:17,340
+Vier Kinder kümmern. Es ist sehr schwer.
+
+183
+00:18:17,340 --> 00:18:23,340
+Eines im Kindergarten, drei im Schule. Es ist sehr schwer, Frau Doktor.
+
+184
+00:18:23,340 --> 00:18:31,340
+Ja, ja. Ich verstehe Sie. Das ist eine schwierige Situation.
+
+185
+00:18:31,340 --> 00:18:34,340
+Sind Ihre Kinder gesund?
+
+186
+00:18:34,340 --> 00:18:37,340
+Gott sei Dank, sie sind gesund.
+
+187
+00:18:37,340 --> 00:18:49,340
+Okay. Frau Kraß, ich habe keine weiteren Fragen.
+
+188
+00:18:49,340 --> 00:18:58,340
+Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+189
+00:18:58,340 --> 00:19:03,340
+Frau Doktor, was vermuten Sie? Was kann ich haben? Ich habe große Angst.
+
+190
+00:19:03,340 --> 00:19:08,340
+Meine Mutter ist wegen Gehirntümer gestorben.
+
+191
+00:19:08,340 --> 00:19:12,340
+Ich dachte, dass ich Gehirntümer habe.
+
+192
+00:19:12,340 --> 00:19:17,340
+Ja, ja. Ich verstehe, dass es schwer ist.
+
+193
+00:19:17,340 --> 00:19:23,340
+Ich kann Ihre Situation verstanden.
+
+194
+00:19:23,340 --> 00:19:28,340
+Aber machen Sie sich bitte Sorgen.
+
+195
+00:19:28,340 --> 00:19:33,340
+Momentan gibt es keinen Grund für Angst.
+
+196
+00:19:33,340 --> 00:19:37,340
+Das ist so, um etwas zu sagen.
+
+197
+00:19:37,340 --> 00:19:45,340
+Ich werde Sie jetzt erst körperlich untersuchen.
+
+198
+00:19:45,340 --> 00:19:53,340
+Dann wird Blut abgenommen und eine Röntgenaufnahme vorgenommen.
+
+199
+00:19:53,340 --> 00:20:04,340
+Ich werde Ihre Beschwerden mit meinem Oberarzt besprechen.
+
+200
+00:20:04,340 --> 00:20:14,340
+Dann kommen Sie zurück und eine Erkenntnis erklären.
+
+201
+00:20:14,340 --> 00:20:17,340
+Okay, Frau Doktor, ich bedanke mich.
+
+202
+00:20:17,340 --> 00:20:34,000
+Okay. Herr Oberarzt, ich möchte Ihnen einen neuen Patienten vorstellen. Haben Sie eine Zeit für mich?
+
+203
+00:20:34,000 --> 00:20:36,000
+Ja, bitte.
+
+204
+00:20:36,000 --> 00:20:59,000
+Der Patient, der ist 39 Jahre alt, 1,71 Meter groß und 81 Kilogramm schwer.
+
+205
+00:20:59,000 --> 00:21:04,000
+Frau Kraß starrte sich heute bei uns.
+
+206
+00:21:04,000 --> 00:21:32,000
+Seit zwei Tagen starrte sich bei uns wegen der bestehenden Bohrenden stärker.
+
+207
+00:21:32,000 --> 00:21:53,760
+Sie beschreibt ihre Schmerzen besonders am linken Seite.
+
+208
+00:21:53,760 --> 00:22:03,760
+Sie schreibt ihre Schmerzen hinter die Hände, die Gesichter und die linken Augen.
+
+209
+00:22:03,760 --> 00:22:15,760
+Sie liegt bei 7 von 10 auf einer Schmerzskala.
+
+210
+00:22:15,760 --> 00:22:32,760
+Sie hat Übigkeit und Neusea und dreimaliges Emesis.
+
+211
+00:23:05,830 --> 00:23:21,990
+Sie hat seit zwei Jahren einhergebe.
+
+212
+00:23:21,990 --> 00:23:29,990
+Sie ist unabhängig von Schmerzbedingungen in der vegetative Anamnese,
+
+213
+00:23:29,990 --> 00:23:53,460
+aber sie hat auch Fatigue und klagt über Licht und Geruch.
+
+214
+00:23:53,460 --> 00:24:21,460
+Während der Angriff fühlt sie sich mit beiden Händen und Früßen ein komisches Gefühl.
+
+215
+00:24:21,460 --> 00:24:41,460
+Sie hatte vor zwei Jahren eine Blutgerinnungsstörung.
+
+216
+00:24:41,460 --> 00:24:51,460
+Sie hat eine Gerüntungshema benutzt.
+
+217
+00:24:51,460 --> 00:25:03,460
+Sie hat aber keine Medikamente mehr.
+
+218
+00:25:03,460 --> 00:25:25,460
+Vor drei Jahren und sieben Jahren würde sie zweimal einen Kaiserschnitt durchführen.
+
+219
+00:25:25,460 --> 00:25:47,340
+Sie ist nicht rauhierend und trinkt ab und zu gelegentlich, besonders am Wochenende,
+
+220
+00:25:47,340 --> 00:25:53,340
+ein Flaschbier oder ein und zwei Gläser Wein.
+
+221
+00:25:53,340 --> 00:26:05,340
+Sie ist unabhängig von Schmerzbedingungen in der vegetative Anamnese.
+
+222
+00:26:05,340 --> 00:26:13,340
+Sie hat eine Schmerzkala und eine Schmerzkala.
+
+223
+00:26:13,340 --> 00:26:21,340
+Sie hat keine Allergien oder Unverträglichkeit.
+
+224
+00:26:21,340 --> 00:26:27,340
+Sie arbeitet als Möcklerin.
+
+225
+00:26:27,340 --> 00:26:40,970
+Sie ist geschieden und hat vier gesunde Kinder.
+
+226
+00:26:40,970 --> 00:26:56,970
+In der Familie Anamnese ist ihr Vater vor zwei Jahren an einem Mann gestorben.
+
+227
+00:26:56,970 --> 00:27:09,020
+Sie ist gestorben und ihre Mutter ist an einem Gehirntumor gestorben.
+
+228
+00:27:09,020 --> 00:27:21,290
+Die Anamnestischen Angaben bedeuten am ehesten eine Migräne hin.
+
+229
+00:27:21,290 --> 00:27:31,290
+Die Anamnestischen Angaben bedeuten, dass die Folgendenmaßnahmen durchgeführt werden,
+
+230
+00:27:31,290 --> 00:27:37,290
+die körperlichen Untersuchungen und die Labountersuchungen,
+
+231
+00:27:37,290 --> 00:27:43,290
+wie großes Blutbild und Entzündungsparameter.
+
+232
+00:27:43,290 --> 00:27:59,290
+Für weitere Untersuchungen würde ich eine Röntgenaufnahme mit Kopf veranlassen.
+
+233
+00:27:59,290 --> 00:28:10,700
+Ein MRT kann planen.
+
+234
+00:28:10,700 --> 00:28:22,700
+Sollte sich die Verdachtdiagnose bestätigen, schlage ich folgende Therapie vor.
+
+235
+00:28:22,700 --> 00:28:34,260
+Ich würde ein neurologisches Konzil veranlassen.
+
+236
+00:28:34,260 --> 00:28:46,660
+Und einige Schmerzmittel geben.
+
+237
+00:28:46,660 --> 00:28:56,660
+Die Veranstalterung der Veranstalterung kommt nicht.
+
+238
+00:28:56,660 --> 00:29:12,650
+Gehirntumor oder Blutung.
+
+239
+00:29:12,650 --> 00:29:18,650
+Gehirnblutung.
+
+240
+00:29:18,650 --> 00:29:24,650
+Nein, Gehirnblutung.
+
+241
+00:29:24,650 --> 00:29:30,650
+Schmerzunfall.
+
+242
+00:29:30,650 --> 00:29:40,760
+Apoplex kommen in Betra.
+
+243
+00:29:40,760 --> 00:29:46,760
+Was erwarten Sie beim Röntgen des Schadels?
+
+244
+00:30:18,040 --> 00:30:24,040
+In diesem Fall würden wir zuerst CT-Deschadels durchführen.
+
+245
+00:30:24,040 --> 00:30:28,040
+Und möglicherweise Heirntumor oder Blutung ausschließen.
+
+246
+00:30:28,040 --> 00:30:32,040
+CT ist besser.
+
+247
+00:30:32,040 --> 00:30:48,040
+Für weitere Untersuchungen würde ich CT veranlassen.
+
+248
+00:30:48,040 --> 00:30:52,040
+Welche Computer tomographieren?
+
+249
+00:30:52,040 --> 00:30:56,040
+Welche Computer? Kontraste.
+
+250
+00:30:56,040 --> 00:31:06,040
+Was erwarten Sie beim CT-Deschadels?
+
+251
+00:31:06,040 --> 00:31:18,040
+Für meine Verdachtdiagnose würde ich keine befinden.
+
+252
+00:31:18,040 --> 00:31:30,040
+Aber ich empfehle diese Untersuchungen um die Gehirnblutung und Tumor ausschließen.
+
+253
+00:31:30,040 --> 00:31:37,420
+Wie können Sie Meningitis ausschließen?
+
+254
+00:31:37,420 --> 00:31:51,420
+Meningitis kann uns im Laborparameter sehen.
+
+255
+00:31:51,420 --> 00:32:13,420
+Ich warte auf eine körperliche Untersuchung.
+
+256
+00:32:13,420 --> 00:32:19,420
+Welche Zeichen prüfen Sie um eine Meningitis ausschließen?
+
+257
+00:32:19,420 --> 00:32:31,990
+Körnig und Projeske.
+
+258
+00:32:31,990 --> 00:32:53,530
+Während der körperlichen Untersuchung warte ich auf eine Meningitis.
+
+259
+00:32:53,530 --> 00:33:09,530
+Wenn die Patienten eine Meningitis haben, was erwarten Sie bei der Lumbar-Funktion?
+
+260
+00:33:09,530 --> 00:33:23,530
+Ich habe eine hohe Protein.
+
+261
+00:33:23,530 --> 00:33:36,380
+Glukose.
+
+262
+00:33:36,380 --> 00:33:40,380
+Wie können Sie CT-Deschadels aufklären?
+
+263
+00:33:40,380 --> 00:33:52,380
+CT ist eine Abkursung der Computer Tomographie.
+
+264
+00:33:52,380 --> 00:34:00,380
+Das ist eine Schmerzlos-Untersuchung.
+
+265
+00:34:00,380 --> 00:34:12,380
+In dieser Untersuchung bekommen wir eine Patientenschralle.
+
+266
+00:34:12,380 --> 00:34:35,690
+CT zeigt uns die Knochenstruktur und die Blutung.
+
+267
+00:34:35,690 --> 00:34:42,020
+Nein, nein.
+
+268
+00:34:42,020 --> 00:34:48,020
+CT ist eine Abkursung der Computer Tomographie.
+
+269
+00:34:48,020 --> 00:34:52,020
+Das ist eine Schmerzlos-Untersuchung.
+
+270
+00:34:52,020 --> 00:35:06,020
+Mit Hilfe der Computer Tomographie werden viele Schnittbilder angefertigt.
+
+271
+00:35:06,020 --> 00:35:10,020
+Meine Körper?
+
+272
+00:35:10,020 --> 00:35:14,020
+Nein, die Patienten Körper.
+
+273
+00:35:14,020 --> 00:35:18,020
+Okay.
+
+274
+00:35:18,020 --> 00:35:26,410
+Es gibt nichts anderes.
+
+275
+00:35:26,410 --> 00:35:32,710
+Braucht der Patient nicht zu sein?
+
+276
+00:35:32,710 --> 00:35:34,710
+Nein.
+
+277
+00:35:34,710 --> 00:35:46,710
+Für CT-Tomographie brauchen wir keine Nahrungskarenz.
+
+278
+00:35:46,710 --> 00:35:50,710
+Gibt es eine alternative Methode?
+
+279
+00:35:50,710 --> 00:35:58,710
+Das ist eine alternative Methode für CT.
+
+280
+00:35:58,710 --> 00:36:14,710
+Wenn die Patienten keine Strahlen mehr nehmen wollen, können wir MRT bevorsagen.
+
+281
+00:36:14,710 --> 00:36:24,730
+Wenn die Patienten nicht mehr in die Schmerzen sind, können wir MRT bevorsagen.
+
+282
+00:36:24,730 --> 00:36:29,320
+MRT?
+
+283
+00:36:29,320 --> 00:36:31,320
+Ja.
+
+284
+00:36:31,320 --> 00:36:35,320
+Wie viele MRs gibt es?
+
+285
+00:36:35,320 --> 00:36:39,320
+Das ist eine Abkursung der Computer Tomographie.
+
+286
+00:36:39,320 --> 00:36:41,320
+Ja, natürlich.
+
+287
+00:36:41,320 --> 00:36:47,320
+In diesem Fall würden Sie eine digitale Subsektion an Geographie durchführen?
+
+288
+00:36:47,320 --> 00:36:49,320
+Nein, in diesem Fall?
+
+289
+00:36:49,320 --> 00:36:51,320
+Ja.
+
+290
+00:36:51,320 --> 00:37:04,600
+Das ist nicht meine erste Diagnose.
+
+291
+00:37:04,600 --> 00:37:06,600
+Okay.
+
+292
+00:37:06,600 --> 00:37:12,600
+Wann möchten Sie eine digitale Subsektion an Geographie durchführen?
+
+293
+00:37:12,600 --> 00:37:16,600
+In welchem Fall?
+
+294
+00:37:16,600 --> 00:37:26,600
+Ich denke, eine Blutung kann ich bevorsagen.
+
+295
+00:37:26,600 --> 00:37:34,600
+Aber in diesem Fall denke ich keine Blutung.
+
+296
+00:37:34,600 --> 00:37:52,010
+Oder zum Beispiel in Gefäßerkrankungen kann ich DCA denken.
+
+297
+00:37:52,010 --> 00:37:58,010
+Welche Gefäßerkrankungen können Sie?
+
+298
+00:37:58,010 --> 00:38:07,140
+Zum Beispiel Myocardial.
+
+299
+00:38:07,140 --> 00:38:11,140
+Nein, nein, Gehirngefäßerkrankungen.
+
+300
+00:38:11,140 --> 00:38:13,140
+Gehirngefäß.
+
+301
+00:38:13,140 --> 00:38:17,140
+Das kann auch eine Subsektion sein.
+
+302
+00:38:17,140 --> 00:38:19,140
+Wie viele?
+
+303
+00:38:19,140 --> 00:38:21,140
+In der Verwaltung.
+
+304
+00:38:21,140 --> 00:38:23,140
+In der Verwaltung.
+
+305
+00:38:23,140 --> 00:38:25,140
+Ja, in der Verwaltung.
+
+306
+00:38:25,140 --> 00:38:27,140
+Aber...
+
+307
+00:38:27,140 --> 00:38:29,140
+Die Blutung und die Anävrisme.
+
+308
+00:38:29,140 --> 00:38:31,140
+Ja.
+
+309
+00:38:31,140 --> 00:38:33,140
+Ich weiß nicht ganz genau die Sprache.
+
+310
+00:38:33,140 --> 00:38:35,140
+Ja.
+
+311
+00:38:35,140 --> 00:38:37,140
+Ja, okay.
+
+312
+00:38:37,140 --> 00:38:39,140
+Wie viele Lumbarpunktionen haben Sie?
+
+313
+00:38:39,140 --> 00:38:41,140
+Ja, natürlich.
+
+314
+00:38:41,140 --> 00:38:45,140
+Wie viele Lumbarpunktionen haben Sie?
+
+315
+00:38:45,140 --> 00:39:08,280
+Lumbarpunktion ist eine Wehmachl Lumbarpunktion um die Nervenfluss beurteilen.
+
+316
+00:39:08,280 --> 00:39:12,280
+Nervenflüssigkeit beurteilen.
+
+317
+00:39:12,280 --> 00:39:14,280
+Wie die sagen.
+
+318
+00:39:14,280 --> 00:39:16,280
+Gehirnröcke und Markflüssigkeit.
+
+319
+00:39:16,280 --> 00:39:26,280
+Und der Patient sitzt.
+
+320
+00:39:26,280 --> 00:39:30,280
+Der Patient sitzt.
+
+321
+00:39:30,280 --> 00:39:50,280
+Wir haben eine Nadel zwischen 4. und 5. Wirbelsäule.
+
+322
+00:39:50,280 --> 00:39:52,280
+Welche?
+
+323
+00:39:52,280 --> 00:39:56,280
+Lendenwirbelsäule oder Baswirbelsäule?
+
+324
+00:39:56,280 --> 00:39:58,280
+Nein, nein. Lendenwirbelsäule.
+
+325
+00:39:58,280 --> 00:40:12,620
+Dann sammeln wir einige Tropfen Nervenflüssigkeit.
+
+326
+00:40:12,620 --> 00:40:20,620
+Dann werden wir diese Flüssigkeit unter Mikroskopie beurteilen.
+
+327
+00:40:20,620 --> 00:40:25,340
+Ja.
+
+328
+00:40:25,340 --> 00:40:37,340
+Wir suchen einige Entzündungen und beurteilen einige Laborparameter.
+
+329
+00:40:37,340 --> 00:40:49,770
+Glukose, Entzündungsparameter, Başkernübungen, Kuss, Eiweiß.
+
+330
+00:40:49,770 --> 00:40:55,430
+Schmerzhafte Unterzuchtung?
+
+331
+00:40:55,430 --> 00:40:57,430
+Nein, nicht Schmerzhafte.
+
+332
+00:40:57,430 --> 00:41:09,430
+Aber wir können eine lokale Östliche Betreuung einnehmen.
+
+333
+00:41:09,430 --> 00:41:18,940
+Eine Schmerzhaft und eine Unangenehung.
+
+334
+00:41:18,940 --> 00:41:28,700
+Ja. Aber wir machen eine Östliche Betreuung.
+
+335
+00:41:28,700 --> 00:41:32,700
+Wir haben keine örtliche Betreuung gemacht.
+
+336
+00:41:32,700 --> 00:41:36,700
+Okay.
+
+337
+00:41:36,700 --> 00:41:38,700
+Okay, vielen Dank.
+
+338
+00:41:38,700 --> 00:41:40,700
+Ich habe etwas Arbeit.

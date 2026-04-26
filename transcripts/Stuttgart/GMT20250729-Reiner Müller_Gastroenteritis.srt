@@ -1,0 +1,1443 @@
+1
+00:00:02,450 --> 00:00:11,450
+Guten Tag, mein Name ist Bulur. Ich bin die Diastabende Arstin auf der Station und würde gerne das Erstgespräch mit Ihnen führen.
+
+2
+00:00:11,450 --> 00:00:12,450
+Ist das Ordnung für Sie?
+
+3
+00:00:12,450 --> 00:00:14,450
+Ja, das ist Ordnung, Frau Dr.
+
+4
+00:00:14,450 --> 00:00:23,450
+Okay. So als werde ich ein paar Fragen zu Ihrer Person stellen, dann direkt Ihren aktuellen Beschwerden übergehen. Wie heißen Sie denn?
+
+5
+00:00:23,450 --> 00:00:26,450
+Ich heiße Rainer Müller.
+
+6
+00:00:26,450 --> 00:00:30,450
+Rainer Müller. Frau Müller, könnten Sie Ihre…
+
+7
+00:00:30,450 --> 00:00:38,450
+Herr Müller, können Sie Ihre Namen für Ihren Nachnamen beschreiben?
+
+8
+00:00:38,450 --> 00:00:47,450
+Ja. R-E-N-E-R. Rainer.
+
+9
+00:00:47,450 --> 00:00:50,450
+R-E-N-E-R.
+
+10
+00:00:50,450 --> 00:00:59,450
+Ja, ja. Meine Nachname ist M-U-L-L-E-R Müller.
+
+11
+00:00:59,450 --> 00:01:02,450
+Okay. Herr Müller, wie heißen Sie?
+
+12
+00:01:02,450 --> 00:01:05,450
+Ich bin 55 Jahre alt.
+
+13
+00:01:05,450 --> 00:01:09,450
+45 Jahre alt. Okay. Wann sind Sie genau geboren?
+
+14
+00:01:09,450 --> 00:01:15,450
+12. Juni 1970.
+
+15
+00:01:15,450 --> 00:01:16,450
+70?
+
+16
+00:01:16,450 --> 00:01:17,450
+Ja.
+
+17
+00:01:17,450 --> 00:01:24,450
+Juni. Und wissen Sie, wie groß Sie sind? Und wie viel wiegen Sie?
+
+18
+00:01:24,450 --> 00:01:32,450
+Ja, ich bin 1 Meter 72 und 75 Kilogramm.
+
+19
+00:01:32,450 --> 00:01:39,450
+75. Okay. Wie heißt Ihr Hausarzt oder Ihre Hausärztin?
+
+20
+00:01:39,450 --> 00:01:44,340
+Mein Hausarzt ist Herr Schmidt.
+
+21
+00:01:44,340 --> 00:01:46,340
+Herr Schmidt.
+
+22
+00:01:46,340 --> 00:01:48,340
+D oder T?
+
+23
+00:01:48,340 --> 00:01:50,340
+D-T. Ender.
+
+24
+00:01:50,340 --> 00:01:52,340
+Ender T. Okay.
+
+25
+00:01:52,340 --> 00:01:55,340
+D-T. Ender D-T Schmidt.
+
+26
+00:01:55,340 --> 00:01:58,340
+D-T. Okay. Herr Schmidt.
+
+27
+00:01:58,340 --> 00:02:03,340
+Herr Müller, was für Sie heute so ist?
+
+28
+00:02:03,340 --> 00:02:05,340
+Wie kann ich Ihnen erinnern?
+
+29
+00:02:05,340 --> 00:02:09,340
+Ich habe eine starke Bauchschmerzen.
+
+30
+00:02:09,340 --> 00:02:14,340
+Starke Bauchschmerzen. Wo genau sind Ihre Schmerzen?
+
+31
+00:02:14,340 --> 00:02:22,340
+Die Schmerzen sind besonders in meiner Nabel.
+
+32
+00:02:22,340 --> 00:02:27,340
+Aber ich bin sehr schmerzhaft.
+
+33
+00:02:27,340 --> 00:02:31,340
+Seit wann haben Sie diese Schmerzen?
+
+34
+00:02:31,340 --> 00:02:34,340
+Seit zwei Wochen habe ich diese Schmerzen.
+
+35
+00:02:34,340 --> 00:02:36,340
+Zwei Wochen? Okay.
+
+36
+00:02:36,340 --> 00:02:43,340
+Könnten Sie bitte Ihre Schmerzen beschreiben?
+
+37
+00:02:43,340 --> 00:02:50,340
+Dass diese Schmerzen krampfartig und stehend, brennend?
+
+38
+00:02:50,340 --> 00:02:56,340
+Ja, diese Schmerzen sind kolikartig und drückend.
+
+39
+00:02:56,340 --> 00:03:00,340
+Aber besonders kolikartig.
+
+40
+00:03:00,340 --> 00:03:02,340
+Okay.
+
+41
+00:03:02,340 --> 00:03:06,340
+Schmerzen sind nicht irgendwo hinaus?
+
+42
+00:03:06,340 --> 00:03:12,340
+Schmerzen sind nicht irgendwo. Schmerzen sind nicht irgendwo hinaus.
+
+43
+00:03:12,340 --> 00:03:14,340
+Okay.
+
+44
+00:03:14,340 --> 00:03:17,340
+Haben Sie jetzt Schmerzen?
+
+45
+00:03:17,340 --> 00:03:20,340
+Ja, Doktor. Ich habe jetzt Schmerzen.
+
+46
+00:03:20,340 --> 00:03:26,340
+Wie stark sind Ihre Schmerzen auf einer Schmerzskala von eins bis zehn?
+
+47
+00:03:26,340 --> 00:03:31,340
+Wobei ein sehr lahtes Sein sehr stark Schmerzen entspricht?
+
+48
+00:03:31,340 --> 00:03:37,340
+Das sind ungefähr fünf bis sieben.
+
+49
+00:03:37,340 --> 00:03:40,340
+Fünf bis sieben? Okay.
+
+50
+00:03:40,340 --> 00:03:48,340
+Könnten Sie Ihre Schmerzen zumindest das Gespräch aushalten oder brauchen Sie sofort einen Schmerzentner?
+
+51
+00:03:48,340 --> 00:03:51,340
+Ja, ich kann warten, Doktor.
+
+52
+00:03:51,340 --> 00:03:53,340
+Okay.
+
+53
+00:03:53,340 --> 00:04:00,340
+Denken Sie, es gibt eine bestimmte Auslöse für Ihre Schmerzen?
+
+54
+00:04:00,340 --> 00:04:14,340
+Ja, eigentlich muss ich sagen, vor zwei Wochen bin ich mit meiner Cousine in ein Restaurant gegangen.
+
+55
+00:04:14,340 --> 00:04:23,340
+Wir haben mit ihnen eine Pizza gegessen.
+
+56
+00:04:23,340 --> 00:04:29,340
+Ich denke, nach dem Essen hatte ich diese Schmerzen, Doktor.
+
+57
+00:04:29,340 --> 00:04:33,340
+Nach dem Essen, okay.
+
+58
+00:04:33,340 --> 00:04:42,340
+Trinken Sie auch Alkohol? Haben Sie vor zwei Wochen Alkohol getrunken?
+
+59
+00:04:42,340 --> 00:04:56,340
+Ja, ich trinke normalerweise ein Glas Wein bis oder fünf oder sechs Mal pro Woche.
+
+60
+00:04:56,340 --> 00:04:58,340
+Okay.
+
+61
+00:04:58,340 --> 00:05:03,340
+Aber ich trinke jede Woche Alkohol, Doktor.
+
+62
+00:05:03,340 --> 00:05:08,340
+Okay. Aber haben Sie früher eine Beschwerden gehabt?
+
+63
+00:05:08,340 --> 00:05:11,340
+Nein, nein. Das ist einmalig.
+
+64
+00:05:11,340 --> 00:05:16,340
+Okay. Waren Sie für diese Beschwerden beim Hausarzt?
+
+65
+00:05:17,340 --> 00:05:28,340
+Ja, Doktor. Vor zwei Tagen war ich bei meinem Hausarzt.
+
+66
+00:05:28,340 --> 00:05:35,340
+Sie hat mir eine Medikamente angenommen.
+
+67
+00:05:35,340 --> 00:05:47,340
+Ich muss erinnern, es heißt Imodium.
+
+68
+00:05:47,340 --> 00:05:49,340
+Imodium, okay.
+
+69
+00:05:49,340 --> 00:05:56,340
+Ja, ich habe zweimal angenommen, aber das war mir nicht geholfen.
+
+70
+00:05:56,340 --> 00:06:06,540
+Okay. Haben Sie Fieber auch, Frau Hermüller?
+
+71
+00:06:06,540 --> 00:06:11,540
+Fieber? Ich habe keine Fieber, nein.
+
+72
+00:06:11,540 --> 00:06:16,540
+Okay. Haben Sie Nachschweiß oder Sterfrost?
+
+73
+00:06:16,540 --> 00:06:18,540
+Ich habe nicht bemerkt.
+
+74
+00:06:18,540 --> 00:06:26,540
+Okay. Haben Sie in letzter Zeit ungewöhnlich ab oder zu genommen?
+
+75
+00:06:27,540 --> 00:06:38,540
+Ja, Sie haben recht. Ich habe ungefähr zwei Kilogramm abgenommen.
+
+76
+00:06:38,540 --> 00:06:41,540
+Seit zwei Wochen.
+
+77
+00:06:41,540 --> 00:06:43,540
+Seit zwei Wochen?
+
+78
+00:06:43,540 --> 00:06:45,540
+Ja, zwei Kilogramm.
+
+79
+00:06:45,540 --> 00:06:50,540
+Okay. Ist Ihnen übel?
+
+80
+00:06:50,540 --> 00:06:56,540
+Ja, ja. Ich habe Übelkeit.
+
+81
+00:06:56,540 --> 00:06:59,540
+Okay. Haben Sie Erbrochen auch?
+
+82
+00:06:59,540 --> 00:07:02,540
+Ja, ja. Erbrochen, ja.
+
+83
+00:07:02,540 --> 00:07:08,540
+Wie oft haben Sie Erbrochen?
+
+84
+00:07:08,540 --> 00:07:18,540
+Meine Erbrochenung ist plötzlich aufgetreten.
+
+85
+00:07:18,540 --> 00:07:27,540
+Aber in der Verlustszeit ist es immer schlimmer geworden.
+
+86
+00:07:27,540 --> 00:07:39,540
+Seit zwei Tagen habe ich in zwei Häusern einmal Erbrochen.
+
+87
+00:07:39,540 --> 00:07:45,540
+Okay. Wie sieht das Erbrochen aus?
+
+88
+00:07:45,540 --> 00:07:47,540
+Gelbe.
+
+89
+00:07:47,540 --> 00:07:49,540
+Gelbe? Ja.
+
+90
+00:07:50,540 --> 00:07:58,540
+Okay. Haben Sie Probleme beim Stuhlgang oder Wasserlassen?
+
+91
+00:07:58,540 --> 00:08:00,540
+Haben Sie Durchfall?
+
+92
+00:08:00,540 --> 00:08:06,540
+Ja, ja. Seit zwei Tagen hatte ich auch Durchfall.
+
+93
+00:08:06,540 --> 00:08:13,540
+Wie oft gehen Sie auf die Toilette?
+
+94
+00:08:13,540 --> 00:08:19,540
+Ja, vielleicht vier und fünf Mal täglich.
+
+95
+00:08:19,540 --> 00:08:22,540
+Vier und fünf Mal, okay.
+
+96
+00:08:22,540 --> 00:08:27,910
+Ja. Ich hatte Wasserigen.
+
+97
+00:08:27,910 --> 00:08:34,910
+Ja, Wasserigen. Haben Sie Blut im Stuhl bemerkt?
+
+98
+00:08:34,910 --> 00:08:37,910
+Ja, nein. Ich habe nicht bemerkt.
+
+99
+00:08:37,910 --> 00:08:46,910
+Okay. Hat der Stuhl ein unangenehmes Geruch?
+
+100
+00:08:46,910 --> 00:08:49,910
+Ich habe nicht bemerkt.
+
+101
+00:08:49,910 --> 00:08:53,910
+Okay. Wie ist Ihr Apathit?
+
+102
+00:08:53,910 --> 00:09:04,910
+Normalerweise gut, aber deswegen diese Beschwerden habe ich keinen guten Apathit.
+
+103
+00:09:04,910 --> 00:09:06,910
+Ich habe kaum Apathit.
+
+104
+00:09:06,910 --> 00:09:08,910
+Okay. Schlafen Sie gut?
+
+105
+00:09:08,910 --> 00:09:18,910
+Ja. Vor etwa ein paar Tagen, ungefähr seit einer Woche, schlafe ich nicht gut.
+
+106
+00:09:18,910 --> 00:09:25,910
+Weil ich viele Mal auf die Toilette gehen muss.
+
+107
+00:09:25,910 --> 00:09:28,910
+Okay. Ich verstehe.
+
+108
+00:09:28,910 --> 00:09:41,910
+Gibt es andere Personen, die in der Umgebung in den Hebe-Schwerden gehabt haben?
+
+109
+00:09:41,910 --> 00:09:48,910
+Ich wohne alleine, aber ich habe keine Ahnung. Nein.
+
+110
+00:09:48,910 --> 00:10:08,020
+Okay. Ihr Freundin, seine Freundin, hat in der Umgebung in den Hebe-Schwerden geschlafen.
+
+111
+00:10:08,020 --> 00:10:10,020
+Eine Cousine, oder?
+
+112
+00:10:10,020 --> 00:10:13,020
+Ja, Cousine.
+
+113
+00:10:13,020 --> 00:10:21,020
+Ich habe gehört, dass sie sich an die Änderung der Doktorzikrone befestigt hat.
+
+114
+00:10:21,020 --> 00:10:22,020
+Okay.
+
+115
+00:10:22,020 --> 00:10:30,020
+Herr Müller, ist bei Ihnen irgendetwas mit der Chronischen Erkrankung bekannt?
+
+116
+00:10:30,020 --> 00:10:33,020
+Chronischen Erkrankung?
+
+117
+00:10:33,020 --> 00:10:40,020
+Ja, ich habe vor einem Monat
+
+118
+00:10:40,020 --> 00:10:46,020
+meine Hausart gewesen.
+
+119
+00:10:46,020 --> 00:10:53,020
+Sie hat mir gesagt, ich habe die Tätige Vergrößerung
+
+120
+00:10:53,020 --> 00:10:55,020
+für die Stärken durchgeführt.
+
+121
+00:10:55,020 --> 00:10:59,530
+Wie bitte? Für?
+
+122
+00:10:59,530 --> 00:11:02,530
+Für die Stärken durchgeführt.
+
+123
+00:11:02,530 --> 00:11:09,530
+Okay. Nehmen Sie Medikamente dagegen für diese Beschwerden?
+
+124
+00:11:09,530 --> 00:11:16,530
+Nein, sie hat mir gesagt, sie muss gehandelt werden.
+
+125
+00:11:16,530 --> 00:11:21,530
+Aber eine Termin, nehmen Sie eine Termin, ich warte.
+
+126
+00:11:21,530 --> 00:11:27,530
+Okay. Noch etwas? Haben Sie andere Erkrankungen?
+
+127
+00:11:27,530 --> 00:11:31,530
+Ich habe seit fünf Jahren Bluthochdruck.
+
+128
+00:11:31,530 --> 00:11:34,530
+Okay. Noch etwas?
+
+129
+00:11:35,530 --> 00:11:42,530
+Ich habe manchmal Tatschikarde oder Herzklopfen.
+
+130
+00:11:42,530 --> 00:11:52,470
+Ich habe keine Ahnung. Aber ich denke, ich habe Herzrhythmstörungen.
+
+131
+00:11:52,470 --> 00:11:56,470
+Da haben Sie gesagt, Sie haben zwei Jahre.
+
+132
+00:11:57,470 --> 00:12:08,470
+Aber eine Erkrankung bei Ihnen, eine Erkrankung, ist nicht bekannt?
+
+133
+00:12:08,470 --> 00:12:10,470
+Ja, ja, nicht bekannt.
+
+134
+00:12:10,470 --> 00:12:17,470
+Okay. Jetzt haben Sie Herzklopfen, Herzrazen?
+
+135
+00:12:17,470 --> 00:12:25,470
+Ja, ich habe Gesagtoktor, ich bin manchmal mit Herzklopfen oder Herzrazen.
+
+136
+00:12:25,470 --> 00:12:29,470
+Haben Sie Hüsten oder Atemnot?
+
+137
+00:12:29,470 --> 00:12:32,470
+Nein, nein, ich habe keine Hüsten oder Atemnot.
+
+138
+00:12:32,470 --> 00:12:38,470
+Okay. Haben Sie Brüste Schmerzen oder ein Eingefühl?
+
+139
+00:12:38,470 --> 00:12:41,470
+Nein, nein, ich habe nicht bemerkt.
+
+140
+00:12:41,470 --> 00:12:48,780
+Okay. Und noch etwas?
+
+141
+00:12:49,780 --> 00:13:00,780
+Vor ein paar Jahren hatte ich eine Herzblutentzündung mit Antimiotik behandelt.
+
+142
+00:13:00,780 --> 00:13:07,630
+Okay. Vor sechs Monaten. Okay.
+
+143
+00:13:07,630 --> 00:13:08,630
+Ja.
+
+144
+00:13:08,630 --> 00:13:16,820
+Nehmen Sie regelmäßig Medikamente ein?
+
+145
+00:13:17,820 --> 00:13:27,820
+Ja, da gegen meine Hochblutdruck, nehme ich etabliche zwei Malteglische.
+
+146
+00:13:27,820 --> 00:13:36,820
+Kennen Sie die Namen, diese Medikamente, diese Medikamente?
+
+147
+00:13:36,820 --> 00:13:43,820
+Ja, vielleicht. Ja, ja, ja, ich kenne es. Ramupril.
+
+148
+00:13:44,820 --> 00:13:47,820
+Ramupril. Welche Dosierung nehmen Sie?
+
+149
+00:13:47,820 --> 00:13:50,820
+5 Milligramm täglich, zwei Mal.
+
+150
+00:13:50,820 --> 00:13:53,820
+Zwei Mal, okay. Und?
+
+151
+00:13:53,820 --> 00:13:55,820
+Morgen und Abend.
+
+152
+00:13:55,820 --> 00:14:02,820
+Okay. Und noch andere Medikamente nehmen Sie?
+
+153
+00:14:02,820 --> 00:14:07,820
+Ich nehme keine anderen Medikamente ein.
+
+154
+00:14:07,820 --> 00:14:12,820
+Okay. Sie nehmen regelmäßig Ramupril ein?
+
+155
+00:14:12,820 --> 00:14:13,820
+Ja, ja.
+
+156
+00:14:13,820 --> 00:14:17,820
+Okay. Wurden Sie schon einmal operiert?
+
+157
+00:14:17,820 --> 00:14:36,380
+Ja. Mit 30 Jahren hatte ich einen Unfall und meine Unterarm gebrockt. Und ich hatte eine Operation.
+
+158
+00:14:36,380 --> 00:14:43,380
+Okay. Rachen Sie, Herr Miller?
+
+159
+00:14:44,380 --> 00:14:52,380
+Ja, leider. Ja, ja, leider. Ich rauche 10 Zigaretten täglich.
+
+160
+00:14:52,380 --> 00:14:57,380
+Seit wann haben Sie geraucht?
+
+161
+00:14:57,380 --> 00:15:00,380
+Seit 20 Jahren.
+
+162
+00:15:00,380 --> 00:15:04,380
+20 Jahre. Okay. Trinken Sie Alkohol?
+
+163
+00:15:05,380 --> 00:15:16,380
+Ja, ich habe gesagt, ich trinke ein Glas Wein 5 oder 6 Mal pro Woche.
+
+164
+00:15:16,380 --> 00:15:22,630
+5 oder 6 Mal, okay. Ein Glas Wein.
+
+165
+00:15:22,630 --> 00:15:31,630
+Das ist eine rhythmische Frage. Bitte nehmen Sie nicht persönlich. Hatten Sie jemals Kontakt mit Drogen?
+
+166
+00:15:31,630 --> 00:15:34,630
+Ich habe nicht probiert.
+
+167
+00:15:34,630 --> 00:15:39,630
+Okay. Sehr gut. Und treiben Sie regelmäßig Sport?
+
+168
+00:15:39,630 --> 00:15:47,630
+Ja, ich treibe manchmal laufen, manchmal Tennis spielen, ja.
+
+169
+00:15:47,630 --> 00:15:51,630
+Wie oft in einer Woche?
+
+170
+00:15:51,630 --> 00:15:53,630
+Zwei Mal pro Woche.
+
+171
+00:15:54,630 --> 00:16:08,420
+Okay. Gibt es in Ihrer Familie irgendwelche chronische Erkrankungen? Bei Vater oder bei Mutter?
+
+172
+00:16:08,420 --> 00:16:17,420
+Mein Vater ist mit 67 Jahren an Darmkrebs gestorben.
+
+173
+00:16:17,420 --> 00:16:19,420
+67?
+
+174
+00:16:19,420 --> 00:16:29,420
+Meine Mutter ist mit Lungenkrebs gestorben. Und auch er hatte einen Herzinfarkt.
+
+175
+00:16:29,420 --> 00:16:33,420
+Meine Mutter mit 60 Jahren...
+
+176
+00:16:33,420 --> 00:16:38,420
+Entschuldigung, hat Ihr Vater einen Myokartinfarkt? Hatte er einen Myokartinfarkt?
+
+177
+00:16:38,420 --> 00:16:41,420
+Hatte einen Myokartinfarkt, aber sie hat...
+
+178
+00:16:41,420 --> 00:16:43,420
+Lungenkrebs verstorben.
+
+179
+00:16:43,420 --> 00:16:45,420
+Ja, sie ist an Lungenkrebs gestorben.
+
+180
+00:16:45,420 --> 00:16:47,420
+Ihre Mutter?
+
+181
+00:16:47,420 --> 00:16:53,420
+Meine Mutter mit 60 Jahren an Darmkrebs gestorben.
+
+182
+00:16:53,420 --> 00:16:55,420
+Darmkrebs?
+
+183
+00:16:55,420 --> 00:16:56,420
+Ja.
+
+184
+00:16:56,420 --> 00:16:58,420
+Ja, es tut mir sehr leid.
+
+185
+00:16:58,420 --> 00:17:00,420
+Danke schön.
+
+186
+00:17:00,420 --> 00:17:03,420
+Und haben Sie Geschwister?
+
+187
+00:17:03,420 --> 00:17:06,420
+Ich bin Einzelkind.
+
+188
+00:17:06,420 --> 00:17:10,420
+Einzelkind, okay. Und was machen Sie beruflich?
+
+189
+00:17:10,420 --> 00:17:13,420
+Ich bin Lehrer.
+
+190
+00:17:13,420 --> 00:17:20,420
+Lehrer. Und Sie haben gesagt, Sie leben allein?
+
+191
+00:17:20,420 --> 00:17:23,420
+Ja, ich bin Geschwister und wohne allein.
+
+192
+00:17:23,420 --> 00:17:27,420
+Geschwister, okay. Haben Sie Kinder?
+
+193
+00:17:27,420 --> 00:17:34,420
+Ja, ich habe zwei Kinder. Eine Tochter und ein Sohn. Sie sind ein Kind.
+
+194
+00:17:34,420 --> 00:17:37,420
+Okay. Sind Sie vollständig geimpft?
+
+195
+00:17:37,420 --> 00:17:40,420
+Ja, ich bin vollständig geimpft.
+
+196
+00:17:40,420 --> 00:17:48,700
+Haben Sie... haben Sie gegen etwas allergisch?
+
+197
+00:17:48,700 --> 00:17:53,700
+Allergisch? Ja, ich habe gegen Penis-Allergie.
+
+198
+00:17:53,700 --> 00:17:58,700
+Wie reagiert Sie darauf?
+
+199
+00:17:58,700 --> 00:18:05,700
+Das ausreicht sich Atemnot und Yukreis.
+
+200
+00:18:05,700 --> 00:18:16,380
+Okay. Waren Sie in Lestezheit im Ausland?
+
+201
+00:18:16,380 --> 00:18:24,380
+Nein, Doktor. Was bedeutet Lestezheit?
+
+202
+00:18:24,380 --> 00:18:27,380
+In den sechs Monaten.
+
+203
+00:18:27,380 --> 00:18:32,380
+In den sechs Monaten bin ich im Deutschland.
+
+204
+00:18:32,380 --> 00:18:34,380
+Okay, sehr gut.
+
+205
+00:18:35,380 --> 00:18:39,380
+Herr Müller, ich habe keine weiteren Fragen.
+
+206
+00:18:39,380 --> 00:18:46,380
+Möchten Sie etwas hinzufügen oder haben Sie Fragen an mich?
+
+207
+00:18:46,380 --> 00:18:49,380
+Ja, Frau Doktor, was habe ich?
+
+208
+00:18:49,380 --> 00:18:59,380
+Ich habe starke Bauchschmerzen, Durchfall und ich habe gesagt, meine Mutter ist an Darmkrebs gestorben.
+
+209
+00:18:59,380 --> 00:19:00,380
+Ja.
+
+210
+00:19:00,380 --> 00:19:02,380
+Ich habe Krebs?
+
+211
+00:19:02,380 --> 00:19:07,380
+Ja, ich verstehe Ihre Sorge, Herr Müller.
+
+212
+00:19:07,380 --> 00:19:16,380
+Aber momentan gibt es keine Grundsorge.
+
+213
+00:19:16,380 --> 00:19:28,380
+Krebs ist nicht immer 100% erblich.
+
+214
+00:19:28,380 --> 00:19:33,380
+Sie können viele Ursachen haben.
+
+215
+00:19:33,380 --> 00:19:41,380
+Um eine neue Diagnose zu stellen, müssen wir ein paar Untersuchungen durchführen.
+
+216
+00:19:41,380 --> 00:19:48,380
+Und bitte machen Sie sich keine Sorgen, wir werden alle nötigen Untersuchungen durchführen.
+
+217
+00:19:48,380 --> 00:19:58,380
+Ich werde die Körperliere untersuchen, danach Blut abnehmen und einige Laborwerte überprüfen.
+
+218
+00:19:58,380 --> 00:20:05,380
+Ich werde Ihre Beschwerden mit meinem Oberarzt besprechen.
+
+219
+00:20:05,380 --> 00:20:13,380
+Sobald ich Ihnen die Ergebnisse vorgelegt habe, kann ich Ihnen eine genaue Sache sagen.
+
+220
+00:20:14,380 --> 00:20:21,380
+Bitte gehen Sie in den Behandlungszimmer und ich werde gleich zu Ihnen kommen.
+
+221
+00:20:21,380 --> 00:20:24,380
+Ok, danke schön, ich warte auf Sie.
+
+222
+00:20:24,380 --> 00:20:40,430
+Herr Oberarzt, ich möchte Ihnen einen neuen Patienten vorstellen.
+
+223
+00:20:40,430 --> 00:20:42,430
+Haben Sie kurz Zeit für mich?
+
+224
+00:20:42,430 --> 00:20:43,430
+Ja bitte.
+
+225
+00:20:43,430 --> 00:20:55,430
+Der Patient heißt Rainer Müller, ist 45 Jahre alt, 1,72 Meter groß und wiegt 75 Kilogramm.
+
+226
+00:20:55,430 --> 00:21:07,430
+Herr Müller stellte sich heute bei uns wegen seit zwei Wochen Bechderhänder, Zunehmender, Kolikartikard, Diffuser,
+
+227
+00:21:07,430 --> 00:21:15,430
+Abdominalschmerzen ohne Ausstrahlung vor.
+
+228
+00:21:15,430 --> 00:21:44,430
+Die Schmerzen sind nach Versehen einer Pizza plötzlich aufgetreten und hätten sich mit der Zeit verschlimmert.
+
+229
+00:21:44,430 --> 00:22:06,430
+Der Patient hat vor zwei Tagen beim Hausarzt aufgesucht und hat ihm Imodium verschiebt, aber ohne Besserung.
+
+230
+00:22:06,430 --> 00:22:26,430
+Der Schmerzintensität liegt bei 5 bis 7 von 10 auf der Schmerzskala.
+
+231
+00:22:26,430 --> 00:22:44,510
+Der Patient klagte über seit zwei Wochen Neusea und besonders seit zwei Tagen Erbrochenes.
+
+232
+00:22:44,510 --> 00:22:52,510
+Erbrochenes sah gärblich aus.
+
+233
+00:22:52,510 --> 00:23:09,510
+Der Patient klagte über seit zwei Tagen Diarrhoch, Vastereckdiarrhoch, 4 bis 5 Mal täglich.
+
+234
+00:23:09,510 --> 00:23:22,510
+Die Fragen nach Fieber, Anastasie, Schütterfrust oder Basalasenstörungen wurden verneint.
+
+235
+00:23:22,510 --> 00:23:34,510
+In der vegetativen Anamnese ist unaufällig bis auf Inapathens und Insomni. Schmerzbedingte Inapathens und Insomni.
+
+236
+00:23:34,510 --> 00:23:58,510
+Der Patient leidet vor Erkrankungen vor ein Monaten an Prostata-Hyperpilosi und seit fünf Jahren an arteriöle Hipertonie.
+
+237
+00:23:58,510 --> 00:24:15,510
+Er hat seit zwei Jahren unbekannte Herzstörungen wie Tachycardia und Herzkloof.
+
+238
+00:24:15,510 --> 00:24:44,510
+Der Patient leidet vor zwei Monaten aufgrund einer Cystitis mit Antibiosie behandelt.
+
+239
+00:24:44,510 --> 00:25:10,510
+Er ist seit 30 Jahren aufgrund einer Unterarmfraktur eine Osteosynthese durchgeführt worden.
+
+240
+00:25:10,510 --> 00:25:23,890
+Er nimmt regelmäßig RamiPril 5 mg zweimal täglich.
+
+241
+00:25:23,890 --> 00:25:44,890
+Er rauft seit 15 Jahren Zigaretten täglich und trinkt ein Glas Wein 5 bis 6 pro Woche.
+
+242
+00:25:44,890 --> 00:26:00,890
+Er trinkt regelmäßig Sport, läuft oder spielt Tennis zweimal pro Woche.
+
+243
+00:26:00,890 --> 00:26:28,890
+Er arbeitet als Lehrer, ist geschieden und lebt allein. Er hat zwei gesunde Kinder, ist vollständig geübt und hat Pelis-Allergie mit Symptomen wie Dyspne und Pyrurhitus.
+
+244
+00:26:28,890 --> 00:26:34,890
+Der Anamnese ist unaufällig.
+
+245
+00:26:34,890 --> 00:26:54,890
+In der Familie Anamnese wurde angegeben, dass sein Vater mit 62 Jahren an Bronchial-Carsen verstorben ist.
+
+246
+00:26:54,890 --> 00:27:10,890
+Er hat keine Geschwister.
+
+247
+00:27:10,890 --> 00:27:24,890
+Der Anamnist ist in der Familie Anamnese und hat eine Gastroenteritis.
+
+248
+00:27:24,890 --> 00:27:46,890
+Als differential Diagnosen kommen Magen Ulcus Deodone, Ulcus Pepticus, Ulcus Ventricular, Ulcus Deodone und Magenkrebs.
+
+249
+00:27:46,890 --> 00:27:58,740
+Das ist der Anamnist.
+
+250
+00:27:58,740 --> 00:28:08,740
+Sie sagen einfach Gastritis, Reissdarm-Syndrom.
+
+251
+00:28:08,740 --> 00:28:20,740
+In diesem Fall denken wir erst an die Magenkrebs, Ulcus Deodone und Magenkrebs.
+
+252
+00:28:20,740 --> 00:28:34,740
+Als differential Diagnosen kommen Gastritis, Ulcus Ventricular und Reissdarm-Syndrom in Betra.
+
+253
+00:28:34,740 --> 00:28:48,740
+Oder Ernerungvergiftung.
+
+254
+00:28:48,740 --> 00:28:50,740
+Und Sie sind verletzt?
+
+255
+00:28:50,740 --> 00:28:52,740
+Ja.
+
+256
+00:28:52,740 --> 00:29:04,740
+Die Anamnise wurde durchgeführt.
+
+257
+00:29:04,740 --> 00:29:10,740
+Ich werde den Patienten körperlich untersuchen.
+
+258
+00:29:10,740 --> 00:29:32,740
+Ich werde darauf achten, ob es Lassschmerzen, Durchschmerzen und Abwehrspannung vorhanden sind.
+
+259
+00:29:32,740 --> 00:29:42,740
+Ich beurteile den Allgemeinen Zustand der Patienten.
+
+260
+00:29:42,740 --> 00:29:44,740
+Hören Sie Darmgeräusche ab?
+
+261
+00:29:44,740 --> 00:29:46,740
+Ja.
+
+262
+00:29:46,740 --> 00:29:54,740
+Ich auskultiere Darmgeräusche und erwarte ...
+
+263
+00:29:54,740 --> 00:29:56,740
+Vermerte Darmgeräusche?
+
+264
+00:29:56,740 --> 00:30:00,740
+Ja, vermehrte Darmgeräusche.
+
+265
+00:30:00,740 --> 00:30:13,990
+Ich beurteile den Allgemeinen Zustand der Patienten über die Hydratation.
+
+266
+00:30:13,990 --> 00:30:23,990
+Dann werde ich die Labouren untersuchen.
+
+267
+00:31:25,590 --> 00:31:29,590
+Ich werde die Anamnise durchführen.
+
+268
+00:31:29,590 --> 00:31:31,590
+Okay.
+
+269
+00:31:31,590 --> 00:31:39,590
+Ich werde eine Abdomenssonographie durchführen.
+
+270
+00:31:39,590 --> 00:31:45,590
+Ich werde die Patologien auslesen.
+
+271
+00:31:45,590 --> 00:31:53,590
+Und wenn es so ist, kann ich eine Kolonoscopy verlassen.
+
+272
+00:31:53,590 --> 00:31:59,590
+Jetzt? Würden Sie jetzt eine Kolonoscopy verlassen?
+
+273
+00:31:59,590 --> 00:32:01,590
+Nein, nicht jetzt.
+
+274
+00:32:01,590 --> 00:32:21,590
+Wenn es nicht unklar ist, können wir eine Kolonoscopy verlassen.
+
+275
+00:32:21,590 --> 00:32:23,590
+Koloskopie?
+
+276
+00:32:23,590 --> 00:32:25,590
+Koloskopie.
+
+277
+00:32:25,590 --> 00:32:27,590
+Koloskopie.
+
+278
+00:32:27,590 --> 00:32:29,590
+Koloskopie.
+
+279
+00:32:29,590 --> 00:32:39,590
+Ich werde die Anamnise durchführen.
+
+280
+00:32:39,590 --> 00:32:49,590
+Wenn ich die Diagnose bestätige, schlage ich die vorgelegte Therapie vor.
+
+281
+00:32:49,590 --> 00:32:59,590
+Dann würde ich die Allgemeinen Zustand besser stabilisieren.
+
+282
+00:32:59,590 --> 00:33:11,590
+Ich würde einen Venösenzugang legen und eine Schmerzmittelverbreitung ausreichen.
+
+283
+00:33:11,590 --> 00:33:32,180
+Dann würde ich, wenn ich eine bakterielle Gastroenteritis bestätige,
+
+284
+00:33:32,180 --> 00:33:36,180
+Antibiotentherapie beginnen.
+
+285
+00:33:36,180 --> 00:33:56,180
+Ich empfehle den Patienten mehr Flüssigkeit.
+
+286
+00:33:56,180 --> 00:34:00,180
+Ausreichende Wasser trinken.
+
+287
+00:34:00,180 --> 00:34:08,180
+Leichte Essen nehmen.
+
+288
+00:34:08,180 --> 00:34:12,300
+Nein.
+
+289
+00:34:12,300 --> 00:34:14,300
+Okay.
+
+290
+00:34:14,300 --> 00:34:30,300
+Ich denke, der Patient sollte eine Woche in Ruhe bleiben.
+
+291
+00:34:30,300 --> 00:34:40,300
+Dann würde ich eine Krankheit schreiben.
+
+292
+00:34:40,300 --> 00:34:47,430
+Das ist alles.
+
+293
+00:34:47,430 --> 00:34:51,430
+Was ist Ihre letzte Sätze?
+
+294
+00:34:51,430 --> 00:35:07,430
+Falls Sie eine Diagnose haben, würde ich meinen Patienten untersuchen.
+
+295
+00:35:07,430 --> 00:35:11,430
+Sind Sie mit dieser Vorgangsweise einverstanden?
+
+296
+00:35:11,430 --> 00:35:19,430
+Ja, das ist sehr schwer gesagt.
+
+297
+00:35:19,430 --> 00:35:29,430
+Sie haben gesagt, dass die Diagnose ein Ulkosventröküli ist.
+
+298
+00:35:29,430 --> 00:35:33,430
+Wie können Sie Ulkosventröküli ausschließen?
+
+299
+00:35:33,430 --> 00:35:55,190
+Die beste Wahl ist die Usefago-Gastro-Dodonskopie.
+
+300
+00:35:55,190 --> 00:36:09,190
+Die Usefago-Gastro-Dodonskopie zeigt uns die möglichen Pathologien.
+
+301
+00:36:09,190 --> 00:36:17,190
+Wir können eine Gewebeprobe entnehmen.
+
+302
+00:36:17,190 --> 00:36:23,190
+Wir können diese Probe untersuchen.
+
+303
+00:36:23,190 --> 00:36:29,190
+Deswegen können wir Ulkosventröküli ausschließen.
+
+304
+00:36:29,190 --> 00:36:35,190
+Wie können Sie Erneuerung und Vergiftung ausschließen?
+
+305
+00:36:35,190 --> 00:36:47,190
+Die Stuhlprobe zeigt uns die möglichen Pathologien.
+
+306
+00:36:47,190 --> 00:36:55,190
+Wir können eine Bakterie oder Viren bestätigen.
+
+307
+00:36:55,190 --> 00:37:09,190
+Auch die Anamnese zeigt uns die Ernährung, die Giftung der Patienten und auch ihre Kusen haben
+
+308
+00:37:09,190 --> 00:37:30,190
+Wir haben eine Ernährung, die Giftung, aber ich sollte eine Stuhlprobe untersuchen.
+
+309
+00:37:30,190 --> 00:37:44,540
+Welche Fragen sind sehr wichtig, um eine Ernährung, Vergiftung, Auschüchselnis zu machen?
+
+310
+00:37:44,540 --> 00:38:00,540
+Gibt es um eine Gastroenteritis Ausschüchseln, auch um Ernährung, Vergiftung?
+
+311
+00:38:00,540 --> 00:38:04,540
+Wir können die Reissdarm-Syndrom Ausschüchseln.
+
+312
+00:38:04,540 --> 00:38:12,020
+Reissdarm-Syndrom?
+
+313
+00:38:12,020 --> 00:38:13,020
+Ja.
+
+314
+00:38:13,020 --> 00:38:26,020
+Wir können eine Atomhandsynographie dafür nehmen, aber die Kolonskopie ist der beste Wahl für die ...
+
+315
+00:38:26,020 --> 00:38:30,020
+Was erwarten Sie von der Kolonskopie in dieser Form?
+
+316
+00:38:30,020 --> 00:38:34,020
+Für den Reissdarm-Syndrom?
+
+317
+00:38:34,020 --> 00:38:35,020
+Ja.
+
+318
+00:38:35,020 --> 00:38:37,020
+Was erwarten Sie?
+
+319
+00:38:37,020 --> 00:38:42,020
+Ich erwarte keine bestimmten Befunde.
+
+320
+00:38:42,020 --> 00:38:52,020
+Aber mit der Kolonskopie können wir andere mögliche Pathologien ausschließen.
+
+321
+00:38:52,020 --> 00:39:03,020
+Dann können wir diese Erkrankung im Reissdarm-Syndrom sagen.
+
+322
+00:39:03,020 --> 00:39:08,020
+Welche anderen Pathologien ausschließen bei der Kolonskopie?
+
+323
+00:39:09,020 --> 00:39:30,020
+Ja, zuerst kann ich die Tumor-Ausschleißung und die Serativkollide und chronische Erkrankungen ausschließen.
+
+324
+00:39:30,020 --> 00:39:32,020
+Mit der Kolonskopie.
+
+325
+00:39:32,020 --> 00:39:35,020
+Dann ...
+
+326
+00:39:35,020 --> 00:39:38,020
+Ja.
+
+327
+00:39:38,020 --> 00:39:40,020
+Divertikulose?
+
+328
+00:39:40,020 --> 00:39:42,020
+Ja, Divertikulose auch.
+
+329
+00:39:42,020 --> 00:39:44,020
+Aber ...
+
+330
+00:39:44,020 --> 00:39:50,020
+Können Sie bei der Kolonskopie eine Divertikulitis ausschließen?
+
+331
+00:39:50,020 --> 00:39:53,360
+Ja, wir können ...
+
+332
+00:39:53,360 --> 00:39:56,360
+In akuten Fallen ...
+
+333
+00:39:56,360 --> 00:39:59,360
+In akuten Attacken ...
+
+334
+00:39:59,360 --> 00:40:03,360
+Bei der Divertikulose ...
+
+335
+00:40:03,360 --> 00:40:08,360
+können wir nicht eine Kolonskopie durchführen.
+
+336
+00:40:08,360 --> 00:40:13,360
+Wie können Sie eine Divertikulose diögnosieren?
+
+337
+00:40:13,360 --> 00:40:17,360
+Die Xanographie ...
+
+338
+00:40:17,360 --> 00:40:19,360
+ist die, äh ...
+
+339
+00:40:19,360 --> 00:40:22,360
+zuerst wir müssen ...
+
+340
+00:40:22,360 --> 00:40:32,280
+Was erwarten Sie bei der Ultraschall der Abdomens um eine Divertikulitis?
+
+341
+00:40:32,280 --> 00:40:35,280
+Die Diagnostisieren?
+
+342
+00:40:35,280 --> 00:40:42,280
+Ich erwarte nicht eine bestimmte Defund mit Xanographie für ...
+
+343
+00:40:42,280 --> 00:40:45,280
+Nein, nein, gibt es bestimmte ...
+
+344
+00:40:45,280 --> 00:40:47,280
+Zeichen?
+
+345
+00:40:47,280 --> 00:40:50,280
+Die Divertikulose ist eine ...
+
+346
+00:40:50,280 --> 00:40:52,280
+Ja.
+
+347
+00:40:52,280 --> 00:40:55,280
+Ich erwarte nicht ...
+
+348
+00:40:55,280 --> 00:40:57,280
+Äh ...
+
+349
+00:40:57,280 --> 00:40:59,280
+Ich erwarte nicht ...
+
+350
+00:40:59,280 --> 00:41:02,280
+Das ist ein gewisser Zeichen.
+
+351
+00:41:02,280 --> 00:41:04,280
+Das ist ein Gasgenau.
+
+352
+00:41:04,280 --> 00:41:07,280
+Aber ein Zylinder-Bildungszeichen.
+
+353
+00:41:07,280 --> 00:41:09,280
+Das ist ein Wunder.
+
+354
+00:41:09,280 --> 00:41:12,280
+Das muss ein Wunder sein.
+
+355
+00:41:12,280 --> 00:41:14,280
+Ja.
+
+356
+00:41:14,280 --> 00:41:18,280
+Weil das Köln-Bildungszeichen wie ein Zylinder-Bildungszeichen ...
+
+357
+00:41:18,280 --> 00:41:20,280
+verkleidet ist.
+
+358
+00:41:20,280 --> 00:41:22,280
+Das ist ein typischer Wunder bei Ultraschall.
+
+359
+00:41:22,280 --> 00:41:24,280
+Ultraschall.
+
+360
+00:41:24,280 --> 00:41:26,280
+Für eine Divertikulose.
+
+361
+00:41:26,280 --> 00:41:29,280
+Ich habe es nicht bemerkt.
