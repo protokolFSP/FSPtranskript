@@ -1,0 +1,367 @@
+1
+00:00:02,160 --> 00:00:12,160
+Guten Abend Herr Oberarzt. Ich habe einen neuen Patienten aufgenommen und ich würde gerne über ihn berichten. Haben Sie kurz Zeit für mich?
+
+2
+00:00:12,160 --> 00:00:14,160
+Ja bitte.
+
+3
+00:00:14,160 --> 00:00:25,160
+Danke. Herr Peter Neuberger ist 63 Jahre alt, 1,78 Meter groß, 82 Kilogramm schwer.
+
+4
+00:00:25,160 --> 00:00:46,160
+Herr Neuberger stellte sich heute bei uns seit 4 bis 6 Wochen bestehender Stuhlgang Veränderung vor.
+
+5
+00:00:46,160 --> 00:01:12,160
+Den Patienten zufolge sei der Stuhl manchmal brech, manchmal fest geworden und der Patient habe kein Blut im Stuhl bemerkt.
+
+6
+00:01:12,160 --> 00:01:20,160
+Wie können Sie diese Beschwerde formulieren?
+
+7
+00:01:20,160 --> 00:01:26,160
+Aufwechselnd.
+
+8
+00:01:26,160 --> 00:01:34,160
+Der Patient habe aufwechselnde Obst und Diarrhea.
+
+9
+00:01:34,160 --> 00:01:47,910
+Jetzt erinnere ich mich an nicht Herr Oberarzt. Ich wusste diese Fachbegriffe aber leider momentan erinnere ich mich nicht. Darf ich weitermachen?
+
+10
+00:01:47,910 --> 00:01:51,910
+Ja.
+
+11
+00:01:51,910 --> 00:02:18,910
+Der Patient berichtete über Dyspnoe, Gewichtsabnahme von 3 bis 4 Kilogramm innerhalb von einem Monat, nächtliche Hyperhidrose und Palo auch Fatigue.
+
+12
+00:02:18,910 --> 00:02:35,910
+Die Fragen nach Tussis, Tachikade, Palpitations, Fieber, Schüterfrost und Abdominalgie wurden verneint.
+
+13
+00:02:35,910 --> 00:02:54,910
+Der Patient war früher bei anderem Arzt nicht und hatte keine Koloskopie.
+
+14
+00:02:54,910 --> 00:03:19,770
+Bei der Veketative Anamnese seien die Folgenden bekannt. Insomnie in Form von Durchschlafstörungen, Nausea ohne Emesis, er sei vollständig gegen Kinderkrankheiten und 4 mal Covid Infektion geimpft.
+
+15
+00:03:19,770 --> 00:03:38,770
+Er hatte Anfallerkrankungen, nannte seit 10 Jahren bestehende Arterielle Hypertonie, seit 20 Jahren bestehende Cox Arthrose und seit 12 Jahren bestehende Hemoroide.
+
+16
+00:03:38,770 --> 00:03:52,770
+Er nehme Walzartan morgens und holte 50 mg Tabletten bei Bedarf 2 bis 3 Mal pro Woche ein.
+
+17
+00:03:52,770 --> 00:04:07,770
+Er benutze eine Salbe gegen Hemoroide. Der Name von Salbe und die Dosierung von Walzartan sollte geklärt werden.
+
+18
+00:04:07,770 --> 00:04:22,770
+Vor 20 Jahren habe er sich bei einem Unfall eine Schülterfraktur zugezogen, die operativ behandelt worden sei.
+
+19
+00:04:22,770 --> 00:04:40,050
+Der Patient hatte Allergien gegen Novalgin, die sich durch Pusteln äußert und er hatte Fructoseintoleranz, die sich durch Meteorismus äußert.
+
+20
+00:04:40,050 --> 00:04:55,050
+Er sei Raucher und er rauche 5 bis 6 Zigaretten täglich seit 20 Jahren. Er trinke 1 bis 2 Flaschen Bier täglich. Drogenkonsum wurde verneint.
+
+21
+00:04:55,050 --> 00:05:22,460
+In der Familienanamnese gab er an, dass der Vater an Darmpolypen leidet und wohnt in einem alten Heim. Die Mutter leidet an Diabetes mellitus und Diabetische Fuss.
+
+22
+00:05:22,460 --> 00:05:36,460
+Er habe eine Schwester, die gesund sei und der Patient sei geschieden, habe 3 gesunde Kinder und wohne mit seiner Partnerin.
+
+23
+00:05:36,460 --> 00:05:48,460
+Er sei seit 9 Monaten arbeitslos. Früher habe er in einem Baugewerbe gearbeitet.
+
+24
+00:05:48,460 --> 00:06:00,460
+Ich gehe von einem Verdacht auf eine Kolonkarzinom aus, da der Patient typische Symptome dafür aufweist.
+
+25
+00:06:00,460 --> 00:06:17,460
+Der Patient leidet unter nächtliche Hyperhydrose, Gewichtsabnahme von 3 bis 4 kg innerhalb von einem Monat,
+
+26
+00:06:17,460 --> 00:06:32,460
+Dyspne und auch Palo, chronische Fatigue und Stuhlkonsistenz wechseln.
+
+27
+00:06:32,460 --> 00:06:54,460
+Diese Symptome sprechen für eine Kolonkarzinom. Als Differenz der Diagnosen kommen Reizdarmsyndrom, chronische entzündliche Erkrankungen in Betracht.
+
+28
+00:06:54,460 --> 00:07:04,460
+Zunächst würde ich bei den Patienten die Vitalparameter überwachen und eine körperliche Untersuchung durchführen.
+
+29
+00:07:04,460 --> 00:07:27,460
+Bei der körperlichen Untersuchung achte ich darauf, ob eine Hautfarbeveränderungen, geschwollene Lymphknoten, Druckschmerzen vorhanden sind.
+
+30
+00:07:27,460 --> 00:07:37,460
+Zusätzlich ist eine Laboruntersuchung sinnvoll, um eine umfassende Diagnostik zu gewährleisten.
+
+31
+00:07:37,460 --> 00:07:55,460
+Dabei würde ich Leukocytosal, BSG, CAP, Leberwerte, Nierenwerte, Elektrolyten, Gerümmungsparameter, Tumormarkes bestimmen lassen.
+
+32
+00:07:55,460 --> 00:08:12,460
+Danach würde ich eine Abdominalzoonographie durchführen, um die möglichen Pathologien zu beurteilen.
+
+33
+00:08:12,460 --> 00:08:32,460
+Darüber hinaus würde ich eine CT-Abdomens fernlassen, um die Verdachtdiagnose zu bestätigen.
+
+34
+00:08:32,460 --> 00:08:52,460
+Danach würde ich eine Koloskopie durchführen, um die möglichen Pathologien zu überprüfen und meine Verdachtdiagnose zu bestätigen.
+
+35
+00:08:52,460 --> 00:09:16,460
+Sollte sich die Verdachtdiagnose bestätigen, würde ich den Patienten stationär aufnehmen und einen Venosynzugang legen und Antisphasmolitikum verabreichen.
+
+36
+00:09:16,460 --> 00:09:30,460
+Darüber hinaus würde ich ein chirurgisches und ein onkologisches Konsil anfordern, um die Therapie des Patienten zu optimieren.
+
+37
+00:09:30,460 --> 00:09:48,900
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit der geplanten Untersuchung fortfahren.
+
+38
+00:09:48,900 --> 00:09:58,900
+Herr Oberst, Sie können bei der körperlichen Untersuchung einen Kolonkarzinom diagnostizieren.
+
+39
+00:10:18,900 --> 00:10:32,690
+Sie können die Tumore abtasten, wenn der Tumor in der rektalen Region vorhanden ist.
+
+40
+00:10:32,690 --> 00:10:37,690
+Wie oft liegt Kolonkarzinom im rektalen Bereich?
+
+41
+00:10:37,690 --> 00:10:54,190
+Ich habe keine detaillierte Information darüber. Ich habe nur grundlegende Kenntnisse.
+
+42
+00:10:54,190 --> 00:11:01,190
+Ich denke, dass es ungefähr 50% ist. Aber ich weiß nicht genau.
+
+43
+00:11:01,190 --> 00:11:10,190
+Herr Kollege, Sie haben gesagt, als differential Diagnose, denke ich, eine chronische Darmensünnung.
+
+44
+00:11:10,190 --> 00:11:26,190
+Wenn der Patient eine chronische Darmensünnung hat, haben Sie mögliche Komplikationen?
+
+45
+00:11:26,190 --> 00:11:42,190
+Ja, wir können Füße, Darmabseß und Perforation bei der chronischen Erkrankung beobachten.
+
+46
+00:11:42,190 --> 00:11:58,080
+Was empfinde ich den Patienten? Welche Stadium hat sie zuerst?
+
+47
+00:11:58,080 --> 00:12:21,180
+Wenn der Patient Stadium 4 hat, bedeutet das Metastase. Ich würde Palliativmedizin empfehlen.
+
+48
+00:12:21,180 --> 00:12:35,180
+Aber wenn die Stadium 1, 2 oder 3, würde ich eine Operation und nach der Operation Chemotherapie oder Radiotherapie empfehlen.
+
+49
+00:12:35,180 --> 00:12:51,270
+Wie können wir das Stadium legen? Nur eine körperliche Untersuchung oder nur eine Abdommelzynographie?
+
+50
+00:12:51,270 --> 00:12:59,270
+Nein, bei der körperlichen Untersuchung können wir die Vergrößerung der Liftknoten abtasten.
+
+51
+00:12:59,270 --> 00:13:10,270
+Dann können wir eine PET-CT durchführen, um die Metastase genau zu beurteilen.
+
+52
+00:13:10,270 --> 00:13:21,270
+Dann können wir das Studium des TUMORs genau bestätigen.
+
+53
+00:13:21,270 --> 00:13:27,270
+Welche Klappifikationen haben Sie während des Studiums erfahren?
+
+54
+00:13:27,270 --> 00:13:35,270
+Ja, TNM-Klappflaskalifikationen haben wir.
+
+55
+00:13:35,270 --> 00:13:52,270
+Also M-Metastase, N-Vergrößerung der Liftknoten, T-Große und die lokale Einteilung des TUMORs.
+
+56
+00:13:53,270 --> 00:14:02,270
+Sie haben gesagt, ich würde in diesem Fall eine Koloskopie durchführen. Können Sie uns Koloskopie aufklären?
+
+57
+00:14:02,270 --> 00:14:10,270
+Ja, gerne. Ich würde gerne Sie über Koloskopie aufklären.
+
+58
+00:14:10,270 --> 00:14:18,270
+Koloskopie ist die endoskopische Untersuchung des Diktams.
+
+59
+00:14:18,270 --> 00:14:34,270
+Diese Untersuchung hilft uns, die Verletzungen, Erntzündungen, TUMORe und andere Veränderungen genau zu erkennen.
+
+60
+00:14:34,270 --> 00:14:49,270
+Bei dieser Untersuchung schieben wir einen dünnen, flexiblen Optischen Schlauch durch den Aftar bis in das Blinddarm vor.
+
+61
+00:14:49,270 --> 00:15:01,270
+Der Darm muss leer sein. Deswegen benötigen Sie eine Darmreinigung.
+
+62
+00:15:01,270 --> 00:15:11,270
+Deswegen sollen Sie eine Abfüllmittel bevor der Untersuchung trinken.
+
+63
+00:15:11,270 --> 00:15:15,270
+Ich trinke.
+
+64
+00:15:15,270 --> 00:15:27,270
+Der Patient soll eine Abfüllmittel vor der Untersuchung trinken, um eine Darmreinigung zu machen.
+
+65
+00:15:27,270 --> 00:15:41,270
+Diese Untersuchung kann sowohl zu diagnostischen als auch therapeutischen Zwecken benutzt werden.
+
+66
+00:15:41,270 --> 00:15:53,270
+Während der Untersuchung können wir eine Gewebeprobe entnehmen oder kleine Polypen oder TUMORe entfernen.
+
+67
+00:15:53,270 --> 00:16:05,270
+In der Regel erhält der Patient ein leichtes Schlafmittel während der Untersuchung.
+
+68
+00:16:05,270 --> 00:16:16,270
+Es gibt einige Komplikationen bei dieser Untersuchung wie zum Beispiel Nachblutungen oder Verletzung der Schleimhäute.
+
+69
+00:16:16,270 --> 00:16:47,640
+Nach der Untersuchung sollen Sie ein paar Stunden zu beobachten bei uns bleiben.
+
+70
+00:16:47,640 --> 00:17:01,640
+Nach der Untersuchung soll man keine wichtigen Sachen machen wie zum Beispiel Autofahren oder wichtige Verträge unterschreiben.
+
+71
+00:17:01,640 --> 00:17:17,750
+Der Patient soll eine begleitende Person mitbringen, die den Patient nach Hause bringt.
+
+72
+00:17:17,750 --> 00:17:20,750
+Wie lange dauert die Darmreinigung?
+
+73
+00:17:20,750 --> 00:17:38,750
+Der Patient soll am Abend drei Liter trinken und am Morgen auch andere drei Liter trinken, um die Reinigung zu machen.
+
+74
+00:17:38,750 --> 00:17:41,750
+Was trinken? Tee, Cola?
+
+75
+00:17:41,750 --> 00:17:43,750
+Wasser.
+
+76
+00:17:44,750 --> 00:17:46,750
+Nur Wasser ist genug.
+
+77
+00:17:52,300 --> 00:17:55,300
+Trinken trinken drei Liter Wasser.
+
+78
+00:17:55,300 --> 00:17:57,300
+Mit der Abfüllmittel.
+
+79
+00:18:01,100 --> 00:18:05,100
+Darf der Patient festessen?
+
+80
+00:18:05,100 --> 00:18:10,660
+Nach der Untersuchung soll der Patient ein paar...
+
+81
+00:18:10,660 --> 00:18:14,660
+Vor der Untersuchung? Ich frage.
+
+82
+00:18:14,660 --> 00:18:26,660
+Vor der Untersuchung soll der Patient ein paar Stunden, also sechs Stunden vor der Untersuchung nicht mehr essen.
+
+83
+00:18:26,660 --> 00:18:29,660
+Aber er kann trinken.
+
+84
+00:18:29,660 --> 00:18:46,660
+Unser Lehrer hat uns gesagt, der Patient vor der Untersuchung Tag am Morgen nur leichte Frühstück machen.
+
+85
+00:18:46,660 --> 00:18:54,660
+Dann darf der Patient keine feste Speise oder Essen konsumieren.
+
+86
+00:18:54,660 --> 00:19:03,660
+Keine. Aber der Patient darf Wasser trinken oder Frühstück trinken.
+
+87
+00:19:03,660 --> 00:19:17,070
+Am Abend soll der Patient ein Liter Wasser mit Abfüllmittel trinken und dann viel Wasser trinken.
+
+88
+00:19:17,070 --> 00:19:24,070
+Vor der Untersuchung ungefähr vier Stunden.
+
+89
+00:19:24,070 --> 00:19:41,610
+Der Patient soll ein Liter Wasser mit Abfüllmittel trinken und dann viel Wasser trinken, um ihr Darm genau zu reinigen.
+
+90
+00:19:41,610 --> 00:19:44,920
+Okay, Herr Oberarzt.
+
+91
+00:19:44,920 --> 00:19:55,520
+Herr Kollegen, bitte gehen Sie in unser Infodisk und nehmen Sie Ihre Zertifikat.
+
+92
+00:19:55,520 --> 00:19:58,520
+Vielen Dank. Das ist sehr nett von Ihnen, Herr Oberarzt.
