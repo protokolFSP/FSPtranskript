@@ -1,0 +1,2027 @@
+1
+00:00:00,000 --> 00:00:07,000
+Mein Name ist Yusuf Seyskin. Ich bin heute der zuständige Ast für Sie und werde das erste Gespräch mit Ihnen führen.
+
+2
+00:00:07,000 --> 00:00:14,000
+Erstmal benötige ich ein paar persönliche Daten von Ihnen und dann sprechen wir über Ihre aktuellen Beschwerden.
+
+3
+00:00:14,000 --> 00:00:20,000
+Was Sie Fragen haben, suggen Sie bitte nicht, mich zu unterbrechen. Wie heißen Sie denn?
+
+4
+00:00:20,000 --> 00:00:26,390
+Ich heiße Bender Walter.
+
+5
+00:00:26,390 --> 00:00:31,390
+Könnten Sie bitte den Nach- und Vornamen langsam buchstabieren?
+
+6
+00:00:31,390 --> 00:00:35,390
+B-E-N-E-R.
+
+7
+00:00:35,390 --> 00:00:38,900
+Bender?
+
+8
+00:00:38,900 --> 00:00:39,900
+Nachnamen?
+
+9
+00:00:39,900 --> 00:00:42,900
+W-A-L-T-E-R.
+
+10
+00:00:42,900 --> 00:00:44,900
+Walter.
+
+11
+00:00:44,900 --> 00:00:46,900
+Sind Sie Herr oder Frau Walter?
+
+12
+00:00:46,900 --> 00:00:47,900
+Herr.
+
+13
+00:00:47,900 --> 00:00:49,900
+Wie alt sind Sie Herr Walter?
+
+14
+00:00:49,900 --> 00:00:52,900
+37.
+
+15
+00:00:53,900 --> 00:00:55,900
+Wie lange sind Sie gebusst?
+
+16
+00:00:55,900 --> 00:01:00,900
+Meine Gebusstatum ist 2. Juni 1988.
+
+17
+00:01:00,900 --> 00:01:08,590
+Wie groß sind Sie?
+
+18
+00:01:08,590 --> 00:01:11,590
+Ich bin 1,70 Meter.
+
+19
+00:01:11,590 --> 00:01:13,590
+Ihr Gewicht bitte?
+
+20
+00:01:13,590 --> 00:01:15,590
+75 Kilogramm schwer.
+
+21
+00:01:15,590 --> 00:01:21,340
+Was sind Sie vom Beruf, Herr Walter?
+
+22
+00:01:21,340 --> 00:01:27,340
+Ich bin Lehrerin.
+
+23
+00:01:27,340 --> 00:01:29,340
+Lehrer?
+
+24
+00:01:29,340 --> 00:01:31,340
+Entschuldigung, Lehrer, ja.
+
+25
+00:01:31,340 --> 00:01:34,340
+Haben Sie einen Hausarzt oder eine Hausärztin?
+
+26
+00:01:34,340 --> 00:01:37,340
+Ja, mein Hausarzt heißt Hirshimid.
+
+27
+00:01:37,340 --> 00:01:44,060
+Jetzt kommen wir zu Ihren aktuellen Beschwerden.
+
+28
+00:01:44,060 --> 00:01:47,060
+Was fühlt Sie heute zu uns, Herr Walter?
+
+29
+00:01:47,060 --> 00:01:52,060
+Ich habe Handgelenkschmerzen.
+
+30
+00:01:52,060 --> 00:01:55,370
+Seit wann haben Sie das?
+
+31
+00:01:55,370 --> 00:01:58,370
+Seit morgen, Doktor.
+
+32
+00:01:58,370 --> 00:02:10,370
+Seit morgen möchte ich sehr starke Gelenkschmerzen.
+
+33
+00:02:10,370 --> 00:02:12,370
+Haben Sie einen Unfall?
+
+34
+00:02:12,370 --> 00:02:14,370
+Ja, ja, ja.
+
+35
+00:02:14,370 --> 00:02:21,370
+Könnten Sie mir bitte beschreiben, was ist passiert?
+
+36
+00:02:21,370 --> 00:02:29,370
+Heute Morgen habe ich in der Badewanne aufgeruscht
+
+37
+00:02:29,370 --> 00:02:38,150
+und auf meine linken Hände gefallen, Doktor.
+
+38
+00:02:38,150 --> 00:02:40,150
+Linke Handgelenk?
+
+39
+00:02:40,150 --> 00:02:47,030
+Ja, ja, linke Handgelenk.
+
+40
+00:02:47,030 --> 00:02:52,030
+Haben Sie Schwellungen, offene Wunde oder Rötung bemerkt?
+
+41
+00:02:52,030 --> 00:02:57,030
+Ja, ich habe Rötung und Schwellungen bemerkt,
+
+42
+00:02:57,030 --> 00:03:00,030
+aber es gibt keine offene Wunde.
+
+43
+00:03:00,030 --> 00:03:12,440
+Haben Sie Kopfverletzungen?
+
+44
+00:03:12,440 --> 00:03:23,050
+Nein, ich habe keine Kopfverletzung.
+
+45
+00:03:23,050 --> 00:03:29,050
+Haben Sie noch andere Schmerzen in irgendwelchen Körperregionen, Herr Walter?
+
+46
+00:03:29,050 --> 00:03:34,050
+Ich fühle mich nicht an den anderen Körperteilen Schmerzen,
+
+47
+00:03:34,050 --> 00:03:37,050
+Doktor.
+
+48
+00:03:37,050 --> 00:03:41,050
+Könnten Sie mir bitte diese Schmerzen genauer beschreiben?
+
+49
+00:03:41,050 --> 00:03:43,050
+Du Schmerzen oder?
+
+50
+00:03:43,050 --> 00:03:47,420
+Ja, Schmerzen, Doktor.
+
+51
+00:03:47,420 --> 00:03:50,420
+Allen die Schmerzen irgendwo hinaus?
+
+52
+00:03:50,420 --> 00:04:09,420
+Ja, die Schmerzen sind in meinen Händen und in meinen Händen und oben.
+
+53
+00:04:09,420 --> 00:04:19,890
+Können Sie Ihre Hände gut bewegen oder haben Sie Bewegungsanschränkungen, Herr Walter?
+
+54
+00:04:19,890 --> 00:04:21,890
+Nein, Doktor.
+
+55
+00:04:21,890 --> 00:04:27,890
+Ich habe eine Bewegungsschränkung, ja.
+
+56
+00:04:27,890 --> 00:04:33,800
+Bewegungsanschränkungen, ja.
+
+57
+00:04:33,800 --> 00:04:34,800
+Echt?
+
+58
+00:04:34,800 --> 00:04:41,780
+Haben Sie dagegen irgendwelche Medikamente genommen?
+
+59
+00:04:41,780 --> 00:04:49,780
+Ja, ich nehme, ich habe 15 mg Ibuprofen angenommen,
+
+60
+00:04:49,780 --> 00:04:52,780
+aber es würde mir nicht geholfen.
+
+61
+00:04:52,780 --> 00:05:02,890
+Wie stark sind die Schmerzen auf einer Skala, wobei es am stärksten ist?
+
+62
+00:05:02,890 --> 00:05:09,900
+Es ist ungefähr 7 bis 8.
+
+63
+00:05:09,900 --> 00:05:16,900
+Könnten Sie bis zum Ende des Gesprächs aushalten oder ich kann Ihnen eine Schmerzmittel geben, Herr Walter?
+
+64
+00:05:16,900 --> 00:05:19,900
+Ja, Doktor. Ich kann warten, ja.
+
+65
+00:05:19,900 --> 00:05:29,730
+Gut. Haben Sie noch andere Beschwerden, Herr Walter?
+
+66
+00:05:29,730 --> 00:05:30,730
+Ja.
+
+67
+00:05:30,730 --> 00:05:33,730
+Ist Ihnen schwindelig?
+
+68
+00:05:33,730 --> 00:05:36,730
+Ich habe keine Schwindelig, nein Doktor.
+
+69
+00:05:36,730 --> 00:05:38,730
+Ihnen schwarz vor Augen?
+
+70
+00:05:38,730 --> 00:05:46,230
+Ich habe nicht bemerkt.
+
+71
+00:05:46,230 --> 00:05:51,230
+Haben Sie Herzrhythmusstörungen oder Herzstolpen bemerkt?
+
+72
+00:05:51,230 --> 00:05:55,910
+Nein.
+
+73
+00:05:55,910 --> 00:05:59,910
+Haben Sie Atemnot, Husten?
+
+74
+00:05:59,910 --> 00:06:01,910
+Ich habe nicht bemerkt, nein.
+
+75
+00:06:01,910 --> 00:06:09,610
+Ist Ihnen übel?
+
+76
+00:06:09,610 --> 00:06:12,610
+Ich habe keine Übel.
+
+77
+00:06:12,610 --> 00:06:19,050
+Müssen Sie sich übergeben vor oder nach dem Unfall?
+
+78
+00:06:19,050 --> 00:06:22,050
+Nein, nein, nein. Ich habe nicht bemerkt, nein.
+
+79
+00:06:22,050 --> 00:06:27,130
+Wie ist Ihr Appetit, Herr Walter?
+
+80
+00:06:27,130 --> 00:06:36,130
+Normalerweise gut, aber seit Morgen habe ich kaum Appetit. Vielleicht wegen Schmerzen.
+
+81
+00:06:37,130 --> 00:06:46,640
+Gut. Haben Sie in letzter Zeit ab- oder zu genommen?
+
+82
+00:06:46,640 --> 00:06:55,640
+Ich habe nicht bemerkt, Doktor. Ich bin immer gleich. Mein Gewicht ist immer gleich, ja.
+
+83
+00:06:55,640 --> 00:06:57,640
+Gut.
+
+84
+00:06:57,640 --> 00:07:04,640
+Haben Sie Schwierigkeiten beim Wasserlassen oder beim Stuhlgang?
+
+85
+00:07:04,640 --> 00:07:09,640
+Nein. Ich habe keine Probleme mit dem Wasserlassen oder Stuhlgang.
+
+86
+00:07:09,640 --> 00:07:16,640
+Haben Sie Fieber?
+
+87
+00:07:16,640 --> 00:07:21,640
+Ich fühle mich nicht fieberig. Ich habe nicht gemessen.
+
+88
+00:07:21,640 --> 00:07:30,080
+Haben Sie Kühnung in betroffenen Bereichen gemacht?
+
+89
+00:07:30,080 --> 00:07:35,080
+Nein, Doktor. Ich habe nicht bemerkt, nein.
+
+90
+00:07:38,080 --> 00:07:42,080
+Haben Sie Schlafstörungen, Herr Walter?
+
+91
+00:07:42,080 --> 00:07:50,170
+Nein, Doktor. Ich schlafe gut.
+
+92
+00:07:50,170 --> 00:07:54,170
+Leiden Sie an irgendwelche chronischen Erkrankungen?
+
+93
+00:07:54,170 --> 00:08:04,170
+Bei mir sind keine irgendwelche Krankheiten bekannt.
+
+94
+00:08:04,170 --> 00:08:13,820
+Gut. Nehmen Sie irgendwelche Medikamente regelmäßig?
+
+95
+00:08:14,820 --> 00:08:23,820
+Medikamente? Ja, ja. Zum Beispiel eine Paracetamol Tablette.
+
+96
+00:08:23,820 --> 00:08:27,820
+Ich habe manchmal Rücken Schmerzen.
+
+97
+00:08:27,820 --> 00:08:30,820
+Rücken Schmerzen.
+
+98
+00:08:30,820 --> 00:08:32,820
+Wie oft nehmen Sie?
+
+99
+00:08:32,820 --> 00:08:34,820
+Paracetamol Tablette.
+
+100
+00:08:34,820 --> 00:08:36,820
+Ja, ja. Wie oft?
+
+101
+00:08:36,820 --> 00:08:38,820
+300 mg. Bei mir.
+
+102
+00:08:38,820 --> 00:08:42,510
+Bei mir.
+
+103
+00:08:43,510 --> 00:08:47,890
+Haben Sie schon einmal operiert?
+
+104
+00:08:47,890 --> 00:08:55,890
+Ja, Doktor. Ich habe es vorhin schon gemacht.
+
+105
+00:08:55,890 --> 00:09:01,890
+Ich habe eine Diktarm-Operation gemacht.
+
+106
+00:09:01,890 --> 00:09:03,890
+Diktarm oder Bilindarm?
+
+107
+00:09:03,890 --> 00:09:05,890
+Bilindarm, ich weiß nicht.
+
+108
+00:09:05,890 --> 00:09:08,890
+Bilindarm und Fernhoch? Ja, ja.
+
+109
+00:09:08,890 --> 00:09:11,890
+In welchem Alter erinnert Sie sich?
+
+110
+00:09:11,890 --> 00:09:13,890
+Ja, recht.
+
+111
+00:09:13,890 --> 00:09:15,890
+In welchem Alter?
+
+112
+00:09:15,890 --> 00:09:17,890
+Recht, recht.
+
+113
+00:09:17,890 --> 00:09:19,890
+In welchem Alter?
+
+114
+00:09:19,890 --> 00:09:26,940
+Ja, ungefähr. Ich bin 17 Jahre alt.
+
+115
+00:09:26,940 --> 00:09:29,940
+War das Operation komplikationlos?
+
+116
+00:09:29,940 --> 00:09:33,940
+Ja, ja. Das war komplikationlos.
+
+117
+00:09:33,940 --> 00:09:36,940
+Gut zu hören.
+
+118
+00:09:36,940 --> 00:09:43,730
+Haben Sie Allergien, Herr Walter?
+
+119
+00:09:43,730 --> 00:09:45,730
+Allergien?
+
+120
+00:09:45,730 --> 00:09:49,730
+Oder Unverträglichkeiten gegen Lebensmittel?
+
+121
+00:09:49,730 --> 00:09:55,730
+Ich habe keine Allergen oder Unverträglichkeiten, Doktor.
+
+122
+00:09:55,730 --> 00:10:01,390
+Gut. Rauchen Sie?
+
+123
+00:10:01,390 --> 00:10:09,390
+Ja, ich rauche 30 Zigaretten pro Tag seit 20 Jahren.
+
+124
+00:10:09,390 --> 00:10:12,390
+30 Zigaretten?
+
+125
+00:10:12,390 --> 00:10:14,390
+Seit 20 Jahren.
+
+126
+00:10:14,390 --> 00:10:20,500
+Das ist zu viel für Ihre Gesundheit.
+
+127
+00:10:20,500 --> 00:10:26,500
+Ich habe viele Mal auf den Zigaretten aufgehören.
+
+128
+00:10:26,500 --> 00:10:32,500
+Aber ich habe nicht verstanden.
+
+129
+00:10:32,500 --> 00:10:39,500
+Wir haben eine Abteilung. Wir können einen Termin vereinbaren für Sie.
+
+130
+00:10:39,500 --> 00:10:43,500
+Sie können eine Begattung nehmen.
+
+131
+00:10:43,500 --> 00:10:47,500
+Ich wäre Ihnen dankbar, wenn Sie mir helfen, Doktor.
+
+132
+00:10:47,500 --> 00:10:51,500
+Natürlich. Trinken Sie Alkohol?
+
+133
+00:10:51,500 --> 00:10:57,500
+Ja, ich trinke eine Flasche oder einen Liter Bier pro Tag.
+
+134
+00:10:57,500 --> 00:10:59,500
+Täglich?
+
+135
+00:10:59,500 --> 00:11:03,900
+Ja, täglich.
+
+136
+00:11:03,900 --> 00:11:05,900
+Einen Liter oder eine Flasche?
+
+137
+00:11:05,900 --> 00:11:10,340
+Einen Liter.
+
+138
+00:11:10,340 --> 00:11:12,340
+Das ist auch zu viel, Herr Walter.
+
+139
+00:11:12,340 --> 00:11:18,430
+Ja, leider.
+
+140
+00:11:18,430 --> 00:11:22,430
+Nehmen Sie die folgenden Fragen nicht persönlich.
+
+141
+00:11:22,430 --> 00:11:26,430
+Aus medizinischen Gründen fragen wir immer.
+
+142
+00:11:26,430 --> 00:11:28,430
+Haben Sie Erfahrung mit Drogen?
+
+143
+00:11:28,430 --> 00:11:32,430
+Ich habe keine Drogen probiert.
+
+144
+00:11:32,430 --> 00:11:34,430
+Gut, ich freu mich.
+
+145
+00:11:34,430 --> 00:11:36,430
+Danke schön.
+
+146
+00:11:36,430 --> 00:11:38,430
+Sind Sie verheiratet?
+
+147
+00:11:38,430 --> 00:11:42,580
+Ja, ich bin verheiratet.
+
+148
+00:11:42,580 --> 00:11:44,580
+Haben Sie Kinder?
+
+149
+00:11:44,580 --> 00:11:50,320
+Ich habe keine Kinder.
+
+150
+00:11:50,320 --> 00:11:54,320
+Leben Sie mit Ihrer Frau zusammen?
+
+151
+00:11:54,320 --> 00:11:58,320
+Ja, ich lebe mit meiner Frau.
+
+152
+00:11:58,320 --> 00:12:09,020
+Haben Sie irgendwelche chronischen Erkrankungen bei Ihrer Familie?
+
+153
+00:12:09,020 --> 00:12:13,020
+Mein Vater hat Bluthochdruck.
+
+154
+00:12:13,020 --> 00:12:17,020
+Und meine Mutter hat Zuckerkrankheit.
+
+155
+00:12:17,020 --> 00:12:21,020
+Welche Typ? Wissen Sie das? Typ 2 oder?
+
+156
+00:12:21,020 --> 00:12:25,900
+Typ 2, ja.
+
+157
+00:12:25,900 --> 00:12:29,900
+Haben Sie beide noch andere chronische Erkrankungen?
+
+158
+00:12:29,900 --> 00:12:31,900
+Nein, das war es, Doktor.
+
+159
+00:12:31,900 --> 00:12:33,900
+Das war es.
+
+160
+00:12:33,900 --> 00:12:37,900
+Das ist keine andere Krankheit.
+
+161
+00:12:37,900 --> 00:12:41,900
+Haben Sie Geschwister?
+
+162
+00:12:41,900 --> 00:12:43,900
+Ich bin Einzelkind.
+
+163
+00:12:43,900 --> 00:12:52,320
+Sind Sie vollständig geimpft, Herr Walter?
+
+164
+00:12:52,320 --> 00:12:56,320
+Ich meine gegen Kinderkrankheit, Covid-19?
+
+165
+00:12:56,320 --> 00:13:04,320
+Ja, ich bin vollständig geimpft, so wie drei Mal gegen Covid-19.
+
+166
+00:13:04,320 --> 00:13:08,320
+Waren Sie in Lester seitdem im Ausland?
+
+167
+00:13:08,320 --> 00:13:16,320
+Vor sechs Monaten war ich in Griechenland, für Urlaub, Doktor.
+
+168
+00:13:16,320 --> 00:13:18,320
+Für?
+
+169
+00:13:18,320 --> 00:13:20,320
+Für Urlaub.
+
+170
+00:13:20,320 --> 00:13:22,320
+Verstehe.
+
+171
+00:13:22,320 --> 00:13:26,320
+Trägen Sie regelmäßig Sport?
+
+172
+00:13:26,320 --> 00:13:30,320
+Ja, ich treibe manchmal Tennis.
+
+173
+00:13:30,320 --> 00:13:34,320
+Oder Wandern.
+
+174
+00:13:34,320 --> 00:13:36,320
+Anwohnende.
+
+175
+00:13:36,320 --> 00:13:44,690
+Noch andere Fragen für Ihre aktuellen Beschwerden.
+
+176
+00:13:44,690 --> 00:13:50,690
+Haben Sie Kliniken?
+
+177
+00:13:50,690 --> 00:13:59,300
+Nein, ich habe keine Kliniken.
+
+178
+00:13:59,300 --> 00:14:03,300
+Ist Ihnen Taubheitsgefühl oder Kribben aufgefallen?
+
+179
+00:14:03,300 --> 00:14:17,410
+Nein, ich habe keine Kribben.
+
+180
+00:14:17,410 --> 00:14:23,410
+Ich habe es mir notiert, aber ich bin mir nicht sicher, ob das richtig war.
+
+181
+00:14:23,410 --> 00:14:27,410
+Sie nehmen dagegen Paracetamol Tablet, oder?
+
+182
+00:14:27,410 --> 00:14:35,410
+Ja, ich habe einmalig 500 mg Ibuprofen Tablet.
+
+183
+00:14:35,410 --> 00:14:37,410
+Ibuprofen.
+
+184
+00:14:37,410 --> 00:14:43,410
+Heute Morgen habe ich es mir angekündigt.
+
+185
+00:14:43,410 --> 00:14:47,410
+Alles klar, Herr Walter.
+
+186
+00:14:47,410 --> 00:14:51,410
+Ich habe viele wichtige Fragen gestellt.
+
+187
+00:14:51,410 --> 00:14:55,410
+Möchten Sie noch etwas hinzufügen?
+
+188
+00:14:55,410 --> 00:14:57,410
+Was habe ich, Doktor?
+
+189
+00:14:57,410 --> 00:15:05,410
+Sie haben auf der linken Seite gefallen.
+
+190
+00:15:05,410 --> 00:15:11,410
+Sie haben Rötungen und Schwellungen und Schmerzen.
+
+191
+00:15:11,410 --> 00:15:19,410
+Es könnte Handgelenkknochenbruch sein, Herr Walter.
+
+192
+00:15:19,410 --> 00:15:23,410
+Aber es ist zufügig etwas Genaues zu sagen.
+
+193
+00:15:23,410 --> 00:15:29,410
+Jetzt werde ich eine körperliche Untersuchung durchführen.
+
+194
+00:15:29,410 --> 00:15:35,410
+Danach werden wir eine operative Diagnostik veranlassen.
+
+195
+00:15:35,410 --> 00:15:37,410
+Dann können wir entscheiden.
+
+196
+00:15:37,410 --> 00:15:39,410
+Was ist operativ?
+
+197
+00:15:39,410 --> 00:15:45,410
+Operative Diagnostik ist ein bildgebendes Verfahren.
+
+198
+00:15:45,410 --> 00:15:55,410
+Röntgenaufnahme oder CT, Computertomographie.
+
+199
+00:15:55,410 --> 00:15:57,410
+Ich verstehe.
+
+200
+00:15:57,410 --> 00:16:01,410
+Wurde ich operiert?
+
+201
+00:16:01,410 --> 00:16:07,410
+Wie gesagt, es ist zufügig etwas Genaues zu sagen.
+
+202
+00:16:07,410 --> 00:16:15,410
+Wenn wir die Ergebnisse bekommen, können wir mehr übersprechen.
+
+203
+00:16:15,410 --> 00:16:19,410
+Danke schön. Ich warte auf Sie.
+
+204
+00:16:19,410 --> 00:16:23,410
+Sie bleiben hier. Dann komme ich wieder.
+
+205
+00:16:23,410 --> 00:16:25,410
+Okay, danke.
+
+206
+00:16:25,410 --> 00:16:36,450
+Guten Tag.
+
+207
+00:16:36,450 --> 00:16:42,450
+Ich möchte Ihnen die Patienten vorstellen, die ich in der Notaufnahme gesehen habe.
+
+208
+00:16:42,450 --> 00:16:48,450
+Ich bin Walter, ein 37-jähriger Patient.
+
+209
+00:16:48,450 --> 00:16:52,450
+Er wurde am 2.6.1988 geboren.
+
+210
+00:16:52,450 --> 00:16:58,450
+Er ist 1,70 Meter groß und 75 Kilogramm schwer.
+
+211
+00:16:58,450 --> 00:17:12,450
+Er hatte sich seit heute Morgen bestehende Handgelenke geschmissen.
+
+212
+00:17:12,450 --> 00:17:24,450
+Links mit Ausstrahlung in den Oberarm oder in die Humerus.
+
+213
+00:17:24,450 --> 00:17:30,450
+Das war ein Unfall.
+
+214
+00:17:30,450 --> 00:17:34,450
+Er war im Badezimmer.
+
+215
+00:17:34,450 --> 00:17:42,450
+Er ist ausgeruscht.
+
+216
+00:17:42,450 --> 00:17:52,450
+Er ist auf dem linken Handgelenk gefallen.
+
+217
+00:17:52,450 --> 00:18:04,450
+Als Begleitsymptomen liegen Rötung, Oedema und Bewegungseinschränkung vor.
+
+218
+00:18:04,450 --> 00:18:10,450
+Er hat dagegen Ibuprofen genommen.
+
+219
+00:18:10,450 --> 00:18:16,450
+Aber es hat ihm nicht geholfen.
+
+220
+00:18:16,450 --> 00:18:24,450
+Die Schmerzintensität wurde mit 7 bis 8 von 10 bewertet.
+
+221
+00:18:24,450 --> 00:18:36,450
+Die Frage nach Pharestese, Atemnot oder Dyspnoe, Herzrhythmusstörungen wurde verleumd.
+
+222
+00:18:36,450 --> 00:18:44,450
+Er hatte keine Kopfverletzung.
+
+223
+00:18:44,450 --> 00:18:52,450
+Die vegetative Anamnese ist unaufällig bis auf Inapetens.
+
+224
+00:18:52,450 --> 00:18:58,450
+Seit heute Morgen wegen der Schmerzen.
+
+225
+00:18:58,450 --> 00:19:04,450
+Bei ihm keine chronischen Vorerkrankungen bekannt.
+
+226
+00:19:04,450 --> 00:19:14,450
+Er nimmt gelegentlich 500 mg Paracetamol ein.
+
+227
+00:19:14,450 --> 00:19:20,450
+Er nimmt bei Bedarf 500 mg Paracetamol ein.
+
+228
+00:19:20,450 --> 00:19:24,450
+Wegen der Schmerzen.
+
+229
+00:19:24,450 --> 00:19:30,450
+Bei ihm wurde mit 17 Jahren eine Apendektomie durchgeführt.
+
+230
+00:19:30,450 --> 00:19:36,450
+Bei ihm keine Allergien und Unverträglichkeiten bekannt.
+
+231
+00:19:36,450 --> 00:19:44,450
+Er rauche seit 20 Jahren 30 Zigaretten täglich.
+
+232
+00:19:44,450 --> 00:19:50,450
+Er trinke täglich 1 Liter Bier.
+
+233
+00:19:50,450 --> 00:19:54,450
+Er ist verheiratet.
+
+234
+00:19:54,450 --> 00:19:58,450
+Er hat keine Kinder.
+
+235
+00:19:58,450 --> 00:20:02,450
+Er lebt mit seiner Ehefrau zusammen.
+
+236
+00:20:02,450 --> 00:20:08,450
+In der Familienanamnese fand er arterielle Hypertonik.
+
+237
+00:20:08,450 --> 00:20:12,450
+Bei Vater.
+
+238
+00:20:12,450 --> 00:20:16,450
+Diabetes mellitus type 2 bei der Mutter.
+
+239
+00:20:16,450 --> 00:20:20,450
+Er ist Einzelkind.
+
+240
+00:20:20,450 --> 00:20:24,450
+Er ist vollständig geimpft.
+
+241
+00:20:24,450 --> 00:20:30,450
+Er spielt regelmäßig Tennis.
+
+242
+00:20:30,450 --> 00:20:40,450
+Meine Verdachtdiagnose lautet auf Handgelenkfraktur.
+
+243
+00:20:40,450 --> 00:20:48,450
+Die Differenzialdiagnostik kommt von Bandriss,
+
+244
+00:20:48,450 --> 00:20:54,450
+Prällungen, Muskelspannung,
+
+245
+00:20:54,450 --> 00:21:00,450
+Weichteil, Gewebe, Verletzung in Betracht.
+
+246
+00:21:00,450 --> 00:21:06,450
+Zur Diagnostik würde ich bei dem Patienten
+
+247
+00:21:06,450 --> 00:21:12,450
+eine entsprechende körperliche Untersuchung durchführen.
+
+248
+00:21:12,450 --> 00:21:18,450
+Zuerst würde ich die vitalen Parameter erfassen.
+
+249
+00:21:18,450 --> 00:21:26,450
+Danach würde ich den Patienten inspezieren, palpieren und oskultieren.
+
+250
+00:21:26,450 --> 00:21:30,450
+Bei der Inspektion achte ich oder beurteile ich
+
+251
+00:21:30,450 --> 00:21:34,450
+meinen Zustand des Patienten.
+
+252
+00:21:34,450 --> 00:21:42,450
+In diesem Fall ist eine neurologische Untersuchung wegweisend.
+
+253
+00:21:42,450 --> 00:21:52,450
+Dabei würde ich Motorik, Sensibilität, Reflex und Gelenkeinschränkung überprüfen.
+
+254
+00:21:52,450 --> 00:22:06,450
+Bei der weiteren Diagnostik würde ich eine bildgebende Methode veranlassen.
+
+255
+00:22:06,450 --> 00:22:14,450
+Zunächst würde ich zwei Ebenen Handgelenkröntgen veranlassen.
+
+256
+00:22:14,450 --> 00:22:26,450
+In diesem Fall würde ich die Computer-Tomographie im Handgelenk veranlassen.
+
+257
+00:22:26,450 --> 00:22:30,450
+Sollte sich meine Verdachtstiagnose bestätigen,
+
+258
+00:22:30,450 --> 00:22:40,450
+würde ich zunächst den Patienten stationär aufnehmen.
+
+259
+00:22:40,450 --> 00:22:50,450
+Dann würde ich eine Venöse-Zugang legen, um eine Venöse-Therapie zu ermöglichen.
+
+260
+00:22:50,450 --> 00:23:02,450
+Danach würde ich die Analgetik und Verabreichung verabreichen.
+
+261
+00:23:02,450 --> 00:23:12,450
+Dann würde ich eine Chirurgische Konzilveranlassung machen.
+
+262
+00:23:12,450 --> 00:23:28,620
+Dann würde ich eine Chirurgische Konzilveranlassung machen.
+
+263
+00:23:28,620 --> 00:23:42,130
+Dann würde ich eine Chirurgische Konzilveranlassung machen.
+
+264
+00:23:42,130 --> 00:23:54,130
+Dann würde ich eine Vertikodanlage machen.
+
+265
+00:23:54,130 --> 00:24:02,130
+Dann würde ich eine Vertikodanlage machen.
+
+266
+00:24:02,130 --> 00:24:24,080
+Dann würde ich eine Vertikodanlage machen.
+
+267
+00:24:24,080 --> 00:24:42,080
+Hat der Patient eine kalte Haut bemerkt?
+
+268
+00:24:42,080 --> 00:24:50,080
+Ich habe es nicht gefragt, Frau Oberarztin.
+
+269
+00:24:50,080 --> 00:24:56,080
+Ich habe nur die Rötung, Schwellung und offene Wunde gefragt.
+
+270
+00:24:56,080 --> 00:25:04,080
+Er hat Rötung und Oedema, aber keine offene Wunde.
+
+271
+00:25:04,080 --> 00:25:10,080
+Bei der körperlichen Untersuchung werde ich überprüfen.
+
+272
+00:25:10,080 --> 00:25:18,080
+Wie können Sie überprüfen?
+
+273
+00:25:18,080 --> 00:25:30,080
+Wir können überprüfen, aber nicht durch.
+
+274
+00:25:30,080 --> 00:25:39,840
+Wir können überprüfen, aber nicht durch.
+
+275
+00:25:39,840 --> 00:25:47,840
+Wir können überprüfen, aber nicht durch.
+
+276
+00:25:47,840 --> 00:25:57,840
+Wir können überprüfen, aber nicht durch.
+
+277
+00:25:57,840 --> 00:26:01,840
+Bei der Palpation kann ich überprüfen.
+
+278
+00:26:01,840 --> 00:26:08,690
+Okay.
+
+279
+00:26:08,690 --> 00:26:22,690
+Sie abtasten die peripherliche Pulse, oder?
+
+280
+00:26:22,690 --> 00:26:30,690
+Bei der Palpation sollte ich die Durchfluchtung überprüfen.
+
+281
+00:26:30,690 --> 00:26:36,690
+Peripherische Pulse.
+
+282
+00:26:36,690 --> 00:26:40,690
+Wir sollten peripherische Pulse kontrollen oder überprüfen.
+
+283
+00:26:40,690 --> 00:26:50,690
+Warum veranlasst Sie eine CT?
+
+284
+00:26:50,690 --> 00:27:08,160
+Bei der CT können wir darstellen, nicht nur Knochen, sondern auch eine Bandesstruktur.
+
+285
+00:27:08,160 --> 00:27:16,930
+Bei der CT.
+
+286
+00:27:16,930 --> 00:27:22,930
+Oder denken Sie weiter überprüfen?
+
+287
+00:27:22,930 --> 00:27:36,930
+Wenn es eine unklarere Faktur gibt, können wir die CT genauer darstellen.
+
+288
+00:27:36,930 --> 00:27:40,930
+Okay.
+
+289
+00:27:40,930 --> 00:27:54,930
+Ich habe keine weitere Frage.
+
+290
+00:27:54,930 --> 00:27:58,930
+Hier eine Frage.
+
+291
+00:27:58,930 --> 00:28:09,900
+Was sind die sicher und unsichersten Faktorzeichen?
+
+292
+00:28:09,900 --> 00:28:28,750
+Ich kenne es als pathologische Mobilisierung.
+
+293
+00:28:28,750 --> 00:28:32,750
+Ja, Herr Oberarzt, vielen Dank.
+
+294
+00:28:32,750 --> 00:28:40,750
+Pathologische Bewegung und Prellung.
+
+295
+00:28:40,750 --> 00:28:49,650
+Grosse Ödämme.
+
+296
+00:28:49,650 --> 00:28:57,650
+Pathologische Bewegung ist entscheidend.
+
+297
+00:28:57,650 --> 00:29:12,740
+Welche unsichere Faktorzeichen hat dieser Patient?
+
+298
+00:29:12,740 --> 00:29:20,740
+Er hat Wirtung und Ödämme. Das ist ein unsicherer Faktorzeichen.
+
+299
+00:29:20,740 --> 00:29:24,740
+Ich habe die anderen Fragen nicht gestellt.
+
+300
+00:29:24,740 --> 00:29:28,740
+Aber er hat Bewegungseinschränkungen.
+
+301
+00:29:28,740 --> 00:29:32,740
+Ja, das ist auch ein unsicherer Faktorzeichen.
+
+302
+00:29:32,740 --> 00:29:38,740
+Und hat er ein sicheres Faktorzeichen?
+
+303
+00:29:38,740 --> 00:29:40,740
+Ich habe es nicht gefragt.
+
+304
+00:29:40,740 --> 00:29:44,740
+Bei der persönlichen Untersuchung werde ich überprüfen.
+
+305
+00:29:44,740 --> 00:29:48,740
+Okay, und noch einmal bitte, welche sicheren Faktorzeichen kennen Sie?
+
+306
+00:29:48,740 --> 00:29:52,740
+Pathologische Bewegung.
+
+307
+00:29:52,740 --> 00:29:56,740
+Ja, noch etwas?
+
+308
+00:29:56,740 --> 00:29:58,740
+Prellung oder?
+
+309
+00:29:58,740 --> 00:30:00,740
+Also Krepitation.
+
+310
+00:30:00,740 --> 00:30:02,740
+Deformität.
+
+311
+00:30:02,740 --> 00:30:06,740
+Wie können wir Deformität überprüfen?
+
+312
+00:30:06,740 --> 00:30:12,740
+Sie können die pathologische Bewilligkeit überprüfen.
+
+313
+00:30:12,740 --> 00:30:22,740
+Wenn der Patient eine Deformität hat, kann er eine pathologische Bewilligung haben.
+
+314
+00:30:22,740 --> 00:30:28,740
+Und offene Faktor können Sie feststellen.
+
+315
+00:30:28,740 --> 00:30:32,740
+Das ist auch ein sicheres Faktorzeichen.
+
+316
+00:30:32,740 --> 00:30:34,740
+Okay.
+
+317
+00:30:34,740 --> 00:30:43,220
+Wirtung, Fachbegriff, Kalor oder?
+
+318
+00:30:43,220 --> 00:30:45,220
+Kalor ist Überwärmung.
+
+319
+00:30:45,220 --> 00:30:51,220
+Palor ist nicht Wirtung.
+
+320
+00:30:51,220 --> 00:30:55,220
+Also das ist Palor.
+
+321
+00:30:55,220 --> 00:30:57,220
+Was ist das denn?
+
+322
+00:30:57,220 --> 00:31:01,220
+Während eines Anime können wir Palor feststellen.
+
+323
+00:31:01,220 --> 00:31:03,220
+Ja.
+
+324
+00:31:03,220 --> 00:31:05,220
+Blatze.
+
+325
+00:31:05,220 --> 00:31:07,220
+Blatze.
+
+326
+00:31:07,220 --> 00:31:09,220
+Blatze.
+
+327
+00:31:09,220 --> 00:31:14,450
+Genau.
+
+328
+00:31:14,450 --> 00:31:16,450
+Okay, das ist genug, ich glaube.
+
+329
+00:31:16,450 --> 00:31:18,450
+Wir haben noch 20 Sekunden.
+
+330
+00:31:20,180 --> 00:31:22,180
+Ja.
+
+331
+00:31:22,180 --> 00:31:24,180
+Wie war es?
+
+332
+00:31:24,180 --> 00:31:32,180
+Ich habe heute einen neuen Patienten aufgenommen.
+
+333
+00:31:32,180 --> 00:31:40,180
+Und ich würde ihn Ihnen vorstellen.
+
+334
+00:31:40,180 --> 00:31:42,180
+Haben Sie kurz Zeit dafür?
+
+335
+00:31:42,180 --> 00:31:44,180
+Ja, habe ich bitte.
+
+336
+00:31:44,180 --> 00:32:04,180
+Ich berichte über den 37-jährigen Patienten, Herr Walter, der 1,70 Meter groß ist und 75 Kilogramm wiegt.
+
+337
+00:32:04,180 --> 00:32:18,180
+Der Patient kommt heute zu uns mit seit heute Morgen 5-ten,
+
+338
+00:32:18,180 --> 00:32:32,180
+mit Ausstrahlung in den linken Oberschenkel und Fuss.
+
+339
+00:32:32,180 --> 00:32:45,900
+Außerdem klagt der Patient über Ruhbo,
+
+340
+00:32:45,900 --> 00:32:55,900
+die Handgelände sind voll und schwellig.
+
+341
+00:32:55,900 --> 00:33:01,900
+Die Frage nach Kopfverletzung wurde vermeint.
+
+342
+00:33:01,900 --> 00:33:07,900
+Woher strahlen die Schmerzen aus?
+
+343
+00:33:07,900 --> 00:33:17,900
+In den Oberschenkel und Fuss.
+
+344
+00:33:17,900 --> 00:33:23,900
+Nein, Oberarm und Hand.
+
+345
+00:33:23,900 --> 00:33:25,900
+Es tut mir leid, Herr Oberhart.
+
+346
+00:33:25,900 --> 00:33:31,900
+Ich habe falsch bemerkt wegen Stress.
+
+347
+00:33:31,900 --> 00:33:33,900
+Alles gut.
+
+348
+00:33:33,900 --> 00:33:35,900
+Machen Sie mit.
+
+349
+00:33:35,900 --> 00:33:39,900
+Die Frage nach Kopfverletzung wurde vermeint.
+
+350
+00:33:39,900 --> 00:33:43,900
+Cerebrale Trauma wurde vermeint.
+
+351
+00:33:43,900 --> 00:33:51,900
+Ibuprofen Einnahme hat keine Linderung gebracht.
+
+352
+00:33:51,900 --> 00:34:01,900
+Die Beschwerden sind auftreten, nachdem er in der Badetzima gefallen ist.
+
+353
+00:34:01,900 --> 00:34:13,900
+Die Frage nach Tachikardie, Dyspne, Fibaschütelfrost, Nausea und Emesis wurde vermeint.
+
+354
+00:34:13,900 --> 00:34:31,310
+Der Patient bewertete seine Schmerzen 7-8 von 10 auf einer Schmerzskala.
+
+355
+00:34:31,310 --> 00:34:39,310
+Die Patienten sind nicht vor der Krankheit bekannt.
+
+356
+00:34:39,310 --> 00:34:49,310
+Sie haben eine Parasite und schmerzen sehr schwer.
+
+357
+00:34:49,310 --> 00:35:11,310
+Mit 17 Jahren wurde bei den Patienten Tonsillektomie erfolgt.
+
+358
+00:35:11,310 --> 00:35:19,310
+Die Frage nach Allergie und Unverträglichkeiten wurde vermeint.
+
+359
+00:35:19,310 --> 00:35:23,310
+Er ist vollständig geimpft.
+
+360
+00:35:23,310 --> 00:35:27,310
+Reiseanamnese ist unauffällig.
+
+361
+00:35:27,310 --> 00:35:33,310
+Er treibt regelmäßig Tennisspiel.
+
+362
+00:35:33,310 --> 00:35:49,310
+Er raucht 30 Zigaretten pro Tag und trinkt ein Flasche Bier täglich.
+
+363
+00:35:49,310 --> 00:35:53,310
+Drogenkonsum wurde vermeint.
+
+364
+00:35:53,310 --> 00:36:11,310
+In der Familienanamnese gab er an, väterlicherseits Arterialhypertonie und Mutterlicherseits Diabetes mellitus Typ 2.
+
+365
+00:36:11,310 --> 00:36:15,310
+Er ist Lehrer und verheiratet.
+
+366
+00:36:15,310 --> 00:36:25,310
+Er hat keine Kinder und erlebt mit seiner Frau.
+
+367
+00:36:25,310 --> 00:36:35,310
+Die anamnestischen Angaben deuten am ehesten auf Distal Radius Fracture hin.
+
+368
+00:36:35,310 --> 00:36:49,310
+Differenziell diagnostisch kommen Weichgewebe und Sehnenverletzungen.
+
+369
+00:36:49,310 --> 00:36:56,690
+Welche Symptome sprechen für eine Distal Radius Fracture?
+
+370
+00:36:56,690 --> 00:37:02,690
+Der Patient hat sehr starke Schmerzen zuerst.
+
+371
+00:37:02,690 --> 00:37:18,690
+Er hat auch Schwellung, Rötung oder Dolor, Rupor.
+
+372
+00:37:18,690 --> 00:37:24,690
+Er hat eine Trauma-Geschichte.
+
+373
+00:37:24,690 --> 00:37:32,690
+Diese Symptome sprechen für eine Distal Radius Fracture.
+
+374
+00:37:32,690 --> 00:37:40,690
+Eine eingeschränkte Bewegung ist auch ein starkes Signal für Distal Radius Fracture.
+
+375
+00:37:40,690 --> 00:37:44,690
+Okay, machen Sie weiter.
+
+376
+00:37:44,690 --> 00:38:02,690
+Um meine Verdachtdiagnose zu bestätigen, werde ich den Patienten körperlich untersuchen.
+
+377
+00:38:02,690 --> 00:38:12,690
+Bei der Palpation achte ich darauf, ob es Druckdollens gibt.
+
+378
+00:38:12,690 --> 00:38:20,690
+Bei der Inspektion achte ich darauf, ob es eine Deformität gibt.
+
+379
+00:38:20,690 --> 00:38:30,690
+Außerdem werde ich eine zweiebene Röntgenaufnahme durchführen.
+
+380
+00:38:30,690 --> 00:38:36,690
+Ich werde die Fracture beschleunigen.
+
+381
+00:38:36,690 --> 00:38:56,690
+Wenn ich die Handgelände verändern werde, werde ich die Operation planen.
+
+382
+00:38:56,690 --> 00:39:17,970
+Wenn ich die Handgelände verändern werde, werde ich die Operation planen.
+
+383
+00:39:17,970 --> 00:39:35,970
+Eine orthopädische Konzil wird sinnvoll, die Behandlung zu optimieren und eine mögliche Operation zu bestimmen.
+
+384
+00:39:35,970 --> 00:39:57,970
+Ich werde den Patienten stationär aufnehmen und eine Zugangspartikel verbreiten.
+
+385
+00:39:57,970 --> 00:40:09,340
+Diese Schmerzen sind sehr starke Schmerzen und um eine mögliche Operation zu vorbereiten.
+
+386
+00:40:09,340 --> 00:40:13,340
+Welche Labouruntersuchungen würden Sie kontrollieren?
+
+387
+00:40:13,340 --> 00:40:41,340
+Ich werde die Grußblutbildentzündungsparameter, Nieren- und Leberwerte, Koagulationparameter, Hepatitmarker und Anti-Hib, Anti-HBS, HBSG bestimmen.
+
+388
+00:40:41,340 --> 00:40:49,340
+Ich werde die Operation bestimmen und eine mögliche Operation zu vorbereiten.
+
+389
+00:40:49,340 --> 00:40:59,340
+Brauchen wir eine Blutgruppe kontrollieren?
+
+390
+00:40:59,340 --> 00:41:19,340
+Die Blutgruppe bestimmen ist auch nötig, um die Blutgruppe zu vermeiden.
+
+391
+00:41:19,340 --> 00:41:27,340
+Welche sichere und unsichere Fracture-Zeichen kennen Sie?
+
+392
+00:41:27,340 --> 00:41:51,340
+Unsichere Zeichen sind Hämatom, Rötung, Ruprum und Schmerzen.
+
+393
+00:41:51,340 --> 00:42:07,340
+Unsichere Zeichen sind Deformität und Krepitation.
+
+394
+00:42:07,340 --> 00:42:21,340
+Ich werde eine neurologische Untersuchung durchführen, ob es eine Taubeizugefühl oder Nervenverletzungen gibt.
+
+395
+00:42:21,340 --> 00:42:33,340
+Ich werde auch die Finger und die Hände abtasten, um mögliche Durchblutstörungen auszuschließen.
+
+396
+00:42:33,340 --> 00:42:42,690
+Eine Komplikation von Distal Radius Fracture ist Kompartment-Syndrom.
+
+397
+00:42:42,690 --> 00:42:48,690
+Das bedeutet Durchblutstörung und sehr starke Schmerzen.
+
+398
+00:42:48,690 --> 00:42:56,690
+Die Patiente muss engmaschig kontrolliert werden.
+
+399
+00:42:56,690 --> 00:43:04,690
+Welche anderen Komplikationen kennen Sie bei einer Faktur?
+
+400
+00:43:04,690 --> 00:43:20,690
+Besonders in offener Faktur kann keine Infektion aufsteigen.
+
+401
+00:43:20,690 --> 00:43:32,690
+Die Nervenverletzungen, die Arterie und die Venenverletzungen, kann auftreten.
+
+402
+00:43:32,690 --> 00:43:42,540
+Und der Kompartment-Syndrom kann auftreten.
+
+403
+00:43:42,540 --> 00:43:50,540
+Fettembolie, das können wir sagen.
+
+404
+00:43:50,540 --> 00:44:00,540
+Nach dem Kompartment-Syndrom kann die ischämische Kontraktur auftreten.
+
+405
+00:44:00,540 --> 00:44:08,540
+Aber Fettembolie ist sehr wenig, besonders in kleinen Knochen.
+
+406
+00:44:08,540 --> 00:44:16,540
+In großen Femur- oder Pelvic-Frakturen ist Fettembolie nicht selten.
+
+407
+00:44:16,540 --> 00:44:24,540
+Welche Knochenbruchtypen kennen Sie?
+
+408
+00:44:24,540 --> 00:44:32,540
+In Handgelenk gibt es Extension- oder Flexion-Frakturen.
+
+409
+00:44:32,540 --> 00:44:38,540
+Extension-Fraktur heißt Collet-Fraktur.
+
+410
+00:44:38,540 --> 00:44:44,540
+Flexion-Fraktur heißt Simit-Fraktur.
+
+411
+00:44:44,540 --> 00:44:52,540
+Normalerweise gibt es Displaced-Frakturen.
+
+412
+00:44:52,540 --> 00:44:58,540
+Auf Latein können wir sagen, dass es Faktbegriffen gibt.
+
+413
+00:44:58,540 --> 00:45:08,540
+Displaced-Frakturen oder Deplacé-Frakturen oder undisplaced-Frakturen kann auftreten.
+
+414
+00:45:08,540 --> 00:45:20,540
+Wenn die Faktur nicht displaced ist, können wir sie mit Gips oder Konservativ behandeln.
+
+415
+00:45:20,540 --> 00:45:30,540
+Aber mit Displaced-Frakturen müssen wir auf jeden Fall operieren.
+
+416
+00:45:30,540 --> 00:45:36,540
+Welche operative Verfahren kennen Sie?
+
+417
+00:45:36,540 --> 00:45:44,540
+In der operativen Verfahren gibt es zwei Möglichkeiten.
+
+418
+00:45:44,540 --> 00:45:48,540
+Offene oder nicht offene Operation.
+
+419
+00:45:48,540 --> 00:45:58,540
+Mit Platte und Schraub-Osteosynthese können wir offene Operation durchführen.
+
+420
+00:45:58,540 --> 00:46:10,540
+Nicht offene Operation ist geschlossene Reposition mit Kirschen.
+
+421
+00:46:10,540 --> 00:46:16,540
+Mit K-Weihrauch.
+
+422
+00:46:16,540 --> 00:46:20,540
+Das weiß ich nicht in Deutsch.
+
+423
+00:46:20,540 --> 00:46:24,540
+Oder mit Gips können wir operieren.
+
+424
+00:46:24,540 --> 00:46:26,540
+Das ist gut.
+
+425
+00:46:26,540 --> 00:46:30,540
+Das ist genau die Frage.
+
+426
+00:46:30,540 --> 00:46:37,860
+Der Ziel ist, die Fakten zu kümmern.
+
+427
+00:46:37,860 --> 00:46:39,860
+Guten Tag Herr Oberarzt.
+
+428
+00:46:39,860 --> 00:46:43,860
+Wir haben heute einen neuen Patienten.
+
+429
+00:46:43,860 --> 00:46:47,860
+Ich möchte Ihnen den Patienten vorstellen.
+
+430
+00:46:47,860 --> 00:46:49,860
+Haben Sie kurz Zeit für mich?
+
+431
+00:46:49,860 --> 00:46:51,860
+Ja, bitte.
+
+432
+00:46:51,860 --> 00:46:55,860
+Ich bin der Herr Bende Walter.
+
+433
+00:46:55,860 --> 00:46:59,860
+Er ist 37 Jahre alt.
+
+434
+00:46:59,860 --> 00:47:01,860
+Er ist 75 Kilogramm schwer.
+
+435
+00:47:01,860 --> 00:47:05,860
+Er ist 1,70 Meter groß.
+
+436
+00:47:05,860 --> 00:47:19,860
+Der Patient stellt sich heute bei uns wegen des bestehenden, steckenden, progradienten, linke Seite.
+
+437
+00:47:19,860 --> 00:47:35,860
+Der Patient erklärt, dass er heute Morgen in der Badewanne ausgeruscht und auf eine Hand gefallen hat.
+
+438
+00:47:35,860 --> 00:47:45,860
+Der Patient erklärt, dass er heute Morgen in der Badewanne ausgeruscht und auf eine Hand gefallen hat.
+
+439
+00:47:45,860 --> 00:47:48,860
+und auf eine Hand gefallen.
+
+440
+00:47:49,860 --> 00:47:52,860
+Danach sind die Schmerzen aufgetreten.
+
+441
+00:47:53,860 --> 00:47:58,860
+Des Weiteren gibt er an, dass die Schmerzen plötzlich aufgetreten
+
+442
+00:47:59,860 --> 00:48:05,860
+und im Verlauf der Zeit immer schlimmer geworden sind.
+
+443
+00:48:06,860 --> 00:48:14,860
+Die Schmerzintensität würde mit 7 bis 8, 10 auf eine Schmerzskala bewerben.
+
+444
+00:48:15,860 --> 00:48:29,860
+Die einmalige Einnahme von 500 mg Ibuprofen hat keine Verbesserung gebracht.
+
+445
+00:48:30,860 --> 00:48:37,860
+Er klagt über Ödama und Rötung im betroffenen Bereich.
+
+446
+00:48:37,860 --> 00:48:52,860
+Außerdem bereitet er schmerzbedingte, eingeschränkte Bewegung.
+
+447
+00:48:53,860 --> 00:49:02,860
+Die Frage nach Parasitezi, Hypostese, offene Wunde und Vertigo würde verneint.
+
+448
+00:49:02,860 --> 00:49:10,860
+Die Vegetative-Anamnese ist unaufällig bis auf schmerzbedingte Inapetens.
+
+449
+00:49:11,860 --> 00:49:18,860
+Ich gehe von einem Verdacht auf Handgelenkfraktur aus.
+
+450
+00:49:19,860 --> 00:49:26,860
+Da die Patient dafür typische Symptome aufweist,
+
+451
+00:49:26,860 --> 00:49:42,860
+dass die Patient leider unter Schwellung, Schmerzen, Rötung und es gibt eine Unfallgeschichte.
+
+452
+00:49:43,860 --> 00:49:48,860
+Das spricht für Handgelenkschmerzen.
+
+453
+00:49:49,860 --> 00:50:08,860
+Als differential Diagnose kommen Prellung oder Weisgewebe Fährleitzung im Betracht.
+
+454
+00:50:09,860 --> 00:50:12,860
+Welche Weisgewebe Fährleitzungen?
+
+455
+00:50:13,860 --> 00:50:29,860
+Dichtorsion, Luxation, Distorsion.
+
+456
+00:50:30,860 --> 00:50:32,860
+Sie haben recht Herr Oberhaus.
+
+457
+00:50:33,860 --> 00:50:45,860
+Um meine Verdacht Diagnose zu bestätigen, würde ich den Patienten zuerst die Vitaparameter überwachen.
+
+458
+00:50:46,860 --> 00:50:57,860
+Dann würde ich den Patienten körperliche Untersuchungen, beide körperliche Untersuchungen auf die Darabauf, Farbeveränderungen,
+
+459
+00:50:57,860 --> 00:51:05,860
+Offene, Wunde, Kolorube im Betroffene Bereich vorlegen.
+
+460
+00:51:06,860 --> 00:51:16,860
+Außerdem würde ich den Patienten Handarteriale Pulse abtasten.
+
+461
+00:51:16,860 --> 00:51:30,860
+Für diese Patienten ist es sinnvoll eine neurologische Untersuchung durchzuführen.
+
+462
+00:51:31,860 --> 00:51:45,860
+Dabei würde ich Probleme, oder nicht Probleme, aber Schwerungen,
+
+463
+00:51:46,860 --> 00:51:52,860
+Motorrad und andere Funktionen vorlegen.
+
+464
+00:51:53,860 --> 00:52:15,860
+Außerdem würde ich den Patienten palpieren, beide Arte darauf auf Kreptation oder andere Deformationen.
+
+465
+00:52:16,860 --> 00:52:19,860
+Das würde ich vorhanden sein.
+
+466
+00:52:20,860 --> 00:52:34,860
+Neben körperlichen Untersuchungen wäre ich ein Laberunterzuchungen sinnvoll, um ungefährliche Diagnose zu bestätigen.
+
+467
+00:52:35,860 --> 00:52:52,860
+Dabei würde ich die große Blutgruppe, die Entzündungsparameter, die Gerinnungsparameter, die Lebewerter, die Nierenwerter bestimmen lassen.
+
+468
+00:52:53,860 --> 00:53:09,860
+Dann würde ich die Röntgen auf dem Handgelenk in zwei Ebenen durchführen, um mögliche Fraktur zu bestimmen.
+
+469
+00:53:10,860 --> 00:53:24,860
+Dann würde ich den Patienten eine MRT durchführen, um seine Verlassung oder Wahrheit zu verhindern.
+
+470
+00:53:25,860 --> 00:53:39,860
+Dann würde ich die Röntgen auf dem Handgelenk in zwei Ebenen durchführen, um seine Verlassung oder Wahrheit zu verhindern.
+
+471
+00:53:40,860 --> 00:53:54,860
+Dann würde ich die Röntgen auf dem Handgelenk in zwei Ebenen durchführen, um seine Verlassung oder Wahrheit zu verhindern.
+
+472
+00:53:54,860 --> 00:54:11,860
+Dann würde ich die Röntgen auf dem Handgelenk in zwei Ebenen durchführen, um seine Verlassung oder Wahrheit zu verhindern.
+
+473
+00:54:24,860 --> 00:54:36,860
+Herr Kölegen, was würden Sie mit der Operation bei den Patienten durchführen?
+
+474
+00:54:54,860 --> 00:55:04,860
+Ich würde die Operation durchführen, aber der Patient hat keine Offene.
+
+475
+00:55:11,860 --> 00:55:14,860
+Was machen Sie mit der Operation?
+
+476
+00:55:24,860 --> 00:55:31,620
+Ich würde eine Gipstherapie behandeln.
+
+477
+00:55:38,620 --> 00:55:50,620
+Ich würde den Patienten über vier bis sechs Wochen ruhig stellen.
+
+478
+00:55:57,620 --> 00:56:11,620
+Ich bin nicht sicher, aber ich denke, dass ich nach einer halben Monate den Patienten kontrollieren werde.
+
+479
+00:56:11,620 --> 00:56:19,620
+Ich habe eine Nachdenkoperation gemacht.
+
+480
+00:56:23,620 --> 00:56:33,620
+Wir müssen den Patienten kontrollieren, um mögliche Blutungen oder andere Probleme zu kontrollieren.
+
+481
+00:56:42,620 --> 00:56:48,620
+Was ist die hoffnungsvolle Ursache für eine Distalleradiospraktur?
+
+482
+00:56:52,620 --> 00:56:56,620
+Die Stürze, zum Beispiel.
+
+483
+00:57:01,620 --> 00:57:05,620
+Bei allen Patienten hat eine besondere Krankheit.
+
+484
+00:57:05,620 --> 00:57:10,620
+Was ist die hoffnungsvolle Ursache für eine Distalleradiospraktur?
+
+485
+00:57:17,620 --> 00:57:20,620
+Die Stürze, zum Beispiel.
+
+486
+00:57:20,620 --> 00:57:24,620
+Das ist die hoffnungsvolle Ursache für eine Distalleradiospraktur.
+
+487
+00:57:25,620 --> 00:57:30,620
+Welche klinischen Symptome sind die hoffnungsvolle Ursache für eine Distalleradiospraktur?
+
+488
+00:57:34,620 --> 00:57:48,620
+Die hoffnungsvolle Ursache für eine Distalleradiospraktur ist die hoffnungsvolle Ursache für eine Distalleradiospraktur.
+
+489
+00:57:49,620 --> 00:58:04,570
+Was kontrollieren Sie während der Körperlichunterzüge besonders?
+
+490
+00:58:07,570 --> 00:58:17,570
+Es ist sehr wichtig, Lungen zu kontrollieren und mögliche Embolle auszuschließen.
+
+491
+00:58:17,570 --> 00:58:34,570
+Dann kontrolliere ich Kopf, Brust und Bauch, mögliche Verlatsungen, Farbeveränderungen oder Rötungen.
+
+492
+00:58:34,570 --> 00:58:41,820
+Was empfehlen Sie bei den Patienten, die eine operative Therapie empfehlen?
+
+493
+00:59:05,820 --> 00:59:14,820
+Wenn ein Patient eine instabilen Frakturen hat, müssen wir den Patienten eine Operation durchführen.
+
+494
+00:59:19,820 --> 00:59:25,820
+Wenn ein Patient eine Artillerienfrakturen hat, muss der Patienten eine Artillerienfrakturen durchführen.
+
+495
+00:59:36,820 --> 00:59:41,820
+Welche Komplikationen können nach der Operation aufstehen?
+
+496
+00:59:41,820 --> 01:00:03,820
+Nach der Operation kann es Blut, Infektionen, Kompartmentsyndrom, Nervenverletzung, Arterieverletzung oder Venomverletzung möglich sein.
+
+497
+01:00:13,290 --> 01:00:26,290
+Ich denke, eine sehr wichtige Komplikation ist eine falsche Heilung.
+
+498
+01:00:27,290 --> 01:00:33,290
+Bewegungseinschränkung, Arthrose, Pseudarathrose.
+
+499
+01:00:34,290 --> 01:00:42,290
+Ich habe keine Erfahrung über diese Themen. Ich bin Dermatologe.
+
+500
+01:00:48,290 --> 01:00:53,290
+Was empfehlen Sie bei den Patienten nach der Operation oder nach dem Gips?
+
+501
+01:00:54,290 --> 01:01:00,290
+Ja, das ist sehr wichtig. Eine krankes Gymnastik.
+
+502
+01:01:01,290 --> 01:01:07,290
+Empfehlen Sie den Patienten eine krankes Gymnastik zu machen.
+
+503
+01:01:08,290 --> 01:01:21,290
+Hochlagerung, Füllung, Schmerztherapie, germäßige Peripherie, Puls kontrollieren, nach Immobilisation Physiotherapie.
+
+504
+01:01:24,290 --> 01:01:29,290
+Und wann empfehlen Sie bei den Patienten nach Kontrolle?
+
+505
+01:01:32,290 --> 01:01:34,290
+Nach der Operation oder?
+
+506
+01:01:37,290 --> 01:01:41,290
+Ich weiß nicht, aber ich denke vielleicht nach einer Woche.
+
+507
+01:01:43,290 --> 01:01:46,290
+Ich weiß es aber nach einer Woche vielleicht.

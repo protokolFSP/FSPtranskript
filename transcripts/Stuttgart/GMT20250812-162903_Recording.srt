@@ -1,0 +1,2051 @@
+1
+00:00:00,000 --> 00:00:13,000
+Ich bin mit Ihnen geführt. Erstmal benötige ich ein paar persönliche Daten von Ihnen und da sprechen wir über Ihre aktuellen Beschwerden. Falls Sie Fragen haben, sagen Sie bitte nicht, mich zu unterbrechen.
+
+2
+00:00:13,000 --> 00:00:18,000
+Ja, ich fühle mich nicht gut, Herr Doktor. Ich fühle mich ganz nicht gut.
+
+3
+00:00:18,000 --> 00:00:21,000
+Was fühlt Sie heute so? Was haben Sie?
+
+4
+00:00:21,000 --> 00:00:33,000
+Ich habe Kopfschmerzen, Herr Doktor. Ich habe viele Male Arztinnen und Arzt besucht, aber ich habe keine Lösung gefunden.
+
+5
+00:00:33,000 --> 00:00:36,000
+Wann war der letzte Besuch?
+
+6
+00:00:36,000 --> 00:00:43,000
+Ja, ich habe in sechs Monaten zehnmal Arzt besucht.
+
+7
+00:00:43,000 --> 00:00:50,000
+Letzteres war ich vor drei Wochen beim Hausarzt.
+
+8
+00:00:50,000 --> 00:00:55,250
+Vor drei Wochen oder drei Monate?
+
+9
+00:00:55,250 --> 00:01:09,250
+Letzteres war ich vor drei Wochen. Aber seit sechs oder fünf oder sechs Monaten habe ich viele Male Arzt besucht oder Arztinnen besucht, aber ich habe keine Lösung gefunden.
+
+10
+00:01:09,250 --> 00:01:12,250
+Wann haben Sie Kopfschmerzen?
+
+11
+00:01:12,250 --> 00:01:23,250
+Ich habe immer Ibuprofen und Paracetamol angenommen. Ich habe keine Lösung gefunden.
+
+12
+00:01:23,250 --> 00:01:34,040
+Ich habe auch Muskelschmerzen. Alle Knochen tun weh und ich fühle mich sehr schlapp.
+
+13
+00:01:34,040 --> 00:01:39,480
+Verstehe. Wie heißen Sie denn?
+
+14
+00:01:39,480 --> 00:01:42,480
+Ich bin Teresa Heidenreich.
+
+15
+00:01:42,480 --> 00:01:59,490
+Ich muss mal heidenreich.
+
+16
+00:01:59,490 --> 00:02:03,490
+Mein Nachname ist Heidenreich.
+
+17
+00:02:03,490 --> 00:02:07,490
+Dein Vorname? T-E-R-E-S-A.
+
+18
+00:02:07,490 --> 00:02:15,960
+Doppel R nur einmal S-A. Teresa.
+
+19
+00:02:15,960 --> 00:02:18,960
+Frau Heidenreich, wie alt sind Sie?
+
+20
+00:02:18,960 --> 00:02:24,270
+Ich bin ungefähr 39 Jahre alt.
+
+21
+00:02:24,270 --> 00:02:26,270
+Wie groß sind Sie?
+
+22
+00:02:26,270 --> 00:02:34,580
+5. Mai 1986.
+
+23
+00:02:34,580 --> 00:02:37,580
+Wie groß sind Sie?
+
+24
+00:02:37,580 --> 00:02:41,580
+1 Meter 69.
+
+25
+00:02:41,580 --> 00:02:45,580
+1 Meter?
+
+26
+00:02:45,580 --> 00:02:48,580
+1 Meter 69.
+
+27
+00:02:48,580 --> 00:02:51,580
+Wie viel Kilo haben Sie?
+
+28
+00:02:51,580 --> 00:03:02,580
+Ich habe in den letzten drei Monaten 5 Kilo abgenommen. Ich war 75, aber jetzt ungefähr 80.
+
+29
+00:03:02,580 --> 00:03:05,580
+War das ungewollt oder?
+
+30
+00:03:05,580 --> 00:03:11,580
+Ja, ich möchte nicht abnehmen, Herr Doktor.
+
+31
+00:03:11,580 --> 00:03:15,580
+Könnten Sie wiederholen? Wie viel Begegnung?
+
+32
+00:03:15,580 --> 00:03:22,580
+Entschuldigung, 5 Kilo abgenommen. Ich möchte nicht, aber ich habe abgenommen.
+
+33
+00:03:22,580 --> 00:03:26,580
+Wie viel Begegnung Sie zurzeit?
+
+34
+00:03:26,580 --> 00:03:29,580
+Ungefähr 80.
+
+35
+00:03:29,580 --> 00:03:35,580
+Vor drei Monaten waren Sie 55?
+
+36
+00:03:35,580 --> 00:03:41,580
+75 war ich. Jetzt bin ich 80.
+
+37
+00:03:41,580 --> 00:03:44,580
+Nicht 60, 80.
+
+38
+00:03:44,580 --> 00:03:48,580
+Verstehe. Wie heißt Ihr Hausarzt?
+
+39
+00:03:48,580 --> 00:03:54,300
+Herr Wagner.
+
+40
+00:03:54,300 --> 00:03:58,300
+Seit wann haben Sie Kopfschmerzen, Frau Heidenreich?
+
+41
+00:03:58,300 --> 00:04:03,300
+Seit vielleicht 5 oder 6 Monaten.
+
+42
+00:04:03,300 --> 00:04:08,300
+Ich fühle mich nervös. Ich kann nicht.
+
+43
+00:04:08,300 --> 00:04:15,300
+Alle kommen sehr schlecht.
+
+44
+00:04:15,300 --> 00:04:21,300
+Machen Sie sich deswegen keine Sorgen bitte. Wir tun alles für Sie, Frau Heidenreich.
+
+45
+00:04:21,300 --> 00:04:25,300
+Könnten Sie bitte diese Schmerzen genau beschreiben?
+
+46
+00:04:25,300 --> 00:04:28,300
+Dummstechen oder Ziehen?
+
+47
+00:04:28,300 --> 00:04:33,300
+Im ganzen Kopf habe ich Schmerzen.
+
+48
+00:04:33,300 --> 00:04:39,300
+Das ist wie Bohrend, wie dumm. Ich kann es nicht gut beschreiben.
+
+49
+00:04:39,300 --> 00:04:46,760
+Im ganzen Kopf. Ich fühle mich erschöpft.
+
+50
+00:04:46,760 --> 00:04:49,760
+Manchmal höre ich ein Ohrgeräusch.
+
+51
+00:04:49,760 --> 00:04:55,300
+Was haben Sie? Ohrgeräusch.
+
+52
+00:04:55,300 --> 00:04:57,300
+Haben Sie Sehstörungen?
+
+53
+00:04:57,300 --> 00:05:00,300
+Nein, habe ich nicht.
+
+54
+00:05:00,300 --> 00:05:08,300
+Ich höre auch gut, aber manchmal gibt es wie Pfeifen. Ich höre etwas.
+
+55
+00:05:08,300 --> 00:05:11,300
+Wie oft haben Sie das?
+
+56
+00:05:11,300 --> 00:05:19,120
+Schmerzen oder Ohrgeräusch.
+
+57
+00:05:19,120 --> 00:05:22,120
+Während Schmerzen höre ich manchmal.
+
+58
+00:05:22,120 --> 00:05:27,120
+Sind die Schmerzen dauerhaft da oder gehen Sie wieder weg?
+
+59
+00:05:27,120 --> 00:05:30,120
+Ich habe immer Schmerzen.
+
+60
+00:05:30,120 --> 00:05:38,620
+Auch Knochen und Muskeln. Ganz das Körper tut weh.
+
+61
+00:05:38,620 --> 00:05:45,620
+Wie stark sind die Schmerzen auf einer Skala von 1 bis 10? Wobei 10 am stärksten ist?
+
+62
+00:05:45,620 --> 00:05:52,620
+Wie entbinden? 10 ist sehr stark. Richtig?
+
+63
+00:05:52,620 --> 00:05:55,620
+10 ist am stärksten.
+
+64
+00:05:55,620 --> 00:06:04,620
+Vielleicht nicht sehr schlimm, aber immer 5. Manchmal 4, abends 5 oder 6.
+
+65
+00:06:04,620 --> 00:06:11,340
+Haben Sie dafür irgendwelche Auslöser?
+
+66
+00:06:11,340 --> 00:06:20,690
+Wie nach Bewegung, nach Essen?
+
+67
+00:06:20,690 --> 00:06:23,690
+Nein, ich habe nicht bemerkt.
+
+68
+00:06:23,690 --> 00:06:30,690
+Gibt es irgendetwas, das die Schmerzen besser oder schlimmer macht?
+
+69
+00:06:30,690 --> 00:06:37,690
+Nachdem ich meine Arbeit verloren habe, hat meine Schmerzen verschlimmert.
+
+70
+00:06:37,690 --> 00:06:45,350
+Seit 3 Monaten bin ich arbeitslos.
+
+71
+00:06:45,350 --> 00:06:50,350
+Deswegen arbeite ich nicht. Ich brauche Geld. Ich habe eine Tochter.
+
+72
+00:06:50,350 --> 00:06:57,350
+Mein Mann arbeitet nicht. Ich habe Stress.
+
+73
+00:06:57,350 --> 00:07:04,350
+Verstehe, Frau Heidenreich. Machen Sie sich deswegen keine Sorgen, bitte.
+
+74
+00:07:04,350 --> 00:07:10,350
+Haben Sie Herzstörungen bemerkt?
+
+75
+00:07:10,350 --> 00:07:17,350
+Mein Herz schlägt mehr als sonst. Manchmal.
+
+76
+00:07:17,350 --> 00:07:20,920
+Wie bitte?
+
+77
+00:07:20,920 --> 00:07:28,920
+Mein Herz schlägt manchmal schneller als sonst.
+
+78
+00:07:28,920 --> 00:07:36,440
+Haben Sie Fieber, Schüttelfen?
+
+79
+00:07:36,440 --> 00:07:39,440
+Nein, nein Herr Doktor.
+
+80
+00:07:39,440 --> 00:07:45,440
+Haben Sie Gedanken, dass Sie nicht mehr leben möchten?
+
+81
+00:07:45,440 --> 00:07:49,440
+Manchmal kommt mir viel Leben.
+
+82
+00:07:49,440 --> 00:07:54,440
+Ich habe nicht gedacht, das zu nehmen, aber manchmal kommt sehr viel.
+
+83
+00:07:54,440 --> 00:08:04,350
+Ich möchte 3 Tage immer schlafen und 3 Tage schlafe ich nicht. Ich verstehe das nicht.
+
+84
+00:08:04,350 --> 00:08:09,350
+Sie haben dagegen Ibuprofen und Paracetamol genommen.
+
+85
+00:08:09,350 --> 00:08:12,350
+Haben Sie noch andere Medikamente genommen?
+
+86
+00:08:12,350 --> 00:08:18,890
+Zu schlafen nehme ich manchmal Diasepam.
+
+87
+00:08:18,890 --> 00:08:21,890
+Hat das Ihnen geholfen?
+
+88
+00:08:21,890 --> 00:08:25,890
+Ja, denke ich. Das Diasepam hilft mir manchmal.
+
+89
+00:08:25,890 --> 00:08:27,890
+Verstehe.
+
+90
+00:08:27,890 --> 00:08:30,890
+Haben Sie noch andere Beschwerden, Frau Heidenreich?
+
+91
+00:08:30,890 --> 00:08:36,890
+Wie z.B. Sodbrennen oder Föllegefühl?
+
+92
+00:08:36,890 --> 00:08:41,890
+Ja, ich leide an Verstopfung.
+
+93
+00:08:41,890 --> 00:08:43,890
+Seit wann haben Sie das?
+
+94
+00:08:43,890 --> 00:08:47,890
+Seit ungefähr 5 Monaten.
+
+95
+00:08:47,890 --> 00:08:51,890
+Gleichzeitig mit meinem Kopfschmerzen.
+
+96
+00:08:51,890 --> 00:08:54,890
+Wie ist Ihr Wasserlasten?
+
+97
+00:08:54,890 --> 00:08:59,620
+Das ist normal.
+
+98
+00:08:59,620 --> 00:09:02,620
+Wie oft gehen Sie zur Toilette?
+
+99
+00:09:02,620 --> 00:09:05,620
+Ich meine für den Stuhlgang.
+
+100
+00:09:05,620 --> 00:09:08,620
+Wie oft oder? Ich verstehe nicht.
+
+101
+00:09:08,620 --> 00:09:11,620
+Ja, wie oft gehen Sie zur Toilette?
+
+102
+00:09:11,620 --> 00:09:14,620
+Einmal pro zwei Tagen.
+
+103
+00:09:14,620 --> 00:09:17,620
+Haben Sie gegen Verstopfung?
+
+104
+00:09:17,620 --> 00:09:21,620
+Vor drei Monaten war ich bei Neurologen.
+
+105
+00:09:21,620 --> 00:09:27,620
+Ein MRT des Schädels wurde bei mir durchgeführt.
+
+106
+00:09:27,620 --> 00:09:30,620
+Wie war das Ergebnis?
+
+107
+00:09:30,620 --> 00:09:36,620
+Das war ganz normal.
+
+108
+00:09:36,620 --> 00:09:43,620
+Der Neurolog hat mir gesagt, dass ich ein MS oder etwas habe.
+
+109
+00:09:43,620 --> 00:09:49,620
+Aber nach dem Ergebnis hat er mir gesagt, dass ich kein MS oder etwas habe.
+
+110
+00:09:49,620 --> 00:09:53,620
+Ich freue mich, Frau Heidenreich.
+
+111
+00:09:53,620 --> 00:09:56,620
+Ist Ihnen schwindelig?
+
+112
+00:09:56,620 --> 00:10:00,090
+Nein.
+
+113
+00:10:00,090 --> 00:10:08,740
+Ist Ihnen übel?
+
+114
+00:10:08,740 --> 00:10:10,740
+Nein.
+
+115
+00:10:10,740 --> 00:10:13,740
+Müssen Sie sich übergeben, Frau Heidenreich?
+
+116
+00:10:13,740 --> 00:10:17,740
+Nein. Aber mein Appetit ist manchmal sehr...
+
+117
+00:10:17,740 --> 00:10:21,740
+Ich habe eine Woche Heißhung.
+
+118
+00:10:21,740 --> 00:10:29,740
+Und danach esse ich nicht.
+
+119
+00:10:29,740 --> 00:10:35,740
+Sie haben in sechs Monaten 5 Kilo zugenommen.
+
+120
+00:10:35,740 --> 00:10:38,740
+Innerhalb von drei Monaten.
+
+121
+00:10:38,740 --> 00:10:50,610
+5 Kilo, drei oder vier Monate.
+
+122
+00:10:50,610 --> 00:10:54,610
+Sie haben auch Schlafstörungen.
+
+123
+00:10:54,610 --> 00:10:59,610
+Ja, besonders ich schlafe mehr als sonst.
+
+124
+00:10:59,610 --> 00:11:04,610
+Frau Heidenreich, haben Sie irgendwelche chronischen Erkrankungen?
+
+125
+00:11:04,610 --> 00:11:08,610
+Ich leide an Bluthochdruck.
+
+126
+00:11:08,610 --> 00:11:10,610
+Seit wann haben Sie das?
+
+127
+00:11:10,610 --> 00:11:13,610
+Fünf Jahre.
+
+128
+00:11:13,610 --> 00:11:15,610
+Was nehmen Sie dagegen?
+
+129
+00:11:15,610 --> 00:11:20,610
+Ich nehme Rami-Bril regelmäßig.
+
+130
+00:11:20,610 --> 00:11:22,610
+In welcher Dosis?
+
+131
+00:11:22,610 --> 00:11:25,920
+5 Milligramm.
+
+132
+00:11:25,920 --> 00:11:28,920
+Wie oft nehmen Sie das?
+
+133
+00:11:28,920 --> 00:11:30,920
+Morgens.
+
+134
+00:11:30,920 --> 00:11:32,920
+Einmal täglich?
+
+135
+00:11:32,920 --> 00:11:33,920
+Ja.
+
+136
+00:11:33,920 --> 00:11:37,920
+Haben Sie noch andere chronische Erkrankungen?
+
+137
+00:11:37,920 --> 00:11:41,920
+Nein. Ich war ganz gesund.
+
+138
+00:11:41,920 --> 00:11:51,140
+Wurden Sie schon einmal operiert, Frau Heidenreich?
+
+139
+00:11:51,140 --> 00:12:00,140
+Ja, vor zwei Jahren. Meine gallen Blase wurde entfernt.
+
+140
+00:12:00,140 --> 00:12:04,140
+War die Operation komplikationlos?
+
+141
+00:12:04,140 --> 00:12:09,140
+Ja, nach der Operation hatte ich keine Probleme.
+
+142
+00:12:09,140 --> 00:12:11,140
+Gut zu hören.
+
+143
+00:12:11,140 --> 00:12:15,140
+Haben Sie Allergien oder Unverträglichkeiten?
+
+144
+00:12:15,140 --> 00:12:18,140
+Ich habe Polenallergie.
+
+145
+00:12:18,140 --> 00:12:21,140
+Wie reagieren Sie darauf?
+
+146
+00:12:21,140 --> 00:12:32,930
+Mit Schnürfen oder manchmal Niesen.
+
+147
+00:12:32,930 --> 00:12:38,930
+Tragen Sie alles in meine Lebensmittel?
+
+148
+00:12:38,930 --> 00:12:42,930
+Ja, ich kann normalerweise alles essen.
+
+149
+00:12:42,930 --> 00:12:44,930
+Rauchen Sie?
+
+150
+00:12:44,930 --> 00:12:50,650
+Ja, ich rauche gerne.
+
+151
+00:12:50,650 --> 00:12:55,650
+Wie viele Zigaretten rauchen Sie täglich?
+
+152
+00:12:55,650 --> 00:12:59,650
+Ich rauche ein Schachtel pro Tag.
+
+153
+00:12:59,650 --> 00:13:01,650
+Seit wann rauchen Sie?
+
+154
+00:13:01,650 --> 00:13:05,650
+Vor 10 Jahren habe ich ein halbes Schachtel geraucht.
+
+155
+00:13:05,650 --> 00:13:14,860
+Seit 5 Monaten rauche ich ein Schachtel.
+
+156
+00:13:14,860 --> 00:13:17,860
+Außer Arbeitsverlugen,
+
+157
+00:13:17,860 --> 00:13:25,010
+haben Sie irgendwelche Probleme in Ihrem Leben?
+
+158
+00:13:25,010 --> 00:13:28,010
+Mein Mann geht es nicht gut.
+
+159
+00:13:28,010 --> 00:13:32,010
+Er ist arbeitslos. Wir streiten immer.
+
+160
+00:13:32,010 --> 00:13:41,060
+Deswegen fühle ich mich nicht gut.
+
+161
+00:13:41,060 --> 00:13:44,060
+Ganz genau, Frau Heidenreich.
+
+162
+00:13:44,060 --> 00:13:50,980
+Sie haben mir immer gesagt, dass ich immer drankeifache.
+
+163
+00:13:50,980 --> 00:13:53,980
+Machen Sie sich deswegen keine Sorgen.
+
+164
+00:13:53,980 --> 00:13:56,980
+Wir tun alles für Sie.
+
+165
+00:13:56,980 --> 00:13:59,980
+Wir haben viele Abteilungen.
+
+166
+00:13:59,980 --> 00:14:02,980
+Wir tun alles für Sie.
+
+167
+00:14:02,980 --> 00:14:05,980
+Trinken Sie Alkohol?
+
+168
+00:14:05,980 --> 00:14:11,980
+Seit 6 Monaten trinke ich jeden Abend 2 oder 3 Gläser Wein.
+
+169
+00:14:11,980 --> 00:14:14,980
+Seit 6 Monaten.
+
+170
+00:14:14,980 --> 00:14:17,980
+Das hilft mir zu schlafen.
+
+171
+00:14:17,980 --> 00:14:20,980
+3 Gläser Wein.
+
+172
+00:14:20,980 --> 00:14:23,980
+Und Rotwein ist gerüttet?
+
+173
+00:14:23,980 --> 00:14:27,980
+Nicht ganz genau, Frau Heidenreich.
+
+174
+00:14:27,980 --> 00:14:35,020
+Es ist zu viel für Ihre Gesundheit.
+
+175
+00:14:35,020 --> 00:14:38,020
+Es ist gefährlich.
+
+176
+00:14:38,020 --> 00:14:41,020
+Trinken Sie noch andere Alkoholart?
+
+177
+00:14:41,020 --> 00:14:44,020
+Vorher trinke ich manchmal Bier.
+
+178
+00:14:44,020 --> 00:14:47,020
+Vorher trinken Sie?
+
+179
+00:14:47,020 --> 00:14:51,500
+Ich meine vor 6 Monaten.
+
+180
+00:14:51,500 --> 00:14:54,500
+In 6 Monaten?
+
+181
+00:14:54,500 --> 00:15:02,500
+Sie haben gesagt, dass Sie seit 6 Monaten 2 bis 3 Gläser Wein trinken.
+
+182
+00:15:02,500 --> 00:15:05,500
+Vorher trinken Sie?
+
+183
+00:15:05,500 --> 00:15:10,500
+Ja, ich trinke vorher auch manchmal Rotwein.
+
+184
+00:15:10,500 --> 00:15:25,160
+Aber 1 oder 2 Gläser pro Woche.
+
+185
+00:15:25,160 --> 00:15:30,160
+Bitte nehmen Sie die folgenden Fragen nicht persönlich aus medizinischen Gründen.
+
+186
+00:15:30,160 --> 00:15:32,160
+Fragen wir immer.
+
+187
+00:15:32,160 --> 00:15:35,160
+Haben Sie Erfahrung mit Drogen?
+
+188
+00:15:35,160 --> 00:15:42,000
+Nein, nein, nein, Herr Doktor, niemals.
+
+189
+00:15:42,000 --> 00:15:45,000
+Haben Sie Taubheitsgefühl, Kribbeln bemerkt?
+
+190
+00:15:45,000 --> 00:15:50,500
+Während Schmerzen fühle ich mich nicht gut.
+
+191
+00:15:50,500 --> 00:15:55,810
+Ich kann nicht beschreiben.
+
+192
+00:15:55,810 --> 00:16:00,810
+Die Tatsache ist immer schwach, während Schmerzen.
+
+193
+00:16:00,810 --> 00:16:03,810
+Verstehe. Sie sind verheiratet.
+
+194
+00:16:03,810 --> 00:16:05,810
+Haben Sie Kinder?
+
+195
+00:16:05,810 --> 00:16:08,810
+Ja, ich habe eine Tochter.
+
+196
+00:16:08,810 --> 00:16:13,180
+Ist sie gesund?
+
+197
+00:16:13,180 --> 00:16:16,180
+Ja, Gott sei Dank, sie ist gesund.
+
+198
+00:16:16,180 --> 00:16:21,180
+Leben Sie zusammen mit Ihrer Familie?
+
+199
+00:16:21,180 --> 00:16:26,390
+Ja, ja, ja.
+
+200
+00:16:26,390 --> 00:16:30,390
+Haben Sie chronische Erkrankungen bei Ihrer Familie?
+
+201
+00:16:30,390 --> 00:16:33,390
+Ihre Mutter, Ihr Vater?
+
+202
+00:16:33,390 --> 00:16:45,770
+Ja, mein Vater ist vor 10 Jahren selbst umgebracht.
+
+203
+00:16:45,770 --> 00:16:51,770
+Mein Beileid, Frau Heidenreich, vor 10 Jahren.
+
+204
+00:16:51,770 --> 00:16:57,560
+Hatte er irgendwelche chronischen Erkrankungen?
+
+205
+00:16:57,560 --> 00:17:00,560
+Ich erinnere mich nicht.
+
+206
+00:17:00,560 --> 00:17:03,560
+Verstehe. Ihre Mutter?
+
+207
+00:17:03,560 --> 00:17:12,560
+Meine Mutter leidet an Bruthochdruck und Herzerkrankungen.
+
+208
+00:17:12,560 --> 00:17:20,560
+Das ist ein Gefäßprobleme mit Herz.
+
+209
+00:17:20,560 --> 00:17:26,420
+Verstehe. Haben Sie Geschwister?
+
+210
+00:17:26,420 --> 00:17:35,420
+Ich hatte eine Schwester, aber leider ist sie vor fünf Monaten wegen Leukämie gestorben.
+
+211
+00:17:35,420 --> 00:17:38,420
+Sie waren sehr eng.
+
+212
+00:17:38,420 --> 00:17:41,420
+Es tut mir leid, Frau Heidenreich zu hören.
+
+213
+00:17:41,420 --> 00:17:43,420
+Leukämie.
+
+214
+00:17:43,420 --> 00:17:46,420
+Wie alt war sie?
+
+215
+00:17:46,420 --> 00:17:52,420
+Sie war sehr jung. Sie war 27.
+
+216
+00:17:52,420 --> 00:17:57,420
+Sie war meine beste Freundin, Herr Doktor. Wissen Sie schon?
+
+217
+00:17:57,420 --> 00:18:04,420
+Es tut mir leid, Frau Heidenreich zu hören. Ich meine sehr beileid.
+
+218
+00:18:04,420 --> 00:18:07,420
+Haben Sie noch andere Geschwister?
+
+219
+00:18:07,420 --> 00:18:10,420
+Nein, nein. Jetzt bin ich alleine.
+
+220
+00:18:10,420 --> 00:18:14,700
+Sind Sie vollständig geimpft?
+
+221
+00:18:14,700 --> 00:18:16,700
+Ja, normalerweise ja.
+
+222
+00:18:16,700 --> 00:18:26,730
+Wie ist Ihre Periode? Bekommen Sie regelmäßig eine Periode?
+
+223
+00:18:26,730 --> 00:18:31,730
+Ja, ja. Ich habe keine Probleme mit der Periode.
+
+224
+00:18:31,730 --> 00:18:34,730
+Wie lange dauert die letzte Periode?
+
+225
+00:18:34,730 --> 00:18:38,730
+Ich habe ein bisschen wenig Heuchetage. Ich weiß nicht.
+
+226
+00:18:38,730 --> 00:18:42,730
+Wie lange dauert die letzte Periode?
+
+227
+00:18:42,730 --> 00:18:50,730
+5 oder 6 Tage. Aber es kommt wenig Blutung.
+
+228
+00:18:50,730 --> 00:18:53,730
+Wie lange dauerte die letzte Periode?
+
+229
+00:18:53,730 --> 00:18:56,730
+Vor 15 Tagen.
+
+230
+00:18:56,730 --> 00:19:02,030
+Vor 15 Tagen.
+
+231
+00:19:02,030 --> 00:19:07,030
+Ich habe eine regelmäßige Blutung pro 40 Tage.
+
+232
+00:19:07,030 --> 00:19:15,030
+Normalerweise hatte ich seit 6 Monaten eine Blutung pro 40 Tage.
+
+233
+00:19:15,030 --> 00:19:20,030
+Normalerweise hatte ich das pro 1 Monat.
+
+234
+00:19:20,030 --> 00:19:23,030
+Vor 6 Monaten.
+
+235
+00:19:23,030 --> 00:19:32,030
+Haben Sie Schwellungen bemerkt? Besonders im Bein?
+
+236
+00:19:32,030 --> 00:19:36,030
+Nein, nein. Habe ich nicht.
+
+237
+00:19:36,030 --> 00:19:40,030
+Ist Ihnen ein Haarausfall aufgefallen?
+
+238
+00:19:40,030 --> 00:19:52,570
+Nein. Aber meine Haut ist ein bisschen trocken. Ich fühle mich trocken.
+
+239
+00:19:52,570 --> 00:20:03,380
+Waren Sie in letzter Zeit im Ausland?
+
+240
+00:20:03,380 --> 00:20:04,380
+Nein.
+
+241
+00:20:04,380 --> 00:20:09,890
+Meinerseits habe ich alle wichtigen Fragen gestellt.
+
+242
+00:20:09,890 --> 00:20:13,890
+Frau Heidenreich, möchten Sie noch etwas hinzufügen?
+
+243
+00:20:13,890 --> 00:20:18,890
+Was habe ich, Herr Doktor? Ich habe chronische Kopfschmerzen.
+
+244
+00:20:18,890 --> 00:20:24,890
+Ich bin immer müde. Mein Leben ist ganz schlimm.
+
+245
+00:20:24,890 --> 00:20:27,890
+Verstehe. Machen Sie sich deswegen keine Sorgen.
+
+246
+00:20:27,890 --> 00:20:31,890
+Jetzt werden wir eine körperliche Untersuchung durchschüren.
+
+247
+00:20:31,890 --> 00:20:34,890
+Dann werde ich Blut abnehmen.
+
+248
+00:20:34,890 --> 00:20:43,890
+Gegebenenfalls werden wir ein bildgebendes Verfahren veranlassen.
+
+249
+00:20:43,890 --> 00:20:46,890
+Mit dem Ergebnis können wir entscheiden.
+
+250
+00:20:46,890 --> 00:20:51,890
+Es ist zu früh, etwas Genaues zu sagen, Frau Heidenreich.
+
+251
+00:20:51,890 --> 00:20:53,890
+Okay, Herr Doktor.
+
+252
+00:20:53,890 --> 00:20:57,890
+Seien Sie ruhig. Bleiben Sie bitte hier.
+
+253
+00:20:57,890 --> 00:20:59,890
+Okay.
+
+254
+00:20:59,890 --> 00:21:06,890
+Ich möchte Ihnen gerne eine neue Patientin vorstellen, die ich eben in der Notaufnahme gesehen habe.
+
+255
+00:21:06,890 --> 00:21:08,890
+Hätten Sie kurz Zeit?
+
+256
+00:21:08,890 --> 00:21:10,890
+Ja, gerne.
+
+257
+00:21:10,890 --> 00:21:22,890
+Es handelt sich um Therese Heidenreich, eine 39-jährige Patientin, geboren am 5.5.1986.
+
+258
+00:21:22,890 --> 00:21:28,890
+Sie ist 1,69 Meter groß und 80 Kilogramm schwer.
+
+259
+00:21:28,890 --> 00:21:37,890
+Sie stellte sich bei uns vor aufgrund, seit sechs Monaten bestehender, zunehmender,
+
+260
+00:21:37,890 --> 00:21:50,890
+obendender Kopfschmerzen oder Sefalge ohne Ausstrahlung sowie Fatigue.
+
+261
+00:21:50,890 --> 00:21:59,890
+Die Schmerzintensität wurde mit fünf von zehn bewertet.
+
+262
+00:21:59,890 --> 00:22:12,330
+Sie berichtete, dass die Schmerzen dauerhaft dauerhafter,
+
+263
+00:22:12,330 --> 00:22:26,560
+darüber hinaus klagte sie über Arthralgie und Myalgie im ganzen Körper.
+
+264
+00:22:26,560 --> 00:22:36,560
+Die Begleitsymptomen liegen von Tinnitus, manchmal Tachikade vor.
+
+265
+00:22:36,560 --> 00:22:46,560
+Die Frage nach Hauerausfall, Dämmer, Parastese, Paralysie wurde verneint.
+
+266
+00:22:46,560 --> 00:22:52,900
+Sie war seit drei Monaten arbeitslos.
+
+267
+00:22:52,900 --> 00:23:03,900
+Sie hatte in ihrer Familie Probleme, besonders mit ihrem Ehemann.
+
+268
+00:23:03,900 --> 00:23:18,920
+Die vegetative Anamnese ist unaufällig bis auf Abwechslung der Inappetenz.
+
+269
+00:23:18,920 --> 00:23:35,920
+Sie bewertet eine Woche wenig Appetit, eine Woche vermehrter Appetit.
+
+270
+00:23:35,920 --> 00:23:57,700
+Sie hatte eine Obstipation seit fünf Monaten und ein Gewicht von vier Kilogramm innerhalb von drei bis vier Monaten.
+
+271
+00:23:57,700 --> 00:24:03,700
+Darüber hinaus klagte sie über Insomni.
+
+272
+00:24:03,700 --> 00:24:09,700
+Dagegen nimmt sie Diasepam.
+
+273
+00:24:09,700 --> 00:24:16,700
+Es hat ihr geholfen.
+
+274
+00:24:16,700 --> 00:24:26,700
+Wegen dieser Beschwerden seit sechs Monaten,
+
+275
+00:24:26,700 --> 00:24:38,700
+haben sie ungefähr zehnmal in verschiedenen Ärzten besucht.
+
+276
+00:24:38,700 --> 00:24:55,700
+Dagegen haben sie Ibuprofen und Paracetamol genommen, aber es haben sie nicht geholfen.
+
+277
+00:24:55,700 --> 00:25:02,700
+An Vorerkrankungen leidet sie an arterieller Hypertonie seit fünf Jahren.
+
+278
+00:25:02,700 --> 00:25:08,700
+Dagegen nimmt sie Gammibril fünf Milligramm morgens ein.
+
+279
+00:25:08,700 --> 00:25:15,700
+Bei ihr wurde vor zwei Jahren eine Cholesistektomie durchgeführt.
+
+280
+00:25:15,700 --> 00:25:23,700
+Sie hat eine Allergie gegen Polen, die sich mit Renitis äußert.
+
+281
+00:25:23,700 --> 00:25:34,700
+Sie raucht seit ungefähr zehn Jahren eine halbe Schachtel Zigaretten täglich.
+
+282
+00:25:34,700 --> 00:25:41,700
+Aber seit sechs Monaten raucht sie eine Schachtel Zigaretten täglich.
+
+283
+00:25:41,700 --> 00:25:51,700
+Sie trinkt seit sechs Monaten zwei bis drei Gläser Rotwein.
+
+284
+00:25:51,700 --> 00:25:56,700
+Vorher trinken sie ein bis zwei Gläser pro Woche.
+
+285
+00:25:56,700 --> 00:25:59,700
+Drogenkonstruktion wurde verneint.
+
+286
+00:25:59,700 --> 00:26:01,700
+Sie ist verheiratet.
+
+287
+00:26:01,700 --> 00:26:04,700
+Sie hat eine gesunde Tochter.
+
+288
+00:26:04,700 --> 00:26:15,700
+In der Familienanamnese fand sie arterielle Hypertonie und eine Herzkrankheit bei der Mutter.
+
+289
+00:26:18,340 --> 00:26:34,340
+Ihr Vater ist selbst wegen Suizidale verstorben.
+
+290
+00:26:34,340 --> 00:26:42,340
+Ihre Schwester ist wegen Leukämie verstorben.
+
+291
+00:26:43,340 --> 00:26:46,340
+Sie ist vollständig geimpft.
+
+292
+00:26:46,340 --> 00:26:52,340
+Sie bekommt pro vier Tagen ihre Periode.
+
+293
+00:26:52,340 --> 00:26:57,340
+Die letzte Periode war vor 15 Tagen.
+
+294
+00:26:57,340 --> 00:27:01,340
+Die Reiseanamnese ist unauffällig.
+
+295
+00:27:01,340 --> 00:27:07,340
+Meine Verdachtdiagnose lautet auf Depression.
+
+296
+00:27:07,340 --> 00:27:29,350
+Sie schiebt seit sechs Monaten Kopfschmerzen, Fatigue, Gelenkschmerzen und Probleme in ihrer Familie und in ihrem Beruf.
+
+297
+00:27:29,350 --> 00:27:48,520
+Als Differentialdiagnose kommen Hypotheriose, Panikattack und so weiter.
+
+298
+00:27:48,520 --> 00:27:59,020
+Zur Diagnostik würde ich bei der Patientin eine körperliche Untersuchung durchführen.
+
+299
+00:27:59,020 --> 00:28:06,020
+Im Rahmen der körperlichen Untersuchung würde ich zunächst die Vitalparameter erfassen.
+
+300
+00:28:06,020 --> 00:28:13,880
+In diesem Fall ist eine neurologische Untersuchung wegweisend.
+
+301
+00:28:13,880 --> 00:28:22,880
+Dabei würde ich Motorik, Sensibilität und Reflex überprüfen.
+
+302
+00:28:22,880 --> 00:28:47,220
+Zu weiteren Abklärungen würde ich Laborkuntersuchungen durchschauen, um Blutbild, Thyroidwerte, Leberwerte und Entzündungswerte zu bestimmen.
+
+303
+00:28:47,220 --> 00:28:54,220
+Ich habe es vergessen.
+
+304
+00:28:54,220 --> 00:29:05,220
+Bei ihr wurde vor ungefähr drei Monaten MRT veranlassen.
+
+305
+00:29:05,220 --> 00:29:09,220
+Das war ein normaler Befund.
+
+306
+00:29:09,220 --> 00:29:19,120
+Eine Depression ist eine Ausschlussdiagnose.
+
+307
+00:29:19,120 --> 00:29:28,120
+Deswegen sollte ich eine organische Pathologie ausschließen.
+
+308
+00:29:28,120 --> 00:29:32,940
+Das war alles.
+
+309
+00:29:32,940 --> 00:29:40,940
+Denken Sie die Patientin stationär aufnehmen?
+
+310
+00:29:40,940 --> 00:29:51,940
+Sie hat keine suicidal Gedanken.
+
+311
+00:29:51,940 --> 00:30:03,870
+Aber ich würde stationär behandeln.
+
+312
+00:30:03,870 --> 00:30:16,870
+Stationär oder ambulant?
+
+313
+00:30:16,870 --> 00:30:21,870
+Warum stationär oder ambulant?
+
+314
+00:30:21,870 --> 00:30:41,870
+Die Verdacht auf eine Depression ist, wenn die Patientin eine Suicide denkt, muss sie stationär behandelt werden.
+
+315
+00:30:41,870 --> 00:31:02,980
+Ich habe es gefragt. Sie hat gesagt, dass sie keine Suicide denkt.
+
+316
+00:31:02,980 --> 00:31:15,030
+Wo warten die Patienten? Sie? Jetzt?
+
+317
+00:31:15,030 --> 00:31:27,030
+Sie sollte in der Ergebnis kommen und in der Pathologie bleiben.
+
+318
+00:31:27,030 --> 00:31:35,070
+Wann ist ihre Schwester gestorben?
+
+319
+00:31:35,070 --> 00:31:44,960
+Sie war 27 Jahre alt.
+
+320
+00:31:44,960 --> 00:31:52,960
+Wann ist die Schwester gestorben?
+
+321
+00:31:52,960 --> 00:32:02,960
+Ich habe es vor fünf Monaten nicht gemerkt.
+
+322
+00:32:02,960 --> 00:32:12,960
+Das ist eine bestimmte Auslösung für diese Beschwerden?
+
+323
+00:32:12,960 --> 00:32:23,960
+Sie ist nicht nur Schwester, sie ist ihre beste Freundin.
+
+324
+00:32:23,960 --> 00:32:27,960
+Das könnte eine Auslösung sein.
+
+325
+00:32:27,960 --> 00:32:34,960
+Hat die Patientin Kontakt mit ihrer Freundin?
+
+326
+00:32:34,960 --> 00:32:44,360
+Oder hat sie eine Untersuchung von ihrer Familie?
+
+327
+00:32:44,360 --> 00:32:52,360
+Das kann ich nicht sagen.
+
+328
+00:32:52,360 --> 00:33:19,700
+Hat sie eine Unterstützung von ihrer Familie?
+
+329
+00:33:19,700 --> 00:33:28,700
+Ich habe es nicht gefragt, aber sie hat Probleme mit ihrer Familie.
+
+330
+00:33:28,700 --> 00:33:35,700
+Sie hat besondere Probleme mit ihrem Ehemann.
+
+331
+00:33:35,700 --> 00:33:44,700
+Ich denke, dass die Patientin keinen Kontakt mit ihren Freunden hat.
+
+332
+00:33:44,700 --> 00:33:52,700
+Sie hat traumatische Dinge in ihrem Leben.
+
+333
+00:33:52,700 --> 00:34:04,700
+Warum wurde bei den Patienten eine Diagnose gestellt?
+
+334
+00:34:04,700 --> 00:34:17,700
+Sie hat viele Arzt besucht, aber niemand hat eine Diagnose gestellt?
+
+335
+00:34:17,700 --> 00:34:27,700
+Es gibt keine organischen Befunde.
+
+336
+00:34:27,700 --> 00:34:32,700
+Hier wurde eine E-Mati durchgeführt.
+
+337
+00:34:32,700 --> 00:34:38,820
+Die Befunde waren normal.
+
+338
+00:34:38,820 --> 00:34:42,820
+Wer hat diese Patienten verschieben?
+
+339
+00:34:42,820 --> 00:34:50,670
+Warum nehmen die Patienten diese Medikamente?
+
+340
+00:34:50,670 --> 00:35:01,820
+Sie kann nicht schlafen, deswegen nimmt sie Diasepam.
+
+341
+00:35:01,820 --> 00:35:06,820
+Aber die erste Frage habe ich nicht gefragt.
+
+342
+00:35:06,820 --> 00:35:11,820
+Ein Arzt hat Ibuprofen und Paracetamol geschrieben.
+
+343
+00:35:12,820 --> 00:35:19,820
+Ein Arzt hat die Patienten die Zepam verschieben.
+
+344
+00:35:19,820 --> 00:35:24,820
+Aber warum? Welche Diagnose?
+
+345
+00:35:24,820 --> 00:35:27,820
+Insomni. Wegen Insomni.
+
+346
+00:35:27,820 --> 00:35:30,820
+Insomni, ok.
+
+347
+00:35:30,820 --> 00:35:41,060
+Was würden Sie zuerst für diese Patienten machen?
+
+348
+00:35:41,060 --> 00:35:49,060
+Ich würde zuerst stationär behandeln.
+
+349
+00:35:49,060 --> 00:35:55,060
+Sie können diese Patienten behandeln?
+
+350
+00:35:55,060 --> 00:36:01,060
+Nein, ich würde einen psychiatrischen Konzil veranlassen.
+
+351
+00:36:01,060 --> 00:36:11,500
+Und die Therapie super machen.
+
+352
+00:36:11,500 --> 00:36:16,500
+Ok, das ist genug für mich.
+
+353
+00:36:16,500 --> 00:36:21,100
+Harif, Sie können gehen.
+
+354
+00:36:21,100 --> 00:36:26,100
+Ich möchte Ihnen eine kurze Zeit für mich geben.
+
+355
+00:36:26,100 --> 00:36:28,100
+Ja, bitte.
+
+356
+00:36:28,100 --> 00:36:35,100
+Es handelt mich um die Patienten, die die Patienten verschieben haben.
+
+357
+00:36:35,100 --> 00:36:43,100
+Sie ist 39 Jahre alt, 1,69 Meter groß und 70 Kilogramm schwer.
+
+358
+00:36:43,100 --> 00:36:50,100
+Die Patienten stellen sich heute bei uns wegen seines acht Monats
+
+359
+00:36:50,100 --> 00:36:55,100
+bestehende Progradienten vor.
+
+360
+00:36:55,100 --> 00:37:02,100
+Die Patienten sind zufolge sehr schwer und schwer.
+
+361
+00:37:02,100 --> 00:37:10,100
+Die Patienten sind zufolge bohrend und dunkel mit und ohne Strahlung.
+
+362
+00:37:10,100 --> 00:37:20,100
+Die Patienten erwähnen, dass die Schmerzen nach starkem Stress aufgetreten sind.
+
+363
+00:37:20,100 --> 00:37:28,100
+Die Schmerzintensität wurde mit 5-10 Jahren auf eine Schmerzskala bewertet.
+
+364
+00:37:28,100 --> 00:37:36,100
+Die Patienten wurden oft wegen des Wiesen an anderen Patienten geschworen.
+
+365
+00:37:36,100 --> 00:37:48,100
+Vor zwei Monaten wurden die Patienten wegen des Verdachts auf den Amtsdurchgabe verabschiedet.
+
+366
+00:37:48,100 --> 00:38:00,100
+Die Patienten haben sich über einen gewissen Tsunami von 5 Kilogramm unter den letzten zwei Monaten verabschiedet.
+
+367
+00:38:00,100 --> 00:38:12,100
+Die Beschwerden haben mit Mielgut, Arthralgie, Fatigue, Nervositat, Tinnitus und Tauchgast.
+
+368
+00:38:12,100 --> 00:38:24,100
+Die Vegetative-Anamnese ist unaufällig bis auf Insomni, Inapetens, Obstipation.
+
+369
+00:38:24,100 --> 00:38:36,100
+An Vorerkrankungen nannte sie die Schmerz- und Obstpain.
+
+370
+00:38:36,100 --> 00:38:52,100
+An Vorerkrankungen nannte sie die Arterie-Hypertonie.
+
+371
+00:38:52,100 --> 00:39:04,100
+An Vorerkrankungen nannte sie die Schmerz- und Obstpain.
+
+372
+00:39:04,100 --> 00:39:16,100
+An Vorerkrankungen nannte sie die Schmerz- und Obstpain.
+
+373
+00:39:16,100 --> 00:39:28,100
+An Vorerkrankungen nannte sie die Schmerz- und Obstpain.
+
+374
+00:39:28,100 --> 00:39:40,100
+An Vorerkrankungen nannte sie die Schmerz- und Obstpain.
+
+375
+00:39:40,100 --> 00:39:52,100
+An Vorerkrankungen nannte sie die Schmerz- und Obstpain.
+
+376
+00:39:52,100 --> 00:40:04,100
+An Vorerkrankungen nannte sie die Schmerz- und Obstpain.
+
+377
+00:40:04,100 --> 00:40:18,100
+Die Mutter hat die Schmerz- und Obstpain mit der Vater von zehn Jahren an Selbstmord gestorben.
+
+378
+00:40:18,100 --> 00:40:26,100
+Die Mutter hat die Schmerz- und Obstpain.
+
+379
+00:40:26,100 --> 00:40:40,100
+Sie hatte eine Schwester, aber die Schwester ist mit 37 Jahren an Leukomis gestorben.
+
+380
+00:40:40,100 --> 00:40:54,100
+Sie ist vollständig geimpft. Sie hat viel Stress und sie ist verheiratet und hat ein Kind.
+
+381
+00:40:54,100 --> 00:41:02,100
+Die Tochter ist gesund. Sie lebt mit ihrer Familie.
+
+382
+00:41:02,100 --> 00:41:10,100
+Ich gehe von einem Verdacht auf Depression aus.
+
+383
+00:41:10,100 --> 00:41:16,100
+Da die Patientin dafür typische Symptome aufweist,
+
+384
+00:41:16,100 --> 00:41:32,100
+leidet sie unter vielen Symptomen wie Sefalge, Myalgie, Arthralgie, Tachikardie, Fatigue.
+
+385
+00:41:32,100 --> 00:41:50,100
+Außerdem hat sie viel Stress und deswegen ist sie oft bei anderen Arzt gewesen.
+
+386
+00:41:50,100 --> 00:41:58,100
+Aber es gibt keine Pathologie, das ist ein Schmerz für Depression.
+
+387
+00:41:58,100 --> 00:42:20,100
+Sie haben recht. Vor fünf Monaten ist ihre Schwester an Leukomis gestorben.
+
+388
+00:42:20,100 --> 00:42:32,100
+Außerdem hat sie seit fünf Monaten arbeitlos und hat eine Probleme mit Ehrmangel.
+
+389
+00:42:32,100 --> 00:42:38,100
+Alles ist eine Belastung für die Patienten.
+
+390
+00:42:38,100 --> 00:42:56,530
+Als Differenzdiagnose kommen im Tumor Migranten und Migranten.
+
+391
+00:42:56,530 --> 00:43:04,530
+Um meine Verdacht Diagnose zu bestätigen, würde ich die Patienten die Vitaparameter überwachen.
+
+392
+00:43:04,530 --> 00:43:10,530
+Dann würde ich die Patienten körperlich untersuchen.
+
+393
+00:43:10,530 --> 00:43:30,530
+Bei der körperlichen Untersuchung achte ich darauf ob bei der Herz-Oskultation es gibt...
+
+394
+00:43:30,530 --> 00:43:40,530
+Dann würde ich die Neurologik untersuchen.
+
+395
+00:43:40,530 --> 00:44:00,530
+Dann würde ich die Störungen mit Motor und Sensor oder anderen Funktionen vorlegen.
+
+396
+00:44:00,530 --> 00:44:12,530
+Nach der körperlichen Untersuchung würde die Labanutzung ein Symbol sein, um die Diagnose zu bestätigen.
+
+397
+00:44:12,530 --> 00:44:28,530
+Dann würde ich die Blutbild- und Herz-Enzyme, die Entzündungsparameter, die Labanutzung bestimmen.
+
+398
+00:44:28,530 --> 00:44:40,530
+Dann würde ich die Schadensdurchführung der Gehirnpathologie ausschließen.
+
+399
+00:44:40,530 --> 00:44:52,530
+Dann würde ich die Schadensdurchführung der Gehirnpathologie ausschließen.
+
+400
+00:44:52,530 --> 00:45:06,530
+Dann würde ich die Schadensdurchführung der Gehirnpathologie ausschließen.
+
+401
+00:45:06,530 --> 00:45:20,530
+Dann würde ich die Schadensdurchführung der Gehirnpathologie ausschließen.
+
+402
+00:45:20,530 --> 00:45:32,530
+Dann würde ich die Psyche und Neurologik untersuchen.
+
+403
+00:45:32,530 --> 00:45:42,530
+Dann würde ich die Psyche und Neurologik untersuchen.
+
+404
+00:45:42,530 --> 00:45:52,530
+Dann würde ich die Psyche und Neurologik untersuchen.
+
+405
+00:45:52,530 --> 00:46:02,530
+Dann würde ich die Psyche und Neurologik untersuchen.
+
+406
+00:46:02,530 --> 00:46:22,530
+Dann würde ich die Psyche und Neurologik untersuchen.
+
+407
+00:46:22,530 --> 00:46:38,530
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, werde ich mit den geplanten Untersuchungen fortsetzen.
+
+408
+00:46:38,530 --> 00:46:46,530
+Herr Kollegen, welche Hauptsymptome hat diese Patientin für Depression?
+
+409
+00:46:46,530 --> 00:46:50,530
+Hauptsymptome?
+
+410
+00:46:50,530 --> 00:47:14,450
+Ich denke, die Hauptsymptome der Depression sind Sefalge und Schlafstörungen.
+
+411
+00:47:14,450 --> 00:47:26,450
+Schlafstörungen und die Stressbedingte der Familie.
+
+412
+00:47:26,450 --> 00:47:40,450
+Herr Kollegen, welche Hauptsymptome hat diese Patientin für Depression?
+
+413
+00:47:40,450 --> 00:47:48,450
+Die Patientin hat seit acht Monaten diese Bechwerden.
+
+414
+00:47:48,450 --> 00:47:58,450
+Die Patientin ist vielmals bei anderen Arzt gewesen.
+
+415
+00:47:58,450 --> 00:48:08,450
+Es gibt keine Pathologie, dass sie für Depression ist.
+
+416
+00:48:08,450 --> 00:48:16,450
+Um eine Depression zu diagnostizieren, brauchen wir mindestens zwei Wochen diese Bechwerden.
+
+417
+00:48:16,450 --> 00:48:18,450
+Zwei Wochen?
+
+418
+00:48:18,450 --> 00:48:20,450
+Mindestens zwei Wochen.
+
+419
+00:48:20,450 --> 00:48:40,450
+Ich habe keine Erfahrung über diesen Fall. Danke für diese wichtige Information.
+
+420
+00:48:40,450 --> 00:48:46,450
+Welche Organisierungen müssen wir in diesem Fall ausschließen?
+
+421
+00:48:46,450 --> 00:48:56,450
+Wir müssen die Probleme ausüben.
+
+422
+00:48:56,450 --> 00:49:04,450
+Zum Beispiel die Tumore, andere Probleme.
+
+423
+00:49:04,450 --> 00:49:08,450
+Was ist die mögliche Metabolik?
+
+424
+00:49:08,450 --> 00:49:14,450
+Ja, die Metabolik. Vielleicht auch die Hypotheroide.
+
+425
+00:49:14,450 --> 00:49:20,450
+Hypotheroide.
+
+426
+00:49:20,450 --> 00:49:24,450
+Anemia.
+
+427
+00:49:24,450 --> 00:49:28,450
+Vitaminmangel.
+
+428
+00:49:28,450 --> 00:49:36,450
+Welche Laboruntersuchungen ist es wichtig, wenn man die Metabolik ausübt?
+
+429
+00:49:36,450 --> 00:49:52,450
+TSH, T3, T4 und B12. Eisen.
+
+430
+00:49:52,450 --> 00:50:04,450
+Und vielleicht gibt es andere Herberge.
+
+431
+00:50:04,450 --> 00:50:12,450
+Vitamin B, Phosphory, Elektrolytin, Niren.
+
+432
+00:50:12,450 --> 00:50:18,450
+Ja, wir müssen viel lernen über diese Herberge.
+
+433
+00:50:18,450 --> 00:50:24,450
+Welche Therapieoptionen gibt es?
+
+434
+00:50:24,450 --> 00:50:42,450
+Ich denke, wir würden die Patienten wieder auf NAME HEMA aufnehmen.
+
+435
+00:50:42,450 --> 00:50:46,450
+Zum Beispiel Sertralin oder Phloxetin.
+
+436
+00:50:46,450 --> 00:50:52,450
+Meine Sie, Pharmakotherapie. Gibt es andere Therapiemethoden?
+
+437
+00:50:52,450 --> 00:51:00,450
+Ja, andere Therapiemethoden. Körperliche Bewegung.
+
+438
+00:51:00,450 --> 00:51:04,450
+Psychotherapie.
+
+439
+00:51:04,450 --> 00:51:08,450
+Sozialtherapie.
+
+440
+00:51:08,450 --> 00:51:12,450
+Sozialtherapie, ja.
+
+441
+00:51:12,450 --> 00:51:18,450
+Und Beweglichkeit. Und unser Zeit ist um.
+
+442
+00:51:18,450 --> 00:51:26,450
+Ich habe viele Fragen nicht geantwortet.
+
+443
+00:51:26,450 --> 00:51:37,810
+Guten Tag Herr Oberarzt. Heute habe ich eine neue Patientin aufgenommen.
+
+444
+00:51:37,810 --> 00:51:43,810
+Und ich möchte Sie Ihnen vorstellen. Haben Sie kurz Zeit dafür?
+
+445
+00:51:43,810 --> 00:51:45,810
+Bitte schön.
+
+446
+00:51:45,810 --> 00:52:01,810
+Ich berichte über die 39-jährige Patientin, Frau Theresa Heidenreich, die 1,69 Meter groß ist und 80 Kilogramm wiegt.
+
+447
+00:52:01,810 --> 00:52:21,810
+Die Patientin kam zu uns mit seit fünf Monaten bestehenden, bestehender, diffuser, dauerhafter Koffschmerzen ohne Ausstrahlung.
+
+448
+00:52:21,810 --> 00:52:41,810
+Außerdem klagt die Patientin über anhedonische, adynamische, polyarthralische, myelchische, tynnose, fatigue und Nervosität.
+
+449
+00:52:41,810 --> 00:52:55,810
+Fragen nach Selbstmord gedeckt wurde verneint. Die Patientin bewertete ihre Kopfschmerzen mit fünf von zehn auf einer Schmerzskala.
+
+450
+00:52:55,810 --> 00:53:09,860
+Darüber hinaus klagte sie über Insomnie und Hypersomnie im Wechsel und Obstipation.
+
+451
+00:53:09,860 --> 00:53:31,360
+Die Patientin erwähnte, dass sie zehnmal verschiedene Arzt und Ärzte besucht haben, jedoch hat sie keine Lösung gefunden.
+
+452
+00:53:31,360 --> 00:53:48,740
+Ein MRT des Schädes wurde bei der Patientin durchgeführt und gab es ohne pathologisches Befinden.
+
+453
+00:53:48,740 --> 00:54:02,740
+Dagegen hat sie Ibuprofen, Paracetamol und Diasam angenommen, aber diese Medikamente haben keine Linderung gebracht.
+
+454
+00:54:02,740 --> 00:54:19,980
+Die Patientin hat Polenallergie, die sich mit Renitis äußere.
+
+455
+00:54:19,980 --> 00:54:38,980
+Reiseanamnese wurde verneint. Sie raucht eine Schachtel Zigarette seit sechs Monaten und zehn Zigarette seit zehn Jahren.
+
+456
+00:54:38,980 --> 00:54:46,980
+Sie trinkt zwei oder drei Gläser Wein täglich seit sechs Monaten.
+
+457
+00:54:46,980 --> 00:55:13,980
+In der Familienanamnese gab sie an, dass ihr Vater wegen Suizid mit 58 gestorben ist und ihre Mutter leidet an Arterialhypertonie und Coronärherzklarheit.
+
+458
+00:55:13,980 --> 00:55:36,640
+Außerdem ist ihre Schwester wegen Leukämie vor fünf Monaten verstorben. Sie ist verheiratet und hat eine Tochter und arbeitet seit drei Monaten.
+
+459
+00:55:36,640 --> 00:56:03,640
+Sie leidet mit ihrer Familie. Die anamnestischen Angaben deuten am ehesten auf Depressionen, differenzielle Diagnostik, psychosomatische Störungen, Hypothreose.
+
+460
+00:56:06,640 --> 00:56:12,640
+Welche Symptome spricht für eine Depression?
+
+461
+00:56:12,640 --> 00:56:34,270
+Die Patienten sprechen leider an Anhydrose und Anhydrose, Nervosität und Fatigue für eine Depression.
+
+462
+00:56:34,270 --> 00:56:39,270
+Welche Symptome spricht für eine Depression?
+
+463
+00:56:39,270 --> 00:56:41,270
+Welche?
+
+464
+00:56:41,270 --> 00:56:43,270
+Welche Symptome?
+
+465
+00:56:43,270 --> 00:56:46,270
+Zum Beispiel Vegetative.
+
+466
+00:56:46,270 --> 00:56:59,270
+Sie sprechen leider an Apathens und Hyperphagie im Wechsel und insomnie und hypersomnie im Wechsel.
+
+467
+00:56:59,270 --> 00:57:04,270
+Diese Symptome sprechen auch für eine Depression.
+
+468
+00:57:04,270 --> 00:57:10,270
+Welche differenzielle Diagnose kommen in diesem Fall?
+
+469
+00:57:10,270 --> 00:57:32,030
+Hypothreose und psychosomatische Störungen oder Gechentumor kommen in Betracht.
+
+470
+00:57:32,030 --> 00:57:36,030
+Was machen Sie weiter?
+
+471
+00:57:36,030 --> 00:57:44,030
+Um meine Verdacht Diagnose zu bestätigen, werde ich zuerst die Patienten körperlich untersuchen.
+
+472
+00:57:44,030 --> 00:58:11,030
+Danach werde ich Blut abnehmen, besonders im Blut achte ich Großblutbild T3, T4 und TSH Werte und Elektrolyten, Nieren- und Leberwerte auf.
+
+473
+00:58:11,030 --> 00:58:17,030
+Was beachten Sie bei der körperlichen Untersuchung in diesem Fall?
+
+474
+00:58:17,030 --> 00:58:43,030
+Ich beachte darauf, ob es eine neurologische Motorik, Sensorenstörung gibt, besonders Selbststörung, Höchststörung oder Kraftlosigkeit, Parastese, Paralysie oder Reflexe.
+
+475
+00:58:43,030 --> 00:58:51,030
+Ich werde diese beurteilen und kontrollieren.
+
+476
+00:58:51,030 --> 00:58:58,920
+Welche Bildgebindeverfahrung in dieser See?
+
+477
+00:58:58,920 --> 00:59:05,920
+Vor zwei Monaten wurde ein MRT des Schädels durchgeführt.
+
+478
+00:59:05,920 --> 00:59:15,920
+Deswegen sind intrakranialen Pathologien ausgeschlossen.
+
+479
+00:59:15,920 --> 00:59:33,360
+Vielleicht können wir eine EEG durchführen, Elektroencephalographie, um mögliche Gehirnpathologie auszuschließen.
+
+480
+00:59:33,360 --> 00:59:53,360
+Elektroencephalographie ist eine Information über Gehirn- und Sturmaktivität.
+
+481
+00:59:53,360 --> 01:00:10,860
+Während dieses Verfahren schließen wir die Patienten Elektroden.
+
+482
+01:00:10,860 --> 01:00:26,860
+Wenn die Patient wach ist, messen wir die Elektroaktivität des Gehirns.
+
+483
+01:00:26,860 --> 01:00:35,460
+Ist es gefährlich?
+
+484
+01:00:35,460 --> 01:00:47,460
+Manchmal müssen die Patienten ihr Haar schneiden.
+
+485
+01:00:47,460 --> 01:01:19,490
+Manchmal muss man eine Sedative-Analgesik und Analgesik einnehmen.
+
+486
+01:01:19,490 --> 01:01:33,490
+Besonders bei den Kindern ist es wichtig, beruhigend zu sein.
+
+487
+01:01:33,490 --> 01:01:45,870
+Welche Therapie-Organisierungen haben Sie?
+
+488
+01:01:45,870 --> 01:01:57,870
+Zuerst werde ich die Patienten stationär aufnehmen.
+
+489
+01:01:57,870 --> 01:02:15,870
+Dann werde ich eine neurologische und psychiatrische Konzilierung anfordern, um eine Diagnose richtig zu stellen.
+
+490
+01:02:15,870 --> 01:02:35,870
+Dann werde ich eine psychosomatische und medizinische Konzilierung anfordern, um eine Psychosomatische und medizinische Konzilierung anfordern,
+
+491
+01:02:35,870 --> 01:03:03,170
+und dann kann ich eine antidepressive Medikamente behandeln.
+
+492
+01:03:03,170 --> 01:03:13,660
+Wie lange dauert diese Therapie?
+
+493
+01:03:13,660 --> 01:03:31,660
+Die Therapie für eine Depression dauert lange, mindestens 3 oder 6 Monate.
+
+494
+01:03:31,660 --> 01:03:37,660
+Aber ich habe keine genaue Information über diese Therapie.
+
+495
+01:03:37,660 --> 01:03:45,660
+Dann werden wir in der nächsten Runde eine Nachremission machen.
+
+496
+01:03:45,660 --> 01:03:53,260
+Welche Nebenwirkungen haben Sie bei SSRI?
+
+497
+01:04:26,980 --> 01:04:32,980
+Welche Medikamente haben Sie bei dieser Patienten?
+
+498
+01:05:02,980 --> 01:05:08,980
+Gruppebehandlung kann auch sein.
+
+499
+01:05:08,980 --> 01:05:14,980
+Und EKT ist auch eine Möglichkeit.
+
+500
+01:05:14,980 --> 01:05:20,980
+Regelmäßige Bewegung,
+
+501
+01:05:20,980 --> 01:05:24,980
+Sport zu treiben ist wichtig,
+
+502
+01:05:24,980 --> 01:05:26,980
+sozial zu sein ist wichtig,
+
+503
+01:05:26,980 --> 01:05:32,980
+und natürlich ist die Familienunterstützung sehr wichtig bei diesen Patienten.
+
+504
+01:05:32,980 --> 01:05:36,980
+Was ist mit der saisonalen Depression?
+
+505
+01:05:36,980 --> 01:05:42,980
+Ich habe das einmal gehört.
+
+506
+01:05:42,980 --> 01:06:02,980
+Ich denke, besonders im Winter oder im Herbst, ohne Sonne hat manche Patientin die Stimmung verändert.
+
+507
+01:06:02,980 --> 01:06:10,980
+Diese Depression kann die Stimmung verhindern.
+
+508
+01:06:10,980 --> 01:06:16,980
+In welcher Situation würden Sie diese Patienten stationär aufnehmen?
+
+509
+01:06:16,980 --> 01:06:26,980
+Wenn es um Selbstmord oder Suizid geht, müssen wir sie stationär aufnehmen.
+
+510
+01:06:26,980 --> 01:06:32,980
+Aber manche Patienten haben keine genaue Diagnose.
+
+511
+01:06:32,980 --> 01:06:38,980
+Deswegen kann man sie stationär aufnehmen.
+
+512
+01:06:38,980 --> 01:06:42,980
+Vielen Dank, Herr Kollegen.
+
+513
+01:06:42,980 --> 01:06:46,980
+Ich denke, Ihnen.

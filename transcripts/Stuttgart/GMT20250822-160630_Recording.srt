@@ -1,0 +1,2183 @@
+1
+00:00:00,000 --> 00:00:08,000
+Guten Tag, mein Name ist Yusuf Seçkin. Ich bin heute der zuständige Arzt für Sie.
+
+2
+00:00:08,000 --> 00:00:14,000
+Ich werde das erste Gespräch mit Ihnen führen. Erstmal benötige ich ein paar persönliche Daten von Ihnen.
+
+3
+00:00:14,000 --> 00:00:19,000
+Dann sprechen wir über Ihre aktuellen Beschwerden. Falls Sie Fragen haben,
+
+4
+00:00:19,000 --> 00:00:23,000
+dann ergeben Sie bitte nicht, mich zu unterbrechen. Wie heißen Sie denn?
+
+5
+00:00:23,000 --> 00:00:36,060
+Mein Name ist Sublin Şimid. Könnten Sie bitte den Vor- und Nachnamen langsam buchtebieren?
+
+6
+00:00:36,060 --> 00:00:46,060
+Sublin mit Z-U-B-L-I-N. N. N am Ende ja.
+
+7
+00:00:46,060 --> 00:00:52,840
+Schimid S-C-H-M-I-D-T.
+
+8
+00:00:52,840 --> 00:00:54,840
+Sind Sie Herr oder Frau Schimid?
+
+9
+00:00:54,840 --> 00:00:56,840
+Herr Schimid.
+
+10
+00:00:56,840 --> 00:00:58,840
+Wie alt sind Sie Herr Schimid?
+
+11
+00:00:58,840 --> 00:01:00,840
+55.
+
+12
+00:01:00,840 --> 00:01:03,840
+Ihr Gebustdatum bitte?
+
+13
+00:01:03,840 --> 00:01:12,940
+Ja. 1. Juli 1970.
+
+14
+00:01:12,940 --> 00:01:14,940
+Wissen Sie, wie groß Sie sind?
+
+15
+00:01:14,940 --> 00:01:20,320
+Ja, ich bin 1 Meter 73.
+
+16
+00:01:20,320 --> 00:01:22,320
+Ihr Gewicht bitte?
+
+17
+00:01:22,320 --> 00:01:24,320
+74 Kilogramm.
+
+18
+00:01:24,320 --> 00:01:31,650
+Haben Sie einen Hausarzt oder eine Hausärztin?
+
+19
+00:01:31,650 --> 00:01:33,650
+Ja, natürlich habe ich, Herr Doktor.
+
+20
+00:01:33,650 --> 00:01:37,650
+Wie heißt er oder sie?
+
+21
+00:01:37,650 --> 00:01:41,650
+Er heißt Herr Renkler.
+
+22
+00:01:41,650 --> 00:01:50,620
+Renkler mit R-E-N-K-L-E-R.
+
+23
+00:01:50,620 --> 00:01:53,620
+Mit G, nicht K, G.
+
+24
+00:01:53,620 --> 00:01:55,620
+Renkler.
+
+25
+00:01:55,620 --> 00:01:57,620
+Was für Sie heute so uns Herr Schimid?
+
+26
+00:01:57,620 --> 00:02:00,620
+Welche Beispiele haben Sie?
+
+27
+00:02:00,620 --> 00:02:06,620
+Herr Doktor, seit gestern Abend oder Nachmittag
+
+28
+00:02:06,620 --> 00:02:10,620
+hatte ich Schmerzen bekommen.
+
+29
+00:02:10,620 --> 00:02:12,620
+Habe ich Schmerzen bekommen.
+
+30
+00:02:12,620 --> 00:02:14,620
+Wo genau tut es Ihnen weh?
+
+31
+00:02:14,620 --> 00:02:17,620
+Ja, Rückenschmerzen habe ich.
+
+32
+00:02:17,620 --> 00:02:24,620
+Und im Verlauf der Zeit hat es schlimmer geworden.
+
+33
+00:02:24,620 --> 00:02:28,620
+Heute kann ich nicht ertragen.
+
+34
+00:02:28,620 --> 00:02:30,620
+Ich kann sagen, es ist sehr schlimm.
+
+35
+00:02:30,620 --> 00:02:36,620
+Ich habe ein stechendes und brennendes Gefühl im Rücken.
+
+36
+00:02:36,620 --> 00:02:39,620
+Und Schmerzen ist immer da.
+
+37
+00:02:39,620 --> 00:02:41,620
+Das ist sehr schlimm.
+
+38
+00:02:41,620 --> 00:02:46,620
+Ich kann nicht bewegen, ich kann nicht drehen.
+
+39
+00:02:46,620 --> 00:02:50,620
+Beim Liegen auch habe ich Schmerzen.
+
+40
+00:02:51,620 --> 00:02:53,620
+Beim Liegen auch.
+
+41
+00:02:53,620 --> 00:02:56,620
+Haben Sie im Ruhe auch Schmerzen?
+
+42
+00:02:56,620 --> 00:02:59,620
+Entschuldigung?
+
+43
+00:02:59,620 --> 00:03:01,620
+Im Ruhe, im Liegen.
+
+44
+00:03:01,620 --> 00:03:02,620
+Im Ruhe auch.
+
+45
+00:03:02,620 --> 00:03:05,620
+Beim Bewegen ist es schlimmer.
+
+46
+00:03:05,620 --> 00:03:09,620
+Aber im Ruhe habe ich Schmerzen.
+
+47
+00:03:09,620 --> 00:03:16,960
+Strahlen Sie Schmerzen irgendwo hinaus?
+
+48
+00:03:17,960 --> 00:03:20,960
+Ich habe Schmerzen im Lendenbereich.
+
+49
+00:03:20,960 --> 00:03:22,960
+Rücken im Lendenbereich.
+
+50
+00:03:22,960 --> 00:03:25,960
+Strahlen aber nicht ganz im Rücken.
+
+51
+00:03:25,960 --> 00:03:28,960
+Links oder rechts?
+
+52
+00:03:28,960 --> 00:03:31,960
+Mitte.
+
+53
+00:03:31,960 --> 00:03:33,960
+Aber es gibt keine Ausstrahlung?
+
+54
+00:03:33,960 --> 00:03:35,960
+Nein.
+
+55
+00:03:35,960 --> 00:03:38,960
+Gibt es irgendwelche Auslöser dafür?
+
+56
+00:03:38,960 --> 00:03:40,960
+Was ist passiert, Herr Schmidt?
+
+57
+00:03:40,960 --> 00:03:43,960
+Ich weiß nicht Herr Doktor.
+
+58
+00:03:43,960 --> 00:03:46,960
+Das ist selbst passiert.
+
+59
+00:03:46,960 --> 00:03:48,960
+Ich habe nichts gemacht.
+
+60
+00:03:48,960 --> 00:03:51,960
+Ich habe alle gleiche Dinge gemacht.
+
+61
+00:03:51,960 --> 00:03:53,960
+Aber es war passiert.
+
+62
+00:03:53,960 --> 00:03:58,960
+Sind die Schmerzen plötzlich oder allmählich aufgetreten?
+
+63
+00:03:58,960 --> 00:04:01,960
+Zuerst nachmittags war es nicht schlimm.
+
+64
+00:04:01,960 --> 00:04:04,960
+Aber Schritt für Schritt wurde es schlimm.
+
+65
+00:04:04,960 --> 00:04:08,960
+Heute Morgen kann ich nichts ertragen.
+
+66
+00:04:08,960 --> 00:04:11,960
+Aber manchmal ...
+
+67
+00:04:11,960 --> 00:04:14,960
+Wann haben Sie die letzte Schmerz?
+
+68
+00:04:14,960 --> 00:04:16,960
+Im Nachmittag.
+
+69
+00:04:16,960 --> 00:04:19,960
+Und am Mittag?
+
+70
+00:04:19,960 --> 00:04:22,960
+Im Nachmittag.
+
+71
+00:04:22,960 --> 00:04:30,700
+Und am Mittag?
+
+72
+00:04:30,700 --> 00:04:35,200
+Am Mittag.
+
+73
+00:04:35,200 --> 00:04:38,200
+Und am Mittag?
+
+74
+00:04:38,200 --> 00:04:40,200
+Im Nachmittag.
+
+75
+00:04:40,200 --> 00:04:47,200
+Wann hatten Sie letztes Mal diese Schmerzen?
+
+76
+00:04:47,200 --> 00:04:53,200
+Ab und zu, ich kann das nicht genau sagen, aber ab und zu hatte ich Rücken Schmerzen.
+
+77
+00:04:53,200 --> 00:04:59,910
+Waren Sie deswegen beim Arzt?
+
+78
+00:04:59,910 --> 00:05:09,910
+Ja, manchmal war ich beim Hausarzt und hat mir einige Vitaminen gegeben.
+
+79
+00:05:09,910 --> 00:05:17,910
+Ich habe gesagt, dass ich Muskelschmerzen habe.
+
+80
+00:05:17,910 --> 00:05:27,910
+Ich habe einige Muskelschmerzen und Medikamente genommen.
+
+81
+00:05:27,910 --> 00:05:34,910
+Ich habe Schmerzen genommen, aber jetzt ist es schlimm.
+
+82
+00:05:34,910 --> 00:05:39,910
+Haben Sie dieses Mal gegen diese Medikamente genommen?
+
+83
+00:05:39,910 --> 00:05:42,910
+Nein, nein, habe ich nicht angenommen.
+
+84
+00:05:42,910 --> 00:05:49,910
+Wurde bei Ihnen außer Muskelschwannung eine andere Diagnose festgestellt?
+
+85
+00:05:49,910 --> 00:05:59,910
+Nein, mit Rücken Schmerzen nicht, aber habe ich Zuckerkrankheit und so weiter.
+
+86
+00:05:59,910 --> 00:06:07,910
+Wir kommen zu Ihrer Chronikgeschichte, aber jetzt sprechen wir über aktuelle Beschwerden.
+
+87
+00:06:07,910 --> 00:06:12,910
+Haben Sie noch andere Schmerzen, Herr Schmidt?
+
+88
+00:06:12,910 --> 00:06:16,910
+Ja, jetzt habe ich Rücken Schmerzen, Herr Doktor.
+
+89
+00:06:16,910 --> 00:06:21,910
+Wie stark sind Schmerzen auf einer Skala von 1 bis 10, wobei 10 am stärksten ist?
+
+90
+00:06:21,910 --> 00:06:25,910
+Es ist 8 oder 9, ich weiß nicht.
+
+91
+00:06:26,910 --> 00:06:30,910
+Könnten Sie uns das Gespräch zum Ende aushalten?
+
+92
+00:06:30,910 --> 00:06:37,910
+Ja, ein Schmerzmiter wäre schön, Herr Doktor.
+
+93
+00:06:37,910 --> 00:06:42,910
+Ja, bitte schön, ein Schmerzmiter und ein Glas Wasser.
+
+94
+00:06:42,910 --> 00:06:50,910
+Ich danke Ihnen, aber ich hatte einmal einen Anaphylaptik-Schock gegen Ibu Brown. Was haben Sie mir gegeben?
+
+95
+00:06:50,910 --> 00:06:55,910
+Sie haben recht, Herr Schmidt. Haben Sie irgendwelche Allergien?
+
+96
+00:06:55,910 --> 00:07:00,910
+Ja, ich habe Ibu Browns Allergie.
+
+97
+00:07:02,910 --> 00:07:05,910
+Wie reagieren Sie darauf?
+
+98
+00:07:05,910 --> 00:07:17,910
+Ich hatte einen Anaphylaptik-Schock. Ich konnte nicht atmen und habe zwei Tage im Intensivstation geblieben.
+
+99
+00:07:17,910 --> 00:07:29,910
+Ich hatte einen Anaphylaptik-Schock, ich konnte nicht atmen und habe zwei Tage im Intensivstation geblieben.
+
+100
+00:07:29,910 --> 00:07:42,910
+Ich hatte einen Anaphylaptik-Schock. Ich konnte nicht atmen und habe zwei Tage im Intensivstation geblieben.
+
+101
+00:07:42,910 --> 00:07:50,910
+Ich hatte einen Anaphylaptik-Schock. Ich konnte nicht atmen und habe zwei Tage im Intensivstation geblieben.
+
+102
+00:07:50,910 --> 00:07:57,910
+Ich gebe Ihnen andere Medikamente. Können Sie es nehmen?
+
+103
+00:07:57,910 --> 00:08:01,910
+Vielen Dank. Ich lebe noch.
+
+104
+00:08:01,910 --> 00:08:06,910
+Haben Sie Kribben oder Taupassgefühl, Herr Schmidt?
+
+105
+00:08:06,910 --> 00:08:14,910
+Mein Rücken ist wie ein Ameiserlauf.
+
+106
+00:08:14,910 --> 00:08:19,910
+Im Fuß oder im Knie?
+
+107
+00:08:19,910 --> 00:08:21,910
+Nein, habe ich nicht.
+
+108
+00:08:21,910 --> 00:08:23,910
+Nur im Rücken?
+
+109
+00:08:23,910 --> 00:08:35,260
+Ja, im Rücken.
+
+110
+00:08:35,260 --> 00:08:39,260
+Haben Sie Muskelschwache?
+
+111
+00:08:39,260 --> 00:08:44,260
+Nein, aber jetzt kann ich nicht bewegen, kann ich nicht drehen.
+
+112
+00:08:45,260 --> 00:08:51,260
+Können Sie Ihren Fuß bewegen?
+
+113
+00:08:51,260 --> 00:08:53,260
+Ihren Fuß?
+
+114
+00:08:53,260 --> 00:08:56,260
+Ja, können Sie laufen?
+
+115
+00:08:56,260 --> 00:09:00,260
+Ich kann nicht laufen, jetzt habe ich sehr starke Schmerzen.
+
+116
+00:09:00,260 --> 00:09:04,260
+Wie sind Sie hierher gekommen?
+
+117
+00:09:04,260 --> 00:09:17,850
+Mein Sohn hat mich mitgebracht.
+
+118
+00:09:17,850 --> 00:09:25,850
+Haben Sie Schwellungen, Überwärmung oder Rötung im betroffenen Bereich bemerkt?
+
+119
+00:09:25,850 --> 00:09:30,850
+Habe ich nicht bemerkt, aber mein Lendenbein ist sehr schmerzhaft.
+
+120
+00:09:30,850 --> 00:09:37,850
+Mein Sohn hat berührt und auf der Wirbelsäule hatte ich sehr starke Schmerzen.
+
+121
+00:09:37,850 --> 00:09:41,480
+Verstehe.
+
+122
+00:09:41,480 --> 00:09:46,480
+Haben Sie Fieberhälfte mit Schüttelfrost oder Nachschweiß?
+
+123
+00:09:46,480 --> 00:09:48,480
+Nein, habe ich nicht.
+
+124
+00:09:48,480 --> 00:09:53,010
+Ist Ihnen schwindelig?
+
+125
+00:09:53,010 --> 00:10:03,600
+Nicht so, ein bisschen. Mir ist übel wegen Schmerzen, denke ich.
+
+126
+00:10:03,600 --> 00:10:05,600
+Mussten Sie sich übergeben?
+
+127
+00:10:05,600 --> 00:10:06,600
+Nein.
+
+128
+00:10:06,600 --> 00:10:13,680
+Haben Sie in letzter Zeit etwas Schweres gehoben?
+
+129
+00:10:13,680 --> 00:10:18,680
+Nein, Herr Doktor, ich habe alles gleich gemacht.
+
+130
+00:10:18,680 --> 00:10:25,590
+Was sind Sie vom Beruf, Herr Schmidt?
+
+131
+00:10:25,590 --> 00:10:29,590
+Ich bin Angestellter bei der Gemeinde.
+
+132
+00:10:29,590 --> 00:10:36,090
+Haben Sie körperliche Belastung bei der Arbeit?
+
+133
+00:10:36,090 --> 00:10:39,090
+Ja, manchmal arbeite ich körperlich.
+
+134
+00:10:39,090 --> 00:10:47,300
+Wie ist Ihr Appetit?
+
+135
+00:10:47,300 --> 00:10:52,300
+Seit gestern Abend kann ich nicht essen.
+
+136
+00:10:52,300 --> 00:10:56,300
+Ich habe sehr starke Schmerzen, vielleicht wegen Schmerzen.
+
+137
+00:10:56,300 --> 00:10:59,300
+Haben Sie in letzter Zeit Ab- oder Suge genommen?
+
+138
+00:10:59,300 --> 00:11:02,810
+Ich bemerke nicht.
+
+139
+00:11:02,810 --> 00:11:14,040
+Wie ist Ihr Stuhlgang und Wasserlasten, Herr Schmidt?
+
+140
+00:11:14,040 --> 00:11:19,040
+Ich leide unter chronischer Verstopfung.
+
+141
+00:11:19,040 --> 00:11:23,040
+Seit wann haben Sie das?
+
+142
+00:11:23,040 --> 00:11:27,040
+Seit ungefähr zehn Jahren.
+
+143
+00:11:27,040 --> 00:11:33,440
+Was nehmen Sie dagegen?
+
+144
+00:11:33,440 --> 00:11:39,440
+Ich nehme ein pflanzlicher Mittel.
+
+145
+00:11:39,440 --> 00:11:44,440
+Was haben Sie?
+
+146
+00:11:44,440 --> 00:11:47,440
+Ich habe kein Problem.
+
+147
+00:11:47,440 --> 00:11:53,420
+Können Sie gut schlafen, Herr Schmidt?
+
+148
+00:11:53,420 --> 00:11:59,420
+Normalerweise schlafe ich gut, aber gestern Abend kann ich nicht schlafen.
+
+149
+00:11:59,420 --> 00:12:03,420
+Haben Sie ein Schlafstörungen oder nur Schlafstörungen?
+
+150
+00:12:03,420 --> 00:12:07,420
+Gestern Abend war total schlimm.
+
+151
+00:12:07,420 --> 00:12:09,420
+Wegen dieser Schmerzen.
+
+152
+00:12:09,420 --> 00:12:18,240
+Haben Sie Atemnot, Husten oder Herzrasen bemerkt?
+
+153
+00:12:18,240 --> 00:12:29,240
+Nein, habe ich keine.
+
+154
+00:12:29,240 --> 00:12:34,240
+Sie haben schon gesagt, dass Sie Bluthochdruck haben.
+
+155
+00:12:34,240 --> 00:12:38,240
+Haben Sie irgendwelche chronischen Erkrankungen außer Bluthochdruck?
+
+156
+00:12:38,240 --> 00:12:41,240
+Ich habe eine Zuckerkrankung.
+
+157
+00:12:41,240 --> 00:12:48,020
+Seit wann haben Sie Bluthochdruck und Zuckerkrankung?
+
+158
+00:12:48,020 --> 00:12:51,020
+Seit zehn Jahren habe ich Bluthochdruck.
+
+159
+00:12:51,020 --> 00:12:56,020
+Seit 20 Jahren habe ich Zuckerkrankung.
+
+160
+00:12:56,020 --> 00:12:59,020
+Was nehmen Sie dagegen?
+
+161
+00:12:59,020 --> 00:13:03,020
+Ich nehme Metformin zweimal täglich.
+
+162
+00:13:03,020 --> 00:13:07,020
+Abends und morgens.
+
+163
+00:13:07,020 --> 00:13:11,910
+In welchen Dosis nehmen Sie das?
+
+164
+00:13:11,910 --> 00:13:15,910
+1000 mg.
+
+165
+00:13:15,910 --> 00:13:20,910
+Was nehmen Sie gegen Bluthochdruck?
+
+166
+00:13:20,910 --> 00:13:25,910
+Ich nehme Kaptopril. 25 mg morgens.
+
+167
+00:13:25,910 --> 00:13:32,300
+Einmal.
+
+168
+00:13:32,300 --> 00:13:35,300
+Haben Sie noch andere chronische Erkrankungen?
+
+169
+00:13:35,300 --> 00:13:39,300
+Nein, aber als ich Kind war, hatte ich Windpocken.
+
+170
+00:13:39,300 --> 00:13:52,980
+Welche Behandlung hatten Sie?
+
+171
+00:13:53,980 --> 00:14:00,980
+Ich erinnere mich nicht gut, aber hatte ein Schmerzmittel.
+
+172
+00:14:00,980 --> 00:14:05,980
+Oder ein kibasenkender Mittel.
+
+173
+00:14:05,980 --> 00:14:12,980
+Außer diesem Medikament nehmen Sie regelmäßig Medikamente?
+
+174
+00:14:12,980 --> 00:14:17,350
+Nein, nehme ich nicht.
+
+175
+00:14:17,350 --> 00:14:21,350
+Wurden Sie schon einmal operiert?
+
+176
+00:14:22,350 --> 00:14:33,350
+Mit zwölf Jahren wurde mein Wurmvorsatz entfernt.
+
+177
+00:14:33,350 --> 00:14:40,290
+Hatten Sie noch andere Operationen?
+
+178
+00:14:40,290 --> 00:14:53,540
+Vor drei Jahren wurde ich wegen Hüftefraktur operiert.
+
+179
+00:14:53,540 --> 00:15:04,540
+Ich hatte Platten und zwölf Schrauben.
+
+180
+00:15:04,540 --> 00:15:07,540
+Hatten Sie einen Umfang?
+
+181
+00:15:07,540 --> 00:15:16,540
+Nein, ich habe gestolpert und dann hingefallen.
+
+182
+00:15:16,540 --> 00:15:24,540
+Es war sehr klein, aber ich hatte komischerweise einen Hüftgelenkfraktur.
+
+183
+00:15:24,540 --> 00:15:27,540
+Ich verstehe das nicht.
+
+184
+00:15:27,540 --> 00:15:32,540
+Wurde bei Ihnen Osteoporos gestellt?
+
+185
+00:15:32,540 --> 00:15:43,540
+Mein Hausarzt hat mir einmal gesagt, dass vielleicht ein Osteoporos ein Rückenschmerzen verursacht.
+
+186
+00:15:43,540 --> 00:15:46,540
+Aber nicht genau.
+
+187
+00:15:46,540 --> 00:15:53,540
+Machen Sie sich keine Sorgen, nach dem Anamnistgespräch werde ich eine Labo-Untersuchung veranlassen.
+
+188
+00:15:53,540 --> 00:15:56,540
+Rauchen Sie?
+
+189
+00:15:56,540 --> 00:15:59,540
+Ja, ich rauche.
+
+190
+00:15:59,540 --> 00:16:04,540
+Wie oft rauchen Sie? Und seit wann?
+
+191
+00:16:04,540 --> 00:16:08,540
+Seit 30 Jahren eine Schachtel Zigaretten.
+
+192
+00:16:08,540 --> 00:16:14,690
+Trinken Sie Alkohol?
+
+193
+00:16:14,690 --> 00:16:19,690
+Ja, ich trinke jeden Abend zwei oder drei Rotwein.
+
+194
+00:16:19,690 --> 00:16:22,690
+Zwei Gläser Rotwein.
+
+195
+00:16:22,690 --> 00:16:30,460
+Und ab und zu ein Flaschen Bier.
+
+196
+00:16:30,460 --> 00:16:33,460
+Was meinen Sie damit?
+
+197
+00:16:33,460 --> 00:16:36,460
+Mit meinen Freunden oder Freundinnen.
+
+198
+00:16:36,460 --> 00:16:45,290
+Seit wann trinken Sie Alkohol?
+
+199
+00:16:45,290 --> 00:16:52,290
+Nach dem Gymnasium. Das ist ganz normal in Deutschland.
+
+200
+00:16:52,290 --> 00:16:55,290
+Ja, natürlich.
+
+201
+00:16:55,290 --> 00:16:58,290
+Bitte nehmen Sie die folgende Frage nicht persönlich.
+
+202
+00:16:58,290 --> 00:17:02,290
+Aus medizinischen Gründen fragen wir, haben Sie Erfahrung mit Drogen?
+
+203
+00:17:02,290 --> 00:17:07,290
+Ja, im Gymnasium habe ich probiert.
+
+204
+00:17:07,290 --> 00:17:12,290
+Zwei Joint, aber ich rauche regelmäßig nicht.
+
+205
+00:17:12,290 --> 00:17:16,290
+Sind Sie verheiratet?
+
+206
+00:17:16,290 --> 00:17:19,630
+Ja.
+
+207
+00:17:19,630 --> 00:17:21,630
+Wie wohnen Sie?
+
+208
+00:17:21,630 --> 00:17:27,010
+Wir leben zusammen mit meiner Familie.
+
+209
+00:17:27,010 --> 00:17:30,010
+Mit Ihrer Frau und Kindern, oder?
+
+210
+00:17:30,010 --> 00:17:32,010
+Ja, ich habe drei Kinder.
+
+211
+00:17:32,010 --> 00:17:35,320
+Sind Sie gesund?
+
+212
+00:17:35,320 --> 00:17:37,320
+Ja, ja, sie sind gesund.
+
+213
+00:17:37,320 --> 00:17:42,320
+Gut zu hören. Sie sind im Gymnasium eingestellt.
+
+214
+00:17:42,320 --> 00:17:47,320
+Gibt es irgendwelche chronische Erkrankungen in Ihrer Familie?
+
+215
+00:17:47,320 --> 00:17:56,320
+Mein Vater hat vor vier Jahren einen Apoplex erlitten.
+
+216
+00:17:56,320 --> 00:17:58,320
+Tut mir leid zu hören.
+
+217
+00:17:58,320 --> 00:18:02,320
+Entschuldigung, einen Schlaganfall.
+
+218
+00:18:02,320 --> 00:18:09,210
+Deswegen konnte er nicht gut laufen.
+
+219
+00:18:09,210 --> 00:18:13,210
+Wie alt war er?
+
+220
+00:18:13,210 --> 00:18:17,210
+Er ist 78.
+
+221
+00:18:17,210 --> 00:18:22,090
+Ihre Mutter?
+
+222
+00:18:22,090 --> 00:18:30,090
+Meine Mutter leidet seit 20 Jahren mit Knochen.
+
+223
+00:18:30,090 --> 00:18:39,170
+Haben Sie Gechümmel?
+
+224
+00:18:39,170 --> 00:18:42,170
+Ich bin ein Kind.
+
+225
+00:18:42,170 --> 00:18:48,500
+Sind Sie verständigt, dass Sie mit dem Gymnasium leben?
+
+226
+00:18:49,500 --> 00:18:57,500
+Ja, ich habe alle Impfungen gemacht, aber ich weiß nicht, ob alle sind.
+
+227
+00:18:57,500 --> 00:19:01,500
+Besuchen Sie Ihre Hausärzte regelmäßig?
+
+228
+00:19:01,500 --> 00:19:04,500
+Ja, ja, besuche ich regelmäßig.
+
+229
+00:19:04,500 --> 00:19:07,500
+Waren Sie in letzter Zeit im Ausland?
+
+230
+00:19:07,500 --> 00:19:16,850
+Ja, wir waren vor vier Jahren im Kanarien-Insel wegen Urlaub.
+
+231
+00:19:16,850 --> 00:19:21,850
+Ich bin in letzter Zeit in den letzten sechs Monaten.
+
+232
+00:19:21,850 --> 00:19:24,850
+Vielen Dank für die Info.
+
+233
+00:19:24,850 --> 00:19:27,850
+Ich habe alle wichtigen Fragen gestellt.
+
+234
+00:19:27,850 --> 00:19:30,850
+Möchten Sie noch etwas hinzufügen?
+
+235
+00:19:30,850 --> 00:19:33,850
+Herr Doktor, was habe ich vermutet?
+
+236
+00:19:33,850 --> 00:19:36,850
+Ich habe Angst.
+
+237
+00:19:36,850 --> 00:19:40,850
+Keine Sorgen, wir sind für Sie da.
+
+238
+00:19:40,850 --> 00:19:43,850
+Wir tun alles für Sie.
+
+239
+00:19:43,850 --> 00:19:50,850
+Herr Schmidt, wie gesagt, werde ich eine körperliche Untersuchung durchschauen.
+
+240
+00:19:50,850 --> 00:19:53,850
+Danach werden wir die Labornterzüge voranlassen.
+
+241
+00:19:53,850 --> 00:20:00,850
+Wenn es so geht, werde ich eine operative Diagnostik voranlassen.
+
+242
+00:20:00,850 --> 00:20:05,220
+Dann können wir entscheiden.
+
+243
+00:20:05,220 --> 00:20:08,220
+Welche Apparat verstehe ich nicht?
+
+244
+00:20:08,220 --> 00:20:12,220
+Operative Diagnostik bedeutet bildgebende Diagnostik.
+
+245
+00:20:12,220 --> 00:20:17,220
+Ich brauche zum Beispiel eine röntgenische Computertomographie.
+
+246
+00:20:17,220 --> 00:20:21,220
+Ok, verstehe ich. Genau Herr Doktor, vielen Dank.
+
+247
+00:20:21,220 --> 00:20:22,220
+Gerne.
+
+248
+00:20:22,220 --> 00:20:28,730
+Ich möchte Ihnen kurz etwas erzählen, was ich in deiner Aufnahme gesehen habe.
+
+249
+00:20:28,730 --> 00:20:30,730
+Ja, gerne.
+
+250
+00:20:30,730 --> 00:20:35,730
+Es handelt sich um Sublin Schmidt, ein 55-jähriger Patient.
+
+251
+00:20:35,730 --> 00:20:39,730
+Er wurde am 1.7.1970 geboren.
+
+252
+00:20:39,730 --> 00:20:43,730
+Er war 1,73 Meter groß und 74 Kilogramm schwer.
+
+253
+00:20:43,730 --> 00:20:49,730
+Er stellte sich bei uns vor aufgrund seit gestern Nachmittag.
+
+254
+00:20:49,730 --> 00:20:58,730
+Er war bestehender, stöchender, brennender, zunehmender, plötzlich aufgetretener,
+
+255
+00:20:58,730 --> 00:21:04,730
+rückenschmissen, ohne Ausstrahlung.
+
+256
+00:21:04,730 --> 00:21:26,730
+Er gab an die Bewegung, die Schmerzen verbessern und die Bewegung verschlimmert.
+
+257
+00:21:26,730 --> 00:21:29,730
+Gibt es einen Unfall?
+
+258
+00:21:29,730 --> 00:21:33,730
+Er hatte keinen Unfall, Frau Obererstin.
+
+259
+00:21:33,730 --> 00:21:35,730
+Ok.
+
+260
+00:21:35,730 --> 00:21:45,730
+Fener gab er an, diese Beschwerden schon mal gehabt zu haben.
+
+261
+00:21:45,730 --> 00:21:50,730
+Deswegen war er schon Hausarzt.
+
+262
+00:21:50,730 --> 00:21:55,730
+Der Hausarzt hat Muskelspannung gestellt.
+
+263
+00:21:55,730 --> 00:22:03,730
+Er hat Vitamin und Schmerzmittel verschrieben.
+
+264
+00:22:03,730 --> 00:22:10,730
+Aber dieses Mal hat er keine Medikamente dagegen eingenommen.
+
+265
+00:22:10,730 --> 00:22:17,730
+Als Begleitsymptomen liegen Parasthesie im Rückenbereich vor.
+
+266
+00:22:17,730 --> 00:22:25,730
+Die Schmerzintensität wurde mit 8 bis 9 von 10 bewertet.
+
+267
+00:22:25,730 --> 00:22:33,730
+Die Frage nach Ödema-Hautverfabung wurde verneint.
+
+268
+00:22:33,730 --> 00:22:39,730
+In der vegetativen Anamnese sind folgende Beschwerden bekannt.
+
+269
+00:22:39,730 --> 00:22:44,730
+Neusea inapetens wegen dieser Schmerzen.
+
+270
+00:22:44,730 --> 00:22:48,730
+Obstipation seit 10 Jahren.
+
+271
+00:22:48,730 --> 00:22:53,730
+Die mit pflanzlichen Arzneimitteln behandelt.
+
+272
+00:22:53,730 --> 00:22:57,730
+So wie Insomnie wegen dieser Schmerzen.
+
+273
+00:22:57,730 --> 00:23:04,730
+An Vorerkrankungen leidet er seit 10 Jahren an arterieller Hypertonie.
+
+274
+00:23:04,730 --> 00:23:09,730
+Dagegen nimmt er kaptopril 25 mg einmal täglich ein.
+
+275
+00:23:10,730 --> 00:23:16,730
+So wie seit 20 Jahren an Diabetes mellitus.
+
+276
+00:23:16,730 --> 00:23:24,730
+Dagegen nimmt er mitformen zweimal 1000 mg täglich ein.
+
+277
+00:23:24,730 --> 00:23:34,730
+Er hatte Varicella Zoster als er Kind war.
+
+278
+00:23:34,730 --> 00:23:41,730
+Bei ihm wurde mit 12 Jahren eine Opendektomie durchgeführt.
+
+279
+00:23:41,730 --> 00:23:49,730
+So wie vor 3 Jahren wegen Hüftfraktur eine Operation durchgeführt.
+
+280
+00:23:49,730 --> 00:23:56,730
+Er hat Allergien gegen Ibuprofen und Hazelnuss.
+
+281
+00:23:56,730 --> 00:24:02,730
+Ibuprofen Allergie ausgesetzt sich mit Anaphylaktisch Schock.
+
+282
+00:24:02,730 --> 00:24:08,730
+Hazelnuss Allergie ausgesetzt sich mit Zungenbödem.
+
+283
+00:24:08,730 --> 00:24:15,730
+Ich glaube, wir können auch Anaphylaktisch Schock sagen.
+
+284
+00:24:15,730 --> 00:24:20,730
+Er ist Raucher seit 30 Jahren.
+
+285
+00:24:20,730 --> 00:24:24,730
+Er rauche seit 30 Jahren ein Schachtel Zigaretten täglich.
+
+286
+00:24:24,730 --> 00:24:38,730
+Er trinkt 2-3 Gläser Wein täglich und ab und zu mal Bier in einem Monat.
+
+287
+00:24:38,730 --> 00:24:48,730
+Er hat zweimal gejohnt als er im Gymnasium war.
+
+288
+00:24:48,730 --> 00:24:53,730
+Er ist verheiratet. Er lebt mit seiner Frau zusammen.
+
+289
+00:24:53,730 --> 00:24:57,730
+Er hat 3 gesunden Kinder.
+
+290
+00:24:57,730 --> 00:25:04,730
+In der Familienanamnese fand sich Osteoporose bei der Mutter.
+
+291
+00:25:04,730 --> 00:25:11,730
+Sein Vater ist mit 78 Jahren an Apoplex verstorben.
+
+292
+00:25:11,730 --> 00:25:16,730
+Er ist vollständig geimpft. Die Reiseanamnese ist unauffällig.
+
+293
+00:25:16,730 --> 00:25:22,730
+Meine Verdachtstiagnose lautet auf Osteoporose.
+
+294
+00:25:22,730 --> 00:25:26,730
+Dafür schiebe ich eine Familienanamnese.
+
+295
+00:25:26,730 --> 00:25:31,730
+Er hatte vor 3 Jahren eine Hystpraktur.
+
+296
+00:25:31,730 --> 00:25:37,730
+Das schiebt sich an Osteoporose.
+
+297
+00:25:37,730 --> 00:25:40,730
+Die Differenzialdiagnostik kommt.
+
+298
+00:25:40,730 --> 00:25:44,730
+Wandscheibenvorfall, Muskelspannung,
+
+299
+00:25:44,730 --> 00:25:49,730
+Koksarthros.
+
+300
+00:25:49,730 --> 00:25:52,730
+Die Diagnostik...
+
+301
+00:25:52,730 --> 00:26:00,730
+Hat der Patient eine Osteoporosediagnose vorher gehabt?
+
+302
+00:26:00,730 --> 00:26:06,730
+Sein Haushalt hat ein Gedanke, es könnte Osteoporose sein.
+
+303
+00:26:06,730 --> 00:26:10,730
+Aber bisher keine Festdiagnose gestellt.
+
+304
+00:26:10,730 --> 00:26:21,730
+Wie hat die Hystpraktur bestellt?
+
+305
+00:26:21,730 --> 00:26:25,730
+Er hat gestört.
+
+306
+00:26:25,730 --> 00:26:32,730
+Dann hatte er Hystgelenkfraktur.
+
+307
+00:26:32,730 --> 00:26:37,730
+Er hat keinen Unfall.
+
+308
+00:26:37,730 --> 00:26:45,730
+Und niemand hat eine Diagnose?
+
+309
+00:26:45,730 --> 00:26:50,730
+Nur ein Gedanke.
+
+310
+00:26:50,730 --> 00:26:54,730
+Bisher keine feste Diagnose gestört.
+
+311
+00:26:54,730 --> 00:27:01,730
+Und der Patient hat nur zwei Risikofaktoren.
+
+312
+00:27:01,730 --> 00:27:03,730
+Familienanamnese und...
+
+313
+00:27:03,730 --> 00:27:06,730
+Familienanamnese.
+
+314
+00:27:06,730 --> 00:27:11,730
+Aber die anderen Risikofaktoren sind wirklich hoch.
+
+315
+00:27:11,730 --> 00:27:15,730
+Der Patient hat gestört.
+
+316
+00:27:15,730 --> 00:27:23,730
+Dann hat er sein Hystgelenk gebrochen.
+
+317
+00:27:23,730 --> 00:27:30,730
+Und der Patient ist nicht herrisch alt?
+
+318
+00:27:30,730 --> 00:27:34,730
+Er ist 55 Jahre alt.
+
+319
+00:27:34,730 --> 00:27:38,730
+Und männliche Geschlecht.
+
+320
+00:27:38,730 --> 00:27:46,730
+Wir erwarten Frauen mehr als Männer.
+
+321
+00:27:46,730 --> 00:27:51,730
+Aber es könnte sein, das ist mein Verdachtstdiagnos.
+
+322
+00:27:51,730 --> 00:27:59,730
+Welche Labouruntersuchungen möchten Sie?
+
+323
+00:27:59,730 --> 00:28:22,730
+Labouruntersuchungen überprüfe ich Blutbild, Entzündungswerte, Vitamin D Werte, Vitamin D, Phosphat, Parathormon, PTH und Thyroid Werte.
+
+324
+00:28:22,730 --> 00:28:31,230
+Okay. Und hat der Patient Diabetes mellitus?
+
+325
+00:28:31,230 --> 00:28:36,230
+Ja, er leidet seit 20 Jahren an Diabetes mellitus.
+
+326
+00:28:36,230 --> 00:28:41,230
+Ja, ist Diabetes mellitus gut?
+
+327
+00:28:41,230 --> 00:28:55,230
+Wenn ich die Diabetes mellitus überprüfe oder kontrolliere, werde ich HbA1c und Glukoswerte auch überprüfen.
+
+328
+00:28:55,230 --> 00:28:57,230
+Okay.
+
+329
+00:28:57,230 --> 00:29:03,230
+Zunächst würde ich körperliche Untersuchungen durchführen.
+
+330
+00:29:03,230 --> 00:29:11,230
+Bei der körperlichen Untersuchungen achte ich auf neurologische Untersuchungen.
+
+331
+00:29:11,230 --> 00:29:26,230
+Ich überprüfe Motorik, Reflexe und Sensibilität, weil er an Parastese leidet.
+
+332
+00:29:26,230 --> 00:29:35,250
+Zu weiteren Diagnostiken würde ich operative Maßnahmen durchführen.
+
+333
+00:29:35,250 --> 00:29:44,250
+Zunächst würde ich einen röntgenländischen Bereich veranlassen.
+
+334
+00:29:44,250 --> 00:29:55,250
+Danach werde ich Knochendansitometrie durchführen.
+
+335
+00:29:55,250 --> 00:29:59,250
+Was meinen Sie? Knochendansitometrie?
+
+336
+00:29:59,250 --> 00:30:03,250
+Das ist eine körperliche Untersuchung.
+
+337
+00:30:03,250 --> 00:30:07,250
+Leider kann ich es nicht.
+
+338
+00:30:07,250 --> 00:30:17,250
+Wir können Knochen überprüfen. Wie kann man das sagen? Ich weiß es nicht.
+
+339
+00:30:17,250 --> 00:30:23,250
+Ist das eine CT-Methode oder Bildgewende?
+
+340
+00:30:23,250 --> 00:30:29,250
+Wir können bei der Röntgenuntersuchung diese Parameter überprüfen.
+
+341
+00:30:29,250 --> 00:30:34,160
+Okay. Und?
+
+342
+00:30:34,160 --> 00:30:51,160
+Sollte sich meine Verdachtstheatose bestätigen, würde ich Vitamin D, Bifosphonat, gegebenenfalls Olymdogonat verschreiben.
+
+343
+00:30:51,160 --> 00:31:07,160
+Ich empfehle den Patienten regelmäßige körperliche Aktivitäten und Ernährungsberatung.
+
+344
+00:31:07,160 --> 00:31:20,040
+Okay. Und der Patient achtet darauf? Stürz?
+
+345
+00:31:20,040 --> 00:31:28,040
+Ja, ich empfehle ihm auch, er sollte darauf achten.
+
+346
+00:31:28,040 --> 00:31:32,040
+Und Nikotin und Alkoholkarenz?
+
+347
+00:31:32,040 --> 00:31:43,040
+Ja, er trinke viel Alkohol und er rauche viele Zigaretten. Ich empfehle auch Nikotin und Alkoholkarenz.
+
+348
+00:31:43,040 --> 00:31:53,150
+Okay. Wissen Sie, wie ist die Ernährungs- und Bewegungsstation des Patienten?
+
+349
+00:31:53,150 --> 00:32:05,880
+Ich habe darüber keine Frage gestellt, Frau Berestin. Bei der körperlichen Untersuchung werde ich fragen.
+
+350
+00:32:05,880 --> 00:32:07,880
+Okay.
+
+351
+00:32:17,540 --> 00:32:20,540
+Ja, weitere Fragen.
+
+352
+00:32:27,820 --> 00:32:43,940
+Und der Patient nimmt viele Medikamente. Diese Medikamente können Osteoporose verursachen?
+
+353
+00:32:43,940 --> 00:32:56,940
+Ja, mit Vomin und Kaptur-Bild habe ich keine Ahnung über dieses Thema. Aber ich glaube nicht.
+
+354
+00:32:57,940 --> 00:33:01,940
+Wie definieren Sie Osteoporose?
+
+355
+00:33:01,940 --> 00:33:18,940
+Mit Osteodanstometri oder Knochendanstometri können wir diese Diagnose bestätigen.
+
+356
+00:33:18,940 --> 00:33:27,940
+Ich erinnere mich nur an Z-Skore, aber leider kann ich das jetzt nicht erklären.
+
+357
+00:33:27,940 --> 00:33:29,940
+Okay.
+
+358
+00:33:29,940 --> 00:33:42,220
+Z-Skore ist eine Beurteilung, eine Methode. Wie gesagt, ich erinnere mich nicht daran.
+
+359
+00:33:42,220 --> 00:33:48,220
+Und jetzt empfehlen Sie die Patienten stationär aufnehmen?
+
+360
+00:33:48,220 --> 00:33:56,980
+Ja, sie erleiden heftige Schmerzen.
+
+361
+00:33:56,980 --> 00:34:00,980
+Kann das eine Fraktur?
+
+362
+00:34:00,980 --> 00:34:09,980
+Ja, um meine Differentialdiagnosen auszuschließen, werde ich ihn stationär aufnehmen.
+
+363
+00:34:09,980 --> 00:34:18,980
+Okay. Und empfehlen Sie eine konservative Therapie oder eine Operation?
+
+364
+00:34:18,980 --> 00:34:37,980
+Wenn ich einen Fraktur habe, werde ich eine chirurgische, orthopädische Konzilveranstaltung um die Therapie oder Operation optimieren.
+
+365
+00:34:37,980 --> 00:34:45,980
+Okay. Nach der Therapie empfehlen Sie die Patienten Bewegungstherapie und Physik?
+
+366
+00:34:45,980 --> 00:34:59,980
+Ja, eine krankere Gymnastik, regelmäßige körperliche Aktivitäten, Ernährungsberatung, Nikotin und Alkoholkarrens.
+
+367
+00:34:59,980 --> 00:35:07,460
+Okay. Danke schön.
+
+368
+00:35:07,460 --> 00:35:09,460
+Danke.
+
+369
+00:35:09,460 --> 00:35:13,510
+Herr Doktor.
+
+370
+00:35:13,510 --> 00:35:20,510
+Guten Tag. Herr Oberarzt, ich habe heute einen neuen Patienten aufgenommen.
+
+371
+00:35:20,510 --> 00:35:25,510
+Ich würde gerne ihn Ihnen vorstellen. Haben Sie kurz Zeit dafür?
+
+372
+00:35:25,510 --> 00:35:28,510
+Ja, bitte schön.
+
+373
+00:35:28,510 --> 00:35:43,510
+Ich berichte über den 55-jährigen Patienten, Herrn Zublin Schmidt, der 1,73 Meter groß ist und 74 Kilogramm wiegt.
+
+374
+00:35:43,510 --> 00:36:07,510
+Herrn Schmidt stellt sich heute bei uns wegen seit gestern 5-tehender Persistierender Rücken-Schmerzen vor.
+
+375
+00:36:08,510 --> 00:36:40,290
+Die Schmerzintensität wurde mit 8 bis 9 von 10 bewertet.
+
+376
+00:36:40,290 --> 00:36:53,630
+Der Patient klagte über Nausea und Obstipation seit 10 Jahren.
+
+377
+00:36:53,630 --> 00:37:06,630
+Fragen nach Fiberschütelfrost, nächtlicher Hyperhydrose, Ad-Dyspne und Tachycardie wurden vermeint.
+
+378
+00:37:06,630 --> 00:37:15,630
+Außerdem hat der Patient inapetens und insomniere Schmerzen.
+
+379
+00:37:15,630 --> 00:37:32,910
+Der Patient leidet an Diabetes mellitus typsivae seit 20 Jahren, arterial hypertoni seit 10 Jahren und chronischer Obstipation.
+
+380
+00:37:32,910 --> 00:37:41,910
+Als er Kind war, hatte er Varicella Zoster erlitten.
+
+381
+00:37:41,910 --> 00:37:59,910
+Er nimmt regelmäßig Metformin 1000 mg morgens und abends, Kaptopyril 75 mg morgens und pflanzliche Ansteigmittel gegen Obstipation.
+
+382
+00:37:59,910 --> 00:38:21,910
+Beide Patienten wurden mit 12 Jahren Apendektomie durchgeführt und vor 3 Jahren Osteosynthes wegen Femur-Halsfraktöre durchgeführt.
+
+383
+00:38:21,910 --> 00:38:37,910
+Die Anamnesie ist unaufwendig. Beide Patienten sind mit Nusse-Allergie und Ibuprofen-Allergie bekannt.
+
+384
+00:38:37,910 --> 00:38:45,910
+Sie haben sich mit Anaphylaktischen Schock und Zungeödemen ausgesucht.
+
+385
+00:38:46,910 --> 00:39:00,910
+Er ist vollständig geimpft und ist ein starker Raucher und raucht seit 30 Jahren ein Schachtel Zigaretten.
+
+386
+00:39:00,910 --> 00:39:14,910
+Er trinkt 3 bis 3 Gläser Wein täglich seit 25 Jahren und ab und zu Bier.
+
+387
+00:39:14,910 --> 00:39:19,910
+Der Drogenkonsum wurde verneint.
+
+388
+00:39:20,910 --> 00:39:50,120
+In der Familienanamnese gab er an, dass sein Vater an Apoplex vor 4 Jahren gestorben und seine Mutter an Osteoporose seit 20 Jahren leidet.
+
+389
+00:39:50,120 --> 00:40:01,370
+Er ist verheiratet, hat 3 Kinder und lebt mit seiner Familie. Er ist angestellt bei der Gemeinde.
+
+390
+00:40:02,370 --> 00:40:13,370
+Die Anamnestischen Angaben deuten am ehesten auf Wirbelsäule oder Lombervertebrafraktur.
+
+391
+00:40:13,370 --> 00:40:20,370
+Die Anamnestik ist wahrscheinlich wegen Osteoporose hergestellt.
+
+392
+00:40:20,370 --> 00:40:34,370
+Die Differenzdiagnostik betrachtet Vertepratum, Muskelspannung und Metastase.
+
+393
+00:40:34,370 --> 00:40:43,370
+Um meine Verdachtstheorose zu bestätigen, werde ich den Patienten zunächst körperlich untersuchen.
+
+394
+00:40:43,370 --> 00:41:03,370
+Ich teste ganz Wirbelsäule ab, ob es Druckdolenz gibt und ein Schwellen, Rötung und Hautveränderungen gibt.
+
+395
+00:41:03,370 --> 00:41:21,370
+Ich werde die Wirbelsäule verändern.
+
+396
+00:41:21,370 --> 00:41:48,370
+Ich werde auch Lomber-MRT oder Lomber-ST durchführen, um einige Tumoren auszuschließen oder Lomber-Pathologen auszuschließen oder Fraktur zu bestimmen.
+
+397
+00:41:48,370 --> 00:41:58,370
+Um die Differenzdiagnose zu bestätigen, werde ich den Patienten stationär aufnehmen.
+
+398
+00:41:58,370 --> 00:42:08,370
+Ein orthopädisches Konzil ist auch sinnvoll.
+
+399
+00:42:08,370 --> 00:42:19,370
+Ich werde ein Venösenzugang legen, Schmerzmittel verabreichen und Blut abnehmen.
+
+400
+00:42:19,370 --> 00:42:41,370
+Ich werde auch Grosse Blutbild, Kalzium, Phosphat, Elektrolytin und Tumormarke, Paratormon, Glukos und HbA, Glykolise, Hemoglobin bestimmen lassen.
+
+401
+00:42:41,370 --> 00:42:55,090
+Ich werde Knochen-Danstometrie verändern, um meine Verdachtdiagnose zu bestätigen.
+
+402
+00:43:14,090 --> 00:43:35,460
+Ein Patient kann auch an psychologischen oder wirbelsäulen Erkrankungen leiden.
+
+403
+00:43:35,460 --> 00:43:46,460
+Besonders Romatoid Arthritis und Ankylosanthespondylitis kann in Betracht kommen.
+
+404
+00:43:46,460 --> 00:43:58,460
+Deswegen werde ich auch Entzündungsparameter bestimmen lassen.
+
+405
+00:43:58,460 --> 00:44:06,460
+Ich werde auch HLA27 bestimmen lassen.
+
+406
+00:44:06,460 --> 00:44:18,460
+Der Patient ist männlich und hat Lendenbereich Schmerzen.
+
+407
+00:44:18,460 --> 00:44:25,460
+Auch Metastase kann in Betracht kommen.
+
+408
+00:44:25,460 --> 00:44:32,460
+Besonders Prostat Metastase kann auftreten.
+
+409
+00:44:32,460 --> 00:44:40,460
+Deswegen werde ich ein paar Laboruntersuchungen durchführen.
+
+410
+00:44:40,460 --> 00:44:46,460
+PSA und Total PSA werde ich auch bestimmen lassen.
+
+411
+00:44:47,460 --> 00:44:55,460
+In der Geschichte von Vererkrankungen gibt es eine sehr interessante Information.
+
+412
+00:44:55,460 --> 00:44:59,460
+Ich möchte ein bisschen darüber sprechen.
+
+413
+00:44:59,460 --> 00:45:05,460
+Welche Vererkrankungen leidet der Patient?
+
+414
+00:45:05,460 --> 00:45:08,460
+Können Sie es nochmal sagen?
+
+415
+00:45:08,460 --> 00:45:18,460
+Typ 2 Diabetes mellitus, Arterialhypertonin und wahrscheinlich Osteoporos.
+
+416
+00:45:18,460 --> 00:45:23,460
+Als Kind war es Varicella Zoster.
+
+417
+00:45:23,460 --> 00:45:33,460
+Ist diese Krankheit bei diesem Patienten als Differential Diagnose wichtig?
+
+418
+00:45:33,460 --> 00:45:41,460
+Herr Oberarzt, Sie haben recht. Das kann auch ein solcher Zoster sein.
+
+419
+00:45:41,460 --> 00:45:56,460
+Bei der Untersuchung achte ich darauf, ob es Hautveränderungen, Rötungen und Bläschen gibt.
+
+420
+00:45:56,460 --> 00:46:04,460
+Ohne Bläschen können wir auch eine Herdveränderung feststellen.
+
+421
+00:46:04,460 --> 00:46:14,460
+Nach Rücken Schmerzen können wir nach 2-3 Tagen die Bläschen feststellen.
+
+422
+00:46:14,460 --> 00:46:20,460
+Auf jeden Fall kommt eine Varicella Zoster als Differential Diagnose.
+
+423
+00:46:21,460 --> 00:46:27,460
+Welche Ethiologie kennen Sie bei Osteoporose?
+
+424
+00:46:27,460 --> 00:46:37,460
+Der Patient ist ein starker Raucher und Alkoholtrinker.
+
+425
+00:46:37,460 --> 00:46:49,460
+Der Patient hat eine besondere Risiko und eine familiäre Belastung.
+
+426
+00:46:49,460 --> 00:47:02,460
+Ich denke, dass ein Sport verursacht werden kann.
+
+427
+00:47:02,460 --> 00:47:18,460
+Ich muss auf jeden Fall den Patienten fragen, ob er Sport oder Sonnenlicht trägt.
+
+428
+00:47:18,460 --> 00:47:27,460
+Welche Symptome sprechen gegen eine Metastase?
+
+429
+00:47:27,460 --> 00:47:38,460
+Der Patient hat keine Gewichtabnahme und keine Beschwerden.
+
+430
+00:47:38,460 --> 00:47:49,460
+Z.B. Schwellung oder andere Körperschmerzen.
+
+431
+00:47:49,460 --> 00:47:54,460
+Der Patient hat seit 10 Jahren Obstipation.
+
+432
+00:47:54,460 --> 00:48:01,460
+Das kann ein Kolonkarzinom sein und auch eine Metastase.
+
+433
+00:48:01,460 --> 00:48:05,460
+Ich muss auf jeden Fall fragen.
+
+434
+00:48:05,460 --> 00:48:17,460
+Sie haben gesagt, dass Sie ein CT durchführen würden.
+
+435
+00:48:17,460 --> 00:48:21,460
+Können Sie das ein bisschen erklären?
+
+436
+00:48:21,460 --> 00:48:31,460
+CT ist ein ganzes Verfahren.
+
+437
+00:48:31,460 --> 00:48:46,460
+Mit Hilfe von CT können wir Knochen, inneren Organen, Verletzungen, Blutungen, Tümoren beurteilen.
+
+438
+00:48:46,460 --> 00:48:54,460
+Die Untersuchung dauert 5-10 Minuten.
+
+439
+00:48:54,460 --> 00:49:03,460
+Der Patient liegt in Röhre und bleibt ohne Bewegung.
+
+440
+00:49:03,460 --> 00:49:06,460
+Man muss ruhig sein.
+
+441
+00:49:06,460 --> 00:49:17,460
+Wenn er Angst hat, müssen wir ein Beruhigungsmittel verabreichen.
+
+442
+00:49:17,460 --> 00:49:34,460
+CT ist beim Schwangerschaft oder Kontrastmittel Allergie nicht nutzbar.
+
+443
+00:49:34,460 --> 00:49:42,460
+Sie sind kontraindiziert.
+
+444
+00:49:42,460 --> 00:49:53,220
+Die Strahlung ist gering und nicht gefährlich.
+
+445
+00:49:53,220 --> 00:49:59,220
+Was empfehlen Sie dem Patienten nach der Behandlung?
+
+446
+00:49:59,220 --> 00:50:06,220
+Ich empfehle, den Niko-Konsum zu reduzieren.
+
+447
+00:50:06,220 --> 00:50:15,220
+Am besten aufhören und den Alkoholkonsum reduzieren oder aufhören.
+
+448
+00:50:15,220 --> 00:50:27,220
+Und regelmäßig Sport zu treiben und Milch-reich Produkte zu essen.
+
+449
+00:50:27,220 --> 00:50:35,220
+Ich empfehle den Patienten und Vitamin D zu nehmen.
+
+450
+00:50:35,220 --> 00:50:41,220
+Vielen Dank.
+
+451
+00:50:41,220 --> 00:50:49,940
+Guten Abend.
+
+452
+00:50:49,940 --> 00:50:53,940
+Ich habe einen neuen Patienten aufgenommen.
+
+453
+00:50:53,940 --> 00:50:58,940
+Ich würde ihn gerne vorstellen.
+
+454
+00:50:58,940 --> 00:51:03,940
+Es handelt sich um Suplin Schmidt.
+
+455
+00:51:03,940 --> 00:51:08,940
+Er ist 55 Jahre alt.
+
+456
+00:51:08,940 --> 00:51:11,940
+Er ist 1,73 Meter groß.
+
+457
+00:51:11,940 --> 00:51:15,940
+Er ist 74 Kilogramm schwer.
+
+458
+00:51:15,940 --> 00:51:27,940
+Der Patient stürzte sich wegen gestern Abend aufgetretener Lumbargie ohne Astralung vor.
+
+459
+00:51:27,940 --> 00:51:33,940
+Der Patient stürzte sich wegen gestern Abend aufgetretener Lumbargie ohne Astralung vor.
+
+460
+00:51:33,940 --> 00:51:46,940
+Er erwähnte, dass die Schmerzen bei der Belastung schlimmer im Ruh verbessert sind.
+
+461
+00:51:46,940 --> 00:51:56,940
+Die Schmerzintensität wurde mit 8 bis 9 von 10 einer Schmerzskala bewertet.
+
+462
+00:51:56,940 --> 00:52:03,940
+Er war oft Hausarzt wegen dieser Probleme.
+
+463
+00:52:03,940 --> 00:52:10,940
+Aber es wurde bei ihm keine bestimmte Diagnose festgestellt.
+
+464
+00:52:10,940 --> 00:52:19,940
+Die Einnahme von Analyse und Antispasmodik hat keine Verbesserung gebracht.
+
+465
+00:52:19,940 --> 00:52:33,940
+Die Beschwerden gehen mit Parastese, Mielgie und Muskelspannung einher.
+
+466
+00:52:33,940 --> 00:52:38,940
+Er wurde von seinem Sohn zu uns gebracht.
+
+467
+00:52:38,940 --> 00:52:47,940
+Die vegetative Anamnese ist unauffällig bis auf Schmerzbedingte Inabedenz.
+
+468
+00:52:47,940 --> 00:52:53,940
+Die Inzomen und Amethyst.
+
+469
+00:52:53,940 --> 00:53:03,940
+Er hatte seit 20 Jahren Diabetes mellitus.
+
+470
+00:53:03,940 --> 00:53:07,940
+Seit 10 Jahren Arterielle hypertonik.
+
+471
+00:53:07,940 --> 00:53:21,940
+Dagegen nimmt er mit Formin 1000 mg zweimal täglich und Kaptopril 25 mg ein.
+
+472
+00:53:21,940 --> 00:53:32,940
+Außerdem hatte er als Kind Varizellen.
+
+473
+00:53:32,940 --> 00:53:43,940
+Er hatte eine sehr lange Osteopatie.
+
+474
+00:53:43,940 --> 00:53:49,940
+Dagegen nimmt er eine pflanzliche Mitte.
+
+475
+00:53:49,940 --> 00:53:55,940
+Aber die Name sollte geklärt werden.
+
+476
+00:53:56,940 --> 00:54:02,940
+Er reagiert allergisch auf Hazelnuts.
+
+477
+00:54:02,940 --> 00:54:08,940
+Das ist eine sehr starke Analyse.
+
+478
+00:54:08,940 --> 00:54:15,940
+Außerdem hat er eine Provenzallergie.
+
+479
+00:54:15,940 --> 00:54:23,940
+Das ist eine sehr starke Analyse.
+
+480
+00:54:23,940 --> 00:54:36,940
+Er wurde mit zwölf Jahren eine Tonsillektomie durchgeführt.
+
+481
+00:54:36,940 --> 00:54:45,940
+Als Kind wurde bei ihm wegen Femur-Hassfraktüre eine Operation durchgeführt.
+
+482
+00:54:45,940 --> 00:54:52,940
+Er wurde mit Platten und Straub behandelt.
+
+483
+00:54:52,940 --> 00:54:57,940
+Er ist Rauchhörer.
+
+484
+00:54:57,940 --> 00:55:04,940
+Seit 30 Jahren trinkt er eine Schachtel Zigaretten täglich.
+
+485
+00:55:04,940 --> 00:55:13,940
+Er trinkt jeden Tag zwei bis drei Gläser Rotwein und gelegentlich eine Flasche Bier.
+
+486
+00:55:13,940 --> 00:55:25,940
+Er hat zwei Mal eine Tonsillektomie durchgeführt.
+
+487
+00:55:25,940 --> 00:55:42,940
+In Besuch auf die Familienanamnese teilt er mit, dass der Vater mit 78 Jahren ein Apoplex verstorben ist.
+
+488
+00:55:42,940 --> 00:55:53,940
+Die Mutter hat seit 20 Jahren Osteoporose. Er ist Einzelkind. Er ist vollständig geimpft.
+
+489
+00:55:53,940 --> 00:56:03,940
+Der Vater mit Reiseanamnese ist unauffällig. Er arbeitet als angestellter Eingemeinder.
+
+490
+00:56:03,940 --> 00:56:11,940
+Er ist verheiratet, wohnt mit Familie und hat drei Kinder. Alle Kinder sind gesund.
+
+491
+00:56:11,940 --> 00:56:22,940
+Ich gehe von einem Verdacht auf Osteoporose aus, dass der Patient dafür typische Symptome aufweist.
+
+492
+00:56:22,940 --> 00:56:35,940
+Der Patient hat Lumbargie ohne Ausstrahlung und er hat sehr wichtige Geschichten.
+
+493
+00:56:35,940 --> 00:56:48,940
+Als Kind hat er eine Femurhalsfraktur ohne Unfall.
+
+494
+00:56:48,940 --> 00:56:56,940
+Seine Mutter hat auch Osteoporose.
+
+495
+00:56:56,940 --> 00:57:07,940
+Diese Sprache für Osteoporose ist eine Differenzialdiagnose.
+
+496
+00:57:07,940 --> 00:57:15,940
+Die Mutter hat auch eine Dyskoproblastus.
+
+497
+00:57:15,940 --> 00:57:23,940
+Sie hat eine Tumorometastasie.
+
+498
+00:57:23,940 --> 00:57:35,940
+Um meine Verdachtdiagnose zu bestätigen, werde ich den Patienten die Vitalparameter überwachen.
+
+499
+00:57:35,940 --> 00:57:43,940
+Dann werde ich den Patienten körperlich untersuchen.
+
+500
+00:57:43,940 --> 00:57:51,940
+Ich werde dabei achten, ob es Störungen, Motor, Sensor oder andere Veränderungen gibt.
+
+501
+00:57:51,940 --> 00:58:03,940
+Danach werde ich die Wirbelsäule palpieren, ob es sichere oder unsichere Frakturzeichen gibt.
+
+502
+00:58:03,940 --> 00:58:11,940
+Außerdem werde ich das Symbol der Haut untersuchen.
+
+503
+00:58:11,940 --> 00:58:23,940
+Ich werde dabei achten, ob die Hautfarbeveränderungen in der Haut verhindern.
+
+504
+00:58:23,940 --> 00:58:31,940
+Dann werde ich die Wurzeln der Haut untersuchen.
+
+505
+00:58:31,940 --> 00:58:39,940
+Ich werde dabei achten, ob es andere Veränderungen gibt.
+
+506
+00:58:39,940 --> 00:58:54,940
+Neben der körperlichen Untersuchung werde ich die Laborunterzüge annehmen, um eine umfassende Diagnose zu gewährleisten.
+
+507
+00:58:54,940 --> 00:59:12,940
+Dann werde ich die Blutbil BSG-SRF Elektrolyte, Kaltium, Phospho, Vitamin D, TSH bestimmen lassen.
+
+508
+00:59:12,940 --> 00:59:26,940
+Danach werde ich eine Röntgen veranlassen, um mögliche Knochenfrakturen auszuschließen.
+
+509
+00:59:26,940 --> 00:59:32,940
+Herr Kollege, welche Röntgen veranlassen Sie?
+
+510
+00:59:32,940 --> 00:59:37,940
+Das ist eine spezielle Röntgen-Untersuchung.
+
+511
+00:59:37,940 --> 00:59:50,940
+Damit werde ich die Aufhellung der Knochenstruktur durch die vermehrte Strahlentransparenz kontrollieren.
+
+512
+00:59:50,940 --> 01:00:03,780
+Ich erwarte auf zwei Ebenen Lindenwerfer-Säule.
+
+513
+01:00:03,780 --> 01:00:07,780
+Ja, wir werden solche Röntgen untersuchen.
+
+514
+01:00:07,780 --> 01:00:15,780
+Ich achte darauf, ob es vermehrte Strahlentransparenz gibt.
+
+515
+01:00:15,780 --> 01:00:28,780
+Was beachten Sie bei der Röntgen? Ich beachte darauf, ob es vermehrte Strahlentransparenz-Zeichen gibt.
+
+516
+01:00:28,780 --> 01:00:30,780
+Machen Sie weiter.
+
+517
+01:00:30,780 --> 01:00:51,780
+Ja, bei der Unklei-Befundung werden wir die Röntgen veranlassen, um mögliche Knochenfrakturen auszuschließen.
+
+518
+01:00:51,780 --> 01:00:58,780
+Welche Knochenfrakturen können Sie auszuschließen?
+
+519
+01:00:58,780 --> 01:01:06,780
+Die Tusschusps, Pyrropsis und mögliche Metastasen auszuschließen.
+
+520
+01:01:06,780 --> 01:01:09,780
+Und Knochenfrakturen?
+
+521
+01:01:09,780 --> 01:01:13,780
+Ja, Knochenfrakturen. Die haben recht.
+
+522
+01:01:13,780 --> 01:01:15,780
+Machen Sie weiter.
+
+523
+01:01:15,780 --> 01:01:37,780
+Ja, die Knochenfrakturen werden von den Patienten ausgesucht, um mögliche andere Pathologien auszuschließen.
+
+524
+01:01:37,780 --> 01:01:40,780
+Zum Beispiel die Tusschusps, Pyrropsis.
+
+525
+01:01:40,780 --> 01:01:56,780
+Es wäre sinnvoll, um den Patienten eine Osteodentzimetrie durchzuführen.
+
+526
+01:01:56,780 --> 01:02:06,780
+Sollte sich meine Tertarztdiagnose bestätigen, werde ich den Patienten stationärer aufnehmen.
+
+527
+01:02:06,780 --> 01:02:21,780
+Zunächst werde ich den Patienten einen Zugang vorlegen und danach den Patienten Analytika und Antispasmodetika einleiten.
+
+528
+01:02:21,780 --> 01:02:32,780
+Und ich werde den Patienten Kalsium, Vitamin D, B-Phosphonat verabreichen.
+
+529
+01:02:32,780 --> 01:02:40,780
+Und nach dem Akutbeamtung werde ich den Patienten empfahlen.
+
+530
+01:02:40,780 --> 01:03:07,780
+Und wenn Sie mit dieser Forderung einverstanden sind, werde ich die Plante untersuchen und fortsetzen.
+
+531
+01:03:08,780 --> 01:03:15,780
+Herr Kollege, wie können Sie die Diskuprolaps auslösen?
+
+532
+01:03:15,780 --> 01:03:24,060
+Wie können Sie die Diskuprolaps auslösen?
+
+533
+01:03:25,060 --> 01:03:35,060
+Mit Anamnese gibt es keine Ausstrahlung. Das sind sehr wichtige Symptome für uns.
+
+534
+01:03:35,060 --> 01:03:49,060
+Und der Patient hat keine Parastese und Parasite. Das ist Schipris für Osteoporos.
+
+535
+01:03:50,060 --> 01:04:01,060
+Aber um die Diskuprolaps auszuschlissen, werde ich die Zähne der Wirbelsäule und der Gegendenfass MRT durchführen.
+
+536
+01:04:01,060 --> 01:04:08,460
+Welche Metastasen denken Sie in diesem Fall?
+
+537
+01:04:10,460 --> 01:04:15,460
+Prostatmetastasen sind wichtig.
+
+538
+01:04:15,460 --> 01:04:20,460
+Wie können Sie die Diagnostizierung des Prostatmetastas auslösen?
+
+539
+01:04:45,460 --> 01:04:49,460
+Ich werde die Zähne der Wirbelsäule durchführen.
+
+540
+01:04:53,460 --> 01:04:56,460
+Machen Sie Biopsie?
+
+541
+01:04:56,460 --> 01:04:59,460
+Ja, die Gegendenfass.
+
+542
+01:04:59,460 --> 01:05:08,460
+Wir müssen eine Nadelbiopsie um mögliche Prostatkarsenoma auszuschlissen oder zu diagnostizieren.
+
+543
+01:05:09,460 --> 01:05:15,460
+Was empfehlen Sie den Patienten nach der Behandlung?
+
+544
+01:05:31,260 --> 01:05:34,260
+Und Sonne?
+
+545
+01:05:40,260 --> 01:05:45,260
+Ja, das ist sehr wichtig. Sie haben recht.
+
+546
+01:05:52,260 --> 01:06:00,260
+Vielen Dank, Herr Kollegen. Bitte nehmen Sie unsere Info-Test und Ihre Zertifizierung.

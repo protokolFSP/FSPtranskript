@@ -1,0 +1,2371 @@
+1
+00:00:00,000 --> 00:00:05,000
+Ich bin der zuständige Arzt für Sie und werde das Erstgespräch mit Ihnen führen.
+
+2
+00:00:05,000 --> 00:00:08,000
+Erstmal benötige ich ein paar persönliche Daten von Ihnen.
+
+3
+00:00:08,000 --> 00:00:11,000
+Und da sprechen wir über Ihre aktuellen Beschwerden.
+
+4
+00:00:11,000 --> 00:00:15,000
+Falls Sie Fragen haben, suggen Sie bitte nicht, mich zu unterbrechen.
+
+5
+00:00:15,000 --> 00:00:17,000
+Wie heißen Sie denn?
+
+6
+00:00:17,000 --> 00:00:23,560
+Ich bin Marina Nowak, Herr Doktor.
+
+7
+00:00:24,560 --> 00:00:31,560
+Ich buchtebiere mal eben N-O-V-A-K, oder?
+
+8
+00:00:31,560 --> 00:00:35,560
+Nicht V-W-Nowak.
+
+9
+00:00:37,560 --> 00:00:40,560
+Nicht V-W-Nowak.
+
+10
+00:00:41,560 --> 00:00:45,560
+Den Vornamen M-A-L-I-N-A.
+
+11
+00:00:45,560 --> 00:00:47,560
+Ja, Sie haben recht.
+
+12
+00:00:47,560 --> 00:00:50,560
+Wie alt sind Sie, Frau Nowak?
+
+13
+00:00:50,560 --> 00:00:53,560
+Ja, ich bin 29.
+
+14
+00:00:53,560 --> 00:00:58,960
+Ihr Geburtstatum bitte.
+
+15
+00:00:58,960 --> 00:01:04,960
+10. August 1996.
+
+16
+00:01:04,960 --> 00:01:10,010
+Wissen Sie, wie groß Sie sind?
+
+17
+00:01:10,010 --> 00:01:13,010
+Ja, ich bin 1 Meter 76.
+
+18
+00:01:13,010 --> 00:01:22,920
+Ihr Gewicht bitte.
+
+19
+00:01:22,920 --> 00:01:27,920
+Ja, soll ich sagen oder muss ich mit teilen, mein Gewicht?
+
+20
+00:01:27,920 --> 00:01:30,920
+Ja, das ist wichtig für uns.
+
+21
+00:01:30,920 --> 00:01:34,920
+Ja, 150 Kilogramm bin ich.
+
+22
+00:01:35,920 --> 00:01:38,920
+150 oder 50?
+
+23
+00:01:38,920 --> 00:01:41,920
+50, Herr Doktor.
+
+24
+00:01:41,920 --> 00:01:44,920
+Ich bin Übergewicht, deswegen haben Sie Sorgen.
+
+25
+00:01:44,920 --> 00:01:47,920
+Machen Sie sich deswegen keine Sorgen.
+
+26
+00:01:47,920 --> 00:01:51,920
+Was sind Sie von Beruf Frau Nowak?
+
+27
+00:01:51,920 --> 00:01:54,920
+Ja, ich bin Stauberaterin.
+
+28
+00:01:54,920 --> 00:02:01,470
+Aber ich arbeite halbzeit.
+
+29
+00:02:01,470 --> 00:02:05,470
+Haben Sie einen Hausarzt oder eine Hausärztin?
+
+30
+00:02:05,470 --> 00:02:07,470
+Ja, natürlich.
+
+31
+00:02:07,470 --> 00:02:10,470
+Wie heißt er oder sie?
+
+32
+00:02:10,470 --> 00:02:13,470
+Ja, Herr Wolfgang Stark.
+
+33
+00:02:13,470 --> 00:02:18,470
+Mein Hausarzt heißt Wolfgang Stark.
+
+34
+00:02:18,470 --> 00:02:21,470
+Was für Sie heute ist uns, Frau Nowak?
+
+35
+00:02:21,470 --> 00:02:24,470
+Welche Beschwerden haben Sie?
+
+36
+00:02:24,470 --> 00:02:27,470
+Ja, Herr Doktor, ehrlich zu sagen,
+
+37
+00:02:27,470 --> 00:02:34,470
+mir geht es schon seit Jahren richtig schief mit meinem Bau.
+
+38
+00:02:34,470 --> 00:02:38,470
+Ich habe immer Bau krempfe.
+
+39
+00:02:38,470 --> 00:02:41,470
+Seit einem Jahr.
+
+40
+00:02:41,470 --> 00:02:46,470
+Seit 5 Jahren vielleicht. Seit Jahren.
+
+41
+00:02:46,470 --> 00:02:52,640
+Seit 5 Jahren.
+
+42
+00:02:52,640 --> 00:02:55,640
+Das ein Schmerzen oder?
+
+43
+00:02:55,640 --> 00:02:59,640
+Krempfe, habe ich Schmerzen, Krempfe.
+
+44
+00:02:59,640 --> 00:03:02,640
+Seit 5 Jahren.
+
+45
+00:03:02,640 --> 00:03:06,640
+Ich habe immer zusammen gequetschen.
+
+46
+00:03:06,640 --> 00:03:09,640
+Mein Bau ist komisch.
+
+47
+00:03:09,640 --> 00:03:12,640
+Sind die Beschwerden dauerhaft da oder gehen Sie wieder weg?
+
+48
+00:03:12,640 --> 00:03:15,640
+Ja, manchmal geht, manchmal kommt zurück.
+
+49
+00:03:15,640 --> 00:03:18,640
+Momentan haben Sie Schmerzen?
+
+50
+00:03:18,640 --> 00:03:21,640
+Ja, ja, natürlich. Deswegen bin ich hier.
+
+51
+00:03:21,640 --> 00:03:24,640
+Wo genau tut es Ihnen weh?
+
+52
+00:03:24,640 --> 00:03:26,640
+Ganzbau.
+
+53
+00:03:26,640 --> 00:03:29,640
+Oberbau oder Rechtszeit?
+
+54
+00:03:29,640 --> 00:03:33,640
+Nein, ich kann nicht das beschreiben. Ganzbau.
+
+55
+00:03:33,640 --> 00:03:39,740
+Ich habe jetzt auch Durchfall.
+
+56
+00:03:39,740 --> 00:03:42,740
+Wie lange haben Sie Durchfall?
+
+57
+00:03:42,740 --> 00:03:45,740
+Seit 3 Tagen habe ich jetzt.
+
+58
+00:03:45,740 --> 00:03:49,740
+Aber manchmal habe ich Durchfall mit Bauchschmerzen.
+
+59
+00:03:49,740 --> 00:03:55,740
+Gestern habe ich 5 Mal zum Klo gegangen.
+
+60
+00:03:55,740 --> 00:03:58,740
+Wie sieht Ihr Stuhl aus?
+
+61
+00:03:58,740 --> 00:04:01,740
+Wasserig.
+
+62
+00:04:01,740 --> 00:04:04,740
+Welches Stuhl hat Ihr Stuhl?
+
+63
+00:04:04,740 --> 00:04:11,360
+Wasser.
+
+64
+00:04:11,360 --> 00:04:16,360
+Haben Sie etwas verdoben gegessen?
+
+65
+00:04:16,360 --> 00:04:20,360
+Nein, ich esse immer gleich Dinge.
+
+66
+00:04:20,360 --> 00:04:23,360
+Sie essen wie sonst?
+
+67
+00:04:23,360 --> 00:04:34,360
+Ja, aber mir ist aufgefallen, dass wenn ich Milchprodukte esse, trinke, habe ich immer Bauchschmerzen.
+
+68
+00:04:34,360 --> 00:04:42,360
+Ich habe früher öfters ignoriert, aber das geht immer schief.
+
+69
+00:04:42,360 --> 00:04:45,360
+Ich habe gedacht, das geht weg.
+
+70
+00:04:45,360 --> 00:04:48,360
+Das ist wichtig für uns, diese Info.
+
+71
+00:04:48,360 --> 00:04:51,360
+Waren Sie schon beim Hausarzt?
+
+72
+00:04:51,360 --> 00:05:00,360
+Ja, ja, letztes Jahr habe ich meinen Hausarzt besucht.
+
+73
+00:05:01,360 --> 00:05:04,360
+Was hat er gesagt?
+
+74
+00:05:04,360 --> 00:05:11,360
+Er hat mir eine Tablette geschrieben, aber sie hat mir nicht geholfen.
+
+75
+00:05:11,360 --> 00:05:14,360
+Welche Tablette wissen Sie das?
+
+76
+00:05:14,360 --> 00:05:17,360
+Ja, es war Methos-Spasmil.
+
+77
+00:05:17,360 --> 00:05:23,590
+Nicht geholfen, oder?
+
+78
+00:05:23,590 --> 00:05:26,590
+Nicht geholfen, nein.
+
+79
+00:05:26,590 --> 00:05:29,590
+In welcher Dosis wissen Sie das?
+
+80
+00:05:29,590 --> 00:05:32,590
+Das war letztes Jahr.
+
+81
+00:05:32,590 --> 00:05:35,590
+Verstehe.
+
+82
+00:05:35,590 --> 00:05:40,590
+Können Sie mir diese Schmerzen genauer beschreiben?
+
+83
+00:05:40,590 --> 00:05:43,590
+Dumpf stechen, drücken.
+
+84
+00:05:43,590 --> 00:05:46,590
+Sie haben schon Krampfartikel gesagt?
+
+85
+00:05:46,590 --> 00:05:51,590
+Krampfartikel und ja, ich fühle mich drückgefühlt.
+
+86
+00:05:51,590 --> 00:05:56,590
+Und manchmal, das ist Dumpf, ganz Bauch.
+
+87
+00:05:56,590 --> 00:06:06,800
+Manchmal bläht sich mein Bauch auf, wie ein 5. Monat Schwanger.
+
+88
+00:06:06,800 --> 00:06:09,800
+Wie Schwangerschaft.
+
+89
+00:06:09,800 --> 00:06:12,800
+Sie haben volle Gefühle?
+
+90
+00:06:12,800 --> 00:06:19,850
+Ja, volle Gefühle und ich kann sagen, mein Bauch ist manchmal dick geworden.
+
+91
+00:06:19,850 --> 00:06:23,100
+Haben Sie aufgestoßen?
+
+92
+00:06:23,100 --> 00:06:30,890
+Ja, manchmal.
+
+93
+00:06:30,890 --> 00:06:36,890
+Wie stark sind die Schmerzen von 1 bis 10, wobei 10 am stärksten ist?
+
+94
+00:06:36,890 --> 00:06:42,890
+Nicht sehr schlimm. Jetzt habe ich vielleicht mit 5.
+
+95
+00:06:42,890 --> 00:06:48,140
+Ist Ihnen übel?
+
+96
+00:06:48,140 --> 00:06:51,140
+Nein, nein habe ich.
+
+97
+00:06:51,140 --> 00:06:54,140
+Müssten Sie sich übergeben?
+
+98
+00:06:54,140 --> 00:06:57,140
+Nein, nein.
+
+99
+00:06:57,140 --> 00:07:00,140
+Haben Sie Brustschmerzen, Frau Novak?
+
+100
+00:07:00,140 --> 00:07:04,140
+Brustschmerzen habe ich nicht, habe ich Bauchschmerzen.
+
+101
+00:07:04,140 --> 00:07:07,140
+Bauchkrampf habe ich.
+
+102
+00:07:07,140 --> 00:07:11,140
+Haben Sie Atemnot aufgefallen?
+
+103
+00:07:11,140 --> 00:07:14,140
+Nein, nein habe ich keine Atemprobleme.
+
+104
+00:07:14,140 --> 00:07:16,140
+Haben Sie Husten?
+
+105
+00:07:16,140 --> 00:07:19,800
+Nein.
+
+106
+00:07:19,800 --> 00:07:22,800
+Herzrasen oder Herzstorben?
+
+107
+00:07:22,800 --> 00:07:25,800
+Nein, habe ich nicht.
+
+108
+00:07:25,800 --> 00:07:29,800
+Das ist peinlich, aber ich muss immer pupsen.
+
+109
+00:07:29,800 --> 00:07:32,800
+Sehr oft muss ich pupsen.
+
+110
+00:07:32,800 --> 00:07:34,800
+Was meinen Sie damit?
+
+111
+00:07:34,800 --> 00:07:38,180
+Gas geben.
+
+112
+00:07:38,180 --> 00:07:40,180
+Pupsen.
+
+113
+00:07:40,180 --> 00:07:44,180
+Gibt es irgendetwas, das die Beschwerden schlimmer oder besser macht?
+
+114
+00:07:44,180 --> 00:07:51,180
+Sie haben schon gesagt, nach dem Milch Einnahme wird es schlimmer.
+
+115
+00:07:51,180 --> 00:07:55,180
+Ja, ja, nach dem Milchprodukt.
+
+116
+00:07:55,180 --> 00:08:04,180
+Wenn ich trinke, wenn ich Eis esse, wenn ich eine Süßigkeit Milch esse,
+
+117
+00:08:04,180 --> 00:08:13,510
+ich fühle diese Schmerzen immer.
+
+118
+00:08:13,510 --> 00:08:15,510
+Haben Sie Fieber?
+
+119
+00:08:15,510 --> 00:08:19,510
+Nein, nein, habe ich keine Fieber.
+
+120
+00:08:19,510 --> 00:08:23,790
+Haben Sie Schüttelfrost, Nachschweiß?
+
+121
+00:08:23,790 --> 00:08:26,790
+Nein, habe ich nicht.
+
+122
+00:08:26,790 --> 00:08:29,790
+Wie ist Ihr Appetit?
+
+123
+00:08:29,790 --> 00:08:39,790
+Seit drei Tagen kann ich nicht gut essen wegen Durchfall oder Bauchkrampf.
+
+124
+00:08:39,790 --> 00:08:43,790
+Bauchkrampf kann man nicht essen, Herr Doktor.
+
+125
+00:08:43,790 --> 00:08:46,790
+Ich verstehe.
+
+126
+00:08:46,790 --> 00:08:51,790
+Haben Sie in letzter Zeit ab- oder zugewonnen?
+
+127
+00:08:51,790 --> 00:08:55,790
+Ja, vielleicht zwei oder drei Kilo habe ich.
+
+128
+00:08:55,790 --> 00:08:57,790
+Ich weiß nicht genau, aber...
+
+129
+00:08:57,790 --> 00:08:59,790
+Abgenommen, oder?
+
+130
+00:08:59,790 --> 00:09:01,790
+Ja, abgenommen.
+
+131
+00:09:01,790 --> 00:09:04,790
+In welcher Zeitraum haben Sie abgenommen?
+
+132
+00:09:04,790 --> 00:09:09,790
+Ja, ich kann sagen, oder in den letzten zwei Jahren.
+
+133
+00:09:09,790 --> 00:09:12,790
+Zwei oder drei Kilo, ich weiß nicht, aber...
+
+134
+00:09:12,790 --> 00:09:15,790
+Haben Sie Probleme beim Wasserlassen?
+
+135
+00:09:15,790 --> 00:09:20,790
+Wasserlassen? Wie meinen Sie, was meinen Sie?
+
+136
+00:09:20,790 --> 00:09:25,790
+Ich meine Urin. Wie ist Ihr Urin?
+
+137
+00:09:25,790 --> 00:09:28,790
+Mein Urin ist Gelb.
+
+138
+00:09:28,790 --> 00:09:31,790
+Wie oft gehen Sie zur Toilette?
+
+139
+00:09:31,790 --> 00:09:34,790
+Haben Sie Schmerzen?
+
+140
+00:09:34,790 --> 00:09:37,790
+Nein, habe ich keine Schmerzen.
+
+141
+00:09:37,790 --> 00:09:42,790
+Ich gehe immer gleich, drei oder viermal pro Tag.
+
+142
+00:09:42,790 --> 00:09:45,790
+Gut zu hören, Frau Nowak.
+
+143
+00:09:45,790 --> 00:09:50,790
+Haben Sie Schlafstörungen?
+
+144
+00:09:50,790 --> 00:09:54,790
+Ja, gestern musste ich zur Toilette gehen.
+
+145
+00:09:54,790 --> 00:09:58,790
+Deswegen könnte ich gestern Abend nicht gut schlafen.
+
+146
+00:09:58,790 --> 00:10:00,790
+Wegen Durchfall, oder?
+
+147
+00:10:00,790 --> 00:10:05,790
+Haben Sie Einschlafstörungen oder Durchschlafstörungen?
+
+148
+00:10:05,790 --> 00:10:12,790
+Ja, ich musste aufwachen wegen Bauchcreme.
+
+149
+00:10:12,790 --> 00:10:20,680
+Was haben Sie gestern gegessen?
+
+150
+00:10:20,680 --> 00:10:21,680
+Gestern?
+
+151
+00:10:21,680 --> 00:10:26,680
+Oder getrunken? Ja, haben Sie Milch getrunken?
+
+152
+00:10:26,680 --> 00:10:32,680
+Ich habe seit zwei oder drei Tagen ähnliche Schmerzen.
+
+153
+00:10:32,680 --> 00:10:38,680
+Vor drei Tagen habe ich ein Milchprodukt gegessen.
+
+154
+00:10:38,680 --> 00:10:42,680
+Mit Joghurt und etwas Süßheit.
+
+155
+00:10:42,680 --> 00:10:45,680
+Verstehe.
+
+156
+00:10:45,680 --> 00:10:50,680
+Haben Sie irgendwelche Chronische Erkrankungen, Frau Nowak?
+
+157
+00:10:50,680 --> 00:10:53,680
+Nein, ich bin gesund.
+
+158
+00:10:53,680 --> 00:10:58,680
+Aber ich bin übergewicht. Deswegen kann ich nicht gut bewegen.
+
+159
+00:10:58,680 --> 00:11:03,680
+Verstehe. Nehmen Sie regelmäßig Medikamente?
+
+160
+00:11:03,680 --> 00:11:07,680
+Ich nehme regelmäßig Verhütungsmittel.
+
+161
+00:11:07,680 --> 00:11:13,020
+Welche Tablette nehmen Sie?
+
+162
+00:11:13,020 --> 00:11:21,160
+Yasmin. Yasmin Tablette mit Jod.
+
+163
+00:11:21,160 --> 00:11:24,160
+In welche Dosis wissen Sie das?
+
+164
+00:11:24,160 --> 00:11:27,160
+Ich weiß nicht, Herr Doktor.
+
+165
+00:11:27,160 --> 00:11:32,910
+Wurden Sie schon einmal operiert?
+
+166
+00:11:32,910 --> 00:11:38,910
+Ja, als ich Kind war, wurden meine Mandeln entfernt.
+
+167
+00:11:38,910 --> 00:11:42,910
+Wie alt waren Sie?
+
+168
+00:11:42,910 --> 00:11:49,530
+Ungefähr acht.
+
+169
+00:11:49,530 --> 00:11:52,530
+Hatten Sie noch andere Operationen?
+
+170
+00:11:52,530 --> 00:11:56,530
+Nein, ich habe einmal operiert.
+
+171
+00:11:56,530 --> 00:12:02,530
+Als ich Kind war, bin ich wegen Durchfall im Krankenhaus geblieben.
+
+172
+00:12:02,530 --> 00:12:05,530
+Fünf Tage.
+
+173
+00:12:05,530 --> 00:12:08,530
+Wegen Durchfall? Ja.
+
+174
+00:12:08,530 --> 00:12:19,440
+Haben Sie irgendwelche Allergien oder Unverträglichkeiten?
+
+175
+00:12:19,440 --> 00:12:24,070
+Ich habe vollen Allergien.
+
+176
+00:12:24,070 --> 00:12:27,070
+Wie reagieren Sie darauf?
+
+177
+00:12:27,070 --> 00:12:30,070
+Mit Schnupfen und Jücken.
+
+178
+00:12:30,070 --> 00:12:35,700
+Jükreis.
+
+179
+00:12:35,700 --> 00:12:40,840
+Rauchen Sie Frauenwag?
+
+180
+00:12:40,840 --> 00:12:43,840
+Nein, niemals.
+
+181
+00:12:43,840 --> 00:12:46,840
+Gut zu hören.
+
+182
+00:12:46,840 --> 00:12:49,840
+Trinken Sie Alkohol?
+
+183
+00:12:49,840 --> 00:12:52,840
+Ja, ich trinke am Wochenende.
+
+184
+00:12:52,840 --> 00:12:56,840
+Was trinken Sie? Ein Schnaps oder ein Bier.
+
+185
+00:12:56,840 --> 00:12:59,840
+Ein Schnaps bedeutet ein Glas, oder?
+
+186
+00:12:59,840 --> 00:13:04,840
+Ein Schnaps, eine Flasche Schnaps oder eine Flasche Bier.
+
+187
+00:13:04,840 --> 00:13:07,840
+Ein Flasche Bier.
+
+188
+00:13:07,840 --> 00:13:10,840
+Nur am Wochenende.
+
+189
+00:13:10,840 --> 00:13:13,840
+Jedes Wochenende, oder?
+
+190
+00:13:13,840 --> 00:13:17,840
+Manchmal jeden, manchmal einmal pro zwei Wochen.
+
+191
+00:13:17,840 --> 00:13:25,650
+Nehmen Sie die folgenden Fragen nicht persönlich aus medizinischen Gründen?
+
+192
+00:13:25,650 --> 00:13:29,650
+Fragen wie immer. Haben Sie Erfahrung mit Drogen?
+
+193
+00:13:29,650 --> 00:13:32,650
+Nein, nein, niemals.
+
+194
+00:13:32,650 --> 00:13:36,650
+Gut. Sind Sie verheiratet, Frau Nowak?
+
+195
+00:13:36,650 --> 00:13:39,650
+Ja, ja, ich bin verheiratet.
+
+196
+00:13:39,650 --> 00:13:44,650
+Leben Sie mit Ihrem Mann Susann?
+
+197
+00:13:44,650 --> 00:13:47,650
+Ja.
+
+198
+00:13:47,650 --> 00:13:50,650
+Haben Sie Kinder?
+
+199
+00:13:50,650 --> 00:13:54,900
+Ich habe ein Kind.
+
+200
+00:13:54,900 --> 00:13:57,900
+Ist er oder sie gesund?
+
+201
+00:13:57,900 --> 00:14:00,900
+Ja, er ist gesund.
+
+202
+00:14:00,900 --> 00:14:05,900
+Herr Doktor, mit Geburt habe ich 4 Kilo abgenommen und nicht zu genommen.
+
+203
+00:14:05,900 --> 00:14:16,900
+Ich habe 40 Kilo abgenommen und nach dem Geburt konnte ich nicht einnehmen.
+
+204
+00:14:16,900 --> 00:14:20,900
+Wir haben eine Abteilung nach der Untersuchung.
+
+205
+00:14:20,900 --> 00:14:24,900
+Sie können eine Beratung nehmen.
+
+206
+00:14:24,900 --> 00:14:29,900
+Ich kann es organisieren. Machen Sie sich deswegen keine Sorgen bitte, Frau Nowak.
+
+207
+00:14:29,900 --> 00:14:32,900
+Okay, vielen Dank.
+
+208
+00:14:32,900 --> 00:14:37,900
+Haben Sie irgendwelche chronischen Erkrankungen bei Ihrer Familie?
+
+209
+00:14:37,900 --> 00:14:41,900
+Ich meine Ihre Mutter, Ihr Vater?
+
+210
+00:14:41,900 --> 00:14:52,900
+Mein Vater ist leider mit 50 an Diktam-Karzinom verstorben.
+
+211
+00:14:52,900 --> 00:14:59,520
+Mein Beileid tut mir leid zu hören, Frau Nowak.
+
+212
+00:14:59,520 --> 00:15:02,520
+Ihre Mutter?
+
+213
+00:15:02,520 --> 00:15:10,990
+Ich habe sie seit 5 Jahren gestorben.
+
+214
+00:15:10,990 --> 00:15:14,240
+Haben Sie Kinder?
+
+215
+00:15:14,240 --> 00:15:16,240
+Ja, ich habe ein Bruder.
+
+216
+00:15:16,240 --> 00:15:18,240
+Ist er gesund?
+
+217
+00:15:18,240 --> 00:15:21,240
+Ja, er ist auch übergewicht.
+
+218
+00:15:21,240 --> 00:15:26,240
+Kann das genetisch sein, Herr Doktor?
+
+219
+00:15:26,240 --> 00:15:33,970
+Ja, es könnte sein, Frau Nowak.
+
+220
+00:15:33,970 --> 00:15:39,970
+Genetische Veranlagung ist wichtig.
+
+221
+00:15:39,970 --> 00:15:42,970
+Haben Sie vollständig geimpft?
+
+222
+00:15:42,970 --> 00:15:45,970
+Ja, vollständig.
+
+223
+00:15:45,970 --> 00:15:49,970
+Meine Gegenkinderkrankheit, Covid 19?
+
+224
+00:15:49,970 --> 00:15:52,970
+Ja, ich habe alle Impfungen gehabt.
+
+225
+00:15:52,970 --> 00:15:56,970
+Waren Sie in letzter Zeit im Ausland?
+
+226
+00:15:56,970 --> 00:16:06,860
+Ja, letztes Jahr waren wir in Spanien im Urlaub.
+
+227
+00:16:06,860 --> 00:16:11,860
+Ich habe alle wichtigen Fragen gestellt.
+
+228
+00:16:11,860 --> 00:16:15,860
+Möchten Sie noch etwas hinzufügen, Frau Nowak?
+
+229
+00:16:15,860 --> 00:16:20,860
+Ich bekomme seit 5 Jahren Bauchrämpfe.
+
+230
+00:16:20,860 --> 00:16:24,860
+Gibt es eine Lösung? Was vermuten Sie?
+
+231
+00:16:24,860 --> 00:16:31,860
+Wie gesagt, machen Sie sich keine Sorgen.
+
+232
+00:16:31,860 --> 00:16:34,860
+Es ist nur ein Anamnesgespräch.
+
+233
+00:16:34,860 --> 00:16:40,860
+Wir werden eine körperliche Untersuchung durchschauen.
+
+234
+00:16:40,860 --> 00:16:45,860
+Ich werde Blut abnehmen.
+
+235
+00:16:45,860 --> 00:16:51,860
+Wir würden eine operative Diagnostik vornehmen.
+
+236
+00:16:51,860 --> 00:16:57,860
+Mit den Ergebnissen können wir mehr darüber sprechen.
+
+237
+00:16:57,860 --> 00:17:02,860
+Ich habe im Internet gesehen, dass eine Koloskopie nötig ist.
+
+238
+00:17:02,860 --> 00:17:06,860
+Würden Sie eine Koloskopie durchführen?
+
+239
+00:17:06,860 --> 00:17:10,860
+Wie gesagt, es ist zu früh, etwas genauer zu sagen.
+
+240
+00:17:10,860 --> 00:17:16,860
+Nach den Ergebnissen können wir entscheiden, ob eine Koloskopie nötig ist.
+
+241
+00:17:16,860 --> 00:17:21,860
+Ich habe Angst über Koloskopien.
+
+242
+00:17:21,860 --> 00:17:26,860
+Machen Sie sich keine Sorgen.
+
+243
+00:17:26,860 --> 00:17:33,200
+Wir können Beruhigungsmittel verabreichen.
+
+244
+00:17:33,200 --> 00:17:37,200
+Es ist eine schmerzhafte Therapie.
+
+245
+00:17:37,200 --> 00:17:41,200
+Aber wir können Beruhigungsmittel verabreichen.
+
+246
+00:17:41,200 --> 00:17:44,200
+Deswegen machen Sie sich keine Sorgen.
+
+247
+00:17:44,200 --> 00:17:47,200
+Ich habe auch sterben gedacht.
+
+248
+00:17:47,200 --> 00:17:50,200
+Mein Vater ist sehr jung gestorben.
+
+249
+00:17:50,200 --> 00:17:53,200
+Ich war übergewacht.
+
+250
+00:17:53,200 --> 00:17:58,200
+Plötzlich ist er gestorben.
+
+251
+00:17:58,200 --> 00:18:03,200
+Ich habe auch das Risiko, sterben zu können.
+
+252
+00:18:03,200 --> 00:18:07,200
+Es ist zu früh, etwas genauer zu sagen.
+
+253
+00:18:07,200 --> 00:18:11,200
+Aber wir tun alles für Sie.
+
+254
+00:18:11,200 --> 00:18:14,200
+Vielen Dank.
+
+255
+00:18:18,850 --> 00:18:22,850
+Ich würde Ihnen gerne einen Patienten vorstellen,
+
+256
+00:18:22,850 --> 00:18:25,850
+den ich in der Notaufnahme gesehen habe.
+
+257
+00:18:25,850 --> 00:18:28,850
+Hätten Sie kurz gesagt?
+
+258
+00:18:28,850 --> 00:18:33,850
+Welche Symptome hat die Patientin?
+
+259
+00:18:33,850 --> 00:18:38,850
+Sie hat krampfartige Bauchschmerzen.
+
+260
+00:18:38,850 --> 00:18:41,850
+Okay.
+
+261
+00:18:42,850 --> 00:18:47,850
+Sie können eine Kurse aufklären.
+
+262
+00:18:47,850 --> 00:18:52,850
+Es geht um Marina Novak.
+
+263
+00:18:52,850 --> 00:18:55,850
+Eine 29-jährige Patientin.
+
+264
+00:18:55,850 --> 00:18:59,850
+Geboren am 10.08.1996.
+
+265
+00:18:59,850 --> 00:19:04,850
+1,76 Meter groß.
+
+266
+00:19:04,850 --> 00:19:07,850
+1,76 Meter.
+
+267
+00:19:07,850 --> 00:19:10,850
+1,50 Kilogramm schwer.
+
+268
+00:19:10,850 --> 00:19:14,850
+Sie stellte sich bei uns vor aufgrund,
+
+269
+00:19:14,850 --> 00:19:18,850
+seit fünf Jahren bestehende,
+
+270
+00:19:18,850 --> 00:19:21,850
+zunehmende, drückende,
+
+271
+00:19:21,850 --> 00:19:27,850
+krampfartige Bauchschmerzen oder Abdominalgie
+
+272
+00:19:27,850 --> 00:19:31,850
+im ganzen Bauch.
+
+273
+00:19:31,850 --> 00:19:37,850
+Die Schmerzintensität wurde mit 5 von 10 bewertet.
+
+274
+00:19:37,850 --> 00:19:45,850
+Sie war für diese Beschwerden schon beim Hausarzt.
+
+275
+00:19:45,850 --> 00:19:52,850
+Er habe Methospasmiel verschrieben.
+
+276
+00:19:52,850 --> 00:19:57,850
+Aber es hat ihm nicht gereicht.
+
+277
+00:19:57,850 --> 00:20:02,850
+Er teilte mit den Beschwerden.
+
+278
+00:20:02,850 --> 00:20:09,850
+Er verschlimmerte sich nach Milchprodukten.
+
+279
+00:20:09,850 --> 00:20:14,850
+Er verschlimmerte sich nach Milchprodukten.
+
+280
+00:20:14,850 --> 00:20:20,850
+Als Begleitsymptomen liegen Meteorismus
+
+281
+00:20:20,850 --> 00:20:30,850
+auf voller Gefühl vor.
+
+282
+00:20:30,850 --> 00:20:35,850
+Die Frage nach Husten, Herzrhythmus,
+
+283
+00:20:35,850 --> 00:20:40,850
+Störungen, Brustschmerzen wurde verneint.
+
+284
+00:20:40,850 --> 00:20:45,850
+Die vegetative Anamnese ist unauffällig
+
+285
+00:20:45,850 --> 00:20:48,850
+bis auf Inappetenz.
+
+286
+00:20:48,850 --> 00:20:56,850
+Seit zwei bis drei Tagen wegen dieser Schmerzen.
+
+287
+00:20:56,850 --> 00:21:04,850
+Die Jahre seit drei Tagen.
+
+288
+00:21:04,850 --> 00:21:11,850
+Insomnias wegen der Bauchschmerzen.
+
+289
+00:21:12,850 --> 00:21:16,850
+An Vorerkrankungen.
+
+290
+00:21:16,850 --> 00:21:19,850
+Blut in Stuhl?
+
+291
+00:21:19,850 --> 00:21:24,850
+Ich habe nicht besonders gefragt.
+
+292
+00:21:24,850 --> 00:21:29,850
+Aber ich habe über den Stuhl gefragt.
+
+293
+00:21:29,850 --> 00:21:33,850
+Es war nur wasrig.
+
+294
+00:21:33,850 --> 00:21:39,850
+Er wurde wie Wasser beschreit.
+
+295
+00:21:39,850 --> 00:21:47,850
+Er hatte keine Vorerkrankungen.
+
+296
+00:21:47,850 --> 00:21:53,850
+Er nahm regelmäßig Jasmin für Verhütung.
+
+297
+00:21:53,850 --> 00:22:02,850
+Bei ihm wurde mit acht Jahren eine Tonsillektomie durchgeführt.
+
+298
+00:22:02,850 --> 00:22:22,850
+Er wurde wegen der Jahre stationär behandelt.
+
+299
+00:22:22,850 --> 00:22:26,850
+Als er Kind war.
+
+300
+00:22:27,850 --> 00:22:31,850
+Er hatte eine Allergie gegen Polen.
+
+301
+00:22:31,850 --> 00:22:35,850
+Sie äußerte sich mit Feroz und Hautauschlag.
+
+302
+00:22:35,850 --> 00:22:40,850
+Sie ist nicht trauer.
+
+303
+00:22:40,850 --> 00:22:46,850
+Sie trinke ein Flaschen Schnaps oder ein Flaschen Bier.
+
+304
+00:22:46,850 --> 00:22:48,850
+Wochenlich.
+
+305
+00:22:48,850 --> 00:22:51,850
+Drogenkonsum wurde verneint.
+
+306
+00:22:51,850 --> 00:22:54,850
+Sie ist verheiratet.
+
+307
+00:22:54,850 --> 00:23:02,850
+Sie hat einen gesunden Sohn.
+
+308
+00:23:02,850 --> 00:23:08,850
+In der Familienanamnese war es eine arterielle Hypertonie.
+
+309
+00:23:08,850 --> 00:23:11,850
+Bei der Mutter.
+
+310
+00:23:11,850 --> 00:23:14,850
+Übergewichtig.
+
+311
+00:23:14,850 --> 00:23:17,850
+Oder obesit.
+
+312
+00:23:17,850 --> 00:23:23,850
+Sein Vater ist mit 50 Jahren an Kolonkarsinon verstorben.
+
+313
+00:23:23,850 --> 00:23:27,850
+Sie ist vollständig geimpft.
+
+314
+00:23:27,850 --> 00:23:31,850
+Die Reiseanamnese ist unauffällig.
+
+315
+00:23:31,850 --> 00:23:38,850
+Meine Verdacht Diagnose lautet auf Laktoseintoleranz.
+
+316
+00:23:38,850 --> 00:23:43,850
+Dafür schiebt es typische Symptome.
+
+317
+00:23:43,850 --> 00:23:45,850
+Wie.
+
+318
+00:23:45,850 --> 00:23:48,850
+Mischprodukt.
+
+319
+00:23:48,850 --> 00:23:50,850
+Ein Name.
+
+320
+00:23:50,850 --> 00:23:53,850
+Mischprodukte.
+
+321
+00:23:53,850 --> 00:23:57,850
+Und differential Diagnostik kommen.
+
+322
+00:23:57,850 --> 00:24:02,850
+Die differential Diagnostik kommen.
+
+323
+00:24:02,850 --> 00:24:06,850
+Und.
+
+324
+00:24:06,850 --> 00:24:09,850
+Da ist ein Syndrome.
+
+325
+00:24:09,850 --> 00:24:23,320
+In der Diagnostik würde ich bei der Patientin eine körperliche Untersuchung durchführen.
+
+326
+00:24:23,320 --> 00:24:30,770
+Was erwarten Sie in Körperleon?
+
+327
+00:24:30,770 --> 00:24:38,770
+Eigentlich erwarte ich keine besonderen Befunde im Laktosintoleranz.
+
+328
+00:24:38,770 --> 00:25:01,770
+Danach würde ich eine Laboruntersuchung durchführen, um Blutbildentzündungswerte und Thyroidswerte 3, 4, 5, 6, 7 zu bestimmen.
+
+329
+00:25:01,770 --> 00:25:17,030
+Es könnte Hypotheriose sein. Um eine Hypotheriose auszuschließen, würde ich diese Laboruntersuchung durchführen.
+
+330
+00:25:18,030 --> 00:25:36,030
+Als operative Diagnostik würde ich eine Magenspiegelung oder eine Magenspiegelung Koloskopi durchführen.
+
+331
+00:25:36,030 --> 00:25:44,650
+Magenspiegelung, was meinen Sie?
+
+332
+00:25:44,650 --> 00:25:48,500
+Endoskopi.
+
+333
+00:25:48,500 --> 00:25:53,500
+Esopago-DoA-Denoskopi.
+
+334
+00:25:53,500 --> 00:26:16,500
+Sollte sich meine Verdachtdiagnose bestätigen, würde ich mich Produkteversicht empfehlen und Ernährungsberatung empfehlen.
+
+335
+00:26:16,500 --> 00:26:25,910
+Hat der Patient schon eine Laktosfriedheit ausprobiert?
+
+336
+00:26:25,910 --> 00:26:34,770
+Ich habe diese Frage nicht gestellt. Bei der körperlichen Untersuchung würde ich fragen.
+
+337
+00:26:34,770 --> 00:26:41,770
+Oder hat der Patient immer Durfall, wenn er Milchprodukte annehmen will?
+
+338
+00:26:42,770 --> 00:26:53,770
+Nach der Milchprodukteannahme hat er immer ähnliche Beschwerden, Durfall und krampfartige Schmerzen.
+
+339
+00:26:53,770 --> 00:27:03,770
+Denken Sie einen Laktosbelastungstest für den Patienten?
+
+340
+00:27:03,770 --> 00:27:07,770
+Ich kenne diesen Test nicht.
+
+341
+00:27:07,770 --> 00:27:11,770
+Nicht? Okay.
+
+342
+00:27:19,770 --> 00:27:26,770
+Wie können Sie die bestimmte Diagnose bestellen?
+
+343
+00:27:26,770 --> 00:27:40,950
+Nach der Milchprodukteannahme sollte ich die
+
+344
+00:27:40,950 --> 00:27:44,590
+Ernährungsberatung bestellen.
+
+345
+00:27:44,590 --> 00:27:48,590
+Okay, die anderen Arbeitslager.
+
+346
+00:27:48,590 --> 00:28:07,590
+Warum machen Sie eine Ozefago-Gasre-DoA-Denoskopi? Erwarten Sie eine Bestimmtheit für Laktosintoleranz?
+
+347
+00:28:07,590 --> 00:28:20,590
+Um eine andere mögliche Pathologie auszuschließen, werde ich die Ozefago-DoA-Denoskopi durchführen.
+
+348
+00:28:29,090 --> 00:28:37,090
+Und wie groß ist die Patientin?
+
+349
+00:28:37,090 --> 00:28:41,090
+Sie ist 1,76 Meter.
+
+350
+00:28:41,090 --> 00:28:46,820
+Dann habe ich es falsch gesagt.
+
+351
+00:28:46,820 --> 00:28:50,820
+Können Sie die Koloskopi aufklären?
+
+352
+00:28:50,820 --> 00:29:03,820
+Koloskopi ist eine diagnostische Methode, mit der können wir Dickdarm oder Kolon darstellen.
+
+353
+00:29:03,820 --> 00:29:15,820
+Koloskopi ist nicht nur eine diagnostische Methode, sondern auch eine therapeutische Methode.
+
+354
+00:29:15,820 --> 00:29:21,820
+Wir können ein Polyp oder ein Gewebe entnehmen.
+
+355
+00:29:21,820 --> 00:29:27,820
+Es ist eine schmerzhafte Diagnose-Untersuchung.
+
+356
+00:29:27,820 --> 00:29:32,820
+Deswegen verabreichen wir Beruhigungsmittel.
+
+357
+00:29:32,820 --> 00:29:39,820
+Die Patientin sollte vor der Untersuchung vorbereitet werden.
+
+358
+00:29:39,820 --> 00:29:43,820
+Wir geben eine Diät.
+
+359
+00:29:43,820 --> 00:30:10,900
+Nach der Untersuchung braucht die Patientin eine begleitende Person wegen der Beruhigungsmittel.
+
+360
+00:30:10,900 --> 00:30:21,200
+Diese Patientin leidet an Adipositas.
+
+361
+00:30:21,200 --> 00:30:27,200
+Wir können den Body Mass Index messen.
+
+362
+00:30:27,200 --> 00:30:34,140
+Aber jetzt kann ich nicht.
+
+363
+00:30:34,140 --> 00:30:37,140
+Was ist Body Mass Index?
+
+364
+00:30:37,140 --> 00:30:44,140
+Body Mass Index bedeutet Kilogramm.
+
+365
+00:30:44,140 --> 00:30:48,140
+Ich weiß nicht, was das heißt in Deutsch.
+
+366
+00:30:48,140 --> 00:30:52,140
+Das kann Rete sein.
+
+367
+00:30:52,140 --> 00:30:57,860
+Das kann man auch als Parallel.
+
+368
+00:30:57,860 --> 00:31:00,860
+Das ist die Grosse.
+
+369
+00:31:00,860 --> 00:31:05,180
+Aber das ist die Doppelgrosse.
+
+370
+00:31:05,180 --> 00:31:08,180
+Ich weiß nicht, ob das so ist.
+
+371
+00:31:08,180 --> 00:31:11,180
+Danke, Yavuzhan.
+
+372
+00:31:12,180 --> 00:31:23,940
+Sie empfehlen den Patienten eine Laktos-Free-Diät.
+
+373
+00:31:23,940 --> 00:31:29,940
+Ja, ich empfehle die Patienten eine Laktos-Free-Diät.
+
+374
+00:31:29,940 --> 00:31:37,940
+Laktosversicht, Ernährungsberatung und körperliche Belastung.
+
+375
+00:31:37,940 --> 00:31:42,940
+Regelmäßige Sport.
+
+376
+00:31:42,940 --> 00:31:59,590
+Warum haben die Patienten keine Gewichtabnahme?
+
+377
+00:31:59,590 --> 00:32:07,860
+Ich habe diese Fragen auch nicht gestellt.
+
+378
+00:32:07,860 --> 00:32:21,450
+Warum haben die anderen so eine Abnahme?
+
+379
+00:32:21,450 --> 00:32:33,850
+Keine Ahnung.
+
+380
+00:32:33,850 --> 00:32:36,850
+Guten Tag.
+
+381
+00:32:36,850 --> 00:32:40,850
+Ich habe heute einen neuen Patienten aufgenommen.
+
+382
+00:32:40,850 --> 00:32:43,850
+Ich möchte Sie vorstellen.
+
+383
+00:32:43,850 --> 00:32:45,850
+Haben Sie kurz Zeit dafür?
+
+384
+00:32:45,850 --> 00:32:48,850
+Ja, habe ich. Bitte schön.
+
+385
+00:32:48,850 --> 00:33:01,280
+Ich berichte über die 29-jährige Patientin Marina Novak.
+
+386
+00:33:01,280 --> 00:33:11,280
+Sie ist 1,76 Meter groß und wiegt 150 Kilogramm.
+
+387
+00:33:11,280 --> 00:33:20,280
+Die Patientin stand heute bei uns mit seit fünf Jahren bestehenden,
+
+388
+00:33:20,280 --> 00:33:31,280
+koligartigen, persistierenden, diffusen Abdominalschmerzen mit wassereger Diarrhofen.
+
+389
+00:33:31,280 --> 00:33:41,280
+Außerdem klagt sie über Asteni, Flatulenz und Meteorismus.
+
+390
+00:33:41,280 --> 00:33:54,280
+Die Patientin ist aufgefallen, dass ihre Beschwerden nach dem Milchprodukt-Einnahme aufgetreten sind.
+
+391
+00:33:54,280 --> 00:34:10,590
+Fragen nach Schüttelfrost, Nachtschweiß, Tachikardie, Nausea und Emesis wurden vermeint.
+
+392
+00:34:10,590 --> 00:34:24,420
+Beide Patienten sind mit Polynose oder Polynallergie bekannt, die durch Pruritis und Schnaufen aussehen.
+
+393
+00:34:24,420 --> 00:34:27,420
+Sie sind vollständig geimpft.
+
+394
+00:34:27,420 --> 00:34:33,420
+Sie sind unaufwendig vor Erkrankungen.
+
+395
+00:34:33,420 --> 00:34:39,420
+Sie haben einmal eine stationäre Behandlung wegen Diarrhofen.
+
+396
+00:34:39,420 --> 00:34:49,420
+Sie wurden wegen Tonsillitis im Kindesalt operiert.
+
+397
+00:34:49,420 --> 00:35:03,420
+In der sozialen Anamnese gab sie ein Verheiratungsgeschehen und ein Gezünd Kind zu haben.
+
+398
+00:35:03,420 --> 00:35:13,420
+Sie ist eine Sahabearbeiterin.
+
+399
+00:35:13,420 --> 00:35:27,050
+Die Anamnestischen Angaben deuten am ehesten auf Laktosintoleranz hin.
+
+400
+00:35:27,050 --> 00:35:32,050
+Die Differentialdiagnostik ist sehr common.
+
+401
+00:35:32,050 --> 00:35:41,050
+Die chronische Endstunde der Erkrankungen,
+
+402
+00:35:41,050 --> 00:35:51,420
+die Erkrankungen von Morbus Crohn, Colitis ulcerosa oder Gastroenteritis
+
+403
+00:35:51,420 --> 00:35:55,420
+sowie Colon-Carsinom in Betracht.
+
+404
+00:35:55,420 --> 00:36:07,420
+Meine Verdachtdiagnose zu bestätigen werde ich die Patienten körperlich untersuchen.
+
+405
+00:36:07,420 --> 00:36:21,420
+Besonders bei der Palpation achtet darauf, ob Abwehrspannung oder Druckdolenz,
+
+406
+00:36:21,420 --> 00:36:35,420
+bei der Oskultation achtet darauf, ob erhöhte Darmgeräusch gibt.
+
+407
+00:36:35,420 --> 00:36:57,420
+Die Diagnostik der Arten werde ich durchführen, um mögliche Tumoren oder intraabdominal Pathologien auszuschließen.
+
+408
+00:36:57,420 --> 00:37:12,420
+Ich werde die Gastroosephagodendroskopie oder Koloskopie durchführen,
+
+409
+00:37:12,420 --> 00:37:22,420
+um mögliche Magen oder Darmcarsinom auszuschließen.
+
+410
+00:37:22,420 --> 00:37:32,420
+Ich werde auch Blut abnehmen,
+
+411
+00:37:32,420 --> 00:37:37,420
+besonders Entzündungsparameter bestimmen lassen,
+
+412
+00:37:37,420 --> 00:37:44,420
+um mögliche chronische entzündliche Darmerkrankungen auszuschließen.
+
+413
+00:37:44,420 --> 00:37:52,420
+Ich werde auch Nieren und Leberwerte bestimmen lassen.
+
+414
+00:37:52,420 --> 00:37:54,420
+Welche Parameter meinen Sie?
+
+415
+00:37:54,420 --> 00:37:56,420
+Entschuldigung, Herr Roberts?
+
+416
+00:37:56,420 --> 00:37:59,420
+Welche Parameter meinen Sie?
+
+417
+00:37:59,420 --> 00:38:05,420
+CRP und BSG besonders werde ich bestimmen lassen,
+
+418
+00:38:05,420 --> 00:38:21,420
+um meine Verdachtstestdiagnose zu bestimmen.
+
+419
+00:38:21,420 --> 00:38:28,700
+Okay. Und würden Sie diese Patienten stationär oder ambulant behandeln?
+
+420
+00:38:28,700 --> 00:38:41,700
+Wenn die Zustand der Patienten nicht gut ist, werde ich sie stationär aufnehmen.
+
+421
+00:38:41,700 --> 00:38:48,700
+Seit drei Tagen hat die Patientin eine starke Diarrhea.
+
+422
+00:38:48,700 --> 00:38:55,700
+Ich würde sie gerne stationär aufnehmen und einen Zugang legen.
+
+423
+00:38:55,700 --> 00:39:00,700
+Ich werde auch ausführliche Flüssigkeit verabreichen.
+
+424
+00:39:00,700 --> 00:39:14,700
+Generell werde ich Antibiotika verabreichen und Schmerzmittel durch Zugang verabreichen.
+
+425
+00:39:14,700 --> 00:39:20,700
+Okay. Und würden Sie ein Konzil anfordern?
+
+426
+00:39:20,700 --> 00:39:34,700
+Ja. Ein gastroenterologisches Konzil ist sinnvoll, um meine Verdachtstestdiagnose zu bestimmen und die Behandlung zu optimieren.
+
+427
+00:39:34,700 --> 00:39:40,700
+Okay. Sie haben gesagt, dass Sie eine Abdominalzonographie durchführen.
+
+428
+00:39:40,700 --> 00:39:46,700
+Könnten Sie bitte Abdominalzonographie erklären?
+
+429
+00:39:46,700 --> 00:39:52,700
+Abdominalzonographie ist eine Bildgebende für mich.
+
+430
+00:39:52,700 --> 00:40:20,140
+Ich kann das nicht verstehen.
+
+431
+00:40:20,140 --> 00:40:29,140
+Um besonders intraabdominal oder weich Pathologien zu bestimmen, nutzen wir Sonographie.
+
+432
+00:40:29,140 --> 00:40:35,140
+Sonographie hat ohne Strahlung und ohne Risiko.
+
+433
+00:40:35,140 --> 00:40:40,140
+Es dauert zwischen 10 und 20 Minuten.
+
+434
+00:40:40,140 --> 00:40:53,580
+Die Patientin liegt sich auf dem Lichtdisch.
+
+435
+00:40:53,580 --> 00:41:02,790
+Gibt es ein Risiko oder Komplikationen bei dieser Untersuchung?
+
+436
+00:41:02,790 --> 00:41:09,790
+Ja. Diese Untersuchung ist risikoarm.
+
+437
+00:41:09,790 --> 00:41:22,790
+Es gibt keine Strahlung oder wir spritzen keine Medikamente ein wegen dieser Untersuchung.
+
+438
+00:41:22,790 --> 00:41:27,790
+Deswegen sind die Risiken sehr wenig.
+
+439
+00:41:27,790 --> 00:41:33,790
+Benötigt die Patientin eine spezielle Vorbereitung für diese Untersuchung?
+
+440
+00:41:33,790 --> 00:41:41,790
+Manchmal ist es so hart, zu beurteilen.
+
+441
+00:41:41,790 --> 00:41:49,790
+Die Patientin muss ausführliche Flüssigkeit nehmen.
+
+442
+00:41:49,790 --> 00:41:52,790
+Manchmal.
+
+443
+00:41:52,790 --> 00:42:04,790
+Für die Oberfläche oder für die Galenblase muss die Patientin nüchtern sein.
+
+444
+00:42:04,790 --> 00:42:17,790
+Aber wegen einer Blutung oder wegen einer Trauma ist keine Vorbereitung nötig.
+
+445
+00:42:17,790 --> 00:42:26,790
+Sie haben gesagt, dass eine Kolonkarzinom als Defensivdiagnos kommt.
+
+446
+00:42:26,790 --> 00:42:36,790
+Welche Symptome sprechen für eine Kolonkarzinom und welche sprechen gegen Kolonkarzinom?
+
+447
+00:42:36,790 --> 00:42:41,790
+Die Patientin hat 2 oder 3 Kilo abgenommen.
+
+448
+00:42:41,790 --> 00:42:48,790
+Das kann sprechen für eine Kolonkarzinom.
+
+449
+00:42:48,790 --> 00:42:52,790
+Sie hat zuständig die Diagnose.
+
+450
+00:42:52,790 --> 00:42:57,790
+Manchmal kommt Kolonkarzinom mit Diagnose.
+
+451
+00:42:57,790 --> 00:43:08,790
+Aber die Patientin hat seit 5 Jahren das Sprit gegen Kolonkarzinom.
+
+452
+00:43:08,790 --> 00:43:11,790
+Chronische Probleme.
+
+453
+00:43:11,790 --> 00:43:17,790
+Aber ich möchte Kolonkarzinom als Diffensivdiagnose haben.
+
+454
+00:43:17,790 --> 00:43:25,790
+Was denken Sie an B-Symptomatik bei diesen Patienten?
+
+455
+00:43:25,790 --> 00:43:30,790
+Die Patientin hat keine B-Symptomatik.
+
+456
+00:43:30,790 --> 00:43:36,790
+Beispielsweise keine Fieber, keine Schüttelfrost, keine Nachschweiß.
+
+457
+00:43:36,790 --> 00:43:40,790
+Diese Symptome schiebt sie auch gegen Kolonkarzinom.
+
+458
+00:43:40,790 --> 00:43:46,790
+Hat die Patientin ein Risiko für eine Kolonkarzinom?
+
+459
+00:43:47,790 --> 00:43:55,790
+Das Risiko für eine Kolonkarzinom ist, dass es keine Kolonkarzinom gibt.
+
+460
+00:43:58,790 --> 00:44:01,790
+Doch, der Vater oder?
+
+461
+00:44:01,790 --> 00:44:08,790
+Der Vater leidet an Kolonkarzinom.
+
+462
+00:44:08,790 --> 00:44:13,790
+Entschuldigung, ich habe falsch geschrieben.
+
+463
+00:44:14,790 --> 00:44:19,790
+Die Familienanamnese schiebt sie für eine Kolonkarzinom.
+
+464
+00:44:19,790 --> 00:44:22,790
+Das ist ein Risiko für Kolonkarzinom für die Patientin.
+
+465
+00:44:29,790 --> 00:44:34,790
+Sie haben gesagt, dass Sie eine Koloskopie durchführen.
+
+466
+00:44:34,790 --> 00:44:39,790
+Könnten Sie bitte Koloskopie erklären?
+
+467
+00:44:39,790 --> 00:44:44,790
+Koloskopie ist ein bildgewendetes Verfahren.
+
+468
+00:44:44,790 --> 00:44:51,790
+Besonders die Dichtdarmspiegelung.
+
+469
+00:44:51,790 --> 00:44:58,790
+Mit Hilfe eines flexiblen Schlauchs, einer Kamera und Licht,
+
+470
+00:44:58,790 --> 00:45:14,790
+führen wir die Instrumente durch After-Ein bis 12-Finger-Darm.
+
+471
+00:45:14,790 --> 00:45:27,790
+Wir beurteilen die Kolonkarzinom- und 12-Finger-Darm-Krankheiten.
+
+472
+00:45:27,790 --> 00:45:33,790
+Ob es eine Koloskopie gibt oder ein Instrumente, können wir beurteilen.
+
+473
+00:45:33,790 --> 00:45:41,790
+Können wir mit Hilfe der Koloskopie Blutung und Gewebeprobe einnehmen?
+
+474
+00:45:41,790 --> 00:45:47,790
+Die Patientin sollte sich natürlich vorbereiten.
+
+475
+00:45:47,790 --> 00:45:57,790
+Vor zwei Tagen muss sie nur mit flüssiger Ernährung ernähren.
+
+476
+00:45:57,790 --> 00:46:09,790
+Vor einem Tag muss sie die Entzündung einnehmen und ihre Kolone entleeren.
+
+477
+00:46:09,790 --> 00:46:17,790
+Und mindestens acht Stunden muss die Patientin nüchtern sein.
+
+478
+00:46:17,790 --> 00:46:26,790
+Ohne Wasser, ohne oder zwölf Stunden kann nicht Wasser oder Flüssigkeit nehmen.
+
+479
+00:46:26,790 --> 00:46:30,790
+Welche Komplikationen können wir sehen?
+
+480
+00:46:31,790 --> 00:46:46,790
+Während einer Koloskopie können wir Kolonperforation oder Darmperforation sehen.
+
+481
+00:46:46,790 --> 00:46:54,790
+Und manchmal kann es natürlich Infektionen sein.
+
+482
+00:46:54,790 --> 00:47:05,130
+Nach der Koloskopie oder nach Blutung.
+
+483
+00:47:05,130 --> 00:47:09,130
+Kennen Sie BMI?
+
+484
+00:47:09,130 --> 00:47:14,130
+BMI ist Body Mass Index.
+
+485
+00:47:14,130 --> 00:47:17,130
+Das ist ein englischer Fachbegriff.
+
+486
+00:47:17,130 --> 00:47:22,130
+Das beurteilen wir als Adipositas.
+
+487
+00:47:22,130 --> 00:47:35,130
+BMI bedeutet Gewicht geteilt durch Großquadrat.
+
+488
+00:47:35,130 --> 00:47:42,130
+Zwischen 20 und 25 ist das Normalbereich.
+
+489
+00:47:42,130 --> 00:47:48,130
+Zwischen 25 und 30 bedeutet Übergewicht.
+
+490
+00:47:48,130 --> 00:47:57,130
+Über 30 bedeutet Obesity Adipositas.
+
+491
+00:47:57,130 --> 00:48:02,130
+Über 40 bedeutet Tötliche Adipositas.
+
+492
+00:48:02,130 --> 00:48:09,130
+Und weniger als 20 bedeutet Untergewicht.
+
+493
+00:48:09,130 --> 00:48:11,130
+Ok, gut.
+
+494
+00:48:11,130 --> 00:48:19,130
+Körpergewicht in Kilogramm geteilt durch Körpergroß in Meterquadrat.
+
+495
+00:48:19,130 --> 00:48:21,130
+Gut, Sie haben es gut gemacht.
+
+496
+00:48:21,130 --> 00:48:22,130
+Ich gratuliere Ihnen.
+
+497
+00:48:22,130 --> 00:48:24,130
+Vielen Dank, Peroverus.
+
+498
+00:48:24,130 --> 00:48:35,130
+Herr Oberarzt, wir haben heute einen neuen Patienten aufgenommen.
+
+499
+00:48:35,130 --> 00:48:40,130
+Ich möchte mit Ihnen gerne den Patienten vorstellen.
+
+500
+00:48:40,130 --> 00:48:43,130
+Haben Sie kurz Zeit für mich?
+
+501
+00:48:43,130 --> 00:48:45,130
+Ja bitte.
+
+502
+00:48:45,130 --> 00:48:49,130
+Es handelt sich um Frau Maria Nowak.
+
+503
+00:48:49,130 --> 00:49:02,130
+Sie ist 29 Jahre alt und 1 Meter 76 groß und 170 Kilogramm schwer.
+
+504
+00:49:02,130 --> 00:49:14,130
+Sie stellte sich heute bei uns wegen seit 5 Jahren bestehender,
+
+505
+00:49:14,130 --> 00:49:23,130
+krampfartiger, durkender, dumpf, abdominal Schmerzen vor.
+
+506
+00:49:23,130 --> 00:49:32,130
+Die Beschwerden treten nach Aufnahme von Milchprodukten auf.
+
+507
+00:49:32,130 --> 00:49:37,130
+Sie ist deswegen diese Beschwerden.
+
+508
+00:49:37,130 --> 00:49:44,130
+Sie war letztes Jahr bei ihrem Hausarzt.
+
+509
+00:49:44,130 --> 00:49:56,130
+Die Einnahme von Metaspasmiden hat keine Verbesserung gebracht.
+
+510
+00:49:56,130 --> 00:50:07,130
+Die Beschwerden gehen mit Astenomethorismus flatulieren.
+
+511
+00:50:07,130 --> 00:50:16,130
+Außerdem sind sie in Klackte über Wasserigdiorä seit 3 Jahren.
+
+512
+00:50:16,130 --> 00:50:29,130
+Die vegetative Anamnese ist auffällig bis auf Inapadenz und Insomnie.
+
+513
+00:50:29,130 --> 00:50:35,130
+Es sind keine Bekannten für Erkrankungen bekannt.
+
+514
+00:50:35,130 --> 00:50:49,130
+Die Patientin wurde mit 5 Jahren aufgrund einer Diarrhea mit Stationäre behandelt.
+
+515
+00:50:49,130 --> 00:51:09,130
+Bei Patienten wurde eine Tonsiglaecoma mit 8 Jahren durchgeführt.
+
+516
+00:51:09,130 --> 00:51:19,130
+Sie ist allergisch gegen Polen und äußert sich mit Pyrrhythmias und Rhinitis.
+
+517
+00:51:19,130 --> 00:51:23,130
+Sie ist nicht Raucherin.
+
+518
+00:51:23,130 --> 00:51:27,130
+Sie trinkt eine Flasche Bier und eine Flasche Schnaps gelegentlich.
+
+519
+00:51:27,130 --> 00:51:31,130
+Drogenkonsum für die Ferneint.
+
+520
+00:51:31,130 --> 00:51:47,130
+In der Familienanamnese ist sie mit 50 Jahren an Koloncarcinom verstorben.
+
+521
+00:51:47,130 --> 00:51:51,130
+Sie hat Arteriellehypätonie.
+
+522
+00:51:51,130 --> 00:51:56,130
+Sie hat eine Brüder, die übergewischt hat.
+
+523
+00:51:56,130 --> 00:52:00,130
+Sie ist vollständig geimpft.
+
+524
+00:52:00,130 --> 00:52:04,130
+Die Reiseanamnese ist unauffällig.
+
+525
+00:52:04,130 --> 00:52:09,130
+Sie ist Stauberaterin und verheiratet.
+
+526
+00:52:09,130 --> 00:52:14,130
+Sie hat ein Kind und er ist gesund.
+
+527
+00:52:14,130 --> 00:52:17,130
+Sie lebt mit ihrer Familie.
+
+528
+00:52:17,130 --> 00:52:24,130
+Ich gehe von einem Verdacht auf Laktosintoleranz aus.
+
+529
+00:52:24,130 --> 00:52:34,130
+Da die Patienten dafür typische Symptome aufweisen,
+
+530
+00:52:34,130 --> 00:52:47,130
+bestätigen die Patienten, dass die Beschwerden nach Aufnahme von Milchprodukten auftreten.
+
+531
+00:52:48,130 --> 00:52:58,130
+Das ist sehr besonders für die Patienten.
+
+532
+00:52:58,130 --> 00:53:14,130
+Außerdem leidet sie unter Wasserige Dürre und Blahungen, Flatulenz, Meteorismus.
+
+533
+00:53:14,130 --> 00:53:20,130
+Das ist eine Expression für Laktosintoleranz.
+
+534
+00:53:20,130 --> 00:53:34,130
+Als Differenzialdiagnose kommen Gastroenteritis, Morbus Crohn und Zölyaki aus Inbetrak.
+
+535
+00:53:34,130 --> 00:53:44,130
+Wenn ich die Patienten mit der Fitta-Parameter überwachen würde,
+
+536
+00:53:44,130 --> 00:53:51,130
+würde ich die Patienten körperlich unterziehen.
+
+537
+00:53:51,130 --> 00:53:56,130
+Ich würde die Patienten körperlich unterziehen.
+
+538
+00:53:56,130 --> 00:54:05,130
+Ich würde die Patienten körperlich unterziehen.
+
+539
+00:54:05,130 --> 00:54:12,130
+Außerdem würde ich die Patienten körperlich unterziehen.
+
+540
+00:54:12,130 --> 00:54:22,130
+Wenn die Patienten die Abdominalgeräusche vermindern oder hören,
+
+541
+00:54:22,130 --> 00:54:33,130
+würde ich die Patienten körperlich unterziehen.
+
+542
+00:54:33,130 --> 00:54:44,130
+Das wäre ein Symbol für die Laborunterzüge, um die Diagnostik zu verhindern.
+
+543
+00:54:44,130 --> 00:54:52,130
+Dabei würde ich die Blutbildentzündung und die Elektrolyte,
+
+544
+00:54:52,130 --> 00:54:57,130
+die Lebewerte und die Nierenwerte bestimmen lassen.
+
+545
+00:54:58,130 --> 00:55:06,130
+Des Weiteren würde ich die Patienten die Zonographie des Abdomens durchführen,
+
+546
+00:55:06,130 --> 00:55:14,130
+um mögliche andere Veränderungen auszuschließen.
+
+547
+00:55:14,130 --> 00:55:23,130
+Gegenwarnungsweise würde ich den Patienten die Zitade des Abdomens durchführen,
+
+548
+00:55:23,130 --> 00:55:31,130
+um mögliche Abdominalpathologie auszuschließen.
+
+549
+00:55:31,130 --> 00:55:46,130
+Es ist sehr wichtig, den Patienten Laktos-Toleranz-Tests zu führen.
+
+550
+00:55:46,130 --> 00:56:03,380
+Wenn ich meine Verdachtstheorien bestätige, würde ich die Patienten ambulant behandeln.
+
+551
+00:56:03,380 --> 00:56:13,380
+Die Milchprodukte zu vermeiden, ist eine sehr wichtige Behandlung.
+
+552
+00:56:13,380 --> 00:56:30,380
+Außerdem würde ich die Patienten eine gastroenterologische Konzil anordnen,
+
+553
+00:56:30,380 --> 00:56:35,380
+um meine Therapie zu optimieren.
+
+554
+00:56:35,380 --> 00:56:41,380
+Wenn Sie mit dieser Vorgelegenheit einverstanden sind,
+
+555
+00:56:41,380 --> 00:56:49,380
+würde ich mit den Genplanten und den Untersuchungen fortfahren.
+
+556
+00:56:50,380 --> 00:56:57,380
+Herr Kullinger, wie können Sie die Chronische Darmensündung auszuschließen?
+
+557
+00:56:57,380 --> 00:57:16,380
+Ich würde den Patienten eine Koloskopie durchführen.
+
+558
+00:57:52,020 --> 00:57:56,020
+Können Sie uns die Koloskopie ausdrücken?
+
+559
+00:57:56,020 --> 00:58:03,020
+Ja, die Koloskopie ist eine Bildgebende und Erzung.
+
+560
+00:58:03,020 --> 00:58:13,020
+Wir können die Koloskopie durchführen.
+
+561
+00:58:13,020 --> 00:58:24,020
+Ich werde die Änderungen ausprobieren.
+
+562
+00:58:25,020 --> 00:58:34,020
+Die Untersuchungen helfen uns, die Erkrankungen wie Morbus Crohn,
+
+563
+00:58:34,020 --> 00:58:48,020
+Userative Colitis, Schöljaki, Kolonkarsinoma und andere Kolonprobleme zu erkennen.
+
+564
+00:58:48,020 --> 00:58:53,020
+Das ist eine ungenäme Untersuchung.
+
+565
+00:58:53,020 --> 00:59:03,020
+Deswegen sollte der Patient eine Schlafmutter nehmen,
+
+566
+00:59:03,020 --> 00:59:11,020
+damit er während der Untersuchung schlafen kann.
+
+567
+00:59:12,020 --> 00:59:23,020
+Vor der Untersuchung sollten die Patienten mindestens 12 Stunden nicht essen und trinken.
+
+568
+00:59:24,020 --> 00:59:37,020
+Vor der Untersuchung können wir den Patienten eine Schlafmutter geben,
+
+569
+00:59:37,020 --> 00:59:47,020
+um die Taktarantlerung zu erzielen.
+
+570
+00:59:47,020 --> 00:59:58,020
+Bei der Untersuchung können wir eine Schlafmutter mit einer kleinen Kamera
+
+571
+00:59:58,020 --> 01:00:09,020
+durchführen, bis wir eine Schlafmutter haben.
+
+572
+01:00:09,020 --> 01:00:24,020
+Wir haben die Chance, eine Probe zu machen, um die Taktarantlerung zu erzielen.
+
+573
+01:00:54,020 --> 01:01:04,020
+Ich empfehle den Patienten, eine Gleichperson zu mitbringen,
+
+574
+01:01:04,020 --> 01:01:14,020
+damit er nicht eine wichtige Entscheidung treffen kann.
+
+575
+01:01:14,020 --> 01:01:24,020
+In manchen Fällen können andere Untersuchungsmethoden statt Essen
+
+576
+01:01:24,020 --> 01:01:30,020
+zu den Patienten gebracht werden.
+
+577
+01:01:30,020 --> 01:01:38,020
+Das kann durchgeführt werden.
+
+578
+01:01:38,020 --> 01:01:46,020
+Das kann durchgeführt werden.
+
+579
+01:01:46,020 --> 01:01:54,020
+Das kann durchgeführt werden.
+
+580
+01:01:54,020 --> 01:02:02,020
+Das kann durchgeführt werden.
+
+581
+01:02:02,020 --> 01:02:11,420
+Das kann durchgeführt werden.
+
+582
+01:02:12,420 --> 01:02:20,420
+Das kann durchgeführt werden.
+
+583
+01:02:20,420 --> 01:02:28,420
+Das kann durchgeführt werden.
+
+584
+01:02:28,420 --> 01:02:36,420
+Das kann durchgeführt werden.
+
+585
+01:02:36,420 --> 01:02:44,420
+Das kann durchgeführt werden.
+
+586
+01:02:44,420 --> 01:02:52,420
+Das kann durchgeführt werden.
+
+587
+01:02:52,420 --> 01:03:00,420
+Das kann durchgeführt werden.
+
+588
+01:03:00,420 --> 01:03:08,420
+Das kann durchgeführt werden.
+
+589
+01:03:08,420 --> 01:03:16,420
+Das kann durchgeführt werden.
+
+590
+01:03:16,420 --> 01:03:27,980
+Das kann durchgeführt werden.
+
+591
+01:03:27,980 --> 01:03:35,980
+Das kann durchgeführt werden.
+
+592
+01:03:35,980 --> 01:03:43,980
+Das kann durchgeführt werden.
+
+593
+01:03:43,980 --> 01:03:51,980
+Das kann durchgeführt werden.

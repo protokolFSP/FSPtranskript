@@ -1,0 +1,1823 @@
+1
+00:00:00,000 --> 00:00:10,000
+Erst mal benötige ich ein paar persönliche Daten von Ihnen und dann sprechen wir über Ihre aktuellen Beschwerden.
+
+2
+00:00:10,000 --> 00:00:15,000
+Falls Sie Fragen haben, suggen Sie bitte nicht mich zu unterbrechen. Wie heißen Sie denn?
+
+3
+00:00:15,000 --> 00:00:25,560
+Ich heiße Thomas Zimemann.
+
+4
+00:00:25,560 --> 00:00:45,560
+Zimemann heißt das.
+
+5
+00:00:45,560 --> 00:00:49,560
+Wie alt ist Herr Zimemann?
+
+6
+00:00:49,560 --> 00:00:53,960
+67.
+
+7
+00:00:53,960 --> 00:00:56,960
+Ihr Geburtstatum bitte?
+
+8
+00:00:56,960 --> 00:01:09,660
+9. Juli 1958.
+
+9
+00:01:09,660 --> 00:01:12,660
+Wie groß sind Sie?
+
+10
+00:01:12,660 --> 00:01:20,940
+Ich bin 94 Kilogramm.
+
+11
+00:01:20,940 --> 00:01:23,940
+Wie groß sind Sie?
+
+12
+00:01:23,940 --> 00:01:25,940
+1 Meter 64.
+
+13
+00:01:25,940 --> 00:01:35,570
+Haben Sie einen Hausarzt oder eine Hauserstin?
+
+14
+00:01:35,570 --> 00:01:40,570
+Natürlich. Mein Hausarzt ist Herr Müller.
+
+15
+00:01:40,570 --> 00:01:49,150
+Was für Sie heute so ist Herr Zimemann? Welche Beschwerden haben Sie?
+
+16
+00:01:49,150 --> 00:01:56,500
+Ich habe Bauchschmerzen.
+
+17
+00:01:56,500 --> 00:02:02,500
+Wie groß ist Ihr Bauchschmerzen? Können Sie mir das sagen oder zeigen?
+
+18
+00:02:02,500 --> 00:02:11,500
+Mein Oberbauch ist starker, aber ich möchte mich manchmal ganz bauchschmerzen.
+
+19
+00:02:11,500 --> 00:02:14,500
+Rechts oder links?
+
+20
+00:02:14,500 --> 00:02:20,030
+Unterbauch, Entschuldigung.
+
+21
+00:02:20,030 --> 00:02:22,030
+Rechts oder links?
+
+22
+00:02:22,030 --> 00:02:27,030
+Ganz. Ganz unterbauchschmerzen.
+
+23
+00:02:27,030 --> 00:02:31,030
+Seit wann haben Sie diese Schmerzen?
+
+24
+00:02:31,030 --> 00:02:42,030
+Ja, Doktor, diese Schmerzen sind sehr lange, aber seit 6 Monaten sind sie immer schlimmer geworden.
+
+25
+00:02:42,030 --> 00:02:51,080
+Seit wann haben Sie diese Schmerzen?
+
+26
+00:02:51,080 --> 00:02:58,080
+Seit 2 Jahren.
+
+27
+00:02:58,080 --> 00:03:13,080
+Seit 2 Jahren sind diese Schmerzen plötzlich aufgetreten, aber in der Zeit, besonders vor 6 Monaten, sind sie immer schlimmer geworden.
+
+28
+00:03:13,080 --> 00:03:25,780
+Sind diese Schmerzen immer da oder gehen Sie wieder weg?
+
+29
+00:03:25,780 --> 00:03:37,780
+Die Schmerzen sind nicht dauerhaft. Ich fühle mich manchmal gut, aber manchmal schlecht.
+
+30
+00:03:37,780 --> 00:03:51,780
+Besonders die Beschwerden sind nach dem Essen 2 Stunden oder beim Stress aufgetreten.
+
+31
+00:03:51,780 --> 00:04:02,140
+Wie stark sind die Schmerzen von 1 bis 10 auf einer Skala, wobei 10 am stärksten ist?
+
+32
+00:04:02,140 --> 00:04:10,990
+Doktor, es ist verschieden, aber ich denke 5 Jahre.
+
+33
+00:04:10,990 --> 00:04:13,990
+Momentan haben Sie Schmerzen?
+
+34
+00:04:13,990 --> 00:04:20,990
+Ja, momentan ist es nicht schlecht, vielleicht 3 oder 4.
+
+35
+00:04:20,990 --> 00:04:23,990
+Waren Sie deswegen beim Arzt?
+
+36
+00:04:23,990 --> 00:04:42,990
+Ja, ich war oft beim Arzt, aber es wurde mir nicht richtig der Diagnose festgestellt.
+
+37
+00:04:42,990 --> 00:04:47,990
+Haben Sie dagegen irgendwelche Medikamente genommen?
+
+38
+00:04:47,990 --> 00:05:00,990
+Ja, natürlich. Ich habe viele Mal Baskopantablette angenommen, aber es wurde mir nicht geholfen.
+
+39
+00:05:00,990 --> 00:05:08,160
+Könnten Sie bitte diese Schmerzen genauer beschreiben?
+
+40
+00:05:08,160 --> 00:05:20,160
+Diese Schmerzen sind kolikartig und dumm.
+
+41
+00:05:20,160 --> 00:05:45,180
+Ich fühle mich nach dem Stuhlgang. Mein Dickdarm ist nicht leer.
+
+42
+00:05:45,180 --> 00:05:50,610
+Haben Sie Beläungen?
+
+43
+00:05:50,610 --> 00:06:00,610
+Ja, richtig. Besonders nach dem Essen habe ich ein blaues Bauch und eine blaue Hunde.
+
+44
+00:06:00,610 --> 00:06:04,610
+Ist Ihnen ein sauberes Ausstoß aufgefallen?
+
+45
+00:06:04,610 --> 00:06:11,970
+Nein, ich habe es nicht bemerkt.
+
+46
+00:06:11,970 --> 00:06:14,970
+Haben Sie Atemnot, Husten?
+
+47
+00:06:14,970 --> 00:06:17,970
+Ja, Doktor, ich habe es nicht bemerkt.
+
+48
+00:06:17,970 --> 00:06:22,730
+Ist Ihnen Schluckbeschwerden aufgefallen?
+
+49
+00:06:22,730 --> 00:06:36,200
+Nein. Aber ich habe manchmal Durchfall, manchmal Verstopfungen.
+
+50
+00:06:36,200 --> 00:06:45,700
+Manchmal fühle ich mich gut, aber manchmal bin ich total erschöpft.
+
+51
+00:06:45,700 --> 00:06:52,460
+Momentan haben Sie Verstopfungen?
+
+52
+00:06:52,460 --> 00:07:10,460
+Nein, nicht jetzt. Aber wenn ich viele Mal Diora Durchfall habe, fühle ich mich sehr erschöpft.
+
+53
+00:07:10,460 --> 00:07:15,460
+Ist Ihnen Blut im Stuhl aufgefallen?
+
+54
+00:07:15,460 --> 00:07:20,260
+Nein, ich habe es nicht bemerkt.
+
+55
+00:07:20,260 --> 00:07:23,260
+Haben Sie Fieber?
+
+56
+00:07:23,260 --> 00:07:28,260
+Nein, ich habe es nicht bemerkt. Aber ich fühle mich nicht fieberig.
+
+57
+00:07:28,260 --> 00:07:30,260
+Sie fühlen sich nicht fieberig?
+
+58
+00:07:30,260 --> 00:07:32,260
+Ja, nicht fieberig.
+
+59
+00:07:32,260 --> 00:07:35,260
+Haben Sie Schüttenfrost, Nachschweiß?
+
+60
+00:07:35,260 --> 00:07:37,260
+Nein, Doktor, nein.
+
+61
+00:07:37,260 --> 00:07:45,830
+Ist Ihnen übel?
+
+62
+00:07:45,830 --> 00:07:51,830
+Ja, ich habe manchmal übel. Aber ich habe keine Erbrechen.
+
+63
+00:07:51,830 --> 00:07:55,830
+Bisher haben Sie noch nicht Erbrechen?
+
+64
+00:07:55,830 --> 00:07:57,830
+Ja, jetzt nicht.
+
+65
+00:07:57,830 --> 00:08:02,580
+Ist Ihnen schwindelig?
+
+66
+00:08:02,580 --> 00:08:09,000
+Nein.
+
+67
+00:08:09,000 --> 00:08:12,000
+Wie ist Ihr Appetit, Herr Zimmermann?
+
+68
+00:08:12,000 --> 00:08:17,000
+Normalerweise gut, aber ich möchte nicht viel essen.
+
+69
+00:08:17,000 --> 00:08:31,000
+Ich habe gesagt, wenn ich viele Nahrung esse, nach zwei Stunden habe ich viel Blut.
+
+70
+00:08:31,000 --> 00:08:34,000
+Ich fühle mich nicht gut.
+
+71
+00:08:34,000 --> 00:08:56,000
+Deswegen habe ich in den letzten zwei Monaten ungefähr 5 Kilo in der Nahrung genommen.
+
+72
+00:08:56,000 --> 00:09:02,000
+Hatten Sie diese Beschwerden schon mal?
+
+73
+00:09:02,000 --> 00:09:05,000
+Jetzt oder?
+
+74
+00:09:05,000 --> 00:09:08,000
+Vorher hatten Sie das?
+
+75
+00:09:08,000 --> 00:09:16,000
+Ja, vor ungefähr sechs Monaten.
+
+76
+00:09:16,000 --> 00:09:20,000
+Sie haben seit sechs Monaten diese Schmerzen.
+
+77
+00:09:20,000 --> 00:09:32,000
+Außer der Ernährungsmittel, gibt es irgendetwas, das Schmerzen besser oder Schlimmer macht?
+
+78
+00:09:32,000 --> 00:09:35,000
+Ich habe keine Ahnung.
+
+79
+00:09:35,000 --> 00:09:37,000
+Ich habe keine Ahnung.
+
+80
+00:09:37,000 --> 00:09:45,000
+Aber nach dem Schüturgang sind die Schmerzen besser.
+
+81
+00:09:45,000 --> 00:09:49,000
+Aber nach dem Schmerzen sind die Schmerzen schlechter.
+
+82
+00:09:49,000 --> 00:09:52,000
+Sind die Schmerzen gewandert?
+
+83
+00:09:52,000 --> 00:09:56,920
+Ja, die Schmerzen sind gewandert.
+
+84
+00:09:56,920 --> 00:09:59,920
+Und die Schmerzen sind auch nicht schlecht.
+
+85
+00:09:59,920 --> 00:10:04,920
+Die Schmerzen sind besser, aber nach dem Schmerzen sind die Schmerzen schlechter.
+
+86
+00:10:04,920 --> 00:10:14,420
+Sind die Schmerzen gewandert?
+
+87
+00:10:14,420 --> 00:10:21,420
+Ich fühle mich nicht gut.
+
+88
+00:10:21,420 --> 00:10:24,420
+Strahlen die Schmerzen irgendwo hin aus?
+
+89
+00:10:24,420 --> 00:10:32,820
+Nein.
+
+90
+00:10:32,820 --> 00:10:35,820
+Können Sie gut schlafen?
+
+91
+00:10:35,820 --> 00:10:38,820
+Normalerweise schlafe ich gut.
+
+92
+00:10:38,820 --> 00:10:48,820
+Wenn ich nicht gut schlafe, dann schlafe ich nicht gut.
+
+93
+00:10:48,820 --> 00:10:51,820
+Aber Sie haben ein Schlafsturm oder ein Durchlafsturm?
+
+94
+00:10:51,820 --> 00:11:02,780
+Beide.
+
+95
+00:11:02,780 --> 00:11:06,780
+Aber Sie haben irgendwo eine chronische Krankheit?
+
+96
+00:11:06,780 --> 00:11:11,780
+Ja, ich habe eine Bluthochdruck.
+
+97
+00:11:11,780 --> 00:11:19,780
+Bluthochdruck seit zehn Jahren.
+
+98
+00:11:19,780 --> 00:11:22,780
+Was nehmen Sie dagegen?
+
+99
+00:11:22,780 --> 00:11:26,780
+Ich nehme eine Medikamenten täglich.
+
+100
+00:11:26,780 --> 00:11:32,780
+Aber jetzt weiß ich, wie die Doktor heißt.
+
+101
+00:11:32,780 --> 00:11:38,780
+Ich kann Ihr Hausarzt nachfragen.
+
+102
+00:11:38,780 --> 00:11:40,780
+Aber nur einmal täglich?
+
+103
+00:11:40,780 --> 00:11:43,780
+Ja, einmal täglich.
+
+104
+00:11:43,780 --> 00:11:48,780
+Haben Sie noch andere chronische Erkrankungen, Herr Simmermann?
+
+105
+00:11:48,780 --> 00:11:53,780
+Vor drei Jahren hatte ich eine Handweginfektion.
+
+106
+00:11:53,780 --> 00:12:00,780
+Ich habe ein paar Tage im Krankenhaus geblieben.
+
+107
+00:12:00,780 --> 00:12:07,780
+Diese Beschwerden wurden mit Antibiotik behandelt.
+
+108
+00:12:07,780 --> 00:12:13,780
+Aber ich weiß nicht, was das ist.
+
+109
+00:12:13,780 --> 00:12:18,780
+Verstehe. Haben Sie noch andere Erkrankungen?
+
+110
+00:12:18,780 --> 00:12:23,780
+Nein, ich habe keine Erkrankungen.
+
+111
+00:12:23,780 --> 00:12:26,780
+Wurden Sie schon einmal operiert?
+
+112
+00:12:26,780 --> 00:12:35,780
+Als ich Kind war, wurde mir eine Apendektome durchgeführt.
+
+113
+00:12:35,780 --> 00:12:37,780
+Wie alt waren Sie?
+
+114
+00:12:37,780 --> 00:12:43,780
+Ich war ungefähr zehn Jahre alt.
+
+115
+00:12:43,780 --> 00:12:47,780
+Hatten Sie noch andere Operationen?
+
+116
+00:12:47,780 --> 00:12:50,780
+Das war alles.
+
+117
+00:12:50,780 --> 00:12:55,180
+Ja.
+
+118
+00:12:55,180 --> 00:13:02,180
+Wurde Ihnen wegen dieser Schmessen eine Sonographie durchgeführt?
+
+119
+00:13:02,180 --> 00:13:06,180
+Oder eine Computertomographie?
+
+120
+00:13:06,180 --> 00:13:10,180
+Ich habe keine Erinnerung. Nein.
+
+121
+00:13:10,180 --> 00:13:16,180
+Haben Sie irgendwelche Allergien oder Unverträglichkeiten?
+
+122
+00:13:16,180 --> 00:13:22,180
+Allergien? Ja, ich habe keine Allergien.
+
+123
+00:13:22,180 --> 00:13:27,230
+Vertragen Sie alles? Alle Lebensmitteln?
+
+124
+00:13:27,230 --> 00:13:30,230
+Ja, ich habe keine Ahnung.
+
+125
+00:13:30,230 --> 00:13:37,610
+Rauchen Sie, Herr Simmermann?
+
+126
+00:13:37,610 --> 00:13:41,890
+Ja, ich rauche, Doktor.
+
+127
+00:13:41,890 --> 00:13:44,890
+Seit wann rauchen Sie?
+
+128
+00:13:44,890 --> 00:13:58,660
+Seit fünf Jahren rauche ich zehn Zigaretten täglich.
+
+129
+00:13:58,660 --> 00:14:01,660
+Trinken Sie Alkohol?
+
+130
+00:14:01,660 --> 00:14:06,660
+Gelegentlich am Wochenende oder mit meinen Freunden treffen.
+
+131
+00:14:06,660 --> 00:14:09,660
+Ein Glas Sekt.
+
+132
+00:14:09,660 --> 00:14:13,660
+Ein Glas Sekt. Was meinen Sie mit gelegentlich?
+
+133
+00:14:13,660 --> 00:14:16,660
+Wie oft pro Woche oder pro Monat?
+
+134
+00:14:16,660 --> 00:14:21,190
+Ein oder zwei Mal pro Woche.
+
+135
+00:14:21,190 --> 00:14:24,190
+Ein oder zwei Glas Sekt? Ja.
+
+136
+00:14:24,190 --> 00:14:29,620
+Sekt.
+
+137
+00:14:29,620 --> 00:14:32,620
+Bitte nehmen Sie die folgenden Fragen nicht persönlich.
+
+138
+00:14:32,620 --> 00:14:35,620
+Aus medizinischen Gründen fragen wir immer.
+
+139
+00:14:35,620 --> 00:14:38,620
+Haben Sie Erfahrung mit Drogen?
+
+140
+00:14:38,620 --> 00:14:43,620
+Ich habe nicht Drogen probiert, Doktor.
+
+141
+00:14:43,620 --> 00:14:45,620
+Ich freue mich.
+
+142
+00:14:45,620 --> 00:14:52,420
+Sind Sie verheiratet, Herr Simmermann?
+
+143
+00:14:52,420 --> 00:14:55,420
+Ja, ich bin verheiratet.
+
+144
+00:14:55,420 --> 00:15:04,850
+Ich lebe mit meiner Frau und meinen drei Kindern.
+
+145
+00:15:04,850 --> 00:15:06,850
+Sie leben zusammen?
+
+146
+00:15:06,850 --> 00:15:09,850
+Alle sind gesund.
+
+147
+00:15:09,850 --> 00:15:14,610
+Gut zu hören.
+
+148
+00:15:14,610 --> 00:15:18,610
+Sind Ihre Eltern noch am Leben?
+
+149
+00:15:18,610 --> 00:15:21,610
+Meine Eltern? Ja.
+
+150
+00:15:21,610 --> 00:15:29,610
+Mein Vater hatte einen Lungenkrebs.
+
+151
+00:15:29,610 --> 00:15:32,610
+Er ist gestorben.
+
+152
+00:15:32,610 --> 00:15:35,610
+Mein Beileid, Herr Simmermann.
+
+153
+00:15:35,610 --> 00:15:38,610
+Wegen Lungenkrebs. Wie alt war er?
+
+154
+00:15:38,610 --> 00:15:43,610
+Er war 69 Jahre alt.
+
+155
+00:15:43,610 --> 00:15:53,340
+Tut mir leid zu hören.
+
+156
+00:15:53,340 --> 00:15:56,340
+Ihre Mutter?
+
+157
+00:15:56,340 --> 00:15:59,340
+Meine Mutter lebt jetzt.
+
+158
+00:15:59,340 --> 00:16:02,340
+Sie hatte einen Schlaganfall.
+
+159
+00:16:02,340 --> 00:16:05,340
+Sie lebt jetzt in Altenheim.
+
+160
+00:16:05,340 --> 00:16:08,340
+Tut mir leid zu hören.
+
+161
+00:16:08,340 --> 00:16:11,340
+Danke schön.
+
+162
+00:16:11,340 --> 00:16:14,340
+Haben Sie Geschwister?
+
+163
+00:16:14,340 --> 00:16:17,340
+Ich bin Einzelkind.
+
+164
+00:16:17,340 --> 00:16:25,920
+Sind Sie vollständig geimpft, Herr Simmermann?
+
+165
+00:16:25,920 --> 00:16:28,920
+Ja, ich bin vollständig geimpft.
+
+166
+00:16:28,920 --> 00:16:38,080
+Waren Sie in Lesterzeit im Ausland?
+
+167
+00:16:38,080 --> 00:16:52,080
+Nein, aber vor drei Monaten war ich in Frankreich.
+
+168
+00:16:52,080 --> 00:17:00,710
+Noch eine Frage über Ihre aktuellen Beschwerden.
+
+169
+00:17:00,710 --> 00:17:05,710
+Sie haben gesagt, dass diese Beschwerden krampfartig sind.
+
+170
+00:17:05,710 --> 00:17:08,710
+Ja, krampfartig und dumm.
+
+171
+00:17:08,710 --> 00:17:13,710
+Wie lange dauert es, wenn Sie Schmerzen haben?
+
+172
+00:17:13,710 --> 00:17:19,710
+Es gibt verschiedene Doktor.
+
+173
+00:17:19,710 --> 00:17:27,710
+Aber ich vermute ein oder zwei Tage.
+
+174
+00:17:27,710 --> 00:17:33,710
+Wie lange dauert es, wenn Sie gesund sind?
+
+175
+00:17:33,710 --> 00:17:39,710
+Ich habe gesagt, es gibt verschiedene Doktor.
+
+176
+00:17:39,710 --> 00:17:48,710
+Aber ich habe mindestens 15 Attacken in Monaten.
+
+177
+00:17:48,710 --> 00:17:51,710
+In Monaten, jeden Monat?
+
+178
+00:17:51,710 --> 00:17:58,620
+Ja, jeden Monat.
+
+179
+00:17:58,620 --> 00:18:01,620
+Deswegen keine Sorgen.
+
+180
+00:18:01,620 --> 00:18:04,620
+Wir sind für Sie da.
+
+181
+00:18:04,620 --> 00:18:07,620
+Wir tun alles für Sie, Herr Simmermann.
+
+182
+00:18:07,620 --> 00:18:10,620
+Ich habe alle wichtigen Fragen gestellt.
+
+183
+00:18:10,620 --> 00:18:13,620
+Möchten Sie noch etwas hinzufügen?
+
+184
+00:18:13,620 --> 00:18:21,620
+Ja, aber Doktor, ich habe gesagt, ich bin ein anderer Arzt gewesen.
+
+185
+00:18:21,620 --> 00:18:27,620
+Aber wir haben nicht genug Diagnose festgestellt.
+
+186
+00:18:27,620 --> 00:18:30,620
+Können Sie mir helfen, bitte?
+
+187
+00:18:30,620 --> 00:18:34,620
+Ja, wie gesagt, Herr Simmermann, wir sind für Sie da.
+
+188
+00:18:34,620 --> 00:18:36,620
+Wir tun alles für Sie.
+
+189
+00:18:36,620 --> 00:18:39,620
+Wir tun am besten für Sie.
+
+190
+00:18:39,620 --> 00:18:42,620
+Jetzt, das ist ein Amnesgespräch.
+
+191
+00:18:42,620 --> 00:18:47,620
+Danach werden wir körperliche Untersuchungen durchführen.
+
+192
+00:18:47,620 --> 00:18:56,620
+Dann werde ich Blut abnehmen, um die Labouruntersuchungen zu machen.
+
+193
+00:18:56,620 --> 00:19:02,620
+Dann werde ich die Diagnostik veranlassen.
+
+194
+00:19:02,620 --> 00:19:07,620
+Mit dem Ergebnis können wir mehr überlegen.
+
+195
+00:19:07,620 --> 00:19:18,620
+Aber Doktor, ich habe gesagt, dass ich 5 Kilo innerhalb von 2 Monaten abgenommen habe.
+
+196
+00:19:18,620 --> 00:19:23,620
+Ich habe viel Angst. Ich habe Krebs oder?
+
+197
+00:19:23,620 --> 00:19:30,620
+Bitte denken Sie nicht an das Schlimmste, Herr Simmermann.
+
+198
+00:19:30,620 --> 00:19:35,620
+Wie gesagt, es ist zu früh, etwas Genaues zu sagen.
+
+199
+00:19:35,620 --> 00:19:40,620
+Mit dem Ergebnis können wir entscheiden, was Sie haben.
+
+200
+00:19:40,620 --> 00:19:49,620
+Aber Krebs ist das Schlimmste. Bitte denken Sie am Anfang nicht an das Schlimmste.
+
+201
+00:19:49,620 --> 00:19:54,620
+Muss ich im Krankenhaus bleiben oder kann ich zu Hause gehen?
+
+202
+00:19:54,620 --> 00:20:00,620
+Jetzt werden wir die körperlichen Untersuchungen durchführen. Bleiben Sie bitte hier.
+
+203
+00:20:00,620 --> 00:20:04,620
+Wie lange dauert es, muss ich im Krankenhaus bleiben?
+
+204
+00:20:04,620 --> 00:20:09,620
+Nach dem Ergebnis können wir entscheiden.
+
+205
+00:20:09,620 --> 00:20:12,620
+Ich würde auf Sie, Doktor.
+
+206
+00:20:12,620 --> 00:20:17,620
+Bitte bleiben Sie hier. Vielen Dank für Ihr Verständnis.
+
+207
+00:20:17,620 --> 00:20:34,500
+Hat jemand einen neuen Patienten vorstellen, den ich eben in der Notaufnahme gesehen habe?
+
+208
+00:20:34,500 --> 00:20:36,500
+Hätten Sie kurz gezeigt?
+
+209
+00:20:36,500 --> 00:20:38,500
+Ja, natürlich. Bitte schön.
+
+210
+00:20:38,500 --> 00:20:47,500
+Es handelt sich um Thomas Simmermann, ein 67-jähriger Patient, geboren am 9.7.1958.
+
+211
+00:20:47,500 --> 00:20:53,500
+Er ist 1,64 Meter groß und 94 Kilogramm schwer.
+
+212
+00:20:53,500 --> 00:21:09,500
+Er stellte sich bei uns vor aufgrund seit zwei Jahren bestehender, kolikartiger, dumpfer Unterbauchschmerzen im ganzen Unterbau.
+
+213
+00:21:09,500 --> 00:21:24,500
+Er hatte eine Ausstrahlung. Er teilte mit, dass sich die Schmerzen seit sechs Monaten schlimmer geworden sind.
+
+214
+00:21:24,500 --> 00:21:35,970
+Er gab es an, diese Beschwerden zum ersten Mal zu haben.
+
+215
+00:21:35,970 --> 00:21:42,970
+Er berichtete, dass die Schmerzen nach dem Essen schlimmer geworden sind.
+
+216
+00:21:42,970 --> 00:21:48,970
+Das bedeutet, ernährungsabhängige Schmerzen.
+
+217
+00:21:48,970 --> 00:21:52,970
+Welchen Fachbegriff benutzt du hier?
+
+218
+00:21:52,970 --> 00:21:56,970
+Nach dem Essen, ich meine.
+
+219
+00:21:56,970 --> 00:22:01,970
+Nach dem Essen ernährungsabhängig.
+
+220
+00:22:01,970 --> 00:22:03,970
+Oder?
+
+221
+00:22:03,970 --> 00:22:07,970
+Postbrandial.
+
+222
+00:22:07,970 --> 00:22:19,400
+Er war vielmals wegen dieser Beschwerden beim Hausarzt.
+
+223
+00:22:19,400 --> 00:22:25,400
+Bisher war er noch nicht festgestellt.
+
+224
+00:22:25,400 --> 00:22:32,400
+Als Begleitsymptomen liegt der Meteorismus neu vor.
+
+225
+00:22:33,400 --> 00:22:40,400
+Er hatte gegen diese Schmerzen Uskopantabletten genommen.
+
+226
+00:22:40,400 --> 00:22:44,400
+Jedoch hat es ihm nicht geholfen.
+
+227
+00:22:44,400 --> 00:22:52,400
+Die Frage nach Reflux disnoe tachikadi dysphagy wurde verneint.
+
+228
+00:22:52,400 --> 00:23:09,930
+Die vegetative Anamnese ist unaufällig bis auf Inapetensgewichtabnahme innerhalb von zwei Monaten, 5 Kilogramm.
+
+229
+00:23:09,930 --> 00:23:16,930
+Und abwechselnde Obstipation und Diarrhohe.
+
+230
+00:23:16,930 --> 00:23:21,930
+Die Frage nach Blut im Stuhl wurde verneint.
+
+231
+00:23:22,930 --> 00:23:30,930
+So wie klagt er über Insomni wegen dieser Beschwerden.
+
+232
+00:23:30,930 --> 00:23:42,210
+Er leidet seit zehn Jahren an arterieller Hypertonie.
+
+233
+00:23:42,210 --> 00:23:50,210
+Er nimmt gegen arterieller Hypertonie ein Medikament.
+
+234
+00:23:50,210 --> 00:23:56,210
+Einmal täglich einnehmen.
+
+235
+00:23:56,210 --> 00:24:02,210
+Aber die Name des Medikaments ist nicht erinnerlich.
+
+236
+00:24:02,210 --> 00:24:07,210
+Er hatte vor vier Jahren Handwerkinfektion.
+
+237
+00:24:07,210 --> 00:24:12,210
+Er wurde bei ihm stationär behandelt.
+
+238
+00:24:12,210 --> 00:24:17,210
+Eine Behandlung wurde bei ihm durchgeführt.
+
+239
+00:24:17,210 --> 00:24:26,210
+Bei ihm wurde mit zehn Jahren eine Appendektomie durchgeführt.
+
+240
+00:24:26,210 --> 00:24:31,210
+Es sind keine Allergien oder Unverträglichkeiten bekannt.
+
+241
+00:24:31,210 --> 00:24:37,210
+Er rauche seit fünf Jahren zehn Zigaretten täglich.
+
+242
+00:24:37,210 --> 00:24:41,210
+2,5 Packages.
+
+243
+00:24:41,210 --> 00:24:45,210
+Er trinke ein bis zwei Gläser Sext.
+
+244
+00:24:45,210 --> 00:24:49,210
+Wochenendlich Drogenkonsum wurde verneint.
+
+245
+00:24:49,210 --> 00:24:51,210
+Er ist verheiratet.
+
+246
+00:24:51,210 --> 00:24:56,210
+Er lebt mit seiner Frau zusammen.
+
+247
+00:24:56,210 --> 00:25:01,210
+Er hat drei gesunde Kinder.
+
+248
+00:25:01,210 --> 00:25:07,210
+In der Familienanamnese fand er Apoplexie bei der Mutter.
+
+249
+00:25:07,210 --> 00:25:13,210
+Der Vater ist mit 69 Jahren an Bronchialkalcinom verstorben.
+
+250
+00:25:13,210 --> 00:25:16,210
+Er ist Einzelkind.
+
+251
+00:25:16,210 --> 00:25:18,210
+Er ist vollständig geimpft.
+
+252
+00:25:18,210 --> 00:25:22,210
+Die Reiseanamnese ist unauffällig.
+
+253
+00:25:22,210 --> 00:25:25,210
+Meine Verdachtstheatomäse lautet...
+
+254
+00:25:25,210 --> 00:25:27,210
+Wo lebt die Mutter?
+
+255
+00:25:27,210 --> 00:25:31,210
+Die Mutter lebt in einem Altenheim.
+
+256
+00:25:31,210 --> 00:25:40,210
+Meine Verdachtstheatomäse lautet auf Reisdarm-Syndrom.
+
+257
+00:25:40,210 --> 00:25:42,210
+Dafür schieb ich...
+
+258
+00:25:42,210 --> 00:25:49,210
+Er leidet seit zwei Jahren unter Bauchschmerzen.
+
+259
+00:25:49,210 --> 00:25:55,210
+Er war schon vielmals beim Hausarzt.
+
+260
+00:25:55,210 --> 00:26:06,210
+Er hat krampfartige Schmerzen und postperandiale Schmerzen.
+
+261
+00:26:07,210 --> 00:26:17,210
+Die Diagnostik der Vertikulus, Ulcus ventriculii und Magenkarsinom
+
+262
+00:26:17,210 --> 00:26:21,210
+kommen in Betracht.
+
+263
+00:26:21,210 --> 00:26:30,210
+Zur Diagnostik würde ich zunächst eine körperliche Untersuchung durchführen.
+
+264
+00:26:31,210 --> 00:26:37,210
+Reisdarm-Syndrom ist eigentlich eine Ausschlussdiagnose.
+
+265
+00:26:37,210 --> 00:26:43,210
+Wir müssen organische Pathologie ausschließen.
+
+266
+00:26:43,210 --> 00:26:50,210
+Bei der körperlichen Untersuchung würde ich zunächst die Vitalparameter erfassen.
+
+267
+00:26:50,210 --> 00:26:59,210
+Danach würde ich den Patienten inspezieren, palpieren und auskultieren.
+
+268
+00:26:59,210 --> 00:27:07,210
+Palpation ist im Bauchschmerzen wegweisend.
+
+269
+00:27:07,210 --> 00:27:16,210
+Ich achte auf Druckschmerzen, Abwehrspannung und Organomegali.
+
+270
+00:27:16,210 --> 00:27:41,210
+Danach würde ich Blut abnehmen, um Blutbild, Lebewerte, Entzündungswerte und CAA-Werte zu bestimmen.
+
+271
+00:27:41,210 --> 00:27:48,930
+Danach würde ich bildgebende Verfahren veranlassen.
+
+272
+00:27:48,930 --> 00:27:57,930
+Zunächst würde ich den Röntgen des Abdomens veranlassen.
+
+273
+00:27:57,930 --> 00:28:05,930
+Gegebenenfalls würde ich die Sonographie des Abdomens durchführen.
+
+274
+00:28:05,930 --> 00:28:10,930
+Der Patient ist 67 Jahre alt.
+
+275
+00:28:10,930 --> 00:28:15,930
+Wir sollten eine Koloskopie durchführen.
+
+276
+00:28:15,930 --> 00:28:23,980
+Gegebenenfalls sollten wir Ösefago-Duradinoskopie durchführen.
+
+277
+00:28:23,980 --> 00:28:34,980
+Sollte sich meine Verdachtsdiagnose bestätigen, würde ich den Patienten konservativ behandeln.
+
+278
+00:28:34,980 --> 00:28:42,980
+Ich würde Spasmolythetik, wie zum Beispiel Buskopan, verschreiben.
+
+279
+00:28:42,980 --> 00:28:48,980
+Ich würde eine Psychotherapie empfehlen.
+
+280
+00:28:48,980 --> 00:28:54,980
+Gegebenenfalls würde ich Paroxetin verschreiben.
+
+281
+00:28:54,980 --> 00:28:59,930
+Das war alles.
+
+282
+00:28:59,930 --> 00:29:07,930
+Wie würden Sie diesen Patienten behandeln? Stationär oder ambulant?
+
+283
+00:29:07,930 --> 00:29:17,930
+Ich würde stationär behandeln. Seit zwei Jahren hat sie vieles aus Asst besucht.
+
+284
+00:29:17,930 --> 00:29:23,780
+Bisher hatte sie keine Linderung.
+
+285
+00:29:23,780 --> 00:29:27,780
+Deswegen würde ich stationär behandeln.
+
+286
+00:29:27,780 --> 00:29:32,780
+Das ist eine soziale Indikation.
+
+287
+00:29:32,780 --> 00:29:47,780
+Sie haben gesagt, Sie würden einen Röntgen des Abdomens durchführen. Warum denken Sie so an?
+
+288
+00:29:47,780 --> 00:29:52,780
+Sie leiden an Bauchschmerzen.
+
+289
+00:29:52,780 --> 00:30:12,780
+In der Regel würden wir einen Röntgen des Baus durchführen, um eine mögliche Perforation oder Luft auszuschließen.
+
+290
+00:30:13,780 --> 00:30:21,780
+Also bei der Perforation können wir eine freie Luft verschweren.
+
+291
+00:30:21,780 --> 00:30:26,780
+Würden Sie eine Koloskopie durchführen?
+
+292
+00:30:26,780 --> 00:30:36,780
+Er ist 67 Jahre alt. Er leidet an Bauchschmerzen und Unterbauchschmerzen.
+
+293
+00:30:36,780 --> 00:30:40,780
+Ich würde unbedingt eine Koloskopie durchführen.
+
+294
+00:30:40,780 --> 00:30:43,780
+Können Sie die Koloskopie erklären?
+
+295
+00:30:43,780 --> 00:30:50,780
+Ja, die Koloskopie ist eine bildgebende Methode.
+
+296
+00:30:50,780 --> 00:31:02,780
+Mit der Koloskopie können wir Darm und Mastdarm beurteilen.
+
+297
+00:31:02,780 --> 00:31:12,780
+Mit Hilfe eines Schlauchs enthält das Schlauch eine Kamera und ein Licht.
+
+298
+00:31:12,780 --> 00:31:16,780
+Das ist ein flexibler Schlauch.
+
+299
+00:31:17,780 --> 00:31:26,780
+Wir führen das Schlauch durch den Durchachter ein.
+
+300
+00:31:26,780 --> 00:31:32,780
+Nach der Untersuchung sollte der Patient vorbereitet werden.
+
+301
+00:31:32,780 --> 00:31:38,780
+Er sollte drei Tage mit Flüssigkeit ernähren.
+
+302
+00:31:38,780 --> 00:31:46,780
+Nach dem letzten Tag sollte er nur Wasser trinken.
+
+303
+00:31:46,780 --> 00:31:51,780
+Er würde eine Abflussmittel nehmen.
+
+304
+00:31:51,780 --> 00:31:56,780
+Wir verschreiben diese Medikamente.
+
+305
+00:31:56,780 --> 00:32:01,780
+Es ist eine schmerzhafte Untersuchung.
+
+306
+00:32:01,780 --> 00:32:14,780
+Deswegen führen wir diese Untersuchung mit einer örtlichen Betäubung durch.
+
+307
+00:32:14,780 --> 00:32:23,610
+Nach der Untersuchung braucht der Patient eine Begleitung.
+
+308
+00:32:23,610 --> 00:32:31,610
+Kennen Sie chronische entzündliche Darmerkrankungen?
+
+309
+00:32:31,610 --> 00:32:37,610
+Ja, es gibt zwei verschiedene chronische entzündliche Darmerkrankungen.
+
+310
+00:32:37,610 --> 00:32:42,610
+Eine ist U. colitis, die andere ist Morbus Crohn.
+
+311
+00:32:42,610 --> 00:32:52,610
+Wir können mit der Koloskopie diese Krankheiten beurteilen.
+
+312
+00:32:52,610 --> 00:32:59,610
+Aber es gibt chronische entzündliche Erkrankungen.
+
+313
+00:32:59,610 --> 00:33:11,610
+Bei diesen Erkrankungen erwarten wir Fieber und mehr Schmerzen im Bauch.
+
+314
+00:33:11,610 --> 00:33:21,610
+Was sind die Unterschiede zwischen U. colitis und Colos?
+
+315
+00:33:21,610 --> 00:33:31,610
+Im Colitis ulcerosa sind nur die Dicken betroffen.
+
+316
+00:33:31,610 --> 00:33:43,610
+Bei Morbus Crohn können die ganzen Magen und Dagen betroffen werden.
+
+317
+00:33:43,610 --> 00:33:46,610
+Noch etwas?
+
+318
+00:33:46,610 --> 00:33:54,430
+Ja, noch etwas.
+
+319
+00:33:54,430 --> 00:34:01,430
+Jetzt erinnere ich mich nur an diese Informationen.
+
+320
+00:34:01,430 --> 00:34:13,430
+Was erwarten Sie bei einer Bauch-Utersonographie bei diesem Patienten?
+
+321
+00:34:13,430 --> 00:34:21,430
+Ich erwarte eine erhöhte Luftansammlung im Darm.
+
+322
+00:34:21,430 --> 00:34:28,430
+Und außer diesen Befundungen erwarte ich keine Pathologie.
+
+323
+00:34:28,430 --> 00:34:36,430
+Welche Risikofaktoren kennen Sie für eine Reizdarmsyndrom?
+
+324
+00:34:36,430 --> 00:34:45,430
+Stress im Leben oder beim Arbeiten ist der erste Faktor.
+
+325
+00:34:45,430 --> 00:34:48,430
+Hat der Patienten Stress?
+
+326
+00:34:48,430 --> 00:34:53,430
+Ja, er hat einmal gesagt, ich habe Stress.
+
+327
+00:34:53,430 --> 00:35:00,430
+Aber ich habe nicht nachgefragt bei der körperlichen Untersuchung.
+
+328
+00:35:00,430 --> 00:35:03,430
+Ich werde unbedingt fragen.
+
+329
+00:35:03,430 --> 00:35:11,430
+Und außer Stress hatte ich keine Risikofaktoren.
+
+330
+00:35:11,430 --> 00:35:17,430
+Weitliches Geschlecht ist auch ein Risikofaktor.
+
+331
+00:35:17,430 --> 00:35:20,430
+Aber unser Patient ist ein Männchen.
+
+332
+00:35:20,430 --> 00:35:22,430
+Genau.
+
+333
+00:35:22,430 --> 00:35:25,430
+Okay, gut. Das ist genug.
+
+334
+00:35:26,430 --> 00:35:37,080
+Herr Chefarzt, haben Sie noch andere Fragen?
+
+335
+00:35:37,080 --> 00:35:44,080
+Ich würde den Patienten vorstellen.
+
+336
+00:35:44,080 --> 00:35:47,080
+Haben Sie kurz Zeit für mich?
+
+337
+00:35:47,080 --> 00:35:49,080
+Bitte schön.
+
+338
+00:35:49,080 --> 00:35:53,080
+Es handelt sich um Thomas Zimmermann.
+
+339
+00:35:53,080 --> 00:36:02,080
+Er ist 67 Jahre alt, 94 Kilogramm schwer, 1,74 Meter groß.
+
+340
+00:36:02,080 --> 00:36:10,080
+Er stellte sich heute bei uns wegen seit zwei Jahren bestehender,
+
+341
+00:36:10,080 --> 00:36:17,080
+residiverender, diffusen Abdominalschmerzen ohne Ausstrahlung vor.
+
+342
+00:36:17,080 --> 00:36:24,080
+Der Patient hat die Schmerzen, Dumpfes und Kolikartik.
+
+343
+00:36:24,080 --> 00:36:34,080
+Er erwähnte, dass die Schmerzen seit sechs Monaten schlimmer geworden sind.
+
+344
+00:36:34,080 --> 00:36:39,080
+Der Patient war oft bei anderen Arztinnen.
+
+345
+00:36:39,080 --> 00:36:48,080
+Aber bei den Patienten wurde keine bestimmte Diagnose festgestellt.
+
+346
+00:36:48,080 --> 00:36:56,080
+Die Einnahme von Buscopan Tablet hat keine Verbesserung gebracht.
+
+347
+00:36:56,080 --> 00:37:05,080
+Außerdem gibt er an, dass die Schmerzen nach dem Essen aufgetreten sind.
+
+348
+00:37:05,080 --> 00:37:14,080
+Die Schmerzen gehen mit Metaurythmus, abwechselnder Diore und Obsipation, Neusea und Flatulenz einher.
+
+349
+00:37:14,080 --> 00:37:23,080
+Der Patient berichtet über eine Gewichtabnahme von fünf Kilogramm innerhalb von zwei Monaten.
+
+350
+00:37:23,080 --> 00:37:29,080
+Die Vegetative Anamnese ist ein Problem.
+
+351
+00:37:29,080 --> 00:37:37,080
+Die Anamnese ist unaufällig bis auf Beschwerde bedingt.
+
+352
+00:37:37,080 --> 00:37:42,080
+Inapetens und Insomnie.
+
+353
+00:37:42,080 --> 00:37:46,080
+Anvor Erkrankungen.
+
+354
+00:37:46,080 --> 00:37:49,080
+Gewichtabnahme?
+
+355
+00:37:49,080 --> 00:37:52,080
+Gewichtabnahme.
+
+356
+00:37:52,080 --> 00:37:57,080
+Nein, Gewichtabnahme oder Tsuname.
+
+357
+00:37:57,080 --> 00:38:01,080
+Gewichtabnahme ist ein Problem.
+
+358
+00:38:01,080 --> 00:38:04,080
+Die Anamnese ist unaufällig.
+
+359
+00:38:04,080 --> 00:38:09,080
+Der Patient hat einen Problem, dass er nicht viel essen möchte.
+
+360
+00:38:09,080 --> 00:38:15,080
+Deswegen habe ich fünf Kilogramm innerhalb von zwei Monaten abgenommen.
+
+361
+00:38:15,080 --> 00:38:19,080
+Ich habe ein Problem.
+
+362
+00:38:19,080 --> 00:38:22,080
+Was ist das Problem?
+
+363
+00:38:22,080 --> 00:38:25,080
+Nein, nein.
+
+364
+00:38:25,080 --> 00:38:33,080
+Der Patient hat seit zehn Jahren eine arterielle Hypertonie.
+
+365
+00:38:33,080 --> 00:38:37,080
+Bezüglich der Arterie.
+
+366
+00:38:37,080 --> 00:38:43,080
+Er nimmt dagegen ein Medikament täglich.
+
+367
+00:38:43,080 --> 00:38:52,080
+Aber der Name, der Wirkstoff und die Dosierung sollten geklärt werden.
+
+368
+00:38:53,080 --> 00:39:03,080
+Der Patient ist bei dem Patienten als Kind eine appendektomische Ductgefürt.
+
+369
+00:39:03,080 --> 00:39:14,080
+Er braucht seit zehn Jahren ein Zigaret, aber nicht ein Nischsicher.
+
+370
+00:39:14,080 --> 00:39:18,080
+Er trinkt gelegentlich ein Glas Sekt.
+
+371
+00:39:18,080 --> 00:39:23,080
+Und Drogenkonsum würde verneint.
+
+372
+00:39:23,080 --> 00:39:30,080
+Die Anamnese ist unaufällig.
+
+373
+00:39:30,080 --> 00:39:35,080
+In Bezug auf die Familienanamnese.
+
+374
+00:39:35,080 --> 00:39:39,080
+Die Anamnese ist unaufällig.
+
+375
+00:39:39,080 --> 00:39:43,080
+In Bezug auf die Familienanamnese.
+
+376
+00:39:43,080 --> 00:39:51,080
+Er teilt mit dem Vater, der 69 Jahre alt ist.
+
+377
+00:39:51,080 --> 00:39:56,080
+Er ist mit Bronschialkarzinom gestorben.
+
+378
+00:39:56,080 --> 00:40:01,080
+Die Mutter hat ein Apoplex.
+
+379
+00:40:01,080 --> 00:40:05,080
+Sie lebt in Altenheim.
+
+380
+00:40:05,080 --> 00:40:08,080
+Er ist Einzelkind.
+
+381
+00:40:08,080 --> 00:40:13,080
+Er ist verheiratet und lebt mit seiner Frau.
+
+382
+00:40:13,080 --> 00:40:16,080
+Sie hat drei Kinder.
+
+383
+00:40:16,080 --> 00:40:20,080
+Alle Kinder sind gesund.
+
+384
+00:40:20,080 --> 00:40:30,080
+Ich gehe von einem Verdacht auf Kolonirritable Syndrome aus.
+
+385
+00:40:30,080 --> 00:40:39,080
+Da der Patient dafür typische Symptome aufweist,
+
+386
+00:40:39,080 --> 00:40:46,080
+der Patient berichtet über Meteorismus,
+
+387
+00:40:46,080 --> 00:40:52,080
+aufwechselnde Diare und Obstipation.
+
+388
+00:40:52,080 --> 00:40:58,080
+Außerdem berichtet der Patient,
+
+389
+00:40:58,080 --> 00:41:05,080
+dass die Schmerzen ca. zwei Stunden nach dem Essen aufgetreten sind.
+
+390
+00:41:05,080 --> 00:41:12,080
+Und nach der Entlernung verbessert hat.
+
+391
+00:41:12,080 --> 00:41:19,080
+Der Patient hat viele lange Geschichten.
+
+392
+00:41:19,080 --> 00:41:26,080
+Das spricht für Irritable Colon Syndrome.
+
+393
+00:41:26,080 --> 00:41:34,080
+Als Differenzialdiagnose kommen auch Morbus Crohn,
+
+394
+00:41:34,080 --> 00:41:43,080
+Ulcerative Colitis und chronische Gastroenteritis in Betracht.
+
+395
+00:41:43,080 --> 00:41:48,080
+Sollte sich meine Verdacht Diagnose zu bestätigen,
+
+396
+00:41:48,080 --> 00:41:54,080
+würde ich den Patienten
+
+397
+00:41:54,080 --> 00:42:01,080
+die Wiedermatmete bewegen.
+
+398
+00:42:01,080 --> 00:42:07,080
+Dann würde ich den Patienten körperlich unterzuchen.
+
+399
+00:42:07,080 --> 00:42:11,080
+Dann würde ich darauf achten,
+
+400
+00:42:11,080 --> 00:42:17,080
+dass die Schmerzen abweichern.
+
+401
+00:42:17,080 --> 00:42:26,080
+Dann würde ich den Patienten die Bauchgeräusche auskürzen.
+
+402
+00:42:26,080 --> 00:42:34,080
+Dann würde ich die körperlichen Unterzuchen
+
+403
+00:42:34,080 --> 00:42:42,080
+und die Diagnose auf der Unfallstelle bewegen.
+
+404
+00:42:42,080 --> 00:42:49,080
+Dann würde ich die Blutbildgerinnungsparameter
+
+405
+00:42:49,080 --> 00:42:59,080
+der Lebewerte und der Nierenwerte bestimmen lassen.
+
+406
+00:43:00,080 --> 00:43:07,080
+Außerdem würde ich einen Stuhltest durchführen,
+
+407
+00:43:07,080 --> 00:43:14,080
+um mögliche andere Probleme auszuschließen.
+
+408
+00:43:14,080 --> 00:43:22,080
+Dann würde ich den Patienten die Abdomanzonographie durchführen,
+
+409
+00:43:22,080 --> 00:43:30,080
+um mögliche Probleme auszuschließen.
+
+410
+00:43:30,080 --> 00:43:37,080
+Dann würde ich die Abdomanzonographie durchführen,
+
+411
+00:43:37,080 --> 00:43:44,080
+um mögliche Probleme auszuschließen.
+
+412
+00:43:44,080 --> 00:43:51,080
+Dann würde ich die Blutbilderung durchführen,
+
+413
+00:43:51,080 --> 00:43:55,080
+um meine Verdachtdiagnose zu bestätigen.
+
+414
+00:43:55,080 --> 00:44:00,080
+Dann würde ich den Patienten stationär aufnehmen.
+
+415
+00:44:00,080 --> 00:44:07,080
+Zunächst würde ich den Patienten einen Venüsenzugang vorlegen.
+
+416
+00:44:07,080 --> 00:44:19,080
+Dann würde ich den Patienten die Physik und Antispasmologie verabreichen.
+
+417
+00:44:19,080 --> 00:44:25,080
+Zum Beispiel die Psikotherapie.
+
+418
+00:44:25,080 --> 00:44:33,080
+Dann würde ich den Patienten die Psychotherapie verabreichen.
+
+419
+00:44:33,080 --> 00:44:41,080
+Zum Beispiel die Gesprächstherapie oder die Hypnose.
+
+420
+00:44:41,080 --> 00:44:54,080
+Dann würde ich den Patienten die Stressverminderung verabreichen.
+
+421
+00:44:54,080 --> 00:45:08,080
+Dann würde ich den Patienten eine gastroenterologische Konsil anordnen,
+
+422
+00:45:08,080 --> 00:45:13,080
+um die Therapie des Patienten zu optimieren.
+
+423
+00:45:13,080 --> 00:45:20,080
+Wenn Sie mit dieser Vorgehensweise einverstanden sind,
+
+424
+00:45:21,080 --> 00:45:28,080
+werde ich mit den geplanten Untersuchungen fortfahren.
+
+425
+00:45:28,080 --> 00:45:35,080
+Herr Kollegen, wann ist eine Koloskopie bei Verdacht auf Reisderm-Syndrom in der See?
+
+426
+00:45:35,080 --> 00:45:42,080
+Ja, es ist nicht nötig für Reisderm-Syndrom.
+
+427
+00:45:42,080 --> 00:45:50,080
+Aber wenn ich andere Kolonprobleme ausschließe,
+
+428
+00:45:50,080 --> 00:45:57,080
+werde ich nach akut Behandlung eine Koloskopie planen.
+
+429
+00:45:57,080 --> 00:46:07,080
+Und über alte Physiker oder positive Familienanamnesen Koloskopien indizieren?
+
+430
+00:46:07,080 --> 00:46:13,080
+Sie haben recht, Herr Oberst. Der Patient hat keine Familienanamnese.
+
+431
+00:46:13,080 --> 00:46:22,080
+Aber der Patient hat gesagt, sie hat 5 kg Gewichtabnahme.
+
+432
+00:46:22,080 --> 00:46:32,080
+Und gegebenenfalls werde ich den Patienten nach akut Behandlung eine Koloskopie planen, Herr Oberst.
+
+433
+00:46:32,080 --> 00:46:36,080
+Können Sie uns Koloskopie aufklären?
+
+434
+00:46:36,080 --> 00:46:47,080
+Ja, Koloskopien sind eine Angriffe, die wir mit Kolonbehandlungen machen können.
+
+435
+00:46:47,080 --> 00:46:56,080
+Diese Untersuchungen helfen uns, die Erkrankungen wie Kolonkarcinoma,
+
+436
+00:46:56,080 --> 00:47:07,080
+Morbus Crohn, Ulcerative Colitis, Entzündungen oder Tumoren oder andere Veränderungen
+
+437
+00:47:07,080 --> 00:47:12,080
+frühzeitig zu erkennen.
+
+438
+00:47:12,080 --> 00:47:22,080
+Wenn wir bei der Untersuchung etwas Auffälliges finden,
+
+439
+00:47:22,080 --> 00:47:30,080
+können wir die Erkrankungen und die Erkrankungen für die Erkrankungen in der Labo einbringen.
+
+440
+00:47:30,080 --> 00:47:45,080
+Wenn wir mit der Kamera einstellen,
+
+441
+00:47:45,080 --> 00:47:53,080
+können wir die Erkrankungen für die Erkrankungen in der Labo einbringen.
+
+442
+00:47:53,080 --> 00:48:03,080
+Die Unter- und Vorderunterzüge müssen für den Patienten mindestens 12 Stunden nüchtern sein.
+
+443
+00:48:03,080 --> 00:48:20,080
+Wir empfehlen den Patienten, am Abend eine Apfelmutter mit viel Wasser zu trinken
+
+444
+00:48:20,080 --> 00:48:32,080
+und morgen eine Apfelmutter mit viel Wasser zu trinken, um die Diktar zu lernen.
+
+445
+00:48:32,080 --> 00:48:40,080
+Diese Untersuchungen sind unangenehme Untersuchungen.
+
+446
+00:48:40,080 --> 00:48:52,080
+Deswegen geben wir den Patienten eine Schlafmutter, damit sie während der Untersuchungen schlafen können.
+
+447
+00:48:52,080 --> 00:49:04,080
+Wir empfehlen, dass die Patienten eine Begleitperson mitbringen,
+
+448
+00:49:04,080 --> 00:49:14,080
+da sie nach der Untersuchung nach Hause bringen.
+
+449
+00:49:14,080 --> 00:49:34,080
+Es gibt bei der Untersuchung mögliche Komplikationen, wie Blutungen, Verletzungen oder Entzündungen.
+
+450
+00:49:34,080 --> 00:49:44,080
+Die Untersuchung dauert ca. eineinhalb oder eineinhalb Stunden.
+
+451
+00:49:44,080 --> 00:49:54,080
+Es gibt keine Kontrastmittel und die Untersuchung ist ungefährlich.
+
+452
+00:49:54,080 --> 00:50:09,080
+Nach ein paar Stunden der Untersuchung können die Patienten ihre Alltagwege und die Vorsitzenden
+
+453
+00:50:09,080 --> 00:50:31,080
+in manchen Fällen statt der anderen Untersuchungen, wie z.B. die CDD-Aptomen oder die Ultra-Charl-Untersuchungen, durchgeführt werden.
+
+454
+00:50:31,080 --> 00:50:38,030
+Aber abhängig vom Krankenbild.
+
+455
+00:50:38,030 --> 00:50:41,030
+Vielen Dank Herr Kollegen.
+
+456
+00:50:41,030 --> 00:50:43,030
+Danke schön, Herr Oberast.

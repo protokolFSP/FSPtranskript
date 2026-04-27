@@ -1,0 +1,1575 @@
+1
+00:00:01,710 --> 00:00:14,710
+Guten Tag, mein Name ist Blur. Ich bin der Arzt der Arztin auf der Station und würde gerne das erste Gespräch mit Ihnen führen. Ist das in Ordnung für Sie?
+
+2
+00:00:14,710 --> 00:00:16,710
+Ja Frau Doktor.
+
+3
+00:00:16,710 --> 00:00:25,710
+So erst werde ich ein paar Fragen zu Ihrer Person stellen, dann direkt Ihren aktuellen Beschwerden übergehen. Wie heißen Sie denn?
+
+4
+00:00:25,710 --> 00:00:51,710
+Ja Frau Doktor, mein Sohn ist krank. Leider hat er Fieber und gestern Abend hat er Stellfrust. Deswegen komme ich. Seit zwei Tagen hat er Fieber, aber ich weiß nicht, was ich machen soll.
+
+5
+00:00:52,710 --> 00:00:58,710
+Wie heißt Ihr Sohns Name?
+
+6
+00:00:58,710 --> 00:01:03,710
+Mein Sohn heißt Lukas Maier.
+
+7
+00:01:03,710 --> 00:01:06,710
+Lukas Maier.
+
+8
+00:01:06,710 --> 00:01:16,710
+Könnten Sie Ihren Sohn vor und nach Namen beschreiben?
+
+9
+00:01:17,710 --> 00:01:28,700
+Lukas L-U-C-K-A-S
+
+10
+00:01:28,700 --> 00:01:32,700
+Lukas
+
+11
+00:01:32,700 --> 00:01:35,700
+Lukas, ok.
+
+12
+00:01:35,700 --> 00:01:40,700
+Ja, Maier.
+
+13
+00:01:40,700 --> 00:01:45,700
+Ok, Maier. Herr Maier.
+
+14
+00:01:45,700 --> 00:01:53,700
+Ich bin Mutter, Frau Doktor. Mutter von Lukas, ja.
+
+15
+00:01:53,700 --> 00:01:58,700
+Frau Maier, wie alt ist Lukas?
+
+16
+00:01:58,700 --> 00:02:02,700
+Ja, Lukas ist zwei Jahre alt.
+
+17
+00:02:02,700 --> 00:02:03,700
+Zwei Jahre?
+
+18
+00:02:03,700 --> 00:02:05,700
+Ja, ja.
+
+19
+00:02:05,700 --> 00:02:09,700
+Ok, wie groß ist er?
+
+20
+00:02:09,700 --> 00:02:22,700
+Ja, an der nächsten Seite habe ich nicht gemessen, aber ein Meter, 15 cm denke ich.
+
+21
+00:02:22,700 --> 00:02:27,700
+Ok, und wie groß ist er?
+
+22
+00:02:27,700 --> 00:02:37,700
+Ja, 20 oder 70, von 17 bis 20 Kilogramm. Ich weiß nicht genau, 18 Kilogramm.
+
+23
+00:02:37,700 --> 00:02:41,700
+Ah, 20 oder 20 Kilogramm, ok.
+
+24
+00:02:41,700 --> 00:02:46,700
+Wie heißt Ihr Hausarzt oder Ihr Hausarztin?
+
+25
+00:02:46,700 --> 00:02:52,700
+Mein Hausarzt heißt Wolfgang Stein.
+
+26
+00:02:52,700 --> 00:02:55,700
+Wolfgang Stein.
+
+27
+00:02:55,700 --> 00:03:01,700
+Wolfgang Stein. Frau Wolfgang oder Herr?
+
+28
+00:03:01,700 --> 00:03:02,700
+Herr Stein, ja.
+
+29
+00:03:02,700 --> 00:03:05,700
+Herr Wolfgang Stein, ok.
+
+30
+00:03:05,700 --> 00:03:11,700
+Lukas hat Fieber und Schitterfrost seit zwei Tagen.
+
+31
+00:03:11,700 --> 00:03:13,700
+Ja, ja, Frau Doktor.
+
+32
+00:03:13,700 --> 00:03:21,700
+Haben Sie ihm körpertemperatur gemessen?
+
+33
+00:03:21,700 --> 00:03:27,700
+Ja, ja, heute Morgen war er 40 Centigrad.
+
+34
+00:03:27,700 --> 00:03:28,700
+Ok.
+
+35
+00:03:57,700 --> 00:04:18,700
+Er hat ein bisschen geholfen, aber er hat ständig Fieber und auch Schmerzen denke ich, weil er immer weint.
+
+36
+00:04:18,700 --> 00:04:35,300
+Seit zwei Tagen. Und er möchte nicht spielen, er möchte nicht essen. Er fühlt sich sehr müde, denke ich.
+
+37
+00:04:35,300 --> 00:04:37,300
+Ja, ich möchte das auch sagen.
+
+38
+00:04:37,300 --> 00:04:54,300
+Gibt es in Ihrer Familie, Jemen mit 50 und Fünf, oder Lukas ist einself?
+
+39
+00:04:54,300 --> 00:05:00,300
+Ja, Lukas ist einself. Kein ähnliches.
+
+40
+00:05:00,300 --> 00:05:01,300
+Ok.
+
+41
+00:05:01,300 --> 00:05:03,300
+Kein Fieber, ja.
+
+42
+00:05:03,300 --> 00:05:07,300
+Hat Lukas früher inhebe?
+
+43
+00:05:07,300 --> 00:05:23,300
+Ja, vor einem Jahr hat er auch eine Fieber und unsere Hausarzt hat uns gesagt, dass er Mandelentzündung hatte.
+
+44
+00:05:23,300 --> 00:05:30,300
+Aber jetzt sieht er immer ihre Ohren.
+
+45
+00:05:30,300 --> 00:05:36,300
+Ok. Ja, ich verstehe. Ohren.
+
+46
+00:05:36,300 --> 00:05:38,300
+Und er ist sehr schläfrig.
+
+47
+00:05:38,300 --> 00:05:40,300
+Sehr schläfrig.
+
+48
+00:05:40,300 --> 00:05:46,300
+Ja, sehr schläfrig und ich habe alle Kühlung gemacht, aber ...
+
+49
+00:05:46,300 --> 00:05:49,300
+Hat er Erbüllkeit auch?
+
+50
+00:05:49,300 --> 00:05:57,300
+Ja, zweimal erbrochen auch. Seit zwei Tagen zweimal erbrochen und er möchte nicht essen.
+
+51
+00:05:57,300 --> 00:06:01,300
+Wie sah das Erbrochen aus?
+
+52
+00:06:01,300 --> 00:06:12,300
+Ja, er hat vorher Milch getrunken und erbrochen war milchig, kann ich sagen.
+
+53
+00:06:12,300 --> 00:06:17,300
+Ok, ich verstehe.
+
+54
+00:06:17,300 --> 00:06:23,300
+Hat er Wasserlassen oder Stuhlgangprobleme?
+
+55
+00:06:23,300 --> 00:06:29,300
+Ich meine, hat er dir Durchfall?
+
+56
+00:06:29,300 --> 00:06:38,300
+Durchfall hat er nicht, aber er lässt Wasser sehr wenig heute besonders.
+
+57
+00:06:38,300 --> 00:06:47,300
+Er hat kein Wasser lassen, ich habe beobachtet, aber ich kann nicht sehen.
+
+58
+00:06:47,300 --> 00:06:50,300
+Ja, das kann ich nicht sehen.
+
+59
+00:06:50,300 --> 00:06:52,300
+Er hat sehr wenig Wasser.
+
+60
+00:06:52,300 --> 00:06:54,300
+Ok, das geht nicht sehr gut.
+
+61
+00:06:54,300 --> 00:07:06,580
+Ok, er schläft nicht gut auch, ich denke.
+
+62
+00:07:06,580 --> 00:07:12,580
+Ja, ja, ja. Seit zwei Tagen, besonders nachts, er weint immer und er schläft nicht gut.
+
+63
+00:07:12,580 --> 00:07:17,580
+Aber seit morgen, er möchte immer schlafen.
+
+64
+00:07:17,580 --> 00:07:28,580
+Ich möchte nicht spielen, er möchte nicht etwas essen und wenn ich etwas frage, er möchte nicht antworten.
+
+65
+00:07:28,580 --> 00:07:32,580
+Nur mit Kurzwörter, ja oder nein sagt er.
+
+66
+00:07:32,580 --> 00:07:45,580
+Und Augen sind immer zu und wenn ich etwas sage und er antwortet, dann schläft er nochmal.
+
+67
+00:07:45,580 --> 00:07:48,580
+Hat er Nachschweiß auch?
+
+68
+00:07:48,580 --> 00:07:53,580
+Gestern Abend auch, und gesittert.
+
+69
+00:07:53,580 --> 00:08:03,580
+In Lesse seit Lukas ab oder zu genommen?
+
+70
+00:08:03,580 --> 00:08:06,580
+Nein, ich frage nicht.
+
+71
+00:08:06,580 --> 00:08:10,580
+Vielleicht seit zwei Tagen, ein Kilo abgenommen, ich weiß nicht.
+
+72
+00:08:10,580 --> 00:08:12,580
+Ja, ich freu mich.
+
+73
+00:08:12,580 --> 00:08:23,950
+Haben Sie eine Hautveränderung bei Lukas bemerkt?
+
+74
+00:08:23,950 --> 00:08:26,950
+Nein, nein, habe ich nicht bemerkt.
+
+75
+00:08:26,950 --> 00:08:31,950
+Einige Rötungen oder Flecken?
+
+76
+00:08:31,950 --> 00:08:34,950
+Nein, nein, habe ich nicht bemerkt, Frau Doktor.
+
+77
+00:08:34,950 --> 00:08:46,330
+Hat Lukas irgendwelche chronischen Erkrankungen?
+
+78
+00:08:46,330 --> 00:08:57,330
+Nein, nein, hat er keine Erkrankungen, aber wenn er geboren ist, war er gelb.
+
+79
+00:08:57,330 --> 00:09:05,330
+Deswegen, seit fünf Tagen, sind wir zusammen im Krankenhaus geblieben.
+
+80
+00:09:05,330 --> 00:09:16,330
+Er hat Blutlichttherapie bekommen, wegen Gelbhaut.
+
+81
+00:09:16,330 --> 00:09:28,330
+Aber nach der Blutlichttherapie war er ganz normal und hat keine Probleme, Frau Doktor.
+
+82
+00:09:28,330 --> 00:09:33,330
+Hat er diese Therapie, wenn er geboren ist?
+
+83
+00:09:33,330 --> 00:09:36,330
+Ja, ja, ja, wenn er geboren ist.
+
+84
+00:09:36,330 --> 00:09:39,330
+Nach der Geburt, kann ich sagen.
+
+85
+00:09:39,330 --> 00:09:45,330
+Okay. Und er nimmt keine Medikamente?
+
+86
+00:09:45,330 --> 00:09:58,330
+Nein, nein, ich habe seit zwei Tagen zweimal Zepchen gegeben, aber ein bisschen geholfen.
+
+87
+00:09:58,330 --> 00:10:10,330
+Sein Fieber ist bis 38 gesunken, aber nach drei Stunden noch einmal erhöht.
+
+88
+00:10:10,330 --> 00:10:16,330
+Okay. Wurde er schon mal operiert?
+
+89
+00:10:16,330 --> 00:10:23,330
+Nein, nein, er wurde nicht operiert, Frau Doktor.
+
+90
+00:10:23,330 --> 00:10:40,330
+In Ihrer Zeit ist bei Ihnen ein bisschen Chronischen Erkrankungen bekannt?
+
+91
+00:10:40,330 --> 00:10:48,330
+Ja, ich habe zwei Zuckerkrankungen.
+
+92
+00:10:48,330 --> 00:10:56,330
+Und bei dem Vater?
+
+93
+00:10:56,330 --> 00:11:02,330
+Ja, Lukas Vater ist ganz gesund.
+
+94
+00:11:02,330 --> 00:11:13,330
+Lukas hat eine Schwester, sie ist sieben Jahre alt und sie ist ganz gesund.
+
+95
+00:11:13,330 --> 00:11:16,330
+Okay, sehr gut.
+
+96
+00:11:16,330 --> 00:11:20,330
+Aber er hat Allergie, Frau Doktor.
+
+97
+00:11:20,330 --> 00:11:22,330
+Er hat Allergie, okay.
+
+98
+00:11:22,330 --> 00:11:30,330
+Nein, nein, sie hat. Lukas Schwester hat Allergie gegen Katzenhare.
+
+99
+00:11:30,330 --> 00:11:42,330
+Manchmal nimmt sie Medikamente gegen Allergie.
+
+100
+00:11:42,330 --> 00:11:52,330
+Okay. Lukas hat irgendwelche Allergie?
+
+101
+00:11:52,330 --> 00:12:03,330
+Nein, Frau Doktor. Er trinkt Milch und er isst alles.
+
+102
+00:12:03,330 --> 00:12:11,330
+Okay, sehr gut. Es freut mich. Und ist Lukas vollständig geimpft?
+
+103
+00:12:11,330 --> 00:12:16,330
+Ja, ja. Wir haben alle Impfungen gehabt.
+
+104
+00:12:16,330 --> 00:12:23,330
+Okay, sehr gut. Waren Sie in letzter Zeit im Ausland?
+
+105
+00:12:23,330 --> 00:12:25,330
+Ausland?
+
+106
+00:12:25,330 --> 00:12:26,330
+Mit Lukas, ja.
+
+107
+00:12:26,330 --> 00:12:27,330
+Mit Lukas?
+
+108
+00:12:27,330 --> 00:12:28,330
+Ich meine.
+
+109
+00:12:28,330 --> 00:12:33,330
+Nein, nein, Frau Doktor. Wir sind immer in Deutschland.
+
+110
+00:12:33,330 --> 00:12:39,330
+Okay. Was machen Sie beruflich oder eher ärmer?
+
+111
+00:12:39,330 --> 00:12:44,330
+Ich bin Lehrerin, Frau Doktor.
+
+112
+00:12:44,330 --> 00:12:47,330
+Okay. Und?
+
+113
+00:12:47,330 --> 00:12:51,330
+Ich arbeite teilweise jetzt. Ich kümmere mich um Lukas.
+
+114
+00:12:51,330 --> 00:13:00,330
+Vormittag besucht Lukas Kita und Nachmittags kümmere ich mich um Lukas.
+
+115
+00:13:00,330 --> 00:13:10,330
+Okay. Wissen Sie, in der Kindergarten gibt es andere Kinder?
+
+116
+00:13:10,330 --> 00:13:20,330
+Ja, manchmal Kinder haben Fieber. Aber ich weiß nicht, ob ein Kind solche Beschwerden hat.
+
+117
+00:13:20,330 --> 00:13:28,640
+Okay. Raufen Sie oder rufen Sie Lukas' Vater?
+
+118
+00:13:28,640 --> 00:13:37,640
+Ja, ja. Lukas' Vater raucht. Ich rauche nicht, aber er raucht draußen, Frau Doktor. Zu Hause raucht er nicht.
+
+119
+00:13:37,640 --> 00:13:44,640
+Okay. Sehr gut. Ich gratuliere Sie. Und trinken Sie Alkohol?
+
+120
+00:13:44,640 --> 00:13:55,640
+Ab und zu, Frau Doktor. Ab und zu. Im Feiertag trinke ich ein Bier oder manchmal ein Glas Wein.
+
+121
+00:13:55,640 --> 00:14:01,640
+Und Ihr Vater, Lukas' Vater trinkt gelegentlich?
+
+122
+00:14:01,640 --> 00:14:07,640
+Ja, er trinkt gelegentlich auch. Wir trinken manchmal zusammen.
+
+123
+00:14:07,640 --> 00:14:12,640
+Hadten Sie jemals Drogen?
+
+124
+00:14:12,640 --> 00:14:15,110
+Drogen?
+
+125
+00:14:15,110 --> 00:14:19,110
+Drogen, ja. Gras.
+
+126
+00:14:19,110 --> 00:14:23,110
+Nein, niemals. Aber ich nicht gerne.
+
+127
+00:14:23,110 --> 00:14:25,110
+Treibest du regelmäßig Sport?
+
+128
+00:14:25,110 --> 00:14:33,110
+Ja, ja. Ich treibe regelmäßig Sport. Drei Mal pro Woche laufe ich. Einen Tag pro Woche schwimme ich.
+
+129
+00:14:33,110 --> 00:14:37,940
+Einen Tag schwimmen, okay.
+
+130
+00:14:37,940 --> 00:14:39,940
+Ich schwimme, ja.
+
+131
+00:14:39,940 --> 00:15:06,560
+Hat Lukas häufig kranken geworden?
+
+132
+00:15:06,560 --> 00:15:12,560
+Ja, nicht krank geworden. Die letzte Krankheit war letztes Jahr.
+
+133
+00:15:12,560 --> 00:15:14,560
+Letztes Jahr?
+
+134
+00:15:14,560 --> 00:15:27,560
+Er war letztes Jahr krank. Letztes Mal. Und das ist so weiter. Aber das ist sehr ständig. Was muss ich machen, Frau Doktor? Er hat jetzt auch Fieber.
+
+135
+00:15:27,560 --> 00:15:37,560
+Okay. Ich habe keine weiteren Fragen, Frau Meier. Jetzt werde ich Lukas' Körperchen untersuchen.
+
+136
+00:15:37,560 --> 00:15:53,560
+Dann werde ich einen Benösenzugang legen und ein Schmerzmittel und ein Fiebersenken verabreichen.
+
+137
+00:15:53,560 --> 00:16:11,500
+Und ich werde Lukas sehr engmischig überwachen.
+
+138
+00:16:11,500 --> 00:16:35,500
+Jetzt möchte ich alle Vitalparameter überwachen. Wenn er Zauberstoffsättigung braucht, gebe ich auch Zauberstoffsättigung.
+
+139
+00:16:35,500 --> 00:16:41,500
+Okay. Möchten Sie etwas üben?
+
+140
+00:16:41,500 --> 00:16:45,500
+Müssen wir im Krankenhaus bleiben?
+
+141
+00:16:45,500 --> 00:17:11,500
+Ja, jetzt müssen Sie im Krankenhaus bleiben. So müssen wir Lukas stabilisieren. Deshalb denke ich, dass wir Lukas stationär aufnehmen.
+
+142
+00:17:11,500 --> 00:17:19,500
+Aber ich werde diese Bewerberung mit meinem Oberarzt besprechen.
+
+143
+00:17:19,500 --> 00:17:37,500
+Sobald alle Ergebnisse erhalten, entscheiden wir, ob er im Krankenhaus bleibt. Bitte warten Sie hier und ich werde gleich kommen.
+
+144
+00:17:37,500 --> 00:17:51,500
+Frau Doktor, was vermuten Sie? Was hat Lukas? Wir hatten keine ähnlichen Beschwerden und ich habe Angst. Mein Sohn spricht nicht und er ist nicht. Was vermuten Sie?
+
+145
+00:17:51,500 --> 00:17:59,820
+Ist das eine ernste Situation?
+
+146
+00:17:59,820 --> 00:18:28,820
+Ja, ich habe eine Vermutung, dass es eine Ohrensündung gibt. Aber Lukas Allgemeinszustand ist nicht sehr gut. Deshalb müssen wir den Allgemeinszustand stabilisieren.
+
+147
+00:18:28,820 --> 00:18:40,820
+Dann werden wir schnell Fieber senken und Schmerztherapie beginnen.
+
+148
+00:18:40,820 --> 00:18:44,820
+Okay Frau Doktor. Ich warte auf Sie.
+
+149
+00:18:44,820 --> 00:18:57,820
+Eine Schwester Silve kümmert sich um Sie und ich werde gleich kommen.
+
+150
+00:18:57,820 --> 00:19:03,820
+Okay Frau Doktor. Ich bedanke mich darauf. Vielen Dank.
+
+151
+00:19:03,820 --> 00:19:06,820
+Aber ich hätte besser gesagt SS-Aktif.
+
+152
+00:19:06,820 --> 00:19:08,820
+2023
+
+153
+00:19:08,820 --> 00:19:10,820
+Erste?
+
+154
+00:19:10,820 --> 00:19:15,820
+2023
+
+155
+00:19:15,820 --> 00:19:21,820
+Erste, erste, 2023
+
+156
+00:19:21,820 --> 00:19:27,820
+Hat er auf irgendeine Körperregion gesagt?
+
+157
+00:19:27,820 --> 00:19:28,820
+Ich verstehe nicht.
+
+158
+00:19:28,820 --> 00:19:31,820
+Ohren oder Bauch?
+
+159
+00:19:31,820 --> 00:19:33,820
+Ich verstehe nicht.
+
+160
+00:19:33,820 --> 00:19:37,820
+Hat er auf irgendeine Körperregion gesagt?
+
+161
+00:19:37,820 --> 00:19:43,820
+Er sieht immer Ohren.
+
+162
+00:19:43,820 --> 00:19:47,820
+Welche Seite?
+
+163
+00:19:47,820 --> 00:19:49,820
+Beide.
+
+164
+00:19:49,820 --> 00:20:12,820
+Er sieht immer Ohren. Er ist sehr unruhig und reagiert aber seit heute Morgen reagiert er nicht. Er möchte immer schlafen. Deswegen komme ich sofort zu Ihnen.
+
+165
+00:20:12,820 --> 00:20:16,820
+Welche Sirup haben Sie ihm gegeben?
+
+166
+00:20:16,820 --> 00:20:21,820
+Ich habe keine Sirup gegeben. Ich habe nur Zäpchen gegeben.
+
+167
+00:20:21,820 --> 00:20:22,820
+Zäpchen.
+
+168
+00:20:22,820 --> 00:20:32,820
+Zwei Mal Zäpchen gegeben. Ich habe gekühlt, mit Kartwasser geduscht aber Fieber hat nicht gedunken.
+
+169
+00:20:33,820 --> 00:20:39,250
+Frau Maja.
+
+170
+00:20:39,250 --> 00:20:40,250
+Ja?
+
+171
+00:20:40,250 --> 00:20:49,250
+Sie sagte, dass ihr Sohn irgendwo Schmerzen hat.
+
+172
+00:20:49,250 --> 00:20:58,820
+Ja, ich weiß genau nicht. Aber er hat immer ihr Ohren gezogen.
+
+173
+00:20:58,820 --> 00:21:00,820
+Ohren.
+
+174
+00:21:00,820 --> 00:21:04,160
+Aufregen oder aufregen?
+
+175
+00:21:04,160 --> 00:21:13,560
+Haben Sie Husten?
+
+176
+00:21:13,560 --> 00:21:18,560
+Ja, er hat trockene Husten.
+
+177
+00:21:18,560 --> 00:21:26,380
+Hat er Husten? Haben Sie Atemnot?
+
+178
+00:21:26,380 --> 00:21:29,380
+Atemnot? Ich habe nicht bemerkt.
+
+179
+00:21:29,380 --> 00:21:34,380
+Hat er Atemnot?
+
+180
+00:21:34,380 --> 00:21:40,380
+Ich habe nicht bemerkt. Aber er sieht nicht gut aus. Er ist ein Doktor.
+
+181
+00:21:40,380 --> 00:21:42,380
+Okay.
+
+182
+00:21:42,380 --> 00:21:49,380
+Mitten Sie irgendwelche Medikamente regelmäßig ein?
+
+183
+00:21:49,380 --> 00:21:55,380
+Nein, nein. Nur habe ich heute und gestern Zäpchen gegeben.
+
+184
+00:21:55,380 --> 00:22:04,380
+Normalerweise nimmt er keine regelmäßigen Medikamente. Aber bis ein Jahr hat er Vitamin D regelmäßig eingenommen.
+
+185
+00:22:04,380 --> 00:22:17,620
+Okay. Alle wichtigen Fragen.
+
+186
+00:22:17,620 --> 00:22:27,620
+Guten Tag Herr Oberarzt. Ich möchte Ihnen einen neuen Patienten vorstellen. Haben Sie kurz Zeit für mich?
+
+187
+00:22:27,620 --> 00:22:29,620
+Ja bitte schön.
+
+188
+00:22:29,620 --> 00:22:46,620
+Der Patient heißt Lukas Mayer. Er ist zwei Jahre alt, mit 15 Kilo groß und ca. 20 Kilo schwer.
+
+189
+00:22:46,620 --> 00:23:16,700
+Lukas Mayer stellte sich heute bei uns mit der Begleitung seiner Mutter seit zwei Tagen mit 40 Grad Fieber und Schüttefrost.
+
+190
+00:23:16,700 --> 00:23:42,700
+Lukas berichtet über nächtliche Hypohydrose und Tremor.
+
+191
+00:23:42,700 --> 00:23:50,700
+Lukas berichtet oder seine Mutter?
+
+192
+00:23:50,700 --> 00:24:03,700
+Seine Mutter berichtet, dass Lukas nächtliche Hypohydrose und Tremor hat.
+
+193
+00:24:03,700 --> 00:24:18,700
+Lukas war in einem reduzierten Allgemeinszustand.
+
+194
+00:24:18,700 --> 00:24:40,700
+Seit gestern hat er nicht gegessen und getrunken. Er ist jetzt schlaflig.
+
+195
+00:24:40,700 --> 00:25:05,700
+Und der Mutter hat eine Schmerzen an dem Ohr von Lukas bemerkt.
+
+196
+00:25:05,700 --> 00:25:27,700
+Lukas hatte letztes Jahr eine Tonsillitis, aber alle Jahre war er gesund und niemand in der Familie hatte ähnliche Beschwerden.
+
+197
+00:25:27,700 --> 00:25:39,700
+Lukas hat keine Erkrankungen und nimmt keine Medikamente bis auf Vitamin D.
+
+198
+00:25:39,700 --> 00:25:57,700
+Aber Lukas hat eine geborene Ikterus.
+
+199
+00:25:57,700 --> 00:26:21,700
+Deshalb bleibt er im Krankenhaus und behandelt eine Fototherapie.
+
+200
+00:26:21,700 --> 00:26:33,700
+In der Familie wurde angegeben, dass seine Mutter die Diabetes Melutus II hat.
+
+201
+00:26:33,700 --> 00:26:49,700
+Sein Vater ist gesund und seine Schwester ist gesund, aber sie hat eine Haareallergie.
+
+202
+00:26:49,700 --> 00:27:07,300
+Lukas' Mutter arbeitet als Lehrerin.
+
+203
+00:27:07,300 --> 00:27:22,300
+Lukas hat eine Kindergarde bis Nachmittag.
+
+204
+00:27:22,300 --> 00:27:50,300
+Der Mutter hat keine Kinder mit 50 Beschwerden bemerkt.
+
+205
+00:27:50,300 --> 00:27:58,300
+Lukas ist vollständig geimpft und hat keine bekannten Allergen.
+
+206
+00:27:58,300 --> 00:28:10,300
+Die Familie war in Deutschland und die Reiseanalyse war unabhängig.
+
+207
+00:28:10,300 --> 00:28:19,810
+Die Mutter ist nicht Rauherin, aber der Vater ist Rauer.
+
+208
+00:29:21,120 --> 00:29:35,120
+Lukas hat eine Schmerzen im Ohr und Fieber, Emesis und Sterfluss.
+
+209
+00:29:35,120 --> 00:29:45,120
+Er hat eine Ohrentzündung und kann eine Otitis Media.
+
+210
+00:29:45,120 --> 00:30:08,660
+Die Mutter hat zweimal eine Schmerzen in der Fieber.
+
+211
+00:30:08,660 --> 00:30:26,660
+Die Einnahme von zweimal Schmerzen hat eine wenige Besserung gebracht.
+
+212
+00:30:56,660 --> 00:31:16,660
+Ich werde Lunge, Herz und Bauch auskiltieren.
+
+213
+00:31:16,660 --> 00:31:36,660
+Ich werde die Haut über die Hydratation beurteilen.
+
+214
+00:31:36,660 --> 00:31:46,660
+Ich werde Blut abnehmen.
+
+215
+00:31:46,660 --> 00:32:06,660
+Ich werde die Nackensteifigkeit beurteilen.
+
+216
+00:32:06,660 --> 00:32:20,260
+Welche Körpereinrichtungskonzentration kennen Sie?
+
+217
+00:32:20,260 --> 00:32:42,050
+Ich werde die Körnigzeichen beurteilen.
+
+218
+00:32:42,050 --> 00:32:58,050
+Lukas ist in einem reduzierten Allgemeinen Zustand.
+
+219
+00:32:58,050 --> 00:33:10,050
+Ich werde eine neurologische Untersuchung durchführen.
+
+220
+00:33:10,050 --> 00:33:22,320
+Welche Komplikationen erwarten Sie bei der Otitis Media?
+
+221
+00:33:22,320 --> 00:33:32,320
+Wir können Akusi zeigen.
+
+222
+00:33:32,320 --> 00:33:46,320
+Akusi ist eine wichtige Akusierung.
+
+223
+00:33:46,320 --> 00:33:54,320
+Die Entzündung kann wiederkehrende Entzündung.
+
+224
+00:33:54,320 --> 00:34:22,320
+Eine Orpherfellperforation kann aber auch Trommelfelsperforation sein.
+
+225
+00:34:22,320 --> 00:34:32,320
+Leidet er unter Husten?
+
+226
+00:34:32,320 --> 00:34:38,320
+Nein, ich habe ihn nicht gefragt.
+
+227
+00:34:38,320 --> 00:34:50,320
+Welche Komplikationen können wir erwarten?
+
+228
+00:34:50,320 --> 00:34:56,320
+Neumonie ist eine wichtige Komplikation.
+
+229
+00:34:56,320 --> 00:35:02,320
+Sie haben schon die körperliche Untersuchung durchgeführt?
+
+230
+00:35:02,320 --> 00:35:10,320
+Ich werde eine Blutlaboruntersuchung durchführen.
+
+231
+00:35:10,320 --> 00:35:22,320
+Ich werde eine Blutkörpereinrichtung durchführen.
+
+232
+00:35:22,320 --> 00:35:36,320
+Ich werde eine Ohr- und Mund- und Rachenuntersuchung durchführen.
+
+233
+00:35:36,320 --> 00:35:50,320
+Ich werde eine Rundkande des Thorax-Zweiebenen verlassen.
+
+234
+00:35:50,320 --> 00:36:02,850
+Um die Neupinomone auszuschließen.
+
+235
+00:36:02,850 --> 00:36:22,850
+Wenn ich unklar bin, würde ich eine Lumbarfunktion durchführen.
+
+236
+00:36:22,850 --> 00:36:32,850
+Dann die Therapiemöglichkeiten.
+
+237
+00:36:32,850 --> 00:36:42,850
+Sollte sich die Verdachtdiagnose bestätigen, schlage ich die folgende Therapie vor.
+
+238
+00:36:42,850 --> 00:36:48,850
+Zuerst würde ich Lukas stationär aufnehmen.
+
+239
+00:36:48,850 --> 00:36:58,850
+Ich werde die Vitalparameter überprüfen.
+
+240
+00:36:58,850 --> 00:37:06,850
+Ich werde einige Venösen legen.
+
+241
+00:37:06,850 --> 00:37:12,850
+Ich werde die Flüssigkeit ausreichen.
+
+242
+00:37:12,850 --> 00:37:24,850
+Ich werde die Antibiotik verabreichen.
+
+243
+00:37:24,850 --> 00:37:30,850
+Ich werde eine Antibiotik-Therapie beginnen.
+
+244
+00:37:30,850 --> 00:37:40,850
+Welche Antibiotik-Therapie würden Sie in der Tat bevorzugen?
+
+245
+00:37:40,850 --> 00:37:46,850
+Lukas hat keine bekannten Allergien.
+
+246
+00:37:46,850 --> 00:38:00,850
+Deshalb werde ich erst die Laktamantibiotik beginnen.
+
+247
+00:38:00,850 --> 00:38:13,180
+Was empfehlen Sie die Mutter von Lukas nach der Behandlung?
+
+248
+00:38:13,180 --> 00:38:20,780
+Lukas geht nach dem Kindergarten.
+
+249
+00:38:20,780 --> 00:38:28,780
+Deshalb kann er wieder.
+
+250
+00:38:28,780 --> 00:38:40,560
+Ich empfehle es.
+
+251
+00:38:40,560 --> 00:38:57,870
+Nach der Therapie sollte Lukas die Kontrolle geben.
+
+252
+00:38:57,870 --> 00:39:07,870
+Wenn nötig regelmäßige Besuch ist,
+
+253
+00:39:07,870 --> 00:39:17,870
+müssen sie die Schützen von Wasser schützen.
+
+254
+00:39:17,870 --> 00:39:25,870
+Ich glaube, es kann wichtig sein.
+
+255
+00:39:25,870 --> 00:39:33,870
+Sie haben gut gemacht.
+
+256
+00:39:33,870 --> 00:39:47,870
+Ich habe heute einen neuen Patienten aufgenommen.
+
+257
+00:39:47,870 --> 00:39:57,870
+Ich möchte ihn vorstellen.
+
+258
+00:39:57,870 --> 00:40:13,870
+Lukas ist zwei Jahre alt.
+
+259
+00:40:13,870 --> 00:40:25,870
+Er ist 17 Kilogramm schwer und 1,70 Meter groß.
+
+260
+00:40:25,870 --> 00:40:33,870
+Seit zwei Tagen war er bei uns.
+
+261
+00:40:33,870 --> 00:40:41,870
+Er wurde von seiner Mutter ins Krankenhaus gebracht.
+
+262
+00:40:41,870 --> 00:40:59,870
+Die Mutter erwähnt, dass ihr Sohn weinte und sich oft am Ohr gezogen hat.
+
+263
+00:40:59,870 --> 00:41:09,870
+Die Einnahme von ein Zabchen hat keine Verbesserung gebracht.
+
+264
+00:41:09,870 --> 00:41:19,870
+Die Fieber wurde 40 Centigrad gemessen.
+
+265
+00:41:19,870 --> 00:41:29,870
+Die Mutter will nicht essen und trinken.
+
+266
+00:41:29,870 --> 00:41:39,870
+Die Anliegen der Beschwerden im Umgebung des Kindes wurden verneint.
+
+267
+00:41:39,870 --> 00:41:51,870
+Die Vegetative-Anamnese ist unaufällig bis auf Schlafstörungen wegen der Fieber.
+
+268
+00:41:51,870 --> 00:42:03,870
+An Vorerkrankungen sind keine Vorerkrankungen bekannt.
+
+269
+00:42:03,870 --> 00:42:13,870
+Die Frage nach Rauchen, Alkoholkonsum und Drogen wurden verneint.
+
+270
+00:42:13,870 --> 00:42:25,180
+Er ist ein sehr guter Mensch.
+
+271
+00:42:25,180 --> 00:42:46,720
+Er ist in Ritagin.
+
+272
+00:42:46,720 --> 00:42:56,720
+Er ist ein sehr guter Mensch.
+
+273
+00:42:56,720 --> 00:43:06,720
+Er ist ein sehr guter Mensch.
+
+274
+00:43:06,720 --> 00:43:28,720
+Er hat sich über die Schlefflichkeit der Mutter erwähnt.
+
+275
+00:43:28,720 --> 00:43:38,720
+Er ist ein sehr guter Mensch.
+
+276
+00:43:38,720 --> 00:43:48,720
+Er ist ein sehr guter Mensch.
+
+277
+00:43:48,720 --> 00:43:58,720
+Er ist ein sehr guter Mensch.
+
+278
+00:44:18,720 --> 00:44:28,720
+Er ist ein sehr guter Mensch.
+
+279
+00:44:28,720 --> 00:44:38,720
+Er ist ein sehr guter Mensch.
+
+280
+00:44:38,720 --> 00:44:48,720
+Er ist ein sehr guter Mensch.
+
+281
+00:44:48,720 --> 00:44:58,720
+Er ist ein sehr guter Mensch.
+
+282
+00:44:58,720 --> 00:45:08,720
+Er ist ein sehr guter Mensch.
+
+283
+00:45:08,720 --> 00:45:18,720
+Er ist ein sehr guter Mensch.
+
+284
+00:45:18,720 --> 00:45:28,720
+Er ist ein sehr guter Mensch.
+
+285
+00:45:28,720 --> 00:45:38,720
+Er ist ein sehr guter Mensch.
+
+286
+00:45:38,720 --> 00:45:48,720
+Er ist ein sehr guter Mensch.
+
+287
+00:45:48,720 --> 00:45:58,720
+Er ist ein sehr guter Mensch.
+
+288
+00:45:58,720 --> 00:46:08,720
+Er ist ein sehr guter Mensch.
+
+289
+00:46:08,720 --> 00:46:18,720
+Er ist ein sehr guter Mensch.
+
+290
+00:46:18,720 --> 00:46:28,720
+Er ist ein sehr guter Mensch.
+
+291
+00:46:28,720 --> 00:46:38,720
+Er ist ein sehr guter Mensch.
+
+292
+00:46:38,720 --> 00:46:48,720
+Er ist ein sehr guter Mensch.
+
+293
+00:46:48,720 --> 00:46:58,720
+Er ist ein sehr guter Mensch.
+
+294
+00:46:58,720 --> 00:47:10,030
+Er ist ein sehr guter Mensch.
+
+295
+00:47:10,030 --> 00:47:20,030
+Er ist ein sehr guter Mensch.
+
+296
+00:47:20,030 --> 00:47:30,030
+Er ist ein sehr guter Mensch.
+
+297
+00:47:30,030 --> 00:47:40,030
+Er ist ein sehr guter Mensch.
+
+298
+00:47:40,030 --> 00:47:50,030
+Er ist ein sehr guter Mensch.
+
+299
+00:47:50,030 --> 00:48:00,030
+Er ist ein sehr guter Mensch.
+
+300
+00:48:00,030 --> 00:48:10,030
+Er ist ein sehr guter Mensch.
+
+301
+00:48:10,030 --> 00:48:20,030
+Er ist ein sehr guter Mensch.
+
+302
+00:48:20,030 --> 00:48:30,030
+Er ist ein sehr guter Mensch.
+
+303
+00:48:30,030 --> 00:48:40,030
+Er ist ein sehr guter Mensch.
+
+304
+00:48:40,030 --> 00:48:50,030
+Er ist ein sehr guter Mensch.
+
+305
+00:48:50,030 --> 00:49:00,030
+Er ist ein sehr guter Mensch.
+
+306
+00:49:00,030 --> 00:49:10,030
+Er ist ein sehr guter Mensch.
+
+307
+00:49:10,030 --> 00:49:20,030
+Er ist ein sehr guter Mensch.
+
+308
+00:49:20,030 --> 00:49:30,030
+Er ist ein sehr guter Mensch.
+
+309
+00:49:30,030 --> 00:49:40,030
+Er ist ein sehr guter Mensch.
+
+310
+00:49:40,030 --> 00:49:50,030
+Ich möchte zuerst zwei Ebenen ...
+
+311
+00:49:50,030 --> 00:50:00,030
+Ich möchte zuerst zwei Ebenen ...
+
+312
+00:50:00,030 --> 00:50:10,030
+Ich möchte zuerst zwei Ebenen ...
+
+313
+00:50:10,030 --> 00:50:21,500
+Ich möchte zuerst zwei Ebenen ...
+
+314
+00:50:21,500 --> 00:50:27,500
+Würden Sie in diesem Fall eine Behandlung oder Therapie?
+
+315
+00:50:27,500 --> 00:50:31,500
+Würden Sie in diesem Fall eine Behandlung oder Therapie?
+
+316
+00:50:31,500 --> 00:50:33,500
+Welche Therapie führen Sie durch?
+
+317
+00:50:33,500 --> 00:50:37,500
+Welche Therapie führen Sie durch?
+
+318
+00:50:37,500 --> 00:50:45,500
+Ich würde die Therapie folgende Maßnahmen vorschlagen.
+
+319
+00:50:45,500 --> 00:50:51,500
+Ich würde die Therapie folgende Maßnahmen vorschlagen.
+
+320
+00:50:51,500 --> 00:51:01,500
+Ich würde die Therapie folgende Maßnahmen vorschlagen.
+
+321
+00:51:01,500 --> 00:51:11,090
+Ich würde die Therapie folgende Maßnahmen vorschlagen.
+
+322
+00:51:11,090 --> 00:51:18,090
+Sind es andere Möglichkeiten für die Antipiratik-Therapie?
+
+323
+00:51:20,090 --> 00:51:31,090
+Ja, es könnte sein, dass wir Cold Compress benutzen.
+
+324
+00:51:33,090 --> 00:51:38,090
+Was empfehlen Sie nach der Behandlung der Mutter des Patenten?
+
+325
+00:51:38,090 --> 00:51:49,090
+Ja, es könnte sein, dass eine Pneumonie vorliegt nach der Behandlung.
+
+326
+00:51:50,090 --> 00:52:03,980
+Und wenn der Patient Husten hat, wird der Patient im Krankenhaus geblieben.
+
+327
+00:52:03,980 --> 00:52:21,980
+Ich habe keine Ahnung. Ich habe nicht viel Erfahrung über diesen Fall. Nach der Prüfung werde ich nachschlagen.
+
+328
+00:52:21,980 --> 00:52:39,850
+Okay, Herr Kollegen, wie können wir die Temperatur des Körpers messen? Welche Methode kennen Sie?
+
+329
+00:52:39,850 --> 00:52:50,850
+Ich kenne drei Methoden. Axel, Hölle, Mund und Aftar.
+
+330
+00:52:51,850 --> 00:52:55,850
+Ist das richtig oder falsch, Herr Wurst?
+
+331
+00:52:55,850 --> 00:53:05,850
+Jetzt gibt es Infrared Thermometer und Traditionelle Thermometer.
+
+332
+00:53:06,850 --> 00:53:18,850
+Wir benutzen Infrared Thermometer. Die Thermometer brauchen keinen Kontakt.
+
+333
+00:53:18,850 --> 00:53:26,850
+Nach der Corona-Krise nutzen wir sie sehr oft.
+
+334
+00:53:27,850 --> 00:53:37,850
+Ja, Herr Wurst, ich bin Thermatologe und habe keine Erfahrung über das Thema Fieber.
+
+335
+00:53:38,850 --> 00:53:40,850
+Vielen Dank, Herr Kollegen.
+
+336
+00:53:40,850 --> 00:53:55,220
+Herr Wurst, ich würde Ihnen gerne einen neuen Patienten vorstellen, den ich eben in der Notaufnahme gesehen habe.
+
+337
+00:53:55,220 --> 00:53:57,220
+Ja, bitte.
+
+338
+00:53:58,220 --> 00:54:05,220
+Es geht um Lukas Meyer, ein zweijähriger Patient, geboren am 01.01.2023.
+
+339
+00:54:06,220 --> 00:54:15,220
+Er ist 1,50 Meter groß und 18 Kilogramm schwer. Er wurde in Begleitung seiner Mutter gebracht.
+
+340
+00:54:16,220 --> 00:54:32,220
+Er stellte sich bei uns vor aufgrund seit zwei Tagen bestehender Prognose Fieber, 40 Centigrad, Schüttelfrost sowie Fatigue.
+
+341
+00:54:32,220 --> 00:54:49,220
+Seine Mutter berichtet, dass er dagegen Säfchen genommen hat.
+
+342
+00:54:50,220 --> 00:55:01,220
+Seine Mutter hatte ihm Kühlung durchgeführt, aber die beiden haben kaum geholfen.
+
+343
+00:55:02,220 --> 00:55:09,220
+Er hatte vor einem Jahr ähnliche Beschwerden.
+
+344
+00:55:10,220 --> 00:55:26,220
+Darüber hinaus berichtete seine Mutter, dass er seine Ohren gezeigt hat.
+
+345
+00:55:26,220 --> 00:55:41,220
+Die Frage nach diesem Pneum wurde verneint. Er hat über trockene Husten erklärt.
+
+346
+00:55:41,220 --> 00:56:06,220
+In der vegetativen Anamnese ist es unaufällig, bis auf Neusea, zweimal Emesis und Insomnie wegen des Fiebers.
+
+347
+00:56:06,220 --> 00:56:11,220
+Er hatte an Vorerkrankungen physiologische Begriffe.
+
+348
+00:56:12,220 --> 00:56:17,220
+Fieber ist Vegetative Anamnese oder?
+
+349
+00:56:18,220 --> 00:56:23,220
+Nein, das ist Hauptbeschwerde. Sie haben recht.
+
+350
+00:56:24,220 --> 00:56:26,220
+Auch Vegetative Anamnese?
+
+351
+00:56:27,220 --> 00:56:35,220
+Ja, auch Vegetative Anamnese. Aber in diesem Fall auch Hauptbeschwerde als auch Vegetative Anamnese.
+
+352
+00:56:36,220 --> 00:56:49,220
+An Vorerkrankungen hatte er physiologische Ikterus. Er wurde mit der Phototherapie behandelt.
+
+353
+00:56:50,220 --> 00:57:00,220
+Er wurde noch nie operiert. Allergien und Verträglichkeiten sind keiner bekannt.
+
+354
+00:57:01,220 --> 00:57:09,220
+In der Familienanamnese war Diabetes bei der Mutter, Diabetes mellitus.
+
+355
+00:57:10,220 --> 00:57:18,220
+Bei dem Vater ist es gesund, bei der Schwester ist es auch gesund.
+
+356
+00:57:19,220 --> 00:57:23,220
+Er ist vollständig geimpft. Reiseanamnese ist unaufällig.
+
+357
+00:57:24,220 --> 00:57:41,220
+Meine Verdacht Diagnose lautet auf Otitis media. Dafür schiebt es Fieber, Fatigue, Fatigue und er habe seine Ohren gezeigt.
+
+358
+00:57:41,220 --> 00:57:53,220
+Die Differentialdiagnostik kommt von Tonsillitis Phenomone meningitis.
+
+359
+00:57:54,220 --> 00:58:03,220
+Zur Diagnostik würde ich zunächst eine körperliche Untersuchung bei den Patienten durchführen.
+
+360
+00:58:04,220 --> 00:58:10,220
+Im Rahmen der körperlichen Untersuchung würde ich zuerst die Vitalparameter erfassen.
+
+361
+00:58:11,220 --> 00:58:22,940
+Unter anderem Fieber, Atemfrequenz, Herzfrequenz und Blutdruck.
+
+362
+00:58:23,940 --> 00:58:27,940
+Aber gegebenenfalls brauchen wir in diesem Fall nicht.
+
+363
+00:58:28,940 --> 00:58:33,940
+Sauerstoffstätigung? Ja, Sauerstoffstätigung mit Pulsoxymetrie.
+
+364
+00:58:33,940 --> 00:58:44,940
+Danach würde ich den Patienten inspezieren, palteren und auskultieren.
+
+365
+00:58:45,940 --> 00:58:53,940
+In diesem Fall ist die otoskopische Untersuchung entscheidend.
+
+366
+00:58:53,940 --> 00:59:06,940
+Wir können mit Hilfe des Otoskopes die Membranus tympanica beurteilen.
+
+367
+00:59:07,940 --> 00:59:14,940
+Ich erwarte bei den Patienten Rötung im Membranus tympanica.
+
+368
+00:59:14,940 --> 00:59:32,290
+Bei der Auskultation um eine Phenomone auszuschließen, mache ich eine Auskultation.
+
+369
+00:59:32,290 --> 00:59:44,290
+Zu weiteren Diagnostiken würde ich Blut abnehmen, um Blutbild-CRP-PCG-Werte zu bestimmen.
+
+370
+00:59:45,290 --> 00:59:55,290
+Bei der Laboruntersuchung würde ich auch eine Urinuntersuchung durchführen.
+
+371
+00:59:55,290 --> 01:00:07,290
+Seine Mutter hat gesagt, dass sie bis heute nicht in die Toilette gegangen ist.
+
+372
+01:00:08,290 --> 01:00:22,670
+Gegebenenfalls würde ich die Röntgen-Torax und Röntgen-Schadel durchführen.
+
+373
+01:00:22,670 --> 01:00:34,670
+Sollte sich der Verdacht auf eine Otitis media bestätigen, würde ich die therapeutischen Maßnahmen empfehlen.
+
+374
+01:00:34,670 --> 01:00:58,950
+Antipirätische und analgetische Mittel, Kühlung und Antibiotikum, unter anderem Amoxicillin oder Penicillin.
+
+375
+01:00:58,950 --> 01:01:08,830
+Wenn er keine Allergen hat, dann ist das alles.
+
+376
+01:01:09,830 --> 01:01:14,830
+Würdest du eine Neurologische Untersuchung durchführen?
+
+377
+01:01:14,830 --> 01:01:24,830
+Um eine Meningitis auszuschließen, würde ich eine Neurologische Untersuchung durchführen.
+
+378
+01:01:25,830 --> 01:01:35,830
+Dabei würde ich Motorik, Sensibilität und Reflex überführen.
+
+379
+01:01:35,830 --> 01:01:45,830
+Um eine Meningitis auszuschließen, würde ich insbesondere Grundschutzgezeichen und Kernsichtzeichen überprüfen.
+
+380
+01:01:46,830 --> 01:01:55,170
+Wie können Sie Meningitis auszuschließen, außer körperlicher Untersuchung?
+
+381
+01:01:56,170 --> 01:02:05,170
+Außer körperlicher Untersuchung würde ich Lombe-Ponktion veranlassen oder durchführen.
+
+382
+01:02:06,170 --> 01:02:10,170
+Können Sie uns Lombe-Ponktion aufklären?
+
+383
+01:02:11,170 --> 01:02:20,990
+Lombe-Ponktion ist ein...
+
+384
+01:02:23,530 --> 01:02:28,870
+Ich möchte nächstes Mal aufklären.
+
+385
+01:02:29,870 --> 01:02:34,870
+Ja, ich möchte nächstes Mal. Ich möchte nicht nächstes Mal.
+
+386
+01:02:34,870 --> 01:02:42,870
+Okay. Wie können Sie in diesem Fall Pneumonie auslösen?
+
+387
+01:02:43,870 --> 01:03:00,870
+Um eine Pneumonie auszuschließen, würde ich den Patienten auskultieren und eine Röntgen-Torax veranlassen.
+
+388
+01:03:04,720 --> 01:03:06,720
+Wie können Sie Pneumonie behandeln?
+
+389
+01:03:09,610 --> 01:03:28,610
+Wenn er Pneumonie hat, würde ich ihn stationär aufnehmen und zuerst einen Venouszugang legen und würde ich Antibiotik begonnen.
+
+390
+01:03:29,610 --> 01:03:32,340
+Und?
+
+391
+01:03:33,340 --> 01:03:37,060
+Und Antibiotik.
+
+392
+01:03:38,060 --> 01:03:41,060
+Würde sich im Gesamtfall Sauerstoff...
+
+393
+01:03:41,060 --> 01:03:46,060
+Ja, gegebenenfalls würde ich Sauerstoffmask geben.
+
+394
+01:03:50,580 --> 01:03:52,580
+Okay. Vielen Dank, Herr Kollegen.

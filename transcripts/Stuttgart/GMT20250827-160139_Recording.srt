@@ -1,0 +1,2215 @@
+1
+00:00:00,000 --> 00:00:09,000
+Ich bin heute der zuständige Ast für Sie und werde das erste Gespräch mit Ihnen führen.
+
+2
+00:00:09,000 --> 00:00:16,000
+Erstmal benötige ich ein paar persönliche Daten von Ihnen und dann sprechen wir über Ihre aktuellen Beschwerden.
+
+3
+00:00:16,000 --> 00:00:22,000
+Was Sie Fragen haben, suggen Sie bitte nicht mich zu unterbrechen. Wie heißen Sie denn?
+
+4
+00:00:23,000 --> 00:00:29,300
+Ich bin Edil Traut Böhm.
+
+5
+00:00:45,320 --> 00:00:49,320
+Könnten Sie bitte den Vornamen langsam beschreiben?
+
+6
+00:00:57,320 --> 00:00:59,320
+Wie alt sind Sie Herr Böhm?
+
+7
+00:01:01,320 --> 00:01:05,320
+Frau Böhm. Ich bin 51 Jahre alt.
+
+8
+00:01:07,320 --> 00:01:09,320
+Wie viel ist Ihr Geburtstag?
+
+9
+00:01:29,110 --> 00:01:32,110
+Wie groß sind Sie Frau Böhm?
+
+10
+00:01:34,110 --> 00:01:39,110
+Ich bin 1,56 Meter.
+
+11
+00:01:41,360 --> 00:01:43,360
+Wie viel ist Ihr Gewicht?
+
+12
+00:01:44,360 --> 00:01:47,360
+Ich bin 71 Kilogramm.
+
+13
+00:01:51,020 --> 00:01:53,020
+Haben Sie einen Hausarzt oder eine Hausärztin?
+
+14
+00:01:53,020 --> 00:01:58,020
+Herr Müller. Mein Hausarzt heißt Herr Müller.
+
+15
+00:01:59,020 --> 00:02:03,020
+Was fühlt Sie heute zu uns Frau Böhm? Welche Beschwerden haben Sie?
+
+16
+00:02:04,020 --> 00:02:16,020
+Herr Doktor. Ich fühle mich sehr schlecht. Seit 45 Minuten habe ich sehr starke Schmerzen.
+
+17
+00:02:16,020 --> 00:02:18,020
+Und ich habe auch Atemnot.
+
+18
+00:02:18,020 --> 00:02:27,330
+Mein Enkel hatte heute Morgen einen epileptischen Anfall.
+
+19
+00:02:27,330 --> 00:02:35,330
+Meine Tochter hat mich angerufen und hat mir eine schlechte Bescheidung gesagt.
+
+20
+00:02:35,330 --> 00:02:42,330
+Deswegen hatte ich Angst und hatte sehr starke Schmerzen im Brust.
+
+21
+00:02:42,330 --> 00:02:45,330
+Wo genau tut es Ihnen weh?
+
+22
+00:02:45,330 --> 00:02:47,330
+Ganz im Brust.
+
+23
+00:02:47,330 --> 00:02:50,330
+Ganz im Brust? In der Mitte?
+
+24
+00:02:50,330 --> 00:02:53,330
+In der Mitte. Strahlen Sie diese Schmerzen aus?
+
+25
+00:02:58,330 --> 00:03:05,330
+Ja. Ich fühle mich mit der linken Schulter und mit der Kiefer.
+
+26
+00:03:05,330 --> 00:03:09,330
+Das ist sehr stark Herr Doktor. Ich kann nicht gut atmen.
+
+27
+00:03:10,330 --> 00:03:13,330
+Können Sie diese Schmerzen genau beschreiben?
+
+28
+00:03:14,330 --> 00:03:21,330
+Ja, ja. Drücken wie ein Mensch auf dem Brust.
+
+29
+00:03:22,330 --> 00:03:27,330
+Verstehe Frau Böhm. Jetzt muss ich das erste Gespräch unterbrechen.
+
+30
+00:03:27,330 --> 00:03:34,330
+Ich werde einen EKG schreiben und ich werde Blut abnehmen.
+
+31
+00:03:34,330 --> 00:03:39,330
+Und hier gibt es eine Sauerstoffmaske. Bitte geben Sie.
+
+32
+00:03:40,330 --> 00:03:45,330
+Ist das eine ernste Situation oder warum machen Sie das Herr Doktor?
+
+33
+00:03:45,330 --> 00:03:48,330
+Es ist zu früh etwas Genaues zu sagen Herr Böhm.
+
+34
+00:03:48,330 --> 00:03:54,330
+Frau Böhm, Sie haben Brustschmerzen und es ist neu.
+
+35
+00:03:54,330 --> 00:04:00,330
+Deswegen muss ich einen EKG schreiben und Blut abnehmen.
+
+36
+00:04:01,330 --> 00:04:03,330
+Okay, okay Herr Doktor.
+
+37
+00:04:03,330 --> 00:04:07,330
+Und ich werde die Vitalparameter fassen auch.
+
+38
+00:04:08,330 --> 00:04:10,330
+Okay, okay Herr Doktor.
+
+39
+00:04:10,330 --> 00:04:17,330
+Jetzt können wir weitermachen. Wie stark sind die Schmerzen auf einer Skala von 1 bis 10, wobei 10 am stärksten ist?
+
+40
+00:04:17,330 --> 00:04:21,330
+Ja, früher hatte ich auch Brustschmerzen.
+
+41
+00:04:22,330 --> 00:04:26,330
+Besonders beim Laufen oder beim Joggen.
+
+42
+00:04:26,330 --> 00:04:34,330
+Aber das ist sehr stark. Das ist vielleicht nicht wie alte oder frühere Schmerzen.
+
+43
+00:04:34,330 --> 00:04:42,330
+Das ist wie 9 oder von 10. Ich kann beschreiben.
+
+44
+00:04:42,330 --> 00:04:47,740
+Können Sie uns zum Ende des Gesprächs aushalten?
+
+45
+00:04:47,740 --> 00:04:54,740
+Ich habe auch Übelkeit. Ich habe nicht erbrochen, aber ich habe auch Übelkeit.
+
+46
+00:04:54,740 --> 00:04:59,740
+Das ist ein komisches Gefühl. Ich habe gedacht, dass ich sterbe.
+
+47
+00:05:00,740 --> 00:05:06,740
+Bitte machen Sie sich deswegen keine Sorge. Wir sind für Sie da und wir tun alles für Sie, Frau Böhm.
+
+48
+00:05:07,740 --> 00:05:13,740
+Sie haben Atemnot. Wann haben Sie Atemnot?
+
+49
+00:05:13,740 --> 00:05:17,740
+Haben Sie Schwierigkeiten beim Einatmen oder beim Ausatmen?
+
+50
+00:05:17,740 --> 00:05:27,740
+Ja, beide. Ich kann nicht gut atmen. Mein Herz schläft manchmal gut, manchmal nicht.
+
+51
+00:05:27,740 --> 00:05:30,740
+Haben Sie Herzrasen?
+
+52
+00:05:30,740 --> 00:05:39,240
+Ja, wie Herzrasen habe ich auch gespürt. Oder Herzstolpern kann ich sagen.
+
+53
+00:05:39,240 --> 00:05:44,240
+Komisches Gefühl im Herz fühle ich mich.
+
+54
+00:05:44,240 --> 00:05:49,240
+Haben Sie Atemgeräusche bemerkt?
+
+55
+00:05:49,240 --> 00:05:55,240
+Nein, ich habe keine Atemgeräusche, aber ich kann nicht gut atmen. Ich kann es nicht bekommen.
+
+56
+00:05:55,240 --> 00:06:03,240
+Sauerstoff ist nicht ausreichend für mich. Das ist wenig.
+
+57
+00:06:03,240 --> 00:06:08,240
+Haben Sie Allergen oder Unfertigkeiten?
+
+58
+00:06:08,240 --> 00:06:12,810
+Ja, ich habe Paracetamol-Allergie.
+
+59
+00:06:12,810 --> 00:06:14,810
+Wie reagieren Sie darauf?
+
+60
+00:06:14,810 --> 00:06:18,810
+Mit Hautauschlag.
+
+61
+00:06:18,810 --> 00:06:38,030
+Ich gebe Ihnen in Venösen Zugang ein Schmerzmittel. Es hilft Ihnen, Frau Böhm. Bitte machen Sie sich deswegen keine Sorgen.
+
+62
+00:06:38,030 --> 00:06:42,030
+Okay Herr Doktor, ich vertraue Ihnen.
+
+63
+00:06:42,030 --> 00:06:47,030
+Haben Sie dagegen irgendwelche Medikamente genommen?
+
+64
+00:06:47,030 --> 00:06:56,030
+Ja, nach dem Schmerzen habe ich Ibuprofen genommen, aber es hat mir nicht geholfen.
+
+65
+00:06:56,030 --> 00:07:00,030
+In welcher Dosis?
+
+66
+00:07:00,030 --> 00:07:04,030
+Zuhause gab es vielleicht 400 mg.
+
+67
+00:07:04,030 --> 00:07:15,050
+Sie haben schon gesagt, dass Sie diese Beschwerden hatten. Wann war das?
+
+68
+00:07:15,050 --> 00:07:20,050
+Vor ungefähr einer Stunde.
+
+69
+00:07:20,050 --> 00:07:24,050
+Wann war das letzte Schmerzen?
+
+70
+00:07:24,050 --> 00:07:27,050
+Bevor.
+
+71
+00:07:27,050 --> 00:07:34,050
+Sie müssen sagen. Ja, ich hatte seit sechs Monaten solche Beschwerden.
+
+72
+00:07:34,050 --> 00:07:39,050
+Bevor ein Monat hatte ich. Aber es war nicht schlimm.
+
+73
+00:07:39,050 --> 00:07:49,050
+Ich war beim Laufen und mit Hilfe des Schmerzmittels hat mein Schmerzen weggenommen.
+
+74
+00:07:49,050 --> 00:07:51,050
+Wie lange hat es gedauert?
+
+75
+00:07:51,050 --> 00:07:57,050
+Drei Minuten manchmal. Fünf Minuten. Aber das Schmerz geht nicht zurück.
+
+76
+00:07:57,050 --> 00:08:02,050
+Aber momentan hat das Schmerzen eine Dauer gehabt, oder?
+
+77
+00:08:02,050 --> 00:08:13,310
+Ja, es hat eine Dauer gehabt. Und es hat verschlimmert, Herr Doktor.
+
+78
+00:08:13,310 --> 00:08:17,310
+Haben Sie Fieber? Oder Schüttelfrost?
+
+79
+00:08:17,310 --> 00:08:24,310
+Ich habe nicht gegessen, aber ich habe kalt geschwitzt. Mit dem Schmerzen.
+
+80
+00:08:24,310 --> 00:08:32,100
+Verstehe. Haben Sie Nachtschweiß?
+
+81
+00:08:32,100 --> 00:08:36,100
+Das ist heute Morgen. Seit heute Morgen meine Beschwerden.
+
+82
+00:08:36,100 --> 00:08:38,100
+Das ist eine Routinefrage.
+
+83
+00:08:38,100 --> 00:08:43,600
+Okay, okay. Ich verstehe. Nachtschweiß habe ich nicht.
+
+84
+00:08:43,600 --> 00:08:46,600
+Mussten Sie sich übergeben?
+
+85
+00:08:46,600 --> 00:08:49,600
+Nein, aber ich habe Übelkeit.
+
+86
+00:08:49,600 --> 00:08:53,600
+Ja, ich habe es mir notiert.
+
+87
+00:08:53,600 --> 00:08:58,600
+Haben Sie das Bewusstsein verloren?
+
+88
+00:08:58,600 --> 00:09:03,600
+Nein, nein. Aber ich musste mit dem Schmerzen sitzen.
+
+89
+00:09:03,600 --> 00:09:06,600
+Ich musste stoppen und sitzen.
+
+90
+00:09:06,600 --> 00:09:13,600
+Ich habe gewartet, Schmerzen zurückzugehen, aber das geht nicht.
+
+91
+00:09:13,600 --> 00:09:19,600
+Außer sitzen, gibt es irgendetwas, das Schmerzen besser oder schlimmer macht?
+
+92
+00:09:19,600 --> 00:09:22,600
+Ja, ich kann das nicht genau sagen.
+
+93
+00:09:22,600 --> 00:09:35,600
+Aber bevor ich Schmerzen hatte, habe ich gewartet und sitzen und die Schmerzen sind weggegangen.
+
+94
+00:09:35,600 --> 00:09:40,600
+Aber in diesem Fall hat mir nichts geholfen.
+
+95
+00:09:40,600 --> 00:09:43,600
+Verstehe.
+
+96
+00:09:43,600 --> 00:09:51,600
+Haben Sie Schwellungen in irgendwelchen Körperregionen gemerkt bisher?
+
+97
+00:09:51,600 --> 00:09:55,600
+Nein, habe ich nicht.
+
+98
+00:09:56,850 --> 00:09:59,850
+Haben Sie Hautverfarbungen gemerkt?
+
+99
+00:09:59,850 --> 00:10:03,850
+Nein, habe ich nicht.
+
+100
+00:10:03,850 --> 00:10:06,850
+Habe ich nicht gemerkt.
+
+101
+00:10:06,850 --> 00:10:11,420
+Wie ist Ihr Appetit?
+
+102
+00:10:11,420 --> 00:10:24,420
+Normalerweise esse ich gerne, aber wenn ich einige Schmerzen hatte, habe ich nach dem besonders fettigen Essen einige Schmerzen verspürt.
+
+103
+00:10:24,420 --> 00:10:27,420
+Vorher oder dieses Mal?
+
+104
+00:10:27,420 --> 00:10:30,420
+Vorher, nicht dieses Mal, vorher.
+
+105
+00:10:30,420 --> 00:10:34,420
+Verstehe. Aber Ihr Appetit war gut?
+
+106
+00:10:34,420 --> 00:10:37,420
+Ja, normalerweise gut.
+
+107
+00:10:37,420 --> 00:10:41,420
+Haben Sie in nächster Zeit Ab- oder Suge genommen?
+
+108
+00:10:41,420 --> 00:10:48,000
+Nein, habe ich nicht.
+
+109
+00:10:48,000 --> 00:10:51,000
+Wie ist Ihr Schutulgang und Wasserlassen?
+
+110
+00:10:51,000 --> 00:11:00,000
+Ich habe chronische Verstopfung, Herr Doktor.
+
+111
+00:11:00,000 --> 00:11:03,000
+Seit wann haben Sie das?
+
+112
+00:11:03,000 --> 00:11:07,000
+Seit vier Jahren.
+
+113
+00:11:07,000 --> 00:11:10,000
+Was nehmen Sie dagegen?
+
+114
+00:11:10,000 --> 00:11:16,000
+Ich nehme oft Obst und Gemüse. Das hilft mir.
+
+115
+00:11:16,000 --> 00:11:22,000
+Verstehe. Können Sie gut schlafen?
+
+116
+00:11:22,000 --> 00:11:35,000
+Ja, mein Schlaf ist auch nicht gut. Manchmal wache ich auf. Ich lasse Wasser jeden Nacht einmal.
+
+117
+00:11:35,000 --> 00:11:37,000
+Wie oft gehen Sie zur Toilette?
+
+118
+00:11:37,000 --> 00:11:40,920
+Einmal.
+
+119
+00:11:40,920 --> 00:11:54,920
+Sie haben schon gesagt, dass Sie seit sechs Monaten diese Beschwerden hatten. Waren Sie schon beim Hausarzt oder ein anderer Arzt?
+
+120
+00:11:54,920 --> 00:11:58,920
+Mit ähnlichen Beschwerden war ich nicht beim Hausarzt.
+
+121
+00:11:58,920 --> 00:12:00,920
+Das ist zum ersten Mal.
+
+122
+00:12:00,920 --> 00:12:08,920
+Zum ersten Mal, ja. Und manchmal huste ich. Seit sechs Monaten, manchmal huste ich.
+
+123
+00:12:08,920 --> 00:12:10,920
+Husten mit Ausruf oder trocken?
+
+124
+00:12:10,920 --> 00:12:15,610
+Trocken.
+
+125
+00:12:15,610 --> 00:12:17,610
+Momentan haben Sie husten?
+
+126
+00:12:17,610 --> 00:12:23,940
+Ja, ein bisschen habe ich auch.
+
+127
+00:12:23,940 --> 00:12:27,940
+Haben Sie irgendwelche chronischen Erkrankungen, Frau Böhm?
+
+128
+00:12:27,940 --> 00:12:35,940
+Ja, ich spüre Knie Schmerzen, chronische Knie Schmerzen.
+
+129
+00:12:35,940 --> 00:12:47,940
+Und seit zwei Jahren war ich einmal beim Orthopedien und habe mir gesagt, dass das ein Kniegelenkverschleiß ist.
+
+130
+00:12:47,940 --> 00:12:49,940
+Seit zwei Jahren?
+
+131
+00:12:49,940 --> 00:12:50,940
+Ja.
+
+132
+00:12:50,940 --> 00:12:52,940
+Was nehmen Sie dagegen?
+
+133
+00:12:52,940 --> 00:13:00,940
+Manchmal nehme ich Ibuprofen und ein Wolteranzalbe.
+
+134
+00:13:01,940 --> 00:13:05,940
+Wie oft nehmen Sie Ibuprofen und Wolteranzalbe?
+
+135
+00:13:05,940 --> 00:13:10,940
+Wenn ich Schmerzen habe, das kann ich nicht genau sagen.
+
+136
+00:13:10,940 --> 00:13:16,950
+Ibuprofen 400 mg, oder?
+
+137
+00:13:16,950 --> 00:13:18,950
+Ja, ja, 400 mg.
+
+138
+00:13:18,950 --> 00:13:21,950
+Haben Sie noch andere chronische Erkrankungen?
+
+139
+00:13:21,950 --> 00:13:36,950
+Ja, ich leide auf Bluthochdruck seit fünf Jahren und meine Blutfettwerte sind auch hoch.
+
+140
+00:13:36,950 --> 00:13:41,190
+Seit wann?
+
+141
+00:13:41,190 --> 00:13:43,190
+Seit fünf Jahren.
+
+142
+00:13:43,190 --> 00:13:46,190
+Blutfettwerte auch seit fünf Jahren.
+
+143
+00:13:47,190 --> 00:13:52,190
+Und seit zwei Jahren hatte ich Wundrose.
+
+144
+00:13:57,190 --> 00:13:59,190
+Seit zwei Jahren.
+
+145
+00:13:59,190 --> 00:14:00,190
+Seit zwei Jahren.
+
+146
+00:14:00,190 --> 00:14:02,190
+Was meinen Sie damit?
+
+147
+00:14:02,190 --> 00:14:15,190
+Mein Unterarm wurde rot. Das war Hautentzündung. Mein Hausarzt hat mir gesagt, das war eine Hautentzündung.
+
+148
+00:14:15,190 --> 00:14:18,190
+Wundrose. Unterarm.
+
+149
+00:14:18,190 --> 00:14:20,190
+Ja, Unterarm.
+
+150
+00:14:20,190 --> 00:14:22,190
+Wie wurde es behandelt?
+
+151
+00:14:22,190 --> 00:14:32,320
+Mit Antibiotika.
+
+152
+00:14:32,320 --> 00:14:39,320
+Unterarm. Was nehmen Sie gegen Bluthochdruck und erhöhte Blutfettwerte?
+
+153
+00:14:39,320 --> 00:14:51,690
+Ich nehme Fluvastatin 20 mg einmal täglich und Norvask 10 mg einmal täglich.
+
+154
+00:14:51,690 --> 00:14:54,690
+Fluvastatin in welcher Dosis?
+
+155
+00:14:54,690 --> 00:14:59,690
+Fluvastatin 20 mg und Norvask 10 mg täglich.
+
+156
+00:14:59,690 --> 00:15:03,690
+Rauchen Sie?
+
+157
+00:15:03,690 --> 00:15:10,690
+Ich rauche gerne. Seit 40 Jahren zwei Schachtel Zigaretten.
+
+158
+00:15:10,690 --> 00:15:15,690
+35 Jahre ungefähr.
+
+159
+00:15:15,690 --> 00:15:18,690
+Seit 25 Jahren.
+
+160
+00:15:18,690 --> 00:15:21,690
+Ja, zwei Schachtel Zigaretten habe ich.
+
+161
+00:15:21,690 --> 00:15:29,690
+Das ist zu viel Fragen. Das ist sehr schlecht für Ihre Gesundheit. Haben Sie es versucht?
+
+162
+00:15:29,690 --> 00:15:34,690
+Ich habe vielmals versucht aufzuhören, aber...
+
+163
+00:15:34,690 --> 00:15:43,690
+Wir haben auch eine Abteilung. Wir können einen Termin vereinbaren für Sie. Wurden Sie schon einmal operiert?
+
+164
+00:15:43,690 --> 00:15:58,690
+Ja, vor zehn Jahren wurde ich wegen Steißbeinfestür operiert.
+
+165
+00:15:58,690 --> 00:16:02,690
+Steißbeinfestür. Gut.
+
+166
+00:16:02,690 --> 00:16:07,690
+Hatten Sie noch andere Operationen?
+
+167
+00:16:07,690 --> 00:16:19,130
+Ich hatte auch eine Oberarmfraktur wegen Autounfall vor zwei Jahren.
+
+168
+00:16:19,130 --> 00:16:24,460
+Wurde es operiert?
+
+169
+00:16:24,460 --> 00:16:30,110
+Ja, operiert.
+
+170
+00:16:30,110 --> 00:16:33,110
+Trinken Sie Alkohol?
+
+171
+00:16:33,110 --> 00:16:35,110
+Sehr selten.
+
+172
+00:16:35,110 --> 00:16:38,110
+Was meinen Sie damit?
+
+173
+00:16:38,110 --> 00:16:40,110
+Einmal probieren.
+
+174
+00:16:40,110 --> 00:16:43,110
+Was trinken Sie?
+
+175
+00:16:43,110 --> 00:16:45,110
+Wein.
+
+176
+00:16:45,110 --> 00:16:48,110
+Ein Glas?
+
+177
+00:16:48,110 --> 00:16:51,110
+Seit wann trinken Sie Alkohol?
+
+178
+00:16:51,110 --> 00:16:55,110
+Seit ich erwachsen war.
+
+179
+00:16:55,110 --> 00:17:00,110
+Bitte nehmen Sie die folgenden Fragen nicht persönlich aus. Medizinische Gründe fragen wir immer.
+
+180
+00:17:00,110 --> 00:17:03,110
+Haben Sie Erfahrung mit Drogen?
+
+181
+00:17:03,110 --> 00:17:07,110
+Nein, habe ich keine Erfahrung.
+
+182
+00:17:07,110 --> 00:17:10,110
+Sind Sie verheiratet?
+
+183
+00:17:10,110 --> 00:17:16,730
+Nein, ich bin verheiratet.
+
+184
+00:17:16,730 --> 00:17:19,730
+Leben Sie mit Ihrem Ehemann zusammen?
+
+185
+00:17:19,730 --> 00:17:22,730
+Nein, sie haben nur gebrochen.
+
+186
+00:17:22,730 --> 00:17:25,730
+Wie viele Kinder haben Sie?
+
+187
+00:17:25,730 --> 00:17:28,730
+Zwei Töchter habe ich.
+
+188
+00:17:28,730 --> 00:17:31,730
+Sind Sie gesund?
+
+189
+00:17:31,730 --> 00:17:36,730
+Ja, sie sind gesund, aber mein Enkel hatte heute Morgen einen epileptischen Anfall.
+
+190
+00:17:36,730 --> 00:17:39,730
+Ich habe eine Anfall.
+
+191
+00:17:39,730 --> 00:17:46,520
+Gibt es eine chronische Erkrankung in Ihrer Familie?
+
+192
+00:17:46,520 --> 00:17:49,520
+Ich meine Ihre Mutter, Ihr Vater?
+
+193
+00:17:49,520 --> 00:17:56,520
+Mein Vater ist vor zehn Jahren an Gehirntumor verstorben.
+
+194
+00:17:56,520 --> 00:18:02,520
+Wie alt war er?
+
+195
+00:18:02,520 --> 00:18:04,520
+Er war 70.
+
+196
+00:18:04,520 --> 00:18:10,860
+Hat er noch andere chronische Erkrankungen?
+
+197
+00:18:10,860 --> 00:18:13,860
+Nein, ich erinnere mich nicht.
+
+198
+00:18:13,860 --> 00:18:16,860
+Ihre Mutter?
+
+199
+00:18:16,860 --> 00:18:26,820
+Meine Mutter leidet an Herzversagen.
+
+200
+00:18:26,820 --> 00:18:33,820
+Meine Mutter ist schwach und hat immer Schwellung im Bein.
+
+201
+00:18:33,820 --> 00:18:36,820
+Beide Beine.
+
+202
+00:18:36,820 --> 00:18:41,820
+Haben Sie eine Schwester?
+
+203
+00:18:41,820 --> 00:18:49,820
+Ja, ich habe zwei Schwestern.
+
+204
+00:18:49,820 --> 00:18:57,160
+Eine Schwester leidet unter Asperger-Syndrom.
+
+205
+00:18:57,160 --> 00:19:01,160
+Hat die andere Schwester Probleme?
+
+206
+00:19:01,160 --> 00:19:04,160
+Nein, sie ist gesund.
+
+207
+00:19:04,160 --> 00:19:08,440
+Was sind Sie von Beruf?
+
+208
+00:19:08,440 --> 00:19:14,440
+Ich habe als Verkäufer gearbeitet.
+
+209
+00:19:14,440 --> 00:19:21,880
+Bekommen Sie Ihre Perioden regelmäßig?
+
+210
+00:19:21,880 --> 00:19:26,880
+Nein, ich bin in Menapol.
+
+211
+00:19:26,880 --> 00:19:31,880
+Besuchen Sie Ihre Frauen erst regelmäßig?
+
+212
+00:19:31,880 --> 00:19:37,960
+Ja, letztes Jahr, zwei Jahre.
+
+213
+00:19:37,960 --> 00:19:41,960
+Sind Sie vollständig geimpft?
+
+214
+00:19:41,960 --> 00:19:44,960
+Ja, denke ich.
+
+215
+00:19:44,960 --> 00:19:50,270
+Waren Sie in Lesterzeit im Ausland?
+
+216
+00:19:50,270 --> 00:19:53,270
+Nein, nein.
+
+217
+00:19:53,270 --> 00:19:56,270
+Ich habe alle wichtigen Fragen gestellt.
+
+218
+00:19:56,270 --> 00:20:00,650
+Möchten Sie noch etwas hinzufügen?
+
+219
+00:20:00,650 --> 00:20:02,650
+Was habe ich?
+
+220
+00:20:02,650 --> 00:20:07,650
+Ich habe sehr stark Schmerzen und Angst.
+
+221
+00:20:07,650 --> 00:20:10,650
+Ich habe schon Blut abgenommen.
+
+222
+00:20:10,650 --> 00:20:15,650
+Wir sollten die Ergebnisse warten.
+
+223
+00:20:15,650 --> 00:20:20,650
+Danach können wir mehr überwissen.
+
+224
+00:20:20,650 --> 00:20:24,650
+Es ist zu früh etwas Genaues zu sagen.
+
+225
+00:20:24,650 --> 00:20:31,870
+Ok Herr Doktor Filinand.
+
+226
+00:20:31,870 --> 00:20:36,870
+Ich habe ein Schweißbein in der Hose.
+
+227
+00:20:36,870 --> 00:20:39,870
+Schweißbein und Pfister.
+
+228
+00:20:39,870 --> 00:20:42,870
+Ich habe es nicht verstanden.
+
+229
+00:20:42,870 --> 00:20:45,870
+Das ist ein Plan.
+
+230
+00:20:45,870 --> 00:20:47,870
+Ok.
+
+231
+00:20:47,870 --> 00:20:52,870
+Es geht um Frau Edil Trautböhm.
+
+232
+00:20:52,870 --> 00:20:55,870
+Sie ist eine 51-jährige Patientin.
+
+233
+00:20:55,870 --> 00:21:01,870
+Sie wurde am 29.07.1974 geboren.
+
+234
+00:21:01,870 --> 00:21:07,870
+Sie ist 1,56 Meter groß und 71 Kilogramm schwer.
+
+235
+00:21:07,870 --> 00:21:15,870
+Sie hat sich seit 45 Minuten auf den Grund geteilt.
+
+236
+00:21:15,870 --> 00:21:19,870
+Sie ist stehender, drückender, zunehmender.
+
+237
+00:21:19,870 --> 00:21:27,870
+Sie hat sich mit Ausstrahlung in die linke Schulter und Unterkiefer ausgeschmissen.
+
+238
+00:21:27,870 --> 00:21:31,870
+Also können wir angenach Pektowis sagen.
+
+239
+00:21:31,870 --> 00:21:36,870
+Als Begleitsymptomen liegen die Spnoe.
+
+240
+00:21:36,870 --> 00:21:39,870
+Wo ist die Patientin jetzt?
+
+241
+00:21:39,870 --> 00:21:42,870
+Können Sie es wiederholen?
+
+242
+00:21:42,870 --> 00:21:45,870
+Wo ist die Patientin jetzt?
+
+243
+00:21:45,870 --> 00:21:52,870
+Sie ist in der Untermonitorenstation.
+
+244
+00:21:52,870 --> 00:21:55,870
+Also meinen Sie Intensivstation?
+
+245
+00:21:55,870 --> 00:21:57,870
+Ja.
+
+246
+00:21:57,870 --> 00:22:01,870
+Vielleicht Kateter Labor?
+
+247
+00:22:01,870 --> 00:22:05,870
+Ich warte auf Laborergebnisse.
+
+248
+00:22:05,870 --> 00:22:08,870
+Was ist Ihre Verdachtdiagnose?
+
+249
+00:22:08,870 --> 00:22:16,870
+Meine Verdachtdiagnose lautet an Gna Pektowis.
+
+250
+00:22:16,870 --> 00:22:21,870
+Welche Risikofaktoren hat die Patientin?
+
+251
+00:22:22,870 --> 00:22:26,870
+Sie hatte heute einen schmerzigen Anfall.
+
+252
+00:22:26,870 --> 00:22:34,870
+Die Schmerzcharakter ist sehr typisch.
+
+253
+00:22:34,870 --> 00:22:45,870
+Als Risikofaktoren zahlen arterielle Hypertonie, Hyperlipidemie.
+
+254
+00:22:45,870 --> 00:22:53,240
+Sie ist trauer.
+
+255
+00:22:53,240 --> 00:23:03,240
+Was ist der Unterschied zwischen stabil angena Pektowis und instabil angena Pektowis?
+
+256
+00:23:03,240 --> 00:23:08,240
+Unter stabil angena Pektowis versteht man,
+
+257
+00:23:08,240 --> 00:23:17,240
+dass die Schmerz unter 20 Minuten dauert.
+
+258
+00:23:17,240 --> 00:23:23,240
+Nach der Nitroglycerinspray lindert die Schmerzen.
+
+259
+00:23:23,240 --> 00:23:35,240
+Aber bei der unter unstabil angena Pektowis dauern die Schmerzen über mehr als 20 Minuten.
+
+260
+00:23:35,240 --> 00:23:41,240
+Und Nitroglycerinspray hilft uns nicht.
+
+261
+00:23:41,240 --> 00:23:45,240
+Oder hilft der Patient oder die Patientin nicht.
+
+262
+00:23:45,240 --> 00:23:51,240
+Welche Arten von akut Koronasynchrom kennen Sie?
+
+263
+00:23:51,240 --> 00:24:12,240
+Anstabil angena Pektowis, Estehebung, Estehebung, Esteelewe Myokardinfarktus oder Noneste Myokardinfarktus.
+
+264
+00:24:12,240 --> 00:24:15,240
+Drei Arten.
+
+265
+00:24:15,240 --> 00:24:21,240
+Stemi, Entstemi und instabil angena Pektowis.
+
+266
+00:24:21,240 --> 00:24:28,240
+Was haben Sie im Notfalldienst durchgeführt bei dieser Patientin?
+
+267
+00:24:28,240 --> 00:24:38,240
+Zuerst würde ich ein EKG schreiben und die Vitalparameter erfassen.
+
+268
+00:24:38,240 --> 00:24:52,240
+Und würde ich Labouruntersuchungen durchführen um Blutbild, Troponin und CKMB Werte zu bestimmen.
+
+269
+00:24:52,240 --> 00:24:56,240
+Welche Vitalzeichen überwachen Sie?
+
+270
+00:24:56,240 --> 00:25:05,240
+Blutdruck, Herzfrequenz und Sauerstoffsätigung.
+
+271
+00:25:05,240 --> 00:25:12,240
+Das ist sehr wichtig. Welche Labourwerte steigen bei einem Herzinfarkt?
+
+272
+00:25:12,240 --> 00:25:28,240
+Wenn Estehebung oder Noneste Myomy gibt es, erwarten wir Troponin Werteerhöhung und CKMB auch.
+
+273
+00:25:28,240 --> 00:25:33,240
+Und warum steigen diese Werte?
+
+274
+00:25:34,240 --> 00:25:39,240
+Wegen Herzmuskelsteben.
+
+275
+00:25:39,240 --> 00:25:42,240
+Herzgewerbeschädens.
+
+276
+00:25:42,240 --> 00:25:48,240
+Herzgewerbeschädens produziert diese Enzyme.
+
+277
+00:25:48,240 --> 00:25:51,240
+Genau, durch den Infarkt.
+
+278
+00:25:51,240 --> 00:25:59,240
+Welche Behandlungsoptionen haben Sie bei dieser Patientin?
+
+279
+00:26:00,240 --> 00:26:12,240
+Wenn es eine Estehebung gibt, sollten wir so schnell wie möglich eine KTT Angiografie durchführen.
+
+280
+00:26:12,240 --> 00:26:26,240
+Aber bei der NST-MI oder Instabil Angina Pectoris können wir eine konservative Behandlung durchführen.
+
+281
+00:26:26,240 --> 00:26:32,240
+Aber danach sollten wir auch eine KTT Angiografie durchführen.
+
+282
+00:26:32,240 --> 00:26:45,240
+Zuerst müssen wir Acetylsalicylic Säure 300 mg verabreichen und vielleicht Clopidogrel verabreichen.
+
+283
+00:26:45,240 --> 00:26:56,520
+Und Methoprolol sowie Statin sollten wir verabreichen.
+
+284
+00:26:57,520 --> 00:27:04,520
+Und wenn Ballondilatationen oder Ständen nicht möglich sind?
+
+285
+00:27:04,520 --> 00:27:26,520
+Wenn mehr Gefäß betroffen oder wenn Ballon oder Ständen nicht möglich sind, sollten wir Gefäßchirurgisches Konzil verlassen, um eine mögliche Operation zu organisieren.
+
+286
+00:27:26,520 --> 00:27:28,520
+Was für Operation meinen Sie?
+
+287
+00:27:28,520 --> 00:27:30,520
+Bypass.
+
+288
+00:27:30,520 --> 00:27:34,520
+Wie wird eine Bypass Operation durchgeführt?
+
+289
+00:27:34,520 --> 00:28:02,520
+Unter Narkos diese Operation durchgeführt, soll der Chirurg oder Chirurgin ein Ersatzgefäß hochwahrscheinlich im Bein nehmen und die Herz, wie kann ich sagen, ein...
+
+290
+00:28:02,520 --> 00:28:09,900
+Also welche Venen am meisten werden verwendet?
+
+291
+00:28:09,900 --> 00:28:13,900
+Ich erinnere mich nicht daran.
+
+292
+00:28:13,900 --> 00:28:16,900
+Also die habe ich schon gesagt, aus dem Bein?
+
+293
+00:28:16,900 --> 00:28:23,900
+Aus dem Bein, aber welche Venasaphenamagna.
+
+294
+00:28:23,900 --> 00:28:24,900
+Genau.
+
+295
+00:28:24,900 --> 00:28:29,900
+Ok, welche Arterien werden verwendet, wissen Sie?
+
+296
+00:28:29,900 --> 00:28:33,900
+Ich wusste nicht, aber Arteria mammillaris.
+
+297
+00:28:33,900 --> 00:28:37,900
+Genau, Arteria mammillaris oder Arteria radialis auch.
+
+298
+00:28:37,900 --> 00:28:43,900
+Ok, welche Differenzia Diagnose haben Sie bei diesen Patienten?
+
+299
+00:28:43,900 --> 00:28:45,900
+Lungenembolie.
+
+300
+00:28:45,900 --> 00:28:51,900
+Als Erster würde ich Lungenembolie sagen.
+
+301
+00:28:51,900 --> 00:29:05,900
+Um eine Lungenembolie auszuschließen, würde ich Blutgasanalyse durchschüren und Dedimerwerte bestimmen lassen.
+
+302
+00:29:05,900 --> 00:29:14,900
+Und gegebenenfalls CT mit Kontrastmittel, Thorax CT, veranlasse ich.
+
+303
+00:29:14,900 --> 00:29:17,900
+Meinen Sie CT-Angiographie, oder?
+
+304
+00:29:17,900 --> 00:29:19,900
+Ja, CT-Angiographie.
+
+305
+00:29:19,900 --> 00:29:26,900
+Ok, welche Symptome sprechen gegen eine Lungenembolie bei diesen Patienten?
+
+306
+00:29:26,900 --> 00:29:32,900
+Bei diesen Patienten Schmerzcharakterisation und Schmerzintensität.
+
+307
+00:29:32,900 --> 00:29:35,900
+Spricht gegen Lungenembolie.
+
+308
+00:29:35,900 --> 00:29:42,900
+Bei der Lungenembolie erwarten wir Schmerzen, aber nicht Neu.
+
+309
+00:29:42,900 --> 00:29:52,580
+Ok, welche Risikofaktoren kennen Sie für eine Lungenembolie?
+
+310
+00:29:52,580 --> 00:30:20,580
+Die Gerinnungspathologie, zum Beispiel genetische Faktor 5-Leiden-Mutation, auch genetische Veranlagung, arterielle Hypertonie, Diabetes mellitus und erhöhte Hyperkolesteregnämie, sowie Nikotinabussus oder Nikotinkonsum und Alkoholkonsum.
+
+311
+00:30:20,580 --> 00:30:26,580
+Und natürlich Immobilisation.
+
+312
+00:30:26,580 --> 00:30:28,580
+Wie zum Beispiel?
+
+313
+00:30:28,580 --> 00:30:36,580
+Wie zum Beispiel eine lange Reise oder nach der Operation gesucht oder nach einem Unfall.
+
+314
+00:30:36,580 --> 00:30:39,580
+Ok, sehr gut.
+
+315
+00:30:39,580 --> 00:30:45,580
+Sie haben gesagt, dass Sie eine PTCA durchgeführt würden.
+
+316
+00:30:45,580 --> 00:30:47,580
+Also gegebenenfalls, ich meine.
+
+317
+00:30:47,580 --> 00:30:52,580
+Können Sie bitte PTCA, Herzkatheter, ich meine erklären?
+
+318
+00:30:52,580 --> 00:31:15,580
+Ja, Herr Oberast, der Ast oder der Radiolog oder der Kardiolog, in der Beine oder im Ellenbeuge eine kleine Schicht machen mit einer Holnadel.
+
+319
+00:31:15,580 --> 00:31:25,580
+Eine Holnadel wird durch eine Phameral- oder Radialarter eingeführt werden.
+
+320
+00:31:25,580 --> 00:31:35,580
+Durch die Holnadel wird ein KTT eingeführt.
+
+321
+00:31:35,580 --> 00:31:41,580
+Ich habe diese vergessen, Entschuldigung.
+
+322
+00:31:41,580 --> 00:32:01,580
+Dann der Radiolog oder der Ast gibt Kontrastmittel und mit Unterstrahlen können wir Herzkranz oder Herzgefäße beurteilen.
+
+323
+00:32:01,580 --> 00:32:08,580
+Das ist nicht nur eine diagnostische Methode, sondern auch eine therapeutische Methode.
+
+324
+00:32:08,580 --> 00:32:15,580
+Gleichzeitig können wir einen Ballon oder Stennt durchführen.
+
+325
+00:32:15,580 --> 00:32:18,580
+Das ist eine schmerzhafte Methode.
+
+326
+00:32:18,580 --> 00:32:24,580
+Deswegen können wir eine örtliche Betäubung verabreichen.
+
+327
+00:32:24,580 --> 00:32:35,580
+Und nach der Untersuchung bleibt der Patient in der Intensivstation.
+
+328
+00:32:35,580 --> 00:32:45,930
+Okay, also würden Sie bei dieser Patientin eine Echokardiografie durchführen?
+
+329
+00:32:45,930 --> 00:33:01,930
+Ja, bei der Echokardiografie können wir Herzwand und Ejectionfraktion und Herzarbeit, wie Herzpumpen aktivität beurteilen.
+
+330
+00:33:01,930 --> 00:33:07,930
+Deswegen sollte eine Echokardiografie durchführen.
+
+331
+00:33:07,930 --> 00:33:21,930
+Aber wenn es einen ST-elevaten Myokartinfarkt gibt, sollten wir nach der Coronärangiografie diese Untersuchung durchführen.
+
+332
+00:33:21,930 --> 00:33:28,930
+Okay, können Sie uns bitte eine Echokardiografie erklären?
+
+333
+00:33:29,930 --> 00:33:33,930
+Echokardiografie ist eine besondere Sonographie.
+
+334
+00:33:33,930 --> 00:33:41,930
+Bei der können wir Herzgefäßwand und Ejectionfraktion beurteilen.
+
+335
+00:33:41,930 --> 00:33:46,930
+Das Gerät hat einen Schallkopf und einen Monitor.
+
+336
+00:33:46,930 --> 00:33:51,930
+Wir tragen ein Gel die Haut auf.
+
+337
+00:33:51,930 --> 00:34:03,930
+Der Schallkopf sendet Schallwelle und aufnimmt die Gewebeantwort.
+
+338
+00:34:03,930 --> 00:34:10,930
+Wir können im Monitor die Gewebe oder die Organe beurteilen.
+
+339
+00:34:10,930 --> 00:34:19,930
+Das ist eine schmerzfreie Methode, die die Patientin oder der Patient nicht vorbereiten.
+
+340
+00:34:19,930 --> 00:34:30,930
+Nach der Untersuchung können die Patienten ihren gewohnten Alltag fortsetzen.
+
+341
+00:34:30,930 --> 00:34:35,930
+Es dauert nur 5-10 Minuten.
+
+342
+00:34:35,930 --> 00:34:40,930
+Gut, kennen Sie Mona BH Schema?
+
+343
+00:34:40,930 --> 00:34:56,930
+Mona, Morphin, Sauerstoff, Nitroglycerin und Aspirin.
+
+344
+00:34:56,930 --> 00:35:00,930
+BH?
+
+345
+00:35:00,930 --> 00:35:05,930
+BH, ich erinnere mich nicht daran.
+
+346
+00:35:05,930 --> 00:35:13,930
+Also die betablocker ist Heparin.
+
+347
+00:35:13,930 --> 00:35:21,930
+Okay, was empfehlen Sie dieser Patienten nach der Behandlung?
+
+348
+00:35:21,930 --> 00:35:33,930
+Nach der Behandlung empfehle ich die Patienten Gewichtreduktion, Fett, Alme, Kohl, Salz, Alme, Diät.
+
+349
+00:35:33,930 --> 00:35:37,930
+Und mit dem Rauchen natürlich aufzuhören.
+
+350
+00:35:37,930 --> 00:35:45,930
+Und die anderen chronischen Erkrankungen regelmäßig zu kontrollieren.
+
+351
+00:35:45,930 --> 00:35:52,820
+Arterielle Hypertonie und Hyperlipidemie.
+
+352
+00:35:52,820 --> 00:35:56,820
+Ja, ich empfehle dieses, Herr Oberast.
+
+353
+00:35:56,820 --> 00:36:05,060
+Und natürlich, Sie sollten die Medikamente erst nehmen.
+
+354
+00:36:05,060 --> 00:36:16,060
+Gut, vielen Dank. Sie haben es gut gemacht. Bitte gehen Sie zum Impfotest und nehmen Ihr Zertifikat, meine Kollege.
+
+355
+00:36:16,060 --> 00:36:20,060
+Insha'Allah, auf jeden Fall. Danke schön.
+
+356
+00:36:20,060 --> 00:36:30,060
+Ich habe heute einen neuen Patienten aufgenommen. Ich würde gerne Sie Ihnen vorstellen. Haben Sie kurz Zeit dafür?
+
+357
+00:36:30,060 --> 00:36:32,060
+Ja, bitte.
+
+358
+00:36:32,060 --> 00:36:51,060
+Ich berichte über die 51-jährige Patientin, Frau Edile Traut-Böhm, die 1,56 Meter groß ist und 71 Kilogramm wiegt.
+
+359
+00:36:51,060 --> 00:37:03,060
+Die Patientenstätte ist heute notwendig bei uns wegen der 45 Minuten Bestehung,
+
+360
+00:37:03,060 --> 00:37:13,060
+der Progradierung der Brustschmerzen mit dem Unterkiff und linken Schultern ausgetragen.
+
+361
+00:37:13,060 --> 00:37:25,060
+Begleitende Symptome sind Nausea, Dyspne, Palpitations- und Tachycardi, Kaltschweiß und Todangst.
+
+362
+00:37:25,060 --> 00:37:43,440
+Zufolge dem Patienten sind die Schmerzen nach einem Schlechtnachricht aufgetreten und sich im Verlauf der Zeit verstärkert.
+
+363
+00:38:13,440 --> 00:38:37,440
+Dagegen nimmt sie regelmäßig Fluvastatin 20 Milligramm einmal morgens, Norvask 10 Milligramm einmal morgens und Ibuprofen 400 Milligramm Tablet und Volteransalve bei Bedarf.
+
+364
+00:38:37,440 --> 00:38:51,440
+Vor zwei Jahren hatte sie einen Erythropell und wurde mit Antibiotika behandelt.
+
+365
+00:38:51,440 --> 00:39:16,440
+Sie wurde wegen Pyloriadenis vor zehn Jahren operiert und vor zwei Jahren wurde sie wegen Humerusfraktua operiert.
+
+366
+00:39:16,440 --> 00:39:32,690
+Sie hat Paracetamol-Allergie, die sich mit Exantem äußert und sie sind vollständig geimpft und Reiseanamnese ist unauffällig.
+
+367
+00:39:32,690 --> 00:39:46,690
+Sie ist eine sehr starke Raucherin und sie raucht zwei Schachten Zigaretten pro Tag seit 35 Jahren.
+
+368
+00:39:46,690 --> 00:39:59,690
+Er trinkt gelegentlich einmal pro Woche ein Glas Wein und Drogenkonsum wurde verneint.
+
+369
+00:39:59,690 --> 00:40:20,690
+In der Familienanamnese gab sie an, dass ihr Vater an Cerebral Tumor vor zehn Jahren gestorben ist und seine Mutter an Herzinsuffizienz leidet.
+
+370
+00:40:20,690 --> 00:40:41,000
+Sie hat zwei Schwestern und eine Schwestern leidet an Asperger-Syndrom. Sie ist verheiratet, hat zwei Töter und arbeitet als Verkäuferin.
+
+371
+00:40:41,000 --> 00:40:49,000
+Sie hat Stress wegen der Unterstress.
+
+372
+00:40:50,000 --> 00:40:59,000
+Die anamnestischen Anwaben deuten am besten auf Akut-Coronare-Syndrom hin.
+
+373
+00:40:59,000 --> 00:41:14,000
+Die Lungenembolie Myokarditis in Betracht ist eine Differentialdiagnostik.
+
+374
+00:41:44,000 --> 00:41:49,000
+Sie ist eine sehr starke Schmerzen- und Brengengefühl.
+
+375
+00:41:49,000 --> 00:41:58,000
+Sie ist eine akute Koronare-Syndrom.
+
+376
+00:41:59,000 --> 00:42:27,000
+Um meine Verdacht-Diagnose zu bestätigen, würde ich die Intensivstation des Patienten aufnehmen und natürlich körperlich untersuchen, ein EKG schreiben und mögliche Akut-Coronare-Syndrom zu bestätigen.
+
+377
+00:42:27,000 --> 00:42:53,000
+Ich werde eine Herz-Solographie oder eine Herz-Echokardiographie durchführen und eine Angeographie, eine Koronare-Angeographie durchführen.
+
+378
+00:42:53,000 --> 00:43:16,780
+Ich werde den Patienten Schmerzmittel, Morphin verabreichen, Sauerstoff durch Nasenkanüle geben und Nitrat, Aspirin, Betaglucker.
+
+379
+00:43:17,780 --> 00:43:22,780
+In welcher Situation geben Sie den Patienten Sauerstoff?
+
+380
+00:43:22,780 --> 00:43:29,780
+Sauerstoff gibt es auf jeden Fall im Herzinfarkt.
+
+381
+00:43:29,780 --> 00:43:35,780
+Nein, nur 90% Sauerstoff.
+
+382
+00:43:35,780 --> 00:43:42,780
+Wenn es nötig ist, geben wir Sauerstoff, wenn nötig ist, geben wir Sauerstoff nicht.
+
+383
+00:43:43,780 --> 00:43:56,780
+Warum geben wir den Patienten keine Sauerstoff?
+
+384
+00:43:56,780 --> 00:44:01,780
+Weil Oxidativstress erhöht werden kann.
+
+385
+00:44:01,780 --> 00:44:10,780
+Nein, Oxidativstress verursacht Vasekonstruktion. Vasekonstruktion bedeutet Ischemie.
+
+386
+00:44:12,780 --> 00:44:16,780
+Herr Oberas, vielen Dank für diese Informationsweise.
+
+387
+00:44:16,780 --> 00:44:18,780
+Machen Sie weiter.
+
+388
+00:44:18,780 --> 00:44:26,780
+Ich gebe Morphin, Nitrat, Aspirin, Betaglucker und Heparin.
+
+389
+00:44:26,780 --> 00:44:49,780
+Ich werde einen PTCH durchführen, um die Veränderung der Gefäße beurteilen und gleichzeitig mit Hilfe eines Ständes behandeln.
+
+390
+00:44:49,780 --> 00:44:56,480
+Was beachten Sie bei der Eko-Kardiographie?
+
+391
+00:44:56,480 --> 00:45:18,480
+Bei der Eko-Kardiographie achte ich darauf, ob es eine Herzwandschwache gibt oder Arithmie gibt, Vorhoffileman gibt.
+
+392
+00:45:18,480 --> 00:45:21,480
+Nein, das ist ein Fehler.
+
+393
+00:45:21,480 --> 00:45:36,480
+Manche Herzinfarkte können eine Herzrhythmusstörung verursachen, kann ich diese Herzrhythmusstörung auch beurteilen, mit Hilfe Eko-Kardiographie.
+
+394
+00:45:36,480 --> 00:45:41,480
+Oder eine Geranmischung im Fileman gibt.
+
+395
+00:45:41,480 --> 00:45:46,480
+Können Sie uns PTCA aufklären?
+
+396
+00:45:46,480 --> 00:45:53,480
+PTCA ist ein bildgebendes Verfahren.
+
+397
+00:45:53,480 --> 00:46:03,480
+Mit Hilfe PTCA können wir Coroner und Gefäße beurteilen und gleichzeitig behandeln.
+
+398
+00:46:03,480 --> 00:46:09,480
+Das ist ein schmerzhaftes Verfahren.
+
+399
+00:46:09,480 --> 00:46:18,480
+Deswegen müssen wir diese Verfahren unter örtliche Betäubung durchführen.
+
+400
+00:46:18,480 --> 00:46:31,480
+Durch Phamoral Arter oder Radial Arter können wir Katheter einführen.
+
+401
+00:46:31,480 --> 00:46:38,480
+Wir müssen mit Hilfe Coroner und Gefäße Katheter einführen.
+
+402
+00:46:38,480 --> 00:46:43,480
+Mit Hilfe Kontrastmittel machen wir die Gefäße sichtbar.
+
+403
+00:46:43,480 --> 00:46:59,480
+Wenn es eine Verengung gibt, dilatieren wir zuerst mit Ballon die Gefäße und stellen einen Stand, um eine neue Verengung zu vermeiden.
+
+404
+00:46:59,480 --> 00:47:07,480
+Das dauert ca. 30 Minuten bis 1 Stunde.
+
+405
+00:47:07,480 --> 00:47:15,480
+Nach der Behandlung müssen wir die Patienten intensiv beobachten.
+
+406
+00:47:15,480 --> 00:47:26,480
+Wir müssen die Monitor anziehen und die Patienten engmisch kontrollieren.
+
+407
+00:47:30,200 --> 00:47:36,200
+Was beachten die Patienten vor der Untersuchung und nach der Untersuchung?
+
+408
+00:47:36,200 --> 00:47:45,200
+Wenn es ein elektrischer PTCA ist, muss die Patientin nüchtern sein.
+
+409
+00:47:45,200 --> 00:47:58,200
+Wenn es ein akut myokardial infarkt ist, muss die Patientin keine Vorbereitung machen.
+
+410
+00:47:58,200 --> 00:48:05,120
+Gibt es eine Alternative Methode für PTCA?
+
+411
+00:48:05,120 --> 00:48:27,880
+Bei Coroner und Gefäßen kann man die CT-Angeographie nicht invasiv machen.
+
+412
+00:48:27,880 --> 00:48:37,880
+Aber mit Hilfe der CT-Angeographie kann man keine Vorbereitung machen.
+
+413
+00:48:37,880 --> 00:48:45,880
+Deswegen muss es ein akut myokardial infarkt sein.
+
+414
+00:48:45,880 --> 00:48:53,880
+In welcher Situation ist der Coroner-Bypass möglich?
+
+415
+00:48:53,880 --> 00:49:09,880
+Wenn es eine komplizierte Verengung gibt, muss man eine Bypass-Operation durchführen.
+
+416
+00:49:09,880 --> 00:49:13,880
+Manchmal wird eine Fulkation verengt.
+
+417
+00:49:13,880 --> 00:49:28,880
+In welchen Situationen wird diese Situation mit einer Bypass-Operation behandelt?
+
+418
+00:49:28,880 --> 00:49:34,880
+Eine Möglichkeit ist eine Bypass-Operation.
+
+419
+00:49:34,880 --> 00:49:39,880
+Was ist die Möglichkeit, eine Bypass-Operation zu machen?
+
+420
+00:49:39,880 --> 00:49:54,880
+Zuerst muss man sich die Bechdung des Blutes beachten.
+
+421
+00:49:54,880 --> 00:50:06,880
+Wenn es eine Bechdung ist, würde ich gerne eine CT-Angeographie des Lungen durchführen.
+
+422
+00:50:06,880 --> 00:50:15,880
+Dann würde ich die Blutanalyse durchführen.
+
+423
+00:50:16,880 --> 00:50:20,880
+Möchtest du andere Blutanalyse?
+
+424
+00:50:20,880 --> 00:50:25,880
+Ja, ich möchte natürlich ein D-Dimer durchführen.
+
+425
+00:50:25,880 --> 00:50:32,880
+Ich möchte ein Troponin-I und T durchführen.
+
+426
+00:50:32,880 --> 00:50:36,880
+Ich möchte ein CK und CK-MB durchführen.
+
+427
+00:50:36,880 --> 00:50:42,880
+Ich möchte ein großes Blutbildgerinnungsparameter durchführen.
+
+428
+00:50:42,880 --> 00:50:51,880
+Wenn wir einen operativen Angriff planen, müssen wir auch Hepatiten,
+
+429
+00:50:51,880 --> 00:51:01,880
+AntihBSA, HBSA, AntihCB, Antihiv, bestimmen lassen.
+
+430
+00:51:02,880 --> 00:51:10,880
+Um eine pulmelre Arterie auszusetzen, müssen wir auch eine Arterie-Blutgasanalyse durchführen.
+
+431
+00:51:10,880 --> 00:51:15,880
+Ja, Sie haben recht.
+
+432
+00:51:15,880 --> 00:51:26,690
+Gasanalyse müssen wir auf jeden Fall bestimmen lassen. Vielen Dank für diese Information.
+
+433
+00:51:27,690 --> 00:51:34,690
+Guten Tag, Frau Oberastin. Ich habe heute eine neue Patientin aufgenommen.
+
+434
+00:51:34,690 --> 00:51:39,690
+Ich würde gerne mit Ihnen die Patienten vorstellen.
+
+435
+00:51:39,690 --> 00:51:41,690
+Haben Sie kurz Zeit für mich?
+
+436
+00:51:41,690 --> 00:51:43,690
+Ja, bitte.
+
+437
+00:51:43,690 --> 00:51:48,690
+Es handelt sich um Frau Edil Traut-Öhm.
+
+438
+00:51:48,690 --> 00:51:58,690
+Sie ist 51 Jahre alt, 1,56 Meter groß und 71 Kilogramm schwer.
+
+439
+00:51:58,690 --> 00:52:07,690
+Die Patienten stellen sich heute bei uns wegen seit 45 Minuten bestehender,
+
+440
+00:52:07,690 --> 00:52:14,690
+starker, drückender, retro-sterniger Schmerzen mit Dispnoe vor.
+
+441
+00:52:14,690 --> 00:52:25,690
+Die Schmerzen sind in der linken Schulter und in der Unterkiffe aus Strahlen.
+
+442
+00:52:25,690 --> 00:52:32,690
+Die Schmerzen sind nach einer schlechten Nachricht aufgetreten.
+
+443
+00:52:32,690 --> 00:52:41,690
+Die Schmerzintensität wurde mit 9 bis 10 von einer Schmerzskala bewertet.
+
+444
+00:52:41,690 --> 00:52:53,690
+Die Schmerzen werden mit einer Tachikardipaltipation mit einer Neusea einhergeschmissen.
+
+445
+00:52:53,690 --> 00:53:02,690
+Die Einnahme von Ibuprofen 400 Milligramm hat keine Verbesserung gebracht.
+
+446
+00:53:03,690 --> 00:53:12,690
+Die Patientin hatte früher ein Problem vor sechs Monaten.
+
+447
+00:53:12,690 --> 00:53:21,690
+Die Frage nach der Verbeänderung der Brustbeutelung ist verloren.
+
+448
+00:53:21,690 --> 00:53:24,690
+Die Schuputung wurde verneint.
+
+449
+00:53:25,690 --> 00:53:33,690
+Die vegetative Anamnese hat Folgendes ergeben.
+
+450
+00:53:33,690 --> 00:53:42,690
+Insomni, Tussis und Obstipation.
+
+451
+00:53:42,690 --> 00:53:53,690
+Die Patienten an Vorerkrankungen nannt es sich seit zwei Jahren bestehender Konartros.
+
+452
+00:53:53,690 --> 00:53:58,690
+Seit fünf Jahren bestehende arteriöle Hypertonie.
+
+453
+00:53:58,690 --> 00:54:03,690
+Seit fünf Jahren bestehende Hyperkolestrinämie.
+
+454
+00:54:03,690 --> 00:54:11,690
+Der Patient hatte eine Erdzipper vor zwei Jahren.
+
+455
+00:54:11,690 --> 00:54:19,690
+Er wurde mit Antibiotika behandelt.
+
+456
+00:54:19,690 --> 00:54:36,690
+Er wurde mit neun Jahren eine Pylonydazynus-Operation durchgeführt.
+
+457
+00:54:37,690 --> 00:54:41,690
+Er hatte einen Autounfall.
+
+458
+00:54:41,690 --> 00:54:48,690
+Deswegen war er mit einer Osteosynthes-Operation durchgeführt.
+
+459
+00:54:48,690 --> 00:55:01,690
+Er nimmt eine Oberarmfraktur.
+
+460
+00:55:01,690 --> 00:55:18,690
+Er nimmt 400 mg Ibuprofen und eine Voltarenzalbe ein.
+
+461
+00:55:18,690 --> 00:55:25,690
+Außerdem nimmt er Fluovasthym.
+
+462
+00:55:25,690 --> 00:55:27,690
+Warum nehmen Sie das?
+
+463
+00:55:27,690 --> 00:55:33,690
+Der Patient hat Konartros.
+
+464
+00:55:33,690 --> 00:55:42,690
+Er nimmt die arteriöle Hypertonie und die Hyperkolesterolomie.
+
+465
+00:55:42,690 --> 00:55:52,690
+Er nimmt 20 mg Fluovasthym ein und 5 mg Norvasthym ein.
+
+466
+00:55:52,690 --> 00:56:00,690
+Der Patient hat Paraseptemal Allergie, die sich mit Exanthem äußert.
+
+467
+00:56:00,690 --> 00:56:03,690
+Er ist Raucherin.
+
+468
+00:56:03,690 --> 00:56:11,690
+Seit 45 Jahren raucht er 22 Schachteln Zigaretten.
+
+469
+00:56:11,690 --> 00:56:16,690
+Er trinkt gelegentlich Alkohol.
+
+470
+00:56:16,690 --> 00:56:19,690
+Er nutzt Drogen für den Fernseher.
+
+471
+00:56:19,690 --> 00:56:25,690
+Im Besuch auf die Familie Anamnese
+
+472
+00:56:25,690 --> 00:56:34,690
+teilt sie mit, dass der Vater mit 70 Jahren an Himtumor gestorben ist.
+
+473
+00:56:34,690 --> 00:56:39,690
+Die Mutter hat Herzinfizienz.
+
+474
+00:56:39,690 --> 00:56:43,690
+Sie hat zwei Geschwister.
+
+475
+00:56:43,690 --> 00:56:51,690
+Eine Schwester hat Aspergillos-Syndrom.
+
+476
+00:56:51,690 --> 00:57:01,690
+Die Patientin treibt keinen Sport und sie hat viel Stress.
+
+477
+00:57:01,690 --> 00:57:06,690
+Sie ist verheiratet, lebt mit ihrem Mann.
+
+478
+00:57:06,690 --> 00:57:09,690
+Sie hat zwei Töchter.
+
+479
+00:57:09,690 --> 00:57:11,690
+Alle sind gesund.
+
+480
+00:57:11,690 --> 00:57:15,690
+Sie arbeitet als Verkäuferin.
+
+481
+00:57:15,690 --> 00:57:28,690
+Ich gehe von einem Verdacht auf Akutkorenär-Syndrom aus, da die Patientin dafür typische Symptome aufweist.
+
+482
+00:57:28,690 --> 00:57:45,690
+Die Patientin leidet unter Rhetro-Sternalschmerzen mit Ausstrahlung in der Schulter und in der Kiffe.
+
+483
+00:57:45,690 --> 00:57:54,690
+Rhetro-Sternalangina. Sie haben recht, Frau Berastin.
+
+484
+00:57:54,690 --> 00:57:58,690
+Danke schön für diese Informationen.
+
+485
+00:57:58,690 --> 00:58:04,690
+Außerdem hat sie Todesangst.
+
+486
+00:58:04,690 --> 00:58:12,690
+Sie sprechen für Akutmyokarte-Syndrome.
+
+487
+00:58:12,690 --> 00:58:22,690
+Als Differenzialdiagnose kommen auch Ortisektion und Pulmoner-Emboli in Betracht.
+
+488
+00:58:22,690 --> 00:58:37,690
+Um meine Verdachtdiagnose zu bestätigen, würde ich zunächst bei der Patientin die BIT-Parameter überwachen.
+
+489
+00:58:37,690 --> 00:58:44,690
+Dann würde ich die Patientin eine körperliche Untersuchung durchführen.
+
+490
+00:58:44,690 --> 00:58:57,690
+Bei der körperlichen Untersuchung achte ich darauf, dass sie zu einer zianosen, zusätzlichen Herzgeräusche vorliegt.
+
+491
+00:58:57,690 --> 00:59:10,690
+Neben der körperlichen Untersuchung wären Laberunterzüge sinnvoll, um eine umfassende Diagnostik zu gewährleisten.
+
+492
+00:59:10,690 --> 00:59:24,690
+Dann würde ich die Blutbild-SRP-BSK-Elektrolyte-Troponin-CK-MB-DiDiMA bestimmen lassen.
+
+493
+00:59:24,690 --> 00:59:37,690
+Dann würde ich die Blutgasanalyse bestimmen.
+
+494
+00:59:37,690 --> 00:59:45,690
+Dann würde ich die Patientin eine EKG durchführen.
+
+495
+00:59:45,690 --> 00:59:56,690
+Außerdem würde ich die Patientin mit einer Röntgen-Torax-Echokardiografie durchführen.
+
+496
+00:59:56,690 --> 01:00:02,690
+Und möglicherweise werden Herz- und Lungenprobleme ausüben.
+
+497
+01:00:03,690 --> 01:00:09,690
+Haben Sie während der Anamnese eine Intervention durchgeführt?
+
+498
+01:00:09,690 --> 01:00:29,690
+Ja, bei der Anamnese würde ich unsere Aufnahmegespräche unterbrechen.
+
+499
+01:00:29,690 --> 01:00:33,690
+Und was haben Sie gemacht?
+
+500
+01:00:33,690 --> 01:00:50,690
+Ich habe zuerst die Patienten die Sauerstoffsetzung messen und die Patienten die Vitalparameter überwachen.
+
+501
+01:00:50,690 --> 01:00:55,690
+Welche Vitalparameter haben Sie?
+
+502
+01:00:55,690 --> 01:01:07,690
+Ich habe Druck gemessen und Pulse abgetasten.
+
+503
+01:01:07,690 --> 01:01:18,690
+Dann werde ich den Patienten eine EKG beschreiben.
+
+504
+01:01:18,690 --> 01:01:26,690
+Dann werde ich den Patienten Morphin verabreichen.
+
+505
+01:01:28,940 --> 01:01:43,940
+Haben Sie Blutdruck, Pulse, Sauerstoffsetzung, Pulse abgetasten?
+
+506
+01:01:43,940 --> 01:01:45,940
+Ja.
+
+507
+01:01:45,940 --> 01:01:52,940
+Und Sie haben eine EKG beschrieben und Morphin veranlassen?
+
+508
+01:01:52,940 --> 01:01:54,940
+Ja.
+
+509
+01:01:54,940 --> 01:01:59,940
+Haben Sie Blut abgenommen?
+
+510
+01:01:59,940 --> 01:02:13,940
+Ja, ich habe auch Blut abgenommen und mögliche Pulmonerembolie oder Akutmyokrat-Einfarkt auszuschließen.
+
+511
+01:02:13,940 --> 01:02:22,940
+Dabei werde ich den Patienten Dedema, Troponin und CK-MB durchführen.
+
+512
+01:02:23,940 --> 01:02:25,940
+Ok.
+
+513
+01:02:25,940 --> 01:02:31,940
+Dann werden wir die Parameter überwachen.
+
+514
+01:02:32,940 --> 01:02:43,940
+Dann werden wir die Pulmonerembolie und die Artisektion durchführen.
+
+515
+01:02:43,940 --> 01:02:49,940
+Die Artisektion wird dann eine coronarengiographiert.
+
+516
+01:02:50,940 --> 01:03:01,940
+Dann werden wir die Pulsierungen durchführen.
+
+517
+01:03:01,940 --> 01:03:11,940
+Dann werden wir die Pulsierungen durchführen.
+
+518
+01:03:11,940 --> 01:03:25,940
+Dann werden wir die Pulsierungen durchführen.
+
+519
+01:03:25,940 --> 01:03:27,940
+Ok.
+
+520
+01:03:27,940 --> 01:03:31,940
+Dann werden wir die coronarengiographiert.
+
+521
+01:03:31,940 --> 01:03:37,940
+Dann werden wir die Pulsierungen durchführen.
+
+522
+01:03:37,940 --> 01:03:41,940
+Was erwarten Sie im EKG?
+
+523
+01:03:41,940 --> 01:03:57,940
+Ja, wenn der Patient einen Myokratinfarkt hat, erwarten wir eine Troponinerhochung.
+
+524
+01:03:57,940 --> 01:04:09,940
+Wenn der Patient einen Myokratinfarkt hat, erwarten wir eine Stabil-Nonstabil-Myokratinfarkt.
+
+525
+01:04:09,940 --> 01:04:29,940
+Dann werden wir die Stabil-Nonstabil-Myokratinfarkt durchführen.
+
+526
+01:04:29,940 --> 01:04:41,940
+Wie unterscheiden Sie die Stabil-Nonstabil-Myokratinfarkt und die Stabil-Nonstabil-Myokratinfarkt?
+
+527
+01:04:41,940 --> 01:04:51,940
+Der Patient hat eine Stabil-Nonstabil-Myokratinfarkt.
+
+528
+01:04:51,940 --> 01:04:56,940
+Es gibt eine Stabil-Nonstabil-Myokratinfarkt.
+
+529
+01:04:56,940 --> 01:05:04,940
+Aber wenn der Patient eine Stabil-Nonstabil-Myokratinfarkt hat, ist es eine Stabil-Nonstabil-Myokratinfarkt.
+
+530
+01:05:04,940 --> 01:05:14,940
+Und die Charakteristik des Schmerzes ist ein Teil der Stabilisierung?
+
+531
+01:05:14,940 --> 01:05:19,940
+Ja, wenn der Patient eine Stabil-Nonstabil-Myokratinfarkt hat, ist es ein Teil der Stabilisierung des Schmerzes.
+
+532
+01:05:19,940 --> 01:05:29,940
+Wenn der Patient eine Stabil-Nonstabil-Myokratinfarkt hat, ist es ein Teil der Stabilisierung des Schmerzes.
+
+533
+01:05:30,940 --> 01:05:36,940
+Es gibt keine Stabilisierung des Schmerzes.
+
+534
+01:05:36,940 --> 01:05:43,940
+Aber der Patient hat eine Stabil-Nonstabil-Myokratinfarkt.
+
+535
+01:05:43,940 --> 01:05:54,940
+Eine Stabil-Nonstabil-Myokratinfarkt hat eine Stabil-Nonstabil-Myokratinfarkt.
+
+536
+01:05:54,940 --> 01:06:00,940
+Ja, das ist ein bisschen anders.
+
+537
+01:06:00,940 --> 01:06:07,940
+Welche akute Masnahmen würden Sie ergreifen?
+
+538
+01:06:07,940 --> 01:06:16,940
+Um meine Verdachtdiagnose zu bestätigen, werde ich die Patienten stationärer aufnehmen.
+
+539
+01:06:16,940 --> 01:06:26,940
+Und ich werde ihnen einen Venouszugang legen und den Patienten mit Problemen,
+
+540
+01:06:26,940 --> 01:06:36,940
+Statin, Betoblocken und Heparin verabreichen.
+
+541
+01:06:36,940 --> 01:06:44,940
+Okay. Wann ist eine Bypass-Operation in der Seele?
+
+542
+01:06:44,940 --> 01:06:54,940
+Wenn es in der Seele, wenn es in der Seele,
+
+543
+01:06:54,940 --> 01:07:00,940
+im Grunde genommen, in der Seele, in der Seele,
+
+544
+01:07:00,940 --> 01:07:06,940
+eine Behandlung gibt, werde ich eine Bypass-Planung machen.
+
+545
+01:07:06,940 --> 01:07:11,940
+Okay. Was empfehlen Sie den Patienten nach der Therapie?
+
+546
+01:07:11,940 --> 01:07:19,940
+Nach der Therapie empfehlen mir die Patienten Niko-Tinkarenz,
+
+547
+01:07:19,940 --> 01:07:33,940
+Bewegung, Erhöhung und Stressverminderung.
+
+548
+01:07:34,940 --> 01:07:40,940
+Der Patient hat viele chronische Erkrankungen.
+
+549
+01:07:40,940 --> 01:07:52,940
+Es ist wichtig, Blutwerte und Blutdruckwerte und Kolesterinwerte kontrollieren.
+
+550
+01:07:52,940 --> 01:07:56,940
+Oder regelmäßig auskontrollieren.
+
+551
+01:07:56,940 --> 01:08:00,940
+Ja, regelmäßig auskontrollieren. Ja, das ist sehr wichtig.
+
+552
+01:08:00,940 --> 01:08:10,940
+Ich empfehle den Patienten nicht zu essen, sondern auch Obst und Gemüse zu essen.
+
+553
+01:08:10,940 --> 01:08:14,940
+Ja, okay.
+
+554
+01:08:14,940 --> 01:08:16,940
+Wir haben keine Zeit, aber ...

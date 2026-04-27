@@ -1,0 +1,2347 @@
+1
+00:00:00,000 --> 00:00:10,000
+Guten Tag, mein Name ist Bulur. Ich bin die Savenda Ärztin auf der Station und würde gerne das Gespräch mit Ihnen führen. Ist das in Ordnung für Sie?
+
+2
+00:00:10,000 --> 00:00:12,000
+Ja, in Ordnung.
+
+3
+00:00:12,000 --> 00:00:21,000
+So heißt, ich werde ein paar Fragen zu Ihrer Person stellen, dann direkt ihren aktuellen Beschwerden übergehen. Wie heißen Sie denn?
+
+4
+00:00:21,000 --> 00:00:26,000
+Mein Name ist Jakob. Jakob Mais.
+
+5
+00:00:26,000 --> 00:00:28,000
+Ja.
+
+6
+00:00:28,000 --> 00:00:34,000
+Wie heißt Ihr Name?
+
+7
+00:00:34,000 --> 00:00:39,000
+Jakob, J-A-K-O-B.
+
+8
+00:00:39,000 --> 00:00:42,000
+Mais, M-A-I-S.
+
+9
+00:00:42,000 --> 00:00:43,000
+I-S?
+
+10
+00:00:43,000 --> 00:00:44,000
+Ja.
+
+11
+00:00:44,000 --> 00:00:47,000
+Ohne E? Noa-S? Okay.
+
+12
+00:00:47,000 --> 00:00:51,000
+Noa-I-S ja. A-I-S.
+
+13
+00:00:51,000 --> 00:00:57,000
+Okay. Herr Mais, wie alt sind Sie?
+
+14
+00:00:57,000 --> 00:01:00,000
+Ja, ich bin 55, Frau Doktor.
+
+15
+00:01:00,000 --> 00:01:04,000
+55, okay. Wann sind Sie genau geboren?
+
+16
+00:01:04,000 --> 00:01:08,000
+18, 1970.
+
+17
+00:01:08,000 --> 00:01:17,000
+18, okay. 1970.
+
+18
+00:01:17,000 --> 00:01:21,000
+Vielen Dank für den Geburtstag, Herr Mais.
+
+19
+00:01:21,000 --> 00:01:34,000
+Vielen Dank, Frau Doktor, aber ich fühle mich nicht gut. Deswegen konnte ich meinen Geburtstag nicht feiern. Ich konnte nicht gut Luft kriegen und ich hatte Schmerzen.
+
+20
+00:01:34,000 --> 00:01:37,000
+Schmerzen? In der Brust?
+
+21
+00:01:37,000 --> 00:01:39,000
+Ja, leider.
+
+22
+00:01:39,000 --> 00:01:42,000
+Seit wann haben Sie die Geburtstag?
+
+23
+00:01:42,000 --> 00:01:47,000
+Seit vier Tagen habe ich die Geburtstag.
+
+24
+00:01:47,000 --> 00:01:53,000
+Und es geht schlimmer. Es ist schlimmer geworden.
+
+25
+00:01:53,000 --> 00:01:58,000
+Ja, es ist sehr leid zu hören. Wo genau sind Ihre Schmerzen?
+
+26
+00:01:58,000 --> 00:02:00,000
+Hinter?
+
+27
+00:02:00,000 --> 00:02:03,000
+Hinter ganz Brust, ich kann sagen.
+
+28
+00:02:03,000 --> 00:02:06,000
+Ganz Brust, okay.
+
+29
+00:02:06,000 --> 00:02:09,000
+Vor zehn Tagen hatte ich Erkältung.
+
+30
+00:02:09,000 --> 00:02:17,000
+Ich hatte Kräuter, Tee und Bonbons und so weiter. Ich habe viel eingenommen.
+
+31
+00:02:17,000 --> 00:02:26,000
+Ich fühlte mich besser, aber seit vier Tagen sind meine Schmerzen verschlimmert.
+
+32
+00:02:26,000 --> 00:02:41,000
+Ich habe Fieber, habe auch Hüsten und ich fühle mich nicht gut. Ich kann nicht laufen. Ich habe keine Kraft.
+
+33
+00:02:41,000 --> 00:02:49,000
+Okay, ja ich verstehe. Haben Sie beim Hüsten Ausruf auch?
+
+34
+00:02:49,000 --> 00:02:52,000
+Ja, ja, habe ich auch.
+
+35
+00:02:52,000 --> 00:02:56,000
+Wie ist Ihr Ausruf?
+
+36
+00:02:56,000 --> 00:03:00,000
+Grünlicher oder grünlicher Ausruf, kann ich sagen.
+
+37
+00:03:00,000 --> 00:03:04,000
+Grünlicher und grüner. Okay.
+
+38
+00:03:04,000 --> 00:03:09,000
+Und haben Sie seit vier Tagen Hüsten?
+
+39
+00:03:09,000 --> 00:03:13,000
+Ja, seit vier Tagen habe ich Hüsten.
+
+40
+00:03:13,000 --> 00:03:21,000
+Gestern Nacht konnte ich nicht schlafen. Ich hatte gezittert und aufgewacht.
+
+41
+00:03:21,000 --> 00:03:28,000
+Ich habe meine Kleidung wechselt.
+
+42
+00:03:28,000 --> 00:03:33,000
+Dann schwitze ich, wie ich geduscht habe.
+
+43
+00:03:33,000 --> 00:03:48,000
+Ich habe ein Kaltwassertemperatur gemessen. Es war 39,5 Grad.
+
+44
+00:03:48,000 --> 00:04:00,000
+Ich habe ein Paracetamol genommen. Meine Fieber hat gesunken. Heute Morgen habe ich auch Fieber.
+
+45
+00:04:00,000 --> 00:04:08,000
+Heute Morgen ist meine Fieber 40 Grad. Ich fühle mich total schlafen.
+
+46
+00:04:08,000 --> 00:04:15,000
+Okay, ich verstehe. Und haben Sie auch Atemnot?
+
+47
+00:04:15,000 --> 00:04:19,000
+Ja, ich kann nicht Blut bekommen.
+
+48
+00:04:19,000 --> 00:04:23,000
+Im Ruhe auch? Haben Sie Atemnot?
+
+49
+00:04:23,000 --> 00:04:31,000
+Besonders wenn ich auf der Treppe steige, aber im Ruhe auch. Seit heute Morgen habe ich Atemnot.
+
+50
+00:04:31,000 --> 00:04:44,000
+Okay. Aber haben Sie vor vier Tagen keine ähnlichen Beschwerden?
+
+51
+00:04:44,000 --> 00:04:54,000
+Vor zehn Tagen hatte ich Erkältung. Ich habe Schnupfen.
+
+52
+00:04:54,000 --> 00:05:01,000
+Seit vier Tagen habe ich Hüsten und Brustschmerzen.
+
+53
+00:05:01,000 --> 00:05:10,000
+Ich habe ein komisches Gefühl, ein enges Gefühl. Ich weiß nicht, aber das stört mich sehr.
+
+54
+00:05:10,000 --> 00:05:14,000
+Haben Sie auch Brustschmerzen?
+
+55
+00:05:14,000 --> 00:05:16,000
+Brustschmerzen, ja.
+
+56
+00:05:16,000 --> 00:05:32,000
+Ja, ich habe Kodion und ein acetyl-System angenommen wegen Hüsten und Auswurf.
+
+57
+00:05:32,000 --> 00:05:39,000
+Aber das hat mir nicht geholfen. Ich habe eine Linderung gebracht.
+
+58
+00:05:39,000 --> 00:05:45,000
+Okay. Haben Sie diese Medikamente in die Hausarzt verschieben?
+
+59
+00:05:45,000 --> 00:05:58,000
+Ja, vor sechs Monaten hat mein Hausarzt diese Medikamente geschrieben und ich hatte eine Pause. Deswegen habe ich selbst eingeladen.
+
+60
+00:05:58,000 --> 00:06:04,000
+Okay. Haben Sie vor sechs Monaten eine Erkältung gehabt?
+
+61
+00:06:04,000 --> 00:06:14,000
+Ja, einmal hatte ich Hüsten. Vor sechs Monaten. Aber es dauerte drei Tage. Dann war ich gesund.
+
+62
+00:06:14,000 --> 00:06:27,250
+Okay. Ich verstehe. Wie viel wiegen Sie, Herr Meis?
+
+63
+00:06:27,250 --> 00:06:31,250
+Ja, ich bin 69, Frau Doktor.
+
+64
+00:06:31,250 --> 00:06:37,250
+Okay. Und wissen Sie, wie groß Sie sind?
+
+65
+00:06:37,250 --> 00:06:43,250
+Ja, ich bin 1 Meter 78.
+
+66
+00:06:43,250 --> 00:06:51,250
+78. Okay. Wie heißt Ihr Hausarzt?
+
+67
+00:06:51,250 --> 00:06:55,250
+Herr Wagner.
+
+68
+00:06:55,250 --> 00:06:59,250
+Okay. Danke schön für diese Informationen.
+
+69
+00:06:59,250 --> 00:07:10,250
+Und haben Sie im Blut in Ihrer Hüsten oder in Ihrer Auswurf bemerkt? Blut?
+
+70
+00:07:10,250 --> 00:07:13,250
+Blut habe ich nicht bemerkt, nein.
+
+71
+00:07:13,250 --> 00:07:22,250
+Okay. Es freut mich. Und schlafen Sie gut? Nein. Wie ist Ihr Appetit?
+
+72
+00:07:22,250 --> 00:07:31,250
+Seit zwei Tagen kann ich nichts gut essen. Ich esse nur Suppe.
+
+73
+00:07:31,250 --> 00:07:40,250
+Okay. Und in letzter Zeit haben Sie ungewöhnlich ab oder so genommen?
+
+74
+00:07:40,250 --> 00:07:42,250
+Nein, habe ich nicht.
+
+75
+00:07:42,250 --> 00:07:52,660
+Okay. Sehr gut. Und haben Sie Probleme beim Wasserlassen oder Stuhlgang?
+
+76
+00:07:52,660 --> 00:08:01,660
+Seit gestern pinkle ich sehr wenig. Aber Stuhlgang ist ganz normal.
+
+77
+00:08:01,660 --> 00:08:08,660
+Trinken Sie ausreichende Getränke? Denken Sie?
+
+78
+00:08:08,660 --> 00:08:13,660
+Ja, ich weiß nicht, Frau Doktor. Aber ich habe Fieber und gesittert.
+
+79
+00:08:13,660 --> 00:08:19,660
+Ja. Ich trinke aber ich weiß nicht ob es ausreichend ist.
+
+80
+00:08:19,660 --> 00:08:31,660
+Okay. Herr Meis, sind bei Ihnen irgendwelche chronische Erkrankungen bekannt?
+
+81
+00:08:31,660 --> 00:08:45,660
+Ja, ich leide an seit sieben Jahren Bluthochdruck. Und hatte auch vor drei Jahren Forschter der Lüse Parsinom.
+
+82
+00:08:45,660 --> 00:08:47,660
+Parsinom? Oh.
+
+83
+00:08:47,660 --> 00:08:56,660
+Ja, vor drei Jahren. Und wurde es mit Bestrahlung behandelt.
+
+84
+00:08:56,660 --> 00:09:02,660
+Okay. Sind Sie jetzt gesund? Oder sind Sie...
+
+85
+00:09:02,660 --> 00:09:08,660
+Ja, ich fühle mich gerückt. Aber ich nehme regelmäßig ein Medikament.
+
+86
+00:09:08,660 --> 00:09:15,660
+Gocerelin. 3 mg monatlich unter Hautimplantat.
+
+87
+00:09:15,660 --> 00:09:26,150
+Implant. Okay. Könnten Sie wiederholen der Name des Medikaments?
+
+88
+00:09:26,150 --> 00:09:37,150
+Gocerelin. 3 mg monatlich.
+
+89
+00:09:37,150 --> 00:09:43,150
+Ja, ich verstehe.
+
+90
+00:09:43,150 --> 00:09:51,150
+Und nehme ich auch ein Norvax Tablett. Norvax 10 mg Tablett. Ich nehme regelmäßig.
+
+91
+00:09:51,150 --> 00:09:53,150
+Ja, morgens?
+
+92
+00:09:54,150 --> 00:10:05,150
+Noch etwas? Haben Sie einige Medikamente? Nein? Okay. Sehr gut.
+
+93
+00:10:05,150 --> 00:10:10,150
+Wurden Sie schon einmal operiert, Herr Meis?
+
+94
+00:10:13,390 --> 00:10:27,390
+Ja, wegen Orchester Lüse Parsinom wurde ich operiert. Danach habe ich Bestrahlung gehabt.
+
+95
+00:10:27,390 --> 00:10:36,390
+Vor drei Jahren, okay. Noch etwas? Nein, habe ich keine mehr.
+
+96
+00:10:36,390 --> 00:10:41,390
+Okay. Rachen Sie, Herr Meis?
+
+97
+00:10:41,390 --> 00:10:47,390
+Ja, ich raufe gerne 10 Zigaretten pro Tag. Seit wann rauen Sie?
+
+98
+00:10:47,390 --> 00:10:56,390
+Seit 30 Jahren. Meine Ökologie hat mir empfohlen aufzuhören, aber ich könnte es nicht schaffen.
+
+99
+00:10:56,390 --> 00:11:01,390
+Deswegen rauche ich.
+
+100
+00:11:01,390 --> 00:11:12,390
+Ja, ich verstehe Sie, aber wir müssen diesen Subjekt wiederholen. Und trinken Sie Alkohol?
+
+101
+00:11:12,390 --> 00:11:18,390
+Ja, ich trinke manchmal Bier. Ein oder zwei Bier.
+
+102
+00:11:18,390 --> 00:11:23,390
+Ein oder zwei Flaschen Bier. Manchmal am Monat oder ein bis zwei Mal.
+
+103
+00:11:23,390 --> 00:11:28,390
+Ja, einmal pro Woche oder dreimal pro Monat.
+
+104
+00:11:28,390 --> 00:11:33,390
+Okay. Hatten Sie jemals Kontakt mit Drogen?
+
+105
+00:11:33,390 --> 00:11:36,390
+Nein, niemals.
+
+106
+00:11:36,390 --> 00:11:40,390
+Treiben Sie regelmäßig Sport?
+
+107
+00:11:40,390 --> 00:11:46,390
+Ja, ich laufe zweimal pro Woche. Ich laufe gerne.
+
+108
+00:11:46,390 --> 00:11:53,390
+Okay. Sehr gut. Gibt es in Ihrer Familie chronische Erkrankungen?
+
+109
+00:11:53,390 --> 00:11:56,390
+Mein Vater oder meine Mutter?
+
+110
+00:11:56,390 --> 00:12:06,390
+Ja, leider ist mein Vater an Lungenkrebs gestorben.
+
+111
+00:12:06,390 --> 00:12:21,280
+Und meine Mutter hat leider eine Zuckerkrankheit und Bluthochdruck.
+
+112
+00:12:21,280 --> 00:12:24,280
+Okay. Haben Sie Geschwister?
+
+113
+00:12:24,280 --> 00:12:29,280
+Ja, ich habe einen Bruder. Er ist gesund, denke ich.
+
+114
+00:12:29,280 --> 00:12:34,280
+Er war gesund gestern.
+
+115
+00:12:34,280 --> 00:12:38,280
+Okay, ich verstehe. Was machen Sie beruflich?
+
+116
+00:12:38,280 --> 00:12:42,280
+Ich bin Lehrer.
+
+117
+00:12:42,280 --> 00:12:50,280
+Okay, sehr gut. Und leben Sie alleine oder mit jemandem zusammen?
+
+118
+00:12:50,280 --> 00:12:54,280
+Ich habe eine Familie, Frau Doktor.
+
+119
+00:12:54,280 --> 00:12:59,280
+Sie sind verheiratet. Und haben Sie Kinder?
+
+120
+00:12:59,280 --> 00:13:03,280
+Ja, ich habe drei Töchter.
+
+121
+00:13:03,280 --> 00:13:07,280
+Sehr gut. Sind Sie gesund?
+
+122
+00:13:07,280 --> 00:13:14,280
+Ja, meine kleine Tochter ist leider an Asthma.
+
+123
+00:13:14,280 --> 00:13:19,280
+Asthma. Okay.
+
+124
+00:13:19,280 --> 00:13:26,280
+Sind Sie allergisch gegen etwas?
+
+125
+00:13:26,280 --> 00:13:31,280
+Ja, ich habe Nussallergie.
+
+126
+00:13:31,280 --> 00:13:35,280
+Wie reagieren Sie darauf?
+
+127
+00:13:35,280 --> 00:13:41,280
+Ja, mit Halskratzen und Jücken reagiere ich.
+
+128
+00:13:41,280 --> 00:13:44,280
+Halskratzen. Okay. Okay.
+
+129
+00:13:44,280 --> 00:13:49,280
+Okay, Sie verstehen die Gift?
+
+130
+00:13:49,280 --> 00:13:52,280
+Ja, denke ich.
+
+131
+00:13:52,280 --> 00:13:59,280
+Okay. Waren Sie in Lesse seit... im Ausland?
+
+132
+00:13:59,280 --> 00:14:07,280
+Im Ausland, im Lestejahr waren wir meines Inseln mit meiner Familie.
+
+133
+00:14:07,280 --> 00:14:10,280
+Aber in Lesse.
+
+134
+00:14:10,280 --> 00:14:14,280
+Okay.
+
+135
+00:14:14,280 --> 00:14:23,280
+Waren Sie in Lesse in der Umgebung mit den Beschwerden?
+
+136
+00:14:23,280 --> 00:14:30,280
+Ja, in Lesse war ein Kollege im Ausland.
+
+137
+00:14:30,280 --> 00:14:37,280
+Viele Kollegen waren erkeunt.
+
+138
+00:14:37,280 --> 00:14:46,280
+Und nach der Erkältung hatte ich einige Beschwerden wie meine Kollegen.
+
+139
+00:14:46,280 --> 00:14:55,780
+Okay. Haben Sie Impfung gegen Pneumokok oder Grippe?
+
+140
+00:14:55,780 --> 00:15:00,780
+Was ist Pneumokok, Frau Doktor? Was ist Pneumokok? Weiß ich nicht.
+
+141
+00:15:00,780 --> 00:15:11,780
+Pneumokok ist eine Bakterien-Lungenentzündung verursacht.
+
+142
+00:15:11,780 --> 00:15:17,780
+Aber das ist eine der Namen eine Impfung, Pneumokok-Impfung.
+
+143
+00:15:17,780 --> 00:15:28,780
+Okay. Ich habe keine Pneumokok-Impfung gehabt, aber ich bin geimpft gegen Covid-19 viermal.
+
+144
+00:15:28,780 --> 00:15:34,780
+Kinder und Krankheiten, ich bin geimpft.
+
+145
+00:15:34,780 --> 00:15:41,780
+Und Tetanus und Grippe.
+
+146
+00:15:41,780 --> 00:15:45,780
+Okay. Haben Sie einen Covid-Test gemacht?
+
+147
+00:15:45,780 --> 00:15:48,780
+Covid-Test? Warum, Frau Doktor?
+
+148
+00:15:48,780 --> 00:15:55,780
+Sie haben eine Lungenentzündung. Ich glaube, das ist eine Halsentzündung.
+
+149
+00:15:55,780 --> 00:16:01,780
+Wie viele Mal können Sie einen Covid-Test machen?
+
+150
+00:16:01,780 --> 00:16:07,780
+Nein, ich habe keinen Covid-Test gemacht.
+
+151
+00:16:07,780 --> 00:16:15,780
+Oder haben Sie in Hausarzt einen Covid-Test gemacht? Nein.
+
+152
+00:16:15,780 --> 00:16:20,780
+Nein, nein, nein. Aber das ist gefährlich, Yavuz.
+
+153
+00:16:20,780 --> 00:16:28,780
+Kann ich zu Hause gehen? Ist das, wenn ich Covid habe?
+
+154
+00:16:28,780 --> 00:16:35,780
+Jetzt ist es zu früh, etwas zu Genres zu sagen.
+
+155
+00:16:35,780 --> 00:16:43,780
+Aber ich denke, sie muss ein paar Stunden im Krankenhaus bleiben.
+
+156
+00:16:43,780 --> 00:16:51,780
+Nach der Untersuchung entscheiden wir, ob sie im Krankenhaus bleiben muss.
+
+157
+00:16:51,780 --> 00:16:57,780
+Aber ich möchte diese Informationen jetzt sagen.
+
+158
+00:16:57,780 --> 00:17:05,780
+Und habe ich keine weiteren Fragen, Herr Meis? Möchten Sie etwas hinzufügen?
+
+159
+00:17:05,780 --> 00:17:08,780
+Oder haben Sie Fragen?
+
+160
+00:17:08,780 --> 00:17:16,780
+Mein Vater ist eine Lungenkrebsgestörung. Deswegen habe ich Angst.
+
+161
+00:17:16,780 --> 00:17:20,780
+Kann ich eine Lungenkrebs-Störung haben, Frau Doktor?
+
+162
+00:17:20,780 --> 00:17:24,780
+Herr Meis, ich verstehe Ihre Sorge sehr gut.
+
+163
+00:17:24,780 --> 00:17:28,780
+Aber bitte denken Sie nicht gleich an das Schlimmste.
+
+164
+00:17:28,780 --> 00:17:39,780
+Ich habe gesagt, dass ich einige Untersuchungen durchführen muss, auch um die Krebs auszuschließen.
+
+165
+00:17:39,780 --> 00:17:47,780
+Aber zuerst werde ich sie körperlich untersuchen und Blut abnehmen.
+
+166
+00:17:47,780 --> 00:17:50,780
+Und einige Laborparameter überprüfen.
+
+167
+00:17:50,780 --> 00:17:57,780
+Und danach eine weitere Untersuchung durchführen.
+
+168
+00:17:57,780 --> 00:18:01,780
+Und ich werde sie mit meinem Oberarzt besprechen.
+
+169
+00:18:01,780 --> 00:18:10,780
+Sobald alle Ergebnisse vorliegen, kann ich Ihnen etwas Genres sagen.
+
+170
+00:18:10,780 --> 00:18:18,780
+Aber zuerst werde ich Ihnen Vitalparameter überprüfen.
+
+171
+00:18:18,780 --> 00:18:33,780
+Ihre Sauerstoffsetzung, Atemfrequenz und Herzfrequenz und Ihren Blutdruck und Puls.
+
+172
+00:18:33,780 --> 00:18:46,780
+Dann werde ich Sie eine Zugatt legen und eine Fiebersenkung verabreichen.
+
+173
+00:18:46,780 --> 00:18:56,780
+Dann werden wir alle Ergebnisse beurteilen und ich werde Ihnen etwas Genres sagen.
+
+174
+00:18:56,780 --> 00:19:01,780
+Frau Doktor, können Sie einen Covid-Test durchführen?
+
+175
+00:19:01,780 --> 00:19:15,780
+Ja, ich kann. Aber zuerst möchte ich eine Röntgenaufnahme veranlassen und die Bluttest-Ergebnisse sehen.
+
+176
+00:19:15,780 --> 00:19:19,780
+Dann werden wir eine Röntgenaufnahme veranlassen.
+
+177
+00:19:19,780 --> 00:19:23,780
+Wie wird ein Covid-Test durchgeführt?
+
+178
+00:19:23,780 --> 00:19:31,780
+Wie wird? Gibt es Schnelltestpräparate?
+
+179
+00:19:31,780 --> 00:19:43,780
+Ja, das ist ein Testpräparat.
+
+180
+00:19:43,780 --> 00:19:53,780
+Dann werden wir eine Labortest überprüfen.
+
+181
+00:19:53,780 --> 00:19:56,780
+Okay, dann warten Sie.
+
+182
+00:19:56,780 --> 00:20:04,780
+Dann warten Sie in diesem Raum.
+
+183
+00:20:04,780 --> 00:20:14,780
+Eine Schwester wird Sie umkümmern.
+
+184
+00:20:14,780 --> 00:20:18,780
+Vielen Dank Frau Doktor, Sie sind sehr nett.
+
+185
+00:20:18,780 --> 00:20:30,780
+Okay, Herr Oberarzt, ich möchte Ihnen einen neuen Patienten vorstellen.
+
+186
+00:20:30,780 --> 00:20:32,780
+Haben Sie Zeit für mich?
+
+187
+00:20:32,780 --> 00:20:34,780
+Ja, bitte schön.
+
+188
+00:20:34,780 --> 00:20:45,780
+Der Patient heißt Jakub Mais, ist 55 Jahre alt, ein Mitte 78 groß und wiegt 69 Kilo.
+
+189
+00:20:45,780 --> 00:20:54,780
+Herr Mais stellt sich heute bei uns wegen seit drei Tagen bestehender Zunehmender
+
+190
+00:20:54,780 --> 00:21:04,780
+Fieber mit heute Morgen 40 Grad,
+
+191
+00:21:04,780 --> 00:21:15,780
+mit grünlich und gelblich Auswurf und belastungabhängig Dyspina vor.
+
+192
+00:21:15,780 --> 00:21:31,780
+Der Patient klagt über auch Mielgier, Müdigkeit und nächtliche Hyperhydros, Schutafros und Zittern.
+
+193
+00:21:31,780 --> 00:21:52,780
+Die Einnahme Paracetamol, Anesthetik und Kodein haben den Patienten keine Besserung gebracht.
+
+194
+00:21:52,780 --> 00:22:12,780
+Der Patient berichtet, er hatte seit ca. 10 Tagen eine Erkaltung,
+
+195
+00:22:12,780 --> 00:22:20,780
+aber seit drei Tagen hat sich die Erkaltung verschlimmert.
+
+196
+00:22:20,780 --> 00:22:40,780
+In ihrem Arbeitsplatz haben viele Mitarbeiter und Mitarbeiterinnen eine Erkaltung.
+
+197
+00:22:40,780 --> 00:22:51,780
+In der VEGATATIVEN Anamnese ist unaufhängig bis auf Schmerzbedingte, Insomni und inapathens.
+
+198
+00:22:51,780 --> 00:23:06,780
+Der Patient hat Oligo-Gri.
+
+199
+00:23:06,780 --> 00:23:24,780
+Er leidet seit 7 Jahren an arteriölig Pertoni.
+
+200
+00:23:24,780 --> 00:23:39,780
+Der Patient hat vor drei Jahren eine Prostate Carcino diagnostiziert.
+
+201
+00:23:39,780 --> 00:23:54,780
+Der Patient hat vor drei Jahren eine Prostate Carcino diagnostiziert.
+
+202
+00:23:54,780 --> 00:24:09,780
+Der Patient hat vor drei Jahren eine Prostate Carcino diagnostiziert.
+
+203
+00:24:09,780 --> 00:24:24,780
+Der Patient hat vor drei Jahren eine Prostate Carcino diagnostiziert.
+
+204
+00:24:24,780 --> 00:24:51,780
+Der Patient nimmt regelmäßig 10 mg Norvax morgens und er benutzt eine Implant Gocerelin 3,6 mg monatlich gegen Prostate Carcino.
+
+205
+00:24:51,780 --> 00:25:03,780
+Er ist Rache und er braucht seit 30 Jahren 10 Zigaretten pro Tag.
+
+206
+00:25:03,780 --> 00:25:10,780
+Er trinkt gelegentlich 1-2 Flaschen Bier pro Woche.
+
+207
+00:25:10,780 --> 00:25:18,780
+Er braucht 2 Mal pro Woche.
+
+208
+00:25:18,780 --> 00:25:25,780
+Er arbeitet als Lehrer.
+
+209
+00:25:25,780 --> 00:25:44,780
+Er ist verheiratet, hat zwei gesunde Tochter und seine kleine Tochter hat Asthma Bronchiale.
+
+210
+00:25:44,780 --> 00:25:59,780
+Er ist allergisch gegen Nuss mit den Symptomen von Halskratzen und Pyrurhitis.
+
+211
+00:25:59,780 --> 00:26:10,780
+Er ist allergisch gegen Nuss mit den Symptomen von Halskratzen und Pyrurhitis.
+
+212
+00:26:10,780 --> 00:26:18,780
+Er ist verheiratet und seine Anamnesen sind unaufregend.
+
+213
+00:26:18,780 --> 00:26:27,780
+Die Anamnestischen haben die Anamnesen auf Pneumonie.
+
+214
+00:26:27,780 --> 00:26:50,150
+Die Asthma Bronchiale ist eine Asthma Bronchiale.
+
+215
+00:26:50,150 --> 00:27:02,970
+Sie ist in Betracht von COPD.
+
+216
+00:27:02,970 --> 00:27:08,970
+Das ist eine wichtige Information der Familienanamnese bei diesen Patienten.
+
+217
+00:27:08,970 --> 00:27:20,970
+Sein Vater ist an Bronchiale gestorben.
+
+218
+00:27:20,970 --> 00:27:28,970
+Seine Mutter leidet an Arteriellaepartonie und Diabetes mellitus.
+
+219
+00:27:28,970 --> 00:27:34,970
+Er hat einen gesunden Bruder.
+
+220
+00:27:34,970 --> 00:27:40,440
+Welche Symptome sprechen für eine Pneumonie?
+
+221
+00:27:40,440 --> 00:27:48,440
+Der Patient hat vor 3 Tagen Erkaltungssymptome.
+
+222
+00:27:48,440 --> 00:28:05,440
+Seit 3 Tagen hat er Höchstfieber, Thysiös, Dyspnoe und gründlich-gärtliche Ausrufe.
+
+223
+00:28:05,440 --> 00:28:09,440
+Die Symptome sprechen für eine Pneumonie.
+
+224
+00:28:09,440 --> 00:28:17,440
+Wie können wir sagen als Fachbegriff für Husten mit Auswurf?
+
+225
+00:28:17,440 --> 00:28:25,440
+Die Anamnese ist produktiv.
+
+226
+00:28:25,440 --> 00:28:33,440
+Um die Diabetes zu erklären, sollten die folgenden Maßnahmen durchgeführt werden.
+
+227
+00:28:33,440 --> 00:28:42,440
+So würde ich den Patienten körperlich untersuchen.
+
+228
+00:28:42,440 --> 00:28:54,440
+Ich würde alle vitalen Parameter kontrollieren.
+
+229
+00:28:54,440 --> 00:29:06,440
+Und gegebenenfalls eine Sauerstoffsetzung und ausreichende Flüssigkeit geben.
+
+230
+00:29:06,440 --> 00:29:28,440
+Bei der körperlichen Untersuchung achte ich darauf Atemfrequenz, Herzfrequenz, Blutdruck und die anderen vitalen Parameter.
+
+231
+00:29:28,440 --> 00:29:43,440
+Ich auskultiere Lungen und Herz, um die Diagnose zu bestätigen und andere Patologien auszuschließen.
+
+232
+00:29:43,440 --> 00:29:47,440
+Was erwarten Sie bei der Auskultation?
+
+233
+00:29:47,440 --> 00:30:03,440
+Bei der Auskultation erwarte ich eine pathologische Rungengeräusche als Gizem.
+
+234
+00:30:03,440 --> 00:30:07,440
+Wie sagen wir das?
+
+235
+00:30:07,440 --> 00:30:12,440
+Ihre Verdacht Diagnose ist eine Pneumonie.
+
+236
+00:30:12,440 --> 00:30:28,440
+Ich erwarte Rasselgeräusche und feuchte Rasselgeräusche.
+
+237
+00:30:28,440 --> 00:30:33,440
+Ich weiß nicht, ob das richtig ist.
+
+238
+00:30:33,440 --> 00:30:39,440
+Was ist das denn?
+
+239
+00:30:39,440 --> 00:30:43,440
+Was ist das?
+
+240
+00:30:43,440 --> 00:30:46,440
+Ich weiß nicht.
+
+241
+00:30:46,440 --> 00:30:49,440
+Was ist das?
+
+242
+00:30:50,440 --> 00:30:53,440
+Was ist das denn?
+
+243
+00:30:53,440 --> 00:30:57,440
+Was ist das?
+
+244
+00:30:57,440 --> 00:31:00,440
+Kennen Sie?
+
+245
+00:31:00,440 --> 00:31:04,440
+Nein, in der Türkisch.
+
+246
+00:31:04,440 --> 00:31:07,440
+Ok, also bei der Palpation.
+
+247
+00:31:07,440 --> 00:31:10,440
+Bei der Palpation können wir...
+
+248
+00:31:10,440 --> 00:31:12,440
+Ja, ich weiß.
+
+249
+00:31:12,440 --> 00:31:20,440
+Bei der Palpation, ich sage der Patient bitte sagen 99.
+
+250
+00:31:20,440 --> 00:31:35,440
+Dann ich palpiere die Lungen und ich fühle eine Geräusche oder eine Bewegung.
+
+251
+00:31:35,440 --> 00:31:39,440
+Also verminderte ist die Prämie.
+
+252
+00:31:39,440 --> 00:31:41,440
+Verstand es?
+
+253
+00:31:41,440 --> 00:31:44,440
+Ja, ich bin prämie.
+
+254
+00:31:44,440 --> 00:31:59,440
+Und ich würde den Patienten eine Rundkenaufnahme des Thorax in zwei Ebenen veranlassen.
+
+255
+00:31:59,440 --> 00:32:03,440
+Und meine Verdacht Diagnose bestätigen.
+
+256
+00:32:03,440 --> 00:32:07,440
+Was erwarten Sie?
+
+257
+00:32:07,440 --> 00:32:17,040
+Ich erwarte...
+
+258
+00:32:17,040 --> 00:32:27,040
+Ich erwarte den gleichen Bereich.
+
+259
+00:32:27,040 --> 00:32:31,040
+Also Fachbegriff, also Infiltration.
+
+260
+00:32:31,040 --> 00:32:33,040
+Ja, ja Infiltration.
+
+261
+00:32:33,040 --> 00:32:35,040
+Ob es das ist, ja Infiltration.
+
+262
+00:32:35,040 --> 00:32:41,040
+Ich erwarte betroffenen Lungenlappen Infiltration.
+
+263
+00:32:41,040 --> 00:32:47,040
+Und gegebenenfalls ein CT.
+
+264
+00:32:47,040 --> 00:32:50,040
+Ist sinnvoll.
+
+265
+00:32:50,040 --> 00:32:54,040
+Und ich würde Blut abnehmen.
+
+266
+00:32:54,040 --> 00:33:03,040
+Und ein großes Blutbild, Entzündungsparameter BSG und CRP.
+
+267
+00:33:03,040 --> 00:33:12,040
+Und Nieren und Lebewerte bestimmen lassen.
+
+268
+00:33:12,040 --> 00:33:16,040
+Und einen Covid-Test.
+
+269
+00:33:16,040 --> 00:33:28,040
+Und ich würde einen Covid-Test durchführen um die Covid auszuschließen.
+
+270
+00:33:28,040 --> 00:33:36,140
+Dann Prokastonin.
+
+271
+00:33:36,140 --> 00:33:38,140
+Bronchiakastonin.
+
+272
+00:33:38,140 --> 00:33:41,140
+Nein, das ist spezifisch bei der Pneumonie.
+
+273
+00:33:41,140 --> 00:33:43,140
+Ja, Prokastonin.
+
+274
+00:33:43,140 --> 00:33:47,140
+Und ich würde im Blut Prokastonin überprüfen.
+
+275
+00:33:47,140 --> 00:33:50,140
+Prokastonin.
+
+276
+00:33:50,140 --> 00:33:51,140
+Ja.
+
+277
+00:33:51,140 --> 00:33:52,140
+Okay.
+
+278
+00:33:52,140 --> 00:33:55,140
+Wurde schon die körperliche Untersuchung durchgeführt.
+
+279
+00:33:55,140 --> 00:34:01,140
+Und dann Labouruntersuchungen auch dann?
+
+280
+00:34:01,140 --> 00:34:08,140
+Labouruntersuchung und Röntgen und CT veranlassen.
+
+281
+00:34:08,140 --> 00:34:15,140
+Dann sollte sich die Verdacht Diagnose bestätigen.
+
+282
+00:34:15,140 --> 00:34:19,140
+Schlage ich die Volgandentherapie vor.
+
+283
+00:34:19,140 --> 00:34:21,140
+Wie?
+
+284
+00:34:21,140 --> 00:34:23,140
+Ja.
+
+285
+00:34:23,140 --> 00:34:28,140
+Würden Sie diesen Patienten stationär oder ambulant behandeln?
+
+286
+00:34:28,140 --> 00:34:30,140
+Nein, nein.
+
+287
+00:34:30,140 --> 00:34:35,140
+Ich würde den Patienten stationär aufnehmen.
+
+288
+00:34:35,140 --> 00:34:47,140
+Um die Stabilisierung der Patienten zu stabilisieren.
+
+289
+00:34:47,140 --> 00:34:55,140
+Er hat 40 Grad Fieber.
+
+290
+00:34:55,140 --> 00:35:07,140
+Er hat Atemnot und Zunämen der Thursis.
+
+291
+00:35:07,140 --> 00:35:13,140
+Deshalb denke ich, den Patienten stationär aufnehmen.
+
+292
+00:35:13,140 --> 00:35:18,140
+Können Sie KURB 65 Plasifikation?
+
+293
+00:35:19,140 --> 00:35:22,460
+Wiederholen.
+
+294
+00:35:22,460 --> 00:35:25,460
+Können Sie KURB 65 Plasifikation?
+
+295
+00:35:25,460 --> 00:35:28,460
+KURB 65.
+
+296
+00:35:28,460 --> 00:35:31,460
+KURB 65.
+
+297
+00:35:31,460 --> 00:35:33,460
+Kennen Sie?
+
+298
+00:35:33,460 --> 00:35:34,460
+Nein.
+
+299
+00:35:34,460 --> 00:35:36,460
+KURB 65.
+
+300
+00:35:36,460 --> 00:35:38,460
+Okay. Machen Sie weiter.
+
+301
+00:35:38,460 --> 00:35:41,460
+KURB 65. Nein, ich weiß nicht.
+
+302
+00:35:41,460 --> 00:35:45,460
+Ich würde eine Zugang legen.
+
+303
+00:35:45,460 --> 00:35:49,460
+Ich würde eine Fieber senken.
+
+304
+00:35:49,460 --> 00:35:53,460
+Ich würde eine Fieber ausreißen.
+
+305
+00:35:53,460 --> 00:36:00,460
+Ich würde eine Antibioterapie beginnen.
+
+306
+00:36:00,460 --> 00:36:03,460
+Ich würde eine Antibioterapie beginnen.
+
+307
+00:36:03,460 --> 00:36:10,460
+They get heute.
+
+308
+00:36:10,460 --> 00:36:23,460
+Ich empfehle den Patienten Nikotin und Alkoholkarant wartens.
+
+309
+00:36:23,460 --> 00:36:31,600
+Auch natürlich ...
+
+310
+00:36:31,600 --> 00:36:50,100
+überwache den Patienten engmischig. Ja. Okay. Also Sie haben gesagt, dass Sie gegebenenfalls
+
+311
+00:36:50,100 --> 00:36:59,780
+eine Bronchoscopie durchführen würden. Könnten Sie bitte Bronchoscopie erklären? Ja. Bronchoscopie
+
+312
+00:36:59,780 --> 00:37:19,860
+ist eine Lungenspiegelung. Ich meine, mit Hilfe der Bronchoscopie können wir die Atemweg und
+
+313
+00:37:19,860 --> 00:37:36,610
+Lungen beurteilen. Vor dieser Untersuchung sollte sich die Patientin acht Stunden noch
+
+314
+00:37:36,610 --> 00:37:52,050
+da sein. Und vor dieser Untersuchung können wir eine örtliche Betäubung, eine Spray im Magen,
+
+315
+00:37:52,050 --> 00:38:08,130
+aber falls die Patientin will, können wir eine Sedative verabreichen. Ja, ich glaube. Während wir
+
+316
+00:38:08,130 --> 00:38:26,610
+eine flexible Schlange in den Mund bis in die Lunge führen, mit einer Kamera. Diese Untersuchung
+
+317
+00:38:26,610 --> 00:38:41,210
+zeigt uns die Strukturen und die Pathologien in Atemweg und Lunge. Nach der Untersuchung
+
+318
+00:38:41,210 --> 00:38:58,730
+und gegebenenfalls können wir eine Gewebeprobe entnehmen. Nach der Untersuchung sollte sich die
+
+319
+00:38:58,730 --> 00:39:25,460
+Patientin eine Begleitperson mitbringen, weil die Patientin eine Person mitbringt, um sie zu Hause zu bringen.
+
+320
+00:39:25,460 --> 00:39:49,700
+Nach der Untersuchung sollte die Patientin nicht autofahren oder die wichtigsten Dokumente
+
+321
+00:39:49,700 --> 00:40:01,620
+unterschreiben. Nach der Untersuchung darf der Patient nicht autofahren und die wichtigsten
+
+322
+00:40:01,620 --> 00:40:17,860
+Verträge unterschreiben. Okay, gut. Ich glaube, das ist genug. Bronchialawax ist eine
+
+323
+00:40:17,860 --> 00:40:32,260
+Wache Methode. Ja, ich glaube. Lungen spülen, Lungen spülen. Ja, Wache ist sehr gut.
+
+324
+00:41:02,260 --> 00:41:16,660
+Ich glaube, das ist ein guter Punkt. Ich glaube, das ist ein guter Punkt. Ich glaube, das ist ein guter Punkt.
+
+325
+00:41:16,660 --> 00:41:21,660
+Ich werde euch noch mal was zu Essen machen, aber ich weiß nicht, wie.
+
+326
+00:41:21,660 --> 00:41:25,660
+Vielleicht ist es zu viel. Aber Yavuz hat es verdient.
+
+327
+00:41:25,660 --> 00:41:31,660
+Wir nehmen euch die, die ihr nehmt, zu Essen. Oder wir sind zu Besuch.
+
+328
+00:41:31,660 --> 00:41:40,660
+Ich glaube, die erste Partie war sehr gut. Sie sagen, dass die erste Partie sehr wichtig ist. Ich hoffe, dass es gut wird.
+
+329
+00:41:40,660 --> 00:41:48,660
+Ich bin bereit.
+
+330
+00:42:18,630 --> 00:42:20,630
+Ja, bitte.
+
+331
+00:42:48,630 --> 00:42:50,630
+Ich bin bereit.
+
+332
+00:43:18,630 --> 00:43:20,630
+Ich bin bereit.
+
+333
+00:43:48,630 --> 00:43:50,630
+Ich bin bereit.
+
+334
+00:44:18,630 --> 00:44:33,630
+Die Vorerkrankungen leiden seit 7 Jahren an arteriöle Hypertonie. Dagegen nimmt ein Norwask 10 mg ein.
+
+335
+00:44:33,630 --> 00:44:53,630
+Darüber hinaus hat er vor 3 Jahren Prostatecarcinom mit Operation und Radiothegaphy behandelt.
+
+336
+00:44:53,630 --> 00:45:17,390
+Dagegen nimmt er 2,3,6 mg Coserillin. Er hat eine Allergie gegen Nuss, die sich mit Pyruritus und Hasskratzen äußert.
+
+337
+00:45:17,390 --> 00:45:31,390
+Er raucht seit 30 Jahren eine halbe Schachtel Zigaretten täglich. Er trinkt 1-2 Bier pro Woche. Drogenkonsum wurde verneint.
+
+338
+00:45:31,390 --> 00:45:48,390
+Er ist verheiratet. Er hat 3 Töchter. Eine Töchter leidet an Asthma-Bronchiale. In der Familienanamnese fand sich bei der Mutter Diabetes mellitus und arteriöle Hypertonie.
+
+339
+00:45:48,390 --> 00:46:03,390
+Der Vater ist an Bronchialkalcinom verstorben. Er hat einen gesunden Bruder. Er ist vollständig geimpft. Die Reiseanamnese ist unauffällig.
+
+340
+00:46:03,390 --> 00:46:20,390
+Meine Verdacht Diagnose lautet auf Pneumonie. Dafür schiebt sich die Osten mit gelbischem und grünlichem Ausdruck, Fieber, Brustzimesen.
+
+341
+00:46:20,390 --> 00:46:35,390
+Die Differenzialdiagnostik kommt an Asthma-Bronchiale, Myokarditis und in Betracht.
+
+342
+00:46:35,390 --> 00:46:50,390
+Zur Diagnostik würde ich zunächst eine körperliche Untersuchung durchschauen. Im Rahmen der Untersuchung würde ich zuerst die Vitalparameter erfassen.
+
+343
+00:46:50,390 --> 00:47:08,390
+Besonders in diesem Fall ist Sauerstoffsätigung, Fieber, Temperatur, Atemfrequenz und Blutdruck entscheidend.
+
+344
+00:47:08,390 --> 00:47:26,390
+Danach würde ich den Patienten inspezieren. Dabei würde ich den Allgemeinen Zustand des Patienten, Atemfrequenz beachten.
+
+345
+00:47:26,390 --> 00:47:41,390
+In diesem Fall ist die Inspektion wegweisend. Bei der Inspektion erwarte ich eine höhte Lungengeräusche.
+
+346
+00:47:41,390 --> 00:47:58,340
+Danach palpiere ich den Patienten. Dabei würde ich eine erhöhte Schittenpyramidus erwarten.
+
+347
+00:47:58,340 --> 00:48:26,340
+Zur weiteren Diagnostik würde ich eine Laborkuntersuchung durchschauen, um das Blutbild, Entzündungswerte, unter anderem CRP, ESG und Troponin, um eine Myokartenfarktus oder eine akute Koronärherzkrankheit auszuschließen.
+
+348
+00:48:56,340 --> 00:49:08,340
+Ich würde die Ergebnisse nicht direkt stationär aufnehmen. Zuerst muss ich die Ergebnisse warten.
+
+349
+00:49:08,340 --> 00:49:24,340
+Wir haben eine Schema. Das heißt, Kurb 65. C bedeutet Konfusion. R bedeutet Atemfrequenz.
+
+350
+00:49:24,340 --> 00:49:38,340
+Wenn über 30, das ist ein Punkt. Wenn Konfusion positiv ist, das ist auch ein Punkt. Dann Blutdruck.
+
+351
+00:49:38,340 --> 00:50:00,340
+Wenn systologe Blutdruck unter 90, das ist auch ein Punkt. Wenn der Patient mehr als 65 Jahre alt, das ist auch ein Punkt.
+
+352
+00:50:00,340 --> 00:50:25,820
+Wenn der Patient zwei Punkte hat, sollen wir stationär aufnehmen. Zuerst würde ich einen Venözugang ablegen, um eine Venöztherapie zu ermöglichen.
+
+353
+00:50:25,820 --> 00:50:43,820
+Als medikamentöse Therapie würde ich Antibiotikum verabreichen und Fluidzidzupf verabreichen. Das war alles.
+
+354
+00:50:43,820 --> 00:50:57,060
+Was empfehlen Sie nach der Behandlung des Patienten?
+
+355
+00:50:57,060 --> 00:51:04,470
+Atembewegung? Was meinen Sie damit?
+
+356
+00:51:04,470 --> 00:51:19,470
+Atembewegung? Nein. Rehabilitation. Atmenrehabilitation. Und fiel was hat Rican.
+
+357
+00:51:19,470 --> 00:51:27,470
+Und regelmäßige Impfung gegen Pneumokok, gegen Influenza.
+
+358
+00:51:27,470 --> 00:51:44,940
+Wie können wir bei der CT-Destorax eine Pneumonie diagnostizieren?
+
+359
+00:51:44,940 --> 00:51:59,890
+Bei Pneumonie können wir Infiltration sehen.
+
+360
+00:51:59,890 --> 00:52:05,890
+Würden Sie in diesem Fall Spirometrie durchführen?
+
+361
+00:52:05,890 --> 00:52:16,890
+Spirometrie ist in der Regel im Asthma-Bugunschale und COPD entscheidend. Ich empfehle nichts in diesem Fall.
+
+362
+00:52:16,890 --> 00:52:23,890
+Würden Sie in diesem Fall Atembewegung durchführen?
+
+363
+00:52:23,890 --> 00:52:28,890
+Soeben würde ich nicht empfehlen.
+
+364
+00:52:28,890 --> 00:52:37,890
+Was würden Sie erhöhte Fieber senken?
+
+365
+00:52:37,890 --> 00:52:43,030
+Wie würde ich?
+
+366
+00:52:43,030 --> 00:52:54,030
+Ich habe schon einen Venouszugang abgelegt. Ich gebe den Patienten Paracetamol.
+
+367
+00:52:54,030 --> 00:53:07,030
+Um Fieber zu senken. Und wir können auch Metrimazol geben.
+
+368
+00:53:07,030 --> 00:53:14,030
+Oder wir können Ibuprofen Tabletten verabreichen.
+
+369
+00:53:14,030 --> 00:53:20,440
+Gibt es Intravenous Paracetamol präparat?
+
+370
+00:53:20,440 --> 00:53:26,440
+Perfalkan. Das heisst Perfalkan.
+
+371
+00:53:26,440 --> 00:53:32,440
+Wie können wir eine Tyberklose ausschließen?
+
+372
+00:53:32,440 --> 00:53:40,440
+Wir können PPD-Hauttest machen.
+
+373
+00:53:40,440 --> 00:53:42,440
+Und?
+
+374
+00:53:42,440 --> 00:53:51,490
+Und wir können im Röntgen-Torax erkennen.
+
+375
+00:53:51,490 --> 00:53:59,490
+Wie können wir eine Covid-19 ausschließen?
+
+376
+00:53:59,490 --> 00:54:04,490
+Wir können Covid-Schnelltest durchführen.
+
+377
+00:54:04,490 --> 00:54:11,490
+Mit Auswurf entnehmen.
+
+378
+00:54:12,490 --> 00:54:15,490
+Ich habe die Paracetamol-Propagung vergessen.
+
+379
+00:54:15,490 --> 00:54:17,490
+Die Trophen.
+
+380
+00:54:17,490 --> 00:54:20,490
+Trophen und Abschiebungen.
+
+381
+00:54:20,490 --> 00:54:26,490
+Nasen-Abschiebungen oder Orale-Abschiebungen.
+
+382
+00:54:26,490 --> 00:54:30,490
+Nasen-Orale-Abschiebungen.
+
+383
+00:54:30,490 --> 00:54:37,490
+Wenn der Patient selbst machen möchte, Orale-Abschiebungen machen.
+
+384
+00:54:37,490 --> 00:54:45,490
+Wenn wir in Kramkenhaus Covid-19-Test machen,
+
+385
+00:54:45,490 --> 00:54:49,490
+dann machen wir einen Abschiebungs-Test.
+
+386
+00:54:49,490 --> 00:54:52,490
+Und dann machen wir die Info.
+
+387
+00:54:52,490 --> 00:54:54,490
+Okay.
+
+388
+00:54:57,490 --> 00:55:03,490
+Wie können wir eine Broseal-Karzinom ausschließen?
+
+389
+00:55:03,490 --> 00:55:11,490
+Zuerst würde ich eine CT-Ferranlase machen.
+
+390
+00:55:11,490 --> 00:55:20,490
+Wenn ich eine Befunde sehe, sollte ich eine Nadel-Biopsi veranlassen.
+
+391
+00:55:20,490 --> 00:55:22,490
+Oder durchführen.
+
+392
+00:55:22,490 --> 00:55:29,490
+Oder wir können mit Bronchoskopie ausschließen.
+
+393
+00:55:29,490 --> 00:55:31,490
+Oder bestätigen.
+
+394
+00:55:32,490 --> 00:55:36,180
+Okay.
+
+395
+00:55:36,180 --> 00:55:42,000
+Ich habe alle Fragen gestellt.
+
+396
+00:55:42,000 --> 00:55:46,020
+Danke.
+
+397
+00:55:46,020 --> 00:55:48,020
+Herr Obener.
+
+398
+00:55:48,020 --> 00:55:51,020
+Ich möchte einen neuen Patienten aufnehmen.
+
+399
+00:55:51,020 --> 00:55:54,020
+Ich würde den Patienten vorstellen.
+
+400
+00:55:54,020 --> 00:55:57,020
+Haben Sie kurz Zeit für mich?
+
+401
+00:55:57,020 --> 00:55:59,020
+Ja bitte.
+
+402
+00:55:59,020 --> 00:56:02,020
+Es handelt sich um Jakob Meis.
+
+403
+00:56:02,020 --> 00:56:05,020
+Herr Meis ist 55 Jahre alt.
+
+404
+00:56:05,020 --> 00:56:10,020
+Er ist 69 Kilogramm schwer.
+
+405
+00:56:10,020 --> 00:56:14,020
+Und er ist 1,78 Meter groß.
+
+406
+00:56:14,020 --> 00:56:21,020
+Der Patient stellt sich heute bei uns wegen
+
+407
+00:56:21,020 --> 00:56:28,020
+seit fünf Tagen bestehenden Produktivierungen vor.
+
+408
+00:56:29,020 --> 00:56:33,020
+Der Patient stellt sich vor,
+
+409
+00:56:33,020 --> 00:56:39,020
+dass er vor fünf Tagen eine Erkautung oder Influenza
+
+410
+00:56:39,020 --> 00:56:42,020
+hatte.
+
+411
+00:56:42,020 --> 00:56:48,020
+Zunächst erwähnt er den Patienten,
+
+412
+00:56:48,020 --> 00:56:53,020
+dass er eine Influenza hatte.
+
+413
+00:56:54,020 --> 00:56:57,020
+Die Einnahme von Paracetamol,
+
+414
+00:56:57,020 --> 00:57:02,020
+Acetyl-System und Kodein hat keine Verbesserung gebracht.
+
+415
+00:57:02,020 --> 00:57:08,020
+Die Symptome sind mit Dyspno, Tramo,
+
+416
+00:57:08,020 --> 00:57:11,020
+Trichomonas,
+
+417
+00:57:11,020 --> 00:57:14,020
+und der Erkundung.
+
+418
+00:57:14,020 --> 00:57:18,020
+Die Symptome sind mit Dyspno, Tramo,
+
+419
+00:57:18,020 --> 00:57:21,020
+Trichomonas,
+
+420
+00:57:21,020 --> 00:57:24,020
+und der Erkundung.
+
+421
+00:57:24,020 --> 00:57:27,020
+Die Symptome sind mit Dyspno, Tramo,
+
+422
+00:57:27,020 --> 00:57:30,020
+Trichomonas,
+
+423
+00:57:30,020 --> 00:57:33,020
+Hyperhydrosis und nach Schweiß einher.
+
+424
+00:57:33,020 --> 00:57:38,020
+Die Frage nach Gewichtverlust wurde verneint.
+
+425
+00:57:38,020 --> 00:57:43,020
+Die vegetative Anamnese ist unaufwendig
+
+426
+00:57:43,020 --> 00:57:50,360
+bis auf Inapetens, Insomni und wenige Urin.
+
+427
+00:57:50,360 --> 00:57:53,360
+An der Erkautung
+
+428
+00:57:53,360 --> 00:57:56,360
+sind die Arteriellehypertone
+
+429
+00:57:56,360 --> 00:57:59,360
+in der Bechsteinung
+
+430
+00:57:59,360 --> 00:58:03,360
+und die Prostata-Karcinome.
+
+431
+00:58:03,360 --> 00:58:06,360
+Diese Probleme
+
+432
+00:58:06,360 --> 00:58:11,360
+sind mit den Patienten
+
+433
+00:58:11,360 --> 00:58:16,360
+die Prostektome entstanden.
+
+434
+00:58:16,360 --> 00:58:19,360
+Die Prostektome entstanden.
+
+435
+00:58:19,360 --> 00:58:22,360
+Danach wurden diese Probleme
+
+436
+00:58:22,360 --> 00:58:26,360
+mit der Schüttertherapie behandelt.
+
+437
+00:58:26,360 --> 00:58:30,360
+Er nimmt
+
+438
+00:58:30,360 --> 00:58:33,360
+Gesorethin, vielleicht.
+
+439
+00:58:33,360 --> 00:58:39,360
+Gesorethin, 3,6 mg Tablet Monatlich
+
+440
+00:58:39,360 --> 00:58:44,360
+und Norvaksenmiligramm morgens ein.
+
+441
+00:58:44,360 --> 00:58:51,360
+Der Patient reagiert allergisch auf Mus,
+
+442
+00:58:51,360 --> 00:58:56,360
+die äußert sich mit Hasskrassen.
+
+443
+00:58:56,360 --> 00:59:04,360
+Er raucht 10 Zigaretten seit 20 Jahren.
+
+444
+00:59:04,360 --> 00:59:10,360
+Und er trinkt 1-2 Flaschen Bier gelegentlich.
+
+445
+00:59:10,360 --> 00:59:16,360
+Der Anamnese
+
+446
+00:59:16,360 --> 00:59:21,360
+ist mit dem Vater
+
+447
+00:59:21,360 --> 00:59:27,360
+an der Pulmonarkarcinome verstorben.
+
+448
+00:59:27,360 --> 00:59:31,360
+Die Mutter hat Leiden an Diabetes Melitus
+
+449
+00:59:31,360 --> 00:59:34,360
+und Arteriellehypertone.
+
+450
+00:59:34,360 --> 00:59:39,360
+Er hat einen Bruder, der gesund ist.
+
+451
+00:59:39,360 --> 00:59:42,360
+Er ist vollständig geimpft.
+
+452
+00:59:42,360 --> 00:59:46,360
+Der Anamnese ist unaufällig.
+
+453
+00:59:46,360 --> 00:59:49,360
+Er tritt regelmäßig Sport.
+
+454
+00:59:49,360 --> 00:59:52,360
+Er läuft gerne.
+
+455
+00:59:52,360 --> 00:59:58,360
+Er ist Lehrer und verheiratet.
+
+456
+00:59:58,360 --> 01:00:02,360
+Der Patient hat zwei, drei Töchter.
+
+457
+01:00:02,360 --> 01:00:07,360
+Seine kleine Töchter leiden asthma.
+
+458
+01:00:07,360 --> 01:00:15,360
+Ich gehe von einem Verdacht auf Phenomone aus.
+
+459
+01:00:15,360 --> 01:00:23,360
+Da der Patient dafür typische Symptome aufweist,
+
+460
+01:00:23,360 --> 01:00:28,360
+ist der Patient mit Leiden und Dispneus,
+
+461
+01:00:28,360 --> 01:00:31,360
+Dispneus, Schuputum,
+
+462
+01:00:31,360 --> 01:00:35,360
+Thorax, Schmerzen, Fieber,
+
+463
+01:00:35,360 --> 01:00:39,360
+diese Symptome
+
+464
+01:00:39,360 --> 01:00:43,360
+sprechen für Phenomone.
+
+465
+01:00:43,360 --> 01:00:47,360
+Als Differenzierdiagnose kommen
+
+466
+01:00:47,360 --> 01:00:52,360
+Pulmonarkarcinome und Myokarditis
+
+467
+01:00:52,360 --> 01:00:59,360
+und Covid-19 in Betracht.
+
+468
+01:00:59,360 --> 01:01:04,360
+In meiner Verdachtdiagnose zu bestätigen,
+
+469
+01:01:04,360 --> 01:01:08,360
+würde ich zunächst den Patienten
+
+470
+01:01:08,360 --> 01:01:12,360
+eine Vita-Parameter überwachen.
+
+471
+01:01:12,360 --> 01:01:16,360
+Danach würde ich den Patienten
+
+472
+01:01:16,360 --> 01:01:22,360
+eine Körperliche Unterzuchtung
+
+473
+01:01:22,360 --> 01:01:26,360
+bei der Körperliche Unterzuchtung
+
+474
+01:01:26,360 --> 01:01:28,360
+auf der anderen Seite
+
+475
+01:01:28,360 --> 01:01:31,360
+bei Inspektion,
+
+476
+01:01:31,360 --> 01:01:35,360
+Tachibnü, Lippen, Zyanose,
+
+477
+01:01:35,360 --> 01:01:39,360
+Nasen, Flügel, Atmung gibt
+
+478
+01:01:39,360 --> 01:01:44,360
+und bei Palpation
+
+479
+01:01:44,360 --> 01:01:49,360
+gibt es Schittemfremitus,
+
+480
+01:01:49,360 --> 01:01:53,360
+Versteckte Schittemfremitus gibt.
+
+481
+01:01:53,360 --> 01:01:59,360
+Danach würde ich den Patienten auskültern.
+
+482
+01:01:59,360 --> 01:02:02,360
+Bei der Auskülterin
+
+483
+01:02:02,360 --> 01:02:05,360
+achte ich darauf, ob
+
+484
+01:02:05,360 --> 01:02:08,360
+feinblasige Rasengeräusche
+
+485
+01:02:08,360 --> 01:02:14,360
+und abgeschwacktes Atemgeräusch vorliegen.
+
+486
+01:02:14,360 --> 01:02:18,360
+Neben Körperliche Unterzuchtung
+
+487
+01:02:18,360 --> 01:02:22,360
+wären Labarunterzuchtungen
+
+488
+01:02:22,360 --> 01:02:26,360
+sinnvoll, um umfassende
+
+489
+01:02:26,360 --> 01:02:31,360
+Diagnostik zu gewährleisten.
+
+490
+01:02:31,360 --> 01:02:33,360
+Dabei würde ich
+
+491
+01:02:33,360 --> 01:02:37,360
+Blutblut, CRP, BSG,
+
+492
+01:02:37,360 --> 01:02:43,360
+Enzyme
+
+493
+01:02:43,360 --> 01:02:48,360
+bestimmen lassen.
+
+494
+01:02:48,360 --> 01:02:51,360
+Außerdem würde ich eine
+
+495
+01:02:51,360 --> 01:02:54,360
+Sputumkultur und
+
+496
+01:02:54,360 --> 01:02:58,360
+eine Ersatzprobleme auskültern.
+
+497
+01:02:58,360 --> 01:03:01,360
+Zunächst würde ich eine
+
+498
+01:03:01,360 --> 01:03:04,360
+Röntgen-Torax-Durchführung
+
+499
+01:03:04,360 --> 01:03:08,360
+um meine Verdachtung
+
+500
+01:03:08,360 --> 01:03:11,360
+um so meine Verkörung
+
+501
+01:03:11,360 --> 01:03:14,360
+zu machen,
+
+502
+01:03:14,360 --> 01:03:17,360
+um die Ersatzprobleme
+
+503
+01:03:17,360 --> 01:03:20,360
+zu verhindern.
+
+504
+01:03:20,360 --> 01:03:23,360
+Außerdem würde ich
+
+505
+01:03:23,360 --> 01:03:26,360
+eine
+
+506
+01:03:26,360 --> 01:03:30,360
+Gegebenenfalt
+
+507
+01:03:30,360 --> 01:03:32,360
+durch die
+
+508
+01:03:32,360 --> 01:03:35,360
+Ersatzprobleme
+
+509
+01:03:35,360 --> 01:03:38,360
+auskültern.
+
+510
+01:03:38,360 --> 01:03:41,360
+Außerdem würde ich
+
+511
+01:03:41,360 --> 01:03:44,360
+eine
+
+512
+01:03:44,360 --> 01:03:47,360
+Gegebenenfalt durch
+
+513
+01:03:47,360 --> 01:03:50,360
+die Ersatzprobleme
+
+514
+01:03:50,360 --> 01:03:53,360
+auskültern.
+
+515
+01:03:53,360 --> 01:03:56,360
+Um die mögliche andere
+
+516
+01:03:56,360 --> 01:03:59,360
+Lungenprobleme
+
+517
+01:03:59,360 --> 01:04:02,360
+auszulüsten.
+
+518
+01:04:02,360 --> 01:04:05,360
+Sollte sich meine Verdachtdiagnose
+
+519
+01:04:05,360 --> 01:04:08,360
+bestätigen, würde ich den Patienten
+
+520
+01:04:08,360 --> 01:04:11,360
+stationäre aufnehmen.
+
+521
+01:04:11,360 --> 01:04:14,360
+Zunächst würde ich den Patienten
+
+522
+01:04:14,360 --> 01:04:16,360
+eine Phylosophore
+
+523
+01:04:16,360 --> 01:04:19,360
+verabreichen.
+
+524
+01:04:19,360 --> 01:04:22,360
+Dann würde ich eine
+
+525
+01:04:22,360 --> 01:04:25,360
+Pulmonarkonzil anordnen.
+
+526
+01:04:25,360 --> 01:04:28,360
+Dann würde ich die
+
+527
+01:04:28,360 --> 01:04:31,360
+Ersatzprobleme
+
+528
+01:04:31,360 --> 01:04:34,360
+auskültern.
+
+529
+01:04:34,360 --> 01:04:37,360
+Dann würde ich die
+
+530
+01:04:37,360 --> 01:04:40,360
+Ersatzprobleme
+
+531
+01:04:40,360 --> 01:04:43,360
+auskültern.
+
+532
+01:04:43,360 --> 01:04:46,360
+Dann würde ich die Ersatzprobleme
+
+533
+01:04:46,360 --> 01:04:49,360
+auskültern.
+
+534
+01:04:49,360 --> 01:04:52,360
+Dann würde ich die Ersatzprobleme
+
+535
+01:04:52,360 --> 01:04:55,360
+auskültern.
+
+536
+01:04:55,360 --> 01:04:58,360
+Dann würde ich die Ersatzprobleme
+
+537
+01:04:58,360 --> 01:05:01,360
+auskültern.
+
+538
+01:05:01,360 --> 01:05:04,360
+Dann würde ich die Ersatzprobleme
+
+539
+01:05:04,360 --> 01:05:07,360
+auskültern.
+
+540
+01:05:07,360 --> 01:05:10,360
+Dann würde ich die Ersatzprobleme
+
+541
+01:05:10,360 --> 01:05:14,360
+geplanten Untersuchungen fortsetzen, Herr Oberarzt.
+
+542
+01:05:14,360 --> 01:05:20,360
+Herr Kollegen, was empfehlen Sie während der Therapie den Patienten?
+
+543
+01:05:20,360 --> 01:05:29,360
+Ja, ich empfehle zuerst den Flüssigkeitssuffo, danach Antibiotikum.
+
+544
+01:05:29,360 --> 01:05:42,360
+Außerdem empfehle ich den Patienten Antitussiv und Mykolitikum und Antipiratikum.
+
+545
+01:05:42,360 --> 01:05:51,360
+Herr Oberarzt, aber gegebenenfalls würde ich den Patienten Saustoffe geben.
+
+546
+01:05:51,360 --> 01:06:00,360
+Okay, wie können wir ein Bronchialcarcinom ausschließen?
+
+547
+01:06:00,360 --> 01:06:14,360
+Mit der Anamnesse gab es keine gewissen Verluste und Nachschweiß.
+
+548
+01:06:14,360 --> 01:06:32,360
+Aber um meine Bronchialcarcinome auszuschließen, würde ich den Patienten Thorax und MRT veranlassen.
+
+549
+01:06:32,360 --> 01:06:34,360
+Ja, Herr Oberarzt.
+
+550
+01:06:35,360 --> 01:06:44,360
+Würden Sie ein Bronchialcarcinom ausschließen, würden Sie eine Bronchoscopy durchführen?
+
+551
+01:06:44,360 --> 01:07:06,360
+Jetzt empfehle ich nicht den Patienten eine Bronchoscopy durchführen, weil bei einer starken Infektion eine Bronchoscopy nicht durchführt.
+
+552
+01:07:07,360 --> 01:07:16,360
+Nach der Akute Behandlung würde ich den Patienten eine Bronchoscopy entfalten.
+
+553
+01:07:16,360 --> 01:07:23,360
+Können wir mit Hilfe von Ultraschall-Desthorax eine Pneumonie diagnostizieren?
+
+554
+01:07:23,360 --> 01:07:33,770
+Ich habe keine Erfahrung über diese Thema, Herr Oberarzt.
+
+555
+01:07:33,770 --> 01:07:41,770
+Aber nach der Behandlung werde ich diesen Fall nachschlagen.
+
+556
+01:07:41,770 --> 01:07:47,770
+Okay, würden Sie in diesem Fall eine EKG schreiben und warum?
+
+557
+01:07:47,770 --> 01:08:01,770
+Ja, natürlich. Ich empfehle den Patienten eine EKG schreiben, weil der Patient Bruce Schmerzen hat.
+
+558
+01:08:03,770 --> 01:08:06,770
+Bruce Schmerzen hat ein Schilderbock.
+
+559
+01:08:08,770 --> 01:08:15,770
+Herr Kollegen, wie würden Sie eine Tuberkulose ausschließen?
+
+560
+01:08:15,770 --> 01:08:38,770
+Wenn Sie eine Tuberkulose ausschließen würden Sie eine PPD machen, aber eine PCR veranlassen.
+
+561
+01:08:39,770 --> 01:08:46,770
+Dann würde ich die PPD durchführen.
+
+562
+01:08:50,770 --> 01:08:57,070
+Gibt es andere Möglichkeiten, Herr Oberarzt?
+
+563
+01:08:57,070 --> 01:09:01,070
+Schöpfer Kultur.
+
+564
+01:09:01,070 --> 01:09:06,070
+Ich habe keine Ahnung.
+
+565
+01:09:06,070 --> 01:09:10,070
+Können wir Sie COVID-19 behandeln?
+
+566
+01:09:10,070 --> 01:09:14,070
+COVID-19 behandeln.
+
+567
+01:09:17,070 --> 01:09:25,070
+Zuerst den Patienten stationär aufnehmen und isolieren.
+
+568
+01:09:25,070 --> 01:09:31,070
+Dann werden die Patienten viele Medikamente veranlassen.
+
+569
+01:09:31,070 --> 01:09:37,070
+Aber jetzt habe ich keine Erfahrung über diese Thema, Herr Oberarzt.
+
+570
+01:09:37,070 --> 01:09:51,070
+Wir können zu Hause behandeln, Flüssigkeit suchen, viel Wasser trinken, Antipirätikum, Betruche empfehlen.
+
+571
+01:09:51,070 --> 01:09:59,070
+Es gibt keine bestimmte oder spezifische Therapie.
+
+572
+01:09:59,070 --> 01:10:06,070
+Danke schön für diese sehr besondere Informationen, Herr Oberarzt.
+
+573
+01:10:08,070 --> 01:10:15,140
+Können Sie uns EKG aufklären?
+
+574
+01:10:15,140 --> 01:10:31,140
+Ja, Herr Oberarzt. EKG ist eine spezielle Untersuchung, mit der wir elektrische Aktivitäten beurteilen können.
+
+575
+01:10:31,140 --> 01:10:44,140
+Diese Untersuchung hilft uns, die Erkrankungen, die Rhythmuskulschwecken,
+
+576
+01:10:44,140 --> 01:10:58,140
+Angina Pectoris, Herz, Hände, Myokard und Paktus frühzeitig zu erkennen.
+
+577
+01:10:58,140 --> 01:11:12,140
+Dazu setzen wir viele Elektroden auf Brust, den Arm und den Beinen ein.
+
+578
+01:11:12,140 --> 01:11:27,140
+Die Bilder des Herzens werden als Kurve auf einem Monitor dargestellt.
+
+579
+01:11:27,140 --> 01:11:34,140
+Die Untersuchung dauert ungefähr 5-10 Minuten.
+
+580
+01:11:34,140 --> 01:11:42,140
+Die Untersuchung ist ungefährlich und röntgenfrei und schmerzfrei.
+
+581
+01:11:42,140 --> 01:11:49,140
+Es gibt keine bestimmte Vorbereitung.
+
+582
+01:11:49,140 --> 01:11:58,140
+Es wird keine Nadel- und Kontrastmittel benötigt.
+
+583
+01:11:58,140 --> 01:12:18,140
+Nach der Untersuchung gibt es keine Einschränkungen.
+
+584
+01:12:18,140 --> 01:12:34,140
+Die Patientin kann ihre Erkrankungen wie gewohnt fortsetzen.
+
+585
+01:12:34,140 --> 01:12:59,140
+Sie kann sich mit einer Ächokardiografie oder anderen Untersuchungen durchgeführt.
+
+586
+01:12:59,140 --> 01:13:07,140
+Aber das hängt von der Erkrankung.
+
+587
+01:13:07,140 --> 01:13:11,140
+Vielen Dank, Herr Kollegen!

@@ -1,0 +1,2379 @@
+1
+00:00:00,000 --> 00:00:04,000
+Ich habe etwas für Sie und werde das erste Gespräch mit Ihnen führen.
+
+2
+00:00:04,000 --> 00:00:12,000
+Erstmal benötige ich ein paar persönliche Daten von Ihnen und dann sprechen wir über Ihre aktuellen Beschwerden.
+
+3
+00:00:12,000 --> 00:00:18,000
+Falls Sie Fragen haben, suggen Sie bitte nicht mich zu unterbrechen. Wie heißen Sie denn?
+
+4
+00:00:18,000 --> 00:00:26,540
+Mein Name ist Franz Meister.
+
+5
+00:00:26,540 --> 00:00:31,540
+Könnten Sie bitte den Nach- und Vornamen langsam buchstabieren?
+
+6
+00:00:31,540 --> 00:00:40,540
+Franz mit F-R-A-N-Z Meister M-E-I-S-T-E-R
+
+7
+00:00:40,540 --> 00:00:43,540
+Wie alt sind Sie Herr Meister?
+
+8
+00:00:43,540 --> 00:00:45,540
+67, Herr Doktor.
+
+9
+00:00:45,540 --> 00:00:52,160
+Wie lange sind Sie hier?
+
+10
+00:00:52,160 --> 00:01:08,160
+Mein Gemüse-Statum ist 6.7.1958.
+
+11
+00:01:08,160 --> 00:01:14,550
+Wissen Sie wie groß Sie sind?
+
+12
+00:01:14,550 --> 00:01:19,950
+1,87 Meter.
+
+13
+00:01:19,950 --> 00:01:21,950
+Ihr Gewicht bitte?
+
+14
+00:01:21,950 --> 00:01:28,090
+74 Kilogramm wiege ich.
+
+15
+00:01:28,090 --> 00:01:31,090
+Was sind Sie vom Beruf, Herr Meister?
+
+16
+00:01:31,090 --> 00:01:35,090
+Ich bin Rentner, Herr Doktor. Ich bin Altmann.
+
+17
+00:01:35,090 --> 00:01:41,090
+Nein, Sie sind nur 67 Jahre alt. Was waren Sie vom Beruf?
+
+18
+00:01:41,090 --> 00:01:43,090
+Ich bin Rentner.
+
+19
+00:01:43,090 --> 00:01:45,090
+Was waren Sie?
+
+20
+00:01:45,090 --> 00:01:54,090
+Waren Sie, ja. Ich habe Machen verstanden. Es tut mir leid. Ich war Schreiner.
+
+21
+00:01:54,090 --> 00:01:56,090
+Schreiner, gut.
+
+22
+00:01:56,090 --> 00:02:01,850
+Haben Sie einen Hausarzt oder eine Hausärztin?
+
+23
+00:02:01,850 --> 00:02:09,850
+Ja. Frau Susanne. Susanne Genkner.
+
+24
+00:02:09,850 --> 00:02:11,850
+Susanne Genkner.
+
+25
+00:02:11,850 --> 00:02:17,040
+Ja.
+
+26
+00:02:17,040 --> 00:02:22,040
+Was für Sie heute sind, Herr Meister? Was ist Ihr Schwierigkeitswesen?
+
+27
+00:02:22,040 --> 00:02:29,040
+Herr Doktor, ich würde sagen, ich war seit vier Stunden hier.
+
+28
+00:02:29,040 --> 00:02:32,040
+Deswegen bin ich nicht glücklich.
+
+29
+00:02:32,040 --> 00:02:35,040
+Es tut mir leid zu hören, Herr Meister.
+
+30
+00:02:35,040 --> 00:02:43,040
+Ich habe Bauchschmerzen, Durchfall, aber seit vier Stunden warte ich hier.
+
+31
+00:02:43,040 --> 00:02:48,040
+Ist hier immer gleich?
+
+32
+00:02:48,040 --> 00:02:56,040
+Nein, nein. Es ist unterschiedlich, aber es tut mir leid zu hören, Herr Meister.
+
+33
+00:02:56,040 --> 00:03:01,040
+Jetzt haben Sie Bauchschmerzen und Durchfall, oder?
+
+34
+00:03:01,040 --> 00:03:05,040
+Ja, Herr Doktor. Bauchschmerzen und Durchfall.
+
+35
+00:03:05,040 --> 00:03:08,040
+Seit wann haben Sie das?
+
+36
+00:03:08,040 --> 00:03:20,700
+Seit zwei oder drei Monaten habe ich immer Bauchschmerzen und Durchfall.
+
+37
+00:03:20,700 --> 00:03:22,700
+Wo genau tut es Ihnen weh?
+
+38
+00:03:22,700 --> 00:03:24,700
+Unterbau.
+
+39
+00:03:24,700 --> 00:03:30,300
+Links oder rechts?
+
+40
+00:03:30,300 --> 00:03:40,930
+Ja, ganzbau und unterbau. Mitte, ganzbau. Manchmal rechts, manchmal links, aber ganzbau, fühle ich.
+
+41
+00:03:40,930 --> 00:03:53,930
+Zuerst hatte ich ein oder zweimal Durchfall, aber seit einer Woche habe ich fünf oder sechs Mal Durchfall.
+
+42
+00:03:53,930 --> 00:03:55,930
+Seit einer Woche.
+
+43
+00:03:55,930 --> 00:04:03,810
+Meine Bauchschmerzen sind verschlimmert.
+
+44
+00:04:03,810 --> 00:04:14,160
+Während der Zeit.
+
+45
+00:04:14,160 --> 00:04:16,160
+Verschlimmert.
+
+46
+00:04:16,160 --> 00:04:22,160
+Könnten Sie diese Schmerzen genau beschreiben?
+
+47
+00:04:22,160 --> 00:04:25,160
+Durchstechen, drücken.
+
+48
+00:04:25,160 --> 00:04:29,160
+Das ist wie Krampf.
+
+49
+00:04:29,160 --> 00:04:32,160
+Krampf, ja.
+
+50
+00:04:32,160 --> 00:04:36,160
+Sind die Schmerzen dauerhaft da oder gehen Sie wieder weg?
+
+51
+00:04:36,160 --> 00:04:38,160
+Dauerhaft.
+
+52
+00:04:38,160 --> 00:04:48,330
+Wie stark sind die Schmerzen von eins bis zehn auf einer Skala, wobei zehn am stärksten ist?
+
+53
+00:04:48,330 --> 00:04:56,330
+Ja, das ist, das kann ich nicht genau sagen, aber das ist nicht sehr schlimm, ich kann sagen.
+
+54
+00:04:56,330 --> 00:05:05,330
+Aber immer da und das stört mir, stört mich vielleicht fünf oder sechs, weiß ich nicht, aber.
+
+55
+00:05:05,330 --> 00:05:07,330
+Fünf oder sechs.
+
+56
+00:05:07,330 --> 00:05:10,330
+Zuerst, es war zwei oder drei.
+
+57
+00:05:10,330 --> 00:05:15,330
+Gibt es irgendwelche Auslöser dafür?
+
+58
+00:05:15,330 --> 00:05:23,330
+Haben Sie es bemerkt? Zum Beispiel Fettiges Essen, bestimmte Ernährungsmittel?
+
+59
+00:05:23,330 --> 00:05:26,330
+Nein, nein, ich habe ständig Bauchschmerzen.
+
+60
+00:05:26,330 --> 00:05:35,020
+Gibt es irgendetwas, das die Schmerzen schlimmer oder besser macht?
+
+61
+00:05:35,020 --> 00:05:37,020
+Ich habe nicht bemerkt, Herr Doktor.
+
+62
+00:05:37,020 --> 00:05:49,680
+Sind die Schmerzen und Durchfall allmählich oder plötzlich aufgetreten?
+
+63
+00:05:49,680 --> 00:05:53,680
+Langsam aufgetreten. Langsam.
+
+64
+00:05:53,680 --> 00:06:05,680
+Als ich gesagt habe, es war zwei oder drei, in der letzten Woche, das ist fünf oder sechs.
+
+65
+00:06:05,680 --> 00:06:13,680
+Wie sah Ihr Stuhl aus?
+
+66
+00:06:13,680 --> 00:06:17,680
+Es ist wässrig, wie Wasser.
+
+67
+00:06:17,680 --> 00:06:23,110
+Welche Farbe hat Ihr Stuhl?
+
+68
+00:06:23,110 --> 00:06:34,110
+Ja, das ist wie Wasser, ich kann sagen. Manchmal weiß, manchmal wie Glanz.
+
+69
+00:06:35,110 --> 00:06:39,110
+Haben Sie Blut im Stuhl bemerkt?
+
+70
+00:06:39,110 --> 00:06:46,110
+Ja, manchmal ist es schwarz geworden.
+
+71
+00:06:46,110 --> 00:06:59,110
+Aber nicht ganz genau rot, aber dunkel rot. Manchmal schwarz. Ich habe das nicht verstanden.
+
+72
+00:07:00,110 --> 00:07:06,640
+Haben Sie frische Blut bemerkt?
+
+73
+00:07:06,640 --> 00:07:11,640
+Nicht frisch, aber dunkel rot habe ich gesehen.
+
+74
+00:07:11,640 --> 00:07:14,640
+Wie viele Mal haben Sie es bemerkt?
+
+75
+00:07:14,640 --> 00:07:17,640
+In Nesterdorf, oder?
+
+76
+00:07:17,640 --> 00:07:18,640
+Ja.
+
+77
+00:07:18,640 --> 00:07:21,640
+Ja, immer fünf. Manchmal zehn Mal.
+
+78
+00:07:21,640 --> 00:07:24,640
+Wann war das letzte Mal?
+
+79
+00:07:24,640 --> 00:07:27,640
+Gestern.
+
+80
+00:07:27,640 --> 00:07:28,640
+Gestern.
+
+81
+00:07:34,340 --> 00:07:42,700
+Haben Sie Fieber? Fühlen Sie sich fieberlich?
+
+82
+00:07:42,700 --> 00:07:58,700
+Ja, ich fühle mich fieberlich. Nicht genau Fieber, aber ich habe gemessen, dass meine Fieber war. Meine Körpertemperatur war 37,5 heute Morgen.
+
+83
+00:07:58,700 --> 00:08:04,480
+Wo haben Sie es gemessen?
+
+84
+00:08:04,480 --> 00:08:07,480
+Ja, Axel, so.
+
+85
+00:08:11,840 --> 00:08:23,840
+Gibt es jemanden in Ihrer Umgebung, der ähnliche Beschwerden hat?
+
+86
+00:08:23,840 --> 00:08:31,840
+Nein, nein, Herr Doktor. Ich lebe mit meiner Frau. Sie ist das genug.
+
+87
+00:08:31,840 --> 00:08:40,410
+Haben Sie dagegen irgendwelche Medikamente genommen?
+
+88
+00:08:41,410 --> 00:08:43,410
+Nein, nein.
+
+89
+00:08:43,410 --> 00:08:55,100
+Haben Sie volle Gefühle, Sod brennen, Sauerstoff oder Blechungen?
+
+90
+00:08:55,100 --> 00:09:01,100
+Manchmal habe ich Blechungen, aber ich habe kein Sod brennen, oder andere.
+
+91
+00:09:01,100 --> 00:09:03,100
+Die anderen nicht.
+
+92
+00:09:03,100 --> 00:09:11,900
+Haben Sie Herzrasen oder Herzstolpen?
+
+93
+00:09:11,900 --> 00:09:27,070
+Ja, ich habe Herzstolpen. Ich habe eine Herzrhythmusstörung seit einem Jahr.
+
+94
+00:09:27,070 --> 00:09:29,070
+Seit einem Jahr?
+
+95
+00:09:29,070 --> 00:09:30,070
+Ja.
+
+96
+00:09:30,070 --> 00:09:34,070
+Wurde bei Ihnen eine Festdiagnose gesteht?
+
+97
+00:09:34,070 --> 00:09:44,070
+Die Kardiologie hat mir gesagt, dass ich Herzrhythmusstörung habe.
+
+98
+00:09:44,070 --> 00:09:54,160
+Dagegen nehme ich Methoprolol regelmäßig.
+
+99
+00:09:54,160 --> 00:09:56,160
+In welcher Dosis?
+
+100
+00:09:56,160 --> 00:10:00,470
+50 mg.
+
+101
+00:10:00,470 --> 00:10:04,470
+Wie oft nehmen Sie?
+
+102
+00:10:04,470 --> 00:10:07,470
+Einmal pro Tag, morgens.
+
+103
+00:10:07,470 --> 00:10:12,740
+Verstehe.
+
+104
+00:10:12,740 --> 00:10:21,180
+Haben Sie Hautverfarbung bemerkt? Blasse Haut?
+
+105
+00:10:21,180 --> 00:10:32,060
+Ja, meine Frau hat mir gesagt, dass ich krank aussehe.
+
+106
+00:10:32,060 --> 00:10:35,060
+Ein bisschen Blasse Haut.
+
+107
+00:10:35,060 --> 00:10:37,060
+Verstehe.
+
+108
+00:10:37,060 --> 00:10:42,060
+Haben Sie Nachschweiß, Schuttelfrost, Herr Meister?
+
+109
+00:10:42,060 --> 00:10:50,750
+Nachschweiß habe ich, aber Schuttelfrost habe ich nicht.
+
+110
+00:10:50,750 --> 00:10:58,700
+Jeden Nacht muss ich meine Kleidung wechseln.
+
+111
+00:10:58,700 --> 00:11:02,700
+Verstehe. Ist Ihnen üben?
+
+112
+00:11:02,700 --> 00:11:05,700
+Nein, habe ich keine Übung.
+
+113
+00:11:05,700 --> 00:11:07,700
+Mussten Sie sich übergeben?
+
+114
+00:11:07,700 --> 00:11:09,700
+Nein.
+
+115
+00:11:09,700 --> 00:11:11,700
+Ist Ihnen schwindelig?
+
+116
+00:11:13,070 --> 00:11:17,800
+Manchmal, aber nicht oft.
+
+117
+00:11:17,800 --> 00:11:20,800
+Wie ist Ihr Appetit, Herr Meister?
+
+118
+00:11:20,800 --> 00:11:26,800
+Mein Appetit ist nicht gut, Herr Doktor. Ich kann kaum essen.
+
+119
+00:11:26,800 --> 00:11:31,800
+Warum essen Sie nicht?
+
+120
+00:11:31,800 --> 00:11:34,800
+Ich weiß nicht, Herr Doktor.
+
+121
+00:11:34,800 --> 00:11:38,800
+Seit wann haben Sie das?
+
+122
+00:11:38,800 --> 00:11:49,800
+Seit ungefähr zwei oder drei Monaten habe ich kaum Appetit und habe 5 Kilo abgenommen.
+
+123
+00:11:49,800 --> 00:11:53,800
+In welchem Zeitraum haben Sie 5 Kilo abgenommen?
+
+124
+00:11:53,800 --> 00:12:00,130
+In drei Monaten.
+
+125
+00:12:00,130 --> 00:12:10,020
+Haben Sie das Gefühl, dass Sie Ihr Stuhl nicht entleeren können?
+
+126
+00:12:10,020 --> 00:12:17,940
+Nein, ich habe Durchfall und kann entleeren.
+
+127
+00:12:17,940 --> 00:12:20,940
+Verstehe.
+
+128
+00:12:20,940 --> 00:12:23,940
+Wie ist Ihr Wasserlassen?
+
+129
+00:12:23,940 --> 00:12:29,310
+Ja, es ist auch schlimm, Herr Doktor.
+
+130
+00:12:29,310 --> 00:12:36,310
+Ich lasse Wasser jeden Tag zehnmal oder bei zehnmal.
+
+131
+00:12:36,310 --> 00:12:41,130
+Das ist sehr oft.
+
+132
+00:12:41,130 --> 00:12:43,130
+Seit wann haben Sie das?
+
+133
+00:12:43,130 --> 00:12:48,130
+Ich leide an Vorherdrüse.
+
+134
+00:12:48,130 --> 00:12:51,130
+Vergrößert seit fünf Jahren.
+
+135
+00:12:51,130 --> 00:12:54,130
+Seit fünf Jahren.
+
+136
+00:12:54,130 --> 00:12:59,950
+Nehmen Sie dagegen Medikamente?
+
+137
+00:12:59,950 --> 00:13:06,740
+Ja, ich nehme Antiprostat-Tablet.
+
+138
+00:13:06,740 --> 00:13:11,720
+Welche Dosis?
+
+139
+00:13:11,720 --> 00:13:13,720
+Weiß ich nicht.
+
+140
+00:13:13,720 --> 00:13:17,720
+Eine Malprota.
+
+141
+00:13:17,720 --> 00:13:26,260
+Können Sie gut schlafen?
+
+142
+00:13:26,260 --> 00:13:35,260
+Ja, normalerweise schlafe ich gut, aber mindestens dreimal wache ich auch wegen dem Wasserlassen.
+
+143
+00:13:35,260 --> 00:13:47,910
+Haben Sie noch andere chronische Erkrankungen außer Herzrhythmusstörungen und Vorherdrüsenvergrößerung?
+
+144
+00:13:47,910 --> 00:13:52,910
+Ja, ich leide an Bluthochdruck seit fünf Jahren.
+
+145
+00:13:52,910 --> 00:14:00,810
+Was nehmen Sie dagegen?
+
+146
+00:14:00,810 --> 00:14:02,810
+Ich nehme Norvask-Tablet.
+
+147
+00:14:02,810 --> 00:14:08,080
+Zehn Milligramm einmal morgens.
+
+148
+00:14:08,080 --> 00:14:13,550
+Haben Sie noch andere Erkrankungen?
+
+149
+00:14:13,550 --> 00:14:28,250
+Ja, ich leide an Reisdarm-Zyndrom seit zehn Jahren.
+
+150
+00:14:28,250 --> 00:14:32,250
+Seit zehn Jahren.
+
+151
+00:14:32,250 --> 00:14:37,250
+Hatten Sie das schon einmal?
+
+152
+00:14:37,250 --> 00:14:42,250
+Reisdarm-Zyndrom war nicht gleich wie das.
+
+153
+00:14:42,250 --> 00:14:47,250
+Früher hatte ich manchmal Verstopfung, manchmal Durchfall.
+
+154
+00:14:47,250 --> 00:14:52,250
+Aber in den letzten drei Monaten habe ich immer Durchfall.
+
+155
+00:14:52,250 --> 00:14:54,250
+Das ist ganz anders, oder?
+
+156
+00:14:54,250 --> 00:14:59,250
+Nicht ganz. Bauchschmerzen ist wie, aber nicht gleich.
+
+157
+00:14:59,250 --> 00:15:05,250
+Verstehe. Was nehmen Sie gegen Reisdarm-Zyndrom?
+
+158
+00:15:05,250 --> 00:15:09,250
+Ja, ich trinke Kräuter-Tea.
+
+159
+00:15:09,250 --> 00:15:13,250
+Haben Sie noch andere chronische Erkrankungen?
+
+160
+00:15:13,250 --> 00:15:22,800
+Letztes Jahr hatte ich fünfmal Handweginfektion gehabt.
+
+161
+00:15:22,800 --> 00:15:28,590
+Und ich habe sehr oft Antibiotika eingenommen.
+
+162
+00:15:28,590 --> 00:15:30,590
+Haben Sie Zuckerkrankheit?
+
+163
+00:15:30,590 --> 00:15:33,590
+Nein, habe ich nicht.
+
+164
+00:15:33,590 --> 00:15:38,590
+Haben Sie schon einmal operiert?
+
+165
+00:15:38,590 --> 00:15:49,590
+Ja, vor drei Jahren habe ich die Blase entfällt.
+
+166
+00:15:49,590 --> 00:15:55,090
+Vor drei Jahren.
+
+167
+00:15:55,090 --> 00:16:01,090
+Haben Sie Allergien oder Unverträglichkeiten?
+
+168
+00:16:01,090 --> 00:16:03,090
+Nein, habe ich keine Allergien.
+
+169
+00:16:03,090 --> 00:16:07,550
+Trinken Sie Alkohol?
+
+170
+00:16:07,550 --> 00:16:12,090
+Gelegen.
+
+171
+00:16:12,090 --> 00:16:15,090
+Was meinen Sie damit?
+
+172
+00:16:15,090 --> 00:16:23,970
+Ja, jeden Abend trinke ich zwei Blase Bier.
+
+173
+00:16:23,970 --> 00:16:24,970
+Teilisch.
+
+174
+00:16:24,970 --> 00:16:30,900
+Bier ist nur Alkohol.
+
+175
+00:16:30,900 --> 00:16:33,900
+Seit wann trinken Sie Alkohol?
+
+176
+00:16:33,900 --> 00:16:37,900
+Seit 40 Jahren vielleicht.
+
+177
+00:16:37,900 --> 00:16:39,900
+Das ist so viel.
+
+178
+00:16:39,900 --> 00:16:43,900
+Rauchen Sie?
+
+179
+00:16:43,900 --> 00:16:45,900
+Ich rauche nicht.
+
+180
+00:16:45,900 --> 00:16:48,900
+Haben Sie vorher geraucht?
+
+181
+00:16:48,900 --> 00:16:50,900
+Nein.
+
+182
+00:16:50,900 --> 00:16:53,900
+Nehmen Sie die folgende Frage nicht persönlich.
+
+183
+00:16:53,900 --> 00:16:55,900
+Aus medizinischen Gründen fragen wir immer.
+
+184
+00:16:55,900 --> 00:16:57,900
+Haben Sie Erfahrung mit Drogen?
+
+185
+00:16:57,900 --> 00:16:59,900
+Nein, nein, Herr Doktor, nein.
+
+186
+00:16:59,900 --> 00:17:03,900
+Gut. Sie sind verheiratet?
+
+187
+00:17:03,900 --> 00:17:04,900
+Ja.
+
+188
+00:17:04,900 --> 00:17:06,900
+Nehmen Sie mit Ihrer Ehepraus zusammen?
+
+189
+00:17:06,900 --> 00:17:08,900
+Haben Sie Kinder?
+
+190
+00:17:08,900 --> 00:17:10,900
+Ich habe zwei Kinder.
+
+191
+00:17:10,900 --> 00:17:12,900
+Sind Sie gesund?
+
+192
+00:17:12,900 --> 00:17:14,900
+Gott sei Dank, ja.
+
+193
+00:17:14,900 --> 00:17:16,900
+Gut.
+
+194
+00:17:16,900 --> 00:17:20,900
+Gibt es irgendwelche chronischen Erkrankungen in Ihrer Familie?
+
+195
+00:17:20,900 --> 00:17:25,340
+Meine Mutter ist ganz gesund.
+
+196
+00:17:25,340 --> 00:17:28,340
+Sie ist 85.
+
+197
+00:17:28,340 --> 00:17:31,340
+Gut zu hören. Ich freue mich.
+
+198
+00:17:31,340 --> 00:17:33,340
+Ihr Vater?
+
+199
+00:17:33,340 --> 00:17:39,340
+Mein Vater ist leider an Darmkrebs gestorben.
+
+200
+00:17:39,340 --> 00:17:43,340
+Gut zu hören. Wie alt war er?
+
+201
+00:17:43,340 --> 00:17:47,340
+Vor 30 Jahren. Er war ungefähr 60.
+
+202
+00:17:47,340 --> 00:17:51,340
+Mein sehr beileid, Herr Meister.
+
+203
+00:17:51,340 --> 00:17:54,340
+Haben Sie Geschwister?
+
+204
+00:17:54,340 --> 00:17:57,340
+Ja, ich habe einen Bruder.
+
+205
+00:17:57,340 --> 00:18:00,340
+Hat er chronische Erkrankungen?
+
+206
+00:18:00,340 --> 00:18:04,340
+Nein, ich weiß nicht. Wir sind nicht eng.
+
+207
+00:18:04,340 --> 00:18:08,340
+Gut. Manchmal könnte es passieren.
+
+208
+00:18:08,340 --> 00:18:12,340
+Sind Sie vollständig geimpft?
+
+209
+00:18:12,340 --> 00:18:16,340
+Ja, denke ich. Aber was meinen Sie damit?
+
+210
+00:18:16,340 --> 00:18:20,340
+Gegen Kinderkrankheit und Covid-19?
+
+211
+00:18:20,340 --> 00:18:24,340
+Ja, denke ich schon.
+
+212
+00:18:24,340 --> 00:18:28,340
+Bisher wurde bei Ihnen eine Koloskopie durchgeführt.
+
+213
+00:18:28,340 --> 00:18:33,820
+Nein, vor zehn Jahren vielleicht.
+
+214
+00:18:33,820 --> 00:18:37,820
+Erst mal Reisdarm-Syndrom.
+
+215
+00:18:37,820 --> 00:18:41,820
+Wurde bei Ihnen eine Festdiagnose gestellt?
+
+216
+00:18:41,820 --> 00:18:47,820
+Ja, mein Hausarzt hat mir gesagt, dass ich Reisdarm-Syndrom habe.
+
+217
+00:18:47,820 --> 00:18:51,820
+Ich weiß, außer Reisdarm-Syndrom.
+
+218
+00:18:51,820 --> 00:18:55,820
+Polyp oder noch was anderes.
+
+219
+00:18:55,820 --> 00:18:59,820
+Vor zehn Jahren.
+
+220
+00:18:59,820 --> 00:19:03,820
+Waren Sie in letzter Zeit im Ausland?
+
+221
+00:19:03,820 --> 00:19:10,700
+Nein.
+
+222
+00:19:10,700 --> 00:19:18,340
+Treiben Sie regelmäßig Sport?
+
+223
+00:19:18,340 --> 00:19:22,340
+Ich glaube gerne.
+
+224
+00:19:22,340 --> 00:19:26,340
+Wie ernähren Sie, Herr Meister?
+
+225
+00:19:26,340 --> 00:19:30,340
+Vielleicht reich essen oder Gemüse reich essen.
+
+226
+00:19:30,340 --> 00:19:35,660
+Ich esse alles.
+
+227
+00:19:35,660 --> 00:19:39,660
+Morgen esse ich Brötchen mit Marmelade.
+
+228
+00:19:39,660 --> 00:19:43,660
+Mittags esse ich Kartoffelsalat.
+
+229
+00:19:43,660 --> 00:19:47,660
+Manchmal mit verschiedenen Arten.
+
+230
+00:19:47,660 --> 00:19:51,660
+Meinerseits habe ich alle wichtigen Fragen gestellt.
+
+231
+00:19:51,660 --> 00:19:55,660
+Möchten Sie noch etwas hinzufügen, Herr Meister?
+
+232
+00:19:55,660 --> 00:19:59,660
+Ja, ich möchte noch etwas hinzufügen.
+
+233
+00:19:59,660 --> 00:20:03,660
+Machen Sie sich deswegen keine Sorgen, Herr Meister.
+
+234
+00:20:03,660 --> 00:20:07,660
+Es ist zu früh, etwas Genaues zu sagen.
+
+235
+00:20:07,660 --> 00:20:11,660
+Jetzt werde ich eine körperliche Untersuchung durchschauen.
+
+236
+00:20:11,660 --> 00:20:17,660
+Danach werde ich Labour-Untersuchungen und operative Diagnostikmaßnahmen durchschauen.
+
+237
+00:20:17,660 --> 00:20:21,660
+Dann können wir entscheiden.
+
+238
+00:20:21,660 --> 00:20:25,660
+Ich bin sehr gespannt, wie Sie das machen.
+
+239
+00:20:25,660 --> 00:20:29,660
+Es ist zu früh, etwas Genaues zu sagen, Herr Meister.
+
+240
+00:20:29,660 --> 00:20:33,660
+Mit den Ergebnissen können wir mehr überspringen.
+
+241
+00:20:33,660 --> 00:20:37,660
+Muss ich hier bleiben oder?
+
+242
+00:20:37,660 --> 00:20:41,660
+Ja, natürlich. Jetzt werde ich eine körperliche Untersuchung durchschauen.
+
+243
+00:20:41,660 --> 00:20:45,660
+Deswegen sollen Sie hier warten.
+
+244
+00:20:45,660 --> 00:20:49,660
+Ich bin sehr gespannt.
+
+245
+00:20:49,660 --> 00:20:53,660
+Ich bin sehr gespannt.
+
+246
+00:20:53,660 --> 00:20:57,660
+Okay, vielen Dank.
+
+247
+00:20:57,660 --> 00:21:03,130
+Gerne.
+
+248
+00:21:03,130 --> 00:21:07,130
+Guten Tag, Frau Oberersten.
+
+249
+00:21:07,130 --> 00:21:11,130
+Ich möchte Ihnen einen neuen Patienten vorstellen, den ich in der Notaufnahme gesehen habe.
+
+250
+00:21:11,130 --> 00:21:15,130
+Hätten Sie kurz Zeit?
+
+251
+00:21:15,130 --> 00:21:23,130
+Es handelt sich um Franz Meister, ein 67-jähriger Patient, geboren am 6.7.1978.
+
+252
+00:21:23,130 --> 00:21:29,130
+Er ist 1,87 Meter groß und 740 Kilogramm schwer.
+
+253
+00:21:29,130 --> 00:21:35,130
+Er stellt sich bei uns vor aufgrund, dass seit 2-3 Monaten
+
+254
+00:21:35,130 --> 00:21:48,440
+bestehende krampfartige Unterbauchschmerzen ohne Ausstrahlung
+
+255
+00:21:48,440 --> 00:22:08,200
+als Begleitsymptomen liegen seit einer Woche 5-6 Mal mit wasrigem Diarrhea.
+
+256
+00:22:08,200 --> 00:22:18,200
+Er hatte diese Beschwerden zum ersten Mal.
+
+257
+00:22:18,200 --> 00:22:28,200
+Aber vor 10 Jahren wurde bei ihm das Reisdarm-Syndrom festgestellt.
+
+258
+00:22:28,200 --> 00:22:34,200
+Damals hatte er Verstopfung und Diarrhea.
+
+259
+00:22:34,200 --> 00:22:40,200
+Aber diese Beschwerden sind erstmals.
+
+260
+00:22:40,200 --> 00:22:48,200
+Er berichtete, diese Beschwerden seien allmählich aufgetreten.
+
+261
+00:22:48,200 --> 00:22:56,200
+Darüber hinaus klagte er über Meteorismus, Palau.
+
+262
+00:22:56,200 --> 00:23:04,200
+Die Frage nach Reflü wurden verneint.
+
+263
+00:23:04,200 --> 00:23:12,200
+In der vegetative Anamnese sind folgende bekannt.
+
+264
+00:23:12,200 --> 00:23:18,200
+Fieber 37,5 Grad.
+
+265
+00:23:18,200 --> 00:23:26,200
+Nachtschweiß, Insomni, seit 3 Monaten.
+
+266
+00:23:26,200 --> 00:23:32,200
+Insomni wegen Polyakisüri.
+
+267
+00:23:32,200 --> 00:23:41,860
+Vertigo, Inapetens, seit 3 Monaten.
+
+268
+00:23:41,860 --> 00:23:47,860
+Gewichtabnahme, seit 3 Monaten.
+
+269
+00:23:47,860 --> 00:23:53,860
+Innerhalb von 3 Monaten 5 kg.
+
+270
+00:23:53,860 --> 00:23:59,860
+Und rote Stürme.
+
+271
+00:23:59,860 --> 00:24:09,860
+Er berichtete, dass er dunkelrote Blut im Körper hatte.
+
+272
+00:24:09,860 --> 00:24:17,860
+Er leidet seit einem Jahr an Herzrhythmus-Störungen.
+
+273
+00:24:17,860 --> 00:24:25,860
+Dagegen nimmt er 50 mg Metoprolol einmal täglich ein.
+
+274
+00:24:25,860 --> 00:24:33,860
+Seit 5 Jahren hat er eine Prostatehyperplasie.
+
+275
+00:24:33,860 --> 00:24:41,860
+Dagegen nimmt er Antiprostat einmal täglich ein.
+
+276
+00:24:41,860 --> 00:24:47,860
+Die Dosis ist nicht erinnerlich.
+
+277
+00:24:47,860 --> 00:24:57,240
+Seit 5 Jahren leidet er an Arteriella-Hypertonie.
+
+278
+00:24:57,240 --> 00:25:03,240
+Dagegen nimmt er Norvask Tablet 10 mg ein.
+
+279
+00:25:03,240 --> 00:25:09,240
+Seit 10 Jahren leidet er an den Reisdarmzentrum.
+
+280
+00:25:09,240 --> 00:25:15,240
+Dagegen trinkt er Kreutat.
+
+281
+00:25:15,240 --> 00:25:23,240
+Letztes Jahr hatte er 5 Mal eine Handwerkinfektion.
+
+282
+00:25:23,240 --> 00:25:33,240
+Bei ihm wurde vor 30 Jahren eine Sistektomie durchgeführt.
+
+283
+00:25:33,240 --> 00:25:39,240
+Es sind keine Allergien und Unverträglichkeiten bekannt.
+
+284
+00:25:39,240 --> 00:25:43,240
+Er ist nicht Raucher.
+
+285
+00:25:43,240 --> 00:25:49,240
+Er trinkt seit 40 Jahren 2 Gläser Bier täglich.
+
+286
+00:25:49,240 --> 00:25:53,240
+Dagegen würde er verneint.
+
+287
+00:25:53,240 --> 00:25:57,240
+Er ist verheiratet.
+
+288
+00:25:57,240 --> 00:26:01,240
+Er lebt mit seiner Frau zusammen.
+
+289
+00:26:01,240 --> 00:26:05,240
+Er hat 2 gesunde Kinder.
+
+290
+00:26:05,240 --> 00:26:09,240
+In der Familienanamnese fand er sich.
+
+291
+00:26:09,240 --> 00:26:15,240
+Der Vater ist mit 60 Jahren an Kolankarsinom verstoben.
+
+292
+00:26:15,240 --> 00:26:21,240
+Er hat einen Bruder, aber keinen Kontakt mit ihm.
+
+293
+00:26:21,240 --> 00:26:25,240
+Er ist vollständig geimpft.
+
+294
+00:26:25,240 --> 00:26:29,240
+Die Reiseanamnese ist unauffällig.
+
+295
+00:26:29,240 --> 00:26:33,240
+Meine Verdachtstheorose lautet auf Kolankarsinom.
+
+296
+00:26:33,240 --> 00:26:37,240
+Dafür schiebe ich Gewichtabnahme.
+
+297
+00:26:37,240 --> 00:26:41,240
+Seit 3 Monaten bestehende Bauchschmerzen.
+
+298
+00:26:41,240 --> 00:26:47,240
+In der Familienanamnese hat der Vater Kolankarsinom.
+
+299
+00:26:47,240 --> 00:26:51,240
+Er ist an Kolankarsinom verstoben.
+
+300
+00:26:51,240 --> 00:26:55,240
+Die Differenzialdiagnostik ist die Vertikulitis.
+
+301
+00:26:55,240 --> 00:27:02,620
+Magenkarsinom und Hemorrhoid.
+
+302
+00:27:02,620 --> 00:27:12,620
+In der Diagnostik würde ich zunächst eine körperliche Untersuchung durchschauen.
+
+303
+00:27:12,620 --> 00:27:18,620
+Zunächst würde ich die vitalen Parameter erfassen.
+
+304
+00:27:18,620 --> 00:27:28,620
+Danach würde ich den Patienten inspezieren, palpieren und auskultieren.
+
+305
+00:27:28,620 --> 00:27:36,620
+Bei Verdacht auf Kolankarsinom ist die Palpation wegweisend.
+
+306
+00:27:36,620 --> 00:27:44,620
+Bei der Palpation achte ich auf Druckschmerzen, Abbespannung.
+
+307
+00:27:44,620 --> 00:28:00,620
+In diesem Fall würde ich eine digitale, rektale Untersuchung durchschauen.
+
+308
+00:28:00,620 --> 00:28:10,620
+Bei der digitale, rektale Untersuchung können wir den Tumor erkennen.
+
+309
+00:28:10,620 --> 00:28:16,620
+Der Tumor bei der Untersuchung ist tatsprechend.
+
+310
+00:28:16,620 --> 00:28:24,620
+Zu weiteren Diagnostik würde ich Laborkuntersuchungen durchschauen.
+
+311
+00:28:24,620 --> 00:28:41,990
+Ich überprüfe das Blutbild ALT, ALT, AST, die Entzündungswerte, CEA und CA9.
+
+312
+00:28:41,990 --> 00:28:49,990
+Zu weiteren Abklärungen würde ich die operative Diagnostik durchschauen.
+
+313
+00:28:49,990 --> 00:28:59,990
+Um eine Laborknotenvergrößerung oder mögliche Organomegalie auszuschließen,
+
+314
+00:28:59,990 --> 00:29:07,990
+würde ich die Sonographie des Abdomens durchschauen.
+
+315
+00:29:07,990 --> 00:29:17,990
+Bei Verdacht auf Kolankarsinom ist die Koloskopie der Goldstandard.
+
+316
+00:29:17,990 --> 00:29:25,990
+Ich würde unbedingt eine Koloskopie durchschauen.
+
+317
+00:29:25,990 --> 00:29:33,990
+Bei der Koloskopie können wir den Tumor erkennen.
+
+318
+00:29:33,990 --> 00:29:41,990
+Ich würde auch eine Therapie durchführen.
+
+319
+00:29:41,990 --> 00:29:49,990
+Sollte sich meine Verdachtstheorose bestätigen, würde ich den Patienten stationär aufnehmen.
+
+320
+00:29:49,990 --> 00:29:57,990
+Ich würde ein chirurgisches Konzil durchführen, um die Therapie zu optimieren.
+
+321
+00:29:57,990 --> 00:30:12,810
+Ich verstehe. Gibt es eine Riesengenau-Faktoren für Kolonkarsinom?
+
+322
+00:30:12,810 --> 00:30:20,810
+Der Vater leidet seit zehn Jahren an der Reissdarm-Syndrom.
+
+323
+00:30:20,810 --> 00:30:28,810
+Der Vater leidet seit sechs Jahren an der Reissdarm-Syndrom.
+
+324
+00:30:28,810 --> 00:30:36,810
+Er trinkt seit 40 Jahren zwei Gläser Bier.
+
+325
+00:30:36,810 --> 00:30:46,120
+Das kann als Risiko-Faktoren bezahlt werden.
+
+326
+00:30:46,120 --> 00:30:54,120
+Wie sieht der klinische Zustand des Patienten aus?
+
+327
+00:30:54,120 --> 00:31:02,120
+Leider kann ich bisher keine körperliche Untersuchung durchführen.
+
+328
+00:31:02,120 --> 00:31:10,120
+Er sieht blass aus und kann die Fragen antworten.
+
+329
+00:31:10,120 --> 00:31:19,560
+Aber er hat Diarrhea und seit drei Monaten eine Woche.
+
+330
+00:31:19,560 --> 00:31:27,560
+Eine Woche sind die Bekämpfung verschlimmert.
+
+331
+00:31:27,560 --> 00:31:35,560
+Nach der körperlichen Untersuchung kann ich genauer entscheiden.
+
+332
+00:31:35,560 --> 00:31:43,560
+Hat der Patient jetzt eine Verstoffung?
+
+333
+00:31:43,560 --> 00:31:51,560
+Seit drei Monaten leidet er an Diarrhea.
+
+334
+00:31:51,560 --> 00:31:57,560
+Seit einer Woche sind die Bekämpfungen verschlimmert.
+
+335
+00:31:57,560 --> 00:32:03,560
+Er geht zur Toilette fünf- bis sechsmal.
+
+336
+00:32:03,560 --> 00:32:11,560
+Möchten Sie für diesen Patienten eine Koloskopie durchführen?
+
+337
+00:32:11,560 --> 00:32:21,560
+Aber in seiner Differentialdiagnose gibt es auch Divertiglitz.
+
+338
+00:32:21,560 --> 00:32:33,560
+Bei Akutemkontrollen warte ich zuerst die Ergebnisse der Entzündungswerte.
+
+339
+00:32:33,560 --> 00:32:41,560
+Hat der Patient Fieber?
+
+340
+00:32:41,560 --> 00:32:49,560
+Er hat Fieber im Februar.
+
+341
+00:32:49,560 --> 00:32:57,560
+Und Sie warten für eine Koloskopie?
+
+342
+00:32:57,560 --> 00:33:05,560
+Zuerst werden die Labultezugungen durchführt.
+
+343
+00:33:05,560 --> 00:33:13,190
+Dann werden die Ultraschall des Abdomens durchführt.
+
+344
+00:33:13,190 --> 00:33:23,190
+Wenn die Befunde unglä sind, werden die CT des Abdomens veranlasst.
+
+345
+00:33:23,190 --> 00:33:33,190
+Wenn wir die Divertiglitz erkennen, können wir keine Koloskopie durchführen.
+
+346
+00:33:33,190 --> 00:33:43,190
+Okay, wir können die Koloskopie durchführen.
+
+347
+00:33:43,190 --> 00:33:53,190
+Die Koloskopie ist eine bildgebende Methode.
+
+348
+00:33:53,190 --> 00:34:03,190
+Mit der können wir Darm- und Massdarm bis 12 Fingerdarm beurteilen.
+
+349
+00:34:03,190 --> 00:34:13,190
+Es enthält einen Schlauch mit einer Kamera und einer Lichtquelle.
+
+350
+00:34:13,190 --> 00:34:23,190
+Wir führen den Schlauch durch den Aft ein.
+
+351
+00:34:23,190 --> 00:34:33,190
+Das ist nicht nur eine diagnostische Maßnahme, sondern auch eine therapeutische.
+
+352
+00:34:33,190 --> 00:34:41,190
+Gleichzeitig können wir eine Gewebeprobe entnehmen und eine Polyp entfernen.
+
+353
+00:34:41,190 --> 00:34:49,190
+Vor der Untersuchung sollte der Patient vorbereitet werden.
+
+354
+00:34:49,190 --> 00:34:57,190
+Das ist eine schmerzhafte Untersuchung. Deswegen verabreichen wir örtliche Betäubung.
+
+355
+00:34:57,190 --> 00:35:07,370
+Nach der Untersuchung braucht der Patient eine begleitende Person.
+
+356
+00:35:07,370 --> 00:35:17,370
+Hat der Patient Hematurkeza oder Hematopäse?
+
+357
+00:35:17,370 --> 00:35:25,370
+Er hat nicht eine Melanose.
+
+358
+00:35:25,370 --> 00:35:31,370
+Bei der Melanose war es eher ein T-Shirt.
+
+359
+00:35:31,370 --> 00:35:37,370
+Aber er sagte, es sei dunkel.
+
+360
+00:35:37,370 --> 00:35:43,370
+Es könnte Hematopäse sein.
+
+361
+00:35:43,370 --> 00:35:49,370
+Hat der Patient Hematopäse?
+
+362
+00:35:49,370 --> 00:36:07,210
+Er hat keine Hematopäse.
+
+363
+00:36:07,210 --> 00:36:13,210
+Guten Tag.
+
+364
+00:36:13,210 --> 00:36:21,210
+Ich habe heute einen neuen Patienten aufgenommen.
+
+365
+00:36:21,210 --> 00:36:29,210
+Können Sie die Patienten zusammenfassen?
+
+366
+00:36:29,210 --> 00:36:37,210
+Ich berichte über Herrn Franz Meister.
+
+367
+00:36:37,210 --> 00:36:45,210
+Er ist 1,87 Meter groß.
+
+368
+00:36:45,210 --> 00:36:53,210
+Der Patient ist heute bei uns.
+
+369
+00:36:53,210 --> 00:37:02,210
+Er hat seit 3 Monaten eine krankartige, persistierende,
+
+370
+00:37:02,210 --> 00:37:09,210
+unterbauchschmerzen und wässerigen Diary.
+
+371
+00:37:09,210 --> 00:37:17,210
+Er kann 5-6 Mal pro Tag vorgehen.
+
+372
+00:37:17,210 --> 00:37:27,210
+Außerdem klagt der Patient über Inapathens.
+
+373
+00:37:27,210 --> 00:37:33,210
+Fibre bis 37,5 Grad.
+
+374
+00:37:33,210 --> 00:37:41,210
+Er hat nächtliche Hyperhydrose und Insomni,
+
+375
+00:37:41,210 --> 00:37:47,210
+Palor und Melena.
+
+376
+00:37:47,210 --> 00:37:59,210
+Die Schmerzintensität wurde mit 5 von 10 auf einer Schmerzskala bewertet.
+
+377
+00:37:59,210 --> 00:38:11,210
+Darüber hinaus erwähnte der Patient das Eruntervertigo Polyery.
+
+378
+00:38:11,210 --> 00:38:20,620
+An der Vorerkrankung gab er das
+
+379
+00:38:20,620 --> 00:38:26,620
+Reisdamm-Syndrom seit 10 Jahren,
+
+380
+00:38:26,620 --> 00:38:32,620
+Arteriellhypertronik seit 5 Jahren,
+
+381
+00:38:32,620 --> 00:38:38,620
+Ersrhythmusstörung seit einem Jahr,
+
+382
+00:38:38,620 --> 00:38:44,620
+Prostathyperkulose seit 5 Jahren.
+
+383
+00:38:44,620 --> 00:38:54,620
+Er nimmt regelmäßig 50 mg Metrocronöl morgens,
+
+384
+00:38:54,620 --> 00:39:00,620
+10 mg Norvaks morgens,
+
+385
+00:39:00,620 --> 00:39:10,620
+und 1 Pro Tag Antiprostat Tablet.
+
+386
+00:39:10,620 --> 00:39:20,620
+Der Patient fügt den Hinzu, dass er letzte Jahr 5 Mal
+
+387
+00:39:20,620 --> 00:39:28,620
+an Hanweckinfektion geritten hat.
+
+388
+00:39:28,620 --> 00:39:38,620
+Der Patient hat gesagt, dass er Hanweckinfektion gehabt hat.
+
+389
+00:39:38,620 --> 00:39:48,620
+Wir wissen nicht ob es eine Sistetis oder Nephritis ist.
+
+390
+00:39:48,620 --> 00:39:56,620
+Wir haben kaum Informationen über Hanweckinfektion.
+
+391
+00:39:56,620 --> 00:40:02,620
+Es gibt sehr wahrscheinlich eine Sistetis.
+
+392
+00:40:02,620 --> 00:40:14,620
+Vor 30 Jahren wurde er wegen
+
+393
+00:40:14,620 --> 00:40:22,620
+der Galenblase-Krankheit operiert.
+
+394
+00:40:22,620 --> 00:40:26,620
+Er ist vollständig genügt.
+
+395
+00:40:26,620 --> 00:40:34,620
+Er wurde an Allergien, Unverträglichkeit und Reiseanamnesen vermeint.
+
+396
+00:40:34,620 --> 00:40:38,620
+Er ist nicht traurig.
+
+397
+00:40:38,620 --> 00:40:42,620
+Er trinkt 2 Gläser pro Tag.
+
+398
+00:40:42,620 --> 00:40:48,620
+Seit 40 Jahren wurde er an Drogenkonsum vermeint.
+
+399
+00:40:48,620 --> 00:40:56,620
+Er hatte gesagt, dass seine Mutter gesund war.
+
+400
+00:40:56,620 --> 00:41:06,620
+Sein Vater ist vor 30 Jahren gestorben.
+
+401
+00:41:06,620 --> 00:41:18,620
+Er hat einen Dammkarsinom gestorben.
+
+402
+00:41:18,620 --> 00:41:28,620
+Er hat ein Bruder, er ist rennt und hat zwei Kinder und lebt mit ihrer Frau.
+
+403
+00:41:28,620 --> 00:41:39,990
+Die Anamnestischen angaben am ersten Tag auf einen Kolonkarsinom hin.
+
+404
+00:41:39,990 --> 00:41:43,990
+Die Differenzialdiagnostik kam an.
+
+405
+00:41:43,990 --> 00:41:51,990
+Der Karsinoid-Syndrom Divertkulitis Morbus Crohn Colitis Ulcerosa in Betracht.
+
+406
+00:41:51,990 --> 00:42:01,990
+Um meine Verdachtdiagnose zu bestätigen, werde ich den Patienten zuerst körperlich untersuchen.
+
+407
+00:42:01,990 --> 00:42:13,990
+Ich achte darauf, ob es eine Druckdollens oder Abwehrspannung gibt.
+
+408
+00:42:13,990 --> 00:42:27,990
+Ich werde Blut abnehmen.
+
+409
+00:42:27,990 --> 00:42:41,990
+Ich werde ein großes Blutbild aus der SRP, BSG und möglichen entzündeten Darmerkrankungen ausschließen.
+
+410
+00:42:41,990 --> 00:42:55,990
+Ich werde die Nierenwerte, die Lebewerte, die LDH, die ALP, die CA19, die BND-9 und die CA125 bestimmen.
+
+411
+00:42:55,990 --> 00:43:19,990
+Ich werde eine Abdomen-Sonographie durchführen, um mögliche Abdomenkrankheiten oder Zumore und Acid auszuschließen.
+
+412
+00:43:19,990 --> 00:43:41,990
+Ich werde eine Koloskopie durchführen, um mögliche Kolonkarsinom-Syndroms oder Divertkulitis oder Blut auszuschließen.
+
+413
+00:43:41,990 --> 00:43:53,990
+Ich werde den Patienten stationär aufnehmen, um meine Verdachtdiagnose zu bestimmen.
+
+414
+00:43:53,990 --> 00:44:18,860
+Gastroenterologisches und Chirurgisches Konzils sind sinnvoll, um eine genaue Diagnose zu bestätigen und die Behandlung zu optimieren.
+
+415
+00:44:18,860 --> 00:44:26,860
+Welche Therapien und Optionen haben Sie?
+
+416
+00:44:26,860 --> 00:44:53,860
+Die Therapien und Optionen sind die die Diagnose. Wenn wir einen Kolonkarsinom bestellen, dann werden wir während der Koloskopie eine Gewerbeprobe machen.
+
+417
+00:44:53,860 --> 00:45:02,860
+Ich werde die Chirurgisches Konzils durchführen.
+
+418
+00:45:02,860 --> 00:45:22,860
+Bevor ich die Chirurgisches Konzils durchführen werde, werde ich die Chirurgisches Konzils durchführen.
+
+419
+00:45:22,860 --> 00:45:28,860
+Welche Maßnahmen?
+
+420
+00:45:28,860 --> 00:45:50,860
+Wir müssen auf jeden Fall eine CT des Abdomens und eine PET-CT durchführen, wenn wir einen Kolonkarsinom feststellen, um eine mögliche Metastase und ein Stadion zu bestimmen.
+
+421
+00:45:50,860 --> 00:46:01,860
+Okay, würde eine Gastroskopie oder Kolonoskopie durchgeführt?
+
+422
+00:46:01,860 --> 00:46:23,740
+Wir haben keine Informationen über Koloskopie oder Endoskopie. Bei der Körperwanderung ist die Frage wieder.
+
+423
+00:46:23,740 --> 00:46:32,740
+Der Patient hat gesagt, dass es eine Koloskopie für die Geschichte ist, aber vor zehn Jahren?
+
+424
+00:46:32,740 --> 00:46:39,740
+Vor zehn Jahren hat ein Mann eine Koloskopie durchgeführt.
+
+425
+00:46:39,740 --> 00:46:43,740
+Aber es gibt keine Befunde?
+
+426
+00:46:43,740 --> 00:46:51,740
+Können Sie uns eine PET-CT aufklaren?
+
+427
+00:46:51,740 --> 00:47:07,740
+Ja, PET-CT ist eine Bildgebende verfahren mit Hilfe der FDG 18.
+
+428
+00:47:07,740 --> 00:47:16,740
+Das ist ein Typ von Glukos, der die Tumorzellen bestimmen kann, ob es eine Metastase gibt.
+
+429
+00:47:16,740 --> 00:47:35,740
+Wenn es eine Metastase gibt, können wir eine Metastase mit Hilfe der PET-CT bestimmen.
+
+430
+00:47:35,740 --> 00:47:48,540
+Muss der Patient eine Vorbereitung machen?
+
+431
+00:47:48,540 --> 00:48:03,540
+Ja, bevor diese Vorbereitung, muss der Patient eine besondere Art Glukos einnehmen.
+
+432
+00:48:03,540 --> 00:48:13,540
+Muss der Patient eine Vorbereitung machen?
+
+433
+00:48:13,540 --> 00:48:27,540
+Ich habe keine Informationen über PET-CT. Ich werde die PET-CT recherchieren.
+
+434
+00:48:27,540 --> 00:48:50,850
+Sie haben gesagt, dass Sie eine chronische Darmentzündung haben. Welche Symptome haben Sie?
+
+435
+00:48:50,850 --> 00:48:59,850
+Der Patient leidet unter permanentem Diarrhea und Bauchschmerzen.
+
+436
+00:48:59,850 --> 00:49:09,850
+Er hat fünf Kilo abgenommen und krampfartige Bauchschmerzen.
+
+437
+00:49:09,850 --> 00:49:16,850
+Diese Beschwerden sprechen für eine chronische entzündliche Darmerkrankung.
+
+438
+00:49:16,850 --> 00:49:21,850
+Denken Sie, dass der Patient unter Melena leidet?
+
+439
+00:49:21,850 --> 00:49:31,850
+Das ist ein Befund für Kolitis ulcerosa.
+
+440
+00:49:31,850 --> 00:49:39,850
+Diese Symptome sprechen für chronische entzündliche Darmerkrankungen.
+
+441
+00:49:42,960 --> 00:49:48,960
+Denken Sie, dass der Patient unter Melena leidet?
+
+442
+00:49:48,960 --> 00:49:58,230
+Das kann auch sein. Der Patient leidet unter Melena.
+
+443
+00:49:58,230 --> 00:50:08,230
+Deswegen wird eine Gastroesophagodäroskopie sinnvoll.
+
+444
+00:50:09,230 --> 00:50:18,230
+Gibt es eine Hinweise auf Metastas?
+
+445
+00:50:18,230 --> 00:50:30,980
+Die Gewichtabnahme ist ein Signal für Metastas.
+
+446
+00:50:30,980 --> 00:50:36,980
+Der Patient leidet unter keinem Schmerz in der anderen Körperregion.
+
+447
+00:50:36,980 --> 00:50:44,980
+Deswegen können wir nicht genau darüber denken.
+
+448
+00:50:45,980 --> 00:50:57,980
+Hat der Patient unter Lungenmetastas oder Knochen Schmerzen?
+
+449
+00:50:58,980 --> 00:51:07,390
+Wie ist der Allgemeinszustand der Patient?
+
+450
+00:51:07,390 --> 00:51:21,390
+Ich habe gehört, dass der Patient leidet an langer Wartenseite.
+
+451
+00:51:21,390 --> 00:51:29,390
+Der Patient leidet seitlich und örtlich.
+
+452
+00:51:29,390 --> 00:51:35,390
+Er hat alle Fragen ganz genau antwortet.
+
+453
+00:51:35,390 --> 00:51:42,470
+Deswegen können wir sagen, der Allgemeinszustand ist gut.
+
+454
+00:51:42,470 --> 00:51:48,470
+Der Patient sieht ein bisschen blass aus.
+
+455
+00:51:48,470 --> 00:51:54,470
+Der Patient hat eine Verhidratation.
+
+456
+00:51:54,470 --> 00:51:58,470
+Er hat auch Vertigo?
+
+457
+00:51:58,470 --> 00:52:02,470
+Ja, er hat Vertigo.
+
+458
+00:52:02,470 --> 00:52:07,470
+Deswegen müssen wir den Patienten stationär aufnehmen.
+
+459
+00:52:07,470 --> 00:52:15,470
+Wir müssen den Patienten genügend Flüssigkeit verbreiten.
+
+460
+00:52:15,470 --> 00:52:19,470
+Vielen Dank, Frau Wehrsinn.
+
+461
+00:52:19,470 --> 00:52:23,470
+Vielen Dank.
+
+462
+00:52:23,470 --> 00:52:33,550
+Guten Abend, Frau Wehrsinn.
+
+463
+00:52:33,550 --> 00:52:40,550
+Ich habe heute einen neuen Patienten aufgenommen.
+
+464
+00:52:40,550 --> 00:52:46,550
+Ich würde gerne mit Ihnen den Patienten vorstellen.
+
+465
+00:52:46,550 --> 00:52:49,550
+Haben Sie Zeit für mich?
+
+466
+00:52:49,550 --> 00:52:51,550
+Ja, gerne.
+
+467
+00:52:51,550 --> 00:52:55,550
+Es handelt sich um Herrn Franz Meister.
+
+468
+00:52:55,550 --> 00:53:11,550
+Er ist 67 Jahre alt, 1,87 Meter groß und 54 Kilogramm schwer.
+
+469
+00:53:11,550 --> 00:53:18,550
+Er ist 54 Kilogramm schwer.
+
+470
+00:53:19,550 --> 00:53:22,550
+Ist das richtig oder falsch?
+
+471
+00:53:22,550 --> 00:53:30,250
+Ich bin nicht sicher.
+
+472
+00:53:30,250 --> 00:53:36,100
+75 Kilogramm oder?
+
+473
+00:53:36,100 --> 00:53:39,100
+Ich bin nicht sicher.
+
+474
+00:53:39,100 --> 00:53:46,100
+Ich habe hier geschrieben, ich bin nicht sicher.
+
+475
+00:53:46,100 --> 00:53:51,100
+Wir können wiederholen.
+
+476
+00:53:51,100 --> 00:53:59,100
+Der Patient steht heute bei uns.
+
+477
+00:53:59,100 --> 00:54:08,100
+Seit 2-3 Monaten ist er pro Grad im Hypogastrium.
+
+478
+00:54:08,100 --> 00:54:14,100
+Er hat keine Medikamente angenommen.
+
+479
+00:54:14,100 --> 00:54:20,100
+Der Patient hat keine Ärzte.
+
+480
+00:54:20,100 --> 00:54:24,100
+Er hat keine Ärzte.
+
+481
+00:54:24,100 --> 00:54:27,100
+Er hat keine Ärzte.
+
+482
+00:54:27,100 --> 00:54:30,100
+Er hat keine Ärzte.
+
+483
+00:54:30,100 --> 00:54:33,100
+Er hat keine Ärzte.
+
+484
+00:54:33,100 --> 00:54:37,100
+Er hat keine Medikamente angenommen.
+
+485
+00:54:37,100 --> 00:54:44,100
+Der Patient hat wegen dieser Beschwerden nicht bei einem Arzt gewesen.
+
+486
+00:54:44,100 --> 00:54:53,100
+Die Schmerzintensität wurde mit 5 bis 6 Fond auf eine Schmerzskala bewertet.
+
+487
+00:54:53,100 --> 00:55:02,100
+Der Patient berichtet über eine Gewichtabnahme von 5 Kilogramm innerhalb von 3 Monaten.
+
+488
+00:55:02,100 --> 00:55:07,100
+Die Beschwerden gehen mit Metaurythmus und Palo einher.
+
+489
+00:55:07,100 --> 00:55:11,100
+Die Vegetative Anamnese sind folgendes ergeben.
+
+490
+00:55:11,100 --> 00:55:19,100
+Pyrexie, Inapetens, Insomnie, Nachschweiß, Nitri und Vertigo.
+
+491
+00:55:19,100 --> 00:55:34,100
+Anführerkrankungen nach der NAM-PR seit 5 Jahren.
+
+492
+00:55:34,100 --> 00:55:37,100
+Prostatehyperplasie.
+
+493
+00:55:37,100 --> 00:55:42,100
+Seit 5 Jahren bestehende arterielle Hypertonie.
+
+494
+00:55:42,100 --> 00:55:47,100
+Seit 10 Jahren bestehende Reissdarm-Syndrome.
+
+495
+00:55:47,100 --> 00:55:57,100
+Er hatte viele Mal Pharmaekinfektionen wie Zistitis.
+
+496
+00:55:57,100 --> 00:56:06,100
+Vor 3 Jahren wurde bei ihm eine Cholocystektomie durchgeführt.
+
+497
+00:56:06,100 --> 00:56:12,100
+Vor 10 Jahren wurde bei ihm eine Zistektomie durchgeführt.
+
+498
+00:56:12,100 --> 00:56:22,100
+Im Besuch auf Medikation nimmt er Metaprolol 50 mg einmal täglich,
+
+499
+00:56:22,100 --> 00:56:34,100
+Antiprostat Tablette einmal, aber der Name die Dosierung und sollte geklaut werden.
+
+500
+00:56:34,100 --> 00:56:46,100
+Außerdem nimmt er Norvastablet 10 mg ein und sie benutzt eine Kräuter wegen Pharmaekinfektionen.
+
+501
+00:56:46,100 --> 00:56:51,100
+Allergische Geschichte ist unauffällig.
+
+502
+00:56:51,100 --> 00:56:56,100
+Er ist kein Raucher.
+
+503
+00:56:56,100 --> 00:57:03,100
+Er trinkt gelegentlich, er hat Gelegentlichkeit.
+
+504
+00:57:03,100 --> 00:57:06,100
+Er hat Gelegentlichkeit.
+
+505
+00:57:06,100 --> 00:57:09,100
+Er hat Gelegentlichkeit.
+
+506
+00:57:09,100 --> 00:57:13,100
+Er trinkt gelegentlich.
+
+507
+00:57:13,100 --> 00:57:16,100
+Er hat Gelegentlichkeit.
+
+508
+00:57:16,100 --> 00:57:21,100
+Gelegentlich. Aber er trinkt zwei Glaser pro Tag.
+
+509
+00:57:21,100 --> 00:57:33,100
+Im Besuch auf Familienanamnese teilt er mit, dass die Mutter gesund ist.
+
+510
+00:57:34,100 --> 00:57:44,100
+Der Vater ist an Kolonkarsinom mit 60 Jahren verstorben.
+
+511
+00:57:44,100 --> 00:57:48,100
+Er ist von ständig geimpft.
+
+512
+00:57:48,100 --> 00:57:51,100
+Raiese anamnese ist unauffällig.
+
+513
+00:57:51,100 --> 00:57:59,100
+Er ist Rentner, aber früher als Schreiner gearbeitet.
+
+514
+00:57:59,100 --> 00:58:04,100
+Der Patient ist verheiratet und hat zwei Kinder.
+
+515
+00:58:04,100 --> 00:58:07,100
+Die Kinder sind gesund.
+
+516
+00:58:07,100 --> 00:58:10,100
+Sie wohnen mit der Familie.
+
+517
+00:58:10,100 --> 00:58:14,100
+Er trinkt keinen Sport.
+
+518
+00:58:14,100 --> 00:58:21,100
+Ich gehe von einem Verdacht auf Kolonkarsinom aus.
+
+519
+00:58:21,100 --> 00:58:27,100
+Da der Patient dafür typische Symptome aufweist,
+
+520
+00:58:27,100 --> 00:58:35,100
+ist der Patient leider untergewischt.
+
+521
+00:58:35,100 --> 00:58:42,100
+Er hat einen Namen, eine Diore, eine Bauchschmerzen.
+
+522
+00:58:42,100 --> 00:58:49,100
+Nachschweiz und Melena.
+
+523
+00:58:49,100 --> 00:58:55,100
+Diese beiden sprechen für Kolonkarsinom.
+
+524
+00:58:55,100 --> 00:59:10,100
+Als Differenzierdiagnose kommen auch Divertikulitis, Morbus Crohn und Magenkarsinom in Betracht.
+
+525
+00:59:10,100 --> 00:59:17,100
+Um meine Verdachtdiagnose zu bestätigen, würde ich zunächst den Patienten
+
+526
+00:59:17,100 --> 00:59:27,100
+und die beiden Körperliche Unterzüge beachten.
+
+527
+00:59:27,100 --> 00:59:39,100
+Ich werde darauf achten, ob er abweichende Schmerzen und Druckschmerzen vorliegen.
+
+528
+00:59:40,100 --> 00:59:52,100
+Außerdem würde ich Lungen, Herz und Abdomen auskürzen, palpieren und perkutieren.
+
+529
+00:59:52,100 --> 01:00:06,100
+Nach der Körperlichen Unterzüge wäre die Laborunterzüge ein Symbol, um die Diagnose zu gewährleisten.
+
+530
+01:00:07,100 --> 01:00:22,100
+Dabei würde ich Blutbild, BSG, CRP, Nierenwerte, Lebewerte, Entzündungsparameter und Tumormarker bestimmen lassen.
+
+531
+01:00:22,100 --> 01:00:36,100
+Dann würde ich den Patienten die Zonographie des Abdomens durchführen und möglicherweise die Abdomenpathologie ausdrücken.
+
+532
+01:00:36,100 --> 01:00:51,100
+Dabei würde ich das Symbol eine Koloskopie durchführen, wenn es etwas Auffälliges gibt.
+
+533
+01:00:51,100 --> 01:01:18,100
+Wenn es nötig ist, würde ich den Patienten die Zonographie des Abdomens durchführen.
+
+534
+01:01:18,100 --> 01:01:28,100
+Dann würde ich die Diagnose durchführen, wenn es nötig ist, um die Abdomenpathologie ausdrücken.
+
+535
+01:01:28,100 --> 01:01:37,100
+Sollte sich meine Diagnose bestätigen, würde ich den Patienten stationär aufnehmen.
+
+536
+01:01:37,100 --> 01:01:59,100
+Aber abhängig vom Tumor werde ich den Patienten einen Benutzung vorlegen und eine Physikeseforschung verabreichen.
+
+537
+01:01:59,100 --> 01:02:09,100
+Dann würde ich den Patienten eine gastroenterologische Konzilordnung und meine Therapie optimieren.
+
+538
+01:02:09,100 --> 01:02:23,100
+Wenn Sie mit dieser Vorgehensweise einverstanden sind, würde ich mit dem Geplanten unterzuchen und fortfahren.
+
+539
+01:02:30,420 --> 01:02:34,420
+Was ist mit Unterbauchschmerzen?
+
+540
+01:02:34,420 --> 01:02:46,420
+Ich habe vielleicht falsch gesagt. Der Patient hat Unterbauchschmerzen, Hypogastikschmerzen, nicht Epigastik.
+
+541
+01:02:46,420 --> 01:02:52,420
+Hat der Patient zwei oder einmal Operationen gehabt?
+
+542
+01:02:52,420 --> 01:03:01,420
+Der Patient hat zwei Operationen gehabt. Eine Cholesthektomie und eine Zistektomie.
+
+543
+01:03:01,420 --> 01:03:06,420
+Eine Zistektomie?
+
+544
+01:03:06,420 --> 01:03:10,420
+Nein, eine Cholesthektomie, nicht eine Zistektomie.
+
+545
+01:03:10,420 --> 01:03:14,420
+Nicht Zistektomie, ja, ich denke.
+
+546
+01:03:14,420 --> 01:03:19,420
+Und hat der Patient Schwester?
+
+547
+01:03:20,420 --> 01:03:24,420
+Der Patient hat Bruder, eine Bruder, ein Bruder.
+
+548
+01:03:24,420 --> 01:03:28,420
+Ist er ...
+
+549
+01:03:28,420 --> 01:03:32,420
+Ich denke, kein Kontakt.
+
+550
+01:03:32,420 --> 01:03:35,420
+Ja, kein Kontakt.
+
+551
+01:03:35,420 --> 01:03:39,420
+Und der Patient hat Brexie oder?
+
+552
+01:03:39,420 --> 01:03:43,420
+Ja, der Patient hat Brexie.
+
+553
+01:03:43,420 --> 01:03:46,420
+Wie?
+
+554
+01:03:46,420 --> 01:03:56,420
+Ja, das Brexie hat 37,5 gemessen mit Achselöle.
+
+555
+01:03:56,420 --> 01:03:59,420
+Das ist Brexie, wie Sie sagen?
+
+556
+01:03:59,420 --> 01:04:06,420
+Nein, nicht Brexie. Das ist Superbrillbrexie.
+
+557
+01:04:07,420 --> 01:04:17,420
+Okay. Und möchten Sie diese Patienten digitale Untersuchungen durchführen? Oder?
+
+558
+01:04:17,420 --> 01:04:24,420
+Ja, es ist eine mögliche Untersuchungmethode.
+
+559
+01:04:24,420 --> 01:04:29,420
+Ja, digital rechte Untersuchungen.
+
+560
+01:04:29,420 --> 01:04:32,420
+Meinen Sie digital rechte Untersuchungen?
+
+561
+01:04:32,420 --> 01:04:34,420
+Ja.
+
+562
+01:04:34,420 --> 01:04:44,420
+Digital rechte Untersuchungen sind wichtig, um die möglichen Diagnosen zu bestätigen.
+
+563
+01:04:44,420 --> 01:04:51,420
+Ja, ich werde den Patienten auch digital rechte Untersuchungen machen.
+
+564
+01:04:51,420 --> 01:04:59,420
+Und hat der Patient nur einmal Melena gehabt?
+
+565
+01:04:59,420 --> 01:05:02,420
+Ich bin nicht sicher.
+
+566
+01:05:02,420 --> 01:05:05,420
+Ja.
+
+567
+01:05:05,420 --> 01:05:10,420
+Ich denke, der Patient hat gesagt, zehnmal vielleicht.
+
+568
+01:05:10,420 --> 01:05:12,420
+Ja.
+
+569
+01:05:12,420 --> 01:05:15,420
+Ich habe nicht gehört.
+
+570
+01:05:15,420 --> 01:05:16,420
+Ja.
+
+571
+01:05:16,420 --> 01:05:24,170
+Okay.
+
+572
+01:05:24,170 --> 01:05:29,170
+Ich habe viele gehört.
+
+573
+01:05:29,170 --> 01:05:35,990
+Ja, nicht falsch, aber ... ja.
+
+574
+01:05:35,990 --> 01:05:47,270
+Okay. Welche Untersuchungen möchten Sie aufklären?
+
+575
+01:05:47,270 --> 01:05:57,270
+Wenn Sie möchten, dann kläre ich die Abdomenzonographie.
+
+576
+01:05:57,270 --> 01:06:02,270
+Okay. Und wie warten Sie?
+
+577
+01:06:02,270 --> 01:06:10,270
+Wie warten Sie auf die Abdomenzonographie für diese Patienten?
+
+578
+01:06:10,270 --> 01:06:17,270
+Ja, wir warten auf die Abdomenzonographie.
+
+579
+01:06:17,270 --> 01:06:25,270
+Ja, wir warten auf die Abdomenzonographie.
+
+580
+01:06:25,270 --> 01:06:32,270
+Wir warten auf die Abdomenzonographie,
+
+581
+01:06:32,270 --> 01:06:37,160
+die wir jetzt auch haben.
+
+582
+01:06:37,160 --> 01:06:44,160
+Aber wir warten auf die Abdomenzonographie.
+
+583
+01:06:44,160 --> 01:06:48,160
+Ja, wir können eine Tumor-Sagung machen.
+
+584
+01:06:48,160 --> 01:07:00,160
+Und wie können wir die abdomen Sonographie erklären?
+
+585
+01:07:00,160 --> 01:07:06,160
+Ich würde gerne Ihnen die abdomen Sonographie erklären.
+
+586
+01:07:06,160 --> 01:07:13,160
+Die abdomen Sonographie ist eine strahlensfreie Untersuchung.
+
+587
+01:07:13,160 --> 01:07:34,040
+Diese Untersuchung ist schmerzlos und es sind keine Nadeln benötigt.
+
+588
+01:07:34,040 --> 01:07:51,040
+Die Mitglieder der Untersuchung tragen eine Gelbe auf den Betroffenenbereich.
+
+589
+01:07:51,040 --> 01:08:11,040
+Die Bilder der Gewebe werden auf einem Monitor dargestellt.
+
+590
+01:08:11,040 --> 01:08:17,040
+Es gibt keine Vorbereitung für die Untersuchungen.
+
+591
+01:08:17,040 --> 01:08:34,040
+Nach der Untersuchung sollte der Patient seine Altar-Vigemund fortsetzen.
+
+592
+01:08:34,040 --> 01:08:51,040
+Mit dieser Untersuchung können wir die Organe, zum Beispiel Leber, Milz, Bauchspalz, Dürüze beurteilen.
+
+593
+01:08:51,040 --> 01:09:11,040
+Diese Untersuchung hilft uns, die Erkrankungen wie Tumore, Tumorestein, Entzündungen und andere Veränderungen frühzeitig zu erkennen.
+
+594
+01:09:11,040 --> 01:09:25,040
+In manchen Fällen kann stattdessen eine andere Untersuchung, wie zum Beispiel das St. des Abdomens, durchgeführt werden.
+
+595
+01:09:25,040 --> 01:09:32,540
+Aber abhängig vom Krankenbilder. Ich bin fertig.

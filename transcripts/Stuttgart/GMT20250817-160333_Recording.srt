@@ -1,0 +1,2719 @@
+1
+00:00:00,000 --> 00:00:04,000
+Ich bin für Sie und werde das erste Gespräch mit Ihnen führen.
+
+2
+00:00:04,000 --> 00:00:10,000
+Erstmal benötige ich ein paar persönliche Daten von Ihnen und dann sprechen wir über Ihre aktuellen Beschwerden.
+
+3
+00:00:10,000 --> 00:00:16,000
+Falls Sie Fragen haben, sollten Sie bitte nicht mich unterbrechen. Wie heißen Sie denn?
+
+4
+00:00:16,000 --> 00:00:23,000
+Ja, ich heiße Walter Schmidt, Herr Doktor, aber ich fühle mich nicht gut. Ich fühle mich sehr schlecht.
+
+5
+00:00:23,000 --> 00:00:27,000
+Welche Beschwerden haben Sie?
+
+6
+00:00:27,000 --> 00:00:34,000
+Ja, ich fühle mich seit 3 Stunden sehr unruhig.
+
+7
+00:00:34,000 --> 00:00:46,000
+Ich bekomme kaum Luft und mein Herz schläft sehr schnell.
+
+8
+00:00:46,000 --> 00:00:52,000
+Es ist schlimm. Vermutlich habe ich einen Herzinfarkt. Ich weiß nicht.
+
+9
+00:00:52,000 --> 00:00:54,000
+Atemnot?
+
+10
+00:00:54,000 --> 00:00:58,000
+Ja, Atemnot habe ich. Ich habe auch einen Engel geführt.
+
+11
+00:00:58,000 --> 00:01:08,000
+Ich muss das erste Gespräch unterbrechen, um ein EKG schreiben und Ihre Vitalparameter erfassen, Herr Schmidt.
+
+12
+00:01:08,000 --> 00:01:14,000
+Ja, ich bedanke mich Herr Doktor, ich fühle mich nicht gut.
+
+13
+00:01:14,000 --> 00:01:22,000
+Jetzt können wir weitermachen. Seit wann haben Sie Herzrhythmusstörungen?
+
+14
+00:01:22,000 --> 00:01:34,000
+Seit 3 Stunden habe ich. Mein Herz schläft am Hals. Das ist sehr schnell, denke ich.
+
+15
+00:01:34,000 --> 00:01:39,000
+Ich sterbe jetzt, Herr Doktor. Ich habe sehr große Angst.
+
+16
+00:01:39,000 --> 00:01:46,000
+Machen Sie sich keine Sorgen, bitte. Sie sind hier gekommen. Sie haben eine sehr gute Entscheidung getroffen.
+
+17
+00:01:46,000 --> 00:01:52,000
+Wir sind für Sie da. Wir tun alles für Sie, Herr Schmidt. Machen Sie sich keine Sorgen, bitte.
+
+18
+00:01:52,000 --> 00:01:59,940
+Ja, meine Hände sind jetzt auch zittern.
+
+19
+00:01:59,940 --> 00:02:01,940
+Haben Sie Schmerzen?
+
+20
+00:02:01,940 --> 00:02:14,590
+Ja, im Brustkorb habe ich Schmerzen. Ich bekomme nicht gut Luft.
+
+21
+00:02:14,590 --> 00:02:18,590
+Haben Sie Ein- oder Ausatmungsprobleme?
+
+22
+00:02:18,590 --> 00:02:24,590
+Weiß ich nicht. Ich kann nicht gut atmen. Und ein bisschen schnell atme ich.
+
+23
+00:02:24,590 --> 00:02:26,590
+Hatten Sie das schon mal?
+
+24
+00:02:26,590 --> 00:02:34,590
+Ja, ehrlich gesagt hatte ich seit 3 Monaten viermal diese Gefühle gehabt.
+
+25
+00:02:34,590 --> 00:02:47,590
+Ich habe viermal eine Notaufnahme besucht. Aber keine Lösung habe ich gefunden. Herr Doktor, helft mir bitte.
+
+26
+00:02:47,590 --> 00:02:50,590
+Waren Sie deswegen beim Arzt?
+
+27
+00:02:50,590 --> 00:02:56,590
+Ja, ich war in der Notaufnahme. Viermal.
+
+28
+00:02:56,590 --> 00:02:59,590
+Wie wurde es behandelt?
+
+29
+00:02:59,590 --> 00:03:09,590
+Sie haben mir Sauerstoff gegeben und ein paar Medikamente gegeben und zu Hause geschickt. Weiß ich nicht, was passiert ist.
+
+30
+00:03:09,590 --> 00:03:12,590
+Brauchen Sie Sauerstoffmask?
+
+31
+00:03:12,590 --> 00:03:14,590
+Jetzt?
+
+32
+00:03:14,590 --> 00:03:15,590
+Ja.
+
+33
+00:03:15,590 --> 00:03:19,590
+Weiß ich nicht, Herr Doktor. Sie sind Arzt. Ich bin nicht.
+
+34
+00:03:19,590 --> 00:03:27,590
+Ich habe Ihre Vitalparameter erfasst. Alle sind ganz in Ordnung. Machen Sie sich deswegen keine Sorgen.
+
+35
+00:03:27,590 --> 00:03:29,590
+Oh, freut mich Herr Doktor.
+
+36
+00:03:29,590 --> 00:03:34,590
+Ich kann Ihnen ein Sauerstoffmask geben.
+
+37
+00:03:34,590 --> 00:03:39,310
+Ok.
+
+38
+00:03:39,310 --> 00:03:44,310
+Haben Sie dagegen irgendwelche Medikamente genommen, Herr Schmidt?
+
+39
+00:03:44,310 --> 00:03:53,310
+Nein, nein, nein. Ich war beim Arbeiten und fühlte mich sehr schlecht. Deswegen komme ich hier.
+
+40
+00:03:53,310 --> 00:04:00,310
+Wie stark sind die Brustschmerzen auf einer Skala von 1 bis 10, wobei 10 am stärksten ist?
+
+41
+00:04:00,310 --> 00:04:06,310
+Ich kann nicht das beschreiben, aber vielleicht 5, 6. Weiß ich nicht.
+
+42
+00:04:06,310 --> 00:04:11,310
+Könnten Sie bitte diese Schmerzen genauer beschreiben?
+
+43
+00:04:11,310 --> 00:04:20,310
+Ja, ich habe ein Druckgefühl und ich kann nicht stechen oder weiß ich nicht genau.
+
+44
+00:04:20,310 --> 00:04:34,770
+Wann waren die letzten Probleme? Sie haben schon gesagt, seit 3 Monaten haben Sie 4-mal ähnliche Beschwerden.
+
+45
+00:04:34,770 --> 00:04:47,580
+Vor 3 Wochen hatte ich die letzte.
+
+46
+00:04:47,580 --> 00:04:51,580
+Haben Sie strahlende Schmerzen irgendwo hinaus?
+
+47
+00:04:51,580 --> 00:04:58,340
+Nein, im Brust habe ich Schmerzen.
+
+48
+00:04:58,340 --> 00:05:01,340
+Haben Sie Husten?
+
+49
+00:05:01,340 --> 00:05:03,340
+Nein, nein, habe ich nicht Husten.
+
+50
+00:05:03,340 --> 00:05:12,220
+Haben Sie Herzstolpen bemerkt?
+
+51
+00:05:12,220 --> 00:05:18,220
+Mein Herz schläft schnell. Weiß ich nicht.
+
+52
+00:05:18,220 --> 00:05:24,140
+Schwitzen Sie häufig?
+
+53
+00:05:24,140 --> 00:05:36,140
+Nein, ich habe keine Schmerzen, aber ich fühle mich jetzt heiß und ein bisschen schwindelig.
+
+54
+00:05:36,140 --> 00:05:43,660
+Ist Ihnen schwarz vor Augen?
+
+55
+00:05:43,660 --> 00:05:45,660
+Nein.
+
+56
+00:05:45,660 --> 00:05:49,660
+Haben Sie Fieber oder fühlen Sie sich fiebrig?
+
+57
+00:05:49,660 --> 00:05:55,660
+Nicht Fieber, aber ich fühle mich jetzt heiß. Ich weiß nicht, ob ich Fieber habe.
+
+58
+00:05:55,660 --> 00:05:57,660
+Haben Sie es gemessen?
+
+59
+00:05:57,660 --> 00:06:00,660
+Nein, habe ich nicht gemessen.
+
+60
+00:06:00,660 --> 00:06:09,330
+Wie gesagt, brauche ich ein paar persönliche Daten von Ihnen. Sie heißen Walter Schmidt.
+
+61
+00:06:09,330 --> 00:06:15,330
+Ich buchstabiere mal eben S-C-H-M-I-D-T.
+
+62
+00:06:15,330 --> 00:06:17,330
+Ja, D-T.
+
+63
+00:06:17,330 --> 00:06:21,330
+Den Vornamen W-A-L-T-E-R.
+
+64
+00:06:21,330 --> 00:06:23,330
+Ja, Sie haben recht Herr Doktor.
+
+65
+00:06:23,330 --> 00:06:25,330
+Wie alt sind Sie Herr Schmidt?
+
+66
+00:06:25,330 --> 00:06:29,330
+Ich bin 32.
+
+67
+00:06:29,330 --> 00:06:32,330
+Ihr Gebustdatum bitte?
+
+68
+00:06:32,330 --> 00:06:41,330
+6.6.1992.
+
+69
+00:06:41,330 --> 00:06:44,330
+Wissen Sie, wie groß Sie sind?
+
+70
+00:06:44,330 --> 00:06:52,330
+Ja, ich bin 1,78 Meter.
+
+71
+00:06:52,330 --> 00:06:54,330
+Ihr Gewicht bitte?
+
+72
+00:06:54,330 --> 00:06:59,330
+Ungefähr 70. 69 oder 70.
+
+73
+00:06:59,330 --> 00:07:03,330
+Haben Sie einen Hausarzt oder eine Hausärztin?
+
+74
+00:07:03,330 --> 00:07:06,330
+Ja, natürlich habe ich.
+
+75
+00:07:06,330 --> 00:07:09,830
+Wie heißt er?
+
+76
+00:07:09,830 --> 00:07:15,830
+Er ist Herr Müller.
+
+77
+00:07:15,830 --> 00:07:20,830
+M-U-E-L-E-R.
+
+78
+00:07:20,830 --> 00:07:22,830
+U-E.
+
+79
+00:07:22,830 --> 00:07:30,830
+Ich kenne ihn. Er ist ein guter Arzt.
+
+80
+00:07:30,830 --> 00:07:35,830
+Was sind Sie vom Beruf Herr Schmidt?
+
+81
+00:07:35,830 --> 00:07:39,830
+Ich arbeite im Büro. Ich bin Büroarbeiter.
+
+82
+00:07:39,830 --> 00:07:44,830
+Herr Doktor, ich bin unter Stress. Büroarbeiter sind sehr schlecht für mich.
+
+83
+00:07:44,830 --> 00:07:47,830
+Ich kann nicht genug bewegen.
+
+84
+00:07:47,830 --> 00:07:52,830
+In einem Unternehmen oder für was ist das Büro?
+
+85
+00:07:52,830 --> 00:08:00,830
+In einem Unternehmen sind wir immer in einem Zimmer geschlossen.
+
+86
+00:08:00,830 --> 00:08:06,830
+Ich kann nicht gut bewegen. Das geht mir nicht. Aber ich muss arbeiten.
+
+87
+00:08:06,830 --> 00:08:11,830
+Ich brauche Geld. Wissen Sie schon?
+
+88
+00:08:11,830 --> 00:08:17,830
+Sie haben Stress bei der Familie?
+
+89
+00:08:17,830 --> 00:08:25,300
+Ja, ich bin niedrig und wohne mit meinem Hund. Manchmal habe ich Stress.
+
+90
+00:08:25,300 --> 00:08:28,300
+Aber Sie haben Stress bei der Arbeit?
+
+91
+00:08:28,300 --> 00:08:37,500
+Ich habe Stress bei der Arbeit. Ich habe kaum Freunde.
+
+92
+00:08:37,500 --> 00:08:44,500
+Haben Sie lange Reisen in letzter Zeit gemacht?
+
+93
+00:08:44,500 --> 00:08:50,500
+Nein, nein. Ich arbeite immer. Ich muss immer über Stunden arbeiten.
+
+94
+00:08:50,500 --> 00:08:56,500
+Deswegen kann ich kaum Zeit für das soziale Leben.
+
+95
+00:08:56,500 --> 00:08:59,500
+Ist Ihnen übel Herr Schmidt?
+
+96
+00:08:59,500 --> 00:09:04,230
+Nein, ich habe keine Übelkeit.
+
+97
+00:09:04,230 --> 00:09:06,230
+Mussten Sie sich übergeben?
+
+98
+00:09:06,230 --> 00:09:12,140
+Nein.
+
+99
+00:09:12,140 --> 00:09:15,140
+Wie ist Ihr Appetit Herr Schmidt?
+
+100
+00:09:15,140 --> 00:09:20,140
+Ich esse alles, aber seit 3 Stunden kann ich kaum essen.
+
+101
+00:09:20,140 --> 00:09:23,140
+Seit 3 Stunden?
+
+102
+00:09:23,140 --> 00:09:30,140
+Ja. Und nach dem Beschwerden, ich fühle mich immer sehr müde.
+
+103
+00:09:30,140 --> 00:09:36,140
+Sie haben Herzrasen, Brustschmerzen und Atemnot.
+
+104
+00:09:36,140 --> 00:09:41,140
+Welche Beschwerden sind am schlimmsten Herr Schmidt?
+
+105
+00:09:41,140 --> 00:09:44,140
+Wer ist am schlimmsten?
+
+106
+00:09:44,140 --> 00:09:47,140
+Warum sind Sie hier gekommen?
+
+107
+00:09:47,140 --> 00:09:53,140
+Ich denke, dass ich sterbe. Ich habe einen Herzinfarkt.
+
+108
+00:09:53,140 --> 00:10:01,140
+Aber in der Notaufnahme haben Sie alles gemacht und haben mir gesagt, dass ich ohne befunden bin.
+
+109
+00:10:01,140 --> 00:10:05,140
+Das glaube ich nicht. Ich habe Beschwerden, Herr Doktor.
+
+110
+00:10:05,140 --> 00:10:11,140
+Nach dem Anamnesgespräch werde ich eine körperliche Untersuchung durchschauen.
+
+111
+00:10:11,140 --> 00:10:15,140
+Machen Sie sich deswegen keine Sorgen, Herr Schmidt.
+
+112
+00:10:15,140 --> 00:10:19,140
+Haben Sie in letzter Zeit Ab- oder Zugenommen?
+
+113
+00:10:19,140 --> 00:10:24,560
+Nein, nein, habe ich nicht.
+
+114
+00:10:24,560 --> 00:10:28,870
+Ist Ihr Schuttelgang und Wasserlassen?
+
+115
+00:10:28,870 --> 00:10:32,870
+Ja, Sie sind gut. Kein Problem. Ich habe kein Problem.
+
+116
+00:10:32,870 --> 00:10:34,870
+Gut zu hören.
+
+117
+00:10:34,870 --> 00:10:36,870
+Ja.
+
+118
+00:10:36,870 --> 00:10:39,870
+Können Sie gut schlafen, Herr Schmidt?
+
+119
+00:10:39,870 --> 00:10:43,870
+Manchmal habe ich...
+
+120
+00:10:43,870 --> 00:10:48,870
+Ich schlafe kaum manchmal. Ich kann nicht gut schlafen.
+
+121
+00:10:48,870 --> 00:10:54,870
+Warum können Sie nicht schlafen? Wegen der Stress oder...?
+
+122
+00:10:54,870 --> 00:10:58,870
+Ja, vielleicht. Ich wache auf.
+
+123
+00:10:58,870 --> 00:11:04,870
+Und eine Stunde, zwei Stunden kann ich nicht nochmal durchschlafen.
+
+124
+00:11:04,870 --> 00:11:06,870
+Einschlafen und...
+
+125
+00:11:06,870 --> 00:11:10,870
+Haben Sie Einschlafstörungen oder Durchschlafstörungen?
+
+126
+00:11:10,870 --> 00:11:14,870
+Normalerweise schlafe ich und wache auf.
+
+127
+00:11:14,870 --> 00:11:17,870
+In der Mitte.
+
+128
+00:11:17,870 --> 00:11:20,870
+Durchschlafstörung, Herr Schmidt.
+
+129
+00:11:20,870 --> 00:11:23,870
+Seit wann haben Sie das?
+
+130
+00:11:23,870 --> 00:11:33,760
+Seit drei oder vier Monaten.
+
+131
+00:11:33,760 --> 00:11:38,760
+Diese Beschwerden haben mein Leben eingeschränkt.
+
+132
+00:11:38,760 --> 00:11:41,760
+Das fühle ich mich sehr schwer.
+
+133
+00:11:41,760 --> 00:11:44,760
+Ich verstehe, Herr Schmidt.
+
+134
+00:11:44,760 --> 00:11:46,760
+Ich fühle mich schlaf. Total schlaf.
+
+135
+00:11:46,760 --> 00:11:50,760
+Wir tun alles für Sie. Machen Sie sich deswegen keine Sorgen, bitte.
+
+136
+00:11:50,760 --> 00:11:58,760
+Sie haben schon gesagt, im Notarzt oder Notfall Medikamente genommen.
+
+137
+00:11:58,760 --> 00:12:01,760
+Wissen Sie das? Welche Medikament war das?
+
+138
+00:12:01,760 --> 00:12:05,760
+Sie haben mir etwas gegeben.
+
+139
+00:12:05,760 --> 00:12:10,760
+Ich habe Sauerstoff eingenommen und eine Flüssigkeit, weiß ich nicht.
+
+140
+00:12:10,760 --> 00:12:16,760
+Nach der Untersuchung hatten Sie keine Medikamente mehr gegeben.
+
+141
+00:12:16,760 --> 00:12:18,760
+Hat es Ihnen geholfen?
+
+142
+00:12:18,760 --> 00:12:21,760
+Sauerstoff, weiß ich nicht.
+
+143
+00:12:21,760 --> 00:12:24,760
+Ja, aber die Flüssigkeit und Sauerstoff.
+
+144
+00:12:24,760 --> 00:12:27,760
+Ja, das hat mir geholfen.
+
+145
+00:12:27,760 --> 00:12:32,760
+Haben Sie irgendwelche chronischen Erkrankungen?
+
+146
+00:12:32,760 --> 00:12:42,160
+Ich hatte vor sechs Monaten pfeifferisches Dürüzenfieber.
+
+147
+00:12:42,160 --> 00:12:46,160
+Was haben Sie? Könnten Sie es wiederholen?
+
+148
+00:12:46,160 --> 00:12:51,160
+Ja, pfeifferisches Dürüzenfieber.
+
+149
+00:12:51,160 --> 00:12:54,160
+Das ist ein Virus.
+
+150
+00:12:54,160 --> 00:12:58,600
+Wissen Sie schon?
+
+151
+00:12:58,600 --> 00:13:01,600
+Ja, ich kenne dieses Virus.
+
+152
+00:13:01,600 --> 00:13:03,600
+Waren Sie im Ausland?
+
+153
+00:13:03,600 --> 00:13:05,600
+Nein, nein.
+
+154
+00:13:05,600 --> 00:13:09,600
+Ich hatte Halsschmerzen und Fieber vor sechs Monaten.
+
+155
+00:13:09,600 --> 00:13:11,600
+Vor sechs Monaten.
+
+156
+00:13:11,600 --> 00:13:16,600
+Haben Sie noch andere chronische Erkrankungen? Wie wurde es behandelt?
+
+157
+00:13:16,600 --> 00:13:21,600
+Ich hatte Paracetamol und Ibuprofen eingenommen.
+
+158
+00:13:21,600 --> 00:13:24,600
+Wie lange hat es gedauert?
+
+159
+00:13:24,600 --> 00:13:29,420
+Eine Woche.
+
+160
+00:13:29,420 --> 00:13:33,420
+Haben Sie noch andere chronische Erkrankungen?
+
+161
+00:13:33,420 --> 00:13:42,420
+Nein, aber ich hatte vor fünf Jahren Autounfall und einen Körperanbruch.
+
+162
+00:13:42,420 --> 00:13:46,420
+Wann war das? Könnten Sie es wiederholen?
+
+163
+00:13:46,420 --> 00:13:52,420
+Autounfall und ein Körperanbruch. Vor fünf Jahren.
+
+164
+00:13:52,420 --> 00:13:54,420
+Vor fünf Jahren.
+
+165
+00:13:54,420 --> 00:14:00,260
+Und wurde ich durch einen Körperanbruch operiert.
+
+166
+00:14:00,260 --> 00:14:06,260
+War die Operation komplikationlos?
+
+167
+00:14:06,260 --> 00:14:11,260
+Ja, alles geht gut. Alles hat gut gegangen.
+
+168
+00:14:11,260 --> 00:14:16,260
+Haben Sie noch andere Operationen?
+
+169
+00:14:16,260 --> 00:14:18,260
+Nein.
+
+170
+00:14:18,260 --> 00:14:22,260
+Haben Sie Allergien oder Unverträglichkeiten?
+
+171
+00:14:22,260 --> 00:14:26,260
+Ja, ich habe Nussallergie.
+
+172
+00:14:26,260 --> 00:14:29,260
+Wie reagieren Sie darauf?
+
+173
+00:14:29,260 --> 00:14:31,260
+Mit Jücken.
+
+174
+00:14:31,260 --> 00:14:39,330
+Haben Sie noch andere Allergien oder Unverträglichkeiten?
+
+175
+00:14:39,330 --> 00:14:42,330
+Weiß ich nicht.
+
+176
+00:14:42,330 --> 00:14:45,330
+Wie viel Kaffee haben Sie?
+
+177
+00:14:45,330 --> 00:14:56,260
+Ich habe seit zehn Jahren halb schachtel Zigaretten.
+
+178
+00:14:56,260 --> 00:14:59,260
+Trinken Sie Alkohol?
+
+179
+00:14:59,260 --> 00:15:01,260
+Auch Su.
+
+180
+00:15:01,260 --> 00:15:03,260
+Was haben Sie mit?
+
+181
+00:15:03,260 --> 00:15:08,260
+Besonders am Mahallen mit meinen Freunden und Freundinnen.
+
+182
+00:15:08,260 --> 00:15:15,260
+Wir trinken ein Schnaps Bier oder manchmal Whisky, manchmal Wein.
+
+183
+00:15:15,260 --> 00:15:18,260
+Einmal in einer Woche oder?
+
+184
+00:15:18,260 --> 00:15:24,260
+Manchmal einmal, manchmal einmal pro zwei Wochen.
+
+185
+00:15:24,260 --> 00:15:27,260
+Ein Glas Schnaps oder?
+
+186
+00:15:27,260 --> 00:15:33,260
+Ein Glas Schnaps oder ein Glas Wein oder zwei Flaschen Bier.
+
+187
+00:15:33,260 --> 00:15:35,260
+Richtig.
+
+188
+00:15:35,260 --> 00:15:40,260
+Nehmen Sie die folgenden Fragen nicht persönlich aus medizinischen Gründen.
+
+189
+00:15:40,260 --> 00:15:44,260
+Fragen wir immer. Haben Sie Erfahrung mit Drogen?
+
+190
+00:15:44,260 --> 00:15:46,260
+Was meinen Sie damit?
+
+191
+00:15:46,260 --> 00:15:49,260
+Marihuana, Haschisch?
+
+192
+00:15:49,260 --> 00:15:55,260
+Nein, nein Herr Doktor. Ich habe keinen Kontakt mit Drogen.
+
+193
+00:15:55,260 --> 00:15:59,260
+Sie leben mit Ihrem Hund?
+
+194
+00:15:59,260 --> 00:16:01,260
+Ja, ja.
+
+195
+00:16:01,260 --> 00:16:05,260
+Sie sind leidig. Haben Sie Kinder Herr Schmidt?
+
+196
+00:16:05,260 --> 00:16:10,120
+Nein, nein natürlich nicht.
+
+197
+00:16:10,120 --> 00:16:15,120
+Gibt es irgendwelche chronische Erkrankungen in Ihrer Familie?
+
+198
+00:16:15,120 --> 00:16:30,510
+Ja, mein Vater leidet unter Depression.
+
+199
+00:16:30,510 --> 00:16:33,510
+Hat er noch andere Erkrankungen?
+
+200
+00:16:33,510 --> 00:16:40,370
+Meine Mutter hat Bluthochdruck.
+
+201
+00:16:40,370 --> 00:16:45,370
+Mein Onkel hat Angststörungen.
+
+202
+00:16:45,370 --> 00:16:55,030
+Haben Sie Schwester?
+
+203
+00:16:55,030 --> 00:17:03,570
+Nein, ich bin Einzelkind.
+
+204
+00:17:03,570 --> 00:17:07,570
+Sind Sie zuständig geimpft Herr Schmidt?
+
+205
+00:17:07,570 --> 00:17:11,980
+Ja, ja. Ich bin zuständig geimpft.
+
+206
+00:17:11,980 --> 00:17:16,350
+Treiben Sie regelmäßig Sport?
+
+207
+00:17:16,350 --> 00:17:24,350
+Ja, ich habe kaum Zeit Herr Doktor. Überstunden immer. Deswegen habe ich keine Zeit Sport zu treiben.
+
+208
+00:17:24,350 --> 00:17:33,350
+Herr Schmidt, meinerseits habe ich alle wichtigen Fragen gestellt. Möchten Sie noch etwas hinzufügen?
+
+209
+00:17:33,350 --> 00:17:42,350
+Ja Herr Doktor, ich habe große Angst. Was muss ich machen? Was lernen Sie? Was denken Sie? Was habe ich?
+
+210
+00:17:42,350 --> 00:17:51,350
+Sie müssen hier bleiben. Ich werde jetzt eine körperliche Untersuchung durchschuhen. Danach werde ich Blut abnehmen Herr Schmidt.
+
+211
+00:17:51,350 --> 00:18:00,350
+Aber machen Sie sich deswegen keine Sorgen. Wir sind für Sie da und wir tun alles für Sie. Wir tun am besten.
+
+212
+00:18:00,350 --> 00:18:03,350
+Was muss ich überprüfen oder?
+
+213
+00:18:03,350 --> 00:18:10,350
+Es ist zu früh etwas genaues zu sagen. Mit dem Ergebnis können wir entscheiden.
+
+214
+00:18:10,350 --> 00:18:19,350
+Aber ich hatte keine Lösung gefunden. Ich möchte eine Lösung finden. Können Sie mir helfen?
+
+215
+00:18:19,350 --> 00:18:28,350
+Wir sind ein großes Krankenhaus. Wir tun alles für Sie. Wir haben viele verschiedene Abteilungen. Wir finden eine Lösung für Sie.
+
+216
+00:18:28,350 --> 00:18:32,350
+Machen Sie sich deswegen keine Sorgen bitte.
+
+217
+00:18:32,350 --> 00:18:35,350
+Freut mich Herr Doktor. Ich bedanke mich darauf.
+
+218
+00:18:35,350 --> 00:18:36,350
+Gerne.
+
+219
+00:18:36,350 --> 00:18:39,690
+Dafür.
+
+220
+00:18:39,690 --> 00:18:47,690
+Ich möchte Ihnen gerne einen neuen Patienten vorstellen, den ich eben in der Notaufnahme gesehen habe. Hätten Sie kurz Zeit?
+
+221
+00:18:47,690 --> 00:18:49,690
+Ja bitte.
+
+222
+00:18:49,690 --> 00:19:04,690
+Es handelt sich um Walter Schmidt. Er ist ein 32-jähriger Patient. Er wurde am 6.6.1992 geboren. Er ist 1,78 Meter groß und 70 Kilogramm schwer.
+
+223
+00:19:04,690 --> 00:19:12,690
+Er stellt sich bei uns vor Aufgrund seit drei Stunden. Er ist bestehender und zunehmender.
+
+224
+00:19:12,690 --> 00:19:18,690
+Herr Kollegen, wer stellt sich heute bei uns?
+
+225
+00:19:18,690 --> 00:19:20,690
+Wer?
+
+226
+00:19:20,690 --> 00:19:23,690
+Im Notfallaufnahme. Im Notfallabteilung.
+
+227
+00:19:23,690 --> 00:19:26,690
+Wie heißt unser Patient?
+
+228
+00:19:26,690 --> 00:19:28,690
+Walter Schmidt.
+
+229
+00:19:28,690 --> 00:19:33,690
+Ja. Herr Schmidt stellt sich heute bei uns.
+
+230
+00:19:33,690 --> 00:19:37,690
+Sie haben gesagt nur Herr stellt sich heute bei uns.
+
+231
+00:19:37,690 --> 00:19:41,690
+Ich sage Herr stellt sich heute bei uns.
+
+232
+00:19:41,690 --> 00:19:43,690
+Okay.
+
+233
+00:19:43,690 --> 00:19:56,690
+Herr Schmidt stellt sich bei uns vor Aufgrund seit drei Stunden bestehender, zunehmender, zuckender Brustzimmer.
+
+234
+00:19:56,690 --> 00:20:04,690
+Im ganzen Brust sowie Nervosität.
+
+235
+00:20:04,690 --> 00:20:10,690
+Die Schmerzintensität wurde mit 5 bis 6 von 10 bewertet.
+
+236
+00:20:10,690 --> 00:20:17,690
+Er gab an seit drei Monaten dreimal ähnliche Beschwerden gehabt zu haben.
+
+237
+00:20:17,690 --> 00:20:22,690
+Er sei deswegen im Krankenhaus gewesen.
+
+238
+00:20:22,690 --> 00:20:29,690
+Jedoch bisher keine feste Diagnose gestellt haben.
+
+239
+00:20:29,690 --> 00:20:37,690
+Darüber hinaus klagte er über die neue Tachycardie.
+
+240
+00:20:37,690 --> 00:20:43,540
+Ja, die neue Tachycardie.
+
+241
+00:20:43,540 --> 00:20:47,540
+Er hatte Stress bei der Arbeit.
+
+242
+00:20:47,540 --> 00:20:57,540
+Begleitsymptomen liegen Trämo und Vertigo vor.
+
+243
+00:20:57,540 --> 00:21:11,330
+Die vegetative Anamnese ist unaufällig bis auf Inapetens seit drei Stunden wegen der Stress und wegen dieser Beschwerden.
+
+244
+00:21:11,330 --> 00:21:22,330
+Insomni, Typ von Durchschlafstörungen seit drei bis vier Monaten wegen der Stress.
+
+245
+00:21:22,330 --> 00:21:30,330
+Er hatte vor sechs Monaten eine Viralinfektion.
+
+246
+00:21:30,330 --> 00:21:36,330
+Die wurde mit Paracetamol und Ibuprofen behandelt.
+
+247
+00:21:36,330 --> 00:21:46,330
+Bei ihm wurde vor fünf Jahren eine Operation wegen Oberanbruch durchgeführt.
+
+248
+00:21:46,330 --> 00:21:54,330
+Er hatte eine Allergien gegen Nuss, die sich mit Pyroglytus äußerte.
+
+249
+00:21:54,330 --> 00:22:02,330
+Er ist raucher. Er rauche seit zehn Jahren eine halbe Schachtel Zigaretten täglich.
+
+250
+00:22:02,330 --> 00:22:12,330
+Er trinke wöchentlich ein Glas Schnaps oder ein Glas Rotwein oder zwei Flaschen Bier.
+
+251
+00:22:12,330 --> 00:22:22,330
+Drogenkonsum wurde verneint. Er ist ledig. Er lebt mit dem Hund, mit seinem Hund.
+
+252
+00:22:22,330 --> 00:22:35,330
+In der Familienanamnese fand er arterielle Hypertonie bei der Mutter, Depression beim Vater, Angststörungen beim Onkel.
+
+253
+00:22:35,330 --> 00:22:43,330
+Er ist Einzelkind. Er ist vollständig geimpft. Die Reiseanamnese ist unauffällig.
+
+254
+00:22:43,330 --> 00:22:50,330
+Meine Verdachtdiagnose lautet auf Panikattacke.
+
+255
+00:22:50,330 --> 00:23:00,330
+Dafür schiebte ich vierte Mal in drei Monaten ähnliche Beschwerden.
+
+256
+00:23:00,330 --> 00:23:08,330
+Bisher habe ich keine feste Diagnose gestellt.
+
+257
+00:23:08,330 --> 00:23:24,330
+Die Symptome sind typisch für Panikattacke, zum Beispiel Dyspnoe, Tachycardie, Tremor und Brustschmerzen.
+
+258
+00:23:24,330 --> 00:23:39,330
+Die Differenzialdiagnostik betrifft Coronärherzkrankheit, Lungenembolie und Herzrhythmusstörungen.
+
+259
+00:23:39,330 --> 00:23:45,330
+Zur Diagnostik würde ich zunächst eine körperliche Untersuchung durchführen.
+
+260
+00:23:45,330 --> 00:23:52,330
+Im Rahmen der Untersuchung würde ich zunächst die Vitalparameter erfassen.
+
+261
+00:23:52,330 --> 00:24:00,330
+Danach würde ich den Patienten inspezieren, palpieren und auskultieren.
+
+262
+00:24:00,330 --> 00:24:07,330
+Bei der Inspektion beurteile ich den Allgemeinen Zustand des Patienten.
+
+263
+00:24:07,330 --> 00:24:18,330
+Bei der Auskultation achte ich darauf Herzgeräusch, Lungengeräusch.
+
+264
+00:24:18,330 --> 00:24:22,330
+Danach werde ich Blut abnehmen.
+
+265
+00:24:22,330 --> 00:24:38,330
+Ich überprüfe das Blutbild, die Entzündungswerte, die Gerindungswerte und Troponin E, CK, MB sowie die Dimmewerte.
+
+266
+00:24:38,330 --> 00:24:52,330
+Ich überprüfe die Troponin E und CK, MB, um einen akuten Herzinfarkt auszuschließen.
+
+267
+00:24:52,330 --> 00:24:58,330
+Ich überprüfe die Dimmewerte, um eine Pulmonaeembolie auszuschließen.
+
+268
+00:24:58,330 --> 00:25:06,330
+Zu weiteren Diagnostiken, zu weiteren Abklärungen würde ich operative Diagnostik durchführen.
+
+269
+00:25:06,330 --> 00:25:12,330
+Um einen Herzinfarkt auszuschließen, werde ich zunächst eine EKG schreiben.
+
+270
+00:25:12,330 --> 00:25:25,330
+Danach werde ich Röntgen-Thorax veranlassen, um eine mögliche Lungenpathologie auszuschließen.
+
+271
+00:25:25,330 --> 00:25:33,330
+Gegebenenfalls werde ich CT-Thorax veranlassen.
+
+272
+00:25:33,330 --> 00:25:46,330
+Um meine Verdachtstagnose zu bestätigen, würde ich den Patienten stationär aufnehmen.
+
+273
+00:25:46,330 --> 00:25:56,330
+Ich werde eine psychiatrische Konzilverordnung verabreicht, um die Therapie zu optimieren.
+
+274
+00:25:56,330 --> 00:26:06,860
+Als Therapie empfehle ich Psychotherapie, Serotonin, Voxetin.
+
+275
+00:26:06,860 --> 00:26:09,860
+Das war alles.
+
+276
+00:26:09,860 --> 00:26:13,860
+Und was empfehlen Sie den Patienten?
+
+277
+00:26:13,860 --> 00:26:28,860
+Ich würde eine psychotherapische und antidepressive Medikamente, wie Zertralin, Paroxetin, Wellafaxin, gegebenenfalls.
+
+278
+00:26:28,860 --> 00:26:34,860
+Herr Kollege, wie können Sie die Pulmonaeenbolie auszuschließen?
+
+279
+00:26:34,860 --> 00:26:44,860
+Ich würde Blut abnehmen, um die DMA-Werte zu bestimmen.
+
+280
+00:26:44,860 --> 00:26:55,860
+Und ich werde ein CT-Thorax mit Kontrastmittel veranlassen.
+
+281
+00:26:55,860 --> 00:27:03,860
+Gibt es jetzt einen Bluttest, um eine Pulmonaeenbolie auszuschließen?
+
+282
+00:27:03,860 --> 00:27:05,860
+Ja, das habe ich schon gesagt.
+
+283
+00:27:05,860 --> 00:27:13,420
+Schnell oder speziell?
+
+284
+00:27:13,420 --> 00:27:18,420
+Blutgasanalyse.
+
+285
+00:27:18,420 --> 00:27:36,420
+Wenn der Patient eine Lungengefäßarterie hat, wie können Sie diese Diagnose stellen?
+
+286
+00:27:36,420 --> 00:27:41,420
+CT-Tomographie mit Kontrastmittel.
+
+287
+00:27:41,420 --> 00:27:46,420
+Wir können nicht genau diese Diagnose stellen.
+
+288
+00:27:46,420 --> 00:27:50,410
+Wie können wir?
+
+289
+00:27:50,410 --> 00:27:53,410
+Ich kenne diesen Test nicht, Herr Oberarzt.
+
+290
+00:27:53,410 --> 00:27:55,410
+Können Sie mir helfen?
+
+291
+00:27:55,410 --> 00:27:59,410
+Hören Sie, wenn es so eine Perfusion-Synthographie ist?
+
+292
+00:27:59,410 --> 00:28:02,410
+Ja, ich habe es gehört. Vielen Dank.
+
+293
+00:28:02,410 --> 00:28:05,410
+Können Sie uns diesen Test aufklären?
+
+294
+00:28:05,410 --> 00:28:12,660
+Leider, ich kenne diesen Test nicht, deswegen kann ich ihn nicht aufklären.
+
+295
+00:28:12,660 --> 00:28:20,660
+Herr Kollege, wie können Sie Herzinfarkt auswählen?
+
+296
+00:28:20,660 --> 00:28:26,660
+Am Anfang würde ich ein EKG schreiben.
+
+297
+00:28:26,660 --> 00:28:30,660
+Was bereiten Sie beim EKG?
+
+298
+00:28:30,660 --> 00:28:43,660
+Es ist eine St-Häbung.
+
+299
+00:28:43,660 --> 00:28:49,670
+Und gibt es andere Diagnose?
+
+300
+00:28:49,670 --> 00:28:54,670
+Ja, danach würde ich Blut abnehmen.
+
+301
+00:28:54,670 --> 00:28:57,670
+Was ist die Diagnose?
+
+302
+00:28:57,670 --> 00:29:00,670
+Die Diagnose ist operativ.
+
+303
+00:29:00,670 --> 00:29:03,670
+Ja, Corona angioha.
+
+304
+00:29:03,670 --> 00:29:17,670
+Können Sie die Patienten mit Angiogrammen heilen?
+
+305
+00:29:17,670 --> 00:29:20,670
+Gibt es einen einfacher Test?
+
+306
+00:29:20,670 --> 00:29:25,670
+Eine Synthographie für das Herz.
+
+307
+00:29:25,670 --> 00:29:33,350
+Nein, sehr einfach und strahlhaft.
+
+308
+00:29:33,350 --> 00:29:35,350
+Um Herzinfarkte auszuschließen?
+
+309
+00:29:35,350 --> 00:29:37,350
+Ja, ja.
+
+310
+00:29:37,350 --> 00:29:43,350
+Ich kenne nur EKG als einfache Untersuchung.
+
+311
+00:29:43,350 --> 00:29:46,350
+Hören Sie eine Eschokardiographie?
+
+312
+00:29:46,350 --> 00:29:54,350
+Ja, ich kenne es, aber bei der Eschokardiographie können wir nicht Herzinfarkte auswählen.
+
+313
+00:29:54,350 --> 00:30:02,350
+Wie können Sie bei der Eschokardiographie einen Herzinfarkt auswählen?
+
+314
+00:30:02,350 --> 00:30:06,350
+Bisher habe ich nicht gehört, Herr Oberast.
+
+315
+00:30:06,350 --> 00:30:12,350
+Herzwandbewegungsstörung?
+
+316
+00:30:12,350 --> 00:30:16,350
+Das ist ein langfristiges Befund.
+
+317
+00:30:16,350 --> 00:30:20,350
+Nein, nein. Rechtsseitig.
+
+318
+00:30:20,350 --> 00:30:24,350
+Ich habe das erste Mal gehört.
+
+319
+00:30:24,350 --> 00:30:32,100
+Und auch eine niedrige Eschokardiographie?
+
+320
+00:30:32,100 --> 00:30:43,100
+Ich wusste, dass wir die Befunde nach dem Herzinfarkt darstellen können.
+
+321
+00:30:43,100 --> 00:30:47,100
+Vielen Dank für die neue Info.
+
+322
+00:30:47,100 --> 00:30:55,100
+Sie haben gesagt, dass eine Katheter-Untersuchung möglich ist.
+
+323
+00:30:55,100 --> 00:31:01,100
+Können Sie uns das PTCA aufklären?
+
+324
+00:31:01,100 --> 00:31:10,100
+P-T-T-T-A-B-T-A-B-T-A-B bedeutet, dass das Coroner angeht.
+
+325
+00:31:10,100 --> 00:31:12,100
+Ich weiß nicht.
+
+326
+00:31:12,100 --> 00:31:16,100
+Sie würden mir aufklären.
+
+327
+00:31:16,100 --> 00:31:19,100
+Das ist eine bildgebende Methode.
+
+328
+00:31:19,100 --> 00:31:25,100
+Wir können Herzkranzgefäße darstellen.
+
+329
+00:31:25,100 --> 00:31:31,100
+Es ist nicht nur eine diagnostische Untersuchung,
+
+330
+00:31:31,100 --> 00:31:35,100
+sondern auch eine therapeutische Maßnahme.
+
+331
+00:31:35,100 --> 00:31:46,100
+Wir können gleichzeitig Ständ und Ballon durchführen.
+
+332
+00:31:46,100 --> 00:31:50,100
+Das ist eine schmerzhafte Therapie.
+
+333
+00:31:50,100 --> 00:31:58,100
+Deswegen geben wir örtliche Betäubung.
+
+334
+00:31:58,100 --> 00:32:10,100
+Das ist eine Untersuchung unter der Röntgenstrahlung.
+
+335
+00:32:10,100 --> 00:32:23,510
+Nach der Untersuchung bleibt der Patient in einem Coronerstation.
+
+336
+00:32:23,510 --> 00:32:28,510
+Braucht man nach der Untersuchung Vorbereitung?
+
+337
+00:32:28,510 --> 00:32:33,510
+Man braucht keine Vorbereitung.
+
+338
+00:32:33,510 --> 00:32:43,510
+Aber nach der Untersuchung bleibt der Patient in einem Coronerstation.
+
+339
+00:32:43,510 --> 00:32:46,510
+Wie lange? Und warum?
+
+340
+00:32:46,510 --> 00:32:49,510
+Es gibt zwei Möglichkeiten.
+
+341
+00:32:49,510 --> 00:32:52,510
+Radialarter oder Femoralarter.
+
+342
+00:32:52,510 --> 00:32:58,510
+Wenn wir mit Femoralarter in der Femoralarterien durchführen,
+
+343
+00:32:58,510 --> 00:33:11,510
+bleibt der Patient wegen Blut 6 Stunden in der Coronerstation.
+
+344
+00:33:11,510 --> 00:33:17,510
+Was empfehlen Sie bei der Patientin nach der Katheterunterzuchtung?
+
+345
+00:33:17,510 --> 00:33:27,810
+Bei der Patientin ist es ohne Bewegung.
+
+346
+00:33:27,810 --> 00:33:29,810
+Und?
+
+347
+00:33:29,810 --> 00:33:34,020
+Und?
+
+348
+00:33:34,020 --> 00:33:35,020
+Was noch?
+
+349
+00:33:35,020 --> 00:33:37,020
+Viel Wasser trinken?
+
+350
+00:33:37,020 --> 00:33:42,020
+Ja, wir geben Kontrastmittel.
+
+351
+00:33:42,020 --> 00:33:48,020
+Und wir vermeiden auch eine renale Ausschädigung.
+
+352
+00:33:48,020 --> 00:33:53,020
+Für renale Ausschädungen empfehle ich viel Wasser trinken.
+
+353
+00:33:53,020 --> 00:33:56,020
+Vielen Dank Herr Kollege.
+
+354
+00:33:56,020 --> 00:34:00,020
+Guten Tag Frau Oberstin.
+
+355
+00:34:00,020 --> 00:34:04,020
+Ich habe heute einen neuen Patienten aufgenommen.
+
+356
+00:34:04,020 --> 00:34:09,020
+Ich möchte Ihnen berichten.
+
+357
+00:34:09,020 --> 00:34:12,020
+Haben Sie kurz Zeit dafür?
+
+358
+00:34:12,020 --> 00:34:14,020
+Ja gerne.
+
+359
+00:34:14,020 --> 00:34:25,020
+Ich berichte über den 32-jährigen Patienten Herrn Walter Schmidt.
+
+360
+00:34:25,020 --> 00:34:33,020
+Der 1,78 Meter groß ist und 69 Kilogramm wiegt.
+
+361
+00:34:33,020 --> 00:34:47,020
+Herrn Walter Schmidt kam zu uns heute aufgrund seines heutigen Beschleunigungs.
+
+362
+00:34:47,020 --> 00:35:00,020
+Brustschmerzen, Dyskno, Palpitations, Vertigo und Tremor sowie Angststörungen.
+
+363
+00:35:00,020 --> 00:35:08,020
+Außerdem fühlt er sich heiß während dieser Beschwerden.
+
+364
+00:35:08,020 --> 00:35:18,020
+In den letzten drei Monaten besuchte der Patient viermal wegen ähnlicher Beschwerden die Notaufnahme.
+
+365
+00:35:18,020 --> 00:35:24,020
+Jedoch wurden ohne pathologisches Befunde festgestellt.
+
+366
+00:35:24,020 --> 00:35:40,020
+Zusätzlich fügte er hinzu, dass er während dieser Angstattacken Todesangst sowie Gefühl eines Herzinfarktes verspüre.
+
+367
+00:35:40,020 --> 00:35:50,390
+Darüber hinaus leidet er unter Asthenie und Fatigue, nachdem er Angstattack hatte.
+
+368
+00:35:50,390 --> 00:36:18,390
+Der Patient leide an vor sechs Monaten Epstein-Barbrys-Infektion, die mit Paracetamol und Ibuprofen behandelt wurde.
+
+369
+00:36:18,390 --> 00:36:42,390
+Er hatte vor fünf Jahren einen Autounfall und Oberarmbruch und wurde wegen einem Armbruch operiert.
+
+370
+00:36:42,390 --> 00:36:53,390
+Er hat eine Nussallergie, die sich mit Pruritis äußert.
+
+371
+00:36:53,390 --> 00:37:00,390
+Er ist vollständig geimpft. Die Reiseanamnese ist unauffällig.
+
+372
+00:37:00,390 --> 00:37:15,390
+Er raucht eine Halbschachtel Zigaretten seit zehn Jahren und die Anamnese von Alkohol und Drogen ist unauffällig.
+
+373
+00:37:15,390 --> 00:37:42,390
+In der Familienanamnese gab er an, dass sein Vater an Depressionen leidet und seine Mutter an arterialen Hypertronen leidet und sein Onkel an Angststörungen leidet.
+
+374
+00:37:42,390 --> 00:37:49,390
+Er ist leidig und wohnt mit ihrem Hund.
+
+375
+00:37:49,390 --> 00:38:00,390
+Die anamnestischen Angaben deuten am ehesten auf Panikstörungen, Angststörungen hin.
+
+376
+00:38:00,390 --> 00:38:15,390
+Die Anamnese ist an Angina Pectoris, Akut-Coronar-Syndrom und Pummoner-Emboli betrachtet.
+
+377
+00:38:15,390 --> 00:38:24,390
+Um meine Verdachtdiagnose zu bestätigen, werde ich den Patienten zur Körperlichung untersuchen.
+
+378
+00:38:24,390 --> 00:38:44,390
+Dann werde ich Blut abnehmen, das Herz-Enzyme, Troponin, CK, MB und bestimmen lassen.
+
+379
+00:38:44,390 --> 00:38:53,390
+Ich werde ein EKG schreiben und mögliche Akut-Coronar-Syndrom ausschließen.
+
+380
+00:38:53,390 --> 00:39:07,770
+Ich werde auch einen Röntgen-Torax veranlassen und mögliche Lungen-Patologen ausschließen.
+
+381
+00:39:08,770 --> 00:39:16,770
+Ich werde die Patienten stationär aufnehmen, um meine Verdachtdiagnose zu bestätigen.
+
+382
+00:39:16,770 --> 00:39:28,770
+Ein psychisches Konzil wird sinnvoll, um die Therapie zu optimieren.
+
+383
+00:39:38,770 --> 00:39:45,770
+Sie wollen die Patienten stationär aufnehmen?
+
+384
+00:39:45,770 --> 00:39:53,770
+Der Patient hat viermal eine Notaufnahme besucht und hat keine Lösung gefunden.
+
+385
+00:39:53,770 --> 00:40:06,770
+Deswegen werde ich den Patienten stationär aufnehmen, um eine genaue Diagnose festzustellen.
+
+386
+00:40:07,770 --> 00:40:17,770
+Ich denke, diese Patienten haben viele Labuntersuchungen gefunden.
+
+387
+00:40:17,770 --> 00:40:31,770
+Welche neuen Tests werden Sie machen?
+
+388
+00:40:32,770 --> 00:40:46,770
+Welche Labottests oder weitere Tests haben diese Patienten?
+
+389
+00:40:46,770 --> 00:40:53,770
+Ich werde die Patienten stationär aufnehmen.
+
+390
+00:40:53,770 --> 00:41:01,770
+Der Patient hat berichtet, dass in der Notaufnahme keine pathologischen Tests gefunden wurden.
+
+391
+00:41:01,770 --> 00:41:08,770
+Welche Labottests haben diese Patienten?
+
+392
+00:41:08,770 --> 00:41:16,770
+Ich habe keine Informationen über welche Tests durchgeführt.
+
+393
+00:41:16,770 --> 00:41:28,770
+Der Patient hat berichtet, dass er Sauerstoff und Flüssigkeit einnehmen hat.
+
+394
+00:41:28,770 --> 00:41:36,770
+Welche Tests haben Sie durchgeführt?
+
+395
+00:41:37,770 --> 00:41:51,770
+Ich denke, diese Patienten haben vorher eine Enzyme-Labo-Untersuchung und eine Echokardiographie.
+
+396
+00:41:51,770 --> 00:41:57,770
+Oder eine Angiographie.
+
+397
+00:41:57,770 --> 00:42:02,770
+Ich muss die Geschichte genaue lernen.
+
+398
+00:42:02,770 --> 00:42:07,770
+Bei der Untersuchung werde ich diese Fragen feststellen.
+
+399
+00:42:07,770 --> 00:42:32,770
+Der Patient hat eine Operation wegen Arm-Fraktur.
+
+400
+00:42:37,770 --> 00:42:52,770
+Der Patient nimmt keine regeln-mäßig Medikamente ein.
+
+401
+00:42:52,770 --> 00:43:00,560
+Okay, ich verstehe.
+
+402
+00:43:00,560 --> 00:43:08,560
+Können Sie die Echokardiographie ...
+
+403
+00:43:08,560 --> 00:43:20,560
+Die Echokardiographie ist eine besondere Sonographie für das Herz.
+
+404
+00:43:20,560 --> 00:43:42,560
+Ich versuche mit dem Herz, ob eine Bewegung oder eine Wandstörung, eine Wandschwache oder Herzinsuffizienz gibt.
+
+405
+00:43:42,560 --> 00:43:49,560
+Wir überprüfen die Ejection-Fraktion mit der Sonographie.
+
+406
+00:43:49,560 --> 00:43:55,560
+Das ist eine Schmerz-Arm-Untersuchungs-Methode.
+
+407
+00:43:55,560 --> 00:44:02,560
+Sie hat keine Risiko-Arm-Untersuchungs-Methode.
+
+408
+00:44:02,560 --> 00:44:12,560
+Zuerst tragen wir ein Gel auf der Betroffenen Haut, auf der Brustkorb.
+
+409
+00:44:12,560 --> 00:44:17,560
+Und mit Schalkopf bewegen wir Schalkopf.
+
+410
+00:44:17,560 --> 00:44:31,560
+Und mit Schallwellen beurteilen wir die Herzbewegung und Erkrankungen.
+
+411
+00:44:31,560 --> 00:44:36,060
+Okay.
+
+412
+00:44:36,060 --> 00:44:48,060
+Aber gibt es keine Familiengeschichte für Herzkrankheit?
+
+413
+00:44:48,060 --> 00:44:55,060
+Der Patient berichtete, dass seine Mutter unter Arterialhypertonie leidet.
+
+414
+00:44:55,060 --> 00:45:03,060
+Manchmal kann eine Arterialhypertonie einen Herzinsuffizienzverursachung.
+
+415
+00:45:03,060 --> 00:45:07,060
+Deswegen wird eine Echokardiographie sinnvoll.
+
+416
+00:45:07,060 --> 00:45:11,060
+Ja. Okay.
+
+417
+00:45:11,060 --> 00:45:16,060
+Ich habe keine weitere Fragen.
+
+418
+00:45:16,060 --> 00:45:23,780
+Aber ...
+
+419
+00:45:23,780 --> 00:45:28,780
+Können Sie uns die Echokardiographie erklären?
+
+420
+00:45:28,780 --> 00:45:37,780
+Die Echokardiographie ist eine Untersuchung für das Herz.
+
+421
+00:45:37,780 --> 00:45:48,780
+Mit Hilfe der Echokardiographie messen wir Herzsturm oder Herz-Elektrikaktivität.
+
+422
+00:45:48,780 --> 00:46:08,780
+Und wir können mit Hilfe der Echokardiographie Herzrhythmusstörungen beurteilen.
+
+423
+00:46:08,780 --> 00:46:20,780
+Das ist eine schmerzlose und risikofreie Untersuchungsmethode.
+
+424
+00:46:20,780 --> 00:46:33,780
+Und eine günstige und einfache Untersuchungsmethode besonders für das Herz.
+
+425
+00:46:33,780 --> 00:46:36,780
+Wie läuft dieser Test?
+
+426
+00:46:36,780 --> 00:46:52,780
+Zuerst verbinden wir Metallklempfe zum Extremitäten- und Brustkorb.
+
+427
+00:46:52,780 --> 00:47:04,780
+Und wir messen Herz-Elektrikaktivität.
+
+428
+00:47:04,780 --> 00:47:14,780
+Und beurteilen wir Herzrhythmus und Herzbewegung manchmal.
+
+429
+00:47:14,780 --> 00:47:17,780
+Das können wir beurteilen.
+
+430
+00:47:17,780 --> 00:47:23,780
+Braucht man vor der Untersuchung Vorbereitung oder nach der Untersuchung?
+
+431
+00:47:23,780 --> 00:47:28,780
+Ja, man braucht keine Vorbereitung vor der Untersuchung.
+
+432
+00:47:28,780 --> 00:47:33,780
+Man muss liegen auf dem Liegtisch.
+
+433
+00:47:33,780 --> 00:47:41,780
+Und natürlich den Körper, den Oberkörper besonders.
+
+434
+00:47:41,780 --> 00:47:43,780
+Man muss frei machen.
+
+435
+00:47:43,780 --> 00:47:47,780
+Man muss die Brustkorb und Brusthaut frei machen.
+
+436
+00:47:47,780 --> 00:47:51,780
+Und natürlich die Extremität.
+
+437
+00:47:51,780 --> 00:48:00,780
+Man muss die Sprunggelenks oder Handgelenks frei machen.
+
+438
+00:48:00,780 --> 00:48:04,660
+Bevor diese Untersuchung.
+
+439
+00:48:04,660 --> 00:48:06,660
+Oder oder und?
+
+440
+00:48:06,660 --> 00:48:09,660
+Und zusammen.
+
+441
+00:48:09,660 --> 00:48:13,660
+Hat diese Untersuchung alternative Methoden?
+
+442
+00:48:13,660 --> 00:48:18,100
+Elektrokardiografie oder?
+
+443
+00:48:18,100 --> 00:48:20,100
+Ja, ja.
+
+444
+00:48:20,100 --> 00:48:26,100
+Es gibt drei besonders elektrokardiografische Methoden.
+
+445
+00:48:26,100 --> 00:48:33,100
+Eine ist Elektrokardiografie im Geist oder Belastungs-Elektrokardiografie oder Dauerhaft.
+
+446
+00:48:33,100 --> 00:48:39,100
+Die elektrokardiografische Methoden.
+
+447
+00:48:39,100 --> 00:48:42,100
+Alternative Methoden.
+
+448
+00:48:42,100 --> 00:48:48,100
+Nicht gleich, aber die Echokardiografie kann auch Herzerkrankungen beurteilen.
+
+449
+00:48:48,100 --> 00:48:53,100
+Oder die Angiografie.
+
+450
+00:48:53,100 --> 00:48:56,100
+Ja, auf jeden Fall.
+
+451
+00:48:56,100 --> 00:49:05,100
+Die Angiografie kann auch Herzkrankungen beurteilen.
+
+452
+00:49:05,100 --> 00:49:07,100
+Wie viele Komplikationen?
+
+453
+00:49:07,100 --> 00:49:10,100
+In der EKG oder?
+
+454
+00:49:10,100 --> 00:49:12,100
+In der EKG, ja.
+
+455
+00:49:12,100 --> 00:49:14,100
+Oder Allergien.
+
+456
+00:49:14,100 --> 00:49:17,100
+Ja, auf jeden Fall.
+
+457
+00:49:17,100 --> 00:49:25,100
+Keine Allergien oder Kunststoffallergien.
+
+458
+00:49:25,100 --> 00:49:30,100
+Vielleicht kann man das verursachen.
+
+459
+00:49:30,100 --> 00:49:36,100
+Oder mit Hochdosen Elektrizität oder Sturm.
+
+460
+00:49:36,100 --> 00:49:45,100
+Ich weiß nicht, aber das denke ich kann eine Komplikation auftreten.
+
+461
+00:49:45,100 --> 00:49:49,100
+Gibt es keine Komplikationen und keine Allergien?
+
+462
+00:49:49,100 --> 00:49:51,100
+Keine.
+
+463
+00:49:51,100 --> 00:49:53,100
+Keine?
+
+464
+00:49:53,100 --> 00:49:55,100
+Elektrik verwendet.
+
+465
+00:49:55,100 --> 00:49:57,100
+Wir verursachen nur die Elektrikaktivität.
+
+466
+00:49:57,100 --> 00:49:59,100
+Wir verursachen keine Elektrik.
+
+467
+00:49:59,100 --> 00:50:04,100
+Ich habe drei Patienten aufgenommen.
+
+468
+00:50:04,100 --> 00:50:09,100
+Ich würde ihnen die Patienten vorstellen.
+
+469
+00:50:09,100 --> 00:50:11,100
+Haben Sie kurz Zeit für mich?
+
+470
+00:50:11,100 --> 00:50:13,100
+Ja, gerne.
+
+471
+00:50:13,100 --> 00:50:17,100
+Es handelt sich um Herr Walter Schmidt.
+
+472
+00:50:17,100 --> 00:50:26,100
+Er ist 32 Jahre alt und 1,78 Meter groß und 70 Kilogramm schwer.
+
+473
+00:50:26,100 --> 00:50:35,100
+Der Patient stellt sich heute bei uns wegen seit drei Stunden bestehender Dispnö,
+
+474
+00:50:35,100 --> 00:50:41,100
+Tachikardie und Thorax Schmerzen mit ohne Ausstrahlung vor.
+
+475
+00:50:41,100 --> 00:50:50,100
+Den Patienten sind die Schmerzen flüssig aufgetreten.
+
+476
+00:50:50,100 --> 00:50:58,100
+Er erwähnt, dass die Schmerzen drückend und stehend sind.
+
+477
+00:50:58,100 --> 00:51:10,100
+Die Schmerzenintensität wurde mit 5 bis 6,5 auf eine Schmerzskala bewertet.
+
+478
+00:51:10,100 --> 00:51:21,100
+Der Patient hatte früher vier Mal Schmerzen.
+
+479
+00:51:21,100 --> 00:51:36,100
+Deswegen war der Patient bei vielen Mal Notaufnahme.
+
+480
+00:51:36,100 --> 00:51:47,100
+Er wurde mit Flüssigkeit und Sauerstoff behandelt.
+
+481
+00:51:47,100 --> 00:51:56,100
+Die Therapie hat aber keine Verbesserung gebracht.
+
+482
+00:51:56,100 --> 00:52:07,100
+Die Symptome gehen mit Fatigue, Astehlen, Nervosität und Tremor in die Hand einher.
+
+483
+00:52:07,100 --> 00:52:15,100
+Die Vegetative Anamnese ist unaufällig bis auf Schmerzen,
+
+484
+00:52:15,100 --> 00:52:22,100
+Bechwerde bedingt Inapetens, Insomni und Vertigo.
+
+485
+00:52:22,100 --> 00:52:32,100
+Anfängerkrankungen nannte er seit acht Monaten bestehende,
+
+486
+00:52:32,100 --> 00:52:40,100
+Entschuldigung, vor sechs Monaten hatte er eine Dürzenfibakrankheit.
+
+487
+00:52:40,100 --> 00:52:54,100
+Für eine Woche wurde die Erkrankung mit Paracetamol und Ibuprofen behandelt.
+
+488
+00:52:54,100 --> 00:53:02,100
+Vor fünf Jahren hatte er einen Autoumfall und seine Oberarm wurde gebracht.
+
+489
+00:53:02,100 --> 00:53:07,100
+Er wurde bei dem Patienten eine Operation durchgeführt.
+
+490
+00:53:07,100 --> 00:53:15,100
+Er hatte Nussallergie, die sich mit Pyrithus uitschneidete.
+
+491
+00:53:15,100 --> 00:53:25,100
+Er trinkte seit zehn Jahren halb Schachter Zigaretten.
+
+492
+00:53:25,100 --> 00:53:33,100
+Er trinkte gelegentlich Alkohol, einen Schnaps oder ein Glas Wein.
+
+493
+00:53:33,100 --> 00:53:36,100
+Besonders an Wochenende.
+
+494
+00:53:36,100 --> 00:53:39,100
+Der Druck und Konsum wurde verneint.
+
+495
+00:53:39,100 --> 00:53:51,100
+Im Besuch auf die Familie Anamnese teilte er mit dem Vater an der Depression.
+
+496
+00:53:51,100 --> 00:53:57,100
+Die Mutter hatte eine arterielle Hypertonie.
+
+497
+00:53:57,100 --> 00:54:01,100
+Der Onkel hatte Angststörungen.
+
+498
+00:54:01,100 --> 00:54:09,100
+Er ist Einzelkind, vollständig geimpft, treibt keinen Sport.
+
+499
+00:54:09,100 --> 00:54:15,100
+Er arbeitet als Büroarbeiter und hat viel Stress.
+
+500
+00:54:15,100 --> 00:54:23,100
+Er lebt mit seinem Hund und hat keine Kinder.
+
+501
+00:54:24,100 --> 00:54:31,100
+Ich gehe von einem Verdacht auf einen Panikattack aus.
+
+502
+00:54:31,100 --> 00:54:37,100
+Da der Patient dafür typische Symptome aufweist.
+
+503
+00:54:37,100 --> 00:54:43,100
+Der Patient ist viele Male deswegen beschwerden,
+
+504
+00:54:43,100 --> 00:54:48,100
+Notaufnahme oder andere Arzt gewesen.
+
+505
+00:54:48,100 --> 00:54:54,100
+Aber es gab keine bestimmte Diagnose.
+
+506
+00:54:54,100 --> 00:55:04,100
+Er hat viel Stress und hat eine Tachikardie.
+
+507
+00:55:04,100 --> 00:55:13,100
+Das spricht für einen Panikattack.
+
+508
+00:55:13,100 --> 00:55:27,100
+Als Differenzia-Diagnose kommen Hypertroide, chronische Herzkrankheit und pulmoner Embole in Betracht.
+
+509
+00:55:27,100 --> 00:55:32,100
+Um meine Verdacht-Diagnose zu bestätigen, würde ich den Patienten
+
+510
+00:55:32,100 --> 00:55:35,100
+die vitalen Parameter überwachen.
+
+511
+00:55:35,100 --> 00:55:41,100
+Dann würde ich den Patienten mit körperlicher Untersuchung
+
+512
+00:55:41,100 --> 00:55:54,100
+das Herz und die Lunge auskürzen und inspektieren.
+
+513
+00:55:54,100 --> 00:56:02,100
+Neben körperlicher Untersuchungen würde die Labarunterzuchtung
+
+514
+00:56:02,100 --> 00:56:08,100
+ein Symbol für die Diagnose auf der Unfallseite sein.
+
+515
+00:56:08,100 --> 00:56:25,100
+Dabei würde ich Blutbild TSA3 und TSA4 und T-Diagnose
+
+516
+00:56:25,100 --> 00:56:35,100
+und T-Diagnose und die Pneumatikationen bestimmen lassen.
+
+517
+00:56:35,100 --> 00:56:43,100
+Außerdem würde ich den Patienten eine EKG schreiben,
+
+518
+00:56:43,100 --> 00:56:49,100
+um mögliche Herzkrankheiten auszuschließen.
+
+519
+00:56:49,100 --> 00:56:57,100
+Nach der EKG würde eine Eschokardiografie sein,
+
+520
+00:56:57,100 --> 00:57:03,100
+um mögliche andere Herzpathologien auszuschließen.
+
+521
+00:57:03,100 --> 00:57:11,100
+Außerdem würde ich den Patienten eine Röntgen-Torax durchführen,
+
+522
+00:57:11,100 --> 00:57:19,100
+um mögliche Lungen-Pathologien beurteilen können.
+
+523
+00:57:19,100 --> 00:57:27,100
+Dann würde ich die Gegenden fassen, würde ich den Patienten
+
+524
+00:57:27,100 --> 00:57:32,100
+eine Ventilation-Perfusion-Sintiografie durchführen,
+
+525
+00:57:32,100 --> 00:57:38,100
+um mögliche Pulmoner-Embolien auszuschließen.
+
+526
+00:57:38,100 --> 00:57:53,100
+Dann würde ich den Patienten eine Stationäre aufnehmen,
+
+527
+00:57:53,100 --> 00:58:01,100
+um meine Therapie zu optimieren.
+
+528
+00:58:01,100 --> 00:58:10,100
+Dann würde ich den Patienten Antidepressiv-Medikamente
+
+529
+00:58:10,100 --> 00:58:26,100
+veranlassen, wie DIAZEPAM zum Beispiel.
+
+530
+00:58:26,100 --> 00:58:32,100
+Wenn Sie sich mit dieser Vorgehensweise einverstanden sind,
+
+531
+00:58:32,100 --> 00:58:39,100
+würde ich mit den geplanten Untersuchungen fortfahren.
+
+532
+00:58:39,100 --> 00:58:49,100
+Ich verstehe. Denken Sie, dass es eine Pulmoner-Embolie für diese Patienten gibt?
+
+533
+00:58:49,100 --> 00:59:06,100
+Es könnte sein, weil die Patienten eine Displone und eine Tachikarte haben.
+
+534
+00:59:06,100 --> 00:59:16,100
+Ich möchte sicher sein, denn es ist möglich, denke ich.
+
+535
+00:59:16,100 --> 00:59:24,100
+Aber um diese Diagnose zu sichern,
+
+536
+00:59:24,100 --> 00:59:30,100
+möchten Sie eine Ventilation-Perfusion-Sintiografie durchführen?
+
+537
+00:59:30,100 --> 00:59:32,100
+Das ist nicht notwendig.
+
+538
+00:59:32,100 --> 00:59:42,100
+Ich werde Sie als erstes mit einer Tachikarte ausführen
+
+539
+00:59:42,100 --> 00:59:49,100
+und vielleicht auch mit einer CT-Tachikarte durchführen.
+
+540
+00:59:49,100 --> 01:00:01,100
+Aber wenn Sie diese Diagnose nicht bestimmen lassen,
+
+541
+01:00:01,100 --> 01:00:08,100
+würde ich den Patienten mit einer Tachikarte durchführen.
+
+542
+01:00:08,100 --> 01:00:11,100
+Aber im Labor möchten Sie eine ...
+
+543
+01:00:11,100 --> 01:00:16,100
+Ja, ja, das Labor ist sehr wichtig. Sie haben recht, das zu machen.
+
+544
+01:00:16,100 --> 01:00:25,100
+Das ist sehr wichtig für eine Pulmoner-Embolie.
+
+545
+01:00:25,100 --> 01:00:26,100
+Und?
+
+546
+01:00:27,100 --> 01:00:32,100
+Und da ist eine Blutgasanalyse.
+
+547
+01:00:32,100 --> 01:00:34,100
+Ja, eine Blutgasanalyse.
+
+548
+01:00:34,100 --> 01:00:36,100
+Ja, eine Blutgasanalyse.
+
+549
+01:00:36,100 --> 01:00:40,100
+Okay. Und möchten Sie diese Patienten stationär aufnehmen?
+
+550
+01:00:40,100 --> 01:00:41,100
+Ja.
+
+551
+01:00:41,100 --> 01:00:42,100
+Warum?
+
+552
+01:00:42,100 --> 01:00:46,100
+Ja. Der Patient ist sehr stressig.
+
+553
+01:00:46,100 --> 01:00:56,100
+Und Sie haben viel Angst, wenn der Patient ...
+
+554
+01:00:56,100 --> 01:01:03,100
+Aber welche Therapie haben Sie? Welche Therapie werden Sie beginnen?
+
+555
+01:01:03,100 --> 01:01:06,100
+Ja, ja, Sie haben recht, Frau Berarsin.
+
+556
+01:01:06,100 --> 01:01:20,100
+Der Patient hat gesagt, ich bin viele Mal auf andere Arzt- und andere Notaufnahme gegangen.
+
+557
+01:01:20,100 --> 01:01:22,100
+Und eine Wende.
+
+558
+01:01:22,100 --> 01:01:34,100
+Der Patient hat viel Stress. Vielleicht, wenn wir ein paar Tage den Patienten im Krankenhaus kontrollieren oder beobachten?
+
+559
+01:01:34,100 --> 01:01:39,100
+Ja, der Patient hat viele Laboruntersuchungen.
+
+560
+01:01:39,100 --> 01:01:49,100
+Und ich denke, diese Patienten sind eine Klasseur mit vielen Laboruntersuchungen oder weiteren Untersuchungen.
+
+561
+01:01:49,100 --> 01:01:51,100
+Und ...
+
+562
+01:01:53,100 --> 01:02:03,100
+Ja, Sie haben recht. Aber jetzt ist es möglich, es gibt andere Probleme.
+
+563
+01:02:03,100 --> 01:02:08,100
+Vielleicht mit dem Lungenhundherz.
+
+564
+01:02:08,100 --> 01:02:13,100
+Man muss sicher sein.
+
+565
+01:02:13,100 --> 01:02:15,100
+Man kann sicher sein.
+
+566
+01:02:15,100 --> 01:02:24,100
+Und ich denke, es wäre besser, wenn die Patienten in der Aufnahme beobachten.
+
+567
+01:02:24,100 --> 01:02:31,100
+Aber es ist möglich, nicht stationär.
+
+568
+01:02:31,100 --> 01:02:35,100
+Sondern auch ambulant.
+
+569
+01:02:35,100 --> 01:02:40,100
+Ja, ambulant beobachten.
+
+570
+01:02:40,100 --> 01:02:42,100
+Okay.
+
+571
+01:02:46,100 --> 01:02:55,100
+Und möchten Sie uns die Syntagraphe aufschreiben?
+
+572
+01:02:55,100 --> 01:02:58,100
+Ja, Frau Berarsin.
+
+573
+01:02:58,100 --> 01:03:00,100
+Ich würde Ihnen ...
+
+574
+01:03:03,100 --> 01:03:05,100
+Syntagraphe.
+
+575
+01:03:05,100 --> 01:03:07,100
+Syntagraphe.
+
+576
+01:03:07,100 --> 01:03:09,100
+Ja, Syntagraphe.
+
+577
+01:03:09,100 --> 01:03:11,100
+Ich würde Ihnen ...
+
+578
+01:03:11,100 --> 01:03:18,100
+Welche Syntagraphe? Schindelüse Syntagraphe? Knochen Syntagraphe? Herzsyntagraphe? Welche?
+
+579
+01:03:18,100 --> 01:03:20,100
+Lunge.
+
+580
+01:03:20,100 --> 01:03:23,100
+Lunge, Ventilatoren, Perfektion, Syntagraphe.
+
+581
+01:03:23,100 --> 01:03:25,100
+Ja.
+
+582
+01:03:25,100 --> 01:03:31,100
+Es ist etwas, was ich aber tun kann.
+
+583
+01:03:31,100 --> 01:03:41,100
+Ventilatoren, Perfektion, Syntagraphe sind eine große Bedingung.
+
+584
+01:03:41,100 --> 01:03:51,100
+Wenn man sich mit einer Lunge, mit einer Lunge durch die Staule,
+
+585
+01:03:51,100 --> 01:03:56,100
+dann kann man sich nicht mehr problematisch beobachten.
+
+586
+01:03:56,100 --> 01:04:06,100
+Wenn man sich mit einer Lunge, mit einer Lunge durch die Staule,
+
+587
+01:04:06,100 --> 01:04:12,100
+mit einer anderen Lunge durch die Staule,
+
+588
+01:04:12,100 --> 01:04:18,100
+um diese Unterzucht zu machen,
+
+589
+01:04:18,100 --> 01:04:28,100
+werden wir den Patienten eine radioaktive Stoffe injizieren.
+
+590
+01:04:29,100 --> 01:04:31,100
+Ja.
+
+591
+01:04:31,100 --> 01:04:46,100
+Die Bild der Lunge wird in Echtzeit auf einem Monitor dargestellt.
+
+592
+01:04:46,100 --> 01:04:56,100
+Nach der Unterzucht sollte der Patient viel Wasser trinken.
+
+593
+01:04:56,100 --> 01:05:06,100
+Dann wird er auf den Körper ausgescheiden.
+
+594
+01:05:06,100 --> 01:05:10,100
+Ausgescheiden wird.
+
+595
+01:05:10,100 --> 01:05:14,100
+Ja, ich bin fertig.
+
+596
+01:05:14,100 --> 01:05:16,100
+Das war eine schwierige Sache.
+
+597
+01:05:16,100 --> 01:05:18,100
+Ich hätte es nicht gesagt.
+
+598
+01:05:18,100 --> 01:05:20,100
+Ich weiß nicht, was die Leute sagen.
+
+599
+01:05:20,100 --> 01:05:22,100
+Das war schon schwierig.
+
+600
+01:05:22,100 --> 01:05:26,100
+Ich habe es schon gesagt, aber ich weiß nicht.
+
+601
+01:05:26,100 --> 01:05:28,100
+Das ist schwierig zu bezeichnen.
+
+602
+01:05:28,100 --> 01:05:30,100
+Zuerst wird ein Lüftung gemacht.
+
+603
+01:05:30,100 --> 01:05:34,100
+Erst wird ein radioaktives Gas in die Patientin inhaliert.
+
+604
+01:05:34,100 --> 01:05:37,100
+Dann wird ein Bild ausgebildet.
+
+605
+01:05:37,100 --> 01:05:40,100
+Das ist die Ventilationssynthes.
+
+606
+01:05:40,100 --> 01:05:46,100
+Dann wird die Patientin in ein Radio in die Stoffe ingeleitet.
+
+607
+01:05:46,100 --> 01:05:48,100
+Dann wird wieder eine Bildung gemacht.
+
+608
+01:05:48,100 --> 01:05:50,100
+Das ist auch für die Perfektion.
+
+609
+01:05:50,100 --> 01:05:52,100
+Das ist ein schwieriges Thema.
+
+610
+01:05:52,100 --> 01:05:56,100
+Wir haben es schon gemacht, um eine Sprachanträgung zu machen.
+
+611
+01:05:56,100 --> 01:06:02,100
+Wir wollten es aber nicht, um eine Sprachanträgung zu machen.
+
+612
+01:06:02,100 --> 01:06:06,100
+Wir haben es versucht, um eine Sprachanträgung zu machen.
+
+613
+01:06:06,100 --> 01:06:10,100
+Muss man die Patientin wirklich auf den Beinen bewegen?
+
+614
+01:06:10,100 --> 01:06:12,100
+Ich habe es schon gesagt.
+
+615
+01:06:12,100 --> 01:06:16,100
+Diese Patientin war schon oft in meinem Training.
+
+616
+01:06:16,100 --> 01:06:24,100
+Sie fragte mich, ob ich die Befunde der Laboren gesehen habe.
+
+617
+01:06:24,100 --> 01:06:34,100
+Sie fragte, ob ich die Befunde der Laboren gesehen habe.
+
+618
+01:06:34,100 --> 01:06:36,100
+Ich dachte, dass ich sie nicht gesehen habe.
+
+619
+01:06:36,100 --> 01:06:44,100
+Sie fragte, ob ich die Befunde der Laboren gesehen habe.
+
+620
+01:06:44,100 --> 01:06:52,100
+Ich habe sie wiederbeissen, aber ich habe sie nie be exprimiert.
+
+621
+01:06:52,100 --> 01:07:01,100
+Und sie hat die Hitze hier Richtung換en?
+
+622
+01:07:01,100 --> 01:07:12,100
+Ich habe sie die Hitze nach steht, weil ich sie nicht sehen monde.
+
+623
+01:08:42,100 --> 01:08:45,100
+Wenn ihr einen Schlauchstab haben wollt, könnt ihr ihn auch.
+
+624
+01:08:45,100 --> 01:08:50,100
+Und weil er mit einem Schlauchstab kommt, kann man ihn auch für ihn folgen.
+
+625
+01:08:50,100 --> 01:08:54,100
+Denn er spricht 10-mal, aber es kann auch etwas im 11. Schlauchstab geben.
+
+626
+01:08:54,100 --> 01:08:56,100
+Also wie gesagt, ich bin selbst ...
+
+627
+01:08:56,100 --> 01:08:59,100
+Das ist der Grund, warum er mit einem Schlauchstab kommt.
+
+628
+01:08:59,100 --> 01:09:01,100
+Aber das ist ein wichtiges Punkt.
+
+629
+01:09:01,100 --> 01:09:04,100
+Ist es so, dass man einen Dossier neben dem Schlauchstab hat?
+
+630
+01:09:04,100 --> 01:09:07,100
+Sind es solche Schlauchstaben? Ja, das muss man fragen.
+
+631
+01:09:07,100 --> 01:09:11,100
+Ja, wie gesagt, wenn wir an der Mutter fragen, ist das schick.
+
+632
+01:09:11,100 --> 01:09:15,100
+Wenn ein Schlauchstab etwas sagt, kann er auch deinen Schlauchstab stärken.
+
+633
+01:09:15,100 --> 01:09:19,100
+Ich habe diese Schlauchstaben gefragt, habe die Tatsachen der Tatsachen gefragt.
+
+634
+01:09:19,100 --> 01:09:22,100
+Sie konnten nichts für alle finden.
+
+635
+01:09:22,100 --> 01:09:24,100
+Oder sie sagten normal.
+
+636
+01:09:24,100 --> 01:09:28,100
+Wenn ihr für das Schlauchstab panikiert seid,
+
+637
+01:09:28,100 --> 01:09:32,100
+dann habt ihr den Schlauchstab bereits gerichtet.
+
+638
+01:09:32,100 --> 01:09:37,100
+Und ich sage auch, Herr, das Schtraunen-König, das heißt Schtraunen.
+
+639
+01:09:37,100 --> 01:09:39,100
+Oder ich habe das gehört.
+
+640
+01:09:39,100 --> 01:09:41,100
+Ich habe es gehört, ja.
+
+641
+01:09:41,100 --> 01:09:43,100
+Das ist falsch.
+
+642
+01:09:43,100 --> 01:09:45,100
+Ich denke, dass du mit dem nicht sagst.
+
+643
+01:09:45,100 --> 01:09:47,100
+Das muss man mit dem sagen, oder?
+
+644
+01:09:47,100 --> 01:09:49,100
+Nur mit dem Schtraunen.
+
+645
+01:09:49,100 --> 01:09:51,100
+Ah, mit dem nicht. Dann mit dem Schtraunen.
+
+646
+01:09:51,100 --> 01:09:55,100
+Aber wenn es Schtraunen gibt, dann mit dem Schtraunen.
+
+647
+01:09:55,100 --> 01:09:57,100
+Schtraunen.
+
+648
+01:09:57,100 --> 01:10:00,100
+Aber mit dem nicht, um Schtraunen zu nennen.
+
+649
+01:10:00,100 --> 01:10:02,100
+Okay, sehr schön. Danke.
+
+650
+01:10:02,100 --> 01:10:05,100
+Und ich habe euch etwas fragen.
+
+651
+01:10:05,100 --> 01:10:11,100
+Wir nennen hier Wegen, Zeit, Bechdehender und so weiter.
+
+652
+01:10:11,100 --> 01:10:13,100
+Aber ich habe den Chatchip gefragt.
+
+653
+01:10:13,100 --> 01:10:16,100
+Er sagt, dass es nicht Bechdehender ist, sondern Bechdehendend.
+
+654
+01:10:16,100 --> 01:10:19,100
+Denn dort sagt er, dass man sich an Zeit bewegen muss.
+
+655
+01:10:19,100 --> 01:10:22,100
+Wegen ist nicht an Wegen, Wegen ist genetisch, Zeit ist dativ.
+
+656
+01:10:22,100 --> 01:10:24,100
+Was sagt ihr, Ulema?
+
+657
+01:10:24,100 --> 01:10:25,100
+Nein, Herr.
+
+658
+01:10:25,100 --> 01:10:27,100
+Ihr nehmt nicht an Zeit, sondern an Wegen.
+
+659
+01:10:27,100 --> 01:10:29,100
+Aber es passiert so.
+
+660
+01:10:29,100 --> 01:10:32,100
+Wir nehmt jetzt an Schmerzen, Bechdehender.
+
+661
+01:10:32,100 --> 01:10:36,100
+Wenn Schmerzen verändert, dann auch Bechdehender.
+
+662
+01:10:36,100 --> 01:10:39,100
+Ich weiß, aber wir nehmt an Wegen.
+
+663
+01:10:39,100 --> 01:10:41,100
+Ja, wir nehmen an Wegen.
+
+664
+01:10:41,100 --> 01:10:44,100
+Der Chatchip sagt, dass Zeit nach Wegen kommt,
+
+665
+01:10:44,100 --> 01:10:46,100
+also nehmt ihr an Zeit.
+
+666
+01:10:46,100 --> 01:10:48,100
+Der Chatchip sagt das nicht richtig.
+
+667
+01:10:48,100 --> 01:10:50,100
+Ihr habt euch den Kopf verabschiedet.
+
+668
+01:10:50,100 --> 01:10:52,100
+Ihr nehmt an Wegen und Schmerzen.
+
+669
+01:10:52,100 --> 01:10:54,100
+Ich nehmt schon an Nepele.
+
+670
+01:10:54,100 --> 01:10:56,100
+Ich nehm auch unsere Lehrerin an.
+
+671
+01:10:56,100 --> 01:10:58,100
+Die Frau ist nicht verabschiedet.
+
+672
+01:10:58,100 --> 01:11:00,100
+Ich bin total verabschiedet.
+
+673
+01:11:00,100 --> 01:11:02,100
+Ich habe mich auf den Kopf gerissen.
+
+674
+01:11:02,100 --> 01:11:04,100
+Nein, das ist richtig.
+
+675
+01:11:04,100 --> 01:11:06,100
+Herr, du nennen es Drogenkonsum nicht,
+
+676
+01:11:06,100 --> 01:11:08,100
+sondern Drukkonsum.
+
+677
+01:11:08,100 --> 01:11:10,100
+Das ist richtig.
+
+678
+01:11:10,100 --> 01:11:12,100
+Ich bin verabschiedet.
+
+679
+01:11:12,100 --> 01:11:14,100
+Du nennst es so.
+
+680
+01:11:14,100 --> 01:11:16,100
+Drogenkonsum.

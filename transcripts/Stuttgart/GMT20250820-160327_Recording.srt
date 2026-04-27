@@ -1,0 +1,1915 @@
+1
+00:00:00,000 --> 00:00:12,100
+Guten Tag, mein Name ist Yusuf Sechkin. Ich bin heute der zuständige Arzt für Sie und werde das erste Gespräch mit Ihnen führen.
+
+2
+00:00:12,100 --> 00:00:19,100
+Erstmal benötige ich ein paar persönliche Daten von Ihnen und dann sprechen wir über Ihre aktuellen Beschwerden.
+
+3
+00:00:19,100 --> 00:00:24,100
+Falls Sie Fragen haben, suggeren Sie bitte nicht, mich zu unterbrechen. Wie heißen Sie denn?
+
+4
+00:00:24,100 --> 00:00:30,980
+Ich heiße Josef Meister.
+
+5
+00:00:30,980 --> 00:00:35,980
+Könnten Sie bitte Vor- und Nachnamen langsam buchstabieren?
+
+6
+00:00:35,980 --> 00:00:41,980
+J-O-S-E-F-Josef
+
+7
+00:00:41,980 --> 00:00:47,980
+F-A-I-S-T-I-R Meister
+
+8
+00:00:47,980 --> 00:00:53,540
+Wie alt sind Sie Herr Meister?
+
+9
+00:00:53,540 --> 00:00:57,540
+Ich bin 72 Jahre alt, Herr Doktor.
+
+10
+00:00:57,540 --> 00:01:00,540
+Ihr Gebustdatum bitte?
+
+11
+00:01:00,540 --> 00:01:09,540
+31. Dezember 1953
+
+12
+00:01:09,540 --> 00:01:15,200
+Wissen Sie, wie groß Sie sind?
+
+13
+00:01:15,200 --> 00:01:20,200
+Ich bin 1 Meter 78.
+
+14
+00:01:20,200 --> 00:01:23,480
+Ihr Gewicht bitte?
+
+15
+00:01:23,480 --> 00:01:29,860
+59 Kilogramm
+
+16
+00:01:29,860 --> 00:01:33,860
+Haben Sie einen Hausarzt oder eine Hausärztin?
+
+17
+00:01:33,860 --> 00:01:40,860
+Ja, natürlich. Mein Hausarzt heisst Herr Doktor Müller.
+
+18
+00:01:40,860 --> 00:01:47,990
+Was fühlt Sie heute so, Herr Meister?
+
+19
+00:01:47,990 --> 00:01:56,990
+Ja, Doktor, ich habe Rückenschmerzen seit 3 oder 5 Monaten.
+
+20
+00:01:56,990 --> 00:02:02,780
+Seit 3 oder 4 Monaten?
+
+21
+00:02:02,780 --> 00:02:11,930
+Ja, ungefähr seit 5 Monaten.
+
+22
+00:02:11,930 --> 00:02:17,930
+Wie stark sind die Schmerzen auf einer Skala von 1 bis 10, wobei 10 am stärksten ist?
+
+23
+00:02:17,930 --> 00:02:27,930
+Am Anfang waren es 3 oder 4, aber momentan 5 bis 6.
+
+24
+00:02:27,930 --> 00:02:30,930
+5 bis 6.
+
+25
+00:02:30,930 --> 00:02:32,930
+Hätten Sie einen Unfall?
+
+26
+00:02:32,930 --> 00:02:38,930
+Nein, ich hatte keinen Unfall, Herr Doktor.
+
+27
+00:02:38,930 --> 00:02:41,930
+Wo genau tut es Ihnen weh?
+
+28
+00:02:41,930 --> 00:02:45,930
+Mein Unterrücken.
+
+29
+00:02:45,930 --> 00:02:48,930
+Links oder rechts?
+
+30
+00:02:48,930 --> 00:02:55,620
+Ich habe nicht bemerkt, ganz Rückenschmerzen habe ich.
+
+31
+00:02:55,620 --> 00:02:57,620
+Lendenbereich, oder?
+
+32
+00:02:57,620 --> 00:03:05,620
+Nein, ich bin nicht sicher, aber ich fühle mich im ganz rückenden Bereich.
+
+33
+00:03:05,620 --> 00:03:07,620
+Aber unten?
+
+34
+00:03:07,620 --> 00:03:11,190
+Ja, unten.
+
+35
+00:03:11,190 --> 00:03:14,190
+Könnten Sie diese Schmerzen bitte genauer beschreiben?
+
+36
+00:03:14,190 --> 00:03:18,190
+Stichend oder ziehend?
+
+37
+00:03:18,190 --> 00:03:22,190
+Ja, drückend und stichend.
+
+38
+00:03:22,190 --> 00:03:28,190
+Aber wissen Sie, Doktor, ich habe auch eine Wasserlastenprobleme.
+
+39
+00:03:28,190 --> 00:03:34,190
+Ich muss vielmals besonders nachts auf die Toilette gehen.
+
+40
+00:03:34,190 --> 00:03:39,950
+Seit wann haben Sie diese Probleme?
+
+41
+00:03:39,950 --> 00:03:42,950
+Seit 3 Monaten.
+
+42
+00:03:42,950 --> 00:03:51,540
+Haben Sie Schwierigkeiten beim Wasserlassen?
+
+43
+00:03:51,540 --> 00:03:53,540
+Ja, ja.
+
+44
+00:03:53,540 --> 00:03:55,540
+Das brennende Wasserlassen, oder?
+
+45
+00:03:55,540 --> 00:04:16,540
+Ich habe brennende Wasserlassen und ja, ich habe das Gefühl, dass mein Haar nicht leer ist nach dem Wasserlassen. Ich fühle es.
+
+46
+00:04:16,540 --> 00:04:21,540
+Sie können Ihre Wasserlassen nicht entleeren können, oder?
+
+47
+00:04:21,540 --> 00:04:27,060
+Ja, Sie haben Recht.
+
+48
+00:04:27,060 --> 00:04:35,060
+Ich habe das Gefühl, dass meine Blase nach dem Wasserlassen nicht leer ist.
+
+49
+00:04:35,060 --> 00:04:39,060
+Wie oft gehen Sie zur Toilette?
+
+50
+00:04:39,060 --> 00:04:44,410
+Besonders nachts, 3-5 Mal.
+
+51
+00:04:44,410 --> 00:04:47,410
+Tagsüber?
+
+52
+00:04:47,410 --> 00:04:50,410
+Ja, ja, tagsüber, aber besonders nachts.
+
+53
+00:04:50,410 --> 00:04:54,410
+Ja, ja, tagsüber, wie oft gehen Sie zur Toilette?
+
+54
+00:04:54,410 --> 00:05:00,910
+Ungefähr 8 oder 10.
+
+55
+00:05:00,910 --> 00:05:02,910
+Ungefähr 10?
+
+56
+00:05:02,910 --> 00:05:12,910
+Ja, es ist sehr weich, Doktor.
+
+57
+00:05:12,910 --> 00:05:16,910
+Einmal 6, manchmal 8, manchmal 10.
+
+58
+00:05:16,910 --> 00:05:19,910
+Wie sieht Ihr Urin aus?
+
+59
+00:05:19,910 --> 00:05:24,220
+Dunkel.
+
+60
+00:05:24,220 --> 00:05:26,220
+Haben Sie Fieber?
+
+61
+00:05:26,220 --> 00:05:34,220
+Ich habe nicht Fieber, Doktor. Aber ja, ich fühle mich ein bisschen fieberig, aber ich habe nicht gemessen.
+
+62
+00:05:34,220 --> 00:05:39,420
+Haben Sie Schüttelfrost, Nachschweiß?
+
+63
+00:05:39,420 --> 00:05:47,420
+Ich habe keine Nachschweiß, aber Schüttelfrost, aber ja, ich habe Nachschweiß, Sie haben Recht.
+
+64
+00:05:47,420 --> 00:05:55,900
+Strahlen Sie Schmerzen irgendwo hinaus?
+
+65
+00:05:55,900 --> 00:06:03,900
+Nein, ich habe nicht Schmerzen, ich habe immer ganz rücken Bereich Schmerzen.
+
+66
+00:06:03,900 --> 00:06:07,900
+Haben Sie Schmerzen im Leistenbereich?
+
+67
+00:06:07,900 --> 00:06:14,900
+Ich habe nicht Schmerzen, Doktor. Nein, ich habe rücken Schmerzen.
+
+68
+00:06:14,900 --> 00:06:21,900
+Richtig. Haben Sie dagegen irgendwelche Medikamente genommen?
+
+69
+00:06:21,900 --> 00:06:29,900
+Ja, ich habe viele Medikamente in meinem Hausarzt gewessen.
+
+70
+00:06:29,900 --> 00:06:31,900
+Sie haben die Schmerzen?
+
+71
+00:06:31,900 --> 00:06:37,900
+Ja, sie haben die Schmerzen, viele Medikamente seit 6 Monaten.
+
+72
+00:06:37,900 --> 00:06:50,900
+Mein Hausarzt hat mir gesagt, sie sind normal, sie empfehlen mir viel Wasser zu trinken.
+
+73
+00:06:50,900 --> 00:06:53,900
+Nehmen Sie keine Medikamente?
+
+74
+00:06:53,900 --> 00:07:04,900
+Nicht wirklich empfehlen, aber habe ich viele Mal 800 mg angenommen.
+
+75
+00:07:04,900 --> 00:07:09,900
+Aber es würde mir ein bisschen geholfen, Herr Doktor.
+
+76
+00:07:09,900 --> 00:07:11,900
+Richtig.
+
+77
+00:07:11,900 --> 00:07:19,900
+Aber ich habe diese Medikamente nicht regelmäßig angenommen, sehr bedrückt.
+
+78
+00:07:19,900 --> 00:07:25,900
+Wurde bei Ihnen eine feste Diagnose gestellt?
+
+79
+00:07:25,900 --> 00:07:32,900
+Nein, mein Hausarzt hat mir gesagt, dass ich alt bin, es ist normal.
+
+80
+00:07:32,900 --> 00:07:41,900
+Wurde bei Ihnen ein Ultraschall des Abdomens durchgeführt?
+
+81
+00:07:41,900 --> 00:07:50,900
+Ich hatte eine Anbietung von meinem Hausarzt, aber es ist mir gesagt, es ist normal.
+
+82
+00:07:50,900 --> 00:08:00,250
+Richtig. Hatten Sie das schon mal, die Endnische 5 werden?
+
+83
+00:08:00,250 --> 00:08:07,250
+Ja, ich habe gesagt, seit jetzt oder früher?
+
+84
+00:08:07,250 --> 00:08:09,250
+Vorher.
+
+85
+00:08:09,250 --> 00:08:16,250
+Ja, ich habe gesagt, vor drei Monaten.
+
+86
+00:08:16,250 --> 00:08:19,250
+Ja, ja.
+
+87
+00:08:19,250 --> 00:08:23,250
+Wann war die letzte 5 werden?
+
+88
+00:08:23,250 --> 00:08:38,250
+Ich habe gesagt, Herr Doktor, ich habe diese Medikamente immer seit 3 Monaten immer wasserlassen Probleme.
+
+89
+00:08:38,250 --> 00:08:44,250
+Aber vor 3 Monaten haben Sie keine Beschwerden über diese Thema?
+
+90
+00:08:44,250 --> 00:08:47,250
+Ja, ja, sie haben Recht.
+
+91
+00:08:47,250 --> 00:08:55,650
+Sind die Beschwerden plötzlich oder allmählich aufgetreten?
+
+92
+00:08:55,650 --> 00:09:02,650
+Anfangs war es plötzlich, aber in der Zeit ist es immer schlimmer geworden.
+
+93
+00:09:02,650 --> 00:09:18,050
+Gibt es irgendetwas, das die Schmerzen schlimmer oder besser macht?
+
+94
+00:09:18,050 --> 00:09:23,050
+Schmerzen oder wasserlassen?
+
+95
+00:09:23,050 --> 00:09:25,050
+Beide.
+
+96
+00:09:25,050 --> 00:09:34,050
+Wenn ich bei mir bin, ist es nicht so schlimm geworden.
+
+97
+00:09:34,050 --> 00:09:40,050
+Aber mit dem wasserlassen habe ich nicht bemerkt.
+
+98
+00:09:40,050 --> 00:09:46,050
+Irgendwie ist es so, dass ich körperlich bin.
+
+99
+00:09:46,050 --> 00:09:49,050
+Richtig.
+
+100
+00:09:49,050 --> 00:09:52,050
+Haben Sie Atemnot, Husten?
+
+101
+00:09:52,050 --> 00:09:54,050
+Nein, ich habe nicht bemerkt.
+
+102
+00:09:54,050 --> 00:09:59,680
+Ist Ihnen Herzgasen oder Herzstolpe aufgefallen?
+
+103
+00:09:59,680 --> 00:10:06,000
+Nein.
+
+104
+00:10:06,000 --> 00:10:09,000
+Haben Sie Hautverfarbung bemerkt?
+
+105
+00:10:09,000 --> 00:10:19,140
+Ich habe nicht bemerkt, Herr Doktor.
+
+106
+00:10:19,140 --> 00:10:20,140
+Richtig.
+
+107
+00:10:20,140 --> 00:10:26,140
+Haben Sie Schwellungen in irgendwelchen Körperregionen bemerkt?
+
+108
+00:10:26,140 --> 00:10:28,140
+Nein, ich habe nicht bemerkt.
+
+109
+00:10:28,140 --> 00:10:32,140
+Ist das Bein geschwollen oder ist Ihr Bauch geschwollen?
+
+110
+00:10:32,140 --> 00:10:34,140
+Nein.
+
+111
+00:10:34,140 --> 00:10:37,140
+Ist Ihnen schwindelig?
+
+112
+00:10:37,140 --> 00:10:41,140
+Ich habe nicht bemerkt, Herr Doktor. Es ist normal.
+
+113
+00:10:41,140 --> 00:10:43,140
+Ist Ihnen übel?
+
+114
+00:10:43,140 --> 00:10:45,140
+Nein.
+
+115
+00:10:45,140 --> 00:10:48,140
+Mussten Sie sich übergeben?
+
+116
+00:10:48,140 --> 00:10:52,740
+Ich habe nicht bemerkt, nein.
+
+117
+00:10:52,740 --> 00:10:54,740
+Können Sie gut schlafen?
+
+118
+00:10:54,740 --> 00:11:04,740
+Ich habe gesagt, Herr Doktor, ich muss dreimal nachtlich wasserlassen.
+
+119
+00:11:04,740 --> 00:11:08,740
+Deswegen habe ich Schlafprobleme.
+
+120
+00:11:08,740 --> 00:11:10,740
+Haben Sie Durchschlafstörungen, oder?
+
+121
+00:11:10,740 --> 00:11:12,740
+Ja, Sie haben recht.
+
+122
+00:11:12,740 --> 00:11:19,960
+Wie ist Ihr Appetit, Herr Meister?
+
+123
+00:11:19,960 --> 00:11:21,960
+Normalerweise gut.
+
+124
+00:11:21,960 --> 00:11:24,960
+Ich meine seit drei Monaten.
+
+125
+00:11:24,960 --> 00:11:26,960
+Nein, nein. Ja, ja, ich verstehe.
+
+126
+00:11:26,960 --> 00:11:30,960
+Ich habe keine Appetitprobleme.
+
+127
+00:11:30,960 --> 00:11:34,960
+Richtig. Haben Sie in letzter Zeit ab- oder zugenommen?
+
+128
+00:11:34,960 --> 00:11:44,960
+Ja, Herr Doktor, leider. Ich habe seit sechs Monaten 6 Kilo abgenommen.
+
+129
+00:11:44,960 --> 00:11:47,960
+Seit sechs Monaten?
+
+130
+00:11:47,960 --> 00:11:56,420
+Ja.
+
+131
+00:11:56,420 --> 00:11:59,860
+5 Kilo.
+
+132
+00:11:59,860 --> 00:12:01,860
+Herr Meister.
+
+133
+00:12:01,860 --> 00:12:10,860
+Herr Doktor, ich habe viele Angst. Mein Vater, mein Vater vor fünf Jahren an Prostatkarsinoma gestorben.
+
+134
+00:12:10,860 --> 00:12:15,860
+Mein sehr beileid, Herr Meister.
+
+135
+00:12:15,860 --> 00:12:25,860
+Deswegen keine Sorgen. Krebs ist am schlimmsten. Bitte denken Sie am Anfang nicht am schlimmsten, Herr Meister.
+
+136
+00:12:25,860 --> 00:12:27,860
+Okay.
+
+137
+00:12:27,860 --> 00:12:31,860
+Wegen Prostatkarsinoma vor fünf Jahren.
+
+138
+00:12:31,860 --> 00:12:33,860
+Wie alt war er?
+
+139
+00:12:33,860 --> 00:12:41,860
+Er war fünfundsechs Jahre alt. Nein, nein, fünfundachs Jahre alt.
+
+140
+00:12:41,860 --> 00:12:44,860
+Fünfundsechs Jahre alt. Ja.
+
+141
+00:12:44,860 --> 00:12:49,860
+Haben Sie chronische Erkrankungen, Herr Meister?
+
+142
+00:12:49,860 --> 00:12:55,860
+Ich habe Bluthochdruck seit zehn Jahren.
+
+143
+00:12:55,860 --> 00:12:58,860
+Was nehmen Sie dagegen?
+
+144
+00:12:58,860 --> 00:13:05,860
+Ich nehme 5 Milligramm Delix einmal morgens täglich ein.
+
+145
+00:13:05,860 --> 00:13:11,140
+Haben Sie noch andere chronische Erkrankungen?
+
+146
+00:13:11,140 --> 00:13:17,140
+Ja, ich habe chronische Lungenentzündung, Herr Doktor.
+
+147
+00:13:17,140 --> 00:13:22,140
+Chronische Lungenentzündung. Seit wann haben Sie das?
+
+148
+00:13:22,140 --> 00:13:29,140
+Es ist so lange, ungefähr 20 Jahre oder 25 Jahre.
+
+149
+00:13:29,140 --> 00:13:32,140
+Was nehmen Sie dagegen?
+
+150
+00:13:32,140 --> 00:13:42,140
+Ich benutze einen Spray, aber ich habe keine Ahnung, wie der Name ist.
+
+151
+00:13:42,140 --> 00:13:45,140
+Ein Spray. Ja.
+
+152
+00:13:45,140 --> 00:13:49,140
+Haben Sie noch andere Erkrankungen, Herr Meister?
+
+153
+00:13:49,140 --> 00:13:52,860
+Das war es.
+
+154
+00:13:52,860 --> 00:13:57,860
+Nehmen Sie Medikamente regelmäßig?
+
+155
+00:13:57,860 --> 00:14:00,860
+Ja, ich habe gesagt, ich nehme Delix.
+
+156
+00:14:00,860 --> 00:14:03,860
+Außer Delix und Spray?
+
+157
+00:14:03,860 --> 00:14:11,860
+Ja, ich habe bei der Ibuprofen eingenommen. Ja, ich habe gesagt, aber das war es.
+
+158
+00:14:11,860 --> 00:14:16,860
+Ibuprofen. Wegen aktueller Beschwerde?
+
+159
+00:14:16,860 --> 00:14:18,860
+Ja, ja.
+
+160
+00:14:18,860 --> 00:14:22,860
+Wurden Sie schon einmal operiert?
+
+161
+00:14:22,860 --> 00:14:28,110
+Ich habe nie operiert, nein.
+
+162
+00:14:28,110 --> 00:14:34,110
+Gut. Haben Sie Allergien oder Unfertigkeiten?
+
+163
+00:14:34,110 --> 00:14:38,110
+Ich habe keine Allergien oder Unfertigkeiten, Doktor.
+
+164
+00:14:38,110 --> 00:14:48,690
+Gut. Und rauchen Sie, Herr Meister?
+
+165
+00:14:48,690 --> 00:14:54,690
+Ja, ich rauche, aber ich denke nicht viel.
+
+166
+00:14:54,690 --> 00:15:01,690
+Ich rauche seit 40 Jahren zwei Schachteln Zigaretten.
+
+167
+00:15:01,690 --> 00:15:04,690
+Seit 40 Jahren zwei Schachteln.
+
+168
+00:15:04,690 --> 00:15:08,690
+Ja, es ist viel, Doktor, ist es viel?
+
+169
+00:15:08,690 --> 00:15:11,690
+Natürlich, es ist zu viel, Herr Meister.
+
+170
+00:15:11,690 --> 00:15:14,690
+Das ist gefährlich für Ihre Gefecht.
+
+171
+00:15:14,690 --> 00:15:17,690
+Aber ich liebe Rauchen, ja.
+
+172
+00:15:17,690 --> 00:15:25,690
+Ich verstehe, aber ich empfehle Ihnen mit dem Rauchen so schnell wie möglich aufzuhören.
+
+173
+00:15:25,690 --> 00:15:30,690
+Okay, okay. Verstehe.
+
+174
+00:15:30,690 --> 00:15:36,690
+Wie viele Zigaretten rauchen Sie täglich momentan?
+
+175
+00:15:36,690 --> 00:15:38,690
+Zwei Schachteln.
+
+176
+00:15:38,690 --> 00:15:40,690
+Zwei Schachteln, ja.
+
+177
+00:15:40,690 --> 00:15:42,690
+Füllen Sie Alkohol?
+
+178
+00:15:42,690 --> 00:15:50,690
+Gelegentlich. Zwei oder drei Mal pro Woche.
+
+179
+00:15:50,690 --> 00:15:56,690
+Ein Glas Wein oder ein Glas, ein Flasche Bier.
+
+180
+00:15:56,690 --> 00:15:58,690
+Zwei bis drei Mal?
+
+181
+00:15:58,690 --> 00:16:01,690
+Ja, pro Woche, ja.
+
+182
+00:16:01,690 --> 00:16:07,690
+Bitte nehmen Sie die folgenden Fragen nicht persönlich. Aus medizinischen Gründen fragen wir immer.
+
+183
+00:16:07,690 --> 00:16:10,690
+Haben Sie Erfahrung mit Drogen?
+
+184
+00:16:10,690 --> 00:16:12,690
+Was ist Drogen, Doktor?
+
+185
+00:16:12,690 --> 00:16:15,690
+Marihuana, Haschisch.
+
+186
+00:16:15,690 --> 00:16:20,690
+Ah, ja nein, nein. Ich habe keine Drogen probiert.
+
+187
+00:16:20,690 --> 00:16:25,690
+Gut, ich freu mich.
+
+188
+00:16:25,690 --> 00:16:29,690
+Treiben Sie regelmäßig Sport, Herr Meister?
+
+189
+00:16:29,690 --> 00:16:45,690
+Ja Doktor, ich bin so müde und ich möchte Sport treiben, aber ich bin so müde und ich treibe keinen Sport.
+
+190
+00:16:45,690 --> 00:16:47,690
+Sie sind müde?
+
+191
+00:16:47,690 --> 00:16:48,690
+Ja, ja.
+
+192
+00:16:48,690 --> 00:16:52,690
+Seit wann fühlen Sie sich müde?
+
+193
+00:16:52,690 --> 00:16:59,920
+Seit drei Monaten.
+
+194
+00:16:59,920 --> 00:17:01,920
+Sind Sie verheiratet?
+
+195
+00:17:01,920 --> 00:17:03,920
+Ja, ich bin verheiratet.
+
+196
+00:17:03,920 --> 00:17:05,920
+Wie wohnen Sie?
+
+197
+00:17:05,920 --> 00:17:08,920
+Ich wohne mit meiner Frau.
+
+198
+00:17:08,920 --> 00:17:15,080
+Haben Sie Kinder?
+
+199
+00:17:15,080 --> 00:17:18,080
+Ich habe drei Kinder.
+
+200
+00:17:18,080 --> 00:17:20,080
+Sind Sie gesund?
+
+201
+00:17:20,080 --> 00:17:22,080
+Ja, ja.
+
+202
+00:17:22,080 --> 00:17:28,080
+Gut. Was sind Sie vom Beruf, Herr Meister?
+
+203
+00:17:28,080 --> 00:17:32,080
+Ich bin Rentner. Ich bin 92 Jahre alt, Herr Doktor.
+
+204
+00:17:32,080 --> 00:17:35,080
+Was waren Sie vom Beruf?
+
+205
+00:17:35,080 --> 00:17:40,080
+Ich habe als Taxifahrer gearbeitet.
+
+206
+00:17:40,080 --> 00:17:45,520
+Das war ein stressiger Beruf, oder?
+
+207
+00:17:45,520 --> 00:17:48,520
+Ja, ich hatte viel Stress.
+
+208
+00:17:48,520 --> 00:17:50,520
+Verstehe.
+
+209
+00:17:50,520 --> 00:17:55,520
+Gibt es irgendwelche chronischen Erkrankungen in Ihrer Familie?
+
+210
+00:17:55,520 --> 00:18:01,520
+Sie haben schon gesagt, dass Ihr Vater an Prostatkarsinom verstorben ist.
+
+211
+00:18:01,520 --> 00:18:03,520
+Ja.
+
+212
+00:18:03,520 --> 00:18:15,520
+Meine Mutter ist 65 Jahre alt und hat an Magentarsinom verstorben, Doktor.
+
+213
+00:18:15,520 --> 00:18:17,520
+Tut mir leid zu hören.
+
+214
+00:18:18,520 --> 00:18:24,520
+Haben Sie beide noch andere chronische Erkrankungen?
+
+215
+00:18:24,520 --> 00:18:28,520
+Zum Beispiel Zuckerkrankungen, Bluthochdruck, Erhöhung?
+
+216
+00:18:28,520 --> 00:18:41,520
+Meine Mutter hatte Zuckerkrankungen und mein Vater hatte Bluthochdruck.
+
+217
+00:18:41,520 --> 00:18:43,520
+Bluthochdruck.
+
+218
+00:18:43,520 --> 00:18:45,520
+Haben Sie Geschwister?
+
+219
+00:18:45,520 --> 00:18:49,520
+Ich habe zwei Geschwister, aber ich habe keinen Kontakt.
+
+220
+00:18:49,520 --> 00:18:55,590
+Sind Sie vollständig geimpft?
+
+221
+00:18:55,590 --> 00:18:58,590
+Ja, ich bin vollständig geimpft.
+
+222
+00:18:58,590 --> 00:19:04,480
+Waren Sie in letzter Zeit im Ausland?
+
+223
+00:19:04,480 --> 00:19:07,480
+Nein, ich bin immer in Deutschland.
+
+224
+00:19:07,480 --> 00:19:15,540
+Alles klar, Herr Meister.
+
+225
+00:19:15,540 --> 00:19:20,540
+Meinerseits habe ich alle wichtigen Fragen gestellt.
+
+226
+00:19:20,540 --> 00:19:24,540
+Möchten Sie noch etwas hinzufügen?
+
+227
+00:19:24,540 --> 00:19:29,540
+Ich habe gesagt, ich habe viele Fragen. Was habe ich?
+
+228
+00:19:29,540 --> 00:19:33,540
+Es ist zu früh, etwas Genaues zu sagen, Herr Meister.
+
+229
+00:19:33,540 --> 00:19:37,540
+Jetzt werde ich eine körperliche Untersuchung durchschauen.
+
+230
+00:19:37,540 --> 00:19:41,540
+Danach werde ich Blut abnehmen.
+
+231
+00:19:42,540 --> 00:19:50,540
+Und gegebenenfalls werde ich eine operative Diagnostik veranlassen.
+
+232
+00:19:50,540 --> 00:19:54,540
+Mit den Ergebnissen können wir entscheiden.
+
+233
+00:19:54,540 --> 00:20:01,540
+Eine Frage. Haben Sie Blut im Urin?
+
+234
+00:20:01,540 --> 00:20:14,730
+Ja, ich habe gesagt, mein Urin war dunkel, aber ich habe keinen Angriff, dass Blut da andere ist.
+
+235
+00:20:18,450 --> 00:20:27,450
+Bleiben Sie hier bitte. Jetzt werde ich eine körperliche Untersuchung durchschauen.
+
+236
+00:20:27,450 --> 00:20:31,450
+Okay, ich warte auf Sie, Doktor. Danke schön.
+
+237
+00:20:31,450 --> 00:20:46,670
+Danke, Herr Meister.
+
+238
+00:20:46,670 --> 00:20:52,670
+Ich würde Ihnen gerne einen neuen Patienten vorstellen, den ich eben in der Notaufnahme gesehen habe.
+
+239
+00:20:52,670 --> 00:20:54,670
+Hätten Sie kurz Zeit?
+
+240
+00:20:54,670 --> 00:20:56,670
+Ja, gerne.
+
+241
+00:20:56,670 --> 00:21:10,670
+Ich bin Josef Meister, ein 72-jähriger Patient, geboren am 31.11.1953.
+
+242
+00:21:10,670 --> 00:21:14,670
+Er war 1,78 Meter groß und 59 Kilogramm schwer.
+
+243
+00:21:14,670 --> 00:21:17,670
+Er stellte sich bei uns vor Aufgrund.
+
+244
+00:21:17,670 --> 00:21:24,670
+Seit drei bis vier Monaten bestehender, druckender, zunehmender,
+
+245
+00:21:24,670 --> 00:21:31,670
+plötzlich aufgetretener, drückender Schmerzen ohne Ausstrahlung.
+
+246
+00:21:31,670 --> 00:21:43,670
+Die Schmerzintensität wurde am Anfang mit drei, momentan mit fünf bis sechs von zehn bewertet.
+
+247
+00:21:43,670 --> 00:21:46,670
+Er hatte keinen Unfall.
+
+248
+00:21:46,670 --> 00:21:58,670
+Wegen dieser Schmerzen war er oftmals beim Hausarzt.
+
+249
+00:21:58,670 --> 00:22:08,670
+Er hat dagegen 800 Ibuprofen genommen.
+
+250
+00:22:08,670 --> 00:22:13,670
+Aber es hat ihm ein bisschen geholfen.
+
+251
+00:22:13,670 --> 00:22:23,400
+Als Begleitsymptomen gab er an, diese Beschwerden zum ersten Mal zu haben.
+
+252
+00:22:23,400 --> 00:22:45,400
+Er geht am Nacht 3 bis 5 Mal zur Toilette, tagsüber 10 Mal.
+
+253
+00:22:45,400 --> 00:22:55,400
+Die Fragen nach Atemnot, Dyspnoe, Husten, Tachikalie, Hautverfabung, Oedema wurden verleint.
+
+254
+00:22:55,400 --> 00:23:04,400
+In der vegetativen Anamnese sind folgende Beschwerden bekannt.
+
+255
+00:23:04,400 --> 00:23:22,220
+Gewichtabnahme seit sechs Monaten, 10 Kilogramm Nikturi, Insomni wegen der Nikturi und Fieber.
+
+256
+00:23:22,220 --> 00:23:27,220
+Er fühlt sich fiebrig, so wie Nachtschweiß.
+
+257
+00:23:27,220 --> 00:23:33,220
+An Vorerkrankungen leidet er seit zehn Jahren an arterieller Hypertonie.
+
+258
+00:23:33,220 --> 00:23:37,220
+Dagegen nimmt er Delix 5 mg Morgens ein.
+
+259
+00:23:37,220 --> 00:23:45,220
+Seit 20 Jahren leidet er an COPD.
+
+260
+00:23:45,220 --> 00:23:51,220
+Dagegen nimmt er Spray ein.
+
+261
+00:23:51,220 --> 00:24:00,220
+Der Name der Spray ist nicht erinnerlich.
+
+262
+00:24:00,220 --> 00:24:04,220
+Er ist noch nie operiert.
+
+263
+00:24:04,220 --> 00:24:09,220
+Es sind keine Allergien oder Unverträglichkeiten bekannt.
+
+264
+00:24:09,220 --> 00:24:11,220
+Er ist Raucher.
+
+265
+00:24:11,220 --> 00:24:19,220
+Seit 40 Jahren raucht er zwei Schachteln Zigaretten täglich.
+
+266
+00:24:19,220 --> 00:24:23,220
+Das sind 80 Packages.
+
+267
+00:24:23,220 --> 00:24:32,220
+Er trinkt 2 bis 3 Mal in einer Woche Bier oder Wein.
+
+268
+00:24:32,220 --> 00:24:35,220
+Drogenkonsum wurde verleint.
+
+269
+00:24:35,220 --> 00:24:38,220
+Er ist verheiratet.
+
+270
+00:24:38,220 --> 00:24:41,220
+Er lebt mit seiner Ehefrau zusammen.
+
+271
+00:24:41,220 --> 00:24:44,220
+Er hat drei gesunde Kinder.
+
+272
+00:24:44,220 --> 00:24:51,220
+In der Familienanamnese fand sich Diabetes mellitus bei der Mutter.
+
+273
+00:24:51,220 --> 00:24:57,220
+Die Mutter ist mit 65 Jahren an Magenkarsinom verstoben.
+
+274
+00:24:57,220 --> 00:25:03,220
+Arterielle Hypertonie bei meinem Vater.
+
+275
+00:25:03,220 --> 00:25:16,220
+Der Vater ist mit 89 Jahren an Prostatkarsinom verstoben.
+
+276
+00:25:16,220 --> 00:25:19,220
+Er ist vollständig geimpft.
+
+277
+00:25:19,220 --> 00:25:22,220
+Die Reiseanamnese ist unauffällig.
+
+278
+00:25:22,220 --> 00:25:27,220
+Meine Verdachtstheatose lautet auf Prostatkarsinom.
+
+279
+00:25:27,220 --> 00:25:35,220
+Er leidet seit 3 bis 4 Monaten an Rückenschmerzen.
+
+280
+00:25:35,220 --> 00:25:39,220
+Er hat Polio.
+
+281
+00:25:39,220 --> 00:25:44,220
+Er hat innerhalb von 6 Monaten 10 kg Gewicht abgenommen.
+
+282
+00:25:44,220 --> 00:25:49,220
+Die Differenz ist die Vertikulitis.
+
+283
+00:25:49,220 --> 00:25:59,460
+Ich bin mit dem Magenkarsinom in der Vergrößerung von Prostaten.
+
+284
+00:25:59,460 --> 00:26:06,460
+Zur Diagnostik würde ich zunächst eine körperliche Untersuchung durchführen.
+
+285
+00:26:06,460 --> 00:26:11,460
+Zuerst würde ich die Vitalparameter erfassen.
+
+286
+00:26:11,460 --> 00:26:19,460
+Danach würde ich den Patienten inspezieren, palpieren und auskultieren.
+
+287
+00:26:19,460 --> 00:26:27,460
+Bei der Prostatkarsinomfaltpatient achte ich auf Abwehrspannung, Druckschmerzen,
+
+288
+00:26:27,460 --> 00:26:32,460
+Loslassschmerzen und mögliche Organomegalien.
+
+289
+00:26:32,460 --> 00:26:45,460
+Bei der Inspektion beurteile ich den Allgemeinen Zustand des Patienten und die Hautfarbe des Patienten.
+
+290
+00:26:45,460 --> 00:26:51,460
+Zu weiteren Abklärungen werde ich Labouruntersuchungen durchführen,
+
+291
+00:26:51,460 --> 00:27:03,460
+um das Blutbild, die Entzündungswerte, Leber- und Nierenwerte, PCA-Werte zu bestimmen.
+
+292
+00:27:03,460 --> 00:27:12,460
+Bei der körperlichen Untersuchung werde ich auch eine digitale, rektale Untersuchung durchführen.
+
+293
+00:27:12,460 --> 00:27:21,460
+Bei der digitalen, rektalen Untersuchung können wir Prostatengewebe überprüfen.
+
+294
+00:27:21,460 --> 00:27:29,460
+Wenn ein Tumor es gibt, können wir den Tumor erkennen.
+
+295
+00:27:29,460 --> 00:27:38,870
+Im nächsten Schritt würde ich eine operative Diagnostik durchführen.
+
+296
+00:27:38,870 --> 00:27:52,870
+Als operative Diagnostik werde ich den Ultraschall des Abdomens, Ultraschall des Prostats überprüfen oder durchführen.
+
+297
+00:27:52,870 --> 00:27:57,870
+Danach werde ich den CT des Abdomens durchführen.
+
+298
+00:27:57,870 --> 00:28:08,080
+Sollte sich meine Verdachtsdiagnose bestätigen, würde ich den Patienten stationär aufnehmen.
+
+299
+00:28:08,080 --> 00:28:17,970
+Zunächst werde ich einen Venöse-Zugang legen, um eine Venöse-Therapie zu ermöglichen.
+
+300
+00:28:17,970 --> 00:28:29,970
+Ich werde eine urologische Konstruktion veranlassen, um die Therapie zu optimieren.
+
+301
+00:28:30,970 --> 00:28:41,970
+Danke für diese Information. Hat der Patient Hematomie?
+
+302
+00:28:41,970 --> 00:28:57,970
+Er beschreibt dunkle Urin. Ich habe es ihm gefragt, ob sie Blut im Urin bemerkt haben. Er sagte nur dunkle Urin.
+
+303
+00:28:57,970 --> 00:29:10,970
+Sie haben gesagt, dass der Patient mehrere Mal eine Hausarztin besucht hat.
+
+304
+00:29:10,970 --> 00:29:19,970
+Hat der Patient eine bekannte Krankheit?
+
+305
+00:29:20,970 --> 00:29:35,970
+Bisher wurde keine feste Diagnose gestellt. Sein Hausarzt hat ihm gesagt, sie seien alte Menschen. Das ist ganz normal.
+
+306
+00:29:35,970 --> 00:29:46,970
+Ganz normal. Aber jetzt hat der Patient Fieber, Dysurie, Polokurie und manchmal Hematomie.
+
+307
+00:29:47,970 --> 00:29:58,970
+Er hat eine Prostatik mit Systeme und Prostatik.
+
+308
+00:29:58,970 --> 00:30:04,970
+Ich habe die Prostatik mit einem Gewichtabnahme gesagt.
+
+309
+00:30:06,970 --> 00:30:15,970
+Welche Therapie haben Sie erst begonnen?
+
+310
+00:30:16,970 --> 00:30:33,970
+Die Therapie besteht in der Entfernung des betroffenen Gewebes, der Prostatdose und zugehörigen Lymphknoten.
+
+311
+00:30:38,410 --> 00:30:43,410
+Eine Entschuldigung kann sein, oder?
+
+312
+00:30:44,410 --> 00:30:51,410
+Ich werde eine Urinprobe durchführen.
+
+313
+00:30:51,410 --> 00:30:57,410
+Ich werde die Entzündungswerte überprüfen.
+
+314
+00:30:57,410 --> 00:31:05,410
+Wenn er eine Entzündung oder Prostatik hat, werde ich eine Antibiotik und Therapie verabreichen.
+
+315
+00:31:05,410 --> 00:31:15,410
+Ich werde eine Blutkultur für diese Patienten abnehmen.
+
+316
+00:31:17,410 --> 00:31:27,410
+Wenn er Fieber hat, werde ich eine Blutkultur und Untersuchungen durchführen.
+
+317
+00:31:28,410 --> 00:31:42,410
+Wie unterscheiden Sie sich zwischen Akutapiolenephritis und Akutaprostatitis?
+
+318
+00:31:44,410 --> 00:31:51,410
+Akutapiolenephritis erwarten wir die Schmerzen im ländlichen Plankenbereich.
+
+319
+00:31:51,410 --> 00:31:59,410
+Wir können eine Prostatflüssigkeit entnehmen.
+
+320
+00:31:59,410 --> 00:32:07,410
+Wir können eine Prostatflüssigkeit entnehmen.
+
+321
+00:32:08,410 --> 00:32:18,930
+Prostatflüssigkeit entnehmen.
+
+322
+00:32:18,930 --> 00:32:26,930
+Das ist eine Prostatflüssigkeit.
+
+323
+00:32:32,930 --> 00:32:38,930
+Möchten Sie diese Patienten durchführen?
+
+324
+00:32:38,930 --> 00:32:44,930
+Eine CT ist ein Symbol.
+
+325
+00:32:48,930 --> 00:32:54,930
+Können Sie uns die Computer Tomographie erklären?
+
+326
+00:32:54,930 --> 00:33:00,930
+Die Computer Tomographie ist eine bildgebende Methode.
+
+327
+00:33:00,930 --> 00:33:07,930
+Mit der können wir Organe, Gewebe und Knochen beurteilen.
+
+328
+00:33:07,930 --> 00:33:12,930
+Mit Hilfe von Röntgenstrahlung.
+
+329
+00:33:12,930 --> 00:33:18,930
+Es enthält Röntgenstrahlung, aber nicht enorm.
+
+330
+00:33:18,930 --> 00:33:26,930
+Vor der Untersuchung sollten Sie nicht vorbereiten.
+
+331
+00:33:26,930 --> 00:33:34,930
+Nach der Untersuchung können Sie Ihr gewohntes Leben vorsetzen.
+
+332
+00:33:34,930 --> 00:33:40,930
+Das ist eine Schmerzfreie Untersuchung.
+
+333
+00:33:40,930 --> 00:33:48,910
+Sie liegen ein Licht.
+
+334
+00:33:48,910 --> 00:33:54,910
+Der Licht bewegt sich in einer ringformigen Maschine.
+
+335
+00:33:54,910 --> 00:34:04,910
+Wenn Sie Angst haben, können Sie mir eine Beruhigungsmittel geben.
+
+336
+00:34:04,910 --> 00:34:13,700
+Das ist alles.
+
+337
+00:34:13,700 --> 00:34:28,380
+Hat der Patient Angst vor Prostatkarsenome?
+
+338
+00:34:28,380 --> 00:34:34,380
+Ja, sein Vater ist an Prostatkarsenome verstorben.
+
+339
+00:34:34,380 --> 00:34:40,380
+Sie leidet an der Suri und schmissen Lücken.
+
+340
+00:34:40,380 --> 00:34:50,380
+Er hat Angst davor.
+
+341
+00:34:50,380 --> 00:34:56,380
+Hat der Patient Geschwister?
+
+342
+00:34:56,380 --> 00:35:06,380
+Er hat zwei Geschwister, aber keinen Kontakt mit ihnen.
+
+343
+00:35:06,380 --> 00:35:16,290
+Gibt es andere Fragen?
+
+344
+00:35:16,290 --> 00:35:38,460
+Ja, um meine Verdachtstheorie zu bestätigen, würde ich eine Prostatebiopsie durchführen.
+
+345
+00:35:38,460 --> 00:35:52,830
+Bei histologischen Untersuchungen können wir diese Krankheit diagnostizieren.
+
+346
+00:35:52,830 --> 00:35:56,830
+Wie?
+
+347
+00:35:56,830 --> 00:36:00,830
+Unter Ultraschall.
+
+348
+00:36:00,830 --> 00:36:06,830
+Jetzt oder nach der Infektion?
+
+349
+00:36:06,830 --> 00:36:18,740
+Ich bin mir nicht sicher.
+
+350
+00:36:18,740 --> 00:36:24,740
+Das ist genug für uns.
+
+351
+00:36:24,740 --> 00:36:32,740
+Guten Abend Herr Prost. Heute habe ich einen neuen Patienten aufgenommen.
+
+352
+00:36:32,740 --> 00:36:36,740
+Ich würde Ihnen gerne den Patienten vorstellen.
+
+353
+00:36:36,740 --> 00:36:38,740
+Haben Sie kurz Zeit für mich?
+
+354
+00:36:38,740 --> 00:36:40,740
+Natürlich, bitte schön.
+
+355
+00:36:40,740 --> 00:36:44,740
+Es handelt sich um Josef Meister.
+
+356
+00:36:44,740 --> 00:36:58,740
+Er ist 72 Jahre alt, 1,68 Meter groß und 59 Kilogramm schwer.
+
+357
+00:36:58,740 --> 00:37:13,740
+Der Patient stellt sich heute bei uns wegen seit drei bis fünf Monaten bestehender, dauerhafter, dumpfer, steckender Durchsalge ohne Strahlung vor.
+
+358
+00:37:13,740 --> 00:37:23,740
+Der Patient hat die Schmerzen plötzlich aufgetreten und wurde in der Zeit schlimmer.
+
+359
+00:37:23,740 --> 00:37:31,740
+Er erwähnt, dass die Schmerzen bei Bewegung schlimmer werden.
+
+360
+00:37:31,740 --> 00:37:40,740
+Er klagt über Fatigue, Nektorie, Dysurie und Dunkelurin wie Hematurie.
+
+361
+00:37:40,740 --> 00:37:54,740
+Außerdem gibt er an, dass er abgeschwachte und gespaltene Harnstatt und sowie das gefühlte Restharnbildung bemägt habe.
+
+362
+00:37:54,740 --> 00:38:00,740
+Der Patient hat deswegen bei ihrem Arzt viele Mal gewesen.
+
+363
+00:38:00,740 --> 00:38:06,740
+Der Hausarzt hat ihm gesagt, dass es normal ist.
+
+364
+00:38:06,740 --> 00:38:14,740
+Die Einnahme von Ibuprofen 600 Milligramm hat keine Verbesserung gebracht.
+
+365
+00:38:14,740 --> 00:38:22,740
+Der Patient berichtet über eine Gewichtabnahme von 10 Kilogramm innerhalb von sechs Monaten.
+
+366
+00:38:22,740 --> 00:38:29,740
+Die Frage nach Hautfarbeveränderung, Yucrease, Noise und Emesis wurde verneint.
+
+367
+00:38:30,740 --> 00:38:37,740
+Die vegetative Anamnese ist unaufällig bis auf Pyrexie und Insomnik.
+
+368
+00:38:37,740 --> 00:38:47,740
+An Vorerkrankungen nannte er seit zehn Jahren arteriöse, bestehende arteriöse Hypertonik
+
+369
+00:38:47,740 --> 00:38:58,740
+und 25 Jahren bestehende chronische Obstruktur Lungenerkrankungen.
+
+370
+00:38:58,740 --> 00:39:04,740
+Er wurde nicht operiert.
+
+371
+00:39:04,740 --> 00:39:15,740
+Im Besuch auf Medikation nimmt er 5 Milligramm Delix einmal täglich an.
+
+372
+00:39:15,740 --> 00:39:25,740
+Er nimmt deswegen chronische Obstruktur Lungenerkrankungen, einen Spray an.
+
+373
+00:39:25,740 --> 00:39:33,740
+Aber die Anamnese sollte in der Werkstatt geklaut werden.
+
+374
+00:39:33,740 --> 00:39:38,740
+Die Anamnese ist unaufällig.
+
+375
+00:39:38,740 --> 00:39:45,740
+Er rauchte seit 40 Jahren zwei Schachter Zigaretten.
+
+376
+00:39:45,740 --> 00:39:54,740
+Er trinkte zwei bis drei Mal Provaque, ein Glas Wein oder eine Flasche Bier,
+
+377
+00:39:54,740 --> 00:39:58,740
+und hat Drogenkonsum würde verneint.
+
+378
+00:39:58,740 --> 00:40:13,740
+Im Besuch auf Familienanamnese teilt er mit, dass der Vater an Magen-Karsenom
+
+379
+00:40:13,740 --> 00:40:19,740
+mit 65 Jahren gestorben ist.
+
+380
+00:40:19,740 --> 00:40:35,740
+Und der Vater mit 85 Jahren an Prostat-Karsenoma verstorben.
+
+381
+00:40:35,740 --> 00:40:45,740
+Der Vater hatte arteriöse Hypertonik, die Mutter hatte Diabetes mellitus.
+
+382
+00:40:45,740 --> 00:40:52,740
+Er hatte zwei Geschwister, aber er hatte keinen Kontakt.
+
+383
+00:40:52,740 --> 00:40:55,740
+Er ist vollständig geimpft.
+
+384
+00:40:55,740 --> 00:41:00,740
+Die Anamnese ist unaufällig.
+
+385
+00:41:00,740 --> 00:41:07,740
+Der Patient ist verheiratet und hat drei Kinder.
+
+386
+00:41:07,740 --> 00:41:09,740
+Die Kinder sind gesund.
+
+387
+00:41:09,740 --> 00:41:12,740
+Er ist jetzt Rentner.
+
+388
+00:41:12,740 --> 00:41:18,740
+Er hat früher als Taxifahrer gearbeitet.
+
+389
+00:41:18,740 --> 00:41:22,740
+Er wohnt mit seiner Frau.
+
+390
+00:41:22,740 --> 00:41:27,740
+Ich gehe von einem Verdacht auf Prostat-Karsenoma aus.
+
+391
+00:41:27,740 --> 00:41:31,740
+Der Patient hat typische Symptome.
+
+392
+00:41:31,740 --> 00:41:40,740
+Der Patient leidet unter Niktur, Dysur und Hematur.
+
+393
+00:41:40,740 --> 00:41:55,740
+Außerdem hat der Patient schwache Harnstalle und das Gefühl der Resteharnbildung bemerkt.
+
+394
+00:41:55,740 --> 00:42:03,740
+Diese Symptome sprechen für Prostat-Karsenoma.
+
+395
+00:42:03,740 --> 00:42:11,740
+Außerdem gibt es sehr wichtige Symptome wie Gewichtabnahme.
+
+396
+00:42:11,740 --> 00:42:16,740
+Außerdem hat er viele Risikofaktoren.
+
+397
+00:42:17,740 --> 00:42:28,740
+Der Vater ist an Prostat-Karsenoma verstorben.
+
+398
+00:42:28,740 --> 00:42:31,740
+Er ist altem.
+
+399
+00:42:31,740 --> 00:42:39,740
+Diese Risikofaktoren sind sehr wichtig für Prostat-Karsenoma.
+
+400
+00:42:39,740 --> 00:42:44,740
+Die Rücken schmerzen.
+
+401
+00:42:44,740 --> 00:42:51,740
+Das ist nicht typisch für Prostat-Karsenoma.
+
+402
+00:42:51,740 --> 00:42:58,740
+Aber ich denke, das ist eine Methastase.
+
+403
+00:42:58,740 --> 00:43:06,740
+Prostat-Karsenoma ist über Knöcken.
+
+404
+00:43:06,740 --> 00:43:16,080
+Was würden Sie durchführen, um diese Situation aufzuschließen?
+
+405
+00:43:16,080 --> 00:43:19,080
+Ich meine eine Methastase.
+
+406
+00:43:19,080 --> 00:43:27,080
+Ich würde eine Synthographie durchführen, um eine Methastase zu schließen.
+
+407
+00:43:27,080 --> 00:43:29,080
+Zuerst?
+
+408
+00:43:29,080 --> 00:43:38,080
+Zuerst würde ich die Stete des Abdomens durchführen.
+
+409
+00:43:38,080 --> 00:43:40,080
+Vor der Stete?
+
+410
+00:43:40,080 --> 00:43:52,080
+Vor der Stete würde ich das Symbol eines Röntgenknöckens durchführen.
+
+411
+00:43:52,080 --> 00:43:57,080
+Sie haben recht.
+
+412
+00:43:57,080 --> 00:44:01,080
+Machen Sie sich bitte weiter.
+
+413
+00:44:01,080 --> 00:44:07,080
+Um meine Verdachtdiagnose zu bestätigen,
+
+414
+00:44:07,080 --> 00:44:18,080
+kommen die Differenzialdiagnose Prostat-Hypertrophy und Pylonephritis,
+
+415
+00:44:18,080 --> 00:44:24,080
+Divertikulitis in Betracht.
+
+416
+00:44:24,080 --> 00:44:28,080
+Warum denken Sie Divertikulitis?
+
+417
+00:44:28,080 --> 00:44:35,080
+Der Patient, ja, es ist nicht Symbol.
+
+418
+00:44:35,080 --> 00:44:40,080
+Warum denken Sie so?
+
+419
+00:44:40,080 --> 00:44:53,080
+Der Patient hat lange Geflügel, Rücken Schmerzen, aber der Patient hat Bauchschmerzen.
+
+420
+00:44:53,080 --> 00:44:58,080
+Was erwarten Sie bei der Divertikulitis?
+
+421
+00:44:58,080 --> 00:45:06,080
+Verstopfung, Obstipation und Durchfall und Bauchschmerzen.
+
+422
+00:45:06,080 --> 00:45:10,080
+Und vielleicht manchmal Fieber.
+
+423
+00:45:10,080 --> 00:45:14,080
+An welcher Seite war Sie eine Bauchschmerzen?
+
+424
+00:45:14,080 --> 00:45:20,080
+An der linken Seite, besonders an der linken Seite.
+
+425
+00:45:20,080 --> 00:45:29,080
+Um meine Verdachtdiagnose zu bestätigen, werde ich zunächst den Patienten die Pferdbetalparameter überwachen.
+
+426
+00:45:29,080 --> 00:45:35,080
+Dann werde ich den Patienten körperlich untersuchen.
+
+427
+00:45:35,080 --> 00:45:41,080
+Welche Parameter würden Sie kontrollieren?
+
+428
+00:45:41,080 --> 00:45:51,080
+Fieber, weil der Patient Fieber und Präzise nicht gemessen hat.
+
+429
+00:45:51,080 --> 00:45:59,080
+Zunächst werde ich das Fieber messen.
+
+430
+00:45:59,080 --> 00:46:05,080
+Dann wird der Patient vielleicht abtasten.
+
+431
+00:46:05,080 --> 00:46:14,080
+Wenn der Patient wegen Karsinoma anhängt, gibt es mögliche schnellere Pulse.
+
+432
+00:46:14,080 --> 00:46:23,080
+Der Patient hat auch arteriale Hypertonik.
+
+433
+00:46:23,080 --> 00:46:32,080
+Ich werde den Patienten Blutdruck messen.
+
+434
+00:46:32,080 --> 00:46:34,080
+Blutdruck?
+
+435
+00:46:34,080 --> 00:46:36,080
+Blutdruck messen, ja.
+
+436
+00:46:36,080 --> 00:46:41,080
+Welche Besymptome hat der Patient?
+
+437
+00:46:41,080 --> 00:46:57,080
+Der Patient hat Stülpfrost, Nackschweiß, Gewichtabnahme und Fieber.
+
+438
+00:46:57,080 --> 00:47:03,080
+Das Symptom spricht für Wettsymptome.
+
+439
+00:47:03,080 --> 00:47:05,080
+Okay, machen Sie weiter.
+
+440
+00:47:05,080 --> 00:47:10,080
+Ja, bei der körperlichen Untersuchung.
+
+441
+00:47:10,080 --> 00:47:20,080
+Auf der anderen Seite gibt es Abwärtsschäden, Loslassschmerzen und Druckschmerzen.
+
+442
+00:47:20,080 --> 00:47:25,080
+Warum? Hat der Patient Bauchschmerzen? Warum kontrollieren Sie diese Symptome?
+
+443
+00:47:26,080 --> 00:47:37,080
+Der Patient hat keine Bauchschmerzen, aber es ist möglich, irgendwelche Bauchprobleme auszuschließen.
+
+444
+00:47:37,080 --> 00:47:41,080
+Ich werde Bauch palpieren.
+
+445
+00:47:41,080 --> 00:47:43,080
+Wie zum Beispiel?
+
+446
+00:47:43,080 --> 00:47:49,080
+Zum Beispiel, Sie haben gesagt, Divertikulitis. Es ist möglich, ja.
+
+447
+00:47:49,080 --> 00:47:51,080
+Okay.
+
+448
+00:47:51,080 --> 00:47:59,080
+Bei der körperlichen Untersuchung werde ich den Patienten digital und rektal untersuchen.
+
+449
+00:47:59,080 --> 00:48:01,080
+Das ist sehr wichtig.
+
+450
+00:48:01,080 --> 00:48:14,080
+Ich würde dabei die Kontur, die Größe und die Konsistenz der Prostate beurteilen.
+
+451
+00:48:15,080 --> 00:48:22,080
+Das ist sehr besonders für den Patienten.
+
+452
+00:48:22,080 --> 00:48:34,080
+Neben den körperlichen Untersuchungen, werden die Laborunterzüge ein Symbol für die Diagnostik verwendet.
+
+453
+00:48:34,080 --> 00:48:50,080
+Dabei werde ich Blutbild, Entzündungsparameter, CRP, BSG und Prostate, spezifisch Antigen, PSA bestimmen lassen.
+
+454
+00:48:50,080 --> 00:48:56,080
+Dann werde ich Urin-Test und Urin-Kultur durchführen.
+
+455
+00:48:56,080 --> 00:49:03,080
+Dann werde ich den Patienten Ultraschall, Abdomanzonographie durchführen.
+
+456
+00:49:03,080 --> 00:49:10,080
+Dann werde ich den Patienten Trans-rektal-Zonographie durchführen.
+
+457
+00:49:10,080 --> 00:49:18,080
+Dann werde ich die Prostate-Probleme genau erkennen.
+
+458
+00:49:18,080 --> 00:49:28,080
+Zonographie durchführen und mögliche Prostate Probleme genau erkennen.
+
+459
+00:49:28,080 --> 00:49:37,080
+Ok, könntest du bitte Transrectal Zonographie erklären?
+
+460
+00:49:37,080 --> 00:49:47,080
+Ja, Transrectal Zonographie ist eine spezielle Unterzuchtung mit Ultra-Charbeln.
+
+461
+00:49:47,080 --> 00:50:02,080
+Dabei werden wir durch ein kleines Ultra-Charbel durchführen.
+
+462
+00:50:02,080 --> 00:50:12,080
+Und wir werden mit dem Ultra-Charbel eine Form von Prostate machen.
+
+463
+00:50:12,080 --> 00:50:25,080
+Das ist eine Schmerzlosunterzuchtung, aber es ist ein bisschen unangenehm.
+
+464
+00:50:25,080 --> 00:50:32,080
+Vor der Unterzuchtung sollte der Patient seine Plätze entwerfen.
+
+465
+00:50:32,080 --> 00:50:40,080
+Nach der Unterzuchtung gibt es keine bestimmten Bein-Schränkungen.
+
+466
+00:50:40,080 --> 00:50:45,080
+Man sollte die alte Wiggewand fortsetzen.
+
+467
+00:50:45,080 --> 00:50:50,080
+Es gibt keine bestimmten Kontrastmittel.
+
+468
+00:50:50,080 --> 00:50:55,080
+Es gibt keine bestimmten Kontraste.
+
+469
+00:50:55,080 --> 00:51:10,080
+Manche Fallen können stattdessen andere Unterzuchtungsmethoden wie CTDs, Abdomen oder andere.
+
+470
+00:51:10,080 --> 00:51:15,080
+Aber es ist abhängig von den Krankbildern.
+
+471
+00:51:15,080 --> 00:51:23,080
+Wie würden Sie diesen Patienten behandeln? Stationär oder abgeladen?
+
+472
+00:51:23,080 --> 00:51:28,080
+Der Patient hat jetzt Fieber und viel Angst.
+
+473
+00:51:28,080 --> 00:51:33,080
+Zuerst werde ich den Patienten stationär aufnehmen.
+
+474
+00:51:33,080 --> 00:51:48,080
+Ich werde ihm einen Beneszugang vorlegen und eine Flüssigkeit zuvor und Analgetika und gegebenenfalls Antibiotika verabreichen.
+
+475
+00:51:48,080 --> 00:51:56,080
+Ich werde den Patienten eine urologische Konzil anordnen, um meine Therapie zu optimieren.
+
+476
+00:51:56,080 --> 00:52:10,080
+Ich denke, die wichtige Therapie ist eine chirurgische, vielleicht eine mikrochirurgische Operation.
+
+477
+00:52:10,080 --> 00:52:18,080
+Aber es ist abhängig vom Stadium des Tumors.
+
+478
+00:52:18,080 --> 00:52:25,860
+Okay. Gut, vielen Dank, meine Kollegen.
+
+479
+00:52:25,860 --> 00:52:27,860
+Danke, Herr Oberhausen.
