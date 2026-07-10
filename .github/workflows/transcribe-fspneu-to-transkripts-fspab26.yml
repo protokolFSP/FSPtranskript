@@ -496,25 +496,21 @@ jobs:
         run: |
           set -euo pipefail
 
+          found=0
+
           while IFS= read -r -d '' file; do
-            rel="$(python - "$file" <<'PY'
-          import sys
-          from pathlib import Path
+            case "$file" in
+              */artifact_out/*) ;;
+              *)
+                echo "Skipping non-artifact file: $file"
+                continue
+                ;;
+            esac
 
-          path = Path(sys.argv[1])
-          parts = path.parts
+            rel="${file#*/artifact_out/}"
 
-          try:
-              idx = parts.index("artifact_out")
-          except ValueError:
-              raise SystemExit(1)
-
-          print(Path(*parts[idx + 1:]).as_posix())
-          PY
-            )"
-
-            if [ -z "$rel" ]; then
-              echo "Skipping empty rel for $file"
+            if [ -z "$rel" ] || [ "$rel" = "$file" ]; then
+              echo "Skipping unresolved path: $file"
               continue
             fi
 
@@ -530,9 +526,14 @@ jobs:
 
             cp -f "$file" "$rel"
             echo "Merged: $rel"
+            found=1
           done < <(
             find artifacts -type f \( -name "*.txt" -o -name "*.srt" \) -print0
           )
+
+          if [ "$found" -eq 0 ]; then
+            echo "No transcript files found in downloaded artifacts."
+          fi
 
       - name: Commit and push
         shell: bash
@@ -558,7 +559,13 @@ jobs:
           }
 
           git add transcripts/
-          git commit -m "Add DE(medium) transcripts for FSP sources" || exit 0
+
+          if git diff --cached --quiet; then
+            echo "No transcript changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Add DE(medium) transcripts for FSP sources"
           retry git fetch origin "${GITHUB_REF_NAME}"
           retry git rebase "origin/${GITHUB_REF_NAME}"
           retry git push origin "HEAD:${GITHUB_REF_NAME}"
