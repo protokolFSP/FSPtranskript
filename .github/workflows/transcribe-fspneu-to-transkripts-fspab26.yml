@@ -71,7 +71,7 @@ jobs:
       max_parallel: ${{ steps.pick.outputs.max_parallel }}
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Build transcribe tool
         run: |
@@ -296,13 +296,13 @@ jobs:
           PY
 
       - name: Upload tool for matrix jobs
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: tooling
           path: tooling/transcribe_ia_whisper.py
           if-no-files-found: error
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 
@@ -395,10 +395,10 @@ jobs:
         item: ${{ fromJson(needs.prepare.outputs.matrix) }}
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Download tool
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           name: tooling
           path: tooling
@@ -408,12 +408,12 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.11"
 
       - name: Cache model downloads
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: |
             ~/.cache/huggingface
@@ -470,7 +470,7 @@ jobs:
           PY
 
       - name: Upload outputs
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: transcripts-${{ matrix.item.idx }}
           path: artifact_out/**
@@ -481,13 +481,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 0
           ref: ${{ github.ref_name }}
 
       - name: Download all transcript artifacts
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v8
         with:
           path: artifacts
 
@@ -499,14 +499,6 @@ jobs:
           found=0
 
           while IFS= read -r -d '' file; do
-            case "$file" in
-              */artifact_out/*) ;;
-              *)
-                echo "Skipping non-artifact file: $file"
-                continue
-                ;;
-            esac
-
             rel="${file#*/artifact_out/}"
 
             if [ -z "$rel" ] || [ "$rel" = "$file" ]; then
@@ -528,7 +520,7 @@ jobs:
             echo "Merged: $rel"
             found=1
           done < <(
-            find artifacts -type f \( -name "*.txt" -o -name "*.srt" \) -print0
+            find artifacts -path '*/artifact_out/*' -type f \( -name "*.txt" -o -name "*.srt" \) -print0
           )
 
           if [ "$found" -eq 0 ]; then
