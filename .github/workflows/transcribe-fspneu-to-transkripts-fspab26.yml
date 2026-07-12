@@ -540,7 +540,7 @@ jobs:
         uses: actions/upload-artifact@v7
         with:
           name: transcripts-${{ matrix.item.idx }}
-          path: artifact_out/**
+          path: artifact_out
           if-no-files-found: error
 
   merge_and_push:
@@ -558,7 +558,24 @@ jobs:
         uses: actions/download-artifact@v8
         with:
           pattern: transcripts-*
+          merge-multiple: false
           path: artifacts
+
+      - name: Verify downloaded transcript artifacts
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          echo "=== downloaded files ==="
+          find artifacts -type f | sort || true
+
+          artifact_file_count="$(find artifacts -type f | wc -l | tr -d ' ')"
+          echo "artifact_file_count=${artifact_file_count}"
+
+          if [ "${artifact_file_count}" = "0" ]; then
+            echo "No transcript artifacts were downloaded. Check failed transcribe jobs." >&2
+            exit 1
+          fi
 
       - name: Merge transcripts into repo
         id: merge
@@ -568,9 +585,6 @@ jobs:
 
           candidate_count=0
           merged_count=0
-
-          echo "=== candidate transcript files ==="
-          find artifacts -path '*/artifact_out/*' -type f \( -name "*.txt" -o -name "*.srt" \) -print | sort || true
 
           while IFS= read -r -d '' file; do
             candidate_count=$((candidate_count + 1))
@@ -595,7 +609,7 @@ jobs:
             echo "Merged: $rel"
             merged_count=$((merged_count + 1))
           done < <(
-            find artifacts -path '*/artifact_out/*' -type f \( -name "*.txt" -o -name "*.srt" \) -print0
+            find artifacts -type f -path '*/artifact_out/*' \( -name "*.txt" -o -name "*.srt" \) -print0
           )
 
           echo "candidate_count=${candidate_count}" >> "$GITHUB_OUTPUT"
@@ -604,16 +618,15 @@ jobs:
           echo "=== git status after merge ==="
           git status --short
 
+          if [ "${candidate_count}" = "0" ]; then
+            echo "Transcript artifacts downloaded, but no transcript files were found." >&2
+            exit 1
+          fi
+
       - name: Commit and push
         shell: bash
         run: |
           set -euo pipefail
-
-          candidate_count="${{ steps.merge.outputs.candidate_count }}"
-          merged_count="${{ steps.merge.outputs.merged_count }}"
-
-          echo "candidate_count=${candidate_count}"
-          echo "merged_count=${merged_count}"
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -623,11 +636,6 @@ jobs:
 
           if git diff --cached --quiet; then
             echo "No transcript changes to commit." >&2
-            if [ "${candidate_count}" = "0" ]; then
-              echo "No transcript artifacts were downloaded." >&2
-            else
-              echo "Transcript artifacts existed but no repo changes were staged." >&2
-            fi
             exit 1
           fi
 
@@ -638,7 +646,6 @@ jobs:
               echo "Pushed successfully."
               exit 0
             fi
-
             echo "Push failed (attempt ${attempt}) -> fetching/rebasing and retrying..."
             git fetch origin "${GITHUB_REF_NAME}"
             git rebase "origin/${GITHUB_REF_NAME}"
