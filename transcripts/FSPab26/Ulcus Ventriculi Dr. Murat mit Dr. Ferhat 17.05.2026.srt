@@ -1,0 +1,1315 @@
+1
+00:00:00,750 --> 00:00:02,750
+Guten Tag.
+
+2
+00:00:02,750 --> 00:00:05,750
+Hatte ich jetzt mein Name?
+
+3
+00:00:05,750 --> 00:00:10,750
+Ich bin der Diensthabende auf dieser Station
+
+4
+00:00:10,750 --> 00:00:14,750
+und würde mit Ihnen das Aufnahmegeschäft führen.
+
+5
+00:00:14,750 --> 00:00:18,750
+Wenn Sie Fragen haben oder etwas nicht verstehen,
+
+6
+00:00:18,750 --> 00:00:24,750
+bitte jederzeit können Sie mir jede Zeit stellen.
+
+7
+00:00:24,750 --> 00:00:26,750
+Sind Sie damit einverstanden?
+
+8
+00:00:26,750 --> 00:00:28,750
+Gerne.
+
+9
+00:00:28,750 --> 00:00:32,750
+Darf ich Ihren Namen erfahren?
+
+10
+00:00:32,750 --> 00:00:36,750
+Mein Name ist Schmidt, Paul Schmidt.
+
+11
+00:00:36,750 --> 00:00:41,750
+Schmidt, könnten Sie bitte Ihren Vornamen und Vornamen bestabeln?
+
+12
+00:00:41,750 --> 00:00:48,750
+Mein Vorname ist P wie Paul, A wie Anton, U wie Ulrich, L wie Ludwig
+
+13
+00:00:48,750 --> 00:00:58,750
+und mein Nachname ist Schmidt, S, C, H, M wie Martha, I wie Ida, D wie Dora, T wie Theodora.
+
+14
+00:00:58,750 --> 00:01:03,750
+Okay, Herr Paul, wie alt sind Sie und wann genau sind Sie geboren?
+
+15
+00:01:03,750 --> 00:01:09,750
+Ich bin 58 Jahre alt. Ich bin geboren am 14. März 1968.
+
+16
+00:01:09,750 --> 00:01:21,580
+Herr Schmidt, wie groß sind Sie und wie viel liegen Sie aktuell?
+
+17
+00:01:21,580 --> 00:01:33,070
+Ich bin 1,70 Meter groß und wiege aktuell 72 Kilogramm.
+
+18
+00:01:33,070 --> 00:01:39,070
+Okay, Herr Schmidt, was wird Sie zu uns heute? Wie kann ich Ihnen helfen?
+
+19
+00:01:39,070 --> 00:01:48,010
+Ich komme zu Ihnen, weil ich schon seit mehreren Wochen Schmerzen im Oberbauch habe.
+
+20
+00:01:48,010 --> 00:01:51,010
+Wo genau die Schmerzen?
+
+21
+00:01:51,010 --> 00:01:54,010
+Im Oberbauch, mittig.
+
+22
+00:01:54,010 --> 00:02:07,540
+Seit wann haben Sie diese Schmerzen? Sie haben gesagt mehrere Wochen, aber?
+
+23
+00:02:07,540 --> 00:02:10,540
+Ja, seit mehreren Wochen.
+
+24
+00:02:10,540 --> 00:02:20,540
+Okay. Wo genau, wie kann Sie diese Schmerzen beschreiben? Eher dumpf oder krampfartig oder sicher?
+
+25
+00:02:20,540 --> 00:02:22,540
+Das sind ja dumpfe brennende Schmerzen.
+
+26
+00:02:22,540 --> 00:02:24,540
+Brennende, okay.
+
+27
+00:02:24,540 --> 00:02:27,850
+Dumpfe brennende.
+
+28
+00:02:27,850 --> 00:02:29,850
+Brennende, okay.
+
+29
+00:02:29,850 --> 00:02:33,850
+Traten Sie die Schmerzen in anderen Körperteilen aus?
+
+30
+00:02:33,850 --> 00:02:37,600
+Nein.
+
+31
+00:02:37,600 --> 00:02:41,600
+Haben Sie bestimmte Auslöse bemerkt?
+
+32
+00:02:41,600 --> 00:02:47,100
+Ja, immer nach dem Essen habe ich das Problem.
+
+33
+00:02:47,100 --> 00:02:53,100
+Nach dem Essen. Nach dem bestimmten Essen oder allgemein?
+
+34
+00:02:53,100 --> 00:02:55,100
+Allgemein.
+
+35
+00:02:59,100 --> 00:03:14,900
+Und haben Sie, gibt es etwas, was die Schmerzen lindert oder verstärkt?
+
+36
+00:03:14,900 --> 00:03:27,300
+Wie stark sind die Schmerzen auf einer neuen Skala von 1 bis 10,
+
+37
+00:03:27,300 --> 00:03:33,300
+wobei 1 sehr leichte Schmerzen und 10 sehr starke Schmerzen bedeutet?
+
+38
+00:03:33,300 --> 00:03:36,300
+Ja, ungefähr so 5, 6.
+
+39
+00:03:36,300 --> 00:03:38,300
+5 bis 6.
+
+40
+00:03:38,300 --> 00:03:50,300
+Sie haben gesagt, nach dem Essen die Schmerzen verschlimmen. Jetzt 5 oder 6 oder immer?
+
+41
+00:03:50,300 --> 00:03:55,300
+Ja, jetzt habe ich aktuell wenig Schmerzen, weil ich seit gestern Nacht nichts mehr gegessen habe.
+
+42
+00:03:55,300 --> 00:04:01,890
+Aktuell wenig Schmerzen, okay.
+
+43
+00:04:01,890 --> 00:04:18,930
+Herr Schmidt, außer den Schmerzen leiden Sie unter anderem Beschwerden?
+
+44
+00:04:18,930 --> 00:04:20,930
+Übelkeit.
+
+45
+00:04:20,930 --> 00:04:25,400
+Ich habe manchmal noch Übelkeit, ja.
+
+46
+00:04:25,400 --> 00:04:30,940
+Müssen Sie schon erbrechen?
+
+47
+00:04:30,940 --> 00:04:36,080
+Erbrochen habe ich noch nicht, nein.
+
+48
+00:04:36,080 --> 00:04:38,080
+Ist Ihnen schwindelig?
+
+49
+00:04:38,080 --> 00:04:39,080
+Nein.
+
+50
+00:04:39,080 --> 00:04:46,340
+Haben Sie Fieber?
+
+51
+00:04:46,340 --> 00:04:47,340
+Nein.
+
+52
+00:04:47,340 --> 00:04:54,930
+Leiden Sie unter Schütterfrost, Nachtschweiß, Karchweiß?
+
+53
+00:04:54,930 --> 00:05:03,860
+Nein.
+
+54
+00:05:03,860 --> 00:05:09,240
+Okay. Wie ist Ihr Appetit, Herr Schmidt?
+
+55
+00:05:09,240 --> 00:05:14,240
+Ja, ich habe eigentlich guten Appetit, aber ich esse ein bisschen weniger in der letzten Zeit.
+
+56
+00:05:14,240 --> 00:05:22,220
+In letzter Zeit haben Sie Gewichtveränderungen bemerkt?
+
+57
+00:05:22,220 --> 00:05:27,720
+Ich habe etwas abgenommen, ja. Ich habe ungefähr 3 Kühle abgenommen.
+
+58
+00:05:27,720 --> 00:05:30,720
+Innerhalb welcher Zeitraum haben Sie?
+
+59
+00:05:30,720 --> 00:05:35,980
+Also 3 Wochen ungefähr.
+
+60
+00:05:35,980 --> 00:05:39,980
+Schlafen Sie gut oder haben Sie Schlafprobleme, Herr Schmidt?
+
+61
+00:05:39,980 --> 00:05:46,980
+Ich schlafe eigentlich ganz gut, ja.
+
+62
+00:05:46,980 --> 00:05:54,980
+Sind Ihre Schmerzen langsam aufgetreten oder eher plötzlich aufgetreten?
+
+63
+00:05:54,980 --> 00:05:55,980
+Also langsam.
+
+64
+00:05:55,980 --> 00:05:57,980
+Langsam.
+
+65
+00:06:00,980 --> 00:06:05,980
+Wie verändert die Schmerzen im Laufe der Zeit? Verschlimmer oder?
+
+66
+00:06:05,980 --> 00:06:07,980
+Schlimmer geworden, ja.
+
+67
+00:06:08,980 --> 00:06:20,280
+Deswegen diese Schmerzen? Haben Sie irgendwelche Medikamente ein oder waren Sie Hausarzt?
+
+68
+00:06:20,280 --> 00:06:26,590
+Ich war noch nicht beim Hausarzt. Ich habe Ibuprofen eingewiesen.
+
+69
+00:06:26,590 --> 00:06:30,590
+Ibuprofen. Wissen Sie die Dosierung?
+
+70
+00:06:30,590 --> 00:06:32,590
+600 Milligramm.
+
+71
+00:06:32,590 --> 00:06:41,590
+600. Sind die Ibuprofen mit Ihnen geholfen?
+
+72
+00:06:41,590 --> 00:06:48,100
+Ja, ein bisschen.
+
+73
+00:06:51,100 --> 00:06:56,020
+Haben Sie Probleme beim Wasserlasten?
+
+74
+00:06:56,020 --> 00:06:59,740
+Nein.
+
+75
+00:06:59,740 --> 00:07:01,740
+Oder mit dem Stuhlgang?
+
+76
+00:07:01,740 --> 00:07:02,740
+Nein.
+
+77
+00:07:02,740 --> 00:07:09,750
+Haben Sie Farbeveränderungen im Rind oder Stuhl?
+
+78
+00:07:09,750 --> 00:07:10,750
+Nein.
+
+79
+00:07:10,750 --> 00:07:11,750
+Bemerkt?
+
+80
+00:07:11,750 --> 00:07:21,300
+Nein.
+
+81
+00:07:21,300 --> 00:07:24,300
+Sie haben gesagt, dunfe und brennende Schmerzen.
+
+82
+00:07:24,300 --> 00:07:25,300
+Ja.
+
+83
+00:07:25,300 --> 00:07:29,300
+Bleiben Sie unter Saltbrennen oder Ausstoßen?
+
+84
+00:07:29,300 --> 00:07:31,300
+Nicht als Schlüssel.
+
+85
+00:07:31,300 --> 00:07:42,380
+Okay.
+
+86
+00:07:42,380 --> 00:07:45,380
+Bleiben Sie unter Husten oder Herzrasen?
+
+87
+00:07:45,380 --> 00:08:03,910
+Bleiben Sie unter Atemnot oder Brustschmerzen?
+
+88
+00:08:03,910 --> 00:08:04,910
+Nein.
+
+89
+00:08:04,910 --> 00:08:15,040
+Okay, Herr Schmidt.
+
+90
+00:08:16,040 --> 00:08:21,040
+Ich möchte wissen, ob Sie chronische Erkrankungen haben?
+
+91
+00:08:21,040 --> 00:08:23,830
+Bitte?
+
+92
+00:08:23,830 --> 00:08:28,830
+Haben Sie irgendwelche chronische Erkrankungen, zum Beispiel Bluthochdur?
+
+93
+00:08:28,830 --> 00:08:32,830
+Ja, ich habe einen Bandscheibenvorfall.
+
+94
+00:08:32,830 --> 00:08:39,640
+In welchem Bereich Bandscheibenvorfall?
+
+95
+00:08:39,640 --> 00:08:42,640
+In der Lendenwirbelsäule.
+
+96
+00:08:42,640 --> 00:08:46,010
+Lenden.
+
+97
+00:08:46,010 --> 00:08:47,010
+Okay.
+
+98
+00:08:47,010 --> 00:08:50,010
+Seit wann haben Sie diese Probleme?
+
+99
+00:08:50,010 --> 00:08:56,010
+Schon seit fünf Jahren jetzt.
+
+100
+00:08:56,010 --> 00:08:57,010
+Okay.
+
+101
+00:08:57,010 --> 00:09:01,010
+Wie behandelt diese Krankheit?
+
+102
+00:09:01,010 --> 00:09:08,340
+Also ich nehme immer Ibuprofen ein und Physiotherapie.
+
+103
+00:09:08,340 --> 00:09:15,060
+Manchmal macht der Orthopäde auch Spritzen.
+
+104
+00:09:15,060 --> 00:09:16,060
+Okay.
+
+105
+00:09:16,060 --> 00:09:19,060
+Haben Sie andere chronische Erkrankungen?
+
+106
+00:09:19,060 --> 00:09:20,060
+Nein.
+
+107
+00:09:20,060 --> 00:09:26,060
+Ich habe wenig Cholesterinerhöhung, aber der Haushalt meint, das wäre noch im Rahmen.
+
+108
+00:09:26,060 --> 00:09:35,150
+Herr Schmidt, würden Sie schon mal operieren?
+
+109
+00:09:35,150 --> 00:09:46,900
+Ich wurde am Knie operiert vor 20 Jahren ungefähr an einem Lineskos-Problem.
+
+110
+00:09:46,900 --> 00:09:52,900
+Ist das Arthroskopie oder offene Operation?
+
+111
+00:09:52,900 --> 00:09:56,900
+Das wurde nicht aufgeschnitten.
+
+112
+00:09:56,900 --> 00:10:02,900
+Das war mit so einer Kamera und so haben wir das gemacht.
+
+113
+00:10:02,900 --> 00:10:03,900
+Okay.
+
+114
+00:10:03,900 --> 00:10:08,820
+Noch etwas Operationen?
+
+115
+00:10:08,820 --> 00:10:10,820
+Nein.
+
+116
+00:10:10,820 --> 00:10:13,820
+Gut.
+
+117
+00:10:13,820 --> 00:10:19,820
+Nehmen Sie regelmäßig außer Ibuprofen irgendeine andere Medikamente ein?
+
+118
+00:10:19,820 --> 00:10:20,820
+Nein.
+
+119
+00:10:23,820 --> 00:10:28,820
+Sie nehmen immer 600 mg Ibuprofen oder?
+
+120
+00:10:28,820 --> 00:10:29,820
+Genau.
+
+121
+00:10:29,820 --> 00:10:36,060
+Wie häufig nehmen Sie täglich?
+
+122
+00:10:36,060 --> 00:10:42,670
+Ein bis zwei Mal am Tag.
+
+123
+00:10:42,670 --> 00:10:46,230
+Okay.
+
+124
+00:10:46,230 --> 00:10:48,230
+Herr Schmidt, brauchen Sie?
+
+125
+00:10:48,230 --> 00:10:50,230
+Nein.
+
+126
+00:10:50,230 --> 00:10:53,230
+Trinken Sie Alkohol?
+
+127
+00:10:53,230 --> 00:10:56,230
+Ja, ich trinke Alkohol, ja.
+
+128
+00:10:56,230 --> 00:11:02,230
+Wie viel trinken Sie und seit wann trinken Sie Alkohol?
+
+129
+00:11:02,230 --> 00:11:05,230
+Ich habe schon immer Alkohol getrunken.
+
+130
+00:11:05,230 --> 00:11:09,230
+Seit meiner Jugend trinke ich schon Alkohol, aber ich trinke nicht viel.
+
+131
+00:11:09,230 --> 00:11:15,230
+Ich trinke vielleicht vier, fünf Flaschen in der Woche Bier.
+
+132
+00:11:15,230 --> 00:11:17,230
+Vier, fünf Flaschen Bier?
+
+133
+00:11:17,230 --> 00:11:26,580
+Nach dem Feierabend in der Woche.
+
+134
+00:11:26,580 --> 00:11:29,580
+Okay.
+
+135
+00:11:29,580 --> 00:11:33,580
+Denken Sie bitte nicht persönlich, aber das ist eine rote Frage.
+
+136
+00:11:33,580 --> 00:11:35,580
+Konsumieren Sie Drogen?
+
+137
+00:11:35,580 --> 00:11:41,090
+Nein.
+
+138
+00:11:41,090 --> 00:11:45,090
+Haben Sie Allergien oder Unverträglichkeiten, Herr Schmidt?
+
+139
+00:11:45,090 --> 00:11:50,470
+Bitte?
+
+140
+00:11:50,470 --> 00:11:53,470
+Haben Sie Allergien oder Unverträglichkeiten?
+
+141
+00:11:53,470 --> 00:11:58,490
+Nicht das ich wüsste, nein.
+
+142
+00:11:58,490 --> 00:12:01,490
+Sind Sie vollständig geimpft?
+
+143
+00:12:01,490 --> 00:12:03,490
+Ich glaube schon, ja.
+
+144
+00:12:03,490 --> 00:12:09,560
+Waren Sie in letzter Zeit im Ausland?
+
+145
+00:12:09,560 --> 00:12:10,560
+Nein.
+
+146
+00:12:10,560 --> 00:12:16,190
+Treiben Sie regelmäßig Sport?
+
+147
+00:12:16,190 --> 00:12:17,190
+Leider nicht.
+
+148
+00:12:17,190 --> 00:12:26,030
+Ich vermute das wegen dieser Knieprobleme, oder?
+
+149
+00:12:26,030 --> 00:12:29,030
+Ich glaube eher Faulheit.
+
+150
+00:12:29,030 --> 00:12:41,500
+Herr Schmidt, in Ihrer Familie, besonders Vater, Mutter oder Geschwister,
+
+151
+00:12:41,500 --> 00:12:45,500
+haben Sie chronische Erkrankungen?
+
+152
+00:12:45,500 --> 00:12:48,500
+Also mein Vater und meine Mutter leben nicht mehr.
+
+153
+00:12:48,500 --> 00:12:50,500
+Sie sind beide verstorben.
+
+154
+00:12:50,500 --> 00:12:52,500
+Oh, es tut mir leid.
+
+155
+00:12:52,500 --> 00:12:54,500
+Ja, die waren schon alt.
+
+156
+00:12:54,500 --> 00:13:01,810
+Mein Bruder hatte einen Herzinfarkt jetzt vor drei Jahren.
+
+157
+00:13:01,810 --> 00:13:06,820
+Meine Schwester hat eigentlich keine Erkrankungen.
+
+158
+00:13:06,820 --> 00:13:14,250
+Wissen Sie, woran Ihre Eltern gestorben sind?
+
+159
+00:13:14,250 --> 00:13:17,250
+Mein Vater hatte einen Schlaganfall.
+
+160
+00:13:17,250 --> 00:13:21,300
+Meine Mutter hatte Brustkrebs.
+
+161
+00:13:21,300 --> 00:13:34,140
+Brustkrebs.
+
+162
+00:13:34,140 --> 00:13:35,140
+Brustkrebs.
+
+163
+00:13:35,140 --> 00:13:45,420
+Herr Schmidt, sind Sie verheiratet und haben Sie Kinder?
+
+164
+00:13:45,420 --> 00:13:50,220
+Ich habe zwei Kinder und eine Frau.
+
+165
+00:13:50,220 --> 00:13:57,840
+Leben Sie mit Ihrer Familie zusammen?
+
+166
+00:13:57,840 --> 00:13:58,840
+Ja.
+
+167
+00:13:58,840 --> 00:14:06,420
+Was sind Sie vom Beruf, Herr Schmidt?
+
+168
+00:14:06,420 --> 00:14:08,420
+Ich bin Elektriker.
+
+169
+00:14:08,420 --> 00:14:10,420
+Elektriker.
+
+170
+00:14:10,420 --> 00:14:15,420
+Haben Sie Schadresse bei der Arbeit?
+
+171
+00:14:15,420 --> 00:14:17,420
+Wie immer, normal.
+
+172
+00:14:17,420 --> 00:14:32,890
+Okay.
+
+173
+00:14:32,890 --> 00:14:44,190
+Herr Schmidt, Sie haben seit ein paar Wochen Überbruchschmerzen.
+
+174
+00:14:44,190 --> 00:14:52,190
+Diese Schmerzen sind dunkel und brennend und mit keinem Ausstrahlen.
+
+175
+00:14:52,190 --> 00:14:59,190
+Und Sie haben gesagt, nach dem Essen, diese Schmerzen verschieben.
+
+176
+00:14:59,190 --> 00:15:07,460
+Sie haben dagegen immer vorfahren eingenommen.
+
+177
+00:15:07,460 --> 00:15:14,460
+Herr Schmidt, ich habe mit meinen Fragen fertig.
+
+178
+00:15:14,460 --> 00:15:18,460
+Möchten Sie etwas hinzufügen oder fragen Sie an mich?
+
+179
+00:15:18,460 --> 00:15:20,710
+Nein.
+
+180
+00:15:20,710 --> 00:15:23,710
+Vielen Dank für dieses Analysegespräch.
+
+181
+00:15:23,710 --> 00:15:32,710
+Herr Schmidt, bitte warten Sie hier und legen Sie auf die Liege.
+
+182
+00:15:32,710 --> 00:15:37,710
+Ich komme zurück für Sie körperliche Untersuchungen.
+
+183
+00:15:37,710 --> 00:15:39,710
+Vielen Dank.
+
+184
+00:15:39,710 --> 00:15:47,760
+Bis gleich.
+
+185
+00:15:47,760 --> 00:15:50,760
+War viel freigestimmt. Bitte schön.
+
+186
+00:15:50,760 --> 00:15:54,760
+Herr Schmidt, leiden Sie unter Schluchstörungen?
+
+187
+00:15:54,760 --> 00:15:55,760
+Nein.
+
+188
+00:15:55,760 --> 00:16:01,760
+Und nehmen Sie Ibuprofen mit nuchteren Magen oder Vollmagen?
+
+189
+00:16:01,760 --> 00:16:02,760
+Mit was?
+
+190
+00:16:02,760 --> 00:16:08,760
+Nehmen Sie Ibuprofen mit nuchteren Magen oder Vollmagen?
+
+191
+00:16:08,760 --> 00:16:11,760
+Das ist unterschiedlich. So wie Schmerzen haben.
+
+192
+00:16:11,760 --> 00:16:15,760
+Und keine Magen-Säure haben?
+
+193
+00:16:15,760 --> 00:16:17,760
+Nein.
+
+194
+00:16:17,760 --> 00:16:19,760
+Danke.
+
+195
+00:16:19,760 --> 00:16:27,350
+Darf ich?
+
+196
+00:16:27,350 --> 00:16:29,350
+Bitte schön.
+
+197
+00:16:29,350 --> 00:16:31,350
+Was essen Sie normalerweise täglich?
+
+198
+00:16:31,350 --> 00:16:34,730
+Wie meinen Sie das?
+
+199
+00:16:34,730 --> 00:16:38,730
+Wie sind Ihre Essgehornheiten?
+
+200
+00:16:38,730 --> 00:16:40,730
+Gut.
+
+201
+00:16:40,730 --> 00:16:42,730
+Aber was essen Sie?
+
+202
+00:16:42,730 --> 00:16:46,010
+Wie meinen Sie, was esse ich?
+
+203
+00:16:46,010 --> 00:16:49,010
+Zum Beispiel Fleisch.
+
+204
+00:16:49,010 --> 00:16:54,770
+Ja, esse ich. Ich esse alles.
+
+205
+00:16:54,770 --> 00:17:13,520
+Herr Schmidt, leiden Sie auch die Unterblähungen?
+
+206
+00:17:13,520 --> 00:17:17,790
+Manchmal, aber nicht immer.
+
+207
+00:17:17,790 --> 00:17:19,790
+Danke.
+
+208
+00:17:19,790 --> 00:17:28,670
+Darf ich?
+
+209
+00:17:28,670 --> 00:17:30,670
+Bitte schön.
+
+210
+00:17:30,670 --> 00:17:33,670
+Wie viele Kissen brauchen Sie beim Schlafen?
+
+211
+00:17:33,670 --> 00:17:43,060
+Ein Kiss.
+
+212
+00:17:43,060 --> 00:17:44,060
+Darf ich?
+
+213
+00:17:44,060 --> 00:17:45,060
+Bitte schön.
+
+214
+00:17:45,060 --> 00:17:51,060
+Sind die Schmerzen dauerhaft da oder treten Sie nur nach dem Essen auf?
+
+215
+00:17:51,060 --> 00:17:53,060
+Hauptsächlich nach dem Essen.
+
+216
+00:17:53,060 --> 00:17:57,060
+Wie lange dauern die Schmerzen?
+
+217
+00:17:57,060 --> 00:18:01,060
+Ja, schon so 2-3 Stunden meistens.
+
+218
+00:18:01,060 --> 00:18:05,060
+Nennen Sie sie scharfig?
+
+219
+00:18:05,060 --> 00:18:07,060
+Normal.
+
+220
+00:18:07,060 --> 00:18:09,060
+Danke.
+
+221
+00:18:09,060 --> 00:18:26,630
+Trinken Sie viel Kaffee?
+
+222
+00:18:26,630 --> 00:18:28,630
+Ja.
+
+223
+00:18:28,630 --> 00:18:30,630
+Wie viel?
+
+224
+00:18:30,630 --> 00:18:31,630
+Viel.
+
+225
+00:18:31,630 --> 00:18:36,060
+Zum Beispiel täglich?
+
+226
+00:18:36,060 --> 00:18:38,060
+Wie viele Tassen?
+
+227
+00:18:38,060 --> 00:18:40,060
+4-5 Tassen am Tag schon.
+
+228
+00:18:40,060 --> 00:18:42,060
+Okay.
+
+229
+00:18:42,060 --> 00:18:52,580
+Dann fangen wir an.
+
+230
+00:18:52,580 --> 00:18:54,580
+Ja.
+
+231
+00:18:54,580 --> 00:18:56,580
+Guten Tag Herr Oberarzt.
+
+232
+00:18:56,580 --> 00:19:01,580
+Ich habe einen neuen Patienten aufgenommen und möchte Ihnen diesen Falkurs vorstellen.
+
+233
+00:19:01,580 --> 00:19:03,580
+Wenn Sie Zeit haben, darf ich?
+
+234
+00:19:03,580 --> 00:19:06,580
+Ja klar, gerne.
+
+235
+00:19:06,580 --> 00:19:14,580
+Es geht um Herr Paul Schmidt, der 58-jährige Patientin.
+
+236
+00:19:14,580 --> 00:19:20,580
+Er ist 1,70 Meter groß und 2,72 Kilogramm schwer aktuell.
+
+237
+00:19:20,580 --> 00:19:27,580
+Der Patient täte sich heute bei uns wegen seit ein paar Wochen bestehender,
+
+238
+00:19:27,580 --> 00:19:35,580
+progredienter, langsam aufgetretener und besonders postbrandierer
+
+239
+00:19:35,580 --> 00:19:42,580
+verschiedenen Mörder epigastrischer Schmerzen vor.
+
+240
+00:19:42,580 --> 00:19:50,580
+Der Schmerzintest liegt bei 5 plus 6 von 10 auf einer Nummereschertskala.
+
+241
+00:19:50,580 --> 00:19:55,580
+Die Schmerzen sind im Laufe der Zeit schlimmer geworden.
+
+242
+00:19:55,580 --> 00:20:04,750
+Deswegen nimmt er Ibuprofen ein.
+
+243
+00:20:04,750 --> 00:20:14,750
+Diese Medikamente haben sich weniger erinnern gebracht.
+
+244
+00:20:14,750 --> 00:20:24,750
+Außerdem leidet er unter Nausea, aber musste er nicht Emesis.
+
+245
+00:20:24,750 --> 00:20:33,750
+Die Fragen nach Pirosis, Ruckthus, Vertigo, Fieber,
+
+246
+00:20:33,750 --> 00:20:45,420
+Nachtschweiß, Kaltschweiß und Tussis und Tachycardie würden verneint.
+
+247
+00:20:45,420 --> 00:20:48,420
+Er hat keinen Brutschmerzen.
+
+248
+00:20:48,420 --> 00:21:01,420
+Die Vegetative-Anamnese bis auf 2 Kilogramm innerhalb von 2 Wochen
+
+249
+00:21:01,420 --> 00:21:04,420
+Gebietverlust unauffällig.
+
+250
+00:21:04,420 --> 00:21:12,420
+An Vorerkrankungen leidet er seit 5 Jahren an Discosprolapsus
+
+251
+00:21:12,420 --> 00:21:15,420
+im Lendenwirbelsäulebereich.
+
+252
+00:21:15,420 --> 00:21:25,420
+Außerdem hat er erhochte Cholesterinwerte, aber es behandelt sich nicht mit Medikamenten.
+
+253
+00:21:25,420 --> 00:21:33,420
+An Voroperationen würde bei ihm im Alter von 20 Jahren
+
+254
+00:21:33,420 --> 00:21:39,420
+eine arthroskopische Menuskosoperation durchgeführt.
+
+255
+00:21:39,420 --> 00:21:49,420
+In der Medikament-Tesis-Anamnese berichtete er, dass er regelmäßig
+
+256
+00:21:49,420 --> 00:21:56,820
+Ibuprofen 600 mg ein- oder zweimal täglich ein.
+
+257
+00:21:56,820 --> 00:22:01,820
+Allergien und Unfalltäglichkeiten würden verneint.
+
+258
+00:22:01,820 --> 00:22:04,820
+Der Impfstatus ist vollständig.
+
+259
+00:22:04,820 --> 00:22:08,820
+Die Reiseanamnese ist unauffällig.
+
+260
+00:22:08,820 --> 00:22:12,820
+Er treibt nicht regelmäßig Sport.
+
+261
+00:22:12,820 --> 00:22:20,820
+In der Noxon-Anamnese berichtete er, dass er nicht rauchen.
+
+262
+00:22:20,820 --> 00:22:30,820
+Er trinkt seit Jugendlichen 4-5 Flaschen Bier jede Woche.
+
+263
+00:22:30,820 --> 00:22:33,820
+Drogenkonsum wurde verneint.
+
+264
+00:22:33,820 --> 00:22:41,820
+Besonders in der Familienanamnese sind beide Eltern gestorben.
+
+265
+00:22:41,820 --> 00:22:54,820
+Sein Vater hatte Apoplex gelitten und seine Mutter hatte Mammakarcinom gelitten.
+
+266
+00:22:54,820 --> 00:22:59,070
+Er hat einen Bruder.
+
+267
+00:22:59,070 --> 00:23:09,120
+Der Bruder hat einen Myokardinfarkt vor 3 Jahren gelitten.
+
+268
+00:23:09,120 --> 00:23:13,120
+Seine Schwester ist gesund.
+
+269
+00:23:13,120 --> 00:23:20,120
+Er ist verheiratet, hat zwei Kinder und lebt mit ihren Familien zusammen.
+
+270
+00:23:20,120 --> 00:23:23,120
+Er ist Elektriker vom Beruf.
+
+271
+00:23:23,120 --> 00:23:29,120
+Er hat Schätze bei der Arbeit, aber nicht so schlimm.
+
+272
+00:23:29,120 --> 00:23:32,120
+Er hat Oberarzt.
+
+273
+00:23:32,120 --> 00:23:39,120
+Anamnestischen Angaben deuten am ersten auf eine Ulkoskanzlekule hin.
+
+274
+00:23:39,120 --> 00:23:48,120
+Differenzierte Diagnostik kommen Gastritis, Ulkosklinik oder Magenkarsenom in Betracht.
+
+275
+00:23:49,120 --> 00:23:58,120
+Um meine Verdacht Diagnose zu bestätigen oder Differenzierte Diagnose auszuschließen,
+
+276
+00:23:58,120 --> 00:24:10,120
+werde ich den Patienten körperlich untersuchen, danach Blut vor Labor abnehmen und eine Abdomen-Sonographie durchführen.
+
+277
+00:24:11,120 --> 00:24:22,120
+Bei der körperlichen Untersuchung achte ich auf Peritonitis, Abverspannung, Loslassschmerzen,
+
+278
+00:24:22,120 --> 00:24:29,120
+Druckschmerzen, Hautfarbeveränderungen und Anämiescheiben.
+
+279
+00:24:29,120 --> 00:24:34,120
+Dann werde ich Blut vor Labor abnehmen.
+
+280
+00:24:34,120 --> 00:24:49,940
+Dabei werde ich Blutbild, Hämatoprotein, Hemoglobin, Cholesterin, Leber und Nieren bestimmen lassen.
+
+281
+00:24:49,940 --> 00:25:01,940
+Dann gebebenenfalls werde ich Oesophagos Gastrodiagnoskopie durchführen, um die Psychodiagnose zu bestätigen.
+
+282
+00:25:01,940 --> 00:25:14,090
+Und ja auch Gewebeprobe und Magensäureprobe entnehmen.
+
+283
+00:25:14,090 --> 00:25:21,090
+Also darum gegebenenfalls, sondern werde ich durchführen.
+
+284
+00:25:21,090 --> 00:25:24,090
+Ja, genau.
+
+285
+00:25:24,090 --> 00:25:32,090
+Dann werde ich Oesophagos Gastrodiagnoskopie durchführen, um die Therapie sicher zu bestellen.
+
+286
+00:25:32,090 --> 00:25:46,090
+Bei der Oesophagos Gastrodiagnoskopie werde ich auch Biopsie oder Magensäure einnehmen, um die Hylkopakterpylori festzustellen.
+
+287
+00:25:46,090 --> 00:25:55,090
+Und dann Ursachetherapien.
+
+288
+00:25:55,090 --> 00:25:57,090
+Ja.
+
+289
+00:25:57,090 --> 00:26:02,090
+Genau. Und was wäre Ihre Therapie?
+
+290
+00:26:02,090 --> 00:26:09,090
+Ja, als therapeutischer Maßnahmen werde ich den Patienten zunächst stationär aufnehmen.
+
+291
+00:26:09,090 --> 00:26:25,090
+Wenn wir einen Zugang legen, Flüssigkeit zuführen und Protonen, Pumpe, Hämatoprosol, 45 mg verabreichen.
+
+292
+00:26:25,090 --> 00:26:31,090
+Und ja, symptomatische Therapie einleiten.
+
+293
+00:26:31,090 --> 00:26:51,090
+Und dann eine Analystikung, aber keine steroidale Analystikung, sondern Paracetamol oder Methamisol.
+
+294
+00:26:51,090 --> 00:27:08,090
+Ja. Und nach der Akutbehandlung empfehle ich den Patienten Alkoholkehrens, gesunde Ernährung, Schätzes resultieren.
+
+295
+00:27:08,090 --> 00:27:18,120
+Was machen Sie denn, wenn die Proben positiv sind, die Sie bei der Magenspiegelung abnehmen?
+
+296
+00:27:18,120 --> 00:27:28,120
+Ja, wenn die Hylkopakterpylori vorhanden ist, werde ich Triple Therapie einleiten.
+
+297
+00:27:28,120 --> 00:27:41,120
+Protonen Pumpe, Hämatoprosol und Klaestromosin oder andere verschiedene Triple Therapie Methoden getestet.
+
+298
+00:27:41,120 --> 00:27:49,120
+Wissen Sie, welche momentan die empfohlenen Therapien sind, hier in Deutschland?
+
+299
+00:27:49,120 --> 00:28:01,120
+Momentan, ich bin nicht sicher, aber die französischen und italienischen Therapie Methoden, ja, glaube ich.
+
+300
+00:28:01,120 --> 00:28:09,120
+Die werden beide nicht mehr gemacht. Die werden beide nicht mehr gemacht. Sondern es gibt jetzt die Triple Therapie.
+
+301
+00:28:09,120 --> 00:28:26,680
+Ja, mit Bismuth eine Therapie gibt. Ich bin jetzt die Herr ganz genau. Ich werde gastroenterologische Konzil anfordern, um die Therapie zu optimieren.
+
+302
+00:28:26,680 --> 00:28:39,680
+Genau, ganz gut. Sehr gut. Was empfehlen Sie nochmal dem Patienten wegen der oder was denken Sie, warum hat er diese Ulkosventrucholie?
+
+303
+00:28:39,680 --> 00:28:58,680
+Ja, er trinkt Alkohol. Außerdem nimmt er seit fünf Jahren regelmäßig nichtstoraidelle Antiromatika in die Pupulofen.
+
+304
+00:28:58,680 --> 00:29:09,680
+Deswegen denke ich, diese nichtstoraidelle Antiromatika ist die Ursache von Ulkosventrucholie.
+
+305
+00:29:09,680 --> 00:29:18,680
+Ja, ganz genau. Was würden Sie als Alternative zu dieser nichtstoraidelle Antiromatikatherapie empfehlen?
+
+306
+00:29:18,680 --> 00:29:27,680
+Alternative Therapie ist Stereodaltherapie, aber es ist auch gefährlich mit Magen.
+
+307
+00:29:27,680 --> 00:29:45,680
+Ich empfehle Ihnen nichtstoraidelle Antiromatika mit Magenschutz oder mit Magenschutz.
+
+308
+00:29:45,680 --> 00:29:50,680
+Oder Sie können auch alternative Medikamente anordnen.
+
+309
+00:29:50,680 --> 00:29:59,680
+Statt NSAR können Sie auch überlegen, ob man auch Novo-Minsulfon zum Beispiel umswitcht.
+
+310
+00:29:59,680 --> 00:30:03,680
+Mit Amizol kann man vielleicht probieren.
+
+311
+00:30:03,680 --> 00:30:10,680
+Man sollte natürlich auch dann mit dem Orthopäden Rücksprache halten oder der Patient sollte Rücksprache halten,
+
+312
+00:30:10,680 --> 00:30:17,680
+damit eine Alternative Therapie für die Bandscheiben und Schmerzen weitergefüllt werden kann.
+
+313
+00:30:17,680 --> 00:30:23,680
+Er muss arbeiten, er hat Schmerzen, er muss irgendeine Schmerzmedikation erhalten.
+
+314
+00:30:23,680 --> 00:30:32,680
+Wichtig ist, wie Sie gesagt haben, die PPI-Therapie mit Pratoprazol oder Omeprazol.
+
+315
+00:30:32,680 --> 00:30:38,680
+Denn keine andere Möglichkeit besteht außer einer NSAR-Therapie.
+
+316
+00:30:38,680 --> 00:30:41,680
+Ja, genau.
+
+317
+00:30:41,680 --> 00:30:43,680
+Sehr gut.
+
+318
+00:30:43,680 --> 00:30:45,680
+Vielen Dank Herr Oberarzt.
+
+319
+00:30:45,680 --> 00:30:58,520
+Ich frag Ihnen. Gut gemacht. Super. Alles super. Gibt es Fragen? Einfacher Fall gewesen.
+
+320
+00:30:58,520 --> 00:31:00,520
+Sehr gut.
+
+321
+00:31:00,520 --> 00:31:01,520
+Vielen Dank.
+
+322
+00:31:01,520 --> 00:31:08,520
+Man kommt sehr oft vor in der Aufnahme, Notaufnahme, oft auch mit Teerstuhl zusammen.
+
+323
+00:31:08,520 --> 00:31:10,520
+Ja.
+
+324
+00:31:10,520 --> 00:31:16,520
+Viele haben Teerstuhl und da muss man auch an eine Blutung nachdenken, an einen Magen.
+
+325
+00:31:16,520 --> 00:31:21,520
+Ja, ich habe gefragt, ob Sie ein Stück bei der Veränderung haben.
+
+326
+00:31:21,520 --> 00:31:23,520
+Ja, alles richtig gemacht.
+
+327
+00:31:23,520 --> 00:31:28,520
+Ich habe morgen eine Prüfung in Stuttgart.
+
+328
+00:31:28,520 --> 00:31:32,520
+Ich drücke in die Daumen. Ich hoffe, das wird gut.
+
+329
+00:31:32,520 --> 00:31:34,520
+Vielen Dank.

@@ -1,0 +1,1379 @@
+1
+00:00:00,000 --> 00:00:11,000
+Guten Tag, mein Name ist Toprak. Ich bin zuständig Asistenzarzt. Ich würde mit Ihnen das Aufnahmegeschäft führen. Sind Sie damit verstanden?
+
+2
+00:00:11,000 --> 00:00:13,000
+Natürlich, gerne, bitte schön.
+
+3
+00:00:13,000 --> 00:00:20,000
+Bevor ich zu Ihrem aktuellen Beschwerden komme, muss ich noch ein paar Fragen zu Ihrem persönlichen Datum stellen.
+
+4
+00:00:20,000 --> 00:00:27,000
+Falls etwas unklar ist, bitte unterbrechen Sie mich. Wie heißen Sie denn?
+
+5
+00:00:27,000 --> 00:00:29,000
+Mein Name ist Thomas Schneider.
+
+6
+00:00:29,000 --> 00:00:34,000
+Können Sie Ihren Namen langsam und deutlich bestabieren?
+
+7
+00:00:34,000 --> 00:00:56,000
+Mein Name ist S.W. Siegfried, C.W. Cesar, H.W. Heinrich, N.W. Nordpol, E.W. Emil, I.W. Ida, D.W. Dora, E.W. Emil, R.W. Richard und mein Vorname T.W. Theodor, H.W. Heinrich, O.W. Otto, M.W. Maus, A.W. Anton, S.W. Siegfried.
+
+8
+00:00:56,000 --> 00:01:01,000
+Darf ich Sie Herrn Schneider ansprechen?
+
+9
+00:01:01,000 --> 00:01:02,000
+Schneider.
+
+10
+00:01:02,000 --> 00:01:03,000
+Schneider.
+
+11
+00:01:03,000 --> 00:01:07,000
+Herr Schneider, wie alt sind Sie?
+
+12
+00:01:07,000 --> 00:01:09,000
+Ich bin 58 Jahre alt.
+
+13
+00:01:09,000 --> 00:01:14,000
+58 Jahre alt. Wann sind Sie genau geboren?
+
+14
+00:01:14,000 --> 00:01:16,000
+1968.
+
+15
+00:01:16,000 --> 00:01:26,400
+Wie groß sind Sie?
+
+16
+00:01:26,400 --> 00:01:29,400
+Ich bin 1,75 Meter groß.
+
+17
+00:01:29,400 --> 00:01:37,190
+Wie schwer sind Sie?
+
+18
+00:01:37,190 --> 00:01:40,190
+Ich bin jetzt ungefähr 70 Kilogramm.
+
+19
+00:01:40,190 --> 00:01:48,190
+Sie haben Ihre Monat und Datum nicht gesagt. Können Sie Ihre Geburtsdatum mit Monat und Datum...
+
+20
+00:01:48,190 --> 00:01:51,190
+Ja, das ist der 14. März.
+
+21
+00:01:51,190 --> 00:01:53,190
+14. März, ok.
+
+22
+00:01:53,190 --> 00:01:57,820
+Was können Sie für uns tun?
+
+23
+00:01:57,820 --> 00:02:04,820
+Also ich komme dazu, weil ich seit 3 Monaten immer mehr Bauchschmerzen habe im Oberbauch.
+
+24
+00:02:04,820 --> 00:02:09,820
+Und ich habe leider schon 7 Kilo Gewicht verloren.
+
+25
+00:02:09,820 --> 00:02:14,820
+Ich bin auch sehr müde und habe wenig Appetit.
+
+26
+00:02:14,820 --> 00:02:27,700
+In welchem Zeitraum haben Sie dieses Gewicht verloren?
+
+27
+00:02:27,700 --> 00:02:29,700
+Seit 3 Monaten ungefähr.
+
+28
+00:02:29,700 --> 00:02:30,700
+3 Monate.
+
+29
+00:02:30,700 --> 00:02:36,700
+Ich habe früher 77 Kilo Gewicht gewogen. Ich habe jetzt nur noch 70 Kilo Gewicht verloren.
+
+30
+00:02:36,700 --> 00:02:42,700
+Ok. Ist die Beschwerden plötzlich angefangen?
+
+31
+00:02:42,700 --> 00:02:44,700
+Ja, schleichend.
+
+32
+00:02:44,700 --> 00:02:52,700
+Schleichend. Und hat die Beschwerden langsam schlimmer geworden?
+
+33
+00:02:52,700 --> 00:02:55,700
+Ja, es ist jetzt schlimmer geworden.
+
+34
+00:02:55,700 --> 00:03:16,560
+Könnten Sie Ihre Schmerzen genau beschreiben? Wie ist Ihre Schmerzen?
+
+35
+00:03:16,560 --> 00:03:22,560
+Also ich habe stechende Schmerzen im Oberbauch. Ich habe ein Druckgefühl.
+
+36
+00:03:22,560 --> 00:03:23,560
+Druckgefühl.
+
+37
+00:03:23,560 --> 00:03:26,560
+Genau. Und ich bin auch sehr schnell satt.
+
+38
+00:03:26,560 --> 00:03:28,560
+Sehr schnell satt.
+
+39
+00:03:28,560 --> 00:03:42,580
+Wie stark ist Ihre Schmerzen auf einer Schmerzenskala? Von 1 bis 10. Sehen ist unerträglich.
+
+40
+00:03:42,580 --> 00:03:46,580
+Ungefähr 5 bis 6.
+
+41
+00:03:46,580 --> 00:04:02,820
+5 bis 6. Die Schmerzen liegen im Oberbauch mittelsen oder direkt durchs Mittelsen.
+
+42
+00:04:02,820 --> 00:04:07,480
+Strahlen Sie Schmerzen irgendwo hinaus?
+
+43
+00:04:07,480 --> 00:04:09,480
+Nein.
+
+44
+00:04:09,480 --> 00:04:13,480
+In den Rücken oder irgendwas? Nein, ja?
+
+45
+00:04:13,480 --> 00:04:21,480
+Haben Sie besondere Abneigung gegen Essen? Ich meine Fett oder Fleisch?
+
+46
+00:04:21,480 --> 00:04:23,480
+Natürlich nein.
+
+47
+00:04:23,480 --> 00:04:29,480
+Nach dem Fettessen oder steigenden Schmerzen? Nein.
+
+48
+00:04:29,480 --> 00:04:36,680
+Ok.
+
+49
+00:04:36,680 --> 00:04:45,960
+Ist Ihnen die Farbeänderung der Augen aufgefallen?
+
+50
+00:04:45,960 --> 00:04:50,960
+Sie sind ein bisschen blasser geworden. Sie wirken etwas blasser.
+
+51
+00:04:50,960 --> 00:04:55,960
+Sie sind blasser. Aber die Augenfarbe? Ich meine die Augenfarbe auch?
+
+52
+00:04:55,960 --> 00:04:58,960
+Die Augenfarbe ist etwas blasser.
+
+53
+00:04:58,960 --> 00:05:02,960
+Blass. Keine gelbliche Änderung, ja?
+
+54
+00:05:02,960 --> 00:05:12,290
+Nein.
+
+55
+00:05:12,290 --> 00:05:16,290
+Fühlen Sie sich Müdigkeit bei Belastungen und Ruhe?
+
+56
+00:05:16,290 --> 00:05:21,290
+Generell. Generelle Müdigkeit habe ich.
+
+57
+00:05:21,290 --> 00:05:25,290
+Ist die Müdigkeit verschlimmert geworden?
+
+58
+00:05:25,290 --> 00:05:36,350
+Ja klar. Ich habe früher Sport gemacht. Ich kann aktuell keinen Sport mehr machen, weil ich sehr schnell müde bin.
+
+59
+00:05:36,350 --> 00:05:42,020
+Sind Sie müde auch seit 3 Monaten?
+
+60
+00:05:42,020 --> 00:05:50,020
+Ja, seit 3 Monaten nicht, aber seit 3 Wochen, 1,5 Wochen ungefähr.
+
+61
+00:05:50,020 --> 00:05:56,920
+Ok.
+
+62
+00:05:56,920 --> 00:05:58,920
+Haben Sie Schlafstörungen?
+
+63
+00:05:58,920 --> 00:06:01,920
+Nein, ich kann gut schlafen.
+
+64
+00:06:01,920 --> 00:06:03,920
+Leiden Sie Herzrasen und Herzschloppen?
+
+65
+00:06:03,920 --> 00:06:05,920
+Habe ich nicht bemerkt.
+
+66
+00:06:05,920 --> 00:06:07,920
+Haben Sie Atemnote?
+
+67
+00:06:07,920 --> 00:06:21,920
+Wenn ich mich belaste, ja. Wenn ich Treppen steige, dann habe ich manchmal, oder wenn ich Sport machen möchte, habe ich schnell Luftnot, aber auch Herzrasen, aber auch Müdigkeit sofort.
+
+68
+00:06:21,920 --> 00:06:27,920
+Ok. Wie viele Treppen könnten Sie beschwerden für ein Steigen?
+
+69
+00:06:27,920 --> 00:06:29,920
+Wie viele Treppen?
+
+70
+00:06:29,920 --> 00:06:31,920
+Ja, wie viele Treppen?
+
+71
+00:06:31,920 --> 00:06:33,920
+Habe ich nicht gezählt.
+
+72
+00:06:33,920 --> 00:06:35,920
+Bechwerden frei ist nicht...
+
+73
+00:06:35,920 --> 00:06:37,920
+Bechwerden habe ich nicht gezählt.
+
+74
+00:06:37,920 --> 00:06:39,920
+Meinen Sie Stockwerke?
+
+75
+00:06:39,920 --> 00:06:41,920
+Ja, ich meine die Stockwerke.
+
+76
+00:06:41,920 --> 00:06:49,840
+Ach so, ok. Das habe ich schon. 3-4 Stück. 4 Stück habe ich schon.
+
+77
+00:06:49,840 --> 00:06:53,840
+Ist Ihnen geschwollenes Bein aufgefallen?
+
+78
+00:06:53,840 --> 00:06:55,840
+Mit was?
+
+79
+00:06:55,840 --> 00:06:57,840
+Ist Ihnen geschwollenes Bein aufgefallen?
+
+80
+00:06:57,840 --> 00:07:04,450
+Nein, ich habe keine geschwollenes Bein.
+
+81
+00:07:04,450 --> 00:07:07,450
+Ist Ihnen ein Hautausschlag aufgefallen?
+
+82
+00:07:07,450 --> 00:07:09,450
+Habe ich nicht bemerkt, nein.
+
+83
+00:07:09,450 --> 00:07:28,790
+Ist Ihnen vor Erkrankungen bekannt?
+
+84
+00:07:28,790 --> 00:07:33,790
+Ich habe keine Beerkrankungen. Ich bin eigentlich sehr gesund und sehr sportlich.
+
+85
+00:07:33,790 --> 00:07:37,790
+Würden Sie einmal operieren?
+
+86
+00:07:37,790 --> 00:07:40,790
+Meine Mandeln sind als Kind rausgenommen worden.
+
+87
+00:07:40,790 --> 00:07:42,790
+Mandeln?
+
+88
+00:07:42,790 --> 00:07:44,790
+Mandeln, ja.
+
+89
+00:07:44,790 --> 00:07:55,100
+Nehmen Sie regelmäßig Medikamente rein?
+
+90
+00:07:55,100 --> 00:08:00,900
+Nein.
+
+91
+00:08:00,900 --> 00:08:02,900
+Rauchen Sie?
+
+92
+00:08:02,900 --> 00:08:04,900
+Nein.
+
+93
+00:08:04,900 --> 00:08:06,900
+Nehmen Sie Alkohol zu sich?
+
+94
+00:08:06,900 --> 00:08:08,900
+Gar nicht.
+
+95
+00:08:08,900 --> 00:08:10,900
+Gar nicht.
+
+96
+00:08:10,900 --> 00:08:14,900
+Nehmen Sie diese Frage nicht persönlich? Das ist eine routinische Frage.
+
+97
+00:08:14,900 --> 00:08:19,900
+Haben Sie Kontakt mit Drogen?
+
+98
+00:08:19,900 --> 00:08:21,900
+Nein.
+
+99
+00:08:21,900 --> 00:08:26,900
+Ist Ihnen Allergie oder Unverträglichkeit bekannt?
+
+100
+00:08:26,900 --> 00:08:29,900
+Bisher habe ich nie Probleme gehabt.
+
+101
+00:08:29,900 --> 00:08:34,110
+Okay.
+
+102
+00:08:34,110 --> 00:08:39,110
+Ich würde auch fragen, haben Sie Probleme beim Wasserlassen?
+
+103
+00:08:39,110 --> 00:08:46,900
+Nein.
+
+104
+00:08:46,900 --> 00:08:49,900
+Ist Ihnen aufgeblägtes Bauch aufgefallen?
+
+105
+00:08:49,900 --> 00:08:52,900
+Oder voll aufgeblägt?
+
+106
+00:08:52,900 --> 00:08:56,900
+Ab und zu habe ich das, aber nicht so oft.
+
+107
+00:08:56,900 --> 00:09:01,900
+Träten diese Aufblägen nach dem Essen oder bevor das Essen?
+
+108
+00:09:01,900 --> 00:09:06,900
+Habe ich nicht darauf geachtet, ehrlich gesagt.
+
+109
+00:09:06,900 --> 00:09:09,900
+Aber Sie leiden unter Aufblägen, ja?
+
+110
+00:09:09,900 --> 00:09:20,090
+Ja, manchmal. Nicht immer. Manchmal selten. Manchmal.
+
+111
+00:09:20,090 --> 00:09:25,090
+Wie ist Ihre Essgewöhnlichkeit? Sind Sie vegetarisch?
+
+112
+00:09:25,090 --> 00:09:27,090
+Nein. Ich esse alles.
+
+113
+00:09:27,090 --> 00:09:39,620
+Sie essen alles.
+
+114
+00:09:39,620 --> 00:09:42,620
+Haben Sie Übelkeit?
+
+115
+00:09:42,620 --> 00:09:48,620
+Manchmal. Nicht immer. Manchmal. Wenn ich diese Völlegefühle habe, habe ich auch manchmal Übelkeit.
+
+116
+00:09:48,620 --> 00:09:50,620
+Aber das ist nicht so oft.
+
+117
+00:09:50,620 --> 00:09:55,620
+Hängen Sie mit dem Essen zusammen oder nicht?
+
+118
+00:09:55,620 --> 00:09:59,990
+Weiß ich nicht. Habe ich nicht darauf geachtet.
+
+119
+00:09:59,990 --> 00:10:01,990
+Haben Sie einmal gebrochen?
+
+120
+00:10:01,990 --> 00:10:23,660
+Nein.
+
+121
+00:10:23,660 --> 00:10:29,660
+Ich würde gerne wissen, wie ist Ihre Eltern Gesundheitszustand?
+
+122
+00:10:29,660 --> 00:10:31,660
+Meine Eltern?
+
+123
+00:10:31,660 --> 00:10:33,660
+Ja, Ihr Vater und Mutter.
+
+124
+00:10:33,660 --> 00:10:35,660
+Mein Vater ist verstorben.
+
+125
+00:10:35,660 --> 00:10:37,660
+Woran?
+
+126
+00:10:37,660 --> 00:10:39,660
+Er ist mit 65 Jahren verstorben.
+
+127
+00:10:39,660 --> 00:10:41,660
+Woran Sie?
+
+128
+00:10:41,660 --> 00:10:43,660
+Er hatte einen Darmkrebs.
+
+129
+00:10:43,660 --> 00:10:45,660
+Darmkrebs?
+
+130
+00:10:45,660 --> 00:10:51,660
+Meine Mutter lebt noch. Meine Mutter ist im Altenheim. Sie ist demenzkrank.
+
+131
+00:10:51,660 --> 00:10:53,660
+Demenzkrank.
+
+132
+00:10:53,660 --> 00:10:56,660
+Haben Sie Geschwister?
+
+133
+00:10:56,660 --> 00:10:59,660
+Ich habe eine Schwester.
+
+134
+00:10:59,660 --> 00:11:02,660
+Wie ist Ihre Gesundheitszustand?
+
+135
+00:11:02,660 --> 00:11:07,660
+Gut. Sie hat ein bisschen Blutdruck, ein bisschen Zucker. Aber sonst geht es ihr eigentlich ganz gut.
+
+136
+00:11:07,660 --> 00:11:14,340
+Sind Sie verheiratet?
+
+137
+00:11:14,340 --> 00:11:16,340
+Ich bin verheiratet.
+
+138
+00:11:16,340 --> 00:11:17,340
+Haben Sie ein Kind?
+
+139
+00:11:17,340 --> 00:11:18,340
+Nein.
+
+140
+00:11:18,340 --> 00:11:20,340
+Sie wohnen mit Ihrer Frau?
+
+141
+00:11:20,340 --> 00:11:22,340
+Mit meiner Frau ist es so.
+
+142
+00:11:22,340 --> 00:11:24,340
+Sie haben kein Kind?
+
+143
+00:11:24,340 --> 00:11:28,930
+Ich habe kein Kind.
+
+144
+00:11:28,930 --> 00:11:30,930
+Was machen Sie für unberuflich?
+
+145
+00:11:30,930 --> 00:11:32,930
+Ich bin Architekt.
+
+146
+00:11:32,930 --> 00:11:41,380
+Waren Sie in den letzten sechs Monaten im Ausland?
+
+147
+00:11:41,380 --> 00:11:44,380
+Ja, ich bin regelmäßig im Ausland.
+
+148
+00:11:44,380 --> 00:11:46,380
+Wann waren Sie?
+
+149
+00:11:46,380 --> 00:11:49,380
+Vor zwei Monaten war ich in Frankreich.
+
+150
+00:11:49,380 --> 00:11:51,380
+Frankreich?
+
+151
+00:11:51,380 --> 00:11:53,380
+Frankreich.
+
+152
+00:11:53,380 --> 00:11:57,380
+Und außer der EU, außer der europäischen Länder waren Sie?
+
+153
+00:11:57,380 --> 00:12:02,380
+Ich war noch in den arabischen Emiraten. Vor sechs Monaten ungefähr.
+
+154
+00:12:02,380 --> 00:12:04,380
+In Irak, vor sechs Monaten?
+
+155
+00:12:04,380 --> 00:12:05,380
+Vor sechs Monaten, ja.
+
+156
+00:12:05,380 --> 00:12:07,380
+Nein, arabische Emirate.
+
+157
+00:12:07,380 --> 00:12:08,380
+Arabische Emirate.
+
+158
+00:12:08,380 --> 00:12:09,380
+Abu Dhabi.
+
+159
+00:12:09,380 --> 00:12:11,380
+Abu Dhabi, Entschuldigung.
+
+160
+00:12:11,380 --> 00:12:12,380
+Wann waren Sie da?
+
+161
+00:12:12,380 --> 00:12:14,380
+Vor sechs Monaten.
+
+162
+00:12:14,380 --> 00:12:19,170
+Vor sechs Monaten.
+
+163
+00:12:19,170 --> 00:12:21,170
+Sind Sie vollständig geimpft?
+
+164
+00:12:21,170 --> 00:12:23,170
+Ich denke ja.
+
+165
+00:12:23,170 --> 00:12:54,430
+Wie können Sie die Schmerzen? Die Schmerzen liegen fast gleich in der Magengruppe?
+
+166
+00:12:54,430 --> 00:12:59,500
+Im Oberbau.
+
+167
+00:12:59,500 --> 00:13:01,500
+Bitte?
+
+168
+00:13:01,500 --> 00:13:03,500
+Im Oberbau.
+
+169
+00:13:03,500 --> 00:13:06,500
+Okay. Haben Sie auch die Sodbrennen?
+
+170
+00:13:06,500 --> 00:13:08,500
+Nein.
+
+171
+00:13:08,500 --> 00:13:31,680
+Ist Ihre Frau aufgefallen, dass Ihr Gesicht blass geworden ist?
+
+172
+00:13:31,680 --> 00:13:33,680
+Ja.
+
+173
+00:13:33,680 --> 00:13:37,410
+Seit wann?
+
+174
+00:13:37,410 --> 00:13:39,410
+Seit drei, vier Wochen ungefähr.
+
+175
+00:13:39,410 --> 00:13:59,940
+Drei, vier Wochen.
+
+176
+00:13:59,940 --> 00:14:03,940
+Könnten Sie diese Schmerzen külter für mich sagen oder nicht?
+
+177
+00:14:03,940 --> 00:14:05,940
+Nein.
+
+178
+00:14:05,940 --> 00:14:07,940
+Nein.
+
+179
+00:14:07,940 --> 00:14:22,650
+Okay. Meinerseits habe ich alle wichtige Fragen gestellt. Müssten Sie etwas hinzufügen?
+
+180
+00:14:22,650 --> 00:14:24,650
+Nein.
+
+181
+00:14:24,650 --> 00:14:28,120
+Okay.
+
+182
+00:14:28,120 --> 00:14:32,370
+Aber nichts dazu zu fügen, falls Sie keine Fragen haben.
+
+183
+00:14:32,370 --> 00:14:34,370
+Nein, ich habe keine.
+
+184
+00:14:34,370 --> 00:14:36,370
+Meinerseits.
+
+185
+00:14:36,370 --> 00:14:54,980
+Okay. Sonst Fragen?
+
+186
+00:14:54,980 --> 00:14:56,980
+Ich habe eine Frage.
+
+187
+00:14:56,980 --> 00:14:58,980
+Ah.
+
+188
+00:14:58,980 --> 00:15:06,980
+Haben Sie bemerkt, ob Ihre Stuhlfarbe verändert?
+
+189
+00:15:06,980 --> 00:15:08,980
+Die ist manchmal sehr dunkel.
+
+190
+00:15:08,980 --> 00:15:10,980
+Manchmal ist es sehr dunkel.
+
+191
+00:15:10,980 --> 00:15:13,980
+Schon fast schwarz, muss man sagen.
+
+192
+00:15:13,980 --> 00:15:15,980
+Seit wann?
+
+193
+00:15:15,980 --> 00:15:17,980
+Seit wann? Immer.
+
+194
+00:15:17,980 --> 00:15:19,980
+Immer.
+
+195
+00:15:19,980 --> 00:15:21,980
+Auch wenn es für einen Monat ist.
+
+196
+00:15:21,980 --> 00:15:27,980
+Haben Sie manchmal Verstopfungen? Manchmal Duffall oder ein bisschen Weichstuhl?
+
+197
+00:15:27,980 --> 00:15:32,980
+Ja, der Stuhlgang ist eigentlich normal. Manchmal etwas weicher als sonst.
+
+198
+00:15:32,980 --> 00:15:38,120
+Und wie gesagt, manchmal ist es so schwarz.
+
+199
+00:15:38,120 --> 00:15:42,120
+Okay, vielen Dank.
+
+200
+00:15:42,120 --> 00:15:44,120
+Danke.
+
+201
+00:15:44,120 --> 00:15:46,120
+Ja?
+
+202
+00:15:46,120 --> 00:15:50,120
+Haben Sie Probleme mit der Blutdauer?
+
+203
+00:15:50,120 --> 00:15:54,120
+Ja, habe ich ja gesagt. Ich habe manchmal Füllgefühl, ja.
+
+204
+00:15:54,120 --> 00:15:57,120
+Haben Sie Probleme mit dem Gas abzugeben?
+
+205
+00:15:57,120 --> 00:15:59,120
+Nein.
+
+206
+00:15:59,120 --> 00:16:05,290
+Haben Sie Probleme mit der Blutdauer?
+
+207
+00:16:05,290 --> 00:16:07,290
+Wie bitte?
+
+208
+00:16:07,290 --> 00:16:09,290
+Mit der Blutdauer?
+
+209
+00:16:09,290 --> 00:16:11,290
+Nein, haben wir schon alles gefragt.
+
+210
+00:16:11,290 --> 00:16:13,290
+Okay.
+
+211
+00:16:13,290 --> 00:16:15,290
+Danke.
+
+212
+00:16:15,290 --> 00:16:17,290
+Bitte.
+
+213
+00:16:17,290 --> 00:16:22,290
+Gibt es etwas, was Sie beschwerden, verstärkt oder verhindert?
+
+214
+00:16:22,290 --> 00:16:25,290
+Alles, werde ich aufgefahren.
+
+215
+00:16:25,290 --> 00:16:30,290
+Okay. Ist Ihre Stuhlfarbe wie Tia Stuhl?
+
+216
+00:16:30,290 --> 00:16:32,290
+Ja, manchmal ja.
+
+217
+00:16:32,290 --> 00:16:43,630
+Danke schön.
+
+218
+00:16:43,630 --> 00:16:47,630
+Sonst fragen, sonst können wir gerne als Arztgespräch beginnen.
+
+219
+00:16:47,630 --> 00:16:55,200
+Herr Toprak, sind Sie bereit?
+
+220
+00:16:55,200 --> 00:16:57,200
+Ja, okay.
+
+221
+00:16:57,200 --> 00:16:59,200
+Hallo, guten Tag.
+
+222
+00:16:59,200 --> 00:17:01,200
+Guten Tag.
+
+223
+00:17:01,200 --> 00:17:04,200
+Ich möchte einen Patienten vorstellen.
+
+224
+00:17:04,200 --> 00:17:06,200
+Bitte schön.
+
+225
+00:17:06,200 --> 00:17:10,200
+Herr Thomas Schneider, 28 Jahre, Patientin.
+
+226
+00:17:10,200 --> 00:17:12,200
+Patient oder Patientin?
+
+227
+00:17:12,200 --> 00:17:14,200
+Patient, Entschuldigung.
+
+228
+00:17:14,200 --> 00:17:21,200
+1,50 Meter groß, 70 Kilogramm.
+
+229
+00:17:21,200 --> 00:17:23,200
+1,50 Meter oder 1,70 Meter?
+
+230
+00:17:23,200 --> 00:17:25,200
+70 Kilogramm, Entschuldigung.
+
+231
+00:17:25,200 --> 00:17:27,200
+Ja, Entschuldigung, 70 Kilogramm.
+
+232
+00:17:27,200 --> 00:17:29,200
+70 Kilogramm.
+
+233
+00:17:29,200 --> 00:17:34,200
+Er stellte sich mit drei Monaten
+
+234
+00:17:35,200 --> 00:17:39,200
+über Bauchschmerzen vor.
+
+235
+00:17:39,200 --> 00:17:48,200
+Er gab eine Müdigkeit seit drei Wochen.
+
+236
+00:17:48,200 --> 00:18:00,200
+Begleitend Übelkeit und leichte Atemnot, leichte Dyspneum.
+
+237
+00:18:00,200 --> 00:18:08,200
+Auch die Adunämie auch.
+
+238
+00:18:08,200 --> 00:18:20,200
+Die Schmerzen seien stechend.
+
+239
+00:18:20,200 --> 00:18:26,200
+Die Schmerzen lege ich auf eine Schmerzenskala.
+
+240
+00:18:26,200 --> 00:18:32,200
+Schmerzenskala 5 und 6 von Sehen.
+
+241
+00:18:32,200 --> 00:18:34,200
+Nur stechend oder drückend?
+
+242
+00:18:34,200 --> 00:18:36,200
+Stechend und drückend.
+
+243
+00:18:36,200 --> 00:18:40,200
+Stechend und drückend, beides.
+
+244
+00:18:40,200 --> 00:18:44,200
+Er berichtet auch Melena.
+
+245
+00:18:44,200 --> 00:19:09,740
+Begleitend laut seiner Frau hat er ein blasser Gesicht.
+
+246
+00:19:09,740 --> 00:19:20,550
+Entschuldigung.
+
+247
+00:19:20,550 --> 00:19:24,550
+Vorerkrankungen, alles war normal.
+
+248
+00:19:24,550 --> 00:19:26,550
+Alles war unauffällig.
+
+249
+00:19:26,550 --> 00:19:38,550
+Medikamente, Noxon, Allergie und Fertiglichkeit.
+
+250
+00:19:38,550 --> 00:19:50,550
+Vater ist im Alter von 75 an Kolonkarzinom verstorben.
+
+251
+00:19:50,550 --> 00:19:56,550
+Mutter hat ein Demenz.
+
+252
+00:19:56,550 --> 00:20:04,550
+Sie leidet an Arterie, Portion und Diabetes.
+
+253
+00:20:04,550 --> 00:20:17,960
+Er ist Architekt, verheiratet, hat keine Kinder.
+
+254
+00:20:17,960 --> 00:20:21,960
+Er reist regelmäßig.
+
+255
+00:20:21,960 --> 00:20:32,390
+In den letzten sechs Monaten im Ausland macht er Sport regelmäßig.
+
+256
+00:20:32,390 --> 00:20:40,390
+Aufgrund der Anämestischen Angabe und geschilderten Beschwerden
+
+257
+00:20:40,390 --> 00:20:46,390
+habe ich Verdacht, Magengeschwür und Mageneinblutung.
+
+258
+00:20:46,390 --> 00:20:50,390
+Aus diesem Grund hat er eine Anämie.
+
+259
+00:20:50,390 --> 00:20:54,390
+Die Anämie erklärt dieses meistens in Dome.
+
+260
+00:20:54,390 --> 00:20:58,390
+Die Müdigkeit oder Atemnoten.
+
+261
+00:20:58,390 --> 00:21:00,390
+Auch den Gewichtsverlust?
+
+262
+00:21:00,390 --> 00:21:02,390
+Gewichtsverlust?
+
+263
+00:21:02,390 --> 00:21:06,390
+Eigentlich habe ich keine Ahnung.
+
+264
+00:21:06,390 --> 00:21:08,390
+Vielleicht hat er einen Magenkrebs.
+
+265
+00:21:08,390 --> 00:21:10,390
+Kann sein.
+
+266
+00:21:10,390 --> 00:21:12,390
+Magenkrebs.
+
+267
+00:21:12,390 --> 00:21:18,390
+Anfangs dachte ich eine Pancreas-Kopfkarzinoma.
+
+268
+00:21:18,390 --> 00:21:24,390
+Aber keine ziklerische Situation.
+
+269
+00:21:24,390 --> 00:21:34,390
+Aber am ehesten würde ich sagen Magenkarzinoma mit Magenblutung.
+
+270
+00:21:34,390 --> 00:21:38,390
+Das ist eine gute Arbeitsdiagnose.
+
+271
+00:21:38,390 --> 00:21:40,390
+Er hat einen Herstuhl.
+
+272
+00:21:40,390 --> 00:21:46,390
+Er hat seit drei Monaten zunehmende Oberbaubeschwerden mit epigrastischem Druckgefühl.
+
+273
+00:21:46,390 --> 00:21:48,390
+Er hat Sättigungsgefühl.
+
+274
+00:21:48,390 --> 00:21:50,390
+Er hat sieben Kilo Gewicht verloren.
+
+275
+00:21:50,390 --> 00:21:52,390
+Das ist viel in drei Monaten.
+
+276
+00:21:52,390 --> 00:21:58,390
+Er hat ab und zu Herstuhl, Müdigkeit und auch diese Adynamie, die Sie gerade gesagt haben.
+
+277
+00:21:58,390 --> 00:22:00,390
+Er hat ein blasses Hautkulorit.
+
+278
+00:22:00,390 --> 00:22:04,390
+Das heißt er hat wahrscheinlich schon viel Blut verloren.
+
+279
+00:22:04,390 --> 00:22:10,390
+Das passt alles zu einem mindestens zu einem Ulcus.
+
+280
+00:22:10,390 --> 00:22:16,390
+Wenn nicht sogar zu einem Magenkarzinoma.
+
+281
+00:22:16,390 --> 00:22:22,390
+Aber welche ist mehr Option? Magenkarzinoma oder Ulcus?
+
+282
+00:22:22,390 --> 00:22:30,390
+Zuerst kann man erst mal sagen, es ist nur eine Magenblutung im Rahmen als Ulcus wahrscheinlich.
+
+283
+00:22:30,390 --> 00:22:42,390
+Das Karzinom wird erst dann zur Diagnose, wenn man Biopsin gestellt hat oder eine makroskopische Diagnostik oder eine Diagnose stellen kann.
+
+284
+00:22:42,390 --> 00:22:46,390
+Das ist eine ösefakultureskopie.
+
+285
+00:22:46,390 --> 00:22:48,390
+Genau.
+
+286
+00:22:48,390 --> 00:22:52,390
+Was machen die für Untersuchungen aktuell in der Ambulanz?
+
+287
+00:22:52,390 --> 00:22:58,390
+Aktuelle Ambulanz muss man die Körperlichung untersuchen.
+
+288
+00:22:58,390 --> 00:23:04,390
+Druckgefühl, epigrastisch Druckgefühl und Losslastigemessigkeit müssen wir beachten.
+
+289
+00:23:04,390 --> 00:23:12,390
+Natürlich die digitale Rektalexamination ist auch sehr wichtig.
+
+290
+00:23:12,390 --> 00:23:16,390
+Was noch?
+
+291
+00:23:16,390 --> 00:23:22,390
+Was noch? Großblutbild.
+
+292
+00:23:22,390 --> 00:23:32,390
+Auch die Eisen- und Ferritinparameter, Vitamin B, Zürichsäure.
+
+293
+00:23:32,390 --> 00:23:36,390
+Und zusätzlich natürlich die Abdomenultraschall.
+
+294
+00:23:36,390 --> 00:23:40,390
+Ultraschall ist wichtig.
+
+295
+00:23:40,390 --> 00:23:42,390
+Genau, sehr gut.
+
+296
+00:23:42,390 --> 00:23:50,390
+Dann würde ich sagen, natürlich die Nierenparameter oder Leibparameter.
+
+297
+00:23:50,390 --> 00:23:52,390
+Das ist selbstverständlich.
+
+298
+00:23:52,390 --> 00:23:58,390
+Gerinnungsparameter, eine spontane Blutung verursacht das.
+
+299
+00:23:58,390 --> 00:24:00,390
+Genau.
+
+300
+00:24:00,390 --> 00:24:04,390
+Das kann ich mir nicht genau sagen.
+
+301
+00:24:04,390 --> 00:24:06,390
+Am besten würde ich sagen so.
+
+302
+00:24:06,390 --> 00:24:08,390
+Machen Sie auch die Magenspielung?
+
+303
+00:24:08,390 --> 00:24:10,390
+Natürlich.
+
+304
+00:24:10,390 --> 00:24:20,390
+Sollte die diese mehr erklären, müssen wir die Magenspielung durchführen.
+
+305
+00:24:20,390 --> 00:24:22,390
+Genau.
+
+306
+00:24:22,390 --> 00:24:28,390
+Man kann sagen, es ist auf jeden Fall ein Verdacht auf eine Magenblutung.
+
+307
+00:24:28,390 --> 00:24:32,390
+Also eine obere Gastro ist der intestinale Blutung.
+
+308
+00:24:32,390 --> 00:24:34,390
+Das ist die Diagnose.
+
+309
+00:24:34,390 --> 00:24:36,390
+Im Rahmen eines Ulkos.
+
+310
+00:24:36,390 --> 00:24:42,390
+DD, Info-Zialdiagnose durch Magenkarzinom.
+
+311
+00:24:42,390 --> 00:24:45,390
+Und es kann natürlich auch ein Lymphom sein.
+
+312
+00:24:45,390 --> 00:24:48,390
+Es kann auch eine Gastritis sein.
+
+313
+00:24:48,390 --> 00:24:52,390
+Das würde aber nicht diesen Gewichtsverlust erklären.
+
+314
+00:24:52,390 --> 00:24:58,390
+Das sind so die Diagnosen, die man bei diesen Patienten stellen kann.
+
+315
+00:24:58,390 --> 00:25:02,390
+Ein Magenkarsinom ist unwahrscheinlich.
+
+316
+00:25:02,390 --> 00:25:08,390
+Eine Schleuzystole-Thiasis oder Schleudochelathiasis ist auch unwahrscheinlich.
+
+317
+00:25:08,390 --> 00:25:11,390
+Es kann natürlich auch ein Kolonkarzinom sein.
+
+318
+00:25:11,390 --> 00:25:15,390
+Aber ein Kolonkarzinom macht selten Teerstuhl.
+
+319
+00:25:15,390 --> 00:25:28,390
+Und daher würden wir sagen, dass es eine obere gastrointestinale Blutung mit Verdacht auf Ulkos, Ventrikulier, Querstrich, Magenkarzinom sein könnte.
+
+320
+00:25:28,390 --> 00:25:31,390
+Ja, genau.
+
+321
+00:25:31,390 --> 00:25:35,220
+Gibt es Fragen sonst?
+
+322
+00:25:35,220 --> 00:25:37,220
+Darf ich eine Frage stellen?
+
+323
+00:25:37,220 --> 00:25:44,220
+Um Epigastrium zu beschreiben, kann man fragen, ob die Magengruppe oder nicht, die Patienten?
+
+324
+00:25:44,220 --> 00:25:48,220
+Magengruppe kennt vielleicht keiner so richtig.
+
+325
+00:25:48,220 --> 00:25:53,220
+Also das kann man fragen, aber vielleicht kennt ihr das nicht.
+
+326
+00:25:53,220 --> 00:25:56,220
+Dann sagt ihr einfach nur, ich habe Oberbauchschmerzen.
+
+327
+00:25:56,220 --> 00:25:58,220
+Okay.
+
+328
+00:25:58,220 --> 00:26:05,140
+Gesundes Fragen.
+
+329
+00:26:05,140 --> 00:26:09,680
+Herr Toprak, Sie haben manchmal Probleme mit den Zahlen.
+
+330
+00:26:09,680 --> 00:26:10,680
+Wir müssen aufpassen.
+
+331
+00:26:10,680 --> 00:26:12,680
+Ja, genau. Ich weiß.
+
+332
+00:26:12,680 --> 00:26:15,680
+1,50 Meter, 65 Jahre.
+
+333
+00:26:15,680 --> 00:26:19,680
+Eigentlich habe ich normal.
+
+334
+00:26:19,680 --> 00:26:21,680
+Das kann manchmal wichtig sein.
+
+335
+00:26:21,680 --> 00:26:23,680
+Ja, genau.
+
+336
+00:26:23,680 --> 00:26:29,680
+Wenn Sie statt Kreatinin, Kreatinin 1, die 2 sagen oder 3 sagen, dann kann das ein Problem sein.
+
+337
+00:26:29,680 --> 00:26:34,680
+Oder bei den Leberwerten, wenn Sie die sagen, müssen die Zahlen richtig gut können.
+
+338
+00:26:34,680 --> 00:26:37,680
+Genau. Sie haben vollkommen recht. Danke.
+
+339
+00:26:37,680 --> 00:26:39,680
+Sie auch.
+
+340
+00:26:39,680 --> 00:26:41,680
+Sie haben vollkommen recht.
+
+341
+00:26:42,680 --> 00:26:47,680
+Gut. Gibt es Fragen, sonst irgendwelche Fragen, die wir beantworten können?
+
+342
+00:26:47,680 --> 00:26:50,680
+Haben wir etwas falsch gemacht? Was können wir verbessern?
+
+343
+00:26:50,680 --> 00:26:59,870
+Seile Fragen. Jeder weiß alles, jeder kann alles.
+
+344
+00:26:59,870 --> 00:27:03,870
+Gut, dann wünsche ich einen schönen Sonntag.
+
+345
+00:27:03,870 --> 00:27:05,870
+Schönen Sonntag.
