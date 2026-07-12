@@ -239,13 +239,14 @@ jobs:
 
               lines: List[str] = []
               idx = 1
+
               for seg in segments:
                   text = seg.text.strip()
                   if not text:
                       continue
 
-                      start = seg.start
-                  end = seg.end if seg.end > seg.start else seg.start + 0.001
+                  start = float(seg.start)
+                  end = float(seg.end) if seg.end > seg.start else float(seg.start) + 0.001
 
                   lines.append(str(idx))
                   lines.append(f"{format_srt_timestamp(start)} --> {format_srt_timestamp(end)}")
