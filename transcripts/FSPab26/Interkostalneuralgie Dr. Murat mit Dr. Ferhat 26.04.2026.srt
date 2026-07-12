@@ -1,0 +1,2287 @@
+1
+00:00:00,000 --> 00:00:04,360
+Ich bin nochmal bitte. Guten Tag.
+
+2
+00:00:04,360 --> 00:00:06,360
+Ich heiße Doktor Ates.
+
+3
+00:00:06,360 --> 00:00:12,120
+Ich bin auf dieser Station als Assistent Arzt tätig und würde gerne mit Ihnen
+
+4
+00:00:12,120 --> 00:00:14,120
+diesen Aufnahmegespräch führen.
+
+5
+00:00:14,120 --> 00:00:17,120
+Sind Sie damit einverstanden?
+
+6
+00:00:17,120 --> 00:00:19,120
+Natürlich.
+
+7
+00:00:19,120 --> 00:00:26,120
+Bevor Ihre Beschwerden erzählen, benötige ich ein paar Personen Daten.
+
+8
+00:00:26,120 --> 00:00:28,120
+Wie heißen Sie?
+
+9
+00:00:28,240 --> 00:00:33,240
+Mein Name ist Helga Schmidt.
+
+10
+00:00:33,240 --> 00:00:35,240
+Helga Schmidt.
+
+11
+00:00:35,240 --> 00:00:37,240
+Helga Schmidt.
+
+12
+00:00:37,240 --> 00:00:42,240
+Frau Schmidt, können Sie bitte Ihren Vornamen und Nachnamen langsam und deutlich buchstabieren?
+
+13
+00:00:42,240 --> 00:00:50,240
+Mein Vorname ist Havi Heinrich, Evi Emil, Elvi Ludwig, Gevi Gustav, Avi Anton.
+
+14
+00:00:50,360 --> 00:00:59,360
+Mein Nachname ist Schmidt, SCH, Envi Mata, Evi Ida, Devi Dora, Tevi Teodoro.
+
+15
+00:00:59,360 --> 00:01:02,360
+Wie alt sind Sie, Frau Schmidt?
+
+16
+00:01:02,360 --> 00:01:04,360
+Ich bin 54 Jahre alt.
+
+17
+00:01:04,360 --> 00:01:06,360
+Ich bin 50 Jahre alt, Entschuldigung.
+
+18
+00:01:06,360 --> 00:01:08,360
+50?
+
+19
+00:01:08,360 --> 00:01:10,360
+50.
+
+20
+00:01:10,360 --> 00:01:14,360
+Wie groß sind Sie und wie viel wiegen Sie aktuell?
+
+21
+00:01:14,480 --> 00:01:19,480
+Ich bin 1,65 Meter groß und wiege 65 Kilogramm.
+
+22
+00:01:29,710 --> 00:01:34,710
+Ich komme heute zu Ihnen, weil ich seit 3-4 Tagen Schmerzen in der Brust habe.
+
+23
+00:01:40,280 --> 00:01:42,280
+Seit 3-4 Tagen?
+
+24
+00:01:42,280 --> 00:01:44,280
+Genau, ungefähr 3-4 Tage.
+
+25
+00:01:44,280 --> 00:01:47,280
+Wo genau können Sie die Schmerzen?
+
+26
+00:01:47,400 --> 00:01:51,400
+In der linken Brustwand, Brustseite.
+
+27
+00:01:51,400 --> 00:01:54,650
+Linkenseite.
+
+28
+00:01:54,650 --> 00:02:03,650
+Wie stark sind die Schmerzen auf einer psychischen Skala von 1 bis 10,
+
+29
+00:02:03,650 --> 00:02:09,650
+wobei 1 sehr leicht ist und 10 ist unerträglich.
+
+30
+00:02:09,650 --> 00:02:11,650
+7 ungefähr.
+
+31
+00:02:11,650 --> 00:02:17,140
+Ungefähr 7.
+
+32
+00:02:17,140 --> 00:02:18,140
+Okay.
+
+33
+00:02:18,140 --> 00:02:21,140
+Haben Sie ein enges Gefühl?
+
+34
+00:02:21,260 --> 00:02:24,260
+Nein, ich habe Schmerzen.
+
+35
+00:02:24,260 --> 00:02:26,260
+Schmerzen.
+
+36
+00:02:26,260 --> 00:02:29,260
+Wie können Sie diese Schmerzen beschreiben?
+
+37
+00:02:29,260 --> 00:02:32,260
+Siehend, zurückhend, stehend?
+
+38
+00:02:32,260 --> 00:02:36,260
+Das sind so stechende Schmerzen, die in die linke Seite ziehen.
+
+39
+00:02:36,260 --> 00:02:42,510
+Steckende.
+
+40
+00:02:42,510 --> 00:02:48,260
+Stechende Schmerzen, die in die linke Seite ziehen.
+
+41
+00:02:48,260 --> 00:02:53,530
+Linke Seite.
+
+42
+00:02:53,530 --> 00:02:59,530
+Sie meinen, Sie haben linksseitige Ausstrahlen, oder?
+
+43
+00:02:59,650 --> 00:03:02,650
+Die Schmerzen ziehen nach links.
+
+44
+00:03:02,650 --> 00:03:04,650
+Ziehen nach links.
+
+45
+00:03:04,650 --> 00:03:06,650
+Okay.
+
+46
+00:03:06,650 --> 00:03:11,650
+Sind die Schmerzen dauerhaft oder gehen sie manchmal wieder?
+
+47
+00:03:11,650 --> 00:03:13,650
+Manchmal stärker.
+
+48
+00:03:13,650 --> 00:03:18,790
+Aber die sind dauerhaft da, manchmal stärker.
+
+49
+00:03:18,790 --> 00:03:23,550
+Ich habe Angst, dass ich einen Herzinfarkt habe.
+
+50
+00:03:23,550 --> 00:03:25,550
+Ich verstehe.
+
+51
+00:03:25,550 --> 00:03:31,550
+Können Sie diese Schmerzen aushalten bis Ende des Geschwindigkeits?
+
+52
+00:03:31,670 --> 00:03:34,670
+Oder brauchen Sie sofort eine Medikamenten?
+
+53
+00:03:34,670 --> 00:03:40,170
+Ich kann sie aushalten.
+
+54
+00:03:40,170 --> 00:03:42,170
+Okay.
+
+55
+00:03:42,170 --> 00:03:47,170
+Aber Sie haben kein enges Gefühl oder Todesangst?
+
+56
+00:03:47,170 --> 00:03:52,170
+Ich verstehe, dass Sie kein enges Gefühl oder Todesangst haben.
+
+57
+00:03:52,170 --> 00:03:54,170
+Ich habe Schmerzen.
+
+58
+00:03:54,170 --> 00:03:56,170
+Nur Schmerzen.
+
+59
+00:03:56,170 --> 00:03:59,990
+Okay.
+
+60
+00:03:59,990 --> 00:04:03,990
+Frau Schmidt, Sie haben Brustschmerzen.
+
+61
+00:04:03,990 --> 00:04:04,990
+Richtig.
+
+62
+00:04:05,110 --> 00:04:08,110
+Ein bisschen stark.
+
+63
+00:04:08,110 --> 00:04:13,110
+Wir müssen zuerst eine Herzkrankheit ausschließen.
+
+64
+00:04:13,110 --> 00:04:24,110
+Dann werde ich diese Gespräche unterbrechen und sofort einen EKG schreiben.
+
+65
+00:04:24,110 --> 00:04:26,110
+Okay.
+
+66
+00:04:26,110 --> 00:04:31,110
+Und ihren Metallparameter messen.
+
+67
+00:04:31,230 --> 00:04:36,230
+Danach würden wir dieses Gespräch führen.
+
+68
+00:04:36,230 --> 00:04:38,230
+Okay.
+
+69
+00:04:38,230 --> 00:04:42,230
+EKG ist normal, Blutdruck ist auch normal.
+
+70
+00:04:42,230 --> 00:04:44,230
+Okay.
+
+71
+00:04:44,230 --> 00:04:47,230
+Frau Schmidt, können wir weitermachen?
+
+72
+00:04:47,230 --> 00:04:49,230
+Gerne.
+
+73
+00:04:49,230 --> 00:04:51,230
+Okay.
+
+74
+00:04:51,230 --> 00:04:54,230
+Denken Sie, ich habe einen Herzinfarkt?
+
+75
+00:04:54,230 --> 00:04:56,230
+Nein.
+
+76
+00:04:56,230 --> 00:05:00,230
+Ihr Metallparameter ist, EKG ist in Ordnung.
+
+77
+00:05:00,350 --> 00:05:02,350
+In Ordnung.
+
+78
+00:05:02,350 --> 00:05:07,350
+Dann denke ich, Sie haben keinen akuten Infarkt.
+
+79
+00:05:07,350 --> 00:05:10,350
+Aber wir müssen weitermachen.
+
+80
+00:05:10,350 --> 00:05:16,350
+Haben Sie früher eine Beschwerde?
+
+81
+00:05:16,350 --> 00:05:18,350
+Das erste Mal habe ich so etwas.
+
+82
+00:05:18,350 --> 00:05:20,350
+Das erste Mal.
+
+83
+00:05:20,350 --> 00:05:24,350
+Und ich habe Angst, weil mein Vater einen Herzinfarkt gestorben ist.
+
+84
+00:05:24,350 --> 00:05:32,120
+Vater hat einen Herzinfarkt.
+
+85
+00:05:32,240 --> 00:05:40,240
+Ich kann Ihnen Angst nachvollziehen.
+
+86
+00:05:40,240 --> 00:05:46,620
+Wir müssen alle möglichen Untersuchungen durchführen.
+
+87
+00:05:46,620 --> 00:05:48,620
+Okay.
+
+88
+00:05:48,620 --> 00:05:55,620
+Dieses Brutschmassen haben Sie erstmals ausgefallen.
+
+89
+00:05:55,740 --> 00:06:00,740
+Gibt es bestimmte Auslöser?
+
+90
+00:06:00,740 --> 00:06:10,050
+Zum Beispiel eine schwere Kiste aufheben?
+
+91
+00:06:10,050 --> 00:06:14,050
+Wenn ich eine Kiste aufhebe, habe ich Schmerzen.
+
+92
+00:06:14,050 --> 00:06:23,540
+Okay.
+
+93
+00:06:23,540 --> 00:06:28,540
+Nehmen Sie irgendwelche Medikamente ein?
+
+94
+00:06:28,540 --> 00:06:33,540
+Gestern und vorgestern habe ich eine Ibuprofen eingenommen.
+
+95
+00:06:33,660 --> 00:06:36,660
+Ist Ihnen geholfen?
+
+96
+00:06:36,660 --> 00:06:38,660
+Ja ein bisschen.
+
+97
+00:06:38,660 --> 00:06:40,660
+Ibuprofen?
+
+98
+00:06:40,660 --> 00:06:42,660
+Wie viel Milligramm?
+
+99
+00:06:42,660 --> 00:06:44,660
+600 Milligramm.
+
+100
+00:06:44,660 --> 00:06:46,660
+Wie häufig?
+
+101
+00:06:46,660 --> 00:06:53,490
+Einmal?
+
+102
+00:06:53,490 --> 00:06:55,490
+Einmal habe ich die genommen.
+
+103
+00:06:55,490 --> 00:07:01,490
+Begleitend haben Sie Atemnot, Luftnot, Hüsten?
+
+104
+00:07:01,490 --> 00:07:05,490
+Nein, aber wenn die Schmerzen sehr stark sind,
+
+105
+00:07:05,610 --> 00:07:13,270
+kann ich nicht gut einatmen.
+
+106
+00:07:13,270 --> 00:07:15,270
+Einatmen besonders?
+
+107
+00:07:15,270 --> 00:07:17,270
+Okay.
+
+108
+00:07:17,270 --> 00:07:20,270
+Wenn die Schmerzen da sind, ja.
+
+109
+00:07:20,270 --> 00:07:23,270
+Haben Sie Herzraten, Atmkulopfen?
+
+110
+00:07:23,270 --> 00:07:25,270
+Nein, habe ich nicht gespürt.
+
+111
+00:07:25,270 --> 00:07:31,540
+Haben Sie Schüttelfrostfieber?
+
+112
+00:07:31,540 --> 00:07:35,540
+Nein, ich fühle mich auch nicht krank.
+
+113
+00:07:35,540 --> 00:07:39,540
+Haben Sie nachtische Weißfieber?
+
+114
+00:07:39,540 --> 00:07:41,540
+Nein, habe ich nicht bemerkt.
+
+115
+00:07:41,660 --> 00:07:49,870
+Ist Ihnen übel oder müssen Sie erbrechen?
+
+116
+00:07:49,870 --> 00:07:56,640
+Nein, auch nicht.
+
+117
+00:07:56,640 --> 00:08:00,640
+Haben Sie Probleme beim Wasserlassen oder mit dem Stuhlgang?
+
+118
+00:08:00,640 --> 00:08:04,500
+Nein, auch nicht.
+
+119
+00:08:04,500 --> 00:08:10,500
+Haben Sie Hautfarbeveränderung?
+
+120
+00:08:10,500 --> 00:08:14,160
+Habe ich nicht bemerkt.
+
+121
+00:08:14,160 --> 00:08:21,160
+Haben Sie Wasserlassen oder Stuhlfarbeveränderungen bemerkt?
+
+122
+00:08:21,280 --> 00:08:23,280
+Nein, auch nicht.
+
+123
+00:08:23,280 --> 00:08:32,640
+Okay.
+
+124
+00:08:32,640 --> 00:08:40,640
+Haben Sie in Ihrer Geschichte bestimmte chronische Erkrankungen?
+
+125
+00:08:40,640 --> 00:08:45,050
+Ich habe eine Schilddrüsenunterfunktion.
+
+126
+00:08:45,050 --> 00:08:47,050
+Seit wann leiden Sie?
+
+127
+00:08:47,050 --> 00:08:52,650
+Ungefähr seit 20 Jahren.
+
+128
+00:08:52,650 --> 00:08:56,650
+Dagegen nehmen Sie regelmäßig ein Medikament?
+
+129
+00:08:56,770 --> 00:09:00,770
+Ja, ich nehme ein Schilddrüsenhormon L-Tyroxin.
+
+130
+00:09:00,770 --> 00:09:04,770
+Wissen Sie, wie viel Milligramm?
+
+131
+00:09:04,770 --> 00:09:08,770
+25 Mikrogramm.
+
+132
+00:09:08,770 --> 00:09:10,770
+Okay.
+
+133
+00:09:10,770 --> 00:09:14,770
+Wie oft nehmen Sie täglich?
+
+134
+00:09:14,770 --> 00:09:16,770
+Täglich.
+
+135
+00:09:16,770 --> 00:09:18,770
+Einmal?
+
+136
+00:09:18,770 --> 00:09:20,770
+Natürlich, nur einmal.
+
+137
+00:09:20,770 --> 00:09:22,770
+Einmal täglich.
+
+138
+00:09:22,890 --> 00:09:26,890
+Leiden Sie noch andere Erkrankungen?
+
+139
+00:09:26,890 --> 00:09:30,890
+Ich habe keine weiteren Erkrankungen, von denen ich weiß.
+
+140
+00:09:30,890 --> 00:09:32,890
+Okay.
+
+141
+00:09:32,890 --> 00:09:34,890
+Nur Schilddrüsenhepofunktionen?
+
+142
+00:09:34,890 --> 00:09:36,890
+Unterfunktionen.
+
+143
+00:09:36,890 --> 00:09:38,890
+Unterfunktionen.
+
+144
+00:09:38,890 --> 00:09:42,890
+Würden Sie schon mal operiert?
+
+145
+00:09:42,890 --> 00:09:46,890
+Ich wurde noch nie operiert.
+
+146
+00:09:46,890 --> 00:09:48,890
+Noch nie.
+
+147
+00:09:48,890 --> 00:09:50,890
+Okay.
+
+148
+00:09:51,010 --> 00:09:59,010
+Sie haben gesagt, dass Ihr Vater an Herzinfarkt gestorben ist.
+
+149
+00:09:59,010 --> 00:10:01,010
+Richtig.
+
+150
+00:10:01,010 --> 00:10:03,010
+Wie ist Ihre Mutter?
+
+151
+00:10:03,010 --> 00:10:05,010
+Meine Mutter lebt noch.
+
+152
+00:10:05,010 --> 00:10:08,480
+Meine Mutter geht es gut.
+
+153
+00:10:08,480 --> 00:10:10,480
+Lebt und gesund.
+
+154
+00:10:10,480 --> 00:10:12,480
+Sie hat auch Bluthochdruck.
+
+155
+00:10:12,480 --> 00:10:16,480
+Sie hat auch Cholesterin-Erhöhungen.
+
+156
+00:10:16,480 --> 00:10:20,560
+Aber sie ist fit.
+
+157
+00:10:20,560 --> 00:10:22,560
+Haben Sie Geschwister?
+
+158
+00:10:22,680 --> 00:10:24,680
+Ich habe einen Bruder.
+
+159
+00:10:24,680 --> 00:10:26,680
+Einen Bruder?
+
+160
+00:10:26,680 --> 00:10:28,680
+Der ist auch gesund.
+
+161
+00:10:28,680 --> 00:10:32,250
+Okay.
+
+162
+00:10:32,250 --> 00:10:36,250
+Frau Schmidt, rauchen Sie?
+
+163
+00:10:36,250 --> 00:10:38,250
+Nein, ich rauche nicht.
+
+164
+00:10:40,250 --> 00:10:42,250
+Früher oder heute?
+
+165
+00:10:42,250 --> 00:10:44,250
+In der Jugend habe ich ein bisschen geraucht.
+
+166
+00:10:44,250 --> 00:10:46,250
+So 3-4 Jahre lang.
+
+167
+00:10:46,250 --> 00:10:52,410
+Dann habe ich aufgehört.
+
+168
+00:10:52,410 --> 00:10:54,410
+Okay, aufgehört.
+
+169
+00:10:54,410 --> 00:10:56,410
+Trinken Sie Alkohol?
+
+170
+00:10:56,530 --> 00:10:58,530
+Ab und an.
+
+171
+00:10:58,530 --> 00:11:05,250
+Einmal im Monat, zweimal im Monat vielleicht.
+
+172
+00:11:05,250 --> 00:11:07,250
+Wie trinken Sie?
+
+173
+00:11:07,250 --> 00:11:09,250
+Bier oder Wein?
+
+174
+00:11:09,250 --> 00:11:13,330
+Ich trinke meistens Cocktails.
+
+175
+00:11:13,330 --> 00:11:15,330
+Okay.
+
+176
+00:11:15,330 --> 00:11:19,330
+Hatten Sie Kontakt mit dem Drogen?
+
+177
+00:11:19,330 --> 00:11:21,330
+Noch nie.
+
+178
+00:11:21,330 --> 00:11:23,330
+Ich habe noch nie Drogen genommen.
+
+179
+00:11:23,330 --> 00:11:25,330
+Okay, super.
+
+180
+00:11:25,330 --> 00:11:29,330
+Haben Sie irgendwelche Allergien oder Unverschämtheiten bekannt?
+
+181
+00:11:29,450 --> 00:11:31,450
+Ausstau-Allergie.
+
+182
+00:11:31,450 --> 00:11:33,450
+Ausstau?
+
+183
+00:11:33,450 --> 00:11:35,450
+Ausstau.
+
+184
+00:11:35,450 --> 00:11:38,890
+Wie äußerst nicht?
+
+185
+00:11:38,890 --> 00:11:44,890
+Mit Niesen, Juckreiz, geröteten Augen, Nasenlaufen.
+
+186
+00:11:44,890 --> 00:11:52,650
+Haben Sie Unverschämtheiten?
+
+187
+00:11:52,650 --> 00:11:54,650
+Dagegen Nahrungsmittel zum Beispiel?
+
+188
+00:11:54,650 --> 00:11:56,650
+Nicht das wirst du nach.
+
+189
+00:11:56,650 --> 00:11:58,650
+Okay.
+
+190
+00:11:58,650 --> 00:12:02,650
+Haben Sie vorständig geimpft?
+
+191
+00:12:02,650 --> 00:12:04,650
+Ich denke schon.
+
+192
+00:12:04,770 --> 00:12:07,770
+Ich war vor zwei Monaten bei meinem Hausarzt.
+
+193
+00:12:07,770 --> 00:12:09,770
+Der hat gesagt, alles ist gut.
+
+194
+00:12:09,770 --> 00:12:13,850
+Okay.
+
+195
+00:12:13,850 --> 00:12:19,850
+Äh, Ula Schimic, sind Sie verheiratet?
+
+196
+00:12:19,850 --> 00:12:23,260
+Ich bin verheiratet, ja.
+
+197
+00:12:23,260 --> 00:12:25,260
+Haben Sie Kinder?
+
+198
+00:12:25,260 --> 00:12:30,870
+Ich habe keine Kinder.
+
+199
+00:12:30,870 --> 00:12:32,870
+Okay, was sind Sie von Beruf?
+
+200
+00:12:32,870 --> 00:12:34,870
+Ich arbeite als Putzkraft.
+
+201
+00:12:34,870 --> 00:12:39,270
+Putzkraft.
+
+202
+00:12:39,270 --> 00:12:43,270
+Haben Sie Stress beim Arbeiten?
+
+203
+00:12:43,390 --> 00:12:47,150
+Normal.
+
+204
+00:12:47,150 --> 00:12:49,150
+Normal.
+
+205
+00:12:49,150 --> 00:12:51,150
+Okay.
+
+206
+00:12:51,150 --> 00:12:59,150
+Waren Sie in letzter Zeit im Ausland oder im Weitland gereist?
+
+207
+00:12:59,150 --> 00:13:06,720
+Nein.
+
+208
+00:13:06,720 --> 00:13:10,720
+Ich vermute, dass Sie wechseln werden, oder?
+
+209
+00:13:10,720 --> 00:13:14,720
+Äh, schon durch.
+
+210
+00:13:14,720 --> 00:13:18,290
+Bin ich schon durch.
+
+211
+00:13:18,290 --> 00:13:20,290
+Besuchen Sie...
+
+212
+00:13:20,410 --> 00:13:22,410
+Es wäre soweit alles okay aktuell.
+
+213
+00:13:22,410 --> 00:13:24,410
+Okay.
+
+214
+00:13:24,410 --> 00:13:26,410
+Ich würde vorzeitig in die Wechseljahre kommen.
+
+215
+00:13:26,410 --> 00:13:28,410
+Mit 45 Jahren.
+
+216
+00:13:30,410 --> 00:13:34,410
+Wann waren Sie in Ihrem letzten Monatsblutung?
+
+217
+00:13:34,410 --> 00:13:36,410
+Schon lange her.
+
+218
+00:13:36,410 --> 00:13:38,410
+Schon lange.
+
+219
+00:13:38,410 --> 00:13:51,860
+Sie haben keine Probleme beim Frauenheilkunde?
+
+220
+00:13:51,860 --> 00:13:53,860
+Nein.
+
+221
+00:13:53,860 --> 00:14:17,100
+Okay.
+
+222
+00:14:17,100 --> 00:14:24,160
+Ich kontrolliere meine Fragen.
+
+223
+00:14:24,280 --> 00:14:28,280
+Ich möchte kurz zusammenfassen.
+
+224
+00:14:28,280 --> 00:14:32,280
+Falls Sie falsch gesagt haben,
+
+225
+00:14:32,280 --> 00:14:35,280
+dann korrigieren Sie mich.
+
+226
+00:14:35,280 --> 00:14:43,280
+Sie haben seit 3 bis 4 Tagen Brustschmerzen,
+
+227
+00:14:43,280 --> 00:14:46,280
+besonders linksseitige Brustschmerzen.
+
+228
+00:14:46,400 --> 00:14:56,190
+Die Schmerzen sind dauerhaft und drücken oder stehend.
+
+229
+00:14:56,190 --> 00:15:05,190
+Und beim Belastung zum Beispiel eine schwere Kiste aufheben,
+
+230
+00:15:05,190 --> 00:15:09,190
+die Schmerzen sind verschlechtert.
+
+231
+00:15:09,190 --> 00:15:16,190
+Die Schmerzen sind erstmals aufgetreten.
+
+232
+00:15:16,310 --> 00:15:23,310
+Sind die Schmerzen plötzlich aufgetreten oder langsam zunehmend?
+
+233
+00:15:23,310 --> 00:15:25,310
+Plötzlich.
+
+234
+00:15:25,310 --> 00:15:28,660
+Plötzlich aufgetreten.
+
+235
+00:15:28,660 --> 00:15:37,660
+Darum nehmen Sie Ibuprofen und helfen bei Ihnen.
+
+236
+00:15:37,660 --> 00:15:44,660
+Und nehmen Sie regelmäßig L-Troxine.
+
+237
+00:15:44,660 --> 00:15:48,930
+Richtig.
+
+238
+00:15:49,050 --> 00:15:54,050
+Haben Sie Aufstoßen?
+
+239
+00:15:54,050 --> 00:15:56,050
+Aufstoßen?
+
+240
+00:15:56,050 --> 00:16:00,030
+Nein.
+
+241
+00:16:00,030 --> 00:16:02,030
+Haben Sie Sodbrennen?
+
+242
+00:16:02,030 --> 00:16:10,240
+Nein.
+
+243
+00:16:10,240 --> 00:16:12,240
+Okay.
+
+244
+00:16:12,240 --> 00:16:17,240
+Frau Schmidt, ich habe meine Fragen fertig.
+
+245
+00:16:17,240 --> 00:16:22,240
+Möchten Sie etwas hinzufügen oder fragen Sie an mich?
+
+246
+00:16:22,240 --> 00:16:25,240
+Nein, ich hoffe nur, dass ich keinen Herzinfarkt habe,
+
+247
+00:16:25,360 --> 00:16:28,360
+denn ich bin ein bisschen wängsend.
+
+248
+00:16:28,360 --> 00:16:35,360
+Ja, Frau Schmidt, ich habe Ihre Angst verstehen.
+
+249
+00:16:35,360 --> 00:16:46,360
+Aber Sie sind in einem guten Krankenhaus und wir arbeiten im Team.
+
+250
+00:16:46,360 --> 00:16:53,360
+Wir werden alle möglichen Untersuchungen durchführen
+
+251
+00:16:53,480 --> 00:17:01,760
+und dann die Ergebnisse vorhanden sind,
+
+252
+00:17:01,760 --> 00:17:07,760
+werden wir Sie Schritt für Schritt informieren.
+
+253
+00:17:07,760 --> 00:17:09,760
+Alles klar.
+
+254
+00:17:09,760 --> 00:17:15,760
+Zuerst werde ich Sie körperlich untersuchen,
+
+255
+00:17:15,760 --> 00:17:22,760
+danach Wolle für Labor abnehmen und wieder eine EKG schreiben
+
+256
+00:17:22,880 --> 00:17:25,880
+und die EKG benennt Fass.
+
+257
+00:17:25,880 --> 00:17:29,880
+Und dann unterlesen.
+
+258
+00:17:29,880 --> 00:17:34,880
+Bitte legen Sie auf den Ningen, ich komme gleich.
+
+259
+00:17:34,880 --> 00:17:39,500
+Alles klar.
+
+260
+00:17:39,500 --> 00:17:41,500
+Bis bald.
+
+261
+00:17:41,500 --> 00:17:43,500
+Bis gleich.
+
+262
+00:17:43,500 --> 00:17:45,500
+Bis gleich.
+
+263
+00:17:45,500 --> 00:17:47,500
+Marfene Flanstein,
+
+264
+00:17:47,500 --> 00:17:51,500
+haben Sie Kribbelgefühl im linken Arm?
+
+265
+00:17:51,500 --> 00:17:54,750
+Nein.
+
+266
+00:17:54,870 --> 00:17:56,870
+Beim Kardiologen?
+
+267
+00:17:56,870 --> 00:17:58,870
+Nein.
+
+268
+00:17:58,870 --> 00:18:00,870
+Danke.
+
+269
+00:18:00,870 --> 00:18:02,870
+Ja.
+
+270
+00:18:02,870 --> 00:18:05,870
+Haben Sie geschworenen Bein?
+
+271
+00:18:05,870 --> 00:18:07,870
+Nein.
+
+272
+00:18:07,870 --> 00:18:18,870
+Sind Sie zum Beispiel länger sitzen oder eine längere Reise gemacht?
+
+273
+00:18:18,870 --> 00:18:20,870
+Nein.
+
+274
+00:18:20,990 --> 00:18:29,530
+Ich habe keine längere Reise oder eine längere Auto-Reise oder Flugreise gehabt.
+
+275
+00:18:29,530 --> 00:18:31,530
+Ich bin immer in Bewegung.
+
+276
+00:18:31,530 --> 00:18:34,530
+Ich bin eine Putzfachkraft.
+
+277
+00:18:34,530 --> 00:18:38,530
+Ich muss viel putzen, ich bin immer in Bewegung.
+
+278
+00:18:38,530 --> 00:18:40,530
+Warte.
+
+279
+00:18:40,530 --> 00:18:48,000
+Haben Sie sich in der letzten Zeit verletzt oder haben Sie einen Unfall?
+
+280
+00:18:48,000 --> 00:18:51,000
+Nein, kann ich mich nicht daran erinnern.
+
+281
+00:18:51,000 --> 00:18:55,140
+Darf ich?
+
+282
+00:18:55,260 --> 00:18:57,260
+Bitte?
+
+283
+00:18:57,260 --> 00:19:01,260
+Haben Sie viel körperliche Belastung bei der Arbeit?
+
+284
+00:19:01,260 --> 00:19:03,260
+Ja, ich muss putzen.
+
+285
+00:19:03,260 --> 00:19:06,260
+Haben Sie Bewegungseinschränkungen?
+
+286
+00:19:06,260 --> 00:19:11,260
+Könnten Sie den Kopf einfach nach links drehen?
+
+287
+00:19:11,260 --> 00:19:13,260
+Ja, klappt gut.
+
+288
+00:19:13,260 --> 00:19:15,260
+Kein Problem.
+
+289
+00:19:15,260 --> 00:19:23,660
+Entschuldigung.
+
+290
+00:19:23,780 --> 00:19:34,780
+Haben Sie in der letzten Zeit oder bei Ihnen schon einmal eine Zahneingriff durchgeführt?
+
+291
+00:19:34,780 --> 00:19:38,890
+Nein.
+
+292
+00:19:38,890 --> 00:19:41,890
+Hatten Sie früher eine Bandscheibenvorfall?
+
+293
+00:19:41,890 --> 00:19:43,890
+Nackenbandscheibenvorfall?
+
+294
+00:19:43,890 --> 00:19:53,310
+Ich bin nicht bekannt, nein.
+
+295
+00:19:53,310 --> 00:19:58,310
+Wunde im Brustkorb bemerkt?
+
+296
+00:19:58,310 --> 00:19:59,310
+Nein.
+
+297
+00:19:59,430 --> 00:20:05,430
+Keine Wunde oder keine Rötungen oder Bläschen oder so habe ich nicht.
+
+298
+00:20:05,430 --> 00:20:17,900
+Können Sie gut schlafen?
+
+299
+00:20:17,900 --> 00:20:18,900
+Ja.
+
+300
+00:20:20,900 --> 00:20:21,900
+Sehr gut.
+
+301
+00:20:21,900 --> 00:20:25,900
+Waren Sie in der letzten Zeit im Krankenhaus?
+
+302
+00:20:25,900 --> 00:20:26,900
+Nein.
+
+303
+00:20:26,900 --> 00:20:33,380
+Bleiben Sie sportlich außer Arbeit?
+
+304
+00:20:33,380 --> 00:20:34,380
+Leider nicht.
+
+305
+00:20:34,380 --> 00:20:38,680
+Keine Zeit.
+
+306
+00:20:38,800 --> 00:20:44,800
+Haben Sie einen Auslöser bemerkt vor der Schmerzen?
+
+307
+00:20:44,800 --> 00:20:46,800
+Besonders?
+
+308
+00:20:46,800 --> 00:20:48,800
+Wie meinen Sie das?
+
+309
+00:20:48,800 --> 00:20:53,800
+Besonders Auslöser meine ich.
+
+310
+00:20:53,800 --> 00:20:56,800
+Zum Beispiel?
+
+311
+00:20:56,800 --> 00:21:01,800
+Sie haben gesagt, glaube ich, ein starkes etwas aufgehoben.
+
+312
+00:21:01,800 --> 00:21:05,800
+Genau, wenn ich mich bewege und wenn ich das hochhebe, wenn ich mich belaste,
+
+313
+00:21:05,800 --> 00:21:07,800
+habe ich diese Schmerzen auf der linken Seite.
+
+314
+00:21:07,920 --> 00:21:08,920
+Okay.
+
+315
+00:21:08,920 --> 00:21:15,740
+Strahls die Schmerzen bestimmte Finger oder allgemein die linke?
+
+316
+00:21:15,740 --> 00:21:18,440
+Nein.
+
+317
+00:21:18,440 --> 00:21:20,440
+Aber es zieht nach links.
+
+318
+00:21:20,440 --> 00:21:23,440
+In die linke Seite.
+
+319
+00:21:23,440 --> 00:21:24,440
+Linksseitig.
+
+320
+00:21:24,440 --> 00:21:32,820
+Okay, machen wir aus, was ich sprich.
+
+321
+00:21:32,820 --> 00:21:35,820
+Ja, guten Tag Herr Oberhaus.
+
+322
+00:21:35,820 --> 00:21:36,820
+Hallo.
+
+323
+00:21:36,820 --> 00:21:45,820
+Ich habe eine neue Patientin aufgenommen und möchte Ihnen diesen Fallkurs vorstellen.
+
+324
+00:21:45,940 --> 00:21:47,940
+Hätten Sie kurz Zeit dafür?
+
+325
+00:21:47,940 --> 00:21:48,940
+Natürlich.
+
+326
+00:21:48,940 --> 00:21:55,940
+Ja, die Patientin heißt Helga Schmidt.
+
+327
+00:21:55,940 --> 00:21:58,940
+Sie ist 50 Jahre alt.
+
+328
+00:21:58,940 --> 00:22:06,940
+Sie ist 1,65 Meter groß und 65 Kilogramm schwer.
+
+329
+00:22:07,060 --> 00:22:18,060
+Die Patientin stellte sich bei uns heute wegen seit 3 bis 4 Tagen bestehender,
+
+330
+00:22:18,060 --> 00:22:33,060
+dauerhaftige, siehenden Brustschmerzen erst mal aufgefallen, plötzlich aufgetreten und...
+
+331
+00:22:33,060 --> 00:22:35,060
+Links oder rechts?
+
+332
+00:22:35,180 --> 00:22:38,180
+Linksseitige.
+
+333
+00:22:38,180 --> 00:22:40,180
+Linksseitige Brustschmerzen.
+
+334
+00:22:40,180 --> 00:22:45,180
+Schmerzinterz ist 7 von 10.
+
+335
+00:22:45,180 --> 00:23:00,180
+Und dann habe ich diese Aufnahme unterbrochen und dann EKG schreiben und Blut für Labor abnehmen.
+
+336
+00:23:00,300 --> 00:23:07,300
+Danach haben wir ein Aufnahmengespräch weiter gemacht.
+
+337
+00:23:07,300 --> 00:23:18,300
+Wegen dieser Brustschmerzen, die Patientin nimmt Ibuprofen 600 Migramm eingenommen
+
+338
+00:23:18,300 --> 00:23:26,960
+und diese Medikamente bei ihm ein bisschen geholfen.
+
+339
+00:23:27,080 --> 00:23:41,140
+Und Schmerzen bei Belastung verstärken und begleiten.
+
+340
+00:23:41,140 --> 00:23:42,140
+Belastung?
+
+341
+00:23:44,140 --> 00:24:01,290
+Zum Beispiel eine Kiste oder Schwerdinge aufheben, dann hat sie Brustschmerzen.
+
+342
+00:24:03,290 --> 00:24:06,290
+Auch wenn sie treppensteigen oder zügig geht?
+
+343
+00:24:11,600 --> 00:24:14,600
+Nur bei Belastung hat sie Schmerzen.
+
+344
+00:24:14,600 --> 00:24:16,600
+Belastung ist ja unterschiedlich.
+
+345
+00:24:16,600 --> 00:24:22,600
+Belastung, körperliche Belastung mit schwer heben oder schnell laufen, treppensteigen.
+
+346
+00:24:24,600 --> 00:24:31,600
+Sie hat gesagt, bei Belastung, aber ich habe nicht diesen detaillierten Fragen gestellt.
+
+347
+00:24:31,720 --> 00:24:35,720
+Bei der körperlichen Untersuchung werde ich diese Frage stellen.
+
+348
+00:24:38,720 --> 00:24:42,720
+Diese Schmerzen erstmals aufgetreten.
+
+349
+00:24:57,940 --> 00:25:03,940
+Begleitend hat sie keine bestimmten Schwerden.
+
+350
+00:25:04,060 --> 00:25:16,060
+Zum Beispiel Herzrasen, Übelkeit, Emesis, Arithmi oder Erbrechen, Hautfarbeveränderung nicht.
+
+351
+00:25:16,060 --> 00:25:28,950
+An Vorerkrankungen leidet sie an Hypothyroese seit 20 Jahren.
+
+352
+00:25:28,950 --> 00:25:36,950
+Dagegen nimmt sie L-Tyroxin 25 Mikrogramm täglich regelmäßig.
+
+353
+00:25:39,950 --> 00:25:46,950
+Bei den Patienten keine bestimmten Operationen durchgeführt.
+
+354
+00:25:48,950 --> 00:25:59,950
+In der Familienanalyse ergaben ihre Vater an Myokardinfarktus gestorben.
+
+355
+00:25:59,950 --> 00:26:08,950
+Ihr Mutter lebt noch und leidet an Arteriellhypertonie und auch an Hypercholesterenämie.
+
+356
+00:26:09,950 --> 00:26:13,950
+Sie hat einen gesunden Bruder.
+
+357
+00:26:15,950 --> 00:26:22,950
+In Besuch auf Sozialanamnese ist sie verheiratet und hat keine Kinder.
+
+358
+00:26:22,950 --> 00:26:27,950
+Sie ist die Postkraft von Beruf.
+
+359
+00:26:27,950 --> 00:26:35,580
+Sie hat keine bestimmten Stress bei der Arbeit.
+
+360
+00:26:35,700 --> 00:26:54,420
+In Nesterzeit hat sie keine Gewichtveränderung und den Appetit und Schlaf sind gut.
+
+361
+00:26:54,420 --> 00:27:00,420
+In der jenekologischen Anamnese ist sie im Wechseljahr.
+
+362
+00:27:00,540 --> 00:27:10,540
+Ihre letzte Regelblutung ist schon lange hervorragend.
+
+363
+00:27:10,540 --> 00:27:17,360
+Sie hat Hausstauballergien.
+
+364
+00:27:17,360 --> 00:27:24,360
+Es äußert sich mit Nissen, Pruritus und Rhinokonjunktivitis mit.
+
+365
+00:27:24,360 --> 00:27:28,700
+Sie hat keine Unverträglichkeiten.
+
+366
+00:27:28,700 --> 00:27:31,700
+Impfstatus ist aktuell.
+
+367
+00:27:31,820 --> 00:27:38,960
+Sie ist nicht Raucher.
+
+368
+00:27:38,960 --> 00:27:47,960
+Als Jugendlichen versucht sie es ein paar Mal, aber nicht dauerhaft.
+
+369
+00:27:47,960 --> 00:27:59,880
+Sie trinkt ein oder zwei Mal einen Cocktail beim Promenade.
+
+370
+00:27:59,880 --> 00:28:12,800
+Drogenkonsum wurde verneint.
+
+371
+00:28:12,800 --> 00:28:16,750
+Das war es alles.
+
+372
+00:28:16,870 --> 00:28:24,870
+Meine erste Untersuchung beim Anamnese-Gespräch ist,
+
+373
+00:28:24,870 --> 00:28:29,870
+dass EKG und Vitalparameter stabil sind.
+
+374
+00:28:29,870 --> 00:28:40,870
+Aber ich denke, dass Anamnese-Gespräche am besten eine Akutt-Coronavirus-Syndrom,
+
+375
+00:28:40,870 --> 00:28:47,760
+besonders hochwahrscheinlich stabil, anzunehmen.
+
+376
+00:28:47,880 --> 00:28:54,880
+Sie hat keine Engegefühle.
+
+377
+00:28:54,880 --> 00:29:02,880
+Sie hat gesagt, sie hat bei Belastungen etwas aufheben.
+
+378
+00:29:02,880 --> 00:29:06,880
+Vielleicht ist sie bewegungsabhängig.
+
+379
+00:29:06,880 --> 00:29:11,880
+Haben Sie gefragt, ob das wehtut?
+
+380
+00:29:11,880 --> 00:29:17,250
+Nein, ich habe nicht gefragt.
+
+381
+00:29:17,370 --> 00:29:22,370
+Haben Sie gefragt, ob sie Schmerzen hat?
+
+382
+00:29:22,370 --> 00:29:32,210
+Ja, sie hat gesagt, besonders einatmend Probleme.
+
+383
+00:29:32,210 --> 00:29:35,210
+Hat sie gesagt?
+
+384
+00:29:35,210 --> 00:29:36,210
+Ja.
+
+385
+00:29:36,210 --> 00:29:41,210
+Sie hat gesagt, wenn sie einatmet, hat sie Schmerzen,
+
+386
+00:29:41,210 --> 00:29:48,820
+dann kann sie nicht mehr weiteratmen.
+
+387
+00:29:48,820 --> 00:29:50,820
+Ja, richtig.
+
+388
+00:29:50,940 --> 00:29:54,940
+Sie hat gesagt, wenn sie einatmet, hat sie Schmerzen,
+
+389
+00:29:54,940 --> 00:29:57,940
+dann kann sie nicht weiteratmen.
+
+390
+00:29:57,940 --> 00:30:02,940
+Man muss wissen, ob das wehtut, wenn Sie draufdrücken.
+
+391
+00:30:02,940 --> 00:30:08,940
+Vielleicht haben Sie gefragt, ob Sie einen Infekt hatten.
+
+392
+00:30:08,940 --> 00:30:12,940
+Hat Sie einen Atemwegskriegeninfekt gehabt?
+
+393
+00:30:12,940 --> 00:30:14,940
+War Sie krank?
+
+394
+00:30:15,060 --> 00:30:19,060
+Ein Infekt, Husten, Schnupfen, Erkältung?
+
+395
+00:30:19,060 --> 00:30:27,060
+Ja, ich habe bei der Vegetativeanalyse viele Fragen gefragt.
+
+396
+00:30:27,060 --> 00:30:34,060
+Aber begleitend oder vegetativ hat sie keine bestimmten Probleme.
+
+397
+00:30:34,060 --> 00:30:37,910
+Haben Sie gefragt?
+
+398
+00:30:37,910 --> 00:30:40,910
+Man muss explizit nachfragen.
+
+399
+00:30:40,910 --> 00:30:43,910
+Haben Sie vor kurzem einen Infekt gehabt?
+
+400
+00:30:43,910 --> 00:30:47,480
+Waren Sie erkrankt?
+
+401
+00:30:47,600 --> 00:30:50,600
+Haben Sie stark gehustet?
+
+402
+00:30:50,600 --> 00:30:53,600
+Sie hat keine Husten, keine Fieber.
+
+403
+00:30:53,600 --> 00:30:56,600
+Aktuell nicht, momentan nicht.
+
+404
+00:30:56,600 --> 00:30:59,600
+Aber vielleicht vor zwei Wochen.
+
+405
+00:30:59,600 --> 00:31:04,260
+Vielleicht vor einer Woche.
+
+406
+00:31:04,260 --> 00:31:09,260
+Aber diese Fragen sind nicht relevant in dieser Krankheit.
+
+407
+00:31:09,260 --> 00:31:11,260
+Nicht relevant?
+
+408
+00:31:11,260 --> 00:31:16,260
+Aktuell ist Anamnese nur Brustmesseln.
+
+409
+00:31:16,260 --> 00:31:18,260
+Richtig.
+
+410
+00:31:18,380 --> 00:31:21,380
+Ein Atmen und Brustmesseln.
+
+411
+00:31:21,380 --> 00:31:24,380
+Wenn Sie einatmet, hat sie Brustschmerzen.
+
+412
+00:31:24,380 --> 00:31:28,380
+Wenn sie sich bewegt, schwer hebt, hat sie auch Schmerzen.
+
+413
+00:31:28,380 --> 00:31:30,380
+Okay.
+
+414
+00:31:30,380 --> 00:31:33,380
+Sie haben recht, es kann ein Myokadinfekt sein.
+
+415
+00:31:33,380 --> 00:31:35,380
+Stabile Angina.
+
+416
+00:31:35,380 --> 00:31:40,380
+Aber normalerweise eine stabile Angina mit engem Gefühl.
+
+417
+00:31:40,380 --> 00:31:44,380
+Ja, aber nicht 100%
+
+418
+00:31:44,380 --> 00:31:46,380
+Richtig, genau.
+
+419
+00:31:46,500 --> 00:31:53,500
+Man muss zuerst einen Myokadinfekt oder eine coronare Herzerkrankung ausschließen.
+
+420
+00:31:53,500 --> 00:31:56,500
+Richtig, vollkommen richtig.
+
+421
+00:31:56,500 --> 00:32:01,500
+Aber man sollte hier auch an etwas anderes denken.
+
+422
+00:32:01,500 --> 00:32:03,500
+Ja.
+
+423
+00:32:03,500 --> 00:32:08,500
+Normalerweise, wenn Sie eine stabile Angina haben,
+
+424
+00:32:08,500 --> 00:32:11,500
+haben Sie keine Probleme, wenn Sie einatmen.
+
+425
+00:32:11,500 --> 00:32:15,900
+Richtig?
+
+426
+00:32:16,020 --> 00:32:19,020
+Haben Sie keine Schmerzen?
+
+427
+00:32:19,020 --> 00:32:22,020
+Richtig, aber Einatmenprobleme
+
+428
+00:32:22,020 --> 00:32:27,020
+während der Brustschmerzen, denke ich.
+
+429
+00:32:27,020 --> 00:32:29,020
+Nicht mehr so das oder?
+
+430
+00:32:29,020 --> 00:32:31,020
+Nein, Sie hat ja gesagt,
+
+431
+00:32:31,020 --> 00:32:33,020
+wenn Sie einatmet, hat Sie Schmerzen,
+
+432
+00:32:33,020 --> 00:32:36,020
+dann kann Sie nicht mehr weiteratmen.
+
+433
+00:32:36,020 --> 00:32:39,020
+So hat Sie das gesagt.
+
+434
+00:32:39,020 --> 00:32:41,020
+Okay.
+
+435
+00:32:41,020 --> 00:32:44,020
+Also man muss überlegen, natürlich, Sie haben recht.
+
+436
+00:32:44,140 --> 00:32:48,140
+Ich habe Verdacht auf Angina Pectoris oder stabile Angina, K.A.K.
+
+437
+00:32:48,140 --> 00:32:51,140
+Alles richtig, vollkommen richtig.
+
+438
+00:32:51,140 --> 00:32:54,140
+Aber um die Anamnese zu verfeinern,
+
+439
+00:32:54,140 --> 00:32:56,140
+also eine detaillierte Anamnese,
+
+440
+00:32:56,140 --> 00:32:59,140
+kann man, weil Ihr EKG ist unauffällig,
+
+441
+00:32:59,140 --> 00:33:02,140
+EKG muss nicht auffällig sein, muss kein Stemmys sein,
+
+442
+00:33:02,140 --> 00:33:04,140
+ist richtig.
+
+443
+00:33:04,140 --> 00:33:07,140
+Aber man muss vielleicht auch an etwas anderes denken.
+
+444
+00:33:07,140 --> 00:33:11,140
+Vielleicht hat Sie ein Musculoskeletal-Torakalisch-Schmerzen.
+
+445
+00:33:11,260 --> 00:33:14,260
+Meine Verdacht Diagnose ist Muskelverspannung,
+
+446
+00:33:14,260 --> 00:33:16,260
+Interkostalneuralgie zum Beispiel.
+
+447
+00:33:16,260 --> 00:33:20,260
+Genau, kann das sein, es kann auch eine Myokaditis sein,
+
+448
+00:33:20,260 --> 00:33:23,260
+aber es kann bei Frauen auch eine,
+
+449
+00:33:23,260 --> 00:33:28,260
+oder bei Männern auch, eine sogenannte Interkostalneuralgie sein.
+
+450
+00:33:28,260 --> 00:33:31,260
+Ja, ich habe, ja, der Franz Lampisch.
+
+451
+00:33:31,260 --> 00:33:33,260
+Schonmal gehört, ja, kennen Sie?
+
+452
+00:33:33,260 --> 00:33:35,260
+Ja.
+
+453
+00:33:35,260 --> 00:33:38,260
+Genau, Interkostalneuralgie, stechende Schmerzen,
+
+454
+00:33:38,380 --> 00:33:44,380
+bei Bewegung, nach einem Infekt, beim tiefen Einatmen tritt auch auf.
+
+455
+00:33:44,380 --> 00:33:46,380
+Ja, natürlich.
+
+456
+00:33:46,380 --> 00:33:48,380
+Also man muss auch daran denken,
+
+457
+00:33:48,380 --> 00:33:50,380
+wenn man jetzt alles ausgeschlossen hat,
+
+458
+00:33:50,380 --> 00:33:54,380
+muss man auch überlegen, später, oder auch in der Unfallambulanz,
+
+459
+00:33:54,380 --> 00:33:57,380
+es könnte auch eine funktionelle Störung sein,
+
+460
+00:33:57,380 --> 00:33:59,380
+ein funktioneller Schmerz.
+
+461
+00:33:59,380 --> 00:34:03,380
+Wichtig ist immer hier zu fragen, meiner Meinung nach,
+
+462
+00:34:03,380 --> 00:34:05,380
+wenn Sie auf die Stelle draufdrücken,
+
+463
+00:34:05,500 --> 00:34:07,500
+haben Sie Schmerzen?
+
+464
+00:34:07,500 --> 00:34:11,500
+Das hat keiner gefragt, dann hätte die Patientin Ja gesagt.
+
+465
+00:34:11,500 --> 00:34:13,500
+Das muss man fragen,
+
+466
+00:34:13,500 --> 00:34:17,500
+haben Sie Schmerzen, wenn Sie auf die Stelle draufdrücken?
+
+467
+00:34:17,500 --> 00:34:20,500
+Haben Sie Schmerzen beim Einatmen?
+
+468
+00:34:20,500 --> 00:34:24,500
+Haben Sie Schmerzen beim Treppenlaufen hoch?
+
+469
+00:34:24,500 --> 00:34:27,500
+Oder haben Sie Schmerzen, wenn Sie sich bewegen?
+
+470
+00:34:27,500 --> 00:34:31,500
+Das muss man auch fragen, haben Sie den Schmerzen,
+
+471
+00:34:31,500 --> 00:34:33,500
+wenn Sie den Arm nach links bewegen,
+
+472
+00:34:33,620 --> 00:34:37,620
+wenn Sie den Arm nach links bewegen, nach rechts bewegen?
+
+473
+00:34:37,620 --> 00:34:39,620
+Das muss man mit dran denken.
+
+474
+00:34:39,620 --> 00:34:45,620
+Also nicht alles ist eine KHK, also eine stabil angegene Faktorist,
+
+475
+00:34:45,620 --> 00:34:49,620
+weil Sie haben immer gesagt, bei Belastung, bei Belastung,
+
+476
+00:34:49,620 --> 00:34:53,620
+Sie haben Recht, aber Belastung ist nicht Belastung.
+
+477
+00:34:53,620 --> 00:34:55,620
+Es gibt kardiale Belastung,
+
+478
+00:34:55,620 --> 00:35:00,620
+wenn man Treppen steigt oder einen Berg hochläuft.
+
+479
+00:35:00,740 --> 00:35:03,740
+Aber es gibt körperliche Belastung,
+
+480
+00:35:03,740 --> 00:35:06,740
+wenn Sie schwer heben, Muskel anstrengen,
+
+481
+00:35:06,740 --> 00:35:09,740
+das ist dann wieder was anderes.
+
+482
+00:35:09,740 --> 00:35:11,740
+Nur dass man dran denkt.
+
+483
+00:35:13,740 --> 00:35:17,740
+Genau, mit dem Finger kann man das lokalisieren.
+
+484
+00:35:17,740 --> 00:35:20,740
+Zum Beispiel, wo ist der Schmerz genau?
+
+485
+00:35:20,740 --> 00:35:22,740
+Die meisten Patienten sagen dann,
+
+486
+00:35:22,740 --> 00:35:26,740
+ein punktueller Schmerz hier, da, an der Brust.
+
+487
+00:35:26,740 --> 00:35:28,740
+Zum Beispiel.
+
+488
+00:35:28,860 --> 00:35:30,860
+Nur als Information.
+
+489
+00:35:32,860 --> 00:35:42,640
+Gibt es Fragen?
+
+490
+00:35:42,640 --> 00:35:45,640
+Man denkt immer an einen Myokardinfarkt,
+
+491
+00:35:45,640 --> 00:35:49,640
+aber nicht immer ist es ein Myokardinfarkt,
+
+492
+00:35:49,640 --> 00:35:51,640
+nicht immer ist es eine KHK.
+
+493
+00:35:53,640 --> 00:35:57,640
+Natürlich hat die Patientin eine Familie in der Namese,
+
+494
+00:35:57,640 --> 00:36:00,640
+Vater ist an Myokardinfarkt verstorben,
+
+495
+00:36:00,640 --> 00:36:02,640
+man muss einen Myokardinfarkt ausschließen.
+
+496
+00:36:02,640 --> 00:36:04,640
+Vollkommen richtig.
+
+497
+00:36:04,760 --> 00:36:06,760
+Man muss alles machen,
+
+498
+00:36:06,760 --> 00:36:10,760
+V.a. Ultraschall, Troponin, muss man alles machen.
+
+499
+00:36:10,760 --> 00:36:13,760
+Aber man muss noch detailliert fragen,
+
+500
+00:36:13,760 --> 00:36:16,760
+was für ein Thorak Schmerz.
+
+501
+00:36:16,760 --> 00:36:19,760
+Nicht jeder Thorak Schmerz ist eine Angina.
+
+502
+00:36:19,760 --> 00:36:22,760
+Diese Patientin hat keine Angina.
+
+503
+00:36:22,760 --> 00:36:25,760
+Sie hat nur thorakale Schmerzen,
+
+504
+00:36:25,760 --> 00:36:30,100
+punktuell bei Einatmung und Belastung.
+
+505
+00:36:30,100 --> 00:36:34,100
+Körperliche Belastung, schwer heben oder arm bewegen.
+
+506
+00:36:36,100 --> 00:36:39,100
+Interkostalneuralgie.
+
+507
+00:36:39,100 --> 00:36:42,100
+Das ist sehr oft.
+
+508
+00:36:42,100 --> 00:36:46,100
+In der Notfallaufnahme, in der Haushaltspraxis.
+
+509
+00:36:46,100 --> 00:36:50,100
+Wenn die Patienten sagen, hier tut es mir weh.
+
+510
+00:36:50,100 --> 00:36:54,100
+Das zieht nach links oder kommt von links nach vorne.
+
+511
+00:36:54,100 --> 00:36:57,100
+Immer zwischen den Rippen.
+
+512
+00:36:57,100 --> 00:37:00,100
+Interkostalneuralgie.
+
+513
+00:37:00,100 --> 00:37:04,100
+Kann sein, aber sie hat keinen Hausausschlag.
+
+514
+00:37:04,220 --> 00:37:07,220
+7 ist nicht hoch für diesen Fall?
+
+515
+00:37:07,220 --> 00:37:10,220
+Ist hoch.
+
+516
+00:37:10,220 --> 00:37:13,220
+Ist hoch.
+
+517
+00:37:13,220 --> 00:37:18,460
+7 ist hoch.
+
+518
+00:37:18,460 --> 00:37:21,460
+Aber Herr Atec hat gefragt,
+
+519
+00:37:21,460 --> 00:37:24,460
+haben Sie enge Gefühle?
+
+520
+00:37:24,460 --> 00:37:27,460
+Mehrmals gefragt, ist gut.
+
+521
+00:37:27,460 --> 00:37:30,460
+Aber Sie haben gesagt, ich habe Thorak Schmerzen.
+
+522
+00:37:30,460 --> 00:37:33,460
+Ich habe Brustschmerzen.
+
+523
+00:37:33,580 --> 00:37:36,580
+Punktuell oder wenn Sie den Arm bewegen,
+
+524
+00:37:36,580 --> 00:37:39,580
+wenn Sie tief einatmen.
+
+525
+00:37:39,580 --> 00:37:42,580
+Das hätte man fragen können.
+
+526
+00:37:42,580 --> 00:37:47,890
+Meiner Meinung nach.
+
+527
+00:37:47,890 --> 00:37:50,890
+Entschuldigung.
+
+528
+00:37:50,890 --> 00:37:53,890
+Wir müssen unsere Verdacht
+
+529
+00:37:53,890 --> 00:37:57,890
+und Differenzialdiagnose relevant mitbeschwerden.
+
+530
+00:37:57,890 --> 00:38:00,890
+Ich habe eine Verdachtdiagnose.
+
+531
+00:38:00,890 --> 00:38:03,890
+Richtig.
+
+532
+00:38:04,010 --> 00:38:07,010
+Auch auf eine Differenzialdiagnose.
+
+533
+00:38:07,010 --> 00:38:10,010
+Wenn meine Verdachtdiagnose nicht richtig ist,
+
+534
+00:38:10,010 --> 00:38:13,010
+aber die Differenzialdiagnose besteht,
+
+535
+00:38:13,010 --> 00:38:16,010
+dann gibt es keine Probleme.
+
+536
+00:38:16,010 --> 00:38:19,010
+Ich habe nicht gesagt, dass es ein Problem ist.
+
+537
+00:38:19,010 --> 00:38:22,010
+Sie haben alles richtig gemacht.
+
+538
+00:38:22,010 --> 00:38:25,010
+Ich habe nur eine Empfehlung gegeben,
+
+539
+00:38:25,010 --> 00:38:28,010
+wie man noch detaillierter fragen könnte,
+
+540
+00:38:28,010 --> 00:38:31,010
+um Differenzialdiagnose zu arbeiten.
+
+541
+00:38:31,130 --> 00:38:34,130
+Sie haben nichts falsch gemacht.
+
+542
+00:38:34,130 --> 00:38:37,130
+Alles okay.
+
+543
+00:38:37,130 --> 00:38:40,130
+Könnte Dauer und Charakter unterschieden?
+
+544
+00:38:40,130 --> 00:38:43,130
+Dauerhafte Schmerzen.
+
+545
+00:38:43,130 --> 00:38:46,130
+Sie haben immer Schmerzen dort.
+
+546
+00:38:46,130 --> 00:38:49,130
+Wenn sie sich bewegt, hat sie mehr Schmerzen.
+
+547
+00:38:49,130 --> 00:38:52,130
+Aber eine stabile Angina,
+
+548
+00:38:52,130 --> 00:38:55,130
+wie Herr Atech gefragt hat,
+
+549
+00:38:55,130 --> 00:38:58,130
+bei Belastung hat man die immer.
+
+550
+00:38:58,250 --> 00:39:01,250
+Ich glaube, die wichtigste Sache ist der Schmerzcharakter.
+
+551
+00:39:01,250 --> 00:39:04,250
+Die Lokalisation von Schmerzen.
+
+552
+00:39:04,250 --> 00:39:07,250
+Zum Beispiel den Lauenpunkt.
+
+553
+00:39:07,250 --> 00:39:10,250
+Angina konnte nicht genau beschreiben.
+
+554
+00:39:10,250 --> 00:39:13,250
+Richtig.
+
+555
+00:39:13,250 --> 00:39:16,250
+Meistens ist Angina drückend.
+
+556
+00:39:16,250 --> 00:39:19,250
+Ein enger Gefühl, ein drückender Schmerz.
+
+557
+00:39:19,250 --> 00:39:26,090
+Als wenn jemand drauf sitzt.
+
+558
+00:39:26,090 --> 00:39:29,090
+Ich wollte mit dem Fall zeigen,
+
+559
+00:39:29,210 --> 00:39:32,210
+dass wir nicht nur den Fall Myokardinfarkt in den Vordergrund bringen.
+
+560
+00:39:32,210 --> 00:39:35,210
+Sondern auch, dass es andere Diagnosen häufig gibt.
+
+561
+00:39:35,210 --> 00:39:38,210
+In der Notaufnahme und in der Hausarztpraxis.
+
+562
+00:39:38,210 --> 00:39:41,210
+Nicht jeder, der kommt und sagt,
+
+563
+00:39:41,210 --> 00:39:44,210
+ich habe Brustschmerzen, hat einen Myokardinfarkt.
+
+564
+00:39:44,210 --> 00:39:47,210
+Man muss daran denken,
+
+565
+00:39:47,210 --> 00:39:50,210
+wenn man genau fragt,
+
+566
+00:39:50,210 --> 00:39:53,210
+kann man die Diagnose schon meistens wissen.
+
+567
+00:39:53,210 --> 00:39:56,210
+Natürlich müssen Sie einen Infarkt ausschließen.
+
+568
+00:39:56,330 --> 00:39:59,330
+Das ist Pflicht.
+
+569
+00:39:59,330 --> 00:40:02,330
+Bei Frauen sowieso.
+
+570
+00:40:02,330 --> 00:40:05,330
+Da kann der Schmerz immer anders sein.
+
+571
+00:40:05,330 --> 00:40:14,470
+Sie müssen immer vom Schlimmsten ausgehen.
+
+572
+00:40:14,470 --> 00:40:17,470
+EKG, Tropolin machen.

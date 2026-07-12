@@ -1,0 +1,1471 @@
+1
+00:00:00,000 --> 00:00:02,000
+Ja, dann los.
+
+2
+00:00:02,000 --> 00:00:15,000
+Okay. Guten Tag. Bitte nehmen Sie Platz. Mein Name ist Dr. Daya Salam. Ich bin heute die diensthabende Ärztin für Sie heute und möchte mit Ihnen das Anamnesegespräch führen.
+
+3
+00:00:15,000 --> 00:00:22,000
+Wenn Sie Fragen haben oder wenn Sie etwas nicht verstehen, können Sie mir das Bescheid sagen. Sind Sie damit anverstanden?
+
+4
+00:00:22,000 --> 00:00:25,000
+Ja, Hauptsache, man guckt nach mir. Ja, klar.
+
+5
+00:00:25,000 --> 00:00:31,000
+Okay. Jetzt muss ich die persönlichen Daten aufnehmen. Wie heißen Sie denn?
+
+6
+00:00:31,000 --> 00:00:34,000
+Ich heiße Manfred Simon.
+
+7
+00:00:34,000 --> 00:00:42,000
+Manfred Simon. Können Sie bitte den Namen und den Nachnamen langsam buchstabieren?
+
+8
+00:00:42,000 --> 00:00:55,000
+Ja, der Vorname Manfred. Ein Männername. Simon.
+
+9
+00:00:55,000 --> 00:01:00,000
+Okay, danke schön. Wie alt sind Sie und wann sind Sie geboren?
+
+10
+00:01:00,000 --> 00:01:08,000
+Ich bin 76 und geboren am 25.09.49.
+
+11
+00:01:08,000 --> 00:01:14,000
+Wie groß sind Sie und wie viel wiegen Sie, Herr Simon?
+
+12
+00:01:14,000 --> 00:01:22,000
+Ich bin 178 und wiege jetzt noch 89 Kilo.
+
+13
+00:01:22,000 --> 00:01:27,000
+89 Kilo. Wer ist Ihr Hausarzt?
+
+14
+00:01:27,000 --> 00:01:30,000
+Dr. Frisch.
+
+15
+00:01:31,000 --> 00:01:36,000
+Wie ist Ihre Adresse? Wo wohnen Sie?
+
+16
+00:01:36,000 --> 00:01:39,000
+Das brauchen wir jetzt nicht.
+
+17
+00:01:39,000 --> 00:01:46,000
+Okay. Was führt Sie zu uns, Herr Simon?
+
+18
+00:01:46,000 --> 00:01:54,000
+Ja, also wissen Sie, ich habe eigentlich schon jahrelang immer so einen chronischen Husten.
+
+19
+00:01:54,000 --> 00:02:00,000
+Wobei, ja, das ist natürlich kein Wunder. Ich habe auch jahrelang immer geraucht.
+
+20
+00:02:00,000 --> 00:02:09,000
+Aber das hat sich jetzt eigentlich schon so ein bisschen verschlechtert und macht mir so ein bisschen Angst.
+
+21
+00:02:09,000 --> 00:02:19,000
+Und zwar, ja, einmal kommt da mit einem beim Husten so blutiger Leim mit raus.
+
+22
+00:02:19,000 --> 00:02:28,000
+Das gefällt mir irgendwie gar nicht. Und ich fühle mich auch mit einmal total schlapp.
+
+23
+00:02:28,000 --> 00:02:31,000
+Ich komme also ganz schlecht noch die Treppe hoch.
+
+24
+00:02:31,000 --> 00:02:37,000
+Dann habe ich das Gefühl, mein Herz klopft mir also bis zu den Ohren.
+
+25
+00:02:37,000 --> 00:02:45,000
+Und ich bin total müde und habe morgens so das Gefühl, ich komme gar nicht aus dem Bett.
+
+26
+00:02:45,000 --> 00:02:54,000
+Und ich meine, klar, ich bin jetzt nicht mehr jung, aber dass ich mich so schlecht und schlapp fühle, das kenne ich eigentlich nicht.
+
+27
+00:02:54,000 --> 00:03:04,000
+Okay, Sie haben normalerweise chronischen Husten, aber jetzt ein blutiger Schleim, haben Sie auch bemerkt.
+
+28
+00:03:04,000 --> 00:03:10,000
+Ja, und es tut auch weh. Es tut auch weh beim Husten.
+
+29
+00:03:11,000 --> 00:03:16,000
+Seit wann haben sich die Beschwerden verschlechtert?
+
+30
+00:03:16,000 --> 00:03:20,000
+Vielleicht so seit zwei, drei Monaten oder so.
+
+31
+00:03:23,000 --> 00:03:30,000
+Seit zwei, drei Monaten haben sie sich verschlechtert.
+
+32
+00:03:30,000 --> 00:03:35,000
+Und mit Ausbruch haben Sie den Husten, oder?
+
+33
+00:03:35,000 --> 00:03:44,000
+Ja, wenn da so Schleim rauskommt, und es ist mir jetzt halt verstärkt aufgefallen, dass da immer mal so blutiges Zeug dabei ist.
+
+34
+00:03:44,000 --> 00:03:46,000
+Und das kann ja nicht gut sein.
+
+35
+00:03:46,000 --> 00:03:53,000
+Ja, und das Blut haben Sie auch seit zwei, drei Monaten im Schleim gesehen, oder?
+
+36
+00:03:53,000 --> 00:03:59,000
+Ja, so ungefähr das erste Mal. Es ist dann nicht jedes Mal natürlich, aber hin und wieder.
+
+37
+00:03:59,000 --> 00:04:03,000
+Okay, ist es vermischt mit Ausbruch, oder?
+
+38
+00:04:03,000 --> 00:04:04,000
+Ja, ja.
+
+39
+00:04:04,000 --> 00:04:13,000
+Okay, vermischt. Okay, waren Sie wegen diese Beschwerden schon beim Arzt, oder kommen Sie zum Arzt?
+
+40
+00:04:13,000 --> 00:04:24,000
+Ja, also bei meinem Hausarzt war ich mal, aber das ist jetzt auch schon wieder lange her, weil ich halt immer diesen Husten habe, der sagt dann halt so, Sie dürfen halt nicht rauchen.
+
+41
+00:04:24,000 --> 00:04:33,000
+Und ja, das nutzt mir aber ja auch nichts. Ich rauche nun mal und der Husten ist halt da. Und das kann man nicht ohne Weiteres aufhören in meinem Alter.
+
+42
+00:04:33,000 --> 00:04:39,000
+Ich meine, seit drei Monaten waren Sie, glaube ich, nicht beim Hausarzt, oder?
+
+43
+00:04:39,000 --> 00:04:46,000
+Doch, ja, da war ich schon mal zwischendurch beim Hausarzt. Aber ja, da haben wir nicht viel.
+
+44
+00:04:46,000 --> 00:05:00,000
+Also der guckt dann auch immer mal nach den Prostata-Werten, weil ich so ein bisschen so eine verdickte Prostata habe.
+
+45
+00:05:00,000 --> 00:05:12,000
+Das scheint aber irgendwie okay zu sein. Aber da kontrolliert er immer mal diesen PSA-Wert. Aber sonst bin ich da eigentlich selten bei meinem Hausarzt.
+
+46
+00:05:12,000 --> 00:05:18,000
+Und wurde eine Diagnose festgestellt? Früher? Wegen diesem Husten?
+
+47
+00:05:18,000 --> 00:05:21,000
+Nein, also der hat immer gesagt, ja, Raucher-Husten, ne?
+
+48
+00:05:21,000 --> 00:05:39,000
+Raucher-Husten, okay. Ich verstehe. Und der Husten, kann ich den ein bisschen fragen? Ist der Husten morgens in einem besonderen Zeitraum?
+
+49
+00:05:39,000 --> 00:05:54,000
+Eigentlich, also morgens, wenn ich aufwache, muss ich natürlich ordentlich abhusten. Und abends beim Einschlafen merke ich, dass ich eben erstmal ordentlich husten muss, bevor ich mich richtig hinlegen kann.
+
+50
+00:05:54,000 --> 00:06:00,000
+Aber eigentlich ist es inzwischen so, dass ich den ganzen Tag immer wieder kräftig husten muss.
+
+51
+00:06:00,000 --> 00:06:04,000
+Okay. Und immer mit Auswurf?
+
+52
+00:06:04,000 --> 00:06:09,000
+Nicht immer, aber öfters. Okay, ich verstehe.
+
+53
+00:06:09,000 --> 00:06:16,000
+Haben Sie noch begleitende Beschwerden?
+
+54
+00:06:16,000 --> 00:06:23,000
+Ja, wie gesagt, dass ich mich so schlapp fühle und dass ich überhaupt gar keinen Appetit habe zum Beispiel.
+
+55
+00:06:23,000 --> 00:06:33,000
+Also das Essen schmeckt mir gar nicht. Und es ist auch so, ich bin alleine. Meine Frau ist schon lange verstorben und ich lebe alleine.
+
+56
+00:06:33,000 --> 00:06:41,000
+Und ja, dann habe ich keine Lust, mir was zu essen zu machen. Und das schmeckt mir eigentlich auch nicht.
+
+57
+00:06:41,000 --> 00:06:50,000
+Selbst wenn ich was mache, was ich eigentlich gerne esse, dann stütze ich davor und denke, ach, brauche ich eigentlich nicht so. Ganz doof.
+
+58
+00:06:50,000 --> 00:06:58,000
+Seit zwei, drei Monaten haben Sie das? Appetitlosigkeit, Müdigkeit und...
+
+59
+00:06:58,000 --> 00:07:01,000
+Ja, das kann man so sagen, ja.
+
+60
+00:07:01,000 --> 00:07:04,000
+Und seit wann leben Sie alleine?
+
+61
+00:07:04,000 --> 00:07:07,000
+Schon lange. Meine Frau ist vor fünf Jahren gestorben.
+
+62
+00:07:07,000 --> 00:07:12,000
+Ach so. Ich wollte fragen, ob es mit dem zu tun hat.
+
+63
+00:07:13,000 --> 00:07:22,000
+Und wie ist Ihre Stimmung? Haben Sie eine depressive Stimmung oder so?
+
+64
+00:07:22,000 --> 00:07:32,000
+Na ja, im Augenblick merke ich halt, dass es mir so schlecht geht. Und das macht mich schon so ein bisschen bedrückt.
+
+65
+00:07:33,000 --> 00:07:47,050
+Ok. Haben Sie irgendwo Schmerzen? Sie haben gesagt, dass Sie beim Husten Schmerzen haben.
+
+66
+00:07:47,050 --> 00:07:49,050
+Ja, das tut sehr weh, ja.
+
+67
+00:07:49,050 --> 00:07:54,050
+Beim Husten. Und haben Sie noch andere Schmerzen?
+
+68
+00:07:54,050 --> 00:07:57,050
+Nee, sonst eigentlich nicht, nein.
+
+69
+00:07:57,050 --> 00:08:01,050
+Und beim Husten haben Sie Brustschmerzen, oder?
+
+70
+00:08:01,050 --> 00:08:03,050
+Ja, ja, ja.
+
+71
+00:08:03,050 --> 00:08:14,740
+Ok. Und ist es schlimmer mit Belastung? Haben Sie das bemerkt?
+
+72
+00:08:14,740 --> 00:08:27,740
+Ja, also was schlechter ist, wenn ich mich körperlich anstrengen, zum Beispiel eine Treppe hoch gehe, da habe ich das Gefühl, dass ich nicht gut Luft bekomme.
+
+73
+00:08:27,740 --> 00:08:31,740
+Und dass mein Herz eben rast.
+
+74
+00:08:31,740 --> 00:08:40,740
+Ok, ich verstehe. Und bei, ja. Haben Sie einen Auslöser bemerkt für diese Schwerden?
+
+75
+00:08:40,740 --> 00:08:47,740
+Also ja, ich kann mir schon denken, dass es mit dem Rauchen zusammenhängt, ja.
+
+76
+00:08:47,740 --> 00:09:03,060
+Aber ich habe das schon sehr reduziert. Ich habe früher immer Zigaretten geraucht und jetzt rauche ich nur so ganz selten am Tag noch mal eine Pfeife, um das nicht ganz zu lassen.
+
+77
+00:09:03,060 --> 00:09:12,060
+Ok. Und Schmerzen haben Sie noch woanders nicht, oder?
+
+78
+00:09:12,060 --> 00:09:18,060
+Ja, also ich habe noch Rückenschmerzen, weil ich einen Bandscheibenvorfall habe.
+
+79
+00:09:18,060 --> 00:09:26,060
+Und ich hatte schon mal einen vor zehn Jahren und das ist dann operiert worden.
+
+80
+00:09:26,060 --> 00:09:32,060
+Und jetzt habe ich aber keine Lust mehr auf eine Operation. Ich denke in meinem Alter, das ist nur zu gefährlich.
+
+81
+00:09:32,060 --> 00:09:37,060
+Und ja, da habe ich halt hin und wieder mal Rückenschmerzen. Da muss ich schon auch ein bisschen drauf aufpassen.
+
+82
+00:09:37,060 --> 00:09:43,060
+Aber da bin ich dann auch wirklich nicht kleinlich und nehme dann auch mal Schmerztabletten.
+
+83
+00:09:43,060 --> 00:09:47,060
+Ok. Wegen Diskusprolaps wurden Sie operiert, oder?
+
+84
+00:09:47,060 --> 00:09:49,060
+So ein Bandscheibenvorfall, ja.
+
+85
+00:09:49,060 --> 00:10:03,060
+Ok, danke schön. Geht es Ihnen schlecht? Haben Sie schwindelig oder Emesis? Mussten Sie sich erbrechen?
+
+86
+00:10:03,060 --> 00:10:12,060
+Nein, übergeben musste ich mich nicht. Und das Essen schmeckt nicht.
+
+87
+00:10:12,060 --> 00:10:19,060
+Also ich habe überhaupt keinen Appetit. Das ist nicht so richtig Übelkeit. Aber es lockt mich eben auch gar nicht.
+
+88
+00:10:19,060 --> 00:10:25,060
+Und eben dieses, dass ich mich so schlapp fühle.
+
+89
+00:10:25,060 --> 00:10:33,060
+Haben Sie Pippo bemerkt?
+
+90
+00:10:33,060 --> 00:10:39,060
+Ist mir nicht aufgefallen. Ich habe mich nicht gemessen, aber ich fiebre ich fühle mich eigentlich nicht.
+
+91
+00:10:39,060 --> 00:10:43,500
+Haben Sie Nachtschweiß bemerkt?
+
+92
+00:10:43,500 --> 00:10:46,500
+Also schwitzen tue ich eigentlich nicht in der Nacht.
+
+93
+00:10:46,500 --> 00:10:52,500
+Also wenn es natürlich so eine ganz heiße Nacht ist und die Wohnung sich aufgeheizt hat, dann ist mir schon mal warm.
+
+94
+00:10:52,500 --> 00:10:58,500
+Aber eigentlich wache ich mehr auf, weil ich so ein, zwei Mal in der Nacht auf die Toilette muss.
+
+95
+00:10:58,500 --> 00:11:04,500
+Wegen Brustteile.
+
+96
+00:11:04,500 --> 00:11:06,500
+Ja, genau.
+
+97
+00:11:06,500 --> 00:11:25,790
+Nachts zwei, drei Mal. Übelkeit haben Sie nicht. Wie ist das mit dem Schulgang? Haben Sie Probleme beim Schulgang?
+
+98
+00:11:26,790 --> 00:11:30,790
+Eigentlich funktioniert das nur einsam frei.
+
+99
+00:11:30,790 --> 00:11:40,790
+Okay, keine Problems. Haben Sie das Bewusstsein verloren? Denke ich nicht, aber ich muss das wieder fragen.
+
+100
+00:11:40,790 --> 00:11:44,790
+Oder war es Ihnen schwindelig in der letzten Zeit?
+
+101
+00:11:44,790 --> 00:11:52,790
+Nee, also schwindelig nicht. Also wie gesagt, so luftnötig, so beim Treppe hochgehen oder bei Anstrengungen.
+
+102
+00:11:52,790 --> 00:11:59,790
+Oder wenn ich eine schwere Einkaufs Tasche trage, dann habe ich das Gefühl, mir fehlt die Luft.
+
+103
+00:11:59,790 --> 00:12:03,790
+Aber dass ich jetzt schwindelig bin, das würde ich jetzt nicht sagen.
+
+104
+00:12:03,790 --> 00:12:08,790
+Und Schlafprobleme haben Sie wegen dem Wasserlassen?
+
+105
+00:12:08,790 --> 00:12:20,790
+Ja, und ich schlafe auch abends nicht gut ein. Ich liege dann im Bett und im Bunde irgendwie rum und kann nicht so richtig zur Ruhe kommen.
+
+106
+00:12:20,790 --> 00:12:24,790
+Seit wann haben Sie die Einschlafprobleme?
+
+107
+00:12:24,790 --> 00:12:29,790
+Die habe ich eigentlich schon lange, vielleicht schon ein halbes Jahr oder Jahr.
+
+108
+00:12:29,790 --> 00:12:35,790
+Okay, und Schlafprobleme auch wegen dem Wasserlassen.
+
+109
+00:12:35,790 --> 00:12:40,790
+Gehen Sie regelmäßig zu Ihrem Öologen?
+
+110
+00:12:40,790 --> 00:12:45,790
+Zum Öologen ja, da gehe ich regelmäßig hin. Also einmal im Jahr gehe ich dahin.
+
+111
+00:12:45,790 --> 00:12:51,790
+Ich habe noch eine Frage vergessen.
+
+112
+00:12:51,790 --> 00:12:58,790
+Haben Sie wegen dieser Beschwerden ein Medikament eingenommen? Wegen den Husten oder so?
+
+113
+00:12:58,790 --> 00:13:05,790
+Ja, also gegen den Husten nehme ich halt immer mal wieder so normalen Hustensaft, den man so kaufen kann.
+
+114
+00:13:05,790 --> 00:13:16,790
+Mit Fenchel oder was man so in der Apotheke bekommen kann. Aber das hilft eigentlich auch nicht so richtig.
+
+115
+00:13:16,790 --> 00:13:28,790
+Okay, wir sollten nicht selber ein Medikament kaufen ohne ärztliche Raten.
+
+116
+00:13:29,790 --> 00:13:36,790
+Und haben Sie Vorerkrankungen außer dieser Lungenerkrankung?
+
+117
+00:13:36,790 --> 00:13:41,790
+Wie gesagt, die Ostfata-Geschichte, das habe ich seit 10 Jahren.
+
+118
+00:13:41,790 --> 00:13:48,790
+Dieser neue Bandscheibenvorfall, damit murke ich jetzt schon seit drei Jahren rum.
+
+119
+00:13:48,790 --> 00:13:58,790
+Dann habe ich natürlich auch einen hohen Blutdruck. Das ist schon vor mehr als zehn Jahren festgestellt worden.
+
+120
+00:13:58,790 --> 00:14:07,790
+Und was mich auch ein bisschen einschränkt, auf dem linken Auge kann ich nicht so gut gucken.
+
+121
+00:14:07,790 --> 00:14:13,790
+Da habe ich grauen Star. Da hat der Augenarzt auch gesagt, man kann das doch gut operieren.
+
+122
+00:14:13,790 --> 00:14:19,790
+Ich mag irgendwie gar nicht mehr mich operieren lassen. Ich habe da eigentlich Angst davor.
+
+123
+00:14:19,790 --> 00:14:29,790
+Ich verstehe Sie. Und als Medikament nehmen Sie Hustensaft und für Bluthochdruck was nehmen Sie ein?
+
+124
+00:14:29,790 --> 00:14:32,790
+Da nehme ich Conco 5.
+
+125
+00:14:32,790 --> 00:14:35,790
+Conco 5 Milligramm. Wie viel mal täglich?
+
+126
+00:14:35,790 --> 00:14:38,790
+Da nehme ich morgens eine.
+
+127
+00:14:38,790 --> 00:14:41,790
+Und für Brustblätter nehmen Sie auch etwas ein?
+
+128
+00:14:41,790 --> 00:14:47,790
+Ja, da nehme ich jeden Morgen etwas ein. Aber fragen Sie mich nicht, wie das heißt.
+
+129
+00:14:47,790 --> 00:14:51,790
+Ich habe das zu Hause auf dem Esstisch liegen, aber ich habe das nicht mitgenommen.
+
+130
+00:14:51,790 --> 00:14:55,790
+Das können wir nachher lernen.
+
+131
+00:14:55,790 --> 00:15:01,790
+Und nehmen Sie auch Schmerzmittel für Bandscheibenvorfall?
+
+132
+00:15:01,790 --> 00:15:05,790
+Ja, wenn das ganz schlimm ist, dann nehme ich Ibuprofen.
+
+133
+00:15:05,790 --> 00:15:10,790
+Wissen Sie die Dosierung?
+
+134
+00:15:10,790 --> 00:15:19,790
+Ich meine, das sind 600er. Also wenn schon, dann muss ich auch richtig was nehmen, weil die Schmerzen, wenn sie da sind, sind auch ziemlich kräftig.
+
+135
+00:15:19,790 --> 00:15:24,790
+Ok, ich verstehe. Wurden Sie schon mal operiert?
+
+136
+00:15:24,790 --> 00:15:32,790
+Ja, als Kind habe ich den Blinddarm rausbekommen und dann natürlich vor 10 Jahren diese erste Bandscheibenoperation.
+
+137
+00:15:32,790 --> 00:15:44,170
+Vor 10 Jahren, 15 Jahren den Bandscheiben wegen Blatt.
+
+138
+00:15:44,170 --> 00:15:51,170
+Wie alt waren Sie als Kind? Können Sie sich das erinnern?
+
+139
+00:15:51,170 --> 00:15:55,170
+Wie alt ich war, als ich die Blinddarmoperation hatte?
+
+140
+00:15:55,170 --> 00:15:57,170
+Ja, genau.
+
+141
+00:15:57,170 --> 00:16:02,170
+Das war kurz nachdem ich in die Schule gekommen bin, also so mit sieben.
+
+142
+00:16:02,170 --> 00:16:06,170
+Ok, mit sieben.
+
+143
+00:16:06,170 --> 00:16:11,170
+Waren die Operationen komplikationslos?
+
+144
+00:16:11,170 --> 00:16:17,170
+Das ist ja schon so lange her. Ich kann mich nicht erinnern, dass da eben fast...
+
+145
+00:16:17,170 --> 00:16:20,170
+Vielleicht den Bandscheibenvorfall.
+
+146
+00:16:20,170 --> 00:16:25,170
+Das ist auch alles sehr gut gelaufen, aber trotzdem will ich jetzt keine neue Operation.
+
+147
+00:16:25,170 --> 00:16:28,170
+Na ja, ich verstehe Sie.
+
+148
+00:16:28,170 --> 00:16:32,170
+Wurden Sie vollständig geimpft?
+
+149
+00:16:32,170 --> 00:16:39,170
+Ja, Sie meinen diese Corona-Impfung. Da bin ich immer hingegangen und gegen Grippe lasse ich mich auch immer wieder impfen.
+
+150
+00:16:39,170 --> 00:16:47,170
+Corona-Grippe, wurden Sie geimpft? Ok.
+
+151
+00:16:47,170 --> 00:16:56,170
+Hatten Sie in der letzten Zeit eine ansteckende Krankheit, eine Grippe gehabt? In den letzten Wochen vielleicht?
+
+152
+00:16:56,170 --> 00:16:58,170
+Nein.
+
+153
+00:16:58,170 --> 00:17:01,170
+Ok.
+
+154
+00:17:01,170 --> 00:17:08,170
+Haben Sie gegen etwas Allergien oder Unvertretigkeiten?
+
+155
+00:17:08,170 --> 00:17:16,170
+Ja, also ich darf tatsächlich gegen Schmerzen keine Ovalgien nehmen. Das vertrage ich nicht.
+
+156
+00:17:16,170 --> 00:17:19,170
+Wie neustet sich das?
+
+157
+00:17:19,170 --> 00:17:31,170
+Ja, also das war so, dass ich so ein ganz rotes Gesicht bekommen habe und dass die Augen branden.
+
+158
+00:17:31,170 --> 00:17:40,170
+Und dass ich auch am Körper so rote Pünktchen hatte. Das war gar nicht so toll.
+
+159
+00:17:40,170 --> 00:17:46,170
+Und bei Jod reagiere ich auch mit so einem Ausschlag.
+
+160
+00:17:46,170 --> 00:17:49,170
+Ok.
+
+161
+00:17:49,170 --> 00:17:58,170
+Haben Sie Unverträglichkeiten gegen Nahrungsmittel zum Beispiel?
+
+162
+00:17:58,170 --> 00:18:03,170
+Nicht das ich wüsste. Ich mag nicht alles, aber vertragen kann ich glaube ich alles.
+
+163
+00:18:03,170 --> 00:18:06,170
+Ok, Dankeschön.
+
+164
+00:18:06,170 --> 00:18:10,170
+Waren Sie in der letzten Zeit im Ausland?
+
+165
+00:18:10,170 --> 00:18:14,170
+Nein, ich bin ja alleine. Da fährt man nicht mehr weg.
+
+166
+00:18:14,170 --> 00:18:29,830
+Ja, Herr Simon, jetzt möchte ich ein paar Fragen für Ihre Familie fragen. Leben Ihre Eltern noch?
+
+167
+00:18:29,830 --> 00:18:35,830
+Das wäre ja ein Wunder. Ich bin ja schon selber 76 Jahre.
+
+168
+00:18:35,830 --> 00:18:37,830
+Ja, ich verstehe.
+
+169
+00:18:37,830 --> 00:18:46,830
+Ich bin jetzt schon älter als die je geworden sind. Mein Vater hatte mit 74 ein Herzinfarkt.
+
+170
+00:18:46,830 --> 00:18:56,830
+Und meine Mutter hatte Brustkrebs. Und die ist auch nicht alt geworden. Die ist mit 72 am Brustkrebs gestorben.
+
+171
+00:18:56,830 --> 00:18:59,830
+Aber das ist natürlich schon alles ewig her.
+
+172
+00:18:59,830 --> 00:19:03,830
+Mit 72, ok.
+
+173
+00:19:03,830 --> 00:19:05,830
+Haben Sie Geschwister?
+
+174
+00:19:05,830 --> 00:19:07,830
+Ich war Einzelkind.
+
+175
+00:19:07,830 --> 00:19:10,830
+Einzelkind, ok.
+
+176
+00:19:10,830 --> 00:19:19,830
+Sie haben erwähnt, dass Sie alleine leben. Ihre Ehefrau ist verstorben.
+
+177
+00:19:19,830 --> 00:19:22,830
+Haben Sie Kinder?
+
+178
+00:19:22,830 --> 00:19:29,830
+Ja, wir haben drei erwachsene Töchter. Die sind aber alle außerhalb. Die sind nicht in der Nähe.
+
+179
+00:19:29,830 --> 00:19:36,830
+Die eine ist nicht so weit weg. Die kommt mich hin und wieder mal besuchen. Aber die anderen wirklich nur sehr selten.
+
+180
+00:19:36,830 --> 00:19:37,830
+Sind sie gesund?
+
+181
+00:19:37,830 --> 00:19:44,830
+Die Töchter? Ja, die sind gesund. Aber die sind natürlich auch schon jetzt so im erwachsenen Alter.
+
+182
+00:19:44,830 --> 00:19:53,830
+Ja, ich verstehe. Sie sind in der Rente. Was haben Sie früher gemacht als Beruf?
+
+183
+00:19:53,830 --> 00:19:56,830
+Ich war viele Jahre Busfahrer.
+
+184
+00:19:56,830 --> 00:20:02,830
+Busfahrer waren Sie. Da hatten Sie viel Stress denke ich.
+
+185
+00:20:02,830 --> 00:20:05,830
+Ja, das ist oftmals sehr stressig.
+
+186
+00:20:05,830 --> 00:20:21,830
+Ok, verstehe. Die Nuxen an dem Liese müsste ich noch fragen. Sie haben gesagt, dass Sie viel geraucht haben und nachträglich haben Sie es verdindert.
+
+187
+00:20:21,830 --> 00:20:23,830
+Ja, ich habe das auch gesehen.
+
+188
+00:20:23,830 --> 00:20:35,830
+Als ich in Ruhe stattgegangen bin. Vorher habe ich viel geraucht. Immer bei jeder Pause. Immer die Kippe raus und mit den Kollegen zusammen geraucht.
+
+189
+00:20:35,830 --> 00:20:45,830
+Und dann nach Feierabend. Früher hat man ja auch noch im Bus selber geraucht. Das ist ja noch nicht so lange her, dass man das nicht mehr tut.
+
+190
+00:20:45,830 --> 00:21:01,830
+Da habe ich schon 30 Stück am Tag geraucht in der Zeit. Aber jetzt seit 10 Jahren habe ich das ganz doll reduziert.
+
+191
+00:21:01,830 --> 00:21:07,830
+Und gönne mir wirklich nur so am Abend, dass ich so zwei Pfeifchen rauche.
+
+192
+00:21:07,830 --> 00:21:11,830
+Ein, zwei, drei, vier?
+
+193
+00:21:11,830 --> 00:21:13,830
+Ein bis zwei Jahre.
+
+194
+00:21:13,830 --> 00:21:23,830
+Ok, das ist sehr gut, dass Sie das so reduziert haben. Aber jahrelang haben Sie viel geraucht.
+
+195
+00:21:23,830 --> 00:21:27,830
+Ja, sehr lange. Und auch wirklich viel geraucht.
+
+196
+00:21:27,830 --> 00:21:32,830
+Und Alkohol trinken Sie?
+
+197
+00:21:32,830 --> 00:21:42,830
+Ja, früher konnte man ja auch beim Autofahren nicht so viel trinken. Klar. Aber zum Abendbrot trinke ich eigentlich jeden Abend eine Flasche Bier.
+
+198
+00:21:42,830 --> 00:21:52,830
+Und das eigentlich auch schon ewig lange. Ja, und natürlich bei Festen trinkt man auch mal ein bisschen mehr. Aber so viele Feste gibt es halt in meinem Alter auch nicht mehr.
+
+199
+00:21:53,830 --> 00:22:02,830
+Ok. Jetzt nehmen Sie das nicht persönlich. Ich muss den einen Patienten fragen. Nehmen Sie Drogen ein?
+
+200
+00:22:02,830 --> 00:22:05,830
+Drogen? Nein, nein.
+
+201
+00:22:05,830 --> 00:22:17,830
+Ich denke nicht. Aber ich muss das fragen. Ok. Möchten Sie noch etwas hinzufügen, Herr Simon?
+
+202
+00:22:17,830 --> 00:22:25,830
+Ich wüsste jetzt nicht. Ich habe Ihnen ja so viele Fragen beantwortet. Ich wüsste jetzt nicht, was ich Ihnen noch zusätzlich erzählen könnte.
+
+203
+00:22:25,830 --> 00:22:40,830
+Ok. Wir sind fertig mit der Anamnese. Meine Verdachtdiagnose. Also es ist noch zu früh. Ich würde sie körperlich untersuchen und etwas Blut aufnehmen.
+
+204
+00:22:40,830 --> 00:22:52,830
+Und wir müssen noch den Auswurf, einen Test machen, eine Probe machen, ob es Bakterien oder Viren gibt.
+
+205
+00:22:52,830 --> 00:23:04,830
+Ah, Viren. Und nach allen Ergebnissen können wir vielleicht etwas sagen. Ok. Jetzt bleiben Sie bitte hier und warten Sie im Wartezimmer. Ja, mache ich.
+
+206
+00:23:04,830 --> 00:23:16,830
+Danke schön. Darf ich fragen? Ja, gerne. Ich habe nicht bemerkt, aber ich habe nicht gehört. Haben Sie in der nächsten Zeit abgenommen?
+
+207
+00:23:16,830 --> 00:23:26,830
+Hat sie tatsächlich nicht gefragt. Ja, ich habe. Ich habe 6 Kilo abgenommen. Meine Hosen schlackern alle.
+
+208
+00:23:26,830 --> 00:23:34,830
+Ok, danke schön. Das habe ich vergessen. In welchem Zeitraum? In den letzten drei Monaten? In einem halben Jahr.
+
+209
+00:23:34,830 --> 00:23:45,830
+Das wollte ich fragen, aber das habe ich vergessen. Ja, aber das kommt ja. Wie viel Kilo war das? 6 Kilo. In 6 Monaten. Ok.
+
+210
+00:23:45,830 --> 00:23:55,830
+Und ich habe einen ganz dezenten Hinweis gegeben. Als Sie mich nach dem Gewicht gefragt haben, habe ich gesagt, ich wiege noch 89 Kilo.
+
+211
+00:23:55,830 --> 00:24:05,830
+Da hätte man so aufmerken können. Ja, ja, ja. Ich wollte das fragen, aber ich habe es ja. Ja, ja. Im Eifer des Gefechts, ja. Alles klar.
+
+212
+00:24:05,830 --> 00:24:22,130
+Möchte ich noch jemand eine andere Frage stellen? Darf ich nochmal? Ja. Sie haben gesagt, während der Husten Schmerzen haben. Wo genau?
+
+213
+00:24:22,130 --> 00:24:37,130
+Welche Seite? Rechts oder links? Schmerzen. Also die ganze Brust tut mir lieber. Und während der Abkusten, haben Sie große Menge Blut oder weniger?
+
+214
+00:24:37,130 --> 00:24:45,130
+Das ist immer so gemischt mit dem Schleim. Ok. Weil große Mengen, nein, nein. Ok, danke.
+
+215
+00:24:45,130 --> 00:24:56,130
+Herr Simon, ist die Atemnot langsam aufgetreten oder nach und nach? Oder ist plötzlich?
+
+216
+00:24:56,130 --> 00:25:06,130
+Ja, das merkt man ja nicht. Das merkt man ja nicht, dass man schlapper wird. Ja. Mit einmal fällt einem das auf, dass man die Treppe nicht mehr so gut hochgehen kann.
+
+217
+00:25:06,130 --> 00:25:14,130
+Ich würde schon sagen, dass ich das vielleicht so angebahnt habe, aber dass ich mich dann nicht so angestrengt habe vorher.
+
+218
+00:25:14,130 --> 00:25:23,130
+Und dann ist es mit einmal, ja, plötzlich für mich gekommen, wieso komme ich denn die Treppe nicht mehr hoch? Nur bei Belastung oder bei mir?
+
+219
+00:25:23,130 --> 00:25:43,820
+Ja, nur bei Belastung noch. Sehen Sie belastet aus? Ein bisschen vielleicht, ja. Und auch die lila Farbe oder blau-liche Farbe auf dem Lippen?
+
+220
+00:25:43,820 --> 00:26:01,940
+Das habe ich mir jetzt nicht aufgefallen. Ok, danke. Wie viele Kissen benutzen Sie beim Schlafen?
+
+221
+00:26:01,940 --> 00:26:08,940
+Ja, meistens zwei dicke. Immer noch oder die letzte Seite?
+
+222
+00:26:08,940 --> 00:26:23,940
+Also früher habe ich ein Kissen gehabt und dann lag lange das von meiner Frau neben mir und irgendwann habe ich mir das geschnappt und habe es eben dazu gelegt, dass ich zwei habe.
+
+223
+00:26:23,940 --> 00:26:28,940
+Und jetzt schlafe ich eigentlich schon eine ganze Weile mit zwei Kissen. Ok, danke.
+
+224
+00:26:28,940 --> 00:26:52,780
+Ok, guten Tag Frau Oberärztin. Ich habe heute einen neuen Patient aufgenommen. Ich möchte ihn vorstellen, wenn Sie Zeit haben.
+
+225
+00:26:52,780 --> 00:26:54,780
+Ja, natürlich. Wir haben Sie gesehen.
+
+226
+00:26:54,780 --> 00:27:09,780
+Ok. Herr Manfred Simon ist 76 Jahre alt, 1,78 Meter groß und wiegt 89 Kilo.
+
+227
+00:27:09,780 --> 00:27:26,780
+Der Patient befand sich im verlinderten Allgemeinzustand und mit einem verlinderten Ernährungszustand.
+
+228
+00:27:26,780 --> 00:27:41,780
+Er war zu Ort, Zeit und Person orientiert und Situation orientiert, aber er fühlte sich müde.
+
+229
+00:27:41,780 --> 00:28:02,780
+Herr Simon stellte sich heute bei uns in der Notaufnahme mit seit zwei, drei Monaten verschlechterten Pusses mit Hämoptisi und mit Müdigkeit.
+
+230
+00:28:02,780 --> 00:28:06,780
+Mit Asthenie.
+
+231
+00:28:06,780 --> 00:28:07,780
+Fertig?
+
+232
+00:28:07,780 --> 00:28:12,780
+Nein, mit Fertig.
+
+233
+00:28:12,780 --> 00:28:28,780
+Der Patient hat den Husten schon seit Jahren. Er hatte schon ein raucheres Husten, laut seinem Hausarzt.
+
+234
+00:28:28,780 --> 00:28:40,780
+Aber jetzt, wie gesagt, in den letzten drei Monaten hat der Husten sich verschlechtert und es gibt auch Blut mit dem Auswurf.
+
+235
+00:28:40,780 --> 00:28:57,780
+Der Husten ist morgens verstärkt und auch beim Einschlafen hat er Husten, aber sonst hat er auch am ganzen Tag Husten.
+
+236
+00:28:57,780 --> 00:29:21,780
+In der vegetativen Anemnese befand sich Inapetenz und Gewichtabnahme.
+
+237
+00:29:21,780 --> 00:29:36,780
+In den letzten sechs Monaten hat er fünf Kilo abgenommen.
+
+238
+00:29:36,780 --> 00:30:00,900
+Die Frage nach Auslöser hat er das Rauchen erwähnt, aber früher hat er vor der Rente sehr viel geraucht, aber jetzt hat er das mit Rauchen deutlich reduziert.
+
+239
+00:30:00,900 --> 00:30:21,900
+Die Frage nach Fieber, nachtliche Hyperhidrose, Nocturi, Mixionprobleme, wurden verneint.
+
+240
+00:30:21,900 --> 00:30:36,900
+Er hat Nocturi, nachtlich zwei, drei mal muss er aufwachen wegen Nocturi.
+
+241
+00:30:36,900 --> 00:30:53,900
+Er hat noch Einschlafprobleme, Insomnie, seit sechs Monaten deutlich. Er kann nicht gut einschlafen und auch Durchschlafprobleme wegen Nocturi.
+
+242
+00:30:53,900 --> 00:31:14,900
+Er hat Prostata-Hyperplasie. Als Vorerkrankung leidet er seit zehn Jahren an Benin-Prostata-Hyperplasie, seit drei Jahren Diskus prolapsus im Lendenbereich, seit zehn Jahren an arteriolider Hypertronie.
+
+243
+00:31:14,900 --> 00:31:36,900
+Er hat noch auf dem linken Auge Kateract. Als Medikament nimmt er für Benin-Prostata-Hyperplasie ein Medikament, aber den Namen konnte er sich nicht erinnern.
+
+244
+00:31:36,900 --> 00:31:51,900
+Für arteriolider Hypertronie nimmt er Conco 5 mg einmal morgens ein und für die Schmerzen bei Bedarf nimmt er Epoprofen 600 mg ein.
+
+245
+00:31:51,900 --> 00:32:07,900
+Wegen den Husten nimmt er manchmal einen Hustensaft ein. Als Voroperation hatte er eine Appendiktomie mit seinem siebten Lebensjahr gehabt.
+
+246
+00:32:07,900 --> 00:32:29,900
+Vor zehn Jahren eine Diskus prolapsus Operation im Lendenbereich, die war komplikationslos. Der Impfstatus war komplett, also beziehungsweise Corona und gegen Grippe hatte er sich geimpft.
+
+247
+00:32:29,900 --> 00:32:52,900
+Er hat eine Novalgenallergie, die sich mit Konjunktivitis und Exantem äußert. Unverträglichkeiten hatte er keine. Die Reiseanamnese war unauffällig, wurde verneint.
+
+248
+00:32:53,900 --> 00:33:14,900
+In der Familienanamnese ist seine Mutter mit 72 Jahren an Mamakasinom und der Vater mit 74 Jahren an Myokat in Tarkt verstorben.
+
+249
+00:33:14,900 --> 00:33:41,900
+Er ist Einzelkind, hat keine Geschwister, er hat drei erwachsene Töchter, seine Ehefrau ist verstorben. Er lebe allein, er war von Beruf Wustfahrer und hatte damals viel Stress.
+
+250
+00:33:41,900 --> 00:34:00,900
+Jetzt ist er natürlich in der Rente und die Novalgenallergie habe ich nachträglich gefragt. Er habe 30 Jahre lang eine und halbe Packung täglich geraucht.
+
+251
+00:34:00,900 --> 00:34:23,900
+Seit 10 Jahren raucht er eine oder zwei Zigaretten. Er hat es nach der Rente deutlich reduziert, den Nikotinkonsum. Aber seit 30 Jahren lang hat er sehr viel geraucht.
+
+252
+00:34:23,900 --> 00:34:33,900
+Er hat einen Flasche Bier seit langem täglich gejagt. Drogenkonsum wurde vermeint.
+
+253
+00:34:41,420 --> 00:34:45,420
+Was ist denn mit Ihrem Verdachtsdiagnosen?
+
+254
+00:34:45,420 --> 00:34:59,420
+Also ja, ich hab noch vergessen, er fühlt sich sehr müde. Das habe ich gesagt. Brontialkasinom könnte es sein vielleicht.
+
+255
+00:34:59,420 --> 00:35:03,420
+Ja und was könnte es Differentialdiagnosisch sein?
+
+256
+00:35:03,420 --> 00:35:19,420
+Eine Exercibation für chronische Obstruktur Lungenerkrankung. Weil es Blut im Auswurf gibt, vielleicht Tybalkelose.
+
+257
+00:35:19,420 --> 00:35:21,420
+Ja, sehr gut.
+
+258
+00:35:21,420 --> 00:35:34,420
+Das muss man auch ausschließen. Aber am meisten denke ich an Brontialkasinom in diesem Alter. Er hat Abgenommen.
+
+259
+00:35:34,420 --> 00:35:36,420
+Und Risikofaktoren.
+
+260
+00:35:36,420 --> 00:35:53,420
+Ja, Inapetens, Risikofaktoren. Der Nikotinkonsum ist sehr viel. Und in der Familie Anemnese gibt es auch Kasinom.
+
+261
+00:35:53,420 --> 00:35:58,420
+Und was machen Sie denn jetzt diagnostisch mit Ihrem Patienten?
+
+262
+00:35:58,420 --> 00:36:08,420
+Ja, diagnostisch. Ich werde ihn erst mal stationär aufnehmen. Eine körperliche Untersuchung durchführen.
+
+263
+00:36:08,420 --> 00:36:11,420
+Worauf achten Sie bei der körperlichen Untersuchung?
+
+264
+00:36:11,420 --> 00:36:16,420
+Ich muss inspektieren und Oskiltation.
+
+265
+00:36:16,420 --> 00:36:18,420
+Inspizieren.
+
+266
+00:36:18,420 --> 00:36:24,420
+Inspizieren. Bei der Inspektion achte ich darauf.
+
+267
+00:36:24,420 --> 00:36:26,420
+Worauf gucken Sie? Genau.
+
+268
+00:36:26,420 --> 00:36:42,420
+Ob es Schwellungen gibt. Ob es Limpknotenvergrößerungen gibt. Wenn meine Verdachteregnos ein Kasinom ist, muss man die Limpknoten im Körper tasten, ob es eine Vergrößerung gibt.
+
+269
+00:36:42,420 --> 00:36:55,420
+Und was machen Sie mit Ihren Augen noch? Sie haben gesagt Schwellungen. Eine Kollegin fragte vorhin nach Blässe und Pneumatose.
+
+270
+00:36:55,420 --> 00:37:11,420
+Ob es blässe Haut gibt. Ob es Anämiezeichen gibt. Achte ich bei Inspektion. Kann man auch Inspektion sagen?
+
+271
+00:37:11,420 --> 00:37:15,420
+Inspektion und inspizieren.
+
+272
+00:37:15,420 --> 00:37:19,420
+Ob es blässe Haut gibt.
+
+273
+00:37:19,420 --> 00:37:24,420
+Ja, darauf wollte ich raus. Gut, was machen Sie noch diagnostisch?
+
+274
+00:37:25,420 --> 00:37:28,420
+Also Sie tappen die Limpknoten noch?
+
+275
+00:37:28,420 --> 00:37:43,420
+Limpknoten. Die Lunge muss ich auskultieren. Ob es die Geräusche muss ich kontrollieren.
+
+276
+00:37:43,420 --> 00:37:59,420
+Ob die Lungengeräusche normal sind oder ob es ein normaler Geräusch gibt. Oder ob es gelindert ist. Bei Kasinom könnte es auch eine Linderung geben.
+
+277
+00:37:59,420 --> 00:38:19,420
+Und einen Röntgen-Torax. Röntgen-CT des Torax. Das wäre sinnvoll bei diesem Fall. Aber erst mal Röntgen-CT des Torax.
+
+278
+00:38:19,420 --> 00:38:22,420
+Was würde man erwarten im Röntgenbild?
+
+279
+00:38:22,420 --> 00:38:28,760
+Da können wir den Tumor vielleicht sehen.
+
+280
+00:38:28,760 --> 00:38:32,760
+Zum Beispiel, wenn da was wäre.
+
+281
+00:38:32,760 --> 00:38:35,760
+Gut, was machen Sie noch für Untersuchungen?
+
+282
+00:38:35,760 --> 00:38:39,760
+Blutabnahme müssen wir.
+
+283
+00:38:39,760 --> 00:38:42,760
+Das kommen wir auf hier. Fachgebiet.
+
+284
+00:38:42,760 --> 00:38:48,760
+Ah ja. Eine Kultur vom Auswurf. Vielleicht.
+
+285
+00:38:48,760 --> 00:38:51,760
+Was lassen Sie im Blut für Werte bestimmen?
+
+286
+00:38:51,760 --> 00:39:08,760
+Ein großes Blutbild. Entzündungsparameter. CRP, BSG. Großes Blutbild. Nierenwerte. Leberwerte.
+
+287
+00:39:08,760 --> 00:39:16,770
+Was machen wir noch? Entzündungsparameter habe ich gesagt.
+
+288
+00:39:16,770 --> 00:39:33,770
+Blutzuckerfehler. Nein. Zuckerkrankheit hat er nicht. Aber wir müssen das auch kontrollieren. Blutzucker.
+
+289
+00:39:33,770 --> 00:39:39,770
+Cholesterinwerte vielleicht. Alles muss man vielleicht mal kontrollieren.
+
+290
+00:39:39,770 --> 00:39:44,770
+Ja, aber speziell für die Lunge gibt es ja die Tumormarker.
+
+291
+00:39:44,770 --> 00:39:48,770
+Also kamen wir jetzt auch von den Kollegen auch.
+
+292
+00:39:48,770 --> 00:39:57,770
+Ja und für Anämiezeichen müssen wir vielleicht an Pädetin achten. Kontrollieren.
+
+293
+00:39:57,770 --> 00:40:06,770
+Gut. Was machen Sie? Dann haben Sie schon gesagt, mikrobiologische Untersuchungen des Kulturs.
+
+294
+00:40:06,770 --> 00:40:15,770
+Ja, Kulturs. Was würde man unter Umständen jetzt noch für Untersuchungen weitermachen?
+
+295
+00:40:15,770 --> 00:40:27,060
+Fällt Ihnen noch was ein? Bildgebende meinen Sie? Bildgebende.
+
+296
+00:40:27,060 --> 00:40:33,060
+Nein, nicht unbedingt Bildgebende, sondern erstmal Funktional.
+
+297
+00:40:33,060 --> 00:40:37,060
+Bronchoskopie oder so? Ja, Bronchoskopie, genau.
+
+298
+00:40:37,060 --> 00:40:43,060
+Oder eben auch erstmal eine Spirometrie, um zu gucken, was der für eine Lungenleistung überhaupt hat.
+
+299
+00:40:43,060 --> 00:40:59,060
+Ja. Gut, ja. Okay. Wenn sich der Verdacht bestätigt, wo würde man noch auf Metastasen-Suche gehen?
+
+300
+00:40:59,060 --> 00:41:07,060
+Leber am meisten glaube ich. Und? Und Gehirn.
+
+301
+00:41:07,060 --> 00:41:15,060
+Kopf, ne? Gut, ja, sehr schön. Gut, dann bin ich gespannt, was bei Ihren Untersuchungen rauskommt.
+
+302
+00:41:15,060 --> 00:41:22,060
+Und halten Sie mich auf dem Laufenden über die Ergebnisse. Wir gucken uns den Patienten dann nachher zusammen an.
+
+303
+00:41:22,060 --> 00:41:30,060
+Und wir schauen dann, wie wir weiter mit ihm vorgehen. Okay, gut. Danke schön.
+
+304
+00:41:30,060 --> 00:41:37,060
+Ja, sehr schön. Frau Deria, auch wenn ich Sie nicht sehen konnte, konnten wir uns sehr gut verständigen.
+
+305
+00:41:37,060 --> 00:41:45,060
+Wir haben insgesamt ein bisschen länger gebraucht als normal. Das ist aber nicht schlimm, denke ich.
+
+306
+00:41:45,060 --> 00:41:50,060
+Mir ist aufgefallen, dass Sie natürlich sehr, sehr gut Deutsch sprechen.
+
+307
+00:41:50,060 --> 00:41:56,060
+Wirklich, also auch mit minimalem Akzent ist es wirklich erstaunlich.
+
+308
+00:41:56,060 --> 00:42:05,060
+Man würde erwarten, Sie sind jeden Tag unter deutschen Muttersprachlern und unterhalten sich mit denen.
+
+309
+00:42:05,060 --> 00:42:13,060
+Also richtig, richtig gut. Was mir aufgefallen ist, dass Sie sehr oft haben Sie gefragt haben.
+
+310
+00:42:13,060 --> 00:42:19,060
+Das wäre vielleicht noch mal so eine Geschichte, dass man so ein bisschen origineller nachfragt.
+
+311
+00:42:19,060 --> 00:42:29,060
+Ist Ihnen aufgefallen? Leiden Sie unter? Ja, was auch immer.
+
+312
+00:42:29,060 --> 00:42:37,060
+Das ist jetzt unterschiedlich, wie die Prüfer das bewerten und nachfragen.
+
+313
+00:42:37,060 --> 00:42:43,060
+Natürlich im Gespräch mit den Patienten sollten sie auf die Fachterminologie verzichten,
+
+314
+00:42:43,060 --> 00:42:51,060
+aber dann im Arzt-Arzt-Gespräch sicherlich schon die Fachbegriffe verwenden.
+
+315
+00:42:51,060 --> 00:42:59,060
+Dann sollte man sicher was, was ich Tachikadi oder Fatigue benennen.
+
+316
+00:42:59,060 --> 00:43:05,060
+Bei vielen Sachen haben Sie es gemacht, eben nicht bei allen.
+
+317
+00:43:05,060 --> 00:43:08,060
+Die habe ich vergessen, ja.
+
+318
+00:43:08,060 --> 00:43:15,060
+Eigentlich war, ich wüsste jetzt nicht, was sonst noch besonders auffällig war.
+
+319
+00:43:15,060 --> 00:43:23,060
+Ihr Fragenkatalog war sehr schlüssig. Was ich schön fand, das hat mir sehr gut gefallen,
+
+320
+00:43:23,060 --> 00:43:31,060
+dass Sie praktisch sagen, Sie haben mir schon erzählt, dass Sie das Rauchen reduziert haben.
+
+321
+00:43:31,060 --> 00:43:37,060
+Dass Sie darauf eingegangen sind, was der Patient Ihnen schon im Vorfeld erzählt hat.
+
+322
+00:43:38,060 --> 00:43:46,060
+Das ist ein sehr gutes Zeichen, weil der Patient dann merkt, dass er ernst genommen wird und dass der Arzt ihm zuhört.
+
+323
+00:43:46,060 --> 00:43:52,060
+Ich denke, das ist auch wichtig in der Prüfung.
+
+324
+00:43:52,060 --> 00:44:02,060
+Im Arzt-Arzt-Gespräch ist das immer ein bisschen ein bisschen ein bisschen ein bisschen ein bisschen ein bisschen ein bisschen.
+
+325
+00:44:02,060 --> 00:44:10,060
+Ja, im Arzt-Arzt-Gespräch, das ist immer ein bisschen schwieriger, weil Sie dann die ganze Struktur praktisch,
+
+326
+00:44:10,060 --> 00:44:19,060
+die ganze Formulierung neu machen müssen. Sie sind aus diesem Dialog raus und sind in einem Monolog so ziemlich gefangen.
+
+327
+00:44:19,060 --> 00:44:28,060
+Sie müssen Ihren Bericht natürlich anhand der vorher erfragten Angaben machen.
+
+328
+00:44:28,060 --> 00:44:37,060
+Da sind Sie relativ schlüssig auch vorgegangen. Das einzige, was mir da aufgefallen ist,
+
+329
+00:44:37,060 --> 00:44:45,060
+ich finde immer ganz gut, wenn man zum Beispiel über Vorerkrankungen spricht, dass man dann auch sagt,
+
+330
+00:44:45,060 --> 00:44:51,060
+der hat seit zehn Jahren erhöhten Blutdruck, der wird aktuell mit Concord 5 behandelt.
+
+331
+00:44:51,060 --> 00:44:57,060
+Und dass man jeweils immer gleich die Medikation, ist aber auch Geschmackssache.
+
+332
+00:44:57,060 --> 00:45:00,060
+Also wenn aber sollte es gleich hinterher kommen.
+
+333
+00:45:00,060 --> 00:45:02,060
+Ja, okay.
+
+334
+00:45:02,060 --> 00:45:11,060
+Familienanamnese ist ja gekommen. Ja, und wie gesagt, wenn jemand 76 Jahre alt ist,
+
+335
+00:45:11,060 --> 00:45:15,060
+ist es schon sehr sehr unwahrscheinlich, dass die Eltern noch leben.
+
+336
+00:45:16,060 --> 00:45:28,060
+Gut, ja, bei den Noxen haben sie ihm sogar zehn Jahre weniger Zigarettenkonsum zugeschrieben.
+
+337
+00:45:28,060 --> 00:45:34,060
+Er hat ja gar nicht gesagt 30 Jahre, er hat nur gesagt 30 Zigaretten.
+
+338
+00:45:34,060 --> 00:45:39,060
+Und das sind ihre anderthalb Päckchen, das stimmt natürlich, wobei ich weiß gar nicht.
+
+339
+00:45:39,060 --> 00:45:42,060
+Ich glaube inzwischen ist in den Packungen weniger drin.
+
+340
+00:45:42,060 --> 00:45:46,060
+30 ist stücklich, ja, nicht 30 Jahren.
+
+341
+00:45:46,060 --> 00:45:52,060
+Der ist tatsächlich, mit seinen 40 Jahren und anderthalb Päckchen, ist er bei 60 Päckchen.
+
+342
+00:45:52,060 --> 00:45:57,060
+Das ist schon deutlich, ja.
+
+343
+00:45:57,060 --> 00:46:05,060
+Wobei ich immer denke, alle Angaben, die wir hier in unseren Fällen haben, sind super harmlos.
+
+344
+00:46:05,060 --> 00:46:08,060
+Als ob es wirklich keine starke Raucher gäbe.
+
+345
+00:46:08,060 --> 00:46:15,060
+Es gibt so viele Leute, die so viel mehr rauchen und auch trinken, denke ich immer,
+
+346
+00:46:15,060 --> 00:46:19,060
+die Realität würde alle schockieren.
+
+347
+00:46:19,060 --> 00:46:25,060
+Ja, also die Leute rauchen und trinken wirklich erhebliche Mengen.
+
+348
+00:46:25,060 --> 00:46:29,060
+Wobei das mit den Zigaretten, ja, das schwankt immer so.
+
+349
+00:46:29,060 --> 00:46:35,060
+Das gibt immer so Zyklen, dass das Rauchen ja dann wieder sehr in Mode kommt.
+
+350
+00:46:35,060 --> 00:46:39,060
+Die jetzt im Augenblick rauchen, die alle diese komischen E-Zigaretten,
+
+351
+00:46:39,060 --> 00:46:45,060
+die so parfümiert sind und komisch riechen und glauben, dass das besser ist.
+
+352
+00:46:45,060 --> 00:46:47,060
+Aber es ist auch ein Trugsluck.
+
+353
+00:46:47,060 --> 00:46:51,060
+Ja, was mir nicht so gut gefallen hat, dass sie sagen,
+
+354
+00:46:51,060 --> 00:46:55,060
+die vegetative Anamnese ist unauffällig bis auf.
+
+355
+00:46:55,060 --> 00:47:00,060
+Ich finde schon, wenn jemand Appetitlosigkeit hat, Gewichtsverlust,
+
+356
+00:47:00,060 --> 00:47:09,060
+Einschlafstörungen, Lektorie, dann sind wir eigentlich schon nicht mehr in der Umauf-Finn.
+
+357
+00:47:09,060 --> 00:47:11,060
+Das ist nicht unauffällig.
+
+358
+00:47:11,060 --> 00:47:14,060
+Er hat gesagt, er geht ein bis zwei Mal in der Nacht.
+
+359
+00:47:14,060 --> 00:47:16,060
+Sie haben zwei bis drei Mal draus gemacht.
+
+360
+00:47:16,060 --> 00:47:19,060
+Nicht Kleinigkeit, Kleinigkeit.
+
+361
+00:47:19,060 --> 00:47:25,060
+Aber ansonsten kann ich nur sagen Hut ab.
+
+362
+00:47:26,060 --> 00:47:33,060
+Das war eine sehr schöne Anamnese und ein sehr gutes Arzt-Arzt-Gespräch.
+
+363
+00:47:33,060 --> 00:47:36,060
+Sie sind sprachlich sehr souverän unterwegs.
+
+364
+00:47:36,060 --> 00:47:41,060
+Und ich glaube, Sie müssen wirklich überhaupt keine Sorge vor Ihrer Aufschwung haben.
+
+365
+00:47:41,060 --> 00:47:43,060
+Vielen Dank.
+
+366
+00:47:43,060 --> 00:47:45,060
+Gut.
+
+367
+00:47:45,060 --> 00:47:50,060
+Ja, es war wieder schön, dass viele mitgefragt haben und sich beteiligt haben.
+
+368
+00:47:50,060 --> 00:47:52,060
+Das macht mir immer sehr viel Spaß.

@@ -1,0 +1,1543 @@
+1
+00:00:00,140 --> 00:00:12,140
+Hallo, guten Abend. Omer Demir ist mein Name. Ich bin hier als Assistenzarzt tätig und möchte das Anamnese-Gespräch mit Ihnen durchführen.
+
+2
+00:00:12,140 --> 00:00:18,140
+Bevor wir anfangen, benötige ich kurz Ihre persönlichen Daten. Sind Sie damit einverstanden?
+
+3
+00:00:18,140 --> 00:00:22,140
+Ja, hallo, guten Abend. Ja, natürlich. Gerne.
+
+4
+00:00:22,140 --> 00:00:24,140
+Wie heißen Sie bitte?
+
+5
+00:00:24,140 --> 00:00:31,740
+Mein Name ist Alexander Scherer. Alexander ist der Vorname.
+
+6
+00:00:31,740 --> 00:00:37,740
+Ok. Könnten Sie mir bitte Ihren Vornamen langsam und deutlich buchstabieren?
+
+7
+00:00:37,740 --> 00:00:48,740
+Alexander ist Anton Ludwig, Emil X, Anton Nordpol, Dora, Emil Richard, Alexander.
+
+8
+00:00:48,740 --> 00:00:52,740
+Wie Emil und Richard?
+
+9
+00:00:52,740 --> 00:01:06,740
+Richard, genau. Und Nachname ist Scherer, Siegfried, also Scherer, Emil Richard, Emil Richard. Scherer.
+
+10
+00:01:06,740 --> 00:01:09,740
+Herr Scherer.
+
+11
+00:01:09,740 --> 00:01:10,740
+Ja.
+
+12
+00:01:10,740 --> 00:01:12,740
+Wie alt sind Sie?
+
+13
+00:01:12,740 --> 00:01:15,740
+Ich bin 33 Jahre alt.
+
+14
+00:01:15,740 --> 00:01:18,740
+Wann genau sind Sie geboren?
+
+15
+00:01:18,740 --> 00:01:22,740
+Am 23. Februar 1993.
+
+16
+00:01:22,740 --> 00:01:24,740
+Wie viel ist das?
+
+17
+00:01:24,740 --> 00:01:26,740
+93.
+
+18
+00:01:26,740 --> 00:01:28,740
+92.
+
+19
+00:01:28,740 --> 00:01:30,740
+93.
+
+20
+00:01:30,740 --> 00:01:32,740
+93.
+
+21
+00:01:32,740 --> 00:01:36,740
+Wie groß sind Sie, Herr Scherer?
+
+22
+00:01:36,740 --> 00:01:39,740
+1,73 Meter.
+
+23
+00:01:39,740 --> 00:01:41,740
+Und wie viel wiegen Sie zurzeit?
+
+24
+00:01:41,740 --> 00:01:46,180
+72 Kilo.
+
+25
+00:01:46,180 --> 00:01:50,180
+Vielen Dank für die Angaben. Was kann ich für Sie tun? Was führt Sie heute zu uns?
+
+26
+00:01:50,180 --> 00:01:56,180
+Herr Dr. Oemer heißen Sie, ich habe einen Freund, der heißt auch Oemer. Ein guter Junge.
+
+27
+00:01:56,180 --> 00:01:58,180
+Ja, super.
+
+28
+00:01:58,180 --> 00:02:06,180
+Herr Doktor, ich merke seit einer Woche, dass ich, wenn ich mich belaste, etwas schwer Luft bekomme.
+
+29
+00:02:06,180 --> 00:02:14,180
+Also das habe ich früher nie gemerkt. Ich mache viel Sport, ich laufe, ich mache Training, ich fahre Fahrrad und so weiter.
+
+30
+00:02:14,180 --> 00:02:28,180
+Aber seit einer Woche merke ich, wenn ich ein, zwei Stockwerke mit den Treppen steige oder Fahrrad fahre, dann muss ich Pause machen und nach Luft atmen.
+
+31
+00:02:28,180 --> 00:02:31,180
+Bekommen Sie auch Schmerzen, Brustschmerzen?
+
+32
+00:02:31,180 --> 00:02:38,180
+Nein, Schmerzen habe ich nicht. Es ist nur, ich merke, die Luft fällt mir schwer.
+
+33
+00:02:38,180 --> 00:02:47,180
+Und ja, da muss ich ein bisschen Pause machen und kann dann wieder weiter, aber das ist etwas unangenehmer, das habe ich vorher noch nie gehabt.
+
+34
+00:02:47,180 --> 00:02:57,180
+Ja, verstanden. Seit einer Woche haben Sie diese Atemnot. Sind diese Beschwerden plötzlich oder eher langsam aufgetreten?
+
+35
+00:02:57,180 --> 00:03:08,180
+Also plötzlich in dem Sinne, dass ich es gemerkt habe. Es war am Anfang etwas weniger, jetzt ist es aber mehr geworden.
+
+36
+00:03:08,180 --> 00:03:21,420
+Haben Sie irgendwelche Auslöser für diese Beschwerden bemerkt? Zum Beispiel irgendwelche eine infektuelle Erkältung oder?
+
+37
+00:03:21,420 --> 00:03:29,420
+Nein, habe ich nicht gehabt. Also ich war nicht erkältet. Ich kann mir jetzt nichts vorstellen, was es ist.
+
+38
+00:03:29,420 --> 00:03:46,110
+Okay. Haben Sie etwas bemerkt, was diese Beschwerden versteht außer körperlicher Belastung? Zum Beispiel beim Liegen oder in der Nacht?
+
+39
+00:03:46,110 --> 00:03:51,110
+Nein, nein. Also es ist wirklich nur bei Belastung, wie Sie sagen.
+
+40
+00:03:51,110 --> 00:03:56,110
+Okay. Haben Sie ein enger Gefühl?
+
+41
+00:03:56,110 --> 00:03:59,110
+Sie meinen auf der Brust?
+
+42
+00:03:59,110 --> 00:04:00,110
+Ja, genau.
+
+43
+00:04:00,110 --> 00:04:02,110
+Nein, nein, habe ich nicht.
+
+44
+00:04:02,110 --> 00:04:11,060
+Hören Sie, dass Ihr Herz nicht regelmäßig schlägt oder stolpert?
+
+45
+00:04:11,060 --> 00:04:20,060
+Nee, ich habe mich auch schon kontrolliert. Also mein Puls ist an sich regelmäßig. Ich habe jetzt keine Aufwendigkeiten bemerkt.
+
+46
+00:04:20,060 --> 00:04:26,060
+Ist Ihnen etwas aufgefallen, was diese Beschwerden lindert?
+
+47
+00:04:26,060 --> 00:04:35,060
+Ja, Pause machen. Also wenn ich aufhören würde, oder wenn ich mich hinsetze ein paar Minuten, dann wird es wieder besser.
+
+48
+00:04:35,060 --> 00:04:40,060
+Haben Sie schon etwas dagegen bekommen als Medikament?
+
+49
+00:04:40,060 --> 00:04:48,060
+Nein, nein. Also es ist etwas unangenehm, aber schlimm war es bisher nicht.
+
+50
+00:04:48,060 --> 00:04:52,060
+Aber ich habe nichts eingenommen. Deswegen bin ich jetzt bei Ihnen.
+
+51
+00:04:52,060 --> 00:04:53,060
+Ja, verstanden.
+
+52
+00:04:53,060 --> 00:04:56,060
+Weil ich so lange Besorge habe.
+
+53
+00:04:56,060 --> 00:05:01,060
+Haben Sie gesagt, dass diese Beschwerden erstmals auftreten?
+
+54
+00:05:01,060 --> 00:05:03,060
+Das habe ich noch nie gesagt.
+
+55
+00:05:03,060 --> 00:05:05,060
+Okay.
+
+56
+00:05:05,060 --> 00:05:17,190
+Haben Sie neben dieser Atemnot andere Beschwerden, zum Beispiel Husten?
+
+57
+00:05:17,190 --> 00:05:24,770
+Nein, Husten habe ich nicht.
+
+58
+00:05:24,770 --> 00:05:29,770
+Okay. Haben Sie Schwellung in den Beinen?
+
+59
+00:05:29,770 --> 00:05:35,740
+Ist mir nicht aufgefallen. Nein, habe ich nicht.
+
+60
+00:05:35,740 --> 00:05:39,740
+Fühlen Sie sich schwach oder müde?
+
+61
+00:05:39,740 --> 00:05:52,740
+Ich kann gut schlafen. Ich kann mich so ganz normal, sage ich mal wie immer, belasten. Aber nein, ist mir nichts Besonderes aufgefallen. Nein.
+
+62
+00:05:52,740 --> 00:05:55,740
+Okay. Ist Ihnen übel?
+
+63
+00:05:55,740 --> 00:05:56,740
+Nein.
+
+64
+00:05:56,740 --> 00:06:01,250
+Okay. Mussten Sie sich übergeben?
+
+65
+00:06:01,250 --> 00:06:12,900
+Nein, bisher auch nicht. Nein. Also an sich fühle ich mich recht gut. Es ist halt nur bei Belastung, wie gesagt.
+
+66
+00:06:12,900 --> 00:06:22,910
+Verstanden. Haben Sie keine Husten? Okay. Haben Sie oder hatten Sie Fieber?
+
+67
+00:06:22,910 --> 00:06:24,910
+Nein.
+
+68
+00:06:24,910 --> 00:06:35,780
+Ist Ihnen außer Atemnot nichts aufgefallen? Haben Sie keine anderen Beschwerden?
+
+69
+00:06:35,780 --> 00:06:43,780
+Nein. Ich gehe zur Arbeit. Ich kann ganz normal essen und trinken. Ist mir nicht aufgefallen. Nein.
+
+70
+00:06:43,780 --> 00:06:50,780
+Alles klar. Wie ist Ihr Appetit derzeit, Herr Scherer?
+
+71
+00:06:50,780 --> 00:06:54,780
+Ganz gut. Also ich habe da keine Probleme.
+
+72
+00:06:54,780 --> 00:07:00,780
+Okay. Haben Sie Probleme beim Wasserlassen oder beim Stuhlgang?
+
+73
+00:07:00,780 --> 00:07:07,210
+Nein. Nein. Klappt alles ganz gut.
+
+74
+00:07:07,210 --> 00:07:12,210
+Ist Ihr Schlaf? Schlafen Sie gut? Oder haben Sie Probleme beim Einschlafen oder Durchschlafen?
+
+75
+00:07:12,210 --> 00:07:17,210
+Nein. Schlafen klappt gut. Eigentlich ganz gut, ja.
+
+76
+00:07:17,210 --> 00:07:20,210
+Können Sie flach liegen?
+
+77
+00:07:20,210 --> 00:07:21,210
+Ja.
+
+78
+00:07:21,210 --> 00:07:23,210
+Ohne Atemnot zu bekommen?
+
+79
+00:07:23,210 --> 00:07:26,210
+Nein. Ich kann flach hinlegen, ja.
+
+80
+00:07:26,210 --> 00:07:36,820
+Müssen Sie mehrere Kissen benutzen zum Schlafen?
+
+81
+00:07:36,820 --> 00:07:40,820
+Nein. Bisher noch nicht. Also noch kann ich mich relativ gut flach hinlegen, ja.
+
+82
+00:07:40,820 --> 00:07:45,820
+Okay. Hat sich Ihr Gewicht in letzter Zeit merklich verändert? Haben Sie ab oder zu genommen?
+
+83
+00:07:45,820 --> 00:07:52,450
+Nein. Also ich bin immer so 71, 72 Kilo gewesen, ja.
+
+84
+00:07:52,450 --> 00:07:55,450
+Ja, verstanden.
+
+85
+00:07:55,450 --> 00:08:06,980
+Haben Sie irgendwelche chronische Vorerkrankungen, wie zum Beispiel erhöhte Blutdruck, Blutzuckerkrankheit oder sowas?
+
+86
+00:08:06,980 --> 00:08:10,980
+Nein. Hab ich glücklicherweise auch nicht. Aber mein Vater hat Diabetes.
+
+87
+00:08:10,980 --> 00:08:18,810
+Der nimmt seit fünf Jahren Medikamente. Und meine Mutter hat hohen Blutdruck.
+
+88
+00:08:18,810 --> 00:08:20,810
+Seit fünf Jahren, haben Sie gesagt?
+
+89
+00:08:20,810 --> 00:08:24,810
+Ja, genau. Mein Vater nimmt seit fünf Jahren Medikamente.
+
+90
+00:08:24,810 --> 00:08:27,810
+Okay. Ihre Mutter hat auch Blutdruck?
+
+91
+00:08:27,810 --> 00:08:33,210
+Ja, ja auch. Jetzt hat sie, glaube ich, schon seit über 20 Jahren.
+
+92
+00:08:33,210 --> 00:08:40,210
+Okay. Nehmen Sie irgendwelche Medikamente regelmäßig oder bei Bedarf ein?
+
+93
+00:08:40,210 --> 00:08:45,210
+Eigentlich nicht. Nur wenn ich mal Schmerzen habe, nehme ich mal ein bisschen Ibuprofen.
+
+94
+00:08:45,210 --> 00:08:49,210
+Was für Schmerzen bekommen Sie manchmal?
+
+95
+00:08:49,210 --> 00:08:58,210
+Ich mache ja sehr viel Sport. Ich mache sehr viel Sport. Und wenn ich mich da mal verletze, dann nehme ich gerne mal eine Ibuprofen.
+
+96
+00:08:58,210 --> 00:09:06,300
+Wurde bei Ihnen schon mal eine Operation durchgeführt?
+
+97
+00:09:06,300 --> 00:09:11,780
+Nein. Bisher glücklicherweise alles gesund.
+
+98
+00:09:11,780 --> 00:09:14,780
+Ja, das freut mich sehr.
+
+99
+00:09:14,780 --> 00:09:19,780
+Sind bei Ihnen irgendwelche Allergien bekannt, Herr Schörer?
+
+100
+00:09:19,780 --> 00:09:32,730
+Ja, ich habe also ein bisschen Pollenallergie und Milben und Hausstaub.
+
+101
+00:09:32,730 --> 00:09:37,730
+Wie äußert sich diese Allergie?
+
+102
+00:09:37,730 --> 00:09:49,730
+Also gerade jetzt zum Beispiel die Pollenallergie. Mir läuft die Nase, die Augen tränen. Abends bekomme ich geschwollene Augen.
+
+103
+00:09:49,730 --> 00:09:53,730
+Milben und Hausstauballergie?
+
+104
+00:09:53,730 --> 00:10:00,730
+Ja, da bekomme ich manchmal auch so ein bisschen laufende Nase.
+
+105
+00:10:00,730 --> 00:10:02,730
+Nur laufende Nase?
+
+106
+00:10:02,730 --> 00:10:06,290
+Ja.
+
+107
+00:10:06,290 --> 00:10:12,290
+Haben Sie irgendwelche Unverträglichkeiten zum Beispiel gegen bestimmte Nahrungsmittel?
+
+108
+00:10:12,290 --> 00:10:17,750
+Nein, das bin ich auch nicht.
+
+109
+00:10:17,750 --> 00:10:23,750
+Ich möchte jetzt über Ihre Lebensgewohnheiten etwas fragen, Herr Schörer. Rauchen Sie?
+
+110
+00:10:23,750 --> 00:10:27,000
+Nein.
+
+111
+00:10:27,000 --> 00:10:30,000
+Trinken Sie Alkohol?
+
+112
+00:10:30,000 --> 00:10:34,000
+Eigentlich schon. Sehr selten. Eigentlich nicht.
+
+113
+00:10:34,000 --> 00:10:40,000
+Dann nehme ich an, dass Sie keine Drogen konsumieren, oder?
+
+114
+00:10:40,000 --> 00:10:49,640
+Nein, also Drogen habe ich jetzt auch nicht.
+
+115
+00:10:49,640 --> 00:10:52,640
+Wie alt ist Ihr Vater?
+
+116
+00:10:52,640 --> 00:10:58,640
+Er ist ca. 58 Jahre alt.
+
+117
+00:10:58,640 --> 00:11:08,640
+Er leidet an Zuckerkrankheit. Seit fünf Jahren haben Sie gerade erzählt. Hat er noch weitere Erkrankungen? Wissen Sie?
+
+118
+00:11:08,640 --> 00:11:14,640
+Also er ist auch sehr gesund und sehr sportlich. Soweit ich weiß, hat er keine weiteren Erkrankungen mehr.
+
+119
+00:11:14,640 --> 00:11:19,640
+Welcher Typ von Zuckerkrankheit hat er? Wissen Sie?
+
+120
+00:11:19,640 --> 00:11:26,640
+Das weiß ich nicht. Wie viele Typen gibt es denn da an Zuckerkrankungen? Ich dachte das nicht.
+
+121
+00:11:26,640 --> 00:11:31,640
+Die berühmten Typen sind der erste und der zweite Typ.
+
+122
+00:11:31,640 --> 00:11:38,180
+Ach so, ich weiß es nicht. Keine Ahnung.
+
+123
+00:11:38,180 --> 00:11:44,180
+Ist es jetzt schlimm oder ist es wichtig, jetzt zu wissen, welchen Typ Diabetes mein Vater hat?
+
+124
+00:11:44,180 --> 00:11:49,180
+Ja, manche Krankheiten können ärblich sein. Deswegen...
+
+125
+00:11:49,180 --> 00:11:53,180
+Sie meinen, ich kann das auch bekommen oder was?
+
+126
+00:11:53,180 --> 00:12:01,180
+Ich meinte das nicht. Nur möchte ich wissen, welcher Typ Ihr Vater hat.
+
+127
+00:12:01,180 --> 00:12:05,180
+Ist das gefährlich jetzt für mich? Hab ich jetzt auch Diabetes, Herr Doktor?
+
+128
+00:12:05,180 --> 00:12:09,180
+Nein, diese Fragen sind Routinefragen.
+
+129
+00:12:09,180 --> 00:12:13,180
+Wir machen mir ein bisschen Angst, Herr Doktor. Deswegen fragen...
+
+130
+00:12:13,180 --> 00:12:17,180
+Nein, machen Sie sich keine Sorgen. Diese sind Routinefragen.
+
+131
+00:12:17,180 --> 00:12:20,180
+Ach so, okay.
+
+132
+00:12:20,180 --> 00:12:24,180
+Wie alt ist Ihre Mutter?
+
+133
+00:12:24,180 --> 00:12:26,180
+Sie ist 56.
+
+134
+00:12:26,180 --> 00:12:33,840
+Hat sie auch noch außer Bluthochdruck andere Vorerkrankungen?
+
+135
+00:12:33,840 --> 00:12:37,840
+Die hat einige Sachen, aber alles weiß ich jetzt nicht so genau.
+
+136
+00:12:37,840 --> 00:12:40,840
+Okay. Haben Sie Geschwister?
+
+137
+00:12:40,840 --> 00:12:43,840
+Ich habe eine Schwester, ja.
+
+138
+00:12:43,840 --> 00:12:45,840
+Ist sie gesund?
+
+139
+00:12:45,840 --> 00:12:57,140
+Ja, ja, dir geht es gut. Dir geht es besser als ich, ja.
+
+140
+00:12:57,140 --> 00:13:01,140
+Sind Sie verheiratet, Herr Scherer?
+
+141
+00:13:01,140 --> 00:13:05,140
+Nein, aber ich lebe in einer festen Beziehung.
+
+142
+00:13:05,140 --> 00:13:12,140
+Meine Partnerin bzw. meine Freundin. Wir sind seit 10 Jahren zusammen, aber verheiratet sind wir noch nicht.
+
+143
+00:13:12,140 --> 00:13:14,140
+Verstanden. Haben Sie Kinder?
+
+144
+00:13:14,140 --> 00:13:15,140
+Nein.
+
+145
+00:13:15,140 --> 00:13:21,500
+Was sind Sie vom Beruf, Herr Scherer?
+
+146
+00:13:21,500 --> 00:13:27,140
+Ich bin Lehrer.
+
+147
+00:13:27,140 --> 00:13:29,140
+Was unterrichten Sie?
+
+148
+00:13:29,140 --> 00:13:42,130
+Ich unterrichte Englisch und Sport.
+
+149
+00:13:42,130 --> 00:13:45,130
+Ich habe noch einige Fragen, Herr Scherer.
+
+150
+00:13:45,130 --> 00:13:49,130
+Ich habe heute viele Fragen gestellt, ach Gott.
+
+151
+00:13:49,130 --> 00:13:52,130
+Das sind viele Fragen, echt.
+
+152
+00:13:52,130 --> 00:13:58,130
+Ja, manchmal kann das so passieren.
+
+153
+00:13:58,130 --> 00:14:07,130
+Ist Ihnen irgendwelche Hautveränderungen aufgefallen?
+
+154
+00:14:07,130 --> 00:14:11,130
+Nein, nein. Ist mir jetzt nicht aufgefallen, wenn ich überlege.
+
+155
+00:14:11,130 --> 00:14:22,560
+Okay. Jetzt bin ich fertig mit meinen Fragen, Herr Scherer.
+
+156
+00:14:22,560 --> 00:14:25,560
+Ah, okay.
+
+157
+00:14:25,560 --> 00:14:30,560
+Möchten Sie noch etwas hinzufügen oder haben Sie Fragen an mich?
+
+158
+00:14:30,560 --> 00:14:37,560
+Ich würde gerne wissen, was das jetzt ist. Ist es was Schlimmes oder ist es gar nichts oder bitte ich mir das alles nur ein?
+
+159
+00:14:37,560 --> 00:14:40,560
+Ich mache mir einfach Fragen, wissen Sie?
+
+160
+00:14:40,560 --> 00:14:48,560
+Ja, bitte bleiben Sie ruhig, aber leider kann ich Ihnen momentan nicht genauer sagen, was Sie haben.
+
+161
+00:14:48,560 --> 00:14:52,560
+Wir haben nur unser Anamnesige-Gespräch fertiggestellt.
+
+162
+00:14:52,560 --> 00:14:58,560
+Zur weiteren Abklärung müssen wir noch weitere Untersuchungen durchführen.
+
+163
+00:14:58,560 --> 00:15:00,560
+Ah, okay. Ja, das wäre schön.
+
+164
+00:15:00,560 --> 00:15:07,560
+Erst dann können wir über Ihre Diagnose genauer besprechen.
+
+165
+00:15:07,560 --> 00:15:13,970
+Okay, okay. Gut. Vielen Dank.
+
+166
+00:15:13,970 --> 00:15:16,970
+Ich danke Ihnen.
+
+167
+00:15:16,970 --> 00:15:20,970
+Hat jemand noch Fragen?
+
+168
+00:15:20,970 --> 00:15:22,970
+Hab ich eine Frage?
+
+169
+00:15:22,970 --> 00:15:23,970
+Ja, bitte.
+
+170
+00:15:23,970 --> 00:15:28,970
+Ist Ihnen Nachschweiß? Haben Sie Nachschweiß?
+
+171
+00:15:28,970 --> 00:15:30,970
+Gute Frage. Nein, habe ich nicht.
+
+172
+00:15:30,970 --> 00:15:32,970
+Danke.
+
+173
+00:15:32,970 --> 00:15:34,970
+Darf ich fragen?
+
+174
+00:15:34,970 --> 00:15:35,970
+Bitte schön.
+
+175
+00:15:35,970 --> 00:15:46,970
+Was für Sport machen Sie? Treiben Sie? Hatten Sie einen Unfall oder eine Verletzung vor Ihren Beschwerden aufgetreten?
+
+176
+00:15:46,970 --> 00:15:50,970
+Genau, ich mache sehr viele verschiedene Sportarten.
+
+177
+00:15:50,970 --> 00:15:56,970
+Ich spiele Fußball, ich fahre Fahrrad, ich jocke, ich schwimme, Fitness.
+
+178
+00:15:56,970 --> 00:16:03,970
+Vor ca. 10 Tagen hatte ich einen kleinen Unfall beim Fußballspielen.
+
+179
+00:16:03,970 --> 00:16:09,970
+Ein anderer Spieler hat mir gegen die Vade getreten.
+
+180
+00:16:09,970 --> 00:16:16,550
+Sehr gute Frage. Diese Frage habe ich gewartet.
+
+181
+00:16:16,550 --> 00:16:20,550
+Haben Sie einen Traum gehabt? Sehr gut. Eine Frage fehlt aber noch.
+
+182
+00:16:20,550 --> 00:16:27,790
+Ich habe auch eine Verletzung gefragt, aber Sie haben nichts gesagt.
+
+183
+00:16:27,790 --> 00:16:33,330
+Ja, also ich habe keine Verletzung.
+
+184
+00:16:33,330 --> 00:16:37,330
+Nehmen Sie Hormone?
+
+185
+00:16:37,330 --> 00:16:39,330
+Nein.
+
+186
+00:16:40,330 --> 00:16:46,300
+Noch eine Frage fehlt.
+
+187
+00:16:46,300 --> 00:16:52,140
+Haben Sie als Kind Allergie erkrankt?
+
+188
+00:16:52,140 --> 00:16:55,140
+Ich habe schon gefragt und geantwortet.
+
+189
+00:16:55,140 --> 00:16:57,140
+Ja, mir nicht.
+
+190
+00:16:57,140 --> 00:17:05,050
+Ist Ihnen Herzrasen aufgefallen?
+
+191
+00:17:05,050 --> 00:17:08,050
+Herzrasen gibt es auch nicht.
+
+192
+00:17:08,050 --> 00:17:11,050
+Wissen Sie, wie es da ist?
+
+193
+00:17:11,050 --> 00:17:18,050
+Ich habe ein Telefonproblem. Sorry. Nein, Beinschwirrung habe ich keine.
+
+194
+00:17:18,050 --> 00:17:23,050
+Haben Sie eine Temperaturenfindigkeit? Nein.
+
+195
+00:17:23,050 --> 00:17:27,050
+Sie haben gesagt, es war im Bereich eine Trauma.
+
+196
+00:17:27,050 --> 00:17:34,520
+Bitte beschreiben Sie diese Bereich. Gibt es irgendwelche Auffälligkeiten?
+
+197
+00:17:34,520 --> 00:17:38,520
+Also ich sehe keine Schwellen, keine Auffälligkeiten.
+
+198
+00:17:38,520 --> 00:17:41,520
+Ich habe keine Schwellen.
+
+199
+00:17:41,520 --> 00:17:44,520
+Ich habe keine Schwellen.
+
+200
+00:17:45,520 --> 00:17:49,520
+Also ich sehe keine Schwellen, keine Auffälligkeiten.
+
+201
+00:17:49,520 --> 00:17:52,520
+Nur ein leichter Schmerz.
+
+202
+00:17:52,520 --> 00:17:55,520
+Aber es stört mich jetzt nicht.
+
+203
+00:17:55,520 --> 00:18:02,520
+Ich habe gedacht, das ist einfach nur durch diese Prellung von dem Kollegen.
+
+204
+00:18:02,520 --> 00:18:06,520
+Ich habe mir jetzt nichts dabei gedacht.
+
+205
+00:18:06,520 --> 00:18:10,520
+Ist Ihnen schwindelig? Nein.
+
+206
+00:18:10,520 --> 00:18:12,520
+Okay, danke.
+
+207
+00:18:12,520 --> 00:18:15,520
+Eine Frage fehlt.
+
+208
+00:18:15,520 --> 00:18:20,410
+Haben Sie Wadenkranke? Nein.
+
+209
+00:18:20,410 --> 00:18:23,410
+Eine weitere Frage fehlt. Woran müssen wir noch denken?
+
+210
+00:18:23,410 --> 00:18:28,010
+Reiseanamnese.
+
+211
+00:18:28,010 --> 00:18:34,860
+Lange Fahrt, Flugzeug, lange Autofahrt.
+
+212
+00:18:34,860 --> 00:18:44,650
+Waren Sie in der Lesterzeit im Ausland? Ja.
+
+213
+00:18:45,650 --> 00:18:48,650
+Ich bin vor zwei Wochen aus Australien zurückgekehrt.
+
+214
+00:18:48,650 --> 00:18:57,910
+15 Stunden Flug.
+
+215
+00:18:57,910 --> 00:19:00,910
+Okay, jetzt haben wir Labortest gemacht.
+
+216
+00:19:00,910 --> 00:19:05,160
+Welche Labortest machen Sie, Herr Dr. Masch?
+
+217
+00:19:05,160 --> 00:19:10,430
+Ich würde...
+
+218
+00:19:10,430 --> 00:19:14,430
+...großes Blutbildentzündungsparameter...
+
+219
+00:19:14,430 --> 00:19:19,430
+...Gerindungsparameter...
+
+220
+00:19:19,430 --> 00:19:22,430
+...de-dimer...
+
+221
+00:19:22,430 --> 00:19:25,430
+...de-dimer...
+
+222
+00:19:25,430 --> 00:19:28,430
+...Nieren- und Leberwerte...
+
+223
+00:19:28,430 --> 00:19:32,810
+Jawohl.
+
+224
+00:19:32,810 --> 00:19:35,810
+...werde ich veranlassen.
+
+225
+00:19:35,810 --> 00:19:38,810
+Was machen Sie noch für eine Untersuchung?
+
+226
+00:19:38,810 --> 00:19:44,810
+Ich werde natürlich den Patienten körperlich untersuchen...
+
+227
+00:19:44,810 --> 00:19:49,810
+...einen Röntgen-Torax veranlassen.
+
+228
+00:19:49,810 --> 00:19:54,810
+Und wenn Röntgen-Torax unauffällig ist...
+
+229
+00:19:54,810 --> 00:19:59,810
+...werde ich CT-Torax durchführen.
+
+230
+00:19:59,810 --> 00:20:02,810
+Was machen Sie vorher?
+
+231
+00:20:02,810 --> 00:20:05,810
+Ganz einfach? EKG.
+
+232
+00:20:05,810 --> 00:20:08,810
+Ja, EKG. Ja, natürlich.
+
+233
+00:20:08,810 --> 00:20:11,810
+Sie sehen im EKG ein Sinusrhythmus.
+
+234
+00:20:11,810 --> 00:20:14,810
+Ich habe akustisch nicht gehört.
+
+235
+00:20:14,810 --> 00:20:17,810
+Sie sehen im EKG ein Sinusrhythmus.
+
+236
+00:20:17,810 --> 00:20:18,810
+Okay.
+
+237
+00:20:18,810 --> 00:20:20,810
+Puls von 80.
+
+238
+00:20:20,810 --> 00:20:25,910
+Ein Rechtschenkelblock.
+
+239
+00:20:25,910 --> 00:20:27,910
+Sie haben De-dimer gemacht.
+
+240
+00:20:27,910 --> 00:20:30,910
+Troponin-Test ist negativ.
+
+241
+00:20:30,910 --> 00:20:33,910
+De-dimer sind positiv.
+
+242
+00:20:33,910 --> 00:20:37,420
+Nierenwerte sind in Ordnung.
+
+243
+00:20:37,420 --> 00:20:41,420
+Schilddrüsewerte brauchen Sie auch, wenn Sie CT-Torax machen wollen.
+
+244
+00:20:41,420 --> 00:20:44,420
+Schilddrüse ist auch in Ordnung. TSA ist normal.
+
+245
+00:20:44,420 --> 00:20:50,790
+Leber, Nieren, Blutbild, alles in Ordnung.
+
+246
+00:20:50,790 --> 00:21:04,000
+Um eine Embolle auszuschließen, werde ich CT-Angiografie durchführen.
+
+247
+00:21:04,000 --> 00:21:05,000
+Alles klar.
+
+248
+00:21:05,000 --> 00:21:08,000
+Jetzt machen wir erst mal die Übergabe.
+
+249
+00:21:08,000 --> 00:21:14,000
+Und sprechen am Ende vielleicht Diagnose, Verdachtsdiagnose, Differentialdiagnose usw.
+
+250
+00:21:14,000 --> 00:21:16,000
+Wäre das okay?
+
+251
+00:21:16,000 --> 00:21:19,380
+Ja, okay, gerne.
+
+252
+00:21:19,380 --> 00:21:20,380
+Alles klar.
+
+253
+00:21:20,380 --> 00:21:28,210
+Oder sind noch Fragen?
+
+254
+00:21:28,210 --> 00:21:32,210
+Kann ich direkt anfangen oder kann ich ein paar Minuten?
+
+255
+00:21:32,210 --> 00:21:38,210
+Wenn Sie Zeit brauchen, dann gehen wir in diese zwei Minuten und dann können wir uns noch mit den anderen Kollegen unterhalten.
+
+256
+00:21:38,210 --> 00:21:41,210
+Okay, nur zwei Minuten, okay.
+
+257
+00:21:41,210 --> 00:21:48,210
+Gibt es vielleicht noch Fragen von anderen Kolleginnen oder Kollegen? Dr. Doblak spricht immer sehr viel.
+
+258
+00:21:48,210 --> 00:21:53,210
+Ja, natürlich.
+
+259
+00:21:53,210 --> 00:21:57,210
+Herr Hübner, darf ich fragen?
+
+260
+00:21:57,210 --> 00:22:01,490
+Wer möchte fragen?
+
+261
+00:22:01,490 --> 00:22:04,490
+Ich.
+
+262
+00:22:04,490 --> 00:22:06,490
+Wer ist ich?
+
+263
+00:22:06,490 --> 00:22:11,490
+Haben Sie Atemnot beim Einatmen oder beim Ausatmen?
+
+264
+00:22:11,490 --> 00:22:15,490
+Ach gut. Also in Ruhe habe ich keine Atemnot, nur bei Belastung.
+
+265
+00:22:15,490 --> 00:22:17,490
+Ja, bei Belastung frage ich.
+
+266
+00:22:17,490 --> 00:22:20,490
+Ja, bei Belastung. Oh, das ist mir gar nicht aufgefallen.
+
+267
+00:22:20,490 --> 00:22:23,490
+Beim Einatmen.
+
+268
+00:22:23,490 --> 00:22:27,490
+Und ist Ihnen Pfeifen aufgefallen?
+
+269
+00:22:27,490 --> 00:22:32,490
+Nein, Pfeifen habe ich jetzt nicht.
+
+270
+00:22:32,490 --> 00:22:33,490
+Danke.
+
+271
+00:22:33,490 --> 00:22:38,490
+Herr Oberhörst, ich habe Ihnen einmal nachgefragt, Wadenkrämpfe.
+
+272
+00:22:38,490 --> 00:22:41,490
+Sie haben gesagt, ich habe keine Wadenkrämpfe.
+
+273
+00:22:41,490 --> 00:22:48,490
+Normalerweise erwarten wir Wadenkrämpfe bei Colmina Emboli häufig oder nicht?
+
+274
+00:22:48,490 --> 00:22:51,490
+Das muss nicht sein. Nein, Wadenkrämpfe nicht.
+
+275
+00:22:51,490 --> 00:22:55,490
+Aber das können wir am Ende besprechen, was es sein kann.
+
+276
+00:22:55,490 --> 00:23:02,490
+Aber so leichte Schmerzen, leichte Schwellung haben wir manchmal, nicht immer.
+
+277
+00:23:02,490 --> 00:23:12,490
+Und das ist nicht so typisch für Moner Emboli. Keine Vertigo, keine Pusten, keine Hemo-Tier. Was ist das?
+
+278
+00:23:12,490 --> 00:23:17,490
+Gute Frage. Deswegen sind Sie Ärztin und ich bin der Patient.
+
+279
+00:23:17,490 --> 00:23:21,490
+Keine Ahnung, wie man das herausfindet. Dr. Oemmer muss das jetzt finden.
+
+280
+00:23:21,490 --> 00:23:23,490
+Er macht eine gute Suchung.
+
+281
+00:23:23,490 --> 00:23:25,490
+Ich habe das nicht gut verstanden.
+
+282
+00:23:25,490 --> 00:23:29,490
+Haben Sie in Wadenbereich leichte Schwellung und Schmerzen oder nichts?
+
+283
+00:23:29,490 --> 00:23:33,490
+Schwellung habe ich nicht. Ich habe keine Krämpfe, keine Schwellung.
+
+284
+00:23:33,490 --> 00:23:35,490
+Keine Schmerzen?
+
+285
+00:23:35,490 --> 00:23:40,490
+Nur minimal, aber das stört mich nicht. Das ist ganz wenig. Deswegen sehe ich das nicht als Schmerz an.
+
+286
+00:23:40,490 --> 00:23:44,600
+Ja, okay.
+
+287
+00:23:44,600 --> 00:23:48,600
+Ja, ich bin ein ganz komischer Patient. Was soll ich machen?
+
+288
+00:23:48,600 --> 00:23:57,600
+Ein sportlicher Mann und Sport. Deswegen vielleicht unspecifisch könnte es sein, oder?
+
+289
+00:23:57,600 --> 00:24:01,600
+Genau diesen Patienten habe ich vor vier Tagen gehabt.
+
+290
+00:24:01,600 --> 00:24:09,600
+Oh, ja, 33 Jahre alt und ja, genau. Muss man wie Detektiv sein.
+
+291
+00:24:09,600 --> 00:24:14,600
+Deswegen macht der Arztberuf so Spaß, man ist ein Detektiv.
+
+292
+00:24:14,600 --> 00:24:16,600
+So, sind Sie bereit, Dr. Oemmer?
+
+293
+00:24:16,600 --> 00:24:18,600
+Ja, wir können anfangen.
+
+294
+00:24:18,600 --> 00:24:21,420
+Okay.
+
+295
+00:24:21,420 --> 00:24:25,420
+Hallo, guten Abend, sehr geehrte Herr Oberarzt.
+
+296
+00:24:25,420 --> 00:24:30,420
+Hallo, Herr Dr. Oemmer. Grüß Gott, Servus, guten Abend, wie geht's?
+
+297
+00:24:30,420 --> 00:24:32,420
+Es geht mir gut und Ihnen?
+
+298
+00:24:32,420 --> 00:24:35,420
+Dankeschön, danke schön. Sie brauchen nicht sehr geehrt zu sagen.
+
+299
+00:24:35,420 --> 00:24:42,420
+Es reicht, wenn Sie mich Florian nennen. Wir können uns ja schon duzen. Sie sind jetzt schon so lange dabei.
+
+300
+00:24:42,420 --> 00:24:44,420
+Okay, vielen Dank.
+
+301
+00:24:44,420 --> 00:24:52,420
+Ich habe heute einen neuen Patienten aufgenommen und würde gerne seinen Fall Ihnen vorstellen.
+
+302
+00:24:52,420 --> 00:24:53,420
+Jawohl.
+
+303
+00:24:53,420 --> 00:25:07,420
+Es handelt sich um Herrn Alexander Scherer. Er ist 33 Jahre alt und geboren am 23. Februar 1993.
+
+304
+00:25:07,420 --> 00:25:15,420
+Er ist 1,73 Meter groß und wiegt zurzeit 72 Kilogramm.
+
+305
+00:25:16,420 --> 00:25:32,420
+Der 33-jährige Patient Herr Scherer stellte sich heute bei uns wegen seiner Woche bestehender progredienter Belastungsdüstnüfte vor.
+
+306
+00:25:32,420 --> 00:25:44,420
+Er berichtete, dass er nur ein oder zwei Stockwerke schaffen könne.
+
+307
+00:25:44,420 --> 00:25:52,420
+Er hatte keinen Auslöser für die Beschwerden.
+
+308
+00:25:52,420 --> 00:26:07,420
+Vor zehn Tagen gab er an, dass er vor zehn Tagen beim Fußballspielen eine Verletzung gehabt habe.
+
+309
+00:26:07,420 --> 00:26:14,420
+Im Wadenbereich hatte er leichte Schmerzen.
+
+310
+00:26:14,420 --> 00:26:17,420
+Wo, auf beiden Seiten?
+
+311
+00:26:17,420 --> 00:26:19,420
+Wie bitte?
+
+312
+00:26:19,420 --> 00:26:22,420
+An welcher Wade hatte er Schmerzen?
+
+313
+00:26:25,420 --> 00:26:27,420
+Welche?
+
+314
+00:26:29,420 --> 00:26:31,420
+Ich sage einfach nichts.
+
+315
+00:26:35,420 --> 00:26:39,420
+Haben Sie irgendwelche Schwellungen bemerkt, Herr Doktor? Haben Sie die Wade untersucht?
+
+316
+00:26:39,420 --> 00:26:58,420
+Nein, er hat keine Schwellung. Die Fragen nach dem Tachikardia, Tussis, Schmerzen, Schmerzen, Nachschweiß wurden verneint.
+
+317
+00:26:58,420 --> 00:27:00,420
+Interessant.
+
+318
+00:27:00,420 --> 00:27:18,420
+Die vegetative Anamnese ist auch unaufwendig. Er hat keine Schwellungen. Er nimmt nur Ibuprofen bei Bedarf ein.
+
+319
+00:27:18,420 --> 00:27:22,420
+Relativ gesünder Jungmann sozusagen, ja?
+
+320
+00:27:22,420 --> 00:27:24,420
+Ja, genau.
+
+321
+00:27:25,420 --> 00:27:30,420
+Bei ihm ist bisher keine Operation durchgeführt worden.
+
+322
+00:27:30,420 --> 00:27:39,420
+Er hat eine Polenallergie, Milbenallergie und Hausstauballergie.
+
+323
+00:27:39,420 --> 00:27:57,420
+Er hat die erste Allergie durch Rhinokonjunktivität, die zweite und dritte Allergie durch Rhinitis.
+
+324
+00:27:57,420 --> 00:28:11,420
+Unverträglichkeit hat er nicht. Sein Vater leidet an Diabetes Medikamentus. Welchen Typ? Kenne er nicht.
+
+325
+00:28:11,420 --> 00:28:29,420
+Er leidet an Diabetes Medikamentus seit fünf Jahren. Seine Mutter leidet seit ungefähr 20 Jahren an arteriöle Hypertonie.
+
+326
+00:28:29,420 --> 00:28:51,840
+Er hat eine Schwester, die sie gesucht hat. Er ist kein Raucher. Er trinkt sehr selten Alkohol. Er konsumiert keine Drogen.
+
+327
+00:28:51,840 --> 00:29:05,840
+Er lebt mit seinen Partnern zusammen und hat keine Kinder. Er ist Lehrer von Beruf und er lebt Englisch und Sport.
+
+328
+00:29:05,840 --> 00:29:17,840
+Bei der Reise an Amnese ist er vor zwei Wochen aus Australien zurückgekehrt.
+
+329
+00:29:17,840 --> 00:29:29,840
+Der Flugreise habe 15 Stunden gedauert.
+
+330
+00:29:29,840 --> 00:29:45,410
+Aufgrund der anamnestischen Angaben habe ich einen Verdacht auf eine pulmonäre Embolle.
+
+331
+00:29:45,410 --> 00:29:51,410
+Was veranlassen Sie für Untersuchungen?
+
+332
+00:29:51,410 --> 00:30:07,040
+Besonders fokussiere ich mich auf die Auskultation der Lunge und des Herzens.
+
+333
+00:30:07,040 --> 00:30:17,040
+Ich werde auch Blut abnehmen, um einige Laborwerte zu überprüfen.
+
+334
+00:30:17,040 --> 00:30:33,040
+Blutbild, Entzündungsparameter, Gerinnungsparameter, Neurons, Leberwerte, kardiale Enzyme, Troponin E.
+
+335
+00:30:33,040 --> 00:30:43,040
+Ich werde die Vitalparameter überprüfen und eine EKG schreiben.
+
+336
+00:30:43,040 --> 00:30:54,830
+Ich werde auch eine Röntgen-Thorax und CT-Thorax veranlassen.
+
+337
+00:30:54,830 --> 00:31:06,830
+Gegebenenfalls werde ich die CT-Giografie mit Kontrast mit DERF durchführen.
+
+338
+00:31:06,830 --> 00:31:16,830
+Was sind Ihre Differenzialdiagnosen?
+
+339
+00:31:16,830 --> 00:31:45,650
+Als Differenzialdiagnose kommen Pneumothorax und Bronchialastma.
+
+340
+00:31:45,650 --> 00:31:55,650
+Was ist mit der Lunge?
+
+341
+00:31:55,650 --> 00:32:13,380
+Was ist mit der Herzrhythmusstörung?
+
+342
+00:32:13,380 --> 00:32:23,380
+Was ist mit der Herzrhythmusstörung?
+
+343
+00:32:23,380 --> 00:32:37,250
+Was ist mit der Röntgenstörung?
+
+344
+00:32:37,250 --> 00:32:53,300
+Was ist mit der Herzrhythmusstörung?
+
+345
+00:32:53,300 --> 00:33:03,300
+Was ist mit der Herzrhythmusstörung?
+
+346
+00:33:03,300 --> 00:33:13,300
+Was ist mit der Herzrhythmusstörung?
+
+347
+00:33:13,300 --> 00:33:23,300
+Was ist mit der Herzrhythmusstörung?
+
+348
+00:33:23,300 --> 00:33:33,300
+Was ist mit der Herzrhythmusstörung?
+
+349
+00:33:33,300 --> 00:33:44,860
+Was ist mit der Herzrhythmusstörung?
+
+350
+00:33:44,860 --> 00:33:54,860
+Was ist mit der Herzrhythmusstörung?
+
+351
+00:33:54,860 --> 00:34:04,860
+Was ist mit der Herzrhythmusstörung?
+
+352
+00:34:04,860 --> 00:34:14,860
+Was ist mit der Herzrhythmusstörung?
+
+353
+00:34:14,860 --> 00:34:24,860
+Was ist mit der Herzrhythmusstörung?
+
+354
+00:34:24,860 --> 00:34:36,980
+Was ist mit der Herzrhythmusstörung?
+
+355
+00:34:36,980 --> 00:34:48,420
+Was ist mit der Herzrhythmusstörung?
+
+356
+00:34:48,420 --> 00:34:59,790
+Was ist mit der Herzrhythmusstörung?
+
+357
+00:34:59,790 --> 00:35:09,790
+Was ist mit der Herzrhythmusstörung?
+
+358
+00:35:09,790 --> 00:35:19,790
+Was ist mit der Herzrhythmusstörung?
+
+359
+00:35:19,790 --> 00:35:29,790
+Was ist mit der Herzrhythmusstörung?
+
+360
+00:35:29,790 --> 00:35:39,790
+Was ist mit der Herzrhythmusstörung?
+
+361
+00:35:59,790 --> 00:36:09,790
+Was ist mit der Herzrhythmusstörung?
+
+362
+00:36:09,790 --> 00:36:19,790
+Was ist mit der Herzrhythmusstörung?
+
+363
+00:36:19,790 --> 00:36:29,790
+Was ist mit der Herzrhythmusstörung?
+
+364
+00:36:29,790 --> 00:36:39,790
+Was ist mit der Herzrhythmusstörung?
+
+365
+00:36:39,790 --> 00:36:49,790
+Was ist mit der Herzrhythmusstörung?
+
+366
+00:36:49,790 --> 00:36:59,790
+Was ist mit der Herzrhythmusstörung?
+
+367
+00:36:59,790 --> 00:37:09,790
+Was ist mit der Herzrhythmusstörung?
+
+368
+00:37:09,790 --> 00:37:19,790
+Was ist mit der Herzrhythmusstörung?
+
+369
+00:37:19,790 --> 00:37:29,790
+Was ist mit der Herzrhythmusstörung?
+
+370
+00:37:29,790 --> 00:37:39,790
+Was ist mit der Herzrhythmusstörung?
+
+371
+00:37:39,790 --> 00:37:49,790
+Was ist mit der Herzrhythmusstörung?
+
+372
+00:37:49,790 --> 00:37:59,790
+Was ist mit der Herzrhythmusstörung?
+
+373
+00:37:59,790 --> 00:38:09,790
+Was ist mit der Herzrhythmusstörung?
+
+374
+00:38:09,790 --> 00:38:19,790
+Was ist mit der Herzrhythmusstörung?
+
+375
+00:38:19,790 --> 00:38:29,790
+Was ist mit der Herzrhythmusstörung?
+
+376
+00:38:49,790 --> 00:38:59,790
+Was ist mit der Herzrhythmusstörung?
+
+377
+00:38:59,790 --> 00:39:09,790
+Was ist mit der Herzrhythmusstörung?
+
+378
+00:39:09,790 --> 00:39:19,790
+Was ist mit der Herzrhythmusstörung?
+
+379
+00:39:39,790 --> 00:39:49,790
+Was ist mit der Herzrhythmusstörung?
+
+380
+00:39:49,790 --> 00:39:59,790
+Was ist mit der Herzrhythmusstörung?
+
+381
+00:39:59,790 --> 00:40:11,740
+Was ist mit der Herzrhythmusstörung?
+
+382
+00:40:33,280 --> 00:40:43,280
+Wie könnte diese Frau behandelt werden?
+
+383
+00:40:43,280 --> 00:40:53,280
+Ist das möglich, noch mal eine alte Beine ohne Schwellung?
+
+384
+00:40:53,280 --> 00:41:03,280
+Ist das möglich, noch mal eine alte Beine ohne Schwellung?
+
+385
+00:41:03,280 --> 00:41:14,980
+Ist das möglich, noch mal eine alte Beine ohne Schwellung?
+
+386
+00:41:14,980 --> 00:41:24,980
+Ist das möglich, noch mal eine alte Beine ohne Schwellung?

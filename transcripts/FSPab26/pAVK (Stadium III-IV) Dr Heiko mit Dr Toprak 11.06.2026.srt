@@ -1,0 +1,1675 @@
+1
+00:00:00,000 --> 00:00:05,340
+Sehen Sie? Sehen Sie damit einverstanden?
+
+2
+00:00:05,340 --> 00:00:07,340
+Ja, bin ich.
+
+3
+00:00:07,340 --> 00:00:16,340
+Bevor ich zu Ihren aktuellen Beschwerden komme, muss ich Ihnen noch ein paar Fragen zu Ihren persönlichen Daten stellen.
+
+4
+00:00:16,340 --> 00:00:22,340
+Falls etwas unklar ist, unterbrechen Sie mich bitte.
+
+5
+00:00:22,340 --> 00:00:25,340
+Und so, wie heißen Sie denn?
+
+6
+00:00:25,340 --> 00:00:28,340
+Ich heiße Lisa Wassermann.
+
+7
+00:00:28,340 --> 00:00:32,340
+Können Sie diese Namen langsam durch die Buchstaben?
+
+8
+00:00:32,340 --> 00:00:39,340
+Ja, Lisa schreibt sich L-I-S-A, Lisa.
+
+9
+00:00:39,340 --> 00:00:53,340
+Und Wassermann, W-A-S-S-E-R-M-A-N-N, Wassermann.
+
+10
+00:00:53,340 --> 00:00:58,340
+Am Ende zweimal N, Double N.
+
+11
+00:00:58,340 --> 00:01:02,340
+Wie kann ich Sie ansprechen? Frau Wassermann, ja?
+
+12
+00:01:02,340 --> 00:01:03,340
+Ja, ja.
+
+13
+00:01:03,340 --> 00:01:05,340
+Frau Wassermann, wie alt sind Sie?
+
+14
+00:01:05,340 --> 00:01:07,340
+Ich bin 60 Jahre alt.
+
+15
+00:01:07,340 --> 00:01:13,810
+60. Wann sind Sie genau geboren?
+
+16
+00:01:13,810 --> 00:01:21,120
+Am 16. August 1965.
+
+17
+00:01:21,120 --> 00:01:29,470
+1965.
+
+18
+00:01:29,470 --> 00:01:37,500
+Wie schwer sind Sie?
+
+19
+00:01:37,500 --> 00:01:45,700
+66 Kilo.
+
+20
+00:01:45,700 --> 00:01:50,710
+Wie groß sind Sie?
+
+21
+00:01:50,710 --> 00:01:54,710
+1,69 Meter.
+
+22
+00:01:54,710 --> 00:01:57,710
+Haben Sie ungewollte Abobesuch genommen?
+
+23
+00:01:57,710 --> 00:02:01,710
+Nein, habe ich nicht.
+
+24
+00:02:01,710 --> 00:02:04,710
+Okay, was kann ich für Sie tun? Was führt Sie uns?
+
+25
+00:02:04,710 --> 00:02:12,180
+Seit drei Tagen habe ich ziemlich zunehmende Schmerzen im rechten Bein.
+
+26
+00:02:12,180 --> 00:02:18,180
+Besonders im Unterschenkel, im rechten.
+
+27
+00:02:18,180 --> 00:02:24,180
+Ich habe auch noch Schmerzen im Rücken unten im Bereich der Lendenwirbelsäule.
+
+28
+00:02:24,180 --> 00:02:34,470
+Habe ich auch Schmerzen, aber besonders im rechten Bein.
+
+29
+00:02:34,470 --> 00:02:39,470
+Sind die Beschwerden plötzlich angefangen?
+
+30
+00:02:39,470 --> 00:02:43,470
+Nein, langsam.
+
+31
+00:02:43,470 --> 00:02:47,470
+Wie können Sie Ihre Schmerzen beschreiben?
+
+32
+00:02:47,470 --> 00:02:51,470
+Eine bohrende Schmerzen oder?
+
+33
+00:02:51,470 --> 00:02:55,470
+Ja, sie sind so dumpf bohrend.
+
+34
+00:02:55,470 --> 00:03:03,470
+Wie stark sind die Schmerzen auf einer Schmerzenskala?
+
+35
+00:03:03,470 --> 00:03:08,470
+Von eins bis zehn. Wobei sie unerträglich sind.
+
+36
+00:03:08,470 --> 00:03:11,470
+Ich würde sagen, sie sind mindestens fünf.
+
+37
+00:03:11,470 --> 00:03:16,470
+Wenn ich mich versuche etwas zu bewegen, etwas zu gehen, dann sind sie auch mehr.
+
+38
+00:03:16,470 --> 00:03:20,470
+Sieben bis acht.
+
+39
+00:03:20,470 --> 00:03:35,050
+In Ruhe fünf. Wenn Sie bewegen, sind sieben oder acht.
+
+40
+00:03:35,050 --> 00:03:38,050
+Strahlen die Schmerzen nicht auf?
+
+41
+00:03:38,050 --> 00:03:41,620
+Nein.
+
+42
+00:03:41,620 --> 00:03:45,620
+Wo genau ist die Schmerzen? Könnten Sie noch mal sagen?
+
+43
+00:03:45,620 --> 00:03:49,620
+Also im rechten Bein, aber besonders im Unterschenkel.
+
+44
+00:03:49,620 --> 00:03:53,620
+Rechten Bein, Unterschenkel.
+
+45
+00:03:53,620 --> 00:04:04,620
+Auch Füße? Haben Sie auch Fussschmerzen?
+
+46
+00:04:04,620 --> 00:04:09,620
+Im Fuß tut es auch weh, aber hauptsächlich im Unterschenkel.
+
+47
+00:04:09,620 --> 00:04:13,620
+Bis Knie, aber Schmerzenstrasse bis Knie.
+
+48
+00:04:13,620 --> 00:04:25,260
+Maximalen Knie.
+
+49
+00:04:25,260 --> 00:04:30,630
+Ist Ihnen ein geschwollenes Bein aufgefallen?
+
+50
+00:04:30,630 --> 00:04:34,630
+Nein. Geschwollen ist das nicht. Das sieht aber ein bisschen komisch aus.
+
+51
+00:04:34,630 --> 00:04:39,630
+Das sieht irgendwie, ist irgendwie ein bisschen weißlich.
+
+52
+00:04:39,630 --> 00:04:42,630
+Ah, weiß, okay.
+
+53
+00:04:42,630 --> 00:04:45,630
+Also im Vergleich zum anderen Bein.
+
+54
+00:04:45,630 --> 00:04:51,630
+Okay. In Ruhe, Sie haben keine Beschwerden, aber...
+
+55
+00:04:51,630 --> 00:04:56,630
+Nein, ich habe seit drei Tagen auch Schmerzen in Ruhe.
+
+56
+00:04:56,630 --> 00:05:00,630
+Vorher war das in Ruhe nicht. Vorher war das nur bei Bewegung.
+
+57
+00:05:00,630 --> 00:05:03,630
+Aber seit drei Tagen habe ich auch Ruhe Schmerzen.
+
+58
+00:05:03,630 --> 00:05:06,630
+Gibt es eine bestimmte Auslöse?
+
+59
+00:05:06,630 --> 00:05:09,630
+Ich kenne, ich weiß es nicht. Ich habe keine Erklärung.
+
+60
+00:05:09,630 --> 00:05:12,630
+Keine Erklärung, kann ich nicht sagen.
+
+61
+00:05:12,630 --> 00:05:19,630
+Okay. Ist Ihnen ein Gerötet aufgefallen?
+
+62
+00:05:19,630 --> 00:05:23,630
+Nein, das Bein ist blass geworden.
+
+63
+00:05:23,630 --> 00:05:26,630
+Rötung nicht, das ist eher ein bisschen blasser.
+
+64
+00:05:26,630 --> 00:05:30,630
+Beide sind blasser oder nur das rechte Bein ist blass.
+
+65
+00:05:30,630 --> 00:05:33,630
+Das rechte Bein.
+
+66
+00:05:33,630 --> 00:05:37,630
+Ist Ihnen ein Haar los aufgefallen? Haar los.
+
+67
+00:05:37,630 --> 00:05:39,630
+Veränderung?
+
+68
+00:05:39,630 --> 00:05:41,630
+Haarausfall.
+
+69
+00:05:41,630 --> 00:05:44,630
+Haarausfall habe ich nicht beobachtet, nein.
+
+70
+00:05:44,630 --> 00:05:46,630
+Im einen betroffenen Seite.
+
+71
+00:05:46,630 --> 00:06:04,980
+Das habe ich nicht beobachtet.
+
+72
+00:06:04,980 --> 00:06:09,980
+Ist die rechte Beine überwärmt?
+
+73
+00:06:09,980 --> 00:06:12,980
+Ist Ihnen eine Überwärmung aufgefallen?
+
+74
+00:06:12,980 --> 00:06:14,980
+Ich glaube eher, das ist kühler.
+
+75
+00:06:14,980 --> 00:06:16,980
+Das ist kälter.
+
+76
+00:06:16,980 --> 00:06:28,460
+Eher ist kühler, ja?
+
+77
+00:06:28,460 --> 00:06:30,460
+Haben Sie Fieber?
+
+78
+00:06:30,460 --> 00:06:34,380
+Nein, ich glaube nicht.
+
+79
+00:06:34,380 --> 00:06:40,380
+Waren Sie im letzten ein Monat im Wald?
+
+80
+00:06:40,380 --> 00:06:46,380
+Erinnern Sie sich an einen Insektenbiss?
+
+81
+00:06:46,380 --> 00:06:49,380
+Kann ich mich nicht daran erinnern.
+
+82
+00:06:49,380 --> 00:07:01,620
+Ich war aber auch nicht lange in der Natur oder im Wald in letzter Zeit.
+
+83
+00:07:01,620 --> 00:07:06,620
+Leiden Sie Herzschlag oder Herzstopper?
+
+84
+00:07:06,620 --> 00:07:08,620
+Nein, Herzschwäche habe ich nicht.
+
+85
+00:07:08,620 --> 00:07:10,620
+Ich habe nur hohen Blutdruck.
+
+86
+00:07:10,620 --> 00:07:20,370
+Blutdruck.
+
+87
+00:07:20,370 --> 00:07:23,370
+Haben Sie Atemnot?
+
+88
+00:07:23,370 --> 00:07:28,370
+Ich habe häufiger Husten, weil ich eine chronische Bronchitis habe.
+
+89
+00:07:28,370 --> 00:07:34,820
+Da muss ich ziemlich oft husten.
+
+90
+00:07:34,820 --> 00:07:39,820
+Sie haben nur Husten oder mit Auswurf?
+
+91
+00:07:39,820 --> 00:07:44,820
+Da kommt auch manchmal Schleim raus, besonders morgens, nach dem Aufstehen.
+
+92
+00:07:44,820 --> 00:07:45,820
+Nach der Nacht.
+
+93
+00:07:45,820 --> 00:07:49,820
+Wenn ich da husten muss, dann muss ich auch häufig Schleim abhusten.
+
+94
+00:07:49,820 --> 00:07:52,820
+Wie ist die Farbe des Auswurfes?
+
+95
+00:07:52,820 --> 00:07:54,820
+Ist der Farbe grün?
+
+96
+00:07:54,820 --> 00:07:59,820
+Nein, der ist meist weisslich, ein bisschen gelblich.
+
+97
+00:07:59,820 --> 00:08:06,820
+Manchmal im Winter, besonders im Herbst, muss ich auch mal ein Antibiotikum nehmen,
+
+98
+00:08:06,820 --> 00:08:09,820
+weil das dann schlimmer wird.
+
+99
+00:08:09,820 --> 00:08:12,820
+Dann habe ich auch manchmal Fieber dabei, aber das ist jetzt nicht der Fall.
+
+100
+00:08:12,820 --> 00:08:15,820
+Jetzt habe ich da kein Problem.
+
+101
+00:08:15,820 --> 00:08:18,820
+Rauchen Sie gerade auch?
+
+102
+00:08:18,820 --> 00:08:32,030
+Ja, rauchen tue ich ja.
+
+103
+00:08:32,030 --> 00:08:36,030
+Haben Sie einen Hautausschlag aufgeholt?
+
+104
+00:08:36,030 --> 00:08:40,030
+Nein, einen Hautausschlag nicht.
+
+105
+00:08:40,030 --> 00:08:43,030
+Haben Sie eine Verdauerprobleme?
+
+106
+00:08:43,030 --> 00:08:48,030
+Ich meinte, Diarrhe oder Verstopfung, aufgebläht?
+
+107
+00:08:48,030 --> 00:08:51,030
+Nein, nein, nein, habe ich nicht.
+
+108
+00:08:51,030 --> 00:08:54,030
+Sie haben keine Verdauerprobleme?
+
+109
+00:08:54,030 --> 00:08:59,030
+Nein, Verdauung ist gut. Verdauung ist bei mir gut.
+
+110
+00:08:59,030 --> 00:09:04,470
+Haben Sie Nachschweiß oder Stoffreus?
+
+111
+00:09:04,470 --> 00:09:16,520
+Nein.
+
+112
+00:09:16,520 --> 00:09:18,520
+Haben Sie Probleme beim Wasserlassen?
+
+113
+00:09:18,520 --> 00:09:24,860
+Nein, das Wasserlassen ist gut. Ich kann das Wasser auch gut halten.
+
+114
+00:09:24,860 --> 00:09:27,860
+Das geht, habe ich kein Problem.
+
+115
+00:09:27,860 --> 00:09:32,860
+Haben Sie Probleme beim Treppe steigen?
+
+116
+00:09:32,860 --> 00:09:39,860
+Wie viele Treppe könnten Sie ganz fernfrei laufen?
+
+117
+00:09:39,860 --> 00:09:45,860
+Das weiß ich nicht. Ich bin da faul. Wenn es eben geht, fahre ich mit dem Fahrstuhl.
+
+118
+00:09:45,860 --> 00:09:51,860
+Wir wohnen im ersten Stock und das sind nur zwei Treppen. Die kann ich ganz gut steigen.
+
+119
+00:09:51,860 --> 00:10:02,860
+Wenn Sie möchten, Sie laufen, nachdem wie viele Meter die Beschwerden gibt?
+
+120
+00:10:03,860 --> 00:10:09,860
+Seit drei Tagen habe ich diesen Schmerz in Ruhe, dauernd.
+
+121
+00:10:09,860 --> 00:10:16,860
+Vorher habe ich bemerkt, dass ich die letzten Wochen vielleicht 100 Meter gehen konnte.
+
+122
+00:10:16,860 --> 00:10:20,860
+Dann musste ich anhalten, weil mein Bein schmerzte.
+
+123
+00:10:20,860 --> 00:10:24,860
+Sie brauchten eine Pause?
+
+124
+00:10:24,860 --> 00:10:30,860
+Ja, ich musste stehen bleiben, ein, zwei Minuten. Dann ging es wieder besser.
+
+125
+00:10:30,860 --> 00:10:33,860
+Dann konnte ich wieder weitergehen.
+
+126
+00:10:33,860 --> 00:10:39,860
+Wie gesagt, das war in den letzten Wochen. Aber seit drei Tagen habe ich Dauerschmerz.
+
+127
+00:10:39,860 --> 00:10:48,860
+Wenn Sie rechte Beine hochlagern, verhindert das Ihre Schmerzen oder nicht?
+
+128
+00:10:48,860 --> 00:10:52,860
+Habe ich bisher nicht ausprobiert.
+
+129
+00:10:52,860 --> 00:10:56,860
+Auch tief lagern, Sie haben noch nicht bemerkt?
+
+130
+00:10:56,860 --> 00:11:02,860
+Nein, ich habe das Gefühl, das Gefühl ist insgesamt nicht so gut wie im linken.
+
+131
+00:11:02,860 --> 00:11:09,860
+Sind bei Ihnen chronische Erkrankungen bekannt außer COPD?
+
+132
+00:11:09,860 --> 00:11:19,460
+Ich habe die chronische Bronchitis.
+
+133
+00:11:19,460 --> 00:11:22,460
+Dann habe ich die chronische Bronchitis.
+
+134
+00:11:22,460 --> 00:11:25,460
+Seit wann haben Sie Bronchitis?
+
+135
+00:11:25,460 --> 00:11:32,460
+Bronchitis ungefähr seit vier, fünf Jahren.
+
+136
+00:11:32,460 --> 00:11:36,460
+Seit wann haben Sie ATL-Hypertension?
+
+137
+00:11:36,460 --> 00:11:40,460
+Seit ich die chronische Bronchitis habe.
+
+138
+00:11:40,460 --> 00:11:44,460
+Und seit wann haben Sie die chronische Bronchitis?
+
+139
+00:11:44,460 --> 00:11:48,460
+Seit ich die chronische Bronchitis habe.
+
+140
+00:11:49,460 --> 00:11:53,460
+Seit wann haben Sie ATL-Hypertension?
+
+141
+00:11:53,460 --> 00:11:59,830
+Bluthochdruck seit vier Jahren.
+
+142
+00:11:59,830 --> 00:12:03,830
+Wurden Sie schon einmal operiert?
+
+143
+00:12:03,830 --> 00:12:10,830
+Ja, ich habe noch eine Erkrankung. Seit zwei Jahren muss ich auch ein Medikament gegen Osteoporose einnehmen.
+
+144
+00:12:10,830 --> 00:12:17,830
+Osteoporose. Welche Medikamente nehmen Sie gegen Osteoporose?
+
+145
+00:12:18,830 --> 00:12:24,830
+Osteoporose, das ist schwierig. Das heißt Alendronsäure.
+
+146
+00:12:24,830 --> 00:12:28,830
+Einmal pro Woche.
+
+147
+00:12:28,830 --> 00:12:30,830
+Einmal pro Woche.
+
+148
+00:12:30,830 --> 00:12:37,830
+Und dann nehme ich noch Vitamin D. Das nehme ich jeden Tag.
+
+149
+00:12:37,830 --> 00:12:45,830
+Können Sie die Alendronik-Säure-Dosierung?
+
+150
+00:12:45,830 --> 00:12:52,830
+Nein, das weiß ich jetzt nicht, wie stark die ist. Aber mein Mann bringt die Sachen gleich alle ins Krankenhaus.
+
+151
+00:12:52,830 --> 00:12:59,830
+Das habe ich eben vergessen. Alendronsäure weiß ich nicht. Bei Vitamin D steht 1000 hinter.
+
+152
+00:12:59,830 --> 00:13:08,140
+Vitamin D ist 1000. Würden Sie keine Operation?
+
+153
+00:13:08,140 --> 00:13:14,140
+Operationen habe ich gehabt. Doch. Als Kind, da war ich zehn Jahre alt, wurde ich am Blinddarm operiert.
+
+154
+00:13:14,140 --> 00:13:17,140
+Als Kind, Blinde.
+
+155
+00:13:17,140 --> 00:13:24,140
+Dann hatte ich vor zwei Jahren einen Sturz beim Fahrradfahren. Da war mein linker Unterarm gebrochen.
+
+156
+00:13:24,140 --> 00:13:27,140
+Da waren beide Knochen am Unterarm gebrochen.
+
+157
+00:13:27,140 --> 00:13:29,140
+Linker Arm, ja?
+
+158
+00:13:29,140 --> 00:13:31,140
+Linker Unterarm.
+
+159
+00:13:31,140 --> 00:13:38,180
+Beide Knochen waren da gebrochen und da musste ich auch operiert werden.
+
+160
+00:13:38,180 --> 00:13:44,180
+Und dann hatte ich noch vor vier Jahren am linken Knie eine Spiegelung.
+
+161
+00:13:45,180 --> 00:13:52,180
+Da wurde der Meniskus eingerissen und da wurde er behandelt.
+
+162
+00:13:52,180 --> 00:13:55,180
+Bei der Spiegelung. Und das ist viel besser geworden.
+
+163
+00:13:55,180 --> 00:13:58,180
+Wann war die Knie-Spiegelung?
+
+164
+00:13:58,180 --> 00:14:06,800
+Vor vier Jahren.
+
+165
+00:14:06,800 --> 00:14:13,800
+Wie haben Sie behandelt mit diesem linken Unterarm? Eine Osteosynthese?
+
+166
+00:14:13,800 --> 00:14:18,800
+Ja, da ist ein Schraub und eine Platte reingekommen.
+
+167
+00:14:21,800 --> 00:14:31,940
+Nach einem oder zwei Monaten musst du diese Schrauben und Platten rausnehmen oder nicht?
+
+168
+00:14:31,940 --> 00:14:39,940
+Ja, das ist entfernt worden. Aber erst nach sieben oder acht Monaten ist das entfernt worden.
+
+169
+00:14:39,940 --> 00:14:49,220
+Sie haben schon ein Jahr gesagt, ihr rauche. Wie viele und seit wann?
+
+170
+00:14:49,220 --> 00:14:54,220
+Ja, ich rauche ungefähr pro Tag eine Schachtel Zigaretten seit ungefähr 35 Jahren.
+
+171
+00:14:54,220 --> 00:14:57,690
+Seit?
+
+172
+00:14:57,690 --> 00:14:59,690
+Seit 35 Jahren.
+
+173
+00:14:59,690 --> 00:15:10,270
+Nehmen Sie Alkohol süßig?
+
+174
+00:15:10,270 --> 00:15:14,270
+Ich trinke mal ein Glas Wein, aber nicht jeden Tag.
+
+175
+00:15:14,270 --> 00:15:22,750
+Nehmen Sie diese Frage nicht persönlich. Das ist eine routinische Frage.
+
+176
+00:15:22,750 --> 00:15:26,750
+Ich muss jede Patientin diese Frage stellen.
+
+177
+00:15:26,750 --> 00:15:29,750
+Konsumieren Sie Drogen?
+
+178
+00:15:29,750 --> 00:15:31,750
+Nein.
+
+179
+00:15:31,750 --> 00:15:37,510
+Sind Ihnen Allergie und Verträglichkeit bekannt?
+
+180
+00:15:37,510 --> 00:15:39,510
+Habe ich nicht.
+
+181
+00:15:43,300 --> 00:15:48,300
+Ich möchte gerne wissen, wie ist Ihr Familiengesundheitszustand?
+
+182
+00:15:48,300 --> 00:15:54,300
+Was kann ich für Sie sagen? Wie ist Ihr Elterngesundheitszustand?
+
+183
+00:15:54,300 --> 00:16:02,300
+Mein Vater ist mit 76 Jahren verstorben an einem Lungenkrebs.
+
+184
+00:16:02,300 --> 00:16:04,300
+Sechs und?
+
+185
+00:16:04,300 --> 00:16:09,300
+Sechsundsiebzig. Er ist wegen Lungenkrebs verstorben.
+
+186
+00:16:09,300 --> 00:16:17,300
+Er hatte vorher Bronchitis und Gefäßverengung in beiden Beinen.
+
+187
+00:16:17,300 --> 00:16:20,300
+Der war im Ende dann schwer krank.
+
+188
+00:16:20,300 --> 00:16:22,300
+Die Mutter?
+
+189
+00:16:22,300 --> 00:16:30,300
+Die Mutter ist 84 Jahre alt. Sie lebt. Sie hat Alterszucker. Sie hat auch eine Osteoporose.
+
+190
+00:16:30,300 --> 00:16:33,300
+Geschwister habe ich keine.
+
+191
+00:16:33,300 --> 00:16:41,100
+Sie haben keine Geschwister? Okay.
+
+192
+00:16:41,100 --> 00:16:43,100
+Sind Sie verheiratet?
+
+193
+00:16:43,100 --> 00:16:49,100
+Ja, ich bin verheiratet und wohne mit meinem Mann zusammen.
+
+194
+00:16:49,100 --> 00:17:02,060
+Entschuldigung. Sie haben gegen Bronchitis. Nehmen Sie Medikamente oder nicht?
+
+195
+00:17:02,060 --> 00:17:05,060
+Sie haben noch nicht erzählt.
+
+196
+00:17:05,060 --> 00:17:07,060
+Sie haben mich nicht gefragt.
+
+197
+00:17:07,060 --> 00:17:12,060
+Entschuldigung. Sie haben die Osteoporose gesagt? Okay.
+
+198
+00:17:12,060 --> 00:17:20,060
+Ja, ich nehme Medikamente ein. Das heißt einmal Viani. Da ist Cortison drin.
+
+199
+00:17:20,060 --> 00:17:24,060
+Viani nehme ich zweimal am Tag in der Regel.
+
+200
+00:17:24,060 --> 00:17:31,060
+Und ich nehme manchmal auch Sultanolspray. Aber nicht immer. Das mache ich bei Bedarf.
+
+201
+00:17:31,060 --> 00:17:34,060
+Können Sie Viani dosieren sagen?
+
+202
+00:17:34,060 --> 00:17:41,060
+Viani, was dahinter steht, weiß ich jetzt nicht. Die Zahl bringt mein Mann ja alles ins Krankenhaus.
+
+203
+00:17:41,060 --> 00:17:44,060
+Ich nehme das in der Regel zweimal pro Tag.
+
+204
+00:17:44,060 --> 00:17:49,060
+Zweimal pro Tag. Und anderes Inhalator?
+
+205
+00:17:49,060 --> 00:17:55,060
+Sultanol. Sultanolspray. Aber das mache ich nicht immer. Das mache ich so bei Bedarf.
+
+206
+00:17:55,060 --> 00:17:57,060
+Bei Bedarf, ja?
+
+207
+00:17:57,060 --> 00:18:03,060
+Dann nehme ich noch ein Mittel für den hohen Blutdruck oder gegen den hohen Blutdruck.
+
+208
+00:18:03,060 --> 00:18:05,060
+Was nehmen Sie?
+
+209
+00:18:05,060 --> 00:18:07,060
+Dann nehme ich Candesatan.
+
+210
+00:18:07,060 --> 00:18:09,060
+Candesatan.
+
+211
+00:18:09,060 --> 00:18:13,060
+Da weiß ich die Dosierung. Das ist 16. Candesatan 16.
+
+212
+00:18:13,060 --> 00:18:18,430
+Und dann nehme ich morgens eine Tablette und abends eine halbe.
+
+213
+00:18:18,430 --> 00:18:21,430
+Einmal morgen eine halbe?
+
+214
+00:18:21,430 --> 00:18:25,430
+Nein, morgens eine ganze und abends eine halbe.
+
+215
+00:18:25,430 --> 00:18:28,430
+Abends halbe. Okay.
+
+216
+00:18:28,430 --> 00:18:42,910
+Sind Sie gerade Rentnerin? Rentnerin oder? Was machen Sie für die Kinder?
+
+217
+00:18:42,910 --> 00:18:47,910
+Nein, ich bin noch keine Rentnerin. Ich arbeite als Sekretärin bei einem Rechtsanwalt.
+
+218
+00:18:47,910 --> 00:18:56,250
+Haben Sie ein Kind?
+
+219
+00:18:56,250 --> 00:19:04,250
+Ja, wir haben zwei Kinder. 30 Jahre alt und 28 Jahre alt. Die wohnen aber nicht mehr bei uns.
+
+220
+00:19:04,250 --> 00:19:07,250
+Wie ist Ihr gesundes Zustand?
+
+221
+00:19:07,250 --> 00:19:17,320
+Die sind gesund.
+
+222
+00:19:17,320 --> 00:19:23,320
+Waren Sie in den letzten sechs Monaten im Ausland?
+
+223
+00:19:23,320 --> 00:19:27,320
+Ja, ich war in Kroatien.
+
+224
+00:19:27,320 --> 00:19:41,740
+In Kroatien war ich im April für zehn Tage. Aber ansonsten war ich in den letzten sechs Monaten nicht im Ausland.
+
+225
+00:19:41,740 --> 00:19:45,740
+Sind Sie vollständig geimpft?
+
+226
+00:19:45,740 --> 00:19:50,740
+Ich glaube ja. Meine Hausärztin achtet immer darauf.
+
+227
+00:19:50,740 --> 00:19:53,740
+Tragen Sie Sport nicht regelmäßig?
+
+228
+00:19:53,740 --> 00:20:00,740
+Nein, Sport habe ich früher gemacht. Früher habe ich Turnen gemacht und Yoga gemacht.
+
+229
+00:20:00,740 --> 00:20:04,740
+Aber in letzter Zeit mache ich keinen Sport mehr.
+
+230
+00:20:04,740 --> 00:20:09,740
+Vielen Dank für die Angaben.
+
+231
+00:20:09,740 --> 00:20:17,740
+Ich habe mir jede wichtige Frage gestellt. Möchten Sie etwas hinzuzügen?
+
+232
+00:20:17,740 --> 00:20:24,740
+Ja, ich möchte natürlich wissen, was das für Schmerzen sind, was das für eine Ursache haben kann.
+
+233
+00:20:24,740 --> 00:20:29,740
+Weil sowas habe ich ja noch nicht gehabt. Und das ist sehr unangenehm, auch dieser Dauerschmerz.
+
+234
+00:20:29,740 --> 00:20:46,740
+An diesem Punkt kann ich nicht genau sagen. Aber aufgrund der Anmess-Angabe und der geschilderten Beschwerden habe ich Verdacht auf einen Gefäßverschluss.
+
+235
+00:20:46,740 --> 00:20:52,740
+Das heißt PVK im medizinischen Bereich.
+
+236
+00:20:53,740 --> 00:21:01,740
+Aber ich kann nicht genau sagen. Ich muss noch körperlich untersuchen.
+
+237
+00:21:01,740 --> 00:21:03,740
+Ja, okay.
+
+238
+00:21:03,740 --> 00:21:12,740
+Ultraschall und Labor. Sobald alle Ergebnisse vorliegen, werde ich Ihnen sofort informieren.
+
+239
+00:21:12,740 --> 00:21:19,740
+Okay, das können wir so machen. Gut, ja danke. Dann haben Sie jetzt etwas Zeit sich vorzubereiten.
+
+240
+00:21:19,740 --> 00:21:26,740
+Und vielleicht gibt es von den Kolleginnen und Kollegen noch Fragen oder Ergänzungen.
+
+241
+00:21:26,740 --> 00:21:30,430
+Darf ich fragen?
+
+242
+00:21:30,430 --> 00:21:31,430
+Ja, bitte.
+
+243
+00:21:31,430 --> 00:21:38,430
+Ich bin mir nicht sicher. Ich habe nicht gehört. Aber haben Sie in letzter Zeit abgenommen oder zugenommen?
+
+244
+00:21:38,430 --> 00:21:42,430
+Nein, hat der Kollege schon ganz zu Anfang gefragt einmal.
+
+245
+00:21:42,430 --> 00:21:43,430
+Deswegen.
+
+246
+00:21:43,430 --> 00:21:45,430
+Gewicht ist gleich geblieben.
+
+247
+00:21:45,430 --> 00:21:56,430
+Okay. Und über die letzte Monatliche Brutung waren Sie schon in der Mönchpause?
+
+248
+00:21:56,430 --> 00:22:05,430
+Ja, das ist schon mindestens fünf Jahre her. Aber ich gehe regelmäßig zur Frauenärztin zur Kontrolle einmal im Jahr.
+
+249
+00:22:05,430 --> 00:22:10,430
+Das letzte Mal war ich im Februar da. Da war die Ärztin zufrieden.
+
+250
+00:22:10,430 --> 00:22:12,430
+Okay, vielen Dank.
+
+251
+00:22:23,540 --> 00:22:29,540
+Haben Sie keine Trauma und Verletzungen an den Beinen gehabt?
+
+252
+00:22:29,540 --> 00:22:35,540
+Verletzungen? Nein, Verletzungen habe ich in letzter Zeit nicht gehabt an den Beinen.
+
+253
+00:22:35,540 --> 00:22:50,540
+Sagen Sie mir bitte, ob Sie Ihre Zähnegel, irgendwelche Anomalie oder Verform bemerkt?
+
+254
+00:22:50,540 --> 00:22:57,540
+Die Zähnegel sind etwas verformt. Da hatte ich auch schon mal einen Nagelpilz.
+
+255
+00:22:57,540 --> 00:23:03,540
+Das ist mal behandelt worden, aber so richtig weggegangen ist das nicht.
+
+256
+00:23:03,540 --> 00:23:09,540
+Die Nägel sind schon etwas verändert, aber am anderen Fuß auch.
+
+257
+00:23:09,540 --> 00:23:13,540
+Beides. Okay, kein Verstand. Danke schön.
+
+258
+00:23:19,860 --> 00:23:24,860
+Wenn jetzt keine Fragen sind, dann lasse ich Sie jetzt einige Minuten in Ruhe.
+
+259
+00:23:24,860 --> 00:23:30,860
+Dann machen wir gleich die Vorstellung. Dann bin ich der Oberarzt. Bis gleich.
+
+260
+00:23:30,860 --> 00:23:32,860
+Tschüss.
+
+261
+00:23:32,860 --> 00:23:37,740
+Wie sieht es aus?
+
+262
+00:23:37,740 --> 00:23:40,740
+Hallo, guten Tag.
+
+263
+00:23:40,740 --> 00:23:41,740
+Hallo.
+
+264
+00:23:41,740 --> 00:23:46,740
+Haben Sie kurz Zeit, ich würde gerne mit Ihnen einen Patienten vorstellen?
+
+265
+00:23:46,740 --> 00:23:48,740
+Ja, habe ich.
+
+266
+00:23:48,740 --> 00:24:05,740
+Frau Wasserman ist 60 Jahre alt. Sie wiegt gerade 66 Kilogramm und 1,69 Meter groß.
+
+267
+00:24:05,740 --> 00:24:12,740
+Sie stellt sich mit rechten Beinem Schmerzen vor.
+
+268
+00:24:12,740 --> 00:24:17,740
+Die Schmerzen sind langsam aufgetreten.
+
+269
+00:24:23,740 --> 00:24:25,740
+Seit wann sind die Schmerzen?
+
+270
+00:24:25,740 --> 00:24:33,740
+Seit drei Tagen habe sie in Ruhe Schmerzen.
+
+271
+00:24:34,740 --> 00:24:43,740
+Vor drei Tagen hatte sie auch Schmerzen, aber nur bei Bewegung.
+
+272
+00:24:43,740 --> 00:24:48,740
+Okay. Seit drei Tagen also ein Ruheschmerz?
+
+273
+00:24:48,740 --> 00:24:52,740
+Können Sie den Schmerz beschreiben?
+
+274
+00:24:52,740 --> 00:24:56,740
+Die Schmerzen sind dunst und bohrend.
+
+275
+00:24:57,740 --> 00:25:04,740
+Die Schmerzen liegen auf einer Skala von fünf Zehen.
+
+276
+00:25:04,740 --> 00:25:11,740
+Aktuell sind sieben oder acht Zehen.
+
+277
+00:25:12,740 --> 00:25:14,740
+Okay.
+
+278
+00:25:14,740 --> 00:25:21,740
+Der rechte Bein ist blass und kühl.
+
+279
+00:25:21,740 --> 00:25:29,850
+Lauten Patienten...
+
+280
+00:25:29,850 --> 00:25:35,850
+Okay, ich muss es finden.
+
+281
+00:25:35,850 --> 00:25:40,850
+Lauten Patienten strahlen die Schmerzen nirgendwo hinaus.
+
+282
+00:25:40,850 --> 00:25:48,850
+Aber sie klagt auch ein bisschen Rücken-Schmerzen und wirben Schmerzen.
+
+283
+00:25:48,850 --> 00:25:50,850
+Okay.
+
+284
+00:25:51,850 --> 00:26:02,850
+Die Frage nach Fieber, Herzrasen, Herz-Taschikade, das Rhythmus,
+
+285
+00:26:02,850 --> 00:26:12,850
+nach Schweiß, Schuttelfreus, Wasserlassen, Probleme, die da wurden verneint.
+
+286
+00:26:12,850 --> 00:26:17,850
+Sie klagt höchstens.
+
+287
+00:26:17,850 --> 00:26:28,850
+Aus diesem Grund seit Langem habe sie Bronchitis.
+
+288
+00:26:28,850 --> 00:26:37,850
+Sie haben einen Auswurf, vor allem am Morgen.
+
+289
+00:26:37,850 --> 00:26:49,860
+Die Auswurf sei klassisch Farbe und ein bisschen gelbig.
+
+290
+00:26:49,860 --> 00:26:59,860
+In Vorerkrankungen und Operationen, als sie Kind war, wurde die Apandemie durchgeführt.
+
+291
+00:26:59,860 --> 00:27:07,860
+Seit vier oder fünf Jahren hat sie Bronchitis.
+
+292
+00:27:07,860 --> 00:27:15,860
+Seit fünf oder fünf Jahren hat sie Arteriella Hypertensie.
+
+293
+00:27:15,860 --> 00:27:21,860
+Sie hat auch Osteoporose.
+
+294
+00:27:21,860 --> 00:27:23,860
+Okay.
+
+295
+00:27:23,860 --> 00:27:41,260
+Aufgrund eines Fahrradunfalls musste sie linken Radius und Ulna Osteosynthese durchgeführt.
+
+296
+00:27:41,260 --> 00:27:50,940
+Sie hatte auch ein Knieproblem.
+
+297
+00:27:50,940 --> 00:28:02,940
+Aufgrund der Meniskopatie wurde ein Arthroskop durchgeführt.
+
+298
+00:28:02,940 --> 00:28:10,940
+Sie hatte eine Probe gegen Osteoporose, Alendronikzöere.
+
+299
+00:28:10,940 --> 00:28:15,940
+Die Dosis war unbekannt.
+
+300
+00:28:15,940 --> 00:28:20,940
+Sie hatte eine Vitamin D-Ausbruchung jeden Tag.
+
+301
+00:28:20,940 --> 00:28:25,940
+Sie hatte 16 mg Kandesartan.
+
+302
+00:28:25,940 --> 00:28:30,940
+Morgen 1, abends halb.
+
+303
+00:28:30,940 --> 00:28:44,940
+Gegen Bronchitis nehmen sie Vianin, eine Steroide, zweimal täglich und einen Inhalator bei Bedarf.
+
+304
+00:28:44,940 --> 00:28:59,940
+Sie ist ein 35-jähriger Pakunkerraucher.
+
+305
+00:28:59,940 --> 00:29:05,940
+Sie raucht eine Schachtel pro Tag.
+
+306
+00:29:05,940 --> 00:29:24,940
+Sie kann sagen, es besteht ein Nikotin-Ab-Usus von 35 Packages.
+
+307
+00:29:24,940 --> 00:29:27,940
+Können Sie wiederholen diese ganzen Satze?
+
+308
+00:29:27,940 --> 00:29:32,940
+Es besteht ein Nikotin-Ab-Usus.
+
+309
+00:29:32,940 --> 00:29:34,940
+Das kann man schon sagen als Ab-Usus.
+
+310
+00:29:34,940 --> 00:29:40,940
+Wenn sie am Tag 3 Zigaretten raucht oder 2, dann würde ich nicht sagen, dass es ein Ab-Usus ist.
+
+311
+00:29:40,940 --> 00:29:47,940
+Aber eine Schachtel pro Tag und das so lange, über 35 Jahre kann man ruhig sagen,
+
+312
+00:29:47,940 --> 00:29:55,940
+es besteht ein Nikotin-Ab-Usus von 35 Packages.
+
+313
+00:29:55,940 --> 00:30:01,940
+Und Alkohol?
+
+314
+00:30:01,940 --> 00:30:09,940
+Alkohol ist gelegentlich selten, wenn sie Wein trinken.
+
+315
+00:30:09,940 --> 00:30:12,940
+Also nicht täglich.
+
+316
+00:30:12,940 --> 00:30:16,940
+Gut, ja.
+
+317
+00:30:16,940 --> 00:30:28,940
+Vater ist im Alter von 76 Jahren an Lungenkrebs verstorben.
+
+318
+00:30:28,940 --> 00:30:37,940
+Ja, sagen Sie vielleicht, in der Familienanamnese ist erwähnenswert oder ist zu berichten.
+
+319
+00:30:38,940 --> 00:30:52,940
+Vater ist mit 76 Jahren an einem Lungenkrebs verstorben.
+
+320
+00:30:52,940 --> 00:30:54,940
+Mehr wissen wir nicht.
+
+321
+00:30:54,940 --> 00:30:58,940
+Aber versuchen Sie den medizinischen Begriff zu sagen.
+
+322
+00:30:58,940 --> 00:31:01,940
+Was hatte der Vater noch für Grunderkrankungen?
+
+323
+00:31:01,940 --> 00:31:05,940
+Sie hatte auch Bronchiitis.
+
+324
+00:31:05,940 --> 00:31:10,940
+Gefeß und Piavk.
+
+325
+00:31:10,940 --> 00:31:12,940
+Nicht sie, sondern er.
+
+326
+00:31:12,940 --> 00:31:18,940
+Er hatte auch eine wohl chronische Bronchiitis.
+
+327
+00:31:18,940 --> 00:31:21,940
+Wir sagen in diesem Fall wahrscheinlich eine COPD.
+
+328
+00:31:21,940 --> 00:31:28,940
+Und auch eine Gefäßerkrankung oder eine Piavk.
+
+329
+00:31:28,940 --> 00:31:33,940
+Ja, so weit ist das. Das sind die Angaben der Patientin.
+
+330
+00:31:33,940 --> 00:31:35,940
+Und die Mutter?
+
+331
+00:31:35,940 --> 00:31:46,940
+Mutter seitlich. Sie hatte Diabetes Typ 2 und Osteoporosis.
+
+332
+00:31:46,940 --> 00:31:49,940
+Wie alt ist die Mutter und lebt die Mutter noch?
+
+333
+00:31:49,940 --> 00:31:55,940
+Sie lebt die Mutter noch. Sie ist gerade 64 Jahre alt.
+
+334
+00:31:55,940 --> 00:32:00,940
+64 nicht. Dann wäre sie ja nur vier Jahre älter als die Patientin.
+
+335
+00:32:00,940 --> 00:32:02,940
+Ja genau.
+
+336
+00:32:02,940 --> 00:32:04,940
+84.
+
+337
+00:32:04,940 --> 00:32:08,940
+Das wäre eine ganz junge Mutter.
+
+338
+00:32:08,940 --> 00:32:10,940
+Ja, entschuldigung.
+
+339
+00:32:10,940 --> 00:32:13,940
+Das macht nichts, aber es ist mir nur aufgefallen.
+
+340
+00:32:13,940 --> 00:32:15,940
+Genau, ist unmöglich.
+
+341
+00:32:15,940 --> 00:32:19,940
+Also die Mutter ist 84 Jahre alt. Sie lebt noch.
+
+342
+00:32:19,940 --> 00:32:25,940
+Und sie hat ein Diabetes Meditus Typ 2 und ebenfalls eine Osteoporose.
+
+343
+00:32:25,940 --> 00:32:27,940
+Osteoporose.
+
+344
+00:32:27,940 --> 00:32:38,940
+Sie ist die Sekretärin in Reksanwald. Sie hat zwei gesunde Kinder.
+
+345
+00:32:38,940 --> 00:33:05,940
+Sie hat eine Reise gemacht.
+
+346
+00:33:05,940 --> 00:33:08,940
+Jetzt wollte ich noch einmal was fragen zu den Schmerzen.
+
+347
+00:33:08,940 --> 00:33:17,940
+Ich habe verstanden, die Patientin hat seit drei Tagen einen starken Ruheschmerz im rechten Bein, besonders im Unterschenkel.
+
+348
+00:33:17,940 --> 00:33:19,940
+Das ist der Ruheschmerz.
+
+349
+00:33:19,940 --> 00:33:25,940
+Und Sie haben gesagt, vorher hatte sie einen Schmerz bei Belastung?
+
+350
+00:33:25,940 --> 00:33:29,940
+Oder habe ich das richtig verstanden? Davor?
+
+351
+00:33:29,940 --> 00:33:34,940
+Davor hatte sie Schmerzen nur bei Bewegung.
+
+352
+00:33:34,940 --> 00:33:39,940
+Bei Bewegung? Was war das für eine Bewegung? Oder wie stark war die Bewegung?
+
+353
+00:33:39,940 --> 00:33:46,940
+Sie hat gesagt, nach 100 Metern hatte sie Schmerzen.
+
+354
+00:33:46,940 --> 00:33:48,940
+Sie können das sagen.
+
+355
+00:33:48,940 --> 00:34:02,940
+Vorher berichtet die Patientin, dass sie nach ungefähr 100 Metern Gehstrecke schmerzbedingt anhalten musste, stoppen musste.
+
+356
+00:34:02,940 --> 00:34:05,940
+Sie konnte nicht weitergehen, weil es so schmerzte.
+
+357
+00:34:05,940 --> 00:34:10,940
+Und dann nach einer bestimmten Zeit ging es wieder besser.
+
+358
+00:34:10,940 --> 00:34:14,940
+Was ist Ihre Verdachtsdiagnose?
+
+359
+00:34:14,940 --> 00:34:25,940
+Ja, mein Aufgrund der anämestischen Angabe zu geschilderten Beschwerden habe ich den Verdacht auf eine PAVK.
+
+360
+00:34:25,940 --> 00:34:37,940
+Studium ist gerade eins, weil sie, Entschuldigung, nie eins, drei, Entschuldigung, drei.
+
+361
+00:34:37,940 --> 00:34:47,940
+Sie hat inzwischen einen Ruheschmerz mit gewissen Veränderungen, kühle Haut, blasse Haut.
+
+362
+00:34:47,940 --> 00:34:59,940
+Sie hatte vorher wohl schon eine PAVK, eine belastungsbedingte PAVK im Sinne einer Claudicatio Intermittens wahrscheinlich.
+
+363
+00:34:59,940 --> 00:35:04,940
+Claudicatio Intermittens mit Studium ist drei.
+
+364
+00:35:04,940 --> 00:35:08,940
+Ja, das kann gut sein. Wir machen jetzt ja keine Fachprüfung.
+
+365
+00:35:08,940 --> 00:35:13,940
+Wichtig ist nur, dass Sie versuchen, bei einem medizinischen Begriff zu sagen.
+
+366
+00:35:13,940 --> 00:35:17,940
+Was wäre denn differenzial diagnostisch, woran noch zu denken?
+
+367
+00:35:17,940 --> 00:35:24,940
+Differenzial diagnostisch TVT. Ich würde sagen TVT Aufgrund des Reises an einem Mäse.
+
+368
+00:35:24,940 --> 00:35:33,940
+Aber dafür spritzt es belastende Beine und Kühlbeine dagegen.
+
+369
+00:35:33,940 --> 00:35:39,940
+Ja, sie hat auch keine Schwellung bemerkt. Zumindest ist das Bein nicht geschwollen.
+
+370
+00:35:39,940 --> 00:35:46,940
+Ja, käme dann eventuell auch eine Lumboischalgie in Betracht, ein Wurzelreizsymbrom.
+
+371
+00:35:46,940 --> 00:35:48,940
+Wie bitte?
+
+372
+00:35:48,940 --> 00:35:53,940
+Eine Lumboischalgie, ein Bandbleibenvorfall.
+
+373
+00:35:53,940 --> 00:35:55,940
+Bandbleibenvorfall, genau.
+
+374
+00:35:55,940 --> 00:36:01,940
+Durchaus Patienten Hauptschmerz in den Extremitäten und gar nicht so sehr im Rücken.
+
+375
+00:36:01,940 --> 00:36:06,940
+Sie hat ja gesagt, ja, in der LWS hat sie auch häufig mal Rückenschmerzen.
+
+376
+00:36:06,940 --> 00:36:14,940
+Sie hat eine Osteoporose. Also man muss zumindest mal dran denken an eine Differenzial diagnostisch.
+
+377
+00:36:14,940 --> 00:36:19,940
+Ich würde auch den Verdacht auf eine PVK äußern als erstes.
+
+378
+00:36:19,940 --> 00:36:28,940
+Aber differenzial diagnostisch sicherlich auch einen Bandbleibenvorfall, einen Diskus-Kollaps abklären.
+
+379
+00:36:28,940 --> 00:36:36,940
+Das muss man klären. Vielleicht könnten Sie in der Befragung auch noch die Patienten fragen.
+
+380
+00:36:36,940 --> 00:36:42,940
+Zum Beispiel, wenn sie husten, niesen oder lachen, verstärkt sich der Schmerz.
+
+381
+00:36:42,940 --> 00:36:48,940
+Husten, Schmerz kann das oft verstärken, gerade wenn sie so eine chronische Bronchitis hat.
+
+382
+00:36:48,940 --> 00:36:55,940
+Die Patientin hat ja wahrscheinlich doch eine COPD aufgrund ihres Nikotinabusus des Langen.
+
+383
+00:36:55,940 --> 00:37:04,940
+Und da muss man zumindest, differenzial diagnostisch, würde ich eben die Frage eher nach einem Diskus-Kollaps stellen.
+
+384
+00:37:04,940 --> 00:37:13,940
+Eine TVT glaube ich jetzt nicht so sehr von der Klinik. Aber in Richtung Diskus-Kollaps muss man zumindest mal schauen.
+
+385
+00:37:13,940 --> 00:37:18,940
+Das werden Sie auch bei der körperlichen Untersuchung natürlich eher schneller feststellen.
+
+386
+00:37:18,940 --> 00:37:27,940
+Durch bestimmte Testungen der Muskel, der Nerven, denungsschmerz und Lasäge und umgekehrter Lasäge und die Reflexe.
+
+387
+00:37:27,940 --> 00:37:30,940
+Aber das wird einem dann ja auch ein bisschen auffallen.
+
+388
+00:37:30,940 --> 00:37:32,940
+Ok, vielen Dank.
+
+389
+00:37:32,940 --> 00:37:38,940
+Kann es auch die Wirbelsäule Spontan Kompressionsflattöre sein?
+
+390
+00:37:38,940 --> 00:37:47,940
+Ja, natürlich gibt es auch Kompressionsflattöre. Aber die machen dann in der Regel eher den Hauptschmerz in der Wirbelsäule, glaube ich.
+
+391
+00:37:47,940 --> 00:37:53,940
+Wo die Kompressionsfraktur ist, da würde ich sagen, ist wahrscheinlich das Punktum Maximum des Schmerzes.
+
+392
+00:37:53,940 --> 00:38:01,940
+Und nicht so sehr im Unterschenkel. Das ist eher, ja, man muss dran denken.
+
+393
+00:38:01,940 --> 00:38:03,940
+Aus dem Prinzip.
+
+394
+00:38:03,940 --> 00:38:09,940
+Ja, gut. Ja, danke erst mal. Ich habe Sie gut verstanden.
+
+395
+00:38:09,940 --> 00:38:18,940
+Sie sollten sich konsequent bemühen bei der Vorstellung vom Oberarzt versuchen, Sie medizinische Ausdrücke zu machen.
+
+396
+00:38:18,940 --> 00:38:21,940
+Sie sagt ja, sie klagt über Husten.
+
+397
+00:38:21,940 --> 00:38:27,940
+Wir können sie eventuell sagen über Tussis oder produktiven Husten, produktive Tussis.
+
+398
+00:38:27,940 --> 00:38:38,940
+Also mit besonders morgendlichem Auswurf weißlich-fleimig oder etwas gelblich.
+
+399
+00:38:38,940 --> 00:38:46,940
+Das ist dann hauptsächlich morgens. Und die Patientin berichtet ja auch über gewisse Exazzebationen im Winter,
+
+400
+00:38:46,940 --> 00:38:53,940
+dass sie dann eventuell sogar Antibiotika-pflichtig ist. Das spricht alles eher dann auch für eine COPD.
+
+401
+00:38:53,940 --> 00:39:01,940
+So von der Schilderung der Patientin her. Wir haben ja noch keine Unterlagen von anderen Untersuchungen, von anderen Ärzten.
+
+402
+00:39:01,940 --> 00:39:05,940
+Das bezieht sich bisher nur auf die anamnestischen Schilderungen der Patienten.
+
+403
+00:39:05,940 --> 00:39:08,940
+Ja, danke. Haben Sie einen Prüfungstermin?
+
+404
+00:39:08,940 --> 00:39:13,940
+Noch nicht. Mein Prüfungstermin steht in den Sternen.
+
+405
+00:39:13,940 --> 00:39:19,940
+In den Sternen steht der? Das ist in Deutschland nicht gut, wenn etwas in den Sternen steht.
+
+406
+00:39:19,940 --> 00:39:23,940
+Aber Sie haben sich angemeldet.
+
+407
+00:39:23,940 --> 00:39:28,940
+Ja, ich habe letztes Jahr im Dezember angemeldet.
+
+408
+00:39:28,940 --> 00:39:29,940
+Oha.
+
+409
+00:39:29,940 --> 00:39:37,940
+Ja, ich warte auf, wahrscheinlich, voraussichtlich werde ich im Oktober oder...
+
+410
+00:39:37,940 --> 00:39:41,940
+Ah so, ja gut. Aber dann haben Sie noch etwas zu sagen.
+
+411
+00:39:41,940 --> 00:39:45,940
+In was für einem Fachbereich haben Sie bisher gearbeitet?
+
+412
+00:39:45,940 --> 00:39:46,940
+Gynäkologe.
+
+413
+00:39:46,940 --> 00:39:50,940
+Gynäkologe. Das war das Thema heute nicht so sehr, die Gynäkologie.
+
+414
+00:39:50,940 --> 00:39:56,940
+Aber das haben Sie aber als Gynäkologe auch gut gelöst, dieses Thema.
+
+415
+00:39:56,940 --> 00:40:00,940
+Sie waren eine Patientenwartfrau.
+
+416
+00:40:00,940 --> 00:40:07,940
+Ja, ja, alles klar. Gut, ich bedanke mich und wünsche allen erstmal einen schönen Abend
+
+417
+00:40:07,940 --> 00:40:10,940
+und gerne nächste Woche um 18 Uhr wieder.
+
+418
+00:40:10,940 --> 00:40:11,940
+Vielen Dank.
+
+419
+00:40:11,940 --> 00:40:14,940
+Alles klar, ich sage tschüss. Ciao.
