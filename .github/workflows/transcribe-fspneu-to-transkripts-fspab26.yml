@@ -1,3 +1,4 @@
+# .github/workflows/transcribe-fspneu-to-transcripts-fspab26.yml
 name: Transcribe IA (DE, medium) FSP sources -> transcripts (parallel)
 
 on:
@@ -72,6 +73,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
 
       - name: Build transcribe tool
         run: |
@@ -83,6 +86,7 @@ jobs:
           import json
           import sys
           import tempfile
+          import time
           from dataclasses import dataclass
           from pathlib import Path
           from typing import List, Tuple
@@ -94,6 +98,8 @@ jobs:
           IA_METADATA_URL = "https://archive.org/metadata/{identifier}"
           IA_DOWNLOAD_URL = "https://archive.org/download/{identifier}/{filename}"
           AUDIO_EXTENSIONS = {".m4a", ".mp3"}
+          RETRYABLE_STATUS_CODES = {500, 502, 503, 504}
+
 
           @dataclass(frozen=True)
           class Segment:
@@ -101,14 +107,33 @@ jobs:
               end: float
               text: str
 
+
           def eprint(*args: object) -> None:
               print(*args, file=sys.stderr)
 
+
           def fetch_item_metadata(identifier: str, timeout_s: int = 30) -> dict:
               url = IA_METADATA_URL.format(identifier=identifier)
-              resp = requests.get(url, timeout=timeout_s)
-              resp.raise_for_status()
-              return resp.json()
+              last_error: Exception | None = None
+
+              for attempt in range(1, 6):
+                  try:
+                      resp = requests.get(url, timeout=timeout_s)
+                      if resp.status_code in RETRYABLE_STATUS_CODES:
+                          raise requests.HTTPError(
+                              f"HTTP {resp.status_code} for metadata",
+                              response=resp,
+                          )
+                      resp.raise_for_status()
+                      return resp.json()
+                  except (requests.RequestException, ValueError) as exc:
+                      last_error = exc
+                      eprint(f"Metadata fetch failed for {identifier!r} (attempt {attempt}/5): {exc}")
+                      if attempt < 5:
+                          time.sleep(attempt * 2)
+
+              raise RuntimeError(f"Failed to fetch metadata for {identifier!r} after 5 attempts") from last_error
+
 
           def extract_audio_filenames(metadata: dict) -> List[str]:
               files = metadata.get("files", [])
@@ -126,8 +151,10 @@ jobs:
                   if suffix in AUDIO_EXTENSIONS:
                       names.append(name)
 
+              names = list(dict.fromkeys(names))
               names.sort(key=lambda s: s.casefold())
               return names
+
 
           def filter_by_match(files: List[str], match: str) -> List[str]:
               if not match:
@@ -135,9 +162,11 @@ jobs:
               m = match.casefold()
               return [f for f in files if m in f.casefold()]
 
+
           def build_output_paths(out_dir: Path, remote_filename: str) -> Tuple[Path, Path]:
               base = Path(Path(remote_filename).name).with_suffix("").name
               return out_dir / f"{base}.txt", out_dir / f"{base}.srt"
+
 
           def missing_files(files: List[str], out_dir: Path) -> List[str]:
               missing: List[str] = []
@@ -147,26 +176,49 @@ jobs:
                       missing.append(remote_filename)
               return missing
 
+
           def download_one_file(identifier: str, remote_filename: str, dest_path: Path, timeout_s: int = 60) -> None:
-              safe_remote = quote(remote_filename)
+              safe_remote = quote(remote_filename, safe="")
               url = IA_DOWNLOAD_URL.format(identifier=identifier, filename=safe_remote)
+              dest_path.parent.mkdir(parents=True, exist_ok=True)
+              last_error: Exception | None = None
 
-              with requests.get(url, stream=True, timeout=timeout_s) as resp:
-                  resp.raise_for_status()
-                  total = int(resp.headers.get("Content-Length", "0") or "0")
-                  dest_path.parent.mkdir(parents=True, exist_ok=True)
+              for attempt in range(1, 6):
+                  try:
+                      with requests.get(url, stream=True, timeout=timeout_s) as resp:
+                          if resp.status_code in RETRYABLE_STATUS_CODES:
+                              raise requests.HTTPError(
+                                  f"HTTP {resp.status_code} for download",
+                                  response=resp,
+                              )
+                          resp.raise_for_status()
+                          total = int(resp.headers.get("Content-Length", "0") or "0")
 
-                  with open(dest_path, "wb") as file_handle, tqdm(
-                      total=total if total > 0 else None,
-                      unit="B",
-                      unit_scale=True,
-                      desc="Downloading",
-                      leave=False,
-                  ) as pbar:
-                      for chunk in resp.iter_content(chunk_size=1024 * 1024):
-                          if chunk:
-                              file_handle.write(chunk)
-                              pbar.update(len(chunk))
+                          with open(dest_path, "wb") as file_handle, tqdm(
+                              total=total if total > 0 else None,
+                              unit="B",
+                              unit_scale=True,
+                              desc="Downloading",
+                              leave=False,
+                          ) as pbar:
+                              for chunk in resp.iter_content(chunk_size=1024 * 1024):
+                                  if chunk:
+                                      file_handle.write(chunk)
+                                      pbar.update(len(chunk))
+                      return
+                  except requests.RequestException as exc:
+                      last_error = exc
+                      eprint(
+                          f"Download failed for {remote_filename!r} "
+                          f"(attempt {attempt}/5): {exc}"
+                      )
+                      if dest_path.exists():
+                          dest_path.unlink(missing_ok=True)
+                      if attempt < 5:
+                          time.sleep(attempt * 3)
+
+              raise RuntimeError(f"Failed to download {remote_filename!r} after 5 attempts") from last_error
+
 
           def format_srt_timestamp(seconds: float) -> str:
               ms = int(round(seconds * 1000.0))
@@ -175,10 +227,12 @@ jobs:
               secs, ms = divmod(ms, 1000)
               return f"{hours:02d}:{minutes:02d}:{secs:02d},{ms:03d}"
 
+
           def write_txt(out_path: Path, segments: List[Segment]) -> None:
               out_path.parent.mkdir(parents=True, exist_ok=True)
               text = "\n".join(seg.text.strip() for seg in segments if seg.text.strip())
               out_path.write_text(text + ("\n" if text else ""), encoding="utf-8")
+
 
           def write_srt(out_path: Path, segments: List[Segment]) -> None:
               out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -201,13 +255,16 @@ jobs:
 
               out_path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
 
+
           def resolve_device(device_arg: str) -> str:
               return device_arg if device_arg != "auto" else "cpu"
+
 
           def default_compute_type(device: str, compute_type_arg: str) -> str:
               if compute_type_arg != "auto":
                   return compute_type_arg
               return "float16" if device == "cuda" else "int8"
+
 
           def transcribe_with_faster_whisper(
               audio_path: Path,
@@ -235,6 +292,7 @@ jobs:
               )
 
               return [Segment(float(seg.start), float(seg.end), str(seg.text)) for seg in seg_iter]
+
 
           def main() -> int:
               parser = argparse.ArgumentParser()
@@ -290,6 +348,7 @@ jobs:
                   write_srt(srt_path, segments)
 
               return 0
+
 
           if __name__ == "__main__":
               raise SystemExit(main())
@@ -396,6 +455,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
 
       - name: Download tool
         uses: actions/download-artifact@v8
@@ -462,11 +523,17 @@ jobs:
           artifact_dir = Path("artifact_out") / out_dir
           artifact_dir.mkdir(parents=True, exist_ok=True)
 
+          missing = []
           for ext in (".txt", ".srt"):
               src = out_dir / f"{base}{ext}"
-              if src.exists():
-                  dst = artifact_dir / src.name
-                  shutil.copy2(src, dst)
+              if not src.exists():
+                  missing.append(str(src))
+                  continue
+              dst = artifact_dir / src.name
+              shutil.copy2(src, dst)
+
+          if missing:
+              raise SystemExit("Missing expected transcript outputs: " + ", ".join(missing))
           PY
 
       - name: Upload outputs
@@ -474,6 +541,7 @@ jobs:
         with:
           name: transcripts-${{ matrix.item.idx }}
           path: artifact_out/**
+          if-no-files-found: error
 
   merge_and_push:
     needs: [prepare, transcribe]
@@ -486,21 +554,28 @@ jobs:
           fetch-depth: 0
           ref: ${{ github.ref_name }}
 
-      - name: Download all transcript artifacts
+      - name: Download transcript artifacts only
         uses: actions/download-artifact@v8
         with:
+          pattern: transcripts-*
           path: artifacts
 
       - name: Merge transcripts into repo
+        id: merge
         shell: bash
         run: |
           set -euo pipefail
 
-          found=0
+          candidate_count=0
+          merged_count=0
+
+          echo "=== candidate transcript files ==="
+          find artifacts -path '*/artifact_out/*' -type f \( -name "*.txt" -o -name "*.srt" \) -print | sort || true
 
           while IFS= read -r -d '' file; do
-            rel="${file#*/artifact_out/}"
+            candidate_count=$((candidate_count + 1))
 
+            rel="${file#*/artifact_out/}"
             if [ -z "$rel" ] || [ "$rel" = "$file" ]; then
               echo "Skipping unresolved path: $file"
               continue
@@ -518,46 +593,56 @@ jobs:
 
             cp -f "$file" "$rel"
             echo "Merged: $rel"
-            found=1
+            merged_count=$((merged_count + 1))
           done < <(
             find artifacts -path '*/artifact_out/*' -type f \( -name "*.txt" -o -name "*.srt" \) -print0
           )
 
-          if [ "$found" -eq 0 ]; then
-            echo "No transcript files found in downloaded artifacts."
-          fi
+          echo "candidate_count=${candidate_count}" >> "$GITHUB_OUTPUT"
+          echo "merged_count=${merged_count}" >> "$GITHUB_OUTPUT"
+
+          echo "=== git status after merge ==="
+          git status --short
 
       - name: Commit and push
         shell: bash
         run: |
           set -euo pipefail
 
+          candidate_count="${{ steps.merge.outputs.candidate_count }}"
+          merged_count="${{ steps.merge.outputs.merged_count }}"
+
+          echo "candidate_count=${candidate_count}"
+          echo "merged_count=${merged_count}"
+
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          retry() {
-            local n=0
-            local max=5
-            while true; do
-              if "$@"; then
-                return 0
-              fi
-              n=$((n + 1))
-              if [ "$n" -ge "$max" ]; then
-                return 1
-              fi
-              sleep $((n * 10))
-            done
-          }
-
           git add transcripts/
+          git status --short
 
           if git diff --cached --quiet; then
-            echo "No transcript changes to commit."
-            exit 0
+            echo "No transcript changes to commit." >&2
+            if [ "${candidate_count}" = "0" ]; then
+              echo "No transcript artifacts were downloaded." >&2
+            else
+              echo "Transcript artifacts existed but no repo changes were staged." >&2
+            fi
+            exit 1
           fi
 
           git commit -m "Add DE(medium) transcripts for FSP sources"
-          retry git fetch origin "${GITHUB_REF_NAME}"
-          retry git rebase "origin/${GITHUB_REF_NAME}"
-          retry git push origin "HEAD:${GITHUB_REF_NAME}"
+
+          for attempt in 1 2 3 4 5; do
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              echo "Pushed successfully."
+              exit 0
+            fi
+
+            echo "Push failed (attempt ${attempt}) -> fetching/rebasing and retrying..."
+            git fetch origin "${GITHUB_REF_NAME}"
+            git rebase "origin/${GITHUB_REF_NAME}"
+          done
+
+          echo "Failed to push after retries."
+          exit 1
