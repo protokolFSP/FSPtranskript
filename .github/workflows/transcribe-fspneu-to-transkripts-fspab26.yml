@@ -244,7 +244,7 @@ jobs:
                   if not text:
                       continue
 
-                  start = seg.start
+                      start = seg.start
                   end = seg.end if seg.end > seg.start else seg.start + 0.001
 
                   lines.append(str(idx))
@@ -596,14 +596,13 @@ jobs:
           p = Path(sys.argv[1])
           parts = p.parts
 
-          if "artifact_out" in parts:
-              idx = parts.index("artifact_out")
-              rel = Path(*parts[idx + 1:])
-          elif len(parts) >= 3 and parts[0] == "artifacts":
-              rel = Path(*parts[2:])
-          else:
-              rel = Path(p.name)
+          try:
+              idx = parts.index("transcripts")
+          except ValueError:
+              print("")
+              raise SystemExit(0)
 
+          rel = Path(*parts[idx:])
           print(rel.as_posix())
           PY
             )"
@@ -636,8 +635,8 @@ jobs:
           echo "=== git status after merge ==="
           git status --short
 
-          if [ "${candidate_count}" = "0" ]; then
-            echo "Transcript artifacts downloaded, but no transcript files were found." >&2
+          if [ "${merged_count}" = "0" ]; then
+            echo "Transcript artifacts downloaded, but no transcript files could be mapped into repo paths." >&2
             exit 1
           fi
 
