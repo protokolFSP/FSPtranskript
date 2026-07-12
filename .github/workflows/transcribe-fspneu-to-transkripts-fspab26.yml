@@ -589,8 +589,26 @@ jobs:
           while IFS= read -r -d '' file; do
             candidate_count=$((candidate_count + 1))
 
-            rel="${file#*/artifact_out/}"
-            if [ -z "$rel" ] || [ "$rel" = "$file" ]; then
+            rel="$(python - "$file" <<'PY'
+          from pathlib import Path
+          import sys
+
+          p = Path(sys.argv[1])
+          parts = p.parts
+
+          if "artifact_out" in parts:
+              idx = parts.index("artifact_out")
+              rel = Path(*parts[idx + 1:])
+          elif len(parts) >= 3 and parts[0] == "artifacts":
+              rel = Path(*parts[2:])
+          else:
+              rel = Path(p.name)
+
+          print(rel.as_posix())
+          PY
+            )"
+
+            if [ -z "$rel" ] || [ "$rel" = "." ]; then
               echo "Skipping unresolved path: $file"
               continue
             fi
@@ -609,7 +627,7 @@ jobs:
             echo "Merged: $rel"
             merged_count=$((merged_count + 1))
           done < <(
-            find artifacts -type f -path '*/artifact_out/*' \( -name "*.txt" -o -name "*.srt" \) -print0
+            find artifacts -type f \( -name "*.txt" -o -name "*.srt" \) -print0
           )
 
           echo "candidate_count=${candidate_count}" >> "$GITHUB_OUTPUT"
