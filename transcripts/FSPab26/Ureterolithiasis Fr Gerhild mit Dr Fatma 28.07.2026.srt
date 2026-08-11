@@ -1,0 +1,1375 @@
+1
+00:00:00,430 --> 00:00:15,430
+Guten Tag. Mein Name ist Aildiz. Ich bin auf dieser Station als Assistentin. Ich würde gerne mit Ihnen das Gespräch führen. Sind Sie damit einverstanden?
+
+2
+00:00:15,430 --> 00:00:25,430
+Ja, natürlich. Klar. Okay. Bevor ich über Ihre Beschwerden spreche, muss ich Ihre persönlichen Daten fragen. Wie heißen Sie denn?
+
+3
+00:00:26,430 --> 00:00:34,430
+Ich heiße Joachim Schäfer. Okay. Könnten Sie bitte Ihre Vor- und Nachnamen deutlich und langsam bestabieren?
+
+4
+00:00:34,430 --> 00:00:55,430
+Ja, Joachim, J-O-A-C-H-I-M, Joachim, ein Männername. Und der Familienname ist Schäfer, Sch, A-Umlaut, also ä, f, er.
+
+5
+00:00:56,430 --> 00:01:21,430
+Okay. Um sich zu sein, möchte ich wiederholen. J wie J, O wie Otto, A wie Anton, C wie Cesar, H wie Heinrich, I wie Ida, N wie Martha, S wie Schule, A um Laut, E wie Emi, R wie Richard. Oder I wie Ida, R wie Richard.
+
+6
+00:01:22,430 --> 00:01:38,430
+Nee, E wie, aber Schäfer. Schäfer, ja. Echt noch dazwischen, ne? Schäfer. Wie der Typ, der die Schafe hütet. Das ist der Schäfer. Ja?
+
+7
+00:01:38,430 --> 00:01:48,430
+Herr Schäfer, wie alt sind Sie denn? Ich bin 48. 48, okay. Wann sind Sie genau geboren?
+
+8
+00:01:48,430 --> 00:02:10,430
+Am 17. April 1978. 17. April, 90, 100? 19, 100? Ja, 19, 100, 78. Ganz genau. Okay. Wie groß sind Sie, Herr Schäfer? Ich bin 1,83.
+
+9
+00:02:10,430 --> 00:02:28,430
+1,83. Okay. Wie viel wiegen Sie? So 90 Kilo wie ich meistens. 90 Kilo, okay, super. Herr Schäfer, was fühlt Sie heute zu uns? Was kann ich für Sie tun?
+
+10
+00:02:28,430 --> 00:02:42,430
+Also ich hab mit einmal, das fing heute Nachmittag an, seit zwei Stunden geht das richtig los. Ich habe richtig heftige Schmerzen. Und zwar hier so im rechten Flankenbereich.
+
+11
+00:02:42,430 --> 00:03:07,430
+So Rücken und so mittlere, untere Rücken und an der Seite. Und es sind wahnsinnige Schmerzen. Sehr, sehr stark. Und das krampft total und das strahlt bis in die Leiste und es strahlt auch ins Genital rein. Und das ist wirklich sehr schmerzhaft.
+
+12
+00:03:07,430 --> 00:03:27,430
+Okay. Es tut mir sehr leid, dass Sie solche Beschwerden haben. Ich verstehe, dass Sie so starke Schmerzen haben. Und könnten Sie mir bitte sagen, wie stark Ihre Schmerzen von einer Schmerzskala 0 bis 10, 0 ist vorbei, 0 kein Schmerzen sein, stärkste ein Schmerzen ist.
+
+13
+00:03:27,430 --> 00:03:33,430
+Also das ist schon wirklich richtig heftig. Also bei 8 sind die bestimmt, ja.
+
+14
+00:03:33,430 --> 00:03:41,430
+Okay. Möchten Sie jetzt Schmerzmittel einnehmen?
+
+15
+00:03:41,430 --> 00:03:49,430
+Ja, wenn Sie mir was geben können, was dagegen hilft, das wäre schon gut. Weil diese Krämpfe, das ist schon wirklich sehr, sehr stark, die Schmerzen.
+
+16
+00:03:49,430 --> 00:04:03,430
+Ja, natürlich, die haben sehr starke Schmerzen und aber ich möchte noch ein paar Informationen wissen. Haben Sie irgendwelche Medikamentenallergien?
+
+17
+00:04:03,430 --> 00:04:19,430
+Nein, Medikamentenallergien habe ich nicht. Das einzige, was ich habe, ist Laktoseintoleranz und wo ich sehr aufpassen muss, sind Wespenstiche. Aber Medikamenten habe ich zum Glück keine Probleme.
+
+18
+00:04:19,430 --> 00:04:26,430
+Okay. Und haben Sie schon andere Medikamente eingenommen bisher?
+
+19
+00:04:26,430 --> 00:04:33,430
+Ein anderes Medikament? Ich habe mich noch nicht, das hat ja auch vor zwei Stunden erst angefangen.
+
+20
+00:04:33,430 --> 00:04:43,430
+Okay, jetzt rufe ich meine Kollegen und so schnell wie möglich gebe ich ihnen eine Schmerzmittel.
+
+21
+00:04:43,430 --> 00:04:47,430
+Ja, das ist gut. Das haben wir jetzt gemacht.
+
+22
+00:04:47,430 --> 00:04:50,430
+Ja. Herr Schäfer, fühlen Sie sich besser jetzt?
+
+23
+00:04:50,430 --> 00:04:56,430
+Ich glaube jetzt geht es ein bisschen besser. Das muss ja erstmal wirken, aber allein die Hoffnung, ja.
+
+24
+00:04:56,430 --> 00:05:01,430
+Okay, können wir ja weiter?
+
+25
+00:05:01,430 --> 00:05:03,430
+Ja, klar.
+
+26
+00:05:03,430 --> 00:05:12,430
+Okay. Sie haben schon gesagt, seit zwei Stunden plötzlich aufgetretene rechte Flanken Schmerzen haben Sie, ja?
+
+27
+00:05:12,430 --> 00:05:23,430
+Und das Schmerzen krampfartig, haben Sie schon gesagt. Gibt es bestimmte Auslöser für diese Schmerzen, Herr Schäfer?
+
+28
+00:05:23,430 --> 00:05:25,430
+Ja, also...
+
+29
+00:05:25,430 --> 00:05:29,430
+Beispielsweise Bewegung oder eine Verletzung.
+
+30
+00:05:29,430 --> 00:05:33,430
+Ja, Verletzungen. Also ich bin irgendwo, ich habe keinen Unfall gehabt oder irgendwie sowas.
+
+31
+00:05:33,430 --> 00:05:43,430
+Aber was mir aufgefallen ist, dass ich, ja das ist eigentlich seit heute Morgen war das schon, dass ich beim Wasserlassen ein bisschen Schmerzen habe.
+
+32
+00:05:43,430 --> 00:05:50,430
+Und dann musste ich auch ziemlich häufig auf die Toilette gehen. Und da kam immer nur so ein ganz kleines bisschen.
+
+33
+00:05:50,430 --> 00:05:59,430
+Okay, und jetzt also in den letzten zwei, drei Stunden ist mir das auch aufgefallen, da war tatsächlich immer so ein bisschen Blut im Urin drin.
+
+34
+00:05:59,430 --> 00:06:07,430
+Okay, okay. Und seit wann haben Sie Blut im Urin?
+
+35
+00:06:07,430 --> 00:06:10,430
+Ja, das ist jetzt erst in den letzten Stunden gewesen auch.
+
+36
+00:06:10,430 --> 00:06:12,430
+Okay, in den letzten Stunden.
+
+37
+00:06:12,430 --> 00:06:21,430
+Und tatsächlich sind die so viel mal Toilette besuchen und weniger Menge hat sie.
+
+38
+00:06:21,430 --> 00:06:28,430
+Das ist jetzt auch erst eigentlich, also heute Morgen habe ich schon gedacht, das brennt so ein bisschen beim Wasserlassen.
+
+39
+00:06:28,430 --> 00:06:36,430
+Und dann fing das mit einmal an, dass ich dachte, oh ich muss schon wieder los, ich muss schon wieder laufen und so.
+
+40
+00:06:36,430 --> 00:06:47,430
+Okay, Herr Schäfer, sind diese Schmerzen dauerhafter oder gehen Sie wieder weg?
+
+41
+00:06:47,430 --> 00:06:51,430
+Also so richtig weggehen tun Sie eigentlich nicht, ne.
+
+42
+00:06:51,430 --> 00:07:03,430
+Besonders schlimm finde ich ist es nach dem Wasserlassen, dann hat man das Gefühl, dann brennt es ganz besonders schlimm in der Harnröhre.
+
+43
+00:07:03,430 --> 00:07:10,430
+Aber diese heftigen Schmerzen da in der Flanke, das ist eigentlich fast dauerhaft.
+
+44
+00:07:10,430 --> 00:07:16,430
+Okay, und sind die Schmerzen mit der Zeit immer schlimmer geworden?
+
+45
+00:07:16,430 --> 00:07:20,430
+Also ich finde, die haben richtig heftig angefangen von vornherein.
+
+46
+00:07:20,430 --> 00:07:22,430
+Okay.
+
+47
+00:07:22,430 --> 00:07:31,430
+Ich muss noch eine Sache sagen, ich nehme an, dass es mit dem Schmerz ist, weil die Schmerzen so krass sind.
+
+48
+00:07:31,430 --> 00:07:35,430
+Ich habe mich tatsächlich vorhin einmal übergeben.
+
+49
+00:07:35,430 --> 00:07:37,430
+Okay.
+
+50
+00:07:37,430 --> 00:07:39,430
+Also so vor anderthalb Stunden oder so.
+
+51
+00:07:39,430 --> 00:07:43,430
+Weil mir richtig schlecht war vor Schmerzen, ne.
+
+52
+00:07:43,430 --> 00:07:50,430
+Ja, ja. Es kann sein, natürlich, dass es so wichtige Informationen für uns. Danke schön.
+
+53
+00:07:50,430 --> 00:07:53,430
+Wie sieht Ihre Erdrochen aus?
+
+54
+00:07:53,430 --> 00:07:58,430
+Na, das waren halt die Reste von dem Essen, was wir heute Mittag hatten, ja.
+
+55
+00:07:58,430 --> 00:08:02,430
+Okay, und momentan fühlen Sie sich noch Übelkeit?
+
+56
+00:08:02,430 --> 00:08:09,430
+Ja, also die Übelkeit ist nicht das Schlimmeste. Die Schmerzen sind eigentlich das Schlimmste, ne.
+
+57
+00:08:09,430 --> 00:08:11,430
+Okay, okay, ja.
+
+58
+00:08:11,430 --> 00:08:20,430
+Und Herr Schöpfer, ich würde gerne wissen, wie diese Schmerzen sind.
+
+59
+00:08:21,430 --> 00:08:29,430
+Sie haben schon gesagt krampfartig und auch dabei kolligartig, stehend oder drückend oder so.
+
+60
+00:08:29,430 --> 00:08:36,420
+Ja, also ganz heftiger Druck und auch so ein bisschen brennen.
+
+61
+00:08:36,420 --> 00:08:42,420
+Okay, heftiger Druck. Wie klopfen?
+
+62
+00:08:42,420 --> 00:08:44,420
+Wie klopfen tut es nicht, ne.
+
+63
+00:08:44,420 --> 00:08:54,310
+Okay, heftiger Druck und hier.
+
+64
+00:08:54,310 --> 00:09:07,310
+Und Herr Schöpfer, Sie haben schon gesagt, die Schmerzen in der Leiste- und Genitalbereich ausstellen und auch für irgendwelche Körperregionen stören aus, Ihre Schmerzen.
+
+65
+00:09:07,310 --> 00:09:09,310
+Nee, sonst nichts, aber das langt mir völlig.
+
+66
+00:09:09,310 --> 00:09:14,310
+Okay, okay. Ist das erst einmal für Sie oder haben Sie schon?
+
+67
+00:09:14,310 --> 00:09:20,310
+Das habe ich noch nie gehabt, so was. Nee, also das sind ja unheimliche Schmerzen. Nee, das wüsste ich, wenn ich das schon mal hätte.
+
+68
+00:09:20,310 --> 00:09:28,310
+Okay, okay. Ja, Herr Schöpfer, leiden Sie unter Fieber, Kaltschweiß, Natschweiß?
+
+69
+00:09:28,310 --> 00:09:36,310
+Also eigentlich habe ich mich bis heute Mittag ganz gut gefühlt, muss ich sagen. Nee, ich schwitze nicht in der Nacht.
+
+70
+00:09:36,310 --> 00:09:43,310
+Also jetzt, wenn es die nächsten Tage so heiß wird, dann ist es vielleicht ein bisschen warm und dann schwitze ich, aber normal nicht, nee.
+
+71
+00:09:43,310 --> 00:09:57,310
+Okay, und ja, haben Sie schon gesagt, schmerzhaftige Wasserlassen haben Sie und weniger Menge, vielmehr gehen Sie in die Toilette. In der Nacht auch Sie besuchen Toilette?
+
+72
+00:09:57,310 --> 00:10:04,310
+Nee, jetzt habe ich heute Nacht noch nicht geschlafen. Also die letzten Nächte warten, aber habe ich das nicht gehabt, nein.
+
+73
+00:10:04,310 --> 00:10:15,310
+Okay, okay. Haben Sie dabei auch Stuhlgangprobleme, beispielsweise Durchfall, Verstopfung, Schleim oder Blut im Stuhl?
+
+74
+00:10:15,310 --> 00:10:29,310
+Nee, also ich habe, ja, wenn ich nicht sehr gut aufpasse mit dieser Laktoseintoleranz, dann habe ich natürlich mal Bauchschmerzen und auch so Verdauungsprobleme,
+
+75
+00:10:29,310 --> 00:10:43,310
+dass ich dann Durchfall kriege oder sowas, ja. Aber jetzt, wenn ich da sehr gut Acht gebe und streng mich an die Diät halte, dann geht es mir eigentlich so ganz gut damit.
+
+76
+00:10:43,310 --> 00:10:48,310
+Aber der Darm ist wohl schon so ein bisschen empfindlicher.
+
+77
+00:10:48,310 --> 00:11:00,310
+Okay, okay. Und haben Sie bemerkt, gibt es bestimmte Verstärkungen oder Fälle der Tafakteuren für diese Schmerzen?
+
+78
+00:11:00,310 --> 00:11:08,310
+Also gelindert hat da bisher nichts und ich wüsste jetzt nicht, wie die noch stärker werden können.
+
+79
+00:11:08,310 --> 00:11:12,310
+Die sind ja erst ganz am Boden.
+
+80
+00:11:12,310 --> 00:11:25,310
+Wie gesagt, beim Wasserlassen brennt es halt, das ist dann ein Zusatzschmerz, aber der hat eine andere Qualität als diese unglaubliche Druck und diese Schmerzen da in der Flanke.
+
+81
+00:11:25,310 --> 00:11:35,310
+Okay, okay, ja. Und Herr Schäfer, haben Sie in letzter Zeit ungewollte Mitverländerungen?
+
+82
+00:11:35,310 --> 00:11:43,310
+Also ich wiege mich zwar nicht ständig, aber eigentlich denke ich, ist das ziemlich stabil bei mir.
+
+83
+00:11:43,310 --> 00:11:48,310
+Okay, okay. Und wie ist Ihr Appetit?
+
+84
+00:11:48,310 --> 00:11:54,310
+Normal ist er gut, also ich kann gut essen, ja.
+
+85
+00:11:54,310 --> 00:11:59,310
+Okay. Und haben Sie Schlafprobleme?
+
+86
+00:11:59,310 --> 00:12:13,310
+Ja, also ich arbeite im Schichtdienst, dadurch habe ich so einen unregelmäßigen Tagesrhythmus und dann habe ich manchmal Probleme mit dem Einschlafen, ja.
+
+87
+00:12:13,310 --> 00:12:15,310
+Gerade so beim Schichtwechsel oder so.
+
+88
+00:12:15,310 --> 00:12:19,310
+Okay, ich verstehe das. Was arbeiten Sie?
+
+89
+00:12:19,310 --> 00:12:21,310
+Ich bin Polizist.
+
+90
+00:12:21,310 --> 00:12:26,310
+Okay, ich verstehe das. Sehr wichtig.
+
+91
+00:12:26,310 --> 00:12:29,310
+Ja, und nicht immer beliebt, ja.
+
+92
+00:12:29,310 --> 00:12:37,310
+Okay, fühlen Sie sich müde oder kraftlos?
+
+93
+00:12:37,310 --> 00:12:40,310
+Ja, also heute fühle ich mich wirklich kraftlos, ja.
+
+94
+00:12:40,310 --> 00:12:55,860
+Okay, okay. Ja, Herr Schäfer, haben Sie dabei Saueraustoss, volle Gefühlbelachungen?
+
+95
+00:12:55,860 --> 00:13:05,860
+Nein, also wie gesagt, das habe ich nur, wenn ich mit der Laktoseintoleranz nicht aufpasse.
+
+96
+00:13:05,860 --> 00:13:12,860
+Dann habe ich natürlich Magen- und Darmprobleme vor allen Dingen, aber Saueraustoßen kenne ich eigentlich nicht.
+
+97
+00:13:12,860 --> 00:13:19,860
+Okay, okay. Ja, Herr Schäfer, möchten Sie noch etwas erzählen über Ihre Beschwerden?
+
+98
+00:13:19,860 --> 00:13:25,860
+Nee, also da gibt es eigentlich nicht viel dazu zu sagen. Die sind heftig, das kann ich nur sagen, ja.
+
+99
+00:13:25,860 --> 00:13:36,860
+Okay, okay. Und ja, ich würde gerne wissen, ob Sie irgendwelche Krankheiten haben, beispielsweise Zuckerkrankheit, Blutdruck?
+
+100
+00:13:36,860 --> 00:13:40,860
+Ja, also vor vier Jahren hat man mal festgestellt, dass ich hohen Blutdruck habe, ja.
+
+101
+00:13:40,860 --> 00:13:47,860
+Seit vier Jahren haben Sie Blutdruck? Okay. Ist das gut eingestellt?
+
+102
+00:13:47,860 --> 00:13:53,860
+Also ja, ich messe jetzt hin und wieder mal den Blutdruck und dann ist er eigentlich immer so im Normalbereich.
+
+103
+00:13:53,860 --> 00:14:00,860
+Okay, super. Und andere Krankheit, haben Sie noch andere Krankheiten?
+
+104
+00:14:00,860 --> 00:14:13,860
+Ja, also ich habe so ein bisschen Probleme mit dem rechten Arm. Da habe ich so immer mal wieder Sehengeschleitenentzündungen.
+
+105
+00:14:13,860 --> 00:14:23,860
+Und dann muss ich das halt ein bisschen schonen, dann bandagiere ich das ein bisschen und dann nehme ich auch mal Diclofenac-Salbe.
+
+106
+00:14:23,860 --> 00:14:29,860
+Okay. Sind Sie schon darüber diagnostiziert?
+
+107
+00:14:29,860 --> 00:14:34,860
+Ja, das kommt halt immer wieder, wenn ich zu viel mache mit dem rechten Arm, ja.
+
+108
+00:14:34,860 --> 00:14:39,860
+Okay. Wie viel Milligramm Diclofenac nehmen Sie bei Bedarf?
+
+109
+00:14:39,860 --> 00:14:43,860
+Ja, das ist diese Diclofenac-Salbe. Ah, Salbe, Entschuldigung.
+
+110
+00:14:43,860 --> 00:14:53,860
+Damit creme ich das ein. Und ja, sonst, also Diclofenac nehme ich nicht ein.
+
+111
+00:14:53,860 --> 00:14:59,860
+Okay, super. Und nehmen Sie regelmäßig Medikamente ein?
+
+112
+00:14:59,860 --> 00:15:08,860
+Ja, gegen den hohen Blutdruck nehme ich Dethiazem ein. Das ist nämlich morgens und abends eine Tabette.
+
+113
+00:15:08,860 --> 00:15:12,860
+Dethiazem, wie viel Milligramm wissen Sie?
+
+114
+00:15:12,860 --> 00:15:14,860
+Dethiazem 90.
+
+115
+00:15:14,860 --> 00:15:27,860
+90, okay. Ansonsten Diclofenac-Salbe und Dethiazem haben Sie nutzen und noch andere Medikamente nehmen Sie an?
+
+116
+00:15:27,860 --> 00:15:33,860
+Ja, wenn ich mal Kopfschmerzen habe, dann nehme ich mal Novalgen oder so.
+
+117
+00:15:33,860 --> 00:15:36,860
+Okay. Novalgen bei Bedarf.
+
+118
+00:15:36,860 --> 00:15:45,860
+Okay. Ja, Herr Schiffer, ich würde gerne fragen, ob Sie einmal operiert wurden?
+
+119
+00:15:45,860 --> 00:15:50,860
+Ja, in der Kindheit habe ich mal den Blinddarm rausbekommen, ja.
+
+120
+00:15:50,860 --> 00:15:56,860
+Okay. Mit welchem Lebensjahr ungefähr?
+
+121
+00:15:56,860 --> 00:16:00,860
+Boah, wie alt war ich da? So zwölf oder so?
+
+122
+00:16:00,860 --> 00:16:07,860
+Zwölf, okay. Ist diese Operation komplikationslos durchgeführt?
+
+123
+00:16:07,860 --> 00:16:14,860
+Ja, das ist ja kein großer Eingriff und das macht man ja ziemlich schnell. Also das war nichts Aufregendes.
+
+124
+00:16:14,860 --> 00:16:27,860
+Okay. Ja, Herr Schiffer, haben Sie Laktoseintoleranz und keine Allergie? Und ich würde gerne wissen, sind Sie Rauchherin?
+
+125
+00:16:27,860 --> 00:16:31,860
+Ich habe vor fünf Jahren mit dem Rauchen aufgehört, ja.
+
+126
+00:16:31,860 --> 00:16:34,860
+Ich gratuliere Ihnen, das ist so großartig.
+
+127
+00:16:34,860 --> 00:16:36,860
+Ja, da bin ich auch sehr froh drüber.
+
+128
+00:16:36,860 --> 00:16:41,860
+Ja. Früher, wie viele Zigaretten täglich nutzt man Sie?
+
+129
+00:16:41,860 --> 00:16:44,860
+Früher habe ich schon ein Päckchen am Tag weggeraucht, ja.
+
+130
+00:16:44,860 --> 00:16:50,860
+Okay. Wie viele Jahre durchschneidlich?
+
+131
+00:16:50,860 --> 00:16:54,860
+Also ein Päckchen am Tag habe ich bestimmt über 20 Jahre geraucht.
+
+132
+00:16:54,860 --> 00:16:56,860
+Okay.
+
+133
+00:16:56,860 --> 00:17:01,860
+Also ja, dann habe ich aufgehört vor fünf Jahren.
+
+134
+00:17:01,860 --> 00:17:03,860
+Ja, das ist so großartig.
+
+135
+00:17:03,860 --> 00:17:07,860
+Ja, also ich denke so 20, 22 Jahre habe ich bestimmt geraucht.
+
+136
+00:17:07,860 --> 00:17:10,860
+Okay. Trinken Sie Alkohol?
+
+137
+00:17:10,860 --> 00:17:19,860
+Ich trinke gerne mal ein Glas Bier, manchmal auch alkoholfreies Bier, aber Bier trinke ich schon gerne, ja.
+
+138
+00:17:19,860 --> 00:17:20,860
+Ja, jeden Abend.
+
+139
+00:17:20,860 --> 00:17:22,860
+Alle Abend halt, ne?
+
+140
+00:17:22,860 --> 00:17:26,860
+Gelegentlich meinen Sie nicht jeden Tag?
+
+141
+00:17:26,860 --> 00:17:29,860
+Ja, also schon ziemlich häufig, ja.
+
+142
+00:17:29,860 --> 00:17:32,860
+Ziemlich häufig, okay.
+
+143
+00:17:32,860 --> 00:17:34,860
+Okay, konsumieren Sie Drogen?
+
+144
+00:17:34,860 --> 00:17:38,860
+Nein, das kann ich mir wirklich nicht erlauben bei meinem Beruf.
+
+145
+00:17:38,860 --> 00:17:44,860
+Ja, natürlich. Du hast, du hast recht, ja.
+
+146
+00:17:44,860 --> 00:17:49,860
+Und Herr Schäfer, sind Ihre Eltern gesund?
+
+147
+00:17:49,860 --> 00:17:50,860
+Ja, ich bin gut.
+
+148
+00:17:50,860 --> 00:17:51,860
+Ich bin gut.
+
+149
+00:17:51,860 --> 00:17:57,860
+Und meine Mutter hat zu kämpfen mit so einer ganz starken Verkrommung der Wirbelsäule.
+
+150
+00:17:57,860 --> 00:18:05,860
+Und die hat zum Teil, trägt sie dann so ein Korsett und die hat also auch viel Schmerzen.
+
+151
+00:18:05,860 --> 00:18:15,860
+Und bei meinem Vater, ja, der hatte jetzt so ein Geschwür am Fuß und der hat wohl Blutungsstörungen.
+
+152
+00:18:15,860 --> 00:18:23,860
+Ja, also auch schon wieder jetzt fast ein halbes Jahr her hat man ihm den einen Großzeh amputiert.
+
+153
+00:18:23,860 --> 00:18:29,860
+Oh, ja, ich finde es ist so belastend für Sie, ja.
+
+154
+00:18:29,860 --> 00:18:31,860
+Ja, vor allem für ihn.
+
+155
+00:18:31,860 --> 00:18:35,860
+Ja, ja, natürlich. Und haben Sie Geschwister?
+
+156
+00:18:35,860 --> 00:18:37,860
+Nein, ich war Einzelkind.
+
+157
+00:18:37,860 --> 00:18:42,860
+Okay, ja. Und Herr Schäfer, sind Sie verheiratet?
+
+158
+00:18:42,860 --> 00:18:46,860
+Nein, ich bin nicht mehr verheiratet. Wir leben getrennt.
+
+159
+00:18:46,860 --> 00:18:50,860
+Ah, okay. Haben Sie Kinder?
+
+160
+00:18:50,860 --> 00:18:54,860
+Ja, wir haben drei Kinder, aber die sind bei meiner Frau.
+
+161
+00:18:54,860 --> 00:18:58,860
+Okay. Sind Ihre Kinder gesund?
+
+162
+00:18:58,860 --> 00:19:02,860
+Ja, die haben nichts. Die sind gesund. Die sind fit, ja.
+
+163
+00:19:02,860 --> 00:19:05,860
+Okay. Sind Sie voll geimpft, Herr Schäfer?
+
+164
+00:19:05,860 --> 00:19:11,860
+Ich? Ja, natürlich. Ja, auch dazu muss ich beruflich natürlich, weil ich viel Kontakt mit Menschen habe.
+
+165
+00:19:11,860 --> 00:19:19,860
+Super. Waren Sie in Leicester seit Ausland?
+
+166
+00:19:19,860 --> 00:19:21,860
+Im Ausland?
+
+167
+00:19:21,860 --> 00:19:23,860
+Ja.
+
+168
+00:19:23,860 --> 00:19:25,860
+Nee, ich war nur in Deutschland im Urlaub, ja.
+
+169
+00:19:25,860 --> 00:19:33,860
+Okay, okay. Und treiben Sie regelmäßig Sport mit Ihren Taten?
+
+170
+00:19:34,860 --> 00:19:41,860
+Ja, wir müssen uns schon fit halten, ja. Und ich mache schon regelmäßig Sport.
+
+171
+00:19:41,860 --> 00:19:49,860
+Ich fahre Rennrad und mache auch so ein bisschen so Fitnesstraining.
+
+172
+00:19:49,860 --> 00:19:54,860
+Ja, okay. Herr Schäfer, ich bin nun meine Fragen fertig.
+
+173
+00:19:54,860 --> 00:19:58,860
+Vielen Dank für Ihre Offenheit und Ihre Geduld.
+
+174
+00:19:58,860 --> 00:20:06,860
+Laut Ihrer Beschwerden verdaute ich auch Harnsteinleiden, aber das bleibt nur eine Vermutung.
+
+175
+00:20:06,860 --> 00:20:10,860
+Deshalb müssen wir weitere Untersuchungen durchführen.
+
+176
+00:20:10,860 --> 00:20:17,860
+Zuerst möchte ich Ihnen körperliche Untersuchungen vornehmen, Blut für das Lebo abnehmen.
+
+177
+00:20:17,860 --> 00:20:23,860
+Sobald Ihre Ergebnisse vorliegen, bespreche ich mit alles meinem Oberarzt.
+
+178
+00:20:23,860 --> 00:20:33,860
+Ich komme Ihnen zurück und erkläre Ihnen alles Schritt für Schritt, wie es weitergeht.
+
+179
+00:20:33,860 --> 00:20:42,860
+Haben Sie noch andere Fragen oder möchten Sie noch etwas hinzufügen?
+
+180
+00:20:42,860 --> 00:20:47,860
+Nein, nein. Es wäre jetzt auch mal eine Frage gewesen, wie es weitergeht, aber das haben Sie mir jetzt erklärt.
+
+181
+00:20:47,860 --> 00:20:49,860
+Danke.
+
+182
+00:20:49,860 --> 00:20:54,230
+Okay, danke schön. Bis gleich.
+
+183
+00:20:54,230 --> 00:21:07,750
+Gut, möchte noch jemand zusätzliche Fragen stellen? Keine Fragen offen geblieben.
+
+184
+00:21:07,750 --> 00:21:16,750
+Ja, gut. Dann würde ich sagen, melden Sie sich, wenn Sie soweit sind, dass Sie weitermachen können.
+
+185
+00:21:16,750 --> 00:21:29,750
+Ja, okay, natürlich. Aber ich habe eine kurze Frage. Normalerweise, ich gucke die Uhr und deshalb kann ich nicht diese Frage stellen.
+
+186
+00:21:29,750 --> 00:21:38,750
+Aber beispielsweise, wenn die Patient Polizistin ein bisschen Wasserassenprobleme hat,
+
+187
+00:21:38,750 --> 00:21:51,750
+können wir fragen, ob sie oft die draußenen Toiletten nutzen müssen, oder öffentliche Toiletten.
+
+188
+00:21:51,750 --> 00:21:57,750
+Wie kann man diese Frage stellen? Das ist ein Risikofaktor für Infektionen.
+
+189
+00:21:57,750 --> 00:22:09,750
+Okay, das ist mir jetzt irgendwie gar nicht geläufig gewesen, diese Frage. Aber natürlich, das ist interessant.
+
+190
+00:22:09,750 --> 00:22:17,750
+Können Sie im Rahmen Ihrer Diensttätigkeit zum Beispiel regelmäßig eine saubere Toilette benutzen?
+
+191
+00:22:17,750 --> 00:22:19,750
+Okay, saubere Toilette.
+
+192
+00:22:19,750 --> 00:22:32,750
+Ja, ich denke mal, darauf kommt es ja eigentlich an. Inzwischen hat sich das ja so ein bisschen verändert und zum Glück verbessert in Deutschland.
+
+193
+00:22:32,750 --> 00:22:40,750
+Früher war das ja so, dass zum Beispiel Autobahnraststätten so furchtbar ekelhaft und dreckig waren.
+
+194
+00:22:40,750 --> 00:22:51,750
+Und wenn man da auf die Toilette musste, hatte man hinterher das Gefühl, man müsste sich von A bis Z neu anziehen und irgendwie die Hände desinfizieren oder so.
+
+195
+00:22:51,750 --> 00:23:02,750
+Aber seitdem es diese Bezahltoiletten gibt, wo immer alles sauber gemacht wird, hat man hier zumindest das Gefühl, das ist relativ hygienisch.
+
+196
+00:23:02,750 --> 00:23:16,750
+Und selbst im Zug in der Eisenbahn sind die Toiletten nicht mehr so gruselig, wie sie früher waren. Das hat ja doch deutlich an Qualität gewonnen.
+
+197
+00:23:16,750 --> 00:23:25,750
+Aber wenn die sich natürlich irgendwo in die Büsche schlagen müssen oder so, dann ist das vielleicht auch schon wieder ein bisschen...
+
+198
+00:23:25,750 --> 00:23:40,750
+Also ich denke mal die Frage, haben Sie im Rahmen Ihres Dienstes regelmäßig die Möglichkeit, eine hygienische Toilette zu benutzen oder müssen Sie da manchmal improvisieren?
+
+199
+00:23:40,750 --> 00:23:43,750
+Das ist schon eine Frage, denke ich, die man stellen kann.
+
+200
+00:23:43,750 --> 00:23:49,750
+Vielen Dank. Danke schön. Können wir weiterführen?
+
+201
+00:23:49,750 --> 00:23:51,750
+Können wir aus der Zeit weitermachen, ja.
+
+202
+00:23:51,750 --> 00:23:53,750
+Teil 3, okay.
+
+203
+00:23:53,750 --> 00:24:03,750
+Hallo, guten Tag, Frau Oberarztin. Mein Name ist Fatima Kübra-Ayildiz. Ich habe heute neue Patienten aufgenommen.
+
+204
+00:24:03,750 --> 00:24:07,750
+Einen neuen?
+
+205
+00:24:07,750 --> 00:24:13,750
+Einen neuen Patienten.
+
+206
+00:24:13,750 --> 00:24:18,750
+Es geht um Joachim Schäfer.
+
+207
+00:24:18,750 --> 00:24:37,750
+Herr Schäfer ist ein 48-jähriger Patient, geboren am 17.04.1978. Er ist 1,83 Meter groß und 90 Kilo schwer.
+
+208
+00:24:37,750 --> 00:24:55,750
+Herr Schäfer stellt sich bei uns seit zwei Stunden bestehende progrediente Schmerzen in den rechten Flankenbereich vor.
+
+209
+00:24:55,750 --> 00:25:17,750
+Laut Angaben des Patienten sind diese Schmerzen krampfartig, heftig gedrückend und plötzlich aufgetreten.
+
+210
+00:25:17,750 --> 00:25:39,750
+Gibt es Auslöserfaktoren und verhinderte Faktoren nicht bekannt? Er berichtet als verstärkende Faktoren beim Wasserlassen.
+
+211
+00:25:39,750 --> 00:25:47,750
+Schmerzintensität liegt bei 8 von 10 auf der Energet.
+
+212
+00:25:47,750 --> 00:26:06,750
+Außerdem erwähnte er, dass die Schmerzen in der rechten Leicht- und rechten genitalen Bereich ausgetragen sind.
+
+213
+00:26:06,750 --> 00:26:20,750
+Begleitet klagt er über Polyakisüri, Hematüri, Dysüri und Erdrechen.
+
+214
+00:26:52,830 --> 00:27:10,830
+Er hat gesagt, dass er sich mit Tendu-Ovaginitis schmerzt.
+
+215
+00:27:10,830 --> 00:27:22,830
+Er leidet seit vier Jahren an Arthraele, Hypertonie und rechten Arm Tendu-Nitis.
+
+216
+00:27:22,830 --> 00:27:48,780
+Bei der Medikamenteanamnese erwähnte er Einnahme von Diltiazem 90 mg einmal morgens und Novalgin bei Bedarf und auch Diclofenaxalbe.
+
+217
+00:27:48,780 --> 00:28:05,780
+Er wurde nur mit zwölfter Lebensjahre Appendektomie durchgefüllt.
+
+218
+00:28:05,780 --> 00:28:18,780
+Allergieanamnese ist nicht bekannt, aber er hat Laktosintoleranz.
+
+219
+00:28:18,780 --> 00:28:40,780
+Bei der Noxenanamnese trinken er häufig Bier und 20 Packungsjahr Zigaretten vor Geschichte.
+
+220
+00:28:40,780 --> 00:28:50,780
+Vor fünf Jahren hat er das aufgehört.
+
+221
+00:28:50,780 --> 00:29:13,780
+Bei der familialen Anamnese berichtete er Blutschütterung und Geschwörf bei der Fußglaube, Waritzen oder ...
+
+222
+00:29:13,780 --> 00:29:21,780
+Durch Blutungsstörungen mit Unkursruhes und Zähnenamputationen.
+
+223
+00:29:21,780 --> 00:29:43,780
+Bei der Vaterpauka und bei der Mutter hat er Skoliose.
+
+224
+00:29:43,780 --> 00:29:58,780
+Er ist Polizist, hat drei Kinder und getrennt von seiner Frau.
+
+225
+00:29:58,780 --> 00:30:09,780
+Die anamnestischen Angaben deuten am ersten auf Urolithiasis hin.
+
+226
+00:30:09,780 --> 00:30:12,780
+Was könnte es sonst noch sein?
+
+227
+00:30:12,780 --> 00:30:20,780
+Starke Flanke Schmerzen, Polakiesüri, Dysüri, Hämatüri und sprechen dafür.
+
+228
+00:30:20,780 --> 00:30:25,780
+Was könnte es Differentialdiagnostisch noch sein?
+
+229
+00:30:25,780 --> 00:30:33,780
+Es kann ein Harnweginfektion und auch Pyronephritis sein.
+
+230
+00:30:33,780 --> 00:30:42,780
+Um meine Verdachtdiagnose zu bestätigen, werde ich zunächst diese Patienten körperliche Untersuchungen vornehmen.
+
+231
+00:30:42,780 --> 00:30:45,780
+Blut für das Labor abnehmen.
+
+232
+00:30:45,780 --> 00:30:48,780
+Worauf achten Sie denn bei der körperlichen Untersuchung?
+
+233
+00:30:48,780 --> 00:30:52,780
+Ja, ich achte darauf.
+
+234
+00:30:52,780 --> 00:30:58,780
+Natürlich, wie Sie wissen, die körperliche Untersuchung hat vier Teile.
+
+235
+00:30:58,780 --> 00:31:02,780
+Inspektion, Palpation, Perxion und Osmutation.
+
+236
+00:31:02,780 --> 00:31:09,780
+Aber für diese Patienten ist wichtigstens flanke Klopfen.
+
+237
+00:31:09,780 --> 00:31:12,780
+Schmerzkontrolle, ja, genau.
+
+238
+00:31:12,780 --> 00:31:14,780
+Ist das wichtig?
+
+239
+00:31:22,780 --> 00:31:24,780
+Was tasten Sie noch?
+
+240
+00:31:24,780 --> 00:31:30,780
+Ich taste noch natürlich den genitalen Bereich.
+
+241
+00:31:30,780 --> 00:31:34,780
+Kann sein auch Hoden torsionen oder andere.
+
+242
+00:31:34,780 --> 00:31:36,780
+Ja, das könnte auch sein.
+
+243
+00:31:36,780 --> 00:31:40,780
+Aber was machen Sie noch mit den Händen?
+
+244
+00:31:40,780 --> 00:31:42,780
+Was tasten Sie noch?
+
+245
+00:31:42,780 --> 00:31:44,780
+Bauch.
+
+246
+00:31:44,780 --> 00:31:46,780
+Was schließen Sie aus?
+
+247
+00:31:46,780 --> 00:31:48,780
+Was könnte auch noch sein?
+
+248
+00:31:48,780 --> 00:31:54,780
+Ja, natürlich einen kurzen Abtomal, Mäkel, Divertkel, Beispiel.
+
+249
+00:31:54,780 --> 00:31:57,780
+Ich denke noch an etwas anderes.
+
+250
+00:31:57,780 --> 00:32:01,780
+Wenn ein Abflusshindernis möglicherweise...
+
+251
+00:32:01,780 --> 00:32:06,290
+Hände leisten, Hände.
+
+252
+00:32:06,290 --> 00:32:11,290
+Ach so, ich dachte jetzt an ein Abflusshindernis in der...
+
+253
+00:32:11,290 --> 00:32:15,290
+Oder Cholestitis, Choledopolythiasis, Beispiel.
+
+254
+00:32:15,290 --> 00:32:26,290
+Ich bin noch bei der Cholestitis und denke, dass der vielleicht ein Abflusshindernis in der Blase hat.
+
+255
+00:32:26,290 --> 00:32:28,290
+Dass die Blase sich nicht entleert.
+
+256
+00:32:28,290 --> 00:32:33,290
+Also tastet man, wo die Blase steht.
+
+257
+00:32:33,290 --> 00:32:35,290
+Ja, natürlich.
+
+258
+00:32:35,290 --> 00:32:37,290
+Das meinte ich.
+
+259
+00:32:37,290 --> 00:32:40,290
+Gut, was machen Sie noch?
+
+260
+00:32:40,290 --> 00:32:48,290
+Natürlich Vizalparameter kontrollieren und auch Blut für das Labor abnehmen.
+
+261
+00:32:48,290 --> 00:32:51,290
+Was lassen Sie im Labor untersuchen?
+
+262
+00:32:51,290 --> 00:32:56,290
+Im Labor würde ich gerne Blutbildentzündungparameter nieren,
+
+263
+00:32:56,290 --> 00:33:07,290
+Leberwerte, Elektrolyte bestimmen lassen und auch Urindiagnostik, Urinkultur.
+
+264
+00:33:07,290 --> 00:33:10,290
+Sehr gut, ja, genau.
+
+265
+00:33:10,290 --> 00:33:21,290
+Als Bildgebund eines Verfahrens werde ich natürlich Nierenultraschall durchführen.
+
+266
+00:33:21,290 --> 00:33:27,290
+Auch gegebenen Fels-CT-Fahren.
+
+267
+00:33:27,290 --> 00:33:31,290
+Und natürlich Urologie oder Nephrologiekonzil.
+
+268
+00:33:31,290 --> 00:33:35,290
+Nephrologische, urologische Konzilanfordern.
+
+269
+00:33:35,290 --> 00:33:46,290
+Ja, wenn sich das bestätigt mit der Urolithiasis, was ist denn dann das therapeutische Vorgehen?
+
+270
+00:33:46,290 --> 00:33:55,290
+Ich würde gerne diese Patientin stationärer aufnehmen.
+
+271
+00:33:55,290 --> 00:33:57,290
+Weil er auch so Schmerzen hat, ne?
+
+272
+00:33:57,290 --> 00:34:06,290
+Ja, weil er hat sehr starke Schmerzen und auch ein paar Risiko, Eurosepsis oder andere.
+
+273
+00:34:06,290 --> 00:34:08,290
+Ach so, ja.
+
+274
+00:34:08,290 --> 00:34:16,290
+Und ich würde gerne diese Patientin stationärer aufnehmen, Füßigkeit, Zufuhr, Elektrolytik.
+
+275
+00:34:16,290 --> 00:34:21,290
+Und natürlich Anarchetika, Antimetika anordnen.
+
+276
+00:34:21,290 --> 00:34:23,290
+Ja, genau, sehr gut.
+
+277
+00:34:23,290 --> 00:34:26,290
+Antibiotika anordnen auch.
+
+278
+00:34:26,290 --> 00:34:29,290
+Ja, und was noch?
+
+279
+00:34:29,290 --> 00:34:35,290
+Und für die Dilatationen...
+
+280
+00:34:35,290 --> 00:34:37,290
+Krampelöser, ne?
+
+281
+00:34:37,290 --> 00:34:38,290
+Ja.
+
+282
+00:34:38,290 --> 00:34:40,290
+Puskopan oder sowas, ne?
+
+283
+00:34:40,290 --> 00:34:44,290
+Ja, Schmerz, Entschuldigung, Spasmolytika.
+
+284
+00:34:44,290 --> 00:34:46,290
+Spasmolytikum, genau.
+
+285
+00:34:47,290 --> 00:34:59,290
+Und auch gegebenen Fels als fachartliche Beispielweise G-J-Katheter nutzen oder...
+
+286
+00:34:59,290 --> 00:35:03,290
+Ja, das ist dann praktisch das, was die Urologen weitermachen.
+
+287
+00:35:03,290 --> 00:35:08,290
+Dass sie dann so eine H-Leiter-Schiene einlegen oder so ein Pekilkatheter oder sowas, ne?
+
+288
+00:35:08,290 --> 00:35:11,290
+Ja, sehr gut. Okay, ja.
+
+289
+00:35:12,290 --> 00:35:18,290
+Gut, ja, dann halten Sie mich auf dem laufenden, was bei den Untersuchungen rausgekommen ist.
+
+290
+00:35:18,290 --> 00:35:21,290
+Das sieht ja sehr nach Arbeit für unsere Urologen aus.
+
+291
+00:35:21,290 --> 00:35:24,290
+Dann rufen Sie die Kollegen gleich dazu.
+
+292
+00:35:24,290 --> 00:35:29,290
+Und wir schauen dann nachher noch mal zusammen dann auf. Ja, alles klar.
+
+293
+00:35:29,290 --> 00:35:34,290
+Ja, schön. Sie haben eine schöne Diagnose gemacht.
+
+294
+00:35:34,290 --> 00:35:39,290
+Eine schöne Anamnese gemacht und auch einen sehr guten Bericht.
+
+295
+00:35:39,290 --> 00:35:43,290
+Da gibt es eigentlich ganz wenig dran zu meckern.
+
+296
+00:35:43,290 --> 00:35:48,290
+Ja, also sowieso eigentlich Ihre Anamnesen sind immer perfekt.
+
+297
+00:35:48,290 --> 00:35:56,290
+Ja, heute haben Sie das auch schön gemacht nach dem Motto, bevor wir über Ihre Beschwerden sprechen,
+
+298
+00:35:56,290 --> 00:36:00,290
+muss ich Ihre persönlichen Daten aufnehmen? Ja, sehr gut.
+
+299
+00:36:00,290 --> 00:36:10,580
+Dann gibt es ein paar minimal, wirklich minimale sprachliche Sachen.
+
+300
+00:36:10,580 --> 00:36:14,580
+Und zwar, ja, wieder der allererste Satz.
+
+301
+00:36:14,580 --> 00:36:23,580
+Er stellte sich bei uns seit zwei Stunden bestehenden Schmerzen vor.
+
+302
+00:36:23,580 --> 00:36:31,580
+Mit. Er stellte sich bei uns mit seit zwei Stunden bestehenden Schmerzen vor.
+
+303
+00:36:31,580 --> 00:36:39,580
+Oder er stellte sich bei uns vor, weil er seit zwei Stunden, ja, irgendwas fehlt immer.
+
+304
+00:36:39,580 --> 00:36:49,580
+Ja, überlegen Sie sich eine Standardformulierung, die Sie nehmen, die komplett ist.
+
+305
+00:36:49,580 --> 00:36:55,580
+Ja, wo wirklich alles drin ist. Und egal was kommt, nehmen Sie diese Formulierung.
+
+306
+00:36:55,580 --> 00:37:07,930
+Ja, gut. Dann. Ja, als Kind wurde er eine Appendizitis durchgeführt.
+
+307
+00:37:07,930 --> 00:37:19,930
+Eine Appendektomie durchgeführt. Nee, wurde bei ihm eine Appendektomie durchgeführt oder er wurde einer Appendektomie unterzogen.
+
+308
+00:37:19,930 --> 00:37:24,930
+Das sind diese Passivsätze, diese komischen.
+
+309
+00:37:24,930 --> 00:37:29,930
+Gut, dann habe ich noch eine Formulierung.
+
+310
+00:37:29,930 --> 00:37:39,930
+Formulierung, das habe ich, die haben ich glaube ich schon mal gesagt, war Ihnen, ist jetzt wiedergekommen nach dem, was Sie mir erzählte haben, verdachte ich.
+
+311
+00:37:39,930 --> 00:37:47,930
+Ja, also habe ich den Verdacht oder ja, anders kann man das eigentlich nicht nicht formulieren.
+
+312
+00:37:47,930 --> 00:37:51,930
+Ja, also verdachte ich gibt es nicht.
+
+313
+00:37:51,930 --> 00:38:00,930
+Ja, also habe ich den Verdacht, dass Sie ein Steinproblem in der Niere oder im Harnwegsbereich haben.
+
+314
+00:38:00,930 --> 00:38:06,930
+Gut, und ein winziges Ding, Diltia C nimmt er morgens und abends, hat er gesagt.
+
+315
+00:38:06,930 --> 00:38:13,930
+Und Sie haben das nur morgens gesagt. Aber das ist wirklich also ein winziger, eine winzige Ungenauigkeit.
+
+316
+00:38:13,930 --> 00:38:19,930
+Ansonsten haben Sie sich bravourös geschlagen, würde ich sagen.
+
+317
+00:38:19,930 --> 00:38:32,930
+Ja, gut. Und ja, beim Arzt-Arzt-Sprech habe ich, ich glaube zweimal oder so habe ich gleich korrigiert mit einem oder einem Patienten gesehen.
+
+318
+00:38:32,930 --> 00:38:36,930
+Aber ja, Sie machen das wirklich ausgesprochen gut.
+
+319
+00:38:36,930 --> 00:38:40,930
+Und Sie haben wieder schön den Patienten immer mit Namen angesprochen.
+
+320
+00:38:40,930 --> 00:38:43,930
+Das finde ich ja sowieso immer sehr nett.
+
+321
+00:38:43,930 --> 00:38:49,930
+Und Sie haben sich sehr engagiert, auch jetzt Fachbegriffe zu benutzen.
+
+322
+00:38:49,930 --> 00:38:51,930
+Das fand ich auch sehr gut.
+
+323
+00:38:51,930 --> 00:38:56,930
+Also ich höre, dass Sie die Hinweise aufnehmen.
+
+324
+00:38:56,930 --> 00:38:58,930
+Das finde ich eigentlich cool.
+
+325
+00:38:58,930 --> 00:39:06,930
+Und ja, heute haben Sie so vollständig gefragt, dass dem ganzen Team, was also mitzugehört hat, wirklich keine Frage übrig geblieben ist.
+
+326
+00:39:06,930 --> 00:39:10,930
+Konnte keiner mehr noch irgendwas fragen.
+
+327
+00:39:10,930 --> 00:39:14,930
+Sie waren so vollständig, ist nichts übrig geblieben.
+
+328
+00:39:14,930 --> 00:39:16,930
+Ja, super, würde ich mal sagen.
+
+329
+00:39:16,930 --> 00:39:19,930
+Sie haben sich sehr tapfer geschlagen.
+
+330
+00:39:19,930 --> 00:39:24,930
+Und ja, das wäre es dann für diese nächsten Tage.
+
+331
+00:39:24,930 --> 00:39:29,930
+Ich habe vielleicht noch für die, die jetzt noch ein bisschen später dazu gekommen sind.
+
+332
+00:39:29,930 --> 00:39:31,930
+Ich habe es ganz am Anfang gesagt.
+
+333
+00:39:31,930 --> 00:39:35,930
+Ab übermorgen bin ich in Berlin.
+
+334
+00:39:35,930 --> 00:39:39,930
+Auch ein bisschen länger, zwei, zweieinhalb Wochen.
+
+335
+00:39:39,930 --> 00:39:42,930
+Ich kann noch nicht sicher sagen, wann ich wieder zu Hause bin.
+
+336
+00:39:42,930 --> 00:39:51,930
+Möglicherweise kann ich von unterwegs aus mal eine Zoom-Konferenz anbieten, am Dienstag oder Donnerstag.
+
+337
+00:39:51,930 --> 00:39:54,930
+Also jetzt kommende Donnerstag aber garantiert nicht.
+
+338
+00:39:54,930 --> 00:39:56,930
+Da komme ich erst an.
+
+339
+00:39:56,930 --> 00:40:03,930
+Und nächste Woche muss ich dann schauen, wie die Situation vor Ort sich darstellt.
+
+340
+00:40:03,930 --> 00:40:11,930
+Und möglicherweise, wenn dann tatsächlich Bedarf ist, würde ich das dann mit dem Anfangstermin verschieben,
+
+341
+00:40:11,930 --> 00:40:16,930
+dass wir statt 20 Uhr 21 Uhr machen, wenn Ihnen das Recht ist.
+
+342
+00:40:16,930 --> 00:40:22,930
+Da müsste ich jetzt von Ihnen mal so einen kleinen Hinweis kriegen, vielleicht Dr. Puppelt, dass Sie sagen,
+
+343
+00:40:22,930 --> 00:40:26,930
+ja, da ist Bedarf, da kommen noch viele Prüfungen auf uns zu.
+
+344
+00:40:26,930 --> 00:40:28,930
+Wissen Sie was?
