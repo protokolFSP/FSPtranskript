@@ -1,0 +1,2003 @@
+1
+00:00:00,020 --> 00:00:11,020
+Guten Abend. Weiterversuch. Ich bin der Disarbe in der Säule hier und würde jetzt gerne mit Ihnen das Anamnesigespräch führen. Sind Sie damit verstanden? Ja.
+
+2
+00:00:11,020 --> 00:00:18,020
+Ich brauche erstmal ein paar persönliche Daten, dann sprechen wir über Ihre aktuelle Beschwerde. Wie heißen Sie denn?
+
+3
+00:00:18,020 --> 00:00:30,900
+Mein Name ist Thomas Müller. Herr Müller, können Sie bitte Ihre vollen Nachnamen langsam beschreiben?
+
+4
+00:00:30,900 --> 00:00:39,900
+Ja. Also mein Vornamen ist Thomas T-H-O-M-A-S und der Nachname Müller M-U-L-L-E-R.
+
+5
+00:00:39,900 --> 00:00:43,900
+Herr Müller, wie alt sind Sie? 62 Jahre alt.
+
+6
+00:00:43,900 --> 00:00:47,180
+Wann sind Sie geboren?
+
+7
+00:00:47,180 --> 00:01:00,420
+1964 geboren. Am 1. Mai.
+
+8
+00:01:00,420 --> 00:01:07,060
+Wie groß sind Sie?
+
+9
+00:01:07,060 --> 00:01:11,060
+Ich bin 1,81 Meter groß.
+
+10
+00:01:11,060 --> 00:01:13,060
+Wie viel wiegen Sie?
+
+11
+00:01:13,060 --> 00:01:15,060
+90 Kilo.
+
+12
+00:01:15,060 --> 00:01:18,620
+Welche Beschwerden haben Sie?
+
+13
+00:01:18,620 --> 00:01:34,620
+Also Herr Doktor, ich habe jetzt seit zwei Stunden Schmerzen hinter meiner Brust hier. Schmerzen hier am Brustbein. Und das tut sehr stark weh.
+
+14
+00:01:34,620 --> 00:01:44,780
+Sind diese Schmerzen plötzlich aufgetreten?
+
+15
+00:01:44,780 --> 00:01:49,780
+Ja, die sind vor ca. zwei Stunden ganz plötzlich aufgetreten.
+
+16
+00:01:49,780 --> 00:01:53,780
+Wie stark sind die Schmerzen auf einer Schmerzskala von 1 bis 10?
+
+17
+00:01:53,780 --> 00:01:58,180
+8.
+
+18
+00:01:58,180 --> 00:02:02,550
+8. Sehr stark.
+
+19
+00:02:02,550 --> 00:02:07,900
+Haben Sie auch enge Gefühle im Brust?
+
+20
+00:02:07,900 --> 00:02:16,530
+Als ob alles hier eng wird.
+
+21
+00:02:16,530 --> 00:02:23,530
+Herr Müller, ich möchte jetzt dieses Gespräch unterbrechen und Ihre Vitalparameter kontrollieren.
+
+22
+00:02:23,530 --> 00:02:33,530
+Dann schreibe ich eine LKG und ich möchte Sie am Monitor überwachen.
+
+23
+00:02:33,530 --> 00:02:37,530
+Ja bitte, machen Sie das. Mir geht es nicht so gut.
+
+24
+00:02:37,530 --> 00:02:43,730
+Fühlen Sie sich besser jetzt?
+
+25
+00:02:43,730 --> 00:02:47,730
+Nein. Ich schwitze auch.
+
+26
+00:02:47,730 --> 00:02:49,730
+Schwitze.
+
+27
+00:02:49,730 --> 00:02:53,730
+Sehen Sie, gucken Sie mal meine Schweißperlen. Ich habe hier Schweißperlen an der Stirn.
+
+28
+00:02:53,730 --> 00:02:55,730
+Haben Sie Fieber?
+
+29
+00:02:55,730 --> 00:03:07,730
+Ich habe kein Fieber. Aber das ist jetzt seit zwei Stunden so. Mit den Schmerzen habe ich auch Schweiß geschwitzen. Das hat das Schwitzen angefangen. Das Schwitzen hat mit den Schmerzen angefangen.
+
+30
+00:03:07,730 --> 00:03:09,730
+Schweißausbruch, meinen Sie?
+
+31
+00:03:09,730 --> 00:03:11,730
+Genau.
+
+32
+00:03:11,730 --> 00:03:16,730
+Soll ich Ihnen etwas geben gegen die Schmerzen?
+
+33
+00:03:16,730 --> 00:03:18,730
+Bitte.
+
+34
+00:03:18,730 --> 00:03:20,730
+Haben Sie Allergie gegen irgendwas?
+
+35
+00:03:20,730 --> 00:03:22,730
+Nein, habe ich nicht.
+
+36
+00:03:22,730 --> 00:03:31,950
+Ich werde Ihnen ein Schmerz mit Überentwärme geben.
+
+37
+00:03:31,950 --> 00:03:35,950
+Leiden Sie unter Atemnot, Herr Müller?
+
+38
+00:03:35,950 --> 00:03:40,950
+Ja, ich kriege jetzt nicht so gut Luft seitdem ich das habe. Das ist neu, seit zwei Stunden.
+
+39
+00:03:40,950 --> 00:03:47,110
+Ist Ihnen übel?
+
+40
+00:03:47,110 --> 00:03:51,110
+Ja, mir ist auch übel.
+
+41
+00:03:51,110 --> 00:03:53,110
+Müssen Sie erbrechen?
+
+42
+00:03:53,110 --> 00:04:06,110
+Ich muss nicht erbrechen, aber mir ist schlecht die ganze Zeit. Müssen Sie? Mir ist übel und schlecht. Ich habe so Angst irgendwie. Ich kann es Ihnen nicht beschreiben. Das ist so ein komisches Gefühl.
+
+43
+00:04:06,110 --> 00:04:10,110
+Können Sie bitte diese Schmerzen genau beschreiben?
+
+44
+00:04:10,110 --> 00:04:17,110
+Wie ein Druck, als auf einer auf meiner Brust sitzen würde.
+
+45
+00:04:17,110 --> 00:04:22,110
+Brennende oder ziehende?
+
+46
+00:04:22,110 --> 00:04:27,110
+Kann ich Ihnen gar nicht sagen. Es ist ein sehr starker Schmerz, mehr ein Druckgefühl.
+
+47
+00:04:27,110 --> 00:04:29,110
+Druckgefühl, okay.
+
+48
+00:04:29,110 --> 00:04:37,110
+Steilen diese Schmerzen irgendwo hinaus? Zum Beispiel in der Unterarm oder in der rechten Arm?
+
+49
+00:04:37,110 --> 00:04:47,340
+Ja, jetzt will ich das sagen. Mein Arm tut mir auch weh und hier der Kiefer tut mir auch weh heute.
+
+50
+00:04:47,340 --> 00:04:50,340
+Haben Sie auch Rückenschmerzen?
+
+51
+00:04:50,340 --> 00:04:58,060
+Nein.
+
+52
+00:04:58,060 --> 00:05:06,060
+Haben Sie gegen diese Schmerzen etwas eingenommen?
+
+53
+00:05:06,060 --> 00:05:12,060
+Nein, noch nicht. Ich bin sofort hierher gekommen. Das ist ja erst vor zwei Stunden aufgetreten.
+
+54
+00:05:12,060 --> 00:05:17,270
+Wie sind Sie ins Krankenhaus gekommen?
+
+55
+00:05:17,270 --> 00:05:28,660
+Meine Frau hat mich gefahren.
+
+56
+00:05:28,660 --> 00:05:32,660
+Gibt es bestimmte Auslöser für diese Beschwerden?
+
+57
+00:05:32,660 --> 00:05:43,030
+Kann ich Ihnen nicht sagen. Ich weiß nur, dass die letzten Wochen immer wieder mal diese Beschwerden viel leichter hatten.
+
+58
+00:05:43,030 --> 00:05:49,030
+Diese ganzen Wochen vorher schon ein paar Mal gehabt. Aber nicht so stark, ganz leicht.
+
+59
+00:05:49,030 --> 00:05:51,030
+Meinen Sie Schmerzen?
+
+60
+00:05:51,030 --> 00:05:54,030
+Ja, dieses Druckgefühl war leichter.
+
+61
+00:05:54,030 --> 00:06:00,070
+Seit wann haben Sie diese Beschwerden?
+
+62
+00:06:00,070 --> 00:06:08,090
+Es war ganz leicht. Vor ein paar Wochen ist das schon mal aufgetreten.
+
+63
+00:06:08,090 --> 00:06:13,090
+Ein oder zwei Mal schon aufgetreten, wenn ich die Treppen gestiegen bin, habe ich das gemerkt.
+
+64
+00:06:13,090 --> 00:06:18,090
+Da habe ich so einen Druck, dann bin ich stehen geblieben und dann hat das aufgehört.
+
+65
+00:06:18,090 --> 00:06:26,090
+Belastungsabhängung, meinen Sie. Waren Sie deswegen bei anderem Arzt?
+
+66
+00:06:26,090 --> 00:06:31,580
+Nein, ich war noch nie bei einem Arzt.
+
+67
+00:06:31,580 --> 00:06:35,580
+Was lindert oder verschlechtert diese Beschwerden?
+
+68
+00:06:35,580 --> 00:06:42,530
+Das kann ich Ihnen nicht sagen. Weiß ich nicht.
+
+69
+00:06:42,530 --> 00:06:45,530
+Haben Sie Husten?
+
+70
+00:06:45,530 --> 00:06:47,530
+Husten?
+
+71
+00:06:47,530 --> 00:06:48,530
+Husten, ja.
+
+72
+00:06:48,530 --> 00:06:49,530
+Husten, ja.
+
+73
+00:06:49,530 --> 00:06:57,260
+Husten? Nein, habe ich nicht.
+
+74
+00:06:57,260 --> 00:07:00,260
+Leiden Sie unter Sodbrennen?
+
+75
+00:07:00,260 --> 00:07:08,150
+Sodbrennen habe ich auch, ja. Ich wiege ja auch ein bisschen mehr. Ich wiege ja 90 Kilo.
+
+76
+00:07:08,150 --> 00:07:13,150
+Eigentlich habe ich ja 10 Kilo Übergewicht. Vielleicht liegt das ja in meinem Übergewicht, aber ich habe Sodbrennen, ja.
+
+77
+00:07:13,150 --> 00:07:27,790
+Leiden Sie unter Herzrasen oder Herzstoffen?
+
+78
+00:07:27,790 --> 00:07:31,140
+Eigentlich nicht.
+
+79
+00:07:31,140 --> 00:07:45,100
+Haben Sie Verfärbungen in den Beinen bemerkt oder geschwollen?
+
+80
+00:07:45,100 --> 00:07:52,100
+Ich habe das Gefühl, dass sie etwas geschwollener sind als sonst, ja. Aber Verfärbungen habe ich nicht gemerkt.
+
+81
+00:07:52,100 --> 00:07:54,100
+Beide Beine?
+
+82
+00:07:54,100 --> 00:08:01,460
+Beide Beine.
+
+83
+00:08:01,460 --> 00:08:04,460
+Schlafen Sie gut, Herr Müller?
+
+84
+00:08:04,460 --> 00:08:12,630
+Bis jetzt ja, aber jetzt gerade glaube ich nicht, dass ich gut schlafen kann.
+
+85
+00:08:12,630 --> 00:08:15,630
+Sie haben gesagt, Sie haben kein Fieber.
+
+86
+00:08:15,630 --> 00:08:16,630
+Nein.
+
+87
+00:08:16,630 --> 00:08:18,630
+Wie ist Ihr Appetit, Herr Müller?
+
+88
+00:08:18,630 --> 00:08:22,630
+Normalerweise habe ich einen sehr guten Appetit.
+
+89
+00:08:22,630 --> 00:08:25,630
+Haben Sie ihn in letzter Zeit auch oder zugenommen?
+
+90
+00:08:25,630 --> 00:08:31,630
+Ich habe ein stabiles Gewicht. Ich bin immer so um die 90 plus minus 3 Kilo.
+
+91
+00:08:31,630 --> 00:08:36,630
+Haben Sie Probleme mit Stürgang oder Beinwasserlösung?
+
+92
+00:08:36,630 --> 00:08:38,630
+Eigentlich nicht, nein.
+
+93
+00:08:38,630 --> 00:08:44,580
+Leiden Sie an chronischen Erkrankungen?
+
+94
+00:08:44,580 --> 00:08:47,580
+Was meinen Sie mit chronischen Erkrankungen?
+
+95
+00:08:47,580 --> 00:08:51,580
+Wie zum Beispiel Bluthochdruck, Zuckerkrankheit?
+
+96
+00:08:51,580 --> 00:08:54,580
+Ja, ich habe Bluthochdruck, ja. Ich habe Bluthochdruck.
+
+97
+00:08:54,580 --> 00:08:57,580
+Dann nehme ich auch Medikamente.
+
+98
+00:08:57,580 --> 00:09:00,580
+Und ich habe erhöhten Cholesterin, hat der Doktor gesagt.
+
+99
+00:09:00,580 --> 00:09:03,580
+Dann nehme ich auch Medikamente seit neuestem ein.
+
+100
+00:09:03,580 --> 00:09:06,580
+Und ich habe auch Zucker.
+
+101
+00:09:06,580 --> 00:09:10,580
+Seit wann haben Sie diese Krankheit?
+
+102
+00:09:10,580 --> 00:09:16,580
+Den Bluthochdruck und den Zucker, den habe ich schon seit über fünf Jahren.
+
+103
+00:09:16,580 --> 00:09:20,580
+Und das Cholesterin, das ist erst seit einem Jahr.
+
+104
+00:09:20,580 --> 00:09:27,320
+Was nehmen Sie dagegen ein?
+
+105
+00:09:27,320 --> 00:09:34,320
+Ich nehme ein als Medikamente das Ramipril 5 Milligramm.
+
+106
+00:09:34,320 --> 00:09:37,320
+Morgens eine nehme ich einen davon.
+
+107
+00:09:37,320 --> 00:09:40,320
+Dann habe ich eine Zuckertablette. Ich weiß nicht mehr wie das heißt.
+
+108
+00:09:40,320 --> 00:09:44,320
+Das fängt mit M an. 1000 Milligramm.
+
+109
+00:09:44,320 --> 00:09:48,320
+Wissen Sie zufällig welche Tablette das sein könnte?
+
+110
+00:09:48,320 --> 00:09:50,320
+Metformin?
+
+111
+00:09:50,320 --> 00:09:52,320
+Ja, genau. Metformin, genau.
+
+112
+00:09:52,320 --> 00:09:55,320
+Das nehme ich zweimal täglich ein.
+
+113
+00:09:55,320 --> 00:10:01,320
+Und dann habe ich noch ein Medikament für den Cholesterinwert.
+
+114
+00:10:01,320 --> 00:10:07,320
+Das heißt glaube ich Ator, Ator, Ator was das ist.
+
+115
+00:10:07,320 --> 00:10:10,320
+40, genau 40 Milligramm, das weiß ich.
+
+116
+00:10:10,320 --> 00:10:13,320
+Das soll ich abends einnehmen.
+
+117
+00:10:13,320 --> 00:10:18,320
+Und wissen Sie die Dosierung von Metformin?
+
+118
+00:10:18,320 --> 00:10:21,320
+Ich glaube 1000. Ich bin mir aber nicht sicher.
+
+119
+00:10:21,320 --> 00:10:25,320
+Okay, kein Problem. Wir können später bei Ihrem Hausarzt...
+
+120
+00:10:25,320 --> 00:10:29,320
+Entweder 100 oder 1000, aber ich glaube 1000 steht da drauf.
+
+121
+00:10:29,320 --> 00:10:32,320
+Wir können später bei Ihrem Hausarzt fragen.
+
+122
+00:10:32,320 --> 00:10:35,320
+Wurden Sie schon mal operieren?
+
+123
+00:10:35,320 --> 00:10:39,430
+Nichts Besonderes.
+
+124
+00:10:39,430 --> 00:10:44,220
+Haben Sie Allergie gegen irgendwas?
+
+125
+00:10:44,220 --> 00:10:46,220
+Gott sei Dank keine Allergien.
+
+126
+00:10:46,220 --> 00:10:54,850
+Jetzt habe ich einige Fragen zu Ihren Lebensgewohnheiten.
+
+127
+00:10:54,850 --> 00:10:56,850
+Herr Müller, rauchen Sie?
+
+128
+00:10:56,850 --> 00:11:00,420
+Ja.
+
+129
+00:11:00,420 --> 00:11:02,420
+Wie viel Zigarette?
+
+130
+00:11:02,420 --> 00:11:06,420
+Ich rauche schon seit 30 Jahren, Herr Doktor.
+
+131
+00:11:06,420 --> 00:11:12,420
+Eine Packung am Tag wird schon sein.
+
+132
+00:11:12,420 --> 00:11:18,420
+Trinken Sie Alkohol?
+
+133
+00:11:18,420 --> 00:11:20,420
+Keine, schon.
+
+134
+00:11:20,420 --> 00:11:22,420
+Manchmal ist es nur getragen.
+
+135
+00:11:22,420 --> 00:11:24,420
+Ich mache dann auch Dolmetsack.
+
+136
+00:11:24,420 --> 00:11:27,420
+Nur bei Gelegenheit.
+
+137
+00:11:27,420 --> 00:11:33,740
+Haben Sie jemals Kontakt mit Drogen?
+
+138
+00:11:33,740 --> 00:11:35,740
+Nein.
+
+139
+00:11:35,740 --> 00:11:38,740
+Also rauchen ja, aber Drogen nein.
+
+140
+00:11:38,740 --> 00:11:44,730
+Leben Ihre Eltern noch, Herr Müller?
+
+141
+00:11:44,730 --> 00:11:48,730
+Meine Eltern leben nicht mehr.
+
+142
+00:11:48,730 --> 00:11:50,730
+Woran sind Sie gestorben?
+
+143
+00:11:50,730 --> 00:11:54,730
+Mein Vater ist an einem Herzinfarkt verstorben.
+
+144
+00:11:54,730 --> 00:11:59,730
+Und meine Mutter lebt noch.
+
+145
+00:11:59,730 --> 00:12:09,490
+Leiden Ihre Eltern an chronischen Erkrankungen?
+
+146
+00:12:09,490 --> 00:12:12,490
+Meine Mutter hat nur Rheuma.
+
+147
+00:12:12,490 --> 00:12:14,490
+Sonst hat sie nichts.
+
+148
+00:12:14,490 --> 00:12:16,490
+Sie hat keinen Bluthochdruck, keinen Zucker.
+
+149
+00:12:16,490 --> 00:12:19,490
+Das habe ich alles von meinem Vater.
+
+150
+00:12:19,490 --> 00:12:21,490
+Haben Sie Geschwister?
+
+151
+00:12:21,490 --> 00:12:23,490
+Nein.
+
+152
+00:12:23,490 --> 00:12:28,060
+Sie sind verheiratet und haben Sie Kinder?
+
+153
+00:12:28,060 --> 00:12:30,060
+Ja, ich habe zwei Kinder.
+
+154
+00:12:30,060 --> 00:12:32,060
+Sie sind aber schon erwachsen.
+
+155
+00:12:32,060 --> 00:12:34,060
+Sind Sie gesund?
+
+156
+00:12:34,060 --> 00:12:36,060
+Gott sei Dank, beide gesund.
+
+157
+00:12:36,060 --> 00:12:38,060
+Und die rauchen auch nicht.
+
+158
+00:12:38,060 --> 00:12:40,060
+Nehmen wir auch keine Gerogen.
+
+159
+00:12:40,060 --> 00:12:44,060
+Mit wem wohnen Sie?
+
+160
+00:12:44,060 --> 00:12:47,400
+Nochmal?
+
+161
+00:12:47,400 --> 00:12:49,400
+Mit wem wohnen Sie?
+
+162
+00:12:49,400 --> 00:12:51,400
+Ach so, mit wem wohnen Sie zusammen?
+
+163
+00:12:51,400 --> 00:12:53,400
+Oder mit wem leben Sie zusammen?
+
+164
+00:12:53,400 --> 00:12:55,400
+Mit meiner Ehefrau.
+
+165
+00:12:55,400 --> 00:13:00,310
+Ich lebe mit meiner Ehefrau zusammen.
+
+166
+00:13:00,310 --> 00:13:02,310
+Was machen Sie beruflich?
+
+167
+00:13:02,310 --> 00:13:04,310
+Ich bin jetzt berentet.
+
+168
+00:13:04,310 --> 00:13:06,310
+Ich bin Frührentner.
+
+169
+00:13:06,310 --> 00:13:10,310
+Und vorher war ich Anwalt.
+
+170
+00:13:10,310 --> 00:13:14,310
+Warum sind Sie Frührentner?
+
+171
+00:13:14,310 --> 00:13:19,610
+Gab es ein...
+
+172
+00:13:19,610 --> 00:13:23,610
+Ja, ich hatte ein Wirbelsäulenproblem.
+
+173
+00:13:23,610 --> 00:13:25,610
+Bandscheibenproblem.
+
+174
+00:13:25,610 --> 00:13:29,610
+Bandscheibenproblem kann der Anwalt nicht gar sagen.
+
+175
+00:13:29,610 --> 00:13:33,610
+Bandsbereich oder...
+
+176
+00:13:33,610 --> 00:13:35,610
+Entschuldigung, ich bin blöd.
+
+177
+00:13:35,610 --> 00:13:37,610
+HWS-Bereich.
+
+178
+00:13:37,610 --> 00:13:39,610
+Wie bitte?
+
+179
+00:13:39,610 --> 00:13:41,610
+Als Wirbelsäule.
+
+180
+00:13:41,610 --> 00:13:43,610
+Ah, okay.
+
+181
+00:13:43,610 --> 00:13:49,610
+Aber deswegen wurden Sie nicht operiert?
+
+182
+00:13:49,610 --> 00:13:51,610
+Nein.
+
+183
+00:13:51,610 --> 00:13:53,610
+Entschuldigung.
+
+184
+00:13:53,610 --> 00:13:57,750
+Kein Problem.
+
+185
+00:13:57,750 --> 00:14:01,750
+Jetzt möchte ich kurz zusammenfassen, Herr Müller.
+
+186
+00:14:01,750 --> 00:14:07,750
+Sie haben seit zwei Stunden Brustschmerzen.
+
+187
+00:14:07,750 --> 00:14:11,750
+Diese Schmerzen sind plötzlich aufgetreten.
+
+188
+00:14:11,750 --> 00:14:17,750
+Und Sie haben auch Brustgefühl, Druckgefühl im Brust.
+
+189
+00:14:17,750 --> 00:14:19,750
+In der Brust?
+
+190
+00:14:19,750 --> 00:14:21,750
+In der Brust.
+
+191
+00:14:21,750 --> 00:14:23,750
+Sie leidet unter...
+
+192
+00:14:23,750 --> 00:14:25,750
+Druckgefühl auf der Brust.
+
+193
+00:14:25,750 --> 00:14:27,750
+Druckgefühl auf der Brust, Entschuldigung.
+
+194
+00:14:27,750 --> 00:14:29,750
+Druckgefühl auf der Brust.
+
+195
+00:14:29,750 --> 00:14:35,750
+Sie leiden unter Atemnot und Übelkeit.
+
+196
+00:14:35,750 --> 00:14:45,750
+Und diese Schmerzen steilen in den linken Arm und in den Kiefern aus.
+
+197
+00:14:45,750 --> 00:14:47,750
+Ja, genau so ist es.
+
+198
+00:14:47,750 --> 00:14:53,750
+Und sie leiden unter geschwollene Beine.
+
+199
+00:14:53,750 --> 00:14:57,750
+Ja genau, ich habe auch in letzter Zeit jetzt auch geschwollene Beine. Richtig, das stimmt alles.
+
+200
+00:14:57,750 --> 00:14:59,750
+Möchten Sie etwas hinzufügen?
+
+201
+00:14:59,750 --> 00:15:03,750
+Nein, ich will nur... muss ich in der Klinik bleiben?
+
+202
+00:15:03,750 --> 00:15:11,750
+Ja, Sie sollen hier bleiben, bis wir wissen, was los ist.
+
+203
+00:15:11,750 --> 00:15:15,750
+Wir werden einige Untersuchungen machen.
+
+204
+00:15:15,750 --> 00:15:19,750
+Wir gehen ganz systematisch vor.
+
+205
+00:15:19,750 --> 00:15:23,750
+Ich werde Sie körperlich untersuchen, dann Blut abnehmen.
+
+206
+00:15:23,750 --> 00:15:27,750
+Wir wurden schon EKG geschrieben.
+
+207
+00:15:27,750 --> 00:15:31,750
+Und ich kontrolliere die Ergebnisse.
+
+208
+00:15:31,750 --> 00:15:35,750
+Dann besprechen wir nächste Schritte.
+
+209
+00:15:35,750 --> 00:15:37,750
+Okay, alles klar.
+
+210
+00:15:37,750 --> 00:15:41,750
+Und Sie sollen bleiben, nicht sie sollen bleiben, sondern sie sollten bleiben.
+
+211
+00:15:41,750 --> 00:15:45,750
+Kalmanu-geräkir, oder sie müssen bleiben.
+
+212
+00:15:45,750 --> 00:15:47,750
+Es ist nochmal was anderes.
+
+213
+00:15:47,750 --> 00:15:54,090
+Sollten oder sie müssen bleiben.
+
+214
+00:15:54,090 --> 00:15:56,090
+Okay, ja, okay.
+
+215
+00:15:56,090 --> 00:16:00,090
+Warten Sie bitte in das Untersuchungszimmer.
+
+216
+00:16:00,090 --> 00:16:02,090
+Ich rufe Sie.
+
+217
+00:16:02,090 --> 00:16:08,630
+Ja, okay, okay, gut.
+
+218
+00:16:08,630 --> 00:16:11,630
+Hat jemand noch zusätzliche Fragen?
+
+219
+00:16:11,630 --> 00:16:21,020
+Guten Abend.
+
+220
+00:16:21,020 --> 00:16:27,020
+Oberärztin, ich habe einen neuen Patienten und haben Sie Zeit für mich?
+
+221
+00:16:27,020 --> 00:16:29,020
+Bitte.
+
+222
+00:16:29,020 --> 00:16:32,020
+Es handelt sich um Herrn Thomas Müller.
+
+223
+00:16:32,020 --> 00:16:36,020
+Er ist 2 und 6 Jahre alt.
+
+224
+00:16:36,020 --> 00:16:46,020
+Er ist 90 Kilo schwer und 1,81 Meter groß.
+
+225
+00:16:46,020 --> 00:16:56,020
+Er kam zu uns wegen seit 2 Stunden bestehender Brustschmerzen.
+
+226
+00:16:56,020 --> 00:17:04,020
+Diese Schmerzen wurden als Druckende beschrieben.
+
+227
+00:17:04,020 --> 00:17:08,020
+Er klagte über Brustgefühl.
+
+228
+00:17:08,020 --> 00:17:16,020
+Und diese Schmerzen sind plötzlich aufgetreten.
+
+229
+00:17:16,020 --> 00:17:22,020
+Schmerzintensität wurde mit 8 von 10 bewertet.
+
+230
+00:17:22,020 --> 00:17:34,020
+Sie berichtet über Hyperhidrosis, Dyspne, Neusea und Pyrrhosis.
+
+231
+00:17:34,020 --> 00:17:37,690
+Was ist das nochmal?
+
+232
+00:17:37,690 --> 00:17:39,690
+Also Hyperhidrosis?
+
+233
+00:17:39,690 --> 00:17:42,690
+Hyperhidrosis würde ich nicht sagen.
+
+234
+00:17:42,690 --> 00:17:44,690
+Hyperhidrosis.
+
+235
+00:17:44,690 --> 00:17:47,690
+Ja, aber das ist ja nochmal eine Erkrankung für sich.
+
+236
+00:17:47,690 --> 00:17:49,690
+Ich würde sagen Schweißausbruch.
+
+237
+00:17:49,690 --> 00:17:51,690
+Das ist ja keine Hyperhidrosis.
+
+238
+00:17:51,690 --> 00:17:56,690
+Für mich hört sich Hyperhidrosis wie eine eigenständige Erkrankung an.
+
+239
+00:17:56,690 --> 00:17:58,690
+Er hat ja in dem Moment nur Schweißausbruch.
+
+240
+00:17:58,690 --> 00:18:07,690
+Ich würde sagen, es hört sich besser an, er hat vermehrtes Schwitzen oder er hat Schweiß, Kaltschweiß oder Schweißausbruch oder sowas.
+
+241
+00:18:07,690 --> 00:18:16,690
+Schweißausbruch, Dyspne, Neusea und Pyrrhosis.
+
+242
+00:18:16,690 --> 00:18:22,220
+Was ist damit gemeint? Pyrrhosis?
+
+243
+00:18:22,220 --> 00:18:23,220
+Sodbrennen.
+
+244
+00:18:23,220 --> 00:18:26,220
+Achso, sagen Sie Sodbrennen, sagen Sie nicht das andere.
+
+245
+00:18:26,220 --> 00:18:28,220
+Ok.
+
+246
+00:18:28,220 --> 00:18:30,220
+Sagens Sodbrennen.
+
+247
+00:18:30,220 --> 00:18:36,220
+Sie berichtet zudem über Ödem in den Beinen.
+
+248
+00:18:36,220 --> 00:18:41,220
+Und früher hat er ähnliche Beschwerden gehabt.
+
+249
+00:18:41,220 --> 00:18:47,220
+Ich meine belastungsabhängige Brustschmerzen.
+
+250
+00:18:47,220 --> 00:18:57,220
+Aber deswegen war er nicht bei einem anderen Arzt.
+
+251
+00:18:57,220 --> 00:18:59,220
+Bei einem anderen Arzt.
+
+252
+00:18:59,220 --> 00:19:02,220
+Und wann hatte er die Schmerzen?
+
+253
+00:19:02,220 --> 00:19:04,220
+Diese Art?
+
+254
+00:19:04,220 --> 00:19:06,220
+Wie bitte?
+
+255
+00:19:06,220 --> 00:19:08,220
+Wann waren die Beschwerden vorher?
+
+256
+00:19:08,220 --> 00:19:10,220
+Wie viel vorher hatte er die Beschwerden?
+
+257
+00:19:10,220 --> 00:19:14,220
+Diese Beschwerden sind seit zwei Stunden.
+
+258
+00:19:14,220 --> 00:19:18,220
+Ja und früher haben Sie gesagt, was meinen Sie mit früher?
+
+259
+00:19:18,220 --> 00:19:23,020
+Wie viel früher hatte er ähnliche Beschwerden gehabt?
+
+260
+00:19:23,020 --> 00:19:27,680
+Ich habe verpasst, glaube ich.
+
+261
+00:19:27,680 --> 00:19:30,680
+Er hat ähnliche Beschwerden gehabt, schon mal vorher.
+
+262
+00:19:30,680 --> 00:19:32,680
+Aber wann genau?
+
+263
+00:19:32,680 --> 00:19:34,680
+Zwei Mal, aber...
+
+264
+00:19:34,680 --> 00:19:37,680
+In den letzten Monaten oder Wochen?
+
+265
+00:19:37,680 --> 00:19:39,680
+In den Monaten, glaube ich.
+
+266
+00:19:39,680 --> 00:19:42,680
+Ok.
+
+267
+00:19:42,680 --> 00:19:46,680
+Ich frage später beim körperlichen Untersuchungen.
+
+268
+00:19:46,680 --> 00:19:48,680
+Noch mal nach.
+
+269
+00:19:48,680 --> 00:19:52,680
+Die Viratifanamnese war unaufällig.
+
+270
+00:19:52,680 --> 00:20:03,680
+Und sie erleidet an arterielle Hypertonik seit über fünf Jahren.
+
+271
+00:20:03,680 --> 00:20:07,680
+Diabetes mellitus auch über fünf Jahre.
+
+272
+00:20:07,680 --> 00:20:11,680
+Und Hyperkolesterneme seit einem Jahr.
+
+273
+00:20:11,680 --> 00:20:13,680
+Seit einem Jahr, nicht Jahre.
+
+274
+00:20:13,680 --> 00:20:15,680
+Seit einem Jahr.
+
+275
+00:20:15,680 --> 00:20:22,680
+Und sie erleidet an auch Halswirbelsäule, Diskus prolapsus.
+
+276
+00:20:22,680 --> 00:20:28,680
+Gegen arterielle Hypertonik nimmt sie Romypyril ein.
+
+277
+00:20:28,680 --> 00:20:31,680
+Fünf Milligramm, zweimal täglich.
+
+278
+00:20:31,680 --> 00:20:36,680
+Gegen Zuckerkrankheit Diabetes mellitus nimmt sie Metformin.
+
+279
+00:20:36,680 --> 00:20:40,680
+1.000 Milligramm, zweimal täglich.
+
+280
+00:20:40,680 --> 00:20:48,680
+Und gegen Hyperkolesterneme nimmt sie Atobastatin, 40 Milligramm, einmal täglich ein.
+
+281
+00:20:48,680 --> 00:20:55,680
+Sie hatte keine Allergie und rauchte zu viel seit 30 Jahren.
+
+282
+00:20:55,680 --> 00:21:00,680
+Sie rauchte 20 Zigaretten täglich.
+
+283
+00:21:00,680 --> 00:21:09,680
+Wie viel sind das, wenn einer 20 Zigaretten am Tag seit 30 Jahren raucht?
+
+284
+00:21:09,680 --> 00:21:14,680
+30 Packiers.
+
+285
+00:21:14,680 --> 00:21:18,680
+Er trinkt gelegentlich Alkohol.
+
+286
+00:21:18,680 --> 00:21:31,680
+Und seine Mutter leidet an Rheuma.
+
+287
+00:21:31,680 --> 00:21:39,680
+Sein Vater ist an einem Myokatinfakt verstorben.
+
+288
+00:21:39,680 --> 00:21:43,680
+Sagen Sie sowas nicht. Also es ist alles gut, aber Infaktyst gibt es im Deutschen nicht.
+
+289
+00:21:43,680 --> 00:21:48,680
+Sein Vater ist an einem Myokatinfakt verstorben.
+
+290
+00:21:48,680 --> 00:21:51,680
+An einem Myokatinfakt.
+
+291
+00:21:51,680 --> 00:21:58,680
+Der Myokatinfakt, also an einem Myokatinfakt verstorben.
+
+292
+00:21:58,680 --> 00:22:03,680
+Dativ.
+
+293
+00:22:03,680 --> 00:22:11,680
+Er hat zwei Kinder. Sie sind gesund, verheiratet und Frühwärtner.
+
+294
+00:22:11,680 --> 00:22:18,680
+Vorher hat er als Anwalt gearbeitet.
+
+295
+00:22:18,680 --> 00:22:21,680
+Ja, das war alles.
+
+296
+00:22:21,680 --> 00:22:29,680
+Die anamnestischen Angaben deuten am ersten Myokatinfakt hin.
+
+297
+00:22:29,680 --> 00:22:42,680
+Differenzzeiten, Diagnostik kommen auf Phenomony, Herzinsuffizienz und Anämie infrage.
+
+298
+00:22:42,680 --> 00:22:45,680
+Warum Anämie?
+
+299
+00:22:45,680 --> 00:22:55,680
+Er leidet unter Dyspne und Dyspne.
+
+300
+00:22:55,680 --> 00:23:01,680
+Was für Differentialdiagnosen gibt es noch?
+
+301
+00:23:01,680 --> 00:23:05,680
+Pulmonarembolie kann man sagen.
+
+302
+00:23:05,680 --> 00:23:10,680
+Lungenembolie. Sagen Sie bitte Lungenarterienembolie.
+
+303
+00:23:10,680 --> 00:23:13,680
+Lungenarterienembolie.
+
+304
+00:23:13,680 --> 00:23:16,680
+Das ist ja ein Deutsch Kurs.
+
+305
+00:23:16,680 --> 00:23:19,680
+Also Fachsprachrögel. Lungenarterienembolie.
+
+306
+00:23:19,680 --> 00:23:24,310
+Was sind die wichtigsten Differentialdiagnosen?
+
+307
+00:23:24,310 --> 00:23:27,310
+Die tödlichsten.
+
+308
+00:23:27,310 --> 00:23:32,310
+Die wichtigsten. Die muss man sofort ausschließen.
+
+309
+00:23:32,310 --> 00:23:35,310
+Wie schließen Sie ganz schnell eine Ortendyssektion aus?
+
+310
+00:23:35,310 --> 00:23:37,310
+Was machen Sie?
+
+311
+00:23:37,310 --> 00:23:41,310
+Ich kontrolliere Blutdruck.
+
+312
+00:23:41,310 --> 00:23:43,310
+Im Blutdruck.
+
+313
+00:23:43,310 --> 00:23:46,310
+Beide Arme meinen Sie?
+
+314
+00:23:46,310 --> 00:23:48,310
+Beide Arme.
+
+315
+00:23:48,310 --> 00:23:50,310
+Sehr gut. Sie meinen wegen der Blutdruckdifferenz.
+
+316
+00:23:50,310 --> 00:23:53,310
+Ja, sehr gut. Und was noch? Was kann man noch machen?
+
+317
+00:23:53,310 --> 00:23:57,310
+Echo durchführen.
+
+318
+00:23:57,310 --> 00:23:59,310
+Ja, was noch? Blut?
+
+319
+00:23:59,310 --> 00:24:04,380
+Blut abnehmen.
+
+320
+00:24:04,380 --> 00:24:06,380
+Und was kann man da kontrollieren?
+
+321
+00:24:06,380 --> 00:24:09,380
+Blutzbild. CRP.
+
+322
+00:24:09,380 --> 00:24:12,380
+Nein, was bedeutet für eine Dyssektion hin? Welcher Wert?
+
+323
+00:24:12,380 --> 00:24:13,380
+Dyssektion.
+
+324
+00:24:13,380 --> 00:24:17,140
+Dedimere.
+
+325
+00:24:17,140 --> 00:24:24,400
+Dedimere. Okay.
+
+326
+00:24:24,400 --> 00:24:27,400
+Aber das stimmt schon. Beidesseits ein Blutdruck messen auf jeden Fall.
+
+327
+00:24:27,400 --> 00:24:30,400
+Das machen wir auch in der Klinik.
+
+328
+00:24:30,400 --> 00:24:34,400
+Mit Dedimere können wir auch Lungenarterienembolie ausschließen.
+
+329
+00:24:34,400 --> 00:24:43,400
+Sehr gut. Genau. Das heißt, wenn Sie die Dedimere erhöht haben, wissen Sie immer noch nicht, ob es eine Ortendyssektion ist oder ob es eine Lungenembolie ist.
+
+330
+00:24:43,400 --> 00:24:53,400
+Genau. Aber wenn es eine Lungenarterienembolie wäre, was hätte der Patient noch für ein Problem, was man bei der Ortendyssektion nicht hat?
+
+331
+00:24:53,400 --> 00:24:58,400
+Die haben beide Schmerzen. Die können beide Schmerzen haben.
+
+332
+00:24:58,400 --> 00:24:59,400
+Bein.
+
+333
+00:24:59,400 --> 00:25:01,400
+Dyspnoe. Richtig. Dyspnoe.
+
+334
+00:25:01,400 --> 00:25:03,400
+Und wie?
+
+335
+00:25:03,400 --> 00:25:08,400
+Dyspnoe kann man bei der Lungenembolie noch haben. Richtig. Man kann Trombosezeichen haben.
+
+336
+00:25:08,400 --> 00:25:15,400
+Aber was sieht man denn? Sie haben den Patienten sehr gut gemacht, an den Monitor genommen sofort.
+
+337
+00:25:15,400 --> 00:25:20,400
+Weil Sie Angst hatten, dass er vital gefährdet sein kann durch den Myokadinfakt.
+
+338
+00:25:20,400 --> 00:25:23,400
+Sieht man denn sonst?
+
+339
+00:25:23,400 --> 00:25:25,400
+Niediger Sauerstoffwerte.
+
+340
+00:25:25,400 --> 00:25:28,400
+Sauerstoffsättigung ist niedrig bei der Lungenembolie. Genau.
+
+341
+00:25:28,400 --> 00:25:32,400
+Das heißt, die Ortendyssektion macht das nichts aus.
+
+342
+00:25:32,400 --> 00:25:36,400
+Ja, schwierig, aber das sind so Sachen, da muss man sich halt herantassen.
+
+343
+00:25:36,400 --> 00:25:46,400
+Und wie kriegen Sie letztendlich 100% raus, wenn Sie ganz sicher sein wollen und den hochgradigen Verdacht haben, es könnte eine Ortendyssektion sein?
+
+344
+00:25:46,400 --> 00:25:48,400
+Was müssen Sie machen?
+
+345
+00:25:48,400 --> 00:25:53,400
+Sicher ausschließen. Wenn Sie sicher sein wollen, ob es eine Ortendyssektion ist.
+
+346
+00:25:53,400 --> 00:25:57,400
+Welche Untersuchungen müssen Sie dann sofort machen?
+
+347
+00:25:57,400 --> 00:26:06,060
+Ich muss nachdenken.
+
+348
+00:26:06,060 --> 00:26:12,260
+Welche Bildgebung zeigt, ob es eine Ortendyssektion ist oder nicht?
+
+349
+00:26:12,260 --> 00:26:16,260
+Sie haben Echo gesagt, aber in Echo sieht man nur die Astzendenz.
+
+350
+00:26:16,260 --> 00:26:19,260
+Man sieht nur die Aute-Astzendenz.
+
+351
+00:26:19,260 --> 00:26:22,260
+Wenn das ein bisschen weiter am Ortenbogen ist, sieht man das nicht so gut.
+
+352
+00:26:22,260 --> 00:26:30,260
+Nicht immer. Man kann nicht immer von hier von hier subklavikulär, kann man nicht immer sehen, ob da am Ortenbogen was ist.
+
+353
+00:26:30,260 --> 00:26:37,260
+Und wenn Sie sicher sein wollen, welche Bildgebung müssen Sie machen, wenn Sie den ganz hochgradigen Verdacht haben, das ist ja tödlich,
+
+354
+00:26:37,260 --> 00:26:39,260
+wenn eine Ortendyssektion Typ A hat.
+
+355
+00:26:39,260 --> 00:26:42,260
+Was machen Sie dann?
+
+356
+00:26:42,260 --> 00:26:45,260
+Natürlich, Angio CT.
+
+357
+00:26:45,260 --> 00:26:51,260
+Wenn es sein muss, machen Sie es natürlich, wenn der hochgradige Verdacht besteht.
+
+358
+00:26:51,260 --> 00:26:55,260
+Aber wenn Sie ein bisschen Zeit haben, welchen Laborwert machen Sie vorher noch?
+
+359
+00:26:55,260 --> 00:26:57,260
+Bei älteren Leuten?
+
+360
+00:26:57,260 --> 00:26:59,260
+Blutgasanalyse?
+
+361
+00:26:59,260 --> 00:27:05,260
+Ja, sowieso. Aber welchen Wert wollen die im CT haben? Für das Kontrastmittel?
+
+362
+00:27:06,260 --> 00:27:09,260
+Ah, näheren Wert.
+
+363
+00:27:09,260 --> 00:27:11,260
+Sehr gut, genau. Das Creatinin.
+
+364
+00:27:11,260 --> 00:27:16,260
+Absoluten Notfall natürlich nicht, aber wenn Zeit ist, noch das Creatinin.
+
+365
+00:27:16,260 --> 00:27:18,260
+Dann haben Sie die Ortendyssektion.
+
+366
+00:27:18,260 --> 00:27:23,260
+Wenn Sie sagen, es ist mehr Ortendyssektion als Myokatinfakt, gucken Sie sich die D-Demere an.
+
+367
+00:27:23,260 --> 00:27:27,260
+Dann machen Sie einen CT natürlich immer. Ohne CT können Sie sich nicht ausschließen.
+
+368
+00:27:27,260 --> 00:27:31,260
+Es sei denn, man sieht es ja auch, wenn man es hier sieht, muss man trotzdem CT machen.
+
+369
+00:27:32,260 --> 00:27:35,260
+Wir müssen ja wissen, wie ausgedehnt das ist.
+
+370
+00:27:35,260 --> 00:27:39,260
+Lungenembolie auch CT, damit man das sehen kann.
+
+371
+00:27:39,260 --> 00:27:44,260
+Und jetzt sind wir aber beim Myokatinfakt, haben Sie gesagt. Der erste Verdacht ist ja Myokatinfakt.
+
+372
+00:27:44,260 --> 00:27:45,260
+Genau.
+
+373
+00:27:45,260 --> 00:27:50,260
+Und warum denken Sie, dass das ein Myokatinfakt ist? Im EKG sieht man nämlich nichts.
+
+374
+00:27:51,260 --> 00:28:00,260
+Diese Beschwerden sprechen dafür. Ich meine, plötzliche Brustschmerzen und Ausstrahlung, auch Schmerzintensität,
+
+375
+00:28:00,260 --> 00:28:06,260
+Brustgefühl, Druckgefühl, Neusea, alle sprechen dafür.
+
+376
+00:28:06,260 --> 00:28:07,260
+Was noch?
+
+377
+00:28:07,260 --> 00:28:08,260
+Was noch?
+
+378
+00:28:08,260 --> 00:28:11,260
+Das alles reicht nicht aus, das sind ja nur die klinischen Befunde.
+
+379
+00:28:11,260 --> 00:28:14,260
+Was stützt Ihre Diagnose?
+
+380
+00:28:18,250 --> 00:28:19,250
+Als Risikofaktoren?
+
+381
+00:28:19,250 --> 00:28:23,250
+Richtig, genau. Die Risikofaktoren, was hat er denn nämlich?
+
+382
+00:28:23,250 --> 00:28:28,250
+Als Risikofaktoren können wir rauchen und Familienanamnese.
+
+383
+00:28:28,250 --> 00:28:35,250
+Er hat eine Familienanamnese, er hat Diabetes, er hat Phobok, er raucht und er ist leicht übergewichtig.
+
+384
+00:28:35,250 --> 00:28:41,250
+Das heißt, eigentlich hat er, leicht aber nur, also 1,81 Kilo, das sieht man nicht so, aber er hat ja,
+
+385
+00:28:41,250 --> 00:28:47,250
+und Hyperkulistherenimie hat er auch, er hat ja eigentlich alle Risikofaktoren, die ein Mensch braucht.
+
+386
+00:28:47,250 --> 00:28:52,250
+Und er raucht seit 30 Jahren und der Vater ist am Herzinfarkt verstorben.
+
+387
+00:28:52,250 --> 00:28:55,250
+Das darf man nicht vergessen, das ist ein großer Risikofaktor.
+
+388
+00:28:55,250 --> 00:28:56,250
+Genau, richtig, ja.
+
+389
+00:28:56,250 --> 00:29:02,250
+Das heißt, wenn Sie das alles so sehen, ist Ortendissektion eher unwahrscheinlicher.
+
+390
+00:29:02,250 --> 00:29:07,250
+Lungenembolie ist auch eher unwahrscheinlicher, sondern am wahrscheinlichsten ist,
+
+391
+00:29:07,250 --> 00:29:13,250
+aufgrund der Risikofaktoren und dem klinischen Befund, dass es ein Myokatinfaktor ist.
+
+392
+00:29:13,250 --> 00:29:17,250
+Aber kann das ein Myokatinfaktor sein, wenn das EKG in Ordnung ist?
+
+393
+00:29:17,250 --> 00:29:21,250
+Nein, ich frage jetzt Sie.
+
+394
+00:29:21,250 --> 00:29:25,250
+Kann das ein Myokatinfaktor sein, wenn das EKG normal ist?
+
+395
+00:29:25,250 --> 00:29:28,250
+Manchmal normal feststehen.
+
+396
+00:29:28,250 --> 00:29:30,250
+Wie nennt man das dann?
+
+397
+00:29:30,250 --> 00:29:32,250
+Sinus?
+
+398
+00:29:32,250 --> 00:29:33,250
+Nein.
+
+399
+00:29:33,250 --> 00:29:36,250
+Wie nennt man ein Infarkt, wenn das EKG in Ordnung ist?
+
+400
+00:29:36,250 --> 00:29:45,180
+Was passiert normalerweise im EKG, wenn ein Myokatinfaktor hat?
+
+401
+00:29:45,180 --> 00:29:48,180
+Ist es ein Myokatinfaktor oder ein Non-Esthemi?
+
+402
+00:29:48,180 --> 00:29:53,180
+Ja, das heißt, es gibt einen Myokatinfaktor ohne Hebung, dann ist es ein Non-Esthemi.
+
+403
+00:29:53,180 --> 00:29:54,180
+Non-Sthemi.
+
+404
+00:29:54,180 --> 00:29:55,180
+Okay.
+
+405
+00:29:55,180 --> 00:29:57,180
+Ja, Non-Sthemi, richtig, genau so ist es.
+
+406
+00:29:57,180 --> 00:29:59,180
+Sehr gut, ja, das wollte ich nur wissen.
+
+407
+00:29:59,180 --> 00:30:03,180
+Also es ist einfach ein Endsthemi, wenn das EKG unauffällig ist.
+
+408
+00:30:03,180 --> 00:30:05,180
+Und was machen Sie als nächstes mit dem Patienten?
+
+409
+00:30:05,180 --> 00:30:08,180
+Sie haben ihn ja schon an den Monitor genommen, Sie haben schon an den EKG geschrieben,
+
+410
+00:30:08,180 --> 00:30:10,180
+aber da sieht man nichts.
+
+411
+00:30:10,180 --> 00:30:13,180
+Dann haben Sie geguckt, Blutdruckwerte und so war alles stabil.
+
+412
+00:30:13,180 --> 00:30:15,180
+Was machen Sie als nächstes?
+
+413
+00:30:15,180 --> 00:30:17,180
+Haben Sie schon Blut abgenommen, haben Sie gesagt?
+
+414
+00:30:17,180 --> 00:30:18,180
+Ja.
+
+415
+00:30:18,180 --> 00:30:19,180
+Was machen Sie?
+
+416
+00:30:19,180 --> 00:30:26,180
+Blutbild, CRP, Herzinsüme, Nierenwerte, Elektrolyte.
+
+417
+00:30:26,180 --> 00:30:28,180
+Was für Herzwerte?
+
+418
+00:30:28,180 --> 00:30:31,180
+Porponin, CKMB.
+
+419
+00:30:31,180 --> 00:30:34,180
+CK, CKMB, genau, was noch?
+
+420
+00:30:34,180 --> 00:30:37,180
+Was noch? Pro-BNP.
+
+421
+00:30:37,180 --> 00:30:40,180
+Genau, warum müssen wir Pro-BNP machen?
+
+422
+00:30:40,180 --> 00:30:47,180
+Weil der Patient früher eine Beschwerden hatte.
+
+423
+00:30:47,180 --> 00:30:49,180
+Was für Beschwerden?
+
+424
+00:30:49,180 --> 00:30:51,180
+Entschuldigung, ich habe das abgeschrieben.
+
+425
+00:30:51,180 --> 00:30:53,180
+Eine Beschwerden und geschwollene Beine.
+
+426
+00:30:53,180 --> 00:30:55,180
+Richtig, genau, sehr gut.
+
+427
+00:30:55,180 --> 00:30:58,180
+Und das muss man sowieso immer mitmachen, damit man das sieht.
+
+428
+00:30:58,180 --> 00:31:01,180
+Und wann muss man das BNP auch machen?
+
+429
+00:31:01,180 --> 00:31:03,180
+Wofür hilft das BNP auch?
+
+430
+00:31:03,180 --> 00:31:06,180
+Bei Lungenembolien, ob der eine Rechtsherzbelastung hat.
+
+431
+00:31:06,180 --> 00:31:08,180
+Sehr gut, super.
+
+432
+00:31:08,180 --> 00:31:10,180
+Genau, ja, und dann haben Sie das gemacht.
+
+433
+00:31:10,180 --> 00:31:12,180
+Was machen Sie dann als nächstes?
+
+434
+00:31:12,180 --> 00:31:13,180
+Noch?
+
+435
+00:31:13,180 --> 00:31:17,180
+Ich meine, machen Sie das so, dass Sie das Blut abnehmen und warten Sie jetzt?
+
+436
+00:31:17,180 --> 00:31:18,180
+Oder was machen Sie in der Zeit?
+
+437
+00:31:18,180 --> 00:31:21,180
+Das Blut dauert ja, es dauert ja zwei Stunden, bis das Labor fertig ist.
+
+438
+00:31:21,180 --> 00:31:22,180
+Was machen Sie in der Zeit?
+
+439
+00:31:22,180 --> 00:31:25,180
+Lassen Sie den Patienten da liegen oder machen Sie noch eine andere Untersuchung?
+
+440
+00:31:25,180 --> 00:31:29,180
+Control-LKG können wir für anlassen?
+
+441
+00:31:29,180 --> 00:31:31,180
+In zwei Stunden erst, frühestens.
+
+442
+00:31:31,180 --> 00:31:33,180
+Aber was kann man noch machen?
+
+443
+00:31:33,180 --> 00:31:35,180
+Einige...
+
+444
+00:31:35,180 --> 00:31:37,180
+Nein, Sie wissen das.
+
+445
+00:31:37,180 --> 00:31:41,180
+Welche Untersuchung müssen Sie machen, wenn Sie einen Verdacht auf den Myokadinfakt haben?
+
+446
+00:31:41,180 --> 00:31:45,520
+Das wissen Sie, Sie sind jetzt nur durcheinander, weil ich zu viel gefragt habe.
+
+447
+00:31:45,520 --> 00:31:52,520
+Ja, okay.
+
+448
+00:31:52,520 --> 00:31:53,520
+Das wissen Sie doch.
+
+449
+00:31:53,520 --> 00:31:55,520
+Ja, natürlich. Herzultraschall, ne?
+
+450
+00:31:55,520 --> 00:31:58,520
+Das ist das A und O, warum?
+
+451
+00:31:58,520 --> 00:32:02,520
+Um...
+
+452
+00:32:02,520 --> 00:32:06,520
+Herzinsuffizienz auszuschließen.
+
+453
+00:32:06,520 --> 00:32:08,520
+Zum Beispiel, ja, aber?
+
+454
+00:32:08,520 --> 00:32:11,520
+Oder Rechtsherzbelastung, ob es eine Lungenembolie ist, das sieht mal alles.
+
+455
+00:32:11,520 --> 00:32:12,520
+Das sieht mal alles.
+
+456
+00:32:12,520 --> 00:32:14,520
+Eschuh ist eine wunderbare Untersuchung.
+
+457
+00:32:14,520 --> 00:32:19,340
+Aber weswegen machen wir das beim Myokadinfakt?
+
+458
+00:32:19,340 --> 00:32:22,340
+Was passiert dann beim Myokadinfakt?
+
+459
+00:32:22,340 --> 00:32:24,340
+Bei der Eko.
+
+460
+00:32:24,340 --> 00:32:27,340
+Was passiert dann beim Myokadinfakt, beim Herzen?
+
+461
+00:32:27,340 --> 00:32:28,340
+Im Fakt heißt es, kaputt gehen.
+
+462
+00:32:28,340 --> 00:32:29,340
+Gefäßverschluss?
+
+463
+00:32:29,340 --> 00:32:32,340
+Gefäßverschluss, Zellen gehen kaputt.
+
+464
+00:32:32,340 --> 00:32:35,340
+Und wenn Zellen kaputt gehen, was passiert mit der Muskulatur?
+
+465
+00:32:35,340 --> 00:32:37,340
+Geht auch kaputt.
+
+466
+00:32:37,340 --> 00:32:40,340
+Ja, Punktfunktion...
+
+467
+00:32:40,340 --> 00:32:42,340
+Und Kontraktionsstörungen.
+
+468
+00:32:42,340 --> 00:32:45,340
+Man sieht Wandabschnitte, die bestimmte Wandabschnitte.
+
+469
+00:32:45,340 --> 00:32:48,340
+Und dann sieht man, ob die gut pumpt oder nicht.
+
+470
+00:32:48,340 --> 00:32:52,340
+Und dann weiß man, Aha, Hinterwandinfarkt oder Blabla.
+
+471
+00:32:52,340 --> 00:32:55,340
+Ja, sehr gut. Super.
+
+472
+00:32:55,340 --> 00:32:59,340
+Und was machen Sie, wenn Sie den Verdacht haben, dass es ein Myokadinfakt ist?
+
+473
+00:32:59,340 --> 00:33:00,340
+Den hochgradigen Verdacht.
+
+474
+00:33:00,340 --> 00:33:02,340
+Was geben Sie dem Patienten am besten?
+
+475
+00:33:02,340 --> 00:33:04,340
+Das habe ich eben nicht gesagt.
+
+476
+00:33:04,340 --> 00:33:08,340
+Wenn Sie dem ein Schmerzmittel geben wollen, was geben Sie ihm dann am besten?
+
+477
+00:33:08,340 --> 00:33:09,340
+Welches Medikament?
+
+478
+00:33:09,340 --> 00:33:10,340
+Opioid?
+
+479
+00:33:10,340 --> 00:33:12,340
+Nein. Ja, ja, ja, ja.
+
+480
+00:33:12,340 --> 00:33:14,340
+Aber vor allen Dingen auch was Schmerzmittel.
+
+481
+00:33:14,340 --> 00:33:15,340
+Morphine.
+
+482
+00:33:15,340 --> 00:33:17,340
+Ja, sehr gut. Aber was geben Sie noch?
+
+483
+00:33:17,340 --> 00:33:19,340
+A, S, S.
+
+484
+00:33:19,340 --> 00:33:21,340
+Ja, sehr gut. Genau. Super.
+
+485
+00:33:21,340 --> 00:33:23,340
+Nidrat auch.
+
+486
+00:33:23,340 --> 00:33:24,340
+Sehr gut. Super.
+
+487
+00:33:24,340 --> 00:33:26,340
+Ja, okay. Super.
+
+488
+00:33:26,340 --> 00:33:28,340
+Balabenshuk war super. Sehr gut.
+
+489
+00:33:28,340 --> 00:33:30,340
+Wunderbar.
+
+490
+00:33:30,340 --> 00:33:32,340
+Genauso war es. Es war ein Myokadin.
+
+491
+00:33:32,340 --> 00:33:34,340
+Es war aber sehr einfach, muss man ja ganz ehrlich sagen.
+
+492
+00:33:34,340 --> 00:33:36,340
+Das war ja sehr einfach.
+
+493
+00:33:36,340 --> 00:33:38,340
+Ich habe immer tiefer gesagt.
+
+494
+00:33:38,340 --> 00:33:42,340
+Linker Arm, Ausstrahlung und beim Treppensteigen.
+
+495
+00:33:42,340 --> 00:33:45,340
+Aber trotzdem, das war super strukturiert.
+
+496
+00:33:45,340 --> 00:33:47,340
+Dafür, dass Sie erst seit einem halben Jahr da sind.
+
+497
+00:33:47,340 --> 00:33:49,340
+Super gemacht. Sehr gut. Bestanden.
+
+498
+00:33:49,340 --> 00:33:51,340
+Sehr gut gemacht.
+
+499
+00:33:51,340 --> 00:33:53,340
+MashaAllah. MashaAllah.
+
+500
+00:33:53,340 --> 00:33:55,340
+MashaAllah.
+
+501
+00:33:55,340 --> 00:33:57,340
+Super. Sehr gut.
