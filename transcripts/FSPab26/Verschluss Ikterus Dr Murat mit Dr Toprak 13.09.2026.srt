@@ -1,0 +1,2835 @@
+1
+00:00:00,000 --> 00:00:01,000
+Guten Tag.
+
+2
+00:00:02,800 --> 00:00:04,840
+Hallo, guten Tag. Ich bin Dr. Toprak.
+
+3
+00:00:04,920 --> 00:00:06,960
+Ich bin die Asistenzarztin.
+
+4
+00:00:07,440 --> 00:00:10,640
+Ich möchte gerne mit Ihnen sprechen.
+
+5
+00:00:10,720 --> 00:00:12,280
+Verstanden?
+
+6
+00:00:12,480 --> 00:00:14,040
+Klar, gerne.
+
+7
+00:00:14,840 --> 00:00:19,440
+Bevor ich zu Ihren aktuellen Beschwerden komme,
+
+8
+00:00:19,520 --> 00:00:22,600
+muss ich noch eine Frage zu Ihrem Personal stellen.
+
+9
+00:00:23,680 --> 00:00:27,240
+Falls etwas unklar ist, unterbrechen Sie mich bitte.
+
+10
+00:00:27,800 --> 00:00:30,080
+Wie heißen Sie denn?
+
+11
+00:00:31,240 --> 00:00:33,200
+Mein Name ist Thomas Klein.
+
+12
+00:00:35,090 --> 00:00:37,090
+Können Sie das wiederholen?
+
+13
+00:00:38,050 --> 00:00:39,050
+Klein.
+
+14
+00:00:39,130 --> 00:00:40,130
+Klein?
+
+15
+00:00:40,210 --> 00:00:41,210
+Klein.
+
+16
+00:00:41,850 --> 00:00:44,930
+K-L-E-I-N.
+
+17
+00:00:45,010 --> 00:00:46,010
+Ganz genau.
+
+18
+00:00:46,250 --> 00:00:47,570
+Wie alt sind Sie?
+
+19
+00:00:48,330 --> 00:00:50,330
+Ich bin 45 Jahre alt.
+
+20
+00:00:50,850 --> 00:00:52,290
+45 Jahre alt.
+
+21
+00:00:53,610 --> 00:00:56,010
+Herr Thomas, wann sind Sie genau geboren?
+
+22
+00:00:56,450 --> 00:00:59,450
+Am 14. März 1981.
+
+23
+00:01:00,250 --> 00:01:04,090
+Am 14. März 1981.
+
+24
+00:01:04,170 --> 00:01:05,170
+81.
+
+25
+00:01:05,490 --> 00:01:20,120
+Herr Klein, wie viel wiegen Sie aktuell?
+
+26
+00:01:21,280 --> 00:01:25,720
+Ich bin aktuell ca. 85 kg.
+
+27
+00:01:26,360 --> 00:01:27,360
+85.
+
+28
+00:01:27,920 --> 00:01:30,480
+Haben Sie ungefähr ab 30 genommen?
+
+29
+00:01:31,560 --> 00:01:32,560
+Nein.
+
+30
+00:01:35,240 --> 00:01:37,080
+Wie groß sind Sie, Herr Klein?
+
+31
+00:01:37,240 --> 00:01:39,240
+Ich bin 1,75 m groß.
+
+32
+00:01:39,560 --> 00:01:41,560
+1,75 m.
+
+33
+00:01:44,340 --> 00:01:48,060
+Was kann ich für Sie tun? Was fühlt Sie zu uns?
+
+34
+00:01:49,020 --> 00:01:52,530
+Ich komme heute zu Ihnen,
+
+35
+00:01:52,850 --> 00:02:00,370
+weil ich seit nun ca. drei Tagen Schmerz im Bauch habe.
+
+36
+00:02:04,050 --> 00:02:08,050
+Und ich habe zuerst Ibuprofen genommen.
+
+37
+00:02:08,210 --> 00:02:10,210
+Damit wird das besser.
+
+38
+00:02:10,530 --> 00:02:13,530
+Aber es ändert sich nicht.
+
+39
+00:02:18,380 --> 00:02:23,380
+Sind die Schmerzen plötzlich aufgetreten oder laut nach?
+
+40
+00:02:24,740 --> 00:02:29,740
+Die sind vor drei Tagen plötzlich aufgetreten.
+
+41
+00:02:30,060 --> 00:02:32,060
+Seit drei Tagen.
+
+42
+00:02:32,580 --> 00:02:34,060
+Plötzlich aufgetreten.
+
+43
+00:02:34,140 --> 00:02:36,140
+Wo genau sind die Schmerzen?
+
+44
+00:02:36,220 --> 00:02:38,220
+Im Oberbauch.
+
+45
+00:02:39,220 --> 00:02:44,220
+Sind die Schmerzen schlimmer geworden?
+
+46
+00:02:46,220 --> 00:02:48,220
+Die Schmerzen sind nicht schlimmer geworden,
+
+47
+00:02:48,300 --> 00:02:50,300
+aber sie kommen und gehen immer wieder.
+
+48
+00:02:51,180 --> 00:02:52,180
+Kommen und gehen.
+
+49
+00:02:52,260 --> 00:02:55,260
+Sie haben Schmerzintervalle, Schmerzfreie Intervalle.
+
+50
+00:02:56,820 --> 00:02:58,820
+Ja, habe ich auch.
+
+51
+00:03:04,880 --> 00:03:07,880
+Sie haben gesagt, das Oberbauchschmerzen.
+
+52
+00:03:07,960 --> 00:03:11,960
+Am Echel ist es rechtsseitig oder linksseitig?
+
+53
+00:03:12,120 --> 00:03:14,120
+Tendenziell rechtsseitig.
+
+54
+00:03:14,800 --> 00:03:24,700
+Tendenziell rechtsseitig.
+
+55
+00:03:24,780 --> 00:03:26,780
+Wie ist die Schmerzencharakter?
+
+56
+00:03:26,860 --> 00:03:28,860
+Siechen, drücken, bohren?
+
+57
+00:03:30,780 --> 00:03:32,780
+Das sind so stechende Schmerzen.
+
+58
+00:03:33,460 --> 00:03:36,940
+Stechende.
+
+59
+00:03:37,020 --> 00:03:39,020
+Stechende, drückende Schmerzen würde ich sagen.
+
+60
+00:03:41,420 --> 00:03:43,420
+Hat Ibuprofen gut geholfen?
+
+61
+00:03:44,380 --> 00:03:45,380
+Wie bitte?
+
+62
+00:03:45,460 --> 00:03:47,460
+Hat Ibuprofen?
+
+63
+00:03:47,540 --> 00:03:49,540
+Sie haben schon gesagt...
+
+64
+00:03:49,740 --> 00:03:51,740
+Aber das hält nicht immer lange an.
+
+65
+00:03:51,820 --> 00:03:53,820
+Das hält nur wenig an leider.
+
+66
+00:03:54,740 --> 00:03:56,740
+Wie viele Dosieren haben Sie eingenommen?
+
+67
+00:03:57,300 --> 00:03:59,300
+Ich habe 600 Milligramm eingenommen.
+
+68
+00:03:59,380 --> 00:04:03,740
+600?
+
+69
+00:04:03,820 --> 00:04:06,820
+Jetzt schon ca. 4 Stück oder 5 Stück habe ich eingenommen.
+
+70
+00:04:07,340 --> 00:04:09,340
+4 und 5 Stück?
+
+71
+00:04:09,420 --> 00:04:11,420
+Seit 3 Tagen, ja.
+
+72
+00:04:16,250 --> 00:04:18,250
+Wann war das letzte Mal, Sie haben eingenommen?
+
+73
+00:04:19,410 --> 00:04:22,410
+Ich habe die eingenommen zuletzt gestern Abend.
+
+74
+00:04:23,410 --> 00:04:35,380
+Gibt es etwas, das Ihre Schmerzen lindert oder verstärkt?
+
+75
+00:04:37,770 --> 00:04:41,770
+Also ich habe gemerkt, dass wenn ich esse, die Schmerzen mehr werden.
+
+76
+00:04:42,850 --> 00:04:50,160
+Strahlen diese Schmerzen irgendwo hinaus?
+
+77
+00:04:52,740 --> 00:04:55,740
+Ich habe das Gefühl, dass sie eher in die rechte Flanke ausstrahlen.
+
+78
+00:04:55,820 --> 00:04:57,820
+So ein bisschen nach hinten, in den Rücken.
+
+79
+00:04:58,780 --> 00:05:00,780
+Rechte Flanke, hinterrücken, ja.
+
+80
+00:05:00,780 --> 00:05:02,780
+Wie steht die Schmerzen auf einer Schmerzenskala?
+
+81
+00:05:15,070 --> 00:05:17,070
+Von 1 bis 10?
+
+82
+00:05:17,150 --> 00:05:19,150
+10 ist unerträglich.
+
+83
+00:05:19,230 --> 00:05:21,230
+Aktuell oder wenn nicht Schmerzen da sind?
+
+84
+00:05:21,310 --> 00:05:23,310
+Aktuell nicht, wenn Schmerzen da ist.
+
+85
+00:05:23,390 --> 00:05:25,390
+Ja, würde ich sagen 7 bis 8.
+
+86
+00:05:25,470 --> 00:05:27,470
+Aktuell wie viele?
+
+87
+00:05:27,550 --> 00:05:29,550
+Aktuell habe ich vielleicht 2 oder 1.
+
+88
+00:05:29,630 --> 00:05:31,630
+Ich habe kaum Schmerzen aktuell.
+
+89
+00:05:31,710 --> 00:05:33,710
+Aber wenn ich esse, habe ich die Schmerzen nicht.
+
+90
+00:05:33,790 --> 00:05:35,790
+Ich habe die Schmerzen nicht.
+
+91
+00:05:35,870 --> 00:05:37,870
+Ich habe die Schmerzen nicht.
+
+92
+00:05:37,950 --> 00:05:39,950
+Ich habe die Schmerzen nicht.
+
+93
+00:05:39,950 --> 00:05:41,950
+Wenn ich esse, habe ich die Schmerzen nicht.
+
+94
+00:05:46,340 --> 00:05:52,340
+Ist Ihnen ein gelbes Auge oder Haut aufgefallen?
+
+95
+00:05:54,100 --> 00:05:56,100
+Vielleicht.
+
+96
+00:05:58,740 --> 00:06:00,740
+Am allersten die Augen, ja?
+
+97
+00:06:00,820 --> 00:06:09,020
+Ja, genau.
+
+98
+00:06:09,100 --> 00:06:11,100
+Haben Sie Jukreis?
+
+99
+00:06:11,180 --> 00:06:20,900
+Nein.
+
+100
+00:06:20,980 --> 00:06:22,980
+Haben Sie Fieber?
+
+101
+00:06:23,060 --> 00:06:28,740
+Nein, habe ich gemerkt, habe ich nicht.
+
+102
+00:06:28,820 --> 00:06:30,820
+Haben Sie Blechungen?
+
+103
+00:06:30,900 --> 00:06:32,900
+Verstopfung?
+
+104
+00:06:32,980 --> 00:06:34,980
+Durchfall?
+
+105
+00:06:35,060 --> 00:06:37,060
+Nein, alles nicht.
+
+106
+00:06:37,140 --> 00:06:39,140
+Sogbrennen?
+
+107
+00:06:39,220 --> 00:06:41,220
+Nein, ich habe nur Übelkeit.
+
+108
+00:06:41,300 --> 00:06:43,300
+Übelkeit?
+
+109
+00:06:43,380 --> 00:06:45,380
+Wenn nicht Schmerzen da sind, habe ich mehr Übelkeit.
+
+110
+00:06:45,460 --> 00:06:48,960
+Aber Erbrochen habe ich jetzt noch nicht.
+
+111
+00:06:49,040 --> 00:06:51,040
+Sie haben Übelkeit, wenn Sie etwas essen?
+
+112
+00:06:51,120 --> 00:06:53,120
+Ja, wenn ich die Schmerzen habe.
+
+113
+00:06:53,200 --> 00:07:02,080
+Schmerzen?
+
+114
+00:07:02,160 --> 00:07:04,160
+Aber Sie haben noch nicht Erbrochen?
+
+115
+00:07:04,240 --> 00:07:18,180
+Nein.
+
+116
+00:07:18,260 --> 00:07:20,260
+Haben Sie Herzrasen, Herzstoppen?
+
+117
+00:07:20,340 --> 00:07:22,340
+Atemrot?
+
+118
+00:07:22,420 --> 00:07:24,420
+Nein, nicht.
+
+119
+00:07:24,500 --> 00:07:26,500
+Atemrot nicht.
+
+120
+00:07:28,580 --> 00:07:30,580
+Haben Sie Probleme bei Wasserlassen?
+
+121
+00:07:30,660 --> 00:07:34,660
+Wie ist die Urinfarbe und Stuhlfarbe?
+
+122
+00:07:36,740 --> 00:07:38,740
+Die Urinfarbe ist etwas dunkel.
+
+123
+00:07:38,820 --> 00:07:40,820
+Urin ist dunkel.
+
+124
+00:07:40,900 --> 00:07:44,900
+Und ich habe gemerkt, dass die Stuhlfarbe heller ist als sonst.
+
+125
+00:07:44,980 --> 00:07:46,980
+Stuhlfarbe ist heller.
+
+126
+00:07:47,940 --> 00:07:57,680
+Sie haben keine Sogbrennen und Lechungen?
+
+127
+00:07:57,760 --> 00:07:59,760
+Nein.
+
+128
+00:07:59,840 --> 00:08:22,720
+Sind bei Ihnen Vorerkrankungen und OP bekannt?
+
+129
+00:08:22,800 --> 00:08:26,800
+Nein, ich habe eigentlich keine Vorerkrankungen.
+
+130
+00:08:26,880 --> 00:08:28,880
+Wurden Sie schon einmal operiert?
+
+131
+00:08:28,960 --> 00:08:30,960
+Ich wurde als Kind an den Mandeln operiert.
+
+132
+00:08:31,040 --> 00:08:33,040
+Verliefer war komplikationlos?
+
+133
+00:08:33,120 --> 00:08:40,460
+Bei einem Kind.
+
+134
+00:08:40,540 --> 00:08:45,920
+Ich meine, dass die Verliefer und OP komplikationlos sind.
+
+135
+00:08:46,000 --> 00:08:50,000
+Ich meine, dass die Verliefer und OP komplikationlos sind.
+
+136
+00:08:50,080 --> 00:08:52,080
+Ich erinnere mich kaum daran.
+
+137
+00:08:52,160 --> 00:08:54,160
+Ich war noch ein Kind.
+
+138
+00:08:54,240 --> 00:08:56,240
+Sie waren die Entschuldigung.
+
+139
+00:08:56,320 --> 00:09:02,110
+Nehmen Sie regelmäßig Medikamente ein?
+
+140
+00:09:02,190 --> 00:09:04,190
+Ich habe oft Rückenschmerzen.
+
+141
+00:09:04,270 --> 00:09:08,270
+Deswegen nehme ich Aponamin, Ibuprofen 600 ein.
+
+142
+00:09:08,350 --> 00:09:15,490
+Haben Sie bei Ihnen etwas festgestellt?
+
+143
+00:09:15,570 --> 00:09:19,570
+Die Rückenschmerzen, eine besondere Erkrankung?
+
+144
+00:09:19,650 --> 00:09:21,650
+Es wurde festgestellt beim Orthopäden,
+
+145
+00:09:21,730 --> 00:09:23,730
+dass ich einen beginnenden Bandscheibenvorfall habe.
+
+146
+00:09:24,690 --> 00:09:36,900
+Beginnenden Bandscheibenvorfall?
+
+147
+00:09:36,980 --> 00:09:42,980
+Sind bei Ihnen Allergien und Unverträglichkeiten bekannt?
+
+148
+00:09:43,060 --> 00:09:49,020
+Nein.
+
+149
+00:09:49,100 --> 00:09:51,100
+Rauchen Sie, Herr Klein?
+
+150
+00:09:51,180 --> 00:09:53,180
+Ich rauche nicht, nein.
+
+151
+00:09:53,260 --> 00:09:55,260
+Niemand?
+
+152
+00:09:55,340 --> 00:09:57,340
+Ich rauche nicht.
+
+153
+00:09:57,420 --> 00:09:59,420
+Nehmen Sie Ankochosusig?
+
+154
+00:09:59,500 --> 00:10:03,500
+Ab und zu bei Feiern oder Geburtstagen.
+
+155
+00:10:03,580 --> 00:10:11,740
+Nehmen Sie diese Frage nicht persönlich?
+
+156
+00:10:11,980 --> 00:10:13,980
+Ich muss die Patienten dieser Frage stellen.
+
+157
+00:10:14,060 --> 00:10:16,060
+Konsumieren Sie Drogen?
+
+158
+00:10:16,140 --> 00:10:21,540
+Nein.
+
+159
+00:10:21,620 --> 00:10:28,030
+Gibt es in Ihrer Familie vor Erkrankungen,
+
+160
+00:10:28,110 --> 00:10:30,110
+von denen ich wissen sollte?
+
+161
+00:10:30,190 --> 00:10:35,820
+Mein Vater hatte Prostatokrebs.
+
+162
+00:10:35,900 --> 00:10:37,900
+Prostatokrebs.
+
+163
+00:10:37,980 --> 00:10:39,980
+Genau.
+
+164
+00:10:40,060 --> 00:10:42,060
+Der ist operiert worden.
+
+165
+00:10:42,140 --> 00:10:46,140
+Meine Mutter hat Bluthochdruck und eine Schilddrüsenunterfunktion.
+
+166
+00:10:46,220 --> 00:10:51,900
+Die leben noch, ja?
+
+167
+00:10:51,980 --> 00:10:53,980
+Ja.
+
+168
+00:10:53,980 --> 00:10:58,350
+Haben Sie Geschwister?
+
+169
+00:10:58,430 --> 00:11:00,430
+Ich habe einen großen Bruder, ja.
+
+170
+00:11:00,510 --> 00:11:03,760
+Mein alter Bruder.
+
+171
+00:11:03,840 --> 00:11:05,840
+Der Bruder ist auch gesund?
+
+172
+00:11:05,920 --> 00:11:09,330
+Ja.
+
+173
+00:11:09,410 --> 00:11:11,410
+Sind Sie verheiratet?
+
+174
+00:11:11,490 --> 00:11:13,490
+Ich bin ledig.
+
+175
+00:11:13,570 --> 00:11:15,570
+Sie wohnen allein?
+
+176
+00:11:15,650 --> 00:11:17,650
+Ich wohne aktuell alleine, ja.
+
+177
+00:11:17,730 --> 00:11:19,730
+Sie haben keine Kinder?
+
+178
+00:11:19,810 --> 00:11:21,810
+Nein, ich habe keine Kinder.
+
+179
+00:11:21,890 --> 00:11:23,890
+Was machen Sie von Bericht?
+
+180
+00:11:23,970 --> 00:11:27,970
+Ich arbeite auf dem Bau als Maurer.
+
+181
+00:11:28,930 --> 00:11:30,930
+Bauarbeits?
+
+182
+00:11:31,010 --> 00:11:33,010
+Ich arbeite als Maurer.
+
+183
+00:11:33,090 --> 00:11:35,090
+Ich arbeite auf Baustellen.
+
+184
+00:11:35,170 --> 00:11:37,170
+Baustellen, okay.
+
+185
+00:11:37,250 --> 00:11:39,250
+Baustellen.
+
+186
+00:11:39,330 --> 00:11:48,400
+Baustellen.
+
+187
+00:11:48,480 --> 00:11:50,480
+Sind Sie vollständig geimpft?
+
+188
+00:11:50,560 --> 00:11:52,560
+Ich glaube schon.
+
+189
+00:11:52,640 --> 00:11:56,640
+Waren Sie in den letzten sechs Monaten im Ausland?
+
+190
+00:11:56,720 --> 00:11:58,720
+In den sechs Monaten war ich im Ausland, ja.
+
+191
+00:11:58,800 --> 00:12:00,800
+Ich war in Spanien.
+
+192
+00:12:00,880 --> 00:12:02,880
+Spanien.
+
+193
+00:12:08,260 --> 00:12:10,260
+Treiben Sie regelmäßig Sport?
+
+194
+00:12:10,340 --> 00:12:14,340
+Nein, ich gehe oft spazieren, fahre Fahrrad.
+
+195
+00:12:14,420 --> 00:12:16,420
+Aber aktiv Sport mache ich nicht, nein.
+
+196
+00:12:18,500 --> 00:12:20,500
+Okay.
+
+197
+00:12:20,580 --> 00:12:22,580
+Meinerseits habe ich alle wichtige Fragen gestellt.
+
+198
+00:12:22,660 --> 00:12:24,660
+Müssten Sie etwas hinzufügen?
+
+199
+00:12:24,740 --> 00:12:26,740
+Herr Klein?
+
+200
+00:12:26,820 --> 00:12:28,820
+Eigentlich nicht.
+
+201
+00:12:28,900 --> 00:12:30,900
+Was glauben Sie denn, was ich haben könnte?
+
+202
+00:12:30,980 --> 00:12:34,980
+Wahrscheinlich kann ich nicht genau sagen.
+
+203
+00:12:35,140 --> 00:12:43,140
+Aber ich habe den Verdacht auf einen Gallenstein oder Gallenverschluss.
+
+204
+00:12:43,220 --> 00:12:45,220
+Okay.
+
+205
+00:12:45,300 --> 00:12:49,300
+Am besten ist es ein Gallenstein.
+
+206
+00:12:49,380 --> 00:12:53,380
+Und natürlich kann es Gallenwegverschluss sein.
+
+207
+00:12:53,460 --> 00:12:55,460
+Ist das schlimm?
+
+208
+00:12:55,540 --> 00:12:57,540
+Es ist nicht schlimm.
+
+209
+00:12:57,620 --> 00:12:59,620
+Das kann heilbar sein.
+
+210
+00:12:59,700 --> 00:13:01,700
+Aber ich kann nicht genau sagen.
+
+211
+00:13:02,180 --> 00:13:04,180
+Okay.
+
+212
+00:13:23,380 --> 00:13:30,080
+Alles klar.
+
+213
+00:13:30,160 --> 00:13:38,140
+Waren Sie andere Fragen?
+
+214
+00:13:38,220 --> 00:13:40,220
+Keine Fragen?
+
+215
+00:13:40,300 --> 00:13:42,300
+Keine Fragen.
+
+216
+00:13:42,380 --> 00:13:44,380
+Sie müssen etwas fragen.
+
+217
+00:13:44,380 --> 00:13:46,380
+Alles ganz einfach, ja.
+
+218
+00:13:46,380 --> 00:13:55,460
+Ja.
+
+219
+00:13:55,460 --> 00:13:57,460
+Vielleicht.
+
+220
+00:13:57,460 --> 00:13:59,460
+Hallo, guten Tag.
+
+221
+00:13:59,460 --> 00:14:01,460
+Guten Tag.
+
+222
+00:14:01,460 --> 00:14:03,460
+Herr Oberarzt,
+
+223
+00:14:03,460 --> 00:14:07,460
+ich habe einen neuen Patienten aufgenommen.
+
+224
+00:14:07,460 --> 00:14:12,460
+Darf ich ihn Ihnen vorstellen?
+
+225
+00:14:12,460 --> 00:14:14,460
+Natürlich gerne, bitte.
+
+226
+00:14:14,460 --> 00:14:16,460
+Darf ich ihn? Okay, danke.
+
+227
+00:14:16,460 --> 00:14:28,460
+Thomas Klein ist 45 Jahre alt, geboren am 14. März 1981.
+
+228
+00:14:28,460 --> 00:14:39,460
+Wegt aktuell 85 Kilogramm, 1,75 Meter groß.
+
+229
+00:14:39,460 --> 00:14:41,460
+1,75 Meter.
+
+230
+00:14:41,460 --> 00:14:45,460
+Ja, 1,75 Meter groß.
+
+231
+00:14:45,460 --> 00:14:47,460
+Komm, wir brauchen dich.
+
+232
+00:14:47,460 --> 00:14:49,460
+Komm, wir brauchen dich, ja. Okay, danke.
+
+233
+00:14:49,460 --> 00:15:08,460
+Er stellt sich mit seit drei Tagen erhe, rechtseitig bestehender, dauerhafter und Schmerzfreienterwahl über Bauchschmerzen vor.
+
+234
+00:15:09,460 --> 00:15:16,460
+Schmerzen sind nach und nach schlimm geworden.
+
+235
+00:15:16,460 --> 00:15:25,460
+Seit drei Tagen hat er 600 Milligramm Ibuprofen eingenommen.
+
+236
+00:15:25,460 --> 00:15:33,460
+Aber Ibuprofen hat wenig Wielinderung gebracht.
+
+237
+00:15:33,460 --> 00:15:39,460
+Schmerzen Charakter ist stechend, drückend.
+
+238
+00:15:39,460 --> 00:15:51,460
+Schmerzen würden rechten Flank und hinten ausstrahlen.
+
+239
+00:15:51,460 --> 00:16:01,460
+Schmerzen testet bei der akuten Phase bei 7 von 10.
+
+240
+00:16:01,460 --> 00:16:09,460
+Aktuell bei 2 bis 3 von 10.
+
+241
+00:16:09,460 --> 00:16:12,460
+Hat der Kolikartige Schmerzen?
+
+242
+00:16:12,460 --> 00:16:14,460
+Kolikartige, ja.
+
+243
+00:16:14,460 --> 00:16:16,460
+Hat der Kolikartige?
+
+244
+00:16:16,460 --> 00:16:21,460
+Ja, man kann Kolikartige stechen oder drücken.
+
+245
+00:16:21,460 --> 00:16:25,460
+War das Kolikartige oder sind das nur Dauerschmerzen?
+
+246
+00:16:25,460 --> 00:16:27,460
+Nein, Kolikartige.
+
+247
+00:16:27,460 --> 00:16:30,460
+Weil der Kolikartige nach und nach kommt.
+
+248
+00:16:30,460 --> 00:16:37,460
+Er hat einige Seiten Schmerzen im Freien Intervalle.
+
+249
+00:16:37,460 --> 00:16:40,460
+Das meint der Kolikartige.
+
+250
+00:16:40,460 --> 00:16:47,460
+Er klagt über Icterus, Cichlera Icterus.
+
+251
+00:16:47,460 --> 00:17:05,460
+Die Frage nach Pyrrhozes, Fieber, Pyrrhosis, Emezes, Atemnot, Tachycardie, Obstupation, Durchfall wurden verneint.
+
+252
+00:17:05,460 --> 00:17:13,460
+Üren ist dunkel geworden, Stuhl ist hell geworden.
+
+253
+00:17:13,460 --> 00:17:27,460
+Und sie klagt auch Übergheit, wenn sie Schmerzen hat.
+
+254
+00:17:27,460 --> 00:17:37,460
+Wenn Schmerzen hat, hat er keine Schmerzen.
+
+255
+00:17:37,460 --> 00:17:50,460
+In Kinderheit muss man die Schmerzen durchgeführt werden.
+
+256
+00:17:50,460 --> 00:17:58,460
+Und, ja, sie hat ein Schürdegang.
+
+257
+00:17:58,460 --> 00:18:05,460
+Er hat ein Scherbiforfall.
+
+258
+00:18:05,460 --> 00:18:07,460
+Ich muss erinnern.
+
+259
+00:18:07,460 --> 00:18:09,460
+Ich konnte nicht erinnern.
+
+260
+00:18:09,460 --> 00:18:11,460
+Ich muss erinnern, dass er ein Scherbiforfall hat.
+
+261
+00:18:41,460 --> 00:18:47,460
+Er hat keine Allergie.
+
+262
+00:18:47,460 --> 00:18:50,460
+Er ist kein Raucher.
+
+263
+00:18:50,460 --> 00:18:57,460
+Er trinkt Aponzyl, Nudel, besonders anhand des Alkohols.
+
+264
+00:18:57,460 --> 00:19:00,460
+Die Drogen wurden verneint.
+
+265
+00:19:00,460 --> 00:19:06,460
+Sein Vater leidet an Prostate Karzinoma.
+
+266
+00:19:06,460 --> 00:19:10,460
+Er muss operiert werden.
+
+267
+00:19:10,460 --> 00:19:15,460
+Die Mutter leidet Arterie Leipertoni und Hypoteroze.
+
+268
+00:19:15,460 --> 00:19:17,460
+Der Bruder ist gesund.
+
+269
+00:19:17,460 --> 00:19:19,460
+Er ist ledig.
+
+270
+00:19:19,460 --> 00:19:23,460
+Kein Kind wohnt allein.
+
+271
+00:19:23,460 --> 00:19:27,460
+Er arbeitet als Mauer im Baustell.
+
+272
+00:19:27,460 --> 00:19:30,460
+Er war in Spanien.
+
+273
+00:19:30,460 --> 00:19:33,460
+Er treibt keinen Sport.
+
+274
+00:19:33,460 --> 00:19:36,460
+Was meinen Sie mit Spanien?
+
+275
+00:19:36,460 --> 00:19:40,460
+Als Reisernahmese.
+
+276
+00:19:40,460 --> 00:19:42,460
+Sie müssen einen Satz machen.
+
+277
+00:19:42,460 --> 00:19:44,460
+Ja, genau.
+
+278
+00:19:44,460 --> 00:19:47,460
+Hat das eine Relevanz, dass der Spanier war?
+
+279
+00:19:47,460 --> 00:19:49,460
+Ich denke, nein.
+
+280
+00:19:49,460 --> 00:19:51,460
+Brauchen Sie nichts zu sagen, oder?
+
+281
+00:19:51,460 --> 00:19:53,460
+Muss man eigentlich nicht sagen.
+
+282
+00:19:53,460 --> 00:19:55,460
+Nur wenn es eine Relevanz hat.
+
+283
+00:19:55,460 --> 00:19:57,460
+Wahrscheinlich.
+
+284
+00:19:57,460 --> 00:19:59,460
+Dann muss man sagen.
+
+285
+00:19:59,460 --> 00:20:01,460
+Sie meinen, das wäre ein Fernostland?
+
+286
+00:20:01,460 --> 00:20:03,460
+Nein, Fernost nicht.
+
+287
+00:20:03,460 --> 00:20:05,460
+Warum?
+
+288
+00:20:05,460 --> 00:20:09,460
+Japan oder Korea kann man es erwähnen.
+
+289
+00:20:09,460 --> 00:20:15,060
+Wenn es eine Relevanz hat, wegen der Erkrankung.
+
+290
+00:20:15,060 --> 00:20:20,060
+Und Sie das für Ihre Arbeitsdiagnose relevant halten.
+
+291
+00:20:20,060 --> 00:20:22,060
+Dann können Sie das erwähnen.
+
+292
+00:20:22,060 --> 00:20:27,060
+Wenn jetzt zum Beispiel ein Patient Diarrhohen hat.
+
+293
+00:20:27,060 --> 00:20:30,060
+Oder Fieber mit Diarrhohen hat.
+
+294
+00:20:30,060 --> 00:20:34,060
+Und dann fragt man ja schon, waren Sie im Ausland?
+
+295
+00:20:34,060 --> 00:20:38,060
+Oder wenn er komische Gliederschmerzen hat.
+
+296
+00:20:38,060 --> 00:20:41,060
+Ob er von einer Zecke gebissen wurde.
+
+297
+00:20:41,060 --> 00:20:43,060
+Oder ob er Malaria gehabt hat.
+
+298
+00:20:43,060 --> 00:20:45,060
+Oder weiß ich nicht.
+
+299
+00:20:45,060 --> 00:20:49,060
+Man kann sagen, die Reisernahmese war unauffällig.
+
+300
+00:20:49,060 --> 00:20:52,060
+Oder ist unauffällig.
+
+301
+00:20:52,060 --> 00:20:54,060
+Das kann man sagen.
+
+302
+00:20:54,060 --> 00:20:56,060
+Nur einfach aufzählen.
+
+303
+00:20:56,060 --> 00:20:58,060
+Sie haben ja nur abgelesen.
+
+304
+00:20:58,060 --> 00:21:00,060
+Von wegen, Kinder hatte er nicht.
+
+305
+00:21:00,060 --> 00:21:02,060
+War in Spanien etc.
+
+306
+00:21:02,060 --> 00:21:06,060
+Man muss schon einen Satz mit dem Oberarzt sprechen.
+
+307
+00:21:06,060 --> 00:21:08,060
+Genau.
+
+308
+00:21:08,060 --> 00:21:10,060
+Reisernahmese ist unauffällig.
+
+309
+00:21:10,060 --> 00:21:12,060
+Richtig, ganz genau.
+
+310
+00:21:12,060 --> 00:21:14,060
+Das ist gut.
+
+311
+00:21:14,060 --> 00:21:20,060
+Aber im Falle gibt es eine Sistioziozis.
+
+312
+00:21:20,060 --> 00:21:22,060
+Ich kann mich nicht erinnern.
+
+313
+00:21:22,060 --> 00:21:29,060
+Das einige Keimen kann diese Gallenwege befallen.
+
+314
+00:21:29,060 --> 00:21:31,060
+Oder nicht.
+
+315
+00:21:31,060 --> 00:21:33,060
+Sistioziozis. Ich kann mich nicht erinnern.
+
+316
+00:21:33,060 --> 00:21:35,060
+Eine Parasite.
+
+317
+00:21:35,060 --> 00:21:37,060
+Das wissen wir ja noch gar nicht.
+
+318
+00:21:37,060 --> 00:21:40,060
+Man kann sagen, die Reisernahmese war.
+
+319
+00:21:40,060 --> 00:21:43,060
+Sie können auch sagen, der war in Spanien gewesen.
+
+320
+00:21:43,060 --> 00:21:45,060
+Im Sommer oder so.
+
+321
+00:21:45,060 --> 00:21:47,060
+Können Sie erwähnen.
+
+322
+00:21:47,060 --> 00:21:49,060
+Aber war in Spanien.
+
+323
+00:21:49,060 --> 00:21:51,060
+Das ist dann, wann war er in Spanien?
+
+324
+00:21:51,060 --> 00:21:53,060
+Vorgestern, vor drei Jahren.
+
+325
+00:21:53,060 --> 00:21:55,060
+Wann war er in Spanien?
+
+326
+00:21:55,060 --> 00:21:57,060
+Oder war er in Spanien schon erkrankt etc.
+
+327
+00:21:57,060 --> 00:21:59,060
+Genau.
+
+328
+00:21:59,060 --> 00:22:01,060
+Man sollte schon einen Satz draus machen.
+
+329
+00:22:01,060 --> 00:22:03,060
+Nicht nur ablesen.
+
+330
+00:22:03,060 --> 00:22:05,060
+Das meine ich damit.
+
+331
+00:22:05,060 --> 00:22:07,060
+Genau.
+
+332
+00:22:07,060 --> 00:22:09,060
+Das war alles.
+
+333
+00:22:09,060 --> 00:22:11,060
+Habe ich etwas vergessen.
+
+334
+00:22:11,060 --> 00:22:13,060
+War er beim Haushalt schon gewesen?
+
+335
+00:22:13,060 --> 00:22:15,060
+Ich habe vergessen.
+
+336
+00:22:15,060 --> 00:22:17,060
+Diese Frage stellen.
+
+337
+00:22:17,060 --> 00:22:21,060
+Muss man fragen, ob er deswegen schon mal beim Haushalt gewesen ist.
+
+338
+00:22:21,060 --> 00:22:23,060
+Ob das bei ihm bekannt ist.
+
+339
+00:22:23,060 --> 00:22:27,060
+Ob er schon vorher solche Beschwerden in seiner Jugend gehabt hat.
+
+340
+00:22:27,060 --> 00:22:29,060
+Haben Sie gefragt?
+
+341
+00:22:29,060 --> 00:22:31,060
+Nein.
+
+342
+00:22:31,060 --> 00:22:33,060
+Ich habe vergessen.
+
+343
+00:22:33,060 --> 00:22:35,060
+Ich musste fragen.
+
+344
+00:22:35,060 --> 00:22:37,060
+Das war der erste Befall.
+
+345
+00:22:37,060 --> 00:22:39,060
+Genau.
+
+346
+00:22:39,060 --> 00:22:41,060
+Haben Sie das schon mal gehabt?
+
+347
+00:22:41,060 --> 00:22:43,060
+Vielleicht kennt er die Schmerzen.
+
+348
+00:22:43,060 --> 00:22:45,060
+Vielleicht weiß er was er hat.
+
+349
+00:22:45,060 --> 00:22:47,060
+Genau.
+
+350
+00:22:47,060 --> 00:22:49,060
+Sie haben etwas gut vorgestellt.
+
+351
+00:22:49,060 --> 00:22:51,060
+Was für eine Verdachtstheorie.
+
+352
+00:22:51,060 --> 00:22:55,060
+Am besten die Analyse der Analyse.
+
+353
+00:22:55,060 --> 00:22:57,060
+Eine Verschlussart.
+
+354
+00:22:57,060 --> 00:22:59,060
+Aufgrund einer Gallenstein.
+
+355
+00:22:59,060 --> 00:23:01,060
+Eine Gallenstein kann es sein.
+
+356
+00:23:01,060 --> 00:23:03,060
+Genau.
+
+357
+00:23:03,060 --> 00:23:05,060
+Was noch?
+
+358
+00:23:05,060 --> 00:23:07,060
+Eine Gallenstein.
+
+359
+00:23:07,060 --> 00:23:09,060
+Eine Gallenstein.
+
+360
+00:23:09,060 --> 00:23:11,060
+Eine Gallenstein.
+
+361
+00:23:11,060 --> 00:23:13,060
+Eine Gallenstein.
+
+362
+00:23:13,060 --> 00:23:15,060
+Eine Gallenstein.
+
+363
+00:23:15,060 --> 00:23:17,060
+Eine Gallenstein.
+
+364
+00:23:17,060 --> 00:23:19,060
+Eine Gallenstein.
+
+365
+00:23:19,060 --> 00:23:21,060
+Was noch?
+
+366
+00:23:21,060 --> 00:23:23,060
+Wie nennt man das?
+
+367
+00:23:23,060 --> 00:23:25,060
+Aufgrund einer Cholodstyletiasis.
+
+368
+00:23:25,060 --> 00:23:27,060
+Vermutlich eine Cholodocholetiasis.
+
+369
+00:23:27,060 --> 00:23:29,060
+Ja.
+
+370
+00:23:29,060 --> 00:23:31,060
+Cholodetiasis oder Styletiasis.
+
+371
+00:23:31,060 --> 00:23:33,060
+Genau.
+
+372
+00:23:33,060 --> 00:23:35,060
+Kann sein.
+
+373
+00:23:37,060 --> 00:23:39,060
+Was machen Sie an Diagnostik?
+
+374
+00:23:39,060 --> 00:23:41,060
+Was haben Sie vor?
+
+375
+00:23:41,060 --> 00:23:43,060
+Ja.
+
+376
+00:23:43,060 --> 00:23:45,060
+Diagnostik.
+
+377
+00:23:45,060 --> 00:23:47,060
+Ich muss die Patientin palpieren.
+
+378
+00:23:47,060 --> 00:23:49,060
+Die ist die Mörfe zeigen.
+
+379
+00:23:49,060 --> 00:23:51,060
+Das war Mörfe?
+
+380
+00:23:51,060 --> 00:23:53,060
+Ja.
+
+381
+00:23:53,060 --> 00:23:55,060
+Das war Mörfe.
+
+382
+00:23:55,060 --> 00:23:57,060
+Ich muss beachten die Mörfe zeigen.
+
+383
+00:23:57,060 --> 00:23:59,060
+Und wie Gallenblasen.
+
+384
+00:23:59,060 --> 00:24:01,060
+Ist Prahl oder
+
+385
+00:24:01,060 --> 00:24:03,060
+ein Tespar oder Schmerzhaft.
+
+386
+00:24:03,060 --> 00:24:05,060
+Und
+
+387
+00:24:05,060 --> 00:24:07,060
+auch die Hautfarbe ist wichtig.
+
+388
+00:24:07,060 --> 00:24:09,060
+Hautfarbe eine ist.
+
+389
+00:24:09,060 --> 00:24:11,060
+Gibt es eine
+
+390
+00:24:11,060 --> 00:24:13,060
+Ikterus zeigen.
+
+391
+00:24:13,060 --> 00:24:15,060
+Natürlich
+
+392
+00:24:15,060 --> 00:24:17,060
+ist Ultraschall wichtig.
+
+393
+00:24:17,060 --> 00:24:19,060
+Blut.
+
+394
+00:24:19,060 --> 00:24:21,060
+Blut untersuchen.
+
+395
+00:24:21,060 --> 00:24:23,060
+Leberwerten.
+
+396
+00:24:23,060 --> 00:24:25,060
+Alkalenphosphatasen.
+
+397
+00:24:25,060 --> 00:24:27,060
+Gamma-Glutamin
+
+398
+00:24:27,060 --> 00:24:29,060
+Transaminasen.
+
+399
+00:24:29,060 --> 00:24:31,060
+Und Nierenwerten.
+
+400
+00:24:31,060 --> 00:24:33,060
+Und Enzymewerten.
+
+401
+00:24:33,060 --> 00:24:35,060
+Und Blutbild.
+
+402
+00:24:35,060 --> 00:24:37,060
+Und Lirubin auch?
+
+403
+00:24:37,060 --> 00:24:39,060
+Lirubin auch. Natürlich.
+
+404
+00:24:39,060 --> 00:24:41,060
+Genau.
+
+405
+00:24:41,060 --> 00:24:43,060
+Und was machen Sie noch?
+
+406
+00:24:43,060 --> 00:24:45,060
+In der Ambulanz?
+
+407
+00:24:45,060 --> 00:24:47,060
+Urin untersuchen.
+
+408
+00:24:47,060 --> 00:24:49,060
+Man kann die
+
+409
+00:24:49,060 --> 00:24:51,060
+Urinwert
+
+410
+00:24:51,060 --> 00:24:53,060
+bewerten.
+
+411
+00:24:53,060 --> 00:24:55,060
+Und?
+
+412
+00:24:55,060 --> 00:24:57,060
+Was machen Sie noch?
+
+413
+00:24:57,060 --> 00:24:59,060
+Diagnostisch.
+
+414
+00:24:59,060 --> 00:25:01,060
+In der Ambulanz?
+
+415
+00:25:01,060 --> 00:25:03,060
+Sie meinen das Bildgebendeverfahren oder
+
+416
+00:25:03,060 --> 00:25:05,060
+eine Laboruntersuchung?
+
+417
+00:25:05,060 --> 00:25:07,060
+Nicht Laborunterzüge. Das haben Sie schon gesagt.
+
+418
+00:25:07,060 --> 00:25:09,060
+Ja. Okay.
+
+419
+00:25:09,060 --> 00:25:11,060
+Was würde ich machen?
+
+420
+00:25:11,060 --> 00:25:13,060
+Okay. Untersuchen.
+
+421
+00:25:13,060 --> 00:25:15,060
+Sie meinen das alles
+
+422
+00:25:15,060 --> 00:25:17,060
+Untersuchen oder?
+
+423
+00:25:17,060 --> 00:25:19,060
+Als diagnostisches Verfahren. Was machen Sie?
+
+424
+00:25:19,060 --> 00:25:21,060
+Ja, das ist noch diagnostisch.
+
+425
+00:25:21,060 --> 00:25:23,060
+Tomografie kann sein.
+
+426
+00:25:23,060 --> 00:25:25,060
+Ne.
+
+427
+00:25:25,060 --> 00:25:27,060
+MRCP?
+
+428
+00:25:27,060 --> 00:25:29,060
+Auch nicht.
+
+429
+00:25:29,060 --> 00:25:31,060
+ERCP? Auch nicht.
+
+430
+00:25:31,060 --> 00:25:33,060
+Was machen Sie in der Ambulanz?
+
+431
+00:25:33,060 --> 00:25:35,060
+Sie meinen das
+
+432
+00:25:35,060 --> 00:25:37,060
+Therapie?
+
+433
+00:25:37,060 --> 00:25:39,060
+Nein. Diagnostisch.
+
+434
+00:25:39,060 --> 00:25:41,060
+Er kommt, hat Schmerzen.
+
+435
+00:25:41,060 --> 00:25:43,060
+Sie haben mit ihm gesprochen.
+
+436
+00:25:43,060 --> 00:25:45,060
+Nehmen Blut ab. Was machen Sie noch sofort?
+
+437
+00:25:45,060 --> 00:25:47,060
+Bei diesen Beschwerden?
+
+438
+00:25:47,060 --> 00:25:49,060
+EKG?
+
+439
+00:25:49,060 --> 00:25:51,060
+Ultraschall.
+
+440
+00:25:51,060 --> 00:25:53,060
+Optom- und Sonografie.
+
+441
+00:25:53,060 --> 00:25:55,060
+Aber hier habe ich gesagt,
+
+442
+00:25:55,060 --> 00:25:57,060
+das ist o...
+
+443
+00:25:57,060 --> 00:25:59,060
+Okay. Wenn Sie gesagt haben, okay, dann habe ich nicht gehört.
+
+444
+00:25:59,060 --> 00:26:01,060
+Aber ich habe nicht gehört, dass Sie Ultraschall
+
+445
+00:26:01,060 --> 00:26:03,060
+vom Optom gesagt haben. Aber vielleicht
+
+446
+00:26:03,060 --> 00:26:05,060
+habe ich nicht gehört. Okay.
+
+447
+00:26:05,060 --> 00:26:07,060
+Sie machen einen Ultraschall
+
+448
+00:26:07,060 --> 00:26:09,060
+Genau. Natürlich. Erstes ist Ultraschall.
+
+449
+00:26:09,060 --> 00:26:11,060
+Genau. Und dann haben Sie einen Ultraschall gemacht.
+
+450
+00:26:11,060 --> 00:26:13,060
+Und dann, was machen Sie?
+
+451
+00:26:13,060 --> 00:26:15,060
+Wenn Sie sehen...
+
+452
+00:26:15,060 --> 00:26:17,060
+Was sehen Sie dann wahrscheinlich?
+
+453
+00:26:17,060 --> 00:26:19,060
+Wenn Sie jetzt einen Verdacht auf eine
+
+454
+00:26:19,060 --> 00:26:21,060
+Schule doch oder Thesis haben.
+
+455
+00:26:21,060 --> 00:26:23,060
+Was sehen Sie dann im Ultraschall?
+
+456
+00:26:23,060 --> 00:26:25,060
+Kann man direkt die Steine sehen?
+
+457
+00:26:25,060 --> 00:26:27,060
+Kann man eine vergroßerte
+
+458
+00:26:27,060 --> 00:26:29,060
+Gallenblase feststellen?
+
+459
+00:26:29,060 --> 00:26:31,060
+Richtig.
+
+460
+00:26:31,060 --> 00:26:33,060
+Eine Flüssigkeit neben diesen
+
+461
+00:26:33,060 --> 00:26:35,060
+Gallenblasen.
+
+462
+00:26:35,060 --> 00:26:37,060
+Dann wäre es entzündet.
+
+463
+00:26:37,060 --> 00:26:39,060
+Ja, entzündet.
+
+464
+00:26:39,060 --> 00:26:41,060
+Aber es muss nicht unbedingt entzündet sein.
+
+465
+00:26:41,060 --> 00:26:43,060
+Wer keine Schule
+
+466
+00:26:43,060 --> 00:26:45,060
+zystiert, ist.
+
+467
+00:26:45,060 --> 00:26:47,060
+Okay. Die
+
+468
+00:26:47,060 --> 00:26:49,060
+die Groß...
+
+469
+00:26:49,060 --> 00:26:51,060
+Groß von diesen
+
+470
+00:26:51,060 --> 00:26:53,060
+Gallenblasen kann man
+
+471
+00:26:53,060 --> 00:26:55,060
+messen auch die. Ja, genau.
+
+472
+00:26:55,060 --> 00:26:57,060
+Wenn die ist auch verdünnert.
+
+473
+00:26:57,060 --> 00:26:59,060
+Man kann zum Beispiel
+
+474
+00:26:59,060 --> 00:27:01,060
+gucken, ob es eine
+
+475
+00:27:01,060 --> 00:27:03,060
+Intrahepatische Scholastase,
+
+476
+00:27:03,060 --> 00:27:05,060
+eine Intrahepatische Scholastase gibt.
+
+477
+00:27:05,060 --> 00:27:07,060
+Das kann man sich auch angucken.
+
+478
+00:27:07,060 --> 00:27:09,060
+Was ich damit sagen möchte, ist,
+
+479
+00:27:09,060 --> 00:27:11,060
+man
+
+480
+00:27:11,060 --> 00:27:13,060
+muss...
+
+481
+00:27:13,060 --> 00:27:15,060
+Man kann im Ultraschall schon viel
+
+482
+00:27:15,060 --> 00:27:17,060
+sehen. Man muss nicht unbedingt ein
+
+483
+00:27:17,060 --> 00:27:19,060
+CT machen deswegen.
+
+484
+00:27:19,060 --> 00:27:21,060
+Ja, genau.
+
+485
+00:27:21,060 --> 00:27:23,060
+Aber man kann natürlich auch, wenn man
+
+486
+00:27:23,060 --> 00:27:25,060
+im Ultraschall das nicht gut sieht,
+
+487
+00:27:25,060 --> 00:27:27,060
+auch eine MRCP machen,
+
+488
+00:27:27,060 --> 00:27:29,060
+um zu sehen, wo der Verschluss ist.
+
+489
+00:27:29,060 --> 00:27:31,060
+Ob es ein Stein ist
+
+490
+00:27:31,060 --> 00:27:33,060
+oder ob es ein Pankreaskopfkarzinom ist.
+
+491
+00:27:33,060 --> 00:27:35,060
+Kann ja auch sein.
+
+492
+00:27:35,060 --> 00:27:37,060
+Ob es eine...
+
+493
+00:27:39,060 --> 00:27:41,060
+Auch eine Kompression,
+
+494
+00:27:41,060 --> 00:27:43,060
+also eine mechanische Ursache
+
+495
+00:27:43,060 --> 00:27:45,060
+sein könnte. Das kann man
+
+496
+00:27:45,060 --> 00:27:47,060
+im Ultraschall meistens gut sehen.
+
+497
+00:27:47,060 --> 00:27:49,060
+Genau.
+
+498
+00:27:49,060 --> 00:27:51,060
+Okay.
+
+499
+00:27:51,060 --> 00:27:53,060
+Und was machen Sie mit dem Patienten?
+
+500
+00:27:53,060 --> 00:27:55,060
+Ja, ich würde
+
+501
+00:27:55,060 --> 00:27:57,060
+sofort
+
+502
+00:27:57,060 --> 00:27:59,060
+den Veneo in den Eingang einlegen.
+
+503
+00:27:59,060 --> 00:28:01,060
+Die Oral-Einnahme ist
+
+504
+00:28:01,060 --> 00:28:03,060
+karenz.
+
+505
+00:28:03,060 --> 00:28:05,060
+Bei den
+
+506
+00:28:05,060 --> 00:28:07,060
+Anzündung parametern
+
+507
+00:28:07,060 --> 00:28:09,060
+ist er hoch.
+
+508
+00:28:09,060 --> 00:28:11,060
+Ihr habt jetzt gesehen, dass Sie
+
+509
+00:28:11,060 --> 00:28:13,060
+einen Stein
+
+510
+00:28:13,060 --> 00:28:15,060
+im Duktus Cholodochus haben.
+
+511
+00:28:15,060 --> 00:28:17,060
+Ja. Der hat sich.
+
+512
+00:28:17,060 --> 00:28:19,060
+Da ist ein Stein, der verschließt
+
+513
+00:28:19,060 --> 00:28:21,060
+den Gannengang.
+
+514
+00:28:21,060 --> 00:28:23,060
+Genau.
+
+515
+00:28:23,060 --> 00:28:25,060
+Wir müssen Oral-Einnahme
+
+516
+00:28:25,060 --> 00:28:27,060
+stoppen.
+
+517
+00:28:27,060 --> 00:28:29,060
+Wir müssen Oral-Einnahme
+
+518
+00:28:29,060 --> 00:28:31,060
+stoppen.
+
+519
+00:28:31,060 --> 00:28:33,060
+Wir müssen
+
+520
+00:28:33,060 --> 00:28:35,060
+Oral-Einnahme stoppen.
+
+521
+00:28:35,060 --> 00:28:37,060
+Wir müssen
+
+522
+00:28:37,060 --> 00:28:39,060
+Oral-Einnahme stoppen.
+
+523
+00:28:39,060 --> 00:28:41,060
+Entravenöse?
+
+524
+00:28:41,060 --> 00:28:43,060
+Ja, Entravenöse natürlich.
+
+525
+00:28:43,060 --> 00:28:45,060
+Okay. Und was noch?
+
+526
+00:28:45,060 --> 00:28:47,060
+Was machen wir als... Wir haben die Blutwerte gesehen.
+
+527
+00:28:47,060 --> 00:28:49,060
+Die Blutwerte sind
+
+528
+00:28:49,060 --> 00:28:51,060
+vielleicht... Also wenig Entzündungszeichen,
+
+529
+00:28:51,060 --> 00:28:53,060
+aber er hat schon
+
+530
+00:28:53,060 --> 00:28:55,060
+Cholostasewerte. Bidderubin ist erhöht,
+
+531
+00:28:55,060 --> 00:28:57,060
+GUT, GPT
+
+532
+00:28:57,060 --> 00:28:59,060
+und AP ist erhöht.
+
+533
+00:28:59,060 --> 00:29:01,060
+Und was machen Sie mit dem jetzt therapeutisch?
+
+534
+00:29:01,060 --> 00:29:03,060
+Nehmen Sie den stationär auf
+
+535
+00:29:03,060 --> 00:29:05,060
+oder schicken Sie ihn nach Hause?
+
+536
+00:29:05,060 --> 00:29:07,060
+Natürlich. Wir müssen
+
+537
+00:29:07,060 --> 00:29:09,060
+Stationäre einlegen.
+
+538
+00:29:09,060 --> 00:29:11,060
+Sofort.
+
+539
+00:29:11,060 --> 00:29:13,060
+Dann? Dann müssen wir
+
+540
+00:29:13,060 --> 00:29:15,060
+RRCP führen.
+
+541
+00:29:15,060 --> 00:29:17,060
+Ja, ganz genau.
+
+542
+00:29:17,060 --> 00:29:19,060
+Die richtige... Die Stein...
+
+543
+00:29:19,060 --> 00:29:21,060
+Die muss Stein rausnehmen.
+
+544
+00:29:21,060 --> 00:29:23,060
+Ganz genau.
+
+545
+00:29:23,060 --> 00:29:25,060
+Machen Sie das in der Nacht? Wenn er zum Beispiel
+
+546
+00:29:25,060 --> 00:29:27,060
+nachts kommt, nachts um 12 Uhr,
+
+547
+00:29:27,060 --> 00:29:29,060
+machen Sie das
+
+548
+00:29:29,060 --> 00:29:31,060
+in der Nacht oder warten Sie bis nächsten Morgen?
+
+549
+00:29:31,060 --> 00:29:33,060
+Wahrscheinlich
+
+550
+00:29:33,060 --> 00:29:35,060
+normalerweise
+
+551
+00:29:35,060 --> 00:29:37,060
+normalerweise
+
+552
+00:29:37,060 --> 00:29:39,060
+wir können... Wir haben nicht so viele
+
+553
+00:29:39,060 --> 00:29:41,060
+Experten mit dem
+
+554
+00:29:41,060 --> 00:29:43,060
+RRCP.
+
+555
+00:29:43,060 --> 00:29:45,060
+Wenn die Experten da sind,
+
+556
+00:29:45,060 --> 00:29:47,060
+können wir... Genau.
+
+557
+00:29:47,060 --> 00:29:49,060
+Sie können bis zum nächsten Morgen warten.
+
+558
+00:29:49,060 --> 00:29:51,060
+Ja.
+
+559
+00:29:51,060 --> 00:29:53,060
+Normalerweise, wenn der Bidderubinwert
+
+560
+00:29:53,060 --> 00:29:55,060
+nicht zu hoch ist,
+
+561
+00:29:55,060 --> 00:29:57,060
+wenn da jetzt nicht dramatische Werte sind,
+
+562
+00:29:57,060 --> 00:29:59,060
+dann muss man das nicht als Notfall machen,
+
+563
+00:29:59,060 --> 00:30:01,060
+sondern kann das am nächsten Morgen machen.
+
+564
+00:30:01,060 --> 00:30:03,060
+Genau.
+
+565
+00:30:03,060 --> 00:30:05,060
+Sehr gut.
+
+566
+00:30:05,060 --> 00:30:07,060
+Musste man diese Antibiose
+
+567
+00:30:07,060 --> 00:30:09,060
+einleiten? Mit dem...
+
+568
+00:30:09,060 --> 00:30:11,060
+Ich glaube, man
+
+569
+00:30:11,060 --> 00:30:13,060
+macht momentan eine Single-Shot-Antibiose.
+
+570
+00:30:13,060 --> 00:30:15,060
+Weil man...
+
+571
+00:30:15,060 --> 00:30:17,060
+Also eine einmalige Antibiose, glaube ich.
+
+572
+00:30:17,060 --> 00:30:19,060
+Ich bin mir nicht ganz sicher.
+
+573
+00:30:19,060 --> 00:30:21,060
+Das muss ich nachlesen, weil
+
+574
+00:30:21,060 --> 00:30:23,060
+man mit der RRCP
+
+575
+00:30:23,060 --> 00:30:25,060
+auch eine Pancreatitis verursachen kann.
+
+576
+00:30:25,060 --> 00:30:27,060
+Ich glaube,
+
+577
+00:30:27,060 --> 00:30:29,060
+das macht man Single-Shot, aber ich weiß das nicht ganz genau.
+
+578
+00:30:29,060 --> 00:30:31,060
+Ich muss das nochmal nachlesen.
+
+579
+00:30:31,060 --> 00:30:33,060
+Ich glaube,
+
+580
+00:30:33,060 --> 00:30:35,060
+man macht eine einmalige Antibiose.
+
+581
+00:30:35,060 --> 00:30:37,060
+Ich glaube, aber ich muss das nachlesen.
+
+582
+00:30:37,060 --> 00:30:39,060
+Ich weiß es auch nicht.
+
+583
+00:30:39,060 --> 00:30:41,060
+Genau.
+
+584
+00:30:41,060 --> 00:30:45,060
+Was kommt als Differentialdiagnostik noch infrage?
+
+585
+00:30:45,060 --> 00:30:47,060
+Ja,
+
+586
+00:30:47,060 --> 00:30:49,060
+Differentialdiagnostik kann
+
+587
+00:30:49,060 --> 00:30:51,060
+sein, dass Lebefaktoren
+
+588
+00:30:51,060 --> 00:30:53,060
+oder Pancreasfaktoren
+
+589
+00:30:53,060 --> 00:30:55,060
+Lebefaktoren...
+
+590
+00:30:55,060 --> 00:30:57,060
+Wie meinen Sie Faktoren?
+
+591
+00:30:57,060 --> 00:30:59,060
+Ursache, ich meine das.
+
+592
+00:30:59,060 --> 00:31:01,060
+Was? Sagen Sie was.
+
+593
+00:31:01,060 --> 00:31:03,060
+Das kann eine virale
+
+594
+00:31:03,060 --> 00:31:05,060
+Infektion, Hepatitis A
+
+595
+00:31:05,060 --> 00:31:07,060
+oder fulminale Hepatitis A
+
+596
+00:31:07,060 --> 00:31:09,060
+sein.
+
+597
+00:31:09,060 --> 00:31:11,060
+B auch?
+
+598
+00:31:11,060 --> 00:31:13,060
+B nicht so fulminale.
+
+599
+00:31:13,060 --> 00:31:15,060
+B geht
+
+600
+00:31:15,060 --> 00:31:17,060
+langsam.
+
+601
+00:31:17,060 --> 00:31:19,060
+Und natürlich
+
+602
+00:31:19,060 --> 00:31:21,060
+diese Hepatitis A
+
+603
+00:31:21,060 --> 00:31:23,060
+und Hepatitis C
+
+604
+00:31:23,060 --> 00:31:25,060
+Pancreasfaktoren
+
+605
+00:31:25,060 --> 00:31:27,060
+Pancreasfaktoren
+
+606
+00:31:27,060 --> 00:31:29,060
+Kölnfaktoren
+
+607
+00:31:29,060 --> 00:31:31,060
+Kölnfaktoren
+
+608
+00:31:31,060 --> 00:31:33,060
+andere Faktoren.
+
+609
+00:31:33,060 --> 00:31:35,060
+Was kann man noch?
+
+610
+00:31:35,060 --> 00:31:37,060
+Ja, das ist schon
+
+611
+00:31:37,060 --> 00:31:39,060
+recht viel.
+
+612
+00:31:39,060 --> 00:31:41,060
+Neben Organe Ursachen,
+
+613
+00:31:41,060 --> 00:31:43,060
+ganz genau.
+
+614
+00:31:43,060 --> 00:31:45,060
+Nephruletiasis, würde ich sagen,
+
+615
+00:31:45,060 --> 00:31:47,060
+ist keine Differentialdiagnose,
+
+616
+00:31:47,060 --> 00:31:49,060
+macht normalerweise kein Iterus
+
+617
+00:31:49,060 --> 00:31:51,060
+und ist auch nicht nahrungsabhängig.
+
+618
+00:31:51,060 --> 00:31:54,430
+Eine Kollegin hat geschrieben,
+
+619
+00:31:54,430 --> 00:31:56,430
+Nephruletiasis, aber
+
+620
+00:31:56,430 --> 00:31:58,430
+Nephruletiasis ist nicht
+
+621
+00:31:58,430 --> 00:32:00,430
+nahrungsabhängig. Bei diesen Patienten
+
+622
+00:32:00,430 --> 00:32:02,430
+ist er aber nahrungsabhängig.
+
+623
+00:32:02,430 --> 00:32:04,430
+Wenn er isst, dann hat er Schmerzen.
+
+624
+00:32:04,430 --> 00:32:06,430
+Nephruletiasis haben sie immer
+
+625
+00:32:06,430 --> 00:32:08,430
+Schmerzen und Kohligartig
+
+626
+00:32:08,430 --> 00:32:10,430
+und die sind nicht auszuhalten.
+
+627
+00:32:14,430 --> 00:32:16,430
+Ja gut, gibt es Fragen
+
+628
+00:32:16,430 --> 00:32:18,430
+ihrerseits? Oder aus dem
+
+629
+00:32:18,430 --> 00:32:20,430
+Kollegen-Kreis hier?
+
+630
+00:32:20,430 --> 00:32:24,190
+Gibt es Ergänzungen? Haben wir was
+
+631
+00:32:24,190 --> 00:32:26,190
+falsch gemacht? Müssen wir was
+
+632
+00:32:26,190 --> 00:32:28,190
+verbessern? Haben wir etwas
+
+633
+00:32:28,190 --> 00:32:34,580
+vergessen zu sagen?
+
+634
+00:32:34,580 --> 00:32:36,580
+Keiner möchte sprechen.
+
+635
+00:32:36,580 --> 00:32:38,580
+Sie haben
+
+636
+00:32:38,580 --> 00:32:40,580
+gut erklärt.
+
+637
+00:32:40,580 --> 00:32:42,580
+Herr Oberhaus,
+
+638
+00:32:42,580 --> 00:32:44,580
+Sie haben gut erklärt alles.
+
+639
+00:32:44,580 --> 00:32:46,580
+Okay, dann weiß jeder Bescheid,
+
+640
+00:32:46,580 --> 00:32:48,580
+weiß jeder, was er machen muss.
+
+641
+00:32:48,580 --> 00:32:50,580
+Am nächsten Mal.
+
+642
+00:32:50,580 --> 00:32:52,580
+Gut, wenn keine
+
+643
+00:32:52,580 --> 00:32:54,580
+Fragen sind, dann
+
+644
+00:32:54,580 --> 00:32:58,500
+haben Sie das gut gemacht, Herr Toprak?
+
+645
+00:32:58,500 --> 00:33:00,500
+Nein, danke.
+
+646
+00:33:00,500 --> 00:33:02,500
+Wann haben Sie Ihre Prüfung?
+
+647
+00:33:02,500 --> 00:33:04,500
+Am 30. Oktober.
+
+648
+00:33:04,500 --> 00:33:06,500
+Am 30. Oktober.
+
+649
+00:33:06,500 --> 00:33:08,500
+Dann wünsche ich schon mal jetzt
+
+650
+00:33:08,500 --> 00:33:10,500
+viel Erfolg. Hast du hier Fachgebiet?
+
+651
+00:33:10,500 --> 00:33:12,500
+Was machen Sie normalerweise?
+
+652
+00:33:12,500 --> 00:33:14,500
+Ich bin Gynäkologen.
+
+653
+00:33:14,500 --> 00:33:16,500
+Gynäkologen, okay.
+
+654
+00:33:16,500 --> 00:33:18,500
+Dieses Bereich ist nicht so
+
+655
+00:33:18,500 --> 00:33:20,500
+bekannt für mich, aber
+
+656
+00:33:20,500 --> 00:33:22,500
+das sind so Basics.
+
+657
+00:33:22,500 --> 00:33:24,500
+Das sind so Basics.
+
+658
+00:33:24,500 --> 00:33:26,500
+Ichteros kann
+
+659
+00:33:26,500 --> 00:33:28,500
+nicht so viel sein.
+
+660
+00:33:28,500 --> 00:33:30,500
+Kann man eine Handvoll abzählen.
+
+661
+00:33:30,500 --> 00:33:32,500
+Ichteros normalerweise.
+
+662
+00:33:32,500 --> 00:33:34,500
+Schmerzen und dann
+
+663
+00:33:34,500 --> 00:33:36,500
+nicht schmerzhafte
+
+664
+00:33:36,500 --> 00:33:38,500
+Ichteros und Fieber
+
+665
+00:33:38,500 --> 00:33:40,500
+hat er auch nicht gehabt und so was.
+
+666
+00:33:40,500 --> 00:33:42,500
+Das ist alles eigentlich ein ganz
+
+667
+00:33:42,500 --> 00:33:44,500
+einfacher Fall gewesen für Sie.
+
+668
+00:33:44,500 --> 00:33:46,500
+Darf ich eine Frage stellen?
+
+669
+00:33:46,500 --> 00:33:48,500
+Außer diesem Topik.
+
+670
+00:33:50,500 --> 00:33:52,500
+Ich habe einige
+
+671
+00:33:52,500 --> 00:33:54,500
+Anamesen gelesen.
+
+672
+00:33:54,500 --> 00:33:56,500
+Beide Fremdanamesen.
+
+673
+00:33:56,500 --> 00:33:58,500
+Zum Beispiel Fremdanamesen Kind.
+
+674
+00:34:00,500 --> 00:34:02,500
+Kind ist sieben Jahre oder acht Jahre.
+
+675
+00:34:02,500 --> 00:34:04,500
+Im Falle
+
+676
+00:34:04,500 --> 00:34:06,500
+eines Diabetes Kind.
+
+677
+00:34:08,500 --> 00:34:10,500
+Die nehmen die Information
+
+678
+00:34:10,500 --> 00:34:12,500
+auch von den Großeltern
+
+679
+00:34:12,500 --> 00:34:14,500
+Seite auch. Sie fragen
+
+680
+00:34:14,500 --> 00:34:16,500
+die Großeltern Kindheit. Aber
+
+681
+00:34:16,500 --> 00:34:18,500
+eine Seite nicht beide Seiten.
+
+682
+00:34:18,500 --> 00:34:20,500
+Gibt es eine Besüchtigung
+
+683
+00:34:20,500 --> 00:34:22,500
+oder das war die normale Situation?
+
+684
+00:34:22,500 --> 00:34:24,500
+Das weiß ich nicht.
+
+685
+00:34:24,500 --> 00:34:26,500
+Das weiß ich nicht. Also normalerweise
+
+686
+00:34:28,500 --> 00:34:30,500
+fragt man ja automatisch den Patienten.
+
+687
+00:34:30,500 --> 00:34:32,500
+Bei Kindern
+
+688
+00:34:32,500 --> 00:34:34,500
+meinen Sie Pelliatrie oder meinen Sie jetzt
+
+689
+00:34:34,500 --> 00:34:36,500
+bei Erwachsenen?
+
+690
+00:34:36,500 --> 00:34:38,500
+Bei Kindern.
+
+691
+00:34:38,500 --> 00:34:40,500
+Bei Kindern.
+
+692
+00:34:40,500 --> 00:34:42,500
+Bei Kindanamese.
+
+693
+00:34:42,500 --> 00:34:44,500
+Zum Beispiel acht Jahre.
+
+694
+00:34:44,500 --> 00:34:46,500
+Ja, es gibt da vielleicht Typ 1 Diabetes in der Familie.
+
+695
+00:34:46,500 --> 00:34:48,500
+Ja. Aber
+
+696
+00:34:48,500 --> 00:34:50,500
+muss man Großeltern
+
+697
+00:34:50,500 --> 00:34:52,500
+fragen auch? Großeltern?
+
+698
+00:34:52,500 --> 00:34:54,500
+Ja, kann man fragen doch.
+
+699
+00:34:54,500 --> 00:34:56,500
+Aber
+
+700
+00:34:56,500 --> 00:34:58,500
+Sie fragen nur einseitig. Großeltern
+
+701
+00:34:58,500 --> 00:35:00,500
+Mutterseitig oder Vaterseitig?
+
+702
+00:35:00,500 --> 00:35:02,500
+Muss man beide
+
+703
+00:35:02,500 --> 00:35:04,500
+Seiten fragen? Das weiß ich nicht.
+
+704
+00:35:04,500 --> 00:35:06,500
+Normalerweise fragt man beide Seiten.
+
+705
+00:35:06,500 --> 00:35:08,500
+Also ich frage beide Seiten.
+
+706
+00:35:08,500 --> 00:35:10,500
+Aber ich weiß nicht
+
+707
+00:35:10,500 --> 00:35:12,500
+ob das nur einseitig vererbt wird.
+
+708
+00:35:12,500 --> 00:35:14,500
+Das weiß ich jetzt nicht.
+
+709
+00:35:14,500 --> 00:35:16,500
+Okay.
