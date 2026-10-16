@@ -1,0 +1,1623 @@
+1
+00:00:00,000 --> 00:00:06,000
+Arzt tätig und würde gerne mit Ihnen das Arzt-Patienten-Gespräch führen.
+
+2
+00:00:06,000 --> 00:00:12,000
+Kurzumablauf, ich werde Ihnen jetzt einige Fragen zu Ihrer Person stellen, dann direkt zu Ihren aktuellen Beschwerden übergehen.
+
+3
+00:00:12,000 --> 00:00:14,000
+Sind Sie das genau verstanden?
+
+4
+00:00:14,000 --> 00:00:16,000
+Ja, bin ich.
+
+5
+00:00:16,000 --> 00:00:18,000
+Wie heißen Sie denn?
+
+6
+00:00:18,000 --> 00:00:24,810
+Ich heiße Susanne Meyerhoff.
+
+7
+00:00:24,810 --> 00:00:29,810
+Können Sie bitte Ihren Vornamen und Nachnamen deutlich und langsam beschreiben?
+
+8
+00:00:29,810 --> 00:00:38,810
+Susanne schreibt sich S-U-S-A-N-N-E.
+
+9
+00:00:38,810 --> 00:00:53,810
+Und Meyerhoff schreibt sich M-E-I-E-R-H-O-F-F. Meyerhoff.
+
+10
+00:00:53,810 --> 00:00:55,810
+Meyerhoff, okay.
+
+11
+00:00:55,810 --> 00:00:58,810
+Frau Meyerhoff, wie heißen Sie?
+
+12
+00:00:58,810 --> 00:01:03,630
+Ich bin 48 Jahre alt.
+
+13
+00:01:03,630 --> 00:01:05,630
+Und wann wurde das geboren?
+
+14
+00:01:05,630 --> 00:01:13,100
+Am 12. Oktober 1978.
+
+15
+00:01:13,100 --> 00:01:15,100
+Und wie viel wiegen Sie?
+
+16
+00:01:15,100 --> 00:01:20,100
+57 Kilo.
+
+17
+00:01:20,100 --> 00:01:25,100
+Wie groß sind Sie?
+
+18
+00:01:25,100 --> 00:01:32,000
+1,69 Meter.
+
+19
+00:01:32,000 --> 00:01:35,000
+Okay, danke schön für die Informationen, Frau Meyerhoff.
+
+20
+00:01:35,000 --> 00:01:38,000
+Jetzt kommen wir zu Ihren aktuellen Beschwerden.
+
+21
+00:01:38,000 --> 00:01:42,000
+Was hat Sie zu uns geführt?
+
+22
+00:01:42,000 --> 00:01:49,000
+Also in den letzten Wochen habe ich bemerkt, dass ich schnell erschöpft bin.
+
+23
+00:01:49,000 --> 00:01:53,000
+Ich bin sehr stark gereizt.
+
+24
+00:01:53,000 --> 00:01:57,000
+Ich bin nervös.
+
+25
+00:01:57,000 --> 00:02:01,620
+Ich schwitze auch stark.
+
+26
+00:02:01,620 --> 00:02:04,620
+Mein Mann hat gesagt, meine Hände zittern oft.
+
+27
+00:02:04,620 --> 00:02:07,620
+Mir ist das so nicht aufgefallen.
+
+28
+00:02:07,620 --> 00:02:10,620
+Ja, es geht mir nicht gut.
+
+29
+00:02:10,620 --> 00:02:19,620
+Okay. Und vor der letzten Woche hatten Sie früher eine Beschwerde?
+
+30
+00:02:19,620 --> 00:02:23,620
+Ja, das geht jetzt ungefähr seit drei bis vier Wochen.
+
+31
+00:02:23,620 --> 00:02:25,620
+Vorher hatte ich diese Beschwerden nicht.
+
+32
+00:02:25,620 --> 00:02:30,030
+Drei bis vier Wochen.
+
+33
+00:02:30,030 --> 00:02:35,030
+Okay. Und haben Sie irgendwo Schmerzen?
+
+34
+00:02:35,030 --> 00:02:39,030
+Nein, Schmerzen habe ich nicht.
+
+35
+00:02:39,030 --> 00:02:49,500
+Okay. Haben Sie bemerkt, dass Ihre Haut blasser oder trockener geworden ist?
+
+36
+00:02:49,500 --> 00:02:51,500
+Oder haben Sie Haarausfall bemerkt?
+
+37
+00:02:51,500 --> 00:02:56,500
+Blass nicht. Meine Haut fühlt sich eher warm an.
+
+38
+00:02:56,500 --> 00:03:00,500
+Wärmer. Haarausfall habe ich nicht bemerkt. Nein.
+
+39
+00:03:00,500 --> 00:03:10,090
+Verrückten Sie Herzrasen oder Herzklopfen von engem Gefühl in der Brust?
+
+40
+00:03:10,090 --> 00:03:12,090
+Also nicht von engem Gefühl.
+
+41
+00:03:12,090 --> 00:03:17,090
+Aber ich habe den Eindruck, dass mein Herz etwas schneller schlägt. Mein Puls ist schneller.
+
+42
+00:03:17,090 --> 00:03:20,090
+Haben Sie es gemessen?
+
+43
+00:03:20,090 --> 00:03:25,370
+Nein, gemessen habe ich das nicht. Aber vom Gefühl her.
+
+44
+00:03:25,370 --> 00:03:32,050
+Bekommen Sie Atemnot?
+
+45
+00:03:32,050 --> 00:03:35,050
+Nein, Atemnot nicht.
+
+46
+00:03:35,050 --> 00:03:42,830
+Ist Ihnen schwindelig? Nein.
+
+47
+00:03:42,830 --> 00:03:45,830
+Übrig? Nein.
+
+48
+00:03:45,830 --> 00:03:52,660
+Haben Sie das Bewusstsein verloren? Nein.
+
+49
+00:03:52,660 --> 00:03:58,160
+Wie ist Ihr Schlafen? Gibt es Probleme beim Schlafen oder Durchschlafen?
+
+50
+00:03:58,160 --> 00:04:02,160
+Also seitdem ich mich nicht so wohl fühle, ist mein Schlaf auch nicht so gut.
+
+51
+00:04:02,160 --> 00:04:06,160
+Ich kann schlecht durchschlafen und wache immer wieder auf in der Nacht.
+
+52
+00:04:06,160 --> 00:04:09,160
+Ja, genau.
+
+53
+00:04:09,160 --> 00:04:16,930
+Ich muss auch ziemlich stark schwitzen.
+
+54
+00:04:16,930 --> 00:04:19,930
+Sie haben auch Nachtschweiß?
+
+55
+00:04:19,930 --> 00:04:27,980
+Ja, auch nachts. Aber tagsüber schwitze ich auch ziemlich stark.
+
+56
+00:04:27,980 --> 00:04:31,980
+Fühlen Sie sich fieberig?
+
+57
+00:04:31,980 --> 00:04:39,220
+Fieber nicht direkt. Aber ich fühle mich irgendwie ... Meine Haut ist wärmer, habe ich den Eindruck.
+
+58
+00:04:39,220 --> 00:04:42,220
+Also auf keinen Fall zu kalt.
+
+59
+00:04:43,220 --> 00:04:47,220
+Sie fühlen sich wärmer als sonst?
+
+60
+00:04:47,220 --> 00:04:50,220
+Ja.
+
+61
+00:04:50,220 --> 00:04:57,220
+In 3-4 Wochen haben Sie aufgrund dieser Beschwerden einen Arzt aufgesucht?
+
+62
+00:04:57,220 --> 00:05:02,220
+Nein, bis jetzt noch nicht. Ich habe gedacht, das geht jetzt wieder besser.
+
+63
+00:05:02,220 --> 00:05:08,220
+Aber jetzt wird das gar nicht besser. Deswegen komme ich heute zu Ihnen in die Notaufnahme.
+
+64
+00:05:08,220 --> 00:05:12,220
+Sie haben eine sehr gute Entscheidung getroffen, Frau Meyerhoff.
+
+65
+00:05:12,220 --> 00:05:16,220
+Und wie ist Ihr Appetit?
+
+66
+00:05:16,220 --> 00:05:22,220
+Oh, der ist sehr gut. Ich habe eigentlich immer Hunger.
+
+67
+00:05:22,220 --> 00:05:34,480
+Und ist Ihnen in letzter Zeit ungewollte Gewiss-Veränderung aufgefallen?
+
+68
+00:05:35,480 --> 00:05:43,480
+Ja, ich habe in den letzten Wochen mindestens 4 Kilo Gewicht verloren.
+
+69
+00:05:43,480 --> 00:05:47,400
+Verloren?
+
+70
+00:05:47,400 --> 00:05:49,400
+Ja.
+
+71
+00:05:49,400 --> 00:05:51,400
+Innerhalb?
+
+72
+00:05:51,400 --> 00:05:53,400
+Schätz ich 4 Wochen.
+
+73
+00:05:53,400 --> 00:05:58,950
+4 Wochen.
+
+74
+00:05:58,950 --> 00:06:06,950
+Frau Meyerhoff, hatten Sie unter Völlegefühl Belehrungen?
+
+75
+00:06:06,950 --> 00:06:10,950
+Nein, habe ich nicht.
+
+76
+00:06:10,950 --> 00:06:15,950
+Und bekommen Sie Husten?
+
+77
+00:06:15,950 --> 00:06:25,900
+Ich habe allergisches Asthma. Und da bekomme ich manchmal auch Hustenphasen.
+
+78
+00:06:25,900 --> 00:06:28,900
+Aber zurzeit nicht besonders stark.
+
+79
+00:06:28,900 --> 00:06:35,350
+Okay.
+
+80
+00:06:35,350 --> 00:06:39,020
+Okay.
+
+81
+00:06:39,020 --> 00:06:45,020
+Kurzes Beschwerden über Ihre Zittern.
+
+82
+00:06:45,020 --> 00:06:52,020
+Zittern Ihre Hände nur bei Belastung oder auch in Ruhe?
+
+83
+00:06:52,020 --> 00:06:57,020
+Auch wenn ich sie jetzt anschaue, dann zittern die auch in Ruhe.
+
+84
+00:06:58,020 --> 00:07:09,170
+Und für Ihre Beschwerden haben Sie einen Auslöser bemerkt?
+
+85
+00:07:09,170 --> 00:07:12,170
+Eine Erklärung?
+
+86
+00:07:12,170 --> 00:07:18,170
+Besondere Lebenserreignisse, zum Beispiel eine Trennung oder Tod?
+
+87
+00:07:18,170 --> 00:07:20,170
+Nein, sowas nicht.
+
+88
+00:07:20,170 --> 00:07:26,510
+Fühlen Sie sich allgemein traurig oder hoffnungslos?
+
+89
+00:07:26,510 --> 00:07:33,220
+Nein.
+
+90
+00:07:33,220 --> 00:07:36,220
+Und fühlen Sie sich allgemein müde?
+
+91
+00:07:36,220 --> 00:07:38,220
+Ja, genau.
+
+92
+00:07:38,220 --> 00:07:44,220
+Inzwischen bin ich erschöpft, weil ich schlechter schlafe.
+
+93
+00:07:44,220 --> 00:07:48,220
+Ich bin so gereizt, nervös.
+
+94
+00:07:48,220 --> 00:07:52,220
+Aber mein Akku ist leer.
+
+95
+00:07:52,220 --> 00:07:54,220
+Ich bin erschöpft.
+
+96
+00:07:54,220 --> 00:07:56,220
+Ja, ich verstehe.
+
+97
+00:07:56,220 --> 00:07:58,220
+Frau Meyerhoff.
+
+98
+00:07:58,220 --> 00:08:00,220
+Okay.
+
+99
+00:08:00,220 --> 00:08:05,220
+Frau Meyerhoff, jetzt möchte ich Ihre Beschwerden kurz zusammenfassen.
+
+100
+00:08:05,220 --> 00:08:10,220
+Seit 3-4 Wochen haben Sie starke Müdigkeit.
+
+101
+00:08:10,220 --> 00:08:17,220
+Und Ihre Hände zittern.
+
+102
+00:08:17,220 --> 00:08:19,220
+Zittern die Hände.
+
+103
+00:08:19,220 --> 00:08:24,220
+Früher hatten Sie keine Ernebeschwerden.
+
+104
+00:08:24,220 --> 00:08:29,220
+Zusätzlich haben Sie Herzrasen.
+
+105
+00:08:29,220 --> 00:08:37,220
+Innerhalb von 4 Wochen haben Sie 4 Kilo abgenommen.
+
+106
+00:08:37,220 --> 00:08:43,220
+Ergänzend haben Sie vermehrtes Schwitzen.
+
+107
+00:08:43,220 --> 00:08:47,220
+Sowohl tatsüber als auch nachts.
+
+108
+00:08:47,220 --> 00:08:49,220
+Okay, ja.
+
+109
+00:08:49,220 --> 00:08:51,220
+Und ich bin sehr nervös.
+
+110
+00:08:51,220 --> 00:08:53,220
+Nervös, ja.
+
+111
+00:08:53,220 --> 00:08:55,220
+Und gereizt.
+
+112
+00:08:55,220 --> 00:08:57,220
+Ja, genau.
+
+113
+00:08:57,220 --> 00:09:06,530
+Mir ist aufgefallen, dass ich in den letzten Wochen häufiger Stuhlgang habe.
+
+114
+00:09:06,530 --> 00:09:10,530
+Aber jetzt habe ich häufiger Durchfall.
+
+115
+00:09:10,530 --> 00:09:13,780
+Durchfall.
+
+116
+00:09:13,780 --> 00:09:19,780
+Können wir sagen, Ihre Stuhlgewohnheiten verändert sind?
+
+117
+00:09:19,780 --> 00:09:21,780
+Ja, haben sich verändert.
+
+118
+00:09:21,780 --> 00:09:23,780
+Früher nur einmal am Tag.
+
+119
+00:09:23,780 --> 00:09:27,780
+Jetzt habe ich manchmal 4-5 Mal Stuhlgang am Tag.
+
+120
+00:09:27,780 --> 00:09:31,780
+Und müssen Sie auch nachts auf die Toilette gehen?
+
+121
+00:09:31,780 --> 00:09:33,780
+Nichts.
+
+122
+00:09:33,780 --> 00:09:41,140
+Seit wann haben Sie diese Beschwerden?
+
+123
+00:09:41,140 --> 00:09:45,140
+Seit einigen Wochen.
+
+124
+00:09:45,140 --> 00:09:47,140
+Seit 3-4 Wochen.
+
+125
+00:09:47,140 --> 00:09:55,140
+Können Sie bitte die Konsistenz und Farbe des Stuhls beschreiben?
+
+126
+00:09:55,140 --> 00:09:57,140
+Ist das normal?
+
+127
+00:09:57,140 --> 00:09:59,140
+Farbe ist normal.
+
+128
+00:09:59,140 --> 00:10:01,140
+Und wie gesagt, der ist weich.
+
+129
+00:10:01,140 --> 00:10:03,140
+Weich.
+
+130
+00:10:03,140 --> 00:10:05,140
+Weich bis dünn.
+
+131
+00:10:05,140 --> 00:10:07,140
+Und ist Ihnen Blut im Stuhl aufgefallen?
+
+132
+00:10:07,140 --> 00:10:09,140
+Nein.
+
+133
+00:10:09,140 --> 00:10:14,800
+Kommt es zu Beschwerden beim Wasserlassen?
+
+134
+00:10:14,800 --> 00:10:21,040
+Nein, ich habe aber immer Probleme schon gehabt mit der Blase.
+
+135
+00:10:21,040 --> 00:10:25,040
+Als Kind schon hatte ich häufig Blasenentzündungen.
+
+136
+00:10:25,040 --> 00:10:31,040
+Und auch Nierenbeckenentzündungen hatte ich schon zuletzt vor 3 Jahren.
+
+137
+00:10:31,040 --> 00:10:35,040
+Deswegen bin ich regelmäßig beim Urologen.
+
+138
+00:10:35,040 --> 00:10:45,040
+Und da war vor 8 Wochen eine große Untersuchung mit Ultraschall und mit Computertomographie.
+
+139
+00:10:45,040 --> 00:10:47,040
+Das war vor 8 Wochen.
+
+140
+00:10:47,040 --> 00:10:49,040
+8 Wochen.
+
+141
+00:10:49,040 --> 00:10:53,040
+Sie haben regelmäßige Infektionen.
+
+142
+00:10:53,040 --> 00:10:59,040
+Ja, da sollte die Niere nochmal genau untersucht werden und so weiter.
+
+143
+00:10:59,040 --> 00:11:03,040
+Und wurde bei Ihnen eine Diagnose festgestellt?
+
+144
+00:11:03,040 --> 00:11:11,040
+Ja, ich habe eben schon eine chronische Nierenbeckenentzündung.
+
+145
+00:11:11,040 --> 00:11:13,040
+Die habe ich.
+
+146
+00:11:13,040 --> 00:11:15,040
+Und da muss ich dann immer auch sehr aufpassen.
+
+147
+00:11:15,040 --> 00:11:21,040
+Und wie gesagt, einmal im Jahr muss ich schon zum Urologen zur Kontrolle.
+
+148
+00:11:21,040 --> 00:11:29,040
+Und nehmen Sie aufgrund dieser Erkrankung eine Medikament?
+
+149
+00:11:29,040 --> 00:11:33,040
+Nein, im Augenblick nicht.
+
+150
+00:11:33,040 --> 00:11:37,040
+Aber ich hatte vor 3 Jahren eine Nierenbeckenentzündung.
+
+151
+00:11:37,040 --> 00:11:41,040
+Und da musste ich einige Zeit Antibiotika nehmen.
+
+152
+00:11:41,040 --> 00:11:43,040
+Aber das war vor 3 Jahren.
+
+153
+00:11:43,040 --> 00:11:47,040
+Ok, Frau Meyerhoff.
+
+154
+00:11:47,040 --> 00:11:53,040
+Gibt es in Ihren Körpereignissen etwas Erkrankungen?
+
+155
+00:11:53,040 --> 00:11:59,040
+Leitet es sich bei einer chronischen Erkrankung bekannt?
+
+156
+00:11:59,040 --> 00:12:07,040
+Einmal die Blasenentzündungen und dann das allergische Asthma.
+
+157
+00:12:07,040 --> 00:12:09,040
+Ja, genau.
+
+158
+00:12:09,040 --> 00:12:13,040
+Das allergische auf Hausstaub und auf Pollen.
+
+159
+00:12:13,040 --> 00:12:15,040
+Besonders so im Frühjahr, April, Mai.
+
+160
+00:12:15,040 --> 00:12:17,040
+Da habe ich besonders Probleme.
+
+161
+00:12:17,040 --> 00:12:21,040
+Aber auch wegen Hausstaub häufig im Winter.
+
+162
+00:12:21,040 --> 00:12:23,040
+Da muss ich dann Spray nehmen.
+
+163
+00:12:23,040 --> 00:12:25,040
+Zwei verschiedene Sprays.
+
+164
+00:12:25,040 --> 00:12:29,040
+Beide Spray nehmen Sie ein?
+
+165
+00:12:29,040 --> 00:12:31,040
+Ich nehme einmal Vianni.
+
+166
+00:12:31,040 --> 00:12:33,040
+Schreibt Vianni.
+
+167
+00:12:33,040 --> 00:12:35,040
+Mit W oder V?
+
+168
+00:12:35,040 --> 00:12:37,040
+V.
+
+169
+00:12:37,040 --> 00:12:39,040
+V-I-A-N-I.
+
+170
+00:12:39,040 --> 00:12:41,040
+Vianni.
+
+171
+00:12:41,040 --> 00:12:43,040
+Nehm ich 2x am Tag.
+
+172
+00:12:43,040 --> 00:12:47,040
+Und bei Bedarf nehme ich auch noch einmal Berodual.
+
+173
+00:12:47,040 --> 00:12:49,040
+Berodual.
+
+174
+00:12:49,040 --> 00:12:51,040
+Tablette?
+
+175
+00:12:51,040 --> 00:12:53,040
+Nein, als Spray.
+
+176
+00:12:53,040 --> 00:12:55,040
+Bei Bedarf.
+
+177
+00:12:55,040 --> 00:12:57,040
+Und noch andere?
+
+178
+00:12:57,040 --> 00:12:59,040
+Nein, sonst nehme ich nichts anderes.
+
+179
+00:12:59,040 --> 00:13:01,040
+Nein.
+
+180
+00:13:01,040 --> 00:13:08,340
+Ist Ihre Leztesheit eine Operation?
+
+181
+00:13:08,340 --> 00:13:12,340
+Sind Sie schon einmal operiert worden?
+
+182
+00:13:12,340 --> 00:13:14,340
+Ja, operiert worden bin ich schon.
+
+183
+00:13:14,340 --> 00:13:18,340
+Als Kind wurden meine Mandeln entfernt.
+
+184
+00:13:18,340 --> 00:13:24,340
+Dann hatte ich vor 10 Jahren eine Operation an den Kieferhöhlen.
+
+185
+00:13:24,340 --> 00:13:30,340
+Weil ich immer Entzündungen hatte in den Kieferhöhlen.
+
+186
+00:13:30,340 --> 00:13:36,340
+Dann hat man eventuell gesagt, das hängt auch mit dem Asthma zusammen.
+
+187
+00:13:36,340 --> 00:13:42,340
+Nach der Operation wurde das Asthma etwas besser.
+
+188
+00:13:42,340 --> 00:13:46,340
+Aber es ging nie ganz weg.
+
+189
+00:13:46,340 --> 00:13:50,340
+Dann hatte ich noch einen Kaiserschnitt.
+
+190
+00:13:50,340 --> 00:13:54,340
+Das war vor 20 Jahren.
+
+191
+00:13:54,340 --> 00:14:00,990
+Bei der Geburt der Tochter.
+
+192
+00:14:00,990 --> 00:14:04,990
+Und waren die Operationen problemlos?
+
+193
+00:14:04,990 --> 00:14:06,990
+Ja.
+
+194
+00:14:06,990 --> 00:14:10,990
+Sie haben gesagt, Sie haben Halsstab- und Polenallergie.
+
+195
+00:14:10,990 --> 00:14:12,990
+Wie äußert sich Ihre Allergie?
+
+196
+00:14:12,990 --> 00:14:16,990
+Luftnot, Husten, Reizhusten.
+
+197
+00:14:16,990 --> 00:14:22,990
+Manchmal sind auch die Augen und die Nasenschleimhaut geschwollen.
+
+198
+00:14:22,990 --> 00:14:26,990
+Hauptsächlich ist es in den Bronchen, Atemwege.
+
+199
+00:14:26,990 --> 00:14:28,990
+Husten und Atemnot.
+
+200
+00:14:28,990 --> 00:14:32,990
+Und haben Sie Unverzächtlichkeiten?
+
+201
+00:14:32,990 --> 00:14:36,990
+Sind mir nicht bekannt.
+
+202
+00:14:36,990 --> 00:14:40,990
+Frau Mehrhoff, brauchen Sie?
+
+203
+00:14:40,990 --> 00:14:42,990
+Nein.
+
+204
+00:14:42,990 --> 00:14:44,990
+Wegen dem Asthma rauche ich nicht.
+
+205
+00:14:44,990 --> 00:14:46,990
+Ich habe noch nie geraucht.
+
+206
+00:14:46,990 --> 00:14:50,990
+Das ist eine gute Entscheidung für Ihre Gesundheit.
+
+207
+00:14:50,990 --> 00:14:52,990
+Trinken Sie Alkohol?
+
+208
+00:14:52,990 --> 00:14:59,520
+Ich trinke ein bis zwei Glas Wein pro Woche.
+
+209
+00:14:59,520 --> 00:15:03,520
+Eine Routinefrage.
+
+210
+00:15:03,520 --> 00:15:07,520
+Frau Mehrhoff, nehmen Sie Sie nicht persönlich?
+
+211
+00:15:07,520 --> 00:15:09,520
+Nein.
+
+212
+00:15:09,520 --> 00:15:15,520
+Gibt es in Ihrer Familie eine große Erkrankung?
+
+213
+00:15:15,520 --> 00:15:19,520
+Mein Vater ist 82 Jahre alt.
+
+214
+00:15:19,520 --> 00:15:23,520
+Er hat hohen Blutdruck.
+
+215
+00:15:23,520 --> 00:15:27,520
+Die Mutter ist 81 Jahre alt.
+
+216
+00:15:27,520 --> 00:15:29,520
+Sie hat auch Asthma.
+
+217
+00:15:29,520 --> 00:15:37,460
+Und dann habe ich noch eine Schwester.
+
+218
+00:15:37,460 --> 00:15:41,460
+Sie ist 46 Jahre alt.
+
+219
+00:15:41,460 --> 00:15:45,460
+Sie leidet ebenfalls unter Asthma.
+
+220
+00:15:45,460 --> 00:15:49,460
+Wir haben viel Asthma in der Familie.
+
+221
+00:15:49,460 --> 00:15:51,460
+Genau.
+
+222
+00:15:51,460 --> 00:15:53,460
+Sorry, ich verpasst.
+
+223
+00:15:53,460 --> 00:15:57,460
+Wie alt sind Ihre Eltern?
+
+224
+00:15:57,460 --> 00:16:01,460
+Der Vater ist 82 Jahre alt und die Mutter 81.
+
+225
+00:16:01,460 --> 00:16:10,210
+Was ist Ihr Beruf?
+
+226
+00:16:10,210 --> 00:16:14,210
+Ich arbeite bei einem Steuerberater.
+
+227
+00:16:14,210 --> 00:16:18,210
+Als Sekretärin.
+
+228
+00:16:18,210 --> 00:16:22,210
+Die Steuerberaterin.
+
+229
+00:16:22,210 --> 00:16:28,540
+Als Sekretärin.
+
+230
+00:16:28,540 --> 00:16:34,110
+Haben Sie Stress bei der Arbeit?
+
+231
+00:16:34,110 --> 00:16:38,110
+Nein, die Arbeit ist anstrengend.
+
+232
+00:16:38,110 --> 00:16:44,700
+Aber sie macht mir Spaß.
+
+233
+00:16:44,700 --> 00:16:48,700
+Wohnt Ihr Haus in einer anderen Stadt?
+
+234
+00:16:48,700 --> 00:16:52,700
+Nein, ich wohne mit meinem Mann zusammen.
+
+235
+00:16:52,700 --> 00:16:56,700
+Die Tochter ist 20 Jahre alt.
+
+236
+00:16:56,700 --> 00:17:00,700
+Sie studiert in einer anderen Stadt.
+
+237
+00:17:00,700 --> 00:17:10,270
+Sind Sie vollständig geimpft?
+
+238
+00:17:10,270 --> 00:17:14,270
+Ja.
+
+239
+00:17:14,270 --> 00:17:18,270
+Meine Hausärztin achtet darauf, dass meine Impfungen aktuell sind.
+
+240
+00:17:18,270 --> 00:17:22,270
+Treiben Sie regelmäßig Sport?
+
+241
+00:17:22,270 --> 00:17:26,270
+Nein, früher habe ich Handball gespielt.
+
+242
+00:17:26,270 --> 00:17:30,270
+Aber das habe ich seit einigen Jahren nicht mehr gemacht.
+
+243
+00:17:30,270 --> 00:17:34,270
+Das sollte ich mehr machen.
+
+244
+00:17:34,270 --> 00:17:38,270
+Vor einigen Jahren.
+
+245
+00:17:38,270 --> 00:17:42,270
+Waren Sie in letzter Zeit im Ausland?
+
+246
+00:17:42,270 --> 00:17:47,740
+Ich war auf einer Kreuzfahrt in der Karibik.
+
+247
+00:17:47,740 --> 00:17:51,740
+Vor sechs Monaten.
+
+248
+00:17:51,740 --> 00:17:55,740
+Die Kreuzfahrt dauerte zehn Tage.
+
+249
+00:17:55,740 --> 00:17:59,740
+Aber da ging es mir gut.
+
+250
+00:17:59,740 --> 00:18:03,740
+Ich bin meiner Frage fertig.
+
+251
+00:18:03,740 --> 00:18:07,740
+Haben Sie eine Frage?
+
+252
+00:18:07,740 --> 00:18:11,740
+Ja, was kann das sein?
+
+253
+00:18:11,740 --> 00:18:15,740
+Woher kommt das?
+
+254
+00:18:15,740 --> 00:18:19,740
+Es ist zu früh, etwas genauer zu sagen.
+
+255
+00:18:19,740 --> 00:18:23,740
+Ich werde sie erst untersuchen.
+
+256
+00:18:23,740 --> 00:18:27,740
+Dann wird Blut abgenommen.
+
+257
+00:18:27,740 --> 00:18:31,740
+Wenn es notwendig ist, werde ich weiter Diagnostik durchführen.
+
+258
+00:18:31,740 --> 00:18:41,740
+Sobald die Ergebnisse erfolgen, werde ich Ihnen ausführliche Auskunft geben.
+
+259
+00:18:41,740 --> 00:18:45,740
+Okay.
+
+260
+00:18:45,740 --> 00:18:49,740
+Sie haben eine Minute Zeit, sich vorzubereiten.
+
+261
+00:18:49,740 --> 00:18:55,740
+Übersetzen Sie die Patientensprache in medizinische Sprache.
+
+262
+00:18:55,740 --> 00:19:01,740
+Vielleicht haben Sie noch Ergänzungsfragen.
+
+263
+00:19:01,740 --> 00:19:19,300
+Der Kollege hat das Wesentliche gefragt.
+
+264
+00:19:19,300 --> 00:19:29,330
+Ich finde, es ist alles verstanden worden.
+
+265
+00:19:29,330 --> 00:19:33,330
+Gibt es Verständnisfragen zu Medikamenten?
+
+266
+00:19:33,330 --> 00:19:37,330
+So viele Medikamente nimmt die Patientin nicht.
+
+267
+00:19:37,330 --> 00:19:50,900
+Wenn keine Fragen sind, lasse ich Sie einige Minuten in Ruhe.
+
+268
+00:19:50,900 --> 00:19:54,900
+Damit Sie sich konzentrieren können.
+
+269
+00:19:54,900 --> 00:22:32,300
+Ich bin gleich wieder.
+
+270
+00:22:32,300 --> 00:22:45,840
+Herr Professor, ich habe einen neuen Patienten aufgenommen.
+
+271
+00:22:45,840 --> 00:22:51,840
+Ich wollte Ihnen vorstellen, hatten Sie etwas Zeit?
+
+272
+00:22:51,840 --> 00:22:55,840
+Ja.
+
+273
+00:22:55,840 --> 00:22:59,840
+Frau Susanne Meyerhof ist 48 Jahre alt.
+
+274
+00:22:59,840 --> 00:23:05,840
+Sie ist am 12.10.1978 geboren.
+
+275
+00:23:05,840 --> 00:23:13,840
+Sie ist 57 Kilo schwer und 1,69 Meter groß.
+
+276
+00:23:13,840 --> 00:23:25,840
+Sie steilte sich heute bei uns mit seit 3 bis 4 Wochen bestehender Fatigue vor.
+
+277
+00:24:02,270 --> 00:24:08,270
+Sie klagte über vermehrte Agitiertheit.
+
+278
+00:24:08,270 --> 00:24:18,480
+Früher haben die Patienten keine ähnliche Beschwerden.
+
+279
+00:24:18,480 --> 00:24:26,480
+Aufgrund dieser Beschwerden haben die Patienten keinen Arzt aufgesucht.
+
+280
+00:24:26,480 --> 00:24:32,480
+Zusätzlich behält das Patient über Hyperhydrose.
+
+281
+00:24:32,480 --> 00:24:36,480
+Sowohl tagsüber als auch nachts.
+
+282
+00:24:36,480 --> 00:24:40,480
+Polyphagie.
+
+283
+00:24:40,480 --> 00:24:46,480
+Gewiss Verlust von 4 Kilo innerhalb von 4 Wochen.
+
+284
+00:24:46,480 --> 00:24:54,480
+Und seit 3 bis 4 Wochen bestehende Diarrhea.
+
+285
+00:24:54,480 --> 00:25:02,480
+Diese Diarrhea besteht täglich 4 bis 5 Mal.
+
+286
+00:25:02,480 --> 00:25:12,480
+Die Fragen nach Dyspnose, Emesis, Fieber, Bewusstlosigkeit sind verneint.
+
+287
+00:25:12,480 --> 00:25:20,480
+Außerdem klagt die Patientin über Palpitations- und Insomni.
+
+288
+00:25:20,480 --> 00:25:30,480
+Wegen der schwitzen.
+
+289
+00:25:30,480 --> 00:25:40,480
+Ergänzend führe die Patienten ihre Hautwärme als Sonne.
+
+290
+00:25:40,480 --> 00:25:56,510
+Vor Erkrankungen ist erwähnt, dass die Patienten leider an Asthma.
+
+291
+00:25:56,510 --> 00:26:08,510
+Zusätzlich haben die Patienten wiederkehrende Handwerksinfektionen.
+
+292
+00:26:08,510 --> 00:26:28,510
+In der Vorgeschichte berichtet die Patientin über rezidivierende Infektionen.
+
+293
+00:26:28,510 --> 00:26:34,510
+Zystitis.
+
+294
+00:26:34,510 --> 00:26:40,510
+Und Nierenbeckenentzündung.
+
+295
+00:26:40,510 --> 00:26:44,510
+Wie heißt das?
+
+296
+00:26:44,510 --> 00:26:48,510
+Pyelonephritis.
+
+297
+00:26:48,510 --> 00:26:52,510
+Wann war die letzte Nierenbeckenentzündung?
+
+298
+00:26:52,510 --> 00:26:58,510
+Vor 8 Wochen?
+
+299
+00:26:58,510 --> 00:27:02,510
+Nein, die letzte war vor 3 Jahren.
+
+300
+00:27:02,510 --> 00:27:04,510
+Vor 3 Jahren.
+
+301
+00:27:04,510 --> 00:27:08,510
+Und wurde auch mit Antibiotika behandelt.
+
+302
+00:27:08,510 --> 00:27:10,510
+Was war vor 8 Wochen?
+
+303
+00:27:10,510 --> 00:27:18,510
+Vor 8 Wochen sei eine USG- und CT-Untersuchung durchgeführt worden.
+
+304
+00:27:18,510 --> 00:27:28,510
+Anschließend wurde die Diagnose chronischer Pyelonephritis festgestellt.
+
+305
+00:27:28,510 --> 00:27:34,510
+Vor 8 Wochen wurde eine Computertomographie gemacht?
+
+306
+00:27:34,510 --> 00:27:36,510
+Ja, CT-Untersuchung.
+
+307
+00:27:36,510 --> 00:27:42,510
+Wissen Sie, ob die Patientin da ein Kontrastmittel bekommen hat?
+
+308
+00:27:42,510 --> 00:27:48,510
+Nein, während der Körperentzündung.
+
+309
+00:27:48,510 --> 00:27:56,140
+Also die Patientin hat bei der Untersuchung ein Kontrastmittel bekommen.
+
+310
+00:27:56,140 --> 00:27:58,140
+Können Sie mir noch etwas zu dem Asthma sagen?
+
+311
+00:27:58,140 --> 00:28:02,140
+Sie haben gesagt, sie leidet unter allergischem Asthma.
+
+312
+00:28:02,140 --> 00:28:06,140
+Was ist das für ein Asthma?
+
+313
+00:28:06,140 --> 00:28:12,140
+Die Patienten sind allergisch gegen Halsstab und Polen.
+
+314
+00:28:12,140 --> 00:28:16,140
+Sagen Sie ruhig allergisches Asthma-Bronchiale.
+
+315
+00:28:16,140 --> 00:28:20,140
+Es gibt ja auch ein Asthma-Kardiale.
+
+316
+00:28:20,140 --> 00:28:24,140
+Sehr selten. Häufig ist Asthma-Bronchiale.
+
+317
+00:28:24,140 --> 00:28:26,140
+Sagen Sie ruhig den kompletten Begriff.
+
+318
+00:28:26,140 --> 00:28:28,140
+Asthma-Bronchiale.
+
+319
+00:28:28,140 --> 00:28:34,140
+Es besteht eine Allergie auf Hausstauppmilbe und Polen.
+
+320
+00:28:34,140 --> 00:28:38,140
+Wird das behandelt?
+
+321
+00:28:38,140 --> 00:28:49,840
+Aufgrund dieser Erkrankung nehme ich die Patient Spray und zwei verschiedene Spray.
+
+322
+00:28:49,840 --> 00:28:53,840
+Einer von diesen Spray regelmäßig zweimal täglich.
+
+323
+00:28:53,840 --> 00:28:55,840
+Wie heißt das Präparat?
+
+324
+00:28:55,840 --> 00:28:57,840
+Viani.
+
+325
+00:28:57,840 --> 00:29:03,840
+Viani ist ein Präparat, das auch ein Cortison enthält.
+
+326
+00:29:03,840 --> 00:29:08,840
+Also Viani zweimal pro Tag und das andere, wie heißt das?
+
+327
+00:29:08,840 --> 00:29:10,840
+Andere Berodualis.
+
+328
+00:29:10,840 --> 00:29:12,840
+Berodualis. Okay. Gut.
+
+329
+00:29:12,840 --> 00:29:25,840
+Wir haben als chronische Erkrankungen in der Kindheit schon rezidivierende Zystetiden und auch wohl Pyrolonephritiden.
+
+330
+00:29:25,840 --> 00:29:30,840
+Im Sinne einer leider jetzt chronischen Pyolonephritis.
+
+331
+00:29:30,840 --> 00:29:35,840
+Deswegen ist die Patientin regelmäßig auch in urologischer Kontrolle.
+
+332
+00:29:35,840 --> 00:29:37,840
+Genau.
+
+333
+00:29:38,840 --> 00:29:45,840
+Letzte große Untersuchung vor acht Wochen mit CT und Kontrastmittel.
+
+334
+00:29:45,840 --> 00:29:47,840
+Wo ist das denn?
+
+335
+00:29:47,840 --> 00:29:51,840
+Können Sie mir etwas über Operationen sagen?
+
+336
+00:29:51,840 --> 00:29:59,840
+Als Kind sei bei Frau Meyerhof eine Tosilektomie durchgeführt worden.
+
+337
+00:29:59,840 --> 00:30:07,840
+Vor 20 Jahren wurde eine Tosilektomie durchgeführt.
+
+338
+00:30:07,840 --> 00:30:10,840
+Was noch für eine Operation?
+
+339
+00:30:10,840 --> 00:30:18,840
+Vor zehn Jahren eine Operation im Sinusitis.
+
+340
+00:30:18,840 --> 00:30:24,840
+Sinusitis? Eine Sinusitis-OP. Wahrscheinlich eine Fensterung der Kieferhöhle.
+
+341
+00:30:24,840 --> 00:30:28,840
+Warum? Was hatte die Patientin vorher?
+
+342
+00:30:28,840 --> 00:30:41,840
+Aufgrund allergischer Probleme hat die Patientin regelmäßig auch rezidivierende Erkrankungen.
+
+343
+00:30:41,840 --> 00:30:48,840
+Die Patientin hatte gesagt, sie hatte eine Entzündung in den Kieferhöhlen.
+
+344
+00:30:48,840 --> 00:30:52,840
+Wie nennen wir das? Die Diagnose Entzündung der Kieferhöhle?
+
+345
+00:30:53,840 --> 00:31:00,840
+Sinusitis. Rezidivierende Sinusitis oder Sinusitiden.
+
+346
+00:31:00,840 --> 00:31:04,840
+Deswegen wurde eine Operation durchgeführt.
+
+347
+00:31:04,840 --> 00:31:10,840
+Man macht wahrscheinlich eine Fensterung der Kieferhöhle, damit der Schleim besser abläuft.
+
+348
+00:31:10,840 --> 00:31:16,840
+Das ist das Ziel dahinter. Ob es immer was hilft, weiß ich nicht.
+
+349
+00:31:16,840 --> 00:31:19,840
+Gut, das waren die Operationen.
+
+350
+00:31:19,840 --> 00:31:22,840
+Können Sie mir etwas zur Familie sagen?
+
+351
+00:31:22,840 --> 00:31:30,840
+Der Vater ist leider an Artelehypertonie und die Mutter leider an Bronchiale.
+
+352
+00:31:30,840 --> 00:31:32,840
+Wie alt ist der Vater?
+
+353
+00:31:32,840 --> 00:31:38,840
+Der Vater ist 82 Jahre alt und die Mutter 81.
+
+354
+00:31:38,840 --> 00:31:41,840
+Der Vater an Artelehypertonie und die Mutter?
+
+355
+00:31:41,840 --> 00:31:45,840
+Die Mutter leider an Artelehypertonie.
+
+356
+00:31:45,840 --> 00:31:47,840
+Gibt es Geschwister?
+
+357
+00:31:48,840 --> 00:31:59,840
+Frau Meyerhoff hat eine Schwester, die 58 Jahre alt ist und an Arte Bronchiale.
+
+358
+00:31:59,840 --> 00:32:02,840
+58 Jahre glaube ich nicht.
+
+359
+00:32:02,840 --> 00:32:08,840
+Dann wären die Eltern sehr jung. Ich glaube, die Schwester ist etwas jünger als Frau Meyerhoff.
+
+360
+00:32:08,840 --> 00:32:11,840
+Frau Meyerhoff ist 48 Jahre alt.
+
+361
+00:32:11,840 --> 00:32:14,840
+Ich glaube, 46 oder 47.
+
+362
+00:32:14,840 --> 00:32:21,840
+Gut, spannend. Jetzt erzählen Sie mir, was Ihre Verdachtsdiagnose ist.
+
+363
+00:32:21,840 --> 00:32:29,840
+Meine Verdachtsdiagnose lautet Hyperthyriose.
+
+364
+00:32:29,840 --> 00:32:34,840
+Hyperthyriose, ja.
+
+365
+00:32:34,840 --> 00:32:37,840
+Warum?
+
+366
+00:32:37,840 --> 00:32:39,840
+Warum?
+
+367
+00:32:39,840 --> 00:32:41,840
+Warum?
+
+368
+00:32:41,840 --> 00:32:52,840
+Der Patient hat Palpitations- und Ruhe-Tremor und Gewichtverlust.
+
+369
+00:32:52,840 --> 00:32:55,840
+Diarrhea, Gewichtverlust, Breitzeit, ja.
+
+370
+00:32:55,840 --> 00:33:10,890
+Aber warum? Was ist die Ursache der Hyperthyriose? Was kann die Ursache sein?
+
+371
+00:33:10,890 --> 00:33:15,890
+Denken Sie an die urologische Untersuchung.
+
+372
+00:33:15,890 --> 00:33:18,890
+Sie ist unterdrückt mit Kontrastmittel.
+
+373
+00:33:18,890 --> 00:33:23,890
+Ja, wahrscheinlich. Und wir wissen im Augenblick noch nicht genau, was für ein Kontrastmittel das war.
+
+374
+00:33:23,890 --> 00:33:29,890
+Leider, oder es gibt ja immer wieder, es gibt Kontrastmittel natürlich, die Jod enthalten.
+
+375
+00:33:29,890 --> 00:33:41,890
+Und man kann davon ausgehen, dass die Hyperthyriose ausgelöst worden ist durch diese Computer-Termografie mit Kontrastmittel.
+
+376
+00:33:41,890 --> 00:33:43,890
+Das ist eine Vermutung.
+
+377
+00:33:43,890 --> 00:33:48,890
+Ich kann es nicht beweisen, aber der Verdacht liegt sehr nahe.
+
+378
+00:33:48,890 --> 00:33:54,890
+Eine Hyperthyriosis-Faktizia durch Kontrastmittel.
+
+379
+00:33:54,890 --> 00:33:58,890
+Und von der Zeit her kann das ja hinkommen.
+
+380
+00:33:58,890 --> 00:34:04,890
+Vor acht Wochen war diese Untersuchung. Seit ungefähr vier, drei, vier Wochen geht es der Patienten nicht so gut.
+
+381
+00:34:04,890 --> 00:34:08,890
+Da kann sich schon eine Hyperthyriose entwickelt haben.
+
+382
+00:34:08,890 --> 00:34:14,890
+Klinische Symptomatik spricht ja für eine Hyperthyriose.
+
+383
+00:34:14,890 --> 00:34:18,890
+Mit diesen klassischen Zeichen.
+
+384
+00:34:18,890 --> 00:34:22,890
+Manchmal sind sie nicht immer vorhanden oder fehlen.
+
+385
+00:34:22,890 --> 00:34:25,890
+Manchmal weiß man es auch nicht genau.
+
+386
+00:34:25,890 --> 00:34:32,890
+Aber gut, daran muss man jetzt ebenfalls denken, dass es ein Verdacht auf eine Hyperthyriose ist.
+
+387
+00:34:32,890 --> 00:34:37,890
+Ich finde, das haben Sie gut gemacht. Ich habe Sie sehr gut verstanden.
+
+388
+00:34:37,890 --> 00:34:40,890
+Sie haben auch die Fachbegriffe.
+
+389
+00:34:40,890 --> 00:34:45,890
+Sie können sie gut. Sie haben die Fragen sehr ruhig und systematisch gestellt.
+
+390
+00:34:45,890 --> 00:34:55,890
+Sie haben sich nicht aus dem Konzept bringen lassen, weil manchmal ja der Prüfer etwas ungeduldig ist.
+
+391
+00:34:55,890 --> 00:35:00,890
+Er stellt plötzlich eine andere Frage oder so. Das haben Sie aber gut gemacht.
+
+392
+00:35:00,890 --> 00:35:08,890
+Sehr gut. Und wie gesagt, die Begriffe können Sie gut.
+
+393
+00:35:08,890 --> 00:35:13,890
+Da habe ich gar kein Problem. Auch finde ich die Grammatik war gut.
+
+394
+00:35:13,890 --> 00:35:22,890
+Bilden Sie einfache Sätze. Das ist im Deutsch immer einfacher, als wenn man einen komplizierten Satz macht.
+
+395
+00:35:22,890 --> 00:35:32,890
+Hier wird das ja auch nochmal zusammengefasst von jemandem, was eben für die Hyperthyriose spricht.
+
+396
+00:35:32,890 --> 00:35:37,890
+Wann haben Sie denn Ihre Prüfung?
+
+397
+00:35:37,890 --> 00:35:42,890
+Nach 10 Tagen.
+
+398
+00:35:42,890 --> 00:35:44,890
+In 10 Tagen, ja.
+
+399
+00:35:44,890 --> 00:35:49,890
+Am 27. Oktober in Karlsruhe.
+
+400
+00:35:49,890 --> 00:35:54,890
+Schön. Gut. Ich habe ein gutes Gefühl. Das werden Sie gut schaffen.
+
+401
+00:35:54,890 --> 00:35:57,890
+Ich hoffe auch. Danke schön.
+
+402
+00:35:57,890 --> 00:36:08,890
+Gut. Dann würde ich sagen, da ich noch weiter etwas auf Reisen bin, würde ich sagen, der nächste Termin wieder in zwei Wochen.
+
+403
+00:36:08,890 --> 00:36:14,890
+Sie brauchen nicht mehr mit mir trainieren. Sie können das gut. Sie kriegen das hin. Sie bekommen das gut hin.
+
+404
+00:36:14,890 --> 00:36:22,890
+Und dann, wenn die anderen Kollegen einverstanden sind, sagen wir wieder in zwei Wochen um 18 Uhr.
+
+405
+00:36:22,890 --> 00:36:26,890
+Dann wünsche ich Ihnen alles Gute und Ihnen viel Erfolg für die Prüfung.
+
+406
+00:36:26,890 --> 00:36:30,890
+Danke schön. Tschüss. Tschüss.
